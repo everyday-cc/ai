@@ -38,15 +38,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Quest Diagnostics and Paige Form Collaboration to Advance AI-generated Pathology Insights to Improve Cancer Diagnosis and Care"
-    excerpt: "Quest Diagnostics (NYSE:DGX) and Paige today announced a collaboration designed to unlock the potential of artificial intelligence (AI) to improve and speed the diagnosis of cancer and other diseases that rely on pathologic assessment."
-    publishedDateTime: 2021-05-25T13:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-quest-diagnostics-paige-form-collaboration-advance-ai-generated-/2021/05/25/9377160.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "+3IHQ+VufL+g6KuCfgWhWn8MF/pu3m/gTtrBkCYUfOe1kSdhR5+UVy73k74DGWrGIuBJzWVUAd6Mnah/9+GyDaZ8DGz3nTMwKDbzCRfs/P4r65DOp6FA0vXE1ZOS4edVairHxtNQnwoVoUWj3BwdesUKUjYUWaPiZ8m0q9Oq5YLhv+uUvSGy9LM/XzmurQCqTfgdaIjMVfeiAbuBDowkWvhCKh2c/spY42HRpptHHDgEBd+wu/ll4cczD0hcbbcqc96c5pyB6T93ZD0K4IJ56PjVGawfr6iAykcN2Ic+ZiDquXG1lZnsG1Oo5gs1vcg8rh4oRTqv4kSAq6IxiMnX3Oq3gyFZL+n5n3BxXgFB/16GRdgBkzzBIThjAmwAxXwGpvozJIMWC8MPoTQZ/PvYhRCeoWZc8pe0JDxAo3K8RZ+q3hfn3A5laXG0Fs+sG97tvZeckWyze5bIDEKE+uvy68iDKVSkG5yCD8zpt7GdYUJBIoWKCpMMarb4IHGaX+38JMDkP88rZxweqnM7DW5VAA==;ZOlRrc4EPewrNUdhkRN1GA=="
 ---

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deeplite accelerates time-to-market for AI applications to run on edge devices"
+    excerpt: "In today's world of computer vision AI, there is a significant challenge of running AI models on the limited compute power of edge device chipsets, as they are typically too large, process heavy and consume significant power."
+    publishedDateTime: 2021-05-28T01:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20210527PR201.html?chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20210527PR201_files/2_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
   - title: "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge"
     excerpt: "Deeplite Profiler – a tool to measure the performance of a deep learning model easily and effectively in both PyTorch and TensorFlow 1.x frameworks. Members can utilize existing metrics or create their own custom metrics. In addition, performance can be ..."
     publishedDateTime: 2021-05-27T12:11:00Z

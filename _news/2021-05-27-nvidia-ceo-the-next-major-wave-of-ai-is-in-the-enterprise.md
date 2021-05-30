@@ -41,6 +41,20 @@ related:
         width: 937
         height: 592
         isCached: true
+  - title: "How Nvidia plans to own the data center with AI"
+    excerpt: "Nvidia Corp. wants to transform enterprise computing completely by making data centers run 10 times faster at one-10th the cost. Nvidia Chief Executive Jensen Huang (pictured) is crafting a strategy to re-architect today’s on-premises data centers,"
+    publishedDateTime: 2021-05-29T18:37:00Z
+    webUrl: "https://siliconangle.com/2021/05/29/nvidia-plans-data-center-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/04/huanggtc2016.jpg"
+        width: 819
+        height: 546
+        isCached: true
 
 secured: "rVtjJYnTLyBlFBQXi8tcvn5iuCOv6SGbskOvyrQ39yjrMuAitAuaxMfDIN2Q8AizUovR0I1RiU3Wvku/UTI1EmcWUcywnWlc5ukW56tRz/YMy5JhWKyLmPVOcaOGbo2O+VL+jaF8Q3U4olcZmRxwYfez3NlvX8SQGrYQ3s5OMNjfSsmnGh/W5eaLkgVAeeEPkghZm5L6drU3zWnBixOeiirhny26ImnegChQJ2RF3ZEAynd9q1rDJFrPf0SSVVUHT++HRQXlaGGFNch5Q1SzRuZxIM9EAbsQwLhF1byTJ7ItAZQpC18/x+0ILV5cXKH2FrAZEgDSNjehECpn43R/YGoT/0No3jkHiCFyxz5GlxkV5beId7OT54aB9jNLQnxTVtn22LBQ2yRlqN2E+ZlIsQphNeLDKofZLNuxRqycxgh/e5Vq7ZxxLrznF+0whE/LTeep+IHvlanxkK2UjD3vLGBnBQzzm8oEN0G4XxdrBEHNaFu3SGJX9wOBy1jD08bfF7opKgxrB3aG35kuggKXjw==;by3Yn+W3CwxcxI3BZ4HmWg=="
 ---

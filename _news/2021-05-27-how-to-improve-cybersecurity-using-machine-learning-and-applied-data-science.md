@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "RSA 2021: Can Artificial Intelligence Play a Role in Cybersecurity?"
-    excerpt: "AI is becoming an increasingly common tool to defend against cyberattacks. But is it being employed by cybercriminals as well? AT RSA 2021, we spoke with thought leaders about the use of AI in both offensive and defensive tactics."
-    publishedDateTime: 2021-05-25T13:29:00Z
-    webUrl: "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity"
-    ampWebUrl: "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/RSA%202021%20Thumbnail%20Video%205.jpg?itok=hnNwWiyE"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "RSA Conference Startup Competition Showcases Next Gen Cybersecurity"
     excerpt: "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world."
     publishedDateTime: 2021-05-26T23:29:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.sify.com/finance/fintech-startup-sentieo-raises-20m-to
 webUrl: "https://www.sify.com/finance/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-news-topnews-vf0kbRfcjjfcb.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered financial research platform Sentieo nabs $20M"
-    excerpt: "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round."
-    publishedDateTime: 2021-05-25T14:36:00Z
-    webUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/"
-    ampWebUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/12/investor-e1621954392410.jpg?fit=800%2C400&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Sentieo : Sentieo Raises $20M Series B Round Following Record Demand for AI-Driven Financial Research Platform"
     excerpt: "Gold prices have jumped more than 10% since the start of April amid a weaker dollar and falling bond yields » SHARE THIS POST Ai NewsMORE Related Stocks Find News"
     publishedDateTime: 2021-05-26T05:42:00Z

@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-powered financial research platform Sentieo nabs $20M"
-    excerpt: "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round."
-    publishedDateTime: 2021-05-25T14:36:00Z
-    webUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/"
-    ampWebUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/12/investor-e1621954392410.jpg?fit=800%2C400&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
     excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital with participation…."
     publishedDateTime: 2021-05-26T10:01:00Z

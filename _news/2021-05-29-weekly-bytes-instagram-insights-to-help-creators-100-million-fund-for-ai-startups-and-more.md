@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/weekly-bytes-instagram-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/weekly-bytes-instagram-insights-to-help-creators-100-million-fund-for-ai-startups-and-more/article34673492.ece/amp/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI launches $100 million startup funded with backing from Microsoft"
+    excerpt: "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft."
+    publishedDateTime: 2021-05-26T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/"
+    ampWebUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Investing in startups with big ideas about AI."
+    excerpt: "The fund is managed by OpenAI, with investment from Microsoft and other OpenAI partners. In addition to capital, companies in the OpenAI Startup Fund will get early access to futu"
+    publishedDateTime: 2021-05-26T16:47:00Z
+    webUrl: "https://openai.com/fund/"
+    type: article
+    provider:
+      name: OpenAI
+      domain: openai.com
+    quality: 39
+    images:
+      - url: "https://openai.com/content/images/2021/05/fund-social.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "OpenAI Launches $100 Mn Fund To Catch AI Startups Young"
     excerpt: "Microsoft acquired an exclusive license to GPT-3 last year, in the wake of its $1 billion investment in OpenAI."
     publishedDateTime: 2021-05-29T09:30:00Z

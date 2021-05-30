@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-a
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Platform
@@ -40,6 +40,20 @@ related:
       - url: "https://www.crn.com/resources/0269-125f3b030706-73bb79955dcc-1000/jensen-huang-nvidia.jpg"
         width: 609
         height: 457
+        isCached: true
+  - title: "How Nvidia plans to own the data center with AI"
+    excerpt: "Nvidia Corp. wants to transform enterprise computing completely by making data centers run 10 times faster at one-10th the cost. Nvidia Chief Executive Jensen Huang (pictured) is crafting a strategy to re-architect today’s on-premises data centers,"
+    publishedDateTime: 2021-05-29T18:37:00Z
+    webUrl: "https://siliconangle.com/2021/05/29/nvidia-plans-data-center-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/04/huanggtc2016.jpg"
+        width: 819
+        height: 546
         isCached: true
 
 secured: "9pZ1/Kp2N5BaqyCSLIVKECnEtCdohv1DgynQothcVTslPUgs8aPU3RTNruW4FqQNpoE+C/0RFmtSPJt5cTE6IKXDDWf4QSE5nlp+luuAS8/3+x+6VXJN7Z8rh2oSZsZU3R5QG5m1lO74GBKCV+Q+EaHt1uHncCFCSfmsJSF+u4UsHHWNZHdqpuPy5PLVLIbsO8VT7uyeGJ8pRLdx9rnqQGO9CgO4Z56l4hgwIXj9+Z8VmjK7wnvGU12lrTxh8XeqZsE9klbn0KpcUtGSYeaODSrr+UNnSRSRjN4dI/kAeHnO3fFCgWY/yqpvPd8bkHsgDZoLY+zVKNHYuips8iKLH5+8XaHl5dyVIErltDy9U/3DfhZ4CRNYYq/2VU9wzw4ryL1GbGe6mjFoBYPZvhMkW5CG7cG61M7xdmgPnB3rhkojf37DniZ+TYGo/c9rorlLZzc7P81FP3+vpE/HuSAp7jkA23I8Zr+pcDDx6QtscQOyuRuOKUxg+m+9TjwAkxnulESlLin4dGBYmt4ncP/4IQ==;iNXljiexj6wqaejwSIKqEA=="

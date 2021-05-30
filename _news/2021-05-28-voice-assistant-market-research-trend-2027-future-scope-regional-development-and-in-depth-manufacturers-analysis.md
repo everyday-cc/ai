@@ -92,17 +92,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
-    publishedDateTime: 2021-05-25T13:53:00Z
-    webUrl: "https://www.openpr.com/news/2290064/artificial-intelligence-in-genomics-market-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 12
   - title: "Global Natural Language Processing Market: 2021 Strategic Plans by Globally Industry Demand, Top Manufacture, Business Growth and Forecast to 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Natural Language Processing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
     publishedDateTime: 2021-05-28T08:35:00Z

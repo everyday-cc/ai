@@ -7,7 +7,7 @@ originalUrl: "https://pocketnow.com/googles-pixel-6-whitechapel-gets-detailed-as
 webUrl: "https://pocketnow.com/googles-pixel-6-whitechapel-gets-detailed-as-sort-of-a-flagship-chip"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1920
     height: 1199
     isCached: true
-
-related:
-  - title: "Pixel 6 Leak Reveals 6.4-Inch 120Hz Display, 5,000 mAh Battery and Whitechapel with Focus On AI and ML"
-    excerpt: "Recently we saw a Pixel 6 render with the redesigned back panel and a dual-color treatment. Like Apple, Google is expected to switch to their in-house"
-    publishedDateTime: 2021-05-25T13:16:00Z
-    webUrl: "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/"
-    ampWebUrl: "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/"
-    cdnAmpWebUrl: "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/"
-    type: article
-    provider:
-      name: androidbeat.com
-      domain: androidbeat.com
-    quality: 60
-    images:
-      - url: "https://cdn.androidbeat.com/wp-content/uploads/2021/05/pixel-6-pro-feature-1024x665.jpg"
-        width: 1024
-        height: 665
-        isCached: true
 
 secured: "1uOazP5YYDT54xUP40HEOodBBE8eUtiyFpMWzAF4jKHjS3t6x9eCW4EuGJbGwfSRS4nZlN378MtHn24St/3ItCei3JoLN+xIYSA30xUv0VR+zlFPu5phK6n/WHsYHG2vad6NZy8X3bvWrhtTVzjJ3vOHacV6XGrjlflwWpX2KdE9IalB5hu0oRg715bUG5gNvzB7Ga4OA4mj2M6Wfw2CmleP8xXAeJsFmGe8OF3c5CXTc4NUQVuGSRQ/2HpsYNXcgyNvLWBMwjmczBz7B51ki5pAYgq9AWwsVSDA5xN1F++MAT332HFdvFdG5jzy/Ui/FiromEZLtC+2JNkzQJcsybriwOSkTrx49qMH2WLZD7Sx8RvdKP8/b57MmUaFjj5g2+IdaLLkMf6FVf9qSw8R9ooin9LAmaIm5I+ycwRd6yhd4Ut0iVEx4U6Tfx4PTv2UIcFmIfGwmcy2ujdssHkqHcEg0KxxcG9/Ub0ySkDFdF3d7CRAXpyiNbsNcBoOjlEt04h5CuRBdH3m4es2dCJa/g==;BAXgIrHT/sC+smW7QYK0+A=="
 ---

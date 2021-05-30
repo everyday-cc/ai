@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-trav
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/autonomouscar.jpg"
         width: 1920
         height: 1920
-        isCached: true
-  - title: "Self-driving cars offer chance to re-imagine sound systems"
-    excerpt: "Self-driving cars won't only be used for transportation. Conveniently, passengers will be able to work as they travel along, holding video meetings and conference calls. Or they will enjoy music, TV and movies much as they would in their own home theaters."
-    publishedDateTime: 2021-05-25T13:39:00Z
-    webUrl: "https://europe.autonews.com/guest-columnist/self-driving-cars-offer-chance-re-imagine-sound-systems"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Lars%20Carlsson%20cutout_1.JPG"
-        width: 800
-        height: 600
         isCached: true
   - title: "Mountain View self-driving trucking company Aurora Innovation expanding in Dallas area"
     excerpt: "It’s been less than a year since Aurora said it would test its technology in Texas with a push into Dallas and now it's expanding to accommodate its growing employee base."

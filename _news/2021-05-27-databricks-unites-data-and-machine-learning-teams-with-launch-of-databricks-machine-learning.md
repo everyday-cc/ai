@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
-    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to"
-    publishedDateTime: 2021-05-25T15:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/3cloud-partners-with-databricks-to-help-companies-build-modern-data--ai-platforms-in-microsoft-azure-301298982.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=facebook"
-        width: 2699
-        height: 1414
-        isCached: true
-  - title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
-    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
-    publishedDateTime: 2021-05-26T08:03:00Z
-    webUrl: "https://www.hostreview.com/news/210526-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=publish&w=950"
-        width: 949
-        height: 534
-        isCached: true
   - title: "Databricks Unveil New Machine Learning Solution"
     excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
     publishedDateTime: 2021-05-27T21:57:00Z
@@ -130,6 +102,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "hnKmMLVk8nZK29IOU4QNFpIV3p1ZszNV99R/OgVPLg9TtFLpeQ0lHdcCcBIg94aF0N6e39n47lVUkMDtS9xjTo2LCfKjweKWWM0Ulf/GtISDVK8cXJL9Mn8BCFxm5lQ9Evvh/VFmsMsXOAz22lxb9XVLCl2INa4ziywz00W/5DgfDNMP6TkZhs/nQKNIWjRjlPAc0cQXqZ1c4xLQKt0QBy5GePJF/dpfbmmTZ5ODQWYp/17JCMsM90VNXRqXC8TInsiIsRWnf1mHQ7a/Oe7FXeAPisReNkuQcler1I4um9K8LevpmTfVLfu4whF9QrPc2M35DY+nzE6HAWk7g9IerLb+dKxFQT58xi7r+hzQPDk=;WAagYF5cSjDQsQ2PWdtYDw=="
+secured: "gzO1DZbweFUaM0SJTRVl433SlLK8xJADrMaO7RQtfbeyEwRifQCyVPOJG5U2mpMbAh5jEPvTqLU8aDOI5ICMlIYk1AFAlOwSXtIOMUonbvoHymm1FGvYtb0FjSRHLzlYfacV1HmWi56MgSgIDflx9oqv024U1/67b3uKcyk0Fnf22x2wRafMmybVhSe1hq+Fjo5aos7+K9HoPZl7Bd3YZ6brKGXsaD8XU6P2j90dzI9Rj9QPxHqGnOPsdl/ySJ1rWAY/HAf5wzSQe//TayMvTiLH0vtE0GzqQEjaiCvEVEoMGEoRO+1KbVkZ6AII29zKKiwQzQAhJywBiOY1IeRSF/vGMcBFI/K1TkFkzeRwgFI=;vQgb9imSo/4cYVj94ZT+ew=="
 ---
 

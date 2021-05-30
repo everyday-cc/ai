@@ -111,20 +111,6 @@ related:
         width: 1920
         height: 1920
         isCached: true
-  - title: "Self-driving cars offer chance to re-imagine sound systems"
-    excerpt: "Self-driving cars won't only be used for transportation. Conveniently, passengers will be able to work as they travel along, holding video meetings and conference calls. Or they will enjoy music, TV and movies much as they would in their own home theaters."
-    publishedDateTime: 2021-05-25T13:39:00Z
-    webUrl: "https://europe.autonews.com/guest-columnist/self-driving-cars-offer-chance-re-imagine-sound-systems"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Lars%20Carlsson%20cutout_1.JPG"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "jnFNUVQvzDkKb4UtAOGxJE/49oEL0x2A8sM3otMYEVgDbB1F1PHO/Q60sqwH21cEbBIIEy3NL2eWo00+22SRFVg3TArsvv2hiFMB68/MT2IqSLp20j+uFC8VsRaDre9F6MTgcJLRL3M7eKbUrRCC9wRCKjSQ6fmNHbi7tCmtu5d/Y4g/0poXfp9JDeFAUqT3ubmlpMc4LX69rydsNd8cfFvQL8FG+1Ibh27GGyEcro2X95nyR3w3jE8L49l94wm44+jGXgjCVI40XmKsSggUmkn/q8plARZiYE2rb+4m4EUgFTQT6+5j8vICasqcw8KveXBUNtWPH7PxMXLy1r7rmVOOtb12y7eI8UvMye3Q7fuQ9Bk23obKB4IrT0IgngA78YFHIPsifX8q/e7RYLVvrlqmLTODmCmTZQPoCXYc3oQGi/JCaVNMbPTlnXA47MGOrpolbFpDq2SiveP5/s0pQR/tt0TLovzCrHwj0LLcAfdTYB/KfppheRUVO1ko6e8q/LP1M2rIeNj0utTNgXtEfg==;hzAYHAe2CXp8OZPOtKffLw=="
 ---
