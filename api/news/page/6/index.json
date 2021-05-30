@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-25-google-pixel-6-custom-chip-to-offer-performance-similar-to-snapdragon-870-tipster.md",
+      "title": "Google Pixel 6 custom chip to offer performance similar to Snapdragon 870: Tipster",
+      "excerpt": "Recently, there have been a number of rumors and reports regarding the upcoming Google Pixel 6 series. One of the notable rumors is that the device will feature a custom chip that is built in collaboration with Samsung.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/",
+      "originalUrl": "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/Google-Pixel-6-Pro-CAD-renders-3.jpg",
+          "width": 5120,
+          "height": 2880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-ai-removes-friction-from-challenger-bank-onboarding.md",
+      "title": "AI Removes Friction From Challenger Bank Onboarding",
+      "excerpt": "The Tracker explores how biometrics, behavioral analytics and IP address verification can help confirm user identities, smooth onboarding and prevent fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
+      "originalUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/05/biometrics-AI-banking-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
+      "publishedDateTime": "2021-05-25T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-leakers-reveal-what-to-expect-from-pixel-6-6-pro-display-whitechapel-chip.md",
+      "title": "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip",
+      "excerpt": "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "originalUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "publishedDateTime": "2021-05-24T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics.md",
       "title": "These Indian Edtech Companies are Shaping the Future of AI & Robotics",
       "excerpt": "Edtech companies have partnered with NITI Aayog to develop an interest in STEAM fields in young minds using AI and robotics. Read more about this here.",
@@ -1068,144 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-3i-infotech-to-rely-on-deep-tech-for-1-billion-revenue-by-2030.md",
-      "title": "3i Infotech to rely on deep tech for $1 billion revenue by 2030",
-      "excerpt": "Based on a ‘Digital’ and a ‘Cloud-first’ approach, the cognitive services solution-oriented company will help in accelerating technology and product startups across the ecosystem. With strong tailwinds supporting its business and growth levers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/",
-      "originalUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2015/02/Innovation-Growth.jpg",
-          "width": 849,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/amp/",
-      "publishedDateTime": "2021-05-24T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-how-ai-can-enhance-customer-experience.md",
-      "title": "How AI can enhance customer experience",
-      "excerpt": "G&J Pepsi and Zipline turn to data science and machine learning to get the right products to the right locations at the right time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.html",
-      "originalUrl": "https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/02/ip_cw_ss21_salary_survey_2021_satisfaction_happy_employee_user_customer_by_thinkstock-621128688_banknote_certificate_texture_by_margarita_lyr_gettyimages_3x2_2400x1600-100877152-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.amp.html",
-      "publishedDateTime": "2021-05-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-hardening-ai-is-machine-learning-the-next-infosec-imperative.md",
-      "title": "Hardening AI: Is machine learning the next infosec imperative?",
-      "excerpt": "As enterprise deployments of machine learning continue at a strong pace, including in mission-critical environments such as in contact centers, for fraud detection and in regulated sectors like healthcare and finance for example,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
-      "originalUrl": "https://www.itproportal.com/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
-      "publishedDateTime": "2021-05-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
