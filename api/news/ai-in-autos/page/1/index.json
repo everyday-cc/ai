@@ -402,6 +402,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat.md",
+      "title": "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT",
+      "excerpt": "VisionNav was founded in 2016 and it is committed to applying artificial intelligence (AI), environmental perception, deep learning and servo control technologies to driverless industrial vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1517703/image.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-op-ed-alphabets-waymo-warns-that-describing-vehicles-as-self-driving-before-theyre-ready-can-lead-to-unsafe-driver-behavior.md",
       "title": "Op-ed: Alphabet's Waymo warns that describing vehicles as 'self-driving' before they're ready can lead to unsafe driver behavior",
       "excerpt": "Some vehicles marketed as fully self-driving actually have advanced driver-assistance systems (ADAS), which can confuse drivers, warns Waymo's safety chief.",
@@ -906,6 +958,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-ai-powered-teleradiology-fda-cleared-for-triage-in-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.md",
+      "title": "AI-Powered Teleradiology FDA Cleared for Triage in Departments Swamped by COVID-19: Interview with David Stavens, CEO of Nines",
+      "excerpt": "Prior to that, we worked on building one of the first self-driving cars while at Stanford, which eventually became Waymo ... We believe the role of artificial intelligence for radiology is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2020/05/ai-powered-teleradiology-fda-cleared-for-triage-by-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.html",
+      "originalUrl": "https://www.medgadget.com/2020/05/ai-powered-teleradiology-fda-cleared-for-triage-by-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence.md",
       "title": "A Sustainable Future Is Not Possible Without Sustainable Artificial Intelligence",
       "excerpt": "Although AI is the future of the world, training AI algorithms still depend on powerful computers, which consume significant energy and emit considerable carbon emissions.",
@@ -1355,102 +1441,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-baidu-extends-post-covid-recovery-with-quarterly-sales-beat.md",
-      "title": "Baidu Extends Post-Covid Recovery With Quarterly Sales Beat",
-      "excerpt": "prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. The venture, Jidu Auto, aims to spend 50 billion yuan over the next five years to develop smart-car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL2Fg2mdn_Ew/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future.md",
-      "title": "Smart Ways Artificial Intelligence Could Change Online Casinos in the Future",
-      "excerpt": "Artificial Intelligence is reshaping the gaming industry through availability of VR headsets in these recent years. Online casinos and other online gaming websites are booming in enhancing the exciting experience to the gamelovers at home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future/",
-      "originalUrl": "https://www.analyticsinsight.net/smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-11.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
         "images": null,
         "publishers": null,
         "authors": null

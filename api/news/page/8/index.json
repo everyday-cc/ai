@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-21-human-like-robot-creates-creepy-self-portraits.md",
+      "title": "Human-like robot creates creepy self-portraits",
+      "excerpt": "Da's new self-portraits are a combination of constantly updated AI, inbuilt programming and advanced robotics. The eyes are actually cameras that allow the robot to \"look\" at what she is painting or sculpting,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
+      "originalUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BWaS5TwUQjXyzM3UTETud6-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livescience.com/amp/robot-artist-self-portraits.html",
+      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/robot-artist-self-portraits.html",
+      "publishedDateTime": "2021-05-21T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Live Science",
+        "domain": "livescience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
+      "title": "Finding any Cartier watch in under 3 seconds",
+      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
+          "width": 1600,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "publishedDateTime": "2021-05-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-have-ai-chatbots-come-of-age.md",
       "title": "Have AI chatbots come of age?",
       "excerpt": "“Chatbots are now a critical component in the customer omnichannel experience,” said Rob Dunlap, Associate Partner – Cognitive & Analytics Practice Leader with IBM at a recent CanadianCIO ...",
@@ -848,6 +943,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-ai-powered-teleradiology-fda-cleared-for-triage-in-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.md",
+      "title": "AI-Powered Teleradiology FDA Cleared for Triage in Departments Swamped by COVID-19: Interview with David Stavens, CEO of Nines",
+      "excerpt": "Prior to that, we worked on building one of the first self-driving cars while at Stanford, which eventually became Waymo ... We believe the role of artificial intelligence for radiology is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2020/05/ai-powered-teleradiology-fda-cleared-for-triage-by-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.html",
+      "originalUrl": "https://www.medgadget.com/2020/05/ai-powered-teleradiology-fda-cleared-for-triage-by-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-amazon-made-rekognition-software-now-able-to-detect-fear.md",
       "title": "Amazon-made Rekognition software now able to detect fear",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -1019,160 +1148,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload.md",
-      "title": "Overwatch 2: Monte Carlo Map Has A Flying, AI-Driven F1 Car For A Payload",
-      "excerpt": "Among the updates Blizzard revealed for Overwatch 2 in today’s gameplay livestream was a map that hadn’t been discussed much until now. The sequel will take players to Monte Carlo, which includes a ton of references to the famous F1 Monaco Grand Prix.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6cf7299bdc5004fded974%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/amp/",
-      "publishedDateTime": "2021-05-20T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization.md",
-      "title": "Adapdix adds adaptive AI tool EdgeOps DataMesh for process optimization",
-      "excerpt": "Adapdix’s EdgeOps DataMesh puts AI on the factory floor. Semiconductor manufactuers are both backers and customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/",
-      "originalUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alpha-e1611232841973.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/",
-      "publishedDateTime": "2021-05-20T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Production, Growth, Share, Demand and Applications Forecast to 2025",
-      "excerpt": "Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  By identifying the growth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025-2021-05-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025-2021-05-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

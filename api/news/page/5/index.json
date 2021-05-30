@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-25-solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings.md",
+      "title": "Solid Gaming, Data-Center Demand to Aid NVIDIA (NVDA) Q1 Earnings",
+      "excerpt": "NVIDIA Corporation’s NVDA first-quarter fiscal 2022 results, scheduled for a May 26 release, are likely to reflect benefits of stellar demand for chips used in gaming, cloud com",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings-2021-05-25",
+      "originalUrl": "https://www.nasdaq.com/articles/solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings-2021-05-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings-2021-05-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings-2021-05-25?amp",
+      "publishedDateTime": "2021-05-25T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m.md",
       "title": "Security startup Tessian, which uses AI to fight social engineering, trousers $65M",
       "excerpt": "In the latest chunky funding round out of Europe, UK-based email security startup, Tessian, has closed $65 million in Series C funding. The startup applies machine learning to build individual behavior models for enterprise email use that aims to combat human error by flagging problematic patterns",
@@ -1184,58 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost.md",
-      "title": "Qualcomm’s Snapdragon 7c Gen 2 gives entry laptop chip a speed boost",
-      "excerpt": "Qualcomm is launching a new version of its chipset for laptops, with the Snapdragon 7c Gen 2 promising more performance for affordable Windows notebooks and Chromebooks. The successor, as you",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
-      "originalUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Qualcomm-Snapdragon-7c-Gen-2-compute-platform-Still-Animation-Chip-on-board.jpg",
-          "width": 1500,
-          "height": 938,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
-      "publishedDateTime": "2021-05-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

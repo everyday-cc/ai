@@ -22,20 +22,18 @@ topics:
 
 related:
   - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
-    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
-    publishedDateTime: 2021-05-26T08:00:00Z
-    webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
-    ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+    excerpt: "VisionNav was founded in 2016 and it is committed to applying artificial intelligence (AI), environmental perception, deep learning and servo control technologies to driverless industrial vehicles."
+    publishedDateTime: 2021-05-25T23:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
     images:
-      - url: "https://mma.prnasia.com/media2/1517703/image.jpg?p=medium600"
-        width: 600
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1517703/image.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "JV3PakxhhfdWkM8dL4fOBXLna7irWHfYVOUZQYdyKrh7qCsNvbpswssJ25u5mxPWLl+NB5RBLqetti1ROw6LCHiU0kzppeM7auKgVp0I1a417S5IT+Gz38Z+1Hh2Bk1f9IqbbA9DIwzfJ2/0EwhFacV4bGfBMYeqGnzqTc7ajWL5UwrtK2TtoWYJ93Oqm5KgESh7GybKANZsPZ03rom/GBDcax5QNfsZ+Uf9IiVat8ebvpHtOmNqCSpvmB0qVY414wUFippP3V7YwJ9e6yJOsh6M4RiEdsA6Y5fcfsL5jBpBFaofJLJ0d3TA8QHtT3JMf2JBwsGmJRGAs09IJ453XJchi/Mn0/Py+XeEbdL/mlE=;zf8w2rNfxYXO2+z9q1iiCw=="

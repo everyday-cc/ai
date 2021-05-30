@@ -41,15 +41,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Harness the power of data and AI in your applications with Azure"
-    excerpt: "Our commitment to developers is to make Azure the best cloud for developing intelligent applications that harness the power of data and AI. At Microsoft Build, we are announcing several exciting new capabilities and offers that make it easy and cost-effective for developers to get started with Azure"
-    publishedDateTime: 2021-05-25T08:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/harness-the-power-of-data-and-ai-in-your-applications-with-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "How To Solve AI’s Bias Problem, Create Emotional AIs, And Democratize AI With Synthetic Data"
     excerpt: "Artificial Intelligence is transforming so many aspects of our lives, but in order to work, it needs large volumes of data that is free of errors and biases. I spoke to Affectiva CEO Rana el Kaliouby and Synthesis."
     publishedDateTime: 2021-05-28T04:11:00Z

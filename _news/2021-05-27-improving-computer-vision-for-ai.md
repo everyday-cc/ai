@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/05/210527091439.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/05/210527091439.htm"
 type: article
 quality: 64
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/05/5-28GreenAI-1.jpeg"
         width: 553
         height: 311
-        isCached: true
-  - title: "CoCoPIE: Enabling Real-Time AI on Off-the-Shelf Mobile Devices via Compression-Compilation Co-Design"
-    excerpt: "In summary, the research reported in this article has provided strong evidence of the promise of the co-design principle, indicating it is possible to instill AI directly on existing commodity computing devices while offering even higher speeds and better ..."
-    publishedDateTime: 2021-05-25T07:52:00Z
-    webUrl: "https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 26
-    images:
-      - url: "https://dl.acm.org/cms/attachment/c0d80842-6217-4df7-9531-d996cf7520b2/f1.jpg"
-        width: 1021
-        height: 562
         isCached: true
 
 secured: "hB/C+S1CrKXsIGdgiwtb1jQgwKHFKu4v+opYPtv7qAplaICr0c8HHmdnPi+pQWNTbMl6E5DLIeh86oHxBxCIg9UslAsmnxC3oQs5xjVKeeoCvjwXizBMC4GbHtzbGgWOw86xRBWfN05ROoJCZZA8E5DJfkzHGQdDLoeiacRDLWlOguWu/uwfusqI3TGvG7p1FTnROejSlKydRjZ8JfMDyLTjLMws8xu83lukh8o7r0jwX20SNPAwmtdTDuPWcS1AdcG3NfzNjhN0w/dEYBWZAHW87V5cRyTHZ/iTP9W8kz7gq1kcf362JVmDFbnGPZq9bRVWU/qviU/QwGsWqlnAwPdWvgJ/+mE+VtHGhAmCcQ0=;S1Dqr947k9+FoWZZ031NsA=="

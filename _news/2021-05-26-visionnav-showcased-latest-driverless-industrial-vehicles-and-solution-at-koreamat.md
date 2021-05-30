@@ -1,29 +1,31 @@
 ---
 category: news
 title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
-excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
-publishedDateTime: 2021-05-26T08:00:00Z
-originalUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
-webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
-ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+excerpt: "VisionNav was founded in 2016 and it is committed to applying artificial intelligence (AI), environmental perception, deep learning and servo control technologies to driverless industrial vehicles."
+publishedDateTime: 2021-05-25T23:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696"
+webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696"
 type: article
-quality: 53
-heat: 63
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnasia.com/media2/1517703/image.jpg?p=medium600"
-    width: 600
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1517703/image.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -39,6 +41,6 @@ related:
       domain: hellenicshippingnews.com
     quality: 26
 
-secured: "vvx2TN4TVv5RKTTd1G4Wb9QNVLDQU/zGZ0F+ymS1y217T/OihTaFAKCGvG4/eZBCYqIZRV4Lu8ZwgxH0medX/cxGTrPIdZiW2wpDjxa7OhFOTTIp3Lee22qbxQ5Fwe6WaWqXrzIHT1k8c3dwWWF5IYFse78LaIFmNRY+kVWvvlwnEZSWP3p/K2NSRh1cCGdkzAYNbcNIMGUW1w/rClJ6e2KoBB4fbFdDzKycquvgMGFnOziA5suF0x/azj/unEA63OnWdGLilu49RuXbfLcB52QMxM5bkGCZLiAh+Y3pd/AionUw9RE9iy6byRYS4Qc+lRohcdEJlOtfTM2aNHcnMM6RH+Koywhv7Bd7cpcpPDsy8C+edGhyOaKABF4WkH0O3L5639wk+QwkLtOrWXBjp0IvVZMGL02s7Brh+UTPzHFviRZHvmvUe9y5tu964LfWNsHsneMXH5LOa/BT+HfFG3qw4fH+oCzNpYGgId48fMaDYYmwPkHVWAisuNkeH8AIEtInZgYPQZa8bydyQ8vyXw==;yywh4TyFOc5IXUHs1vGDsw=="
+secured: "tQR09o3IYeu0qwOwN2ybbra+/ec8cn4BKziVxV0SnQqZpv/G5cn4PFBKM7+EnP/bIMPnyXRRKPuGHB7nP8dhmeQctSswiaboNAiDnafXZ6QpqpMJfpMi00Wbi+uv19hHIHlyZ9AmXckjAvWejEIU5UBB0/ke+HnUWVduqkPSIkLC/APxdA/K6cUPVn9sTlRBcpmwnZ542XIffsxJAhgEQU30zw0nbZiug80OooSul44tYilCNIT9u6fmfvvqWcvTzS3h4668mfGFFUZJQXBFO4S1YN4BRS1l1vW+1olDqqRZGLybU88ROIwdT8B2cayDuuJdkH6O0R17KYOojr0w+ts+mbXZgdj2sKnK7t92UtM=;OlS/rrDjqG7Au1Qi9Aw4Vw=="
 ---
 

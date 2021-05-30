@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
 type: article
 quality: 88
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.statnews.com/wp-content/plugins/stat-lazy-load/images/330x400-00000000.png"
         width: 330
         height: 400
-        isCached: true
-  - title: "How is the Adoption of AI Helping the Gaming Industry?"
-    excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
-    publishedDateTime: 2021-05-25T07:30:00Z
-    webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioadvisorapac.com/uploaded_images/0ii8yaiaw.jpg"
-        width: 487
-        height: 469
         isCached: true
   - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
     excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer programs can distinguish between images of benign growths and"

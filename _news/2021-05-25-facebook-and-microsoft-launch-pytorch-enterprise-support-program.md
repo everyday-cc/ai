@@ -49,17 +49,6 @@ related:
         width: 1024
         height: 685
         isCached: true
-  - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
-    excerpt: "Microsoft makes Facebook's AI Python library more friendly for enterprises with patches and hotfixes for Windows 10."
-    publishedDateTime: 2021-05-25T08:45:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 120
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
     excerpt: "At its Build developer conference today, Microsoft announced a new set of Azure services (in preview) that businesses can now run on virtually any CNCF-conformant Kubernetes cluster with the help of its Azure Arc multi-cloud service."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -217,7 +206,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
     type: article
     provider:
       name: CRN

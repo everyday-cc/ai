@@ -3,8 +3,8 @@ category: news
 title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
 excerpt: "AP, Susan Walsh A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile ..."
 publishedDateTime: 2021-05-20T20:44:00Z
-originalUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm/"
-webUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm/"
+originalUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm/"
+webUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "EIrsufM2SXfAl7XNg/o209Pecv5PQ9ozlu2RXUDAW2go/JOOdRwJ+KwjP2A8bZ0U0zzikdOJU+2IJoAkyS5Kb/vVfddVgWD0eAKwjhOQnD3ZQJ8YoZtLAb/fjrBgBUTbGWaUJsjUSqpvcQshVd92+9K/BWI+uPXck4ndEG25/iHWHXWrKu/xkW/x0Yeu9npRBWqAMLyWmzEjOAkCVBj6d9W4B8Nj/Vt8eu45suEhUkeOnl0e+TOiE1oBNnh9x6vv9YO1UozspgsrTjxM+FjmuP5KYz6fyEBwPpmPMNR8EXEeE9sYwFW8bQuiXx51Ex2dLzY57551QccqCKGNgwl7aG107RpdH6I3uF4jMs0+y/A=;sxXvPQuwyohN/fbo9+eHwQ=="
+secured: "T8iyP06VCI7Yfm4AgM69YWv4f+yEkFKFa6CshA6nkcAyhNFpw5QjCyzcfDL3XI+QMQJNlMSdSceNe45+Wz5cPNJtdb+Ls/t0acdfH5NMb+B64mvjgGJG47zkZaQGTu9VKg68aixm3w7nDvA47SKQWPGIfKf4a3Vg5UmwIEYf2JUk/b6xiacmuH5eAUQSzPYJdEEtLK+g5NdXpuW9noYoqniG2ud3+QHyowSm44qO2xEbjKvi4xaDg1sfLp4ahNPn9J2zx4PQwWRYyhPeNhZLnwPgOaxnbmn3pXAl4OAlcAloVBTvvnxg3apRNUYcfpUZAJ9R0KgI0+08Pd78mBV6Gg9R6vselyJT8ZlW2dwI0FE=;cLkJ9tYQIv5gXhZWQNw07Q=="
 ---
 

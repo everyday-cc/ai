@@ -78,22 +78,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Microsoft enables more Azure services to run anywhere via Azure Arc"
-    excerpt: "Microsoft is filling out and repositioning some of its key Azure services, including its Azure Application Services, Azure Applied AI Services and Azure Communication Services."
-    publishedDateTime: 2021-05-25T08:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/24/687574ae-057e-489c-ba4b-5ac60b9a1f2a/arcenabledkubernetes.jpg"
-        width: 997
-        height: 734
-        isCached: true
   - title: "Microsoft expands Azure Communication Services with call recording, UI library"
     excerpt: "At its Build 2021 conference, Microsoft announced a range of updates to Azure Communication Services, including call recording."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -109,22 +93,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2014/07/microsoft-windows-azure-rainer-stropek-flickr-e1572847917832.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft to make coding 'in plain English' easier with PowerFx and GPT-3 AI model"
-    excerpt: "Microsoft's integration of the OpenAI GPT-3 technology into Power Apps is the first time GPT-3 will be available commercially in one of its own products."
-    publishedDateTime: 2021-05-25T08:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/24/3a9b5a8f-8991-44cb-b3aa-a3da0a171c10/powerfxgpt3.jpg"
-        width: 1046
-        height: 727
         isCached: true
   - title: "Microsoft uses GPT-3 to let you code in natural language"
     excerpt: "Unlike in other years, this year’s Microsoft Build developer conference is not packed with huge surprises — but there’s one announcement that will surely make developers’ ears perk up: The company is now using OpenAI’s massive GPT-3 natural language model in its"

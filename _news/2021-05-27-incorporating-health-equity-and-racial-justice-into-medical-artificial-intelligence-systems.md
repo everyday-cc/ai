@@ -75,20 +75,6 @@ related:
         width: 330
         height: 400
         isCached: true
-  - title: "How is the Adoption of AI Helping the Gaming Industry?"
-    excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
-    publishedDateTime: 2021-05-25T07:30:00Z
-    webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioadvisorapac.com/uploaded_images/0ii8yaiaw.jpg"
-        width: 487
-        height: 469
-        isCached: true
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
     publishedDateTime: 2021-05-25T11:01:00Z

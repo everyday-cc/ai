@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
-publishedDateTime: 2021-05-27T15:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
+excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
+publishedDateTime: 2021-05-27T16:03:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Databricks unifies data science and engineering with a federated data mesh"
@@ -91,6 +97,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
+    excerpt: "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ..."
+    publishedDateTime: 2021-05-27T21:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Booz Allen Partners with Databricks to Drive Value for Federal Agencies with Unified Data Analytics"
     excerpt: "Booz Allen Hamilton announced today it is partnering with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI) to meet federal agencies' data challenges and advance their missions."
     publishedDateTime: 2021-05-26T18:26:00Z
@@ -115,6 +130,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "X+q3IJ8Q/DDtwITokQvTU7KfSnxPyGhPFHrkT9d4qVb+wTBzv32ppLzjTaCJ9x0qziachmb81aOebKxAzJ2dvYFbbG7DOOq5bJI2RM1uzGIkCJiPTkDWgtW0mmr5cTkdzo4L/KBTAulfUiNqR+W/huYLHYeqKmhcuivilsSp5fqvwhLpFBUFwY/qYxg2WXQhfrG9xUavxmptAXnVBriIyivzTVEw0MfoWl0xo8sDuWYkXxXUw9krA/gwJbWxLONqNit5a5aTh4n8p+d8N8yg0I6rnFBIH5LoHWFPOFyht6ITX7FSW7S97Iu5MJUCaK+PKsEjGkKXKTx8A1M42AUCa/Lpql6xOVS0/sJV5JKfw6s=;coIU2wL7ke6kkPXF+dWQdg=="
+secured: "lN5CChhViK0nF7bc3zop4aG60HoEQoev+RpmBtPgAZun97SwCFH0el1273fYv7hhH26vL/1YOsVp9lDoknRoMer7GITarf25xV9vk8etAlf8AwjrdZr8Ym9kz7NhjuPnS3r7i4bw0CVVcLFgoGCmAZkoiJNj33zNqslQQws8+60QgSIFhblqEnb5BzmIc1rFbZ6/K6OR+ZV4SLULqgY9yGDoYckJMFn7S87fPNtzL0NVkySWFSxoeOGvVMchzzD5UQ7AkxJ7/sMxe49SePcEqBzaeQT1qFOOClo6voemFHfJrHGsrCaL4o8zaAExzjowu2uQes3ZyGb1ARtSq6ztLUFIhNz3n6a0f/W5uGeVWp4=;bBU9KeMxIi3k5Lsv4j6AAQ=="
 ---
 

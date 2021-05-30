@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/292/2021/05/unnamed-3-6.jpg"

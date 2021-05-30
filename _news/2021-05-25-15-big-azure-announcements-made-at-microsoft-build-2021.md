@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
 type: article
 quality: 54
 heat: -1
@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 685
         isCached: true
-  - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
-    excerpt: "Microsoft makes Facebook's AI Python library more friendly for enterprises with patches and hotfixes for Windows 10."
-    publishedDateTime: 2021-05-25T08:45:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 120
   - title: "Facebook and Microsoft launch PyTorch Enterprise Support Program"
     excerpt: "Facebook partnered with Microsoft to launch the PyTorch Enterprise Support Program, a service offering for organizations using PyTorch."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -269,6 +258,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "6Uc58zphKNkmMRD/fq2Z6bjCVyca68+harjcxA9OY9dBJXIhGuJynbjcF/hAiTWTyxM4WpU/W/KUsTw8WGd9wv0L7rATDbBYMKZQo5tToDnrP6nX6cZucfh/0Vr4/lEHjLv7r1IwVgcRwOXWtdGtXZ70XhDJjB7SxVj9mBOs0CF1zhnST/qeD6qikYZUpwIeyeXFPaQgeNBNqxTFYByLFLSSLdkma/eh1FRjz8wTdxY73UtelklXctE5Vk4NpivZ0lcivjkHWtaKbszdUUQYq+72NXo7eWb8quaI3Yms5aiqKREm+V2sY0rJ0HCtJf71v2dpl/Y8DmxzPQbzrDiRsZfN0vIyXOEK4PwWJ5ei1oM=;MLNCzTokP58mzf2ez8IaKw=="
+secured: "hq45qBjm0xeuvJm3OFixZWcvgTt8nlhEuoeohtFw449V19MTHZwvA7idFXuqzRwELpZbpGan6j7H2uddr66YUZu21HndKeFEZ5ls0FxBd9Dz9jNkDYoTgHMpD6IB5jyKLLrod40THYOgZAMAZwlYYAC2KjJvaEmOVi6qJJBLKy+lWFunU/C5FW29xBVym78b2AiyaYfLe0AYbxjHSsS0oUH15/j7E4R+h7Jmdr/HTJopHvb0zpapErYfAbG5O35uIVTwbeAtwp4J7tnKWXwuHyi5Wt6s3vV+HhczBKbV9AZYf3xKOf/VLrH9WJ7x1VkrAnaomybuHeyzV9aR9d1DHyVxUp92dqneK2nFVjm3hhM=;Xw8cLpcdtEN8Kbzs4fS9cA=="
 ---
 

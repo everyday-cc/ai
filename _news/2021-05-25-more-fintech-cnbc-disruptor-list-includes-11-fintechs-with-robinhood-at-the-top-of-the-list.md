@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175816-more-fintech-cnbc-di
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175816-more-fintech-cnbc-disruptor-list-includes-11-fintechs-with-robinhood-at-the-top-of-the-list/amp/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Anil Uzun Talks About the Data Security Issues FinTech Companies Are Facing"
-    excerpt: "Anil Uzun talks about data security issues the companies face in the Financial Technologies sector at the time of a pandemic."
-    publishedDateTime: 2021-05-25T07:03:00Z
-    webUrl: "https://www.pr.com/press-release/837076"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 39
-    images:
-      - url: "https://img.pr.com/release/2105/482993/pressrelease_original_482993_1621847550.jpg"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "Fintech company opens new HQ at Industry City"
-    excerpt: "Industry City announced that Fundraise Up, an AI-powered fundraising platform for nonprofits including UNICEF USA, the American Heart Association, the World Health Organization Foundation, has opened its newly-inked headquarters at the 16-building,"
-    publishedDateTime: 2021-05-25T14:49:00Z
-    webUrl: "https://rew-online.com/fintech-company-opens-new-hq-at-industry-city/"
-    type: article
-    provider:
-      name: Real Estate Weekly
-      domain: rew-online.com
-    quality: 24
-    images:
-      - url: "https://rew-online.com/wp-content/uploads/2018/10/training-center-industry-city-page.jpg"
-        width: 1150
-        height: 400
-        isCached: true
 
 secured: "buK4KI/uW/9NNi13lBe1NvRT69rG9BLTd7xxOJgTD+o8BZdCObv9V11Exz3TxgaL6QrJ6eMh+tQoe8i459DkKxQCFLVk9r7k7FG2fe3fw2jJbjGStgLcnZrfrWxcUYL60CDLkPO+CcHcaIyy7oqggZJLx86edxQ4W/FbtK6zB0HeWc/QPaBsrdyEUdsGtr6xnqbV5iaUnhChKwBODBb7/QkGP4BhMDZ5bAUL9+KINfgTKOlAJ95zKMYvH9OMv2hr/iB13JwjZJlFRYnw0K0PEYLmThZSb5kYext+sJMHUF1Yvhr1LL7Hy2+UD3xd8IZCaNEIdN1RN/z7iWzJAmbR0TAQDCu8pwE4G1byJgQz/sEGaduvoskEN3UNYyfzOiFIAgDT8xPayaHQAej1BWvwV6CcX/XfyMSJBIWXI7vt2XF77HwFN7b1YDP7MIWD1/FTks7RPQnVgRq3yKh0dRUgLvNFu9x5MX/cxCzT6Lq3paMZqrHayzv2ncy2Zd1CSIxtRjKlgqalIdVEu+xhodAD9w==;mYrluuJMBEMb5LQOKFAPQw=="
 ---

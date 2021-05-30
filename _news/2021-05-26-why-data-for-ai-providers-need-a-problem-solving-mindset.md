@@ -104,20 +104,6 @@ related:
         width: 553
         height: 311
         isCached: true
-  - title: "CoCoPIE: Enabling Real-Time AI on Off-the-Shelf Mobile Devices via Compression-Compilation Co-Design"
-    excerpt: "In summary, the research reported in this article has provided strong evidence of the promise of the co-design principle, indicating it is possible to instill AI directly on existing commodity computing devices while offering even higher speeds and better ..."
-    publishedDateTime: 2021-05-25T07:52:00Z
-    webUrl: "https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 26
-    images:
-      - url: "https://dl.acm.org/cms/attachment/c0d80842-6217-4df7-9531-d996cf7520b2/f1.jpg"
-        width: 1021
-        height: 562
-        isCached: true
 
 secured: "4/l371AAmFjknJZ9iBujV7RsF2WO6ld1yAWwr34DI47j6pDfYFrWYEjGQ6/IHxeFZzGDSsvh/R4ejzOJ0LSchPJdatjdPTf72iZAsBme21jKS4gOaVrorLzO17PtX2+fQZwrircaamiXE684UwCPyXTbmKa/+7QuIUIxL7K4bs0WDsw/3CL/zYc98SELQ5JmVRLzEWdHYDnrYUsUxy6oxOOMxbTMmlfNrLKHqKZWRWz5E2I2s5rbPgJ4hJkP5X1xtkaZRWMwQmWA0ArepFURg01nqx+KDcy4IXSImXas9j7JUz6NenWR4Iv2qVrs4i4Sdt/kD0xZndQE0ZMxj4k50ZG4WRIJe5WfGVhsIrEAIrGPq1VV8UvvYn49Ok4A7j2xT33RchM4i/nILrjkkFzxdUrG/vvmQJnpm6s8OI4zkgBnzikeQs0U1pQ/LQIKYhvZtJpqhyJjpuyqQ+Xu14A3QXsYRBgp+f9h3HbGzwBe2Vc0dbJwiHjZ4HEbq8PSkQYDeNx4WIZxyBtducQ+pu5d6w==;pL6G5h9tPrp40a7dADsEiQ=="
 ---

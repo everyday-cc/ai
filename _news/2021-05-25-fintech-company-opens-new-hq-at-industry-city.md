@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Anil Uzun Talks About the Data Security Issues FinTech Companies Are Facing"
-    excerpt: "Anil Uzun talks about data security issues the companies face in the Financial Technologies sector at the time of a pandemic."
-    publishedDateTime: 2021-05-25T07:03:00Z
-    webUrl: "https://www.pr.com/press-release/837076"
+  - title: "With $1.6mm Seed Raise, CAARY Appoints Senior Fintech"
+    excerpt: "Body> TORONTO, May 25, 2021 (GLOBE NEWSWIRE) --  CAARY CAPITAL LTD. (''CAARY'' or the ''Company'')  is pleased to announce that after raising a total of CAD $1,600,000 from accredited investors in Canada in an equity seed round,"
+    publishedDateTime: 2021-05-26T11:23:00Z
+    webUrl: "https://menafn.com/1102135722/With-16mm-Seed-Raise-CAARY-Appoints-Senior-Fintech"
     type: article
     provider:
-      name: PR
-      domain: pr.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://img.pr.com/release/2105/482993/pressrelease_original_482993_1621847550.jpg"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "More Fintech: CNBC Disruptor List Includes 11 Fintechs with Robinhood at the Top of the List"
-    excerpt: "Disruptor 50 Companies list includes 11 Fintechs with Robinhood leading the pack. Last year's list included 12 Fintechs but this sector still tops all other categories. This really should come as no s"
-    publishedDateTime: 2021-05-25T15:14:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175816-more-fintech-cnbc-disruptor-list-includes-11-fintechs-with-robinhood-at-the-top-of-the-list/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175816-more-fintech-cnbc-disruptor-list-includes-11-fintechs-with-robinhood-at-the-top-of-the-list/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175816-more-fintech-cnbc-disruptor-list-includes-11-fintechs-with-robinhood-at-the-top-of-the-list/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 33
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Fintech-USA-Dollars-600x450.jpeg"
-        width: 600
-        height: 450
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?536605"
+        width: 419
+        height: 250
         isCached: true
 
 secured: "bzF0oAVeiPQkRAi55z1HO+c9C8eLVMu3jnVNaATCQN5XpJaZUPoiKsoY4Nro6lfXpRJ8uNCsUBFWNBEMxmJyk5VFS8hjlAsdEAthkkFxjuEX0IW4xLKbU3rE5tCOcBKs9ViGOpGuhCgwxUe2tb0oUNMmx09WTFe5chzUgrIcXwx7laudTn/4LdV3DMRZcZz3IjBA2DBeNSIsSRKv6hmIRiBPpEppZ5jYci1RBaqBUQfazQj4Cf5cg8ZLIyWYvt9WreqQFuhX8Vqm52P2sMGToDIu0i6viV4TCI9QOYtir7gWBgEAFkIav5PaCnLYAggeNSx/WrJv/hr3IOknYyyZG4p8O3v62ijB3MAB/B735+w=;eTmKDecIeXrk+Vlx8PLJWA=="
