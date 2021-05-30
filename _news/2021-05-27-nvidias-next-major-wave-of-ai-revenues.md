@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-a
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
+    excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."
+    publishedDateTime: 2021-05-30T12:50:00Z
+    webUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html"
+    ampWebUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 49
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2021/05/Perlmutter.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia CEO: ‘The Next Major Wave Of AI’ Is In The Enterprise"
     excerpt: "Jensen Huang says the chipmaker’s channel partners are integral to Nvidia’s new sales push with enterprise customers, which includes the new Nvidia AI Enterprise software suite that enables GPU-accelerated computing on VMware’s vSphere platform."
     publishedDateTime: 2021-05-26T23:47:00Z

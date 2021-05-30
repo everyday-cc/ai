@@ -7,7 +7,7 @@ originalUrl: "https://www.ems1.com/ems-products/medical-equipment/press-releases
 webUrl: "https://www.ems1.com/ems-products/medical-equipment/press-releases/eko-recognized-for-artificial-intelligence-innovation-in-healthcare-with-2021-medtech-breakthrough-awards-4BzGWCLJCpeDKfpq/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 900
     height: 900
     isCached: true
+
+related:
+  - title: "Elevatus Wins Best AI Powered Hiring Solution in the United Kingdom at the 2021 Technology Innovator Awards"
+    excerpt: "Elevatus, the AI solution provider, is leveling the playing field for HR with its hiring solution EVA-REC, which was presented with the award \"The Best AI Powered Hiring Solution\" in the highly coveted 6 th annual Technology Innovator Awards."
+    publishedDateTime: 2021-05-30T13:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-wins-best-ai-powered-hiring-solution-in-the-united-kingdom-at-the-2021-technology-innovator-awards-1030477428"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1521597/Elevatus_Technology_Innovator_Award.jpg"
+        width: 400
+        height: 210
+        isCached: true
 
 secured: "ifP3jfs+NYOTq1D3Sbqajy8MPsjOFhNeor0iED+YK32EeZOvnro//kRI8sUYNrCHtJZwpsPEM9kvbTGs2M8oBgk52u72dr9hvaCaR62rrExZqXS8exZLCEUv6w7q+HH0LhofPh9fLToMtNU01uN3Hh01ARnJKttn9NQZWn8Z+ulW54w7RNoaFbmbQepJBxarebOo8PYl7sNAefCjn9wcZ/sg4TdM+gm8TcbRM/R9ogBq5HKJFpMC3dZFonkKmlKl0X8cK3PG1GrGn8qI7Ke7emcu108aYQqasNdw6aw+m6WKOlKCxuXl7v+QlDsts9BpSqqC/W561MkjZ/rFJafjGWsG0XOyVwjaF3f3bjDXwd0=;2WG4wfJgqqiVgqWspNv1Yw=="
 ---

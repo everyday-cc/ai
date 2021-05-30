@@ -71,22 +71,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "Nokia makes AI move with Microsoft"
-    excerpt: "Nokia claimed a significant reduction in time taken to add AI to mobile networks through use cases employing Microsoft’s Azure public cloud."
-    publishedDateTime: 2021-05-25T19:01:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2016/05/microsoft-finland.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "OpenAI fund of $100 million for AI startups with Microsoft"
     excerpt: "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world."
     publishedDateTime: 2021-05-27T09:18:00Z
@@ -102,6 +86,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
         width: 850
         height: 400
+        isCached: true
+  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
+    publishedDateTime: 2021-05-30T11:47:00Z
+    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 74
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
+        width: 740
+        height: 493
         isCached: true
   - title: "How do you apply AI to Azure? Microsoft explains"
     excerpt: "These services combine Azure Cognitive Services with task-specific AI and business logic, so developers can accelerate building AI solutions for common scenarios, such as document processing, customer service,"

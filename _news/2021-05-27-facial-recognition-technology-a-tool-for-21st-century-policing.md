@@ -41,38 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "CBP expands use of facial recognition technology in New Mexico, West Texas"
-    excerpt: "U.S. Customs and Border Protection is expanding its use of facial recognition technology at border crossings in the El Paso Sector."
-    publishedDateTime: 2021-05-25T19:54:00Z
-    webUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/"
-    ampWebUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
-    cdnAmpWebUrl: "https://www-borderreport-com.cdn.ampproject.org/c/s/www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
-    type: article
-    provider:
-      name: BorderReport
-      domain: borderreport.com
-    quality: 59
-    images:
-      - url: "https://www.borderreport.com/wp-content/uploads/sites/28/2021/05/Facial-recognition-tech-CBP-courtesy-photo.png?w=1280"
-        width: 980
-        height: 700
-        isCached: true
-  - title: "Healey defends limited use of no-knock warrants, facial recognition"
-    excerpt: "Healey said she supported last year’s policing accountability bill that limited the use of no-knock warrants and facial recognition technology, but believes both can be valuable in limited"
-    publishedDateTime: 2021-05-25T19:53:00Z
-    webUrl: "https://www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/"
-    ampWebUrl: "https://www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/amp/"
-    type: article
-    provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 59
-    images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "N4A2VO3nfD8IfN8g+ls4CC2VYLQvahqsNgy3Xgnql8W9V3zbZ/05CwTtHY9/yh7LP1LDuJCB+Z+kLFMf0s0taJ+uOmjU04aIB5LvXJVz7c9GJz+MFqdLdrcJqxC0CZpjTsJWbwzqVLab8C2pH8RrvXUh+U30M1FMpwzBZMkKy7uS6SL+nMa9b1bQnyCAHvKjVrLeCVV5OPC7mRNdCc2FyoHJXBbJeo+BzrwnkLznS5RLYHNbFEoFor5yyFvcoVFGB/sus1CBMn5Fh64UA7KxTa1Ivs1sT7JFxGwnCrFQkfAxEgj2/CJKlsqWp3rd8Vk6kyNP3naU1hj+2t1VMJ+Q+UPeZbetTG9zaOJZG7AbcCqD4Py+x5o0zRuok4TpxuP3fp9hQWLizp667fj+W14xA3x2mA0mn2RWFB63aJKiqp5N0u5BA5K1KA0oTyGZrmedOLdHE8qxdUPV3sbNhbrRZgWcSbLqiWF0Vl8FECEAaadajRkQWMGbBKcj+eiMRMJGpy3BAbaPiu+On7YO1Yyp5w==;qe9oYnV8wwFJ5N0ca1ncZg=="
 ---

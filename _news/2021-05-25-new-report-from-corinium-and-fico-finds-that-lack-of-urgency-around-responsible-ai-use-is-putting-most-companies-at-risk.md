@@ -2,25 +2,19 @@
 category: news
 title: "New Report from Corinium and FICO Finds that Lack of Urgency Around Responsible AI Use is Putting Most Companies at Risk"
 excerpt: "FICO and Corinium today released its second annual executive research report on Chief Analytics, Chief AI, and Chief Data Officers 65% of respondents' companies can't explain how specific AI model decisions or predictions are made 73% have struggled to get executive support for prioritizing AI ethics and responsible AI practices Only a fifth (20%) actively monitor their models in production for fairness and ethics Today,"
-publishedDateTime: 2021-05-25T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use/article_d485892c-0583-53a5-9dce-a5b0b0e3c0da.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use/article_d485892c-0583-53a5-9dce-a5b0b0e3c0da.html"
+publishedDateTime: 2021-05-25T12:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-    width: 1200
-    height: 441
-    isCached: true
-
-secured: "dcflWrzI+0YFYqWEXv6T6eFW6hakL7MY56+xl9bYeGWN5VgyacHFAt1HDppD/EvmXaaPh2Yr3GEUNcwSnZqHMeXtlLBFKJfox3dZ2Gnw16fPgKu4SMAVNqS6tbReg2J0PzEQJB/X/1o1RQQuuKh/5Fhg9G2Sp/D8X7QaPi3bB4WqE8KqjSEB4vIX9Gz5JjnzcBhBaT8yyq/P+xmze+o6VnoIHr1GElhj8vQSEP2+UpDk6JKDzCDWNogdgZeZJ+HjeyaOG4mVu6FK2G+ojFnc/3wRB6+QzJdDBXodsGNIFeWp3uMCALhIa69tA62BRjxDnahfF+YEqt6CRS3I/+1ZxRCWm4ldhSt/0YU+rnWqswQ=;QNKmj/Yj5NwBEeT9fRfS0g=="
+secured: "YplIsKCQ/Z80cVST8nqq0Ya40fdFlADmQm8WXTGVqma9FK3fpNpTsiprhLWETxlxHfGMXZMdKdge4XnC0ZzbT6k4tDS8eDUgyVKhcZyQ8v7Mrat57gPhCyMHADHIhgqiAm80PFCmbwztFuxuLuS3pIF8/sLwedl1Grntaz1ASyrzEHUmgDM3dsRb3rJFbLhGPqD5v3D0eFfzYyhPGmq8kAt0CUzUd/sl0HTpoKA04ifbB/zecarmh0jvt/5hqAJwgHl0/eVIADgiH6NVU4tyaAapRTX5DOmfOPQubTauPkVyhg8JezfehlQ7jtI5GFXoU4/+6Yn+mmNUtTwioOOc9aIkpJIJuhdF3eZWq+lOJtLQGst+m7sjjJeb3przz9IzwEzrNAQ6iUMEruFAkBliZHtnwnQgEbUN1OzrNYEy3OLo/t/G7Lcz66MDDwNbV5H/2hab7Nc0+ORW4DJrPoe9RfAWxtc85wLmoV8NeAO+QwUK1YC4uOd0Lk42Bc/Y+5k1MEeVVQnAZu/h/jZJDP0Y8Q==;Ea8cO8VidmikvgMVVQHQ7Q=="
 ---
 

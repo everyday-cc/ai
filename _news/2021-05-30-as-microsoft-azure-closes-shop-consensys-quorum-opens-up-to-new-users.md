@@ -1,25 +1,30 @@
 ---
 category: news
-title: "How do you apply AI to Azure? Microsoft explains"
-excerpt: "These services combine Azure Cognitive Services with task-specific AI and business logic, so developers can accelerate building AI solutions for common scenarios, such as document processing, customer service,"
-publishedDateTime: 2021-05-28T07:15:00Z
-originalUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/"
-webUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/"
-ampWebUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
+title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
+publishedDateTime: 2021-05-30T11:47:00Z
+originalUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
 type: article
-quality: 71
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Dataquest
-  domain: dqindia.com
+  name: CoinTelegraph
+  domain: cointelegraph.com
 
 topics:
   - Microsoft AI
   - AI
-  - Google AI
+
+images:
+  - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
+    width: 740
+    height: 493
+    isCached: true
 
 related:
   - title: "OpenAI launches $100 million startup funded with backing from Microsoft"
@@ -84,22 +89,17 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
-    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
-    publishedDateTime: 2021-05-30T11:47:00Z
-    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
-    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+  - title: "How do you apply AI to Azure? Microsoft explains"
+    excerpt: "These services combine Azure Cognitive Services with task-specific AI and business logic, so developers can accelerate building AI solutions for common scenarios, such as document processing, customer service,"
+    publishedDateTime: 2021-05-28T07:15:00Z
+    webUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/"
+    ampWebUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
-        width: 740
-        height: 493
-        isCached: true
+      name: Dataquest
+      domain: dqindia.com
+    quality: 71
   - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
     excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
     publishedDateTime: 2021-05-26T17:00:00Z
@@ -252,6 +252,6 @@ related:
         height: 900
         isCached: true
 
-secured: "QQYqmeRNdcet5kK1zlDQmbDlD7HBC+999tz7x26Qn4+xYfTUJGh6uSEmsUpC228rvAy3DfRrGmLHKsv8dAWpSIqz1wy4c6NtMj8Zm9zu6zOB8ygymwSuN5ljznOCtj2RwHkuFqSr6RN31SlzfjA9XfYZagLVr7O9ZXnw1XveaxSpAjepHtWYjHe6EM64BfOt1hPIOSblYy9OG/35fXLVLTtw5zsD/LPyatN9g+SjeoP+4eyEmjoLv1n8VtlHyaoQ1nHEykXGFHtCZg4ZA3lBwQkbVFJA9Tj9QgGAuSxvYIWKn+JbrAvZw43+hqAQN07FawbkW71L2hmOt3q+tLAxLEietEWtZizDd6tFAYSqWMVopbIi7DqyfjJJprfkrSmwF6TBwr9gTrHRpZdlJ9C+Lfj1QbKNxv5J92f0LNQv0YtP3558HPhXRwa3W/+Ej5VY3+uafECZ1O5ZZO2VcH8dyyVf4O4zAD9ME4Bu1hmLrlXL36QjU4LjqXMKWZwJtqDcnLb97w5eQRifIDf1ldSsSQ==;qdUYn45vgzOJqyhGRwN9QQ=="
+secured: "bPo66/+0tx/iwX5/eK787h/9JMioM7Tmplg6EWzjn1pBVL6CshWZKPk/DEfbnak1YG5IrSyfh3z/CqGJOk+fEgjkZAqTLRPcZG/n3w+nBE9tewOnNzTwpsf7k7HrKBCcfRDd7tZLtYQRT4M8TdnfvKOh7DU97qVR2jsQcCa4tiLFeGQ20SQ45AmUJ7zCEAUTNjAbs8/HHnQhUFVK9YDBpCz8I8DkK5JQR2RjxceTQUI9YW8poEms464cPXsjQacJHrsLCJQzzFKk1P+Uorw1tWQi4DHKfm5APVt+fykcmaWKFSqaBO9rGFXQVTgS7F1M4dm9pv+Y+qH151WHxeEWY2RNfJV72T2KdldXV01s4e8=;QD4ont6QAEADOMFMvJ/pbw=="
 ---
 

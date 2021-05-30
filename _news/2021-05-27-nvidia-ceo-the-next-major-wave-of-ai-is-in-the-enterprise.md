@@ -41,6 +41,22 @@ related:
         width: 937
         height: 592
         isCached: true
+  - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
+    excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."
+    publishedDateTime: 2021-05-30T12:50:00Z
+    webUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html"
+    ampWebUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 49
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2021/05/Perlmutter.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Nvidia plans to own the data center with AI"
     excerpt: "Nvidia Corp. wants to transform enterprise computing completely by making data centers run 10 times faster at one-10th the cost. Nvidia Chief Executive Jensen Huang (pictured) is crafting a strategy to re-architect today’s on-premises data centers,"
     publishedDateTime: 2021-05-29T18:37:00Z

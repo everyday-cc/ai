@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded
 webUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 400
     height: 209
     isCached: true
-
-related:
-  - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
-    excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards."
-    publishedDateTime: 2021-05-25T21:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2021-edge-ai-and-vision-product-of-the-year/article_c481754c-ab14-5936-9d91-8923820d9113.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
 
 secured: "yfm2/HeF5pfwiRMObsacx3dRUHNKDWNKWSCbhwrzEwaTXZmBfch8Y8zaHjHQB+so+kn/1NDktfNG8kxr8Y67JdFrkBnOn5ZJT+rncvy96rj3CNME7X7P+kv25//qniYLtIlWpv2z4i7n4BHdUci31Ayg1IYiOrTsIooTjSbeyQkonr5eaRgvMENW24t/KQaX/tf/bJqw2t5dyZF3Ak3FX4IdP3BXAqi8wMZvVsUNW6LewHMS6KtUC3UA4WwGFY8YKmsBZy2EARBYmk96v1ZPIfeMHyjqwLyaGeL2ybqDHmrigVqQFVgCd3MPO6bWPMrunTYgi3jkADrazvZ6ReolMFogO6XYKfdXkmNeWyq3EXFA/CvfWhObIb392ijIXflAajBM22eDumWw7pv+UNbkaX0OMMM0Or3e9xY2+PclNbvX4GeZXjTtfJGsSBmA76mwKUIyjcsQMzNodoJTNNbU4IS41bCyc3FTqFkt+62beAEKIaAZQbmTZPzXDS5GKAQnpLlDcXBn+QPmETFy11qD9Q==;0VrExDT2AezoqMDnXtpj7g=="
 ---
