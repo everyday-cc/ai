@@ -2,438 +2,21 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2021-04-28-meet-amy-the-ai-meme-generators-using-deep-learning.md",
-      "title": "Meet AMY: The AI meme generators using deep learning",
-      "excerpt": "It has been architectured to analyze information and produce humor. It solves problems that would be impossible or difficult by human or statistical standards.",
+      "path": "_news/2021-04-30-how-ai-is-mishandled-to-become-a-cybersecurity-risk.md",
+      "title": "How AI is Mishandled to Become a Cybersecurity Risk",
+      "excerpt": "While infosec specialists use AI for benign purposes, threat actors mishandle it to orchestrate real-world attacks. At this point, it is hard to say who is winning.",
       "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/",
-      "originalUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/web-4861609_640.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/",
-      "publishedDateTime": "2021-04-27T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-aws-deepracer-device-software-now-open-source.md",
-      "title": "AWS DeepRacer device software now open source",
-      "excerpt": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. Today, we’re expanding AWS DeepRacer’s",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T09:39:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-nato-tees-up-negotiations-on-artificial-intelligence-in-weapons.md",
-      "title": "NATO tees up negotiations on artificial intelligence in weapons",
-      "excerpt": "Exactly where the alliance falls on whether to allow or disavow varied autonomous and AI-powered weaponry is expected to be a hotly debated topic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinecorpstimes.com/artificial-intelligence/2021/04/27/nato-tees-up-negotiations-on-artificial-intelligence-in-weapons/",
-      "originalUrl": "https://www.marinecorpstimes.com/artificial-intelligence/2021/04/27/nato-tees-up-negotiations-on-artificial-intelligence-in-weapons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.armytimes.com/resizer/M0XN0aKszsNZZScRAM73oF5eitU=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/ZOHTBWAHHJFXHEO5X7UR3ENXR4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Corps Times",
-        "domain": "marinecorpstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages.md",
-      "title": "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages",
-      "excerpt": "The CAPQTM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level inspection. The CAPQ System uses AI-powered deep learning software to recognize what a “good” capped bottle is supposed to look like and can deliver a dramatic reduction in false-rejects,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-language-learning-startup-toucan-raises-45m.md",
-      "title": "Language learning startup Toucan raises $4.5M",
-      "excerpt": "Toucan, a startup that helps users learn a new language while they browse the web, is announcing that it has raised an additional $4.5 million in seed funding. As I wrote last fall, the Santa Monica,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/",
+      "webUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
+      "originalUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/browser-only.jpg?w=680",
-          "width": 680,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/toucan-seed-funding/amp/",
-      "publishedDateTime": "2021-04-27T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-tesla-is-becoming-more-of-an-artificial-intelligence-and-robotic-company-says-elon-musk.md",
-      "title": "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk",
-      "excerpt": "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
-      "originalUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
-      "publishedDateTime": "2021-04-27T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning.md",
-      "title": "JG Wentworth Welcomes Andrey Zelenovsky as their Vice President of Artificial Intelligence and Machine Learning",
-      "excerpt": "JG Wentworth announces Andrey Zelenovsky as the company's Vice President of Artificial Intelligence and Machine Learning. Zelenovsky will leadand leverage Robotic Process Automation (RPA) and Artificial Intelligence (AI) to streamline business process and enhance customer engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyamerican.com/story/news/2021/04/27/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning/115954270/",
-      "originalUrl": "https://www.dailyamerican.com/story/news/2021/04/27/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning/115954270/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/566acc86dad952c4145099e5ca32f79327eaf1ef/c=0-175-800-625/local/-/media/2021/05/02/Somerset/8c46fb919a698b1461c32bbefbe8506d.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dailyamerican.com/amp/115954270",
-      "cdnAmpWebUrl": "https://amp-dailyamerican-com.cdn.ampproject.org/c/s/amp.dailyamerican.com/amp/115954270",
-      "publishedDateTime": "2021-04-27T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily American",
-        "domain": "dailyamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-official-master-changan-is-testing-self-driving-cars-in-pakistan.md",
-      "title": "Official: Master Changan is Testing Self-Driving Cars in Pakistan",
-      "excerpt": "The future finally meets the roads of Pakistan. Master Changan Motors is leading Pakistan into the future of mobility by",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/",
-      "originalUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2016/05/Mobilink_Microfinance_Bank.jpg",
-          "width": 750,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/amp/",
-      "publishedDateTime": "2021-04-27T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights.md",
-      "title": "Machine learning security vulnerabilities are a growing threat to the web, report highlights",
-      "excerpt": "Security industry needs to tackle nascent AI threats before it’s too late. As machine learning (ML) systems become a staple of everyday life, the security threats they entail wi",
-      "sourceUrl": null,
-      "webUrl": "https://portswigger.net/daily-swig/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
-      "originalUrl": "https://portswigger.net/daily-swig/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://portswigger.net/cms/images/20/7c/f2c9-twittercard-210427-ai-machine-learning-body-text.jpg",
-          "width": 506,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://portswigger.net/daily-swig/amp/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
-      "cdnAmpWebUrl": "https://portswigger-net.cdn.ampproject.org/c/s/portswigger.net/daily-swig/amp/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
-      "publishedDateTime": "2021-04-27T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PortSwigger",
-        "domain": "portswigger.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-computer-vision-is-changing-residential-property-management.md",
-      "title": "Computer Vision Is Changing Residential Property Management",
-      "excerpt": "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring AI solutions into property management. Property management is an essential service facilitating the balance in the rental housing market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-is-changing-residential-property-management-2021-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-is-changing-residential-property-management-2021-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/AI.threats.cybersecurity2.png",
+          "width": 748,
+          "height": 438,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -443,14 +26,66 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T05:39:00-07:00",
+      "publishedDateTime": "2021-04-29T11:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "eWeek",
+        "domain": "eweek.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-a-false-facial-recognition-match-sent-this-innocent-black-man-to-jail.md",
+      "title": "A false facial recognition match sent this innocent Black man to jail",
+      "excerpt": "Story & Video by John General and Jon Sarlin, CNN Business Updated 1623 GMT (0023 HKT) April 29, 2021 Paterson, NJIn February 2019, Nijeer Parks walked into the Woodbridge Police Department to ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200302-restricted-01-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
+      "publishedDateTime": "2021-04-29T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -471,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-27-google-pressured-on-racial-equity-audit-after-ai-ethics-collapse.md",
-      "title": "Google Pressured on Racial Equity Audit After AI Ethics Collapse",
-      "excerpt": "Gebru and her co-lead Margaret Mitchell were ousted and have blamed a sexist and racist culture as the reason they were excluded from conversations about AI ethics. Gebru is well-known for her work on a landmark study in 2018 that showed some facial ...",
+      "path": "_news/2021-04-30-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript.md",
+      "title": "Nokia Corporation (NOK) CEO Pekka Lundmark on Q1 2021 Results - Earnings Call Transcript",
+      "excerpt": "Q1 2021 Earnings Conference Call April 29, 2021 08:00 AM ET Company Participants Matt Shimao - Head of Investor Relations Pekka Lundmark - President &",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-27/google-pressured-on-racial-equity-audit-after-ai-ethics-collapse",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-27/google-pressured-on-racial-equity-audit-after-ai-ethics-collapse",
+      "webUrl": "https://seekingalpha.com/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iox2cS.BPlds/v0/1200x800.jpg",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
           "width": 1200,
-          "height": 800,
+          "height": 1200,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -493,65 +128,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T05:18:00-07:00",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
+      "publishedDateTime": "2021-04-29T11:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-risk-solutions-to-og-pipeline-operators.md",
-      "title": "C-FER Technologies and OneSoft Enter into a Technology Sharing Agreement to Deliver Quantitative Risk Solutions to O&G Pipeline Operators",
-      "excerpt": "EDMONTON, AB / ACCESSWIRE / April 27, 2021 / C-FER Technologies (1999) Inc. (“C-FER”) and OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft”) are pleased to announce that C-FER has entered into a technology sharing agreement with OneSoft’s wholly owned subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
-      "originalUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -566,21 +149,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-27-unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal.md",
-      "title": "UNISOC T618 Is Designed to Improve the Imaging & AI Capabilities of the Terminal",
-      "excerpt": "UNISOC T618 is an 8-core architecture LTE chip that was launched in August 2019. And, it is based on 12nm process technology and consists of two 2.0 GHz Arm Cortex-A75 CPUs and six 1.8 GHz Arm Cortex-A55 processors.",
+      "path": "_news/2021-04-30-plus-one-robotics-raised-33m-from-investors.md",
+      "title": "Plus One Robotics raised $33M from investors",
+      "excerpt": "The funding round is the latest win for Plus One Robotics after strong growth throughout 2020. This year, it doubled the size of its Port San Antonio facilities. The funding will help the 44-employee company expand its operations in the United States and Europe.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal/article_f98b8ef5-fe87-508b-a4d1-d78995d993aa.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal/article_f98b8ef5-fe87-508b-a4d1-d78995d993aa.html",
+      "webUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
+      "originalUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/a/bf/abf5b7cc-f6c4-5db1-aeb9-b6f2b70d0bab/6087e484cc749.image.jpg?resize=841%2C630",
-          "width": 841,
-          "height": 630,
+          "url": "https://s.hdnux.com/photos/01/17/63/26/20919720/5/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -588,471 +171,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T03:14:00-07:00",
+      "ampWebUrl": "https://www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
+      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
+      "publishedDateTime": "2021-04-29T10:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-amazon-releases-deepracer-software-in-open-source.md",
-      "title": "Amazon releases DeepRacer software in open source",
-      "excerpt": "Register fo r the AI event of the year. In November 2018, Amazon launched AWS DeepRacer, a car about the size of a shoebox that runs on AI models trained in a virtual environment with ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/",
-      "originalUrl": "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/deepracer.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/amp/",
-      "publishedDateTime": "2021-04-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion.md",
-      "title": "XNFY Lab Announce the Launch of an AI Generated Fashion",
-      "excerpt": "EVOLUTION OF OUR AI GENERATED FASHION Overall, Microsoft Azure Machine Learning enhances the business potential for fashion by empowering researchers to collaborate, improve, train and deploy AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-04/52690478-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-04/52690478-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-toyota-acquires-lyfts-self-driving-unit-for-550-million.md",
-      "title": "Toyota acquires Lyft's self-driving unit for $550 million",
-      "excerpt": "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_e240acd86ea84a03a885c1219259f4fd_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "publishedDateTime": "2021-04-26T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-making-ai-great-again-how-do-we-design-ethical-ai-systems.md",
-      "title": "Making AI great again: how do we design ethical AI systems?",
-      "excerpt": "The debate around how AI will shape our future is ongoing, and it is already affecting our present. Accenture investigates how issues around ethics and regulation are becoming increasingly urgent. Artificial intelligence is a powerful agent of change in our society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems",
-      "originalUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/606daada938ecee6e930ed97/master/pass/AccentureAI_Lead.jpg",
-          "width": 3085,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems/amp",
-      "publishedDateTime": "2021-04-26T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-toyota-acquires-lyft-self-driving-division-for-550-million.md",
-      "title": "Toyota acquires Lyft self-driving division for $550 million",
-      "excerpt": "Toyota subsidiary Woven Planet announced that it would acquire Lyft's Level 5 self-driving R&D division for $550 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/",
-      "originalUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/s1.reutersmedia.net_.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/amp/",
-      "publishedDateTime": "2021-04-26T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus.md",
-      "title": "Apple will focus on machine learning, AI jobs in new NC campus",
-      "excerpt": "Apple's new campus and engineering hub in North Carolina will focus on machine learning, artificial intelligence, and software engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/",
-      "originalUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/amp/",
-      "publishedDateTime": "2021-04-26T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first.md",
-      "title": "Why Will The Next Successful Startup Out Of The COVID-19 Era Be AI-First?",
-      "excerpt": "As world is dealing with the massive impact of COVID-19, entrepreneurs are busy at work, springing up new businesses that can bring back the economy. With Artificial Intelligence becoming ubiquitous today,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
-      "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60875898e93f124f08227ace%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4071%26cropY1%3D164%26cropY2%3D2454",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/",
-      "publishedDateTime": "2021-04-26T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions.md",
-      "title": "AWS Augmented Artificial Intelligence adds human review to machine learning predictions",
-      "excerpt": "Amazon’s Augmented Artificial Intelligence ... for common machine learning to improve the symbiotic work with Amazon Rekognition and Amazon Textract, the company stated. Additionally, users ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/",
-      "originalUrl": "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/Product-Page-Diagram_A2I@2x.2fe2e8e5eed05fa5045835c3f3f04e23a9245e9c.png",
-          "width": 2208,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more.md",
-      "title": "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more",
-      "excerpt": "Chinese internet giant Baidu has been developing self-driving technologies for seven years without making money, but the company is committed enough to the future of transport to keep going for at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/05/708543.jpg",
-          "width": 1240,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-paralyzed-patients-move-vicariously-through-mind-controlled-robot.md",
-      "title": "Paralyzed Patients Move Vicariously Through Mind-Controlled Robot",
-      "excerpt": "These scientists successfully demonstrated the capabilities of a robot controlled by the mind of a partially quadriplegic patient in a hospital 62 miles away. Mind-controlled robotic systems aren ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2012/04/paralyzed-patients-move-vicariously-through-mind-controlled-robot.html",
-      "originalUrl": "https://www.medgadget.com/2012/04/paralyzed-patients-move-vicariously-through-mind-controlled-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1067,21 +192,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-27-swift-for-tensorflow-becomes-open-source.md",
-      "title": "Swift for TensorFlow becomes open source",
-      "excerpt": "Google has announced that Swift for TensorFlow is now officially an open source project on GitHub. Swift for TensorFlow was initially announced and demoed last month at the TensorFlow Developer ...",
+      "path": "_news/2021-04-30-china-publishes-draft-security-standard-on-facial-recognition.md",
+      "title": "China Publishes Draft Security Standard on Facial Recognition",
+      "excerpt": "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/goog/swift-for-tensorflow-becomes-open-source/",
-      "originalUrl": "https://sdtimes.com/goog/swift-for-tensorflow-becomes-open-source/",
+      "webUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
+      "originalUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 126,
       "tags": null,
       "images": [
         {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/04/0_jJ_mOdybYWNTAnIg_.png",
-          "width": 800,
-          "height": 310,
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1089,66 +214,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T17:00:00-07:00",
+      "ampWebUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
+      "publishedDateTime": "2021-04-29T10:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-today-in-b2b-forwardai-on-faster-smb-finance-battery-ventures-saas-fintech-focus.md",
-      "title": "Today In B2B: ForwardAI On Faster SMB Finance; Battery Ventures' SaaS FinTech Focus",
-      "excerpt": "Today in B2B payments, ForwardAI talks faster small business lending, Battery Ventures invests in SaaS FinTechs and Allica Bank launches direct-to-SMB banking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/B2B-ForwardAI-SMB-banking-Mastercard-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/",
-      "publishedDateTime": "2021-04-26T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1158,10 +230,11 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "AI in Security"
       ]
     }
   ],
-  "nextPage": 39
+  "nextPage": null
 }

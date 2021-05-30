@@ -37,20 +37,6 @@ related:
         width: 1920
         height: 1289
         isCached: true
-  - title: "Transforming our understanding of deep learning"
-    excerpt: "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent."
-    publishedDateTime: 2021-05-26T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fetal Heart Defect Detection Improved by Using Machine Learning"
     excerpt: "UCSF researchers have found a way to double doctors’ accuracy in detecting the vast majority of complex fetal heart defects in utero."
     publishedDateTime: 2021-05-26T23:09:00Z

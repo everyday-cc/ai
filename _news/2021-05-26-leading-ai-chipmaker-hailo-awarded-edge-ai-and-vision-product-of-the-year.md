@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded
 webUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: TMCnet
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
-    excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
-    publishedDateTime: 2021-05-25T16:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210525sf88576/edge-ai-and-vision-alliance-announces-2021-edge-ai-and-vision-product-of-the-year-award-winners"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 7
   - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
     excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards."
     publishedDateTime: 2021-05-25T21:00:00Z

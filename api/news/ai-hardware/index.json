@@ -245,21 +245,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-26-leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year.md",
-      "title": "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year",
-      "excerpt": "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor.",
+      "path": "_news/2021-05-26-a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai.md",
+      "title": "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI",
+      "excerpt": "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
+      "webUrl": "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/",
+      "originalUrl": "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg",
+          "width": 640,
+          "height": 426,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -269,11 +269,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T06:10:00-07:00",
+      "publishedDateTime": "2021-05-26T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "thenewstack.io",
+        "domain": "thenewstack.io",
         "images": null,
         "publishers": null,
         "authors": null
@@ -284,7 +284,10 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "Google AI"
       ]
     },
     {
@@ -1129,8 +1132,8 @@
       "title": "The 10 Hottest AI Chipmakers You Should Be Watching In 2021",
       "excerpt": "CRN looks at the 10 hottest AI chipmakers to watch in 2021, which includes Intel, Nvidia and several startups in the AI hardware space.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/6",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/6",
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

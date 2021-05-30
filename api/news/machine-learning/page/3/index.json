@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-12-artificial-intelligence-can-now-detect-sarcasm-but-for-what.md",
+      "title": "Artificial Intelligence Can Now Detect Sarcasm. But For What?",
+      "excerpt": "Researchers from the University of Central Florida have created an artificial intelligence device that can detect human sarcasm. Read about the uses of this AI tool here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/artificial-intelligence-can-now-detect-sarcasm-but-for-what/",
+      "originalUrl": "https://www.analyticsinsight.net/artificial-intelligence-can-now-detect-sarcasm-but-for-what/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-7.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
       "title": "Machine learning & Artificial intelligence to Gain traction!",
       "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
@@ -1356,59 +1399,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-undergraduates-explore-practical-applications-of-artificial-intelligence.md",
-      "title": "Undergraduates explore practical applications of artificial intelligence",
-      "excerpt": "SuperUROP scholars funded by the MIT Quest for Intelligence worked with faculty this past year exploring AI applications ranging from optimized scheduling to modeling ocean dynamics to improve climate model projections.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
-      "originalUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202104/mit-superurops.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

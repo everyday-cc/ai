@@ -36,15 +36,6 @@ related:
         width: 650
         height: 300
         isCached: true
-  - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
-    excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital"
-    publishedDateTime: 2021-05-25T15:37:00Z
-    webUrl: "https://www.glamsham.com/world/technology/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 19
 
 secured: "PtEIKVZLka0sHk41GzvwB0nfPja/qgU3i1alHNgSFI4HESq3sJ7tSzdm7Xva7UkOgoMPJBW+fkrpAwsaw0NO9j1n8hERZuGKxLM1vnZ8AR6dYirKBRlLOtv704V6MRuoLFOFUULiezmtIWwpRwq+f1NqUe1LDDTf4fuG79qbDBFT1I1lFp6c0x2IxiIru67oGOofex/9l8xtAdmCee5W0W0TqYVyO6Zuum1zBT20jaowwJtUPcVLqSEwz1u54X0csETKliOI0v6DccQQ1AFzmafYzv4eA/fH6TXdj0MdIRhZkqrwscoyxo3cODZT8uk+ql6iio5Pj8++/vZ7ehP9yRjeKKMwEJorN23Jk/hxPS0=;cblH7pGsNqvGkJ1U90IpVg=="
 ---

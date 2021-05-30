@@ -24,17 +24,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Women CEOs Demonstrated More Inclusive Leadership Style During COVID Peak: S&P Global Diversity Research Lab"
-    excerpt: "Women's Leadership Language Connects with Wider Range of Stakeholders, Analysis of Nearly 5,000 COVID-Era Earnings Calls Reveals"
-    publishedDateTime: 2021-05-25T16:46:00Z
-    webUrl: "https://www.csrwire.com/press_releases/723221-women-ceos-demonstrated-more-inclusive-leadership-style-during-covid-peak-sp"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 0
-
 secured: "T9suXj1gylnTHLFTAbL3JeMPH5fzqgbVCNl0qgdAv+LRO7ITURD+ClSP4bBagyn7QKq9wTFEtyYMGUY3VbgJ/qeq3Cdq2gZuxa4CNsxfpUradb9yIP9oQTdPA/AK3VKAPDC65m9+aKhNPO4z7rdy6LOCyRCBzSS/wxnXxZVp+/m2XixLwLoYaBydKH7FKkk9/THMREOrjkRTlHoAiFjNYotD1b+7t2YFfF9iXQmDRDOrLN31+zNGpynZK9WimEoIMvCX5OakDlUvlmm8reSZF+WEwg/ixg8C4QWTPR4S9EB0RIqBXPKuNpa9wpu1+i2/yM4pZ1yQQ3o9tSiubnEncpStwUXch++Ni+ybz2z1ra4=;8hvPQWTNOzoM3yZuYb1xNA=="
 ---
 

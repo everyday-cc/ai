@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI rises to the challenge with COBOL"
-excerpt: "From Connecticut to California, states across the country are in desperate need of COBOL - Common Business-Oriented Language - programmers. When the deluge of coronavirus-related unemployment claims began pouring in at the pandemic’s onset,"
-publishedDateTime: 2021-05-28T10:19:00Z
-originalUrl: "https://www.techradar.com/in/news/ai-rises-to-the-challenge-with-cobol"
-webUrl: "https://www.techradar.com/in/news/ai-rises-to-the-challenge-with-cobol"
-ampWebUrl: "https://www.techradar.com/in/amp/news/ai-rises-to-the-challenge-with-cobol"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ai-rises-to-the-challenge-with-cobol"
+excerpt: "As is the case with spoken languages, meaning risks getting lost in translation between different ... reveal the bug that they seek to fix. When AI knows in advance all behaviors, such tools ..."
+publishedDateTime: 2021-05-28T10:42:00Z
+originalUrl: "https://www.techradar.com/news/ai-rises-to-the-challenge-with-cobol/"
+webUrl: "https://www.techradar.com/news/ai-rises-to-the-challenge-with-cobol/"
+ampWebUrl: "https://www.techradar.com/amp/news/ai-rises-to-the-challenge-with-cobol"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-rises-to-the-challenge-with-cobol"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 270
     isCached: true
 
-secured: "gfUnC8Zhx2c5j7xYzbYGgUOPLg2MZHPTWRsvrqhZX2UORl9ILXgj4rOVYTrr6NdXWnlwpJdlbTp76DUIEZgFMs1QSxaJyoJy+uLqHe9Dc7uo1Lzf9nLN4OeO7JuiALz4goqOVgEAJunbHZKyCfWzBjpQF16F2kOo7T7B78GP1zzY2f3RWfyFVZhXRMFEOBISQRdSCeKyA+Vdpzt9xgc/0wWlIkDOK1lLlg9L3eIcpiEUD8rByFl7/TCjcIwJZPt2YL5PuWlmlOT8Ku3uqfELYx4ZdCtzS51pCba9NWKyOOSezSw8hsOmUtSR4fFeVrnCYqUVpLDpdAXoRMqnjFX5LQFJUiCPWPbrNQIx+Pu9rD9b0rPMz1rKasbY9mm/OjUBU1lnG3f572CZ/3NR7XF2pzSou1BHFKMUF8n7tGR5DKbq1VIqpc1zGb31vNWbJQcKnrEdkO0n4ctH/U/iv+Bymyhs8RxZCkEsmsWNUJKNiro9hyjp7ebwavK0NLQgpHLRbiQnvP+hx0KTGLu7M4FeAQ==;p4tWe40zNuG6kLpuS7G8hw=="
+secured: "mb2wurfwsdym+Go+K1HO46nSsd8unyK0Uuyo7aj3X+Ij4tc5ygqP1Nje+fRDJgRRISWIQ0fCOOWaumwcWak+/fThuoM9XT0oa5apezb4ngmHSGJZu4ILgFyPyB+gpiImCjLckjLnDlCb6+XsDYQxkBIIwybRpuU733+B1ghOPxm6u5TG/deVEF7/MSlBCl+BDUQx4SUQQDt2khy0sxSB749YGzYYsuZrXsKbCXtuACI2W8RORIafbzK+ddRNQZMVptj736ZxHcLl5IZFUGqrGtTj3Hg8nJwgteluk3t0neG910fun62gOqkZ2fsmwkPVZknV10CjJJ7QcbAJLz4glQabmB7XQJ5JIZNMhqPfmes=;ZnFW2QIO0GfVhzs3Wr0VNQ=="
 ---
 

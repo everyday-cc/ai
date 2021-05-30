@@ -33,15 +33,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
-    excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
-    publishedDateTime: 2021-05-25T16:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210525sf88576/edge-ai-and-vision-alliance-announces-2021-edge-ai-and-vision-product-of-the-year-award-winners"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 7
 
 secured: "xMsk64N4oJo35A9mLoMAiDOLX4+RMMaCB7X91b30NV0S9jq/nyEiHSRYGeQQ1uLMX1lrDfJVEMTaG7uTsQcxJ30HxtlBww2rKAM3ik7PZwnYkgXGFP3vRI8WXk+xWEr11DzX1T1G0cghNHRuCRthb9MW/0lA7wfzyRjkBz0K98AT8BXOqw0XNOU2GlzmuGrTDag9ML9caF3DHfYvbeo9tmcMzTcdMJb+uNrWISnPW2YAl3kZnBPWIAAbmLEE7Ab1S/yuuyIsRiL4DDwBQOY1S40BJAh3mtJo1kQUTU/vkrQ4XXrvw6aRcYDeHw0x/f1zwLMSXHMC2CD7cjwknkP3qvGv2ipUKhm2LJqbbB29xSk=;EiU0iq7fk+xJWLUbF/rNjw=="
 ---

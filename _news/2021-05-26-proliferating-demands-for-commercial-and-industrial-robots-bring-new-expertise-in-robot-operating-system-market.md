@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Design Insights: Robots in Manufacturing; Robotic Welding and Operational Efficiency; Get Entered into the IDEA! Awards"
-    excerpt: "Book. A recent research project undertaken by Machine Design and Schmersal took a look at the use of robots in manufacturing. The key findings of"
-    publishedDateTime: 2021-05-25T15:16:00Z
-    webUrl: "https://www.machinedesign.com/community/article/21165104/design-insights-robots-in-manufacturing-robotic-welding-and-operational-efficiency-get-entered-into-the-idea-awards"
-    type: article
-    provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 15
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/machinedesign/image/2021/05/LandingPage_Insights_Cover.60a80ce2e71f1.60ad142076b4c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 589
-        isCached: true
   - title: "RoboAds Introduces the World's First Mobile Advertising Robot for Displaying NFT ART and Live Cryptocurrency Pricing"
     excerpt: "RoboAds develops a new generation of advertising robots by combining digital signage, robotics and AI under one platform. RoboSignage is RoboAds' first commercial robot specifically designed for indoor advertising and virtual telepresence."
     publishedDateTime: 2021-05-26T12:38:00Z

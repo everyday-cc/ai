@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
-    excerpt: "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade."
-    publishedDateTime: 2021-05-25T15:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 88
   - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
     excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
     publishedDateTime: 2021-05-25T17:06:00Z
@@ -47,43 +36,66 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Virtual event: How artificial intelligence is transforming health care"
-    excerpt: "Reporters Casey Ross and Erin Brodwin examine the possibilities and pitfalls of artificial intelligence, and offer recommendations for best practices."
-    publishedDateTime: 2021-05-27T13:30:00Z
-    webUrl: "https://www.statnews.com/2021/05/27/virtual-event-how-artificial-intelligence-is-transforming-health-care/"
+  - title: "The Vertical Approach: Why AI Should Be Industry Specific"
+    excerpt: "If the pandemic has taught technology leaders anything, it's that those who are adamant about digital transformation have found the most success one year later."
+    publishedDateTime: 2021-05-28T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/28/the-vertical-approach-why-ai-should-be-industry-specific/"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afc0ce52e17fc9930d1689%2F0x0.jpg"
+        width: 1200
+        height: 840
+        isCached: true
+  - title: "Transforming our understanding of deep learning"
+    excerpt: "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent."
+    publishedDateTime: 2021-05-26T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: "https://www.statnews.com/wp-content/plugins/stat-lazy-load/images/330x400-00000000.png"
-        width: 330
-        height: 400
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
-    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer programs can distinguish between images of benign growths and"
-    publishedDateTime: 2021-05-27T16:48:00Z
-    webUrl: "https://www.miragenews.com/incorporating-health-equity-and-racial-justice-567708/"
+  - title: "How AI Can Change The Way We Think About Insurance"
+    excerpt: "In the past several years, the insurance industry has seen a significant shift from traditional to automated customer service; in fact, more than 80% of CEOs say that AI is a part of their business models or will be in the coming years."
+    publishedDateTime: 2021-05-29T21:44:00Z
+    webUrl: "https://customerthink.com/how-ai-can-change-the-way-we-think-about-insurance/"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 29
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
     images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
+      - url: "https://customerthink.com/wp-content/uploads/thought-1088647_1920-pixabay-innovation-ideas-think.jpg"
+        width: 1768
+        height: 1178
         isCached: true
-  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
-    excerpt: "BIDMC's Yuri Quintana, PhD discusses how diverse clinical research data affects treatment strategies and outcomes for underrepresented members of the community."
-    publishedDateTime: 2021-05-27T18:23:00Z
-    webUrl: "https://www.bidmc.org/about-bidmc/news/2021/05/incorporating-health-equity-racial-justice-into-medical-artificial-intelligence-systems"
+  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
+    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
+    publishedDateTime: 2021-05-25T20:38:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
     type: article
     provider:
-      name: Beth Israel Deaconess Medical Center
-      domain: bidmc.org
-    quality: 9
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 14
+  - title: "Insurtech Startup Bdeo Launches New Product to Automate Property Insurance Claims with Visual Intelligence"
+    excerpt: "Insurtech startup Bdeo launches into the property insurance market across Europe and Latin America, helping insurance providers assess claims remotely, cut claims processing times, and reduce fraud using AI."
+    publishedDateTime: 2021-05-27T07:03:00Z
+    webUrl: "https://www.pr.com/press-release/837156"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "Gv1MLPHuiTfgIWUBqfB+lu9CZrbsdKGvrJGUzFuxqwyM26Q5DZbeaq1UJuOHlOOcVT5UvkOCCPF24yHPsr5b3xD4Q7hK67lCsnZYJt164eQSGPg1kVaGMvFKn8qOLG2PMSzimzHdCQ4IyYnYXHhWvukngc3zjqMun/D4ciuP5Vd5Ov47SCmaJgZLmUt41dE7zBIVaxJVPKVz8Kp9b4H381lybwc7HCBuPbL0ACPZayPDoSxon6zZDoOyXa/uPQTVGielaDa5l4Il4EYh/Vz5NvFaDZ3qqTK7pd8RCYG3TmSlTifaLFKgyH9qMIc4mIV4sCyiVw5OV7DiazAEWKDx7EdOH136WKT4kLQaXkzfKL0=;8RwnmgY/cq1DER97DV8qDA=="
 ---

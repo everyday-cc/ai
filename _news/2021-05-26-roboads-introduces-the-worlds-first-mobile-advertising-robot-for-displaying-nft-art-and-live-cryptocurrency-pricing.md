@@ -35,20 +35,6 @@ related:
         width: 960
         height: 638
         isCached: true
-  - title: "Design Insights: Robots in Manufacturing; Robotic Welding and Operational Efficiency; Get Entered into the IDEA! Awards"
-    excerpt: "Book. A recent research project undertaken by Machine Design and Schmersal took a look at the use of robots in manufacturing. The key findings of"
-    publishedDateTime: 2021-05-25T15:16:00Z
-    webUrl: "https://www.machinedesign.com/community/article/21165104/design-insights-robots-in-manufacturing-robotic-welding-and-operational-efficiency-get-entered-into-the-idea-awards"
-    type: article
-    provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 15
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/machinedesign/image/2021/05/LandingPage_Insights_Cover.60a80ce2e71f1.60ad142076b4c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 589
-        isCached: true
 
 secured: "rGGw+NxCklizlc6tnjq+3767CY25WiSBbKQ6EItMBXT+jmdLNmkASJZobDAa3rMCHynMCaHLn1gDsEtbLLmWCOW0On12WUr/h3+7b53kmz4flu7XByUBjNHBLRxzualA0lox/PtLouOrf0WcoFcm+iDE3k10fApqY99OcrCOCwbXVjTNAhiMk5T9CrlwJtIvhKHS4pHJsefcWmiwcOjxbX9HbPZmnN/1WQthRmmwWVOWkU4nYCmzhxp/X6/T1AT0yIZz8E/6ASbBSLrP8Jz51p4R23VWA60QQ2RzXKYQcv8KcQeU1TZJBJDHuN5ampgQYVpGnVhRbVbw7qszCKbry42EfEEj46bVYoz5IgYOajU=;5fudETROHPs4lw+0N+7J9g=="
 ---

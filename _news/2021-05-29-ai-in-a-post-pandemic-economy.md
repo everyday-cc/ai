@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The Shifting US Economy: AI and Automation Lead the Way"
-    excerpt: "The Biden administration is 125 days old, and things certainly feel different. What strategies are you employing to take advantage of the shift?"
-    publishedDateTime: 2021-05-25T15:04:00Z
-    webUrl: "https://www.fxempire.com/forecasts/article/the-shifting-us-economy-ai-and-automation-lead-the-way-733430"
-    ampWebUrl: "https://amp.fxempire.com/en/the-shifting-us-economy-ai-and-automation-lead-the-way/733430"
-    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/the-shifting-us-economy-ai-and-automation-lead-the-way/733430"
-    type: article
-    provider:
-      name: FXEmpire.com
-      domain: fxempire.com
-    quality: 59
-    images:
-      - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2020/04/Depositphotos_196499292_s-2019.jpg"
-        width: 615
-        height: 410
-        isCached: true
 
 secured: "+ydI8gDFHQbL65ZWFM+ReOkbthqdcfjaSHmz3vY7CGmJVbXTaYj6YB35cJmVasXRQZiSRp6wGsvK/GL3rFNdpZMdlMxhtu2fUjlH6EBUiJYNbuqAXSWukH0IMv1dCZCCQTPOylrP9b+wjwg6p+6ooAEwfuD4+91DmPFk07y1Mr6CqUhRIeuP9MnQcsi/eSz34ACnrFmpZZEhLSUCsXZ2SRdArwqn2Vv52kjFbx0Ta3FziYUGNiZrCpeeR029Gpg+QjNPE5EqXspHYOVywvwHT+5cECEZsK+DMJdhVroVcr49bZ/e3GYtjVLFjuSCjKg9vvuT8y2EqiLSI3JLoL/PdQh5tWsasnTFKIa34Z8h1t1ClH0wR1UI05/R2GhRzMiUlZANhOGpu4oLVYjG3JhGVb/zvRk0XPdqe83lbSjy9YWT7uflzokQAGWiP5NOiwLKhDwB+8uyJj5kls2gENVfwFkqYcnHFviQukVttoWqZCgjxH9Awi9C65RQ3L5z1yvtRRYUDyRZKqzG5b10Kn4rTg==;DT1RKduSl7hvTF7QRwtzOw=="
 ---
