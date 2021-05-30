@@ -108,6 +108,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-27-fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker.md",
+      "title": "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker",
+      "excerpt": "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg",
+          "width": 800,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T11:25:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity.md",
       "title": "Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity",
       "excerpt": "Amazon Web Services is partnering with Udacity to help educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Scholarship Program by Udacity by offering 425 scholarships, with a focus on women and underrepresented groups. Machine learning is an exciting",
@@ -245,6 +297,60 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker.md",
+      "title": "How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker",
+      "excerpt": "In this post, we present the results of a model serving experiment made by Contentsquare scientists with an innovative DL model trained to analyze HTML documents. We show how the Amazon SageMaker TensorFlow Serving solution helped Contentsquare address several serving challenges. Contentsquare’s challenge",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-SageMaker-TensorFlow-endpoint-option.jpg",
+          "width": 700,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T18:21:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -545,50 +651,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
-      "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
-      "excerpt": "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1386,59 +1448,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-11T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-the-washington-post-launches-audio-articles-voiced-by-amazon-polly.md",
-      "title": "The Washington Post Launches Audio Articles Voiced by Amazon Polly ",
-      "excerpt": "AWS is excited to announce that The Washington Post is integrating Amazon Polly to provide their readers with audio access to stories across The Post’s entire spectrum of web and mobile platforms, starting with technology stories. Amazon Polly&nbsp;is a service that turns&nbsp;text&nbsp;into lifelike&nbsp;speech,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/the-washington-post-website-launches-audio-articles-voiced-by-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/the-washington-post-website-launches-audio-articles-voiced-by-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T09:50:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

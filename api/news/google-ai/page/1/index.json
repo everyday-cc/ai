@@ -48,6 +48,60 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker.md",
+      "title": "How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker",
+      "excerpt": "In this post, we present the results of a model serving experiment made by Contentsquare scientists with an innovative DL model trained to analyze HTML documents. We show how the Amazon SageMaker TensorFlow Serving solution helped Contentsquare address several serving challenges. Contentsquare’s challenge",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-SageMaker-TensorFlow-endpoint-option.jpg",
+          "width": 700,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T18:21:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-host-multiple-tensorflow-computer-vision-models-using-amazon-sagemaker-multi-model-endpoints.md",
       "title": "Host multiple TensorFlow computer vision models using Amazon SageMaker multi-model endpoints",
       "excerpt": "Amazon SageMaker helps data scientists and developers prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML. SageMaker accelerates innovation within your organization by providing purpose-built tools for",
@@ -1437,51 +1491,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health.md",
-      "title": "Global Healthcare AI Market 2021 Growth Factors – Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health",
-      "excerpt": "The recently uploaded report titled Global Healthcare AI Market 2021 by Company, Regions, Type and Application, Forecast to 2026 by MarketQuest.biz offers a comprehensive picture of the market from the global viewpoint as well as a descriptive analysis with detailed segmentation,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health/",
-      "originalUrl": "https://manometcurrent.com/global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da1d21acd594c000620eaae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6235%26cropY1%3D12%26cropY2%3D3518",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
       ]
     }
   ],

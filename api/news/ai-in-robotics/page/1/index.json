@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
+      "title": "AI and robotics take centre stage in rapidly changing world",
+      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "publishedDateTime": "2021-05-30T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-retailers-ariat-decathlon-latest-to-adopt-exotec-robotics.md",
       "title": "Retailers Ariat, Decathlon latest to adopt Exotec robotics",
       "excerpt": "Warehouse robotics firm Exotec announced footwear retailer Ariat and the world’s largest sporting goods retailer Decathlon will deploy its Skypod warehouse robotics system.",
@@ -213,49 +256,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-the-path-to-more-human-like-robot-object-manipulation-skills.md",
-      "title": "The path to more human-like robot object manipulation skills",
-      "excerpt": "What if a robot could organize your closet or chop your vegetables? A sous chef in every home could someday be a reality.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-path-human-like-robot-skills.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-path-human-like-robot-skills.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/the-path-to-more-human.jpg",
-          "width": 603,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-path-human-like-robot-skills.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-path-human-like-robot-skills.amp",
-      "publishedDateTime": "2021-05-26T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

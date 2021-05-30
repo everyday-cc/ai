@@ -2,6 +2,126 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-18-wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-breaks-out.md",
+      "title": "WIMI Hologram Cloud Stands Out with Its Own Lidar Products When the Autonomous Vehicle Industry Breaks Out",
+      "excerpt": "It uses computers, modern sensing, information fusion, communications, artificial intelligence ... representative of the latter is Google Waymo. \"Whoever relies on lidar will be over.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/05/g21175504/wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-br",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/g21175504/wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-br",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/21175504",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21175504",
+      "publishedDateTime": "2021-05-18T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-cx-decoded-podcast-practical-use-cases-of-ai-in-marketing.md",
+      "title": "CX Decoded Podcast: Practical Use Cases of AI in Marketing",
+      "excerpt": "The use case for Artificial Intelligence (AI) in the workplace is there. Deloitte’s Tech Trends 2021 found AI and machine learning technologies are helping financial services firm Morgan Stanley use decades of data to supplement human insight with accurate models for fraud detection and prevention,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/59aafdbc179f4d45aed15ba760f4f665.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/amp/",
+      "publishedDateTime": "2021-05-18T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect.md",
+      "title": "Blue Prism Announces Comprehensive New Enterprise Contact Center Offering with Amazon Connect",
+      "excerpt": "Blue Prism has a complete library of native integrations with Amazon Textract, Amazon Rekognition, and Amazon Comprehend for out-of-the box integrations. Organizations can quickly scale cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-301293487.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-301293487.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1512616/Blue_Prism_Service_Assist.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
       "title": "Less watching, more learning: AI enabling a smarter world",
       "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
@@ -1064,143 +1184,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics.md",
-      "title": "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics",
-      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9372576.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9372576.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1512714/Photo2.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
-      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
-      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated \"driver.\" Volvo will design and manufacture the vehicles. The companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/26/volvo-cars-waymo-partner-to-build-self-driving-vehicles",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/26/volvo-cars-waymo-partner-to-build-self-driving-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/26/734158.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-the-future-workforce-how-conversational-ai-is-changing-the-game.md",
-      "title": "The Future Workforce: How Conversational AI Is Changing The Game",
-      "excerpt": "AI was among the many emerging technologies to take hold in 2021. Companies are using AI to streamline everyday workplace tasks and transform the client experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a2fff5ff2f7cc62ab87605%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/",
-      "publishedDateTime": "2021-05-17T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

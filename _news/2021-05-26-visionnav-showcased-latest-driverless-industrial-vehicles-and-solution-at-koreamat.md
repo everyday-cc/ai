@@ -6,9 +6,6 @@ publishedDateTime: 2021-05-25T23:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696"
 webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696"
 type: article
-quality: 63
-heat: 63
-published: false
 
 provider:
   name: Business Insider
@@ -28,6 +25,6 @@ images:
     height: 300
     isCached: true
 
-secured: "i/T6KgG0TG3cKzylfwF1UEzEt91HnUnrzPJD1WU9SC/Y7GZBHSZr9+UoQSnaJS0fJ4SKMjllx5ffdI35krfNH7yI1VzAA/zmHT3G70j2I3P0gyxZsGAb0xuqf97A81XI6+gr9VBrXl38oLmOKI8iMSB2aLzMv9PUVTRGMPRqkNyTaeOF/4bo4CFqb6cOBu+YWokqowjLn0bxzH/UEyQWsx0RheUwCJXzSiFwQPlmKp7+AHOPOpssDWSGfUB/+aOGGCRQeEbG78GZGnfCf/XLEHSK9sAX1cBeSHjzMbbN6Itt5WQA2bGlnBSBD5ybuwDgvmcpFpQHTJY+QVy1Bs9icIUPIw0W34oRhGkBPleGS8I=;oUzkUmtKO/tTqqJ6Tl2FTQ=="
+secured: "OfMcQiM6Ni2nbQp+zv1IJPNaMnXtvxYGpElr0+edalLZ4V6M4bagbzKYHDjEn2LQzcL8a1OaNmNwLxwYKBQidhtb1eIyF3lLZ8J8CP2S+1wWGBzaMAioWnfQ8bMi3ySoXwyoXMREffhYO14Cjmml79rSFxBZEouMridAlgVPpsqx3qdU8CREieN6zNfKPfm45ktltXTYitDUfc+ui6CMMNsRWdO6EpLIfsO3YhMkREER0yrhK/02y1TQ5/m45XWSf5yenBat/2Y12YSgWu2pglvwcAUbUPC8KZTowOmX1fjghIPCeSksB06Jrmz6XOzLWQP3suJ6v4+e9zHSbLUIcqnHkcFLpNphgHZH3rGAczU=;lRbqkeSh6YBFByv5FXXOAA=="
 ---
 

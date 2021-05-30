@@ -91,6 +91,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Why Board Directors And CEO’s Need To Learn AI Knowledge Foundations: Building AI Leadership Brain Trust - Blog Series"
+    excerpt: "This blog continues to outline the importance of board directors and CEOs learning AI foundational terms. This article defines Artificial Narrow Intelligence, (ANI) Artificial General Intelligence (AGI),"
+    publishedDateTime: 2021-05-30T17:44:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/05/30/why-board-directors-and-ceos-need-to-learn-ai-knowledge-foundations-building-ai-leadership-brain-trustblog-series/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097def72068bbfb5968d9ce%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "g9GthJ3wACStAwV1FiRxFCwtFe8xTm9m3nWGRFZ3LLg4F71kl8aJEhLokolT5AhF+tq5VXBw4eaOW5fa3rV1sd9wlZTtfL3NCJTc4Bjx4UtGlY2uM3vPrCW+k4jkq9ssZLY9eK7jP5temPX5R72lyxhrQsNnBy/LDS76SaOMFDXTxHSDFswdW68I6QiNEjqazLdvmptElzEZibDIU6h/neBp6G1Pc3ZlwgZDnjQ7gCLTBObwhXuknKTz3hrzQ+t1XigWq47MtXHiudFl0itfxCTg7NOO69KxwL39QfrHfuhdc0q2/ZMMHVDRoaZD3S/VmpCE50urwy3ViEwpPXsQpv/YDodSLLZ/h6QBQvzXl280SC6t86PvCe5UzJsdAZASfHvvyqe/aZjJ6wzt4iwnQmTswf1dVJ0odkFuvI/MAmOzoXg/FCILC690K7k3UOuP/kmI6zib/i5uL9gZTa+x4gAYUhQfBFn+rJJQSvOsUS2OZqsywarhyQvc3Npb9HcFzGavZys9h+SUhfYiTRJM/A==;5B2eUOxNQHA9GHIfcDcplg=="
 ---

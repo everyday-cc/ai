@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
+      "title": "AI and robotics take centre stage in rapidly changing world",
+      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "publishedDateTime": "2021-05-30T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-the-ftc-discrimination-warning-on-ai-7-expert-tips-to-stay-out-of-trouble.md",
       "title": "The FTC Discrimination Warning On AI - 7 Expert Tips To Stay Out Of Trouble",
       "excerpt": "As more and more companies adopt AI, a question arises - can the federal government keep up with all the changes from a regulatory perspective? In some cases, the federal government is behind (see Why Are Technology Companies Quitting Facial Recognition?).",
@@ -1150,57 +1193,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-scale-ai-hires-former-us-cto-michael-kratsios-as-head-of-strategy.md",
-      "title": "Scale AI Hires Former U.S. CTO Michael Kratsios as Head of Strategy",
-      "excerpt": "Mr. Kratsios in March began working at Scale AI, where he is focused on helping companies turn AI pilot projects into offerings that can be brought to market, according to the San Francisco-based startup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
-      "originalUrl": "https://www.wsj.com/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-345369/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
-      "publishedDateTime": "2021-05-27T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

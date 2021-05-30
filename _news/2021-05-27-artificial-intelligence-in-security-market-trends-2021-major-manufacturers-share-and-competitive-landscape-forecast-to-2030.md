@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27"
 type: article
 quality: 60
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
+    excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
+    publishedDateTime: 2021-05-30T16:23:00Z
+    webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 42
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
+        width: 780
+        height: 470
         isCached: true
   - title: "Facial Recognition Market Size 2021 Industry Statistics, Consumer-Demand, Developments Plans, Industry Impact and Forecast till 2025"
     excerpt: "Kenneth Research has recently added a report on Facial Recognition market which is studied for the forecast period 2021-2026. The market is anticipated to witness growth by a CAGR of 13.5% during the forecast period."

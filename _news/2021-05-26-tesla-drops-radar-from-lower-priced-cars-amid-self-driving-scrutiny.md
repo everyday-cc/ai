@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-ca
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: New York Post
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-Driving Cars Might Never Be Able to Drive Themselves"
-    excerpt: "Producing truly autonomous vehicles requires a fundamental shift in current approaches."
-    publishedDateTime: 2021-05-26T00:00:00Z
-    webUrl: "https://cacm.acm.org/opinion/interviews/252899-self-driving-cars-might-never-be-able-to-drive-themselves/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 4
 
 secured: "/UkBkh2vrrEeGxHlQWTRrZXEZAv4JN057/ATVpYpMfuZN7pWDz/jK1vDTqjw2BNkoRvFvYIl41l6TIL/tg6m9bbzu5tUfvnfjy3zTltviR4VBqR+lnhbp06zVjQD0Cs/JUtLQVBr4eBjk6pGEpJGn3apSWUKvcTJhAogVH/MDIsls9I/jKRkCw2EvsA61+hlb8pMMS4HlqeBgpFzgceeSWD7F02Xzm+0fUuO6E0hklvgNru7IDjbZv/yQsaFxPCeSBOHfJYX1q41rOYRRsqTb6uostQgf9yIoVZiz47kcTEVm1lcy5d1j8SINj9ZhOuDwItwp15NDTCo3a3lAZPTRzSTTxdZn9lYbQ7yIOpjJanu3L1Shr4Ucx04FW+/CvH7uEPdcQyWtwhJ+3oCp6NjNTba21iAMtMhDjdjR8Tj4p+/5XPB0/W52jktWPnSPX+OFNm/uAkXhpqu5GgJcoBrOFaYzjMNr0rVZrd9xcbc/lkUr4ijVySMPwuEVefC9e6v775fxMu9Urhd2uPlHoIXog==;RH//8Ao4q1ryyMEtC6DcwA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/article/deep-learning-in-protein-structu
 webUrl: "https://www.pharmiweb.com/article/deep-learning-in-protein-structure-prediction-and-design"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning for deep elastic strain engineering of semiconductor electronic band structure and effective mass"
-    excerpt: "The controlled introduction of elastic strains is an appealing strategy for modulating the physical properties of semiconductor materials. With the recent discovery of large elastic deformation in nanoscale specimens as diverse as silicon and diamond,"
-    publishedDateTime: 2021-05-28T11:17:00Z
-    webUrl: "https://www.nature.com/articles/s41524-021-00538-0"
+  - title: "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker"
+    excerpt: "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)"
+    publishedDateTime: 2021-05-27T18:25:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 32
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-021-00538-0/MediaObjects/41524_2021_538_Fig1_HTML.png"
-        width: 685
-        height: 659
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg"
+        width: 800
+        height: 395
         isCached: true
 
 secured: "3D03weVyDtM14u+HkVzieO9yeIOxKqSkgDWSGpOdC0w9roXkXVn2HoZ1ba28MH+GI6gdQ0/6y7gaRrAX1tjiKiC9j6kClpghqrjAG3a1f9/ut/XSr3SojhoJq4dnx7DjLOwS0F84L50Xx40rvcotTVsrl3gFTG4mtEjFSN3hQfFp4o/Y96tbQHIphLnM8Nc4Q2dohpIWkDKOBTheW5favWXcLYQL+ynw9ppWg9TWqClzv6vZNnaTLCxFDDVvEEmI6KWCHaOBuBCmfqXlCvzjh/4aAW1yQ1y7WMy1v3kQjfP4ZjHlTznn13TekSteUHNHz6V/z45Igl96GAKdnSWOSIZdlqB6sY6W8P5jHlYjhpA=;hX1LdQL6b6jvcXGEyHYZgg=="

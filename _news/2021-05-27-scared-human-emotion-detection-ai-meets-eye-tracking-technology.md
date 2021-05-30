@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/scared-human-emot
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1519300/Oncotech_Nordic_CEO_Rafnsson.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "AI emotion-detection software tested on Uyghurs"
-    excerpt: "A camera system that uses AI and facial recognition intended to reveal states of emotion has been tested on Uyghurs in Xinjiang, the BBC has been told. A software engineer claimed to have installed such systems in police stations in the province."
-    publishedDateTime: 2021-05-25T23:40:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-57101248"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-57101248.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57101248.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4D18/production/_118663791_surveillance2.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "EyeQ Announces New AI Scene Detection to Further Revolutionize Automatic Image Correction Technology"
     excerpt: "AI Scene Detection able to identify the scene of a photo and automatically apply precise corrections based on the specific scene or lighting"

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
-excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-05-27T12:59:00Z
-originalUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
-webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
+excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
+publishedDateTime: 2021-05-30T16:23:00Z
+originalUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
+webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
 type: article
-quality: 0
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: manometcurrent.com
+  domain: manometcurrent.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
+    width: 780
+    height: 470
+    isCached: true
 
 related:
   - title: "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030"
@@ -60,20 +66,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
-    excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
-    publishedDateTime: 2021-05-30T16:23:00Z
-    webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 42
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
-        width: 780
-        height: 470
         isCached: true
   - title: "Facial Recognition Market Size 2021 Industry Statistics, Consumer-Demand, Developments Plans, Industry Impact and Forecast till 2025"
     excerpt: "Kenneth Research has recently added a report on Facial Recognition market which is studied for the forecast period 2021-2026. The market is anticipated to witness growth by a CAGR of 13.5% during the forecast period."
@@ -137,7 +129,16 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 0
+  - title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-05-27T12:59:00Z
+    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
-secured: "wnyHxz3dUU21JEw3h1z67ToBwdi8dxul5j2lu9aOoUH0Nu7Pqq0Eqg4XAMDnyPzRTw4SIuST1nkjChDPJzlMgTOdvhKZ64+HxEM8jcW9Dg+pnKK8oBNZl0DoSHpRtw/g4DHzByk31mqWFL4qls/EFU9PYK/49/xgFu199yp4Pp1hogoshE7Y+NmM2QbhyaII3nn+lTfxdL5jnHNhTxHr1DV8G7CWn7F1l1RQyIedh96tntfYdFQdzS9fLcsDNdyJSVIgGf+3yNdY5aB1E7h5epTBhKDikPdpDTMCQEG+NnxJwgt3t409SSWzOzYZ36kQla9426OZBLBIaNh/AYuz7Ct8zK/1E/HFoCx2124TwYs=;OM4RNNiORuC16kHpx1NBKA=="
+secured: "VVfn3/NvRgJHeSTeW00cSdnsBHAISLu+B40BJ320TUaMKm0paoCtl0ZSPOlpBmqSM+60MdCPfq8E5VkvIm+0+VNKeD1XEJZXsHCvL3hWkSSRh86s5NVRGLPj5q7WjAYFeLeE8jOkwC+kj1h8yI/nx3V54VLx+e/3JnMH/514bqAsOfYZy3GiFruxs4o+8E0FBUO1Ft8JiaSncjqFPI3rnxcOkSRh5NXyMZXtCyYdLIxObj39RyFwC6u0r1Qmj4ic98Bg+ThlcpjHAUDIILwTP9PEdpoMz5vpN6CNStHu2/9OA1Qk7p61LnHjEfSomCaERbmLt7vJzEg60t+wewSLWjwLXxcNvudSd1S4BRM9dtA=;6ywTbPYQ/QhHZ9RmIoMM/A=="
 ---
 

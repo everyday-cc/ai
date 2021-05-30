@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-19-google-wants-to-help-you-learn-languages-athletics-and-more.md",
+      "title": "Google wants to help you learn languages, athletics and more",
+      "excerpt": "Google is currently experimenting with MUM, but has confirmed it's already trained across 75 languages and can learn not only from text, but also other assets including images and information in languages you don't speak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/google-wants-to-help-you-learn-languages-athletics-and-more",
+      "originalUrl": "https://www.techradar.com/nz/news/google-wants-to-help-you-learn-languages-athletics-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rERQRhw7xajcatmufxPXAM-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/google-wants-to-help-you-learn-languages-athletics-and-more",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/google-wants-to-help-you-learn-languages-athletics-and-more",
+      "publishedDateTime": "2021-05-18T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-sogou-launched-worlds-first-ai-sign-language-news-anchor.md",
       "title": "Sogou Launched World's First AI Sign Language News Anchor",
       "excerpt": "Sogou Inc. (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, announced its launch of world's first AI sign language news anchor in Chinese at 2021 Sohu Tech 5G & AI Conference held in Beijing on May 17th.",
@@ -1407,49 +1459,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question.md",
-      "title": "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question",
-      "excerpt": "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

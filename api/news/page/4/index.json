@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-26-rock-picking-robotics-startup-terraclear-raises-25-million.md",
+      "title": "Rock picking robotics startup TerraClear raises $25 million",
+      "excerpt": "Rock picking is probably not the first thing you think about when you think agricultural robotics. Understandably so. There are a number of companies out there looking to automate aspects like fruit and vegetable picking,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+      "originalUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S1ELdkR1Bbo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
+      "publishedDateTime": "2021-05-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
       "title": "Research team improves fetal heart defect detection using machine learning",
       "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
@@ -41,49 +93,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny.md",
-      "title": "Tesla drops radar from lower-priced cars amid ‘self-driving’ scrutiny",
-      "excerpt": "Tesla said it is dropping radar systems in its lower-priced electric cars in favor of cameras and other AI equipment — even as the company faces growing scrutiny over its “autonomous",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/",
-      "originalUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/tesla-model-3-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/",
-      "publishedDateTime": "2021-05-26T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -696,6 +705,60 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker.md",
+      "title": "How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker",
+      "excerpt": "In this post, we present the results of a model serving experiment made by Contentsquare scientists with an innovative DL model trained to analyze HTML documents. We show how the Amazon SageMaker TensorFlow Serving solution helped Contentsquare address several serving challenges. Contentsquare’s challenge",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-SageMaker-TensorFlow-endpoint-option.jpg",
+          "width": 700,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T18:21:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-artistic-humanoid-robot-creates-unsettling-self-portraits-selling-for-big-money.md",
       "title": "Artistic humanoid robot creates unsettling self portraits selling for big money",
       "excerpt": "One of humankind's most admirable pursuits is its instinctive desire to produce works of art in myriad mediums that inspire, entertain, and challenge our notions of who we are as a species.",
@@ -791,6 +854,111 @@
         "Computer Vision",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat.md",
+      "title": "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT",
+      "excerpt": "VisionNav was founded in 2016 and it is committed to applying artificial intelligence (AI), environmental perception, deep learning and servo control technologies to driverless industrial vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1517703/image.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-microsoft-has-built-an-ai-powered-autocomplete-for-code-using-gpt-3.md",
+      "title": "Microsoft has built an AI-powered autocomplete for code using GPT-3",
+      "excerpt": "And the output of AI language models is often haphazard ... The company has fine-tuned GPT-3 to “translate” into code by training it on examples of Power Fx formula, but the core of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "originalUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ne3n4e4xjvi-Ih44nfl3ixNVPbU=/0x0:503x357/1400x933/filters:focal(212x139:292x219):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69339297/microsoft_gpt3_powerapps_code.0.gif",
+          "width": 503,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "publishedDateTime": "2021-05-25T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1032,146 +1200,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-3-reasons-applied-materials-is-more-than-just-a-chip-shortage-stock.md",
-      "title": "3 Reasons Applied Materials Is More Than Just a Chip Shortage Stock",
-      "excerpt": "A global shortage of semiconductors -- basic building blocks for everything from high-tech services to autos to household appliances -- is reverberating through the economy. For semiconductor manufacturing equipment providers like Applied Materials (NASDAQ:AMAT),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/14d2a740700f7cfec74e9045798e7186.png",
-          "width": 720,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "publishedDateTime": "2021-05-25T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-4-ai-healthcare-stocks-transforming-the-medical-industry.md",
-      "title": "4 AI Healthcare Stocks Transforming the Medical Industry",
-      "excerpt": "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
-      "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
-      "publishedDateTime": "2021-05-25T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-microsoft-azure-is-now-smarter-and-more-powerful-than-ever.md",
-      "title": "Microsoft Azure is now smarter and more powerful than ever",
-      "excerpt": "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
-      "originalUrl": "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 374,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
-      "publishedDateTime": "2021-05-25T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

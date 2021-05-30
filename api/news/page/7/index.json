@@ -2,6 +2,161 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-24-mayhill-facial-recognition-technology-used-after-swansea-disorder.md",
+      "title": "Mayhill: Facial recognition technology used after Swansea disorder",
+      "excerpt": "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3EF3/production/_118651161_ethan1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp",
+      "publishedDateTime": "2021-05-23T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-british-ai-startup-faculty-raises-425m-growth-round-led-by-apax-digital-fund.md",
+      "title": "British AI startup Faculty raises $42.5M growth round led by Apax Digital Fund",
+      "excerpt": "British artificial intelligence (AI) company, Faculty has raised £30 million ($42.5. million) in growth funding from the Apax Digital Fund (ADF). The startup has now raised a total of £40 million ($56.",
+      "sourceUrl": null,
+      "webUrl": "https://faculty.ai/",
+      "originalUrl": "https://techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-42-5m-growth-round-led-by-apax-digital-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://faculty.ai/wp-content/uploads/2019/01/faculty-logo.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues.md",
+      "title": "From driverless cars to robotic warehouses, China looks to automation to solve population issues",
+      "excerpt": "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "publishedDateTime": "2021-05-23T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence.md",
       "title": "The New Global AI Arms Race: How Nations Must Compete On Artificial Intelligence",
       "excerpt": "As governments race to unlock AI’s potential within their countries, who is leading the pack, and who is falling behind? Get the latest research and advice about what it takes to get an advantage in the global AI arms race.",
@@ -1044,144 +1199,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-computer-vision-developer-stradvision-to-showcase-its-most-advanced-perception-camera-for-autonomous-driving-adas-at-auto-tech-2021.md",
-      "title": "Computer Vision Developer StradVision to Showcase its Most Advanced Perception Camera for Autonomous Driving & ADAS at Auto Tech 2021",
-      "excerpt": "StradVision, a pioneer in AI-based vision processing technology for autonomous vehicles and automotive ADAS systems, will showcase the latest features of its camera perception software named “SVNet” during The China Guangzhou International Automotive Technology Expo 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
-      "originalUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202105/21/l_60a838a13e331.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
-      "title": "Best practices in customer service automation",
-      "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T15:48:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-sense-of-touch-improves-control-of-robotic-arm.md",
-      "title": "Sense of Touch Improves Control of Robotic Arm",
-      "excerpt": "Adding a BCI that evokes tactile sensations makes it easier for users to manipulate and use robotic arm prosthetics.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/",
-      "originalUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/05/touch-robotic-arm-control-neuroscineces-public.jpg",
-          "width": 770,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/bci-tactile-robotic-arm-18469/amp/",
-      "publishedDateTime": "2021-05-21T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

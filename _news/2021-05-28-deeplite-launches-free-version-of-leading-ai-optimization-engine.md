@@ -40,14 +40,14 @@ related:
         height: 224
         isCached: true
   - title: "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge"
-    excerpt: "Deeplite Profiler – a tool to measure the performance of a deep learning model easily and effectively in both PyTorch and TensorFlow 1.x frameworks. Members can utilize existing metrics or create their own custom metrics. In addition, performance can be ..."
-    publishedDateTime: 2021-05-27T12:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm"
+    excerpt: "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and"
+    publishedDateTime: 2021-05-27T12:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "hul1Yj7jmOyNXpAKKP1z8OMk8CF90mfvcF2d7TS/YWWhGYBfvlEgscDBYap56lyybWPNTKLLhZt2bmghbqGvKAfIa3x1wkWPsFSdeUrBbhedwymSmr0XzxaGmAcCKCIaNiiYGbzBC3llSVYgHhP5Vd6sDBa60+5Cinemk7FPbE6q5oy+wCk2PyUpgEBv+8g+2TlhdZMgU0l+03nsl9y+e8lACBjohM/+KkuvoI49Uk2ANrmrKodtplRx+shYPYJu02uizn3SBFzGG9YDshHj9v+6A8p2AwUK/Uq43xfqbXWxW+zoZGVHGqVfjlr2hlsT3WquANXgtULkQBFUbeGSSK9DgAY6UUhmPE0+HMlEp8E=;BM+SFYuCab9+iGyt+OxKuw=="
 ---

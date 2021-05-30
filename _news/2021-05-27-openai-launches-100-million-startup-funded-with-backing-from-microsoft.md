@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-start
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -145,20 +145,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_197728332.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "15 Azure announcements from Microsoft Build 2021"
-    excerpt: "Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure announcements ranged from artificial intelligence (AI) features,"
-    publishedDateTime: 2021-05-26T00:56:00Z
-    webUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210526115623_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
-        width: 1196
-        height: 769
         isCached: true
   - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
     excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."

@@ -41,15 +41,6 @@ related:
         width: 603
         height: 420
         isCached: true
-  - title: "The path to more human-like robot object manipulation skills"
-    excerpt: "Scientists summarize, compare and contrast research in learned robot manipulation through the lens of adaptability and outline promising research directions for the future."
-    publishedDateTime: 2021-05-26T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210526150213.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "clHCoofBBAuHLGgYA4VpAndK498Y+N0lCP8WzIiz7s3RoN8CE7g/kpHGJlbTm03koJA4NGxjo/oy+ySmQKxcZ7JOkl0nsgZVEV/wjzfOfwp6AtiBl16Ommm9gR08fZ2cEwXylZNww93nMxRYaNpeYo7r2ej7AK4KzcCpYncdLZVgcnLUvOOrob8g0xcvTHVRJf2sc4oLyPWXCa5jocIs3xbOSYgoN/sYHxshIXl+n3ckCrsMcxs18ATm8yX/XkV8BWhMfUPLqT6QGz9pr8f2N5kqgGf4wp6Zdmt0gAl2nE7qqyndadk4IkcOTjdDB7DZgi6pmgr7UjPGGo3zDH4xqHsPg5Arr2RFvMpaY0+zpJuqcV1PvDIwKgnGG9gW4rVzVE6xrOoVzBXA6ca4x5w4vpW+n9a6Q1dKOCaKQ8kojsGRc7kZ319l4lATB/r2SRTItAK1+zCw+cENBcrmgSz7aI2PvgjQEDp/TUbMRmUIqnr+SyJPoQ0zTRb9KFJNpuS3mn67J3w3nsP8f9X48NC8Sg==;NrZid1N84g/AQ8krSIAN8A=="
 ---

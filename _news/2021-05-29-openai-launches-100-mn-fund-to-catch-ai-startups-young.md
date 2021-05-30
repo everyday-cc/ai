@@ -156,20 +156,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "15 Azure announcements from Microsoft Build 2021"
-    excerpt: "Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure announcements ranged from artificial intelligence (AI) features,"
-    publishedDateTime: 2021-05-26T00:56:00Z
-    webUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210526115623_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
-        width: 1196
-        height: 769
-        isCached: true
   - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
     excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."
     publishedDateTime: 2021-05-28T17:39:00Z

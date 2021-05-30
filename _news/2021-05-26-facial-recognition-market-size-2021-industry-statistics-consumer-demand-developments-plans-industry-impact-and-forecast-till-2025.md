@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
+    excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
+    publishedDateTime: 2021-05-30T16:23:00Z
+    webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 42
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
     publishedDateTime: 2021-05-29T14:00:00Z

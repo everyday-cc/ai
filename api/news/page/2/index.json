@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-28-scale-ai-hires-former-us-cto-michael-kratsios-as-head-of-strategy.md",
+      "title": "Scale AI Hires Former U.S. CTO Michael Kratsios as Head of Strategy",
+      "excerpt": "Mr. Kratsios in March began working at Scale AI, where he is focused on helping companies turn AI pilot projects into offerings that can be brought to market, according to the San Francisco-based startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "originalUrl": "https://www.wsj.com/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-345369/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "publishedDateTime": "2021-05-27T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql.md",
       "title": "Amazon AWS launches Redshift ML to let developers train models with SQL",
       "excerpt": "Amazon today announced the general availability of Redshift ML, which lets customers use SQL to query and combine structured and semi-structured data across data warehouses, operational databases, and data lakes.",
@@ -346,6 +397,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker.md",
+      "title": "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker",
+      "excerpt": "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg",
+          "width": 800,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T11:25:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1008,7 +1111,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1153,92 +1256,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-ahrc-high-risk-facial-recognition-should-be-banned.md",
-      "title": "AHRC: ‘High-Risk’ Facial Recognition Should Be Banned",
-      "excerpt": "The Australian Human Rights Commission (AHRC) calls for protecting human rights in the regulation of facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/",
-      "originalUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heimdalsecurity.com/blog/wp-content/uploads/MicrosoftTeams-image-22-2.png",
-          "width": 698,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/",
-      "cdnAmpWebUrl": "https://heimdalsecurity-com.cdn.ampproject.org/c/s/heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/",
-      "publishedDateTime": "2021-05-27T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heimdal Security",
-        "domain": "heimdalsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.md",
-      "title": "Microsoft Build Unveils 'AI-powered Assistance' For Coding Using GPT-3 And Azure",
-      "excerpt": "Using an advanced AI model like this can help our low-code tools become even more widely available,\" Corporate vice president for Microsoft said on the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html",
-      "originalUrl": "https://www.republicworld.com/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wuhf06h3xyik4ld9_1622111084.jpeg?tr=f-jpeg",
-          "width": 1242,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html",
-      "publishedDateTime": "2021-05-27T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -72,22 +72,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "AI emotion-detection software tested on Uyghurs"
-    excerpt: "A camera system that uses AI and facial recognition intended to reveal states of emotion has been tested on Uyghurs in Xinjiang, the BBC has been told. A software engineer claimed to have installed such systems in police stations in the province."
-    publishedDateTime: 2021-05-25T23:40:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-57101248"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-57101248.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57101248.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4D18/production/_118663791_surveillance2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
     excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,"
     publishedDateTime: 2021-05-27T11:42:00Z

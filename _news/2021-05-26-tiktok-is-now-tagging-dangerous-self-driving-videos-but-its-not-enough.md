@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-Driving Cars Might Never Be Able to Drive Themselves"
-    excerpt: "Producing truly autonomous vehicles requires a fundamental shift in current approaches."
-    publishedDateTime: 2021-05-26T00:00:00Z
-    webUrl: "https://cacm.acm.org/opinion/interviews/252899-self-driving-cars-might-never-be-able-to-drive-themselves/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 4
 
 secured: "/dM3hwMnAZVxxbVoOSHDDJGuWnimIRqAdoMfSkfkEBVqQFMdF7JIX77lrzVDQluZeTaAWdLOUAIM2Vf7zDDU5vnDvPS49jor4NdXGfxTz6Cm5QUtCSjSHvReTA7GVf8OpQ/OLYCykZWSSuapJhCm6VfidjoObfophs/WN07+U/cxGyv0rGcxiCTRWlDx/EnEd3RUyPLJp4bZh9uUX87PrKPLzkQWijZtJ7pAdqjuanRLn2E9zs11Ea2CYiwUZOzFw2EZTjhananoK7sIupAQB81mraGC7qCpYnlxo8a7Vn7/q4vJo9dTxk0dLp87WRhl2AN3EXV/4SNfYmLW4Mlrzajw3UizqrXB6P8OY+UtDvsOiiXBo/kerU4BI+0i8uQP0X3LUI+YQdFIfbFerfFCL1eujaHA1dKiTwBJqNZEc5J+Pz+Zk+mhR3jPHVSVqzyPLMxcRTm/ANR22WQAcbkByPWpxKutELAV+S17jpMPxe/lbqCqv8DDAcSdLiM1FayaSMyZOuFAIzytC//CBzX1kQ==;WizlUfIeBeA25bDNyFT4Dw=="
 ---

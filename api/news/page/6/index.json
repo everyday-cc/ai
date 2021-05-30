@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-25-these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics.md",
+      "title": "These Indian Edtech Companies are Shaping the Future of AI & Robotics",
+      "excerpt": "Edtech companies have partnered with NITI Aayog to develop an interest in STEAM fields in young minds using AI and robotics. Read more about this here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics/",
+      "originalUrl": "https://www.analyticsinsight.net/these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/EdTech.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-get-ahead-of-labor-shortage.md",
+      "title": "From driverless cars to robotic warehouses, China looks to automation to get ahead of labor shortage",
+      "excerpt": "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "publishedDateTime": "2021-05-24T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good.md",
+      "title": "TikTok Viral ‘Uberduck.AI’ Text To Celebrity Speech Bot Is Quite Quacking Good",
+      "excerpt": "Uberduck.AI is a text to speech tool that allows you to turn any text into a celebrity, rapper, or famous politician's voice. TikTok's new voice change and the internet's love for innovation have combined into the next AI internet spectacle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
+      "originalUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac60fe8714a2b9c17f4a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
+      "publishedDateTime": "2021-05-24T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-balancing-the-opportunities-and-risks-of-machine-learning.md",
       "title": "Balancing the Opportunities and Risks of Machine Learning",
       "excerpt": "The growing appeal and utility of machine learning-based systems is undeniable. As Christina Pazzanese wrote in the Harvard Gazette in October 2020, “Worldwide business spending on AI is expected to hit $50 billion this year and $110 billion annually by 2024",
@@ -1060,161 +1206,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-mayhill-facial-recognition-technology-used-after-swansea-disorder.md",
-      "title": "Mayhill: Facial recognition technology used after Swansea disorder",
-      "excerpt": "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3EF3/production/_118651161_ethan1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp",
-      "publishedDateTime": "2021-05-23T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-british-ai-startup-faculty-raises-425m-growth-round-led-by-apax-digital-fund.md",
-      "title": "British AI startup Faculty raises $42.5M growth round led by Apax Digital Fund",
-      "excerpt": "British artificial intelligence (AI) company, Faculty has raised £30 million ($42.5. million) in growth funding from the Apax Digital Fund (ADF). The startup has now raised a total of £40 million ($56.",
-      "sourceUrl": null,
-      "webUrl": "https://faculty.ai/",
-      "originalUrl": "https://techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-42-5m-growth-round-led-by-apax-digital-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://faculty.ai/wp-content/uploads/2019/01/faculty-logo.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues.md",
-      "title": "From driverless cars to robotic warehouses, China looks to automation to solve population issues",
-      "excerpt": "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "originalUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "publishedDateTime": "2021-05-23T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
