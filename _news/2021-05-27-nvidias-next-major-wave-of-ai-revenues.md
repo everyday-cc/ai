@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-a
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI"
-    excerpt: "NVIDIA DGX-Ready status enables Kao Data to support and host the latest NVIDIA accelerated computing technology - Provides a dedicated technical environment for start-ups, scale-ups and world-leading organisations utilising GPU-accelerated computing on an industrial-scale - Architectural requirements of its OCP-Ready™ facility provides seamless integration with NVIDIA DGX systems,"
-    publishedDateTime: 2021-05-25T09:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kao-data-becomes-nvidia-dgx-ready-establishing-uk-/2021/05/25/9376597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "9pZ1/Kp2N5BaqyCSLIVKECnEtCdohv1DgynQothcVTslPUgs8aPU3RTNruW4FqQNpoE+C/0RFmtSPJt5cTE6IKXDDWf4QSE5nlp+luuAS8/3+x+6VXJN7Z8rh2oSZsZU3R5QG5m1lO74GBKCV+Q+EaHt1uHncCFCSfmsJSF+u4UsHHWNZHdqpuPy5PLVLIbsO8VT7uyeGJ8pRLdx9rnqQGO9CgO4Z56l4hgwIXj9+Z8VmjK7wnvGU12lrTxh8XeqZsE9klbn0KpcUtGSYeaODSrr+UNnSRSRjN4dI/kAeHnO3fFCgWY/yqpvPd8bkHsgDZoLY+zVKNHYuips8iKLH5+8XaHl5dyVIErltDy9U/3DfhZ4CRNYYq/2VU9wzw4ryL1GbGe6mjFoBYPZvhMkW5CG7cG61M7xdmgPnB3rhkojf37DniZ+TYGo/c9rorlLZzc7P81FP3+vpE/HuSAp7jkA23I8Zr+pcDDx6QtscQOyuRuOKUxg+m+9TjwAkxnulESlLin4dGBYmt4ncP/4IQ==;iNXljiexj6wqaejwSIKqEA=="
 ---

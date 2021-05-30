@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geico to Use Artificial Intelligence to Speed Up Car Repairs"
-    excerpt: "The insurer is using new technology so body shops can begin work earlier and customers can get back on the road faster."
-    publishedDateTime: 2021-05-25T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/geico-to-use-artificial-intelligence-to-speed-up-car-repairs-11621944000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/geico-to-use-artificial-intelligence-to-speed-up-car-repairs-11621944000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/geico-to-use-artificial-intelligence-to-speed-up-car-repairs-11621944000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 102
-    images:
-      - url: "https://images.wsj.net/im-342857/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Geico will use AI to speed up car repairs"
     excerpt: "Geico, the nation’s second-biggest auto insurer, will try to speed up vehicle repairs for its policyholders by running photographs of damaged"
     publishedDateTime: 2021-05-25T17:51:00Z

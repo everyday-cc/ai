@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft announces PyTorch Enterprise for Azure and Spark enhancements for Synapse"
-    excerpt: "Developers utilizing Azure Synapse, Cognitive Services, AI, Cosmos DB, Database for PostgreSQL and MySQL, and SQL Database have a lot to be excited today for what Microsoft has in store for them."
-    publishedDateTime: 2021-05-25T11:00:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-pytorch-enterprise-for-azure-and-spark-enhancements-for-synapse/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 95
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621920155_azure_at_build_2021_1a_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
     excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
     publishedDateTime: 2021-05-26T09:00:23Z
@@ -203,7 +189,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
     type: article
     provider:
       name: CRN

@@ -52,20 +52,6 @@ related:
         width: 650
         height: 300
         isCached: true
-  - title: "AI-powered logistics software startup FarEye lands $100M investment"
-    excerpt: "FarEye Inc., whose machine learning-powered logistics platform helps companies such as UPS Inc. process more than 100 million transactions a month, has raised $100 million in funding through a new funding round announced today."
-    publishedDateTime: 2021-05-25T10:00:00Z
-    webUrl: "https://siliconangle.com/2021/05/25/ai-powered-logistics-software-startup-fareye-lands-100m-investment/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/unsplash-2.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
     excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital"
     publishedDateTime: 2021-05-25T15:37:00Z

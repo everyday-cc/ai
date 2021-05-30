@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
 type: article
 quality: 139
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Which Retailers Are Using Facial Recognition In Stores – Scorecard"
-    excerpt: "Fight for the Future has launched a scorecard that tracks whether or not top retailers use, don’t use, or might use facial recognition"
-    publishedDateTime: 2021-05-25T09:31:00Z
-    webUrl: "https://www.valuewalk.com/retailers-using-facial-recognition-stores/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 54
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/05/facial-recognition-1.jpg"
-        width: 1600
-        height: 684
         isCached: true
   - title: "Legislature May Limit Use of Facial Recognition Software by Police in Maine"
     excerpt: "Maine could become the first state to impose strict limits on the use of facial recognition technology by police and other government agencies statewide."

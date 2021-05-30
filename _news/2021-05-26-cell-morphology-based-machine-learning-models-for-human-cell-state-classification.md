@@ -24,22 +24,6 @@ images:
     height: 267
     isCached: true
 
-related:
-  - title: "Efficient and accurate identification of ear diseases using an ensemble deep learning model"
-    excerpt: "Early detection and appropriate medical treatment are of great use for ear disease. However, a new diagnostic strategy is necessary for the absence of experts and relatively low diagnostic accuracy, in which deep learning plays an important role."
-    publishedDateTime: 2021-05-25T10:22:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-90345-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 29
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90345-w/MediaObjects/41598_2021_90345_Fig1_HTML.jpg"
-        width: 685
-        height: 408
-        isCached: true
-
 secured: "HpKIRjB/JqJ0oPopRh7MZmLYZoYXLVfHRYUQZDj7xBgvDyONKm8teptGFg89/ejrI/GSvZeXkDsJIVYEdv0bfvcScdaD8pHmUnVCd+FacgcE1fMekWU3/ibVgS8bL/7ALB4m8bFpV5CUh73Vk3OlLzOYejUssaMfMXo2zCr1YdCxQ7IrJi4hVvTGpTYjoWU7PtCf70Zx9BdAxUyov6HMgG+/hWdq0oqpKYT5+fCzHl+P9hxXnbwx2HYzc7B3+NtKsLckIh9ruKIw/JXcaasLT9tTgCOgShzFOrnLF0b4AzI0SEiZI0rfEnnw2pCrao1wn631PxYT7dhj68qGCarEoB2HFlekrEX1kIJdN9rRDxo6esj0guI+eCy84pebdyuX+tqxkELtb0+pperdNXJ32hshPvlQ0N89wRJDYNy6UDJ52aoN7j/tO3T3ahiQ7BiNWU4BIrrqyWMtFtBWDOZd4eQLtoR8y8yIZ4YwBaUfj8MHCtBBE0xhPmDopNQVQnE9PIs5rjcUBLAwDpca9nTNuA==;uG9N2p8ASCfCVA3H3UIuzw=="
 ---
 

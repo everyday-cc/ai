@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
 type: article
 quality: 54
 heat: -1
@@ -88,20 +88,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft announces PyTorch Enterprise for Azure and Spark enhancements for Synapse"
-    excerpt: "Developers utilizing Azure Synapse, Cognitive Services, AI, Cosmos DB, Database for PostgreSQL and MySQL, and SQL Database have a lot to be excited today for what Microsoft has in store for them."
-    publishedDateTime: 2021-05-25T11:00:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-pytorch-enterprise-for-azure-and-spark-enhancements-for-synapse/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 95
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621920155_azure_at_build_2021_1a_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
     excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
@@ -258,6 +244,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "hq45qBjm0xeuvJm3OFixZWcvgTt8nlhEuoeohtFw449V19MTHZwvA7idFXuqzRwELpZbpGan6j7H2uddr66YUZu21HndKeFEZ5ls0FxBd9Dz9jNkDYoTgHMpD6IB5jyKLLrod40THYOgZAMAZwlYYAC2KjJvaEmOVi6qJJBLKy+lWFunU/C5FW29xBVym78b2AiyaYfLe0AYbxjHSsS0oUH15/j7E4R+h7Jmdr/HTJopHvb0zpapErYfAbG5O35uIVTwbeAtwp4J7tnKWXwuHyi5Wt6s3vV+HhczBKbV9AZYf3xKOf/VLrH9WJ7x1VkrAnaomybuHeyzV9aR9d1DHyVxUp92dqneK2nFVjm3hhM=;Xw8cLpcdtEN8Kbzs4fS9cA=="
+secured: "YAlKQXQI1COiTN4eXpk7ab7x/yPwUpVhtIUcZ1h2trm/jDvbZMh0MCg4qPcoum/aUlbNACUuXCmIdjGGwWK79AvXW4tOlrbHQvGWkH1qcp8HMtattcdsJShYgKlVqTZrn8EpwFUpFgGp37qp8HuRq99oUF8RI6h3Dnqi2kxnR6o+W8/lx0hWhcrZ2wTPfVfs2rWVukcFWcSNavXK63T6dNLn14S7AwGFkqbd5O7nunp36Th5Gg6ysbeqpRcyXdLLs1GmtqnWjyg1+aJkPSqu5WmVIXUHlKFVpN8Qs8VoJLrtQ4CFz23H46ZhSYAobw4O67GZXnJt11jtYHcdFaXanaF7ASN+d9qkVCSeBq3nbjI=;vhwgRzJLX4xCSLTV/vTehA=="
 ---
 

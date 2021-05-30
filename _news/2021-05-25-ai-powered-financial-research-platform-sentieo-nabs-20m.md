@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.sify.com/uploads/sentieo_ians_vftm7aaijdchd.jpg"
         width: 650
         height: 300
-        isCached: true
-  - title: "AI-powered logistics software startup FarEye lands $100M investment"
-    excerpt: "FarEye Inc., whose machine learning-powered logistics platform helps companies such as UPS Inc. process more than 100 million transactions a month, has raised $100 million in funding through a new funding round announced today."
-    publishedDateTime: 2021-05-25T10:00:00Z
-    webUrl: "https://siliconangle.com/2021/05/25/ai-powered-logistics-software-startup-fareye-lands-100m-investment/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/unsplash-2.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Sentieo : Sentieo Raises $20M Series B Round Following Record Demand for AI-Driven Financial Research Platform"
     excerpt: "Gold prices have jumped more than 10% since the start of April amid a weaker dollar and falling bond yields » SHARE THIS POST Ai NewsMORE Related Stocks Find News"

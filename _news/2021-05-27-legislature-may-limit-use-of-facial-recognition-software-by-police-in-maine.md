@@ -103,20 +103,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Which Retailers Are Using Facial Recognition In Stores – Scorecard"
-    excerpt: "Fight for the Future has launched a scorecard that tracks whether or not top retailers use, don’t use, or might use facial recognition"
-    publishedDateTime: 2021-05-25T09:31:00Z
-    webUrl: "https://www.valuewalk.com/retailers-using-facial-recognition-stores/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 54
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/05/facial-recognition-1.jpg"
-        width: 1600
-        height: 684
-        isCached: true
   - title: "Legislative Committee Backs Proposed Limits On Maine Agencies Using Facial Recognition Software"
     excerpt: "Maine could become one of the first states in the nation to adopt limits on the use of facial recognition software by government agencies."
     publishedDateTime: 2021-05-25T17:17:00Z
