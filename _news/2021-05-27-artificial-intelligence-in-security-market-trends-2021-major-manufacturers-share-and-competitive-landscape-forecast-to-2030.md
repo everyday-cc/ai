@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27"
 type: article
 quality: 60
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
-    publishedDateTime: 2021-05-25T05:39:00Z
-    webUrl: "https://manometcurrent.com/educational-robot-market-forecast-2021-26-industry-trends-key-players-and-competitive-analysis-imarc-group/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 19
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Educational-Robot-Market-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
     publishedDateTime: 2021-05-25T13:53:00Z

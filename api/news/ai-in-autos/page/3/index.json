@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-11-chinas-tech-hub-shenzhen-to-invest-us108-billion-in-rd-over-5-years.md",
+      "title": "China’s tech hub Shenzhen to invest US$108 billion in R&D over 5 years",
+      "excerpt": "Shenzhen is set to invest more than 700 billion yuan (US$108 billion) in hi-tech research and development over the next five years as it seeks to reinforce its position as China’s innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3132651/chinas-tech-hub-shenzhen-invest-us108-billion-rd-over-5-years",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3132651/chinas-tech-hub-shenzhen-invest-us108-billion-rd-over-5-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/07/00bc4a4c-aefc-11eb-9c9f-63ba12e765d1_image_hires_173114.jpg?itok=iBXd7t3i&v=1620379883",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3132651/chinas-tech-hub-shenzhen-invest-us108-billion-rd-over-5-years",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3132651/chinas-tech-hub-shenzhen-invest-us108-billion-rd-over-5-years",
+      "publishedDateTime": "2021-05-10T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-autonomous-vehicles-market-size-to-surpass-us-55527-billion-by-2027.md",
       "title": "Autonomous Vehicles Market Size to Surpass US$ 555.27 Billion by 2027",
       "excerpt": "According to Report, the global autonomous vehicle market size is projected to surpass US$ 555.27 billion by 2027, with registering a CAGR of 39.20% from 2019 to 2027. The global autonomous ...",
@@ -1351,49 +1403,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public.md",
-      "title": "San Diego based TuSimple is the first autonomous driving company to go public",
-      "excerpt": "Just a few years ago, San Diego’s self-driving truck company TuSimple was just getting started. Now, TuSimple is one of the region’s most highly valued public companies. TuSimple creates self-driving trucks and the software used to run them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kusi.com/san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public/",
-      "originalUrl": "https://www.kusi.com/san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kusi.com/content/uploads/2021/05/b/u/tusimple-cfo.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KUSI",
-        "domain": "kusi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

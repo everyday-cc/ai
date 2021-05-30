@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/"
 cdnAmpWebUrl: "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: androidbeat.com
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip"
-    excerpt: "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far."
-    publishedDateTime: 2021-05-25T05:10:00Z
-    webUrl: "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/"
-    ampWebUrl: "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 87
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google’s Pixel 6 Whitechapel gets detailed as sort-of a flagship chip"
     excerpt: "The custom-designed Whitechapel chip inside Pixel 6 is reportedly based on the 5nm process, but lags behind Qualcomm Snapdragon 888 SoC."
     publishedDateTime: 2021-05-25T22:32:00Z

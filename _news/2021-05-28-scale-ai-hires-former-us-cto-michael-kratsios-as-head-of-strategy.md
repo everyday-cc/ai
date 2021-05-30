@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-micha
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip"
-    excerpt: "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far."
-    publishedDateTime: 2021-05-25T05:10:00Z
-    webUrl: "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/"
-    ampWebUrl: "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 87
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Pixel 6 Leak Reveals 6.4-Inch 120Hz Display, 5,000 mAh Battery and Whitechapel with Focus On AI and ML"
     excerpt: "Recently we saw a Pixel 6 render with the redesigned back panel and a dual-color treatment. Like Apple, Google is expected to switch to their in-house"
     publishedDateTime: 2021-05-25T13:16:00Z
