@@ -59,34 +59,6 @@ related:
         width: 980
         height: 700
         isCached: true
-  - title: "Lawmakers may limit use of facial recognition software by police in Maine"
-    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 53
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
-  - title: "Legislature may limit use of facial recognition software by police in Maine"
-    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 52
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
   - title: "Facial Recognition Technology: A tool for 21st century policing"
     excerpt: "S Gallagher explains the current legal position in the balance between human rights, privacy and the use of biometric technology by the police"
     publishedDateTime: 2021-05-27T14:18:00Z

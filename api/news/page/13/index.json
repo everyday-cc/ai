@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-19-ai-driving-game-changing-competitive-differentiation.md",
+      "title": "AI Driving Game-Changing Competitive Differentiation",
+      "excerpt": "Banks leveraging AI are poised to realize game changing differentiation. Over the past three years, AI in corporate banking has moved from",
+      "sourceUrl": null,
+      "webUrl": "https://www.celent.com/insights/563621451",
+      "originalUrl": "https://www.celent.com/insights/563621451",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.celent.com/system/insights/logos/563/621/451/large/379341462.jpg?1621459448",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Celent",
+        "domain": "celent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-im-not-a-robot-so-why-wont-captchas-believe-me.md",
       "title": "I’m Not a Robot! So Why Won’t Captchas Believe Me?",
       "excerpt": "If clicking crosswalks makes your blood boil, you’re not alone. Fortunately, there are some tips that make solving those challenges way less frustrating.",
@@ -1178,58 +1221,6 @@
         "name": "Mobile ID News",
         "domain": "mobileidworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-wants-to-help-you-learn-languages-athletics-and-more.md",
-      "title": "Google wants to help you learn languages, athletics and more",
-      "excerpt": "Google is currently experimenting with MUM, but has confirmed it's already trained across 75 languages and can learn not only from text, but also other assets including images and information in languages you don't speak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/google-wants-to-help-you-learn-languages-athletics-and-more",
-      "originalUrl": "https://www.techradar.com/nz/news/google-wants-to-help-you-learn-languages-athletics-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rERQRhw7xajcatmufxPXAM-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/google-wants-to-help-you-learn-languages-athletics-and-more",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/google-wants-to-help-you-learn-languages-athletics-and-more",
-      "publishedDateTime": "2021-05-18T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

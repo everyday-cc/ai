@@ -25,77 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
-    excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
-    publishedDateTime: 2021-05-25T17:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
+  - title: "Research team improves fetal heart defect detection using machine learning"
+    excerpt: "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools."
+    publishedDateTime: 2021-05-26T14:28:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "The Vertical Approach: Why AI Should Be Industry Specific"
-    excerpt: "If the pandemic has taught technology leaders anything, it's that those who are adamant about digital transformation have found the most success one year later."
-    publishedDateTime: 2021-05-28T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/28/the-vertical-approach-why-ai-should-be-industry-specific/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afc0ce52e17fc9930d1689%2F0x0.jpg"
-        width: 1200
-        height: 840
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg"
+        width: 1920
+        height: 1289
         isCached: true
-  - title: "Is AI Disrupting or Enhancing the Asset Management Industry?"
-    excerpt: "Technologies like machine learning and AI are changing the way that we do many things, including asset management, investing, trading, and managing money."
-    publishedDateTime: 2021-05-27T08:32:00Z
-    webUrl: "https://dataconomy.com/2021/05/is-ai-disrupting-enhancing-asset-management/"
+  - title: "Fetal Heart Defect Detection Improved by Using Machine Learning"
+    excerpt: "UCSF researchers have found a way to double doctors’ accuracy in detecting the vast majority of complex fetal heart defects in utero."
+    publishedDateTime: 2021-05-26T23:09:00Z
+    webUrl: "https://www.ucsf.edu/news/2021/05/420661/fetal-heart-defect-detection-improved-using-machine-learning"
     type: article
     provider:
-      name: dataconomy.com
-      domain: dataconomy.com
+      name: UC San Francisco
+      domain: ucsf.edu
     quality: 39
     images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/05/is-ai-disrupting-enhancing-asset-management.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.ucsf.edu/sites/default/files/styles/quarter/public/2021-05/fetal-ultrasound-heart-structures-highlighted.jpg"
+        width: 330
+        height: 413
         isCached: true
-  - title: "How AI Can Change The Way We Think About Insurance"
-    excerpt: "In the past several years, the insurance industry has seen a significant shift from traditional to automated customer service; in fact, more than 80% of CEOs say that AI is a part of their business models or will be in the coming years."
-    publishedDateTime: 2021-05-29T21:44:00Z
-    webUrl: "https://customerthink.com/how-ai-can-change-the-way-we-think-about-insurance/"
+  - title: "Machine Learning Helps Detect Fetal Heart Defect"
+    excerpt: "Combining routine ultrasound imaging with machine-learning computer tools helps detect fetal heart defects, say UC San Francisco researchers. The team, led by UCSF cardiologist Rima Arnaout, MD, trained a group of machine-learning models to mimic the tasks that clinicians follow in diagnosing complex congenital heart disease (CHD)."
+    publishedDateTime: 2021-05-27T17:49:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/thought-1088647_1920-pixabay-innovation-ideas-think.jpg"
-        width: 1768
-        height: 1178
-        isCached: true
-  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
-    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
-    publishedDateTime: 2021-05-25T20:38:00Z
-    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 14
-  - title: "Insurtech Startup Bdeo Launches New Product to Automate Property Insurance Claims with Visual Intelligence"
-    excerpt: "Insurtech startup Bdeo launches into the property insurance market across Europe and Latin America, helping insurance providers assess claims remotely, cut claims processing times, and reduce fraud using AI."
-    publishedDateTime: 2021-05-27T07:03:00Z
-    webUrl: "https://www.pr.com/press-release/837156"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "8ykuQCPpuqRRGYo5SBisxmDvvNCGf5xcnbSozTq38STXw2ZaHE/5k2qG73Z64cr5S1PrI3GS1vsl0xJ4n8gKTrhs171JAqOnORRJUTb9FD3N5P5xq0iVGelnX9MqGa/9Sae5IlInDvLW1SHnvYuf4g1iVnFlZElhiI501pArOuStFyrzQxNsvTDVsEMLvLBf/r5wtj9GP0BRcIP4j0GazIb+qZH73XmMMnh9r+N07KCTUgfcW7+Z2JHjHtL/WO4ZeDOSOfSvpirjzU6itRbSARJvxQo1o6aiHDVd/zYyVvQJVCZ6WyXFR4AzQgX9S7k2WlnwI2SoACz/7/Sm/qQ5d9ktPfrv29DC5VRHlpFH6Ks=;PZzZJ3Nsq+6t/1Qec9Q9aw=="
 ---

@@ -107,20 +107,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Legislative Committee Backs Proposed Limits On Maine Agencies Using Facial Recognition Software"
-    excerpt: "Maine could become one of the first states in the nation to adopt limits on the use of facial recognition software by government agencies."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.mainepublic.org/politics/2021-05-25/legislative-committee-backs-proposed-limits-on-maine-agencies-using-facial-recognition-software"
-    type: article
-    provider:
-      name: Maine Public
-      domain: mainepublic.org
-    quality: 42
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/050ee76/2147483647/strip/true/crop/2016x1058+0+227/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US Chamber doesn’t want facial recognition technology banned"
     excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
     publishedDateTime: 2021-05-28T01:39:00Z

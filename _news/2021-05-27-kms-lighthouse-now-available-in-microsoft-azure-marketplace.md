@@ -251,15 +251,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-05-25T18:08:00Z
-    webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 30
 
 secured: "Xbz/ORvbvVz1Ik9Rf1hTLZDggXOpSkr+TEteoD1lLetDBXZFswXnYyM19KkF41kFy4gdNmIQ7+zOcCnPgxsgXGRy/imfqLCiiuA6S0oZs3yQMqRBUzNJiXkNumVMmCA8qlSRxS7G/TZv8iWwzoBMfSsdQA/egNLx+0b9O7lkNxxtcajDAbSVbiI8hBEIHi3NQQsifJOAgC2SpKsU04y2Xk3Fc9g6Z3TzBoCSfqO00uoqNUY3JeiEVYsGQuutUHK/gogusXZdxhdUTNu85CXcsE7ge/KGSTfZLTJcQN+NFWW0e7zlmEogcdl8TdFYd3wr2B/AbRru44ymylwM0DuTchZCUUDJDKmucZjjky3S8hI=;3c2cUBuiWQ4HmkuALbt7PA=="
 ---

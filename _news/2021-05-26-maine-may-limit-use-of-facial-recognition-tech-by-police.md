@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recogni
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -58,34 +58,6 @@ related:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Lawmakers may limit use of facial recognition software by police in Maine"
-    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 53
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
-  - title: "Legislature may limit use of facial recognition software by police in Maine"
-    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 52
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
         isCached: true
   - title: "Facial Recognition Technology: A tool for 21st century policing"
     excerpt: "S Gallagher explains the current legal position in the balance between human rights, privacy and the use of biometric technology by the police"

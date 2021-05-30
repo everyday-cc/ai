@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-start
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
 type: article
 quality: 104
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -255,15 +255,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-05-25T18:08:00Z
-    webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 30
 
 secured: "noK8XxRemSxyrgx+XoXd5HRZY6I/18rQQpuBoomt7Mpkj2Q9cJDO6ZsZyELtwpyIi7CBuB1FQrcaGOIlsnX4MiIDR5/ebNkLK3MX9X4Up33xeMTkNmsrMWiYQfzorc72i+/tLImmiQlqkm4VpsjQT9/oGQpLkOqrAkJCVU0iRtgKebsDVzeCKhIU83c+N8VT5blxQVFEF5PvSYMjaqwn+dZwAWoY1Q+GuEGn2PzlZ8gHolYcXvhY0oG9XY+n4fYvH4GI/eu4T33dHRpjNSx8NrsX4F7Q63ouQIicMPa8ZcWxZHIMmpVrpUthWhSo2hnehHn+uqRvQ/t4AGDRJ6rppHOu9q2gime3ZZwP7EV/zNDb4RGH2IDA4Pf5RyIEMTKwgfvdpuemg/BwlzrmwX2ggnrrD5jOKnA/c200/6iEHFXIz2jVxX+VOJSGEDaZ8q/7EkJrSmKw3FKtG5QnMv1fMmFc1Y9AVIGORXOMHFC5RTNKCS5N2NiWFQR4me/KeSBTVWnMXg174SXtT6kwuXSh8w==;qF96PWRzx0AfUautNYidtQ=="
 ---

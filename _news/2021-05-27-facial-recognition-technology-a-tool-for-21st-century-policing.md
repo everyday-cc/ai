@@ -73,34 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Lawmakers may limit use of facial recognition software by police in Maine"
-    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 53
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
-  - title: "Legislature may limit use of facial recognition software by police in Maine"
-    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 52
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
 
 secured: "N4A2VO3nfD8IfN8g+ls4CC2VYLQvahqsNgy3Xgnql8W9V3zbZ/05CwTtHY9/yh7LP1LDuJCB+Z+kLFMf0s0taJ+uOmjU04aIB5LvXJVz7c9GJz+MFqdLdrcJqxC0CZpjTsJWbwzqVLab8C2pH8RrvXUh+U30M1FMpwzBZMkKy7uS6SL+nMa9b1bQnyCAHvKjVrLeCVV5OPC7mRNdCc2FyoHJXBbJeo+BzrwnkLznS5RLYHNbFEoFor5yyFvcoVFGB/sus1CBMn5Fh64UA7KxTa1Ivs1sT7JFxGwnCrFQkfAxEgj2/CJKlsqWp3rd8Vk6kyNP3naU1hj+2t1VMJ+Q+UPeZbetTG9zaOJZG7AbcCqD4Py+x5o0zRuok4TpxuP3fp9hQWLizp667fj+W14xA3x2mA0mn2RWFB63aJKiqp5N0u5BA5K1KA0oTyGZrmedOLdHE8qxdUPV3sbNhbrRZgWcSbLqiWF0Vl8FECEAaadajRkQWMGbBKcj+eiMRMJGpy3BAbaPiu+On7YO1Yyp5w==;qe9oYnV8wwFJ5N0ca1ncZg=="
 ---

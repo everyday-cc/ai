@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/blog/banking/optimizing-risk-management-ma
 webUrl: "https://financialit.net/blog/banking/optimizing-risk-management-machine-learning-banking"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic detect lung node with deep learning in segmentation and imbalance data labeling"
-    excerpt: "In this study, a novel method with the U-Net-based network architecture, 2D U-Net, is employed to segment the position of lung nodules, which are an early symptom of lung cancer and have a high probability of becoming a carcinoma,"
-    publishedDateTime: 2021-05-27T10:25:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-90599-4"
+  - title: "Is AI Disrupting or Enhancing the Asset Management Industry?"
+    excerpt: "Technologies like machine learning and AI are changing the way that we do many things, including asset management, investing, trading, and managing money."
+    publishedDateTime: 2021-05-27T08:32:00Z
+    webUrl: "https://dataconomy.com/2021/05/is-ai-disrupting-enhancing-asset-management/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 30
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90599-4/MediaObjects/41598_2021_90599_Fig1_HTML.png"
-        width: 606
-        height: 685
+      - url: "https://dataconomy.com/wp-content/uploads/2021/05/is-ai-disrupting-enhancing-asset-management.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "++rjKMa5WvYjI1Zg0pbLmTCpewCzLZhyQSi7bD/CJ+qE+ksR1dV4Lq8A7A96Qg+/edg9DXtcaZz0RB6GdbOZAIlqu6givGkS7cLFg1XvUNoCQitQg3ITurGABbk3YursI4pVnpnW+hPBgtQEEKctA619z4K334YqJ6uKY8SViuGU7wXSZSNJ8stgVi5GuA7xHd+oGuMeQ/tVcKRThs1DyEPubeWNuUF0F8rFKrNOWZL2DN+aD8axWFGq9J/ta64AXbvNVtq1rJz7zOACUSqze2affrpr08L6QIDlrUMZ2InVXCqHEcYnN40nUf9BUfDiJqtQAYxyEDI+iLwvhQyJ64rOzTLovnTmc513k1J/I0k=;B1A9r9lsTjpiSOyIkTftgg=="
