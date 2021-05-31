@@ -44,20 +44,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "EyeQ Announces New AI Scene Detection to Further Revolutionize Automatic Image Correction Technology"
-    excerpt: "AI Scene Detection able to identify the scene of a photo and automatically apply precise corrections based on the specific scene or lighting"
-    publishedDateTime: 2021-05-26T15:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/eyeq-announces-new-ai-scene-detection-to-further-revolutionize-automatic-image-correction-technology-1030467811"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1518590/Sunset_with_AI_Scene_Detection_2.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
     excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,"
     publishedDateTime: 2021-05-27T11:42:00Z

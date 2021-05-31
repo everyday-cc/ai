@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity"
-    excerpt: "Amazon Web Services is partnering with Udacity to help educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Scholarship Program by Udacity by offering 425 scholarships, with a focus on women and underrepresented groups. Machine learning is an exciting"
-    publishedDateTime: 2021-05-26T15:50:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 122
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Udacity, AWS to Offer Free Courses in Machine Learning"
     excerpt: "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ..."
     publishedDateTime: 2021-05-27T11:42:00Z

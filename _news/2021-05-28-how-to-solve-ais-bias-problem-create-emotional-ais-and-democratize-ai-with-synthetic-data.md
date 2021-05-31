@@ -45,22 +45,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "7 weird and wonderful applications of artificial intelligence"
-    excerpt: "Backed by technology investors including Tej Kohli, we believe that AI has the potential to positively impact every segment of economic activity and to improve every aspect of human life. Here we reveal seven weird and wonder applications of artificial intelligence,"
-    publishedDateTime: 2021-05-26T16:05:00Z
-    webUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/"
-    ampWebUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 63
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/05/Flippy_Grilling1-scaled.jpeg"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "Revolutionizing healthcare with data analytics and artificial intelligence: An efficient mapping study"
     excerpt: "With the availability of a huge amount of data daily, the algorithms have started giving better results with higher accuracy and in less time. The ben.."
     publishedDateTime: 2021-05-27T11:53:00Z

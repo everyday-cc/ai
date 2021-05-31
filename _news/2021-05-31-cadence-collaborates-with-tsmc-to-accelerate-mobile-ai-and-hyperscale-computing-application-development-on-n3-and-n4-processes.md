@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ambarella, Lumentum, ON Semiconductor collaborate on AI processing based 3D sensing for next-gen AIoT devices"
-    excerpt: "Ambarella, Lumentum and ON Semiconductor have announced two new joint reference designs to accelerate AIoT device deployment across verticals, building on the companies' previous joint platform for contactless access systems."
-    publishedDateTime: 2021-05-26T15:27:00Z
-    webUrl: "https://www.telecompaper.com/news/ambarella-lumentum-on-semiconductor-collaborate-on-ai-processing-based-3d-sensing-for-next-gen-aiot-devices--1384496"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
   - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
     excerpt: "Cadence is collaborating with TSMC to accelerate mobile, AI and hyperscale computing application design on TSMC N3 and N4 process technologies."
     publishedDateTime: 2021-05-27T14:45:00Z

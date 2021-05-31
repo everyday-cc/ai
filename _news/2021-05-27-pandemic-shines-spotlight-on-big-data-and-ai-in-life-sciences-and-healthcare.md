@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-sp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harnessing artificial intelligence's potential in healthcare"
+    excerpt: "The adoption of AI in the healthcare industry is also gaining momentum in Gulf countries. For instance, the outbreak of the Covid-19 pandemic across the region has prompted two UAE-based health companies to launch the “world’s first” AI-powered rapid Covid-19 antigen test."
+    publishedDateTime: 2021-05-31T09:46:00Z
+    webUrl: "https://gulfnews.com/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+    ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/05/31/-_179c1cb5ae7_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Thales, Atos take on big data and artificial intelligence in new joint venture"
     excerpt: "This new partnership comes as nations across Europe, and beyond, are targeting AI and big-data as key enabling technologies for future military capabilities."
     publishedDateTime: 2021-05-27T16:06:00Z

@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "GM and Lockheed Martin are making a self-driving Moon buggy for NASA"
-    excerpt: "NASA’s astronauts need a new Moon ride, and GM and Lockheed Martin are aiming to hand them the keys to not just one but a whole fresh generation of lunar vehicles. The Lunar Terrain Vehicle,"
-    publishedDateTime: 2021-05-26T15:59:00Z
-    webUrl: "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/"
-    ampWebUrl: "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/05/Lockheed_GM_Defense_LunarVehicles.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Lockheed Martin And GM Planning Self-Driving Rovers For NASA's Return To The Moon"
     excerpt: "General Motors and aerospace giant Lockheed Martin are teaming up to develop new lunar vehicles that astronauts will use on NASA's upcoming missions to the Moon, the companies announced Wednesday, as the two push to join Elon Musk's SpaceX as industry partners to bring humans back to the Moon in the next few years."
     publishedDateTime: 2021-05-26T17:10:00Z
@@ -72,6 +56,22 @@ related:
       - url: "https://media.11alive.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
+    publishedDateTime: 2021-05-29T00:30:00Z
+    webUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.html"
+    ampWebUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/12/31252ce4-edc7-528d-a87f-11b7dad4201f/60aea53ec72e1.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
     excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"
@@ -117,6 +117,42 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
+    publishedDateTime: 2021-05-27T18:25:00Z
+    webUrl: "https://www.snopes.com/ap/2021/05/27/gms-newest-vehicle-off-road-self-driving-rover-for-moon/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 24
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/05/Moon_Rover_66929-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "GM’s newest vehicle: Off-road, self-driving rover for moon | Charlotte Observer"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
+    publishedDateTime: 2021-05-27T00:55:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251710468.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251710468.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251710468.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 20
+  - title: "GM’s newest vehicle: Off-road, self-driving rover for moon | Raleigh News & Observer"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
+    publishedDateTime: 2021-05-26T22:30:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article251710468.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article251710468.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article251710468.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 17
 
 secured: "s3v3wBgAvdHstYTBWb+tQS7o16ZvbQ1b5WL6xGBPIPs0FA2RCw/T6H1Rhpyq4l9u+06Cp5NN057L6G0XbDZ4A97a5WVw8jLmNZ73SxHa6AL1clznHfajTMNuIMbihehdkWegeOsk/xHr+m5Zm1dBqJukdcuKaS9PHiO87BnAzmUl1RXR+r4VLnS7MvTsFXfzB33LSV5oJxlfyK0BJuSlpYHfLKwwlUK0fT0cnqBjKDNu/9g9r+4X6ktFw+ABi9g4s9ptxMzX2d2a2j4+CQAZJc463Pvzfz4POcD90hNQ5PKOCEKU9nE/npaiCIgn4bu1pNLDjFEfbsOzN+FjPhe7DmFucm3wZpShf4SnpuUmfF9U07/0n2Cs7UbfagM8KHMq2eRraBQ+UopH10yLujD3Fx8+Bd+qZoaS6n/EH97daNsZ3gRD/L/ZXTzl/DDwn+xp67utEvi4nu5ouDNiGnEXqLwcIIHpcZ54K92Hwi1ADVjm7HdYthFq5FTuiJbRBAcFKdisNhMBe7hKB2cNbuxCCA==;4kfkR8F/S0RxFKt7CwvBww=="
 ---

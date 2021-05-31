@@ -2,9 +2,9 @@
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
 excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-publishedDateTime: 2021-05-27T16:03:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+publishedDateTime: 2021-05-27T15:56:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
 type: article
 quality: 28
 heat: -1
@@ -104,6 +104,6 @@ related:
         height: 480
         isCached: true
 
-secured: "MPJlJpxvcOmjF1oR9JlbwXwF88TYT2MZxalUtBwwfEhA2YjSuOiE7hgIfJzbLje/9A8jrnjxRPZSuAz6kgIUFC5pdaOXB5a7+4Al0liwiGs9mBuGY/jyW4krDbaDbAcR8pmO1vBSORQCYZnVRzqY6AbGf5Cq6JcL+cIK9/eGkweeHiaI0SpTZK42XF7e/PO1hzJ9NExbj1AdqE+6mLolmM1JuHIeB2XQUxUfkvIE+aYx6WEvyeMVvWKSkEBW+EAwSECwG7wNlhoayWVSJp4TmS7Bbi0rSbbMQv8yQeFaWiJGM9BOZ+exTejC6vs+n1IBoTBLg+dUAJF3X+qAEZPLH3SwD7P4YnJ3EwYQRcbruEA=;vg4p0xOte1H3ACNuld4t6w=="
+secured: "OBtSOVlNkW8QEjUPGrxvxXsrM9fMIrYnoOx2CXCuxR1ZbWa9wImYTAJkhzDoYsOi51QkLiPPVTKOLZAt/YCNuAhVHZUDgLSyaDdV+wrFyd7WGoiYo4cpmiBc++iQODXlbLbNejJVFHzprYraDlFaycXB63IP5B8JWyn/xQln+m/Wf4gBmBzt1eXAfrVWnrBKQA2ft5OaVLVMYZod58OhljXcPBWfrCSpaYCJcSYeycPaZL0oUMY9q9jhzIt6ktjaL1LQyB8YuRrNU8+0JluObntMHTnutRqrIrr0Yvt4tBgqTxLRCBoEJGy6bdX60rvLCokTxVXeoPjbsnL4Eoeuqo3JWwA4MJYtNi2H8+9ApwI=;SUVvTaoURum+LVuc0aKKFg=="
 ---
 

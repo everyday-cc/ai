@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Harnessing artificial intelligence's potential in healthcare"
+    excerpt: "The adoption of AI in the healthcare industry is also gaining momentum in Gulf countries. For instance, the outbreak of the Covid-19 pandemic across the region has prompted two UAE-based health companies to launch the “world’s first” AI-powered rapid Covid-19 antigen test."
+    publishedDateTime: 2021-05-31T09:46:00Z
+    webUrl: "https://gulfnews.com/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+    ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/05/31/-_179c1cb5ae7_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
 
 secured: "+bAbNjEiTH8KQR/gixzyzEprXfjZljcNC693h1TT7C3NTBhk9rwBr2K+dTEhdHIKQYNwi8OsB+HeoGi7imvo8TBHE96m4zlR4T/Wkw8tIs+9jYVTuyUsMizE3CsvAxMo52k+lZSnwxmnRT/RzagnXFBmLdxyug5OAeIEyl1gZuG5o8AVKw4G/tUCVNiEB8mEDkPBAevwrEPmxo26LiOtPmi2Bu8Vr0btV80re0wKp6W1a8gbfqT0AJBm5LuBhXk6nVFMzKtOu4nR+X3Q4C+pBvRvxno9Qo5rftQR+XIGPZCyAfT+9nQG32gwudQmtGl6HniWO96C0fYz/Zngg4ug6Gn+N4ofsspzC8/S0T5fGV6Fr2cDMT1epEscPH9kwIOid92eIgLqF+OnsVv3c8QUO9pkI65QZsqfB43Felved7ZG2GnZg8TzxbaBpQ0Ayy5gjPyi44Xju9nl6U1AObmTc+CTyELiGGpGlcKgX7NqBQoBzep8NlVmzYIwiHLcrTG9jSRN0JfJaf2I0n1uL8UB3w==;0RvWM4/1kEF0fdXBmbaiQw=="
 ---

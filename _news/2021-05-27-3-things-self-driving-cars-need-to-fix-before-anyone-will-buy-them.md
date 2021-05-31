@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/3-things-self-driving-cars-need-to-fix
 webUrl: "https://thenextweb.com/news/3-things-self-driving-cars-need-to-fix-before-anyone-will-buy-them"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "The costly pursuit of self-driving cars continues on. And on. And on."
+    excerpt: "New tests, in years of tests, revealed more and more distractions for the driverless cars. Their road skills improved, but matching the competence of human drivers was elusive. The cluttered roads"
+    publishedDateTime: 2021-05-29T12:00:00Z
+    webUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/"
+    ampWebUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 44
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AUTOS-DRIVERLESS-OUTLOOK-1-0.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "2kkEJMHXQqUpMtZXFKIFI+jlxemD2jsGQZj4rEUs+lB0Bn9mP0629ykGyh2osT4RAUxpIY/vB90yS7RZDEapd+JPrfObMzwCk/sG1YzmSwMO/DDZIxshQ3yLC3lX0LqfrUd1YdcqxdbEgXACiE9j9AucNpI0tWlAwleMimAPa3TlUc/bo05lj38iEg5aTzgZY8MfZmGfYkeO0+JaGk0+Jgb2tkQL9uC6RIKyPbwQdW0T84ILdIVjaiCkauE7/HTrjkwY7GZ+D7L40LNYf9ImzAC6wea6nG83R0hT7La4NBCIBOUbKL2qMOtWRR9LHbAjyCC5vMKsFEOZFItCETA596UOWt4Ui67yEhY5gyjoujLYJzWlMMAQ5abq8mDDEjaQoideRaOh9mYnGpr8Cevl/k1iM+xOkZrtZ+Xbz/5qje+4FFIb/rExcMMs8g59f3TR2wmXGle/9DQBAz5mbxg4t5LTWcitu9OQq/+tRhf1TExhTEVytVqPGHe8QttNaO5f0UPyiceBhOBACw6beUFN/Q==;/eWqKS60xhueMwn2bRr7Ug=="
 ---

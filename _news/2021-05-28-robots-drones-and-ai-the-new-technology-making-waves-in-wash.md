@@ -7,7 +7,7 @@ originalUrl: "https://www.devex.com/news/robots-drones-and-ai-the-new-technology
 webUrl: "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Changing attitudes to AI and the opportunities to utilize new technologies during the pandemic"
+    excerpt: "Some industries have pushed ahead with their use of AI and machine learning, but plenty of others have seen little change in their attitudes towards the technology. For many companies, the value that they have seen with AI during the pandemic has led them to recognize that they can utilize it further and prepare for the future,"
+    publishedDateTime: 2021-05-31T09:30:00Z
+    webUrl: "https://www.itproportal.com/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 45
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "CiVs/DY93Sp9Zrvo4kYcuUP5jNfx1DWjJcwW1hre4m+AzvpE+RG3LH81EZdH68Qyam6mkeGKtk4PU1W5O7NHsvX2/iMG3xr3WBLv5Xqyia5OZxdJhLYLQH04B4W1X2aPBVqVC9qVJZiTN877MghwT9K0pz/nKUakJNwQApEgQQL4OFmFxJXiUsO4ZD9SZHGMXcLD2b9NpP02uE0pTlQzmwVtQ3YcZf9HZlOoDqWfkhlS21tDjgEIfNQNsFZQfT4+sXH2fu0TLRHpzqc35TVhaYlOdLhInlMLEtY+pvKoZFjnZdjAeDDFuFEn95fLZ8X2JRi5an2JTRk0Thu+DSR9lHmybFKPlwcSNNtURVbT0rAAZKjHd2jcCpZyROR02yMjMrWWl9ytEbpPrIVkz4QKzgwf62KE1u/fV6T+4EQ1ffyIpUnncemZrCb+QlEIXx/TDeXMVYw5yndJZLmibV1IOw8VsO4jguu/3aF4uwknNhYmlvj1NQo57Jsq2jabw0SIGDlfrqOec8n2h39E3ttnEw==;3+HFBD7cbuS0juEPZu9fxA=="
 ---

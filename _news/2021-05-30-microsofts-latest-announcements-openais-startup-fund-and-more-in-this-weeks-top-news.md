@@ -98,20 +98,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 71
-  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
-    publishedDateTime: 2021-05-26T17:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
     excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."
     publishedDateTime: 2021-05-28T17:39:00Z
@@ -155,20 +141,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/j28cs0/article34673495.ece/ALTERNATES/LANDSCAPE_615/Instagram-insights"
         width: 615
         height: 384
-        isCached: true
-  - title: "Investing in startups with big ideas about AI."
-    excerpt: "The fund is managed by OpenAI, with investment from Microsoft and other OpenAI partners. In addition to capital, companies in the OpenAI Startup Fund will get early access to futu"
-    publishedDateTime: 2021-05-26T16:47:00Z
-    webUrl: "https://openai.com/fund/"
-    type: article
-    provider:
-      name: OpenAI
-      domain: openai.com
-    quality: 39
-    images:
-      - url: "https://openai.com/content/images/2021/05/fund-social.png"
-        width: 1600
-        height: 900
         isCached: true
   - title: "OpenAI Launches $100 Mn Fund To Catch AI Startups Young"
     excerpt: "Microsoft acquired an exclusive license to GPT-3 last year, in the wake of its $1 billion investment in OpenAI."

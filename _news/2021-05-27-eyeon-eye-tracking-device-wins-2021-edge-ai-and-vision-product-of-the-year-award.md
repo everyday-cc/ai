@@ -49,20 +49,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "EyeQ Announces New AI Scene Detection to Further Revolutionize Automatic Image Correction Technology"
-    excerpt: "AI Scene Detection able to identify the scene of a photo and automatically apply precise corrections based on the specific scene or lighting"
-    publishedDateTime: 2021-05-26T15:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/eyeq-announces-new-ai-scene-detection-to-further-revolutionize-automatic-image-correction-technology-1030467811"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1518590/Sunset_with_AI_Scene_Detection_2.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "3lN9+om2+vEnRtyDoTi8jfMpqItLgl1H4C+qqcb3MELtChfW5NU5d3cBsx1YbU+0Kn6pj48/Fmoy4Fwl+9InojxAC/dV3sc6EeDPLOseULNtfcCqxuEMp/3gJdDC88AQsxpbsVJtVHhEayqISooXSWVxeTumMxEvfY2HtUDHv+sPEenn+2Ks+m93UadlbhVjvnvgxoH6UJKiuJbs2yKJZaLYXZPqgF0I0UJALnefSTwh70LfjcReYLZ4NO4oAwNfSUHFqWPTPfeycpRq54oN0g+GCfif/QyLj1DlNWEfEpN3EZkaagdXBqWDB+hsfj0YUu0kaLbHWdkvXteyxfRl4nY5M8kfZWudRz9qfoQ3x80=;/LczLlzUaKc8tlvcXhU1TQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 24
+  - title: "Global Artificial Intelligence in Marketing Market to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Impact and Analysis - ResearchAndMarkets.com . The \"Artificial Intelligence in Marketing Market Forecast to 2"
+    publishedDateTime: 2021-05-31T04:02:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210531005077/global-artificial-intelligence-in-marketing-market-to-2028-covid-19-impact-and-analysis-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 14
   - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
     excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
     publishedDateTime: 2021-05-27T00:00:00Z

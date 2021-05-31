@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Digital.ai Platform brings artificial intelligence to value stream management"
-    excerpt: "The new Digital.ai Platform is meant to be an intelligent value stream solution that accelerates value, increases efficiency and reduces risks."
-    publishedDateTime: 2021-05-26T15:46:00Z
-    webUrl: "https://sdtimes.com/value-stream/digital-ai-platform-brings-artificial-intelligence-to-value-stream-management/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 79
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-26-at-11.26.17-AM.png"
-        width: 2306
-        height: 1222
-        isCached: true
   - title: "Relativity acquires AI startup"
     excerpt: "Two months after landing an investment from Silver Lake at a $3.6 billion valuation, Chicago tech company Relativity has acquired an artificial intelligence startup that helps organizations identify sensitive data."
     publishedDateTime: 2021-05-28T14:18:00Z

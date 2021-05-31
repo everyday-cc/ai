@@ -27,89 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Memorial Day Traveling In An Era Of AI Self-Driving Cars"
-    excerpt: "A close look at how Memorial Day weekend traveling will take place once we have an abundance of AI self-driving cars."
-    publishedDateTime: 2021-05-26T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
+  - title: "3 things self-driving cars need to fix before anyone will buy them"
+    excerpt: "But more than that, manufacturers and marketers need to take steps to address the unease regarding online security and the reduced autonomy of the driver. That’s the only way they can enhance the adoption of autonomous products."
+    publishedDateTime: 2021-05-27T09:00:00Z
+    webUrl: "https://thenextweb.com/news/3-things-self-driving-cars-need-to-fix-before-anyone-will-buy-them"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415"
-        width: 1200
-        height: 800
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-43.jpg&signature=b76d54724d5f3a1fd4d62fcacff96a8c"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Argo AI's Game-Changing LiDAR Sensors for Safer Self-Driving Cars"
-    excerpt: "A US-based self-driving car developer, part-owned by Ford Motors and Volkswagen, could be set to redirect focus in the nascent – and turbulent – LiDAR sensor industry. Argo AI developed the new LiDAR sensor for autonomous cars in-house,"
-    publishedDateTime: 2021-05-28T11:57:00Z
-    webUrl: "https://www.azosensors.com/article.aspx?ArticleID=2237"
-    ampWebUrl: "https://www.azosensors.com/amp/article.aspx?ArticleID=2237"
-    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/article.aspx?ArticleID=2237"
-    type: article
-    provider:
-      name: Azo Sensors
-      domain: azosensors.com
-    quality: 59
-    images:
-      - url: "https://d10lvax23vl53t.cloudfront.net/images/Article_Images/ImageForArticle_2237_1622198779183791.jpg"
-        width: 1000
-        height: 620
-        isCached: true
-  - title: "New Research Says Human Drivers Are Accelarousal-Prone Which Is Especially Eye-Catching For AI Self-Driving Cars"
-    excerpt: "Research indicates that acceleration can lead to more stress in some drivers over other drivers, which has notable ramifications for drivers and for self-driving cars."
-    publishedDateTime: 2021-05-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/28/new-research-says-human-drivers-are-accelarousal-prone-which-is-especially-eye-catching-for-ai-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0085456d92dc2e2231a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1952%26cropY1%3D113%26cropY2%3D1212"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Tapping into the drug discovery potential of AI"
-    excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
-    publishedDateTime: 2021-05-27T15:37:00Z
-    webUrl: "https://www.nature.com/articles/d43747-021-00045-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-021-00045-7/d43747-021-00045-7_19194754.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The Human Error of Artificial Intelligence"
-    excerpt: "AI and predictive analytics offer a stereotypical, reductionist view of human nature, and this is a problem we need to address"
-    publishedDateTime: 2021-05-31T06:56:00Z
-    webUrl: "https://www.agendadigitale.eu/cultura-digitale/the-human-error-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: AGENDA DIGITALE
-      domain: agendadigitale.eu
-    quality: 37
-    images:
-      - url: "https://imgcdn.agendadigitale.eu/wp-content/uploads/2021/06/19110627/bigtech.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Mountain View self-driving trucking company Aurora Innovation expanding in Dallas area"
-    excerpt: "It’s been less than a year since Aurora said it would test its technology in Texas with a push into Dallas and now it's expanding to accommodate its growing employee base."
-    publishedDateTime: 2021-05-28T18:52:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/28/aurora-expanding-dallas.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 11
 
 secured: "Kc0BP3Ksgk8iUq4Dz15XQUCVHSr8KS1MjejXW3suXhh2j0d181vPAJW1+Iq6cbyxaHThtAO00bwZQSTGru3Lii6pOHAowfTETv5mP8s67UmrPbF81AekYL39IPfsoL4mer+iYwY1jsV8SKFnS7gvFmBs3ntde2XyymIDm/jnw7OGryR7daxwySEi6dssglUX7kvXkVbH1+ucRoCBHEzajIOsx2+cL374LnlIbZCG8dqkijotuY/TYoAnfahgBxnKYv7S9RX/WWRUZYS7gBkJdsyzxL7ilHzDLwt8R56jUKb8UB+L4nkXyTSkz0zBKqOcUQjbk6QdelIKosOyBDJFTjP6Kp/2qyaHrcys16CYS6WVf5ZA2mrNYDzSp6GqNyyfOUMxyWg8xTgARJ9+0Ck1XWTrIWZ8aKJ34aY1xsfq4ciqu1+DE9jDUfb277IKbqvws2Vz9bznZGiSK+zzZN8dUBz3D3/yXlTL9KIqmlyQ6bp2h8PMyuJt55VtVkVTxOq+l3MVbckw+oUkpNrzxfzXeg==;B4acvOJudP2CDHeJxWQCag=="
 ---

@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Digital.ai Platform brings artificial intelligence to value stream management"
-    excerpt: "The new Digital.ai Platform is meant to be an intelligent value stream solution that accelerates value, increases efficiency and reduces risks."
-    publishedDateTime: 2021-05-26T15:46:00Z
-    webUrl: "https://sdtimes.com/value-stream/digital-ai-platform-brings-artificial-intelligence-to-value-stream-management/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 79
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-26-at-11.26.17-AM.png"
-        width: 2306
-        height: 1222
-        isCached: true
   - title: "Relativity Buys Text IQ to Boost NLP Capabilities"
     excerpt: "Relativity, the eDiscovery and compliance pioneer, has bought New York-based Text IQ, a company that has developed a strong capability in natural language processing (NLP) and what it calls"
     publishedDateTime: 2021-05-27T15:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102146459/Tesla-Modifies-Self-Driving-Feature-
 webUrl: "https://menafn.com/1102146459/Tesla-Modifies-Self-Driving-Feature-In-Its-Electric-Vehicles"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,58 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
-    publishedDateTime: 2021-05-29T00:30:00Z
-    webUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.html"
-    ampWebUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
+  - title: "Comments On Tesla’s Full Self-Driving"
+    excerpt: "Whitney Tilson's email to investors discussing the 60 Minutes segment on Steve Jobs; Ford F-150 Lightning; Tesla starts using in-car camera"
+    publishedDateTime: 2021-05-28T16:29:00Z
+    webUrl: "https://www.valuewalk.com/comments-teslas-full-self-driving/"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 44
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/12/31252ce4-edc7-528d-a87f-11b7dad4201f/60aea53ec72e1.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
-    publishedDateTime: 2021-05-27T18:25:00Z
-    webUrl: "https://www.snopes.com/ap/2021/05/27/gms-newest-vehicle-off-road-self-driving-rover-for-moon/"
+  - title: "Motorists still worried about self-driving vehicles, survey reveals"
+    excerpt: "A survey conducted by AAA and Harvard shows people are still concerned about self-driving vehicles, especially self-driving trucks."
+    publishedDateTime: 2021-05-28T14:56:00Z
+    webUrl: "https://landline.media/motorists-still-worried-about-self-driving-vehicles-survey-reveals/"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
+      name: Land Line
+      domain: landline.media
     quality: 24
     images:
-      - url: "https://www.snopes.com/tachyon/2021/05/Moon_Rover_66929-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://landline.media/wp-content/uploads/2021/05/210526-AV-skeptics.jpg"
+        width: 540
+        height: 420
         isCached: true
-  - title: "GM’s newest vehicle: Off-road, self-driving rover for moon | Charlotte Observer"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
-    publishedDateTime: 2021-05-27T00:55:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251710468.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251710468.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251710468.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 20
-  - title: "GM’s newest vehicle: Off-road, self-driving rover for moon | Raleigh News & Observer"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
-    publishedDateTime: 2021-05-26T22:30:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article251710468.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article251710468.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article251710468.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 17
 
 secured: "c0M49tFYCoDSCVOzSlxRg+uToTDJ1IUgiWI7g1wIxxR0kV5m17IuAPNzcfRESshDUGbp2kj6vicEVNpeBWXfYzqJgeJIrfj+SQ16zvkHMukveYvfQ1gMdBtYiTfNDTv7ac9kStimaAQoKCo6QPGTMtwLPhzdOCo5D/5h8J3pDCfu9tuQEMYz1Nad2e2rpeBBEt/aeywI5blYyGfkYo7/jXnwrYUT66/+/Q7OalwxriuOEHti+MdfeO/ciqmnlRRCkHyRueH/xqnt9x/xqHTCPDx4cJFq4EuidwEXmXxmKpUzYSYvKZZ86KAGOaXiKETcnXiYCRWnf9QX2uDywv+Ss4eJk4MN4WAeBO+DvWjz8yk=;Cx+XTKY1IMiBKI+0oWXbyw=="
 ---

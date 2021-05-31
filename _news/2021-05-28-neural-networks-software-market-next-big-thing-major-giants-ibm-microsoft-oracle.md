@@ -28,35 +28,65 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science"
-    excerpt: "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,"
-    publishedDateTime: 2021-05-28T14:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28"
+  - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
+    publishedDateTime: 2021-05-28T18:35:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 102
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
+        width: 1199
+        height: 671
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market: The Latest Trends | IBM, Google, Baidu, Microsoft"
-    excerpt: "The latest analysis released by HTF MI on Global Artificial intelligence AI in Supply Chain and Logistics Market Outlook 2020 Survey results sheds light on how investment and competitive landscape is impacted due to significant changes in the Artificial intelligence"
-    publishedDateTime: 2021-05-26T23:56:00Z
-    webUrl: "https://www.openpr.com/news/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics"
-    ampWebUrl: "https://www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics"
+  - title: "Microsoft Build Unveils 'AI-powered Assistance' For Coding Using GPT-3 And Azure"
+    excerpt: "Using an advanced AI model like this can help our low-code tools become even more widely available,\" Corporate vice president for Microsoft said on the event."
+    publishedDateTime: 2021-05-27T11:05:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 70
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 84
     images:
-      - url: "https://cdn.openpr.com/U/5/U527291217_g.jpg"
-        width: 480
-        height: 320
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wuhf06h3xyik4ld9_1622111084.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
+  - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
+    publishedDateTime: 2021-05-27T16:14:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 69
+    images:
+      - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Microsoft Weekly: Build 2021, a combo showcase, and next-gen Windows"
+    excerpt: "In the last seven days we had the Build conference, a reveal of the Xbox and Bethesda E3 event date, and some needed improvements to shared calendars on Windows. Be sure to catch up via our overview."
+    publishedDateTime: 2021-05-30T10:54:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-weekly-build-2021-a-combo-showcase-and-next-gen-windows/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 69
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1622383930_msw-20210530_story.jpg"
+        width: 760
+        height: 428
         isCached: true
 
 secured: "nKJPCLZY5snaMgvOQ5reIBFvEJ99HTa4RrNm15zC1Fn5kHnXAXEz3GzRyDdf5tvYJDlmeWPlfXcsuPVTs7GS76EkBmLRqmcFC9A2k9DAmaQL8lJWrRBJ8WJY1gkluDHeyy2n/hW+cgwxT4kRYZrBW4EMnAJn8fkbvpOzkDfbzB/k449ihKy8FMzRyXMiAdeQOo9/WHHJpjtzZ1Lk5PclnHX9lofxFiOnHsrfRJ7Bqxdd7bFznlFTq9VHIv8msZKCVbz8HoGC+Koz2tHiLiE0ZiLmiIXT/jiVl8yFvZmEn4/oxJPix0TQfAWRCFSFGKqy7eabkqwCjU3wOK9J8xDfy8LS4r+UhYMk1xR0/yOFX/HVOwJxFBjXjdA2pKHLk0on0Xm7j3B7pO9K0SDeygU0tHr3FqBx1dygaG8o5GKBSwPm0v6pGxMIUTK/NNCJXw/F1uLerwpkx/jZuIzLRKRUmTT6VH9GpMyvEvHskEDDAsW1vPyUVoLqSKveRq9Q2a8Vk/Itod5j6K31ZyRQ6bfrDg==;Ih1Eby7GYcIIA1wspPt1fQ=="

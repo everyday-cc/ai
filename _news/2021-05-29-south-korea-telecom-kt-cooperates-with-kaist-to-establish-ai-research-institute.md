@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperate
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/amp/"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 949
     height: 535
     isCached: true
-
-related:
-  - title: "Nokia unveils the world’s first telecom AI library"
-    excerpt: "Nokia has released a library of artificial intelligence (AI) use cases for telecommunication providers through a public cloud, an industry first. Developed in collaboration with Microsoft, the Nokia AVA AI-as-a-service combines Nokia's security framework with Microsoft Azure's digital architecture to help communications service providers (CSPs) take on 5G and cloud computing challenges."
-    publishedDateTime: 2021-05-26T15:28:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615893259/itpro/NokiaSign_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
 
 secured: "8qEp/mewD5xPYDH+bhRjzGt8En+dCs8k4uBJ4V0xAqZNtXlTmeYK8hHJ684A2/EuF7AANOAVIbaF49xmqotX9brF7U49SKig1D2Yp4KeOMihI0hanVV0MStKD6r1N1tRJuf12U1rU/fqjurtWHw3w46aRqGk2o96lADeFtUI0NhE6EF5rOA8kP3snYu3rqeZIsKtQCsnaK6QidKPfTDy8e5EfVNu84eGo3DCEvJRcDgK3AWdtz9/KJRphvSjG3+Tz85bLlJ5CRzDQQVyNrFbGHeFY/0Z+1d0iKGwGBJzNKtwbFG3CeZ3SglbJzm4TG6dNCgqVOSqibLrOr2TRQWQaHMIyZpavR0swcJiZqnJvZQ=;1ghewTZ/aqr9hvc2Oq2EiA=="
 ---

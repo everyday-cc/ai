@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/amp/news/ps5-games-sony-ai"
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/ps5-games-sony-ai"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 480
     height: 320
     isCached: true
-
-related:
-  - title: "Sony AI working with first-party PS5 devs on AI machine learning"
-    excerpt: "Sony's experimental AI division will team up with first-party devs and use machine learning to create next-gen AI in PS5 games."
-    publishedDateTime: 2021-05-26T15:38:00Z
-    webUrl: "https://www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 74
-    images:
-      - url: "https://static.tweaktown.com/news/7/9/79579_3_sony-ai-working-with-first-party-ps5-devs-on-machine-learning.png"
-        width: 620
-        height: 348
-        isCached: true
 
 secured: "8aZdXOuWs2P+M7rrFADhMHwsrnMFZ2fOr1/Gaa24wuu56+0+b4pNo+ZWxrK10RLDk2rnFu3VHuf9e7SPZSz2NVVSMr9o+0bp9DT2pA5oXKNu2AUDokfidQlzfGi9QV8bmA4JwWsZyQdHWGgl8PLkQx00v+X3F/ZPALxFFRWufXQXcAITG9CF2319AeYMZsORYRpBU/TsnFEKShnopR6c56HuCZyKA6ZQkXNCCvNNvrBxMQ0jI7Cdj2u763FGH8zaBCO6+f7ROC6n02UHkhN3pCue+4ZNYJVccDGMSxDzkDFyDAHerM2KpTfCBcVG90nRO6hY1qzSF9NJsnUOvnVZIIXiv9xXG8+iPq08DOGf7yJwqE6LRf2EdqSYBSaMCmGtP42ncT/NrQpsj7UQWNOYB6idbj1EYdospnhnOsb6LOq+omfDQSK4ydqyRMR6eqBndTgjScU069viFu2+J821JReTlI3K8/hkRkwHdTcZk7ddxbSDh6eqxXxNze2I+XsIfyQSWFkub60gQzGQY+ktBw==;nox8oRjYsTFlUiP2GlNqEg=="
 ---
