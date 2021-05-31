@@ -48,20 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
-  - title: "Microsoft Adds Enterprise Support For PyTorch AI"
-    excerpt: "Microsoft has now added enterprise support for PyTorch AI on Azure. With this, Microsoft aims to give users of PyTorch a more reliable production experience. For the uninitiated, PyTorch is a library for the Python programming language that integrates with important Python add-ons like NumPy and data-science tasks that require faster GPU processing."
-    publishedDateTime: 2021-05-26T05:59:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-adds-enterprise-support-for-pytorch-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 73
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/microsoft.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
     publishedDateTime: 2021-05-26T08:03:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Databricks unifies data science and engineering with a federated data mesh"
-excerpt: "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models."
-publishedDateTime: 2021-05-27T15:30:00Z
-originalUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/"
-webUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/"
-ampWebUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
+title: "Databricks ups AI ante with new AutoML engine and feature store"
+excerpt: "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike."
+publishedDateTime: 2021-05-27T08:30:00Z
+originalUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+webUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
 type: article
-quality: 72
-heat: -1
-published: false
+quality: 84
+heat: 154
+published: true
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,24 +24,23 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
-
 related:
-  - title: "Databricks ups AI ante with new AutoML engine and feature store"
-    excerpt: "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike."
-    publishedDateTime: 2021-05-27T08:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+  - title: "Databricks unifies data science and engineering with a federated data mesh"
+    excerpt: "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models."
+    publishedDateTime: 2021-05-27T15:30:00Z
+    webUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/"
+    ampWebUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Databricks Unveil New Machine Learning Solution"
     excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
     publishedDateTime: 2021-05-27T21:57:00Z
@@ -117,6 +116,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "jIvuP5CI2nJmvBtce1zofgTBNTc/2bqP76jB9fY8rNQKYmCer+aoPnEXx68Y9lHhOuN+cKM9wLiVEPOrNmPxC0l6AFTRN18NDIazCF7HkINU+TegkpmuC7Gf7W9kRWxA5OUW7sAOTvW1kkrnHj3O3w/EsH3l8pOfyLFXrbFg35C0gDJube5PmlxVMbA89y32BY5+E45N29VhX1Ea53gews1sbpgD34HmkeODdpg4mq5gxsICljFSAyW1UL44ns47HkKmv1oZPqgolT5MnWYCaYk3AfbJK/C49rFV+WQrQ26xxw7ytKKhGiAqvVcEVf4okRgmVIIG4lwECGSxqPdnwe7317ZeM3Z4qveywSUxAz7++G+hHdBu/nF4jdwtiotgj5yf+clsV0KdVzsCKu91mS6Xt8bSruLW4LlJnlf6nDP7gFhyilTgD/eV6AvmJkPlamsbrgcR0vZ8NMWIeJBfHmxC5aWZMqmOhtbhHOcDx5KhttRLn3dA4AZmT64wY61pyd/BNBPAK8JFWBzZneqKSw==;hplx2wfaurfcSW2Ji1wYiQ=="
+secured: "sZSrnp0d5dPGfguED78oxZC+aHQljfyfW6eeq19Ci8puD7EWhkMKSkmZHqQd3BvahajtnLD/QNS6Meyrm1cIKFOyq0c48LRfLt425z0fB1Q6qCZSf4ayM+8uLm5vthJKM7uy8HRaceZbL5zjY3XA+eOfx1BpcOL4vW8+94h3p68ZFxo12p4ANHCSP/yq7I6dzQEd7z+boe1GL7RSW08ehm1mB9bqE+m9ghFKU8XAI8Woi2/nHX8hBw/Py7HPJtMtvkCnxY/JN8oYrsnMoGE4yNUoxRVuTnSwRNjoKyVlDqOeCOIMl0ggOHP73ODaZ1Yqg+hSZWTO1D3ctgZxR2fDetgXxlHBhBZnjSCieToEvVyHUNajt9DatS5faATMsmdPkQG/+3sHKxTlOdLUZi26thGSuXYCUPDRfdrh4iwQWPoZxsIZXZaL++MiB1P8ObeTL1LiKovexMz2qCPXOteDyP9FJ5f4c4ICQ8kaBYUd9vlqSU9EM1TWoYJc7MOgkrXJQxcCeXB9afL98fqAuI1I7w==;C6OqX5+f65AiOPNX5yXiDw=="
 ---
 

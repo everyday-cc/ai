@@ -2,6 +2,58 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-05-02-reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai.md",
+      "title": "Reinforcement learning competition pushes the boundaries of embodied AI",
+      "excerpt": "The ThreeDWorld Transport Challenge lets embodied AI scientists test a robot's ability to physically sense and interact with the environment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/01/reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai/",
+      "originalUrl": "https://venturebeat.com/2021/05/01/reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/ThreeDWorld-Transport-Challenge.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/01/reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/01/reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai/amp/",
+      "publishedDateTime": "2021-05-01T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-experts-rank-amazons-self-driving-unit-tesla-waymo-and-12-other-power-players-in-the-world-of-autonomy.md",
       "title": "Experts rank Amazon's self-driving unit, Tesla, Waymo, and 12 other power players in the world of autonomy",
       "excerpt": "Waymo was once again a winner in Guidehouse Insight's ranking of the top autonomous-vehicle companies. Tesla was not.",
@@ -1133,51 +1185,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-ic-and-software-solutions-enable-machine-learning.md",
-      "title": "IC and Software Solutions Enable Machine Learning",
-      "excerpt": "Machine learning has a narrower definition than AI. While there are many definitions of AI, the fundamental idea is about enabling a computing system to think, to make decisions equally as well or better than a human can.",
-      "sourceUrl": null,
-      "webUrl": "https://circuitcellar.com/cc-blog/ic-and-software-solutions-enable-machine-learning/",
-      "originalUrl": "https://circuitcellar.com/cc-blog/ic-and-software-solutions-enable-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://circuitcellar.com/wp-content/uploads/2021/01/365_Jeff_SF_Lead.jpg",
-          "width": 800,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Circuit Cellar",
-        "domain": "circuitcellar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

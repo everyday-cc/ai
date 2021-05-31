@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Databricks ups AI ante with new AutoML engine and feature store"
+    excerpt: "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike."
+    publishedDateTime: 2021-05-27T08:30:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "Databricks unifies data science and engineering with a federated data mesh"
     excerpt: "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models."
     publishedDateTime: 2021-05-27T15:30:00Z
@@ -102,6 +113,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "LwnW9koa873fQwotFo2FOgpIpzipRtbM80HpsNynsFMEP3EvigeSikWoh8oSw4WRmYvFu/hmvcfkZUV0qH8R3dlyna8dgASrTJSPFq1Rjwr915VJtL1JKgndDetwx2yanXabCjuVDkTnxjRXYoZ2CiRdR2ZmUbJPAsUrOEA3sev73O8q/pQjWp8CjgbDC7VTRyhubcTJButItNWHmE+19H8WT/z5ByOWF9YMZN64/Qhx1XmYFpDgYFlMBOfAlabP0b2sdNGwHrj83j1VRZvP86f0/Lf9MEegTriWeBVngNdb/4JLTCosE5FrDOQt2mKrvN6kQUoNL23TrSezlbx0XoFy6pg9vnZJriKVeqKwJbw=;uI03PM4xatLv10x1/tEEXQ=="
+secured: "3+kNaj5DJ4/ccXFJdGWTo2VaxTGHOtpFM7/rgBQ6WP8CqkE0owdV/7J0GDXel/+owEfZSKX7YQ8fvr8pE6lmrxz0I8lguhms8Di+n6UrYj9u+QXiYur7a1V5SagQZsY8+BIwjIoc0Qv7OrcDSA5W+NTYsHT9/dXBKqFMah/kIzY1PK4cMm/2oQ1rPhB9I0oJhAwueLikja8IrJ25Hdz2+HTff2B8/9mVMoVKD7b7HpHDawHF+CuHMLGtP/RaD7fjAGeGJAaMGovnxfDJfd0U1YE+4p1uEkRQO8+uT+gjLeU5js760w3RWk0iyT/bQuzN80zPHXl4gDPBf3X5HbOEPdanpm6IeWPrPPpQHNil6EM=;X2ScsKB8SzfFjNt11+TVBw=="
 ---
 

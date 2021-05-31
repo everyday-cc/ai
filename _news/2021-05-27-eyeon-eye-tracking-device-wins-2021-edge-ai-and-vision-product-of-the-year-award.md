@@ -2,17 +2,21 @@
 category: news
 title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
 excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,"
-publishedDateTime: 2021-05-27T11:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379175.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379175.htm"
+publishedDateTime: 2021-05-27T11:43:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-1030470882"
+webUrl: "https://markets.businessinsider.com/news/stocks/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-1030470882"
 type: article
-quality: 14
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -78,6 +82,6 @@ related:
         height: 225
         isCached: true
 
-secured: "eoNE+og79wEtxA2RjWzwpkJ8Hr06cjArjrzilEqrLlvhTAdSy0RlKWk0YCwk7MUyeXZS1EfiOnFy6IMY2Lp9BMUMa3MJZfAtxU1t+DeSzVbdo8hsyDQ5E3mjeMbAMTQzOBTAFWIaB48YdAZEgJomZua6nwrgsH2ZknzeAClxzP8+JM2oNrDRfMvDDbm/eB4Vomg0N3rm0h9oT1CEWekxf64K69qWIl0TpXeGYn9W1nSwL50aHAxFb9nu86oNBCwzJRmW0ws9HUtWWMie0RYrXTigchN3Tszz1o4q8++XHMejjhZzihUmPtb2R/SMaEPcMQpgDgSnvXJsyxEuiFn5wB/cPhxFgV2LZdsKuGKXZGI=;oFZzHLbDC9DlUhzb0JH/jA=="
+secured: "xMK7JVuQCmtlzFKurPFpDV9E5bP706SGfqa0fC89DTOOkAch29ivjVHa3ggKfrNhWYhF/aLhKD6BC8bxW+RcZKYdQt6J7KvbDaxyknn6gQrX2jd7esCF/2nnNU2uP5+oQh0QrZCTFzOS1dc29Dm9fvs1rsPlcyiXCRGpqHo3Nxwl5l+eA5ZqBj1PGifcBChz5P6+SYNL5sm0INeXfrTujC0FLIBwbmNFW8kZE7yNmoy4X8xy6LdE03gBwKWbctZEg9xV3pHZW4jvhm6zQyLY6MuuGoBs/AiEaH+d1cD19n8F1gUCKNHVTZPZlmDusa9vZjj4oiuG6xLrYx+QIACVPWmgWsWCxAI2lPZgRI9kL7w=;bpYIPwgKGBHJWurQnCy+OA=="
 ---
 

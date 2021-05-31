@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational AI Startup Rezo.ai Raises Seed Funding Led by Modulor Capital with Participation from Dexter Angel Network, Veda and Prominent Angels"
-    excerpt: "Rezo.ai , a conversational AI startup has raised an undisclosed amount in seed funding led by Modulor Capital, Dexter Angel Network, Veda"
-    publishedDateTime: 2021-05-26T05:26:00Z
-    webUrl: "https://www.indianweb2.com/2021/05/conversational-ai-startup-rezoai-raises.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 0
-    images:
-      - url: "https://1.bp.blogspot.com/-jPN4snRLQkE/YK3bqoVfBUI/AAAAAAAACII/8-OfksSUoWIdnIv6J98zyjV6YxPewsOdwCLcBGAsYHQ/w430-h640/Manish%2B%2526%2BRashi%2BGupta%252C%2BCo-founders%252C%2BRezo.ai.jpg"
-        width: 430
-        height: 640
-        isCached: true
 
 secured: "FMyqyPUoZvLZl8Nup3SZN5tSqjgskogFQBZ6vnz5jPlq2EahjAFERSlCo8X+1GYZBxbF84YaWQWnVhJP2x288bucfGibsrK5opc21Y+ct2JbK+1TP0jhTu2mUudUXBKMZN5gQUETTNsA90DS54VSas5kgD1awSonfrOZmFY7Wl35hCxie89OcLVzKNl12Tz/LIlNYx5nSbGjt7ui4soUuWN9Qfdxi8zS83sk+yxzHpuWLKNufawMM4ONBQeBN9P4M4ceX0JYqtJI76eivivWm7dLcixJPBe74oQFghQH60sr4olLV3xXOWtqEy1LZsnLToAb0QYw48MJiKqZaar3N4/GNT/wQovIyGU9sJh0IMnypik2tcN8BnfY2TkiC92cDUi4uLfRp4KhXrO0Z3fDfeIW+0IshnUzVtG+Q3O6dAKc9dUTK1GKd+L3IJ7leHjD+9yVaV2bP2fzESympZPoXt/MkdWpc7nuSCCMQmr2ASO1GXRKFnE5XG7m0E+FTW/jZxmTcc9ci8ql7UXGtQ+Vyg==;r6XfTH9IOcCyv1ixDSOsMQ=="
 ---

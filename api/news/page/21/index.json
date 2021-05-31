@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-05-13-tesla-stock-falls-after-elon-musk-tweets-self-driving-rollout-may-take-months.md",
+      "title": "Tesla stock falls after Elon Musk tweets self-driving rollout may take months",
+      "excerpt": "Tesla boss Elon Musk said that Tesla is tweaking its self-driving software to “eliminate the phantom braking problem” and may release a significantly improved version",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/",
+      "originalUrl": "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/musk-tweets-down-tesla.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/",
+      "publishedDateTime": "2021-05-12T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-california-driver-arrested-for-riding-in-backseat-of-self-driving-tesla-plans-to-do-it-again.md",
       "title": "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again",
       "excerpt": "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot.",
@@ -1122,58 +1165,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-understanding-the-differences-between-biological-and-computer-vision.md",
-      "title": "Understanding the differences between biological and computer vision",
-      "excerpt": "Biological and Computer Vision by Gabriel Kreiman explains how AI attempts to replicate how humans and animals process visual data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/15/understanding-the-differences-between-biological-and-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2021/05/15/understanding-the-differences-between-biological-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/15/understanding-the-differences-between-biological-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/understanding-the-differences-between-biological-and-computer-vision/amp/",
-      "publishedDateTime": "2021-05-12T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
