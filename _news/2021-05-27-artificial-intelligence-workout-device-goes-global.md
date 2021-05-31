@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelli
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-workout-device-goes-global-1030472012"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -26,6 +26,17 @@ images:
     width: 400
     height: 266
     isCached: true
+
+related:
+  - title: "Ethical AI needs global & inclusive regulatory framework"
+    excerpt: "The consensus in the recently concluded two-day Dialogue on Ethics of Artificial Intelligence (AI) was that plural philosophical perspectives and a global and inclusive regulatory framework could balance the risks and benefits to humanitys quest for social justice and equality."
+    publishedDateTime: 2021-05-31T07:11:00Z
+    webUrl: "https://www.sify.com/news/ethical-ai-needs-global--inclusive-regulatory-framework-news-education-vf5hlEbdgdcgb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 34
 
 secured: "v+rKwt2YHGgbJoq5/iXV2IpQx6yfnRU0QhZuJ4hIfZvRx62bqu0Ad78NLj5Rs+WeGSkcvx4DS0O0ZY37BoiF5xytp9t5fMGwj0YtnAq1rXYHCihxCbfZ+sg+kqdOMKqjBqzlPDvaRuC9a8gsZY9nLj+kcC2PKa1jxdfkk/soGgje/yWVkaat/CxCT0k81lMUoVyT9zpK2W8NHz0Ak72GPBTsxsJAp7lOUZtQp1o/+c+uOg5HAgQJYxbyhCJUas49/uSHxmqASv/Etk2XwopMG3pmaKLYhesycJU4HYkNnUNHPj1qJbfXqUp1yTY6cmncdFIwjUAfGActfoO+13qwGnO+GE1c1DMeTFlwMF76/LmMJAfZSn07OJHGzRYxH9JZh+L7xQ8Vk4ApArPZdK5wV+G2NtyBvxk8ot1a2pegVWTp0/SXyH7zJpDwBtrO7/QYg6RfJnr329XLvLE6H2Z3U9pJbfZ9qAWIKnn/LndFc+heBIZ+S8DiGew/boEh01rQxGQznIO22Wm5HdJxHP+CvQ==;CvnWr4tw+ap/Zb/sAVukPw=="
 ---

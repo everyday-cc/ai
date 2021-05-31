@@ -763,6 +763,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-17-the-future-through-artificial-intelligence.md",
+      "title": "The future through Artificial Intelligence",
+      "excerpt": "ARTIFICIAL Intelligence (AI ... On a bigger spectrum, from self-driving cars to voice-initiated mobile phones and computer-controlled robots, the presence of AI is seen and felt almost everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/metro/metro-news/2020/03/28/the-future-through-artificial-intelligence",
+      "originalUrl": "https://www.thestar.com.my/metro/metro-news/2020/03/28/the-future-through-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/03/28/622672.jpg",
+          "width": 1048,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-tesla-driver-who-died-in-crash-praised-full-self-driving-in-tiktok-videos.md",
       "title": "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos",
       "excerpt": "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash.",
@@ -1296,58 +1339,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls.md",
-      "title": "REFILE-UPDATE 1-Musk tweets Tesla self-driving rollout could take a couple of months; stock falls",
-      "excerpt": "Tesla Inc's top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY",
-      "originalUrl": "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2CT1NJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CT1NJ",
-      "publishedDateTime": "2021-05-12T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

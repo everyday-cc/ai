@@ -139,6 +139,20 @@ related:
         width: 2880
         height: 1616
         isCached: true
+  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
+    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
+    publishedDateTime: 2021-05-31T14:16:00Z
+    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 41
+    images:
+      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
+        width: 765
+        height: 509
+        isCached: true
   - title: "New Artificial Intelligence Tool Assesses COVID Severity"
     excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
     publishedDateTime: 2021-05-29T17:36:00Z
@@ -150,20 +164,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
-    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
-    publishedDateTime: 2021-05-31T14:16:00Z
-    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 39
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
-        width: 765
-        height: 509
-        isCached: true
   - title: "Helping doctors manage COVID-19"
     excerpt: "New tool uses AI technology to assess the severity of lung infections and inform treatment Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
     publishedDateTime: 2021-05-28T04:00:00Z
@@ -209,20 +209,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 14
-  - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
-    excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
-    publishedDateTime: 2021-05-27T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
-        width: 685
-        height: 388
-        isCached: true
 
 secured: "HzwlqWJcfpYvb8/5WJA/ysDPRbF79MgqwgdtVaZV6mcqURiZVGmYLFtoLgkszghQQAcd09UBuChicsHq6eK34diSx3YwGpkj0qDGS3dobiOmiz6xZmnGp4TpdDubrVgGxbW4/BXxBYTO9hZSxk0wm6PAswAAPIJWJ+lpYvDbY+e6MsupyeyeG0aNqIjnRDMsgz7LoYHSq84dpLHn1tb87IqssZ1qm5jchZbHaht4AfDNZb05p2HHpA5bSi4nLVISZrCo1smw9ydLdlA38v6y7J/yql0O32cPKk5bg2W5VZb7hwtsaoGHoTL5GLWqL2uQqqxIhIIHbt8Gb2iV505ADckRv7A/ax6h9rSeVqoZ7T8=;wwYfIuiYoVh1LQWhn8TROA=="
 ---

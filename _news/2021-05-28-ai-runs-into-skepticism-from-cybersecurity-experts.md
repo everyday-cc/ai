@@ -7,7 +7,7 @@ originalUrl: "https://www.aitrends.com/security/ai-runs-into-skepticism-from-cyb
 webUrl: "https://www.aitrends.com/security/ai-runs-into-skepticism-from-cybersecurity-experts/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "RSA Conference Startup Competition Showcases Next Gen Cybersecurity"
-    excerpt: "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world."
-    publishedDateTime: 2021-05-26T23:29:00Z
-    webUrl: "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 52
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
-        width: 2560
-        height: 1280
-        isCached: true
   - title: "How to improve cybersecurity using machine learning and applied data science"
     excerpt: "Cybersecurity prevents infiltration and data breaches while saving your business from the heavy financial impacts of cyberattacks."
     publishedDateTime: 2021-05-27T12:38:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-31T14:16:00Z
 originalUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
 webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
@@ -209,21 +210,7 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 14
-  - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
-    excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
-    publishedDateTime: 2021-05-27T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
-        width: 685
-        height: 388
-        isCached: true
 
-secured: "iRgvak0o23EelPWEaUv2HFm5k8zB27UzUz26V3EAX4qoqRrNzSq8CW80C2sb11B3kND9o1Gj8PEK8I+jngjeTb+DHa2Df/EcJ4QiC/hsXDjPYijn5VWSgcnmpyPn3IN1FKm724qIlo6xHkt4Iwcj3tQynArBy5++vFZ2CM8hOuiaFtO53Or+jswE7m5eGYmdlVzHFLBa7sGDt6KpfuGSL37Sx5qDjGvnAo44yAp7vBY0tm6JffWw0OaVGYw+BiQlUBbhFMHlrFnr1x11H+rP3sz3GIPnSkcY+iAAp4wbKt32JKGtZ5+SR7RocHZHf4fuT7IaeJP1OQSHebh3MLGVMnNdaLjWN7CktY/s/KI1F9Y=;/t2JWfVzUcw4S9xTcEAAgg=="
+secured: "h1MTEf/G9cGXwh2Xbh8W3nilyDh7XI3UDk8+BUfJgBipcaC2IE+kG/4ixFwOl3ffPZinQn4IDR1QiK5AJOHKMxG0IvoGa/L11pISw6+myNljOqfJJi39Rx8gmrwqb2UsRIjTNjMx10AcpHd7x+HSX5xbYA+Ajk25ibeZyPPoU3Ueg+ChDJFk3NMZtscLmIxWe0h6nqCJqoFEj9YPG1IUaD040iiWgRZwaikBcXyXgTzXrXW4QlJl9Id+mH0tV5Y8xpYeCMYmIPWsu5fhkkmbDSIboQZgYNWnEMH9dspaBzbrRu3Wc71fnz4tPO7BFy+5Ti9Ai3FU4gjLfiiT1uy1VDT2AMGWkyqaJcRmWNyXTFoRvrbjnDq4C0PzPOOqXmcH1vZbCu+83Q2Vi6hgPDSoCd20LQhY336IcWTP7uJ8IjbdjAzYnwHTg+5PGdDEy7ppa7DDEVAaiHLT95WdTH4xwJFggghCsplC/LP1PNWK9k19UPdWKVjo6Q49tP4uJN8XrEw+7qWyUXQxO/vX6CDulw==;2u1gxHh7Nv7uFpwYbiQd8A=="
 ---
 

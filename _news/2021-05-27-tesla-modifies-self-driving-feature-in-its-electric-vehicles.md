@@ -85,17 +85,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "GM’s newest vehicle: Off-road, self-driving rover for moon | Charlotte Observer"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
-    publishedDateTime: 2021-05-27T00:55:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251710468.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251710468.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251710468.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 20
 
 secured: "c0M49tFYCoDSCVOzSlxRg+uToTDJ1IUgiWI7g1wIxxR0kV5m17IuAPNzcfRESshDUGbp2kj6vicEVNpeBWXfYzqJgeJIrfj+SQ16zvkHMukveYvfQ1gMdBtYiTfNDTv7ac9kStimaAQoKCo6QPGTMtwLPhzdOCo5D/5h8J3pDCfu9tuQEMYz1Nad2e2rpeBBEt/aeywI5blYyGfkYo7/jXnwrYUT66/+/Q7OalwxriuOEHti+MdfeO/ciqmnlRRCkHyRueH/xqnt9x/xqHTCPDx4cJFq4EuidwEXmXxmKpUzYSYvKZZ86KAGOaXiKETcnXiYCRWnf9QX2uDywv+Ss4eJk4MN4WAeBO+DvWjz8yk=;Cx+XTKY1IMiBKI+0oWXbyw=="
 ---

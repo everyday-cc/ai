@@ -2,14 +2,14 @@
 category: news
 title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
 excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ..."
-publishedDateTime: 2021-05-20T21:27:00Z
-originalUrl: "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
-webUrl: "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+publishedDateTime: 2021-05-20T22:12:00Z
+originalUrl: "https://www.wamc.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+webUrl: "https://www.wamc.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
 type: article
 
 provider:
-  name: WSHU news
-  domain: wshu.org
+  name: WAMC
+  domain: wamc.org
 
 topics:
   - AI in Robotics
@@ -21,6 +21,6 @@ images:
     height: 498
     isCached: true
 
-secured: "CfgvZEx6QfuPiUjrZDsUnOBvWwHm04PTqry/eQX/dOodzIQyRk0lgMCh0yzBtByyhKI0PnYLRqjzzRrUWd5nKLRh2oyXmd8XnZZlsgmRb/vSbh47xCNA/z0Ilwafz74Mv1uicYSmbNvUoGdioN/QSL8hOkvOpju32LxRhxImDvS8ZcrqQ/3IhEKDaFNSFCp+FFY4GXDsvO6ycTtR9X8I2X0f+0jIShbi3TwDHIMrZPfXPznfHOR1hqOwP6W9nvUyFt+YgeEeC8lWlrH7sVRW77+ehvFcfScs09mysQVl0Rk8JTs7XVWXb0uLJfVX8JJSiJKbqH/y22gywQtUJC7W35TXWdC5rK9AJej6t5AJUmg=;OFQpSiwA2TilHvTey5mdKQ=="
+secured: "TgXrRqgYGy5xu5AMBBA0M2LKG27PqKxe/q2EvKU6UfL8Sy1D7jXcs/ulE9NIoM8bNaoOgOdJlsxS8p84661V6vzuZso3MQF6/LDb546zyxe0ExOpISVFQEi4SuY+3IXDht8MG35jxi29IH0OXwOu6DOrI5E9WbtyjlwsSWfaQWeyWS4bJHs3AEuA+Nh89pSlY7lnxhJpMB3TrwzZc+7KDHc3Lv/plcfr2QeSM4/U7EoFEXEobhSDlXdwZO9HeME1ElV3oTbhPdBlVrZKvCFBPvW3YibxPk3YsMXs/NI7g9QsJAJgpm7E+VhZpiiQj7O5PdRouVsdFT6MgZ5Jxm91LvsUQ23tkq0j1Z1zVkh8u8M=;FqIJA45jE9apVmHC93A7WQ=="
 ---
 

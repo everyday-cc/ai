@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trustworthy and ethical AI systems–possible?"
+    excerpt: "Artificial intelligence (AI) as a technology is maturing. Far from the stuff of science fiction, AI has moved from the exclusive regimes of theoretical mathematics and advanced hardware to an everyday aspect of life."
+    publishedDateTime: 2021-05-31T16:08:00Z
+    webUrl: "https://businessmirror.com.ph/2021/06/01/trustworthy-and-ethical-ai-systems-possible/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 36
 
 secured: "LtdAJRfQMHkxSism5gsyWL0XFad7Ih8/nppzDxzpBm6tN6GGMxfPDWNsYP+lOl73AliNw9VTa+JRohtuLAPOyF9nWj7+uPzcuL85AgM3P8W+vdZw32cuiRX+G0e5zUFCgJEUATPLLJ7Xr7WDM4jUZEpVoktjX+0kDQKQPRRwRcT8tP+wvY7iYp7CcJOZh84C38T8NJPuKVDaMO/vCwyShtZl7aBgzfS5PZ4aI1U/9RpAPszw97mYdti1C0rmUxithsj2KGIfQl1NgqyGh79V4Kv60a/cyYgRZFUWzbb7bxlAhrsGlsNk3mSM8rAkC5YMu6jnvwkPivpQLUYyDo9JEy6XNcTE1Riv9XG52gy+hrfqSMjPynXH31u0OoMRruS2TVP67ZEJ3qKq+R208goskMHAtgwlDRer1c7s4RGPm73SbwsPcqfYsSGAdGW4kF41HbbaqqMz72/Ddtf3B5/x0pJlPxbScd3O+Vr3uFec9FHPtmzReG9EZOLJVTUdOAPQnS7/tPdu4OTVYEo0xrk+pA==;OtgqBzdh2bb9ps6M8ZSQ6A=="
 ---

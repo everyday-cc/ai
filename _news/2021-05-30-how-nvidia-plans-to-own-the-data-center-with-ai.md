@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia CEO: ‘The Next Major Wave Of AI’ Is In The Enterprise"
-    excerpt: "Jensen Huang says the chipmaker’s channel partners are integral to Nvidia’s new sales push with enterprise customers, which includes the new Nvidia AI Enterprise software suite that enables GPU-accelerated computing on VMware’s vSphere platform."
-    publishedDateTime: 2021-05-26T23:47:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ceo-the-next-major-wave-of-ai-is-in-the-enterprise"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0269-125f3b030706-73bb79955dcc-1000/jensen-huang-nvidia.jpg"
-        width: 609
-        height: 457
-        isCached: true
 
 secured: "4UTX/zP8H/++Wp3+Z8Vq2o7h+BagqnCvBsAmElsSzGfQhwGerZkMjAjISznzHZY68JU5RjNnS0eo2MJYAGQjQqUCKmQQLUZTjbFjN+HieoSFQuzwjXgdRrRzlkc55qwBSlPUF6tWs8CU+B1rZCxbKhpLVYQkFGUSWbFd+jkW15uhd9Tg/j8EqN1/LHYFI5W8F2K5nkfzZ/2wLGtUly9IPfQU+Vg6DRVxj1Agv4YSB/xHVYMLzlV1GD/NL+6c4nehF5rlfbAJxIggMgGVX+sft0D3P7ZI1cr6cH+5KvSYiQUpayCcPMmcY2qjUlzzbmQa0zV9Yd7qxUd5cFcCgmwzqWOXNWdXvHbR1jOQ6onujG8hUbdzW9zLU7kF1/jIu3VVzVyhg5bRUDB8hYCV+t0vpkaArNIAlFYIlc2UFZLF8OWcagx6gP6CbtVnrVjxaAeHtijb/k62lx7/nnpoyZ6cnCeLQVy9kizMRFu4A6lwywVIRfOgglCgYVd+/L0cgWN91BrLPJShuIgRThx0dqRLnQ==;qQPT/2+xADI8ErXM4hWuBw=="
 ---

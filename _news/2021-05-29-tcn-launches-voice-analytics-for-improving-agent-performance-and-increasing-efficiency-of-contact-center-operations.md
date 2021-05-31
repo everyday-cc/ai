@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Dutch uncles on data analytics"
-    excerpt: "If you're overwhelmed by data analytics software and tool, and wondering how can I use all this stuff to help my individual process application? There's plenty of good advice. Supplier experts from Emerson,"
-    publishedDateTime: 2021-05-27T18:32:00Z
-    webUrl: "https://www.controlglobal.com/articles/2021/dutch-uncles-on-data-analytics/"
+  - title: "Improving performance of deep learning models with axiomatic attribution priors and expected gradients"
+    excerpt: "Neural networks are becoming increasingly popular for applications in various domains, but in practice, further methods are necessary to make sure the models are learning patterns that agree with prior knowledge about the domain."
+    publishedDateTime: 2021-05-31T17:40:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00343-w"
     type: article
     provider:
-      name: Control Global
-      domain: controlglobal.com
-    quality: 4
+      name: Nature
+      domain: nature.com
+    quality: 23
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00343-w/MediaObjects/42256_2021_343_Fig1_HTML.png"
+        width: 455
+        height: 685
+        isCached: true
 
 secured: "gJcUFDlyefQhFbxVkrE1p9ITOAggJBoaCUjwDbtqZRJZmXIvCb7fG0sQG1Ucju/LO5NnZ5znud/J55/19X3XtYuzAPqSX5eIwaR4U8zEEQXWPOx4N/n9jDGpJFPK8G+4Mg919N7SD7Yi0qOOboUNXyt2DTL6qWRMMh6GtJFfNPTgyH65InhHrjykPxVbD+aBMDjhyjLVnrEfWubYosoGEu4qv5V8y4dCUI9DWmVDSfHj6kwNPrVaq60gvk8W5oojqr7yJiWmrFc+6HHGpgCzYKCRwh+t4+ix8UvhUviziqkiK3DcnqmK83BSJ3edZ9wMspWyCVYMx1FwFGZIJoMMLkasWymsubW4qmp1YEwpizs=;Lv3jFyhcDCM8aiF7uDR+SQ=="
 ---

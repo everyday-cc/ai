@@ -153,6 +153,20 @@ related:
         width: 2880
         height: 1616
         isCached: true
+  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
+    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
+    publishedDateTime: 2021-05-31T14:16:00Z
+    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 41
+    images:
+      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
+        width: 765
+        height: 509
+        isCached: true
   - title: "New Artificial Intelligence Tool Assesses COVID Severity"
     excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
     publishedDateTime: 2021-05-29T17:36:00Z
@@ -164,20 +178,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
-    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
-    publishedDateTime: 2021-05-31T14:16:00Z
-    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 39
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
-        width: 765
-        height: 509
-        isCached: true
   - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
     excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
     publishedDateTime: 2021-05-29T11:20:00Z
@@ -209,20 +209,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 14
-  - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
-    excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
-    publishedDateTime: 2021-05-27T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
-        width: 685
-        height: 388
-        isCached: true
 
 secured: "gdHOGuFMDUHHD5QosBKRu6f/FuczLYAO/7qG+vVT5zNWYTPUC1Bre/7vuUTvaXmyu5HpL/hziAR+E+BqEB4I6pqM1V+CTrQu5DpuNtRlLvlsQYGbqJpPAAR/cHUFszSzN9Ss4i/zpSl8rpjfYmCxYk5HJxe9c3ML8+tSDY2LnMJO2aPX6JiXgjwoAg1wbO+fmUhtgl6zOUmRI4fsPxbeIOe/f8w2YUAZZItsKmXsAMozY9L8fc2CVGa94g0dD2rzTnPpGswlvxiISXlgZ2lKj5qu03+YnbXsKyVQsJ5dEdCMWDKZWTSPGI6aS18ajCvNOMhMtlx9RMQzOMGES1pKA3hRQz5fALxro4ygJClLOdALVTP2Fl44VsYoOglzJTFLVLGO+PPQCdpCdTedH+I7yH26p4vq0H97k919G/ltdTjneD4v5KqS975Nn7fVgCecx2qfhLzkVoPk3DdXZ7elwSQnH4bE2TLNkMfdQc5sVgIAlVUVM73R2ZGEMGuWmfPdprIWrTBCKSI08u+sP1ebBw==;f7DUuFsnQVOlks36loWzGg=="
 ---

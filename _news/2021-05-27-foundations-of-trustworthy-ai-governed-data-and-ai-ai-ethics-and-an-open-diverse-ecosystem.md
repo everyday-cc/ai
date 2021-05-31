@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundation
 webUrl: "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundations/"
 type: article
 quality: 125
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trustworthy and ethical AI systems–possible?"
+    excerpt: "Artificial intelligence (AI) as a technology is maturing. Far from the stuff of science fiction, AI has moved from the exclusive regimes of theoretical mathematics and advanced hardware to an everyday aspect of life."
+    publishedDateTime: 2021-05-31T16:08:00Z
+    webUrl: "https://businessmirror.com.ph/2021/06/01/trustworthy-and-ethical-ai-systems-possible/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 36
 
 secured: "NSaJbIgH0ojtOGBPJqX9g9mdbWa5u454qb8Tfcxwwea9c6G1qjzcgtXYMPvpI9l1K/k+JTgjyW/zUrY8YuoAfJ+s5ch81EhuRI6EXp2QpS2RJk8iMfS6WUXu6n1ODObci7q20XNauC6k5zSyTlTcLcd4WgllW6NGdINJHbn00R/V844iqr8rI0ywvq4EjhCXyCYw+Bto34y/LrH57IwCitVEtDKFv3aqSPG5fEIchkGTluW2bNi8HokdtHX4PdKX3fOJPTqZwLCQEaRoTh0jOE2E5MmVVnmae14Ao36q1vGdr50jehOfFjaj0H98PjVuEEcWcXSG1/8IUkjkUJkS+/7wNuH9VpJ63HlBITTDjw8=;FXH/6sJJkBX+4HLRdrqRow=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
 excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-publishedDateTime: 2021-05-27T15:56:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+publishedDateTime: 2021-05-27T16:03:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
 type: article
 quality: 28
 heat: -1
@@ -90,6 +90,6 @@ related:
       domain: businessinsider.com
     quality: 38
 
-secured: "njF0q5IPzg6diUzDzUL6rIDKpSpwyl9UMsPoeI+/KiFJpzAsBYwvPSPFEYcqeQO24Z7KeV7UHWZPtCjb96u4ZuL4oCrJ4rQh0wfgZOvwsx4uotY5t2pFe2ZXCPR6+hbjXdM9Fslrai3vbn9KVr0f7o8hNvalYvTs5z6MniOLY2C2vmPGyykEJX8JUOyjRknK/sjqq+DWN5mDTuwSuVquaCoUQ8P+cwwLc5p6YNH5MOub0NsiamEHSpD1s+yCk8BugXCwgN+HLTcIEyVGRVU34pxOYdZOytVTjjgPiMJqgSOy4AkmZK17T+OJ3cPGXVuXpEoj30034rymVWSI+oao9xWaqRn3H6uDV62xaOvq8NY=;dUOc2Xsx8lKHbI/J6VB8wQ=="
+secured: "p4enHFFMjqmurrXgmyuUlQmYxZX91UKA/7yFFfeO9N6Tm7XJoiGZ82K9mWqpyd8NtUWUu2omInd6ry3vjCnIy5XXYgrjCkcC9oZSKlvJIAzguP98Zy+S4t3+UH3F7DV68NElkQFrkhYwYouet5RPW/Q1zNemCx4MzNWe6IupQm/eBh9oSukvxEZA47ZMaRqKZavTUy/P1/MLk7vhpQnlODU/e9m//XOVLyRq3BC1dCmlOT7EC7Ebo2IowejqNV3dfiscA4ppgTXy0QzpuaC7y/ckgyoy87WuGm0QIVKaImatXHkrSLuJYZjyOolaUPk2mznp5Ri0lk54y5yO41weiZ+KNOoZ0yZCW5ofNX4wiWw=;sIB8qJ6XVixnSi4oeCvrrQ=="
 ---
 

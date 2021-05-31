@@ -157,7 +157,7 @@ related:
     provider:
       name: gisuser.com
       domain: gisuser.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
         width: 765
@@ -208,20 +208,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 14
-  - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
-    excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
-    publishedDateTime: 2021-05-27T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
-        width: 685
-        height: 388
-        isCached: true
 
 secured: "5PoqSQrvsU9ch1yw81GJ14m+V0BcEyLwJyCAVuf25RSUXhautA9aaN/o7BVG15PauLiFUOJRBzEzV+QWZsI2ldKu9B2/+7VkOOJrzll9heFXoWBmIeyLqh6OCCYj81nKWo3QbmeUh0pfA9fEC2tdYQvKurYBiwLCbaYhajhllbQBsfnT0fgMsNEqRcuVmxJTY6WXjKxJdHT9jd6l9IS9vhxKaakg87/fLboT/aCI9GF+iOi5utzz8jcrJnIze1lXOJWkWBJwqZWNjL3O719+Nf0i8KAerp62a3pnGP1dDHyK3H3TyjqyCNdBM7kajt5drj5jPIdKuRhJTwEeDAG3y23e0qV5PiHIxD+7yBoq2s0wAJOTpJigRibimd4NScc5/VYqAW4wK+9JgsQS8LhGMf650Vz3AwEbFdP+J5hufGIQA0Bz5rWTIeHPJ73OQ/KPEWRZ4IGXat2g44N34Qh/+r0oV2vhtoiksCVAhQBoN3r0H/efkuIt9W/cmq8q9ENvRKdA8WrRyhu7AD3S/ZNqOA==;18PhHtNohjzaAt6JZHGxAQ=="
 ---
