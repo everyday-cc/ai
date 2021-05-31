@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "This mathematical brain model may pave the way for more human-like AI"
-    excerpt: "A mathematical model of the brain opens a new door to artificial intelligence systems that can emulate the human mind."
-    publishedDateTime: 2021-05-30T13:02:00Z
-    webUrl: "https://thenextweb.com/news/mathematical-brain-model-human-like-ai"
+  - title: "The power of synthetic images to train AI models"
+    excerpt: "As privacy laws start to limit companies' data sets, synthetic data could be key to continuing to leverage AI."
+    publishedDateTime: 2021-05-30T20:21:00Z
+    webUrl: "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/"
+    ampWebUrl: "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fhuman-brain-pink.jpg&signature=495db368b6d638c7744b638b19f21576"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-539085830.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Artificial Intelligence Generated Synthetic Genomes May Improve Privacy"
+    excerpt: "In a peer-reviewed study published this year in PLOS Genetics, scientists in Estonia and France used AI machine learning to create artificial human genomes—an advancement that may help improve individual privacy and accelerate biomedical research."
+    publishedDateTime: 2021-05-31T11:41:00Z
+    webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-generated-synthetic-genomes-may-improve-privacy"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 37
+    images:
+      - url: "https://www.bbntimes.com/images/articles/society/Generated_Synthetic_Genomes.jpg"
+        width: 1296
+        height: 728
         isCached: true
 
 secured: "V/zdqV8763YileInKQf2Gz3GE2q8SAiY+7ZvnK7/HrBinC45KuwiglRqkA4jbHpKjQq4VqpQitfziqnk8dGXlq4kY8L/KSd4LuhhO07l6MOG96mdsFN1m238wcVsqjycnrg+QtQdKzbsYUzDrmpFUz7fWsp6xHnSC6MhBcQjjgPvLZec4ihkLr2AwNoPeeAJGLohY31sp3LzB5A4NjvveXDhh9P+uDDbEmX31+kFBbBjNtrYFZiYaHHrH5LSgEyoTkgE6n0Uk7j7c+hu6xFlVNxkpGmvO2MZ5wN5ewpxm71P0SJwWriJsl0MlFv4/8YD7Fag+KMvIoWQUeAFiRW+MhhEkztKlgGF6Gu1fDxgX1o=;txGCk2RwaDDjIl9S+8RQBA=="

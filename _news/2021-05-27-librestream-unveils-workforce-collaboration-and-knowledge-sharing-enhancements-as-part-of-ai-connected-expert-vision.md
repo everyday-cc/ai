@@ -39,6 +39,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
+  - title: "UTSA researchers among collaborative improving computer vision for AI"
+    excerpt: "Computer vision--the ability to recognize images--has many business applications. Computer vision can better identify areas of concern in the livers and brains of cancer patients. This type of ..."
+    publishedDateTime: 2021-05-27T13:06:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uota-ura052621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How AI is shaping food innovation"
     excerpt: "Technology experts from consulting firm ZS Associates highlighted the various ways artificial intelligence is coming to life in food innovation and product development during a session at The Natural Products Expo West Virtual Week."
     publishedDateTime: 2021-05-27T13:44:00Z

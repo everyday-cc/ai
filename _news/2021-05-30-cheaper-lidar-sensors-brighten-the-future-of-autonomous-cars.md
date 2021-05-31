@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI's Game-Changing LiDAR Sensors for Safer Self-Driving Cars"
-    excerpt: "A US-based self-driving car developer, part-owned by Ford Motors and Volkswagen, could be set to redirect focus in the nascent – and turbulent – LiDAR sensor industry. Argo AI developed the new LiDAR sensor for autonomous cars in-house,"
-    publishedDateTime: 2021-05-28T11:57:00Z
-    webUrl: "https://www.azosensors.com/article.aspx?ArticleID=2237"
-    ampWebUrl: "https://www.azosensors.com/amp/article.aspx?ArticleID=2237"
-    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/article.aspx?ArticleID=2237"
-    type: article
-    provider:
-      name: Azo Sensors
-      domain: azosensors.com
-    quality: 59
-    images:
-      - url: "https://d10lvax23vl53t.cloudfront.net/images/Article_Images/ImageForArticle_2237_1622198779183791.jpg"
-        width: 1000
-        height: 620
-        isCached: true
-  - title: "New Research Says Human Drivers Are Accelarousal-Prone Which Is Especially Eye-Catching For AI Self-Driving Cars"
-    excerpt: "Research indicates that acceleration can lead to more stress in some drivers over other drivers, which has notable ramifications for drivers and for self-driving cars."
-    publishedDateTime: 2021-05-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/28/new-research-says-human-drivers-are-accelarousal-prone-which-is-especially-eye-catching-for-ai-self-driving-cars/"
+  - title: "The LiDAR Range Wars - Mine Is Longer Than Yours"
+    excerpt: "Its not a surprise given that 6 companies have gone public in the past 6 months and become LUnicorns via SPAC (Special Purpose Acquisition Companies) mergers."
+    publishedDateTime: 2021-05-28T02:06:00Z
+    webUrl: "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/"
+    ampWebUrl: "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 48
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0085456d92dc2e2231a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1952%26cropY1%3D113%26cropY2%3D1212"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a04a594bb95cfc37bee15e%2F0x0.jpg"
         width: 1200
-        height: 676
+        height: 800
         isCached: true
 
 secured: "Ap+Q7k3OrYJVHcToCQHEK1/ub81eKtMB+4LPWq0GzWOzNlyPaRhZYToAJOPg+z390cxwsI8+f/MDLHdxOjICYlW10gxaI+uvGmecyISht6yeu5YCOGimNdU3sKCmWs/Jn36CV92kDU85v6XOlbpXv3yUeLBDorWviP/yGJpiNuJWM0gwiLYug7hSPm7Mkbd3KwN/MsBO+B6KzZcb0z4+PwCaqZYdxfjvP3qg0vtGAcHd9WUBKmk/akD2LuGO2EKKpfFe60blUzm3RV6HYTYeYna9HelHYLi+2MDyGTJLLFX1XP3+ca8RYv2bwhJuHsQW7/bC6OvFrDzueViAWBsz8O2pNhtyOpK4ZV47+m95kXPEhSInX44jO8e+hATr6OD/F0LCQDLYkehBO2DfedpqxXRwc7aJ0J1qvrhytLLDe+EFuoaRqmJ09xYVsIU6kRCBhENztdtAtky3yDd9CdSsAmFZJeKPAKRDQSEL2SMH4uQ8/6nRsNz7yW5P3lztJAe7KdEzwuZAogylIKVzSQ8rTw==;DD7B05uKG6K5gUfJd6FycA=="

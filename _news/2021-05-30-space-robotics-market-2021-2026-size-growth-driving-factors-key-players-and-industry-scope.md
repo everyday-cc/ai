@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Research Report On Artificial Intelligence (AI) in Cyber Security Market 2021."
-    excerpt: "DataIntelo recently published a latest research study on the global Artificial Intelligence (AI) in Cyber Security market for the forecast period, 2021-2028. As per the study, the global Artificial Intelligence (AI) in Cyber Security market was valued at USDXX million and is projected to surpass USDXX million by the end of 2027,"
-    publishedDateTime: 2021-05-30T16:56:00Z
-    webUrl: "https://ksusentinel.com/2021/05/30/latest-research-report-on-artificial-intelligence-ai-in-cyber-security-market-2021/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 42
   - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
     publishedDateTime: 2021-05-29T14:00:00Z

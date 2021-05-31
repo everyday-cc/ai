@@ -3,11 +3,11 @@ category: news
 title: "ABR pioneers in brain-inspired AI to make devices smarter"
 excerpt: "Though neuromorphic computing is still in the early stage, it promises a new way to make AI devices smarter, smaller, and more efficient by incorporating design elements from the study of how human brainswork."
 publishedDateTime: 2021-05-31T06:33:00Z
-originalUrl: "https://www.digitimes.com/news/a20210531PR200.html&chid=9"
-webUrl: "https://www.digitimes.com/news/a20210531PR200.html&chid=9"
+originalUrl: "https://www.digitimes.com/news/a20210531PR200.html?chid=9"
+webUrl: "https://www.digitimes.com/news/a20210531PR200.html?chid=9"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,14 +15,15 @@ provider:
   domain: digitimes.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://ad.digitimes.com.tw/webadImg/UMCl202104rec.gif"
+  - url: "https://ad.digitimes.com.tw/webadImg/Siemens20210531rec.gif"
     width: 336
     height: 280
     isCached: true
 
-secured: "OuLp9nMaQLsmBOrTcttB6Lg8DIZJw2kUrhtCK/P4+Yi5rYFLueFS8g2IwIEwCGu3dqIFfKEZYiEUUF7jFDYG90O7DIkndie9kwj3qosmuXXfSKqv0dlkxEwMFU33aojdXr1yWW5NgJCEx7Ww8v+6nwz5k9NcPZ3LhDO0UTtGV+oOyfKlNLkAXV3s7AshZqFpaTKty/x3FIPci+4I/CVDdUN7Fy7w42FCcnDYOTu2EeQJjmcj5vfXcL1ERVrDdBXXnBdwjqkCdCkYDuCDWCsNdnKWX88ydTMIkI9AxYrskCQ0OqpCUzbabW+q7yJB8a12RIkXrfn+/7pyVPIgUhgNN74bYmxecbdQDAqcERXs7rU=;xRFwnXBe+3bvNi6Hp6C23Q=="
+secured: "T0igwnX6Ie/2mh52PY2idaAWfexLk8t1ImR/7I4CAvek8nEM2+mQaLIOaCmJuByrqtH1hjt7CBv2nBaXneIIWk2+nMXv0p4joJQESMH2JpoNGQ7c6mhBtbE08Kluq5B/1RNZAe1KrRUlYB9LclosrTadB8Xcq1Rw9AZq33Mh4GYBh+xHSYPPPxHfYt88qRojl+DSsLKCrxo51wjt+GylgcPlWUOIe2/OE7YxdRewfHYIMYU63EA59mIwnAwJNPgWrsXEwLvyDUiEbwJY+YhJKm9d5VPPG3eeqXT6c3HdTurKY3ijU+FmujphvM4OaEq0TQ62NyPbkZxvx01MXXC6gEFpalm5Vn+lwKLu4OBCRcw=;d4H2u7LiI9lB66xyVqrraw=="
 ---
 

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Raise Liability Questions for Insurers"
-    excerpt: "When cars can operate themselves, the central question will be whether accidents are the manufacturer’s responsibility or whether the fault would lie with the driver and be covered by personal auto insurance."
-    publishedDateTime: 2021-05-26T22:30:00Z
-    webUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers"
-    ampWebUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
+  - title: "Motorists still worried about self-driving vehicles, survey reveals"
+    excerpt: "A survey conducted by AAA and Harvard shows people are still concerned about self-driving vehicles, especially self-driving trucks."
+    publishedDateTime: 2021-05-28T14:56:00Z
+    webUrl: "https://landline.media/motorists-still-worried-about-self-driving-vehicles-survey-reveals/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Land Line
+      domain: landline.media
+    quality: 24
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/99b70eb/2147483647/strip/true/crop/2123x1107+0+153/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F39%2Fb0%2F852c83724c7398885f394bee8e7b%2Fbiz-auto-selfdriving-insurance-dmt.jpg"
-        width: 840
-        height: 438
+      - url: "https://landline.media/wp-content/uploads/2021/05/210526-AV-skeptics.jpg"
+        width: 540
+        height: 420
         isCached: true
 
 secured: "J33qIiQEugJZYGDrnGzKWhUf8ZpOTanHUeG71bGn7noQWfVohHEteu31ShVtLG+CvxvjVV1/m3AIyizSx+cxf7l+gyRZOsF+0F/4tioL3Su/iiHonT22Aoyq5GE9dmuysfSUNP7Oa9xjC6dVRTLvHLah9FpjYKMC8Bkcvq0zJmXxzQR5ews59VoP9KPeOw8e+IA1c/EQwNwicMUm3JNaZ2HN41GixdljZsh2pyUsC7frlk96y+1Oq7dnZ0tT5nciLLIPbJIVgMUddQJuVV+kED0/delNg2pdWIMt9IxpHYOYC3dkNxiVJcLm83A+gOKy3T4fjPqOMyORv9OHQVCSHmPGmsFzu3LRaLx9646YCb9+tIwvdZwBUgBly7shQPJNfPt6dvQ71wHdXt/0P0Oc8F854jAmFgQuud5HxG+tdhFTNnBm8lIftHgUoa8M1zhVV4AlqcFUxb0XPvtFbaTO1eMnTWGrd9SW3uFx6E97bH+Pv+dDst+UFAk26DGVPGoBVIO/zO9lYd8hiRHvNz42bQ==;sZrwVZ6g0Abj0YOxo8+MbQ=="

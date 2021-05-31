@@ -96,17 +96,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 20
-  - title: "GM’s newest vehicle: Off-road, self-driving rover for moon | Raleigh News & Observer"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
-    publishedDateTime: 2021-05-26T22:30:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article251710468.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article251710468.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article251710468.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 17
 
 secured: "fzULvukfKYg3G5i1SOkxIgU1aHMGSEXHVUYeAS5SEKFFU1jfnaLo4c3f5kTBcSGQ6njcyO1BeqoC4vlSrbFqYGqi+Z3LO0013VZedug/S9O2PdaXXB11RRc79PF3nDqGCwASRudYMpcD7X6ZJhRdga8GhdlrQ6yEwNO3+SPy1EEcqWuvhbocTU1pYdWj/StHuChrbCGsjxF9HY3Ia3g21fa9CEG9hPNtqnEr6CIwXFYjhdmIfjAjQrMZg3duoFT3tb+DPTyXaHHXm0+ufZ4OOksyUawjC2coTPyClL60gxRnNAEfsgoS9bFz0Dai0lTt6+qg4AeeO0wDsRgfxus170560lCimcW8+L7i2gp5dBv7D3aWVQyjnqF7ijGHDStuitO+0GALHvKFeI6xY2CLmcKZgsivOFYoS4DMcbICXQIpUBiEu1jt+b/WYblFLAtUUnzI5Q3IvdGGZFTZyftVg8cTdMA18DpRx2yg7qYjRAaeEfxvXvAokcvnT7i0N/JeVHk86R0ZDgcXT9FtB1N8SA==;uViPUnnXewBKfGMrQI+jGw=="
 ---

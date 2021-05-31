@@ -7,8 +7,8 @@ originalUrl: "https://www.devex.com/news/robots-drones-and-ai-the-new-technology
 webUrl: "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Devex
@@ -41,6 +41,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "New ground in robotics and quantum technology"
+    excerpt: "Faced with rapidly emerging and disruptive technologies, re-equipment of Australia’s neighbours with cutting-edge weapons systems, and an increasingly unstable geopolitical situation in the immediate region,"
+    publishedDateTime: 2021-05-31T14:12:00Z
+    webUrl: "https://www.theaustralian.com.au/special-reports/new-ground-in-robotics-and-quantum-technology/news-story/7e810478fa3ff09c9b6d44ec7cb0ec8f"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
 
 secured: "CiVs/DY93Sp9Zrvo4kYcuUP5jNfx1DWjJcwW1hre4m+AzvpE+RG3LH81EZdH68Qyam6mkeGKtk4PU1W5O7NHsvX2/iMG3xr3WBLv5Xqyia5OZxdJhLYLQH04B4W1X2aPBVqVC9qVJZiTN877MghwT9K0pz/nKUakJNwQApEgQQL4OFmFxJXiUsO4ZD9SZHGMXcLD2b9NpP02uE0pTlQzmwVtQ3YcZf9HZlOoDqWfkhlS21tDjgEIfNQNsFZQfT4+sXH2fu0TLRHpzqc35TVhaYlOdLhInlMLEtY+pvKoZFjnZdjAeDDFuFEn95fLZ8X2JRi5an2JTRk0Thu+DSR9lHmybFKPlwcSNNtURVbT0rAAZKjHd2jcCpZyROR02yMjMrWWl9ytEbpPrIVkz4QKzgwf62KE1u/fV6T+4EQ1ffyIpUnncemZrCb+QlEIXx/TDeXMVYw5yndJZLmibV1IOw8VsO4jguu/3aF4uwknNhYmlvj1NQo57Jsq2jabw0SIGDlfrqOec8n2h39E3ttnEw==;3+HFBD7cbuS0juEPZu9fxA=="
 ---

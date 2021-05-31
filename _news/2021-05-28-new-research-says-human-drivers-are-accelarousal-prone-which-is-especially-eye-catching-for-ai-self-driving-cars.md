@@ -45,20 +45,6 @@ related:
         width: 1000
         height: 620
         isCached: true
-  - title: "Cheaper lidar sensors brighten the future of autonomous cars"
-    excerpt: "Prices of one key type of the sensors used in autonomous cars are falling rapidly, raising hopes of accelerating progress in the development of self-driving technology. Velodyne Lidar, the leading manufacturer of lidar sensors,"
-    publishedDateTime: 2021-05-30T06:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Cheaper-lidar-sensors-brighten-the-future-of-autonomous-cars"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F6%252F5%252F4%252F34324566-4-eng-GB%252FPR20210520-0015-04%2520%25281%2529%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2592%25E3%2582%259A%25E3%2583%25BC.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "6uaMLrqv8mhr3CXflvkWBpvnYHR8K+RSDy/5VWKOIzMvGcIAsD+Zd0ZL+8KB9wP+bJil4uovYHxMyyq5yVDQS3Mnd+D9/49OpszI52frTf9BdVh3bLuEML82U2PdtojDPxH/Hc9yCRL6uOIVeAwyRbwSHH51RmnWR/dqAjO/SQwVeS1bc0i1qAYnbnRu0OtTubxcoE5QePdq7GYDegGS7fBB6Ok+5WY5Kp+wcxIUpaYWWLfTnMNUVq5DrkR4O5roo/n360L6UZ+a8aXC7+Gfms/U1zYvSCqQ296HRqP0JZafRMky55/GcRR+rmNd3vHPK8g9yoGUwqdyMDj1X4PZ4yXyq5B4ERc8dVGcrQ/izaOoSrScnjenzE77Jmeb6w5wLYeCjirjZNZ0Y6/nPasic88blh6Er8Q/wfFBp85w1GdjQa8ZxpgT5U192ycHMh8l3Tr+hXFaElg+f/TK2KTIXg9ThbYCVVQkreO8jp++r8X8VqXz+1pXDNVGT3SGRxSu5dK2O2HtCjMLCNoNqWPI4A==;spu9XyAlH5yal+v4u/t8Yg=="
 ---

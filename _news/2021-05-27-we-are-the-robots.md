@@ -33,7 +33,7 @@ related:
     provider:
       name: Huawei
       domain: huawei.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://www-file.huawei.com/-/media/corp2020/index/nav-img-2.jpg?la=en-au"
         width: 420

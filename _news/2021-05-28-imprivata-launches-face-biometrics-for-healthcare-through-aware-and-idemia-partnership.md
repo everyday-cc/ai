@@ -40,20 +40,6 @@ related:
         width: 610
         height: 335
         isCached: true
-  - title: "Imprivata Launches First-to-Market Mobile Facial Recognition Solution"
-    excerpt: "Imprivata together with technology partners Aware and IDEMIAinnovative announced the launch of mobile facial recognition solution"
-    publishedDateTime: 2021-05-26T21:16:00Z
-    webUrl: "https://hitconsultant.net/2021/05/26/imprivata-mobile-facial-recognition-solution/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 39
-    images:
-      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2014/07/The-Imprivata-Report-on-the-Economic-Impact-of-Inefficient-Communications-in-Healthcare.jpg"
-        width: 610
-        height: 335
-        isCached: true
 
 secured: "tmnFey8Q3dGpbYlIzUsPG/bHNMmnm+XsPCy5rSON5A3tz90KnEefYsoN+Xj4ojszpeBZ+hSiAZxxNy6XjFEM7dDFFuV4xwaQoIP+hAqYgs6GU/wdvPA6UdEx1U8vf2oakDh6QFWiHvoK37NCm2BOQEgnvFVzrhqQjsW8Zdxb67NJh4rma/2WopzMLnIMymXE9eO3+NwOk8nJskaVZEdgG0Pjmds9/6U9hN6RIBSCC778zbcQjzXZfcQFgtEZsm3EoNqh4jIyJ9oniTOrMtmVj5WSGnHfkftaHv91ra5w4QD0alA1/ZWiurdNH314ZO/SrrKgSOrJWn0SOv4RNLS9Kutb3Jp2TNNTFf+f/IhTGO4=;JpXoQFrftMhd7HKCoE5U1A=="
 ---

@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "New ground in robotics and quantum technology"
+    excerpt: "Faced with rapidly emerging and disruptive technologies, re-equipment of Australia’s neighbours with cutting-edge weapons systems, and an increasingly unstable geopolitical situation in the immediate region,"
+    publishedDateTime: 2021-05-31T14:12:00Z
+    webUrl: "https://www.theaustralian.com.au/special-reports/new-ground-in-robotics-and-quantum-technology/news-story/7e810478fa3ff09c9b6d44ec7cb0ec8f"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
 
 secured: "/X1xyxUZR/ZSj3boDjLKW7Nu2rqZaMgHVCVXSR6XWw6Q1kyjozebAb2sgnU6X3zZ5ixvGkIvQqbsXx3WSjFm8ZAXnHSrehEecmUyf+WkNZG8PkpEln0W1pGkRnsLMBI6Goy7C9p4w7xML9f4HjVmrD0Gkd81ju8s3V77StBaWagrMSjnorNpdJdZhhXhfwiFH4LvCxCs1+BX93JWKcZ0Wh8rMJifXkYbhckn5YxV5a6RpExSzMK70QHq1BFi/KwbpQPIT4rJ3nFfhmmQn2wDG567jsnEEvaOH6814/WusaquU5b1QzXSeWy5RofwaRCyudLVxSIKtRtgeJVuPDiCTV8jSZBa0tcQ8ivYDEAwPjo=;zFFdGJXFtz4+vU14tsbsoQ=="
 ---
