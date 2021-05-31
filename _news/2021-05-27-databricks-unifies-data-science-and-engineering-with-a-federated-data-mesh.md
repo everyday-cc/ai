@@ -107,15 +107,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "BigID Partners with Databricks to Automate Data Discovery and Intelligence for Analytics and AI"
-    excerpt: "BigID, the leading data intelligence and management platform for privacy, protection, and perspective, today announced their partnership with Databricks, the data and AI company, to drive business value by bringing transformative data discovery and context for analytics and artificial intelligence (AI)."
-    publishedDateTime: 2021-05-26T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378352.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "jIvuP5CI2nJmvBtce1zofgTBNTc/2bqP76jB9fY8rNQKYmCer+aoPnEXx68Y9lHhOuN+cKM9wLiVEPOrNmPxC0l6AFTRN18NDIazCF7HkINU+TegkpmuC7Gf7W9kRWxA5OUW7sAOTvW1kkrnHj3O3w/EsH3l8pOfyLFXrbFg35C0gDJube5PmlxVMbA89y32BY5+E45N29VhX1Ea53gews1sbpgD34HmkeODdpg4mq5gxsICljFSAyW1UL44ns47HkKmv1oZPqgolT5MnWYCaYk3AfbJK/C49rFV+WQrQ26xxw7ytKKhGiAqvVcEVf4okRgmVIIG4lwECGSxqPdnwe7317ZeM3Z4qveywSUxAz7++G+hHdBu/nF4jdwtiotgj5yf+clsV0KdVzsCKu91mS6Xt8bSruLW4LlJnlf6nDP7gFhyilTgD/eV6AvmJkPlamsbrgcR0vZ8NMWIeJBfHmxC5aWZMqmOhtbhHOcDx5KhttRLn3dA4AZmT64wY61pyd/BNBPAK8JFWBzZneqKSw==;hplx2wfaurfcSW2Ji1wYiQ=="
 ---

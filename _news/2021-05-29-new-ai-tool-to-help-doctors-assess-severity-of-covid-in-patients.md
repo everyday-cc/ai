@@ -107,22 +107,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
-    excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"
-    publishedDateTime: 2021-05-26T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/information.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "New Artificial Intelligence Tool Assesses COVID Severity"
     excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
     publishedDateTime: 2021-05-29T17:36:00Z

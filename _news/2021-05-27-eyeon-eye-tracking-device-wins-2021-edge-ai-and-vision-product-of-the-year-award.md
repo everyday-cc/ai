@@ -2,21 +2,17 @@
 category: news
 title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
 excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,"
-publishedDateTime: 2021-05-27T11:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-1030470882"
-webUrl: "https://markets.businessinsider.com/news/stocks/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-1030470882"
+publishedDateTime: 2021-05-27T11:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379175.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379175.htm"
 type: article
-quality: 44
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -68,6 +64,6 @@ related:
         height: 225
         isCached: true
 
-secured: "+Zyo6chLFOPvI8HAWzeyzxDi4U1r0m4ylKR9V/OPvazRV04vqIgSaSQZm/VDOCJcdFMea9x3oVWYpS+kf1LeyQRUgMCY66fiorlGocae+wqRAJriyBcWgfU6dtcZHYjsBT9Eu60B9Y92KP1k+3NhedSvBVxd7Z2UqpQRdg9k+bH7Z3vsNeHIeJjhH10T4t1aV3V8C7CDKDeIXTORnBvh3Oahmksi1mJKlUG3riFmhp34OWJRARHxL/821Bes+GtjY6Fw2YY64dL1ClH2Nr0jh97YrUxDdZjYjQ7MmFDxrulUSZnPn9tP071ajxFoC2Z700ylOGtFwxnrS09e3OQDzFHFDbTJyJ4c5hNK5o4/TOY=;C+7INre52WW/IHtm8r7YUw=="
+secured: "3lN9+om2+vEnRtyDoTi8jfMpqItLgl1H4C+qqcb3MELtChfW5NU5d3cBsx1YbU+0Kn6pj48/Fmoy4Fwl+9InojxAC/dV3sc6EeDPLOseULNtfcCqxuEMp/3gJdDC88AQsxpbsVJtVHhEayqISooXSWVxeTumMxEvfY2HtUDHv+sPEenn+2Ks+m93UadlbhVjvnvgxoH6UJKiuJbs2yKJZaLYXZPqgF0I0UJALnefSTwh70LfjcReYLZ4NO4oAwNfSUHFqWPTPfeycpRq54oN0g+GCfif/QyLj1DlNWEfEpN3EZkaagdXBqWDB+hsfj0YUu0kaLbHWdkvXteyxfRl4nY5M8kfZWudRz9qfoQ3x80=;/LczLlzUaKc8tlvcXhU1TQ=="
 ---
 

@@ -87,21 +87,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
-    excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
-    publishedDateTime: 2021-05-26T14:38:00Z
-    webUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.amp"
+  - title: "The Human Error of Artificial Intelligence"
+    excerpt: "AI and predictive analytics offer a stereotypical, reductionist view of human nature, and this is a problem we need to address"
+    publishedDateTime: 2021-05-31T06:56:00Z
+    webUrl: "https://www.agendadigitale.eu/cultura-digitale/the-human-error-of-artificial-intelligence/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
+      name: AGENDA DIGITALE
+      domain: agendadigitale.eu
     quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/autonomouscar.jpg"
+      - url: "https://imgcdn.agendadigitale.eu/wp-content/uploads/2021/06/19110627/bigtech.jpg"
         width: 1920
-        height: 1920
+        height: 1080
         isCached: true
   - title: "Mountain View self-driving trucking company Aurora Innovation expanding in Dallas area"
     excerpt: "It’s been less than a year since Aurora said it would test its technology in Texas with a push into Dallas and now it's expanding to accommodate its growing employee base."

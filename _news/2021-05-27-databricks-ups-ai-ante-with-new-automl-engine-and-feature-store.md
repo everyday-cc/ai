@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "BigID Partners with Databricks to Automate Data Discovery and Intelligence for Analytics and AI"
-    excerpt: "BigID, the leading data intelligence and management platform for privacy, protection, and perspective, today announced their partnership with Databricks, the data and AI company, to drive business value by bringing transformative data discovery and context for analytics and artificial intelligence (AI)."
-    publishedDateTime: 2021-05-26T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378352.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "sZSrnp0d5dPGfguED78oxZC+aHQljfyfW6eeq19Ci8puD7EWhkMKSkmZHqQd3BvahajtnLD/QNS6Meyrm1cIKFOyq0c48LRfLt425z0fB1Q6qCZSf4ayM+8uLm5vthJKM7uy8HRaceZbL5zjY3XA+eOfx1BpcOL4vW8+94h3p68ZFxo12p4ANHCSP/yq7I6dzQEd7z+boe1GL7RSW08ehm1mB9bqE+m9ghFKU8XAI8Woi2/nHX8hBw/Py7HPJtMtvkCnxY/JN8oYrsnMoGE4yNUoxRVuTnSwRNjoKyVlDqOeCOIMl0ggOHP73ODaZ1Yqg+hSZWTO1D3ctgZxR2fDetgXxlHBhBZnjSCieToEvVyHUNajt9DatS5faATMsmdPkQG/+3sHKxTlOdLUZi26thGSuXYCUPDRfdrh4iwQWPoZxsIZXZaL++MiB1P8ObeTL1LiKovexMz2qCPXOteDyP9FJ5f4c4ICQ8kaBYUd9vlqSU9EM1TWoYJc7MOgkrXJQxcCeXB9afL98fqAuI1I7w==;C6OqX5+f65AiOPNX5yXiDw=="
 ---

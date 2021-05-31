@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-31-ethical-artificial-intelligence-needs-a-global-and-inclusive-regulatory-framework.md",
+      "title": "Ethical Artificial Intelligence needs a global and inclusive regulatory framework",
+      "excerpt": "The consensus in the recently concluded two-day Dialogue on Ethics of Artificial Intelligence (AI) was that plural philosophical perspectives and a global and inclusive regulatory framework could",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/ethical-artificial-intelligence-needs-a-global-and-inclusive-regulatory-framework-121053100257_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/ethical-artificial-intelligence-needs-a-global-and-inclusive-regulatory-framework-121053100257_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/31/full/20210531094645.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/ethical-artificial-intelligence-needs-a-global-and-inclusive-regulatory-framework-121053100257_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ethical-artificial-intelligence-needs-a-global-and-inclusive-regulatory-framework-121053100257_1.html",
+      "publishedDateTime": "2021-05-30T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
       "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
       "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -43,7 +86,8 @@
         "Microsoft AI",
         "AI",
         "Machine Learning",
-        "AWS AI"
+        "AWS AI",
+        "Google AI"
       ]
     },
     {
@@ -736,7 +780,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1133,7 +1177,7 @@
       "originalUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1164,49 +1208,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-britains-first-self-driving-bus-launches-in-cambridge.md",
-      "title": "Britain’s first self-driving bus launches in Cambridge",
-      "excerpt": "Self-driving buses will drive alongside other traffic for the first time in the UK as part of a trial in Cambridge. The three-wheel ‘autonomous passenger shuttles’ or ‘Auto-Shuttles’ were launched Thursday at the University of Cambridge.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/",
-      "originalUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2021/05/Grey-Autonomous-Shuttle-May-2021.xb009f880-fff1.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/",
-      "publishedDateTime": "2021-05-28T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

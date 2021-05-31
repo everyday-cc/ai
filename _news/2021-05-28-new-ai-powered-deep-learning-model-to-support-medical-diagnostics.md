@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnost
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.ualberta.ca/folio/media-library/2021/05/210527-ai-pouneh-main.jpg"
         width: 3000
         height: 1690
-        isCached: true
-  - title: "Machine Learning Models Predict Gastrointestinal Bleeding"
-    excerpt: "Researchers found that trained machine learning models can predict gastrointestinal bleeding in patients using antithrombotic drugs better than the current risk model."
-    publishedDateTime: 2021-05-26T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-models-predict-gastrointestinal-bleeding"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Use_and_Optimization.jpg"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "qtFhuIMf/5MSroMkLyb/84BQtKn5uHVcweuA+Js9kFTv3YyQCvRQX0++yT1Pv9EqZRgYi2uamAlwQz1vBDHR5D4a1z2HLgL1blGFnsOXbqYc4FbWB6o1vA8SZTlGoDB8PhW+PH2v+qVYBZSyAn0LuavLqPihi3fM0Q4ZWhFzgiiuQgIJI22RuZ35bLoITJgWusN+Zbj54okxe9Gq4qBp6WiOqm59pGMtUAcpMPfbUfhR5AfAUue853yhq50BYzVaDdiFJ0eVncUd8I0eJLacji2YH+Yc64HD5xKafMyo0XdxYctyfG4ODEHYL+6z/p60X+zdUWSrKwU8zYK9321NMyhr33gjRJY3S/Dxy1QGi1c=;vqmCrrH23YlpesT9vJ1vPw=="

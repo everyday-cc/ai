@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Platform Market 2021 | Growing Demands, Regional Revenue, Key Manufacturers and 2025"
-    excerpt: "Kenneth Research has recently added a report on Conversational Artificial Intelligence (AI) Platform market which"
-    publishedDateTime: 2021-05-26T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-platform-market-2021-growing-demands-regional-revenue-key-manufacturers-and-2025-2021-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
     publishedDateTime: 2021-05-28T09:44:00Z
@@ -81,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest Research Report On Artificial Intelligence (AI) in Cyber Security Market 2021."
+    excerpt: "DataIntelo recently published a latest research study on the global Artificial Intelligence (AI) in Cyber Security market for the forecast period, 2021-2028. As per the study, the global Artificial Intelligence (AI) in Cyber Security market was valued at USDXX million and is projected to surpass USDXX million by the end of 2027,"
+    publishedDateTime: 2021-05-30T16:56:00Z
+    webUrl: "https://ksusentinel.com/2021/05/30/latest-research-report-on-artificial-intelligence-ai-in-cyber-security-market-2021/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 42
   - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
     excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
     publishedDateTime: 2021-05-30T16:23:00Z
@@ -94,20 +89,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
         width: 780
         height: 470
-        isCached: true
-  - title: "Facial Recognition Market Size 2021 Industry Statistics, Consumer-Demand, Developments Plans, Industry Impact and Forecast till 2025"
-    excerpt: "Kenneth Research has recently added a report on Facial Recognition market which is studied for the forecast period 2021-2026. The market is anticipated to witness growth by a CAGR of 13.5% during the forecast period."
-    publishedDateTime: 2021-05-26T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-industry-statistics-consumer-demand-developments-plans-industry-impact-and-forecast-till-2025-2021-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"

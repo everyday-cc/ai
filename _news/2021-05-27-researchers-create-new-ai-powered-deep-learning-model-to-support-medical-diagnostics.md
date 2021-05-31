@@ -41,20 +41,6 @@ related:
         width: 2880
         height: 1622
         isCached: true
-  - title: "Machine Learning Models Predict Gastrointestinal Bleeding"
-    excerpt: "Researchers found that trained machine learning models can predict gastrointestinal bleeding in patients using antithrombotic drugs better than the current risk model."
-    publishedDateTime: 2021-05-26T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-models-predict-gastrointestinal-bleeding"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Use_and_Optimization.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "qMomJ7OyQ+fcHRNNIObuIXV5BYTzIIoQrHzg8CZkXic2xrI/uNxy2lx31jUsjXjnP+ponqHgGsDHpypgQ4T8j+R3afc1EUeCLwSoCoRzL0pBhwVKHwduL9MiK68ox0pEbPfqQ8BNFqeJevAGv8G0aL7VCdkhVUCytsQlxVqnCsNlvlvUBgV00se5ZQNsVUQ3e5Q687ejO5Ia8JHbwHUJeokeEXGU594azMpMSlPD7D4AHst26h+rMUxX1dqFW6IIJwB6q/bcuQEzLV6FlR1+g4UT01XyFEkGsdDwRIcHXuyTx4xLK3dgxi70hisYeAJP2fL829groYzjNEyWA+dswfiiR5lYLI/ei/aoudAqlCzJ4EfajARPzUu4YTrc/opLq/pYysZMBi2/tqggGXDbZpxwm3O/iSGc7gONJtbK8oCBSCSVA5BbHqTv+otxvOtidvD2BqEo877bgln9vDqGE60DKkQar1y8aeGkKTITJkySzo1q7sHr1cjds5SExWX+/1FDEQ4qNLm6gmXO1qByOA==;sYoADuvXZ8+Ikqm0mgGigA=="
 ---

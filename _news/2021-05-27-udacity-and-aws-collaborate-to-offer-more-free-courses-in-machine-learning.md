@@ -72,15 +72,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning"
-    excerpt: "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,"
-    publishedDateTime: 2021-05-26T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "qoVgoknf+BNw1emqHMnP06lS8NY7V/3hRsDd0ZlvXQqAvMrMKuYZNQsiFolU49RlB3nONIMHaYFU0KaAEN6ojLgxM6oQoh5A+Jl93SpY44k9m59HB2Hu8QexGl713rAAT51WwVh3vE3xmmaoZafmsUje/JVQX5mX8skq4QEUil2tSDIddJCereUXVYCXEkqsmL/hBACMZLZFn9l61pw6IOcfmanKXiS2wINhzoaomYQF68/BST7O5201pSqsIwvD0m9GjkKWqQBR4h0H7Hoz7wZFZyjdJo2OVljQOVDJviF/IEKUVpNxmn2ZqsRH0CVIV4osZrlZeRLVCiD38QI1jS6zjmDwO9dD0vQWyFwP2Ls=;iz2zu9uN8OWpox8ebSq6GA=="
 ---
