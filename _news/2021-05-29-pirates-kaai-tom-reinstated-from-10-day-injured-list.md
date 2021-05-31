@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-rei
 cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-reinstated-from-10-day-injured-list/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,17 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Pirates' Ka'ai Tom: Resumes hitting activities"
-    excerpt: "Tom (wrist) has resumed all hitting activities, Mike Persak of the Pittsburgh Post-Gazette reports. Tom was placed on the 10-day injured list Friday, but he's progressing well in his recovery so far."
-    publishedDateTime: 2021-05-26T17:12:00Z
-    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-resumes-hitting-activities/"
-    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-resumes-hitting-activities/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-resumes-hitting-activities/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 37
   - title: "Pirates' Ka'ai Tom: Remains with big club"
     excerpt: "Tom will remain with the major-league club after serving as the team's 27th man during Saturday's doubleheader, Jake Crouse of MLB.com reports. This doesn't come as a surprise, as it was reported that the Pirates would try to find a way to keep Tom on the major-league roster."
     publishedDateTime: 2021-05-30T10:43:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launc
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Metro
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Duchess of Cambridge gives speech at NHS charity drive-in in Edinburgh"
-    excerpt: "The Duchess of Cambridge paid tribute to NHS workers during a speech at a drive-in cinema in Edinburgh. Kate was joined William at the unique event at the Palace of Holyroodhouse. The couple, who are joint patrons of NHS Charities Together,"
-    publishedDateTime: 2021-05-27T13:28:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/video-news/duchess-of-cambridge-gives-speech-at-nhs-charity-drive-in-in-edinburgh-40476413.html"
+  - title: "Britain’s first self-driving shuttle bus hits the streets, but scares passengers away"
+    excerpt: "Britain's first self-driving shuttle bus hits the streets in Cambridge, but it's unnecessarily ugly and terrifying."
+    publishedDateTime: 2021-05-31T10:50:00Z
+    webUrl: "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scares-passengers-away"
     type: article
     provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 24
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 62
     images:
-      - url: "https://www.belfasttelegraph.co.uk/video-news/812ed/40476418.ece/AUTOCROP/w1240h700/4236883-1622122108504894_10.jpg"
-        width: 1240
-        height: 700
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FShuttle.jpg&signature=938bfe8c9e5bd559befde83dcec97b1b"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Britain's first self-driving SHUTTLES take to the streets of Cambridge in milestone test that will see the autonomous vehicles ferrying passengers on a main road surrounded by ..."
     excerpt: "Developed by Aurrigo, the three Auto-Shuttles will run a two-mile route from Madingley Road Park and Ride around the University of Cambridge's West Campus."

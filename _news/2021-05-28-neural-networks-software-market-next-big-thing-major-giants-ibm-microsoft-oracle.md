@@ -60,6 +60,47 @@ related:
         width: 1242
         height: 709
         isCached: true
+  - title: "Artificial Intelligence Identifies Netflix And Microsoft Among Today’s Trending Stocks"
+    excerpt: "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Netflix and Microsoft, among others."
+    publishedDateTime: 2021-05-28T15:20:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2021/05/28/artificial-intelligence-identifies-netflix-and-microsoft-among-todays-trending-stocks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062149b2a0bc1d85864ecd8%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
+    publishedDateTime: 2021-05-30T11:47:00Z
+    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 74
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
+        width: 740
+        height: 493
+        isCached: true
+  - title: "How do you apply AI to Azure? Microsoft explains"
+    excerpt: "These services combine Azure Cognitive Services with task-specific AI and business logic, so developers can accelerate building AI solutions for common scenarios, such as document processing, customer service,"
+    publishedDateTime: 2021-05-28T07:15:00Z
+    webUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/"
+    ampWebUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 71
   - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
     publishedDateTime: 2021-05-27T16:14:00Z
@@ -87,6 +128,48 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1622383930_msw-20210530_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
+    excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."
+    publishedDateTime: 2021-05-28T17:39:00Z
+    webUrl: "https://www.itbusinessedge.com/development/aera-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 54
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/05/Aera-Technology-Partners-with-Microsoft-Digital-Twins-Service.jpeg"
+        width: 600
+        height: 300
+        isCached: true
+  - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
+    excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
+    publishedDateTime: 2021-05-30T06:47:00Z
+    webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
+        width: 1462
+        height: 1056
+        isCached: true
+  - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
+    excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
+    publishedDateTime: 2021-05-30T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-ms-build-openai-million-fund-top-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 45
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/download_20210530_100536.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "nKJPCLZY5snaMgvOQ5reIBFvEJ99HTa4RrNm15zC1Fn5kHnXAXEz3GzRyDdf5tvYJDlmeWPlfXcsuPVTs7GS76EkBmLRqmcFC9A2k9DAmaQL8lJWrRBJ8WJY1gkluDHeyy2n/hW+cgwxT4kRYZrBW4EMnAJn8fkbvpOzkDfbzB/k449ihKy8FMzRyXMiAdeQOo9/WHHJpjtzZ1Lk5PclnHX9lofxFiOnHsrfRJ7Bqxdd7bFznlFTq9VHIv8msZKCVbz8HoGC+Koz2tHiLiE0ZiLmiIXT/jiVl8yFvZmEn4/oxJPix0TQfAWRCFSFGKqy7eabkqwCjU3wOK9J8xDfy8LS4r+UhYMk1xR0/yOFX/HVOwJxFBjXjdA2pKHLk0on0Xm7j3B7pO9K0SDeygU0tHr3FqBx1dygaG8o5GKBSwPm0v6pGxMIUTK/NNCJXw/F1uLerwpkx/jZuIzLRKRUmTT6VH9GpMyvEvHskEDDAsW1vPyUVoLqSKveRq9Q2a8Vk/Itod5j6K31ZyRQ6bfrDg==;Ih1Eby7GYcIIA1wspPt1fQ=="

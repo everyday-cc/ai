@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/05/210527091439.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/05/210527091439.htm"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1519650/AI_Connected_Expert_PR_Image_Web.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Collaboration focuses on AI processing-based 3D sensing for next-gen AIoT"
-    excerpt: "The new joint reference designs from Ambarella, Lumentum, and ON Semiconductor offer approaches for biometric access control, 3D electronic locks, and intelligent sensing."
-    publishedDateTime: 2021-05-26T17:31:00Z
-    webUrl: "https://www.laserfocusworld.com/detectors-imaging/article/14204122/collaboration-focuses-on-ai-processingbased-3d-sensing-for-nextgen-aiot"
-    type: article
-    provider:
-      name: laserfocusworld.com
-      domain: laserfocusworld.com
-    quality: 38
-    images:
-      - url: "https://img.laserfocusworld.com/files/base/ebm/lfw/image/2021/05/Photo__Ambarella_Lumentum_and_ON_Semiconductor_Collaborate_on_Joint_Platform.60ae8575e4ccf.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 751
         isCached: true
   - title: "How AI is shaping food innovation"
     excerpt: "Technology experts from consulting firm ZS Associates highlighted the various ways artificial intelligence is coming to life in food innovation and product development during a session at The Natural Products Expo West Virtual Week."

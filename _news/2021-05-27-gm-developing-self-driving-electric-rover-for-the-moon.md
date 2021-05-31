@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/gm-moon-rover/
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,33 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lockheed Martin And GM Planning Self-Driving Rovers For NASA's Return To The Moon"
-    excerpt: "General Motors and aerospace giant Lockheed Martin are teaming up to develop new lunar vehicles that astronauts will use on NASA's upcoming missions to the Moon, the companies announced Wednesday, as the two push to join Elon Musk's SpaceX as industry partners to bring humans back to the Moon in the next few years."
-    publishedDateTime: 2021-05-26T17:10:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8099f86d9bca57b5b640%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2697%26cropY1%3D0%26cropY2%3D1518"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "GM's Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
-    publishedDateTime: 2021-05-26T18:49:00Z
-    webUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon"
-    ampWebUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
     publishedDateTime: 2021-05-29T00:30:00Z
@@ -85,6 +58,20 @@ related:
       - url: "https://wp-assets.futurism.com/2021/05/general-motors-lockheed-martin-lunar-rover-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
+    excerpt: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features,"
+    publishedDateTime: 2021-05-27T11:35:00Z
+    webUrl: "https://menafn.com/1102146459/Tesla-Modifies-Self-Driving-Feature-In-Its-Electric-Vehicles"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-05/26/B_76102edb-cimage_story.jpg"
+        width: 1024
+        height: 400
         isCached: true
   - title: "GM joins effort to build self-driving moon rover"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles ̵"

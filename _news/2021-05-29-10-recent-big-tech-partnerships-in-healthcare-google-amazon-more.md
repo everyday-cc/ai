@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Future Trends in Healthcare Technology"
-    excerpt: "Technology is a driving force behind many healthcare advances. One silver lining of the pandemic was advancements in areas of growth in healthcare technology"
-    publishedDateTime: 2021-05-28T10:41:00Z
-    webUrl: "https://dataconomy.com/2021/05/future-trends-healthcare-technology/"
+  - title: "Harnessing artificial intelligence's potential in healthcare"
+    excerpt: "The adoption of AI in the healthcare industry is also gaining momentum in Gulf countries. For instance, the outbreak of the Covid-19 pandemic across the region has prompted two UAE-based health companies to launch the “world’s first” AI-powered rapid Covid-19 antigen test."
+    publishedDateTime: 2021-05-31T09:46:00Z
+    webUrl: "https://gulfnews.com/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+    ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
     type: article
     provider:
-      name: dataconomy.com
-      domain: dataconomy.com
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/05/31/-_179c1cb5ae7_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Tapping into the drug discovery potential of AI"
+    excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
+    publishedDateTime: 2021-05-27T15:37:00Z
+    webUrl: "https://www.nature.com/articles/d43747-021-00045-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
     quality: 39
     images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/05/future-trends-healthcare-technology.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-021-00045-7/d43747-021-00045-7_19194754.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "ZuSYiANN/vjorrjq/ZcorQgE701D9E25rL7NpvKs0g2raa+ZI5Nk0I7G/7CYZa2YHZ8pyBWSQrhUmctFPiGboSmNU+MYFHgHZKZeOfM/Z09NDA4Qu4XWOznPfniPKh4TPOevt5JaR/tv9W7PzmrH4JdX5Yw+8CKrgoh8M6lvICwxFm8zQRgpKPSdS8g9tIC3PlyRAdQqADR+jLat+xkrFkvjwuhTw0ktil/RABqAVAk22JwaPXZggsreMMbKg3bsUiCrKeI9nQP0DYnYrfuE4hAMDKrQ9LvD0tnky82V9WMB8oHqFEKpcWFMsuz1kdzRPa1rovHM/4YLdXrADuAOlL+6U5S6mhWWYqqf+YljfS0=;K5PVrI2V5zoPkmPiVj8m3g=="

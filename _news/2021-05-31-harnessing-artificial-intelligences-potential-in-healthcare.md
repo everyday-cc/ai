@@ -9,8 +9,8 @@ ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-pot
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Gulf News
@@ -27,37 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Pandemic Shines Spotlight On Big Data And AI In Life Sciences And Healthcare"
-    excerpt: "Healthcare and life science firms are becoming more aggressive, more optimistic, and more successful in achieving data-driven business outcomes that their peers in other industries in the wake of the worldwide COVID pandemic."
-    publishedDateTime: 2021-05-26T17:41:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/"
+  - title: "Tapping into the drug discovery potential of AI"
+    excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
+    publishedDateTime: 2021-05-27T15:37:00Z
+    webUrl: "https://www.nature.com/articles/d43747-021-00045-7"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
+      name: Nature
+      domain: nature.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae87f76fcb859005f94d8c%2F0x0.jpg"
-        width: 1200
-        height: 801
+      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-021-00045-7/d43747-021-00045-7_19194754.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Thales, Atos take on big data and artificial intelligence in new joint venture"
-    excerpt: "This new partnership comes as nations across Europe, and beyond, are targeting AI and big-data as key enabling technologies for future military capabilities."
-    publishedDateTime: 2021-05-27T16:06:00Z
-    webUrl: "https://www.defensenews.com/industry/2021/05/27/thales-atos-take-on-big-data-and-artificial-intelligence-in-new-joint-venture/"
+  - title: "10 recent big tech partnerships in healthcare: Google, Amazon & more"
+    excerpt: "Here are 10 recent partnerships between healthcare organizations and big tech companies including Amazon, Apple and Google. 1. Detroit-based Henry Ford Health System partnered with Google Cloud and Miracle Software Systems to launch an international competition in Detroit to propose ideas for reducing health inequalities through technology."
+    publishedDateTime: 2021-05-28T19:30:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/10-recent-big-tech-partnerships-in-healthcare-google-amazon-more.html"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 33
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: "https://www.armytimes.com/resizer/M0XN0aKszsNZZScRAM73oF5eitU=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/ZOHTBWAHHJFXHEO5X7UR3ENXR4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/2.jpg"
+        width: 400
+        height: 300
         isCached: true
 
-secured: "AWxCdO2aNNY772BBgcsM4Fky9ZlUQZ2WQPhhN7/8QuQH1cT/nwZXGDlbzToxKGSSDareTmEA/0DBp/aMIYrbhGDIdPy+3SWd4MVJF+JEa93CWzuPLj2DBxJdlMjEmFJnsKG7j+wwmm0MqQDrZFS3E+9uNTyL6qT/UwsHjO+GN2ifrxE/DGP32R4v+fctWBjzM+UJP7rQMR/Q1FTp/QYk3Ov4557KYFZAELzXnzu43BFywN/5kxG4ui0JEvL7Y+czjoXhNVS6pbC3JfpNBjElLXiht3bLKDcmJ/zf2M/sLtKRTgslMJRpSTuGycmRLXmJEP4y7zdcA2mkMqRY7SmUMWxTsyJ0mSDboJdxSkbtM30=;TXGK+PYGQtg74QLxWHRzyw=="
+secured: "DBEfjvs6rCQ0N36n1Jmw18hmbopvNvYK9FfFCBISIZt1W+oIV8lox45c2dVGFbIuem+VBNPaWftqviUmWTITzN0EHiChvcyn9pZyQkrdHs5o0K2Cp6dnCm6XSZykLgKrHKrgBJ0wn3/lzGMvZcDtBZ2eNKKBiBmYb4pG7CxKrk+lviuHlxv6Ecd3uRythcox1Qype9MwyIGMz3ZRO+WnOlSGajB+SVXuidxWZJBqtuEct3dxl7uesenVg+0JjBnTUritnHnHocGkjiV/IKumVALTrfdsNzXXoaRtLM3vpTiQnUBPUHCwJMv4Qr6U2mGtJVD+sBbSfZUsYJC3OkXbsG+OqZYRDrw3hxC3hvVx1su57FxXXHdTVyDqtVp9UUefM87Fp9vjza05LVrVA2aJX917w7v+zWiAGFOl2jzYtdHzH9dmvqgN9DMvio6ZEqHcTn1JXYr5jPEnZW1gOSs9h0MbE6zf8VYX98u5Hg6RiZi8GU0Z7hhjTxKXNzBePZxT1m5Rs9g9EOM0HQFFdrJWgQ==;VxuW5HkN5Houdlz4gajWMQ=="
 ---
 

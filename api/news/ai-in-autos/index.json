@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-31-britains-first-self-driving-shuttle-bus-hits-the-streets-but-scares-passengers-away.md",
+      "title": "Britain’s first self-driving shuttle bus hits the streets, but scares passengers away",
+      "excerpt": "Britain's first self-driving shuttle bus hits the streets in Cambridge, but it's unnecessarily ugly and terrifying.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scares-passengers-away",
+      "originalUrl": "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scares-passengers-away",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FShuttle.jpg&signature=938bfe8c9e5bd559befde83dcec97b1b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027.md",
       "title": "Self Driving Trucks Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027",
       "excerpt": "The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
@@ -83,49 +135,6 @@
       "provider": {
         "name": "Azo Sensors",
         "domain": "azosensors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-britains-first-self-driving-bus-launches-in-cambridge.md",
-      "title": "Britain’s first self-driving bus launches in Cambridge",
-      "excerpt": "Self-driving buses will drive alongside other traffic for the first time in the UK as part of a trial in Cambridge. The three-wheel ‘autonomous passenger shuttles’ or ‘Auto-Shuttles’ were launched Thursday at the University of Cambridge.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/",
-      "originalUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2021/05/Grey-Autonomous-Shuttle-May-2021.xb009f880-fff1.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/",
-      "publishedDateTime": "2021-05-28T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

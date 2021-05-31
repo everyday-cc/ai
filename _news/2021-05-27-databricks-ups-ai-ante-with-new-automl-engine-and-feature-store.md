@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -80,8 +80,8 @@ related:
     quality: 38
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
     excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-    publishedDateTime: 2021-05-27T15:56:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+    publishedDateTime: 2021-05-27T16:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -91,20 +91,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Booz Allen Partners with Databricks to Drive Value for Federal Agencies with Unified Data Analytics"
-    excerpt: "Booz Allen Hamilton announced today it is partnering with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI) to meet federal agencies' data challenges and advance their missions."
-    publishedDateTime: 2021-05-26T18:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-19826714.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 10
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "sZSrnp0d5dPGfguED78oxZC+aHQljfyfW6eeq19Ci8puD7EWhkMKSkmZHqQd3BvahajtnLD/QNS6Meyrm1cIKFOyq0c48LRfLt425z0fB1Q6qCZSf4ayM+8uLm5vthJKM7uy8HRaceZbL5zjY3XA+eOfx1BpcOL4vW8+94h3p68ZFxo12p4ANHCSP/yq7I6dzQEd7z+boe1GL7RSW08ehm1mB9bqE+m9ghFKU8XAI8Woi2/nHX8hBw/Py7HPJtMtvkCnxY/JN8oYrsnMoGE4yNUoxRVuTnSwRNjoKyVlDqOeCOIMl0ggOHP73ODaZ1Yqg+hSZWTO1D3ctgZxR2fDetgXxlHBhBZnjSCieToEvVyHUNajt9DatS5faATMsmdPkQG/+3sHKxTlOdLUZi26thGSuXYCUPDRfdrh4iwQWPoZxsIZXZaL++MiB1P8ObeTL1LiKovexMz2qCPXOteDyP9FJ5f4c4ICQ8kaBYUd9vlqSU9EM1TWoYJc7MOgkrXJQxcCeXB9afL98fqAuI1I7w==;C6OqX5+f65AiOPNX5yXiDw=="

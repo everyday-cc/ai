@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Splice-Machine-Strengt
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Splice-Machine-Strengthens-Support-of-Industrial-IoT-with-Livewire-Pulsar-147114.aspx"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Splice Machine Introduces New Edition of Livewire Operational AI Platform for Industrial Users"
-    excerpt: "Updated Livewire platform reduces costs, adds new AI features for increased productivity, delivers a simplified user interface."
-    publishedDateTime: 2021-05-26T18:29:00Z
-    webUrl: "https://www.tdworld.com/smart-utility/article/21165209/splice-machine-introduces-new-edition-of-livewire-operational-ai-platform-for-industrial-users"
-    type: article
-    provider:
-      name: T&D
-      domain: tdworld.com
-    quality: 27
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/tdworld/image/2021/05/livewire_ai_platform_screen.60ae20adb5970.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 545
-        isCached: true
 
 secured: "TmMws2e0/Bpkc9pf4jG6dFMAI5pz2rE667kc4IIPlVymXWtedP5oDoVqT+mIpPxZKqJJH6zDb5uuCiMm2evCkS1ZsLPN9oSzJNYrE2ihwZRSqtONMV3EHMyN3F2xmRt82pH8MWDs2/wHtO1vmf+MJcvCAHTq5D+3sYeIlqU55ewl2s76LO0oTOdt7Vkm4wcypsnqBvaL4GFs6tOjt8eI2Si5Q2R+ldCzm0NAYQCnB5HHMO9K7+Zazk3btnN/7WtuMz4CseLuusODIPDfrwL+UB7mnhL4ul3daZAJnwtFyUSdqeBvBYttCSmtXwcpjAQYuDJ+3hTJYnAbekNezPx2/hvp453Ax0/pDelap64TCR8=;sI/87WNJUeAx/LBK/0Gj/g=="
 ---

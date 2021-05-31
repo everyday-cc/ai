@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
 type: article
 quality: 139
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Legislature May Limit Use of Facial Recognition Software by Police in Maine"
-    excerpt: "Maine could become the first state to impose strict limits on the use of facial recognition technology by police and other government agencies statewide."
-    publishedDateTime: 2021-05-26T17:38:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21224445/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 52
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/05/16x9/20210427_AMX_US_NEWS_FUNDAMENTALLY_FLAWED_MASSLIVE_TO_DISCUSS_1_MLV.60ae76bebbbff.png?auto=format&fit=max&w=1200"
-        width: 960
-        height: 540
         isCached: true
   - title: "US Chamber doesn’t want facial recognition technology banned"
     excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."

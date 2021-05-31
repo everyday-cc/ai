@@ -2,9 +2,9 @@
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
 excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-publishedDateTime: 2021-05-27T15:56:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+publishedDateTime: 2021-05-27T16:03:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
 type: article
 quality: 28
 heat: -1
@@ -89,21 +89,7 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Booz Allen Partners with Databricks to Drive Value for Federal Agencies with Unified Data Analytics"
-    excerpt: "Booz Allen Hamilton announced today it is partnering with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI) to meet federal agencies' data challenges and advance their missions."
-    publishedDateTime: 2021-05-26T18:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-19826714.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 10
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "OBtSOVlNkW8QEjUPGrxvxXsrM9fMIrYnoOx2CXCuxR1ZbWa9wImYTAJkhzDoYsOi51QkLiPPVTKOLZAt/YCNuAhVHZUDgLSyaDdV+wrFyd7WGoiYo4cpmiBc++iQODXlbLbNejJVFHzprYraDlFaycXB63IP5B8JWyn/xQln+m/Wf4gBmBzt1eXAfrVWnrBKQA2ft5OaVLVMYZod58OhljXcPBWfrCSpaYCJcSYeycPaZL0oUMY9q9jhzIt6ktjaL1LQyB8YuRrNU8+0JluObntMHTnutRqrIrr0Yvt4tBgqTxLRCBoEJGy6bdX60rvLCokTxVXeoPjbsnL4Eoeuqo3JWwA4MJYtNi2H8+9ApwI=;SUVvTaoURum+LVuc0aKKFg=="
+secured: "PWohNSkdTZucL1uJcaXfMJ5oxQUAtdC3fxHt5HoC3m6ITqqaK1nCuu3zXu7nqktx/pHgjCW/+9M9K9odxEPPQNTQfh7gJQNcxEt1FA/Kz3NNLdFCp5dpIUZJMI1hCLXwH/nwK0SyhTJZFKELmfiCwlUyHdx1S3CVz0cHQ/HIeRK9ap1ogyyr/ZNccHTf/FpIAtB/U2OZgfdVW5xAQy1B32pa0DJsZPLwXkUTowKsBuBAaKqXKI2uPEKq6ualLOEFnP5KsLxuuSbK6/X7w/+tZjgMj2t0hwNd/zY0+1dDYlg+kS3f1M1afJTHYBNAiKyHEY5V9/USzusB0Te7IkAP2ln7nicX0sPBpKJpWYk6xYs=;T1pSOq0QPQ7yc0PINmyaZQ=="
 ---
 

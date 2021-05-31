@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI launches $100 million startup funded with backing from Microsoft"
-    excerpt: "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft."
-    publishedDateTime: 2021-05-26T17:40:00Z
-    webUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/"
-    ampWebUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
+  - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
+    publishedDateTime: 2021-05-28T18:35:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 102
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
+        width: 1199
+        height: 671
+        isCached: true
+  - title: "Microsoft Build Unveils 'AI-powered Assistance' For Coding Using GPT-3 And Azure"
+    excerpt: "Using an advanced AI model like this can help our low-code tools become even more widely available,\" Corporate vice president for Microsoft said on the event."
+    publishedDateTime: 2021-05-27T11:05:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 84
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wuhf06h3xyik4ld9_1622111084.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
         isCached: true
   - title: "Artificial Intelligence Identifies Netflix And Microsoft Among Today’s Trending Stocks"
     excerpt: "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Netflix and Microsoft, among others."
@@ -54,22 +70,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062149b2a0bc1d85864ecd8%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "OpenAI fund of $100 million for AI startups with Microsoft"
-    excerpt: "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world."
-    publishedDateTime: 2021-05-27T09:18:00Z
-    webUrl: "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/"
-    ampWebUrl: "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
-        width: 850
-        height: 400
         isCached: true
   - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
     excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
@@ -98,6 +98,50 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 71
+  - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
+    publishedDateTime: 2021-05-27T16:14:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 69
+    images:
+      - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Neural Networks Software Market Next Big Thing | Major Giants IBM, Microsoft, Oracle"
+    excerpt: "Latest released the research study on Global Neural Networks Software Market offers a detailed overview of the factors influencing the global business scope Neural Networks Software Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-05-28T12:47:00Z
+    webUrl: "https://www.openpr.com/news/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    ampWebUrl: "https://www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 69
+    images:
+      - url: "https://cdn.openpr.com/U/5/U528233394_g.jpg"
+        width: 512
+        height: 335
+        isCached: true
+  - title: "Microsoft Weekly: Build 2021, a combo showcase, and next-gen Windows"
+    excerpt: "In the last seven days we had the Build conference, a reveal of the Xbox and Bethesda E3 event date, and some needed improvements to shared calendars on Windows. Be sure to catch up via our overview."
+    publishedDateTime: 2021-05-30T10:54:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-weekly-build-2021-a-combo-showcase-and-next-gen-windows/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 69
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1622383930_msw-20210530_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
     excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
     publishedDateTime: 2021-05-30T06:47:00Z
@@ -112,22 +156,6 @@ related:
         width: 1462
         height: 1056
         isCached: true
-  - title: "Weekly Bytes | Instagram insights to help creators, $100 million fund for AI startups, and more"
-    excerpt: "OpenAI, the artificial intelligence (AI) research firm that has built one of the most advanced language models – GPT-3, announced a $100 million OpenAI Startup Fund to help AI companies. The Fund is looking to partner with a small number of early-stage startups in fields where AI can have a transformative effect—like health care,"
-    publishedDateTime: 2021-05-29T06:35:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/weekly-bytes-instagram-insights-to-help-creators-100-million-fund-for-ai-startups-and-more/article34673492.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/weekly-bytes-instagram-insights-to-help-creators-100-million-fund-for-ai-startups-and-more/article34673492.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/weekly-bytes-instagram-insights-to-help-creators-100-million-fund-for-ai-startups-and-more/article34673492.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 47
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/j28cs0/article34673495.ece/ALTERNATES/LANDSCAPE_615/Instagram-insights"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
     publishedDateTime: 2021-05-30T04:30:00Z
@@ -139,20 +167,6 @@ related:
     quality: 45
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/download_20210530_100536.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "OpenAI Launches $100 Mn Fund To Catch AI Startups Young"
-    excerpt: "Microsoft acquired an exclusive license to GPT-3 last year, in the wake of its $1 billion investment in OpenAI."
-    publishedDateTime: 2021-05-29T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/openai-launches-100-mn-fund-to-catch-ai-startups-young/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/sam-altman.jpg"
         width: 1600
         height: 900
         isCached: true

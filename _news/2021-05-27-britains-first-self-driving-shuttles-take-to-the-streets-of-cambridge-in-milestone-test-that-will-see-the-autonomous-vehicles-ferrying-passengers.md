@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Britain’s first self-driving shuttle bus hits the streets, but scares passengers away"
+    excerpt: "Britain's first self-driving shuttle bus hits the streets in Cambridge, but it's unnecessarily ugly and terrifying."
+    publishedDateTime: 2021-05-31T10:50:00Z
+    webUrl: "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scares-passengers-away"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 62
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FShuttle.jpg&signature=938bfe8c9e5bd559befde83dcec97b1b"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Britain’s first self-driving bus launches in Cambridge"
     excerpt: "Self-driving buses will drive alongside other traffic for the first time in the UK as part of a trial in Cambridge. The three-wheel ‘autonomous passenger shuttles’ or ‘Auto-Shuttles’ were launched Thursday at the University of Cambridge."
     publishedDateTime: 2021-05-28T11:09:00Z
@@ -42,20 +56,6 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2021/05/Grey-Autonomous-Shuttle-May-2021.xb009f880-fff1.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
         width: 600
         height: 337
-        isCached: true
-  - title: "Duchess of Cambridge gives speech at NHS charity drive-in in Edinburgh"
-    excerpt: "The Duchess of Cambridge paid tribute to NHS workers during a speech at a drive-in cinema in Edinburgh. Kate was joined William at the unique event at the Palace of Holyroodhouse. The couple, who are joint patrons of NHS Charities Together,"
-    publishedDateTime: 2021-05-27T13:28:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/video-news/duchess-of-cambridge-gives-speech-at-nhs-charity-drive-in-in-edinburgh-40476413.html"
-    type: article
-    provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 24
-    images:
-      - url: "https://www.belfasttelegraph.co.uk/video-news/812ed/40476418.ece/AUTOCROP/w1240h700/4236883-1622122108504894_10.jpg"
-        width: 1240
-        height: 700
         isCached: true
 
 secured: "5o8L8N0k8Tz1kjKds8IZ6wRHXNjT8xUPuiZxoFI0mdIkK0NiQnRqPDt9tbiIt6vUzF1fWD9rJ8UE578H0vP0c3o3RNkANctLM+olwc2f/JSupQSFxlZWh8SuQ47S7C8Zkm/7CTCHVK93omMg7BLo4DHYWwOcLnjw0hOzXVB/D6PRsSapYhSifYJQClrzGtvUR1IVbkQ06HNDk398jFC+JsprRA/51qgew37RFFDTY/OoREn6TqMGVY8Oj7kFGftnMZ0dcNbqXt+eu+j+bX7wIim0cDnkBxxi9HteHwkSzBXkqrpAQU0C2SECBhtc3bhH8/xfIqJ6/hYYEAlirEvE077H9sBYhWLrS7bBZQnrWhKeAzW5drBri97rYh6hKBGcZEJJACLIZtD2T4fVdWxZ3rZqiRCDRVLul0f4MegORk3HHA2K843JfqPyVb6KspaIDyiKwF8K304HdPJ+TWPBKl/pOJR7Gm31yrcyYOcPgHoK1hOl3DN4LEqjTqgrM4Yic+m24wm05yvYueYozUpGBQ==;qaZ0MhzBYpGH3Y3giP93zg=="

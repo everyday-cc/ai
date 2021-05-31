@@ -24,38 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Pandemic Shines Spotlight On Big Data And AI In Life Sciences And Healthcare"
-    excerpt: "Healthcare and life science firms are becoming more aggressive, more optimistic, and more successful in achieving data-driven business outcomes that their peers in other industries in the wake of the worldwide COVID pandemic."
-    publishedDateTime: 2021-05-26T17:41:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/"
+  - title: "Atos partners Thales for artificial intelligence defence offering"
+    excerpt: "IT consulting firm Atos has partnered with technology company Thales to launch a joint venture that will develop a new big data and artificial intelligence platform."
+    publishedDateTime: 2021-05-31T04:18:00Z
+    webUrl: "https://www.consultancy.uk/news/28050/atos-partners-thales-for-artificial-intelligence-defence-offering"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/28050/atos-partners-thales-for-artificial-intelligence-defence-offering"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/28050/atos-partners-thales-for-artificial-intelligence-defence-offering"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae87f76fcb859005f94d8c%2F0x0.jpg"
-        width: 1200
-        height: 801
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2021-05-25-124710835-Five-best-practice-for-driving-value-from-artificial-intelligence.jpg"
+        width: 546
+        height: 312
         isCached: true
-  - title: "Harnessing artificial intelligence's potential in healthcare"
-    excerpt: "The adoption of AI in the healthcare industry is also gaining momentum in Gulf countries. For instance, the outbreak of the Covid-19 pandemic across the region has prompted two UAE-based health companies to launch the “world’s first” AI-powered rapid Covid-19 antigen test."
-    publishedDateTime: 2021-05-31T09:46:00Z
-    webUrl: "https://gulfnews.com/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
-    ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+  - title: "Atos International: Thales and Atos create the European champion in big data and artificial intelligence for defence and security"
+    excerpt: "Atos and Thales announce the creation of Athea, a joint venture that will develop a sovereign big data and artificial intelligence platform for public and private sector players in"
+    publishedDateTime: 2021-05-27T09:44:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52990761-atos-international-thales-and-atos-create-the-european-champion-in-big-data-and-artificial-intelligence-for-defence-and-security-399.htm"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/05/31/-_179c1cb5ae7_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 5
 
 secured: "+bAbNjEiTH8KQR/gixzyzEprXfjZljcNC693h1TT7C3NTBhk9rwBr2K+dTEhdHIKQYNwi8OsB+HeoGi7imvo8TBHE96m4zlR4T/Wkw8tIs+9jYVTuyUsMizE3CsvAxMo52k+lZSnwxmnRT/RzagnXFBmLdxyug5OAeIEyl1gZuG5o8AVKw4G/tUCVNiEB8mEDkPBAevwrEPmxo26LiOtPmi2Bu8Vr0btV80re0wKp6W1a8gbfqT0AJBm5LuBhXk6nVFMzKtOu4nR+X3Q4C+pBvRvxno9Qo5rftQR+XIGPZCyAfT+9nQG32gwudQmtGl6HniWO96C0fYz/Zngg4ug6Gn+N4ofsspzC8/S0T5fGV6Fr2cDMT1epEscPH9kwIOid92eIgLqF+OnsVv3c8QUO9pkI65QZsqfB43Felved7ZG2GnZg8TzxbaBpQ0Ayy5gjPyi44Xju9nl6U1AObmTc+CTyELiGGpGlcKgX7NqBQoBzep8NlVmzYIwiHLcrTG9jSRN0JfJaf2I0n1uL8UB3w==;0RvWM4/1kEF0fdXBmbaiQw=="
 ---

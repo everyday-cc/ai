@@ -81,8 +81,8 @@ related:
     quality: 38
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
     excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-    publishedDateTime: 2021-05-27T15:56:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+    publishedDateTime: 2021-05-27T16:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -92,20 +92,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Booz Allen Partners with Databricks to Drive Value for Federal Agencies with Unified Data Analytics"
-    excerpt: "Booz Allen Hamilton announced today it is partnering with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI) to meet federal agencies' data challenges and advance their missions."
-    publishedDateTime: 2021-05-26T18:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-19826714.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 10
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "jIvuP5CI2nJmvBtce1zofgTBNTc/2bqP76jB9fY8rNQKYmCer+aoPnEXx68Y9lHhOuN+cKM9wLiVEPOrNmPxC0l6AFTRN18NDIazCF7HkINU+TegkpmuC7Gf7W9kRWxA5OUW7sAOTvW1kkrnHj3O3w/EsH3l8pOfyLFXrbFg35C0gDJube5PmlxVMbA89y32BY5+E45N29VhX1Ea53gews1sbpgD34HmkeODdpg4mq5gxsICljFSAyW1UL44ns47HkKmv1oZPqgolT5MnWYCaYk3AfbJK/C49rFV+WQrQ26xxw7ytKKhGiAqvVcEVf4okRgmVIIG4lwECGSxqPdnwe7317ZeM3Z4qveywSUxAz7++G+hHdBu/nF4jdwtiotgj5yf+clsV0KdVzsCKu91mS6Xt8bSruLW4LlJnlf6nDP7gFhyilTgD/eV6AvmJkPlamsbrgcR0vZ8NMWIeJBfHmxC5aWZMqmOhtbhHOcDx5KhttRLn3dA4AZmT64wY61pyd/BNBPAK8JFWBzZneqKSw==;hplx2wfaurfcSW2Ji1wYiQ=="

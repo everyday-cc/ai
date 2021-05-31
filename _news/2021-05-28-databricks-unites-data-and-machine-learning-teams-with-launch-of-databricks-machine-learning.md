@@ -80,8 +80,8 @@ related:
         isCached: true
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
     excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-    publishedDateTime: 2021-05-27T15:56:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+    publishedDateTime: 2021-05-27T16:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -91,20 +91,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Booz Allen Partners with Databricks to Drive Value for Federal Agencies with Unified Data Analytics"
-    excerpt: "Booz Allen Hamilton announced today it is partnering with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI) to meet federal agencies' data challenges and advance their missions."
-    publishedDateTime: 2021-05-26T18:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-19826714.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 10
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "ujsxFfxMfIlRdszv50GgyuuZTBAuzg5hTHz1Pas0FOdDgdeZfIR8H6SZvTwdzyHS3bt9u6eiatV7PX4+BY+mT/tfLnD3jzl+Ze+RGCtfRnn6J9wg65M/U166ENduV3kqPbWFjctU32XQtuvtxOnhFzqvlbb1M6qxerP3csByXYp35lZcMMV2y+DlJQ8tvYHfQoYjS9UHO/3ppfyXi7HRhs/YBb1NcbsDA/eX3epBTUo/wBrZyoVNdpRxE8P4DQoX7egP4Hqf7koCUDaM09guK5kyPDmqn6QXLU6ClPi1A9JANKh6l1Bhz36Hs8AFs47lR5zvgLQaVQD3/JfkcHnxTgao+tr1GxViPOTeeMAlD1Q=;Di8DED8H+oiotLFueZypBA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41583-021-00467-3"
 webUrl: "https://www.nature.com/articles/s41583-021-00467-3"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 648
     height: 685
     isCached: true
+
+related:
+  - title: "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain"
+    excerpt: "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computation"
+    publishedDateTime: 2021-05-31T06:05:00Z
+    webUrl: "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/"
+    ampWebUrl: "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 54
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/05/image0013UIF.png"
+        width: 577
+        height: 219
+        isCached: true
 
 secured: "446Kb3XbV/QHwrWDxLam8wJJXKI1ewgypH5WwnF9J34bxqRXLoAq4kZwOHkKqtf5XiKtf6nvPW9q4vmmXUqjQGgEqRzmE8P0R/L9Yf+GkD73OS656gXGVuvTRxi3spaYzpyvs3B4bLMPPKa8z+ctuqFLJ/Ty2O7pkQ1FXUNIe+lkEblALVRva1Q3EC6Gy6AV67GjSNL7l8uDxRv5dbSxpQkyjPcMYLSJlKQgijuPgQ1ij+YAkuc3RuVtROgT/zlRL8Fpi+pDETB6dz8svdAOlLHoHPHu8M6si1mFsvnFyBz7scVgd72SfUr4sz5VNKh/Z0t6J+ZnvBoGKpPbwvQdUZ2CTRzGdFrg0PKqEhC7qGKKuRYBeFgdbIJKG042cpHcpljdn3G1kKhlGiI8XRPoyQWpBOHuCDr+EtyHosP6oynBg/G8dsgmfak/+sdLlJc/oZ+SH8H+EhvfPnWC/Z2JiMkFRWp7Ypa0Yto8URydFj76JpXKcbh4QYQbjIzATlyCjE7d+yJL462N4KF+Ip4jog==;t1iotZBZa40WYcEJJ5R9JQ=="
 ---

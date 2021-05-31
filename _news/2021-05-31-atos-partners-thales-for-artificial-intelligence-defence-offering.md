@@ -9,8 +9,8 @@ ampWebUrl: "https://www.consultancy.uk/news/amp/28050/atos-partners-thales-for-a
 cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/28050/atos-partners-thales-for-artificial-intelligence-defence-offering"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Consultancy
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Thales, Atos take on big data and artificial intelligence in new joint venture"
+    excerpt: "This new partnership comes as nations across Europe, and beyond, are targeting AI and big-data as key enabling technologies for future military capabilities."
+    publishedDateTime: 2021-05-27T16:06:00Z
+    webUrl: "https://www.defensenews.com/industry/2021/05/27/thales-atos-take-on-big-data-and-artificial-intelligence-in-new-joint-venture/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 33
+    images:
+      - url: "https://www.armytimes.com/resizer/M0XN0aKszsNZZScRAM73oF5eitU=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/ZOHTBWAHHJFXHEO5X7UR3ENXR4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Atos International: Thales and Atos create the European champion in big data and artificial intelligence for defence and security"
     excerpt: "Atos and Thales announce the creation of Athea, a joint venture that will develop a sovereign big data and artificial intelligence platform for public and private sector players in"
     publishedDateTime: 2021-05-27T09:44:00Z

@@ -24,22 +24,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "Optimizing Risk Management with Machine Learning in Banking"
-    excerpt: "The enormous amounts of data accessible to banks and their high demand for forecasting make the financial industry a perfect area for machine learning (ML) to shine."
-    publishedDateTime: 2021-05-26T17:24:00Z
-    webUrl: "https://financialit.net/blog/banking/optimizing-risk-management-machine-learning-banking"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/andrey.png"
-        width: 599
-        height: 608
-        isCached: true
-
 secured: "Gv1MLPHuiTfgIWUBqfB+lu9CZrbsdKGvrJGUzFuxqwyM26Q5DZbeaq1UJuOHlOOcVT5UvkOCCPF24yHPsr5b3xD4Q7hK67lCsnZYJt164eQSGPg1kVaGMvFKn8qOLG2PMSzimzHdCQ4IyYnYXHhWvukngc3zjqMun/D4ciuP5Vd5Ov47SCmaJgZLmUt41dE7zBIVaxJVPKVz8Kp9b4H381lybwc7HCBuPbL0ACPZayPDoSxon6zZDoOyXa/uPQTVGielaDa5l4Il4EYh/Vz5NvFaDZ3qqTK7pd8RCYG3TmSlTifaLFKgyH9qMIc4mIV4sCyiVw5OV7DiazAEWKDx7EdOH136WKT4kLQaXkzfKL0=;8RwnmgY/cq1DER97DV8qDA=="
 ---
 
