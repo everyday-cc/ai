@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Robot Smiled Back: Engineers Use AI to Teach Robots to Make Appropriate Reactive Human Facial Expressions"
+    excerpt: "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,"
+    publishedDateTime: 2021-05-31T04:04:00Z
+    webUrl: "https://scitechdaily.com/the-robot-smiled-back-engineers-use-ai-to-teach-robots-to-make-appropriate-reactive-human-facial-expressions/"
+    ampWebUrl: "https://scitechdaily.com/the-robot-smiled-back-engineers-use-ai-to-teach-robots-to-make-appropriate-reactive-human-facial-expressions/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/the-robot-smiled-back-engineers-use-ai-to-teach-robots-to-make-appropriate-reactive-human-facial-expressions/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 55
+    images:
+      - url: "https://scitechdaily.com/images/Robot-Smiles-Back-777x437.jpg"
+        width: 777
+        height: 437
+        isCached: true
   - title: "The robot smiled back"
     excerpt: "Long interested in interactions between robots and humans, researchers have created EVA, a new autonomous robot with a soft and expressive face that responds to match the expressions of nearby humans."
     publishedDateTime: 2021-05-27T21:11:00Z

@@ -39,20 +39,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Why Data-for-AI Providers Need a Problem-Solving Mindset"
-    excerpt: "“We started thinking about this as highly structured language data that could help refine AI engines. We started with English ... led vendor management practices typical of LSPs. “In translation vendor management, you build a relationship and work ..."
-    publishedDateTime: 2021-05-26T12:13:00Z
-    webUrl: "https://slator.com/industry-news/why-data-for-ai-providers-need-a-problem-solving-mindset/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 39
-    images:
-      - url: "https://slator.com/assets/2021/05/Data-for-AI-Panel-Article-Image.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Collaboration focuses on AI processing-based 3D sensing for next-gen AIoT"
     excerpt: "The new joint reference designs from Ambarella, Lumentum, and ON Semiconductor offer approaches for biometric access control, 3D electronic locks, and intelligent sensing."
     publishedDateTime: 2021-05-26T17:31:00Z

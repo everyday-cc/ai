@@ -109,6 +109,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-forrester-total-economic-impact-of-ibm-openpages-with-watson.md",
+      "title": "Forrester Total Economic Impact of IBM OpenPages With Watson",
+      "excerpt": "IBM recently commissioned Forrester Consulting to conduct the Total Economic Impact (TEI) study that evaluated the financial impact of IBM OpenPages with Watson on organizations. Learn how IBM ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
+      "originalUrl": "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-how-watson-discovery-helps-contractpodai-provide-legal-excellence.md",
       "title": "How Watson Discovery helps ContractPodAi provide legal excellence",
       "excerpt": "IBM Watson Discovery speeds contract renewal time by 50% IBM Watson Assistant helps counsel find specific information among thousands of data points IBM business partner ContractPodAi offers an end-to-end contract management solution designed by lawyers for lawyers. The solution aims to dissolve traditional",

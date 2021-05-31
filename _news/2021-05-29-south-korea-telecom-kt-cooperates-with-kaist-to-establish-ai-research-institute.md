@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Nokia launches world’s first AI use case library on public cloud for telecoms providers"
-    excerpt: "Nokia’s AVA AI use case library is now delivered as a service on Microsoft Azure’s public cloud, combining telco grade security and instant web scale architecture scalability. Accelerates communication service providers (CSPs) digital transformation,"
-    publishedDateTime: 2021-05-26T12:14:00Z
-    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/nokia-launches-world-s-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-41556/"
-    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/nokia-launches-world-s-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-41556/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/nokia-launches-world-s-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-41556/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 51
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "8qEp/mewD5xPYDH+bhRjzGt8En+dCs8k4uBJ4V0xAqZNtXlTmeYK8hHJ684A2/EuF7AANOAVIbaF49xmqotX9brF7U49SKig1D2Yp4KeOMihI0hanVV0MStKD6r1N1tRJuf12U1rU/fqjurtWHw3w46aRqGk2o96lADeFtUI0NhE6EF5rOA8kP3snYu3rqeZIsKtQCsnaK6QidKPfTDy8e5EfVNu84eGo3DCEvJRcDgK3AWdtz9/KJRphvSjG3+Tz85bLlJ5CRzDQQVyNrFbGHeFY/0Z+1d0iKGwGBJzNKtwbFG3CeZ3SglbJzm4TG6dNCgqVOSqibLrOr2TRQWQaHMIyZpavR0swcJiZqnJvZQ=;1ghewTZ/aqr9hvc2Oq2EiA=="
 ---

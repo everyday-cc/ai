@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-01-experts-rank-amazons-self-driving-unit-tesla-waymo-and-12-other-power-players-in-the-world-of-autonomy.md",
+      "title": "Experts rank Amazon's self-driving unit, Tesla, Waymo, and 12 other power players in the world of autonomy",
+      "excerpt": "Waymo was once again a winner in Guidehouse Insight's ranking of the top autonomous-vehicle companies. Tesla was not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-tesla-zoox-waymo-aurora-cruise-argo-ai-self-driving-2021-4",
+      "originalUrl": "https://www.businessinsider.com/amazon-tesla-zoox-waymo-aurora-cruise-argo-ai-self-driving-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608b240834af8d001859a063?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-01T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars.md",
       "title": "Gnarly Skateboarders Trying Dangerously To Hitch A Ride On Self-Driving Cars",
       "excerpt": "Skateboarders sometimes try to do bumper hitching, which is dangerous and should not be done, but the question is how will self-driving cars deal with those gnarly riders.",

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
+      "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
+      "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-Illustration-2.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-30T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.md",
       "title": "Ubisoft hires AI, machine learning expert to lead product technology",
       "excerpt": "Ubisoft is forging ahead with experimental technology like machine learning, AI, blockchain and more for its upcoming projects.",
@@ -1337,58 +1382,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body.md",
-      "title": "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body",
-      "excerpt": "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1513251/Clarius.jpg",
-          "width": 400,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

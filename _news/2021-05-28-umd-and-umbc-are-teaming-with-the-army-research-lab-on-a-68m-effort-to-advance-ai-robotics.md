@@ -7,8 +7,8 @@ originalUrl: "https://technical.ly/baltimore/2021/05/27/umbc-umd-army-research-l
 webUrl: "https://technical.ly/baltimore/2021/05/27/umbc-umd-army-research-lab/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Technical
@@ -34,20 +34,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 41
-  - title: "Artificial intelligence agreement to advance Army modernization efforts"
-    excerpt: "The U.S. Army plans to cooperate in artificial intelligence research with teams led by the University of Maryland, College Park and in partnership with the University of Maryland, Baltimore County. The cooperative agreement brings together a collaborative of nearly 30 diverse experts in engineering,"
-    publishedDateTime: 2021-05-26T12:29:00Z
-    webUrl: "https://www.army.mil/article/246582/artificial_intelligence_agreement_to_advance_army_modernization_efforts"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 39
-    images:
-      - url: "https://api.army.mil/e2/c/images/2021/05/19/140c988c/max1200.jpg"
-        width: 1200
-        height: 837
-        isCached: true
 
 secured: "Tqw4/8y9md+8fJxKLTlbEiJnZ+d0ghcKmQM5ZGPYp2yUM2pafDROaQOeCzEI6N5OSyDXyM76G1TZ3xzGbCH/eqDpkM383aD/Ehwqo6JaBCerBb5+JwdGI/asthZMg2FWuKyz5G3Ls2ygkwzLXBBdIsq3B8BZGGceNaV6txbfFZQPXwPqeOuvAQEbCzdvBRtit0PNWdC/nQLm8zNMxKM3u2VejSXtS74J9rK6mi7eQs8ldpFzq8yjyN9ReL29wynnoE3IEchhKQ+9E0c9mr241K4zJ/p3Q/bjEHtSLLSruvt7VJE4XuA4jQ7gyNUcrnXaCO5vE6gmDspWfHcd4CmkL0zMrkfFwtNBOzbQdaHjulyoWca3T1QURaFr+/STbkFPb5nxNB0WWxVi42nGJaSIKxxCKMHEE2BhitOHIjCkDN58C+NCLrFbeHhbxemkCzNd87K/xaXGgMsF0mgfUCo0jx1s5SEm+9aDEa8asReebuO7uJQZgtODWiYfAwXX8K3udDtlGlmO3MqKmgGNww5jzQ==;3Mg0TxrPWppVU4/i22antA=="
 ---

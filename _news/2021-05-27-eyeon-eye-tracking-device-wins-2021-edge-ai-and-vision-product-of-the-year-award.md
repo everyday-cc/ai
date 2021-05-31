@@ -2,17 +2,21 @@
 category: news
 title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
 excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,"
-publishedDateTime: 2021-05-27T11:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379175.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379175.htm"
+publishedDateTime: 2021-05-27T11:43:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-1030470882"
+webUrl: "https://markets.businessinsider.com/news/stocks/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-1030470882"
 type: article
-quality: 14
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -64,6 +68,6 @@ related:
         height: 225
         isCached: true
 
-secured: "26I14eLwEL7Og2vMUcj39qgN2FoYdahImma1NZIl9raN64JNAzSV+SbCQ6EYkh4dYwS769gZi/6oOUMBZa6byZqSMW/+Y1GhKwm33PmSRC07s4Jmwx8ptPVBfu121/7BAsarFCwAn08fiZX2QltlKXj1s1IuWrHJptI3g4+Q5tQ0VEXMu+jBaAKda6H9lwP1H0l2MxdOkcxgQQ4SiAOqOhYMRMWBj6CuXj24mNU31rQsnKSnipj6PnEQ15Ft2s0XrCl2By2fvRqWHJciRvOZh5Ti9byuawFLccm4kXWm2/2MDoB278mdXIty2momk+oXtiJJrIZatuLD/GBGNhylwHSElhy30nDNa8AEwEr9ZxA=;7UXFIPsCZTdaYd7Q9Dmf/g=="
+secured: "+Zyo6chLFOPvI8HAWzeyzxDi4U1r0m4ylKR9V/OPvazRV04vqIgSaSQZm/VDOCJcdFMea9x3oVWYpS+kf1LeyQRUgMCY66fiorlGocae+wqRAJriyBcWgfU6dtcZHYjsBT9Eu60B9Y92KP1k+3NhedSvBVxd7Z2UqpQRdg9k+bH7Z3vsNeHIeJjhH10T4t1aV3V8C7CDKDeIXTORnBvh3Oahmksi1mJKlUG3riFmhp34OWJRARHxL/821Bes+GtjY6Fw2YY64dL1ClH2Nr0jh97YrUxDdZjYjQ7MmFDxrulUSZnPn9tP071ajxFoC2Z700ylOGtFwxnrS09e3OQDzFHFDbTJyJ4c5hNK5o4/TOY=;C+7INre52WW/IHtm8r7YUw=="
 ---
 

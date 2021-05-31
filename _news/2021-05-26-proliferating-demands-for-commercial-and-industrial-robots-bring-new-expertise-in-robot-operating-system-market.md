@@ -27,17 +27,6 @@ images:
     height: 638
     isCached: true
 
-related:
-  - title: "RoboAds Introduces the World's First Mobile Advertising Robot for Displaying NFT ART and Live Cryptocurrency Pricing"
-    excerpt: "RoboAds develops a new generation of advertising robots by combining digital signage, robotics and AI under one platform. RoboSignage is RoboAds' first commercial robot specifically designed for indoor advertising and virtual telepresence."
-    publishedDateTime: 2021-05-26T12:38:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210526ph90051/roboads-introduces-the-worlds-first-mobile-advertising-robot-for-displaying-nft-art-and-live-cryptocurrency-pricing"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-
 secured: "t80Kdh7ifh0VlZ0+Io/z/SXQMfVq3dwU6YkoVBWIu7gnNkledN5grxkrdHId11MUyvILFniuiIWGUhNqZ6S8TmNPY6Y0RKdOK1oaLNmTO1Gac8O48L/IpFNKfCEAciBWTVL/lSvJckhf9kfclEGAPEZwMyaX3E+Jk7YebSt717Sw4gdlat2ntiPf82KaSCEBPKwHAuQFZ8rEKctVrRXptfBWQAigJvLNAIBHhqTaWqShBFc+4927u8hZAaa45Kmqyoq9Oo4Gv0CIepjdKPwP4neeasolE/Q46+r0SMuuPmkKlhwM/3DEVwW9F2rFX3MGrMglIcgLo+6XeVkOhzE8Ofn4fwMFb9xa4CMKGMDgiM085zaxCrUCcJ/TzqFWVIG9ot2+sbHf6VHR9UF23QoxSrt3nj+/jBP+xcYRCt/JV3YyTTVeojtQkJesykTNNrJr7804BybHGT/pZavve1KSw7ZSt0BhZm1VWDgT72KDuX5QmhRSJastnnCiprENevC8holjtr59BBVnAssN66tNjg==;qYzH5tY82NXkAr69Xo09Sw=="
 ---
 

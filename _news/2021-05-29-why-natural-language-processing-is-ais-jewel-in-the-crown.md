@@ -7,7 +7,7 @@ originalUrl: "https://www.huawei.com/nl/technology-insights/publications/winwin/
 webUrl: "https://www.huawei.com/nl/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "AI and NLP unlock emerging market ESG data"
-    excerpt: "Artificial intelligence (AI) and natural language processing (NLP) could enable investors to access new data sources in emerging markets, according to a joint paper from the International Finance Corporation (IFC) and Amundi."
-    publishedDateTime: 2021-05-26T11:43:00Z
-    webUrl: "https://www.environmental-finance.com/content/news/ai-and-nlp-unlock-emerging-market-esg-data.html"
-    type: article
-    provider:
-      name: Environmental finance
-      domain: environmental-finance.com
-    quality: 34
 
 secured: "zsjBylzUe40lAI1FOvyL2aDUdtfWH9hh4+WIw4a2F+Hlu66RXJh/fYQsVPRgrDyjF6TeUrqm59XuXmjl2Sb8ruvRopojxpYpUHSjLt83IgmuZZP6UpCQXq7vjQ73iDZ73rlfnoymvpMFU7nqiBPLr/0rEvudC6kqIF/LUcUu+hZd8oK+6ZTGLfgVTNOdaPlEPvUN10aS84PSf7E2xRb6AuYxGBOjkXHALW4QnXa/FD9cfkbziRYsOhcdTvSdAqqzw4zIKOZMhtZTacmdA9XZO5sQmU/WZMedbtCy8Kqr0XVMnqHee4EuigNA9PLBQ3inLNAJuE5moFTLfLNsPIKmHLRcLC0F9RkTXdzV4b8iLKEMMumNpqQAycTuair6yV51weLp5OstCPc2SwelRcvn/wZa7Po+zwmsjWqHINfFTyhk24LsuHBUgLKx5spskhprBx9YHGC/vuzIBLwAKnB+URZyC7FUj/OAcAspnAyQe1rR1iNSHJ7v7XcGapznPEjaulwF5dyM2wcGHjLC0FaXWg==;g3PxvHGn80oNg2mGzwC+UQ=="
 ---

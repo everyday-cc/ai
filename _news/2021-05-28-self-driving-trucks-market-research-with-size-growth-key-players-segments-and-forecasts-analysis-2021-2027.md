@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-mark
 webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "SK partners with US self-driving truck tech firm"
-    excerpt: "By Kim Bo-eun SK Group's holding company has partnered with Kodiak Robotics, a U.S. self-driving truck startup, to introduce the company's technology in Asian markets. Under the p"
-    publishedDateTime: 2021-05-28T07:01:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/05/133_309570.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=309570"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=309570"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 44
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202105/a24cde98c2ac497c9662f96b578238a7.jpg"
-        width: 980
-        height: 403
-        isCached: true
   - title: "Natural Language Processing Market Size, Key Players Analysis, Business Opportunity Assessment, And Comprehensive Growth Drivers Forecast Till 2024"
     excerpt: "Get a Sample PDF of Report -  Natural Language Processing Market competition is assessed by top manufacturers, with production, price, revenue (value), and market share for each manufacturer. It offers a complete evaluation of every area including the volume of the global Natural Language Processing market in that area in the estimated duration."
     publishedDateTime: 2021-05-28T05:42:00Z

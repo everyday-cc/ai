@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-29-at-11.04.39-PM.png?fit=950%2C535&ssl=1"
         width: 949
         height: 535
-        isCached: true
-  - title: "Nokia launches world’s first AI use case library on public cloud for telecoms providers"
-    excerpt: "Nokia’s AVA AI use case library is now delivered as a service on Microsoft Azure’s public cloud, combining telco grade security and instant web scale architecture scalability. Accelerates communication service providers (CSPs) digital transformation,"
-    publishedDateTime: 2021-05-26T12:14:00Z
-    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/nokia-launches-world-s-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-41556/"
-    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/nokia-launches-world-s-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-41556/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/nokia-launches-world-s-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-41556/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 51
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "ts+5J45EfPcs3qGYwMeKtXAhqa/vsvJEiB1L/K5ZrVMrrag7FwnlWwx6rrlE5f/HfdJYqehvXaNzNL4+okrc8K6babQlWcW+FUt8/fBnGGHN6slSHW+h+NJxwrtPj9VQ8KmkFp/n9Bs6E8Ro/NR1HWB8Fz1zKF+Lv3aVxPPY7cbhBfPhSlBFxjCw2rWOTL9l9IQDdp5mpakX5eI5wOLl42qjQgDSmAo7ERLdAa7nqoQgleRiv2S2L6qw+XrVzZrTqhiOHoIFDU/KzhpkuYcs/Rr9L2oKambYjY2g42USxWQ1K7G1KiOpHp2opd/M6stReJZFDSo2f23G256NOllU7MmqBeTgpgwG21C/CTA4+PiA/xhh2/eIPy003Gv8zJvQd4GFGTMkVLT0xKqIbw33POytFUuwqMekJloWCcpOe/9+N9d8HbEsCDYOwFfINamGB4mf6G6EyP89pTTruJMB/Ke80kXhq5cN8OTxkH3oBdgb4WEuNyezvrfG2oSdZezJKWdfxFr93ihVVWBIKQnpvA==;PLWKd02kIj0xaQNXiXmfIw=="

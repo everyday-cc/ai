@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SK partnership brings Kodiak Robotics’ autonomous technology to Asia"
-    excerpt: "Kodiak Robotics strikes a partnership with South Korea’s SK conglomerate to move its autonomous trucking software to Asia."
-    publishedDateTime: 2021-05-26T12:00:00Z
-    webUrl: "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia"
-    ampWebUrl: "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 74
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/05/052621-Kodiak-SK.jpg"
-        width: 595
-        height: 373
-        isCached: true
   - title: "Self-driving truck startup Kodiak partnering with SK Group to expand into Asia"
     excerpt: "Kodiak Robotics, the U.S.-based self-driving truck startup, is partnering with South Korean conglomerate SK to explore the possibility of deploying its autonomous vehicle technology in Asia. The ultimate aim of the partnership is to sell and distribute Kodiak’s self-driving technology in the"
     publishedDateTime: 2021-05-26T14:53:00Z
@@ -57,19 +41,21 @@ related:
         width: 1024
         height: 559
         isCached: true
-  - title: "Kodiak Robotics and SK Inc. Partner to Bring Autonomous Trucking to Asia's $1.5 Trillion Freight Market"
-    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, and SK Inc., a holding company of SK Group, South Korea's third-largest conglomerate with more than 120 operating companies, today announced a partnership to bring the Kodiak Driver,"
-    publishedDateTime: 2021-05-26T12:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kodiak-robotics-sk-inc-partner-bring-autonomous-trucking-/2021/05/26/9378080.htm"
+  - title: "SK partners with US self-driving truck tech firm"
+    excerpt: "By Kim Bo-eun SK Group's holding company has partnered with Kodiak Robotics, a U.S. self-driving truck startup, to introduce the company's technology in Asian markets. Under the p"
+    publishedDateTime: 2021-05-28T07:01:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/05/133_309570.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=309570"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=309570"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1385508/Kodiak_Robotics_Logo.jpg"
-        width: 400
-        height: 382
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202105/a24cde98c2ac497c9662f96b578238a7.jpg"
+        width: 980
+        height: 403
         isCached: true
   - title: "Kodiak targets 2023 for driverless trucks in U.S. as it sets up a future in Asia"
     excerpt: "In a partnership with a South Korean conglomerate that creates autonomous vehicle components, Kodiak Robotics gets its ‘foot in the door’ of Asia’s freight market as it eyes U.S. expansion beyond Texas."

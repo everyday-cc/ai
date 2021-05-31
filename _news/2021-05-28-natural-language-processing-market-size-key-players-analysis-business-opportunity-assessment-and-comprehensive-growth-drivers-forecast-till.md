@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SK partners with US self-driving truck tech firm"
-    excerpt: "By Kim Bo-eun SK Group's holding company has partnered with Kodiak Robotics, a U.S. self-driving truck startup, to introduce the company's technology in Asian markets. Under the p"
-    publishedDateTime: 2021-05-28T07:01:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/05/133_309570.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=309570"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=309570"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 44
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202105/a24cde98c2ac497c9662f96b578238a7.jpg"
-        width: 980
-        height: 403
-        isCached: true
   - title: "Global Natural Language Processing Market Size, Growth Rate, Verticals, Key Players Analysis, Application and Forecasts to 2026"
     excerpt: "The need to make sense of unstructured data and extract insights is expected to drive the adoption of NLP solutions and services which will contribute to the growth of the NLP market The global Natural Language Processing NLP market size"
     publishedDateTime: 2021-05-27T05:35:00Z

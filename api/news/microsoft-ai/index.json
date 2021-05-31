@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
+      "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
+      "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-Illustration-2.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-30T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science.md",
       "title": "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science",
       "excerpt": "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,",
@@ -262,7 +307,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -314,7 +359,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -706,8 +751,8 @@
       "title": "15 Big Azure Announcements Made At Microsoft Build 2021",
       "excerpt": "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -853,34 +898,34 @@
     {
       "path": "_news/2021-05-25-aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system.md",
       "title": "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating System™",
-      "excerpt": "Aera Technology today announced a collaboration with Microsoft to integrate Microsoft Azure Digital Twins with Aera's Cognitive",
+      "excerpt": "Aera Technology today announced a collaboration with Microsoft to integrate Microsoft Azure Digital Twins with Aera's Cognitive Operating System. Azure Digital Twins is the platform that enables the creation of next-generation connected IoT solutions that model the real world.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system-301298727.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system-301298727.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1517353/AeraTechnology.jpg?p=facebook",
-          "width": 669,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:30:00-07:00",
+      "publishedDateTime": "2021-05-25T07:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1430,50 +1475,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-sofic-news-microsoft-socom-discuss-ethical-use-of-artificial-intelligence.md",
-      "title": "SOFIC NEWS: Microsoft, SOCOM Discuss Ethical Use of Artificial Intelligence",
-      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/01_covers/may_cover.ashx?h=793&w=601&la=en&hash=2A0B7FC465C936EDFB5D8EB19D5A3113",
-          "width": 601,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
       ]
     }
   ],
