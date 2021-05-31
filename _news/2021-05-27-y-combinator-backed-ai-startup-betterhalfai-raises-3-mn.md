@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/y-combinator-backed-ai-startup-bette
 webUrl: "https://analyticsindiamag.com/y-combinator-backed-ai-startup-betterhalf-ai-raises-3-mn/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Betterhalf.ai Raises $3 Mn In Pre-Series A Round"
-    excerpt: "The company plans to utilize the funds to boost user engagement on the app, adding monetization features, and increasing product discovery across organic channels"
-    publishedDateTime: 2021-05-26T09:12:00Z
-    webUrl: "https://www.entrepreneur.com/article/372905"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/372905"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372905"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622020333-Betterhalf-team.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "NKm6rNYcpF1RWQL3z9CLOpj2bAfPFkjY0bz8tm/5Z1O5sIVVZBiwnlOW/f+a1b9W7hviJe2e777Xbtc78nCNBkdYqaTqMLCtF4Is6z564hWMn5alDs9r792VkURtGAmB261cE43sdOim3mbkW1jyfkk0pqWbILcsXUQfGdcCGCNgVSHrEIWTaZUnZURhqUbyx2e2Y/3UFkW+pSfwlvWp3ydFNzp72mzYJJ/cjZWeZ7chmRnNkUAFMNLLjI5DW/MzjD8pLHCYLIAMWbCIcXYXOAwjQgDcSVeZ0rTLTT07znhAIxUwicUqnqkIM3gHzG4g9caAFbVdwwiY05Ttwg3IvZwSYstsb9MZ5zzhtzTjteE=;LOxXmMXrIqTRDmng6mL2Ww=="
 ---

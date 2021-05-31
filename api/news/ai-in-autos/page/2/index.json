@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-19-wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-breaks-out.md",
+      "title": "WIMI Hologram Cloud Stands Out with Its Own Lidar Products When the Autonomous Vehicle Industry Breaks Out",
+      "excerpt": "It uses computers, modern sensing, information fusion, communications, artificial intelligence ... representative of the latter is Google Waymo. “Whoever relies on lidar will be over.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43913383/wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-breaks-out",
+      "originalUrl": "https://www.wboc.com/story/43913383/wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-breaks-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-io-2021-the-vertex-ai-platform-connects-ml-tools.md",
+      "title": "Google I/O 2021: The Vertex AI platform connects ML tools",
+      "excerpt": "What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from machine learning and general AI to neural networks. Read More While Google has a bevy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
+      "publishedDateTime": "2021-05-18T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-california-dmv-probes-tesla-over-self-driving-claims.md",
       "title": "California DMV Probes Tesla Over Self-Driving Claims",
       "excerpt": "The California Department of Motor Vehicles has launched an investigation to decide if Tesla (NASDAQ:TSLA) misleads buyers by offering its vehicles with \"full self-driving capabil",
@@ -1276,92 +1363,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
-      "title": "SoftBank’s Son expects mass production of driverless cars in two years",
-      "excerpt": "Son, who made his name for investing early in startups such as China's Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-can-federated-learning-save-the-world.md",
-      "title": "Can federated learning save the world?",
-      "excerpt": "Working with collaborators at the University of Oxford, University College London, and Avignon Université, they explored the environmental impact of a different form of training – called federated learning – and discovered that it had a significantly greener impact.",
-      "sourceUrl": null,
-      "webUrl": "https://cambridgenetwork.co.uk/news/can-federated-learning-save-world",
-      "originalUrl": "https://cambridgenetwork.co.uk/news/can-federated-learning-save-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cambridgenetwork.co.uk/sites/default/files/42271822770927eb47fe0o.jpg",
-          "width": 700,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

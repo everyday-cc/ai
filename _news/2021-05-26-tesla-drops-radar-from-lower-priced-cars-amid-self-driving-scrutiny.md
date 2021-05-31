@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-ca
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: New York Post
@@ -40,6 +40,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-40.jpg&signature=cdf62cb9ace92635c90885a2a290d49c"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Comments On Tesla’s Full Self-Driving"
+    excerpt: "Whitney Tilson's email to investors discussing the 60 Minutes segment on Steve Jobs; Ford F-150 Lightning; Tesla starts using in-car camera"
+    publishedDateTime: 2021-05-28T16:29:00Z
+    webUrl: "https://www.valuewalk.com/comments-teslas-full-self-driving/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "/UkBkh2vrrEeGxHlQWTRrZXEZAv4JN057/ATVpYpMfuZN7pWDz/jK1vDTqjw2BNkoRvFvYIl41l6TIL/tg6m9bbzu5tUfvnfjy3zTltviR4VBqR+lnhbp06zVjQD0Cs/JUtLQVBr4eBjk6pGEpJGn3apSWUKvcTJhAogVH/MDIsls9I/jKRkCw2EvsA61+hlb8pMMS4HlqeBgpFzgceeSWD7F02Xzm+0fUuO6E0hklvgNru7IDjbZv/yQsaFxPCeSBOHfJYX1q41rOYRRsqTb6uostQgf9yIoVZiz47kcTEVm1lcy5d1j8SINj9ZhOuDwItwp15NDTCo3a3lAZPTRzSTTxdZn9lYbQ7yIOpjJanu3L1Shr4Ucx04FW+/CvH7uEPdcQyWtwhJ+3oCp6NjNTba21iAMtMhDjdjR8Tj4p+/5XPB0/W52jktWPnSPX+OFNm/uAkXhpqu5GgJcoBrOFaYzjMNr0rVZrd9xcbc/lkUr4ijVySMPwuEVefC9e6v775fxMu9Urhd2uPlHoIXog==;RH//8Ao4q1ryyMEtC6DcwA=="

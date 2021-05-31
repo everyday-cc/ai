@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-19-researchers-use-hole-y-math-and-machine-learning-to-study-cellular-self-assembly.md",
+      "title": "Researchers use 'hole-y' math and machine learning to study cellular self-assembly",
+      "excerpt": "In recent years, researchers have drawn on mathematical topology to help explain a range of phenomena like phase transitions in matter, aspects of Earth's climate and even how zebrafish form their iconic stripes.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
+      "originalUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-use-hole-y.jpg",
+          "width": 1220,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
+      "publishedDateTime": "2021-05-19T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-114-milestones-in-the-history-of-artificial-intelligence-ai.md",
       "title": "114 Milestones In The History Of Artificial Intelligence (AI)",
       "excerpt": "The evolution of AI from theoretical concepts to machine logic to expert systems to machine learning to artificial neural networks and big data-based deep learning",
@@ -1396,49 +1440,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-lasers-levitation-and-machine-learning-make-better-heat-resistant-materials.md",
-      "title": "Lasers, levitation and machine learning make better heat-resistant materials",
-      "excerpt": "Scientists across several disciplines have combined forces to create a new process for testing and predicting the effects of high temperatures on refractory oxides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

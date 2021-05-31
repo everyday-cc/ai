@@ -25,77 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk updates Tesla Full Self-Driving Beta v9 timeline and FSD Subscription once again"
-    excerpt: "Elon Musk has again updated the timeline for Tesla releasing its highly-anticipated Full Self-Driving Beta v9 software update and FSD Subscription. Here’s the long history of Tesla’s FSD v9 and FSD Subscription timelines: Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a"
-    publishedDateTime: 2021-05-26T10:13:00Z
-    webUrl: "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/"
-    ampWebUrl: "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/"
+  - title: "Tesla drops radar from lower-priced cars amid ‘self-driving’ scrutiny"
+    excerpt: "Tesla said it is dropping radar systems in its lower-priced electric cars in favor of cameras and other AI equipment — even as the company faces growing scrutiny over its “autonomous"
+    publishedDateTime: 2021-05-26T14:19:00Z
+    webUrl: "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/"
+    ampWebUrl: "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 94
+      name: New York Post
+      domain: nypost.com
+    quality: 59
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/tesla-model-3-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
-  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
-    excerpt: "Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features, including"
-    publishedDateTime: 2021-05-26T13:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/tesla-modifies-self-driving-feature-in-its-electric-vehicles-2021-05-26-91974328"
+  - title: "TikTok is now tagging dangerous ‘self-driving’ videos — but it’s not enough"
+    excerpt: "TikTok is now tagging dangerous \"self-driving\" videos, but that's not enough to protect its community. Much content featuring \"driverless\" stunts still remains on the platform."
+    publishedDateTime: 2021-05-26T15:10:00Z
+    webUrl: "https://thenextweb.com/news/tiktok-is-now-tagging-dangerous-self-driving-videos-but-its-not-enough"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-40.jpg&signature=cdf62cb9ace92635c90885a2a290d49c"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Items tagged with tesla vision"
-    excerpt: "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles."
-    publishedDateTime: 2021-05-26T14:32:00Z
-    webUrl: "https://hothardware.com/tags/tesla-vision"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 41
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55210/content/tesla_model_3_news.jpg"
-        width: 708
-        height: 454
-        isCached: true
-  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
-    excerpt: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features,"
-    publishedDateTime: 2021-05-27T11:35:00Z
-    webUrl: "https://menafn.com/1102146459/Tesla-Modifies-Self-Driving-Feature-In-Its-Electric-Vehicles"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-05/26/B_76102edb-cimage_story.jpg"
-        width: 1024
-        height: 400
-        isCached: true
-  - title: "Tesla to Replace Radar in its Model 3, Model Y in the U.S. - Rolling Out ‘Pure Vision Autopilot' Using Cameras"
-    excerpt: "Electric automaker Tesla Inc said on Tuesday that it will replace a radar sensor in the Model 3 and Model Y vehicles sold in North America with a camera to better support Tesla’s latest automated driving feature called “Full Self-Driving” (FSD)."
-    publishedDateTime: 2021-05-26T15:00:00Z
-    webUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3-Model-Y-in-the-US---Rolling-Out-‘Pure-Vision-Autopilot’-Using-Cameras"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 21
-    images:
-      - url: "https://img.futurecar.com/202105/26/l_60ae639645d91.jpeg"
-        width: 800
-        height: 544
+        height: 600
         isCached: true
 
 secured: "utYGi8f6lvSnWNLNk/1VmYt62nN8D00YnT078PcakH2EeIp0S/zKJQo/h1HPERZxGtUH5TEn72n2BckANuOuTW9Vk2y+BpxXvDGfA2RIAJrOJTdG1CbBeKLDDqLjqoN2Jnd8tpSfSBfCegz7lRpLMzWfoM8Q5NQi0mPhb/iviaqWstMtmirAYnrC3//AtScWzuhAQDtPWX2n7UXf6BIIoqtrdqWj1zf4ooxxtv+fre+ekIbUDwi/wNsNrx5EOVzbDld+EOfB+a/9h+u0pDihyBJMDIzG2169eD4RcEhMIUIHHMh0LTomJvSrx9RX8hSlcqJjx2Wx5GZC4AytUW8WHHTqfYsTDe8SL75YJyWapjJDZEGO5r/z3jWibxV4kv77L3tnRvBoPpjWmWovzh2UrriPingfxcMH7xqg9L1nCVbfXBLYqKzOfcZBCm3JzayXjbKgqjLEw9lFy8mtw6xcQwOYJgXeGb97kLyESzxjmInw1o0bV44i2I7i2XFo/HSsJI7HWJGOav2Ml5nTVouLyw==;Khqc6uzFmLVkx2kiloOlZQ=="

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
+    excerpt: "Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features, including"
+    publishedDateTime: 2021-05-26T13:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/tesla-modifies-self-driving-feature-in-its-electric-vehicles-2021-05-26-91974328"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lockheed Martin And GM Planning Self-Driving Rovers For NASA's Return To The Moon"
     excerpt: "General Motors and aerospace giant Lockheed Martin are teaming up to develop new lunar vehicles that astronauts will use on NASA's upcoming missions to the Moon, the companies announced Wednesday, as the two push to join Elon Musk's SpaceX as industry partners to bring humans back to the Moon in the next few years."
     publishedDateTime: 2021-05-26T17:10:00Z
@@ -102,6 +116,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
+    excerpt: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features,"
+    publishedDateTime: 2021-05-27T11:35:00Z
+    webUrl: "https://menafn.com/1102146459/Tesla-Modifies-Self-Driving-Feature-In-Its-Electric-Vehicles"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-05/26/B_76102edb-cimage_story.jpg"
+        width: 1024
+        height: 400
+        isCached: true
   - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
     publishedDateTime: 2021-05-27T18:25:00Z
@@ -117,6 +145,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "tL5L8Yc6EzZ2NftmjS3arFkRdwRVhEfZDeVKd57iAz/EETh9z4fNeuGyc8P4puUPSxwqgwu42/TbGY9k3NHaIp7ZgY9Ly1iPId+iz0JoOenjcTFsWRHkwcEE2WBZnuk/AmdHUYPIqgokn1112zhoVMxIKL8cqjsfpwQDeMq3/LGExKkekl6W0KMQdZ52zIkLBSkDNuLkfEHZ+LNLpbVvJg2qTaDhyZBk3Wg/CtAlZJC4gPoM+rMXL6UGXBCif4W6NP4l6/iXsY6i/HffY7HIvj+hxx0g2oUuUZw5RhdIyoUpafD9B5fztRE8P7XmqqPaPhWA6VZcexWtsMbQWiW6SoMGnqPyAp2ASaw7WWbJ7uA=;FUC78oiJ32u2xfwAdXTr2w=="
+secured: "rMGIbRi65XmydLQo3PQsNmUextpShUMCRUZqQeYfdcHRhilQoZL62sneZ2LAjWL2JegLhH9CjTIWpKKu/6tUiys06J0t5xHhXDj+hx5Io6s1AIfoxSE8WU+Vw4AxvkWA50b30D6U63SB9RpyOhEz5L3Z4ywACy2NGDwS2Zih4PRfnc0YdOHa0LYRTsgs2q6FkrurbYl2kiMNqKXJW3YSyrv2HnPcR1syD3gD7jf1v6wZP7Ak5DnzMi0AJYSUgJ4hWVje+aN6nMgKDS+eRU2LgkNX8ozaAKA9QbAplwIt/smexquwkjPVUgNQ+BP/aMlp6KOTktxoLP85NZUMNPwcgYrYB/vct3jNPUwLvTLD6vhGs7+Q6DmfprmQzAf6juA1dSFHdv+eSi6JcKbMHzj65zkEqQJgDNn4Yb2ypgR+eeZf1OOG/ekOr5OekBV7TfYMN3h/4KNb1vcIcLgtk2iiTgiRXWjP+j1Rzi3Xfc/KqVJNKVZLRktb3gb8o1evfeF0TULe4XDx9Nbcr57WKo65tA==;plIoRM4wvvzRsdVVHZZUMg=="
 ---
 

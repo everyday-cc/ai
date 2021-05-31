@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Comments On Tesla’s Full Self-Driving"
+    excerpt: "Whitney Tilson's email to investors discussing the 60 Minutes segment on Steve Jobs; Ford F-150 Lightning; Tesla starts using in-car camera"
+    publishedDateTime: 2021-05-28T16:29:00Z
+    webUrl: "https://www.valuewalk.com/comments-teslas-full-self-driving/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "/dM3hwMnAZVxxbVoOSHDDJGuWnimIRqAdoMfSkfkEBVqQFMdF7JIX77lrzVDQluZeTaAWdLOUAIM2Vf7zDDU5vnDvPS49jor4NdXGfxTz6Cm5QUtCSjSHvReTA7GVf8OpQ/OLYCykZWSSuapJhCm6VfidjoObfophs/WN07+U/cxGyv0rGcxiCTRWlDx/EnEd3RUyPLJp4bZh9uUX87PrKPLzkQWijZtJ7pAdqjuanRLn2E9zs11Ea2CYiwUZOzFw2EZTjhananoK7sIupAQB81mraGC7qCpYnlxo8a7Vn7/q4vJo9dTxk0dLp87WRhl2AN3EXV/4SNfYmLW4Mlrzajw3UizqrXB6P8OY+UtDvsOiiXBo/kerU4BI+0i8uQP0X3LUI+YQdFIfbFerfFCL1eujaHA1dKiTwBJqNZEc5J+Pz+Zk+mhR3jPHVSVqzyPLMxcRTm/ANR22WQAcbkByPWpxKutELAV+S17jpMPxe/lbqCqv8DDAcSdLiM1FayaSMyZOuFAIzytC//CBzX1kQ==;WizlUfIeBeA25bDNyFT4Dw=="
 ---
