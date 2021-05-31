@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM developing self-driving, electric rover for the moon"
-    excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
-    publishedDateTime: 2021-05-27T02:09:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 44
-    images:
-      - url: "https://media.11alive.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
     publishedDateTime: 2021-05-29T00:30:00Z
@@ -84,6 +68,20 @@ related:
       - url: "https://www.snopes.com/tachyon/2021/05/Moon_Rover_66929-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Beijing's self-driving vehicle test mileage tops 3m km"
+    excerpt: "BEIJING - The safety test mileage of Beijing's self-driving vehicles has exceeded 3 million km to date, equivalent to going about 75 times around the equator. Currently, the city has 226 routes for testing self-driving vehicles,"
+    publishedDateTime: 2021-05-31T09:32:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202105/31/WS60b4ad4ea31024ad0bac29dd.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202105/31/60b4ad4ea31024adbdcb4126.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "c0M49tFYCoDSCVOzSlxRg+uToTDJ1IUgiWI7g1wIxxR0kV5m17IuAPNzcfRESshDUGbp2kj6vicEVNpeBWXfYzqJgeJIrfj+SQ16zvkHMukveYvfQ1gMdBtYiTfNDTv7ac9kStimaAQoKCo6QPGTMtwLPhzdOCo5D/5h8J3pDCfu9tuQEMYz1Nad2e2rpeBBEt/aeywI5blYyGfkYo7/jXnwrYUT66/+/Q7OalwxriuOEHti+MdfeO/ciqmnlRRCkHyRueH/xqnt9x/xqHTCPDx4cJFq4EuidwEXmXxmKpUzYSYvKZZ86KAGOaXiKETcnXiYCRWnf9QX2uDywv+Ss4eJk4MN4WAeBO+DvWjz8yk=;Cx+XTKY1IMiBKI+0oWXbyw=="

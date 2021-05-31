@@ -54,18 +54,18 @@ related:
         height: 600
         isCached: true
   - title: "New Degree in Computer Vision Launches as Artificial Intelligence Expands"
-    excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,"
-    publishedDateTime: 2021-05-27T21:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072"
+    excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the"
+    publishedDateTime: 2021-05-27T19:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-301301267.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
     images:
-      - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg"
-        width: 400
-        height: 267
+      - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg?p=facebook"
+        width: 1600
+        height: 838
         isCached: true
   - title: "6,000 GPUs: Perlmutter to Deliver 4 Exaflops, Top Spot in AI Supercomputing"
     excerpt: "The U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."

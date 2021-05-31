@@ -137,6 +137,22 @@ related:
         width: 711
         height: 400
         isCached: true
+  - title: "AI models look for shortcuts that could lead to errors in diagnosis of COVID-19"
+    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes."
+    publishedDateTime: 2021-05-31T18:29:00Z
+    webUrl: "https://www.news-medical.net/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 53
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Medical AI models rely on 'shortcuts' that could lead to misdiagnosis of COVID-19"
     excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes. From diagnosing disease, to personalizing treatment,"
     publishedDateTime: 2021-05-31T15:00:00Z
@@ -161,7 +177,7 @@ related:
     provider:
       name: gisuser.com
       domain: gisuser.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
         width: 765

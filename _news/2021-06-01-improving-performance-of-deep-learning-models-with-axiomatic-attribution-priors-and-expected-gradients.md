@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-31T17:40:00Z
 originalUrl: "https://www.nature.com/articles/s42256-021-00343-w"
 webUrl: "https://www.nature.com/articles/s42256-021-00343-w"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00343-w/MediaObjects/42256_2021_343_Fig1_HTML.png"
@@ -40,6 +41,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "ISaTSotSQVldrpKYa6scQvfbZgFGafM+odT6Np6VhuAq+zIpB7IMeglRBl67ojrhVCZc7nG1yuYTfQR7eW0zmnVn9mQb+0fxcMbfnyk8pMtbmDokzlkc4tF3J601ooGWNoiBUTEh2ZEdRdgvx3WluYphGcZX77aljWiS8H9gqh8XEAtIVVXVOPXkgJgB2TXMDemtQvXJ91jLZzpGuinqxmUt41eYBCDl+LqSX1MIRMIOX5xNtIdQ73RZ958HmsvMP6qm5DJ1AYArPOmzGionpUGQ/ov0BEZxWnlkYXOrexXsvvgaNIdajIPTEAHqkbpPC5alvv3n0NjOo/hM5s1HY3la8ZvLolCfumfO9r7q4wY=;c2IZCaIyc2pbbs2zl+v4ew=="
+secured: "zAI0tHcIkC9waDVTuJHLS4PaV7s59llOM/+sgcQR7Un3d3lT0M41fZbyV4goSmKGI75ERcBSFIqcdT5gWcw9VxZGgtDSDyVVgVTknT1jULrKRHFCu6dGJH0VN0+zM2LEHiy72KcBVGoHPiU72t1UUkggRLf1FT+q5dxfPruIyCXhoF3FX6EJkMg2jkUfYNG+tpS9cj4jrOKE1TuVhJQfa64XYrUNlQQssQhaChXDX0qWdeNJv01+JlH+JEbTHNErNk3xq0hbEPShShjtXGsW2ySgUdDv5XjRQQx3FbBrJxH29IpQdwp4aKNh4gMMf6gGGyJIBgT+qqy/VBsd1eLRXnbK5R0dcLwV8WSMrQ5lQIix12LTJpaVNL7UpOLFWFOFEqgrGnFDlb/l9Ijq7dClV3mQ3YwTDi5ZkcCzylwR1jLbJpXVoOltRZBxiXFXfgZ/FCVz4CMeLStMhyTL1byq5c6hgTqS5s1o0LReWBEWt4OuLs5pv/j0bCf3YOKgFPlbqo/vumBwaWGWUJmfVUPApw==;W8ivzbGFV3nQAD6svk0ajw=="
 ---
 

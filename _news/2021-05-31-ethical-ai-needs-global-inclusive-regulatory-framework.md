@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Ethical AI needs global & inclusive regulatory framework"
-excerpt: "The consensus in the recently concluded two-day Dialogue on Ethics of Artificial Intelligence (AI) was that plural philosophical perspectives and a global and inclusive regulatory framework could balance the risks and benefits to humanitys quest for social justice and equality."
-publishedDateTime: 2021-05-31T07:11:00Z
-originalUrl: "https://www.sify.com/news/ethical-ai-needs-global--inclusive-regulatory-framework-news-education-vf5hlEbdgdcgb.html"
-webUrl: "https://www.sify.com/news/ethical-ai-needs-global--inclusive-regulatory-framework-news-education-vf5hlEbdgdcgb.html"
+excerpt: "The consensus in the recently concluded two-day Dialogue on Ethics of Artificial Intelligence (AI) was that plural philosophical"
+publishedDateTime: 2021-05-31T09:38:00Z
+originalUrl: "https://www.glamsham.com/world/technology/ethical-ai-needs-global-inclusive-regulatory-framework"
+webUrl: "https://www.glamsham.com/world/technology/ethical-ai-needs-global-inclusive-regulatory-framework"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI Ethics
@@ -34,6 +34,6 @@ related:
         height: 266
         isCached: true
 
-secured: "3xPES/twgmtDWnNHZcFQmJR2CGFcd6Q50KXtHjUnDZk9hTH/PY0nVEMsRCunRUXU6JlN43G3AOGba0hH18BYX02b2yFvHFtzON07RP8BmTdXNZZsWnmFojJYaqJJpBaR7P5qxBNgeIF8VfswGWwhXVHSypIPvB8Fr2iHn9XbSsp0X9cPkqS8ACfOucD1myQivz47VH6ZoZo9+O+OPgSyqKddGrxOn7IQxnc7s6nAqb37J+UWTF3awCozpC+C4ZT+AKYxkwHvDgcPprl5ElC8SZxM4fCpHy8SH96q8wAhE1DjXwzVGbutjtovc6bKCtVkxjL2eYb2RUKPo+xASoqlzji+nBr+aNeXES3T0VJqJCM=;li/B1nGvM+qIKGpj/KUu2w=="
+secured: "tV3NuciXPET6+2DwZqQXIidfi6lnTQmZ8AYfHJalR5Fjgd2T49BdURgQQ/ihgqwMIBEotV7oQNkKAcDj9mRKOWcKSmmVLkXjcrzy+7GFFLAL+Pprxpqrff6MrUoXzZu3dFfEnEV6IQDc8Mjlrd1Cee1ve3XJDndqZA4xzUKdHNvHvXven30INWPQleRwK93e+UVb1vrReCgCKBBhRB18nBQ8dD0ocQXkbBBJ0IbgrRMnrlzNVNTCmJLA/di64m0IEHj3nh2MPxbBqTR8tkfKuQQnuDl4VzclIoXlyN06DojN09yH4S5LKMBbvVIogsPFNwChvqL5Dzd/M4vweDVNlqlho6wnPi6V/XSDpR1VSgc=;l+ylapW8d/C+/Phkb4B6YA=="
 ---
 

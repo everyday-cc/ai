@@ -79,19 +79,14 @@ related:
       domain: businessinsider.com
     quality: 38
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-    excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-    publishedDateTime: 2021-05-27T16:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+    excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
+    publishedDateTime: 2021-05-27T15:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "Xgb3SQTy9kQKn5OLT3DjnK42LBA06IDG3FYhqIKiscS7gK7Yt/PCTVylp2MKH+b38yOWzrC5dQj48uRjUZTT2K0GEDuv3CCgWqhDcpXIX+nskEEVyj+bc9r7hiVRp+vumOk2DugHEc/1UIo3GznyHzDKPKBjRhAGedMoj2hIBn3R6rLzRMPZZztMB0aEsVeSTswr/US9g3rUbdPDWnx3ayzx0Yz2kc/RNO0BCR3geozSysX+4Ts49cyZ39cQqLZkg3i+NGYa9G/TUmNLMHQWDcLx6jUvyJpUV3aD1/wglR/l2o5HtBuTRBvFQm/XWPmR+JoSlPfx33R6bgWb9AZK89mB8J/jK1NzBpTh73RLWPQXtPH5Ao10//xgD4EVTB8DHG6EkVXGadAAWSO9kT+kiO/Bnqol+qXY5hx0nqgtQSb8Wb0lf2NLmJrYJl6WDxcpzQugQfgBW/NmX1C1sUgq2AHBn4buQjdyrc7WgUF+Shk0DWZsuhKhfoz7jzUJBUV3k8Y1a7kxFAJVulSv3/6TEQ==;2EYE1OkBqeScAEpEfjPJ/Q=="
 ---

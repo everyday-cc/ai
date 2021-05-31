@@ -76,19 +76,14 @@ related:
       domain: businessinsider.com
     quality: 38
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-    excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-    publishedDateTime: 2021-05-27T16:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+    excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
+    publishedDateTime: 2021-05-27T15:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "3Yua7fAaeh2gTx8AJ4hvbzu0rMSlZcZs/dB49iIbawu+tfTE9l+hayP/4iNIyk1eE/5fcfcjnG9/L/KVfVCkGuD+90XKIeSjK52vLNn7j4b81QQWXGy6+LzzazJEY4GPufqWUEobeMBMgyu2W2bRaJUqTMbiDR4NaxzexC/nH/T50syAB4zzIkx6fw4aeszW1EgMZcdppwd88nIOccDNZ9msaG3CAn3/zfeC8J9bUAcm88fhctByvZ+TI7ulwNCbMkdNuh3yaQdw4u8K8WI/YY2XKc7hb8Okln1SlhgztK9g3hxG9FiRj7EL7mO+l9HBInZj0IfCSXpb3Pk4zgNnub+spNlW0QXWIsOD26+orzQZHtoZ3xHl79mcGA5qP1fZkIFatVqi2rtJhljLpMQ/a2tUud0P/DBKyeRaH3B/biad6j69QX35o+kGysL2LSN9myo2MLt4Gnjv0GdHhEZ6fr9ftblldLQF+U0SUZuMRn9rA+JQ6VtmCAjSDvbmaR6mJYw78pl7Id4OQeLfJi1aUA==;Kj0/iCMteutgEHp72O4h7w=="
 ---

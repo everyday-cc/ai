@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-publishedDateTime: 2021-05-27T16:03:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
+publishedDateTime: 2021-05-27T15:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Databricks ups AI ante with new AutoML engine and feature store"
@@ -90,6 +84,6 @@ related:
       domain: businessinsider.com
     quality: 38
 
-secured: "p4enHFFMjqmurrXgmyuUlQmYxZX91UKA/7yFFfeO9N6Tm7XJoiGZ82K9mWqpyd8NtUWUu2omInd6ry3vjCnIy5XXYgrjCkcC9oZSKlvJIAzguP98Zy+S4t3+UH3F7DV68NElkQFrkhYwYouet5RPW/Q1zNemCx4MzNWe6IupQm/eBh9oSukvxEZA47ZMaRqKZavTUy/P1/MLk7vhpQnlODU/e9m//XOVLyRq3BC1dCmlOT7EC7Ebo2IowejqNV3dfiscA4ppgTXy0QzpuaC7y/ckgyoy87WuGm0QIVKaImatXHkrSLuJYZjyOolaUPk2mznp5Ri0lk54y5yO41weiZ+KNOoZ0yZCW5ofNX4wiWw=;sIB8qJ6XVixnSi4oeCvrrQ=="
+secured: "R1OuFQggp2jfPD+f54ukae+sjZvezJpqemNiLwett3YiZgM/V8Al+fYEgVbvpzItzjWWYQHK9mLmJ1kd8WCjAq1Y5OGCOGTw3FTPolVAzJu6XpS7uCOq03q2EcdUO6ANWvA1ZAIhP3yCYN1GuS04KHr6m8hSOB6XhYyBjpYqjH4+dAe6cUU4vj/63bLf9XjguLxNpExpE7eFAZS1B6sHhqzGVaqhoQX9D6MS5/lFG3kV6ljLrbj6sYTTrErU/qir5F9wxRCmuSshJM5DELqvByA223kgI41VNK5CYdxWBYapwFo/vvGtJIa5gZVcXVfF1bzSgwN/uxT67A+TgfPSrAzRijZy5QoNLMK0/2pQg5M=;KCfUtSvsgmn0FW4cjNTyow=="
 ---
 

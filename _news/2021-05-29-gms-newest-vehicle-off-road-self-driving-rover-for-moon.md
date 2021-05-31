@@ -9,7 +9,7 @@ ampWebUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self
 cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM developing self-driving, electric rover for the moon"
-    excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
-    publishedDateTime: 2021-05-27T02:09:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 44
-    images:
-      - url: "https://media.11alive.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
     excerpt: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features,"
     publishedDateTime: 2021-05-27T11:35:00Z
@@ -84,6 +68,20 @@ related:
       - url: "https://www.snopes.com/tachyon/2021/05/Moon_Rover_66929-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Beijing's self-driving vehicle test mileage tops 3m km"
+    excerpt: "BEIJING - The safety test mileage of Beijing's self-driving vehicles has exceeded 3 million km to date, equivalent to going about 75 times around the equator. Currently, the city has 226 routes for testing self-driving vehicles,"
+    publishedDateTime: 2021-05-31T09:32:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202105/31/WS60b4ad4ea31024ad0bac29dd.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202105/31/60b4ad4ea31024adbdcb4126.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "rMGIbRi65XmydLQo3PQsNmUextpShUMCRUZqQeYfdcHRhilQoZL62sneZ2LAjWL2JegLhH9CjTIWpKKu/6tUiys06J0t5xHhXDj+hx5Io6s1AIfoxSE8WU+Vw4AxvkWA50b30D6U63SB9RpyOhEz5L3Z4ywACy2NGDwS2Zih4PRfnc0YdOHa0LYRTsgs2q6FkrurbYl2kiMNqKXJW3YSyrv2HnPcR1syD3gD7jf1v6wZP7Ak5DnzMi0AJYSUgJ4hWVje+aN6nMgKDS+eRU2LgkNX8ozaAKA9QbAplwIt/smexquwkjPVUgNQ+BP/aMlp6KOTktxoLP85NZUMNPwcgYrYB/vct3jNPUwLvTLD6vhGs7+Q6DmfprmQzAf6juA1dSFHdv+eSi6JcKbMHzj65zkEqQJgDNn4Yb2ypgR+eeZf1OOG/ekOr5OekBV7TfYMN3h/4KNb1vcIcLgtk2iiTgiRXWjP+j1Rzi3Xfc/KqVJNKVZLRktb3gb8o1evfeF0TULe4XDx9Nbcr57WKo65tA==;plIoRM4wvvzRsdVVHZZUMg=="
