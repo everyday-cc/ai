@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 47710
+        "followers": 47713
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -42,7 +42,7 @@
           "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
         }
       ],
-      "heat": 286,
+      "heat": 263,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 196802
+        "followers": 196805
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -91,13 +91,62 @@
           "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
         }
       ],
-      "heat": 248,
+      "heat": 243,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1145736912193196033/ytFWK30j_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Grammarly",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/deepl.md",
+      "title": "DeepL",
+      "excerpt": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepl/index.json",
+      "webUrl": "https://everyday.cc/ai/company/deepl/",
+      "type": "profile",
+      "name": "DeepL",
+      "overview": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
+      "website": "http://www.deepl.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/linguee"
+      },
+      "twitter": {
+        "username": "deeplcom",
+        "url": "https://twitter.com/deeplcom",
+        "followers": 10086
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Cologne, Germany"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
+        }
+      ],
+      "heat": 205,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "DeepL",
           "isCached": true
         }
       ],
@@ -123,7 +172,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 17199
+        "followers": 17201
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -143,62 +192,13 @@
           "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
         }
       ],
-      "heat": 189,
+      "heat": 202,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Algolia",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deepl.md",
-      "title": "DeepL",
-      "excerpt": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepl/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deepl/",
-      "type": "profile",
-      "name": "DeepL",
-      "overview": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "website": "http://www.deepl.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/linguee"
-      },
-      "twitter": {
-        "username": "deeplcom",
-        "url": "https://twitter.com/deeplcom",
-        "followers": 10072
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Cologne, Germany"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
-        }
-      ],
-      "heat": 105,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "DeepL",
           "isCached": true
         }
       ],
@@ -224,7 +224,7 @@
       "twitter": {
         "username": "lingochamp",
         "url": "https://twitter.com/lingochamp",
-        "followers": 598
+        "followers": 599
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2012,
@@ -241,7 +241,7 @@
           "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
         }
       ],
-      "heat": 82,
+      "heat": 98,
       "tags": [
         "Speech Recognition"
       ],
@@ -259,166 +259,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/suki.ai.md",
-      "title": "Suki",
-      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/suki.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/suki.ai/",
-      "type": "profile",
-      "name": "Suki",
-      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "website": "https://www.suki.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/SukiHQ",
-        "followers": 14481
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sukihq"
-      },
-      "twitter": {
-        "username": "SukiHQ",
-        "url": "https://www.twitter.com/SukiHQ",
-        "followers": 1610
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Suki",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/definedcrowd.md",
-      "title": "DefinedCrowd",
-      "excerpt": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/definedcrowd/index.json",
-      "webUrl": "https://everyday.cc/ai/company/definedcrowd/",
-      "type": "profile",
-      "name": "DefinedCrowd",
-      "overview": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
-      "website": "https://www.definedcrowd.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/definedcrowd/",
-        "followers": 5560
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/definedcrowd"
-      },
-      "twitter": {
-        "username": "definedcrowd",
-        "url": "https://www.twitter.com/definedcrowd",
-        "followers": 1752
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Seattle, WA",
-        "Seattle, Washington"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1308151676537274373/5z4CP4P4_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "DefinedCrowd",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_200_200/0?e=1594857600&v=beta&t=ctokgOnNLdzzaX66yPSL2x3sQUVh5Wz-B7daU1pk_-Y",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/just-ai.md",
-      "title": "Just AI",
-      "excerpt": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/just-ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/just-ai/",
-      "type": "profile",
-      "name": "Just AI",
-      "overview": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
-      "website": "http://just-ai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/just-ai-uk",
-        "followers": 106
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/just-ai"
-      },
-      "twitter": {
-        "username": "JustAIglobal",
-        "url": "https://twitter.com/JustAIglobal",
-        "followers": 1006
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "London, UK",
-        "London, England"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=u9qpsrqV5wo"
-        }
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1300462173521616896/Tr7qJwSp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Just AI",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -443,7 +283,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 8223
+        "followers": 8224
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -464,7 +304,7 @@
           "url": "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
         }
       ],
-      "heat": 64,
+      "heat": 72,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1145709250657824769/_mUNJSbF_400x400.png",
@@ -477,78 +317,141 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/semanticmachines.md",
-      "title": "Semantic Machines",
-      "excerpt": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/semanticmachines/index.json",
-      "webUrl": "https://everyday.cc/ai/company/semanticmachines/",
+      "path": "_companies/notable.md",
+      "title": "Notable",
+      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/notable/index.json",
+      "webUrl": "https://everyday.cc/ai/company/notable/",
       "type": "profile",
-      "name": "Semantic Machines",
-      "overview": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
-      "website": "http://www.semanticmachines.com",
+      "name": "Notable",
+      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "website": "http://notablehealth.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/semantic-machines/",
-        "followers": 0
+        "url": "https://www.linkedin.com/company/notablehealth/",
+        "followers": 760
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/semantic-machines"
+        "url": "https://www.crunchbase.com/organization/notable"
       },
       "twitter": {
-        "username": "semmachines",
-        "url": "https://twitter.com/semmachines",
-        "followers": 456
+        "username": "notablehealth",
+        "url": "https://twitter.com/notablehealth",
+        "followers": 271
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2017,
       "locations": [
-        "Boston and Berkeley"
+        "San Mateo, CA",
+        "San Mateo, California"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ],
+      "heat": 58,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Notable",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/reply.ai.md",
+      "title": "Reply.ai",
+      "excerpt": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/reply.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/reply.ai/",
+      "type": "profile",
+      "name": "Reply.ai",
+      "overview": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
+      "website": "https://www.reply.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/10652705",
+        "followers": 519
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/reply-ai"
+      },
+      "twitter": {
+        "username": "replydotai",
+        "url": "https://twitter.com/replydotai",
+        "followers": 1488
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
       "topics": [
         "AI",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=DxrJWSi_IWo"
+          "url": "https://www.youtube.com/watch?v=m4FgFkrL0wI"
         }
       ],
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/624298774974828544/YC-qPtib_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/878286404245221376/FGxul5AM_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Semantic Machines",
+          "title": "Reply.ai",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/soundhound.md",
-      "title": "SoundHound",
-      "excerpt": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/soundhound/index.json",
-      "webUrl": "https://everyday.cc/ai/company/soundhound/",
+      "path": "_companies/voicebox.md",
+      "title": "VoiceBox Technologies",
+      "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voicebox/index.json",
+      "webUrl": "https://everyday.cc/ai/company/voicebox/",
       "type": "profile",
-      "name": "SoundHound",
-      "overview": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
-      "website": "https://soundhound.com/",
+      "name": "VoiceBox Technologies",
+      "overview": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
+      "website": "http://www.voicebox.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/soundhound",
-        "followers": 0
+        "url": "https://www.linkedin.com/company/voicebox-technologies",
+        "followers": 1385
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/soundhound"
+        "url": "https://www.crunchbase.com/organization/voicebox-technologies"
       },
       "twitter": {
-        "username": "SoundHoundInc",
-        "url": "https://twitter.com/SoundHoundInc",
-        "followers": 554
+        "username": "VoiceBox_Tech",
+        "url": "https://twitter.com/VoiceBox_Tech",
+        "followers": 751
       },
-      "yearFounded": 0,
+      "size": "201-500 employees",
+      "yearFounded": 2001,
       "locations": [
-        "Santa Clara, CA"
+        "Bellevue, WA"
       ],
       "topics": [
         "AI",
@@ -556,19 +459,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
+          "url": "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
         }
       ],
-      "heat": 57,
-      "tags": [
-        "Speech Recognition"
-      ],
+      "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1039627434176311296/pQmtywpV_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/845362901527379968/9U43aLaV_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SoundHound",
+          "title": "VoiceBox Technologies",
           "isCached": true
         }
       ],
@@ -621,6 +521,62 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/armorblox.md",
+      "title": "Deep 6 AI",
+      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/armorblox/index.json",
+      "webUrl": "https://everyday.cc/ai/company/armorblox/",
+      "type": "profile",
+      "name": "Deep 6 AI",
+      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
+      "website": "https://www.armorblox.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/deep-6-ai/",
+        "followers": 2942
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/armorblox"
+      },
+      "twitter": {
+        "username": "armorblox",
+        "url": "https://twitter.com/armorblox",
+        "followers": 327
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Cupertino, CA",
+        "Pasadena, CA",
+        "Pasadena, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1098146632820973568/HZsk3Drw_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Deep 6 AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/asktetra.md",
       "title": "Tetra",
       "excerpt": "Delivering the benefits of self-driving technology safely, quickly, and broadly",
@@ -660,6 +616,58 @@
           "width": 400,
           "height": 400,
           "title": "Tetra",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/automatedinsights.md",
+      "title": "Automated Insights",
+      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/automatedinsights/index.json",
+      "webUrl": "https://everyday.cc/ai/company/automatedinsights/",
+      "type": "profile",
+      "name": "Automated Insights",
+      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "website": "https://automatedinsights.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2708220",
+        "followers": 3336
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/automated-insights"
+      },
+      "twitter": {
+        "username": "AInsights",
+        "url": "https://twitter.com/AInsights",
+        "followers": 4658
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "San Francisco, CA",
+        "Durham, NC"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ziizj6u1f6M"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1158846406498668545/zDApgLbP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Automated Insights",
           "isCached": true
         }
       ],
@@ -938,62 +946,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/dialogflow.md",
-      "title": "Dialogflow",
-      "excerpt": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/dialogflow/index.json",
-      "webUrl": "https://everyday.cc/ai/company/dialogflow/",
-      "type": "profile",
-      "name": "Dialogflow",
-      "otherNames": [
-        "Speaktoit",
-        "Api.ai"
-      ],
-      "overview": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
-      "website": "https://dialogflow.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/1443713/",
-        "followers": 3083
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/api-ai"
-      },
-      "twitter": {
-        "username": "Dialogflow",
-        "url": "https://twitter.com/Dialogflow",
-        "followers": 12114
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Dialogflow",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/eigentech.md",
       "title": "Eigen Technologies",
       "excerpt": "",
@@ -1020,6 +972,59 @@
         }
       ],
       "heat": 50,
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/gong.io.md",
+      "title": "Gong.io",
+      "excerpt": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gong.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gong.io/",
+      "type": "profile",
+      "name": "Gong.io",
+      "overview": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
+      "website": "https://www.gong.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gong-io/",
+        "followers": 27534
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/gong-io"
+      },
+      "twitter": {
+        "username": "gong_io",
+        "url": "https://twitter.com/gong_io",
+        "followers": 6181
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Sales"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1278341256020545541/Ynk-PJtL_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Gong.io",
+          "isCached": true
+        }
+      ],
       "content": "\r\n"
     },
     {
@@ -1157,6 +1162,61 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/lexmachina.md",
+      "title": "Lex Machina",
+      "excerpt": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lexmachina/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lexmachina/",
+      "type": "profile",
+      "name": "Lex Machina",
+      "overview": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
+      "website": "https://lexmachina.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/732353",
+        "followers": 2484
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lex-machina"
+      },
+      "twitter": {
+        "username": "lexmachina",
+        "url": "https://twitter.com/lexmachina",
+        "followers": 5326
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=6Hg_SXrumV4"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1286777045360377857/aqKDO9by_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lex Machina",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVs0DaphlwZQ/company-logo_200_200/0?e=1594857600&v=beta&t=DOQKNW1nIiylXeJvYR6Z6Y5rxBF2tzD7JIQ2Yg47g7c",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/lighttag.io.md",
       "title": "LightTag",
       "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
@@ -1200,59 +1260,52 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/notable.md",
-      "title": "Notable",
-      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/notable/index.json",
-      "webUrl": "https://everyday.cc/ai/company/notable/",
+      "path": "_companies/mapegy.md",
+      "title": "Mapegy",
+      "excerpt": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mapegy/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mapegy/",
       "type": "profile",
-      "name": "Notable",
-      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "website": "http://notablehealth.com/",
+      "name": "Mapegy",
+      "overview": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
+      "website": "https://www.mapegy.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/notablehealth/",
-        "followers": 760
+        "url": "https://www.linkedin.com/company/mapegy",
+        "followers": 302
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/notable"
+        "url": "https://www.crunchbase.com/organization/mapegy"
       },
       "twitter": {
-        "username": "notablehealth",
-        "url": "https://twitter.com/notablehealth",
-        "followers": 271
+        "username": "mapegy",
+        "url": "https://twitter.com/mapegy",
+        "followers": 281
       },
       "size": "11-50 employees",
-      "yearFounded": 2017,
+      "yearFounded": 2012,
       "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
+        "Berlin"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
-        "AI in Healthcare",
         "Natural Language Processing"
       ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=FM_2nxVEIOs"
+        }
       ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1294236247985184768/RR6qxQRZ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Notable",
+          "title": "Mapegy",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1298,58 +1351,6 @@
           "width": 400,
           "height": 400,
           "title": "Observe.AI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/reply.ai.md",
-      "title": "Reply.ai",
-      "excerpt": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/reply.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/reply.ai/",
-      "type": "profile",
-      "name": "Reply.ai",
-      "overview": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
-      "website": "https://www.reply.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/10652705",
-        "followers": 519
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reply-ai"
-      },
-      "twitter": {
-        "username": "replydotai",
-        "url": "https://twitter.com/replydotai",
-        "followers": 1488
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "New York, NY",
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=m4FgFkrL0wI"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/878286404245221376/FGxul5AM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Reply.ai",
           "isCached": true
         }
       ],
@@ -1404,26 +1405,32 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/skelterlabs.md",
-      "title": "Skelter Labs",
-      "excerpt": "Skelter Labs is an artificial intelligence technology company developing innovative core technologies with the key focus in Conversation, Speech, Vision and Context &amp; Entity Recognition. As a technology provider, Skelter Labs’ priority is to create value for businesses by making existing solutions work better with applicable AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/skelterlabs/index.json",
-      "webUrl": "https://everyday.cc/ai/company/skelterlabs/",
+      "path": "_companies/rossintelligence.md",
+      "title": "ROSS Intelligence",
+      "excerpt": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rossintelligence/index.json",
+      "webUrl": "https://everyday.cc/ai/company/rossintelligence/",
       "type": "profile",
-      "name": "Skelter Labs",
-      "overview": "Skelter Labs is an artificial intelligence technology company developing innovative core technologies with the key focus in Conversation, Speech, Vision and Context &amp; Entity Recognition. As a technology provider, Skelter Labs’ priority is to create value for businesses by making existing solutions work better with applicable AI.",
-      "website": "http://www.skelterlabs.com/",
+      "name": "ROSS Intelligence",
+      "overview": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
+      "website": "https://rossintelligence.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/skelter-labs",
-        "followers": 997
+        "url": "https://www.linkedin.com/company/5385357/",
+        "followers": 3215
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skelter-labs"
+        "url": "https://www.crunchbase.com/organization/ross-intelligence"
       },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
+      "twitter": {
+        "username": "ROSSIntel",
+        "url": "https://twitter.com/ROSSIntel",
+        "followers": 5400
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Seoul, Seoul"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -1432,14 +1439,19 @@
         "AI",
         "Natural Language Processing"
       ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
+        }
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQHIQaysQyg9GA/company-logo_200_200/0?e=1594857600&v=beta&t=rRgcPD6WmQ2-7BWZKZh0VSuHnGrPL0VYHmwUyKrFv4A",
+          "url": "https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "logo",
-          "isCached": false
+          "title": "ROSS Intelligence",
+          "isCached": true
         }
       ],
       "content": "\r\n"

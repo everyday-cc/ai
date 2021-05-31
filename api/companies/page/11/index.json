@@ -4,88 +4,81 @@
   "page": 11,
   "value": [
     {
-      "path": "_companies/fundbox.md",
-      "title": "Fundbox",
-      "excerpt": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fundbox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/fundbox/",
+      "path": "_companies/sparkcognition.md",
+      "title": "SparkCognition",
+      "excerpt": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sparkcognition/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sparkcognition/",
       "type": "profile",
-      "name": "Fundbox",
-      "overview": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
-      "website": "https://fundbox.com/",
+      "name": "SparkCognition",
+      "overview": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
+      "website": "https://www.sparkcognition.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/fundbox",
-        "followers": 10859
+        "url": "https://www.linkedin.com/company/5155679",
+        "followers": 15486
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fundbox"
+        "url": "https://www.crunchbase.com/organization/sparkcognition"
       },
       "twitter": {
-        "username": "fundbox",
-        "url": "https://twitter.com/fundbox",
-        "followers": 7897
+        "username": "SparkCognition",
+        "url": "https://twitter.com/SparkCognition",
+        "followers": 3950
       },
-      "size": "51-200 employees",
+      "size": "201-500 employees",
       "yearFounded": 2013,
       "locations": [
-        "San Francisco, CA"
+        "Austin, TX"
       ],
       "funding": {
         "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Finance"
+        "AI in Security",
+        "Machine Learning"
       ],
-      "heat": 6,
+      "heat": 3,
       "tags": [
-        "FinTech"
+        "Security"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1174382620353806336/CeEUZHwW_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1196452944943681536/z754dUZo_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Fundbox",
+          "title": "SparkCognition",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_200_200/0?e=1594857600&v=beta&t=K8TBAi1tgbJYEGm742QFrnsRuv0x-84YVtHE8bUjI9g",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/lilt.md",
-      "title": "Lilt",
-      "excerpt": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lilt/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lilt/",
+      "path": "_companies/speechmatics.md",
+      "title": "Speechmatics",
+      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/speechmatics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/speechmatics/",
       "type": "profile",
-      "name": "Lilt",
-      "overview": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
-      "website": "https://lilt.com/",
+      "name": "Speechmatics",
+      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "website": "https://www.speechmatics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/lilthq/",
-        "followers": 2681
+        "url": "https://www.linkedin.com/company/speechmatics/",
+        "followers": 2744
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lilt"
+        "url": "https://www.crunchbase.com/organization/speechmatics"
       },
       "twitter": {
-        "username": "lilthq",
-        "url": "https://twitter.com/lilthq",
-        "followers": 5743
+        "username": "Speechmatics",
+        "url": "https://twitter.com/Speechmatics",
+        "followers": 1314
       },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
+      "size": "51-200 employees",
+      "yearFounded": 2009,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Cambridge"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -94,21 +87,71 @@
         "AI",
         "Natural Language Processing"
       ],
-      "heat": 6,
+      "heat": 3,
+      "tags": [
+        "Speech Recognition"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1047884762436788224/Qw9V6EjW_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/866594840552906757/zF08GXqA_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Lilt",
+          "title": "Speechmatics",
           "isCached": true
-        },
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/voyage.auto.md",
+      "title": "Voyage",
+      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voyage.auto/index.json",
+      "webUrl": "https://everyday.cc/ai/company/voyage.auto/",
+      "type": "profile",
+      "name": "Voyage",
+      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
+      "website": "https://voyage.auto/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/18078448",
+        "followers": 4537
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/voyage"
+      },
+      "twitter": {
+        "username": "voyage",
+        "url": "https://twitter.com/voyage",
+        "followers": 10162
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGCR2u9hpuFNQ/company-logo_200_200/0?e=1594857600&v=beta&t=nS4hm-ccE5SHhkOzP7HZ5deOv04vGZON7lH6nno0j4c",
+          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
+        }
+      ],
+      "heat": 3,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "logo",
-          "isCached": false
+          "title": "Voyage",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -146,58 +189,6 @@
           "width": 400,
           "height": 400,
           "title": "6sense",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aidoc.md",
-      "title": "Aidoc",
-      "excerpt": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aidoc/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aidoc/",
-      "type": "profile",
-      "name": "Aidoc",
-      "overview": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
-      "website": "http://aidoc.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/aidoc-inc/",
-        "followers": 57
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aidoc"
-      },
-      "twitter": {
-        "username": "aidocmed",
-        "url": "https://twitter.com/aidocmed",
-        "followers": 2028
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "Los Angeles, CA",
-        "Richmond Hill, Ontario"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=r3g_VCI2B4U"
-        }
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aidoc",
           "isCached": true
         }
       ],
@@ -257,6 +248,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/aptiv.md",
+      "title": "Aptiv",
+      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aptiv/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aptiv/",
+      "type": "profile",
+      "name": "Aptiv",
+      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "website": "https://www.aptiv.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aptiv"
+      },
+      "twitter": {
+        "username": "Aptiv",
+        "url": "https://twitter.com/Aptiv",
+        "followers": 17249
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aptiv",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/chumenwenwen.md",
       "title": "Mobvoi",
       "excerpt": "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data",
@@ -283,7 +312,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 50365
+        "followers": 50362
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -337,7 +366,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 712492
+        "followers": 712463
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -364,6 +393,66 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/cleo.md",
+      "title": "Cleo",
+      "excerpt": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cleo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cleo/",
+      "type": "profile",
+      "name": "Cleo",
+      "otherNames": [
+        "Cleo AI",
+        "Cleo AI Ltd."
+      ],
+      "overview": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
+      "website": "https://www.meetcleo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cleo-ai/",
+        "followers": 3154
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cleo-ai"
+      },
+      "twitter": {
+        "username": "meet_cleo",
+        "url": "https://twitter.com/meet_cleo",
+        "followers": 16493
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "London, England"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 0,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cleo",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_200_200/0?e=1594857600&v=beta&t=dp1HbwyP3rEk4mwgXaWDQ4npbOuaDbx2Uc52t6f69xk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/conversica.md",
       "title": "Conversica",
       "excerpt": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
@@ -383,7 +472,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 12686
+        "followers": 12685
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
@@ -420,6 +509,120 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/dialogflow.md",
+      "title": "Dialogflow",
+      "excerpt": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/dialogflow/index.json",
+      "webUrl": "https://everyday.cc/ai/company/dialogflow/",
+      "type": "profile",
+      "name": "Dialogflow",
+      "otherNames": [
+        "Speaktoit",
+        "Api.ai"
+      ],
+      "overview": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "website": "https://dialogflow.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/1443713/",
+        "followers": 3083
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/api-ai"
+      },
+      "twitter": {
+        "username": "Dialogflow",
+        "url": "https://twitter.com/Dialogflow",
+        "followers": 12113
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
+        }
+      ],
+      "heat": 0,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Dialogflow",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/fdna.md",
+      "title": "FDNA",
+      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fdna/index.json",
+      "webUrl": "https://everyday.cc/ai/company/fdna/",
+      "type": "profile",
+      "name": "FDNA",
+      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "website": "https://www.fdna.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/fdna",
+        "followers": 1151
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/fdna-inc"
+      },
+      "twitter": {
+        "username": "FDNA",
+        "url": "https://twitter.com/FDNA",
+        "followers": 6395
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Boston, MA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
+        }
+      ],
+      "heat": 0,
+      "tags": [
+        "Cancer"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "FDNA",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/google.md",
       "title": "Google",
       "excerpt": "Our mission: Organize the world’s information and make it universally accessible and useful.",
@@ -439,7 +642,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1597177
+        "followers": 1597147
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -466,117 +669,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/h2o.ai.md",
-      "title": "H2O.ai",
-      "excerpt": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/h2o.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/h2o.ai/",
-      "type": "profile",
-      "name": "H2O.ai",
-      "overview": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
-      "website": "https://www.h2o.ai",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/0xdata",
-        "followers": 52786
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/h2o-2"
-      },
-      "twitter": {
-        "username": "h2oai",
-        "url": "https://twitter.com/h2oai",
-        "followers": 21742
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "tags": [
-        "Open Source"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1024818828809629699/m8X9zY2c_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "H2O.ai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHwh1xsjx_5CQ/company-logo_200_200/0?e=1587600000&v=beta&t=aRwC2WzcJ0TEw7AQmmVQn-QUJIXDFDbbGxMsi05QDoo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/invoca.md",
-      "title": "Invoca",
-      "excerpt": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/invoca/index.json",
-      "webUrl": "https://everyday.cc/ai/company/invoca/",
-      "type": "profile",
-      "name": "Invoca",
-      "overview": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
-      "website": "https://www.invoca.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/invoca-com/",
-        "followers": 8022
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/invoca"
-      },
-      "twitter": {
-        "username": "Invoca",
-        "url": "https://twitter.com/Invoca",
-        "followers": 4446
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "Santa Barbara, CA",
-        "Santa Barbara, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=NLLaC8pNKY8"
-        }
-      ],
-      "heat": 0,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1278366319570587649/41vS6lmq_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Invoca",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/irobot.md",
       "title": "iRobot",
       "excerpt": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
@@ -596,7 +688,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 40229
+        "followers": 40225
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -701,7 +793,7 @@
       "twitter": {
         "username": "kadaxis",
         "url": "https://twitter.com/kadaxis",
-        "followers": 29055
+        "followers": 29052
       },
       "size": "2-10 employees",
       "yearFounded": 2013,
@@ -791,7 +883,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9459306
+        "followers": 9459080
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -874,64 +966,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/narrativescience.md",
-      "title": "Narrative Science",
-      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrativescience/index.json",
-      "webUrl": "https://everyday.cc/ai/company/narrativescience/",
-      "type": "profile",
-      "name": "Narrative Science",
-      "overview": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
-      "website": "https://narrativescience.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/narrative-science/",
-        "followers": 6514
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative-science"
-      },
-      "twitter": {
-        "username": "narrativesci",
-        "url": "https://twitter.com/narrativesci",
-        "followers": 7247
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Chicago, IL",
-        "Chicago, Illinois"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ],
-      "heat": 0,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Narrative Science",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/persado.md",
       "title": "Persado",
       "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
@@ -951,7 +985,7 @@
       "twitter": {
         "username": "persado",
         "url": "https://www.twitter.com/persado",
-        "followers": 5207
+        "followers": 5206
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -1007,7 +1041,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 540951
+        "followers": 540930
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -1030,107 +1064,52 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/socure.md",
-      "title": "Socure",
-      "excerpt": "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/socure/index.json",
-      "webUrl": "https://everyday.cc/ai/company/socure/",
+      "path": "_companies/sophiagenetics.md",
+      "title": "Sophia Genetics",
+      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sophiagenetics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sophiagenetics/",
       "type": "profile",
-      "name": "Socure",
-      "overview": "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market.",
-      "website": "https://www.socure.com/",
+      "name": "Sophia Genetics",
+      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "website": "https://www.sophiagenetics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/socure",
-        "followers": 4096
+        "url": "https://www.linkedin.com/company/sophiagenetics/",
+        "followers": 25618
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/socure"
+        "url": "https://www.crunchbase.com/organization/sophia-genetics"
       },
       "twitter": {
-        "username": "socureme",
-        "url": "https://twitter.com/socureme",
-        "followers": 6984
+        "username": "sophiagenetics",
+        "url": "https://twitter.com/sophiagenetics",
+        "followers": 21790
       },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
+      "size": "201-500 employees",
+      "yearFounded": 2011,
       "locations": [
-        "New York, NY",
-        "New York, NY"
+        "Switzerland",
+        "Saint Sulpice"
       ],
       "funding": {
         "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Security",
-        "Machine Learning",
-        "AI in Finance"
-      ],
-      "heat": 0,
-      "tags": [
-        "FinTech",
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1204449971841449988/hfDsKUK0_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Socure",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXFhTs-POYFA/company-logo_200_200/0?e=1594857600&v=beta&t=8nQZUu_J4aQyL9WTxtza5GwWcumb2YhXPUhfWeMP91c",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/softbankrobotics.md",
-      "title": "SoftBank Robotics",
-      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/softbankrobotics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/softbankrobotics/",
-      "type": "profile",
-      "name": "SoftBank Robotics",
-      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
-      "website": "https://www.softbankrobotics.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
-        "followers": 426
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/softbank-robotics"
-      },
-      "twitter": {
-        "username": "sbreurope",
-        "url": "https://twitter.com/sbreurope",
-        "followers": 16564
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Tokyo, Tokyo"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
+          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
         }
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/733105320453668868/nKF3Esx-_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SoftBank Robotics",
+          "title": "Sophia Genetics",
           "isCached": true
         }
       ],
@@ -1156,7 +1135,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 78746
+        "followers": 78737
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
@@ -1194,7 +1173,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1051701
+        "followers": 1051660
       },
       "yearFounded": 0,
       "locations": [

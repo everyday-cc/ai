@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_companies/clearbit.md",
-      "title": "Clearbit",
-      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/clearbit/index.json",
-      "webUrl": "https://everyday.cc/ai/company/clearbit/",
-      "type": "profile",
-      "name": "Clearbit",
-      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "website": "https://www.clearbit.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clearbit"
-      },
-      "twitter": {
-        "username": "clearbit",
-        "url": "https://twitter.com/clearbit",
-        "followers": 4099
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clearbit",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/einstein.ai.md",
       "title": "Salesforce Einstein",
       "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
@@ -72,55 +34,130 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/people.ai.md",
-      "title": "people.ai",
-      "excerpt": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/people.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/people.ai/",
+      "path": "_companies/aviso.md",
+      "title": "Aviso",
+      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aviso/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aviso/",
       "type": "profile",
-      "name": "people.ai",
-      "overview": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
-      "website": "https://people.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/people.ai",
-        "followers": 5568
-      },
+      "name": "Aviso",
+      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "website": "https://www.aviso.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/people-ai"
+        "url": "https://www.crunchbase.com/organization/aviso-inc"
       },
       "twitter": {
-        "username": "ppl_ai",
-        "url": "https://twitter.com/ppl_ai",
-        "followers": 1525
+        "username": "AvisoInc",
+        "url": "https://twitter.com/AvisoInc",
+        "followers": 861
       },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Aviso",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/clearbit.md",
+      "title": "Clearbit",
+      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/clearbit/index.json",
+      "webUrl": "https://everyday.cc/ai/company/clearbit/",
+      "type": "profile",
+      "name": "Clearbit",
+      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
+      "website": "https://www.clearbit.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/clearbit"
+      },
+      "twitter": {
+        "username": "clearbit",
+        "url": "https://twitter.com/clearbit",
+        "followers": 4098
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Clearbit",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/gong.io.md",
+      "title": "Gong.io",
+      "excerpt": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gong.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gong.io/",
+      "type": "profile",
+      "name": "Gong.io",
+      "overview": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
+      "website": "https://www.gong.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gong-io/",
+        "followers": 27534
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/gong-io"
+      },
+      "twitter": {
+        "username": "gong_io",
+        "url": "https://twitter.com/gong_io",
+        "followers": 6181
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2015,
       "locations": [
         "San Francisco, CA",
         "San Francisco, California"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
+        "Natural Language Processing",
         "AI in Sales"
       ],
-      "heat": 64,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
+        }
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1278341256020545541/Ynk-PJtL_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "people.ai",
+          "title": "Gong.io",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -205,7 +242,7 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 42,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1362805529077252097/6FpjDO2k_400x400.png",
@@ -218,92 +255,55 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/gong.io.md",
-      "title": "Gong.io",
-      "excerpt": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gong.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gong.io/",
+      "path": "_companies/people.ai.md",
+      "title": "people.ai",
+      "excerpt": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/people.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/people.ai/",
       "type": "profile",
-      "name": "Gong.io",
-      "overview": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
-      "website": "https://www.gong.io/",
+      "name": "people.ai",
+      "overview": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "website": "https://people.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/gong-io/",
-        "followers": 27534
+        "url": "https://www.linkedin.com/company/people.ai",
+        "followers": 5568
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gong-io"
+        "url": "https://www.crunchbase.com/organization/people-ai"
       },
       "twitter": {
-        "username": "gong_io",
-        "url": "https://twitter.com/gong_io",
-        "followers": 6181
+        "username": "ppl_ai",
+        "url": "https://twitter.com/ppl_ai",
+        "followers": 1525
       },
-      "size": "201-500 employees",
-      "yearFounded": 2015,
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
         "San Francisco, CA",
         "San Francisco, California"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Sales"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
-        }
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1278341256020545541/Ynk-PJtL_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Gong.io",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aviso.md",
-      "title": "Aviso",
-      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aviso/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aviso/",
-      "type": "profile",
-      "name": "Aviso",
-      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "website": "https://www.aviso.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aviso-inc"
-      },
-      "twitter": {
-        "username": "AvisoInc",
-        "url": "https://twitter.com/AvisoInc",
-        "followers": 861
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
       "topics": [
         "AI",
         "AI in Sales"
       ],
-      "heat": 32,
+      "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Aviso",
+          "title": "people.ai",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -324,7 +324,7 @@
       "twitter": {
         "username": "chorus_ai",
         "url": "https://twitter.com/chorus_ai",
-        "followers": 6813
+        "followers": 6812
       },
       "yearFounded": 0,
       "locations": [
@@ -334,7 +334,7 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 32,
+      "heat": 3,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
@@ -366,7 +366,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 12686
+        "followers": 12685
       },
       "size": "201-500 employees",
       "yearFounded": 2007,

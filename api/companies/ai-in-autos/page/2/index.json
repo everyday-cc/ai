@@ -4,31 +4,31 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/ekar.ae.md",
-      "title": "Ekar",
-      "excerpt": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ekar.ae/index.json",
-      "webUrl": "https://everyday.cc/ai/company/ekar.ae/",
+      "path": "_companies/five.ai.md",
+      "title": "FiveAI",
+      "excerpt": "FiveAI is developing the software to power shared, self-driving vehicle services in Europe.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/five.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/five.ai/",
       "type": "profile",
-      "name": "Ekar",
-      "overview": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
-      "website": "https://ekar.ae/",
+      "name": "FiveAI",
+      "overview": "FiveAI is developing the software to power shared, self-driving vehicle services in Europe.",
+      "website": "https://five.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/ekar/",
-        "followers": 6324
+        "url": "https://www.linkedin.com/company/five-ai/",
+        "followers": 5412
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ekar"
+        "url": "https://www.crunchbase.com/organization/fiveai"
       },
       "twitter": {
-        "username": "MyEKar",
-        "url": "https://twitter.com/MyEKar",
-        "followers": 792
+        "username": "_FiveAI",
+        "url": "https://twitter.com/_FiveAI",
+        "followers": 3713
       },
-      "size": "11-50 employees",
+      "size": "51-200 employees",
       "yearFounded": 2015,
       "locations": [
-        "Dubai, Dubai"
+        "Cambridge, Cambridgeshire"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -37,47 +37,162 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 42,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Kza6RQ3vWT0"
+        }
+      ],
+      "heat": 31,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1147039057060515840/rYnzOJXT_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1333189310779187200/9t6wXFdu_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Ekar",
+          "title": "FiveAI",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/wayve.ai.md",
-      "title": "Wayve",
-      "excerpt": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wayve.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/wayve.ai/",
+      "path": "_companies/neurala.md",
+      "title": "Neurala",
+      "excerpt": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/neurala/index.json",
+      "webUrl": "https://everyday.cc/ai/company/neurala/",
       "type": "profile",
-      "name": "Wayve",
-      "overview": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
-      "website": "https://wayve.ai/",
+      "name": "Neurala",
+      "overview": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "website": "https://www.neurala.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/wayve-technologies/",
-        "followers": 1777
+        "url": "https://www.linkedin.com/company/neurala/",
+        "followers": 3462
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/wayve-9739"
+        "url": "https://www.crunchbase.com/organization/neurala"
       },
       "twitter": {
-        "username": "wayve_ai",
-        "url": "https://twitter.com/wayve_ai",
-        "followers": 2412
+        "username": "neurala",
+        "url": "https://twitter.com/neurala",
+        "followers": 2063
       },
       "size": "11-50 employees",
+      "yearFounded": 2006,
+      "locations": [
+        "Boston, MA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-bQYzR5kARM"
+        }
+      ],
+      "heat": 31,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1295751627484405762/7zWWPBD2_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Neurala",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHj-t_lzUSj7Q/company-logo_200_200/0?e=1594857600&v=beta&t=ATn4G31yQyk8l6qSKWyCAxsEEgo41rJgaQB9gd2ioEU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/drive.ai.md",
+      "title": "Drive.ai",
+      "excerpt": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/drive.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/drive.ai/",
+      "type": "profile",
+      "name": "Drive.ai",
+      "overview": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
+      "website": "https://www.drive.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/drive.ai/",
+        "followers": 10509
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/drive-ai"
+      },
+      "twitter": {
+        "username": "driveai_",
+        "url": "https://twitter.com/driveai_",
+        "followers": 9053
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=YJe8ELIU7_E"
+        }
+      ],
+      "heat": 18,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/770501816685441024/X-rJxsyj_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Drive.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/voyage.auto.md",
+      "title": "Voyage",
+      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voyage.auto/index.json",
+      "webUrl": "https://everyday.cc/ai/company/voyage.auto/",
+      "type": "profile",
+      "name": "Voyage",
+      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
+      "website": "https://voyage.auto/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/18078448",
+        "followers": 4537
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/voyage"
+      },
+      "twitter": {
+        "username": "voyage",
+        "url": "https://twitter.com/voyage",
+        "followers": 10162
+      },
+      "size": "51-200 employees",
       "yearFounded": 2017,
       "locations": [
-        "Cambridge, United Kingdom"
+        "Palo Alto, CA"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -86,138 +201,22 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 42,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
+        }
+      ],
+      "heat": 3,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/969232018109292544/nRtAcIv0_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Wayve",
+          "title": "Voyage",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYCX2Cqc8QVA/company-logo_200_200/0?e=1594857600&v=beta&t=dM19s3wgkc5aaj2Llif0yHl9BJiizO8R1Zb-0z51yu8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nauto.md",
-      "title": "Nauto",
-      "excerpt": "NautoⓇ is the only AI-powered, driver behavior learning platform to predict and reduce high-risk events in the mobility ecosystem. By analyzing billions of data points from over 400 million AI-processed video miles, Nauto’s machine learning algorithms continuously improve and impact driver behavior before events happen, not after. Nauto has enabled the largest commercial fleets in the world to avoid more than 250,000 collisions, resulting in nearly $1 billion in savings and over 5,000 lives saved.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nauto/index.json",
-      "webUrl": "https://everyday.cc/ai/company/nauto/",
-      "type": "profile",
-      "name": "Nauto",
-      "overview": "NautoⓇ is the only AI-powered, driver behavior learning platform to predict and reduce high-risk events in the mobility ecosystem. By analyzing billions of data points from over 400 million AI-processed video miles, Nauto’s machine learning algorithms continuously improve and impact driver behavior before events happen, not after. Nauto has enabled the largest commercial fleets in the world to avoid more than 250,000 collisions, resulting in nearly $1 billion in savings and over 5,000 lives saved.",
-      "website": "https://www.nauto.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nauto/",
-        "followers": 6785
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nauto-inc"
-      },
-      "twitter": {
-        "username": "NautoInc",
-        "url": "https://twitter.com/NautoInc",
-        "followers": 3573
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Palo Alto, CA",
-        "Palo Alto, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 32,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1288578079690903552/Os2VKD7G_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nauto",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGkusLVnmhocA/company-logo_200_200/0?e=1594857600&v=beta&t=QJ_2CuOCH0MD-dcZDjaZGOtr7vwIpeSoVxgIOq-3ZPM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/mighty.ai.md",
-      "title": "Mighty AI",
-      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mighty.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/mighty.ai/",
-      "type": "profile",
-      "name": "Mighty AI",
-      "otherNames": [
-        "Spare5"
-      ],
-      "overview": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
-      "website": "https://mighty.ai",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/mightyai/",
-        "followers": 2029
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/spare5"
-      },
-      "twitter": {
-        "username": "mighty_ai",
-        "url": "https://twitter.com/mighty_ai",
-        "followers": 1760
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Seattle, WA",
-        "Seattle, Washington"
-      ],
-      "funding": {
-        "status": "M&A"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 20,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1029849217693405184/RWvJ3wHK_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mighty AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH121p9MTqZzg/company-logo_200_200/0?e=1594857600&v=beta&t=9Yc5quyJcAQ8vkvPIXlhOD1hIs3qUHyXygadAO8rC9E",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -248,7 +247,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 6,
+      "heat": 0,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
@@ -276,7 +275,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1051701
+        "followers": 1051660
       },
       "yearFounded": 0,
       "locations": [
