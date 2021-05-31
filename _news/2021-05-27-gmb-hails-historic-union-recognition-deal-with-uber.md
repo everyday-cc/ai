@@ -41,20 +41,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Uber signs 'groundbreaking' recognition deal with UK's GMB union"
-    excerpt: "A groundbreaking union recognition deal has been announced by ride-hailing giant Uber Technologies Inc, with predictions that it is the first step to a \"fairer working life\" for millions of people. Under the collective bargaining agreement,"
-    publishedDateTime: 2021-05-26T21:00:00Z
-    webUrl: "https://www.lse.co.uk/news/uber-signs-groundbreaking-recognition-deal-with-uks-gmb-union-hy8quhp2vhqu221.html"
-    type: article
-    provider:
-      name: London South East
-      domain: lse.co.uk
-    quality: 24
-    images:
-      - url: "https://static.lse.co.uk/images/articles/cover-images/paul-baay-touchstone-exploration-presidentceo-gives-in-depth-update-on-trinidad-operations.PNG"
-        width: 450
-        height: 220
-        isCached: true
 
 secured: "sKuy6jtsAmY6M1VGwUpX6wVA7dvjnl9PMI3xum2HTioSuObgPvzAuOXX+4SIHATriG0CEdMoHKrGtKLYuugVveHtI4Uh+3JEiQihRSdeUo7oQnWoXrUDJ7Xa/a9/0Yt0xfH1I2VyoNbDJ46kjWSrs9SHjin87i9rPbHofOzEEYzPGuLE4YOuZo/NS9WkPzUWdxXOxrWSjKzQ4hHJJ4trjskO8smHlEX5AewytqxcPPdJHT96kT38Opb5YFJ1q78/i6dzwxkHUoa7NvVVQQ5T0q/+kFPlPoqMpCol+ZWLFbDf647jOmiwWj+0jZJBzrklQPSfcqmIgqJRLScuGchRBfYrjzQNvP3ho9SN11MbD1w=;tAnMSfKiQasnhD0s1PGPZg=="
 ---

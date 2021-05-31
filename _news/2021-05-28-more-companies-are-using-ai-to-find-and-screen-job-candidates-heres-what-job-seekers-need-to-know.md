@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/artificial-intelligence-ai-hiring-
 webUrl: "https://www.businessinsider.com/artificial-intelligence-ai-hiring-interview-bias-ibm-hirevue-2021-5"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Why online food delivery companies are betting big on AI and ML"
+    excerpt: "Food delivery companies are exploring new ways to improve customer retention rates and product quality using artificial intelligence and machine learning."
+    publishedDateTime: 2021-05-31T07:50:00Z
+    webUrl: "https://techhq.com/2021/05/why-online-food-delivery-companies-are-betting-big-on-ai-and-ml/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_1D50J2-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
 
 secured: "sX8Fj70A4BSNyM1giIiDQnX0RYW1TkRSEE9VIVI60975ym78I7Z353d/58GfwD3109a+sQXAWWWWXJq+i46eVdHADueQe8iTpfROd25ukZ8s9dtu20Q4T8a0BVe2LfDFERkCy/ZHG5/QLPPVH2qNmVLv2Nnx9NoTDG7PM4+eRyes/Mx4o9KtVQFInTsWVma9Mk18lN8+D5jRplGt6hvoYmsANglu1wnfpbAUhr90oup98X5OtTSms1vM1X3kUC1IMIQ1PY34MJyXwqf/5d5pTWVmXQDoWnu+DlmZfXmn76nvKX+waNoss4fDnOEUdGtuRUlo/MFTTKYZlQCC54RCMjOXZpN//VFdMvSRI3uZVEYnE+hYeZKHQYekM8nQfNbYOEHqaSHuQGSoxQNs1k4FRB9jyZ3rKIzKpecXsM27MLmvRwKGYercYovvBN+pXU3MdLlEtZKsd41nFB+5TvfJFEd+UjGnO53YfgZflHD45O70UqxRkPcAsb3Pk4Q8fm6JM1xx6J+HNRDo6p7mJ3NGVA==;D7AMyYjgI3slPsyemsTSew=="
 ---

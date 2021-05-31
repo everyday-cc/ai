@@ -53,22 +53,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
-    excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"
-    publishedDateTime: 2021-05-26T20:50:00Z
-    webUrl: "https://futurism.com/general-motors-lockheed-martin-lunar-rover"
-    ampWebUrl: "https://futurism.com/general-motors-lockheed-martin-lunar-rover/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/general-motors-lockheed-martin-lunar-rover/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 41
-    images:
-      - url: "https://wp-assets.futurism.com/2021/05/general-motors-lockheed-martin-lunar-rover-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
     excerpt: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features,"
     publishedDateTime: 2021-05-27T11:35:00Z
@@ -96,20 +80,6 @@ related:
       - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210527/ARTICLE/305279939/AR/0/AR-305279939.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "GM’s newest vehicle: Off-road, self-driving rover for the moon"
-    excerpt: "The automaker is teaming up with Lockheed Martin to produce light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts in the early 1970s."
-    publishedDateTime: 2021-05-26T20:45:00Z
-    webUrl: "https://www.pressherald.com/2021/05/26/gms-newest-vehicle-off-road-self-driving-rover-for-the-moon/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 24
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/05/Moon_Rover_66929.jpg"
-        width: 1000
-        height: 562
         isCached: true
   - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."

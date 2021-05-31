@@ -40,20 +40,6 @@ related:
         width: 610
         height: 335
         isCached: true
-  - title: "Imprivata Unveils Mobile Facial Recognition Solution"
-    excerpt: "Developed in partnership with established facial recognition providers, this first-to-market healthcare mobile facial recognition solution will help healthcare organizations improve security and compliance,"
-    publishedDateTime: 2021-05-26T20:50:00Z
-    webUrl: "https://www.darkreading.com/endpoint/imprivata-unveils-mobile-facial-recognition-solution/d/d-id/1341149"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://img.deusm.com/darkreading/DR_toon_may2021.jpg"
-        width: 900
-        height: 542
-        isCached: true
   - title: "Imprivata launches face biometrics for healthcare through Aware and Idemia partnership"
     excerpt: "Imprivata is bringing facial recognition to the healthcare industry through a new biometrics partnership with Aware and Idemia."
     publishedDateTime: 2021-05-27T17:14:00Z

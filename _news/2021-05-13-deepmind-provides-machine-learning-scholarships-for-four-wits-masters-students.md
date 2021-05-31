@@ -1,51 +1,29 @@
 ---
 category: news
 title: "DeepMind provides machine learning scholarships for four Wits Master's students"
-excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
-publishedDateTime: 2021-05-13T08:30:00Z
-originalUrl: "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13/rep_id:4136"
-webUrl: "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13/rep_id:4136"
+excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees ..."
+publishedDateTime: 2021-05-13T07:42:00Z
+originalUrl: "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13"
+webUrl: "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13"
 ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581"
 cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581"
 type: article
-quality: 52
-heat: 72
-published: true
 
 provider:
   name: Engineering News
   domain: engineeringnews.co.za
 
 topics:
-  - Machine Learning
-  - AI
   - Google AI
+  - AI
+  - Machine Learning
 
-related:
-  - title: "DeepMind Releases Algorithm To Create Mind-Blowing Paintings Just From Text"
-    excerpt: "Like GANs, our work can be seen as artistic appropriation because it invents nothing new in terms of mapping from language to image."
-    publishedDateTime: 2021-05-13T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-releases-algorithm-to-create-mind-blowing-paintings-just-from-text/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 52
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-35.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "DeepMind provides machine learnings scholarships for four Wits Master's students"
-    excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
-    publishedDateTime: 2021-05-13T07:40:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learnings-scholarships-for-four-wits-masters-students-2021-05-13"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 14
+images:
+  - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
+    width: 1022
+    height: 575
+    isCached: true
 
-secured: "pZmgJeGNYJ++zIUYE/FQ7r3UDIdoUhYxg33Ad+vHUcnuNFBrWme8d3yRE2UBH0mDh64tj8l63c/IkyQerusXc/i/58yZkYyJqYOB4sgSv9ynQlt+guZMcGEqLAdRYhvdspG30kbgC/SMEARPgLfaiWqTpU2ai1hcGSS8+TqSuMOVH6ug5LOvMIkBFEAu+uPwc4hKuP/rQJJ44IycRLATvHiDokVpojfD0/RBTVAitReaG1FGZizoVBXhQul63SMVeMsp7sISL19ZIrp3MDbjWLg9ZgehAm7QJ+GI9FNRn1z2/elTJ2VTS3FgbQ7W9gv007PFpZSWWTzuVUVcakSwLxF2mha59inyEIkm5YAP6VM=;2APA0hKqC3Qp1cdIq8rBrA=="
+secured: "iuI9uvJ4MQr4ebAZ8a17vmPZl4tRNwcjjRYyYWOt2J3XEPmwpezrvsVRylwRAc/ZDrZQpJMT8ugd5KQZin13svLazGWliGSSYPcw1trItypXvEM6Ew9RqEIhleRIYbENPqqIS09dPYX9t1uVi8KgpURQ24lLWWOj31k5fzgWMYJ4eqqZZcA/k76AAuGhJM5rD9m1pGtD7M+raxXgREENjMuky1KAUZW8lFt5N4dcBUlHHavyjkI9yyTGjlOFa8v0IvRMC5/bnkd+QDl30HsVbTucQgRiGqGX9psxAU0ZL6SI9gWOhkSDSDhaNkSvLi+5/VgQk+EDa23Y6OblSTWFHEC6lDTQU1tBWKM9PZ41INE=;XDQmo9AtO2fi2LHNuENQVw=="
 ---
 

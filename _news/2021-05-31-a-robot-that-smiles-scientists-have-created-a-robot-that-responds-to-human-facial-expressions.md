@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions/amp/"
 type: article
 quality: 79
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,6 +32,33 @@ images:
     isCached: true
 
 related:
+  - title: "Engineers use AI to create a robot that can smile back"
+    excerpt: "At some point in the future, engineers foresee a time when robots are a normal part of everyday life, providing care for children and the elderly and providing labor. For humans, facial"
+    publishedDateTime: 2021-05-31T13:21:00Z
+    webUrl: "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/"
+    ampWebUrl: "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/05/eva-robot.jpg"
+        width: 1280
+        height: 608
+        isCached: true
+  - title: "Make Artificial Intelligence Real"
+    excerpt: "The global datasphere is growing exponentially, and predicted to reach 175ZB by 2025. AI has the power to help organizations make"
+    publishedDateTime: 2021-05-28T15:45:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/make-artificial-intelligence-real/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/make-artificial-intelligence-real/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/make-artificial-intelligence-real/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
   - title: "Researchers create robot that smiles back"
     excerpt: "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,"
     publishedDateTime: 2021-05-27T19:02:00Z

@@ -54,20 +54,6 @@ related:
         width: 610
         height: 335
         isCached: true
-  - title: "Imprivata Unveils Mobile Facial Recognition Solution"
-    excerpt: "Developed in partnership with established facial recognition providers, this first-to-market healthcare mobile facial recognition solution will help healthcare organizations improve security and compliance,"
-    publishedDateTime: 2021-05-26T20:50:00Z
-    webUrl: "https://www.darkreading.com/endpoint/imprivata-unveils-mobile-facial-recognition-solution/d/d-id/1341149"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://img.deusm.com/darkreading/DR_toon_may2021.jpg"
-        width: 900
-        height: 542
-        isCached: true
 
 secured: "tmnFey8Q3dGpbYlIzUsPG/bHNMmnm+XsPCy5rSON5A3tz90KnEefYsoN+Xj4ojszpeBZ+hSiAZxxNy6XjFEM7dDFFuV4xwaQoIP+hAqYgs6GU/wdvPA6UdEx1U8vf2oakDh6QFWiHvoK37NCm2BOQEgnvFVzrhqQjsW8Zdxb67NJh4rma/2WopzMLnIMymXE9eO3+NwOk8nJskaVZEdgG0Pjmds9/6U9hN6RIBSCC778zbcQjzXZfcQFgtEZsm3EoNqh4jIyJ9oniTOrMtmVj5WSGnHfkftaHv91ra5w4QD0alA1/ZWiurdNH314ZO/SrrKgSOrJWn0SOv4RNLS9Kutb3Jp2TNNTFf+f/IhTGO4=;JpXoQFrftMhd7HKCoE5U1A=="
 ---
