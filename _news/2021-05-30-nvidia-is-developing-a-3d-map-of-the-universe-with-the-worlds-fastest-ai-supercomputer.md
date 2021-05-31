@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercompu
 cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s Next Major Wave Of AI Revenues"
-    excerpt: "It is a good thing for Nvidia that most of the hyperscalers in the world – or at least the ones that matter – also have substantial public cloud"
-    publishedDateTime: 2021-05-27T03:15:00Z
-    webUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/"
-    ampWebUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg"
-        width: 937
-        height: 592
-        isCached: true
   - title: "How Nvidia plans to own the data center with AI"
     excerpt: "Nvidia Corp. wants to transform enterprise computing completely by making data centers run 10 times faster at one-10th the cost. Nvidia Chief Executive Jensen Huang (pictured) is crafting a strategy to re-architect today’s on-premises data centers,"
     publishedDateTime: 2021-05-29T18:37:00Z

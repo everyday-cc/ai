@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s Next Major Wave Of AI Revenues"
-    excerpt: "It is a good thing for Nvidia that most of the hyperscalers in the world – or at least the ones that matter – also have substantial public cloud"
-    publishedDateTime: 2021-05-27T03:15:00Z
-    webUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/"
-    ampWebUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg"
-        width: 937
-        height: 592
-        isCached: true
   - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
     excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."
     publishedDateTime: 2021-05-30T12:50:00Z

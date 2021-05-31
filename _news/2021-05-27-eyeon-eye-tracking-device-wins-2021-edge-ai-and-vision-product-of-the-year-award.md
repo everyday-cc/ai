@@ -20,16 +20,14 @@ topics:
 
 related:
   - title: "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit"
-    excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The"
-    publishedDateTime: 2021-05-28T16:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21342638"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21342638"
+    excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition showcases the best new ventures developing visual AI and computer vision products."
+    publishedDateTime: 2021-05-28T16:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "eU2Cb1QbenKqZmz25n73s6Bpu5V2EGDieWGCmD8tUgF8oom2vg7AaGsL3ooyFh4B0iY4ctpiF2ekr/Zki6ozcxMa4k9nY7k4f+EJWHnmW/kZ/9VGhd9WoFCYqpklBZrc+uFKu30Em2pIWpJhYrxYhwwdXyX95Br0997s706nQfrl3GO7Av8NA9YTpu2MiZ/tay2Ks3hyLkQqFeomihFlgD9wlzZYU/7t8PBsRoJUYhofQBq4rxJw69vS9td/pdxO0cHdeaSZcakYFaW/KM+M9U4PPi6vhdYyaAaAm9F+NtzfkqiUuz+DoCtNNdTOcpx4mRHEkM+BO2ELonntWh+2XMkvK9PUPlQ/fqI2BKhABs0=;H2zjMSu5a1ZKgr6JzQPnMw=="
 ---

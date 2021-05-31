@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 400
         isCached: true
-  - title: "GM joins effort to build self-driving moon rover"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles ̵"
-    publishedDateTime: 2021-05-27T04:00:00Z
-    webUrl: "https://www.journalgazette.net/news/science/20210527/gm-joins-effort-to-build-self-driving-moon-rover"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 24
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210527/ARTICLE/305279939/AR/0/AR-305279939.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
     publishedDateTime: 2021-05-27T18:25:00Z
@@ -84,6 +70,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "9abDgD1U64jVxW7rzE+Qk0Ay+IfG+mI26WJkMKw1yc4+JRH7FwzOPof6PMMl6Gyd7aw6v6AZgax9Ufx0XgKG+5l5p2q6hETkzKPuAq9hkANCv+GmPZjh2pzRCbFEZqeaJOiZMqtgRubaQ6/wz34t61Kd3g5KbvfwutSmt1g+0b2cPjSlJi0Ft4+XCFdWOY+xoRRbjwiJp+XsIaHy97Qewi80qvZc6LDuGPp0D7xW66yNOKo7uUaE8XGv8+pRdyKOadodVMPpYbtfG+grJ+MmDlY0tD+ULQ5+b3H/R8f7orwtlnyI6q3DnlE7Q/+aq7nW2K7vknRU5SVZOHx/936J7vMO0JJrz8lwMMCrA7VqIbc=;MLTDomJzqVw8cR38iEN5vw=="
+secured: "lx25CrV5RySArsUzIx1Rbnp5Y6I1cOldNZNkwRnM47CXUb+TA9PktBlVUybaA75MzdTk9Juf+BfXr4xCX+59piwKrReos3uKoLuOYU++vMcc9/nzI1fYEIFCWGToOiQ6wF84FXoMoBs2RVUH1WTp3hcnwss5+qYsxNAIYy+vujUWrypv4wdfpaUmujTSwReHXKar5GDCQpABtOJQXQZ0k0iPn3T3xfgr1V0Awz/9auV8j7b3HQhoPw9wiv0hOuQM45qV8XFh+FmNbJEpR0aJP3omyFE0doxunW9eZBk6oab1+QTwv90qIZq/d3H6AlPZ8V+lvc+M6Dhd9+HNGqajlKFLlfdgpVrt4kszRi70nCTEWNhRtI3XxVQqb9EnAqKnsNLANG2d3IqcqdiArnm1bzgdl4eKQCgclS8jT5RkO5j3JzzOcopoe1Ky+AH5Fa94FuGIEkuVFRJK/pnKTefe0Yhd82QPBJH2e88uRDZnYxUGgQ+FDQC9WJAlP67S8jlRjNGKVPvWeOeDXraR9CGSJQ==;ikg33sM1XBE5pl9evJ69Kw=="
 ---
 

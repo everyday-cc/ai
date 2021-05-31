@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-w
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "A Killer Robot Has Hunted Down A Target Without Being Instructed To"
+    excerpt: "Advertisement If there’s one thing that shouldn’t be autonomous in this day and age, it’s weaponized drones. There’s just so much that can go wrong there. Artificial Intelligence works most of the time but it isn’t reliable especially in critical situations like these."
+    publishedDateTime: 2021-05-31T20:14:00Z
+    webUrl: "https://wonderfulengineering.com/a-killer-robot-has-hunted-down-a-target-without-being-instructed-to/"
+    ampWebUrl: "https://wonderfulengineering.com/a-killer-robot-has-hunted-down-a-target-without-being-instructed-to/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/a-killer-robot-has-hunted-down-a-target-without-being-instructed-to/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 59
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/05/weaponized-drone-in-fully-autonomous-mode-hunts-down-and-engages-human-target-162275_1.jpg"
+        width: 1080
+        height: 594
+        isCached: true
 
 secured: "bmyrWko6oylt2kj6X+mQVJ74ts677cu84vWKclXgPRJ/U965Tdd1SG2qqnwJw9nB9L1kPDgJS1jfQ1a06owyvxGe2t1+1g3uA2m+7HALNj2kew2bGD4kDruQ0c21d0aCY4NvdxyI9CpYOXuR60FPzk91REQEXZ0RVHp2OVN3mFjWlwDhsY3uwr0+pqqNE/fXUkoJPQZj0QpCA58gEvbThnEUbvNzRXbzecAS1nh/U20/VDR5w+IuSBGZyG+ZQXNZUPZYYYwOcz5ZygRNHFT1yhmM+BYNOTsyMCH4jqB1yT/jX/3WqQC0LrvC6ApYb7qqCk3WS6eOfMydCrOpipLYx40Vp/4ZbR2aUrwu5nFu9Hf47yUJCqeh4O7ViulOTRC8gZH9z00r6sm9Pg/FPPp/mU1tgfwvJNqYfvF/Ht3tiq/fVyOSUvyQ+CkTM8gH0RDXWMyIoAJCJNFDfnFthqXP0xsnNWp375rt277Xbj2z9BsfuuNwqRouIbwn5To881EWANERaj0D0gLSluKrHCDFlw==;A/L6PPsVtvtSTk4b9H3AxQ=="
 ---

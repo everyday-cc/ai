@@ -1,20 +1,18 @@
 ---
 category: news
 title: "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit"
-excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The"
-publishedDateTime: 2021-05-28T16:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21342638"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21342638"
+excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition showcases the best new ventures developing visual AI and computer vision products."
+publishedDateTime: 2021-05-28T16:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
 type: article
-quality: 14
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -31,6 +29,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "Fe0gk8/VAYGx24hAjc1TFh+7ddRxa59Z3eHR6mbrILAseRJSmhRHcjSoBO99lLGhL+F4rTJXfF561USPv5QG6niZTPbK9OcCf9SbEp3vPZK8Bri6Swcibdei5x1Q62GfRXO+cWtns9gDui5wUuiMr42R55MakSBTsqU+GwoL03+hqcTCwdKgnlIhKW+OsKZ/dp3TJEqStygK2vN51QE4Dj3UGof75IjIDFGvGE4fYct6qjOLeDf1zr1qtXvjop/0fwH0JbnYlpxGhRd7+1uwwGkQNZrZn45LmAGr6EbbEzLJguDrDcoYUKClW+b6//gRgnnD0xbyUKAa1Xh6+QU47WzN6GLx9TSTZ5498GOzAVw=;IPXg/hDvDyTK30YKaAniyQ=="
+secured: "0YejAHh5/ff0hPvWeYW+J++WIXX+7czu/qGp+SVowM0XWkv/DNdnqqnAddxbSAiDextIpWYF7JaUnVXvVTjOHreV2DLHRH+cix7XJ8NBAMQgDLD6p1yysyLcAmGOo8k2JQMEEXYsiZIMy2D6FG12+r6Ap5RY8lLJaBTUeKPOhOANbhms2irwehJYMsp9iWKOJxQd6A1p0vpI0d/D7kGzP1gULg2YHiycFogSH6R7jEpEC8lg377NVAN7b/Opvem2hgf+ARssPg8a5zS4BjC9cRP/BJIBS0oe0OWrb7i3faDsVzKD+hxu5RevDhHwn0bKK5B7YqXaRwvbVaWytqyQDy0FJLWNK8/ynf4hm/pIE7w=;+gSgbUgaz98DPpfEp/K8Lw=="
 ---
 

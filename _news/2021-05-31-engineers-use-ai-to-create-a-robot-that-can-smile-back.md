@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-ca
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "The robot smiled back"
-    excerpt: "Long interested in interactions between robots and humans, Columbia Engineering researchers have created EVA, a new autonomous robot with a soft and expressive face that responds to match the expressions of nearby humans."
-    publishedDateTime: 2021-05-27T04:00:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2021-05/cuso-trs052721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/266167_web.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "qsjlWGDj+YcxWhg6OqoKMV8Pxn8+/Jq6E30TkpjvBu+CnDSZu57XlhUt5eGFpoQI7ANofHvDYLtYf0yFTrwgAMahQTQAaUQqESXqTbRrxzS7Q4/r5b3r8jo9kzl4dKQ2/frzNWT4J+1e14OTczEcyswbil4Wk/ziximQwhHT9MCz0HefLN1I0ScKxmKtuUc6fHs5+6T3tdD/Ct7WYyilzI/SlFtLXqPMtnYcTJPvkKAKcvZl2nnyPs5ZHMbk8SA7BPuzGrFy33zNfESb4yEIiALiRiJHoKnp66Twnr85wpYL34NT3kVE7N3Vk16Pgk8KB7AnCuXftYnB7J7xJyTSGX6JfhvFV0k6C2ZRt7gJstQ=;EzHdRJiJqRAmc5zj26uYfg=="
 ---

@@ -100,15 +100,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Global Agricultural Robots Market (2021 to 2026) - by Application, Product and Geography - ResearchAndMarkets.com"
-    excerpt: "The \"Agricultural Robots Market by Application, by Product, and Geography - Global Forecast up to 2026\" report has been added to ResearchAndMarkets.com's offering. Agriculture robots are the automated machines used in agricultural activities such as seeding,"
-    publishedDateTime: 2021-05-27T04:10:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210527005404/global-agricultural-robots-market-2021-to-2026-by-application-product-and-geography-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "wnyHxz3dUU21JEw3h1z67ToBwdi8dxul5j2lu9aOoUH0Nu7Pqq0Eqg4XAMDnyPzRTw4SIuST1nkjChDPJzlMgTOdvhKZ64+HxEM8jcW9Dg+pnKK8oBNZl0DoSHpRtw/g4DHzByk31mqWFL4qls/EFU9PYK/49/xgFu199yp4Pp1hogoshE7Y+NmM2QbhyaII3nn+lTfxdL5jnHNhTxHr1DV8G7CWn7F1l1RQyIedh96tntfYdFQdzS9fLcsDNdyJSVIgGf+3yNdY5aB1E7h5epTBhKDikPdpDTMCQEG+NnxJwgt3t409SSWzOzYZ36kQla9426OZBLBIaNh/AYuz7Ct8zK/1E/HFoCx2124TwYs=;OM4RNNiORuC16kHpx1NBKA=="
 ---

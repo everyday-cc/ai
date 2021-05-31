@@ -98,20 +98,6 @@ related:
         width: 777
         height: 437
         isCached: true
-  - title: "The robot smiled back"
-    excerpt: "Long interested in interactions between robots and humans, Columbia Engineering researchers have created EVA, a new autonomous robot with a soft and expressive face that responds to match the expressions of nearby humans."
-    publishedDateTime: 2021-05-27T04:00:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2021-05/cuso-trs052721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/266167_web.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "bDp+fUJ2u2MBLK6rr8L4d4zfka3dEGywgZnej99dfiWRrJU1cmlMHxAE9wJw1ZP2rtuP/1O+XPUUuVi1emoKoEwDnBbQlFctjnVrKNOVl0RKHgOyZRfS6swAd+ANqlp4SpbIQ2RXuV09TWe1E2VfTu9+gkeuNwlk21Cylcdr6byj3Q5q0SPZB+HmXtWrgPsIwNJ+zKGbkOOQ4Gl3QjtgOwx+e436et1EczDi5uf55HPGYXKy85ZbfF7rw8WwpGUzfkPKuvY0tY3X/WynQRWEm8imFsVgbc0TN5oJlhh2BvNir0966RYXkixTJ507jyN5xZHJSH38ijhBEbyY0X+UsaejzB/jQgZ4Mbx0iJfB5pI=;6zy7RPPxg3r+vGUnlFnNew=="
 ---

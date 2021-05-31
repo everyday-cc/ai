@@ -79,14 +79,19 @@ related:
       domain: businessinsider.com
     quality: 38
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-    excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
-    publishedDateTime: 2021-05-27T15:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
+    excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
+    publishedDateTime: 2021-05-27T16:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "sZSrnp0d5dPGfguED78oxZC+aHQljfyfW6eeq19Ci8puD7EWhkMKSkmZHqQd3BvahajtnLD/QNS6Meyrm1cIKFOyq0c48LRfLt425z0fB1Q6qCZSf4ayM+8uLm5vthJKM7uy8HRaceZbL5zjY3XA+eOfx1BpcOL4vW8+94h3p68ZFxo12p4ANHCSP/yq7I6dzQEd7z+boe1GL7RSW08ehm1mB9bqE+m9ghFKU8XAI8Woi2/nHX8hBw/Py7HPJtMtvkCnxY/JN8oYrsnMoGE4yNUoxRVuTnSwRNjoKyVlDqOeCOIMl0ggOHP73ODaZ1Yqg+hSZWTO1D3ctgZxR2fDetgXxlHBhBZnjSCieToEvVyHUNajt9DatS5faATMsmdPkQG/+3sHKxTlOdLUZi26thGSuXYCUPDRfdrh4iwQWPoZxsIZXZaL++MiB1P8ObeTL1LiKovexMz2qCPXOteDyP9FJ5f4c4ICQ8kaBYUd9vlqSU9EM1TWoYJc7MOgkrXJQxcCeXB9afL98fqAuI1I7w==;C6OqX5+f65AiOPNX5yXiDw=="
 ---

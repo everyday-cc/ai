@@ -79,14 +79,19 @@ related:
         height: 900
         isCached: true
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-    excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
-    publishedDateTime: 2021-05-27T15:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
+    excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
+    publishedDateTime: 2021-05-27T16:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ujsxFfxMfIlRdszv50GgyuuZTBAuzg5hTHz1Pas0FOdDgdeZfIR8H6SZvTwdzyHS3bt9u6eiatV7PX4+BY+mT/tfLnD3jzl+Ze+RGCtfRnn6J9wg65M/U166ENduV3kqPbWFjctU32XQtuvtxOnhFzqvlbb1M6qxerP3csByXYp35lZcMMV2y+DlJQ8tvYHfQoYjS9UHO/3ppfyXi7HRhs/YBb1NcbsDA/eX3epBTUo/wBrZyoVNdpRxE8P4DQoX7egP4Hqf7koCUDaM09guK5kyPDmqn6QXLU6ClPi1A9JANKh6l1Bhz36Hs8AFs47lR5zvgLQaVQD3/JfkcHnxTgao+tr1GxViPOTeeMAlD1Q=;Di8DED8H+oiotLFueZypBA=="
 ---

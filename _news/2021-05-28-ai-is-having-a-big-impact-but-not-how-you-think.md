@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/ai-is-having-a-big-impact-but-not-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-is-having-a-big-impact-but-not-how-you-think/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-having-a-big-impact-but-not-how-you-think/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.techrepublic.com/a/hub/i/r/2020/12/09/188132fe-9388-4c22-8b16-14fa0fa7bb9e/resize/1200x/c450893cc7be41eb8f7fc7989e2bf850/istock-924257690.jpg"
@@ -30,6 +31,6 @@ images:
     height: 900
     isCached: true
 
-secured: "exBtHgtl7N30+Hn9CuzoUehNe/zRPI6F1rNnC3PnMOOstPN+4rcIbl8zYgQT+0lccJH8E+fUm4Ag8esdMFxRgA9FJRbScO5jKW3i0TgeWEFbm2G1+PH7JNHfsk30EdpxlxMBgcWB3odFFhM174t3wyHAVyH+9nV1Ad/HoraEdffaBqenkjQZZKrOyxhZqCr3XMd0LboVk56oeXulY3Cd4SYOqeEcVkEgkt+78+cX1CJLHqtcY1zROvZE+C7FT8Nb7Puh2SKJgAXl8XoeswEoqtf+sgd8cpS1uVN+1lqCZBo0yI8y6Gsyux08Sv+jZTVjZoUWJEk6AytInEFFV2JgLsauWbtfa5yN+7kMmgz1YfQ=;X6TCxu5+wKHPY/JCR0/OaA=="
+secured: "l8UdU8sHeuYwPl4PwsTHWxy1kGTVu4elLXMcZhGbR0FoyKUCx2O/bCrO0URXeFxPomxppMBeKZp9HSLKgicrM4pRxZ63EI0nEZ+QjWkHB27VsmooLYj0yVfIk304I6C/J7CWme9xa5g3rN3CSAHe96AYBVcdJG+HVefbhZmhx+/aDOsHLz8VneSC/U2cRYGXeFrl+6r5aXg4SOxVvD3YgQhBWa5WMVAuv9v3orNgUDLCIPJ8FYKEaD5A1HUOWH3ACYuMtyAHquX0i0zxeN+jM5HcQ7MzhxHAhOs96GzQ1pnqoNRs0WuC/yMDYsSv4P1qpPigjZEobQbqVLGRvuXL6axiSAi85A3iUny1Ipb5I62VY4Hw5x7qLTvPhvLgHkphK4aXY6orcxYqjLvzxNx+K86+Lb5lQEHZrvr6hrtC6+s4aqP/8D9u4SHNANEyqo2zf0Ja/uWn4ko8M4T2/2IwGOxT9uKZXimrPglq9l3++AAH9Z9sBIvij5cQTTMrlbb/nE8IbSn5VF7MUzktLLRl8g==;zDMbfghlhfZX3nFSYc6AmQ=="
 ---
 
