@@ -3,14 +3,14 @@ name: "Madeline Gannon"
 bio: "Inventing better ways to communicate with machines."
 location: Pittsburgh, PA
 type: "profile"
-heat: 42
+heat: 31
 
 website: https://t.co/It4puKUIPF
 
 twitter:
   username: madelinegannon
   url: https://twitter.com/madelinegannon
-  followers: 3103
+  followers: 3102
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Madeline Gannon"
 
-secured: "sY+nGC5GbuqiN1cxZbfyg4yO3HLTB3rLcXEkQrkRDrm3K/3vEiUfeEGMcEGfSj8tC47BD9EPB1zj//h0wvdgGchWrIJe5uVDB/beyJA1u6Iith7i45PA4MDWSG6SWMNp+hI8ouHu/bSfM8ZoIxgwRPddGs2fYMXAKcXTpOtwutpl2Z4iiecb+d+FPNOvQF4FX7KDbbmyroeqIz7r7qwHzoqfDAYNrDw/0vw83tZs4DaXRfpgNCmYD08ul2yBxf8ZxCPkUgpnqr1OkeSbjN59uZHISihzv/sfb0cvJYGnva3moC+C2k8sUAfPS1Zl3xUWZ8kLgqxemjEqMqE7IVo1o8jRVb0th/sCb21N2iFicBJCh+5EQBXDzKcrI1LJJuJh43iEzlwLynJKq7VOsKkjmB5JyaTcBWXrD0cF2wmDwEE=;sgwkyy51g0xkCTz/1QILBw=="
+secured: "sfXfvJMR3Lwya8YCS9oKymOzgV13W0dxM1t1R3y8DukVxh9QirR5DGGWrXuMo9tzx1QuaCV2PKlLqpMfjKzgJz2g/0/cBxMaGX9we54RyzrrPnuKulUA6NnfvtntdULBhO36HwMEGcB0ziPcypqDxdwz2uWXeMkFVauh4Jbip+8QyiT5y6yYY1nb2nk4BZ9/ye9f7DcpskseFrpNV1u+WsScZxXpe1ZonhBSECJpoKSGHAuvGdbtKdzMchVhaF8Cf0JLmxU1CVpnA9kqn/z6PN2HtDCIkmcwip01WzI8BDZk8LpsGQ7pF2Bsu5GHcl0Ak9uqoCxyYOOnBaXHY18o9G+pKeNB2nmqalcOZn8tV7A4YkATksXoaaSyEcgHKfXZZo2EfnV5bWOMHDp4MBtsDa0/fuRRBPAWJDEAucQGgYQ=;7ddM2F8TVqR5wYi90aReWA=="
 ---
 
