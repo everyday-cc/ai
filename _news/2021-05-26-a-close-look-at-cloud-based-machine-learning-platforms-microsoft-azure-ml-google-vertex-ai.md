@@ -7,7 +7,7 @@ originalUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learnin
 webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
 type: article
 quality: 94
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
-    excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
-    publishedDateTime: 2021-05-26T09:00:23Z
-    webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
   - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
     publishedDateTime: 2021-05-27T16:14:00Z
@@ -50,20 +41,6 @@ related:
       - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
-        isCached: true
-  - title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
-    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
-    publishedDateTime: 2021-05-26T08:03:00Z
-    webUrl: "https://www.hostreview.com/news/210526-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=publish&w=950"
-        width: 949
-        height: 534
         isCached: true
   - title: "A Close Look at Cloud-Based Machine Learning Platforms: IBM and Oracle"
     excerpt: "The New Stack is running a “deep dive” series examining the Machine Learning-as-a-Service offerings from the major cloud providers, authored by analyst."

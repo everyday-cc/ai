@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Platform Market 2021 | Growing Demands, Regional Revenue, Key Manufacturers and 2025"
+    excerpt: "Kenneth Research has recently added a report on Conversational Artificial Intelligence (AI) Platform market which"
+    publishedDateTime: 2021-05-26T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-platform-market-2021-growing-demands-regional-revenue-key-manufacturers-and-2025-2021-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine learning Market 2021 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine learning Market for 2021"
     publishedDateTime: 2021-05-26T16:02:00Z

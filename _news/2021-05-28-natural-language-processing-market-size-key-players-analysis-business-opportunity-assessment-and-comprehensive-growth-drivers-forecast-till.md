@@ -70,15 +70,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 11
-  - title: "Global Data Lakes Market Size 2021-2027, by Company Profiles, Applications, SWOT Analysis, Trends and Future Opportunities"
-    excerpt: "Request a sample of this report @  Market Analysis and Insights: Global Data Lakes Market The global Data Lakes market size is projected to reach US$ 10340 million by 2026, from US$ 3662.7 million in 2019,"
-    publishedDateTime: 2021-05-26T08:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9377859.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "1pK7gDjzjilsRcVhivjp6N/xj7U3TmfV6uvHwytvYY32T6GSjUf2+YB8cUnSmIXWoI4YovNTG9odYZV2sHZZX4g486YfrQTqJ2J+WvfKH5qOhezDavZAHbg5snSj/tfNSs+OosYexmLXHhhi+QJz7eWWZPlgLPrItj/cdLT91ZyqL3GOTdlhQjhS9fN79PpMK1A4U92yFVT6suwyiProTfROZzxwkUq1bFLy1fT16m0f2Wr5RMOs8PTVk4fwra0a3ZKSH65qvwN5MuUi44NvJvb9QpUQHQPqDZwkXX5wx6eEcsUNkqjxCOaBklt3ksWDu5tBGoKNa1Jj74B+7ZSP4GzQCKsRX8PLyirIFDi9Y18=;+lQKobPi6tozxlZkqnkGTg=="
 ---

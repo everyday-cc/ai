@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210526141121/
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210526141121/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 450
     height: 427
     isCached: true
-
-related:
-  - title: "AWS to Open Data Centers in UAE"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that it plans to open an infrastructure region in the United Arab Em"
-    publishedDateTime: 2021-05-26T08:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210525006052/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "nuQEAaN9G4acUHJTJ4MrMCpEaoegYVYRT5oznYVomAjfBX8VeHIr7bEkrBl4/htHnI+THWD+nmO1ORjgnv2ly7Cy5TXBd+b9M7BVZmJWMID6xEax7itbn25evhk4HXzPwEyCaoZTOIQCYGMhoARg2IKG0QZlt9NiDx12tEU6ezOkUfSSDlTLWHdAPeTSvszm42mbBQ6ZXwtmopYxukfmnpyjfmW54UJaaNSHX3yNJl5MBpe2m2GEQPIbJ+9UPcgEmZa992QphU1umE+BJ8nbdEGlfFLObXWOPdX2OpzvZWd8xzwpGy+hAd0Ejnt+aUEif/8FjPuB8O/jc81TR5HNldoZnNiDQg+v1+qAqpo7dhQpwF+RNseGJZk8IxGCGI961umfW0dpqWVIrTE2tO3mFMKyjf3ah9zUzGFCU3Ekdu8IUI/9/KeyBEuwqaKrH3A+FIs5HSZwXqdO8ssZcX4fGS+2pEeQMC86hhi9+gxAgtpbb9h6s3S90GNoKyDk0E4RYV48HE8oAFUwBKQeCBxTuQ==;yycWQRkaVWvX/ICQoD88Qg=="
 ---

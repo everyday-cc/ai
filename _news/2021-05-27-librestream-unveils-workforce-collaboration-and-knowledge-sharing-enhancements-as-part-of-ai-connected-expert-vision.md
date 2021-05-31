@@ -39,20 +39,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "UTSA researchers among collaborative improving computer vision for AI"
-    excerpt: "Researchers from UTSA, the University of Central Florida (UCF), the Air Force Research Laboratory (AFRL) and SRI International have developed a new method that improves how artificial intelligence learns to see."
-    publishedDateTime: 2021-05-26T08:22:00Z
-    webUrl: "https://www.utsa.edu/today/2021/05/story/jha-sumit-AI-computer-vision.html"
-    type: article
-    provider:
-      name: University of Texas at San Antonio
-      domain: utsa.edu
-    quality: 54
-    images:
-      - url: "https://www.utsa.edu/today/2021/images/ai-machine-learning_780.png"
-        width: 780
-        height: 350
-        isCached: true
   - title: "Why Data-for-AI Providers Need a Problem-Solving Mindset"
     excerpt: "“We started thinking about this as highly structured language data that could help refine AI engines. We started with English ... led vendor management practices typical of LSPs. “In translation vendor management, you build a relationship and work ..."
     publishedDateTime: 2021-05-26T12:13:00Z

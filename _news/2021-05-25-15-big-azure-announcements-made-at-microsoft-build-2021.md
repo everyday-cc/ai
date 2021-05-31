@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 375
     isCached: true
 
-secured: "AZTngN8hMy50BTO2hrsZQOvTNTa6RVaNcnN3Dr5NEe8vyCnH4Zk9HASyvAPvj0NzkxdWMXJ6e4XOWZTRZG5ELTEJ/8hdABflqLJrEHB2PJpAijNvl89dB5VFh70Doe+30oBG9sZ0rQWjCGBN6G9wznoWrS/zR81h6IWB2HZWnGdOEWHsKSzA2BY0NrI0ohic0DD/KL+IF/byJ8aWdybODnjRAMETX3YPZA9rRrxEKBMCzZgsuFSNx6jx74YY2Z8eitrBrZmsUZ++cJOwiUdu/7QGJirJvNSq3dQVrEaT5/ZtH1KjqkJRazT3riaK3hJnJ1pzisX3khwAh88/XBMl5G7cfD2jT9Vq0WVUi7ksjjo=;IXhpdpiOwDjZh0cMF7Brag=="
+secured: "CguBRExvVCU+3gLp0PZX6jDNNNeuAXu+01gjolC5zySZkS4JdslqcmyTWn6LBi9AZoXbUvEgMHRktAYXiFsRZqI8rViwQJZ9yB5bIsfdcLI2pl78CV9g+l9m5OlD3BD0IQjx8fS10lRbVyR8qycYD23/rqLeM4Pn3WoWlxv3RtDbFHabWdettxup5ovGHy1a0Mg3wvTBUfDo/7be0iS3rc+0pYXlx9HVN+SzVZghuJB2LBDuRhrno6SHEhwouBUmG+O6BizzQQENWYoaZp2ztc+VL1bNwIwlvadrDYPLVZn1w9U0ApziOe/hmc/Wyl4O/ist6MOGftPjWgb/58Eq4JX8GfAv6wCa7hSFtZvDRI8=;DG3rh8pUr6tQtVQmTgV91g=="
 ---
 

@@ -39,29 +39,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
-    excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
-    publishedDateTime: 2021-05-26T09:00:23Z
-    webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-  - title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
-    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
-    publishedDateTime: 2021-05-26T08:03:00Z
-    webUrl: "https://www.hostreview.com/news/210526-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=publish&w=950"
-        width: 949
-        height: 534
-        isCached: true
   - title: "A Close Look at Cloud-Based Machine Learning Platforms: IBM and Oracle"
     excerpt: "The New Stack is running a “deep dive” series examining the Machine Learning-as-a-Service offerings from the major cloud providers, authored by analyst."
     publishedDateTime: 2021-05-27T10:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-mark
 webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28"
 type: article
 quality: 50
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 11
-  - title: "Global Data Lakes Market Size 2021-2027, by Company Profiles, Applications, SWOT Analysis, Trends and Future Opportunities"
-    excerpt: "Request a sample of this report @  Market Analysis and Insights: Global Data Lakes Market The global Data Lakes market size is projected to reach US$ 10340 million by 2026, from US$ 3662.7 million in 2019,"
-    publishedDateTime: 2021-05-26T08:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9377859.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "5rMrdNHNh+QPURmG86qz3zQs5I4uPBaBD4lBqv+g/nW+jLFYV4oZuqZu2k2HNb2QlaasphjfPvyjniF3BkRprsmWEgrYxmZwr7mDTFMPLUScaz/GiaT7ATeQnulHAKKxP2mr0xzpqhL8WepIDuCUgKEMaaHVYIBBvhQodM4Vuxku5smF1Rw2q7hqMc101DokuQSAOv/J8geH3ivV25gKF0orGpFF4ZL4iREPO6N8Om0V++wmLdR0Tc+t1QnnQZpisJhbsMDDIvDWRFgMAu8lWVtkunrCk9xqrFu6MwUohPaASEdHxyBFiKChsJLC463D8PnyyUujjlqve3XiM3jjjq7BdFlXVaOTlQnF/hXeeFU=;OPjFsNYzEOjWr1PLO/bvLw=="
 ---

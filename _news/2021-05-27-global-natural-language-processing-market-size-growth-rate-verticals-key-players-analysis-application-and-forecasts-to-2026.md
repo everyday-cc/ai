@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Data Lakes Market Size 2021-2027, by Company Profiles, Applications, SWOT Analysis, Trends and Future Opportunities"
-    excerpt: "Request a sample of this report @  Market Analysis and Insights: Global Data Lakes Market The global Data Lakes market size is projected to reach US$ 10340 million by 2026, from US$ 3662.7 million in 2019,"
-    publishedDateTime: 2021-05-26T08:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9377859.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "0DtBbwtgjrNeUy3XhtaxgU1G1DqqhJbdty1JZTC65moCygQ8C+my29yAFOFv/dcpHp2SUR+UGgqCBQqP1QBA4DM5DifB9OKJV5OHNmaNlRPycK7bSYV27Y82BIBf9iSsrOlonF5rXS6I0F2RhUjchNgW1aFreWnCHN2YXwcrXuV4sGOunio9FKy2/7iCNOMNAhtd2NG75NCizfge19igGwyjAHMIBICcDMelnVs4KRm2/aJBxkl01GjSVWuKPljBFLmJiHxgE2KiUw2ffllKQRCXqHW1Cn/ezYqgNMH542HiggIJ6P3lej6hoIGCRMgmmcHl/XtXexvcmxPCpJFUL5b1uw5sTQnnKaSCoMByACs=;KpMqD5PbelHJJeMnWKVdAA=="
 ---
