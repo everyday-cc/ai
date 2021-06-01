@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Speechmatics"
   url: "https://twitter.com/Speechmatics"
-  followers: 1313
+  followers: 1312
 
 size: 51-200 employees
 yearFounded: 2009
@@ -34,7 +34,7 @@ tags:
   - Speech Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/866594840552906757/zF08GXqA_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1399649482749403138/CGZMeL-F_400x400.jpg"
     width: 400
     height: 400
     isCached: true
