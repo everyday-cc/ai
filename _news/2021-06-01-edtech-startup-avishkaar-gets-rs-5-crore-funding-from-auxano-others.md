@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Edtech startup Avishkaar raises Rs 5 crore of funding in pre-series A"
+    excerpt: "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent"
+    publishedDateTime: 2021-06-01T07:33:00Z
+    webUrl: "https://www.business-standard.com/article/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/12/full/1591984030-0973.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Mumbai Angels and Auxano lead pre series funding for Edtech startup Avishkaar"
     excerpt: "Read Article Mumbai Angels Network, a platform for early-stage investments, along with Auxano, and other eminent angel investors, has invested INR five cr in edtech startup Avishkaar as a part of pre series."
     publishedDateTime: 2021-06-01T06:48:00Z
@@ -58,6 +74,6 @@ related:
         height: 267
         isCached: true
 
-secured: "GH/a8Dd0JZb/50sebnBzBwTC1zh4sVxEOlVwDMRGdznS0tqFJsTTzomjZJOpugOx57axxpqp5GzhLEe6cTLJ3bf0oHZ8zIQJRrt2YutYiGoI0Y3qm32haLrZJoi+YlgaKHxg7+PD6nWjuMD15u1+rh+1jgLaSz4+MHowg7BI42YLUch5tJSzYXem2WGKDgz34Ob8B0fBam/Dd9BPWC/nNjc0tCaGjFs6keUKnH9q6z5TEF3hoovMLib7t4rlO4EqQ1Imx81RJyezSjkuLaDSuyH7lgp2verTo2bPYyrj53Bs52LFPNIR1mK3a+UjU4/qHj82K0YVeX38wle8Ad4HDZ+ycl879J2NBLfgU47xars=;gncrM7towL1m/aE3THLGPw=="
+secured: "ayf7cBrTNZvQ3R8nyl/1nDcg99ruGbY6iXfpYIqKhnoTupXJWsd+lOja8upEEXbqGOe/ceLpAfXGoYRPP6tgCwkRzm/mRpHh5N2AroteQTqgRTwkRCX3yEekdNrebhjwJ0zAkXtxGcAdy7nmnFkTOjfkWhvtJz+7R0/UAlJ3mYkMtimD7aRXpImg35RB5YUClIGYTvp/ohx2xTeSuuHIx/mJ1WnHl1CcfHXfmsOcD37Xa3gtsc7tBqXvfIkZyRGclT06l3GW0OJzMHkldQ0q+M+mDBd+WeK0IrRsfi/TL5UKzahsrPSaPGiAfGg+Go6M6h8WgRVjD6kFpJL3/rbVjcmOT2YFOt1pJTvJ+TxXo9jRJ8UvwEwDD9r5B0gxSjz7HR5jj9vllAk1J7xlavUWzkiDkYIIOJrmFvMPN1fxXuGreXhbLFmbchxJ9xdPfw+bFXg4h7DwuemzfyCQuK6FP9XmWwXlwLfuCWDMU/ON/sJyxGqoDjoHVBvS2SrfZ6wWjgfy3KSZ81BHUHfAqI9UmA==;XaJSfJ3T0pY+1IV9oSlF/A=="
 ---
 

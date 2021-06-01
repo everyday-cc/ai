@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New Partnership Expands Healthcare Access For 80,000 Baltimore City Students And Families"
-    excerpt: "When schools shut down suddenly due to Covid-19, students lost more than classrooms. Many also lost access to healthcare. Digital health companies are helping close those gaps."
-    publishedDateTime: 2021-05-27T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/"
-    ampWebUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8b94e9349da79f1d3c16%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Privacy groups file complaint to EU countries over facial recognition technology"
     excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition database using images scraped from the web."
     publishedDateTime: 2021-05-28T10:25:00Z

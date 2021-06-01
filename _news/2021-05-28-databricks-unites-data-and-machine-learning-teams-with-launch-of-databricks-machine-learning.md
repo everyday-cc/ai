@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Databricks unifies data science and engineering with a federated data mesh"
-    excerpt: "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models."
-    publishedDateTime: 2021-05-27T15:30:00Z
-    webUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/"
-    ampWebUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Databricks Unveil New Machine Learning Solution"
     excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
     publishedDateTime: 2021-05-27T21:57:00Z
@@ -53,33 +37,19 @@ related:
         width: 900
         height: 454
         isCached: true
-  - title: "SD Times news digest: OpenAI Startup Fund, JFrog Private Distribution Network, and Databricks Data Live Tables and Unity Catalog"
-    excerpt: "The companies in the fund will also get early access to future OpenAI systems, support from its team and credits on Azure. The application and more information about the fund is available here. JFrog’s new JFrog distribution capability is part of the JFrog DevOps platform and it enables enterprises to easily set up and manage a secure,"
-    publishedDateTime: 2021-05-27T15:53:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-openai-startup-fund-jfrog-private-distribution-network-and-databricks-data-live-tables-and-unity-catalog/"
+  - title: "The CEO of $28 billion Databricks explains how its new bet on helping users share their data will make the AI industry 'take off, really explode'"
+    excerpt: "Ali Ghodsi, the CEO of $28 billion artificial intelligence startup Databricks, has bet big on widespread AI adoption over short-term sales."
+    publishedDateTime: 2021-05-29T12:40:00Z
+    webUrl: "https://www.businessinsider.com/databricks-ceo-data-sharing-big-bet-delta-conference-2021-5"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 38
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/fund-social.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-    excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-    publishedDateTime: 2021-05-27T16:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/60b16d9602ac410018f938a7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ujsxFfxMfIlRdszv50GgyuuZTBAuzg5hTHz1Pas0FOdDgdeZfIR8H6SZvTwdzyHS3bt9u6eiatV7PX4+BY+mT/tfLnD3jzl+Ze+RGCtfRnn6J9wg65M/U166ENduV3kqPbWFjctU32XQtuvtxOnhFzqvlbb1M6qxerP3csByXYp35lZcMMV2y+DlJQ8tvYHfQoYjS9UHO/3ppfyXi7HRhs/YBb1NcbsDA/eX3epBTUo/wBrZyoVNdpRxE8P4DQoX7egP4Hqf7koCUDaM09guK5kyPDmqn6QXLU6ClPi1A9JANKh6l1Bhz36Hs8AFs47lR5zvgLQaVQD3/JfkcHnxTgao+tr1GxViPOTeeMAlD1Q=;Di8DED8H+oiotLFueZypBA=="

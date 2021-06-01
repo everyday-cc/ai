@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques"
-excerpt: "In a new white paper released today, Numenta detailed how it used sparse algorithms derived from its neuroscience research to achieve breakthrough performance in machine learning in a proof-of-concept demonstration."
-publishedDateTime: 2021-05-20T15:00:00Z
-originalUrl: "https://www.financialbuzz.com/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/"
-webUrl: "https://www.financialbuzz.com/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/"
+excerpt: "announced it has achieved greater than 100x performance improvements on inference tasks in deep learning network"
+publishedDateTime: 2021-05-20T15:02:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/article_51a78bad-488f-5ddd-b24f-3be5494b5950.html"
+webUrl: "https://www.bakersfield.com/ap/news/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/article_51a78bad-488f-5ddd-b24f-3be5494b5950.html"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "j5/FLBg1AYWo3Hwrs5JsGGTsQOd05/ef97IZ9sYszyC+8Rs1Gkp7Vx4kiPnu5J9gMehVJR7LffL1fw8xvAwtfADc4K2q/kmp0ZQJ4bPFBcdqyLBDykaz4/YhXDSQswXShs52KVgjXpZ0huufgbMo3ii0NdgSZEPYNc7gQ9L+LFy7SeDA1Zj6HRrtEF8n09/bBtEo7QZ3hpzc4jC8Ds8KvvgAyDDpwqFIhjdjZw0Mjk/vDKRHVYZUW9rzKkzJC0Symm5Bx+xUWhB2hAGwZ1Kjy+1E1fijQP9QCJzx0UqnvoeUaa55RfbeiT8Tny6Kqls6DiYNLrZMudIpmNR1tAkmtGKPwaxCQX13j5pKkZZtkds=;KFupMLczNRxTII7i8ekQow=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/7/b1/7b1c2f04-0f3f-55a7-9452-e57ed4f76396/60a67d8b237a1.image.jpg?resize=982%2C398"
+    width: 982
+    height: 398
+    isCached: true
+
+secured: "JOEhjYL2FDRh/a7y/hbnXM9WH9BtyX5uWlRNO6taVfmiKYsK2fGcnMrewoqej7mTHHmnqYRvAMcMj9Ec6h/ohCFKOMWedaT75vlUFqsHvQZz5OiulvQahD4v0zHhmp9nsnhN1wTtxik475dXbtN5gsrN/2SraWItmlHNO/fW5bn1Cy/mlwuqQYZ1i5k3g1TE2mRbFCPSJpGvrIFKH+gIuXaL3dUYKNZ6dWZB2MsEoEgKHAy1YHZKNF+azxlVpjXNWqd7dhSOP5JMm/tuWMEJkJAyJ3mCh4pZDiTzALkPcVpjW8jymod14xtSyt1BzCo8DXao+iw86s/+8iDd1Qe0ie/XEtWB4z/0f6AG4//6Cq0=;IMWN1tF8w0xm3G6yHTZtKg=="
 ---
 

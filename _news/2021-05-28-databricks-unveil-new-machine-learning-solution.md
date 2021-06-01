@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/05/27/databricks-unveil-new-machine-
 webUrl: "https://www.datanami.com/2021/05/27/databricks-unveil-new-machine-learning-solution/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Databricks unifies data science and engineering with a federated data mesh"
-    excerpt: "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models."
-    publishedDateTime: 2021-05-27T15:30:00Z
-    webUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/"
-    ampWebUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "SD Times news digest: OpenAI Startup Fund, JFrog Private Distribution Network, and Databricks Data Live Tables and Unity Catalog"
-    excerpt: "The companies in the fund will also get early access to future OpenAI systems, support from its team and credits on Azure. The application and more information about the fund is available here. JFrog’s new JFrog distribution capability is part of the JFrog DevOps platform and it enables enterprises to easily set up and manage a secure,"
-    publishedDateTime: 2021-05-27T15:53:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-openai-startup-fund-jfrog-private-distribution-network-and-databricks-data-live-tables-and-unity-catalog/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 38
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/fund-social.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
     excerpt: "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ..."
     publishedDateTime: 2021-05-27T21:39:00Z
@@ -64,19 +34,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-    excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-    publishedDateTime: 2021-05-27T16:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+  - title: "The CEO of $28 billion Databricks explains how its new bet on helping users share their data will make the AI industry 'take off, really explode'"
+    excerpt: "Ali Ghodsi, the CEO of $28 billion artificial intelligence startup Databricks, has bet big on widespread AI adoption over short-term sales."
+    publishedDateTime: 2021-05-29T12:40:00Z
+    webUrl: "https://www.businessinsider.com/databricks-ceo-data-sharing-big-bet-delta-conference-2021-5"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/60b16d9602ac410018f938a7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "3Yua7fAaeh2gTx8AJ4hvbzu0rMSlZcZs/dB49iIbawu+tfTE9l+hayP/4iNIyk1eE/5fcfcjnG9/L/KVfVCkGuD+90XKIeSjK52vLNn7j4b81QQWXGy6+LzzazJEY4GPufqWUEobeMBMgyu2W2bRaJUqTMbiDR4NaxzexC/nH/T50syAB4zzIkx6fw4aeszW1EgMZcdppwd88nIOccDNZ9msaG3CAn3/zfeC8J9bUAcm88fhctByvZ+TI7ulwNCbMkdNuh3yaQdw4u8K8WI/YY2XKc7hb8Okln1SlhgztK9g3hxG9FiRj7EL7mO+l9HBInZj0IfCSXpb3Pk4zgNnub+spNlW0QXWIsOD26+orzQZHtoZ3xHl79mcGA5qP1fZkIFatVqi2rtJhljLpMQ/a2tUud0P/DBKyeRaH3B/biad6j69QX35o+kGysL2LSN9myo2MLt4Gnjv0GdHhEZ6fr9ftblldLQF+U0SUZuMRn9rA+JQ6VtmCAjSDvbmaR6mJYw78pl7Id4OQeLfJi1aUA==;Kj0/iCMteutgEHp72O4h7w=="

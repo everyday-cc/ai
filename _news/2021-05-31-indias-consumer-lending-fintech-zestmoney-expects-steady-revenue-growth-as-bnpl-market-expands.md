@@ -38,6 +38,36 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Queen's Award-winning global fintech company Quint Group relocates headquarters"
+    excerpt: "A Queen's Award-winning global fintech company has joined . Quint Group, which owns and operates a number of fintech businesses which are focused on improving access to credit, also has operations in San Diego,"
+    publishedDateTime: 2021-06-01T08:51:00Z
+    webUrl: "https://www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547"
+    ampWebUrl: "https://www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547.amp"
+    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547.amp"
+    type: article
+    provider:
+      name: business-live
+      domain: business-live.co.uk
+    quality: 40
+    images:
+      - url: "https://i2-prod.business-live.co.uk/incoming/article20715549.ece/ALTERNATES/s615/0_Atrium_2.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Global fintech group joins growing tech community at Alderley Park’s Glasshouse"
+    excerpt: "Global fintech Quint Group is set to join Bruntwood SciTech’s rapidly growing tech community at , Alderley Park. Quint owns and operates a number of fintech businesses"
+    publishedDateTime: 2021-06-01T08:51:00Z
+    webUrl: "https://www.thebusinessdesk.com/northwest/news/2079836-global-fintech-group-joins-growing-tech-community-at-alderley-park’s-glasshouse"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 20
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/aug_20/Atrium_2-e1596717557909-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
 
 secured: "qorHFJDw4IpAtN6Dpdn1nVGXHujoqkHAbqBXqB8zDUs9teoM4T/xEG2Ks9UodlHrWtKMwaItc+a511SinRYjD47CBchr+h7RaHhPp/fyq9n1+klA1JXcfcIRNaJyAGLi2GIKOuvOEDmL/mK4XNQmNUBOIMyZQphnS+I3JtL+lY2MeFNGFBrlQULQLyfxY0lbbIi+IxyFP9abi8CVZuEGboeVPLEybKUPiV0p7S2tpBu0Yh4InhbqYaWOPgunotUStzb0uDTNlHVh/bimCy1X03TyE8reVQevH1zH4TpWRYU+4V0CCiSLm1J19NYPmkpFvfuH8Yiz9KZYJ2HWtT+AjXgRYBwUFWNlO3OYsa+Ib+dOgti1QGrt515cm6iW707lqoRiwzejYmuHI1xm1GcXxY6+Huax+0EQag4lK/JwKuRQsslT58l4hLwM/lOdKGcXAM+pqNbX6GHtzehbmdljrxfiEqEhKmoM427VGlJ7nifVMsAfcYvU5NQ3odEYEFf4QWviQMi4DZYzCufEmxOKIg==;VDY1cG7l5BOzWu/8OehxEg=="
 ---

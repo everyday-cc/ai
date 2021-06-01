@@ -28,20 +28,6 @@ related:
       name: BusinessMirror
       domain: businessmirror.com.ph
     quality: 36
-  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
-    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer programs can distinguish between images of benign growths and"
-    publishedDateTime: 2021-05-27T16:48:00Z
-    webUrl: "https://www.miragenews.com/incorporating-health-equity-and-racial-justice-567708/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 29
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-        isCached: true
 
 secured: "lIS6olBkVzohI+qOxHuCGacAu55Dqf5ky1A8Lpxix9YDKm5QzzqAJGnAUaUAo15p8CFYcxZHDUnDYWvH8VYUTpcdYDoAuexodPM4vlCnzyWXsqC+BaN0fmE/IHH2Xo/MiujRUa8y/wdqEul/rdCRCDZWmuKy5bVkLDL325wc7QSoXBVD3MUkhBc8PHs3jBVe5a/7Y71iJQi90KzA0QZBFAZ9UVNg9xDkUcYxtemasneytLDcDoGvdTtLJ7VKRXDPIh/faX4lfnZWt/wHWQvEBtdK6RyIawebdFKbUVJnSGEsOZOVZDzm++rxw5/ziP/XIZbMIBurNvjUYGaFfej2g+xIzcCsi6Zu3qGAm8oeeLI=;knq+wxvqHO8OudrBPLDn2Q=="
 ---

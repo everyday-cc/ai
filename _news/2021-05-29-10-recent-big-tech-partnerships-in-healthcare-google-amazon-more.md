@@ -41,20 +41,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Tapping into the drug discovery potential of AI"
-    excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
-    publishedDateTime: 2021-05-27T15:37:00Z
-    webUrl: "https://www.nature.com/articles/d43747-021-00045-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-021-00045-7/d43747-021-00045-7_19194754.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "ZuSYiANN/vjorrjq/ZcorQgE701D9E25rL7NpvKs0g2raa+ZI5Nk0I7G/7CYZa2YHZ8pyBWSQrhUmctFPiGboSmNU+MYFHgHZKZeOfM/Z09NDA4Qu4XWOznPfniPKh4TPOevt5JaR/tv9W7PzmrH4JdX5Yw+8CKrgoh8M6lvICwxFm8zQRgpKPSdS8g9tIC3PlyRAdQqADR+jLat+xkrFkvjwuhTw0ktil/RABqAVAk22JwaPXZggsreMMbKg3bsUiCrKeI9nQP0DYnYrfuE4hAMDKrQ9LvD0tnky82V9WMB8oHqFEKpcWFMsuz1kdzRPa1rovHM/4YLdXrADuAOlL+6U5S6mhWWYqqf+YljfS0=;K5PVrI2V5zoPkmPiVj8m3g=="
 ---

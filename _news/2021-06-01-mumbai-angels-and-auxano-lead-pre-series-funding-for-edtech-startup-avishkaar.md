@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crn.in/amp/news/mumbai-angels-and-auxano-lead-pre-series
 cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: CRN
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Edtech startup Avishkaar raises Rs 5 crore of funding in pre-series A"
+    excerpt: "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent"
+    publishedDateTime: 2021-06-01T07:33:00Z
+    webUrl: "https://www.business-standard.com/article/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/12/full/1591984030-0973.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Edtech startup Avishkaar gets Rs 5 crore funding from Auxano, others"
     excerpt: "Edtech startup Avishkaar, which clocked five times growth in 2020-21, focuses on robotics, artificial intelligence, coding, and app development for children between ages 5 and 15."
     publishedDateTime: 2021-06-01T06:44:00Z
@@ -58,6 +74,6 @@ related:
         height: 267
         isCached: true
 
-secured: "6xqiF75i0JE7pnj+0Ho7ThJVQgpOAJHTVGIG/IoQMw44WctXQny1yJqAZaqaqn7s++N34iLHqhFMlLQCydaCzBPsz+PEBatm/HehPbJaCa4sMfFV1kHbXOL/jlwVqGOIvUkvdUgUtTpMWs3EpcsqlAgaWY+FlZpPEliJ0FY+zpTky3r2JXCthT7+Deact+o/ibE0qafxiVd8KfM0C2bmt141ZzO9HmR6ZtHukyhABOfNEwtazYpDc4Yqrmw4XIWG1R3rGyUUtRWImCxCWwNECmMAqii/wzm6NtHNTjzN6bj8dpa2IUFc0MXytTcnUkBIdEn+FVAUz/WEe60J36gqSo0KzsPprkgE3dZyu+grul4=;l5RDW3lnGWCITrtPK5EpAQ=="
+secured: "py2A3j6sv68qU2QnjEKi3eSx2x4rpjnNGCJb7K0dDxxgQHvHKN6TR6kT4G6EE2hoZp+DEHc+J7E04BDrJoRvw00s+DXao7HrUJblpcTgeNy/sc3TFlQDXLRP4E1vuZgTTQlPOT/nTWuEycbHZWBvVqKNP5hX7K815quFonwq4Rzf2jsh/S+Wn/YMJHTJmqDxGjYnuGJFuYyXge8YzVzOxR/fYsIRTpXIgTtac7Cc3+X8LWEWaQps3OLTkxPzAWC+E4X54Mz2FZQgl+8bUQE2nYcR2nZlkj7fl4O4lBgaebX2hI8mOKtPTRQmlEx6pRZyIA0z6PxAX/mOJexVQS0C9hDg62di2yZXCvkyA4WbJMM2YlxriiWaAFjJObaCX9HwSpCyvWtNY3b5Z/EIG3EUR90r5u0xtTkVutsizqFFOmABue3Ij/r9PhLXbnR1o+kQVzqLgf5Y8KgZUzKKX7wfXHdD0EOgZph1H6jZuYQSoSTaOuLnrchpUpEkV403nH1kd5vbFhvHhhmg6KA+1iEXZQ==;8I1m6DRzBAt7aZ+g+E9ESQ=="
 ---
 

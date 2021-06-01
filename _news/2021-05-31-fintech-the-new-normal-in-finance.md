@@ -39,6 +39,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Top FinTech funding rounds in the Americas: May 2021"
+    excerpt: "Tracking investments offers a better perspective on the competitive and strategic trends in the finance industry. The article lists 5 FinTech fundings rounds in May 2021"
+    publishedDateTime: 2021-06-01T09:19:00Z
+    webUrl: "https://ibsintelligence.com/top-fintech-funding-rounds-in-the-americas-may-2021/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "1+zNh3oOmIQ5am85IEwpYvPWwQNl0JbfgB1rLgUJdm6O157j9/rh1CJwZvtlfWzjP/lnb8N0LLXL66SR5jPRCi5RTzE+58aIBgJuf1tEIWHp5vCJ2tJC2k7G1CwZtr3Un/wARdbVg9xV6F+SN7JBChjHKMkHtc27FHccD+Y3GHOWlNLgUFCWxIRLl6ufnZrYv20CXPfCkZ3g39Qj4p86Skkg/z4w/HrTXlDJ067YrhWjOtdMfVXVPGoX/Yhbjslj2zwWkJl40lT2Nu1M2h6QKRwjIJhTw78Mk8mXQhz2kpoFZztJENsWkBMB3sFqmmITNYymbjIxdOYcUXNuYSqBQvLAxwKk6dezgs4jYHjkYVzBzHt0TUTIsRBnKdL7MSF7eVPESMMJ6Sz0+glh0GIrjizbpf/9gGlj/Zuui0hjFZiLDVKMctfEnMEmRyPZ/GbqpHpN5gGO/bMez5PWGfoPHPQswsHC1vSw4bekoLSerOgxlP/gi+kJQ7cfSbyjPaDg/ygPQvxiMea9tsYanlCqSQ==;DWu4Vy58BvRoTLEY7S9nGw=="
 ---

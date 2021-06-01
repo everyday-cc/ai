@@ -85,20 +85,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 71
-  - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
-    publishedDateTime: 2021-05-27T16:14:00Z
-    webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 69
-    images:
-      - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Microsoft Weekly: Build 2021, a combo showcase, and next-gen Windows"
     excerpt: "In the last seven days we had the Build conference, a reveal of the Xbox and Bethesda E3 event date, and some needed improvements to shared calendars on Windows. Be sure to catch up via our overview."
     publishedDateTime: 2021-05-30T10:54:00Z

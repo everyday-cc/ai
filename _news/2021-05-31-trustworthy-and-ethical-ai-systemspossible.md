@@ -21,20 +21,6 @@ topics:
 
 related:
   - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
-    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer programs can distinguish between images of benign growths and"
-    publishedDateTime: 2021-05-27T16:48:00Z
-    webUrl: "https://www.miragenews.com/incorporating-health-equity-and-racial-justice-567708/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 29
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-        isCached: true
-  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
     excerpt: "BIDMC's Yuri Quintana, PhD discusses how diverse clinical research data affects treatment strategies and outcomes for underrepresented members of the community."
     publishedDateTime: 2021-05-27T18:23:00Z
     webUrl: "https://www.bidmc.org/about-bidmc/news/2021/05/incorporating-health-equity-racial-justice-into-medical-artificial-intelligence-systems"

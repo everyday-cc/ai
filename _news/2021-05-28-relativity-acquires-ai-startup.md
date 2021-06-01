@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Relativity Buys Text IQ to Boost NLP Capabilities"
-    excerpt: "Relativity, the eDiscovery and compliance pioneer, has bought New York-based Text IQ, a company that has developed a strong capability in natural language processing (NLP) and what it calls"
-    publishedDateTime: 2021-05-27T15:15:00Z
-    webUrl: "https://www.artificiallawyer.com/2021/05/27/relativity-buys-text-iq-to-boost-nlp-capabilities/"
-    type: article
-    provider:
-      name: artificiallawyer.com
-      domain: artificiallawyer.com
-    quality: 39
-    images:
-      - url: "https://www.artificiallawyer.com/wp-content/uploads/2021/05/relativity-textiq-ancmnt_1500x1500-copy.png"
-        width: 1483
-        height: 1021
-        isCached: true
   - title: "Relativity Acquires Text IQ to Strengthen Its Position as a Leader in Artificial Intelligence for E-Discovery, Compliance, and Privacy"
     excerpt: "Text IQ, a Top 100 AI business that uses artificial intelligence (AI) to discover sensitive data, has been purchased by Relativity, a global legal and compliance technology firm. Text IQ uses the latest advances in natural language processing (NLP),"
     publishedDateTime: 2021-06-01T05:21:00Z

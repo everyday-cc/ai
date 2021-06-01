@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-pot
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tapping into the drug discovery potential of AI"
-    excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
-    publishedDateTime: 2021-05-27T15:37:00Z
-    webUrl: "https://www.nature.com/articles/d43747-021-00045-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-021-00045-7/d43747-021-00045-7_19194754.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "10 recent big tech partnerships in healthcare: Google, Amazon & more"
     excerpt: "Here are 10 recent partnerships between healthcare organizations and big tech companies including Amazon, Apple and Google. 1. Detroit-based Henry Ford Health System partnered with Google Cloud and Miracle Software Systems to launch an international competition in Detroit to propose ideas for reducing health inequalities through technology."
     publishedDateTime: 2021-05-28T19:30:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy watchdogs take legal action against Clearview AI in five countries"
-    excerpt: "Clearview AI is under the gun once again as privacy watchdogs in Europe file legal complaints against its data collection practices. On Thursday, Privacy International (PI),"
-    publishedDateTime: 2021-05-27T16:43:00Z
-    webUrl: "https://www.techspot.com/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 85
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-27-image-20.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Tests of Clearview AI facial recognition software raises concerns in Minnesota"
     excerpt: "At least 42 law enforcement agencies in Minnesota, including the Renville County Sheriff's Office, reportedly used Clearview AI facial recognition software, according to a Buzzfeed investigation. Clearview AI is a web-based platform that allows users to submit pictures for possible matches in a database of more than 3 billion images pulled from open source websites,"
     publishedDateTime: 2021-05-27T20:28:00Z
@@ -54,22 +38,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 643
-        isCached: true
-  - title: "European privacy groups challenge facial scan firm Clearview"
-    excerpt: "Privacy campaign groups filed a slew of legal complaints Thursday with European regulators against Clearview AI."
-    publishedDateTime: 2021-05-27T15:34:00Z
-    webUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/"
-    ampWebUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YTKXXSHF5NA2RBISHDRMT2IFJ4.jpg"
-        width: 2951
-        height: 1971
         isCached: true
   - title: "European privacy groups challenge facial scan firm Clearview"
     excerpt: "Privacy campaign groups filed legal complaints Thursday with European regulators against Clearview AI, alleging the facial recognition technology it provides to law enforcement agencies and businesses breaches stringent European Union privacy rules."
