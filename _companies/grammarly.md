@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "grammarly"
   url: "https://twitter.com/grammarly"
-  followers: 196943
+  followers: 196949
 
 size: 201-500 employees
 yearFounded: 2009
@@ -29,7 +29,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1145736912193196033/ytFWK30j_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1399739533847982080/p_Girj6T_400x400.jpg"
     width: 400
     height: 400
     isCached: true
