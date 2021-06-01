@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 620
     height: 350
     isCached: true
+
+related:
+  - title: "Trust the machine—it knows what it is doing"
+    excerpt: "Machine learning, when used in climate science builds an actual understanding of the climate system, according to a study published in the journal Chaos by Manuel Santos Gutiérrez and Valerio Lucarini,"
+    publishedDateTime: 2021-06-01T17:14:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machineit.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machineit.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machineit.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/trust-the-machine----i.jpg"
+        width: 1440
+        height: 1200
+        isCached: true
 
 secured: "kP/4nsT8kI61KjUvAvs72YJVn20MHfFiPk/OlmqvMd9ZYoMu+vCRM+WBELlS/Wd3qDRTEbFj1EKRIaPxTuRUGiHZz4jWeudQGj/js0TVdxz7fTtYGTe8EtvZIDgRgZxLIbtUlKs1K2eOqOctUT/TFCzavaCicDFxXHrdNvc+96wft2EOe4iIglvynnUNA5YhIztlpDsG4GqFtPdSJjpH25hf2fI+S79z9OtvB21WbhkTUcTla3vVbEy7d8qiRYQiDlv2CiluK5GrNyuEBc6D2QKRDfnwbP8MP4VxSU3IgK59aA2x9xcKz9WcOFA1SHa3jTlMhYqbpD+ubDAxDlMjfd1Z3FCn/TbV21B89JckYPVz67U8DddzLNBkHtgKjgT77cXVaBRKgWeRn6guREU3UoiHsaQSdRXrkuI0xNzsdG9VW25+qTiu4Qg03MQPgfM/otW6uKe8MakmqOXoCqKCNiIIzvFDz8UU5EC9bWJ2htcdJ36emcnAkT5zE3u5eUv+qEZ3vnxssv9VMYsaXxltuA==;v5BviQjdFUNNz6riUZbJVw=="
 ---

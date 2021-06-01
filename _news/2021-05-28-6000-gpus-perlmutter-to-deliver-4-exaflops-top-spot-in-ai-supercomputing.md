@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 685
         isCached: true
+  - title: "Azure announces general availability of scale-out NVIDIA A100 GPU Clusters: the fastest public cloud supercomputer"
+    excerpt: "Today, Azure announces the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs—achieving leadership-class supercomputing scalability in a public cloud. For demanding customers chasing the next frontier of AI and high-performance computing (HPC), scalability"
+    publishedDateTime: 2021-06-01T10:45:53Z
+    webUrl: "https://azure.microsoft.com/blog/azure-announces-general-availability-of-scaleup-scaleout-nvidia-a100-gpu-instances-claims-title-of-fastest-public-cloud-super/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
   - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
     excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."
     publishedDateTime: 2021-05-30T12:50:00Z

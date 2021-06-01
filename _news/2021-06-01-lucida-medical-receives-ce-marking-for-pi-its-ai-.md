@@ -25,6 +25,22 @@ images:
     height: 448
     isCached: true
 
+related:
+  - title: "Lucida Medical nets CE mark for prostate cancer-detecting AI software"
+    excerpt: "Prostate Intelligence not only detects signs of prostate cancer in MRI images, but also helps radiologists decide whether a biopsy is required and determines where exactly the biopsy should occur."
+    publishedDateTime: 2021-06-01T14:58:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/lucida-medical-nets-ce-mark-for-prostate-cancer-detecting-ai-software"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 37
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1622559639/shutterstock_706828102%20%281%29.jpg/shutterstock_706828102%20%281%29.jpg?HD4sqt82PTg.lx4_nxe7m2Py7mQ0CSLv"
+        width: 1000
+        height: 666
+        isCached: true
+
 secured: "QTAm90iBczo3RDOsrUyUDGNkLfuBq4dXZV7zLpHF7tlnTg3LpgPJ5/Rbr+jg8qqYtdWpYUHvLx9QW6VaSRVk1xkHW8QkpfuYJEiFdjmroYdZYjqbPJK9wxapW1uHL3khnk2IWPKmExadGpn9Rn9QebYUJcPuM+d6zdpgpiieD1ZQClNnL8DFPOATskb8nnwFDU4SVg48FyioXsA37t34lxXtzIC0ydDa/QFy7IR0yFl3IxUFCA2VHSoZ2SSAV94cM7Kp0mSP+scsBbcb+3VGX2PdQjGP8UUWnZwdjaeNHpnitdj10CdJvSKmLOMDXGZjWcDGKCp1WvIvO72GaKdvTl3K7bn5ZmOtSFbROZ8cMDw=;B7frlMhZlGA3gPrM03IyPw=="
 ---
 

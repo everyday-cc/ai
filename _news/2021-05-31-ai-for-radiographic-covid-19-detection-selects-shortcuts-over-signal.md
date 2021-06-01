@@ -147,6 +147,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Machine Learning Predicts Dialysis, Death in COVID-19 Patients"
+    excerpt: "Researchers have developed a machine learning model that uses predictive analytics to detect risk of dialysis or death in COVID-19 patients."
+    publishedDateTime: 2021-06-01T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-dialysis-death-in-covid-19-patients"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "AI can help stratify COVID-19 risk on lung ultrasound"
     excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
     publishedDateTime: 2021-06-01T07:32:00Z

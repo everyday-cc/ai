@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cityam.com/artificial-intelligence-social-media-future-o
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: City A.M.
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "New hardware systems bring the future of artificial intelligence into view"
+    excerpt: "Machine learning is the process by which computers adapt their responses without human intervention. This form of artificial intelligence (AI) is now common in everyday tools such as virtual assistants and is being developed for use in areas from medicine to agriculture."
+    publishedDateTime: 2021-06-01T17:19:00Z
+    webUrl: "https://techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/closer-hardware-system.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "AI Summers And Winters And What They Teach Us About The Future"
     excerpt: "While the promise of Data Science and Machine Learning has created a lot of traction, we had before two other cases of AI summers: in the 1950s and 1960s, we had the “age of reasoning” and prototype AI,"
     publishedDateTime: 2021-05-31T15:24:00Z

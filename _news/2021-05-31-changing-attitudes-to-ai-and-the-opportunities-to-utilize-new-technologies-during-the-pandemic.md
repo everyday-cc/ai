@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/changing-attitudes-to-ai-an
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -26,29 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Robots, drones, and AI: The new technology making waves in WASH"
-    excerpt: "From sanitizing open-air markets to identifying leaky pipes, robots and AI are increasingly found in the WASH space. Devex looks at the potential positives and pitfalls of engaging a \"robo-WASH\" workforce."
-    publishedDateTime: 2021-05-28T00:17:00Z
-    webUrl: "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312"
+  - title: "Incoming Missiles Don’t Stand a Chance Against Royal Navy Ships’ New AI System"
+    excerpt: "There’s no doubt that AI and machine learning are becoming a big part of what the future of warfare looks like. Startle and Sycoiea sound like space-mission names, but they are actually some of the latest AI technologies developed for the Royal Navy ..."
+    publishedDateTime: 2021-05-31T11:05:00Z
+    webUrl: "https://www.autoevolution.com/news/incoming-missiles-dont-stand-a-chance-against-royal-navy-ships-new-ai-system-162279.html"
     type: article
     provider:
-      name: Devex
-      domain: devex.com
-    quality: 54
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 33
     images:
-      - url: "https://res.cloudinary.com/devex/image/fetch/c_limit,w_1200/https://lh5.googleusercontent.com/DIrIWRji_Zokhv-x550QyWc7WwTJkHhX93_oSniSy9StDo8GvX6ryjuO083d1yMiRkuncZFccs-iAWenX0n0XY2kn2X7w-59eJQAUozXa2IzLTboF-E4zZUYwBa70UX4CcpEPC9u"
-        width: 1200
-        height: 628
+      - url: "https://s1.cdn.autoevolution.com/images/news/incoming-missiles-dont-stand-a-chance-against-royal-navy-ships-new-ai-system-162279-7.jpg"
+        width: 728
+        height: 300
         isCached: true
-  - title: "New ground in robotics and quantum technology"
-    excerpt: "Faced with rapidly emerging and disruptive technologies, re-equipment of Australia’s neighbours with cutting-edge weapons systems, and an increasingly unstable geopolitical situation in the immediate region,"
-    publishedDateTime: 2021-05-31T14:12:00Z
-    webUrl: "https://www.theaustralian.com.au/special-reports/new-ground-in-robotics-and-quantum-technology/news-story/7e810478fa3ff09c9b6d44ec7cb0ec8f"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 34
 
 secured: "/X1xyxUZR/ZSj3boDjLKW7Nu2rqZaMgHVCVXSR6XWw6Q1kyjozebAb2sgnU6X3zZ5ixvGkIvQqbsXx3WSjFm8ZAXnHSrehEecmUyf+WkNZG8PkpEln0W1pGkRnsLMBI6Goy7C9p4w7xML9f4HjVmrD0Gkd81ju8s3V77StBaWagrMSjnorNpdJdZhhXhfwiFH4LvCxCs1+BX93JWKcZ0Wh8rMJifXkYbhckn5YxV5a6RpExSzMK70QHq1BFi/KwbpQPIT4rJ3nFfhmmQn2wDG567jsnEEvaOH6814/WusaquU5b1QzXSeWy5RofwaRCyudLVxSIKtRtgeJVuPDiCTV8jSZBa0tcQ8ivYDEAwPjo=;zFFdGJXFtz4+vU14tsbsoQ=="
 ---

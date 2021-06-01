@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 related:
   - title: "Artificial intelligence enables smart control and fair sharing of resources in energy communities"

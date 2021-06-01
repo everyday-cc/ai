@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-01T13:20:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-hivaids-market-will-reach-usd-400-million-by-2026-facts-factors-2021-06-01"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-hivaids-market-will-reach-usd-400-million-by-2026-facts-factors-2021-06-01"
 type: article
-quality: 64
-heat: 104
+quality: 66
+heat: 96
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -56,20 +57,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a"
-    publishedDateTime: 2021-06-01T07:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-301302563.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-        width: 1400
-        height: 733
-        isCached: true
   - title: "Artificial Intelligence Market 2021-2025, Market Size will reach 187231 Million USD in 2025, with a CAGR of 46.76% during Forecast Period"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
     publishedDateTime: 2021-06-01T10:55:00Z
@@ -85,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FihjSG+RCw+OZ7zes0NDPBXG1L1IamTY4vqSXed09HxfmL1n8Qb4//LkhtY+D2cAZMBNE2/MnsSVoKziFPrQQS21aKa0wPllJSlZWc+lMfJbS1oMAvDF8XqyBfUkN9evu3pmd5jTXixq+p+uIl2cC0rG5qQr+6H8JdWYYTqohhG7VfEKo2w09EUVJ5ls5A/HH2mJ3iJ1hPUevcWAjx+ip7GzVZK8UkjKSXDsjaFqpHtGsTDPis5A5waAnN7pJeqVeMGxSVwK2p7OcuFEiGH36+4RQi6JUK9ZYGsMdGHVFc6YEj9JcTFKrTJmVSGX42AgbeR4FV7qbvDqQtrpSMmNmUXVxtBMjV1xbYilvNP3tv4=;AU3p6bFFIQyBnrZhO7IEVQ=="
+secured: "ch1/bKpWxtSlCqq6bi7rKNRR5Odjh6inJo2VKnPL9TJgdam8hdhmTb9h5ZuOt0Yxq0pORgZl9srDaQbyLu4JT/H2xw0qWbArNYAwhZ1hjxRoUo5B3s6w76XzsinFmchyYkUAm2BbCl3ZCiswSIL7EnDfU5hlj7kxzm2N7x6obEXy/0wDWJvdjYjBJgL/oVUjbSzGn6Ev2AhP4UYjRJ4SBmZ14sep37FFb3PGAYwHtxXbzKGiWAi78E6VnFxfsyws1YO0f/nct5Z+8zUZBmbqGCCICNV4xSKRG61dl4PpiZ7S0irG56dXSdhisp4SEtyE6rRBMg8+bygcFlmUwjxvopSJ7MIF4v9nLunhSYObp78=;Yc1WMBMhfyHwLkXGw6+QQA=="
 ---
 

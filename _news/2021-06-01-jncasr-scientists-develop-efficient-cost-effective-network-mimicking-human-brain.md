@@ -35,20 +35,6 @@ related:
         width: 577
         height: 219
         isCached: true
-  - title: "Spine dynamics in the brain, mental disorders and artificial neural networks"
-    excerpt: "Dendritic spines can be considered to embody algorithms that underlie various brain functions. Here, Kasai et al. review spine dynamics and their roles in various brain functions, compare these dynamics with parallels in machine learning and describe how disrupted dynamics may contribute to mental disorders."
-    publishedDateTime: 2021-05-28T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s41583-021-00467-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 51
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41583-021-00467-3/MediaObjects/41583_2021_467_Fig1_HTML.png"
-        width: 648
-        height: 685
-        isCached: true
   - title: "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain"
     excerpt: "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computational speed and power consumption efficiency."
     publishedDateTime: 2021-06-01T05:15:00Z

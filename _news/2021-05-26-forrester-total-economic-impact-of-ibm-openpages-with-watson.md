@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Forrester Total Economic Impact of IBM OpenPages With Watson"
-excerpt: "Learn how IBM OpenPages with Watson, an AI-driven integrated GRC platform, can cut license and implementation costs and drive savings due to regulatory fine and penalty avoidance, reduced risk ..."
-publishedDateTime: 2021-05-26T11:57:00Z
-originalUrl: "https://www.networkworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson"
-webUrl: "https://www.networkworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson"
+excerpt: "IBM recently commissioned Forrester Consulting to conduct the Total Economic Impact (TEI) study that evaluated the financial impact of IBM OpenPages with Watson on organizations. Learn how IBM ..."
+publishedDateTime: 2021-05-26T11:44:00Z
+originalUrl: "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson"
+webUrl: "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson"
 type: article
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "F/YzrwqcouC4GzeojsEzqz/WqN3tW4oqkLk/nZlxUy5UW+y/n8FII9urmG9mM5c/fhJQixrdtyvVtj7Eclk+5tqTA/b5145XJ+bs4zW/ETaD6iF3APDp5xeTZM4269CJ5Mi/HKJhALwYgJz00MFVQmYEE0tcJmlF2mbHzp0K+aNJCjaq4CI2GgHEesSRKKmm4v9Bp3xDGlSQR/AVb/eGPt5bIbKVJ0AsrfPqIam1etfgsK4aDlKZonCdUipIjidoqSYJU4bwHYj9ByK4CPLfPTcDoDOJXoz5T8dW/yJ5p4OLXxOWWrPUQaMmqDjXZtGlUEQkBjFhWxu+y9JefmGDC3lFBxvqrLbpLtm9vM9OgxU=;7xn1i/Cb4tTabpRV/Msw7A=="
+secured: "O83Y1UsrEdCcLrzxmygUNk1tzirWVt5RbJX9FzjmP0qmFTm6YfJzHGyYicVyKye7xUdwaAa/ihMaTsI/ciM08eYWDLBUuhKYaXTz7vseU7QvqPr/f1k4JttcceS2R8IS5RhtpJiXmpDcvVKbKntJFM3tIkN9IJb90ObzdhalaKZwZzAiv3us/u3uDGS1Rq0SpcXke+/lRtzZrrrJZBJZUIMJLWXU80CEpeMFex2pqcwtSSZ0Um6UTR5s2wdIrJvYKxbwQ9pcc3n5TvUx96D9SPa7tQzTyLBKtnhsHvldTz3niKjCrlh/eRUc7ubjziDPvZeH9OKvJenI2KKx/ELTW6di8ptYA3KBVF9lCa/jz4M=;2V6RF4FopTLsfcHiXzzZyw=="
 ---
 

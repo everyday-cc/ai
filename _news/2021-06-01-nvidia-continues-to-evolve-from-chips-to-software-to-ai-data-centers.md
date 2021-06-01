@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia Lays The Foundation For Wider AI Adoption"
+    excerpt: "Nvidia has been pushed its way into the datacenter, making its presence felt with its GPU accelerators that are designed to"
+    publishedDateTime: 2021-06-01T16:02:00Z
+    webUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/"
+    ampWebUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
+        width: 1199
+        height: 877
+        isCached: true
   - title: "How Nvidia plans to own the data center with AI"
     excerpt: "Nvidia Corp. wants to transform enterprise computing completely by making data centers run 10 times faster at one-10th the cost. Nvidia Chief Executive Jensen Huang (pictured) is crafting a strategy to re-architect today’s on-premises data centers,"
     publishedDateTime: 2021-05-29T18:37:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NVIDIA-Certified-Press-Graphic1.jpg"
         width: 2048
         height: 1024
+        isCached: true
+  - title: "NVIDIA Launches Cloud Hub to Support AI Project Development"
+    excerpt: "NVIDIA is unveiling the NVIDIA Base Command Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
+    publishedDateTime: 2021-06-01T17:36:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Launches-Cloud-Hub-to-Support-AI-Project-Development-147165.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "All Major NVIDIA Announcements At Computex 2021"
     excerpt: "NVIDIA announced the upgraded version of the base command platform. NVIDIA has announced new products, enhancements and features at Computex Taipei 2021. The company claimed to have integrated artificial intelligence across every consumer-facing applications,"

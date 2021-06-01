@@ -1,18 +1,22 @@
 ---
 category: news
 title: "GSTS Awarded Contract for Vessel Risk Detection Using Artificial Intelligence Algorithms"
-excerpt: "CNW/ - Global Spatial Technology Solutions (\"GSTS\" or \"the Company\") an Artificial Intelligence (AI) and Maritime Analytics company, announced today that it has been selected by Defence Research and Development Canada (DRDC) to provide advanced Maritime Risk Detection and Assessment capabilities in support of maritime border security and surveillance."
-publishedDateTime: 2021-06-01T15:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381461.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381461.htm"
+excerpt: "GSTS is providing enhanced Maritime Domain AwarenessHALIFAX, NS, June 1, 2021 /CNW/ - Global Spatial Technology Solutions ('GSTS' or 'the"
+publishedDateTime: 2021-06-01T15:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/gsts-awarded-contract-for-vessel-risk-detection-using-artificial-intelligence-algorithms-1030483600"
+webUrl: "https://markets.businessinsider.com/news/stocks/gsts-awarded-contract-for-vessel-risk-detection-using-artificial-intelligence-algorithms-1030483600"
 type: article
-quality: 8
-heat: -1
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -33,6 +37,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5VqmAYMXGRaE+R/N+Zo+hjTC0wtKUkdDrlfoY01qH0BRoDuOgPtl+v1M/wvaTUMJg4as8bbtat9KNgYSmYojsL/9+yO3R9mhwhJee05n02FINvGqlF5N53GjdEbrwJLq329Hjqcf6O0E01TJIZhZ98OnUS2YevFt9j/cDmdy//pu3mSrQHaUdLh7Pjb9nl0yQiMfQ09x3X6493AHNcZDYYxNNusM3Kgf7m1VJxLpG3GzeTDYDKDusHMf0xlXryHGGXsu/VkRrLjLHZQCKUziNc8hphtVohUBhoJCJ95Cu8sfza9H5Klpp+sG/XM3tDv9TwvRiFmqN8J1mqrxsUgMuL9tFFp7HkBzhUuJKG++g3k=;Hzq8FUecYvn0tkAi6fGlXA=="
+secured: "CmCqQ2W1h5ZRF2JThZ8LaeXgOKi/lFZv9loku6ixTQc8exHN6XwmcPOTRAvaFD2/RR0XKQX8d73WwOXpmwUUCi5UFFE/K50fAhGkbEnB9CML+MpMA0jzP8Joel21h8+kflthNgY9qOzKfjPd0wZQMlWeSFEKRHJ1WmaC9NPfz8B3TpnmDcQ7sUCdza7x0IG64+XVjkbUbDYka3QTli58bOLOnppE053jzIhKxc1y2WJ/KZAidj8FiPCyuWf0qz84BkoHOH91e2PCT/vV7p0C8i8zyIuxkDxx97Rji4XRQFoCGmQ9O0ncovU90APuyk2B9HNjH+UVs9ECFQb9NtCRADFf6hwuB2myW0T1c2uJ2LI=;47WZwE4bgLUxP0qEw8rnFg=="
 ---
 

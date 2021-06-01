@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 1333
         isCached: true
+  - title: "New hardware systems bring the future of artificial intelligence into view"
+    excerpt: "Machine learning is the process by which computers adapt their responses without human intervention. This form of artificial intelligence (AI) is now common in everyday tools such as virtual assistants and is being developed for use in areas from medicine to agriculture."
+    publishedDateTime: 2021-06-01T17:19:00Z
+    webUrl: "https://techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/closer-hardware-system.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "M44gJznHcIOle9TjaGyUg6t4iyGksCZih1lYOAYmVWxgxZNrmLbSj2n/KLSpLh/drMZ/XpP/rRSni3PYSch1H9bFFGkGDfrLxZI6XBr+6zQNyPP+lNt1OQEFoUQezQLhtgD0Y0zSdNtGnloxrYgEVz3fCKQk8PE/iPCQ4v3i2P5OFNlEnqBeDxjFbR8dKXUxa592CfCYwPmjxps+Yb1iqOKQI7Xh21b4wzt6YuDDhOtaavVlIemh+6wH1GdO+p9khjLPd93sAPLF9f07dN07GRAWmJjd/i1nEbLPIZJ4HWuob48mruwNgp1TaHbqimwdufSCA03OJGjLGZigc++OJ4jMU2jAGSMsab9zgNh77S8=;XCZwqjtalivNxRIXRa627Q=="
 ---

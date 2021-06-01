@@ -2,19 +2,19 @@
 category: news
 title: "Patriot One Technologies Announces Accuracy Enhancements to Video Recognition Software for Weapons and Threat Detection"
 excerpt: "Patriot One Technologies Inc. (TSX: PAT) (OTCQX: PTOTF) (FRANKFURT: 0PL) (“Patriot One” or the “Company”) today announced enhancements to its Video Recognition Software (VRS) for identifying weapons and other threats in crowds."
-publishedDateTime: 2021-05-13T08:15:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8235658/patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition-software-for-weapons-and-threat-detection"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8235658/patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition-software-for-weapons-and-threat-detection"
+publishedDateTime: 2021-05-13T13:29:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-patriot-one-technologies-announces-accuracy-enhancements-video-recognition-/2021/05/13/9368950.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-patriot-one-technologies-announces-accuracy-enhancements-video-recognition-/2021/05/13/9368950.htm"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "qgtbCOJQvVvZAnHCfv+JZxweQ1Vn/dEZ76mO/+SDv6SxdOG7Q1fllkz7zW5FtAA69Nx+ds0OFXL3tRiYQrmeHk9dfolprtwoioOT1F9nTBfKAbLkV9I0KohXbA5emG5vyFPwb1w+HJbaHifztdBcTR4f+GZchve9A6wWLDs5eNnzFBrccjrW1oAeBLDH18/hKYsU/wl1R52O6UaQsPywKyG8oSYoGKd0ZZp9MMzJgaZHxnoHK8Udo6hkfca0o561+mgwnnUbXythFARDpQUyl3XPlGkfzjG9a58P0o174hFYF2fulkrRycPoJhiXjxPt6IrXH6yOE0nujVIr40LkTutuwzxvBhUFAAHmmlLRBR4=;cwVQ/YSY/BKEuEGhmEn5jg=="
+secured: "+7NN1LRbptuzC4ZirspYlsKdefwdMe3KEpI7Keg4saTzbuNLgQCbYiv7/Y4AN/cGFIlmooEXm/S3x8lxRVZNG/za08aPtYeXtdMtcNeAYq++pQDNKBN9H+g2czQpGoQ1q3d/QhkqEdb3RJeZPGT6Ats/YUILrhPwRATmED6eo1P4v9QmydM6mhexNIX29LAYppKDhB8jireUIW+tutuTP11ahxeBYgmQGv4pptEeWRdBu7eacH1pnGu93SMrjOPnM8AwnMLwv4ZAYXQ8Q0/3f3wI6OYFZtefXgX/dn/y3t/BWz36JCo8AvKHmhZAinmA8Gc91HsXNh67lXMjlXtACzxncOkpBXKB1kJXzTvqg2g=;+YfUrJL4JSL6xKK66l/w8w=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-i
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6e3d49095945c75cc74ef%2F0x0.jpg%3FcropX1%3D11%26cropX2%3D3287%26cropY1%3D84%26cropY2%3D1927"
@@ -75,6 +76,6 @@ related:
         height: 626
         isCached: true
 
-secured: "4rFwt3MiCeCahG9UTX1o9FS16dRY22Rv7rPv3SqUP58dK0lwM4p1Lsiqi/2DAg7z0fMQHu1tdW2fQ1zUh+ZBbKyDEXqp4BzFjbDiyoIc/XkuiKeivtcZngaWpNT2gM2koljuFuPSw3txUi24LdclTAkU6DsbDVNnfGBwLRqumfT9yuzmfi4TqTSa5wA74HrtnfCFcV2MeWUIpOL1GSrNrPxoPEMwYxWsdd93GQWYv8aeQmG+GOppRzvqpBgwK1HWIE6fFABO7g4Nuj3hIIrscAYoCnomipIyHfJUfGCKnIaEJ5Ag6mCgGjPX1bwMzQ5ZW/Wi82hzuK45QYGO/MeUxCDMJlHx7Y0DFt8sLx+Qnfk=;fdX9+6Mgbx25O2SkyyVwOw=="
+secured: "ai+ogb/BkdwlAoCNeTl/7rV+Huc4LmzSMamYV733KBXHkeUImaOZpT6N6iLN8RTCFmuOaCyJZtowm4/20AbxRlp2g33fOlF4y2bG1xWxuW0DxZ5fL0/cgB88rRqY/zNsOjAwuty/KcjRZDGWiiw+f8uDjRrprtRbwzEGqhQ5CiFAf7weMR4zGraJ9Xq+yXmkzoz6LDwmGJSqIQEZBgLs7KoYYXf1cJkW3U7aArbdJX4Ek3/7Qem+cVC1OyD1Sl6BrpYCPxxAa/NNGiA4wt3fiVBHC4piVfgHBy2s1cMboNJn9/izAJlLasU/LUlBYsREeWRWTyA0cafSc6FF3sNfqVnTD+1qPnMyJ1znJTxIzZHWFhgegDEGYdK0EVPAMHjySO3JsDCcCpTzsjI88pYzn3r1jy/Y+D/wkYb4QLqIKPfdiqdlxls+37LHUbkcX4l7Zfwbg/4dybvND1TYW5SiA3PVmjNvnCW9GIMZQ4GKhN49pYhSVeElMBvLjJPXgG7ltwyU2N+BYYAomWNvHpbO3Q==;NAsl+D+Lr+VPvMwnlAWILQ=="
 ---
 

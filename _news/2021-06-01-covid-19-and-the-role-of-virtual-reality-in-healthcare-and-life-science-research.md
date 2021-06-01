@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/lifestyle/health/covid-19-and-the-r
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/covid-19-and-the-role-of-virtual-reality-in-healthcare-and-life-science-research/2262844/lite/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
-    publishedDateTime: 2021-05-29T14:00:00Z
-    webUrl: "https://www.openpr.com/news/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    ampWebUrl: "https://www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "gxLbf2TrULSVxZ+0Ou9ohnRgbO1t1iIo0wX+qv3ddNrNweeJ4+IR7bfL1QullArcz6PHgkv/0bkXHBSbmrH+h08pSZThLraHUwC5b+mAV6ALlc0dmD4vT6JRWHU9TzPN48YZhNxQZyKcB3HoCuYK1O3bdxn5Pgsx7Lfnt5CzzeYM6TA1jejMQp/2YTvasZjy4J/LCM601fYPSin7TYkYf91gjsi2AU71s6Typ/Qe+S322I5DVx0Bu4NRQISPiFgKpbQNOTdSJNjfZ8naCcAQM+My5JJGassGUzCWythu2JvU578qgYU17hZ/Pnn+fsJNabrsbSc04WaavwIVZW9xX73aSI/kUqvR4BPd7+rYfDo=;k5MpXKWLTgqZW8+70QRWqw=="
 ---
