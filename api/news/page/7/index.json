@@ -2,6 +2,41 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-26-udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning.md",
+      "title": "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning",
+      "excerpt": "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-laser-driven-ion-acceleration-with-deep-learning.md",
       "title": "Laser-driven ion acceleration with deep learning",
       "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
@@ -134,17 +169,17 @@
     {
       "path": "_news/2021-05-26-forrester-total-economic-impact-of-ibm-openpages-with-watson.md",
       "title": "Forrester Total Economic Impact of IBM OpenPages With Watson",
-      "excerpt": "IBM recently commissioned Forrester Consulting to conduct the Total Economic Impact (TEI) study that evaluated the financial impact of IBM OpenPages with Watson on organizations. Learn how IBM ...",
+      "excerpt": "Learn how IBM OpenPages with Watson, an AI-driven integrated GRC platform, can cut license and implementation costs and drive savings due to regulatory fine and penalty avoidance, reduced risk ...",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
-      "originalUrl": "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
+      "webUrl": "https://www.computerworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
+      "originalUrl": "https://www.computerworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
           "width": 300,
           "height": 300,
           "title": null,
@@ -156,21 +191,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T04:44:00-07:00",
+      "publishedDateTime": "2021-05-26T04:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -930,8 +956,8 @@
       "title": "BrainChip Highlights Its Akida Neural Processor at AI Field Day 2",
       "excerpt": "AI Field Day is the latest entry into the long-running series of Tech Field Day events presented by Gestalt IT. BrainChip will discuss recent developments about its Akida event domain neural processor SoC,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-brainchip-highlights-its-akida-neural-processor-ai-field-/2021/05/25/9377741.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-brainchip-highlights-its-akida-neural-processor-ai-field-/2021/05/25/9377741.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/25/9377741.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/25/9377741.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1097,58 +1123,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law.md",
-      "title": "Chips Designed By AI Are The Future Of Semiconductor Evolution Beyond Moore's Law",
-      "excerpt": "Synopsys CEO Aart de Geus believes his company and its advanced AI design automation tools may have an answer to scale complexity of Moore’s Law and the systemic complexity of hyper-convergent integration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ad2c51a132a7ece07f4a43%2F0x0.jpg",
-          "width": 1200,
-          "height": 912,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/amp/",
-      "publishedDateTime": "2021-05-25T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

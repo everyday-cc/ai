@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-01T13:20:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-hivaids-market-will-reach-usd-400-million-by-2026-facts-factors-2021-06-01"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-hivaids-market-will-reach-usd-400-million-by-2026-facts-factors-2021-06-01"
 type: article
-quality: 64
-heat: 94
+quality: 66
+heat: 96
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -71,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+ETV7wQHHU+UQOUGRpUid+WwQ8ZRq/nYw+A+oEC3WTtpTmB2ZKOUw2oJRPoG5wJFdlmOotu4H1e+++nJ4iACr5JnZIZDpRXWuYHD0vXDccD60JrbtAhY2D66NjK1cScORr7642bP5Zfnzl5nFGTUJcA8AhadyggfFq0KnfSE7WLaNVrSU30ex8TMoz/RQwBQzg6/oQ56xkDFfF8XNIyG8SbOh96AuC9pF/RiEiE1FaicSbxRdqZxu1nEV5nFzLzAo6yZSW1OAUosNGNAPEdSmNjsBnmgTQIpOlZTIWp8GYlQN4JC8ChnVH2imj1uwmveOPyfske9b9S4a3TFvg37u66ybL5qbsdvW1XNwzrydww=;itRsjwl1zWmgBlcSiNL/xw=="
+secured: "cxbgfEZF06QrkRS1mEJ+UltcD21DjvAkNQ5LRTB3SE9+ckEQD4b1O2kWLH9v+1crw69vzjwRxbzUSxiNZQIcHQDYApb6b+7tqnOtMxS97A8NnEozoTIOkulmOciWbRBb1I2ZuajMQzQeag61zDArcbzWq5VjdaPwO19ct4opUYN7qb6YNs7JSYm8f60ni9zSa46GjLwXBD6whRJVZyZIER+Fobp5B32QfyR7dBVZRbuIoGq4zkQG7oKywubOxtMmsQKvBpFNmplkzlwQJ3dArn+lb+3XmBHY5MaCqIwUCx91U2YeOaugBaGeBBQUwXVz96nRsSlciHHBjBCjUUIjOoMxnk1+EiXxULRie8tggtc=;x7VuAton3HVl/E4NsUqT7Q=="
 ---
 

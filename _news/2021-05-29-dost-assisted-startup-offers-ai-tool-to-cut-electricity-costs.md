@@ -7,7 +7,7 @@ originalUrl: "https://businessmirror.com.ph/2021/05/30/dost-assisted-startup-off
 webUrl: "https://businessmirror.com.ph/2021/05/30/dost-assisted-startup-offers-ai-tool-to-cut-electricity-costs/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,154 @@ images:
     width: 720
     height: 724
     isCached: true
+
+related:
+  - title: "New AI tool to help doctors assess severity of COVID in patients"
+    excerpt: "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree"
+    publishedDateTime: 2021-05-29T07:56:00Z
+    webUrl: "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    ampWebUrl: "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    type: article
+    provider:
+      name: Madhyamam
+      domain: madhyamam.com
+    quality: 59
+    images:
+      - url: "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg"
+        width: 600
+        height: 298
+        isCached: true
+  - title: "Novel AI tool to help assess Covid severity"
+    excerpt: "\"Assessing the severity of a patient with Covid-19 is a critical step in the clinical workflow for determining the best course of action for treatment and care, be it admitting the patient to ICU, giving a patient oxygen therapy,"
+    publishedDateTime: 2021-05-29T09:38:00Z
+    webUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html"
+    ampWebUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/03/QT-Artificial-Intelligence-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Researchers develop Novel AI tool to help assess Covid severity"
+    excerpt: "Toronto: Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy. The researchers from the University of Waterloo and Alexander Wong,"
+    publishedDateTime: 2021-05-29T07:46:00Z
+    webUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+    ampWebUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 59
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/05/BL21ARTIFICIAL.jpg"
+        width: 1200
+        height: 749
+        isCached: true
+  - title: "AI technology can assess COVID-19 severity with a promising degree of accuracy"
+    excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
+    publishedDateTime: 2021-05-29T08:12:00Z
+    webUrl: "https://www.news-medical.net/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 55
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "COVIZN: An affordable artificial intelligence solution for COVID-19 diagnosis"
+    excerpt: "COVIZN is an artificial intelligence based screening software for COVID-19 that can be an affordable alternative to microbial swab test"
+    publishedDateTime: 2021-05-31T11:03:00Z
+    webUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/"
+    ampWebUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 54
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-skeleton-163715_640.jpg"
+        width: 711
+        height: 400
+        isCached: true
+  - title: "AI models look for shortcuts that could lead to errors in diagnosis of COVID-19"
+    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes."
+    publishedDateTime: 2021-05-31T18:29:00Z
+    webUrl: "https://www.news-medical.net/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 53
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "New Artificial Intelligence Tool Assesses COVID Severity"
+    excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
+    publishedDateTime: 2021-05-29T17:36:00Z
+    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
+  - title: "Machine Learning Predicts Dialysis, Death in COVID-19 Patients"
+    excerpt: "Researchers have developed a machine learning model that uses predictive analytics to detect risk of dialysis or death in COVID-19 patients."
+    publishedDateTime: 2021-06-01T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-dialysis-death-in-covid-19-patients"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "AI can help stratify COVID-19 risk on lung ultrasound"
+    excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
+    publishedDateTime: 2021-06-01T07:32:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132539"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_28_22_04_8526_2021_06_01_AI_COVID_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
+    excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
+    publishedDateTime: 2021-05-29T11:20:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 24
 
 secured: "B8GlKxDkeusEXsGjxqsBC1mannkN04A92geDF6dIq5LYVnCz0dI41qALfUvSE9XREZBb/f84D59IKVcEC5+XDJm/q2QPi+1dxmPDjqL2FSlGWuXEGhqjoqnB0umoMbubdKTxun8g8KoSQWrOeDi7UM7ov6mpuB2CMWLC8YAgueal9xsePZ9OuB+lgZ8nCWPo8Xm5qd2d3xWl8j8Vls7WR83S4X+UDfGtPNrldcL7nQfk7QVQOLpHCLHyBkGvqcZ80j/v772BK6XNvKyTPY6kGsrD7Z2u4H5uswrEbR2HxuuAkA2ImVIgRqMZlh6cRsuv5qMhF7lxUp1Zr9SA2HPlGUq+/P4IQ6uICih60wQ/Mski+3my7T87h8O6KoFc4OO9ZtiSMQsXSo1+HSPbtQ4gZjf9h98CsO+uEoJnudGWgN56BIo/q/udzSXjxjcRBkrJSZRERiMTmsFEy+Vvk4tPEuG2AbF8dnyJKRubPlcjBy7T5LHGxXgVRzJ5FP+YEdyyq+uH6ZT34NxXlMEFQOeC7A==;8nJBs3+tAthuGO2TFoPsSA=="
 ---

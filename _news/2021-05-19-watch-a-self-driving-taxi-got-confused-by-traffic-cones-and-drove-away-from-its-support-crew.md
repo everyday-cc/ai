@@ -1,20 +1,17 @@
 ---
 category: news
 title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
-excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
-publishedDateTime: 2021-05-18T20:23:00Z
-originalUrl: "https://www.ksbw.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-webUrl: "https://www.ksbw.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-ampWebUrl: "https://www.ksbw.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-cdnAmpWebUrl: "https://www-ksbw-com.cdn.ampproject.org/c/s/www.ksbw.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+excerpt: "watch a self driving taxi get confused and flee from humans trying to help twice. I don't think it was supposed to do that. The vehicle operated in Arizona by autonomous driving service."
+publishedDateTime: 2021-05-18T21:54:00Z
+originalUrl: "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+webUrl: "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+ampWebUrl: "https://www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: KSBW The Central Coast
-  domain: ksbw.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI in Autos
@@ -26,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "evGymsJvdKmvv1/SFxZe9fea8WryN2E42Wrsq9hlekhNGlC5T5oUoP9/rx5jnrzV+w4IgXPGDVzHkIOC7EqpXDpwYWOy1VUTNxCHieJ3Jm5WR39zGjzXo2xx1nBA0lnCLPmtPY4ASTMhxcu0qjzINmj8Izh9bNa4XM4S23RJawoSByW3P83U8NbbCbaCX9/ZJDM1xUQ4je5m5gn/arQxy8fGli7OFZlQB5rK30Q0EhzIlkzzZteb7PXozpqd1FRiR0/FVHLXJASDOG0Ocg45uFgj33LPfPxHB1HB4e/IN+ut9Q7G8YKJ1dQRucR796CaAkvPRy0/P7X619V96qWc1SqSjSORhrG6iCLtFA5ABuA=;AyfCCYEkyeKAdfaoVO4n9A=="
+secured: "mX3A6WPmLnnpQ8/Rcx3mFTDpS8/EXHxtIMsiPbj2aCia9TIeTrkxgrBZ7icYYmWVV+BmT7LHJ7IZlsxmzAEnApZpLoB3CYeV1mhxGwtGwUPW8293e5M9lrE/FXJVsT64w/LzzRYHhD92EFxXpqPttqGAZW9X7exUptNxKzmilJmFP4wIkGwWERui3lAtLb6yLBOgh5na1nOrHxNwZvmnpGl6IIahZT4FPjfL+TEXG04OQErgM/UWmgiSvjc0F+m6bFMCNYTwpFCKIybTfDr9P0Ei6yDrbTn8hK3t4EBKXQQDLGGKFVPOlgMWtMRtqKSOW2SUCKkaO3LUu7fJZi0tfH1sS5t/UKOTiqFpogndN+w=;L6glp/Lw2E56pvWy/+g5ag=="
 ---
 

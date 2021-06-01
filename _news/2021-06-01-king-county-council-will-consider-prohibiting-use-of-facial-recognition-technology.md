@@ -57,6 +57,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Congress Struggles to Control Facial Recognition"
+    excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
+    publishedDateTime: 2021-06-01T20:53:00Z
+    webUrl: "https://www.eweek.com/news/congress-struggles-to-control-facial-recognition/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Final action expected on King County proposal to ban facial recognition software"
     excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
     publishedDateTime: 2021-06-01T15:31:00Z
@@ -87,6 +101,17 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
+    excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
+    publishedDateTime: 2021-06-01T20:53:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
 
 secured: "E5+2WTcbQK7FXRhcroRePgluGTS/tbgzeuGqD2F8AsRNtqmnS0k387534J3hsgnFdP/XBen8Mh8k0vKAGBKQ9xzrnB2e+cEjIR0JAy9KoieuHqfW0xtsid41OwC6i62qWY5NoDlmrHo3dvlYeAoy+mYufz0m/qzkF9n+Jzd+Sr4HFVEML8DNcDed0nJzi55gWxy8WYs+LrPkcG5140EmZyqHDEHw4gjNQ7ZPQvW2NaapXRro2CLijixofeN8hoxoNS0KvFg9u2KeIlnxBQ9bwS1UlmCL4+qOc/CYXE+KkFM7ATjz/5TdGiiS3N1S6PEBrHjmHDsMkuStP8r5yAjSl3njcewz03e4FHMzpfb3H/IDxkFJNSccsmgLK7G74Szlb4/fb3g+/1otWzkvTH+ofocg7Kyu5Jgfm6HRFVBKmyqoGy1h1fDTTGK9r6aU3HKbvgB0b6XQGpCx7J6+o/s74pYQRk8B4ORTej7ufq6PM1XsCVfcED/h5FW9TSQgqqpUA3a6HOLHUjwUCMvh8g6+ag==;COdySBRY8Q0x1xVCLrQP6A=="
 ---

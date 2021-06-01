@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Service Robot Industry Summit Held with Launch Ceremony of BooCax Robotics Henan Plant"
-excerpt: "On May 28, the Sanmenxia Government, with the Association of Industry Service Robots and BooCax Robotics, a national robotics company, hosted the Service"
-publishedDateTime: 2021-06-01T19:09:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53034392-service-robot-industry-summit-held-with-launch-ceremony-of-boocax-robotics-henan-plant-011.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53034392-service-robot-industry-summit-held-with-launch-ceremony-of-boocax-robotics-henan-plant-011.htm"
+excerpt: "Sanmenxia, China, June 2, 2021 - () - On May 28, the Sanmenxia Government, with the Association of Industry Service Robots and BooCax Robotics, a national"
+publishedDateTime: 2021-06-01T19:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/a21376105/service-robot-industry-summit-held-with-launch-ceremony-of-boocax-robotics-henan-plant"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/a21376105/service-robot-industry-summit-held-with-launch-ceremony-of-boocax-robotics-henan-plant"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21376105"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21376105"
 type: article
 quality: 46
 heat: 46
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.acnnewswire.com/topimg/BooCaxSummit.jpg"
-    width: 354
-    height: 354
-    isCached: true
-
-secured: "J63ovQ8Qsmx2gJes36XSCJbojsMgzC9Z4R1QbkaTBCQ3Y57RUGn+T/sHgmyjKVAIA8pLwXzhtQC+C/1dP3aLUhcdEarMOPHoBI16siZ8g91HHWmEg32FzHtRUnU9Du0qnmhiJ/CnIM8YXoj3I0h1CcwU+1jbYF2yqqxyGB9b22KSSUkbznp1HPfSqKDkhRB0opNfnSCgllV6upsmIe23hhBf22bhXElRDha07yYMmFc9fs/P207sVfGzZGN5z2+TLr7b9mh3RV/+k4gmBA30837yNJpVJIxOuCxzmDVC4OPcXZ0XM+FeL2G8q0DGWnFAXJGUUzWaUBH1MN/KWq2Oba8SB4tXQhsAECCeoFsakeA=;VkUFCNqdIPX6XLYvQwVQqA=="
+secured: "ePNgQGczvz3CrrCqqCGqX5VEgKR24heVFWdtVEI0uZomHvAfQwjXx+ta4kw+PTDFcr9ejmSQ33sIILKvHzcx1BiglivhBcYFKryEwFVfK97LkOlUfitphAbvu5iAAm5QtZ8Cgr3rVPVx4MzCPjJhINmryEF5ZPaOWBq+MTyZqSbuTgDyLLqgJDaBhqoc8WEwseYtrI84PdD+kbC7N1q8WhLDxtJN+wSH8kl/wiAQj/RSOavu2+11NcM9hw4FtW60b+0nQteiBammlV6+0UzHi0L7xLucPSaVbIJFCcQkdA86dcaukYGqCbrzEFDL6jiwtYxzVaIP2d/OskSrD9OuYDKUwZYhCynN+0F+gvlmknk=;nLa1J+SEOTBHLZhItz5BTQ=="
 ---
 

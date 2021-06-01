@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Can Help Doctors Manage COVID-19"
-    excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,"
-    publishedDateTime: 2021-05-28T05:03:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 59
-    images:
-      - url: "https://scitechdaily.com/images/COVID-Chest-X-rays.jpg"
-        width: 777
-        height: 489
-        isCached: true
   - title: "New AI tool to help doctors assess severity of COVID in patients"
     excerpt: "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree"
     publishedDateTime: 2021-05-29T07:56:00Z
@@ -147,19 +131,19 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "AI for radiographic COVID-19 detection selects shortcuts over signal"
-    excerpt: "The urgency of the developing COVID-19 epidemic has led to a large number of novel diagnostic approaches, many of which use machine learning. DeGrave and colleagues use explainable AI techniques to analyse a selection of these approaches and find that the methods frequently learn to identify features unrelated to the actual disease."
-    publishedDateTime: 2021-05-31T15:02:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00338-7"
+  - title: "DOST-assisted startup offers AI tool to cut electricity costs"
+    excerpt: "Filipino business owners can save money by reducing their electricity bills with the use of a locally developed smart energy analytics platform, the Department of Science and Technology (DOST) announced recently."
+    publishedDateTime: 2021-05-29T16:12:00Z
+    webUrl: "https://businessmirror.com.ph/2021/05/30/dost-assisted-startup-offers-ai-tool-to-cut-electricity-costs/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
+      name: BusinessMirror
+      domain: businessmirror.com.ph
     quality: 37
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00338-7/MediaObjects/42256_2021_338_Fig1_HTML.png"
-        width: 685
-        height: 358
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/05/science01-153021.jpg"
+        width: 720
+        height: 724
         isCached: true
   - title: "AI can help stratify COVID-19 risk on lung ultrasound"
     excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
@@ -175,20 +159,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Helping doctors manage COVID-19"
-    excerpt: "New tool uses AI technology to assess the severity of lung infections and inform treatment Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
-    publishedDateTime: 2021-05-28T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uow-hdm052721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/266191_web.jpg"
-        width: 685
-        height: 431
-        isCached: true
   - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
     excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
     publishedDateTime: 2021-05-29T11:20:00Z
@@ -200,31 +170,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 24
-  - title: "Middle East & Africa AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Component and End-User"
-    excerpt: "Reportlinker.com announces the release of the report \"Middle East & Africa AI in Computer Vision Market Forecast to 2027"
-    publishedDateTime: 2021-05-31T11:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21356348/middle-east-africa-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-regional-anal"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21356348"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21356348"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-  - title: "Artificial Intelligence Platform Market is Thriving with Emerging Trends 2021 after Covid-19 Pandemic"
-    excerpt: "The Global Artificial Intelligence Platform Market 2021 Studies document from Big Market Research presents an in-depth assessment of geographic scope, market size, huge company information, great analysis and market revenue estimates up to 2026."
-    publishedDateTime: 2021-06-01T11:21:00Z
-    webUrl: "https://ksusentinel.com/2021/06/01/artificial-intelligence-platform-market-is-thriving-with-emerging-trends-2021-after-covid-19-pandemic/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 22
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/33-4.png"
-        width: 628
-        height: 385
-        isCached: true
 
 secured: "FxzPsen0hlT3JhAXFU/NdrT+7Le4xn/fxjFgkQZ4hpOLvO+/w3hCgM+ZxGsI/ENurwUiMT4tCLCqTFH6hus60bqEU/R6a6N5Lv+Sb0OHobAZj9lrSTprpVD8NLfxgc1RmIe9xgVVlk7hiOim0NIGRCaqdrqfFOtRN/EnpdJKm+kE906qLiXabRZx6vaHbO9MXXartxu9byPNEv3pCWd701qT11jb9atDQOY5p/847lZOLJm+zTG7cE/3fZKWqRnteIZErO6ofNbHNXn0tvLgcS9MKurdOr/TYVRjzcPX31n1y3VxABR4I9jI9TAddQlURSFBX/9srxWdSgSamz8/7O92AIMTqu/znbr5mWCGC8Y=;k9ZUx5YbRmTyyUzta3KHtw=="
 ---

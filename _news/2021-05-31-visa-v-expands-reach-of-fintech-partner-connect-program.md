@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-part
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Fintech changed the financial world quickly. Here's what's next."
+    excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
+    publishedDateTime: 2021-06-01T19:16:00Z
+    webUrl: "https://www.bizjournals.com/twincities/inno/stories/inno-events/2021/06/01/state-of-innovation-fintech-minne-inno.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
   - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
     excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined"
     publishedDateTime: 2021-06-01T13:34:00Z

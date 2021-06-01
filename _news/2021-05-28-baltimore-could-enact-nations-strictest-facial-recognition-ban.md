@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
 type: article
 quality: 139
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.modernghana.com/images/content/5282021110606-m6htk8v331-4295d2e4dc504e6087fae39d501c19615044132c.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Congress Struggles to Control Facial Recognition"
+    excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
+    publishedDateTime: 2021-06-01T20:53:00Z
+    webUrl: "https://www.eweek.com/news/congress-struggles-to-control-facial-recognition/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
+        width: 2560
+        height: 1280
         isCached: true
   - title: "Final action expected on King County proposal to ban facial recognition software"
     excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
@@ -87,6 +101,17 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
+    excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
+    publishedDateTime: 2021-06-01T20:53:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
 
 secured: "x87x0ceFP6+k7vq0Ws2mbdaiZZaphGCI9jotuMJf4p6uO+OjHL89UxO+8OEl6akf9xcxrnfF+ZxVkNY86pnqT8Eal3ksfQYfGIgKzVBwVO8QIfxnWrvggZW3M54pIQmIHGP5varB5YOFTk/arxN1LZG9Ubt/wblj5siWLwrA0OETBJuStI2GzwpeP8Vq9phWNO79bcGGGVAZXjnJWkn69xBpvn/ilgVKTIvfKS88WCebykqykU3ZcRhUTQq1t7+Hrwqfkb3Kfyh7nuVnLvbWM9bWmqwwZJfdrvarPTgzDta+NJX8qR07a9hHN2Oabzedh++ov1tvyeoMOZdEpftm6mbl8c3wy1ffthMdftm1trvbipS96SyzHu01FpXJfznM;67aUlQjSqw0Qs9zTA34w3Q=="
 ---
