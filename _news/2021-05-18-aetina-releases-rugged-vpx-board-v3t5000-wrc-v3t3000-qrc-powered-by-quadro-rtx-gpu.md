@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Aetina Releases Rugged VPX Board V3T5000-WRC & V3T3000-QRC, Powered by Quadro RTX GPU"
-excerpt: "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU."
-publishedDateTime: 2021-05-18T06:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu-1030439569"
-webUrl: "https://markets.businessinsider.com/news/stocks/aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu-1030439569"
+excerpt: "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU. The news coming product includes V3T5000-WRC & V3T3000-QRC,"
+publishedDateTime: 2021-05-18T06:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9371248.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9371248.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -25,6 +21,6 @@ images:
     height: 267
     isCached: true
 
-secured: "IMJ2MJM1bIUGX/CrN/QxvWNsnpxYXxLsCfMTYnLFCJHsRzGzgU2gUfaOhzGiK5v4dLG3GyRkkWihNfvt4/U1+HKsnbDlBr5wskjPFGan6bDDjFvlP2u9Jy6H80nja+fO0engriSid02LHkfza5144nKm3aN9dgTMJfj8uWnGv+bNMY1hefrrZ9tFlY6A3RPxCR1oedci8OTdV9ohPM52jhHG94N6WEcPmCFU7Oaag3LJi1q3ycoS7XXHZHPBO8Msq8cEu0JY2Eq/RRsgWmgYzPbty+QlT9EL5tkd7LM3zc0LdAsEzUip9lzRSTH8bmtOG+iysptAQAL73F6V4WLVWKrO/v7NhuOQz1r7YnfVvgk=;R2bp58lL2tEQOQ85t+l33A=="
+secured: "f79ifT2Uup2yEgG9wtr3btie3omRS9n5C1zparrTk6auKU8bMVmTEOQ/QRb427jiJONaF8qEFQXgv0SICBPMChCR/eTz8MQCfFp1HyQh0GtM0DwM9taUR+n/w0drTSU5MLCdV2lLWeUShTpfeOtCII1+mRyVHBMr9dJm7Fl05QIgGjOdJx8hCuy4qiRUh0sgPYnDrrZVjxMeyRVh8O8viA+uAILu/E6SaH1JyIEmKOB/k6ynvVUKj1g3tMPjHQZO2LyzR+7ELj1ynSfQHtNquFjJWR4eSERvLDD3E2Irt/i+2jixwDl+UbdarSunU31SwNR9q3fNzfSqeLDZ+0EPmOoZp2j1L6RgbnqkedEA07I=;zPAlVnuDDfA/PqwtIRxGHw=="
 ---
 

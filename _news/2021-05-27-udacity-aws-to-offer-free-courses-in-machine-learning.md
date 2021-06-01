@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/udacity-aws-to-offe
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AWS & Udacity Launch Machine Learning Scholarship Program"
-    excerpt: "AWS strives to help level the playing field for women and people of colour, who have been underrepresented in the tech industry."
-    publishedDateTime: 2021-05-27T10:39:00Z
-    webUrl: "https://analyticsindiamag.com/aws-udacity-launch-machine-learning-scholarship-program/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Udacity_AIM.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "SzCndFfmtIn2ViJmXpy67aFy1nY5ls2dWsE3+6Dhm0bgVSuUdMg6l9eXpXknYDOoYrLX1lLw6OWWgK3axGFai5ylq3QKf3gcZZ3fdJSG29MJtGn0kr33z+WofeeP/qo5UeHAdUocFrM0VjKjuHoByPJWn6dxlBRL0Gye8R/2XFTPA1Xt7WlJYBc9MOESP0sPaaV7TRqG6V7R07mu/1h+k1OXEmokWEnKC73s7R7Efa2CpVjDXrcDFaGGOIn+5RcwbqY6vQyHY6pEcAkYKLxa+oT980e6PuuFI10jGrm7+kFXc860yIoVi7tYWyhB5tGmWtkC5JziR6TKGOAuvYyMRZEHwDuV9V5ZkA36Jj/2FnlXJ8GZJRFJJs/o81C8RaxtRQ4hKrw/l7Cjv6/gTHR6LV1CBFShYy+Mfhd0Vzr1Hr2sHCRfsvf24cJ+7F7kL9BxdAeV8srREgd83X22+hK4xTRnPLZPKZZaUL0Yevzp2woyurrMBQUwM3INzvjT1MTuffqBnC/OoFVpzcL/dN40Tw==;uoEQtdKvmS70swrVUpe4BA=="
 ---

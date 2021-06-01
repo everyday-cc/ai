@@ -28,16 +28,16 @@ related:
   - title: "Deeplite accelerates time-to-market for AI applications to run on edge devices"
     excerpt: "In today's world of computer vision AI, there is a significant challenge of running AI models on the limited compute power of edge device chipsets, as they are typically too large, process heavy and consume significant power."
     publishedDateTime: 2021-05-28T01:54:00Z
-    webUrl: "https://www.digitimes.com/news/a20210527PR201.html?chid=9"
+    webUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 37
+    quality: 35
     images:
-      - url: "https://www.digitimes.com/newsshow/20210527PR201_files/2_r.jpg"
+      - url: "https://www.digitimes.com/NewsShow/20210527PR201_files/1_r.jpg"
         width: 336
-        height: 224
+        height: 336
         isCached: true
   - title: "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge"
     excerpt: "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ..."

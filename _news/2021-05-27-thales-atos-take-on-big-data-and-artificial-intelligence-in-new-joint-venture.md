@@ -40,15 +40,6 @@ related:
         width: 546
         height: 312
         isCached: true
-  - title: "Atos International: Thales and Atos create the European champion in big data and artificial intelligence for defence and security"
-    excerpt: "Atos and Thales announce the creation of Athea, a joint venture that will develop a sovereign big data and artificial intelligence platform for public and private sector players in"
-    publishedDateTime: 2021-05-27T09:44:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52990761-atos-international-thales-and-atos-create-the-european-champion-in-big-data-and-artificial-intelligence-for-defence-and-security-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
 
 secured: "+bAbNjEiTH8KQR/gixzyzEprXfjZljcNC693h1TT7C3NTBhk9rwBr2K+dTEhdHIKQYNwi8OsB+HeoGi7imvo8TBHE96m4zlR4T/Wkw8tIs+9jYVTuyUsMizE3CsvAxMo52k+lZSnwxmnRT/RzagnXFBmLdxyug5OAeIEyl1gZuG5o8AVKw4G/tUCVNiEB8mEDkPBAevwrEPmxo26LiOtPmi2Bu8Vr0btV80re0wKp6W1a8gbfqT0AJBm5LuBhXk6nVFMzKtOu4nR+X3Q4C+pBvRvxno9Qo5rftQR+XIGPZCyAfT+9nQG32gwudQmtGl6HniWO96C0fYz/Zngg4ug6Gn+N4ofsspzC8/S0T5fGV6Fr2cDMT1epEscPH9kwIOid92eIgLqF+OnsVv3c8QUO9pkI65QZsqfB43Felved7ZG2GnZg8TzxbaBpQ0Ayy5gjPyi44Xju9nl6U1AObmTc+CTyELiGGpGlcKgX7NqBQoBzep8NlVmzYIwiHLcrTG9jSRN0JfJaf2I0n1uL8UB3w==;0RvWM4/1kEF0fdXBmbaiQw=="
 ---

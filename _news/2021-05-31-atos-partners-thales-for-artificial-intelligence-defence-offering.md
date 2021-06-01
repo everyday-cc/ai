@@ -9,8 +9,8 @@ ampWebUrl: "https://www.consultancy.uk/news/amp/28050/atos-partners-thales-for-a
 cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/28050/atos-partners-thales-for-artificial-intelligence-defence-offering"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Consultancy
@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Atos International: Thales and Atos create the European champion in big data and artificial intelligence for defence and security"
-    excerpt: "Atos and Thales announce the creation of Athea, a joint venture that will develop a sovereign big data and artificial intelligence platform for public and private sector players in"
-    publishedDateTime: 2021-05-27T09:44:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52990761-atos-international-thales-and-atos-create-the-european-champion-in-big-data-and-artificial-intelligence-for-defence-and-security-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
 
 secured: "wpsa0UgjsTxjzc22x/UPCI08n5fpug39tgxkX9QThIuAx61wbolUhZ4tHUSXYyTdDKT0bdpvy7BPTjikuCQZgBV9gA5+qgnRPbuJXDUxlOkLuiF24bq9Km7EH3P46YZxsekqKKf0R1OQilzdT2UF9QQ1vZK0AkS3symP+waAKrGSpP6l50ZRO6cXF3V07FaTbD2PPZ977EMgEs1HGueikQSLedTnQD85oW6eSWbn1xtr57ZobuaMNPe9XJoHaLeeoZh/nUf6f7imxzbo5SAxdOeaplaib2jnaFVFdkpv0i5Gf0XdciMqbqAlTl8gyRGrrcEKBYHyateRFlYmeq84fV9Fwf/CO/nWI48wbyEC+bTc6DlG50nByaZwaHN/7jj6HPOcYHL1aZLyE1YS+HJ6nBwpSl3zWXsANRLVPm64jTQh1CSiEyM/ydAhyyaIHy/HSeD3bxx3CZizsynGs8fnWgrJRDMTy/QE9NWTW/HZo6YIxhtTpNWBqLqGvr/wCjzsTlW3iiXajyu1chbLWGIL8g==;ouGiJnLVGrXNTd5WCwL1mA=="
 ---

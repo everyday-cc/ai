@@ -46,22 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Clearview AI hit with sweeping legal complaints over controversial face scraping in Europe"
-    excerpt: "Privacy International (PI) and several other European privacy and digital rights organizations announced today that they’ve filed legal complaints against the controversial facial recognition company Clearview AI. The complaints filed in France ..."
-    publishedDateTime: 2021-05-27T09:48:00Z
-    webUrl: "https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 79
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/EqpnoKuVRrv3_njRwsySzjXaMGk=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69349432/acastro_210512_1777_deepfake_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Clearview AI — The Facial Recognition Company Embraced By U.S. Law Enforcement — Just Got Hit With A Barrage Of Privacy Complaints In Europe"
     excerpt: "The firm claims to have over 3 billion faces in its database, many controversially acquired from public web sources and social media."
     publishedDateTime: 2021-05-27T12:22:00Z

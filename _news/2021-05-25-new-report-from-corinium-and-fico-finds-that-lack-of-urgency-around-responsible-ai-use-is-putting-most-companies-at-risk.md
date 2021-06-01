@@ -2,19 +2,25 @@
 category: news
 title: "New Report from Corinium and FICO Finds that Lack of Urgency Around Responsible AI Use is Putting Most Companies at Risk"
 excerpt: "FICO and Corinium today released its second annual executive research report on Chief Analytics, Chief AI, and Chief Data Officers 65% of respondents' companies can't explain how specific AI model decisions or predictions are made 73% have struggled to get executive support for prioritizing AI ethics and responsible AI practices Only a fifth (20%) actively monitor their models in production for fairness and ethics Today,"
-publishedDateTime: 2021-05-25T12:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm"
+publishedDateTime: 2021-05-25T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use/article_d485892c-0583-53a5-9dce-a5b0b0e3c0da.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use/article_d485892c-0583-53a5-9dce-a5b0b0e3c0da.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "SriPu3oT7xxg8d3IJUBivzWsgd3ilNacUB9gt4kZzNxdZaHYYZtiOW0Fz12wOsLvsJ1FeZTemjPH3fAdllVXrSZspMqQhYyND0/d08Vlxgf3Tn1bBE8sb4uLK8GoaJpkRjTJgbm3FSTqBahw0aoccXAj/8PKeDYx5N8K6etNd8+cE8bengVI94UMZrau+Lt9UILavud8cNK11CpY/+aiqzp0OzmNzCttx2rMuLI4gP03J2DWgZppR3DdB6NgkAh0hHKkYQMgKh1I2szgaSJNQgNUpvd0bL27daXSrgPoVbZ/Opk5hjRVhE1HS73DUlr/TR+mlSr6/QQZI72zTuYI9H/ehaNB77kjdBH9YkvtrL8njLFIUp5X+9TUle9nLQaIyfQ84zVGo/0M76AZzCSMCfj+seTFhiGfoOlS/g4LYUOwqcrVUWhl3Gd8WxHgPNu3tcsIV9kN+EORv0FSus8x7WnYho9ooclHziRmKD7Kk6Ktc3nztwuWMPTd/VDP3ez8agX1URSoGIzl9QsPy3CoHg==;jo7wAaIeYly3rfhhCtcR0Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+    width: 1200
+    height: 441
+    isCached: true
+
+secured: "hBAmO3JRaA02MUv/FuIuiEVtTcsGOFvToBP6tJTnFKrgpHiQTTVH9ZfE2vthfip6TGj/JWP8zhWPr0snR5WKzOLGXEUh0vRELUM0a/glBpgUwa5CGyTEsDAzIfo560PKVMJQxopN8JocMhosX4ZnDODHUjIIH8tjetauBy8UtiUXoD1YeUqis2280gw4he3C5F6i/qoMPfRPgOi/Lds6EnUtUzmM3O8qQidi9Di4tvFUBvOT111kLrbRDnNSroNeqSIYgmuWufv310BE0LmlPnTtWX4uqwnYw2WHcSLliUkKi9+bD3YmeEpPmq/Qz2nxinEhDVI7JclJF/BgLlSWqJ1uOgr0RSZ2SNKPx+oIxAU=;1RGKvftLsUuhx8KMfRYw8g=="
 ---
 

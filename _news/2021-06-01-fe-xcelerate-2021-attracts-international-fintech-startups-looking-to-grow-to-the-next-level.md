@@ -3,8 +3,8 @@ category: news
 title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
 excerpt: "FE XCELERATE, the topline fintech accelerator program series in Asia, has overwhelmingly received more than 40 applications from fintech companies from around the world just two weeks after opening, a"
 publishedDateTime: 2021-06-01T01:40:00Z
-originalUrl: "https://www.ryt9.com/en/anpi/249965"
-webUrl: "https://www.ryt9.com/en/anpi/249965"
+originalUrl: "https://www.ryt9.com/en/anpi/249966"
+webUrl: "https://www.ryt9.com/en/anpi/249966"
 type: article
 quality: 0
 heat: -1
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "HUp0vnbBJN+Jj57u+FI5kNLSdplRUHZkq0tsbxITOij8VSUqdhjTW2hmlOrEtc/OdaRmmnFlEK6oHaDT+C3psyIVMQS5c447aV58NIIPPohjFOqhmFTXR+Xx4z7xciUGkVg0RYi4U6CB7BhrUXgInoXJ+m/xlS9WpWpOEl74Ss/6do5OLg7rUY6XvzlkMNdic3CX24TJ7fpp0raoDLXisn7ojc6qUV2k46bfj91cStoV045W2H6hjNpGO6ENN0g1vMXGCS0NYCA8PhwRIgBOpZVn/29OjnX1BDX2w85uVmNDT4Cb5A2rCGyQ64ncd6KCVFmjEo3d3gabBsJrt1iU8aBF59kaseXt+87DWx3GTHo=;C80Kxdx0fGl9K23Ajp0U7w=="
+secured: "Wz84iCT2m8Y4na5+4mEYYgTCVLEMRFkDbtMbu2bXeeABshq8DbUdhUjewjdvWZxcs8H5Xp3BaaWFHDR4JMydvPJV4TJCxBdU3fXreXAyhKT6V4cV0qWphgQoX05Y8cvicEAQlkTikX6MTcQ29fJq5WVrH/psQNiAL3d1Zg9tPruVbyHvyrk9AB6AHz1tu96HSFrUBUhKMm46i90fwLN2psyO3GTa9ABpsGhG2xaE3975P95y4yF28p6IT4Cn0D/Ozutev8X+vhXgOpnpX/EEHGA1m7c+MlbVo2KAIIG5t6cdMgMByZHbxuW4rRoCPDnLROjuGRlmIfD9hSIHTOdhLUUOKxcFgCLlvY3+ASOXlO0=;WG31H8K+qcQ0V4+TPpoA8A=="
 ---
 
