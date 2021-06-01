@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scar
 webUrl: "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scares-passengers-away"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2021/05/Grey-Autonomous-Shuttle-May-2021.xb009f880-fff1.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
         width: 600
         height: 337
-        isCached: true
-  - title: "Britain's first self-driving SHUTTLES take to the streets of Cambridge in milestone test that will see the autonomous vehicles ferrying passengers on a main road surrounded by ..."
-    excerpt: "Developed by Aurrigo, the three Auto-Shuttles will run a two-mile route from Madingley Road Park and Ride around the University of Cambridge's West Campus."
-    publishedDateTime: 2021-05-27T13:57:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9624997/Transport-Britains-self-driving-SHUTTLES-streets-Cambridge.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9624997/amp/Transport-Britains-self-driving-SHUTTLES-streets-Cambridge.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9624997/amp/Transport-Britains-self-driving-SHUTTLES-streets-Cambridge.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/05/27/12/43516117-0-image-a-19_1622116007488.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "7VRh4DFQDlUCQY1VIZgIEG9GUAptd/TB07Nxtem7BahG36C3WaYfbynP6qFeZh50Hs2Q9EVe96wjjK0cvAcwAODKesvlfdgqEt/0NVDP9KpVdj1j/TxNAUg39iTnPkBrLRFnA9IBiWi37win5htnmNjGX4rMoX/1Y9s8CB00DdM8uCByNnpOiC1eV48HMSz9UGBPR+Ct6wz2Lt3QjpHWINvBsZsNjEJVavh/up7I1SkwWxjs3QMdnonT4Ri7TTsAUhLokr3HRegEGqj/o3byfTt+ryrGW76BIapqLme50hv6SQS5As2iShRLG+V24b5IiegafUpHVv2YQKoselyajNfbHdhqrHJ/avfNxW6HpIPwBkxIKntlWebwsIBxHwBZzC8AjHjaqToFtcSuL5flVT9gOOHXZL4uNCzF65PP2thsQ8KIWybm5AAtcecoQgQdM74fFXxRrqLXxX3DAZoXDWMalslICG6I9rB2QFVXMNelYDfts97WLOuoAb4YxU3JNtiWZl6GlVjXcaBVKfIm6g==;iKsbOZc9+8ZHxgSKs9OkfA=="

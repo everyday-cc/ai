@@ -2,6 +2,147 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-19-ai-da-robot-artists-self-portraits-on-display-at-the-design-museum.md",
+      "title": "Ai-Da: Robot artist’s self-portraits on display at the Design Museum",
+      "excerpt": "Self-portraits by a robot artist have gone on display at the Design Museum. The life-size “ultra-realistic” android, named Ai-Da and created in 2019, is the first of its kind in the world, according to the London museum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/",
+      "originalUrl": "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2021/05/featureimage-crop-ff8539f.jpg?quality=90&resize=960,413",
+          "width": 960,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/",
+      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/",
+      "publishedDateTime": "2021-05-19T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC Focus",
+        "domain": "sciencefocus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars.md",
+      "title": "Baidu Awards Contract to Hesai for Customized Lidar Sensor That Will Power Its Self-Driving Cars",
+      "excerpt": "Baidu Apollo and Shanghai-based laser guidance system developer Hesai Technology have clinched a deal in which Hesai will produce a lidar sensor tailored to Baidu’s fifth-generation driverless vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-05-19/1621415590045976_560_373.jpg",
+          "width": 560,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-revamps-its-cloud-based-machine-learning-platform-yet-again.md",
+      "title": "Google Revamps Its Cloud-Based Machine Learning Platform Yet Again",
+      "excerpt": "With Vertex AI, Google not only unifies its AI offerings but also closes the gap with similar offerings from its key competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a4bfc594b2b134fb5ea400%2F0x0.jpg",
+          "width": 1000,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
+      "publishedDateTime": "2021-05-19T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning.md",
       "title": "Forecast nabs $19M for its AI-based approach to project management and resource planning",
       "excerpt": "Project management has long been a people-led aspect of the workplace, but that has slowly been changing. Trends in automation, big data, and AI have not only ushered in a new wave of project management applications,",
@@ -1025,152 +1166,6 @@
       "ampWebUrl": "https://venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/amp/",
       "publishedDateTime": "2021-05-18T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-io-2021-the-vertex-ai-platform-connects-ml-tools.md",
-      "title": "Google I/O 2021: The Vertex AI platform connects ML tools",
-      "excerpt": "What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from machine learning and general AI to neural networks. Read More While Google has a bevy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
-      "publishedDateTime": "2021-05-18T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-launches-vertex-ai-a-fully-managed-cloud-ai-service.md",
-      "title": "Google launches Vertex AI, a fully managed cloud AI service",
-      "excerpt": "Vertex AI, a new fully managed AI service from Google, aims to unify offerings across the company's cloud portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/",
-      "publishedDateTime": "2021-05-18T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-adds-ai-powered-app-personalization-other-improvements-to-firebase.md",
-      "title": "Google adds AI-powered app personalization, other improvements to Firebase",
-      "excerpt": "At its I/O 2021 developer conference, Google rolled out a range of improvements to its Firebase app development platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/",
-      "publishedDateTime": "2021-05-18T12:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

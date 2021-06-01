@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-28-scale-ai-hires-former-us-cto-michael-kratsios-as-head-of-strategy.md",
+      "title": "Scale AI Hires Former U.S. CTO Michael Kratsios as Head of Strategy",
+      "excerpt": "Mr. Kratsios in March began working at Scale AI, where he is focused on helping companies turn AI pilot projects into offerings that can be brought to market, according to the San Francisco-based startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "originalUrl": "https://www.wsj.com/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-345369/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "publishedDateTime": "2021-05-27T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql.md",
+      "title": "Amazon AWS launches Redshift ML to let developers train models with SQL",
+      "excerpt": "Amazon today announced the general availability of Redshift ML, which lets customers use SQL to query and combine structured and semi-structured data across data warehouses, operational databases, and data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/AWS-Thomas-Cloer-Flickr-e1568998070790.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
+      "publishedDateTime": "2021-05-27T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-applied-ai-takes-the-spotlight-at-build-2021.md",
+      "title": "Applied AI takes the spotlight at Build 2021",
+      "excerpt": "Microsoft's growing push into higher-level services for applied AI and business scenarios was front and center at its Build event this week.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/",
+      "publishedDateTime": "2021-05-27T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-russias-sberbank-unit-unveils-self-driving-vehicle-flip.md",
       "title": "Russia's Sberbank unit unveils self-driving vehicle FLIP",
       "excerpt": "SberAutoTech, a subsidiary of Russia's largest lender Sberbank, has developed a fully self-driving vehicle, FLIP, which the company on Thursday described as a \"taxi of the future\".",
@@ -62,7 +218,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -166,7 +322,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -320,7 +476,7 @@
       "originalUrl": "https://www.zdnet.com/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1116,135 +1272,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-udacity-aws-to-offer-free-courses-in-machine-learning.md",
-      "title": "Udacity, AWS to Offer Free Courses in Machine Learning",
-      "excerpt": "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "originalUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/05/1622109948_scholarships-online-free-courses.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "publishedDateTime": "2021-05-27T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-openai-fund-of-100-million-for-ai-startups-with-microsoft.md",
-      "title": "OpenAI fund of $100 million for AI startups with Microsoft",
-      "excerpt": "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
-      "originalUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/",
-      "publishedDateTime": "2021-05-27T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-expand-pentagons-chinese-investment-blacklist-says-new-report.md",
-      "title": "Expand Pentagon’s Chinese investment blacklist, says new report.",
-      "excerpt": "Washington has restricted trade against more than 40 companies linked to the Chinese military, but they’re just the “tip of the iceberg,” says a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trade-china-exclusive/u-s-expands-blacklist-to-include-chinas-top-ai-startups-ahead-of-trade-talks-idUSKBN1WM25M",
-      "originalUrl": "https://www.defensenews.com/congress/2021/05/27/expand-pentagons-chinese-investment-blacklist-says-new-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20191008&t=2&i=1438369836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEF97031",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1WM25M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1WM25M",
-      "publishedDateTime": "2021-05-27T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense News",
-        "domain": "defensenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

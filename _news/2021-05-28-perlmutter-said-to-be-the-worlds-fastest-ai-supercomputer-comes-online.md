@@ -99,17 +99,6 @@ related:
         width: 600
         height: 252
         isCached: true
-  - title: "Perlmutter Joins Growing List of “AI Supercomputers”"
-    excerpt: "Nearly all non-classified supercomputers are being touted as “AI supercomputers” with the favor falling to reporting FP16 performance numbers alongside"
-    publishedDateTime: 2021-05-27T14:53:00Z
-    webUrl: "https://www.nextplatform.com/2021/05/27/perlmutter-joins-growing-list-of-ai-supercomputers/"
-    ampWebUrl: "https://www.nextplatform.com/2021/05/27/perlmutter-joins-growing-list-of-ai-supercomputers/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/27/perlmutter-joins-growing-list-of-ai-supercomputers/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 39
 
 secured: "OUZwahXzBya1wcoJbqDmGsRRrBw0eghWmC4uxVRqwig/7xMLNPIi74NLZ1yOP+cOEjEsf5+ZXv5DStqOhNuInxbwZCGgsZFRuWVoYUSPfkhvntuXYshlKrbXSzfDtEzMidODs3ics0pykRtTIxli/of4zzPSJu3p0ZiiT8HFY17JVaU3wxYGNwf5xNatxCLre1O9v705XjmYLKjVduDSIXz8kJMXTAr7d7vrztB0lIKlzIJaXEj31tMh1ymJcZq5D1FqGGSmSXjL1x9RtQXoOD99Xcve/vwdPIhBj2Ioq7DD1Jry2XM7WfHEnfRcoz5jY8QCC7c6lZDTzPftgXasFxsAbBmHZgi96yVhHbBhncCD+XEFqESW+5jv2Knl/Poe/tH9kBmmoMw13LxLkvoVFR99MtTXSj8WVd10xTdDUxbh7Tq3G1JV1w5iZgTxznfmbWp65IdIY69uaQ5/9SfjhPEY7XrOIChNC56CDYpUI7L6LQx2HdHeqrHbUPsP4nzxYhaLyWbTSLts5fiksN+bQA==;8Pa1VjXWr+uMi8dqKYGKJw=="
 ---

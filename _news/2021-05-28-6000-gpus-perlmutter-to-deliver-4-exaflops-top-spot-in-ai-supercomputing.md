@@ -85,17 +85,6 @@ related:
         width: 600
         height: 252
         isCached: true
-  - title: "Perlmutter Joins Growing List of “AI Supercomputers”"
-    excerpt: "Nearly all non-classified supercomputers are being touted as “AI supercomputers” with the favor falling to reporting FP16 performance numbers alongside"
-    publishedDateTime: 2021-05-27T14:53:00Z
-    webUrl: "https://www.nextplatform.com/2021/05/27/perlmutter-joins-growing-list-of-ai-supercomputers/"
-    ampWebUrl: "https://www.nextplatform.com/2021/05/27/perlmutter-joins-growing-list-of-ai-supercomputers/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/27/perlmutter-joins-growing-list-of-ai-supercomputers/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 39
   - title: "Perlmutter, said to be the world’s fastest AI supercomputer, comes online"
     excerpt: "One of the world’s fastest supercomputers designed specifically to handle artificial intelligence workloads came online today at the National Energy Research Scientific Computing Center based at the Lawrence Berkeley National Lab in California."
     publishedDateTime: 2021-05-27T17:30:00Z

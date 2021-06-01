@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2294344/healthcare-chatbots-market-expect
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 790
     height: 567
     isCached: true
+
+related:
+  - title: "Best Programming Languages To Build Chatbots"
+    excerpt: "Let’s look at the best languages to build a chatbot. Python is one of the best languages. The presence of AIML (Artificial Intelligence Markup Language) makes it easier to compose syntax. It also reduces the margin of errors for beginners and professionals."
+    publishedDateTime: 2021-06-01T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/best-programming-languages-to-build-chatbots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-25.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "qCs2b+15qoVocEqTIvSyGx3WP4SwAnzcd2atMu7YraQJk9YHCKhB8y/jmrNIzQySkkvBiWnSP/30bxv2G9yXo9M2BHOYHBlUb2EREoAB1Snw7NqpT4ClsY8S4A+ugaCLmkRmhtgeLAidCnFyEsYlY9Nl36pkMpakjlH3ShUtzEt4rmVdE2QKfKHHRxWFVIs3MwUvCP55JF0mir4aYKqaNMq2lgfdSqLUmAmeSx/Px5Cs1eFn+Dj7n4rt6FSf5ZaZgarDmFgQHfUanbfIDk2qqrzm9IFEu5MNyhuMMKJn2kR4wRaGQ9RdjZn3UQ4080+BB6mrxUWD97gFwaanvUbbLTI0Kjw5J8ao3Kw6m9ExfcAO4jI6lIZ9wd+7kInx0XhZSlnyY6kIi25zYNO9z53nHRhVjl9ebGil6Fk3ybZ4eSJPRIEmzHKSDkckzCCFq/DgzAfg9iX4Z5HFZ0SGRSJRScCXaYM1qrD1Hw48cIZax9OUpL6/MLBrXi35TSdinixGWNrN6esx1EAn9yRyohTiRw==;ONWXC0HHjHYVI+Qg/c75Hw=="
 ---

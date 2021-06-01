@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-01T05:21:00Z
 originalUrl: "https://www.cioapplications.com/news/relativity-acquires-text-iq-to-strengthen-its-position-as-a-leader-in-artificial-intelligence-for-ediscovery-compliance-and-privacy-nid-7851.html"
 webUrl: "https://www.cioapplications.com/news/relativity-acquires-text-iq-to-strengthen-its-position-as-a-leader-in-artificial-intelligence-for-ediscovery-compliance-and-privacy-nid-7851.html"
 type: article
-quality: 5
+quality: 7
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cioapplications.com/newstransfer/upload/gl0450308.jpg"
@@ -64,6 +65,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "IQsB7072FfAUYwsmVRxfwID2qKyXIrhcrki81t+7h33vFS/LQDK/A3gZvoBu4Fc4IDApNQwHf82dNt2agjEY3tBZWXBJ8ELdf6fgRqrnBxwq/kr5LPw8fgATOhsyfjg3H/BqOY8shNtfWcgUvAzdSFe8OclZLjoKlHBBz+VHa78ylOIn0UqQECIvT8JZvMgbUbs9dvE48i6wqWh3o0RdQ7R+oV9IEk59Lx5m0Dinae9i65QpoqhyNo262JTUGFP3c561XBJUyQ1FeFbe2pUIODATmYaB0sYJxTbiMi5H2OH4NG5x/xzmnxUJyAaJdmt0s1RMxEICPPj9lIXCMrST+mGVJHyDpMyJrlMt7okYgPs=;IMg//bX6puW5oD+tzt7Xxg=="
+secured: "LTYXueryG67b5qWohHqn0oUKXyJnafyE/lkUFV4xYJBGo2hvuGVhmb+q05fLtYORbKDmU7t6cYRhVQfteALt5oWxQdKkdx9ls3MXcI94Zbcbwgadzup2+U8a978yj0L65zW7P92XjUNobdj7givp5v/dVFEwrw52TXUpY1NDNJFyg5Jy3h/NjAXSVXrOg+3b0td1NTf4U4BQyrJ51wt7AT7unkoZYLqJ2Yj9U3vvO4IuJDTCPZmIRbYohS6si2PO8lA/jfUKSht08fMl1z3H3dH8qBB6fmIcRRZbyJJY51bUT22t/S6WrV5iTrVJuJn1shnGAnaFIEJndppFGIlPZiFn6g8x5J8UM10zA8bm93qK6pn4GU6Aa2+9qm1h/42Uo2w398qgK6EFZzJVHRDE/kxwEZ37k0/zN3tbd7jyr+7zaDN2fQLWH13cAJaFwnivlDv9QA6WoN0FBKiKGh8L82KV2hME3bccl1WaJaRN666ixlmsVakdNefjlipTBUZPWTrEaZOZR28ztykqgp9d9w==;oJusMRC+oZrpM5bUiXT/EQ=="
 ---
 

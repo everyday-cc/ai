@@ -28,22 +28,6 @@ images:
 
 related:
   - title: "Knowles Releases New Development Kit to Bring Voice Control to Smart Home Appliances"
-    excerpt: "The Knowles White Goods Standard Solution, selected by Samsung to enable far-field voice recognition in its FamilyHub™ connected hub for smart appliances."
-    publishedDateTime: 2021-05-27T13:23:00Z
-    webUrl: "https://www.twice.com/the-wire/knowles-releases-new-development-kit-to-bring-voice-control-to-smart-home-appliances"
-    ampWebUrl: "https://www.twice.com/the-wire/knowles-releases-new-development-kit-to-bring-voice-control-to-smart-home-appliances?amp"
-    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-new-development-kit-to-bring-voice-control-to-smart-home-appliances?amp"
-    type: article
-    provider:
-      name: Twice
-      domain: twice.com
-    quality: 37
-    images:
-      - url: "https://www.twice.com/wp-content/uploads/2021/05/AISonic-Bluetooth-Enabled-Kitchen.png"
-        width: 1080
-        height: 1080
-        isCached: true
-  - title: "Knowles Releases New Development Kit to Bring Voice Control to Smart Home Appliances"
     excerpt: "Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones and speakers, audio processing, and precisi"
     publishedDateTime: 2021-05-27T17:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20210527005031/en/Knowles-Releases-New-Development-Kit-to-Bring-Voice-Control-to-Smart-Home-Appliances"

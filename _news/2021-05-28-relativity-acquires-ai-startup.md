@@ -56,7 +56,7 @@ related:
     provider:
       name: CIO Applications
       domain: cioapplications.com
-    quality: 5
+    quality: 7
     images:
       - url: "https://www.cioapplications.com/newstransfer/upload/gl0450308.jpg"
         width: 450

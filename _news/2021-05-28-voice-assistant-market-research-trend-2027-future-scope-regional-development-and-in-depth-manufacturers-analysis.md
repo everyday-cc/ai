@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing Market: 2021 Strategic Plans by Globally Industry Demand, Top Manufacture, Business Growth and Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Natural Language Processing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-05-28T08:35:00Z
-    webUrl: "https://menafn.com/1102156052/Global-Natural-Language-Processing-Market-2021-Strategic-Plans-by-Globally-Industry-Demand-Top-Manufacture-Business-Growth-and-Forecast-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 1
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "bCzP/EObZooZGzXKFC/OK4qbH58UEe3atWuGmOyBnWNFOTIsok3g2yYzP6YcQ3BQvAtWU4+M4OcQh7SGYJWnoGRj4kJznLiCq5p3YxfJDUX/4Rcdf0coxj+9RPVzRqdP/AL9uyIGzG0y/hM7U31F1bOlq+5q7WDOWVSbN47N/PNWku561YGdlvpmM7BaS95mzXW26xGtDhl8OfADjVzbLW/4E1//5fxSRK72X2DlxffPnv7Ofljma3c4fCCU4w5KBgRmivh3OHEHtjoOiYC7R0Cywpc1q1RtZ9PFr+18/VsZC9GJBdxynM58avkqIh3Iy+k2Jq7364F+obuAyL1ZsOwzq/nUmbmFNcKTUrdTg5w=;InvZ0RyO1+2XFcK/j4FvHQ=="
 ---

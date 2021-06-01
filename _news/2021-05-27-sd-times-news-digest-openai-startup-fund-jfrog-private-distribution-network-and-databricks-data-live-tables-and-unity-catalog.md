@@ -69,8 +69,8 @@ related:
     quality: 38
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
     excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-    publishedDateTime: 2021-05-27T15:56:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+    publishedDateTime: 2021-05-27T16:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
     type: article
     provider:
       name: WFMZ-TV

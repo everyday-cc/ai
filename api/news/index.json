@@ -2,6 +2,195 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-01-mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar.md",
+      "title": "Mumbai Angels and Auxano lead pre series funding for Edtech startup Avishkaar",
+      "excerpt": "Read Article Mumbai Angels Network, a platform for early-stage investments, along with Auxano, and other eminent angel investors, has invested INR five cr in edtech startup Avishkaar as a part of pre series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.in/news/mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar/",
+      "originalUrl": "https://www.crn.in/news/mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.crn.in/wp-content/uploads/2021/06/01124829/pexels-monstera-5849585.jpg",
+          "width": 696,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crn.in/amp/news/mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar/",
+      "cdnAmpWebUrl": "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar/",
+      "publishedDateTime": "2021-05-31T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "www.crn.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-aetina-launches-new-series-of-edge-ai-solution-deviceedge-mini.md",
+      "title": "Aetina Launches New Series of Edge AI Solution -- DeviceEdge Mini",
+      "excerpt": "Aetina Corporation, a provider of Edge AI solutions, announced today during Computex 2021 its new series of DeviceEdge – DeviceEdge Mini, the edge AI-enabled computer. The DeviceEdge Mini Series leverage s the powerful capabilities of the NVIDIA® Jetson edge AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-launches-new-series-of-edge-ai-solution-deviceedge-mini-1030480095",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-launches-new-series-of-edge-ai-solution-deviceedge-mini-1030480095",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1521850/PR_Mini_1.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-nvidia-continues-to-evolve-from-chips-to-software-to-ai-data-centers.md",
+      "title": "NVIDIA Continues To Evolve, From Chips To Software To AI Data Centers",
+      "excerpt": "At Computex, new Base Command platform, expanded NVIDIA Certified program, and significant traction for DGX Servers NVIDIA made several announcements this week at the annual Computex conference in Taiwan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b4d19d005773dfff9f9079%2F0x0.jpg",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/",
+      "publishedDateTime": "2021-05-31T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-how-artificial-intelligence-ai-will-change-nigerian-banking-in-2021.md",
+      "title": "How Artificial Intelligence (AI) Will Change Nigerian Banking in 2021",
+      "excerpt": "Banking is changing. Banks, and their customers, are riding a wave of innovation, reimagination, and reinvention thereby intensifying retail competition and how customers are serviced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.proshareng.com/news/Fintech/How-AI-Will-Change-Nigerian-Banking-in-2/57438",
+      "originalUrl": "https://www.proshareng.com/news/Fintech/How-AI-Will-Change-Nigerian-Banking-in-2/57438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proshareng.com/admin/upload/news/57438-proshare.jpg",
+          "width": 2094,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigeria",
+        "domain": "proshareng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-azure-arc-bringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments.md",
       "title": "Azure Arc - Bringing The Best Of The Public Cloud To Hybrid And Multi-Cloud Environments",
       "excerpt": "Microsoft is one of the first companies to exploit Kubernetes as the foundation for its hybrid and multi-cloud strategy. In just two years, it ported a dozen managed services to Kubernetes, branding them as Arc-enabled services.",
@@ -456,7 +645,7 @@
       "originalUrl": "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scares-passengers-away",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -496,6 +685,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-service-robotics-market-2021-global-industry-growth-size-share-demand-trends-and-forecasts-to-2028.md",
+      "title": "Service Robotics Market 2021: Global Industry Growth, Size, Share, Demand, Trends and Forecasts to 2028",
+      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-2021-global-industry-growth-size-share-demand-trends-and-forecasts-to-2028-2021-05-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-2021-global-industry-growth-size-share-demand-trends-and-forecasts-to-2028-2021-05-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -591,6 +832,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain.md",
+      "title": "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain",
+      "excerpt": "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computation",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/05/image0013UIF.png",
+          "width": 577,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "publishedDateTime": "2021-05-30T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -930,291 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.md",
-      "title": "Ubisoft hires AI, machine learning expert to lead product technology",
-      "excerpt": "Ubisoft is forging ahead with experimental technology like machine learning, AI, blockchain and more for its upcoming projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/9/79664_32_ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
-      "publishedDateTime": "2021-05-29T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them.md",
-      "title": "Adversarial attacks in machine learning: What they are and how to stop them",
-      "excerpt": "Adversarial attacks present a growing threat to commercial AI and machine learning systems. Fortunately, some solutions exist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "originalUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "publishedDateTime": "2021-05-29T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-royal-navy-test-artificial-intelligence-against-supersonic-missile-threats-off-scots-coast.md",
-      "title": "Royal Navy test artificial intelligence against supersonic missile threats off Scots coast",
-      "excerpt": "THE NAVY has tested artificial intelligence against supersonic missile threats for the first time at sea as it ushers in a new age of autonomous defence. The live-fire drill test of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.thescottishsun.co.uk/news/scottish-news/7181734/sampson-hms-dragon-argyll-lancaster-sea-viper-missiles/",
-      "originalUrl": "https://www.thescottishsun.co.uk/news/scottish-news/7181734/sampson-hms-dragon-argyll-lancaster-sea-viper-missiles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/05/DEFENCE-Navy-11532913jpg-JS656181472.jpeg?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thescottishsun.co.uk/news/scottish-news/7181734/sampson-hms-dragon-argyll-lancaster-sea-viper-missiles/amp/",
-      "cdnAmpWebUrl": "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/news/scottish-news/7181734/sampson-hms-dragon-argyll-lancaster-sea-viper-missiles/amp/",
-      "publishedDateTime": "2021-05-29T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scottish Sun",
-        "domain": "thescottishsun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-rebel-ai-group-raises-record-cash-after-machine-learning-schism.md",
-      "title": "Rebel AI group raises record cash after machine learning schism",
-      "excerpt": "A breakaway group of artificial intelligence researchers has raised a record first round of financing for a new start-up involved in general-purpose AI, marking the latest attempt to create an organisation to guarantee the safety of the era’s most powerful technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
-      "originalUrl": "https://www.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffedbcea4-dc08-4836-ae87-4fcf6a3cde59.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
-      "publishedDateTime": "2021-05-28T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines.md",
-      "title": "Intel’s image-enhancing AI is a step forward for photorealistic game engines",
-      "excerpt": "Intel's deep learning system turns 3D rendered graphics into photorealistic images, but it isn't ready yet to deliver real-time game engines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/",
-      "originalUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/amp/",
-      "publishedDateTime": "2021-05-28T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels.md",
-      "title": "Automate weed detection in farm crops using Amazon Rekognition Custom Labels",
-      "excerpt": "Amazon Rekognition Custom Labels makes automated weed detection in crops easier. Instead of manually locating weeds, you can automate the process with Amazon Rekognition Custom Labels, which allows you to build machine learning (ML) models that can be trained with only a handful of images and yet are",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/28/8-3259-Comparison.jpg",
-          "width": 800,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T14:46:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

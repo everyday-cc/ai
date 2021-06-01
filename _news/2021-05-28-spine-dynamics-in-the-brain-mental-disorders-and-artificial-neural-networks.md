@@ -41,6 +41,15 @@ related:
         width: 577
         height: 219
         isCached: true
+  - title: "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain"
+    excerpt: "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computational speed and power consumption efficiency."
+    publishedDateTime: 2021-06-01T05:15:00Z
+    webUrl: "https://www.ibef.org/news/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 14
 
 secured: "446Kb3XbV/QHwrWDxLam8wJJXKI1ewgypH5WwnF9J34bxqRXLoAq4kZwOHkKqtf5XiKtf6nvPW9q4vmmXUqjQGgEqRzmE8P0R/L9Yf+GkD73OS656gXGVuvTRxi3spaYzpyvs3B4bLMPPKa8z+ctuqFLJ/Ty2O7pkQ1FXUNIe+lkEblALVRva1Q3EC6Gy6AV67GjSNL7l8uDxRv5dbSxpQkyjPcMYLSJlKQgijuPgQ1ij+YAkuc3RuVtROgT/zlRL8Fpi+pDETB6dz8svdAOlLHoHPHu8M6si1mFsvnFyBz7scVgd72SfUr4sz5VNKh/Z0t6J+ZnvBoGKpPbwvQdUZ2CTRzGdFrg0PKqEhC7qGKKuRYBeFgdbIJKG042cpHcpljdn3G1kKhlGiI8XRPoyQWpBOHuCDr+EtyHosP6oynBg/G8dsgmfak/+sdLlJc/oZ+SH8H+EhvfPnWC/Z2JiMkFRWp7Ypa0Yto8URydFj76JpXKcbh4QYQbjIzATlyCjE7d+yJL462N4KF+Ip4jog==;t1iotZBZa40WYcEJJ5R9JQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/scientists-develop-efficient-artifici
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: India Education Diary
@@ -41,6 +41,15 @@ related:
         width: 648
         height: 685
         isCached: true
+  - title: "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain"
+    excerpt: "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computational speed and power consumption efficiency."
+    publishedDateTime: 2021-06-01T05:15:00Z
+    webUrl: "https://www.ibef.org/news/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 14
 
 secured: "W7ClmGAlIcluTldXX/spvsfwpNobxSon5+CPRlMhtdJ8MtjTCU4Bz7iHQIO4PsC3oR3d4ST1UxUWstK9zWicMWxe4t3eZ7aj6sw15oUur8QkGneckOPiwUGCTJvJ+IIYnmCISS6ggySlEVbtijQWu7L+TfqCM26GUUG3VRl9aEMZjk6qSIoByHVEiQm9Skx57uSOuEEMgPjQ9utCoA1gyhQ1HLexcyLWoV5AErh3FD/j3nc7peqPJeYeBpbQQaIKaLScElFBmhvmYFa+Z4t9LSxeBCInQf5PoweLa/+XatUxvgS145uJVjQhJufWN9CYgsIhlcpetL4qmbw/efsiyM23y5U/aZ+SLfa2SGfY8md23lFJqz/tRlXp4HBEzQOkdyz+twqtzbahqOC4bfzpw2H4DhDQEFi+JMeSt23IfCxNUwbViyEqxZoGZGtx4vXBtQd2+kWrSVjIudDbQU1nFvOdeSsJ31EqNQ2+AlXmZ8YCX+yIVwC5kh74RTWVQSlZGu407GiVD++lbiqkExghrg==;e6QK1LXvF8Rve00t05RoFQ=="
 ---

@@ -137,6 +137,22 @@ related:
         width: 711
         height: 400
         isCached: true
+  - title: "Covid-19 and the role of virtual reality in healthcare and life science research"
+    excerpt: "Digital reality is a hypernym for augmented reality (AR), virtual reality (VR), mixed reality and a gamut of other associated technologies."
+    publishedDateTime: 2021-06-01T07:01:00Z
+    webUrl: "https://www.financialexpress.com/lifestyle/health/covid-19-and-the-role-of-virtual-reality-in-healthcare-and-life-science-research/2262844/"
+    ampWebUrl: "https://www.financialexpress.com/lifestyle/health/covid-19-and-the-role-of-virtual-reality-in-healthcare-and-life-science-research/2262844/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/covid-19-and-the-role-of-virtual-reality-in-healthcare-and-life-science-research/2262844/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 54
+    images:
+      - url: "https://images.financialexpress.com/2021/06/virtual-reality.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI models look for shortcuts that could lead to errors in diagnosis of COVID-19"
     excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes."
     publishedDateTime: 2021-05-31T18:29:00Z
@@ -194,6 +210,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "AI can help stratify COVID-19 risk on lung ultrasound"
+    excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
+    publishedDateTime: 2021-06-01T07:32:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132539"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_28_22_04_8526_2021_06_01_AI_COVID_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
     excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
     publishedDateTime: 2021-05-29T11:20:00Z

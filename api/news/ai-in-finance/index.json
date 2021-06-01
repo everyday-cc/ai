@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-01-how-artificial-intelligence-ai-will-change-nigerian-banking-in-2021.md",
+      "title": "How Artificial Intelligence (AI) Will Change Nigerian Banking in 2021",
+      "excerpt": "Banking is changing. Banks, and their customers, are riding a wave of innovation, reimagination, and reinvention thereby intensifying retail competition and how customers are serviced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.proshareng.com/news/Fintech/How-AI-Will-Change-Nigerian-Banking-in-2/57438",
+      "originalUrl": "https://www.proshareng.com/news/Fintech/How-AI-Will-Change-Nigerian-Banking-in-2/57438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proshareng.com/admin/upload/news/57438-proshare.jpg",
+          "width": 2094,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigeria",
+        "domain": "proshareng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science.md",
       "title": "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science",
       "excerpt": "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,",
@@ -1331,50 +1374,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-ai-rpa-and-machine-learning-how-are-they-similar-different.md",
-      "title": "AI, RPA, and Machine Learning – How are they Similar & Different?",
-      "excerpt": "AI, RPA, and machine learning confuse businesses in adopting the right disruptive technologies. Here’s a way to pick the right technology for business innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
-      "originalUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/RPA.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
-      "publishedDateTime": "2021-05-03T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

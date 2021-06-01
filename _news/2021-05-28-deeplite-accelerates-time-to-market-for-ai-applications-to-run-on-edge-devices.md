@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deeplite Launches Free Version of Leading AI Optimization Engine"
-    excerpt: "Deeplite, a provider of AI software designed to make other AI models faster, is introducing Deeplite Neutrino Community version, offering a hands-on introduction while also enabling new connections and knowledge exchange among community members from different commercial,"
-    publishedDateTime: 2021-05-27T19:06:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Deeplite-Launches-Free-Version-of-Leading-AI-Optimization-Engine-147113.aspx"
+  - title: "Aetina Launches New Series of Edge AI Solution -- DeviceEdge Mini"
+    excerpt: "Aetina Corporation, a provider of Edge AI solutions, announced today during Computex 2021 its new series of DeviceEdge – DeviceEdge Mini, the edge AI-enabled computer. The DeviceEdge Mini Series leverage s the powerful capabilities of the NVIDIA® Jetson edge AI platform."
+    publishedDateTime: 2021-06-01T06:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aetina-launches-new-series-of-edge-ai-solution-deviceedge-mini-1030480095"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1521850/PR_Mini_1.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "k2EwPAxVtc1UtIWbq2eNl6MGoMJLrYZi7q9KWNKuomYLiZUpMynXu3UrPgT3nzkb1AsP3LvcX2O7i3Fep1l54lk8nKgkJFgS3fcbS80mQcGG9oAq5zlxwtFG+d3k6x5lLgiI3hhx0/aXmpHau0AK22Q8gUFhS/lQ8wu5VbGVXe0T8ChbkkV8vUVn93zhMG1NIcTZ3gdkgXc+q8jm8+OvGBxuYIp7xQ7oNDPJBbXJ681nvdvBI3At/e+92LJX5Za9hbJUAnpJXJv+D/3KoAoG5h3/dP/831QBMDM8rWzr/asQ59hoxJerMW7Nof6OnjJ3UDS4nbPu4ajH/6+iABlXmmpAn8K1xG8MEBMskmgUg2VceVMxeD3ht9soVNahuNUahu6woWMN4VnxUHxPxFanf0GvJci0iPW4nKw3w97fZVU7QMDgFvxlhLHDz4yuO5LkgSCVs3Vf99WNotVgZhoj+af7VOSMAb5L3FU/aQuuxgRfCbxqT8UIB5dCm6HEOjqmoIFkTL5APcxbQsyjtxo7rQ==;fHMlkBWHIN9iNOtc+fg4RA=="

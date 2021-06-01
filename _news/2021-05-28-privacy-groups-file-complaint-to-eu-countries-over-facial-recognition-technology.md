@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Maine could limit use of facial recognition technology by law enforcement"
-    excerpt: "Rep. Grayson Lookner is sponsoring L.D. 1585, \"An Act To Increase Privacy and Security by Regulating the Use Of Facial Surveillance Systems by Public Employees.\""
-    publishedDateTime: 2021-05-27T13:58:00Z
-    webUrl: "https://www.newscentermaine.com/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
-    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
-    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
-    type: article
-    provider:
-      name: newscentermaine.com
-      domain: newscentermaine.com
-    quality: 73
-    images:
-      - url: "https://media.newscentermaine.com/assets/WCSH/images/f601ef17-d757-4068-ad39-0230d942cf24/f601ef17-d757-4068-ad39-0230d942cf24_1140x641.png"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "King County Council will consider prohibiting use of facial recognition technology"
     excerpt: "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information."
     publishedDateTime: 2021-06-01T01:43:00Z

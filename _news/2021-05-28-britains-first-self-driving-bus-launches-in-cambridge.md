@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Britain's first self-driving SHUTTLES take to the streets of Cambridge in milestone test that will see the autonomous vehicles ferrying passengers on a main road surrounded by ..."
-    excerpt: "Developed by Aurrigo, the three Auto-Shuttles will run a two-mile route from Madingley Road Park and Ride around the University of Cambridge's West Campus."
-    publishedDateTime: 2021-05-27T13:57:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9624997/Transport-Britains-self-driving-SHUTTLES-streets-Cambridge.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9624997/amp/Transport-Britains-self-driving-SHUTTLES-streets-Cambridge.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9624997/amp/Transport-Britains-self-driving-SHUTTLES-streets-Cambridge.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/05/27/12/43516117-0-image-a-19_1622116007488.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "NO8pNyZz0bhKJQFZwwVVEMCoR/yWyQ3sudlexBxuf6+6rqSJpqpTCIC64QTE9NLh6bg5CtOjeNgOKI+UES0tMS7PxoJ7COq+VahEBa2Pq34RgKUQKkOXdTnmSIhhvUqTxcX+qbOPJz7On1XdS0tyanJcEOK9gZMdsPYdEyMt8sb2LkmbQLY0sTa3pbhtqc+W5TIKFE2EVVTVuWcLEhRD1pb7zZ7odq8/BZAUjf4TPSb1viVYte+KDcHMI0q0U41KsjRJXuUxl/ecqOD63/xOqc/8Yd12xAAnjO58EpUA0/LW3Tek7AiY27+ZMpdSz9JC9VVm/wsnFPw5Z7bGNCxk61ewX+qjEuyAOSErkZ8UdOM=;CNt23p003CjneLSmDwo54w=="
 ---

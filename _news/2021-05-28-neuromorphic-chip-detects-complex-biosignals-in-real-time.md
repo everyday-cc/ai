@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210528/Neuromorphic-chip-det
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210528/Neuromorphic-chip-detects-complex-biosignals-in-real-time.aspx"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial neurons recognize biosignals in real time"
-    excerpt: "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures."
-    publishedDateTime: 2021-05-27T14:17:00Z
-    webUrl: "https://phys.org/news/2021-05-artificial-neurons-biosignals-real.html"
-    ampWebUrl: "https://phys.org/news/2021-05-artificial-neurons-biosignals-real.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-neurons-biosignals-real.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-neurons-rec.jpg"
-        width: 1184
-        height: 668
-        isCached: true
   - title: "Artificial neurons recognize biosignals in real time"
     excerpt: "Researchers have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures."
     publishedDateTime: 2021-05-27T20:22:00Z

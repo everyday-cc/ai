@@ -2,6 +2,162 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-05-18-fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital.md",
+      "title": "Fintech startup Vise raises $65 million in Series C led by Ribbit Capital",
+      "excerpt": "Vise today announced a $65 million Series C financing round led by Ribbit Capital, with participation from existing investors including Sequoia. The startup launched on the Disrupt Startup Battlefield stage in 2019 and has since raised upwards of $125 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/",
+      "originalUrl": "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/vise-ai-DSC03361.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/",
+      "publishedDateTime": "2021-05-18T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-sas-flexes-ai-ambitions-with-viya-platform-expansion.md",
+      "title": "SAS flexes AI ambitions with Viya platform expansion",
+      "excerpt": "SAS today announced an expansion for its SAS Viya platform, which is used for analyzing data and building AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/vivian-sas-itrc-chatbot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/amp/",
+      "publishedDateTime": "2021-05-18T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results.md",
+      "title": "Baidu, Baozun, NetEase, Tencent Music Entertainment, And IQIYI Report Q1 Financial Results",
+      "excerpt": "Search giant Baidu (BIDU US and 9888 HK) reported solid Q1 financial results before the US open this morning driven by its core search business. For several years, Baidu has been utilizing the cash thrown off from the core search business to invest in cloud computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/",
+      "originalUrl": "https://www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a3cbdb92d5688d7e15615b%2F0x0.jpg",
+          "width": 1200,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/amp/",
+      "publishedDateTime": "2021-05-18T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-beyond-limits-cognitive-ai-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Beyond Limits Cognitive AI now available in the Microsoft Azure Marketplace",
       "excerpt": "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, today announced the availability of its Cognitive AI technology in the Microsoft Azure Marketplace.",
@@ -1021,162 +1177,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
-      "title": "Google Vertex AI unifies cloud machine learning toolkit",
-      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
-      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
-      "publishedDateTime": "2021-05-17T21:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ready-for-a-world-of-ai-powered-superhuman-precision-its-coming.md",
-      "title": "Ready For A World Of (AI-Powered) Superhuman Precision? It’s Coming",
-      "excerpt": "Can we outstretch our collective hands to AI-controlled robots or will we get our arms ripped off by imprecise electronics? Already, the next generation of scientists are discovering new applications of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/",
-      "originalUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a340b069bb6447459aee55%2F0x0.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/amp/",
-      "publishedDateTime": "2021-05-17T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-helping-students-of-all-ages-flourish-in-the-era-of-artificial-intelligence.md",
-      "title": "Helping students of all ages flourish in the era of artificial intelligence",
-      "excerpt": "A new cross-disciplinary research initiative at MIT aims to promote the understanding and use of AI across all segments of society. The effort, called Responsible AI for Social Empowerment and Education (RAISE),",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
-      "originalUrl": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202105/MIT-RAISE-01-PRESS.jpg",
-          "width": 2476,
-          "height": 1651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

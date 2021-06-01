@@ -24,42 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Improving computer vision for AI"
-    excerpt: "Led by Sumit Jha, professor in the Department of Computer Science at UTSA, the team has changed the conventional approach employed in explaining machine learning decisions that relies on a single injection of noise into the input layer of a neural network."
-    publishedDateTime: 2021-05-27T13:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210527091439.htm"
+  - title: "The Neuroscience Origins of Artificial Intelligence Computer Vision"
+    excerpt: "The artificial intelligence (AI) renaissance is in full steam and gathering speed. One of the key levers of momentum is computer vision, an interdisciplinary science that spans artificial intelligence,"
+    publishedDateTime: 2021-05-28T10:24:00Z
+    webUrl: "https://www.bbntimes.com/science/the-neuroscience-origins-of-artificial-intelligence-computer-vision"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "UTSA researchers among collaborative improving computer vision for AI"
-    excerpt: "Computer vision--the ability to recognize images--has many business applications. Computer vision can better identify areas of concern in the livers and brains of cancer patients. This type of ..."
-    publishedDateTime: 2021-05-27T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uota-ura052621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 56
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI is shaping food innovation"
-    excerpt: "Technology experts from consulting firm ZS Associates highlighted the various ways artificial intelligence is coming to life in food innovation and product development during a session at The Natural Products Expo West Virtual Week."
-    publishedDateTime: 2021-05-27T13:44:00Z
-    webUrl: "https://www.foodbusinessnews.net/articles/18725-how-ai-is-shaping-food-innovation"
-    type: article
-    provider:
-      name: FoodBusinessNews
-      domain: foodbusinessnews.net
-    quality: 37
-    images:
-      - url: "https://www.foodbusinessnews.net/ext/resources/2021/5/FoodTechConcept_Lead.jpg?height=635&t=1622118933&width=1200"
-        width: 953
-        height: 635
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Neuroscience_Cats.jpg"
+        width: 926
+        height: 618
         isCached: true
 
 secured: "4/kcawpZnAucybWHaioNQRL3Ud+FsCiuwwzHvKnfTTR3IPo6FewxpMCqNNfkrJ4ztIM7c36IZA08xgs0qjRsZFVgezsyO3Jo+xzTJQm/3kVTnt8t8lgkEj5RJXrfJRRnFCpZxe3RuVdpYmqO55NNOUPVTBlcDqM/IZN9WmEi0t6JT/Vy6ljyrhlnFWq8ZFBv2pWfYsG3iFvxESWzfL6sBa+X+gn6H1LFDa+BV74IgLNJRqU8thzKWxHJ3Etu+DAxpKzR0NaNTBQHb5+tGn2yolZKUB0ZDjALZpaQC4Ezt3h1ojeoSTr2leQiPrmk6d1DrGbwPdcnU/5rLdFBCw1gcqYBh8UKgOFhLlTBACQQw980uebxGhANZtboOxb1WqhOZ0+ImmKdHxv0az1BV3f3eLVUB8xPTrUUEuwVzD+TmVd9pBfQBQuWiIVhOpgniyFXAH0Eiy7S5ZSOYrrMDcJpXNXJNbyJHnuQskUUBOH4ZNfiHQhUgzsucY1LfwCr4X6soG+nlnXbqO/phTLM2sStQQ==;AJ68j/+g19L2+G2E3Mx02g=="
