@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-26-the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note.md",
+      "title": "The Oral Extended Release Tablets Market To Grow On A Quintessential Note",
+      "excerpt": "The Oral Extended Release Tablets Market report by Persistence Market Research emphasizes on the inflow of artificial intelligence therein and also the medications (pharmaceuticals) to be rendered. Precise diagnostics leads to precise rendition of drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/25/the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note/",
+      "originalUrl": "https://ksusentinel.com/2021/05/25/the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-microsoft-has-built-an-ai-powered-autocomplete-for-code-using-gpt-3.md",
+      "title": "Microsoft has built an AI-powered autocomplete for code using GPT-3",
+      "excerpt": "And the output of AI language models is often haphazard ... The company has fine-tuned GPT-3 to “translate” into code by training it on examples of Power Fx formula, but the core of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "originalUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ne3n4e4xjvi-Ih44nfl3ixNVPbU=/0x0:503x357/1400x933/filters:focal(212x139:292x219):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69339297/microsoft_gpt3_powerapps_code.0.gif",
+          "width": 503,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "publishedDateTime": "2021-05-25T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
       "title": "Your Guide to the AWS Machine Learning Summit",
       "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
@@ -492,8 +579,8 @@
       "title": "15 Big Azure Announcements Made At Microsoft Build 2021",
       "excerpt": "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1089,92 +1176,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-op-ed-alphabets-waymo-warns-that-describing-vehicles-as-self-driving-before-theyre-ready-can-lead-to-unsafe-driver-behavior.md",
-      "title": "Op-ed: Alphabet's Waymo warns that describing vehicles as 'self-driving' before they're ready can lead to unsafe driver behavior",
-      "excerpt": "Some vehicles marketed as fully self-driving actually have advanced driver-assistance systems (ADAS), which can confuse drivers, warns Waymo's safety chief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
-      "originalUrl": "https://www.cnbc.com/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105098635-IMG_0057.jpg?v=1522347530",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
-      "publishedDateTime": "2021-05-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use-is-putting-most-companies-at-risk.md",
-      "title": "New Report from Corinium and FICO Finds that Lack of Urgency Around Responsible AI Use is Putting Most Companies at Risk",
-      "excerpt": "FICO and Corinium today released its second annual executive research report on Chief Analytics, Chief AI, and Chief Data Officers 65% of respondents' companies can't explain how specific AI model decisions or predictions are made 73% have struggled to get executive support for prioritizing AI ethics and responsible AI practices Only a fifth (20%) actively monitor their models in production for fairness and ethics Today,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

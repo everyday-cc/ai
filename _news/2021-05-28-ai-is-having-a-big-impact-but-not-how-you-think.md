@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/ai-is-having-a-big-impact-but-not-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-is-having-a-big-impact-but-not-how-you-think/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-having-a-big-impact-but-not-how-you-think/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - IBM AI
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://www.techrepublic.com/a/hub/i/r/2020/12/09/188132fe-9388-4c22-8b16-14fa0fa7bb9e/resize/1200x/c450893cc7be41eb8f7fc7989e2bf850/istock-924257690.jpg"

@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-22-mental-health-app-wysa-raises-55m-for-emotionally-intelligent-ai.md",
+      "title": "Mental health app Wysa raises $5.5M for ’emotionally intelligent’ AI",
+      "excerpt": "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/",
+      "originalUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/wysa-app-feature.jpg?w=1024",
+          "width": 1024,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/",
+      "publishedDateTime": "2021-05-21T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-is-baidu-stock-a-buy.md",
+      "title": "Is Baidu Stock a Buy?",
+      "excerpt": "Baidu (NASDAQ:BIDU), the Chinese tech giant that owns the country's top search engine, recently posted first-quarter numbers that topped analysts' expectations. Its revenue rose 25% year over year to 28.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/21/is-baidu-stock-a-buy/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/21/is-baidu-stock-a-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F627675%2Fbaidu_apollo_s_5g_remote_driving_service_remote_human_operators_control.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/21/is-baidu-stock-a-buy/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/21/is-baidu-stock-a-buy/",
+      "publishedDateTime": "2021-05-21T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth.md",
       "title": "Sinequa: Third-party marketplaces boost hyperscale cloud growth",
       "excerpt": "Enterprise IT leaders prefer Google Cloud, Amazon Web Services, and Microsoft Azure because of the strength of the third-party marketplaces.",
@@ -1078,84 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-ai-powered-teleradiology-fda-cleared-for-triage-in-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.md",
-      "title": "AI-Powered Teleradiology FDA Cleared for Triage in Departments Swamped by COVID-19: Interview with David Stavens, CEO of Nines",
-      "excerpt": "Prior to that, we worked on building one of the first self-driving cars while at Stanford, which eventually became Waymo ... We believe the role of artificial intelligence for radiology is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2020/05/ai-powered-teleradiology-fda-cleared-for-triage-by-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.html",
-      "originalUrl": "https://www.medgadget.com/2020/05/ai-powered-teleradiology-fda-cleared-for-triage-by-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-amazon-made-rekognition-software-now-able-to-detect-fear.md",
-      "title": "Amazon-made Rekognition software now able to detect fear",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "publishedDateTime": "2021-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

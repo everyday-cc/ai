@@ -41,15 +41,6 @@ related:
         width: 698
         height: 400
         isCached: true
-  - title: "‘Ban high-risk facial recognition technology’, new report from the Human Rights Commission says"
-    excerpt: "Australia should temporarily ban high-risk uses of facial recognition technology until safeguards are introduced according to a landmark report from the Australian Human Rights Commission, which is also recommending the creation of a powerful new AI Safety Commissioner."
-    publishedDateTime: 2021-05-27T05:39:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/ban-highrisk-facial-recognition-technology-new-report-from-the-human-rights-commission-says/news-story/4b1eda8232e089a669c9089bf0eccd2a"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 7
 
 secured: "6K4MEGwl/+XAsVAbxRRRPYB2VQyzKiLf1mySTsdh5AE6yBN88H8rOUw7Rpv6Cew3rbalTUUkOiATPsSdxlAEQotrXRtUjTMErF4vWNdUPB75Qqu8a4Kg9n3qWzORuG8twbJYAlH+uFQlMSui4qERfkQ0sZSGReUxvehqSQNKvtpooaMuruU2XIHHAI4ujgeURBISATtajq4Y/gkdGkofCpZ7zqOgN1pddL8jZFTxtjILZgxOIOaCNzt/PNJNjVCcPZP6MQbEFmuxRXwxKg+md3Nbwq0INLAFwoEoHyytY2NMBf/RYKrI+0OujcP+SzVsGR8/xo27mBDiND7y3lrG2XtD3aAjokbZ9rh5LmhyLQ180f2o8mV+JqACBrFqX/EbDUxAhP5jwlR1/4m2TP6EI9jlXVrKehRCMg9u1rRe65vLpdUXwNqXpPGvTRqESoNZ66G/71J0htw9/gyt9HebPDAI1eyVvxN00yRq71PiG5MJBzgqMDRxNGJBBKtzGrPw+JC98WiN+GQL69RI4hmRGw==;lMyz/aXZpi2GfEPqjqahyA=="
 ---

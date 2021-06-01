@@ -2,6 +2,84 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-24-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
+      "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
+      "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24?amp",
+      "publishedDateTime": "2021-05-24T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-how-healthcare-workflows-can-use-intelligent-automation-for-better-care.md",
+      "title": "How Healthcare Workflows Can Use Intelligent Automation for Better Care",
+      "excerpt": "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience.",
+      "sourceUrl": null,
+      "webUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "originalUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1163245446-3f32efd853ffed8e5d8a1184abc2c18d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "publishedDateTime": "2021-05-24T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthpayerintelligence.com",
+        "domain": "healthpayerintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027.md",
       "title": "Artificial Intelligence In Healthcare Market Growth, Global Survey, Analysis, Share, Company Profiles and Forecast by 2027",
       "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data.",
@@ -197,10 +275,10 @@
     {
       "path": "_news/2021-05-24-self-driving-evs-could-raise-emissions-study.md",
       "title": "Self-driving EVs could raise emissions — study",
-      "excerpt": "Self-driving veh",
+      "excerpt": "Self-driving vehicles could become a common form of transportation within the next decade, but researchers are warning they may worsen greenhouse gas emissions and air pollution.",
       "sourceUrl": null,
-      "webUrl": "https://www.eenews.net/climatewire/stories/1063733277",
-      "originalUrl": "https://www.eenews.net/climatewire/stories/1063733277",
+      "webUrl": "https://www.eenews.net/climatewire/2021/05/24/stories/1063733277",
+      "originalUrl": "https://www.eenews.net/climatewire/2021/05/24/stories/1063733277",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1086,109 +1164,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-whats-next-machine-learning-at-scale-through-unified-modeling.md",
-      "title": "What’s next: Machine learning at scale through unified modeling",
-      "excerpt": "Here's how to create a single model, rather than a set of related but separate models, to power a process or product.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
-      "originalUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1281172753.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
-      "publishedDateTime": "2021-05-22T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-pinterests-use-of-ai-drives-growth.md",
-      "title": "Pinterest’s Use of AI Drives Growth",
-      "excerpt": "Using neural networks, the site is able to find images—and ads—that will catch the consumer’s eye.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
-      "originalUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342074/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
-      "publishedDateTime": "2021-05-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

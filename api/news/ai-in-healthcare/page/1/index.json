@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-28-conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025.md",
+      "title": "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025",
+      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.md",
       "title": "Telcos back Artificial Intelligence, Internet of Things for 5G in India",
       "excerpt": "Delhi-based COAI represents incumbent telcos as well as multinational next-generation technology vendors such as Nokia, Ericsson, Huawei, ZTE, Cisco, ..",
@@ -1273,49 +1325,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-artificial-intelligence-ai-in-healthcare-market-outlook-2021-big-things-are-happening.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Outlook 2021: Big Things are Happening",
-      "excerpt": "HTF Market Intelligence released a new research Study of 50 pages on title Artificial Intelligence AI in Healthcare Market in India 2021 2026 with in depth analysis forecast and business moves The market Study is segmented by key a region",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
-      "originalUrl": "https://www.openpr.com/news/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U518860946_g.jpg",
-          "width": 800,
-          "height": 332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
-      "publishedDateTime": "2021-05-18T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

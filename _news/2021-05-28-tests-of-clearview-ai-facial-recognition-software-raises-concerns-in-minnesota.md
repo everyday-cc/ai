@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Clearview AI Hit by Wave of European Privacy Complaints"
-    excerpt: "Clearview AI Inc. was hit by a wave of complaints across Europe for allegedly breaking the region’s tough privacy laws by scraping billions of facial images from social-media profiles and the internet."
-    publishedDateTime: 2021-05-27T06:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-05-27/clearview-ai-hit-by-wave-of-european-privacy-complaints"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxAkAloJsP8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial recognition: Legal complaints lodged against Clearview AI in five countries"
     excerpt: "Privacy campaigners filed a series of legal complaints with five European regulators against the US tech firm Clearview AI on Thursday, alleging the company scraped facial images of 3 billion people from the web without their knowledge or permission,"
     publishedDateTime: 2021-05-28T10:07:00Z
@@ -133,20 +119,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YTKXXSHF5NA2RBISHDRMT2IFJ4.jpg"
         width: 2951
         height: 1971
-        isCached: true
-  - title: "NGOs file complaints against US facial-recognition firm"
-    excerpt: "A group of digital rights organisations on Thursday filed legal complaints against the company Clearview AI -which uses facial-recognition to have \"the largest known database of 3+ billion facial images\"."
-    publishedDateTime: 2021-05-27T05:18:00Z
-    webUrl: "https://euobserver.com/tickers/151962"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "European privacy groups challenge facial scan firm Clearview"
     excerpt: "Privacy campaign groups filed legal complaints Thursday with European regulators against Clearview AI, alleging the facial recognition technology it provides to law enforcement agencies and businesses breaches stringent European Union privacy rules."

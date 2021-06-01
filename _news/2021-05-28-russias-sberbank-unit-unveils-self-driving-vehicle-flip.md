@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL5N2ND6FC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2ND6FC"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Russia's Sberbank unit unveils self-driving vehicle FLIP"
-    excerpt: "SberAutoTech, a subsidiary of Russia's largest lender Sberbank SBER.MM, has developed a fully self-driving vehicle, FLIP, which the company on Thursday described as a \"taxi of the future\". Sberbank is diversifying in areas ranging from food delivery and taxi services to cloud computing and cyber security,"
-    publishedDateTime: 2021-05-27T07:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/russias-sberbank-unit-unveils-self-driving-vehicle-flip-2021-05-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/russias-sberbank-unit-unveils-self-driving-vehicle-flip-2021-05-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/russias-sberbank-unit-unveils-self-driving-vehicle-flip-2021-05-27?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Russian startup unveils first self-driving robotaxi"
     excerpt: "Russian technology transportation firm SberAutoTech has unveiled its first fully autonomous vehicle, a mobility platform that can be used for passenger or cargo delivery. Called Flip, the autonomous vehicle is an all-electric vehicle (EV) powered by a replacement battery module at the core."
     publishedDateTime: 2021-05-28T12:36:00Z

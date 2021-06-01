@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft's GPT-3 technology could soon write code using ordinary language"
+    excerpt: "A year after funneling $1 billion in OpenAI and gaining exclusive rights to GPT-3, Microsoft shared plans to bring the NLP tech to programming applications"
+    publishedDateTime: 2021-05-30T15:33:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 59
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l84720210527144028.jpeg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Monitors Outbreak by 2027 | Microsoft, NVIDIA Corporation, IBM, Atomwise"
     excerpt: "The global Artificial Intelligence (AI) in Drug Discovery Market is projected to reach USD 3,932.87 million by 2027 from USD XX million in 2020, at a CAGR of 40.8% during the forecast period (2021–2027)."
     publishedDateTime: 2021-05-31T19:38:00Z

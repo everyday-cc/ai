@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202105/ice-deploys-mobile-face-bio
 webUrl: "https://www.biometricupdate.com/202105/ice-deploys-mobile-face-biometrics-to-remotely-monitor-registered-migrants"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Allegations in wrongful arrest suit involving face biometrics against Apple, contractor get worse"
+    excerpt: "Apple is facing legal action over an alleged repeated pattern of carelessness and over-reliance on a face biometrics system."
+    publishedDateTime: 2021-05-31T23:05:00Z
+    webUrl: "https://www.biometricupdate.com/202105/allegations-in-wrongful-arrest-suit-involving-face-biometrics-against-apple-contractor-get-worse"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06145144/apple-logo-building.png"
+        width: 721
+        height: 420
+        isCached: true
   - title: "CEA-Leti develops autonomous face biometrics imager for mobile devices and cars"
     excerpt: "Leti has unveiled an autonomous imager technology capable of activating mobile devices and small appliances via facial recognition."
     publishedDateTime: 2021-05-27T18:08:00Z

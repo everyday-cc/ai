@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-01-making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry.md",
+      "title": "Making AI Sing: An Interview With Verphoria On The Use Of Artificial Intelligence Within The Music Industry",
+      "excerpt": "At the cutting edge of the music industry, innovators like Verphoria are continuously pushing the boundaries of human/machine collaboration in creation as well as business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b5732f1944aa8b2f7dd319%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/amp/",
+      "publishedDateTime": "2021-05-31T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-for-chinas-single-mothers-a-road-to-recognition-paved-with-false-starts.md",
       "title": "For China’s Single Mothers, a Road to Recognition Paved With False Starts",
       "excerpt": "Unmarried mothers are often denied government benefits. A debate over the policy is being propelled by a declining birthrate and a new generation of independent Chinese women.",
@@ -949,6 +1000,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-29-intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines.md",
+      "title": "Intel’s image-enhancing AI is a step forward for photorealistic game engines",
+      "excerpt": "Intel's deep learning system turns 3D rendered graphics into photorealistic images, but it isn't ready yet to deliver real-time game engines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/",
+      "originalUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/amp/",
+      "publishedDateTime": "2021-05-28T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels.md",
       "title": "Automate weed detection in farm crops using Amazon Rekognition Custom Labels",
       "excerpt": "Amazon Rekognition Custom Labels makes automated weed detection in crops easier. Instead of manually locating weeds, you can automate the process with Amazon Rekognition Custom Labels, which allows you to build machine learning (ML) models that can be trained with only a handful of images and yet are",
@@ -1101,109 +1204,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-microsoft-build-new-windows-enhanced-arm-support-and-adds-azure-features.md",
-      "title": "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png",
-          "width": 1199,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/",
-      "publishedDateTime": "2021-05-28T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn.md",
-      "title": "Anthropic is the new AI research outfit from OpenAI’s Dario Amodei, and it has $124M to burn",
-      "excerpt": "As AI has grown from a menagerie of research projects to include a handful of titanic, industry-powering models like GPT-3, there is a need for the sector to evolve — or so thinks Dario Amodei, former VP of research at OpenAI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/",
-      "originalUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/amp/",
-      "publishedDateTime": "2021-05-28T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

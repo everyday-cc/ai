@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-29-microsoft-build-new-windows-enhanced-arm-support-and-adds-azure-features.md",
+      "title": "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png",
+          "width": 1199,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/",
+      "publishedDateTime": "2021-05-28T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn.md",
+      "title": "Anthropic is the new AI research outfit from OpenAI’s Dario Amodei, and it has $124M to burn",
+      "excerpt": "As AI has grown from a menagerie of research projects to include a handful of titanic, industry-powering models like GPT-3, there is a need for the sector to evolve — or so thinks Dario Amodei, former VP of research at OpenAI,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/",
+      "originalUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/amp/",
+      "publishedDateTime": "2021-05-28T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027.md",
       "title": "Self Driving Trucks Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027",
       "excerpt": "The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -62,7 +165,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-is-having-a-big-impact-but-not-how-you-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -103,7 +206,8 @@
       "topics": [
         "IBM AI",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI Ethics"
       ]
     },
     {
@@ -253,7 +357,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -460,7 +564,7 @@
       "originalUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -594,6 +698,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025.md",
+      "title": "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025",
+      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -994,7 +1150,7 @@
       "originalUrl": "https://www.reuters.com/article/russia-sberbank-autonomous/russias-sberbank-unit-unveils-self-driving-vehicle-flip-idUSL5N2ND6FC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1087,161 +1243,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology.md",
-      "title": "AI Audio and Video Chip Market Seeking Excellent Growth | Amlogic, Rockchip, Allwinner Technology",
-      "excerpt": "The latest released AI Audio and Video Chip market research of 91 pages suggests that the industry has made modest progress in tech-driven transformation since 2017. Many organizations have yet to scale their end use applications beyond pilots and proofs-of-concept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker.md",
-      "title": "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker",
-      "excerpt": "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg",
-          "width": 800,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T11:25:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-majority-of-europeans-would-replace-government-with-ai-oof-theyre-so-wrong.md",
-      "title": "Majority of Europeans would replace government with AI — oof, they’re so wrong",
-      "excerpt": "A recent survey conducted by researchers at the IE Center for the Governance of Change indicates that a majority of people would support replacing members of their respective parliaments with AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/majority-europeans-replace-government-ai-why-wrong",
-      "originalUrl": "https://thenextweb.com/news/majority-europeans-replace-government-ai-why-wrong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Feuflag.jpg&signature=647b63a91204adb18f626388ac20c958",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

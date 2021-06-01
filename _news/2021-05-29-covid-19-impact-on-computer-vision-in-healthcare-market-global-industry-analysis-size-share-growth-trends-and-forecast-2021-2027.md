@@ -22,33 +22,35 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security"
-    publishedDateTime: 2021-05-27T06:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27"
+  - title: "Self Driving Trucks Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027"
+    excerpt: "The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
+    publishedDateTime: 2021-05-28T16:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-05-28T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28"
+  - title: "SK partners with US self-driving truck tech firm"
+    excerpt: "By Kim Bo-eun SK Group's holding company has partnered with Kodiak Robotics, a U.S. self-driving truck startup, to introduce the company's technology in Asian markets. Under the p"
+    publishedDateTime: 2021-05-28T07:01:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/05/133_309570.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=309570"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=309570"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202105/a24cde98c2ac497c9662f96b578238a7.jpg"
+        width: 980
+        height: 403
         isCached: true
   - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
     excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
@@ -64,43 +66,43 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Voice Assistant Market Research Trend 2027- Future Scope, Regional Development, and In-depth Manufacturers Analysis"
-    excerpt: "Market Overview <br /> Global Voice Assistant Market Research Trends valuation stood at USD 1.68 Billion in 2010 and is projected to reach USD 7.30 Billion by 2023, registering a 24.32% CAGR during the forecast period (2019 to 2025)."
-    publishedDateTime: 2021-05-28T06:35:00Z
-    webUrl: "https://menafn.com/1102155668/Voice-Assistant-Market-Research-Trend-2027-Future-Scope-Regional-Development-and-In-depth-Manufacturers-Analysis&source=24"
+  - title: "Natural Language Processing Market Size, Key Players Analysis, Business Opportunity Assessment, And Comprehensive Growth Drivers Forecast Till 2024"
+    excerpt: "Get a Sample PDF of Report -  Natural Language Processing Market competition is assessed by top manufacturers, with production, price, revenue (value), and market share for each manufacturer. It offers a complete evaluation of every area including the volume of the global Natural Language Processing market in that area in the estimated duration."
+    publishedDateTime: 2021-05-28T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-key-players-analysis-business-opportunity-assessment-and-comprehensive-growth-drivers-forecast-till-2024-2021-05-28"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://menafn.com/updates/pr/2021-05/28/pr_12202_38d8afc3_image_story.jpg"
-        width: 768
-        height: 1087
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Natural Language Processing Market: 2021 Strategic Plans by Globally Industry Demand, Top Manufacture, Business Growth and Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Natural Language Processing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-05-28T08:35:00Z
-    webUrl: "https://menafn.com/1102156052/Global-Natural-Language-Processing-Market-2021-Strategic-Plans-by-Globally-Industry-Demand-Top-Manufacture-Business-Growth-and-Forecast-to-2030"
+  - title: "Huge Growth in Deep Learning Market Is Booming Worldwide 2021 | Leading Key Players – Advanced Micro Devices, ARM Ltd, Clarifai"
+    excerpt: "Global Deep Learning Market is comprehensively prepared with main focus on the competitive landscape, geographical growth, segmentation, and market dynamics, including drivers, restraints, and opportunities."
+    publishedDateTime: 2021-05-28T10:43:00Z
+    webUrl: "https://ksusentinel.com/2021/05/28/huge-growth-in-deep-learning-market-is-booming-worldwide-2021-leading-key-players-advanced-micro-devices-arm-ltd-clarifai/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 1
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 26
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://im0-tub-com.yandex.net/i?id=ecb6a78e879b30656c7aa5f8253cd164&n=13"
+        width: 480
+        height: 303
         isCached: true
-  - title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-05-27T12:59:00Z
-    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+  - title: "Global Machine Learning as a Service (MLaaS) Market Will Generate New Growth Opportunities by 2027: Know more about Top Key Players"
+    excerpt: "Syndicate Market Research’s Latest Report ‘Global Machine Learning as a Service (MLaaS) Market 2021‘ Analyses Research Methodology overview including Primary Research, Secondary Research, Company Share Analysis,"
+    publishedDateTime: 2021-05-31T01:13:00Z
+    webUrl: "https://ksusentinel.com/2021/05/31/global-machine-learning-as-a-service-mlaas-market-will-generate-new-growth-opportunities-by-2027-know-more-about-top-key-players/"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 4
 
 secured: "xeiCOAhgqa8sC2jyIMg1QrcX1u4DkE8cQ7ogMKbj/LtXfl1CcU+GYe3Gj4O83+6MAgHmf+sH7U2gl/b2BAPpxs5vGOexUV0bCBQuZ0nfDI6wECtdpc0dCrQGHxMICBHkJLXaqJN5d3V5JfC0FdOYB8RVLdMIFbpUXlcAfTMxLjOh9XHLvl2N+f9orWLfwZayT1owgBLh0E0MgVTywEbOiO7J6FjYm01xhkj930YIVDbQoZFQq9EtwxK1eUnQNFaSZu68+5FysUZy7jA4yN6qa6OosgpYVbmdAcl6RBHu+b+Sa95syrMH8CL3/Z+DqkTD+7RsdeoYaxXpVWOVA3AN6AQYzZukX8AYzS67Ap/H0d8=;//3qbYFqIPw0fF96x2dfGA=="
 ---
