@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Trustworthy and ethical AI systems–possible?"
+    excerpt: "Artificial intelligence (AI) as a technology is maturing. Far from the stuff of science fiction, AI has moved from the exclusive regimes of theoretical mathematics and advanced hardware to an everyday aspect of life."
+    publishedDateTime: 2021-05-31T16:08:00Z
+    webUrl: "https://businessmirror.com.ph/2021/06/01/trustworthy-and-ethical-ai-systems-possible/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 36
   - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
     excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer programs can distinguish between images of benign growths and"
     publishedDateTime: 2021-05-27T16:48:00Z

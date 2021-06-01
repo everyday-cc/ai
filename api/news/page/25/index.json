@@ -2,6 +2,190 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-05-12-a-new-frontier-in-healthcare-intelligent-document-processing.md",
+      "title": "A New Frontier in Healthcare Intelligent Document Processing",
+      "excerpt": "Grooper, a leading intelligent document processing and data integration platform created by BIS releases version 2021. Six new",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/a-new-frontier-in-healthcare-intelligent-document-processing-301289175.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/a-new-frontier-in-healthcare-intelligent-document-processing-301289175.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg?p=facebook",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-aico-flashbrands-ai-based-coach-supports-employees-mental-health-and-career-path.md",
+      "title": "AICO, Flashbrand’s AI-based Coach, Supports Employees’ Mental Health and Career Path",
+      "excerpt": "Flashbrand, a leading-edge, real-time employee talent management solution, unveils “AICO,” a unique AI-based professional coach for all employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210511005521/en/AICO-Flashbrand’s-AI-based-Coach-Supports-Employees’-Mental-Health-and-Career-Path",
+      "originalUrl": "https://www.businesswire.com/news/home/20210511005521/en/AICO-Flashbrand’s-AI-based-Coach-Supports-Employees’-Mental-Health-and-Career-Path",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ai-has-eaten-ibm-think.md",
+      "title": "AI Has Eaten IBM Think",
+      "excerpt": "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "publishedDateTime": "2021-05-11T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ibm-project-codenet-to-teach-ai-how-to-code.md",
+      "title": "IBM Project CodeNet to teach AI how to code",
+      "excerpt": "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png",
+          "width": 1654,
+          "height": 932,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
       "title": "Machine learning & Artificial intelligence to Gain traction!",
       "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
@@ -992,187 +1176,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-3-ways-artificial-intelligence-ai-is-disrupting-fintech.md",
-      "title": "3 Ways Artificial Intelligence (AI) is Disrupting Fintech",
-      "excerpt": "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech",
-      "originalUrl": "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-fugue-announces-iac-security-for-aws-cloudformation-in-regula.md",
-      "title": "Fugue announces IaC Security for AWS CloudFormation in Regula",
-      "excerpt": "Fugue, the company helping organisations innovate faster and more securely in the cloud, announced support for AWS CloudFormation in Regula, the open-source infrastructure as code (IaC) policy",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/fugue-announces-iac-security-aws-cloudformation-co-1570707747-ga.1620731443.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/fugue-announces-iac-security-aws-cloudformation-co-1570707747-ga.1620731443.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/fugue-cloud-infrastructure-920x533.png",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/fugue-announces-iac-security-aws-cloudformation-co-1570707747-ga.1620731443.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/fugue-announces-iac-security-aws-cloudformation-co-1570707747-ga.1620731443.html",
-      "publishedDateTime": "2021-05-11T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.md",
-      "title": "Full interview with IBM CEO Arvind Krishna on new AI innovations, chip shortage, strategy and more",
-      "excerpt": "IBM will announce advancements in artificial intelligence and quantum computing at its global annual conference called \"Think.\" The technology is designed to help businesses push further into the 21st century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/05/11/full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/05/11/full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106881141-16207378051620737794-16019881298-1080pnbcnews.jpg?v=1620737804",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ai-methods-predict-covid-19-patient-outcomes-using-routine-clinical-data-from-icus.md",
-      "title": "AI methods predict COVID-19 patient outcomes using routine clinical data from ICUs",
-      "excerpt": "The investigators used machine learning to predict which patients might get worse and not respond positively to being turned onto their front in intensive care units (ICUs) - a technique known as proning that is commonly used in this setting to improve oxygenation of the lungs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
-      "publishedDateTime": "2021-05-11T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

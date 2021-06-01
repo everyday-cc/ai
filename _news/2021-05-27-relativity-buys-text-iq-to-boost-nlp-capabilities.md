@@ -50,6 +50,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Relativity Acquires Text IQ to Strengthen Its Position as a Leader in Artificial Intelligence for E-Discovery, Compliance, and Privacy"
+    excerpt: "Text IQ, a Top 100 AI business that uses artificial intelligence (AI) to discover sensitive data, has been purchased by Relativity, a global legal and compliance technology firm. Text IQ uses the latest advances in natural language processing (NLP),"
+    publishedDateTime: 2021-06-01T05:21:00Z
+    webUrl: "https://www.cioapplications.com/news/relativity-acquires-text-iq-to-strengthen-its-position-as-a-leader-in-artificial-intelligence-for-ediscovery-compliance-and-privacy-nid-7851.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 5
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/gl0450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "6iqLcyLMyJQlktZqzt6UpMP+fVa7fekHUT0z9CGHTqosJN5YIJvI+yuBKtVS5Z6+/29n+g1F5I4fMQ55gcd+Sz14cgl+V4ysyHOLI9jRT+iaHhDRz06QT1UlHYr/tum936gNTnyTBMgFBCInY9SgKM+424U4JFdnKDFDZcNPRIqgjFHQWVhCWxUMCAE5DPVwp8t589abgYdJjiXbcdzQBLGdvwdzMSxiMe4fhUWHwIlPg4g3mjhIgMnHJ7uoVz7rTUmTBeB0rL3f00D7xp7wgKHhC95zfren8/y1uil6Dxg1NA5cPlA/Ag39KCYBZq81b/IIEXX8tBFYvGa4UJVuaW+e5KPqpfWqQGD53RdzRdQlCbie2GKwhJCokbJ2hjr+KLC9M8M1EGO2LuWZi8pHSK5G9feRd6CH1yQiLdi81R59IkcJTj4TslIDwcmKkCwIJPUakyttefiUS1VdAiszi4fo9N7voHkEpgppYngjMlhd5j8lMYL4FJEmmzitceQGw+lHSCFvYRFO2VDKPVnETA==;Gt9aYKbX7kzWp0LUAP5diA=="
 ---

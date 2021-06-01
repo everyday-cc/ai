@@ -45,22 +45,6 @@ related:
         width: 1199
         height: 671
         isCached: true
-  - title: "Microsoft Build Unveils 'AI-powered Assistance' For Coding Using GPT-3 And Azure"
-    excerpt: "Using an advanced AI model like this can help our low-code tools become even more widely available,\" Corporate vice president for Microsoft said on the event."
-    publishedDateTime: 2021-05-27T11:05:00Z
-    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 84
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wuhf06h3xyik4ld9_1622111084.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
   - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
     excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
     publishedDateTime: 2021-05-30T11:47:00Z

@@ -2,17 +2,17 @@
 category: news
 title: "Leveraging Machine Learning to Fight Money Laundering"
 excerpt: "Machine learning can play a big role in fighting against money laundering, says Rene Perez, financial crimes consultant at Jack Henry and Associates."
-publishedDateTime: 2021-05-31T12:55:00Z
-originalUrl: "https://www.govinfosecurity.com/leveraging-machine-learning-to-fight-money-laundering-a-16771"
-webUrl: "https://www.govinfosecurity.com/leveraging-machine-learning-to-fight-money-laundering-a-16771"
+publishedDateTime: 2021-05-31T12:52:00Z
+originalUrl: "https://www.databreachtoday.com/leveraging-machine-learning-to-fight-money-laundering-a-16771"
+webUrl: "https://www.databreachtoday.com/leveraging-machine-learning-to-fight-money-laundering-a-16771"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: DataBreachToday
+  domain: databreachtoday.com
 
 topics:
   - Machine Learning
@@ -24,6 +24,6 @@ images:
     height: 520
     isCached: true
 
-secured: "KVMPENH2HWhOmOJf0BPhY7tPeIsJUTo3Jk3XnQL37Eg7toeEIzTN0AohMaKR94LHPYh/0T7yMMQ/1A6cqaj1sFkdTrKT92gegSVHGKw4cSI2LAWG+imKxAHAWYxMjn3Xw1aXLxudGT+fmF2o9986ULghfFgtCxW7zoAt2cYiXjZ6nu6khbW17YZnXBA8m8FTWUQOJiAq4JjXTv2Wc3R9bdo42H0A+P2Tyw/ik2mrWj1MqaqagA9aX2lw0M99UUjZMSI57xwUwu5XVfisLA4lLjOKDLwnTrrNkiBVmmBFMF0ISee3w7ocI+mJpxMLaTFkcq75lWCAIz8l6wuicc8LX1wCktbRCZxmatFAI3gOt+t8UwV8BKo7nVDquCvVtt7Zx5tiV4+xsk2WptFL7h9/7m93HFbcIYzsPRVqFMt0a3VQXfVLhBzqSYIpuSzwYe0HStNirRl0mM/XVFAGPQW280C24c+dPVOSGE3SK372XPxrBWbCAMifnE65QSgyuDWl9IKCVbN4w4St2GV6NrVf2Q==;K+upak+dPT9LD+bdhR6jkA=="
+secured: "6i+t2xAGem/TbxitKplvwZTJFTrCxGIqL6fmBmFPQHRaaZnv5mVEmBWinY1Razbt9lHV11jHyLX2g0QNYDE05drpyrRIPFkJ99nKVzaLNN3JF0zHS2PSFEcU6/op09Zh7jBqgoo/ze+D2ZV2RvMUNgBpWukKxeflZk/zREzvvTc90XV8XLBedKfkjATJ5rXHc1GE1V2eJ7YSr7yMALhHxiG2w34up17EkDHbevvMKLueyi6d9gVaQj7Wn8klE2vyQ6AiuPU1bmqKM/SDwoxBdIOtFV0aQbzOGu2LBUl/CBNLGxvzqIwmrr2Z/DF4zbCGGs9ZSI2cTKTRYNoS/XPlH8g8Uz46+mtEhrKtz8hwKF4=;HMNy8a/GsENKJtPqyHmKXg=="
 ---
 

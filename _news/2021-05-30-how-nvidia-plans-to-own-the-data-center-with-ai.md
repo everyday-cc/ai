@@ -41,6 +41,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA Base Command Platform Provides Enterprises with Fast Path to Scale Production AI"
+    excerpt: "COMPUTEX -- NVIDIA today unveiled NVIDIA ® Base Command™ Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
+    publishedDateTime: 2021-06-01T05:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-base-command-platform-provides-enterprises-with-fast-/2021/06/01/9380796.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+  - title: "NVIDIA AI Enterprise Software Drives New Wave of Certified Systems from World's Leading Manufacturers"
+    excerpt: "COMPUTEX--NVIDIA today announced dozens of new servers certified to run NVIDIA AI Enterprise software, marking a rapid expans"
+    publishedDateTime: 2021-06-01T05:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-ai-enterprise-software-drives-new-wave-certified-/2021/06/01/9380798.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "4UTX/zP8H/++Wp3+Z8Vq2o7h+BagqnCvBsAmElsSzGfQhwGerZkMjAjISznzHZY68JU5RjNnS0eo2MJYAGQjQqUCKmQQLUZTjbFjN+HieoSFQuzwjXgdRrRzlkc55qwBSlPUF6tWs8CU+B1rZCxbKhpLVYQkFGUSWbFd+jkW15uhd9Tg/j8EqN1/LHYFI5W8F2K5nkfzZ/2wLGtUly9IPfQU+Vg6DRVxj1Agv4YSB/xHVYMLzlV1GD/NL+6c4nehF5rlfbAJxIggMgGVX+sft0D3P7ZI1cr6cH+5KvSYiQUpayCcPMmcY2qjUlzzbmQa0zV9Yd7qxUd5cFcCgmwzqWOXNWdXvHbR1jOQ6onujG8hUbdzW9zLU7kF1/jIu3VVzVyhg5bRUDB8hYCV+t0vpkaArNIAlFYIlc2UFZLF8OWcagx6gP6CbtVnrVjxaAeHtijb/k62lx7/nnpoyZ6cnCeLQVy9kizMRFu4A6lwywVIRfOgglCgYVd+/L0cgWN91BrLPJShuIgRThx0dqRLnQ==;qQPT/2+xADI8ErXM4hWuBw=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "How artificial intelligence can enhance blockchain platforms"
-excerpt: "Artificial intelligence and blockchain are both touted as technologies that will lead our future. But here’s the problem: They’re like oil and water. While innovative in their own right, there’s a noticeable lack of interconnectedness — projects that tightly combine AI and blockchain,"
-publishedDateTime: 2021-05-31T14:40:00Z
-originalUrl: "https://www.investing.com/news/cryptocurrency-news/how-artificial-intelligence-can-enhance-blockchain-platforms-2519287"
-webUrl: "https://www.investing.com/news/cryptocurrency-news/how-artificial-intelligence-can-enhance-blockchain-platforms-2519287"
+excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
+publishedDateTime: 2021-05-31T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/currencies/news/how-artificial-intelligence-can-enhance-blockchain-platforms-10190893"
+webUrl: "https://markets.businessinsider.com/currencies/news/how-artificial-intelligence-can-enhance-blockchain-platforms-10190893"
 type: article
-quality: 52
-heat: 52
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: Investing.com
-  domain: investing.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981373.jpg"
-    width: 800
-    height: 533
-    isCached: true
-
-secured: "sKXw4AZYZ68Q2OMbfeYoAZ/O5sKXYU3Wj24uwkrdfz2Na/sLsNvbPa7OcXYOvYmnTpBu5QFHVLXNt+osRGOge1N3aMIr/y04db6cFDl8Q4wsrBnFZ64YxTpXtmhI/aKgcOCXkeempJWdgp/TEq+PwRXWLg6tIZj6Re7WuJLmqdYN4R7At6wwLy5dXYY3f3gGx1isF5fg2UvU2FVIMcenzxa/jmCjIgtXcHco2HSUNj+5bz4xx37gGoC687Oey8meqxWt2u0VCAJu2q/v1v7aba3Vt7fek7GipZH84UhXhO2fh0dNC5z1iwPA8gZm+tB8Ku5fwUt3tyVA27xu5Okbh9RWlt2DqMyttTEh9TA+hmM=;1XQ3YbeIfFCM9iVVsV4FrA=="
+secured: "E1v3Y672CylSHDyJCZfro0FGwJkQWrBp6OQIPKV7x8sMOiD7tUHt3c8lbVaqt45mGRdnwbPf2lOpNwJhmFgDY3HePX5x+LKqi7CZPKj4E8TQn08tRrH2NBO9DYZ5yRv0x20DG+FeEV/B9O/V1UYrz06LSzcswU35WXqLKal7MSfPH25W6Lf43lJmcdVHsc9A2t7yRWtA0cjPIKAOYPHA67a3oCAdX4VAqP2WJkBfAPHuSrjylDU8Zw6VdtrD9j+t6bV1T6Ks0HKnr0q1og6jkj0D8odXchVx2DVNQRtXkFbY3OyYXMNkZtY/9E7uSOcLQHIG1IVhx75oq/juyt+RYCU9d8wDCuhhplt7WwWbgZQ=;MOJiZH14W8qQ7n2eDXLwqA=="
 ---
 

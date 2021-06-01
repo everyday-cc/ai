@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How To Solve AI’s Bias Problem, Create Emotional AIs, And Democratize AI With Synthetic Data"
+    excerpt: "Artificial Intelligence is transforming so many aspects of our lives, but in order to work, it needs large volumes of data that is free of errors and biases. I spoke to Affectiva CEO Rana el Kaliouby and Synthesis."
+    publishedDateTime: 2021-05-28T04:11:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/05/28/how-to-solve-ais-bias-problem-create-emotional-ais-and-democratize-ai-with-synthetic-data/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/05/28/how-to-solve-ais-bias-problem-create-emotional-ais-and-democratize-ai-with-synthetic-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/28/how-to-solve-ais-bias-problem-create-emotional-ais-and-democratize-ai-with-synthetic-data/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b06c844fb4109497b77e99%2F0x0.jpg"
+        width: 1200
+        height: 633
+        isCached: true
   - title: "Researchers create robot that smiles back"
     excerpt: "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,"
     publishedDateTime: 2021-05-27T19:02:00Z

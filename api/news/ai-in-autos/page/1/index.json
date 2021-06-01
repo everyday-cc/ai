@@ -933,6 +933,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-24-self-driving-evs-could-spike-co2-study.md",
+      "title": "Self-driving EVs could spike CO2 — study",
+      "excerpt": "Self-driving vehicles could become a common form of transportation within the next decade, but researchers are warning they may worsen greenhouse gas emissions and air pollution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eenews.net/energywire/stories/1063733275",
+      "originalUrl": "https://www.eenews.net/energywire/stories/1063733275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eenews.net/image_assets/2021/05/image_asset_119343.jpg?1621865577",
+          "width": 938,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "E&E",
+        "domain": "eenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-self-driving-evs-could-raise-emissions-study.md",
       "title": "Self-driving EVs could raise emissions — study",
       "excerpt": "Self-driving vehicles could become a common form of transportation within the next decade, but researchers are warning they may worsen greenhouse gas emissions and air pollution.",
@@ -1419,40 +1462,6 @@
         "IBM AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam.md",
-      "title": "STMicroelectronics acquires Edge AI software specialist Cartesiam",
-      "excerpt": "Geneva, Switzerland May 19, 2021 - STMicroelectronics (NYSE:STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today announced a transaction ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/g21190036/stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/g21190036/stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21190036",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21190036",
-      "publishedDateTime": "2021-05-19T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

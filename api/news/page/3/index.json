@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-28-russias-sberbank-unit-unveils-self-driving-vehicle-flip.md",
+      "title": "Russia's Sberbank unit unveils self-driving vehicle FLIP",
+      "excerpt": "SberAutoTech, a subsidiary of Russia's largest lender Sberbank, has developed a fully self-driving vehicle, FLIP, which the company on Thursday described as a \"taxi of the future\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/russia-sberbank-autonomous/russias-sberbank-unit-unveils-self-driving-vehicle-flip-idUSL5N2ND6FC",
+      "originalUrl": "https://www.reuters.com/article/russia-sberbank-autonomous/russias-sberbank-unit-unveils-self-driving-vehicle-flip-idUSL5N2ND6FC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563651392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q18N",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2ND6FC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2ND6FC",
+      "publishedDateTime": "2021-05-27T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-how-ai-and-machine-learning-help-fight-the-covid-19-battle.md",
+      "title": "How AI and machine learning help fight the COVID-19 battle",
+      "excerpt": "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
+      "publishedDateTime": "2021-05-27T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology.md",
       "title": "AI Audio and Video Chip Market Seeking Excellent Growth | Amlogic, Rockchip, Allwinner Technology",
       "excerpt": "The latest released AI Audio and Video Chip market research of 91 pages suggests that the industry has made modest progress in tech-driven transformation since 2017. Many organizations have yet to scale their end use applications beyond pilots and proofs-of-concept.",
@@ -292,6 +396,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-privacy-watchdogs-take-legal-action-against-clearview-ai-in-five-countries.md",
+      "title": "Privacy watchdogs take legal action against Clearview AI in five countries",
+      "excerpt": "Clearview AI is under the gun once again as privacy watchdogs in Europe file legal complaints against its data collection practices. On Thursday, Privacy International (PI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html",
+      "originalUrl": "https://www.techspot.com/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-27-image-20.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html",
+      "publishedDateTime": "2021-05-27T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -773,7 +928,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210527091439.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1082,154 +1237,6 @@
         "name": "Defense News",
         "domain": "defensenews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
-      "title": "Databricks ups AI ante with new AutoML engine and feature store",
-      "excerpt": "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "publishedDateTime": "2021-05-27T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030.md",
-      "title": "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-scared-human-emotion-detection-ai-meets-eye-tracking-technology.md",
-      "title": "Scared, human? Emotion-detection AI meets eye-tracking technology",
-      "excerpt": "Benefits and risks of artificial intelligence The increasing scale of AI is raising the stakes for major ethical questions. Read More That reality is closer than ever after an eye-tracking AI company has agreed to acquire emotion-detection software firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/26/cf8ae2ae-d7f1-441c-bd07-269f57b1c255/facial-recognition-emotion.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
-      "publishedDateTime": "2021-05-26T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

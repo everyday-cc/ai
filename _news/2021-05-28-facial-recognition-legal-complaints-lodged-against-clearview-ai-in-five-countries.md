@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Clearview AI' Hit With Legal Complaints In 5 Countries, Accused of Facial Recognition Abuse"
-    excerpt: "Clearview AI, the American maker of a controversial facial recognition tool used mostly by police, is facing a downpour of legal complaints across Europe as of Thursday, alleging scopious privacy violations,"
-    publishedDateTime: 2021-05-27T12:45:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506"
-    ampWebUrl: "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 93
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/75b12be5ae0c734da6fbdfb994b5c987.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Privacy watchdogs take legal action against Clearview AI in five countries"
     excerpt: "Clearview AI is under the gun once again as privacy watchdogs in Europe file legal complaints against its data collection practices. On Thursday, Privacy International (PI),"
     publishedDateTime: 2021-05-27T16:43:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-27-image-20.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Clearview AI — The Facial Recognition Company Embraced By U.S. Law Enforcement — Just Got Hit With A Barrage Of Privacy Complaints In Europe"
-    excerpt: "The firm claims to have over 3 billion faces in its database, many controversially acquired from public web sources and social media."
-    publishedDateTime: 2021-05-27T12:22:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60af8ee1bde1dd11882247cf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D0%26cropY2%3D2700"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Tests of Clearview AI facial recognition software raises concerns in Minnesota"
     excerpt: "At least 42 law enforcement agencies in Minnesota, including the Renville County Sheriff's Office, reportedly used Clearview AI facial recognition software, according to a Buzzfeed investigation. Clearview AI is a web-based platform that allows users to submit pictures for possible matches in a database of more than 3 billion images pulled from open source websites,"

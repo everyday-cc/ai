@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-bu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
 type: article
 quality: 102
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Build Unveils 'AI-powered Assistance' For Coding Using GPT-3 And Azure"
-    excerpt: "Using an advanced AI model like this can help our low-code tools become even more widely available,\" Corporate vice president for Microsoft said on the event."
-    publishedDateTime: 2021-05-27T11:05:00Z
-    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 84
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wuhf06h3xyik4ld9_1622111084.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
   - title: "Artificial Intelligence Identifies Netflix And Microsoft Among Today’s Trending Stocks"
     excerpt: "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Netflix and Microsoft, among others."
     publishedDateTime: 2021-05-28T15:20:00Z

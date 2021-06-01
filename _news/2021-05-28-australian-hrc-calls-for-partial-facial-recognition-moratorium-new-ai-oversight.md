@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202105/australian-hrc-calls-for-pa
 webUrl: "https://www.biometricupdate.com/202105/australian-hrc-calls-for-partial-facial-recognition-moratorium-new-ai-oversight"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 623
     height: 432
     isCached: true
-
-related:
-  - title: "AHRC: ‘High-Risk’ Facial Recognition Should Be Banned"
-    excerpt: "The Australian Human Rights Commission (AHRC) calls for protecting human rights in the regulation of facial recognition technology."
-    publishedDateTime: 2021-05-27T11:46:00Z
-    webUrl: "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/"
-    ampWebUrl: "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/"
-    cdnAmpWebUrl: "https://heimdalsecurity-com.cdn.ampproject.org/c/s/heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/"
-    type: article
-    provider:
-      name: Heimdal Security
-      domain: heimdalsecurity.com
-    quality: 59
-    images:
-      - url: "https://heimdalsecurity.com/blog/wp-content/uploads/MicrosoftTeams-image-22-2.png"
-        width: 698
-        height: 400
-        isCached: true
 
 secured: "6K4MEGwl/+XAsVAbxRRRPYB2VQyzKiLf1mySTsdh5AE6yBN88H8rOUw7Rpv6Cew3rbalTUUkOiATPsSdxlAEQotrXRtUjTMErF4vWNdUPB75Qqu8a4Kg9n3qWzORuG8twbJYAlH+uFQlMSui4qERfkQ0sZSGReUxvehqSQNKvtpooaMuruU2XIHHAI4ujgeURBISATtajq4Y/gkdGkofCpZ7zqOgN1pddL8jZFTxtjILZgxOIOaCNzt/PNJNjVCcPZP6MQbEFmuxRXwxKg+md3Nbwq0INLAFwoEoHyytY2NMBf/RYKrI+0OujcP+SzVsGR8/xo27mBDiND7y3lrG2XtD3aAjokbZ9rh5LmhyLQ180f2o8mV+JqACBrFqX/EbDUxAhP5jwlR1/4m2TP6EI9jlXVrKehRCMg9u1rRe65vLpdUXwNqXpPGvTRqESoNZ66G/71J0htw9/gyt9HebPDAI1eyVvxN00yRq71PiG5MJBzgqMDRxNGJBBKtzGrPw+JC98WiN+GQL69RI4hmRGw==;lMyz/aXZpi2GfEPqjqahyA=="
 ---

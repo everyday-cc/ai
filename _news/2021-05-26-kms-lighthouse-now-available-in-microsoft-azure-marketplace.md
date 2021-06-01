@@ -1,26 +1,20 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an"
-publishedDateTime: 2021-05-26T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-05-26T12:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "WXRzVeiHiWZ45B7qefXnEYAa+3xRRaZwKBF8N+eGRHeqxSy6WWQVoffXw8mDckLh13ibReu2JwZfONLrc/W/lBbOjn4E+uPqliX4brwnxdm4pHa5i9uvJWq+fKC69aLAFHPqe+7rbmG+KaBAiJloLiuSEkb9WBe389qiSurGHwgJVR2cv2WigQS97gGxeN8aXR4TWjH/2szIqu+es1k7+yNYrrf4wYbBtYW1mCqQJEJ06Mzoqix42LPx6ZZ81E0mwVmaByDLiSYNqIZSUByxY7D5XruwBAucEqztsw3zgsnvMOoO+C6l1KANPRdRgKr6YGM8PDGcS0U2aaP09pnYzsIIporryOCRqDJV73EJTjE=;AsuFyNT7pC42PX0gOhcG2g=="
+secured: "py8cXySN2Sn5KXyZd63Inzw3Evq2QV/X/HSh+0fLUGgFWRl95Q3S1NtB9JipOGaH9EpWsZ02eMgzTZNolEM5bbmh0CDI9D9D2gSZKuVVZ2wcVCYLzMjAM75n4FLUpiP8miKjJlqzeDMNrSNNfzGTE8lhOBn6hS8siDgcsvVTOjruhq4xo87FTIdN0ca/jAnGjqukN+uynGz/2HFwHGV1i+93GU4lUQx+EkYoWX4Ia1FIjy6EIHbqNeUbJtjDeI5Oo3L8FIqtlqEtFqbUwelhMuA256W2qfZGJFOKSbDV8zSN9svLg0cLEj5npUajl7lOSdpm3w1pUiVXJRvagD2bJNzLx4c4gsy2/oEo6an825Y=;mw5+1M5t8bUYaHsGDHI99A=="
 ---
 

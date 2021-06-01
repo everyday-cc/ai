@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision"
-    excerpt: "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert vision giving industrial workers immediate access to the content,"
-    publishedDateTime: 2021-05-27T12:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/1519650/AI_Connected_Expert_PR_Image_Web.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "How AI is shaping food innovation"
     excerpt: "Technology experts from consulting firm ZS Associates highlighted the various ways artificial intelligence is coming to life in food innovation and product development during a session at The Natural Products Expo West Virtual Week."
     publishedDateTime: 2021-05-27T13:44:00Z

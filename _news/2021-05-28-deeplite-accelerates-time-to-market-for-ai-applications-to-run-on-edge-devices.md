@@ -39,16 +39,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge"
-    excerpt: "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ..."
-    publishedDateTime: 2021-05-27T12:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "euawbgUdTsqjt0MzZeHIroTUgQaC/hzj9MHJnqesq8+mX7s3oLm1Fq/ctYCqjOXRzXAQ/WLG0+nUEbZxB1GZg37cwoWS2DUAVJHywsNCmv82gcjuq2CdRMN2jp2XQEiCptgfw7RAfUvHAs/6CaIQ+czw4Ct0iyalo2vyZ9fhDn8VbHprfx4E3/84HrKuzFkYHBV362w+avV9hwgnrLCy4PprKcr4DKwqzSTaWEcD6icS+zkgOEx0z8Uxh4sc8KJ80kYyJMqIdhFRMFyKiCJapizJhgc+7GW65P/4nso8ovvujspcPWvhwHDa5qqDbqt5a+CrnGMZL7ko4BmBUtcuWS6NwCqbMe9aYTPj7r2tCHc=;trrUcW20EXrN6JLMbmWzdQ=="
+secured: "k2EwPAxVtc1UtIWbq2eNl6MGoMJLrYZi7q9KWNKuomYLiZUpMynXu3UrPgT3nzkb1AsP3LvcX2O7i3Fep1l54lk8nKgkJFgS3fcbS80mQcGG9oAq5zlxwtFG+d3k6x5lLgiI3hhx0/aXmpHau0AK22Q8gUFhS/lQ8wu5VbGVXe0T8ChbkkV8vUVn93zhMG1NIcTZ3gdkgXc+q8jm8+OvGBxuYIp7xQ7oNDPJBbXJ681nvdvBI3At/e+92LJX5Za9hbJUAnpJXJv+D/3KoAoG5h3/dP/831QBMDM8rWzr/asQ59hoxJerMW7Nof6OnjJ3UDS4nbPu4ajH/6+iABlXmmpAn8K1xG8MEBMskmgUg2VceVMxeD3ht9soVNahuNUahu6woWMN4VnxUHxPxFanf0GvJci0iPW4nKw3w97fZVU7QMDgFvxlhLHDz4yuO5LkgSCVs3Vf99WNotVgZhoj+af7VOSMAb5L3FU/aQuuxgRfCbxqT8UIB5dCm6HEOjqmoIFkTL5APcxbQsyjtxo7rQ==;fHMlkBWHIN9iNOtc+fg4RA=="
 ---
 

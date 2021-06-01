@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-19-stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam.md",
+      "title": "STMicroelectronics acquires Edge AI software specialist Cartesiam",
+      "excerpt": "Geneva, Switzerland May 19, 2021 - STMicroelectronics (NYSE:STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today announced a transaction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/05/g21190036/stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/g21190036/stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/21190036",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21190036",
+      "publishedDateTime": "2021-05-19T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-californias-dmv-taking-tesla-to-task-over-misleading-self-driving-claims.md",
       "title": "California’s DMV taking Tesla to task over misleading ‘self-driving’ claims",
       "excerpt": "California's DMV reviews Tesla to establish if the company is using misleading advertising regarding its \"Full Self-Driving\" package.",
@@ -1294,58 +1328,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-california-driver-arrested-for-riding-in-backseat-of-self-driving-tesla-plans-to-do-it-again.md",
-      "title": "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again",
-      "excerpt": "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920",
-      "originalUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1794679/tesla-charger.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1",
-      "publishedDateTime": "2021-05-12T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
