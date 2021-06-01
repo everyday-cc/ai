@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Tanium"
   url: "https://twitter.com/Tanium"
-  followers: 6483
+  followers: 6485
 
 locations:
   - Emeryville, CA
@@ -22,7 +22,7 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1399696127851651075/6n5HFw4j_400x400.jpg"
     width: 400
     height: 400
     isCached: true
