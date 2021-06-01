@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-pot
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 750
     height: 563
     isCached: true
-
-related:
-  - title: "10 recent big tech partnerships in healthcare: Google, Amazon & more"
-    excerpt: "Here are 10 recent partnerships between healthcare organizations and big tech companies including Amazon, Apple and Google. 1. Detroit-based Henry Ford Health System partnered with Google Cloud and Miracle Software Systems to launch an international competition in Detroit to propose ideas for reducing health inequalities through technology."
-    publishedDateTime: 2021-05-28T19:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/10-recent-big-tech-partnerships-in-healthcare-google-amazon-more.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "AJ4UCgAs398DDjUBAY7g0WqjjT0akNOO7bSMw+SqCvPCnW2qd7MbYyHfqtbaPGbKdDMauf523HKyCqJV2lrwdE68N+UGT4/EN8SzUSbRICJlQgR8DumSknZrVs9I4bjPNGT6SYVfb68Po3+pSNvs4fLJ2EfiN39GkpYSU+ce4wrAXA4TQGcU+SF6W/swZu6I4pFUEM8s5C5WdlyjdDuCGKEhztc+N37GiM9sxpm+L3o9JII7JR81jl3Nnyi5w2/s4lSCfq7DnkiKJj2KMCygxL6RAqsUUUgfqJP+fpPMoQs0p82dd4x4fAEqSHxVk1jnktxnazGOxFXVnTGTmSjlst/tR7SAqNd5oM7lNOWBDnNwgk6KZvMgdeAvuPE6S3g6Cql+WotKC/jO7BZ1HshiTjsmrqdVuTB5VMpbDZLcgvowlrkgPUdk8Y4nE144BNRMaXKt+cQv+NblJ3zB25oK1d2BjortWgrci3BRHrmINPBkjZw1DQhuT6EN0KGs/mjs2argDHEAJGOMaUcyg/QzRQ==;keQTwKlbKz8rn3dALf/G0g=="
 ---

@@ -18,35 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Relativity acquires Text IQ to augment AI platform for lawyers"
-    excerpt: "Relativity acquires Text IQ to drive AI technologies deeper into a platform law firms employ to reduce discovery time and effort."
-    publishedDateTime: 2021-05-28T13:20:00Z
-    webUrl: "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/"
-    ampWebUrl: "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/"
+  - title: "Robot maker acquires conversational AI startup"
+    excerpt: "Makers of a robot named Moxie, whose 2020 launch was largely drowned out in the early days of the pandemic, are betting conversation will be the key to unlocking market viability. The recent acquisition of a conversational AI company will give Embodied a leg up in pursuit of that goal."
+    publishedDateTime: 2021-06-01T04:00:00Z
+    webUrl: "https://www.zdnet.com/article/robot-maker-acquires-conversational-ai-startup/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/robot-maker-acquires-conversational-ai-startup/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-maker-acquires-conversational-ai-startup/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/relativity-textiq-ancmnt_1500x750.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/31/592161f5-d6a9-4c99-a673-bc1f9dfa7e8c/moxie.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Relativity Acquires Text IQ to Strengthen Its Position as a Leader in Artificial Intelligence for E-Discovery, Compliance, and Privacy"
-    excerpt: "Text IQ, a Top 100 AI business that uses artificial intelligence (AI) to discover sensitive data, has been purchased by Relativity, a global legal and compliance technology firm. Text IQ uses the latest advances in natural language processing (NLP),"
-    publishedDateTime: 2021-06-01T05:21:00Z
-    webUrl: "https://www.cioapplications.com/news/relativity-acquires-text-iq-to-strengthen-its-position-as-a-leader-in-artificial-intelligence-for-ediscovery-compliance-and-privacy-nid-7851.html"
+  - title: "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-05-28T09:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 7
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gl0450308.jpg"
-        width: 450
-        height: 308
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "6ywY4IsMUYthRrIxDH3FiJ0a2wB+oU9OHqHWrCfcyqy/B/OkoQcGD2Lf2/EnBCYI70MAKfqM/XHDgigV/MKAW5868FDlyGzrKpqPrPO3X1+b6FHp3xIJt+SmLJGsatFRZDJ0Ai7L3pvyiduyU0mvu68WgAxkerPIIyN7UCO+dbM5HhCGdJ9UQ3elwWG7Lhgrd1bDzTCCork/+POIF2sEmzJ8wVQ8cnhUhyOpnSduyk5o8jb2yQJNBefkRtIl6KzJZk9xYFx2dO+vRMFV7Ty1MUyZ/KA7xl3ifWcriiWOoLJGmMu6fpbCYOil8ikhEzpNSmBBXQoFiag49rzu8waev1BwTEtmo9B3Mhl89+ML3Kb5ggtwtlJ96bEcFQNUOjWs5RUBZAj0dJRG+vL29CJpPe2HOUuS5qz7mIKB4ZxCr+HQ8Jg6ubHjgVNV7hXYPyL8uYUmruXaJTOADKMMW70uCdoYlUwmKDK/Sg1I8EY50k6YuNDGyN9HKgpW0cWKNKPk9d8hez4JjMh9vsXI5WbUng==;DtPgwBoxf3TaL+wK6BI9pQ=="

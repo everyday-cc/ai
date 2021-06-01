@@ -68,7 +68,21 @@ related:
         width: 300
         height: 249
         isCached: true
+  - title: "Top Trends and Practices Fostering Fintech Transformation"
+    excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
+    publishedDateTime: 2021-06-01T11:12:00Z
+    webUrl: "https://www.cioapplications.com/news/top-trends-and-practices-fostering-fintech-transformation-nid-7854.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/5lqhz450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
-secured: "jWUdBikhgElI9FEtIexbB0zWS+CStfdvMfodeF4j7l8MkmnAD02QpkSbnZlpV8UrccxEly/wW0ZzzsZElEk+noU4w7WuVlR2XsuXT29Dnrc4H3t94OSe1a6O5shroY3IHaks4uU6bQSJd6DFXcptej2Fs2hb2KOJ8wXWzWnVe1QG8cAkuuzYGL/7LQxZvtq2UYVwE65airvbHNywGO9scu1uij/+uu39C3nmIdLo5uMWFOgCWWJGPJuw1EKSPAIl3C1eFjo0VvFj3MbYX2p+ppy0Oh7tFQI0sFKOwLO50pYzQbBaJyu45lcqgwjjCh19n+CP027+2iPciu13K/4vzlEWHJNcJ1mkAMGOoZlWQTM=;NNp0M7kDkwEaHezS7PF8Yw=="
+secured: "lAfgB9wYhqVgCrTp9q+06X6qvs+qqOIgwKiacaE2Qjs38MS6V+Uv75KOn2HYHuTRhuVfHd3yUniOVjg9hG2JdiOHiF6hFNolmfdOaMLe7w8eAqjoq4N539g4zdq+rbfNQuslRyU3pRjqW+z3R4pv6Az/8bcW2rdEZo/klQe46hfcHYJ2/lhuOhZkvc2UV1L+/T0VpGTF1riDG24rl6Vk7oIuDckoDwBN4/dsz4Eve90D9vznIwIdnOtM83Bai3tgSpoQaH/CwHazHO791fXWmwQYzvl6BmLpSSEV0pv0od5S3hYl04w/n1xFeSLyZCMmqpo4mP3ciJg48Dco6p0Fa7GWVCTKCxa7zn9OS+ZatD2P1Xe8zGKI9+OvsJtBSr0DsXAk9aXDnJT+QUghwcVJLlX3B7KXADzK/RsuFgxnaERCsIE/Y01hCPZAnSatBM1L4n7cI2KjNYIVQ+XRduKu6OP1ip09m+Nx9txkbTL8RtQ+R7dTzObqOUIzxQ3o5jKtckD9ta067DIZ4niI0h8c2w==;TPfHXj4Wrv/v77zZjj8nHA=="
 ---
 

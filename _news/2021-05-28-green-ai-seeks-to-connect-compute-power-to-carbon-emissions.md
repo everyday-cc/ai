@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Neuroscience Origins of Artificial Intelligence Computer Vision"
-    excerpt: "The artificial intelligence (AI) renaissance is in full steam and gathering speed. One of the key levers of momentum is computer vision, an interdisciplinary science that spans artificial intelligence,"
-    publishedDateTime: 2021-05-28T10:24:00Z
-    webUrl: "https://www.bbntimes.com/science/the-neuroscience-origins-of-artificial-intelligence-computer-vision"
+  - title: "New Degree in Computer Vision Launches as Artificial Intelligence Expands"
+    excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,"
+    publishedDateTime: 2021-05-27T21:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Neuroscience_Cats.jpg"
-        width: 926
-        height: 618
+      - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "4/kcawpZnAucybWHaioNQRL3Ud+FsCiuwwzHvKnfTTR3IPo6FewxpMCqNNfkrJ4ztIM7c36IZA08xgs0qjRsZFVgezsyO3Jo+xzTJQm/3kVTnt8t8lgkEj5RJXrfJRRnFCpZxe3RuVdpYmqO55NNOUPVTBlcDqM/IZN9WmEi0t6JT/Vy6ljyrhlnFWq8ZFBv2pWfYsG3iFvxESWzfL6sBa+X+gn6H1LFDa+BV74IgLNJRqU8thzKWxHJ3Etu+DAxpKzR0NaNTBQHb5+tGn2yolZKUB0ZDjALZpaQC4Ezt3h1ojeoSTr2leQiPrmk6d1DrGbwPdcnU/5rLdFBCw1gcqYBh8UKgOFhLlTBACQQw980uebxGhANZtboOxb1WqhOZ0+ImmKdHxv0az1BV3f3eLVUB8xPTrUUEuwVzD+TmVd9pBfQBQuWiIVhOpgniyFXAH0Eiy7S5ZSOYrrMDcJpXNXJNbyJHnuQskUUBOH4ZNfiHQhUgzsucY1LfwCr4X6soG+nlnXbqO/phTLM2sStQQ==;AJ68j/+g19L2+G2E3Mx02g=="

@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing artificial intelligence's potential in healthcare"
-    excerpt: "The adoption of AI in the healthcare industry is also gaining momentum in Gulf countries. For instance, the outbreak of the Covid-19 pandemic across the region has prompted two UAE-based health companies to launch the “world’s first” AI-powered rapid Covid-19 antigen test."
-    publishedDateTime: 2021-05-31T09:46:00Z
-    webUrl: "https://gulfnews.com/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
-    ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
+  - title: "Innovate Toward Health Experience, Not Just Healthcare"
+    excerpt: "Pamela Spence, EY Global Health Sciences and Wellness Industry Leader. Technological innovation has pushed the consumer experience forward in banking, retail, entertainment and hospitality (among other industries) but has not yet broken through with health interactions."
+    publishedDateTime: 2021-06-01T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://imagevars.gulfnews.com/2021/05/31/-_179c1cb5ae7_large.jpg"
-        width: 750
-        height: 563
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0f516da9fc3e34e99c61f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Future Trends in Healthcare Technology"
+    excerpt: "Technology is a driving force behind many healthcare advances. One silver lining of the pandemic was advancements in areas of growth in healthcare technology"
+    publishedDateTime: 2021-05-28T10:41:00Z
+    webUrl: "https://dataconomy.com/2021/05/future-trends-healthcare-technology/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/05/future-trends-healthcare-technology.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Amazon Wants to Eat Health Care Next"
+    excerpt: "The tech giant may be opening its own pharmacies, and Google wants to mine patient data. The goal is not to fix a broken system but to exploit it."
+    publishedDateTime: 2021-05-28T10:28:00Z
+    webUrl: "https://newrepublic.com/article/162553/amazon-care-pharmacy-big-tech-universal-healthcare"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 24
+    images:
+      - url: "https://images.newrepublic.com/76ef269a12c16a4f96be21c4eece58e88f72440b.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
         isCached: true
 
 secured: "ZuSYiANN/vjorrjq/ZcorQgE701D9E25rL7NpvKs0g2raa+ZI5Nk0I7G/7CYZa2YHZ8pyBWSQrhUmctFPiGboSmNU+MYFHgHZKZeOfM/Z09NDA4Qu4XWOznPfniPKh4TPOevt5JaR/tv9W7PzmrH4JdX5Yw+8CKrgoh8M6lvICwxFm8zQRgpKPSdS8g9tIC3PlyRAdQqADR+jLat+xkrFkvjwuhTw0ktil/RABqAVAk22JwaPXZggsreMMbKg3bsUiCrKeI9nQP0DYnYrfuE4hAMDKrQ9LvD0tnky82V9WMB8oHqFEKpcWFMsuz1kdzRPa1rovHM/4YLdXrADuAOlL+6U5S6mhWWYqqf+YljfS0=;K5PVrI2V5zoPkmPiVj8m3g=="

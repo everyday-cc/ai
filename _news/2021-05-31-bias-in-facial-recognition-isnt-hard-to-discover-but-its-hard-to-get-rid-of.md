@@ -8,8 +8,8 @@ webUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recog
 ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of-2?amp"
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of-2?amp"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.marketplace.org/wp-content/uploads/2021/03/coded-bias-ft-img.jpg?fit=480%2C270"
@@ -26,6 +27,6 @@ images:
     height: 270
     isCached: true
 
-secured: "l59MdnpGIkYGk5AO2L9j1y5Lwm9Zq3b9YYA7gbJ4hKPZGSFPdH5z4zqqHvqQ+QsNKmer7tKcbqLJ1hRC7Mo5gq678ryhQUtUy4l3bqTXdP0Lywde6IKqcFjBLnb9diLsPsiBEVRIkqWtIOdxQwesx1oVxLDoY+3f2RCl9PBEetpnaoCoWWuiGqukXZwotJV3dnwOuHvKM201ENK8aIaxw2rRPut2iPExcqW9nOV+3oPrF+p1//a6dkGH3HGzk7O3JGIycb9GGtExR0OGJlacyQf5kbn0gHVv73qQQ0SknfnHOfx52bHLDk3liTNiVV6rFTqMajkKUYRGfJ6fF4EvpBqrkyHjJQQ4jt7Ak4dB9eQ=;JHEnSSyDbbw5fYoM+sJZog=="
+secured: "N8eTEpDhaWVeyUavb1kxBQz9HcprXJLlldMKu3OnWLh4nPAfcU9D4w3wATULh+kJ9VdtaIy2rfER3OtG2b7vzZrEY9lLawnZW7N8m+S4s+miD8tM11niwzrSMSWGzGFYEP+NJtKF3Vo/jstXih2uYHOcSiOMXtWFjyP1CI6iwVQJvCPoiGeWpdWF4LwrJd4W5Iy9MFOLbtgbPtq4Xvg9GV7ESo11swMFPbc0/w2Hh8lfbCM/cGHUtN4dP/a/asPJA6bgb3ts49zlMK2h4No8AbaPjAH2Mu5/Q5JwTo2VABh45Aacd9tuDCU7elwtZ9K6PPRLmy0LhlTes2z0OQ/s2ciOv3mkHmFT74z73+Zi7kaNPxnzQvH4/qxpVzMHe8MGoOeI2SNarZCvVsJ78XDmOSjSgD3DsV91be3TvzqhDw02u4o0vAtSZxiDYSjKmBVC++AEt9EUTSmo00yUPDE9/tbRXSy1C7SEquyJwSdU3xC4ZSFbHvmTKsgW9dVnSo1YnmKg56N9wawNj55Dvx5sSw==;8VqR8DGJhPDoxPd8LRjuWA=="
 ---
 

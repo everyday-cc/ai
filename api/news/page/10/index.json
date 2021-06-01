@@ -2,6 +2,440 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-22-whats-next-machine-learning-at-scale-through-unified-modeling.md",
+      "title": "What’s next: Machine learning at scale through unified modeling",
+      "excerpt": "Here's how to create a single model, rather than a set of related but separate models, to power a process or product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
+      "originalUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1281172753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
+      "publishedDateTime": "2021-05-22T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-pinterests-use-of-ai-drives-growth.md",
+      "title": "Pinterest’s Use of AI Drives Growth",
+      "excerpt": "Using neural networks, the site is able to find images—and ads—that will catch the consumer’s eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
+      "originalUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342074/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
+      "publishedDateTime": "2021-05-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-which-market-holds-the-maximum-share-of-the-deep-learning-industry.md",
+      "title": "Which market holds the maximum share of the Deep Learning industry?",
+      "excerpt": "Latest research on Deep Learning developing at a faster rate due to the current modernization and people’s limitless needs. And this trend is predicted to continue from 2021 to 2027. The Deep Learning towards altering its product profile by bringing about alterations in the production techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/22/which-market-holds-the-maximum-share-of-the-deep-learning-industry/",
+      "originalUrl": "https://ksusentinel.com/2021/05/22/which-market-holds-the-maximum-share-of-the-deep-learning-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gatorledger.com/wp-content/uploads/2021/04/InformationandCommunicationTechnology.jpg",
+          "width": 1260,
+          "height": 1550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-google-cloud-launches-vertex-ai-a-machine-learning-platform.md",
+      "title": "Google Cloud Launches Vertex AI, A Machine Learning Platform",
+      "excerpt": "Google Cloud has launched Vertex AI, a fully managed cloud platform that simplifies the deployment and maintenance of machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8ee6977b717c6109b388e%2F0x0.jpg%3FcropX1%3D98%26cropX2%3D3278%26cropY1%3D2%26cropY2%3D1791",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/",
+      "publishedDateTime": "2021-05-22T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-understanding-transformers-the-machine-learning-model-behind-gpt-3.md",
+      "title": "Understanding Transformers, the machine learning model behind GPT-3",
+      "excerpt": "How this novel neural network architecture changes the way we analyze complex data types, and powers revolutionary models like GPT-3 and BERT.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
+      "originalUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FAI-Transformers-abstract-hed.jpg&signature=7dad3d13328b212e6fc49afed1eb2819",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google.md",
+      "title": "DeepMind lost a yearlong bid of asking more independence from Google",
+      "excerpt": "Tension and conflicts between Google and its AI brain firm, DeepMind is always fascinating and interesting to watch.",
+      "sourceUrl": null,
+      "webUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/?amp",
+      "originalUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg",
+          "width": 741,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/?amp",
+      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/?amp",
+      "publishedDateTime": "2021-05-22T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Micky",
+        "domain": "micky.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-sofic-news-microsoft-socom-highlight-need-for-ethical-use-of-artificial-intelligence.md",
+      "title": "SOFIC NEWS: Microsoft, SOCOM Highlight Need for Ethical Use of Artificial Intelligence",
+      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/05/istock-1150199386_resave.ashx?h=500&w=878&la=en&hash=279D049267A88C2C38978D40F816A53C",
+          "width": 878,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031.md",
+      "title": "Machine Learning in Retail Market Key Aspects of the Industry by Segments to 2031",
+      "excerpt": "The latest research report provides a complete assessment of the Global Machine Learning in Retail market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health.md",
+      "title": "Ai Medicine Software Market Growth Graph To Demonstrate Inclination Towards Positive Axis By 2027 | Enlitic, Atomwise, DeepMind, Babylon Health",
+      "excerpt": "The Ai Medicine Software Market study offers a meticulous study of all the factors that are anticipated to influence the growth of the industry. This Industry report introduces Definitions, Classifications,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/22/ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health/",
+      "originalUrl": "https://ksusentinel.com/2021/05/22/ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neighborwebsj.com/wp-content/uploads/2021/05/Untitled-design-3.gif",
+          "width": 1004,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-facebooks-ai-speech-recognition-no-longer-requires-human-transcriptions.md",
       "title": "Facebook’s AI Speech Recognition no longer requires human transcriptions",
       "excerpt": "Facebook's speech recognition can now learn new languages without human transcriptions, saving hours and hours of monotonous work.",
@@ -769,431 +1203,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-mental-health-app-wysa-raises-55m-for-emotionally-intelligent-ai.md",
-      "title": "Mental health app Wysa raises $5.5M for ’emotionally intelligent’ AI",
-      "excerpt": "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/",
-      "originalUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/wysa-app-feature.jpg?w=1024",
-          "width": 1024,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/",
-      "publishedDateTime": "2021-05-21T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-is-baidu-stock-a-buy.md",
-      "title": "Is Baidu Stock a Buy?",
-      "excerpt": "Baidu (NASDAQ:BIDU), the Chinese tech giant that owns the country's top search engine, recently posted first-quarter numbers that topped analysts' expectations. Its revenue rose 25% year over year to 28.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F627675%2Fbaidu_apollo_s_5g_remote_driving_service_remote_human_operators_control.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "publishedDateTime": "2021-05-21T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth.md",
-      "title": "Sinequa: Third-party marketplaces boost hyperscale cloud growth",
-      "excerpt": "Enterprise IT leaders prefer Google Cloud, Amazon Web Services, and Microsoft Azure because of the strength of the third-party marketplaces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/world.investmentsGettyImages-1201627478-e1616327709332.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/amp/",
-      "publishedDateTime": "2021-05-21T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-human-like-robot-creates-creepy-self-portraits.md",
-      "title": "Human-like robot creates creepy self-portraits",
-      "excerpt": "Da's new self-portraits are a combination of constantly updated AI, inbuilt programming and advanced robotics. The eyes are actually cameras that allow the robot to \"look\" at what she is painting or sculpting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
-      "originalUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BWaS5TwUQjXyzM3UTETud6-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livescience.com/amp/robot-artist-self-portraits.html",
-      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/robot-artist-self-portraits.html",
-      "publishedDateTime": "2021-05-21T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Live Science",
-        "domain": "livescience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
-      "title": "Finding any Cartier watch in under 3 seconds",
-      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
-      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
-          "width": 1600,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
-      "publishedDateTime": "2021-05-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-have-ai-chatbots-come-of-age.md",
-      "title": "Have AI chatbots come of age?",
-      "excerpt": "“Chatbots are now a critical component in the customer omnichannel experience,” said Rob Dunlap, Associate Partner – Cognitive & Analytics Practice Leader with IBM at a recent CanadianCIO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679",
-      "originalUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/ai-bot-0041z.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1",
-      "publishedDateTime": "2021-05-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-twitter-rolls-out-new-verification-system-dth.md",
-      "title": "Twitter Rolls Out New Verification System – DTH",
-      "excerpt": "Twitter begins rolling out its new verification system, Snap announces new true AR Spectacles, and Google reportedly ends negotiations to give DeepMind more autonomy. MP3 Please SUBSCRIBE HERE.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/",
-      "originalUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/amp/",
-      "cdnAmpWebUrl": "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/amp/",
-      "publishedDateTime": "2021-05-21T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Tech News Show",
-        "domain": "dailytechnewsshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-vertical-farmer-appharvest-buys-robotics-start-up-root-ai.md",
-      "title": "Vertical farmer AppHarvest buys robotics start-up Root AI",
-      "excerpt": "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict...Read",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai",
-      "originalUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-food.com/wp-content/uploads/sites/35/2021/05/2021-04-12-15-48-34241_cropped_90.jpg",
-          "width": 424,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just-Food",
-        "domain": "just-food.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security.md",
-      "title": "Microsoft Partners With Chinese Solution Provider to Boost IT Efficiency and Security",
-      "excerpt": "Microsoft’s China arm is partnering with Chinese electronic shelf label (ESL) provider Hanshow to empower its global expansion in the retail industry. Under the strategic collaboration, Hanshow will adopt Microsoft Azure operated by 21Vianet for its operations while also prioritizing Microsoft technology for its solutions to retail clients.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/topics/store-operations/microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security",
-      "originalUrl": "https://retailtouchpoints.com/topics/store-operations/microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/05/microsoft.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/topics/store-operations/microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/store-operations/microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security/amp",
-      "publishedDateTime": "2021-05-21T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

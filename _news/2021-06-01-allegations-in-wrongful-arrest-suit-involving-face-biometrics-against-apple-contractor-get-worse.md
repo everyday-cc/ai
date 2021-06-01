@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "CEA-Leti develops autonomous face biometrics imager for mobile devices and cars"
-    excerpt: "Leti has unveiled an autonomous imager technology capable of activating mobile devices and small appliances via facial recognition."
-    publishedDateTime: 2021-05-27T18:08:00Z
-    webUrl: "https://www.biometricupdate.com/202105/cea-leti-develops-autonomous-face-biometrics-imager-for-mobile-devices-and-cars"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
 
 secured: "43GyMHWFP1478kybvKpiixBAq478f6POuLQ5U44IaIdGni88ruiMrikv+E8iDzShj9WB1rjt/BpvIAz8olTeYnQxqzvbQb03wYraNyAsQnEokNxI5Kyuljk/B/yvAXN/+FQ3GIFVtOeIz26jdBPpKEfnd6wNXlyfxNXAC8Vc6aJYwqTpJmN1F1tF3Sjsl5/ED0QdGOzbnTAEg46xxDVttWM6/eZlXIMSd23rrlc//NrqtSH1S8VanPacPowkIyS3sNgxf+S94XUSL5e7K2izK160ubaU7MyJKUoeiCNM7s5soPUfmaxJl/IeSF/MPRlGbjg4j6BJjVl/DYz07b7xHn3I2Sgyi1xl5gY3iXQ9LSI=;hrJmbe4Znan3aPcxSzCayQ=="
 ---

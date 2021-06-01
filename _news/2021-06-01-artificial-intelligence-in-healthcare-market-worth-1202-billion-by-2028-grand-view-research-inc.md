@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
-excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
-publishedDateTime: 2021-06-01T07:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a"
+publishedDateTime: 2021-06-01T07:35:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-301302563.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-301302563.html"
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+    width: 1400
+    height: 733
+    isCached: true
 
 related:
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences To Report Impressive Growth, Revenue To Surge To US$ Billion/Million By 2027"
@@ -37,6 +42,6 @@ related:
         height: 533
         isCached: true
 
-secured: "i/Z8uOn1Akwo4o86ttoEEsesMp8ZTjXJfK8px1yBCuS5p5gdvJ5iITxW7QTyPsqWXfl9cQIwuzU1owGoG7P12ewEqNKkv+Lx7J8e9yIWnnnhDMuWcPrFe89WtUVPA2h5+RKvL3PF1w5jfH06DZvxvH+HCn/kYIfovkIfsChHHgqa1ik7ex2eMKTT2Fjf7Sy9NBI6Bv+ZHP5hX9MR+MqJUvMgEHCk6WROrnu5F8FAZgF+ADNj+UlQhzVtEdtux/jlf7w3v1Hr6s5vWnuaS+n+k621QYaHN5i2mwLSvu66mqnuzFaBQ6nn4SWXKfg3yQ3uHJTkkR2rPeLdEQcNBJa1FCmro7GKbKLAMwXkxbj9K3A=;bzjXfZvp7xnXOySpR08wmA=="
+secured: "0J1ckuNjypv3TDUrrsbYAEcnNEFDyYo1lBSPOtAFBjFyvvvosxY0TQXHGBwus2T6BMhmjS0c5cZ/XpqoSovetXeC1ezj/UiCJvgLrAmKWkFQB0+AcXa1GbjJc6bT8hR64EEw00MxOoYtQdhPGM2qD4MQTNulAf+2XTmtRHc1Sd7vQ7yIw17YkvAFYu9DBk+RuqK6M6B8m29aZ9z/G+4kdueFF97qMu+1TxG2JndYxp7JkqFQr3xYODRj1CQOgnFC+94XBtvEe0U798igsii39XhG1boQiQAIpKGB5Tn/w0qfihLJ0UFKn/SeMCHuCQvD0wm6eoWeMDGYv6V2tykXkmieeWr5z61QdysHgocIKpg=;+FcOdD/oWjkcPWAoGLfFuA=="
 ---
 

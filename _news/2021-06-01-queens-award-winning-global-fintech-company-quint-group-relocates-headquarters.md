@@ -54,6 +54,20 @@ related:
         width: 300
         height: 249
         isCached: true
+  - title: "Top Trends and Practices Fostering Fintech Transformation"
+    excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
+    publishedDateTime: 2021-06-01T11:12:00Z
+    webUrl: "https://www.cioapplications.com/news/top-trends-and-practices-fostering-fintech-transformation-nid-7854.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/5lqhz450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Global fintech group joins growing tech community at Alderley Park’s Glasshouse"
     excerpt: "Global fintech Quint Group is set to join Bruntwood SciTech’s rapidly growing tech community at , Alderley Park. Quint owns and operates a number of fintech businesses"
     publishedDateTime: 2021-06-01T08:51:00Z
@@ -69,6 +83,6 @@ related:
         height: 684
         isCached: true
 
-secured: "C2JFBXX0BOuuSoKqgbCYJsidnh9xNehkDztb4F/ZCZCEbwqZEcNfza/R85aD2+oGN8qBw4UFIfDaUJ7oFBaH9Ck6xXKu1L2PN1m8FtlxGJk6n+fxZI7+4PQzhR3aSx4kVLVueFeuYIRkBLfjyevthMOVxhftJIsnI94qlylf89bbTOQK7pXuFw0MGfo5yBV/brj1pL7+wA40/EiU5vfXtzn5pY58mI47OWhRubs4pwEhtRSxJ8VsRBXDOJ4gYgMwg60Cs6IvkM8Q7ZT1EW0DCYW0NBmljXYb5gKd8sPfi9fimpkw1qUWPUAatACYdhvWiK0yaWMwewaJu+8qlW7QBXSrSoT89Ujs23SLDO5ccdA=;FB7F9t4LvDVpy47pdTpg+A=="
+secured: "XoZsje8rxDX6l3KIb5eOFxZ/sA9a7UK2LpwVbJfu7CzEh+wHGFrpUo/jxNrvP2ud+3tM/Cuoc/ONfJ/tYpFhWCfUyW4hsk2o3nFEm4a0Xv8p3GI82NXkWdKOfNZ5xXRa9FDnOQEHqdmzsnFPVCn3bSBtZUo597wt7fSgT/4svRerwOdrqaQf4rEA+BuZSKFNBxdEFRX81BPphuGN79jHku7bmpNQ5LJP23cPbx8yIGc3i7FeIJ7ufYWwtttRli/C6Jj0+V+3h0BGMFyPziB6ZqrVeQUyxCYFsZpqP9dcVt8vQKouO1kfOMX1QGxvUYZGJDmxdpixskYKi8qmJ8BcEljJoGt4IGtmDeNlimxFgIXM7cxasnhjQSmB5TYfZp4XMXScbxkGlucAmO5khg9Nx8HmUEi/gLwNP7ot4Aupfey2Sx7rWgn2qcJu9t/xF8sNUFPIAOFN7EN4/SwCixMBWaROAViiellHNzSeayZ7RE4nEhozekJrnElKg0uekDkf55fIFRgFpjUo5iU1hVkC/Q==;ppd6/e/Si+qx/RCInDr4pg=="
 ---
 

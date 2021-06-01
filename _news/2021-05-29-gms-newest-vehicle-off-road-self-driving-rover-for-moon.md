@@ -3,44 +3,30 @@ category: news
 title: "GM's newest vehicle: Off-road, self-driving rover for moon"
 excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
 publishedDateTime: 2021-05-29T00:30:00Z
-originalUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.html"
-webUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.html"
-ampWebUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
-cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
+originalUrl: "https://www.stltoday.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_fbc8b91d-592c-5ed1-aa97-56495d9b55ad.html"
+webUrl: "https://www.stltoday.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_fbc8b91d-592c-5ed1-aa97-56495d9b55ad.html"
+ampWebUrl: "https://www.stltoday.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_fbc8b91d-592c-5ed1-aa97-56495d9b55ad.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_fbc8b91d-592c-5ed1-aa97-56495d9b55ad.amp.html"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/12/31252ce4-edc7-528d-a87f-11b7dad4201f/60aea53ec72e1.image.jpg?resize=1024%2C576"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/8d/88d35353-a725-5988-950e-bd6b7b0229c1/60aea5a6e0cca.image.jpg?resize=1024%2C576"
     width: 1024
     height: 576
     isCached: true
 
 related:
-  - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
-    publishedDateTime: 2021-05-27T18:25:00Z
-    webUrl: "https://www.snopes.com/ap/2021/05/27/gms-newest-vehicle-off-road-self-driving-rover-for-moon/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 24
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/05/Moon_Rover_66929-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Beijing's self-driving vehicle test mileage tops 3m km"
     excerpt: "BEIJING - The safety test mileage of Beijing's self-driving vehicles has exceeded 3 million km to date, equivalent to going about 75 times around the equator. Currently, the city has 226 routes for testing self-driving vehicles,"
     publishedDateTime: 2021-05-31T09:32:00Z
@@ -56,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "+RRAVNyzJ1JwI3EwoM8aCAk5cErhJFBvNfixDb1Zyv3fqRXmGau+sAP2iSwlXZPJnQ+MutNLfeXHgy2utYku7HU8Vv0+yiYE1viSraVJPrbzRvvxfkA8nNhXorikVZI+zurocuqoLeRFn87hVm7X4+35ykSpGMMxZTBq8CMUu1fNXZyZHeCNhJ3cHu22SBhiTpZkRcjP74XeBDW3tMV4/p0W1q8x/hIWNWZOxQfg0Xc1aGN/r03CbzSD3YLA80/mbA7ftmsdTT02vhpo4KJf9pYLDBD/tLQm+jAFNsUjfk0AtKYtwP0tG0Rw9CsFnby4GBFuQtMVZ9D2m8HDaBLU59fX2sFCMveZTASav5hCNb8=;xWwiaxuKlto1SaYkZZZ+lQ=="
+secured: "+OcFEVPyk6EyjJF5LF5cIqXxWO1ft0qRrT8yJp6SA4ZLlBMUYwyWT+HrYuceU/i1KWw9ilWgn/izQLOgV+7XiTtqxjGpyPjPDh5KyMiMbxb1SxAQ8XvhGE9kM/GBz/swT0W+wuQ3asXL0bu6OpSQ7BCzTiU3CjHHvzcFXVyxA///ab4Spe8QNNQCSLU6sptd2naZleyMsRp97VaY8K7xr1Kc6Z8ER4Cz8iE/7C5mnombH1qWxjK6gAURJYnhaS5oeK9hFtua9Y/wyvCskNCgaLpXC6jGKQFHfxF5AQTVwpnT8p/AvZGibHbAEoGs75aHOaRqfgyfkOLanwulOMuyGihcGk+u/0BF+KwHmxXEwHE=;nXTbxnNtLkjcbBra/pG+Dg=="
 ---
 

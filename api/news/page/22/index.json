@@ -2,6 +2,404 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-05-14-artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027.md",
+      "title": "Artificial Voice Box Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027",
+      "excerpt": "The growing impact of artificial intelligence (AI) on the accuracy of speech and voice recognition and also the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-top-7-deep-learning-companies-having-positive-impact-on-humankinds-future.md",
+      "title": "Top 7 deep learning companies having positive impact on humankind’s future",
+      "excerpt": "It continuously extracts higher level features from the raw data.Basically, the deep learning companies have designed a technology that imitatesthe human brain. This new technology continuously ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102078630/Top-7-deep-learning-companies-having-positive-impact-on-humankinds-future",
+      "originalUrl": "https://menafn.com/1102078630/Top-7-deep-learning-companies-having-positive-impact-on-humankinds-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
+      "title": "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work",
+      "excerpt": "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html",
+      "originalUrl": "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg",
+          "width": 595,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United News of India",
+        "domain": "uniindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity.md",
+      "title": "How Artificial Intelligence (AI) Is Helping Musicians Unlock Their Creativity",
+      "excerpt": "Artificial intelligence is now helping musicians and producers get in the groove to create their own tunes and find new artists. Find out how AI is transforming the music industry, from discovering new artists to creating your own TikTok tracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/14/how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/14/how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609df9feeec9ef7adb370701%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/14/how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/14/how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity/amp/",
+      "publishedDateTime": "2021-05-13T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM",
+      "excerpt": "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
+      "originalUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-190-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-labor-pitches-startup-year-as-key-to-australias-future.md",
+      "title": "Labor pitches 'startup year' as key to Australia's future",
+      "excerpt": "The 'startup year', Opposition Leader Anthony Albanese declared, is a program aimed at driving innovation and increasing links between universities and entrepreneurs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "originalUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/14/9fba52dc-2a0d-46b5-a568-ff29df43ddce/anthony-albanese.jpg",
+          "width": 5455,
+          "height": 3637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "publishedDateTime": "2021-05-13T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-generate-positivity-with-machine-learning.md",
+      "title": "Generate Positivity With Machine Learning",
+      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
+          "width": 1185,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-global-artificial-intelligence-in-healthcare-markets-report-2021.md",
+      "title": "Global Artificial Intelligence in Healthcare Markets Report 2021:",
+      "excerpt": "Global Artificial Intelligence in Healthcare Markets Report 2021: Growing Investment in AI Healthcare Start-ups & Increasing Cross-Industry Partnerships and Collaborations",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-healthcare-markets-report-2021-growing-/2021/05/14/9369645.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-healthcare-markets-report-2021-growing-/2021/05/14/9369645.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-waymos-case-against-uber-sent-by-judge-to-us-prosecutors.md",
+      "title": "Waymo's Case Against Uber Sent by Judge to US Prosecutors",
+      "excerpt": "Waymo CEO John Krafcik debuts a customized Chrysler Pacifica ... Or you’re preparing students for a future where artificial intelligence, smart machines, and digital competencies will predominate: Would you channel everyone into four-year universities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/leadership/corporate-responsibility/article/22016399/waymos-case-against-uber-sent-by-judge-to-us-prosecutors",
+      "originalUrl": "https://www.industryweek.com/leadership/corporate-responsibility/article/22016399/waymos-case-against-uber-sent-by-judge-to-us-prosecutors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2019/04/industryweek_21615_gavel_t.png?auto=format&fit=max&w=1200",
+          "width": 595,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference.md",
       "title": "Maximize TensorFlow performance on Amazon SageMaker endpoints for real-time inference",
       "excerpt": "Machine learning (ML) is realized in inference. The business problem you want your ML model to solve is the inferences or predictions that you want your model to generate. Deployment is the stage in which a model, after being trained, is ready to accept inference requests. In this post, we describe the",
@@ -757,412 +1155,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-soniox-taps-unsupervised-learning-to-build-speech-recognition-systems.md",
-      "title": "Soniox taps unsupervised learning to build speech recognition systems",
-      "excerpt": "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
-      "publishedDateTime": "2021-05-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-moogsoft-rolls-out-new-aiops-features.md",
-      "title": "Moogsoft rolls out new AIOps features",
-      "excerpt": "AIOps startup Moogsoft this week announced the launch of new product capabilities and updates, including extended integration capabilities, incident workflow automations, and automatic event enrichment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/amp/",
-      "publishedDateTime": "2021-05-13T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
-      "title": "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
-      "excerpt": "Windows Virtual Desktop is a Microsoft solution that seamlessly ... consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210513005625/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210513005625/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-deepscribe-raises-53m-to-transcribe-medical-notes-with-ai.md",
-      "title": "DeepScribe raises $5.3M to transcribe medical notes with AI",
-      "excerpt": "DeepScribe, a company developing a platform for health note transcription, has raised $5.3 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/amp/",
-      "publishedDateTime": "2021-05-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-heinrich-portman-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-transparency.md",
-      "title": "Heinrich, Portman: Artificial Intelligence Bills To Boost AI-Ready National Security Personnel, Increase Transparency",
-      "excerpt": "Senators Heinrich and Portman will be introducing the bipartisan Artificial Intelligence Capabilities and Transparency (AICT) Act. The AICT Act would implement recommendations of the National Security Commission on Artificial Intelligence’s (NSCAI) final report.",
-      "sourceUrl": null,
-      "webUrl": "https://ladailypost.com/heinrich-portman-announce-bipartisan-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-governmental-transparency/",
-      "originalUrl": "https://ladailypost.com/heinrich-portman-announce-bipartisan-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-governmental-transparency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ladailypost.com/wp-content/uploads/2020/03/2021-Chamber-Member.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Alamos Daily Post",
-        "domain": "ladailypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-quantum-machine-learning-hits-a-limit.md",
-      "title": "Quantum machine learning hits a limit",
-      "excerpt": "A new theorem from the field of quantum machine learning has poked a major hole in the accepted understanding about information scrambling.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-quantum-machine-limit.html",
-      "originalUrl": "https://phys.org/news/2021-05-quantum-machine-limit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/quantum-machine-learni.jpg",
-          "width": 700,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-quantum-machine-limit.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-quantum-machine-limit.amp",
-      "publishedDateTime": "2021-05-13T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-the-myth-of-artificial-intelligence-academicinfluencecom-features-author-and-computer-scientist-erik-larson.md",
-      "title": "The Myth of Artificial Intelligence--AcademicInfluence.com Features Author and Computer Scientist Erik Larson",
-      "excerpt": "Not so fast, says author and computer scientist Erik Larson, Ph.D. In his latest book, The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do, he notes that perhaps the replacement of human beings with artificial intelligence and \"thinking machines\" is not as imminent as we fear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/8c/b8c36c4a-4da4-5026-895f-4e587da25cd6/609d22d725b4f.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-true-influence-now-available-in-aws-data-exchange.md",
-      "title": "True Influence® Now Available in AWS Data Exchange",
-      "excerpt": "True Influence ®, the technology leader of data-driven sales and marketing solutions, today announced it is now available in AWS Data Exchange, a service that makes it easy to find, subscribe to, and use third-party data in the cloud from Amazon Web Services (AWS).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-true-influencereg-now-available-aws-data-exchange-/2021/05/13/9368660.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-true-influencereg-now-available-aws-data-exchange-/2021/05/13/9368660.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics.md",
-      "title": "Optimal Dynamics nabs $22M for AI-powered freight logistics",
-      "excerpt": "Optimal Dynamics, an AI- and machine learning-powered logistics platform, raised $22 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/untitled-design21.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/amp/",
-      "publishedDateTime": "2021-05-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

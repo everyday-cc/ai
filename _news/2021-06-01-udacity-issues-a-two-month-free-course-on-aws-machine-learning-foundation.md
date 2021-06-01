@@ -9,7 +9,7 @@ ampWebUrl: "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-ma
 cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     height: 395
     isCached: true
 
-secured: "2fdEf44XZpLJOI3sd9XuuFdkgtCUmU7E2x1vdyRFl6ONvR2UjTM7YdbdgAPYJroSzh24fa2Vqs9DissfruTl5Fempe3c+NTahi+4QKNIT5+/R38pLMaEhfjstD/0mwdT3jVWCsJBlCDfQqUfvvQMg/qZRDlld/4Yx7dIQFr4nMetrMV+yYcc1Bc+AxsybWYlXSuXEexJV/UOpIcXw4+ocKl8FLbAeS8AmoL6Y1znVDOPoEpGMo7WM8HCZWC4THRtvhlsOfxmnvEXt3J9stUUlfTcfM0/VZvoLpgIqYAA97cy3eZ/OCDrvvz8D/r9PJMOQRYham7Uf800J/ggztkDSxNYf5X4nqkx8zIHnB53yaA=;AMsMuWb/nucB4T4wbyv7ww=="
+related:
+  - title: "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning"
+    excerpt: "Launched in 2019, The AWS Machine Learning Foundations course has been updated with several new modules, including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens."
+    publishedDateTime: 2021-05-28T07:13:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning-301299648.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1121585/Udacity_Logo.jpg?p=facebook"
+        width: 717
+        height: 377
+        isCached: true
+
+secured: "58psX5KI/fXkpbMvO6rTG9s2kXwpjMeSekjuNZxCjyxJ5YUSmm+QQ1T6tK/PVdPquk76zOJY8BrIJH9y0ntbloKL/D4SpSDllxQDd/zk7QQAI54kwrtZvEdjvgurFZvXKc4EpVBSt+5mGVCw/eE6SWf/yS4r8rIU9/IWUQFlRsmBKLCZOucn5AOKiBeMpGy+wNzcN6cftnlMQ4ea/IiM6oIRgOKgt4QvDWervRhlI+R672Yna0AswHaSIlllahSLgorRv3AA+1MWKFIhy3ZxJuFFbPyA2mJufMnbY/DQ5uUWKWS0QsmhiCDIenCFU+DkjvkzoMCDsU/TwU6O6VtI4E4zU5uRk3UNmYU/+aBfPUoAElF7LTE0h/9Ui1IlezP73K74gB/7KSef6dC3liWLeXsIoUV8tr9cPy/XU78SGt7/4E1lx5MPVVokYGDWy02ikUlykPtUElizLVurbUBR9omvbuKIaNCNRxDihwUsb9tktroh1+TeSY+VvCQ7zRTLWSx97JReNSMwJATTDRYxgQ==;Xzi3+AukUye90BxbTXcPtQ=="
 ---
 

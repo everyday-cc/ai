@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-au
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Relativity acquires AI startup"
-    excerpt: "Two months after landing an investment from Silver Lake at a $3.6 billion valuation, Chicago tech company Relativity has acquired an artificial intelligence startup that helps organizations identify sensitive data."
-    publishedDateTime: 2021-05-28T14:18:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2021/05/28/relativity-acquires-text-iq.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Relativity Acquires Text IQ to Strengthen Its Position as a Leader in Artificial Intelligence for E-Discovery, Compliance, and Privacy"
     excerpt: "Text IQ, a Top 100 AI business that uses artificial intelligence (AI) to discover sensitive data, has been purchased by Relativity, a global legal and compliance technology firm. Text IQ uses the latest advances in natural language processing (NLP),"
     publishedDateTime: 2021-06-01T05:21:00Z

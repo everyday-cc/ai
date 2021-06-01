@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-part
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Jaipur-Rajasthan-India-Money-evgeny-nelmin-unsplash-300x249.jpg"
         width: 300
         height: 249
+        isCached: true
+  - title: "Top Trends and Practices Fostering Fintech Transformation"
+    excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
+    publishedDateTime: 2021-06-01T11:12:00Z
+    webUrl: "https://www.cioapplications.com/news/top-trends-and-practices-fostering-fintech-transformation-nid-7854.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/5lqhz450308.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Global fintech group joins growing tech community at Alderley Park’s Glasshouse"
     excerpt: "Global fintech Quint Group is set to join Bruntwood SciTech’s rapidly growing tech community at , Alderley Park. Quint owns and operates a number of fintech businesses"

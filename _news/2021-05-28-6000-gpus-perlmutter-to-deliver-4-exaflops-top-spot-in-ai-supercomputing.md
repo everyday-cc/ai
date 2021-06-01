@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "US Energy Department launches the Perlmutter AI supercomputer"
-    excerpt: "Each of Phase 1's GPU-accelerated nodes has four Nvidia A100 Tensor Core GPUs, for a total of 6,144 Nvidia A100 Tensor Core GPUs. Each Phase 1 node also has a single AMD Milan CPU. What is AI? Everything you need to know about Artificial Intelligence A ..."
-    publishedDateTime: 2021-05-27T17:33:00Z
-    webUrl: "https://www.zdnet.com/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/26/2c65bb00-1c92-4e21-9674-293340f8960a/perlmutter-the-largest-nvidia-a100-powered-system-in-the-world-perlmutter-the-largest-a100-powered-system-in-the-world.jpg"
-        width: 4000
-        height: 3300
-        isCached: true
   - title: "Nvidia, NERSC claim Perlmutter is world’s fastest AI supercomputer"
     excerpt: "Nvidia and the NERSC lab turn on Perlmutter, a supercomputer with its sights set on groundbreaking high-performance AI workload processing."
     publishedDateTime: 2021-05-27T22:40:00Z
@@ -57,47 +41,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "New Degree in Computer Vision Launches as Artificial Intelligence Expands"
-    excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,"
-    publishedDateTime: 2021-05-27T21:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072"
+  - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
+    excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."
+    publishedDateTime: 2021-05-30T12:50:00Z
+    webUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html"
+    ampWebUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: techworm.net
+      domain: techworm.net
+    quality: 49
     images:
-      - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "6,000 GPUs: NERSC Says Perlmutter Delivers 4 Exaflops, Claims Top Spot in AI Supercomputing"
-    excerpt: "Claiming the no. 1 position among AI supercomputers, the U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."
-    publishedDateTime: 2021-05-27T17:31:00Z
-    webUrl: "https://insidehpc.com/2021/05/6000-gpus-nersc-says-perlmutter-delivers-4-exaflops-claims-top-spot-in-ai-supercomputing/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 44
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/05/Perlmutter-NERSC-Nvidia-052721.jpg"
-        width: 600
-        height: 252
-        isCached: true
-  - title: "Perlmutter, said to be the world’s fastest AI supercomputer, comes online"
-    excerpt: "One of the world’s fastest supercomputers designed specifically to handle artificial intelligence workloads came online today at the National Energy Research Scientific Computing Center based at the Lawrence Berkeley National Lab in California."
-    publishedDateTime: 2021-05-27T17:30:00Z
-    webUrl: "https://siliconangle.com/2021/05/27/perlmutter-said-worlds-fastest-ai-supercomputer-comes-online/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://s3-us-west-2.amazonaws.com/cube365-prod/related-content/687a7cb4-3aee-4b80-875f-dd96aca8f960.png"
-        width: 350
-        height: 240
+      - url: "https://www.techworm.net/wp-content/uploads/2021/05/Perlmutter.jpeg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "pcjVme1OUVQtKkm1kiQl8f2csi2ssqgTXNZL8WCRZPm4AggxKpwZUFmuof4b2YRphl4jLFi6isQ6s/lMrNgEbNSK7z7q/+5Z3K8x73DFojloNLhXOk2xYRc2a/DFxAw79Y1OcUC4NQ2EYehlC1NNHoYRvw2whnEmthBqj9kXhZw2JJ/C+oVEvFXyxkuvKFc6TCAyv+pF7QhkRme9pDKtJ1Pg9a2En8X0k7LKxpOX+nQpsWaknDLvtkABp2azWywK5G5+vcCVn0f4zvxfp8ZlXGZE1jfWHTJa/5YNX6Mnhrh6JWrXOQRG+MTr/SO2UWmQgHL6LmLnjBj4GJZ0W/BdoB5sIBOO0FYrPcO2vkWTBdSJRrTeqslOyKOfr450MmWSexx6zV+ildSYsHmOy8HetmiIA1vBBZ0OnXQ4lacImqvpzGLveWP29nZuPg1lLE2tYoRYVKgeoqZyJKoN5FhUJx+hLevwJa0kZsnhYoNKxP5q8BRnROzLynwpx9JwtTEZou89bOVvAuhLeM+YRB0LNQ==;Y1iT6B2ZQzAjKKJEMyAy+A=="

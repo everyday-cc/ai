@@ -85,6 +85,20 @@ related:
         width: 2048
         height: 1024
         isCached: true
+  - title: "All Major NVIDIA Announcements At Computex 2021"
+    excerpt: "NVIDIA announced the upgraded version of the base command platform. NVIDIA has announced new products, enhancements and features at Computex Taipei 2021. The company claimed to have integrated artificial intelligence across every consumer-facing applications,"
+    publishedDateTime: 2021-06-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "NVIDIA Base Command Platform Provides Enterprises with Fast Path to Scale Production AI"
     excerpt: "COMPUTEX -- NVIDIA today unveiled NVIDIA ® Base Command™ Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
     publishedDateTime: 2021-06-01T05:55:00Z

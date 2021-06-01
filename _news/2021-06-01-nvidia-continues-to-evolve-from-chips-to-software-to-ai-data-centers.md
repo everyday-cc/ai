@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NVIDIA-Certified-Press-Graphic1.jpg"
         width: 2048
         height: 1024
+        isCached: true
+  - title: "All Major NVIDIA Announcements At Computex 2021"
+    excerpt: "NVIDIA announced the upgraded version of the base command platform. NVIDIA has announced new products, enhancements and features at Computex Taipei 2021. The company claimed to have integrated artificial intelligence across every consumer-facing applications,"
+    publishedDateTime: 2021-06-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Nvidia Pitches DGX SuperPOD Subscription, DPU Servers To Enterprises"
     excerpt: "Nvidia is launching a new subscription solution for its DGX SuperPOD supercomputer called Base Command as new Nvidia-certified servers are expected to come with BlueField DPUs and Arm CPUs."
