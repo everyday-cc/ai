@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 801
     isCached: true
 
-related:
-  - title: "Is AI Disrupting or Enhancing the Asset Management Industry?"
-    excerpt: "Technologies like machine learning and AI are changing the way that we do many things, including asset management, investing, trading, and managing money."
-    publishedDateTime: 2021-05-27T08:32:00Z
-    webUrl: "https://dataconomy.com/2021/05/is-ai-disrupting-enhancing-asset-management/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/05/is-ai-disrupting-enhancing-asset-management.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-
-secured: "ra0aG2jPtMXHRiocGT6f8WX57BImZxWzGqKFMXl1XwUpRmkfZrV7vBvfO1HZyvo9D+7CninjPsvV3JBYwdq4H017PXHgYdgdzWoeJRaLlp85uhDQeY64PIBcZl3wkIhEvpGUoMb47/4sOZWClAKDSvM/gxf2vCi7gko4nT8YnWk48/uJSbHbMdcCJ8mrZDHX/jPFH3MPgLyvTcQSg9y7CLIvirID6mU2qsE3+uNacZ8EQkQSwHixaXOidtD/DZX4c0IaLehWrZcYJV8K1Yn/gGqjRUA8MZVp9h/PW5vlxhxLhXB0MgPjTlxhUG4TAPm+OvL87j7EJan4wwTgLNkOQNcCdoE/cmT51SF9OSGou+Y=;/ltnHiq1znD+0SXHLIWT/Q=="
+secured: "shfKBAE/jQmXnaUWxai2duCvEroF5whpf7A4hROJrJY3GCJ5bJ/oirs2LNaOSd2Vrr5n2cWD6hChrHS4KuBuQv174ffW3YPoCmB20AGa30+SM52HwmW8Kz156BQz1sxUGVH0U6EBN+WPrFmTR3uh036nmllXGgAYnrA8T/+WDBBcHXbYa3N+GwmXGF6cIzQ/0gcXUOQF8DcoVpaA8zBRBDstpq8G1QlG3wCuOKK1sco3GCjrHyh9YrzZnFyThll7iDe6IfCVUkQZBkQVK4ENcMdtEqI9cvBokk5H+KWUSYkdi7U4+rUk1q/ngSr9NjBVbab78zsea9mOdHOHK8AZUgxI4Sv4PVd5DkNycBbupz3joJE1Gd0tOn6KHZOE9NN7EZ/euy3xImxro9nCXOGyu4ER7drzdbahSzt26cT6yrvQr7oeKA0N5mRQoxZ4W0oxd1UzAf/BRRQjveIhLu7iRpZV+byjemPMF1sYKJKGBvWUSmO45z8SpTBYvq4aEMLJiPbZs1z+ew5KfnQxke6ncA==;M+lHKZSBkC1RDeFCIQhVww=="
 ---
 

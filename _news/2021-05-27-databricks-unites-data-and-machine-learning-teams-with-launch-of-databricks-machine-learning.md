@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Databricks ups AI ante with new AutoML engine and feature store"
-    excerpt: "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike."
-    publishedDateTime: 2021-05-27T08:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Databricks unifies data science and engineering with a federated data mesh"
     excerpt: "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models."
     publishedDateTime: 2021-05-27T15:30:00Z
@@ -90,6 +79,6 @@ related:
       domain: businessinsider.com
     quality: 38
 
-secured: "3574fD+0vl/BGx9bal3BCKLgTbbWzzxfK7dFyz8iRFEgOlUcuXGZy3p82VEOPS3CaKMOzwmmIjSqmLFq7AEqHu2ldWux7xYsvr5HaD812CT8l/F9pUqamsJyGSrx6qUtLFaot0Nq7CRVNoJWh5CE2ko9zdqK7niz/vzFXXky6X4Dl06Pv1wQGgTKFli5375G6x4x8Bm7TI9AAJmcSKHJhHBG0dkw/IoVTQvdqnCkTdkO1MAM6i0wdBQvNQsbG2/DGy8uYd+bfhDVUyuCEW2/YcAcds61mlOJIHL47TBj2mjpZYUqaPLx0bAb0XT/IgIQTR9YS4mb/4l14PppAIb0VpBcpwyN0+YlwM6HWy2vMy8=;CdgE3WQhQMjVjdslo0dLFA=="
+secured: "NyUkQVYV38dI+pO2mNl/TeWDwyxwwjqXZb3S2B/lwak4Kw1znpthQsoY+0jtOrcxcFX6HJiUNIEYPwHsak/ncFI7x2uYuRAh2YLTFVFU7k+O/qqnY8CbDLCae70CNXlO6PTilNbjmN8X9qpGINZhkN4qwbLMBh2ZCZGmsbcfA51Oi8wHzxdBuHk6rfhBQz6q+EhHwmQxPFNmfiR1XNPJcMuDcpLCTR0rTKJLaG2IATXqz358ZhWEnYAPkRpmYsxwzM35C34xMesoEQ3HnY8npmRG4+2njdPsnHevpisCtMUuzHDpbNOYF2h+k+ifDT54XktWGDQkdmJ4c5ptO8aKbSQL9PqhGPKQZjdMmy8TTdo=;IzF3XWCujP9aVn7DnqHoSQ=="
 ---
 

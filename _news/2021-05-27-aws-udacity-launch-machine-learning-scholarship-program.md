@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Udacity and AWS collaborate to offer more free courses in Machine Learning"
-    excerpt: "Read Article Udacity, an online learning platform powering the careers of the future, has announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS)."
-    publishedDateTime: 2021-05-27T08:44:00Z
-    webUrl: "https://www.crn.in/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
-    ampWebUrl: "https://www.crn.in/amp/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
-    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 74
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2018/12/06142541/Partnership.jpg"
-        width: 696
-        height: 465
-        isCached: true
 
 secured: "8s4yGsXa3WyBYF6SSJWI+F4SrAeKu3UyfOGVacl7/CEliOQOlWGZvQ2di4ak9/QMmCkgobAAeCBj+muvms4gGLBSUGY4OH3hqAKsWfDEjhbxJ/mLVEe/c11BcGdTVbNtmqhC6Yfy9zbfiYVxMaR7NbeFOCtID/GRCRWRX8sETXX/b5U1/eRsIoCnsHwObX1RhGF0ck1dImALMcZ7QKWkA0geZKgIrCjhKXktMaYIgz9qGcyrl8UA5UO2/swDD8clazIkWxMtvmO3W66NB3u4qh5V9ZFFYXraDVmuKQQqpGPMlSwm/787ZUXUL8711iq/02j1oeKT7w99OY9nOMZk0VPl+BzvPLhWO37PR4dGREzjb9noMEsCi5w2F8J9tZGvJ9D6ZKnWQtOC2nVaLTLmCVUlEaEsgofEEswBsKOVz3Htkz7+r6Pl2ZC+IFzkJ2w8gzG5vRD/yHK5qHNeMuC8QYfNxyU7YyE40kM0bab+oTUnTJejsk7vpC805EZe7ctTR4U54UXFnxhN3hqOgG3oNQ==;ipW9Np3kcoDH8gxOz4HV0g=="
 ---

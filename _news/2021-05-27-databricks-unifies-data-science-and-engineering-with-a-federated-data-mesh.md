@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: VentureBeat
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Databricks ups AI ante with new AutoML engine and feature store"
-    excerpt: "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike."
-    publishedDateTime: 2021-05-27T08:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Databricks Unveil New Machine Learning Solution"
     excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
     publishedDateTime: 2021-05-27T21:57:00Z

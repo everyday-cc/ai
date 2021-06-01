@@ -2,6 +2,92 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-05-14-artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027.md",
+      "title": "Artificial Voice Box Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027",
+      "excerpt": "The growing impact of artificial intelligence (AI) on the accuracy of speech and voice recognition and also the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-top-7-deep-learning-companies-having-positive-impact-on-humankinds-future.md",
+      "title": "Top 7 deep learning companies having positive impact on humankind’s future",
+      "excerpt": "It continuously extracts higher level features from the raw data.Basically, the deep learning companies have designed a technology that imitatesthe human brain. This new technology continuously ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102078630/Top-7-deep-learning-companies-having-positive-impact-on-humankinds-future",
+      "originalUrl": "https://menafn.com/1102078630/Top-7-deep-learning-companies-having-positive-impact-on-humankinds-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
       "title": "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work",
       "excerpt": "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure.",
@@ -1069,111 +1155,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-soniox-taps-unsupervised-learning-to-build-speech-recognition-systems.md",
-      "title": "Soniox taps unsupervised learning to build speech recognition systems",
-      "excerpt": "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
-      "publishedDateTime": "2021-05-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-moogsoft-rolls-out-new-aiops-features.md",
-      "title": "Moogsoft rolls out new AIOps features",
-      "excerpt": "AIOps startup Moogsoft this week announced the launch of new product capabilities and updates, including extended integration capabilities, incident workflow automations, and automatic event enrichment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/amp/",
-      "publishedDateTime": "2021-05-13T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

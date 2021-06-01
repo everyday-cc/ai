@@ -115,7 +115,7 @@
       "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1371,12 +1371,12 @@
       ]
     },
     {
-      "path": "_news/2021-05-15-software-engineer-ai-computer-vision.md",
-      "title": "Software Engineer (AI Computer Vision)",
-      "excerpt": "Develop AI computer vision modules for machine automation and visual inspection Develop software GUI using C#/C++ Assist in Research & Development of image processing using cloud computing (AWS ...",
+      "path": "_news/2021-05-18-state-farm-taps-object-recognition-with-carcapture-app.md",
+      "title": "State Farm taps object recognition with CarCapture app",
+      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
       "sourceUrl": null,
-      "webUrl": "https://tweakers.net/carriere/it-banen/251998/software-engineer-ai-computer-vision-maastricht-en-hr-solutions",
-      "originalUrl": "https://tweakers.net/carriere/it-banen/251998/software-engineer-ai-computer-vision-maastricht-en-hr-solutions",
+      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html?referrer_site=www.mobilemarketer.com",
+      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html?referrer_site=www.mobilemarketer.com",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1386,11 +1386,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-15T08:42:00-07:00",
+      "publishedDateTime": "2021-05-17T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tweakers",
-        "domain": "tweakers.net",
+        "name": "Marketing Dive",
+        "domain": "marketingdive.com",
         "images": null,
         "publishers": null,
         "authors": null

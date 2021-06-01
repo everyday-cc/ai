@@ -1,15 +1,19 @@
 ---
 category: news
 title: "Aetina Releases Rugged VPX Board V3T5000-WRC & V3T3000-QRC, Powered by Quadro RTX GPU"
-excerpt: "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU. The news coming product includes V3T5000-WRC & V3T3000-QRC,"
-publishedDateTime: 2021-05-18T06:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9371248.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9371248.htm"
+excerpt: "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU."
+publishedDateTime: 2021-05-18T06:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu-1030439569"
+webUrl: "https://markets.businessinsider.com/news/stocks/aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu-1030439569"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -21,6 +25,6 @@ images:
     height: 267
     isCached: true
 
-secured: "LxZZ+b22QBZ0BNRvVpUQ+2p21sSHgzGVTS9QH1/F7r9GA+UyR+bkMyQ/7fzBy7oIIWtI3M5vxxkUuQEjlCQIMAA+YfbTqUXWdDPuE4xmE3NIkGalKIerhZQJYFr7JhHNXYa6N0y4R7pO9n/C1fe+o/vuQGHJBkc6kV+wqkqJKGGFgenp/I+EG9VxeiMkahtO4RC8Q30iUqtQZSUmzNEfBhckOreJDnWzTIZsGYWnpXWGuUuCO2oalw4jwJW4/aODHlI3LXEsmt7Ng7spuHvb1DweRMIsas/PUs7aCfvWzp5wmK30YadlyXuVrfFmG4RuWy4BQSzvp03P3fsfChymH4G4Xrf6K8wTERTbYMnL+BC95zCGJMGn4+ld7jbsT23h8uWmwxQdphdaLEuUTC2nzrli+s9nz3Fn/NnPK4E5zzq3cSWOaY0Ft5YHS/Z1kjBq1+X+n4uH9BiHWMbto/25crpqMxfuSinkplyg2KxG0MhkKyW2qgkWHvNamLFPrCMNnxZC6Ydmq7H1H1kMxUb6Xg==;TIkCEpS/HyFir8U/NExnZA=="
+secured: "IMJ2MJM1bIUGX/CrN/QxvWNsnpxYXxLsCfMTYnLFCJHsRzGzgU2gUfaOhzGiK5v4dLG3GyRkkWihNfvt4/U1+HKsnbDlBr5wskjPFGan6bDDjFvlP2u9Jy6H80nja+fO0engriSid02LHkfza5144nKm3aN9dgTMJfj8uWnGv+bNMY1hefrrZ9tFlY6A3RPxCR1oedci8OTdV9ohPM52jhHG94N6WEcPmCFU7Oaag3LJi1q3ycoS7XXHZHPBO8Msq8cEu0JY2Eq/RRsgWmgYzPbty+QlT9EL5tkd7LM3zc0LdAsEzUip9lzRSTH8bmtOG+iysptAQAL73F6V4WLVWKrO/v7NhuOQz1r7YnfVvgk=;R2bp58lL2tEQOQ85t+l33A=="
 ---
 

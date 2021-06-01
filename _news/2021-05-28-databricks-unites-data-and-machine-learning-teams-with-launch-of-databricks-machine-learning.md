@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Databricks ups AI ante with new AutoML engine and feature store"
-    excerpt: "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike."
-    publishedDateTime: 2021-05-27T08:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Databricks unifies data science and engineering with a federated data mesh"
     excerpt: "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models."
     publishedDateTime: 2021-05-27T15:30:00Z

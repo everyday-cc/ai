@@ -75,20 +75,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "The ethical use of data in artificial intelligence"
-    excerpt: "Even with the best of intentions, individuals may not recognize their own biases. Here’s what must be done to make AI effective—and fair—to all."
-    publishedDateTime: 2021-05-27T09:00:00Z
-    webUrl: "https://www.fastcompany.com/90638497/the-ethical-use-of-data-in-artificial-intelligence"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 54
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/05/AI_Ethics_FastCo.jpg"
-        width: 1280
-        height: 721
-        isCached: true
   - title: "Trustworthy and ethical AI systems–possible?"
     excerpt: "Artificial intelligence (AI) as a technology is maturing. Far from the stuff of science fiction, AI has moved from the exclusive regimes of theoretical mathematics and advanced hardware to an everyday aspect of life."
     publishedDateTime: 2021-05-31T16:08:00Z

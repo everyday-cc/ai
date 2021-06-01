@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
+    excerpt: "FE XCELERATE, the topline fintech accelerator program series in Asia, has overwhelmingly received more than 40 applications from fintech companies from around the world just two weeks after opening, a"
+    publishedDateTime: 2021-06-01T01:40:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/249965"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
+
 secured: "oiKUnEd4OT8KwBruN/ztl26t10VlRu4PdIM9qaa2VZxIc+cp4LIduv6RgDuS6Nc49b3WbP3RpSRJp74zTAS8XvnIBcR7mMkScQsTM3bNYUdsZzOOxiDbjRhrDXUkKKF2hNaV2kdz8jPM1BgYEdX9Mu0RHN1VquedQBrty9QY7P5yRKsAYstKE4ZQ5kPuT9Lagw8Y6gF+BYsNMFrlQwVLDwgP9mKhLY/AZMnARXlZHciuUlfasf8CRYv61OP37JkqohUkhsj99sIqNJnhEY7ojfDRadwGa5vLSQ38AbobzjSbNyVwMRq18fz67bF2G6NDkWmw1u8Gu5owhWqRMjkezHKD265Z9p+tyUqCRYmAbXY=;s4JBMuyG2bBHFN+XsM+r6A=="
 ---
 

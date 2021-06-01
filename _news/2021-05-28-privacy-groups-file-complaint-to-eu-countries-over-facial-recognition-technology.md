@@ -73,6 +73,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "King County Council will consider prohibiting use of facial recognition technology"
+    excerpt: "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information."
+    publishedDateTime: 2021-06-01T01:43:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+    ampWebUrl: "https://www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 53
+    images:
+      - url: "https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "US Chamber doesn’t want facial recognition technology banned"
     excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
     publishedDateTime: 2021-05-28T01:39:00Z

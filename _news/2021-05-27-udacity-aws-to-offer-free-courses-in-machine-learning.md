@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/udacity-aws-to-offe
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Udacity and AWS collaborate to offer more free courses in Machine Learning"
-    excerpt: "Read Article Udacity, an online learning platform powering the careers of the future, has announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS)."
-    publishedDateTime: 2021-05-27T08:44:00Z
-    webUrl: "https://www.crn.in/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
-    ampWebUrl: "https://www.crn.in/amp/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
-    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 74
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2018/12/06142541/Partnership.jpg"
-        width: 696
-        height: 465
-        isCached: true
   - title: "AWS & Udacity Launch Machine Learning Scholarship Program"
     excerpt: "AWS strives to help level the playing field for women and people of colour, who have been underrepresented in the tech industry."
     publishedDateTime: 2021-05-27T10:39:00Z

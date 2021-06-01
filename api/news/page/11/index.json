@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-21-transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping.md",
+      "title": "Transforming Retail With Augmented And Virtual Reality, Powered By Artificial Intelligence: The Case Of Eyewear Shopping",
+      "excerpt": "Want a better way to get an eye exam and shop for the perfect pair of glasses? Thanks to augmented reality and virtual reality, the entire process of buying glasses is getting a much-needed makeover.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a738051be92449464708cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/amp/",
+      "publishedDateTime": "2021-05-20T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-ai-powered-teleradiology-fda-cleared-for-triage-in-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.md",
       "title": "AI-Powered Teleradiology FDA Cleared for Triage in Departments Swamped by COVID-19: Interview with David Stavens, CEO of Nines",
       "excerpt": "Prior to that, we worked on building one of the first self-driving cars while at Stanford, which eventually became Waymo ... We believe the role of artificial intelligence for radiology is ...",
@@ -1095,40 +1146,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques.md",
-      "title": "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques",
-      "excerpt": "In a new white paper released today, Numenta detailed how it used sparse algorithms derived from its neuroscience research to achieve breakthrough performance in machine learning in a proof-of-concept demonstration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/",
-      "originalUrl": "https://www.financialbuzz.com/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

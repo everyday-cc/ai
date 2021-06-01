@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundation
 webUrl: "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundations/"
 type: article
 quality: 125
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-83004140,imgsize-458028,width-800,height-434,overlay-ethealthworld/revolutionizing-healthcare-with-data-analytics-and-artificial-intelligence-an-efficient-mapping-study.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "The ethical use of data in artificial intelligence"
-    excerpt: "Even with the best of intentions, individuals may not recognize their own biases. Here’s what must be done to make AI effective—and fair—to all."
-    publishedDateTime: 2021-05-27T09:00:00Z
-    webUrl: "https://www.fastcompany.com/90638497/the-ethical-use-of-data-in-artificial-intelligence"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 54
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/05/AI_Ethics_FastCo.jpg"
-        width: 1280
-        height: 721
         isCached: true
   - title: "Why Board Directors And CEO’s Need To Learn AI Knowledge Foundations: Building AI Leadership Brain Trust - Blog Series"
     excerpt: "This blog continues to outline the importance of board directors and CEOs learning AI foundational terms. This article defines Artificial Narrow Intelligence, (ANI) Artificial General Intelligence (AGI),"
