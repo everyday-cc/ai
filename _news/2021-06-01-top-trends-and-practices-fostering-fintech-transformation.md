@@ -82,7 +82,21 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined"
+    publishedDateTime: 2021-06-01T13:34:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners-301302939.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1522911/Fintel_Connect_Visa_Ready_Logo.jpg?p=facebook"
+        width: 1120
+        height: 586
+        isCached: true
 
-secured: "S8anx4G1VDynGkjflrdM1X8++2kKQW58umSSgx2hqXl90K9eaeu9KCBJoxMRlFtIauLCmNFITHIKUGOYyrZXpxYFQ/XSvr/iBDbXUMUTSrTEsybBTejM28PEJIRXZg1dowjhQBBHd3r6seUxI6tKHajA1R5fNTREL/HjGg9nvq6IwQ9Cz6CbJCfZfhaXjtiX0a9gnWPZPcp1XYl3Z0o5VAFdCnssdVoNd4oky+IS3XrYqxZ5MDKCSnu2fgrcZe82WBINLUW6Q2AzpP0qHz/4ZI5qH0QEPO18Lrj2XVjWTWFCF2r2osviyFjZyACRYJI37mnefVQ2+w+Mm3T331SUg7dd8G6RL6QBIyNPmvG6g0Q=;Vky9Zhih6PjK0owRLNLZYA=="
+secured: "AZeUcZQhV/8vqIpwZovSo+D8giXDywTEyj8RWcweKIvmASY7K4ewoX2MtenO+0NrS5pDUnmUxbBnlj9XEYzB2ult3UIS4EVD/Vwl3F2C9IKHeITc+pEQ2BO0tfYMed0ue9oSopx6RhNH/tJ6UrvlHx0JcXRElFlvuFYQaK/Ezin59W+MBGd8JGXV0a2IBpUiQe7Pd8wOF1hzu2XDgC9zB/oXFMt/vDDtW497fkv1VacUaIF00oJVOYw4ecbAP1wqRFnYm5jJYr3DFiaXqkyBvA3f4hVNue3mcHIc/kx1uDwFpMQjTgEtNWhqCWcbXfB9uHfoCX4EVUlmW1POEDN+86XhzoyDjYOdI9K4TXC7vVMiiEhSdYF4krGPvNrxId8mHB5bD8ItpouneQzeqhYbIjyYDcSVoF7a5Byhf6PvnxsVBCTkpigxT1xbfA35ozwWL+IdIuWzwWX64S4ZXajyYiTHwpLgWkK4U19ZcIp5vO8mzqMhX2QRauDad6nRDsnMWlTo2emxHGvuEKHm90OJLA==;Ol5OrQbHwbtm+UdXOFO+pg=="
 ---
 

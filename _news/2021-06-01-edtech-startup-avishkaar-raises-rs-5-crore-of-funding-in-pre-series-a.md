@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/edtech-start
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Standard
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Edtech Startup Avishkaar Raises INR 5 Cr In Pre-Series A Round Co-led By Mumbai Angels And Auxano"
+    excerpt: "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent"
+    publishedDateTime: 2021-06-01T12:08:00Z
+    webUrl: "https://www.entrepreneur.com/article/373331"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/373331"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373331"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 76
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622549303-compare-fibre-JiOFFI3W7IA-unsplash1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Mumbai Angels and Auxano lead pre series funding for Edtech startup Avishkaar"
     excerpt: "Read Article Mumbai Angels Network, a platform for early-stage investments, along with Auxano, and other eminent angel investors, has invested INR five cr in edtech startup Avishkaar as a part of pre series."
     publishedDateTime: 2021-06-01T06:48:00Z

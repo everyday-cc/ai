@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102186394/Machine-learning-is-changing-our-cul
 webUrl: "https://menafn.com/1102186394/Machine-learning-is-changing-our-culture-Try-this-text-altering-tool-to-see-how"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1500
     height: 1000
     isCached: true
+
+related:
+  - title: "Text-altering AI is changing our culture — try this tool to find out how"
+    excerpt: "Recent research shows that AI is influncing how we use language through these text-altering machines. These tools are a great example of how this is done."
+    publishedDateTime: 2021-06-01T12:22:00Z
+    webUrl: "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 68
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-robot-writing-hed-shutterstock_591536696.jpg&signature=eb3fc916c8e4408192846cbf04fdca3f"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "xHAp29Rem0JXMPc8YuMRuiLBaKlw6QXW2tlLYaDh6PUSaMTkYUN2nABGt9UmKRoK9NEnCMv/qcdgU5bbwwksQUGD1DFNYbQetfe46aCkBUyxYX8I5HyNr6fO0c79u+b1inqsrqwm4Sp8yvYGTKpyMMyw2nc+NSlCIrezQbLpafFeQL4cZoww9OUpdHyrHJMjKt3VwAHrcX8S3kFMtN9qKdbobmuAYMagLzKAi85Y0XaRMLk5KoJS8EqklkSeD1rcZDIJbehYPM6MsJ0MGldZy7X1roA3N8xMt9+WrsHVhXYTBOoLLyDdPy3EIasI9nFFS18NuqwKKwExoxr1IBro2p/dnhCeAI5bYWX/pYH1J4k=;9lumEVEKGWpiBOt5NlRpuA=="
 ---

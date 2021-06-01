@@ -39,6 +39,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Y Meadows Launches New AI Customer Service Automation Solution"
+    excerpt: "Y Meadows, a technology company dedicated to empowering customer support teams with tools to elevate the quality of their service, announces the launch of its AI customer service automation solution."
+    publishedDateTime: 2021-06-01T13:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381186.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "k2EwPAxVtc1UtIWbq2eNl6MGoMJLrYZi7q9KWNKuomYLiZUpMynXu3UrPgT3nzkb1AsP3LvcX2O7i3Fep1l54lk8nKgkJFgS3fcbS80mQcGG9oAq5zlxwtFG+d3k6x5lLgiI3hhx0/aXmpHau0AK22Q8gUFhS/lQ8wu5VbGVXe0T8ChbkkV8vUVn93zhMG1NIcTZ3gdkgXc+q8jm8+OvGBxuYIp7xQ7oNDPJBbXJ681nvdvBI3At/e+92LJX5Za9hbJUAnpJXJv+D/3KoAoG5h3/dP/831QBMDM8rWzr/asQ59hoxJerMW7Nof6OnjJ3UDS4nbPu4ajH/6+iABlXmmpAn8K1xG8MEBMskmgUg2VceVMxeD3ht9soVNahuNUahu6woWMN4VnxUHxPxFanf0GvJci0iPW4nKw3w97fZVU7QMDgFvxlhLHDz4yuO5LkgSCVs3Vf99WNotVgZhoj+af7VOSMAb5L3FU/aQuuxgRfCbxqT8UIB5dCm6HEOjqmoIFkTL5APcxbQsyjtxo7rQ==;fHMlkBWHIN9iNOtc+fg4RA=="
 ---

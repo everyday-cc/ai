@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Edtech Startup Avishkaar Raises INR 5 Cr In Pre-Series A Round Co-led By Mumbai Angels And Auxano"
+    excerpt: "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent"
+    publishedDateTime: 2021-06-01T12:08:00Z
+    webUrl: "https://www.entrepreneur.com/article/373331"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/373331"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373331"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 76
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622549303-compare-fibre-JiOFFI3W7IA-unsplash1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Edtech startup Avishkaar raises Rs 5 crore of funding in pre-series A"
     excerpt: "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent"
     publishedDateTime: 2021-06-01T07:33:00Z

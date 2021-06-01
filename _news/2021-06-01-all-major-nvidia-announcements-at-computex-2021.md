@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-01T10:30:00Z
 originalUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
 webUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Google AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
@@ -118,6 +119,6 @@ related:
       domain: tmcnet.com
     quality: 2
 
-secured: "Yb4hQODKo5BdCZqMsfu9Bj9Txe4BHL28cfYcukGRZEG+Xw4bEd8MCAy+kPDFicuf7n3SzCEHB7m+oe4Px7yKNMbzlGmgT0jBGR+UR3drH3c/8SMxTiiM0XbTu103ozXCXm51jRIvGKiz68pLh1vUa5BxNlPOSvEVBeWLQqe8d3DQcL+CWMN+psCXTrnSKXOjdKnu1UU1YA3bPRE0h34wY6SQV1PAnJ5gCAtRa2zgjSwCdv7d2SSzBN5Zw3faHWOI6H0jVjVlgu3G6o2C4k4RU94o7pjMvz+LJC7hSqEU1ac1iZpWqTxs7ZTSS7dz9IyVdyq6fm6wHbBaMtxXbJJHNFVBZhAzT08qxsnZwR6p8Ws=;AvH/hw8rjsUyH+BdmbNocg=="
+secured: "qRcTT0+FbHyJhb5q2m7iREpaiJbVnm3IEE16JOR2UtUSrZGdnxGgAEPWFLaRLLx68GqW5ipa6I9m9/DJmYgECzOkfv0bZ0pFtFoyd3XoYj5SJZ2F1DdTEqkX3W3I+FEpSJgrX98rcIWgMqkWx6YarYlx2DqAM8kSuxvi/6hRk3K2DPX4kr8Dah7czzTutvuKbxz2b1BXrtnlS433Ho6dYsCGWBmxPIh158idu/KWB4lUzpbITOF8mtTNKEM9U/Mci3zqGw+P+3hEgV1+KbJNBSDOGOvYam6mxIhWMgz+u8rT2cMv0YbXlocZPERk8r5j6Um5Gd9LQdUo7RKLIkEPLRrbgE1WMGWzUO60yzpnsuZiKFJYYP7MdfV5ivBnDvfLf3JtFa/r3uW1ES8FeGTExcvwo80RO9Ahnv1+NVLdodrVZsKFfC51SBvRjtivxL14PY2/JxMyYxXpggUDw5CtjG0yWGNVIU45z4qXONtRVVkFcTB2hMH6VXXWYDXXkCQaoHtrUoCZsHCXvBORUAOjIw==;FtEdjkftM0XsTLnrtWt6Pw=="
 ---
 

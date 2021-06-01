@@ -86,22 +86,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 67
-  - title: "Researchers create robot that smiles back"
-    excerpt: "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,"
-    publishedDateTime: 2021-05-27T19:02:00Z
-    webUrl: "https://techxplore.com/news/2021-05-robot.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-robot.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-robot.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-robot-smiled-back.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "The robot smiled back"
     excerpt: "Long interested in interactions between robots and humans, researchers have created EVA, a new autonomous robot with a soft and expressive face that responds to match the expressions of nearby humans."
     publishedDateTime: 2021-05-27T21:11:00Z

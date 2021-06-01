@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-bu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
 type: article
 quality: 102
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1622383930_msw-20210530_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+    publishedDateTime: 2021-06-01T13:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"

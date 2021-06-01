@@ -82,20 +82,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 39
-  - title: "Human Rights Commission calls for temporary ban on 'high-risk' govt facial recognition"
-    excerpt: "The Australian Human Rights Commission has used a landmark report to call for a temporary ban on the use of facial recognition and other biometric technology in “high-risk” government decision making until new laws are developed."
-    publishedDateTime: 2021-05-27T19:30:00Z
-    webUrl: "https://www.itnews.com.au/news/human-rights-commission-calls-for-temporary-ban-on-high-risk-govt-facial-recognition-565173"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 31
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics_face_scan.jpg"
-        width: 1314
-        height: 798
-        isCached: true
 
 secured: "waZxl3rBCalBHtovqn38TDF+il7jtcVsShrHwOh9SPIDh0+V5l2CLuC2vjwcPpwcuiPDkiKKQ9r1SgBV+AF2Alw3FTo6oSDhDXC/LtjR31f9k/LQUnLBeQxnSglSF6Dfrk1ms3tCKSR8+vytjx1EiyAqbEf6+ZnDPPlBbM0swGahdeQbCJT94LPFZEf1sreKGNgFnDDLuPFbzAGCseQn0Wul8z9hRf1BHdhG0kzHpRLs4l2gZJOgXr+Sh3MI1FW7jAiiVbKgpsnC5iajFSOxALjdCt1LaGoP9TOEX1vTrdXIowKrjkTtxNRm3E8ryA2YxtLyHTraV4uDAEinHLnCoYvx4Q1pamJiUbZsqUnPp6xKYDBAMoile7zlv3I3hS8D3udLp6dcryx9nrvjDO5rh1YtlasHqnsa9Xne0PMPpCY7R9X8znhpI4k2qrKdVYZ5QVnSrQxGhFnnu9bUoW5zVNroER7f9++AGmvWtu542Ld5EDxWrWG/Ex3fZ6b3EOdI85YRWVvmqZXjNs8/ILz0PA==;ZNxZqJQzSNIAnogDhmJA2A=="
 ---

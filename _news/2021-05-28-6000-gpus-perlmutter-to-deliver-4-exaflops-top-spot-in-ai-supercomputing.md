@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "World’s fastest AI supercomputer is powered by 6000 NVIDIA A100 GPUs"
+    excerpt: "NVIDIA has announced that the world’s fastest AI supercomputer has been turned on. The machine is called Perlmutter, and it was officially dedicated on May 27 at the National Energy Research"
+    publishedDateTime: 2021-06-01T12:12:00Z
+    webUrl: "https://www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/"
+    ampWebUrl: "https://www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/perlmutter.jpg"
+        width: 1280
+        height: 685
+        isCached: true
   - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
     excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."
     publishedDateTime: 2021-05-30T12:50:00Z

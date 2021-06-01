@@ -230,6 +230,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-19-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript.md",
+      "title": "Baidu, Inc. (BIDU) CEO Robin Li on Q1 2021 Results - Earnings Call Transcript",
+      "excerpt": "We welcome Yiping to the Baidu family and look forward to his contribution to innovate the smart EV sector. On Apollo Self Driving GAC Group joins Apollo's network of over 10 leading local and ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
+      "publishedDateTime": "2021-05-18T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-google-io-2021-the-vertex-ai-platform-connects-ml-tools.md",
       "title": "Google I/O 2021: The Vertex AI platform connects ML tools",
       "excerpt": "What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from machine learning and general AI to neural networks. Read More While Google has a bevy ...",
@@ -1297,49 +1340,6 @@
       "provider": {
         "name": "China Daily",
         "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-how-a-helium-shortage-could-put-the-brakes-on-the-tech-boom.md",
-      "title": "How A Helium Shortage Could Put The Brakes On The Tech Boom",
-      "excerpt": "Big Tech, NASA and even the global healthcare industry depend on a critical gas, and it could be heading for a major supply shortage",
-      "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.html",
-      "originalUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-12_cqpknqtdhx.jpg",
-          "width": 718,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.amp.html",
-      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.amp.html",
-      "publishedDateTime": "2021-05-12T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
         "images": null,
         "publishers": null,
         "authors": null

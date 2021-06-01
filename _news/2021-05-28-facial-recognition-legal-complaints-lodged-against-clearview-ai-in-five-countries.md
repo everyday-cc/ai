@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tests of Clearview AI facial recognition software raises concerns in Minnesota"
-    excerpt: "At least 42 law enforcement agencies in Minnesota, including the Renville County Sheriff's Office, reportedly used Clearview AI facial recognition software, according to a Buzzfeed investigation. Clearview AI is a web-based platform that allows users to submit pictures for possible matches in a database of more than 3 billion images pulled from open source websites,"
-    publishedDateTime: 2021-05-27T20:28:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota"
+  - title: "EU privacy debate rages regarding facial recognition firm Clearview AI"
+    excerpt: "European regulators are concerned over the practices of Clearview AI, whose facial recognition database uses images \"scraped\" from the web."
+    publishedDateTime: 2021-06-01T07:50:00Z
+    webUrl: "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 52
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 643
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/06/063_1198303844-1.jpg"
+        width: 1024
+        height: 710
         isCached: true
-  - title: "European privacy groups challenge facial scan firm Clearview"
-    excerpt: "Privacy campaign groups filed legal complaints Thursday with European regulators against Clearview AI, alleging the facial recognition technology it provides to law enforcement agencies and businesses breaches stringent European Union privacy rules."
-    publishedDateTime: 2021-05-27T19:41:00Z
-    webUrl: "https://www.seattletimes.com/business/european-privacy-groups-challenge-facial-scan-firm-clearview/"
-    ampWebUrl: "https://www.seattletimes.com/business/european-privacy-groups-challenge-facial-scan-firm-clearview/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/european-privacy-groups-challenge-facial-scan-firm-clearview/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "6pxJbMbnUqBIY7wjSIAAyyCEro4etzDTDD9RCx46XQbJm3dc1QY0pxJuFPbXBkFiS3v/Ykcq8HvrJjn7coiz/YYi/OH4ohrkv80aP2oWFEwnLRuDb6VS7DyHVBiVdEbMI9pVidTbTmumX2bRbd1mnbCRdDyi1Xml2gN4mno9wBw/2yNy4FP680xlbBTIUnxZ0zcVc8/cG2puFMH6wqbdaonYu6phHlPA6jE1eIYHHMGHMZGPrifuOFMbDvafPL2ro6I5vzEOx96trvhtS3NoHpXFOjIUYXCTU0n/tXqbNuveeF8Io1rrf4C4I4lJli5487aGCA8KMGBssFMHlKGexiV3rjjczMbUxN0NckAFTs0=;2wRkRz+sXymrC6HCPshPog=="
 ---

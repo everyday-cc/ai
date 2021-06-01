@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "World’s fastest AI supercomputer is powered by 6000 NVIDIA A100 GPUs"
+    excerpt: "NVIDIA has announced that the world’s fastest AI supercomputer has been turned on. The machine is called Perlmutter, and it was officially dedicated on May 27 at the National Energy Research"
+    publishedDateTime: 2021-06-01T12:12:00Z
+    webUrl: "https://www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/"
+    ampWebUrl: "https://www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/perlmutter.jpg"
+        width: 1280
+        height: 685
+        isCached: true
   - title: "6,000 GPUs: Perlmutter to Deliver 4 Exaflops, Top Spot in AI Supercomputing"
     excerpt: "The U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."
     publishedDateTime: 2021-05-28T15:37:00Z

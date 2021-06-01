@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-01-edtech-startup-avishkaar-raises-inr-5-cr-in-pre-series-a-round-co-led-by-mumbai-angels-and-auxano.md",
+      "title": "Edtech Startup Avishkaar Raises INR 5 Cr In Pre-Series A Round Co-led By Mumbai Angels And Auxano",
+      "excerpt": "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373331",
+      "originalUrl": "https://www.entrepreneur.com/article/373331",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622549303-compare-fibre-JiOFFI3W7IA-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373331",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373331",
+      "publishedDateTime": "2021-06-01T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-want-your-nails-done-let-a-robot-do-it.md",
       "title": "Want Your Nails Done? Let a Robot Do It.",
       "excerpt": "Start-ups are using technology to take a robotic approach to manicures, offering a simple way to provide foolproof nail polish.",
@@ -41,49 +93,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a.md",
-      "title": "Edtech startup Avishkaar raises Rs 5 crore of funding in pre-series A",
-      "excerpt": "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/12/full/1591984030-0973.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html",
-      "publishedDateTime": "2021-06-01T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -157,7 +166,7 @@
       "originalUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {

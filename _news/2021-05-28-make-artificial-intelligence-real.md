@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "Researchers create robot that smiles back"
-    excerpt: "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,"
-    publishedDateTime: 2021-05-27T19:02:00Z
-    webUrl: "https://techxplore.com/news/2021-05-robot.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-robot.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-robot.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-robot-smiled-back.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "The Robot Smiled Back: Engineers Use AI to Teach Robots to Make Appropriate Reactive Human Facial Expressions"
     excerpt: "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,"
     publishedDateTime: 2021-05-31T04:04:00Z

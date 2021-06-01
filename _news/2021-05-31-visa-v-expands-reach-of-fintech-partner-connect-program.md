@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-part
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://www.thebusinessdesk.com/_files/images/aug_20/Atrium_2-e1596717557909-1024x684.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined"
+    publishedDateTime: 2021-06-01T13:34:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners-301302939.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1522911/Fintel_Connect_Visa_Ready_Logo.jpg?p=facebook"
+        width: 1120
+        height: 586
         isCached: true
 
 secured: "WjCTNYOhQfsgvxdGaEeu7Yn9wjPJHnqxwgrn9qL2I7cYx1rpRMMqHW6Um7fIMz8U44qn9UPQkycAI6v8xMXKtZcG6mkz7c4+qJAcfGFJkld7cNKHG/CePsOmVr6nKabRvmvDQfkX/C+yqAb1v/H55NpS9lFdui6lyCvv76DezTXbZQnqEfykAlKp0m662J1+ipd1rvXrQfhFIbjhStZfNDaOyobFGnkVlwIuLXylICwe+nMBN2HqaaDrygW7hqfKu330TpS+yKgbKzIgrnLG5unDa6+bf2TfJndhvsP7MB3F++NAQQAMFP8zNY5s5lgZuVd/OgCzXsnZ1ellXxCNALJ12eBmNQ294la7txJ6Cfo=;i+J3Kk0+aECqRpHu1GEKNQ=="

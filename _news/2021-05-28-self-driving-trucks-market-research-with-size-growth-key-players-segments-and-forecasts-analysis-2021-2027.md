@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-mark
 webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28"
 type: article
 quality: 50
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 768
         height: 1087
         isCached: true
+  - title: "Global Artificial Intelligence in Medical Diagnostics Market Insights Business Opportunities, Current Trends And Restraints Forecast 2027"
+    excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market report provides a holistic evaluation of the market for the forecast period (2018–2027). The report comprises of various segments as well an analysis of the trends and factors that are playing a substantial role in the market."
+    publishedDateTime: 2021-06-01T11:42:00Z
+    webUrl: "https://ksusentinel.com/2021/06/01/global-artificial-intelligence-in-medical-diagnostics-market-insights-business-opportunities-current-trends-and-restraints-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
 secured: "5rMrdNHNh+QPURmG86qz3zQs5I4uPBaBD4lBqv+g/nW+jLFYV4oZuqZu2k2HNb2QlaasphjfPvyjniF3BkRprsmWEgrYxmZwr7mDTFMPLUScaz/GiaT7ATeQnulHAKKxP2mr0xzpqhL8WepIDuCUgKEMaaHVYIBBvhQodM4Vuxku5smF1Rw2q7hqMc101DokuQSAOv/J8geH3ivV25gKF0orGpFF4ZL4iREPO6N8Om0V++wmLdR0Tc+t1QnnQZpisJhbsMDDIvDWRFgMAu8lWVtkunrCk9xqrFu6MwUohPaASEdHxyBFiKChsJLC463D8PnyyUujjlqve3XiM3jjjq7BdFlXVaOTlQnF/hXeeFU=;OPjFsNYzEOjWr1PLO/bvLw=="
 ---
