@@ -99,6 +99,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI"
+    excerpt: "Kao Data, the specialist developer and operator of advanced, carrier neutral data centres for high performance colocation, has today announced it has become NVIDIA DGX-Ready Data Center certified. This step further reinforces its capabilities as a world-class data centre operator and highlights its expertise in delivering customised architectures for high-performance computing (HPC),"
+    publishedDateTime: 2021-06-01T15:47:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2876664"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "NVIDIA Base Command Platform Provides Enterprises with Fast Path to Scale Production AI"
     excerpt: "COMPUTEX -- NVIDIA today unveiled NVIDIA ® Base Command™ Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
     publishedDateTime: 2021-06-01T05:55:00Z

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SD Times news digest: Amazon Redshift ML, Microsoft’s GPT-3 features, and OpenCilk 1.0 released"
+    excerpt: "Amazon Redshift ML is now generally available. The cloud data warehouse enables users to create machine learning models and make predictions from data directly from their Amazon Redshift cluster. Users just have to use a simple SQL query to specify what data they want to use to train their model as well as the output value they want to predict,"
+    publishedDateTime: 2021-05-28T15:43:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-redshift-ml-microsofts-gpt-3-features-and-opencilk-1-0-released/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 76
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/redshift-ml-create-model-1024x416-1.png"
+        width: 1024
+        height: 416
+        isCached: true
   - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
     excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
     publishedDateTime: 2021-05-30T11:47:00Z
@@ -112,6 +126,17 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "3 reasons to invest in Microsoft Azure AI"
+    excerpt: "Digital transformation enabled businesses to obtain data from places they never thought possible and to monitor every aspect of customer interactions to gain a holistic view of their customers. Companies soon realized,"
+    publishedDateTime: 2021-06-01T14:57:00Z
+    webUrl: "https://www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529"
+    ampWebUrl: "https://www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529?hs_amp=true"
+    cdnAmpWebUrl: "https://www-pcmethods-com.cdn.ampproject.org/c/s/www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529?hs_amp=true"
+    type: article
+    provider:
+      name: Precision Computer Methods Corporate Website
+      domain: pcmethods.com
+    quality: 69
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
     publishedDateTime: 2021-05-31T15:52:00Z
@@ -171,6 +196,6 @@ related:
         height: 900
         isCached: true
 
-secured: "gG1dCT26SlJOjY20xw/idlitvhujHSi3G146/rJx2JzI9/MQebAFNR92unUjgZeuywLuy2E/911K2CWgYMFnaNq/MHMhRm19HQVc6dzkIpXTMZlfv92drBHuwSyJ6dwyTE30C8bxb72nf8B3soLei8VyPmsO3ORgCZoO8q8+MTfdzIy5rjaZpVc4ZmAUiWZbNCik0dimxxnSCcqTlBNMMbJvG6PajzcPkFYfGymBLeTT8Nzz3ptDwKOENG2hUIw6YB7FSxOzfLu6eBP9CTezmmPRJEXPRED44r7SeSDXqJwGRSSUCUXmoRTQXwKAJRYDYbvLdOK5YP0YCD/HPgoeFMHqylR78LdnecdkRE8M6V4=;E0vagF2aTD4ViRl5kuY5Hg=="
+secured: "P84/Xx8kk2RRymFXu+3w1Kb5srMrienk3iFULchkrdUqhIpHaSxag96l4kcCHm7nQJP1iIPldGiVNUy8XUOdQaoMCknZ3zJHLHwacSVvjbgEy3uKbi7zNopVxPAZFyDkkfu6YuCIi1XH3oHKWg75TBCFFaFLVpYiw1ktic+CwSm9tbkh4KD7thaPP9cvCpshVp5/rwO9DYX9gN5bdlhWyAy1SRp9dxkef0BBgbfzwmJ3Il1WvZ+kEBLT2+xC/VUscmWaxgRh1tnf3VResUnH+jfTbh2OAlkSt5CUeTlS2jCRmmLkvBEbozdpzQsDPDgQWdKS5GPzY8XN0X25jjIEH1GrsCIEbe3V7u49I8uoZ/8ctkApGHd9F6prhbqrZdW6Z0IrqKVM02WYBHxEq0KUUDNXTwE7e32MDhhjxvbmfDM5xktSs8tc8z7k3e0G50cHiiPu6JgAE7UF2MAa6fTTJgefTbXpt6wZlPYXBxJrCiBPgyT54oeSAvN8Dxr4V/+UjdKq+bMxHmwxl4jdo8QR+g==;A7tmolcMAB6S5G+KRoiPnA=="
 ---
 

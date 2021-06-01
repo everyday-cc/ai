@@ -88,6 +88,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI"
+    excerpt: "Kao Data, the specialist developer and operator of advanced, carrier neutral data centres for high performance colocation, has today announced it has become NVIDIA DGX-Ready Data Center certified. This step further reinforces its capabilities as a world-class data centre operator and highlights its expertise in delivering customised architectures for high-performance computing (HPC),"
+    publishedDateTime: 2021-06-01T15:47:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2876664"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Nvidia Pitches DGX SuperPOD Subscription, DPU Servers To Enterprises"
     excerpt: "Nvidia is launching a new subscription solution for its DGX SuperPOD supercomputer called Base Command as new Nvidia-certified servers are expected to come with BlueField DPUs and Arm CPUs."
     publishedDateTime: 2021-06-01T06:00:00Z

@@ -45,7 +45,7 @@ related:
   - title: "Y Meadows Launches New AI Customer Service Automation Solution"
     excerpt: "Y Meadows, a technology company dedicated to empowering customer support teams with tools to elevate the quality of their service, announces the launch of its AI customer service automation solution."
     publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381186.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-y-meadows-launches-new-ai-customer-service-automation-/2021/06/01/9381186.htm"
     type: article
     provider:
       name: TMCnet

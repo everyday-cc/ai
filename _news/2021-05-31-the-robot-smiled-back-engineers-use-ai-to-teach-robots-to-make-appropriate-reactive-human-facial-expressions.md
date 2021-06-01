@@ -86,15 +86,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 67
-  - title: "The robot smiled back"
-    excerpt: "Long interested in interactions between robots and humans, researchers have created EVA, a new autonomous robot with a soft and expressive face that responds to match the expressions of nearby humans."
-    publishedDateTime: 2021-05-27T21:11:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210527145244.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "kC8DH2mdMRrAf9K4L2Sim6tTH8ijdnDNcXFEZLLrHpvIIVkw4tvrKCDliWEIIhvvhsLrp7rekTrDmLk5aS1mosfUds3Jn/t8ubvQoFf5C9wCPS+JqEpSiCE3UgsBUAQF3sbnT3XxykqiuFB7AqoMe3LbeDlGb+cp5GbGkoO5huKTkt2Oend0/z6V/phG9FRQo40d+9lI7VaXPSbBnj+F7/aacbE2lo+Cc1pEPfdr/m31IkBr9brP6HLMIg3ztNp8k6rJF8bQ1a+/U5wa7Uo+v5Abc6TKoin3RT/2D+vUA/KKupWWMmNxWJ9BLR7KL1dWE9tnX1/QI4n2PF1vlpqSKTiS47BvEWeSzPy1Q2V3bojb4ToSxZ7kQz9xSYP0Mj/PLQpkVbDNjHBc7pMLLYPREPdj+1gIfoNUenpVwoW1HjkBcCQAI17IrigQAtEeFJZL8Fl0MSrJODAJHyKOzy0DEIubUY4lUHo4654/zU1gR/EUOHSUumZpGSQJCtmWLb92pBKmwIUGfmmfI3+2RacR/Q==;FQ3VghLnaBhOed/kFAfiCg=="
 ---

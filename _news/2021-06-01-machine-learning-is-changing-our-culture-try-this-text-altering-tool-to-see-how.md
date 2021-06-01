@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Machine learning is changing culture: This text-altering tool shows how"
+    excerpt: "Most of us benefit every day from the fact computers can now \"understand\" us when we speak or write. Yet few of us have paused to consider the potentially damaging ways this same technology may be shaping our culture."
+    publishedDateTime: 2021-06-01T15:44:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machine-culture-text-altering-tool.html?via=indexdotco"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machine-culture-text-altering-tool.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-culture-text-altering-tool.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-is-ch.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "xHAp29Rem0JXMPc8YuMRuiLBaKlw6QXW2tlLYaDh6PUSaMTkYUN2nABGt9UmKRoK9NEnCMv/qcdgU5bbwwksQUGD1DFNYbQetfe46aCkBUyxYX8I5HyNr6fO0c79u+b1inqsrqwm4Sp8yvYGTKpyMMyw2nc+NSlCIrezQbLpafFeQL4cZoww9OUpdHyrHJMjKt3VwAHrcX8S3kFMtN9qKdbobmuAYMagLzKAi85Y0XaRMLk5KoJS8EqklkSeD1rcZDIJbehYPM6MsJ0MGldZy7X1roA3N8xMt9+WrsHVhXYTBOoLLyDdPy3EIasI9nFFS18NuqwKKwExoxr1IBro2p/dnhCeAI5bYWX/pYH1J4k=;9lumEVEKGWpiBOt5NlRpuA=="
 ---

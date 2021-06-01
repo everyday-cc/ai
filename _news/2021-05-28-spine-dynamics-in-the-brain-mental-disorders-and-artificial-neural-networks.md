@@ -41,6 +41,15 @@ related:
         width: 577
         height: 219
         isCached: true
+  - title: "JNCASR scientists develop efficient, cost effective network mimicking human brain"
+    excerpt: "Scientists from Bengaluru-based Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) have developed a device that can mimic human brains cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence,"
+    publishedDateTime: 2021-06-01T14:10:00Z
+    webUrl: "https://www.sify.com/news/jncasr-scientists-develop-efficient-cost-effective-network-mimicking-human-brain-news-national-vgbokvbifigbb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 14
   - title: "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain"
     excerpt: "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computational speed and power consumption efficiency."
     publishedDateTime: 2021-06-01T05:15:00Z

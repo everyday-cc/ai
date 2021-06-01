@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/databricks-ceo-data-sharing-big-be
 webUrl: "https://www.businessinsider.com/databricks-ceo-data-sharing-big-bet-delta-conference-2021-5"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -26,31 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Databricks Unveil New Machine Learning Solution"
-    excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
-    publishedDateTime: 2021-05-27T21:57:00Z
-    webUrl: "https://www.datanami.com/2021/05/27/databricks-unveil-new-machine-learning-solution/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/robots_digital_shutterstock_Ryzhi.jpg"
-        width: 900
-        height: 454
-        isCached: true
-  - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-    excerpt: "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ..."
-    publishedDateTime: 2021-05-27T21:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
 
 secured: "EhdG+wBQq8ihfgirAht7HNYp1XJxSOXDLPf3Nba/+kj29EFxtWlyKTCXiWchDm4N3fQM87mtw3UBJpPUfegJG9SX+YKOGcBngtPHw0QaP+lZR08gCpTdZ8EmZoT23GWM/oANjxEgTyOjtqi588Wr9hthw2NXCAEzk3sn0N8DiIRwEqvvtlmu7UDNnEqpnOWOpQJMhGE1sFe08cgshO1zXlVfQWJ7dbJSj7lbZ9Fq37TUT8Q9cnuv6/1qjKz9oeA4gosfrK1I8cKoo4opyF5pNaWifpeqsDZOyk5mkKgtwQRpSmJ/f2JwkCsFsyE4DXkiWnj7uOTbDo875/wFMMVsnnv84NaPaucIRZ/KlvdGzGRUDIWkbsYAAiyN36eP8nFYnzgjkpCMVU9D8upIFFp93AGrmxlZoY4K4lYsVn53xBK5BZlGen1WJyPbjPs/0+LCa0nUVWcKSHlDqapnihIUuwcaXkmnwsli3BJ88qSbFCusr6JRWqpYR6Pp/Cvb6+9L/7nJNxS38E1a+urpEDjSAg==;CmRMkCtuTF64EykPlGYKeg=="
 ---

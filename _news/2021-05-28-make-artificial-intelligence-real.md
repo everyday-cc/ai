@@ -88,15 +88,6 @@ related:
         width: 777
         height: 437
         isCached: true
-  - title: "The robot smiled back"
-    excerpt: "Long interested in interactions between robots and humans, researchers have created EVA, a new autonomous robot with a soft and expressive face that responds to match the expressions of nearby humans."
-    publishedDateTime: 2021-05-27T21:11:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210527145244.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "J9dg5os5aCDue6eAqmDIVPcVJx2MLQHgvpxqgubjx/sNgdjAOTma14cAOKIevdZlVilzDdGGl4wc4QRBODkU5cCHmwz3JlyUp/rravFkqUTr52/WUc43VuGtjerFvCsR4GSc76WCdB8+GEs5Rvkwns9YOyLFFn6EG2MYewjcuiLESyVujW/J4CSyKqTtGtjQR8ehia3vOMxIEbFWJunFp2RoZAmODtl1Xa4tg09KT/rfmXPyXSclwv6duvduWTM/MuCued0y7yOCogOQB4Rvsz2itmtVyBQ48obNx2QJsRGh+6M8zT6WquuTI2F500G5xjd2s/JIX2/RsM7rdaD98JppBVKuZ7Zd8WP/uoLRBqQ=;yzhjqHV5WUbEsxws3wYN8Q=="
 ---

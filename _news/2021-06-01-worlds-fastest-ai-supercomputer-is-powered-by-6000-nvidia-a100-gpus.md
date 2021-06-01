@@ -9,8 +9,8 @@ ampWebUrl: "https://www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: SlashGear
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia, NERSC claim Perlmutter is world’s fastest AI supercomputer"
-    excerpt: "Nvidia and the NERSC lab turn on Perlmutter, a supercomputer with its sights set on groundbreaking high-performance AI workload processing."
-    publishedDateTime: 2021-05-27T22:40:00Z
-    webUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/"
-    ampWebUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/NVIDIA-Perlmutter.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "6,000 GPUs: Perlmutter to Deliver 4 Exaflops, Top Spot in AI Supercomputing"
     excerpt: "The U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."
     publishedDateTime: 2021-05-28T15:37:00Z
@@ -76,7 +60,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia Comes Out with New 3080 Ti GPU and More on Computex"
+    excerpt: "Titan cards are believed to be the most powerful among the Nvidia GPUs and with the launch of the new RTX 3080 Ti card it can get even better."
+    publishedDateTime: 2021-06-01T08:18:00Z
+    webUrl: "https://www.pcquest.com/nvidia-launches-3080ti/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
 
-secured: "8BCJHiH1kNChSHnd9ZYuOsMMBRxoBBGQUpupYi83SO5KRrtUPML7UjifhlPePQ3To4Q5zRIqFyglSKJt/wgTZg6xLCdG71PgP8cl765+uztIivZooh+04KyuAKkgSvU8g0iyNiDyeyVLPRNIoW+9Rqe/B3tWuoa3103vcbd7GRhlcpxnfB5uUifCd+9iE7fEWYtccR0sQ9e7FSSTYk+A1ONB5VKi7OscCp0XLzgqMsykhnAZ7mfQTgMtJMSak3H5pHV6Y1SLo9KnfT9VD0tlXt8Bdac1BZ9JDYauR+X8h9qIZ71/Z9KZXVxKrowDbtdmZCEIJRipV8ApNWkccr2pD0JB0X/mcGOeibzOpPhNu58=;1n0/J/zqrDJ8e6DwIBjDmQ=="
+secured: "5OGR0o2lVXR26P3f2NS7gO6sfyQdYlW4f6mgSyLIs8TsF0QDBsCXM9bUbeqspkdzag4opsqy7ESWC0LOPirk6Ry6Jm7c4TYktVBJqJfXjhcsd0cWQ5sIf7UKTFVuzmJu9ytayKOut7sZIzGa4SVX3tCevY3aqfVGVNZXhWkmynTjtQDMrz9qHsjL4S5+K//BQsooSqicCOZ/4J5Nan/MFnq+6plWDb9pHrarkeoN7HyEf2aVc/+cNgherp7ZW5/p3Ew+3/kP255jXwelTrR40b6Ay7+k52AP2STn6bbkMgRQ7fWqwOh6qUlpeiY+lywtWlWohzGM+6FpIj4rs+S/aG0HS+NCAtwcVaX04iLnFo0BNPMM066uGAnJokfASQPbLeZ3UR2WT4PuEOsTx8AfGZY+yL5kVUQCJa1P9jpJwKIxagFf//p+c2QxUgrGOYc6SJ46AI97i8bZ4ChTUKOOcgwLSj1jXfko8Kmii9e5ibmGYGwtGUsDuxpXqTwd/tJjaSQxpFaiiIQTuY24b9i3XQ==;38BUDKEDLERJGEpAuR7PKw=="
 ---
 

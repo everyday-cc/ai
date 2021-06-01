@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Envisioning safer cities with artificial intelligence"
+    excerpt: "Over the past several decades, artificial intelligence has advanced tremendously, and today it promises new opportunities for more accurate healthcare, enhanced national security and more effective education,"
+    publishedDateTime: 2021-06-01T15:12:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302812"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/safercities_ai_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
+
 secured: "ocGjirXq8o0pNBCEyq4Dd+Ht9vfdZhoHLX9V91kgxs2U66zsK40GgOmocRE6tabXUPX+IPREMlhP1L+fserucfjDWbT17LAm5Rn2k5HxGbUdeDIL3A3qLWkWBw8YIwBRMuhgzxaiZeXQaHG3KImtZAKtIGyB51AUeNvHFVWRMUzFOM4t6Mqe9SibqWZdi4TUeGnMqhCKwINcH+1ZJuhMn25QzcPi5L5Dn7nn4/RYdxltWv0oVqj+VlgWJ6tYYwDmN2kNJZWB6yIa+CcBItkGEQShD+RfyBxeXURNJ3Zp/ZFxswfk0kIdPayBv1nfdJT6JRUHumejqYqlhXY1ZiQjWFtyAKwp07+uDzuMlQX32NE=;DEVAcxWyA2TpwZSOJA3ADQ=="
 ---
 

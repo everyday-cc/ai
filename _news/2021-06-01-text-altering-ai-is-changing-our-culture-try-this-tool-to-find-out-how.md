@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/text-altering-ai-changing-culture-try-
 webUrl: "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning is changing culture: This text-altering tool shows how"
+    excerpt: "Most of us benefit every day from the fact computers can now \"understand\" us when we speak or write. Yet few of us have paused to consider the potentially damaging ways this same technology may be shaping our culture."
+    publishedDateTime: 2021-06-01T15:44:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machine-culture-text-altering-tool.html?via=indexdotco"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machine-culture-text-altering-tool.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-culture-text-altering-tool.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-is-ch.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Machine learning is changing our culture. Try this text-altering tool to see how"
     excerpt: "Most of us benefit every day from the fact computers can now 'understand' us when we speak or write. Yet few of us have paused to consider the potentially damaging ways this same technology may be shaping our culture."
     publishedDateTime: 2021-06-01T08:44:00Z
@@ -44,6 +60,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "Ycd+CJMGOlusyK0myrkayvukuiNas70ZYXI62YcuKa4R0hq2m6fS2Vye2ULgqvPtYs/kLAGqN+mBRNuoz84G9IB48AUlfaA0e7ejHKw75DS/kSFhdKrIU8NEzLSRGI7Ry5HZfIa+diKpu27K/M8hzr+GyFHCVw/XQgqZX35Ccdu5TZRLFxEZTKmuA3VWvzE2HrfiFztNNmzgMWepPoZTAMNyaQShXXEYmiIWQVLPB/QDZ/uouoxa4CpMJGbV+sNjjhB3FW2vdznCjaFTI/XT77LA0V4V4D8itDUWCtlIEnBRjSK1LEje7qrX8Kx8bIaVZejpnpFY5qc6E25dKqqgzIBSFgtxjQkMxXfzF3am+fI=;tdBoT9r5/NK7zqT7+o70GA=="
+secured: "fzWvLpNg5t1fszqim5CXxSX6VJRYunhgSj4vnXWv/aleWxx9WnoZF6xlJBvnN2BcIvRl+jM2oOlnD38ia/IuFXtRiwtbgylaw2mUGmYk6t1y9vo87zvifCbrZNP4vZwVbnGbGfoXggoo5jyD47TsClgSHYlZ4pRPtLfd6bXZbcfeb4qTRoBTf84Pc3eMq+R4Dc0gFE5bGuqr/Ngs7roxFMIkLluIXPKGrDWER2tC0HA/2hlOhx2NVd1dCa5uTixC1tVe7GRdNcYqaI4+5Q7zVCwWlI5htgG0N80FNvzEyYoQAN6SYI07jnL22vJatSgHMOpKw8HNNWRtt3hSo8lSmMwGfzTN9fZ2bOM6LZZOFzlGUo9JVmceZEqZcqaYkl27QfUz9BjM0z1/PuPlwcGCbMe+6lKHmKoGzBL/8PJAY7dB1NagW4C/Y55X++Mt/M1282tKSM7gY6MaURTulHzsjpUwrLaie7Hyj+y5fCwzdqxdqOXb4WwPiRSJHwKvFgrp+qgGtPGFjsNp1lanO5tFyg==;zp7D34CCqiTsit40U9WhhA=="
 ---
 

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia, NERSC claim Perlmutter is world’s fastest AI supercomputer"
-    excerpt: "Nvidia and the NERSC lab turn on Perlmutter, a supercomputer with its sights set on groundbreaking high-performance AI workload processing."
-    publishedDateTime: 2021-05-27T22:40:00Z
-    webUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/"
-    ampWebUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/NVIDIA-Perlmutter.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "World’s fastest AI supercomputer is powered by 6000 NVIDIA A100 GPUs"
     excerpt: "NVIDIA has announced that the world’s fastest AI supercomputer has been turned on. The machine is called Perlmutter, and it was officially dedicated on May 27 at the National Energy Research"
     publishedDateTime: 2021-06-01T12:12:00Z
@@ -72,6 +56,15 @@ related:
         width: 600
         height: 252
         isCached: true
+  - title: "Nvidia Comes Out with New 3080 Ti GPU and More on Computex"
+    excerpt: "Titan cards are believed to be the most powerful among the Nvidia GPUs and with the launch of the new RTX 3080 Ti card it can get even better."
+    publishedDateTime: 2021-06-01T08:18:00Z
+    webUrl: "https://www.pcquest.com/nvidia-launches-3080ti/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
 
 secured: "I1c8CHPN4cPpR7hW/4K3QmzD68Y72m+hxfwgWEf6YtI0OKJ+51W6PRFm5pU/pYjo5bXlz3rUPk0bWx/VL2s14eDOLUtd7H4eo3abrpL6SU0HCoiYfVntpJxSaCI0NrhweSGOcfyiy6stlypg/6/Irgc6FhnZuvHKp00RN8c4Zi01aPbLBel7VHhS7eSyDJWng6+5nMcElM4bdldF53D0+UqvRYWpvt35gM8JJv/daBpP/5TSzb2WP7OGEAYtY3TtY0uQ/XvMQTAi0n6qpLeb/ofvY9STo0CfYDCXudjYDfwGl/vvoDusv7C4xGe5D4qHCJz/hKeEJe7p3FvmBAuF72jo1o8z3TTy9rRJ28kBsrY=;nizeRxaMuHtOy8rwcaqFIA=="
 ---

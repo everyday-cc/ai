@@ -45,6 +45,20 @@ related:
         width: 1199
         height: 671
         isCached: true
+  - title: "SD Times news digest: Amazon Redshift ML, Microsoft’s GPT-3 features, and OpenCilk 1.0 released"
+    excerpt: "Amazon Redshift ML is now generally available. The cloud data warehouse enables users to create machine learning models and make predictions from data directly from their Amazon Redshift cluster. Users just have to use a simple SQL query to specify what data they want to use to train their model as well as the output value they want to predict,"
+    publishedDateTime: 2021-05-28T15:43:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-redshift-ml-microsofts-gpt-3-features-and-opencilk-1-0-released/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 76
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/redshift-ml-create-model-1024x416-1.png"
+        width: 1024
+        height: 416
+        isCached: true
   - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
     excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
     publishedDateTime: 2021-05-30T11:47:00Z
@@ -102,6 +116,17 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "3 reasons to invest in Microsoft Azure AI"
+    excerpt: "Digital transformation enabled businesses to obtain data from places they never thought possible and to monitor every aspect of customer interactions to gain a holistic view of their customers. Companies soon realized,"
+    publishedDateTime: 2021-06-01T14:57:00Z
+    webUrl: "https://www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529"
+    ampWebUrl: "https://www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529?hs_amp=true"
+    cdnAmpWebUrl: "https://www-pcmethods-com.cdn.ampproject.org/c/s/www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529?hs_amp=true"
+    type: article
+    provider:
+      name: Precision Computer Methods Corporate Website
+      domain: pcmethods.com
+    quality: 69
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
     publishedDateTime: 2021-06-01T13:30:00Z

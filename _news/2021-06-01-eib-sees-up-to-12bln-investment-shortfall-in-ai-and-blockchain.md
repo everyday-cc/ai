@@ -49,6 +49,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "How artificial intelligence can enhance blockchain platforms"
+    excerpt: "Artificial intelligence and blockchain are both touted as technologies that will lead our future. But here’s the problem: They’re like oil and water. While innovative in their own right, there’s a noticeable lack of interconnectedness — projects that tightly combine AI and blockchain,"
+    publishedDateTime: 2021-06-01T15:00:00Z
+    webUrl: "https://www.investing.com/news/cryptocurrency-news/how-artificial-intelligence-can-enhance-blockchain-platforms-2520182"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 52
+    images:
+      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528132.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "IHfTatJ5C2EgVFOCvMWSqzksUWfOp5XcGYiJzjT29930AVw27AxfedwpB6++2rmYBkD0kmK+4aFotPczbjLKsKkMmfWNidqMJoYuTzVfJk/iYAj0Vr0vZDes9wfPNyQVb24NHaArYXgznneSoNQvbIPFrkIMe7MqOyRmBiPJREKVN63prBHsLdC1iQK4tjaYCffSVW0kb76L5sW+AKmVpKgya3kTNm9gTFTpfOoZgLBu4iPp35eP/fMEoZ7vZsCDP3BsfeEmAYKuN+eLOP93BiFBqJXtoxaAK7YnHWVkttVAv+c5W3gS2uNC3vTHFfOIqKV22f5toAPvhZ/BsFUdtHeAG2Q20tiGX9BmU8NahQI=;QXaq9+H0rfQDCGghDLUW0A=="
 ---

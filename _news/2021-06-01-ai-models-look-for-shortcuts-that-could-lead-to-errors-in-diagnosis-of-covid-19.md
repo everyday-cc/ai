@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning help fight the COVID-19 battle"
-    excerpt: "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications."
-    publishedDateTime: 2021-05-27T21:40:00Z
-    webUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/"
-    ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence Can Help Doctors Manage COVID-19"
     excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,"
     publishedDateTime: 2021-05-28T05:03:00Z
@@ -138,52 +122,6 @@ related:
         width: 711
         height: 400
         isCached: true
-  - title: "Covid-19 and the role of virtual reality in healthcare and life science research"
-    excerpt: "Digital reality is a hypernym for augmented reality (AR), virtual reality (VR), mixed reality and a gamut of other associated technologies."
-    publishedDateTime: 2021-06-01T07:01:00Z
-    webUrl: "https://www.financialexpress.com/lifestyle/health/covid-19-and-the-role-of-virtual-reality-in-healthcare-and-life-science-research/2262844/"
-    ampWebUrl: "https://www.financialexpress.com/lifestyle/health/covid-19-and-the-role-of-virtual-reality-in-healthcare-and-life-science-research/2262844/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/covid-19-and-the-role-of-virtual-reality-in-healthcare-and-life-science-research/2262844/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 54
-    images:
-      - url: "https://images.financialexpress.com/2021/06/virtual-reality.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Medical AI models rely on 'shortcuts' that could lead to misdiagnosis of COVID-19"
-    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes. From diagnosing disease, to personalizing treatment,"
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
-        isCached: true
-  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
-    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
-    publishedDateTime: 2021-05-31T14:16:00Z
-    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 43
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
-        width: 765
-        height: 509
-        isCached: true
   - title: "New Artificial Intelligence Tool Assesses COVID Severity"
     excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
     publishedDateTime: 2021-05-29T17:36:00Z
@@ -195,6 +133,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "AI for radiographic COVID-19 detection selects shortcuts over signal"
+    excerpt: "The urgency of the developing COVID-19 epidemic has led to a large number of novel diagnostic approaches, many of which use machine learning. DeGrave and colleagues use explainable AI techniques to analyse a selection of these approaches and find that the methods frequently learn to identify features unrelated to the actual disease."
+    publishedDateTime: 2021-05-31T15:02:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00338-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00338-7/MediaObjects/42256_2021_338_Fig1_HTML.png"
+        width: 685
+        height: 358
+        isCached: true
   - title: "AI can help stratify COVID-19 risk on lung ultrasound"
     excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
     publishedDateTime: 2021-06-01T07:32:00Z
@@ -245,15 +197,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
-  - title: "Global Artificial Intelligence in Marketing Market to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Impact and Analysis - ResearchAndMarkets.com . The \"Artificial Intelligence in Marketing Market Forecast to 2"
-    publishedDateTime: 2021-05-31T04:02:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210531005077/global-artificial-intelligence-in-marketing-market-to-2028-covid-19-impact-and-analysis-researchandmarketscom"
+  - title: "Artificial Intelligence Platform Market is Thriving with Emerging Trends 2021 after Covid-19 Pandemic"
+    excerpt: "The Global Artificial Intelligence Platform Market 2021 Studies document from Big Market Research presents an in-depth assessment of geographic scope, market size, huge company information, great analysis and market revenue estimates up to 2026."
+    publishedDateTime: 2021-06-01T11:21:00Z
+    webUrl: "https://ksusentinel.com/2021/06/01/artificial-intelligence-platform-market-is-thriving-with-emerging-trends-2021-after-covid-19-pandemic/"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 22
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/33-4.png"
+        width: 628
+        height: 385
+        isCached: true
 
 secured: "FxzPsen0hlT3JhAXFU/NdrT+7Le4xn/fxjFgkQZ4hpOLvO+/w3hCgM+ZxGsI/ENurwUiMT4tCLCqTFH6hus60bqEU/R6a6N5Lv+Sb0OHobAZj9lrSTprpVD8NLfxgc1RmIe9xgVVlk7hiOim0NIGRCaqdrqfFOtRN/EnpdJKm+kE906qLiXabRZx6vaHbO9MXXartxu9byPNEv3pCWd701qT11jb9atDQOY5p/847lZOLJm+zTG7cE/3fZKWqRnteIZErO6ofNbHNXn0tvLgcS9MKurdOr/TYVRjzcPX31n1y3VxABR4I9jI9TAddQlURSFBX/9srxWdSgSamz8/7O92AIMTqu/znbr5mWCGC8Y=;k9ZUx5YbRmTyyUzta3KHtw=="
 ---

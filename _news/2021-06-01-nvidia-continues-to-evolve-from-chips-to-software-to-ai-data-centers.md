@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI"
+    excerpt: "Kao Data, the specialist developer and operator of advanced, carrier neutral data centres for high performance colocation, has today announced it has become NVIDIA DGX-Ready Data Center certified. This step further reinforces its capabilities as a world-class data centre operator and highlights its expertise in delivering customised architectures for high-performance computing (HPC),"
+    publishedDateTime: 2021-06-01T15:47:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2876664"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Nvidia Pitches DGX SuperPOD Subscription, DPU Servers To Enterprises"
     excerpt: "Nvidia is launching a new subscription solution for its DGX SuperPOD supercomputer called Base Command as new Nvidia-certified servers are expected to come with BlueField DPUs and Arm CPUs."

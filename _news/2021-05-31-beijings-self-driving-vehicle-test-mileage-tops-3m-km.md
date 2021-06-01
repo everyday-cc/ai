@@ -28,16 +28,16 @@ related:
   - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
     publishedDateTime: 2021-05-29T00:30:00Z
-    webUrl: "https://www.stltoday.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_fbc8b91d-592c-5ed1-aa97-56495d9b55ad.html"
-    ampWebUrl: "https://www.stltoday.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_fbc8b91d-592c-5ed1-aa97-56495d9b55ad.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_fbc8b91d-592c-5ed1-aa97-56495d9b55ad.amp.html"
+    webUrl: "https://madison.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_982ad224-16c9-5c1d-858c-effcf4b6626c.html"
+    ampWebUrl: "https://madison.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_982ad224-16c9-5c1d-858c-effcf4b6626c.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_982ad224-16c9-5c1d-858c-effcf4b6626c.amp.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Madison.com
+      domain: madison.com
     quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/8d/88d35353-a725-5988-950e-bd6b7b0229c1/60aea5a6e0cca.image.jpg?resize=1024%2C576"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/a7/8a7c022c-47e8-5cb5-bec8-b60ec3e7b6af/60aea5e18cdc0.image.jpg?resize=1024%2C576"
         width: 1024
         height: 576
         isCached: true

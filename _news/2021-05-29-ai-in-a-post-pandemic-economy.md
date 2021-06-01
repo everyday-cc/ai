@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
+    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
+    publishedDateTime: 2021-05-31T14:16:00Z
+    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 43
+    images:
+      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
+        width: 765
+        height: 509
+        isCached: true
 
 secured: "+ydI8gDFHQbL65ZWFM+ReOkbthqdcfjaSHmz3vY7CGmJVbXTaYj6YB35cJmVasXRQZiSRp6wGsvK/GL3rFNdpZMdlMxhtu2fUjlH6EBUiJYNbuqAXSWukH0IMv1dCZCCQTPOylrP9b+wjwg6p+6ooAEwfuD4+91DmPFk07y1Mr6CqUhRIeuP9MnQcsi/eSz34ACnrFmpZZEhLSUCsXZ2SRdArwqn2Vv52kjFbx0Ta3FziYUGNiZrCpeeR029Gpg+QjNPE5EqXspHYOVywvwHT+5cECEZsK+DMJdhVroVcr49bZ/e3GYtjVLFjuSCjKg9vvuT8y2EqiLSI3JLoL/PdQh5tWsasnTFKIa34Z8h1t1ClH0wR1UI05/R2GhRzMiUlZANhOGpu4oLVYjG3JhGVb/zvRk0XPdqe83lbSjy9YWT7uflzokQAGWiP5NOiwLKhDwB+8uyJj5kls2gENVfwFkqYcnHFviQukVttoWqZCgjxH9Awi9C65RQ3L5z1yvtRRYUDyRZKqzG5b10Kn4rTg==;DT1RKduSl7hvTF7QRwtzOw=="
 ---
