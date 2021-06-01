@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
         width: 765
         height: 509
+        isCached: true
+  - title: "AI amps up business resiliency — key to organizational longevity post-pandemic"
+    excerpt: "The pandemic tested businesses’ resiliency and the ability to deal with unexpected disruptions. Proper planning and preparation, especially when paired with the use of artificial intelligence, can lessen the damage of future disruptions,"
+    publishedDateTime: 2021-06-01T18:10:00Z
+    webUrl: "https://siliconangle.com/2021/06/01/ai-amps-business-resiliency-key-organizational-longevity-post-pandemic-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Dave-Marmer-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "+ydI8gDFHQbL65ZWFM+ReOkbthqdcfjaSHmz3vY7CGmJVbXTaYj6YB35cJmVasXRQZiSRp6wGsvK/GL3rFNdpZMdlMxhtu2fUjlH6EBUiJYNbuqAXSWukH0IMv1dCZCCQTPOylrP9b+wjwg6p+6ooAEwfuD4+91DmPFk07y1Mr6CqUhRIeuP9MnQcsi/eSz34ACnrFmpZZEhLSUCsXZ2SRdArwqn2Vv52kjFbx0Ta3FziYUGNiZrCpeeR029Gpg+QjNPE5EqXspHYOVywvwHT+5cECEZsK+DMJdhVroVcr49bZ/e3GYtjVLFjuSCjKg9vvuT8y2EqiLSI3JLoL/PdQh5tWsasnTFKIa34Z8h1t1ClH0wR1UI05/R2GhRzMiUlZANhOGpu4oLVYjG3JhGVb/zvRk0XPdqe83lbSjy9YWT7uflzokQAGWiP5NOiwLKhDwB+8uyJj5kls2gENVfwFkqYcnHFviQukVttoWqZCgjxH9Awi9C65RQ3L5z1yvtRRYUDyRZKqzG5b10Kn4rTg==;DT1RKduSl7hvTF7QRwtzOw=="

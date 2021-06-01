@@ -34,22 +34,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's GPT-3 technology could soon write code using ordinary language"
-    excerpt: "A year after funneling $1 billion in OpenAI and gaining exclusive rights to GPT-3, Microsoft shared plans to bring the NLP tech to programming applications"
-    publishedDateTime: 2021-05-30T15:33:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
+  - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
+    excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-01T19:12:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-strong-quarterly-and-yearly-performance-intel-ibm-google-microsoft-general-vision/"
     type: article
     provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 59
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l84720210527144028.jpeg"
-        width: 1440
-        height: 810
-        isCached: true
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
 
 secured: "W7tPHm/CAKLjuGKkGyaqdMEHaq1rqPQeXe7C/viXNf+mOZamlewifCVIvc13S7+aSeigSPHq9cuD3Qj3qrLRy91TyzOm5JE9mtSbTSZrxncsmRVNzUlMz4RRI2vY+4U0Y5T8yF5ad3TdozwLGxB+J5a4fWYK8vnatgZZ+5khO95c6O/Orn/zh0o0Y+N+uQXDyjMwcZvTha9T1P9Y86hMr/ka2JVktBot6ZU6u59PDaozoP0heMVqTLuqaOHfIjMy3zp6eOZtxZ3i9323CTE6MBoT0Nsia2RlAAyzHqs2vXRVJxX5FE7Pv1dgRw0GX7LC6hivFmX/Itt0k/9s2OrEWFbikmzZq5GfvimWKGXuKl0=;DS6kl5h4DLIhyfCGkg693g=="
 ---

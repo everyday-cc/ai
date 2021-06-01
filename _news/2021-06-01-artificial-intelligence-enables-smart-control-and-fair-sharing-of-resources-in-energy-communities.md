@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-enables-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -34,6 +34,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
+    excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, and Shell (NYSE:RDS) today announced a five-year renewal of their strategic agreement to accelerate the deployment of enterprise AI and ML applications on the C3 AI ® Suite across Shell."
+    publishedDateTime: 2021-06-01T18:48:00Z
+    webUrl: "https://www.afp.com/en/news/1313/c3-ai-and-shell-extend-strategic-collaboration-reshape-global-energy-and-resource-industries-enterprise-ai-202106010051081"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
     quality: 0
 
 secured: "XXi5DAksR4VJFzLaiDQW/DeTuqkQtVGwB5Ngy7nMhwC1RR5UvrtSnsbeTlfKrQziGV2v3gyVIDeXPYiKD4qKArjb2784MYVsFemkS/HWNwf1QMuKev5RmrK4VOfkcTNAmoS36+ji8UFkhZ/GgkhF4QRFIPpZB5swaP2KLx2cogRyYO86H7pW+s6XiVp31P9hj015MYGcDRUFtOaFSJZ8tj/1Hp9diTnE6MB8hY4mmeedmP10loTywhCr0oR0mW+5qbuf3ZcMvGT17DP/OeyqtETJxN5XioHbHkjVSMxtlN2uhCfH4rGjs0KklhVdztJ1DTMsYLebffOMocrB4XfZpdmy+lCssz608C3W1aXYPQdwV1ygXyeyv4Oau0kENbnpAhVIXC25Q8SUpGfUnkk3XSt4VuCLVRRflHablF2uA3NxzdAjgnkC9eUNRx4sRXRXJxmU686WeC96rTj0n2qWaZZIsLvFWsfklx2F53oReSg80KeyY/0Uz8M43flkRob/wmffFc1JDoyTJiHIqR/CoA==;lumYFZaNhq08TNkjCCTB7A=="

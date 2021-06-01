@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's GPT-3 technology could soon write code using ordinary language"
-    excerpt: "A year after funneling $1 billion in OpenAI and gaining exclusive rights to GPT-3, Microsoft shared plans to bring the NLP tech to programming applications"
-    publishedDateTime: 2021-05-30T15:33:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 59
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l84720210527144028.jpeg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Monitors Outbreak by 2027 | Microsoft, NVIDIA Corporation, IBM, Atomwise"
     excerpt: "The global Artificial Intelligence (AI) in Drug Discovery Market is projected to reach USD 3,932.87 million by 2027 from USD XX million in 2020, at a CAGR of 40.8% during the forecast period (2021–2027)."
     publishedDateTime: 2021-05-31T19:38:00Z
@@ -55,6 +39,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
+  - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
+    excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-01T19:12:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-strong-quarterly-and-yearly-performance-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
 
 secured: "ZTyCK2ejAVG/LqdPIuYRThXLGf/wEvldKmM8e+UoP3/gAtqnhVj+3uuM1ClBX/xN2z6Jcs4xcsbu+v+zL8jKNcekjnbS5noNBNpe7a8HvNcXiuQzHrWYug+FLuZhZdx6LlxjIii6wIIFCwqY0HqCaeCsu0tc52KkOh33htdGYMn4ZoqZ2snnw7aDEbhWjeCBYPRDSHXm129tzVH9LP2mYvCmG0RBAfG7IYA8wSQt2P2qnyoiT5lCxo7/z4fVKTLkB7s8gh/dIM+gJ54c4HG2X6w7QAAZNNS8wKDcnyKVuGr6e1T8BqMy+0kDwoTalbCwBF8WQS47EXiXtPK9dLXNWu/EvWdq/tt6f2qpRkFtwTw=;aasAloj2F/h9rkGZH4SHVA=="
 ---

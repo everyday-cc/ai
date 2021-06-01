@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1440
         height: 1200
         isCached: true
+  - title: "Helping Parents and Children, WIMI AR+AI Teaching Mode Makes Learning Easier"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report \"Helping Parents and"
+    publishedDateTime: 2021-06-01T16:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21372085/helping-parents-and-children-wimi-ar-ai-teaching-mode-makes-learning-easier"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21372085"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21372085"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
 secured: "kP/4nsT8kI61KjUvAvs72YJVn20MHfFiPk/OlmqvMd9ZYoMu+vCRM+WBELlS/Wd3qDRTEbFj1EKRIaPxTuRUGiHZz4jWeudQGj/js0TVdxz7fTtYGTe8EtvZIDgRgZxLIbtUlKs1K2eOqOctUT/TFCzavaCicDFxXHrdNvc+96wft2EOe4iIglvynnUNA5YhIztlpDsG4GqFtPdSJjpH25hf2fI+S79z9OtvB21WbhkTUcTla3vVbEy7d8qiRYQiDlv2CiluK5GrNyuEBc6D2QKRDfnwbP8MP4VxSU3IgK59aA2x9xcKz9WcOFA1SHa3jTlMhYqbpD+ubDAxDlMjfd1Z3FCn/TbV21B89JckYPVz67U8DddzLNBkHtgKjgT77cXVaBRKgWeRn6guREU3UoiHsaQSdRXrkuI0xNzsdG9VW25+qTiu4Qg03MQPgfM/otW6uKe8MakmqOXoCqKCNiIIzvFDz8UU5EC9bWJ2htcdJ36emcnAkT5zE3u5eUv+qEZ3vnxssv9VMYsaXxltuA==;v5BviQjdFUNNz6riUZbJVw=="
 ---

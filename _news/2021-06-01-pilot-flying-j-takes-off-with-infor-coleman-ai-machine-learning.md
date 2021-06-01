@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Pilot Flying J Takes Off with Infor Coleman AI & Machine Learning"
-excerpt: "Infor, the industry cloud company, today announced that Pilot Flying J, a leading network of travel centers in North America, is using"
-publishedDateTime: 2021-06-01T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/pilot-flying-j-takes-off-with-infor-coleman-ai--machine-learning-301302125.html"
-webUrl: "https://www.prnewswire.com/news-releases/pilot-flying-j-takes-off-with-infor-coleman-ai--machine-learning-301302125.html"
+excerpt: "Infor, the industry cloud company, today announced that Pilot Flying J, a leading network of travel centers in North America, is using Infor Coleman Artificial Intelligence (AI) and Machine Learning (ML) to help boost its fuel margin accuracy to 99."
+publishedDateTime: 2021-06-01T13:15:00Z
+originalUrl: "https://www.tmcnet.com/channels/call-center-management/news/-pilot-flying-j-takes-off-with-infor-coleman-/2021/06/01/9381230.htm"
+webUrl: "https://www.tmcnet.com/channels/call-center-management/news/-pilot-flying-j-takes-off-with-infor-coleman-/2021/06/01/9381230.htm"
 type: article
-quality: 56
-heat: 56
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://images.tmcnet.com/channels/call-center-management/new/images/wp-right1.jpg"
+    width: 336
+    height: 280
     isCached: true
 
-secured: "b9ted5LqvywG1UJqWXgJy5CxbzcoUJSVWALVMO+zdjqBluOWk3AqDfdiSWaNGRTLD6BFVr7FdTXzhfgEQ608TYdfD/U/YbywbpnG0UBfYrHwkAOqW1TrKbE16+L0puItU9HJj0oSnSZelP28z6Hd20reh8GBvNmBQ0v7Gy+h/PnQR65HwEgDzhKrAsizC2WygK79L/1KmOD4IDLaOB8rjmduFsmJ0Hb1IZSIJPtZcgncx+kEs2ivmpJPOcNJQY8tyEOfJCBP+hbMq+PwJujPDXzmRDPc3EQjVIJDdCwiBNZmAS4PEPLxnRQgUzuf3+ixlfy8Gy1BmSrHqXJlA3scTqFoAyUm7U0Pi5e5NYHTF1A=;vaIJupSjAZhqPpXVh3iMmw=="
+secured: "I5nWCxWuUK5k4FaYWjPVQtS6sHGWaKxlzXkDqOGdMogVdXVKcBiHHBcKmsnWLKpvU2JPm0IBd3ywrvLogMTpE5Q16Xj1wkwGqXoPc3B35ljrmir91np/HGlHsmos+zZ71NCFzcF9sobUpd3KZa2Gyws6m3nWaRZrqGJssbDSoxmn83jreeBQ9xiAckdtk+iEHFS7cPuROn2Eg98GoW3WC3mlM34zCPFKOQrObgkw7p1QhjFwEZYFpqOHs6jqp5cfD6StmYNs8SH3zRmKOSB2lom5kPOHP5CBatEzkqHi5HFrrG1IGZcPnGMMIwIOQLOFeCD/kB2I7DcVAAE7Xeas+J0WuKOjQMSL75287IiySe8=;s+UGEggbkIXS0D+LlQi9/Q=="
 ---
 

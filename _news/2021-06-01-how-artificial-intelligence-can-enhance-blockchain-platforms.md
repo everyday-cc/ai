@@ -47,6 +47,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
+    excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration was overwhelming."
+    publishedDateTime: 2021-06-01T18:30:00Z
+    webUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894"
+    ampWebUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/women-in-fintech.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
     excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"
     publishedDateTime: 2021-06-01T09:55:00Z

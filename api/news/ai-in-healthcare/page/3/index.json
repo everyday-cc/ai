@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-06-eko-recognized-for-artificial-intelligence-innovation-in-healthcare-with-2021-medtech-breakthrough-awards.md",
-      "title": "Eko Recognized for Artificial Intelligence Innovation in Healthcare with 2021 MedTech Breakthrough Awards",
-      "excerpt": "Eko, a cardiopulmonary digital health company, today announced that it has been selected as the winner of the “Best Use of Artificial Intelligence in Healthcare” award in the fifth annual MedTech Breakthrough Awards program conducted by MedTech Breakthrough,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8231302/eko-recognized-for-artificial-intelligence-innovation-in-healthcare-with-2021-medtech-breakthrough-awards",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8231302/eko-recognized-for-artificial-intelligence-innovation-in-healthcare-with-2021-medtech-breakthrough-awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/media/e661fd3e-dcdd-4d95-8b84-30762b88237b/medium/best-use-of-artificial-intelligence-in-healthcare.png",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-06-a-possible-novel-migraine-therapy.md",
       "title": "A Possible Novel Migraine Therapy",
       "excerpt": "Findings suggest developing HDAC6 inhibitors could be a novel new therapeutic avenue for the treatment of migraines.",

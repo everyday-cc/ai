@@ -43,7 +43,18 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Helping Parents and Children, WIMI AR+AI Teaching Mode Makes Learning Easier"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report \"Helping Parents and"
+    publishedDateTime: 2021-06-01T16:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21372085/helping-parents-and-children-wimi-ar-ai-teaching-mode-makes-learning-easier"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21372085"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21372085"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
-secured: "5EAeYUqvn1BNvCbgDElEPkcgVmU886pH7u8D+RFLvXdgv/04n4ctO22VjnzWtODw5U2fTQm++K+7zfikgD0fv43c/4W/dDpa9KYMU26y61k57lq+rK1r9SrxqX9UuN/9sRN1Z0DX1vYEgVOyPw2BRJB2zmN/dJO9eGf7Kkz4YhPvLF3oj+Mrzc1ura5bBZIWLkDvyXhncJjKxyUtsHoma73ZUhE5iP5/s0KimaOcuaaqaeZWWB3dz+yW9aWoqLPp2F0VRtlS/UT8i8DxkVZfz12Iad59yZNHGkiXj1G0TsWchU+ner4pDV55Eimr1VJ1ywB3fj/KN2DMAye7vGlCPrT4dZmlH897IICMmUtBDh4=;tFdh/rnkXeAZRh8S4tb2qg=="
+secured: "2XAY3C33oM+RurLUAApo3g1y6tbqx4jHteySJhgO1fP1DxlqDFbOctHFr50XqSEHfmzt4dexd1DQPgw15E+EDjXcF/S40bl++Y6Xv1xCPvJwwrC3BOL5SZvVX3C37IsLq4cJ5IaCGiTFxw6Zu6yY91z4AsUY3eBBn4DJnYrN0JPKjYENYM43jvCOgOnan/49Wza2pwahoIG16JtuQQh70Bn0CLtii2M737N1/UsSvElTKVYc7od7+E8b9jAEPYYX99wtFGhhpCYtlFa8zEDuF3DvmG53TeOTlFybluy6fQLaQz/UmyDr5BUoiknfJDCiXP+n9Y6KipVjQUSLvKs/XP/JO6q4+tU7lC2n+JzvdnZwTKHp01Xa+QT03PinJG1kxT5GU2JomUwXEnBn39OEEGXo43PRBJY5gOZbU+xg2NoSGGLP22rvKYHI7VisIsNcDL/4d48MhrktQEpb+ZA5hmCTHLQB4BFToHKmUkiI2LeHxGgo7TWROLWRwsw4gN34iSM69ZbtI48fmYVClw9Y8g==;ss4mOO7LfwknHZIHUJ50Aw=="
 ---
 

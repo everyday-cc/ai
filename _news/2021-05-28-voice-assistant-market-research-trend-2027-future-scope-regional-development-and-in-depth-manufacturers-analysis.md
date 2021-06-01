@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
-    publishedDateTime: 2021-06-01T07:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Natural Language Processing Market Size, Key Players Analysis, Business Opportunity Assessment, And Comprehensive Growth Drivers Forecast Till 2024"
     excerpt: "Get a Sample PDF of Report -  Natural Language Processing Market competition is assessed by top manufacturers, with production, price, revenue (value), and market share for each manufacturer. It offers a complete evaluation of every area including the volume of the global Natural Language Processing market in that area in the estimated duration."
     publishedDateTime: 2021-05-28T05:42:00Z
@@ -87,6 +78,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
+    publishedDateTime: 2021-06-01T07:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "bCzP/EObZooZGzXKFC/OK4qbH58UEe3atWuGmOyBnWNFOTIsok3g2yYzP6YcQ3BQvAtWU4+M4OcQh7SGYJWnoGRj4kJznLiCq5p3YxfJDUX/4Rcdf0coxj+9RPVzRqdP/AL9uyIGzG0y/hM7U31F1bOlq+5q7WDOWVSbN47N/PNWku561YGdlvpmM7BaS95mzXW26xGtDhl8OfADjVzbLW/4E1//5fxSRK72X2DlxffPnv7Ofljma3c4fCCU4w5KBgRmivh3OHEHtjoOiYC7R0Cywpc1q1RtZ9PFr+18/VsZC9GJBdxynM58avkqIh3Iy+k2Jq7364F+obuAyL1ZsOwzq/nUmbmFNcKTUrdTg5w=;InvZ0RyO1+2XFcK/j4FvHQ=="
 ---

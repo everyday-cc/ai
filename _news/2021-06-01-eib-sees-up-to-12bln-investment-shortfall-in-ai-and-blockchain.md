@@ -49,6 +49,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
+    excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration was overwhelming."
+    publishedDateTime: 2021-06-01T18:30:00Z
+    webUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894"
+    ampWebUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/women-in-fintech.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "How artificial intelligence can enhance blockchain platforms"
     excerpt: "Artificial intelligence and blockchain are both touted as technologies that will lead our future. But here’s the problem: They’re like oil and water. While innovative in their own right, there’s a noticeable lack of interconnectedness — projects that tightly combine AI and blockchain,"
     publishedDateTime: 2021-06-01T15:00:00Z

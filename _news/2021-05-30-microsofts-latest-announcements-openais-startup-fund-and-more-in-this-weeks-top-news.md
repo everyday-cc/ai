@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft, GPT-3, and the future of OpenAI"
+    excerpt: "Elevate your enterprise data technology and strategy at Transform 2021. One of the biggest highlights of Build, Microsoft’s annual software development conference, was the presentation of a tool that uses deep learning to generate source code for office applications."
+    publishedDateTime: 2021-06-01T19:15:00Z
+    webUrl: "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/"
+    ampWebUrl: "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/d33209dd-b8cd-45f9-8721-b2f784f9ed3e-e1574362283724.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
     excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
     publishedDateTime: 2021-05-28T18:35:00Z
@@ -166,6 +182,22 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Microsoft's GPT-3 technology could soon write code using ordinary language"
+    excerpt: "A year after funneling $1 billion in OpenAI and gaining exclusive rights to GPT-3, Microsoft shared plans to bring the NLP tech to programming applications"
+    publishedDateTime: 2021-05-30T15:33:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 59
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l84720210527144028.jpeg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
     excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."

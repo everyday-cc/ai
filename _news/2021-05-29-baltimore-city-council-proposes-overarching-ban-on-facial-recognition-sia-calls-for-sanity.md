@@ -55,6 +55,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Final action expected on King County proposal to ban facial recognition software"
+    excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
+    publishedDateTime: 2021-06-01T15:31:00Z
+    webUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/"
+    ampWebUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 54
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-1149113711-e1622557116352.jpg"
+        width: 620
+        height: 370
+        isCached: true
   - title: "King County Council will consider prohibiting use of facial recognition technology"
     excerpt: "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information."
     publishedDateTime: 2021-06-01T01:43:00Z
@@ -71,17 +87,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "US Chamber doesn’t want facial recognition technology banned"
-    excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
-    publishedDateTime: 2021-05-28T01:39:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 39
 
 secured: "waZxl3rBCalBHtovqn38TDF+il7jtcVsShrHwOh9SPIDh0+V5l2CLuC2vjwcPpwcuiPDkiKKQ9r1SgBV+AF2Alw3FTo6oSDhDXC/LtjR31f9k/LQUnLBeQxnSglSF6Dfrk1ms3tCKSR8+vytjx1EiyAqbEf6+ZnDPPlBbM0swGahdeQbCJT94LPFZEf1sreKGNgFnDDLuPFbzAGCseQn0Wul8z9hRf1BHdhG0kzHpRLs4l2gZJOgXr+Sh3MI1FW7jAiiVbKgpsnC5iajFSOxALjdCt1LaGoP9TOEX1vTrdXIowKrjkTtxNRm3E8ryA2YxtLyHTraV4uDAEinHLnCoYvx4Q1pamJiUbZsqUnPp6xKYDBAMoile7zlv3I3hS8D3udLp6dcryx9nrvjDO5rh1YtlasHqnsa9Xne0PMPpCY7R9X8znhpI4k2qrKdVYZ5QVnSrQxGhFnnu9bUoW5zVNroER7f9++AGmvWtu542Ld5EDxWrWG/Ex3fZ6b3EOdI85YRWVvmqZXjNs8/ILz0PA==;ZNxZqJQzSNIAnogDhmJA2A=="
 ---
