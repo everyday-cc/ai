@@ -2,7 +2,7 @@
 name: "Neurala"
 overview: "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines."
 type: "profile"
-heat: 31
+heat: 42
 
 website: https://www.neurala.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "neurala"
   url: "https://twitter.com/neurala"
-  followers: 2063
+  followers: 2062
 
 size: 11-50 employees
 yearFounded: 2006
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-bQYzR5kARM"
 
-secured: "8o7ookEDFw7XRBHb6OdCDutl49e+yJDz3rtpIXsV3w5V7kZtVKkD7DrnEMA+6dp5IPH94sN3T9UHSU5wmcOVk6vnId16cWH81TlBWhqvw8sMh8epQbehOuPeGgv3re5nFfJwOPgu6ChgVBg3IQQGDfLEtUHe9xFhKRqNM0hCKsCl/SYhG09vaDXsBG0W+z8S1+uw35VmkVbH31IzMi47JbDH/8aeErMrHMSjnCpWZlCkz5ePLL/IBaF/acVfbqr72U1scWFb3RCNZIEWWEg0sxww0ObVbs4T0jnRxHr09MTBT0xzNVA/BlXfu0gMpaBv9PxDdTapDll9WQDG8XDJVq10ZSrZ2HafdCIzob4cIkOhQQ08ck7PBkusbXoyv7kt9ZXqLIwCY8gHQ7oLHwYXWq7nLNAQeEAH50E8WyiO1JA=;dPciQ5/WtyGG/DrSlhWtGA=="
+secured: "mPxAbnkcHU39agW6xr128u7b1AHw9lRRFf4ZotjlxUiWiwOae1++Xv1dzoy0B+Y/SVGI9j18f5OCE0ok7vaeGMz3Xgb7SWPGBLSN5t54avJOQHYvd80e627+rrbDqiHckVQS9PzhnHya7PN8UXEbVbBveyISug44BtJ5ldG7IeISZpyO4N5Wz6Xj7Y0aDaN0qgXFA7CfZ8tVq2ni1T+ShHxgVC10I2uuNGGU7ptyD6H8WRmu+WC6afRZ094/BhV8XNPxc/X04EnGKSuuEQCQBL90Rnuv0WlFZ37wX+5rsHtm1L0vbHu+6VrwOqYHHlBPg+hC5Gi4OOX0wHYpOH5flQKM/VI0Fv1alfuFfA+97HmVQOrrNnPJ5J8XlhQmb4sA+qHQbazMhkitDmsT++HUnv5rqqZvv7lMjR3YiTv2LZg=;r2Bj5L3RcQPj7aaxXSgZRw=="
 ---
 

@@ -4,7 +4,7 @@ otherNames:
   - "Microsoft Corporation"
 overview: "We’re on a mission to empower every person and every organization on the planet to achieve more."
 type: "profile"
-heat: 0
+heat: 436
 
 website: https://www.microsoft.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "Microsoft"
   url: "https://twitter.com/Microsoft"
-  followers: 9460672
+  followers: 9460934
 
 size: 10,001+ employees
 yearFounded: 1975
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Microsoft"
 
-secured: "OGwpIYfJQSK50opGZW+KQPQpubMtrdxgSYdK1d1GDhXNrg2d1nNj0AAdwwT1rWODSKWtfHFnNb3sNh3AutCz4JDwZqOAYrS4X6E2cogXEEdmzEbgqb2rQvG7pqrVlMnRIwGPne+fEXurBCbpsdfAVv0UvHlXT3LqTNtz1FEPj1TqEPGnSA6vGM+hyNENCGDDIp0jnSGeRBz9cXmj7nTMGycdk7mGRCjD73F34CnLWhsU0Piv4D+4Wc/MsAmQ6T0PkPhohgLtXUawX001bUMGjdC2MiuddOtyMQ0ARfs3LKPl93D6IRi3rUInfdmXl3wwcmP/xXD3RsdvKi1vNN7sjVmhV/jhw3H7d6viSn/Ix8BmngSqGvLmUIAhL961Z2oykTnpRbz53L9bxBA8HzVdBRKJjhNs1IODhBABC45cJgM=;u2nuSxphmQRDaRIBFrwhWQ=="
+secured: "4+7s7HvtUo0nOeoN3pFhr4NYnMlAG/9oX+ZcQFXF8mabkPVtc80znS6vol0Zw87BrXEtFt7uAsJaZle35x8S+lSEMNAa5RTgR9QXwRLEmWcC7/D0iWOq3U4tg68sM6oJoc6kljZPEnu9pRjC+c/PTf3p6aVQIeVoY0f9Zw+tPqX6H8jCRDpvczi7inH2TllNQqvrXpH9thSWBkuY+MTj/WrqyYKnNwJ25rgIQhbMoZNmGp+ZHeMYFfC0RlGpAdinz5rpkXjnW6Otia7LJ/uYQTFZ9JkSsgrBmMoO7cVuCn1Cfd1RGnql+i6IvyDL88nwaYhmipnKCKOdqJVDayyoKReCmZFOcoVNheFHwiiPrB9SQIhEXUWUSVq3Dvf9QGRZuwX+f1bSH6NVZAq7u/6PvuWF9QSXez9PqZbE5wfcwGU=;MGH2PZel21i4+dYQ/L29vA=="
 ---
 

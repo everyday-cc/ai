@@ -4,89 +4,33 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/five.ai.md",
-      "title": "FiveAI",
-      "excerpt": "FiveAI is developing the software to power shared, self-driving vehicle services in Europe.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/five.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/five.ai/",
+      "path": "_companies/preferred-networks.jp.md",
+      "title": "Preferred Networks",
+      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/preferred-networks.jp/index.json",
+      "webUrl": "https://everyday.cc/ai/company/preferred-networks.jp/",
       "type": "profile",
-      "name": "FiveAI",
-      "overview": "FiveAI is developing the software to power shared, self-driving vehicle services in Europe.",
-      "website": "https://five.ai/",
+      "name": "Preferred Networks",
+      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "website": "https://www.preferred-networks.jp/en/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/five-ai/",
-        "followers": 5412
+        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
+        "followers": 1435
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fiveai"
+        "url": "https://www.crunchbase.com/organization/preferred-networks"
       },
       "twitter": {
-        "username": "_FiveAI",
-        "url": "https://twitter.com/_FiveAI",
-        "followers": 3717
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Cambridge, Cambridgeshire"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Kza6RQ3vWT0"
-        }
-      ],
-      "heat": 31,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1333189310779187200/9t6wXFdu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "FiveAI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/neurala.md",
-      "title": "Neurala",
-      "excerpt": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/neurala/index.json",
-      "webUrl": "https://everyday.cc/ai/company/neurala/",
-      "type": "profile",
-      "name": "Neurala",
-      "overview": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
-      "website": "https://www.neurala.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/neurala/",
-        "followers": 3462
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/neurala"
-      },
-      "twitter": {
-        "username": "neurala",
-        "url": "https://twitter.com/neurala",
-        "followers": 2063
+        "username": "preferrednet",
+        "url": "https://twitter.com/preferrednet",
+        "followers": 5638
       },
       "size": "11-50 employees",
-      "yearFounded": 2006,
+      "yearFounded": 2014,
       "locations": [
-        "Boston, MA"
+        "Tokyo, Japan",
+        "Chiyoda-ku, Tokyo"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Robotics",
@@ -94,20 +38,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=-bQYzR5kARM"
+          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
         }
       ],
-      "heat": 31,
+      "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1295751627484405762/7zWWPBD2_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Neurala",
+          "title": "Preferred Networks",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHj-t_lzUSj7Q/company-logo_200_200/0?e=1594857600&v=beta&t=ATn4G31yQyk8l6qSKWyCAxsEEgo41rJgaQB9gd2ioEU",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -117,31 +61,26 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/drive.ai.md",
-      "title": "Drive.ai",
-      "excerpt": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/drive.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/drive.ai/",
+      "path": "_companies/cognitive.ru.md",
+      "title": "Cognitive Technologies",
+      "excerpt": "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cognitive.ru/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cognitive.ru/",
       "type": "profile",
-      "name": "Drive.ai",
-      "overview": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
-      "website": "https://www.drive.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/drive.ai/",
-        "followers": 10509
-      },
+      "name": "Cognitive Technologies",
+      "overview": "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps.",
+      "website": "https://www.cognitive.ru/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/drive-ai"
+        "url": "https://www.crunchbase.com/organization/cognitive-technologies"
       },
       "twitter": {
-        "username": "driveai_",
-        "url": "https://twitter.com/driveai_",
-        "followers": 9051
+        "username": "CognitivePilot",
+        "url": "https://twitter.com/CognitivePilot",
+        "followers": 1209
       },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
+      "yearFounded": 0,
       "locations": [
-        "Mountain View, CA"
+        "Tel Aviv-Yafo, Israel"
       ],
       "topics": [
         "AI",
@@ -149,50 +88,102 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=YJe8ELIU7_E"
+          "url": "https://www.youtube.com/watch?v=7SxXEfB5rTQ"
         }
       ],
-      "heat": 18,
+      "heat": 32,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/770501816685441024/X-rJxsyj_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1250883994868158465/SlWcqB4z_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Drive.ai",
+          "title": "Cognitive Technologies",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/voyage.auto.md",
-      "title": "Voyage",
-      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voyage.auto/index.json",
-      "webUrl": "https://everyday.cc/ai/company/voyage.auto/",
+      "path": "_companies/navya.tech.md",
+      "title": "NAVYA",
+      "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/navya.tech/index.json",
+      "webUrl": "https://everyday.cc/ai/company/navya.tech/",
       "type": "profile",
-      "name": "Voyage",
-      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "website": "https://voyage.auto/",
+      "name": "NAVYA",
+      "overview": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
+      "website": "https://navya.tech",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/18078448",
-        "followers": 4537
+        "url": "https://www.linkedin.com/company/navya_group/",
+        "followers": 15758
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voyage"
+        "url": "https://www.crunchbase.com/organization/navya-technology"
       },
       "twitter": {
-        "username": "voyage",
-        "url": "https://twitter.com/voyage",
-        "followers": 10166
+        "username": "NAVYA_Group",
+        "url": "https://twitter.com/NAVYA_Group",
+        "followers": 9045
       },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
+      "size": "201-500 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Palo Alto, CA"
+        "VILLEURBANNE, Auvergne Rhône-Alpes"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Af45fT7nrBA"
+        }
+      ],
+      "heat": 32,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1281262142952521729/pVAmt4Ko_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "NAVYA",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/starskyrobotics.md",
+      "title": "Starsky Robotics",
+      "excerpt": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/starskyrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/starskyrobotics/",
+      "type": "profile",
+      "name": "Starsky Robotics",
+      "overview": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
+      "website": "http://starskyrobotics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/starsky-robotics",
+        "followers": 2281
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/starsky-robotics"
+      },
+      "twitter": {
+        "username": "StarskyRobotics",
+        "url": "https://twitter.com/StarskyRobotics",
+        "followers": 914
+      },
+      "size": "11-50 employees",
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA (CA)",
+        "San Francisco, California (CA)"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -203,96 +194,131 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
+          "url": "https://www.youtube.com/watch?v=-fjy3iaiWFw"
         }
       ],
-      "heat": 3,
+      "heat": 32,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/835187208634060800/orva3Tpz_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Voyage",
+          "title": "Starsky Robotics",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aptiv/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aptiv/",
+      "path": "_companies/zendrive.md",
+      "title": "Zendrive",
+      "excerpt": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zendrive/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zendrive/",
       "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
+      "name": "Zendrive",
+      "overview": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
+      "website": "http://www.zendrive.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zendrive/",
+        "followers": 8236
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
+        "url": "https://www.crunchbase.com/organization/zendrive"
       },
       "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 17250
+        "username": "zendrive",
+        "url": "https://twitter.com/zendrive",
+        "followers": 2098
       },
-      "yearFounded": 0,
+      "size": "51-200 employees",
+      "yearFounded": 2013,
       "locations": [
-        "Dublin, Ireland"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
         "AI in Autos"
       ],
-      "heat": 0,
+      "heat": 20,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Aptiv",
+          "title": "Zendrive",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/uber.md",
-      "title": "Uber",
-      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/uber/index.json",
-      "webUrl": "https://everyday.cc/ai/company/uber/",
+      "path": "_companies/waymo.md",
+      "title": "Waymo",
+      "excerpt": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/waymo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/waymo/",
       "type": "profile",
-      "name": "Uber",
-      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "website": "https://www.uber.com/",
+      "name": "Waymo",
+      "otherNames": [
+        "The Google Car",
+        "Google self-driving car project"
+      ],
+      "overview": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
+      "website": "https://www.waymo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/waymo/",
+        "followers": 52188
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/uber"
+        "url": "https://www.crunchbase.com/organization/google-s-self-driving-car-project"
       },
       "twitter": {
-        "username": "Uber",
-        "url": "https://twitter.com/Uber",
-        "followers": 1051758
+        "username": "Waymo",
+        "url": "https://twitter.com/Waymo",
+        "followers": 66097
       },
-      "yearFounded": 0,
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2009,
       "locations": [
-        "Global"
+        "Mountain View, CA",
+        "Mountain View, California"
       ],
+      "funding": {},
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "Google AI"
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Uber",
+          "title": "Waymo",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/0?e=1594857600&v=beta&t=2gmVWfRzWXm_TA0O51VpuiSa3HylZVVKIOwJAVaqLD4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"

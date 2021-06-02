@@ -2,7 +2,7 @@
 name: "San Francisco AI Companies"
 overview: "List of AI companies in San Francisco."
 type: "collection"
-heat: 242
+heat: 256
 
 
 query: item.locations contains 'San Francisco, CA'

@@ -4,227 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/insitro.md",
-      "title": "Insitro",
-      "excerpt": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/insitro/index.json",
-      "webUrl": "https://everyday.cc/ai/company/insitro/",
-      "type": "profile",
-      "name": "Insitro",
-      "overview": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
-      "website": "http://www.insitro.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/insitro/",
-        "followers": 2353
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insitro"
-      },
-      "twitter": {
-        "username": "insitro",
-        "url": "https://twitter.com/insitro",
-        "followers": 2927
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "South San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 41,
-      "tags": [
-        "Biotech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1263571535463399445/ylMy1iIp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Insitro",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/lumiata.md",
-      "title": "Lumiata",
-      "excerpt": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lumiata/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lumiata/",
-      "type": "profile",
-      "name": "Lumiata",
-      "overview": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
-      "website": "http://www.lumiata.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/lumiata",
-        "followers": 2608
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lumiata"
-      },
-      "twitter": {
-        "username": "Lumiata",
-        "url": "https://twitter.com/Lumiata",
-        "followers": 1094
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=1uxjtyJdxbU"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1258149706590334977/SYwr_9wT_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Lumiata",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGVE82mwAXfog/company-logo_200_200/0?e=1594857600&v=beta&t=3cC6ya_XrTzzMu6c2KHPZQ-VKjYq5e-NlrtFpPd-9nA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/recursionpharma.md",
-      "title": "Recursion Pharmaceuticals",
-      "excerpt": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/recursionpharma/index.json",
-      "webUrl": "https://everyday.cc/ai/company/recursionpharma/",
-      "type": "profile",
-      "name": "Recursion Pharmaceuticals",
-      "overview": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
-      "website": "https://www.recursionpharma.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/recursion-pharmaceuticals",
-        "followers": 6053
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
-      },
-      "twitter": {
-        "username": "RecursionPharma",
-        "url": "https://twitter.com/RecursionPharma",
-        "followers": 4383
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Salt Lake City, Utah"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/925897897165639683/jI8YvBfC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Recursion Pharmaceuticals",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/winterlightlabs.md",
-      "title": "Winterlight Labs",
-      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/winterlightlabs/index.json",
-      "webUrl": "https://everyday.cc/ai/company/winterlightlabs/",
-      "type": "profile",
-      "name": "Winterlight Labs",
-      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "website": "https://winterlightlabs.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/winterlight-labs/",
-        "followers": 553
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/winterlight"
-      },
-      "twitter": {
-        "username": "winterlightlabs",
-        "url": "https://twitter.com/winterlightlabs",
-        "followers": 816
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Toronto, Ontario"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning",
-        "AI in Healthcare"
-      ],
-      "heat": 41,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Winterlight Labs",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/clarifyhealth.md",
       "title": "Clarify Health Solutions",
       "excerpt": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
@@ -263,7 +42,7 @@
           "url": "https://www.youtube.com/watch?v=j4LXE1HWZBk"
         }
       ],
-      "heat": 31,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/875390228067778561/DJQqpFAE_400x400.jpg",
@@ -283,57 +62,108 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/enlitic.md",
-      "title": "Enlitic",
-      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
-      "webUrl": "https://everyday.cc/ai/company/enlitic/",
+      "path": "_companies/currenthealth.md",
+      "title": "Current Health",
+      "excerpt": "The Current Health universal patient management platform combines our FDA-cleared continuous, wireless wearable, an ecosystem of device integrations and advanced analytics to help physicians and patients make earlier decisions that avoid admission and improve health.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/currenthealth/index.json",
+      "webUrl": "https://everyday.cc/ai/company/currenthealth/",
       "type": "profile",
-      "name": "Enlitic",
-      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "website": "https://www.enlitic.com/",
+      "name": "Current Health",
+      "otherNames": [
+        "Snap40 Limited",
+        "snap40"
+      ],
+      "overview": "The Current Health universal patient management platform combines our FDA-cleared continuous, wireless wearable, an ecosystem of device integrations and advanced analytics to help physicians and patients make earlier decisions that avoid admission and improve health.",
+      "website": "https://www.currenthealth.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/enlitic/",
-        "followers": 3397
+        "url": "https://www.linkedin.com/company/currenthealth/",
+        "followers": 2873
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/enlitic"
+        "url": "https://www.crunchbase.com/organization/current-health"
       },
       "twitter": {
-        "username": "enlitic",
-        "url": "https://twitter.com/enlitic",
-        "followers": 4717
+        "username": "HeyCurrent",
+        "url": "https://twitter.com/HeyCurrent",
+        "followers": 1573
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2015,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "New York, NY",
+        "New York, New York"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
-        "AI in Healthcare",
-        "Computer Vision",
-        "Natural Language Processing"
+        "AI in Healthcare"
       ],
-      "heat": 31,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=gPZa-lS56Ak"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1084528882236178432/ygW2U0cI_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Current Health",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/fdna.md",
+      "title": "FDNA",
+      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fdna/index.json",
+      "webUrl": "https://everyday.cc/ai/company/fdna/",
+      "type": "profile",
+      "name": "FDNA",
+      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "website": "https://www.fdna.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/fdna",
+        "followers": 1151
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/fdna-inc"
+      },
+      "twitter": {
+        "username": "FDNA",
+        "url": "https://twitter.com/FDNA",
+        "followers": 6394
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Boston, MA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
+        }
+      ],
+      "heat": 42,
       "tags": [
-        "Image Recognition",
         "Cancer"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Enlitic",
+          "title": "FDNA",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -378,13 +208,350 @@
           "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
         }
       ],
-      "heat": 31,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
           "width": 400,
           "height": 400,
           "title": "GNS Healthcare",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/labgeni.us.md",
+      "title": "LabGenius",
+      "excerpt": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/labgeni.us/index.json",
+      "webUrl": "https://everyday.cc/ai/company/labgeni.us/",
+      "type": "profile",
+      "name": "LabGenius",
+      "overview": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "website": "http://www.labgeni.us/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/labgenius/",
+        "followers": 2073
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/labgenius"
+      },
+      "twitter": {
+        "username": "labgeni_us",
+        "url": "https://twitter.com/labgeni_us",
+        "followers": 2345
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "London, UK"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wy1AobL6x44"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/847433339883499528/nc0fcnVR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "LabGenius",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGBR3Rh4HTaeg/company-logo_200_200/0?e=1594857600&v=beta&t=80aKsG_ar1rvSb5D4EEZlyzv_D4upOEsVzHI170r7T4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/flatiron.md",
+      "title": "Flatiron Health",
+      "excerpt": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/flatiron/index.json",
+      "webUrl": "https://everyday.cc/ai/company/flatiron/",
+      "type": "profile",
+      "name": "Flatiron Health",
+      "overview": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
+      "website": "https://flatiron.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2682361",
+        "followers": 21595
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/flatiron-health"
+      },
+      "twitter": {
+        "username": "flatironhealth",
+        "url": "https://twitter.com/flatironhealth",
+        "followers": 10379
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "New York, NY",
+        "New York, New York"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=AishSTITOq4"
+        }
+      ],
+      "heat": 32,
+      "tags": [
+        "Cancer"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1399804982434672645/aIfq4lso_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Flatiron Health",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEhAJpV71WHPw/company-logo_200_200/0?e=1594857600&v=beta&t=_i9wKp3TiVbAp5FVc1byaHD1yWtTF2u0dIviStlUAlk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/foodvisor.io.md",
+      "title": "Foodvisor",
+      "excerpt": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/foodvisor.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/foodvisor.io/",
+      "type": "profile",
+      "name": "Foodvisor",
+      "overview": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "website": "http://www.foodvisor.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/foodvisor/",
+        "followers": 1553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/foodvisor"
+      },
+      "twitter": {
+        "username": "foodvisor_app",
+        "url": "https://twitter.com/foodvisor_app",
+        "followers": 1194
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Paris, Ile de France"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=H77GQBirQkM"
+        }
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/805813676926205953/s_f8nCWI_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Foodvisor",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/maxq.ai.md",
+      "title": "MaxQ AI",
+      "excerpt": "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/maxq.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/maxq.ai/",
+      "type": "profile",
+      "name": "MaxQ AI",
+      "otherNames": [
+        "MedyMatch Technology"
+      ],
+      "overview": "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights.",
+      "website": "https://maxq.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/medymatch-technologies/",
+        "followers": 1260
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/medymatch"
+      },
+      "twitter": {
+        "username": "maximumqai",
+        "url": "https://twitter.com/maximumqai",
+        "followers": 468
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Tel Aviv-Yafo, Israel"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KlK9C4s1lvo"
+        }
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1151589543222620160/QsHz1RLQ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "MaxQ AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/C4D0BAQGR7mB_vul_hw/company-logo_400_400/0?e=1582761600&v=beta&t=JlYSP6pjXWrdalCmE8Z0PdC--8CZAD-_WDu0Ynkb4WU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sophiagenetics.md",
+      "title": "Sophia Genetics",
+      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sophiagenetics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sophiagenetics/",
+      "type": "profile",
+      "name": "Sophia Genetics",
+      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "website": "https://www.sophiagenetics.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/sophiagenetics/",
+        "followers": 25618
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sophia-genetics"
+      },
+      "twitter": {
+        "username": "sophiagenetics",
+        "url": "https://twitter.com/sophiagenetics",
+        "followers": 21788
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Switzerland",
+        "Saint Sulpice"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
+        }
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sophia Genetics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aidoc.md",
+      "title": "Aidoc",
+      "excerpt": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aidoc/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aidoc/",
+      "type": "profile",
+      "name": "Aidoc",
+      "overview": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
+      "website": "http://aidoc.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aidoc-inc/",
+        "followers": 57
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aidoc"
+      },
+      "twitter": {
+        "username": "aidocmed",
+        "url": "https://twitter.com/aidocmed",
+        "followers": 2025
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2008,
+      "locations": [
+        "Los Angeles, CA",
+        "Richmond Hill, Ontario"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=r3g_VCI2B4U"
+        }
+      ],
+      "heat": 20,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aidoc",
           "isCached": true
         }
       ],
@@ -449,133 +616,32 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/lifebit.ai.md",
-      "title": "Lifebit",
-      "excerpt": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lifebit.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lifebit.ai/",
+      "path": "_companies/cyclicarx.md",
+      "title": "Cyclica",
+      "excerpt": "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cyclicarx/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cyclicarx/",
       "type": "profile",
-      "name": "Lifebit",
-      "overview": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
-      "website": "https://lifebit.ai/",
+      "name": "Cyclica",
+      "overview": "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision.",
+      "website": "https://cyclicarx.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/lifebit-ai/",
-        "followers": 900
+        "url": "https://www.linkedin.com/company/2620666",
+        "followers": 2261
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lifebit-ai"
+        "url": "https://www.crunchbase.com/organization/cyclica"
       },
       "twitter": {
-        "username": "lifebitAI",
-        "url": "https://twitter.com/lifebitAI",
-        "followers": 4098
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "London, UK",
-        "London, London"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=aycHy_axa_Q"
-        }
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1397208269240799237/H3r7o2kv_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Lifebit",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQG6jiqJ2o5gmg/company-logo_200_200/0?e=1594857600&v=beta&t=oQdN7yi0p9muTqdn256inMB-A-4Y-Cbq2UnB0kwW5d0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/skychain.global.md",
-      "title": "Skychain Global",
-      "excerpt": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/skychain.global/index.json",
-      "webUrl": "https://everyday.cc/ai/company/skychain.global/",
-      "type": "profile",
-      "name": "Skychain Global",
-      "overview": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
-      "website": "https://skychain.global",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skychain-global"
-      },
-      "twitter": {
-        "username": "skychainglobal",
-        "url": "https://twitter.com/skychainglobal",
-        "followers": 2565
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=npQklriczNA"
-        }
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Skychain Global",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/fdna.md",
-      "title": "FDNA",
-      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fdna/index.json",
-      "webUrl": "https://everyday.cc/ai/company/fdna/",
-      "type": "profile",
-      "name": "FDNA",
-      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
-      "website": "https://www.fdna.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/fdna",
-        "followers": 1151
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fdna-inc"
-      },
-      "twitter": {
-        "username": "FDNA",
-        "url": "https://twitter.com/FDNA",
-        "followers": 6394
+        "username": "cyclica",
+        "url": "https://twitter.com/cyclica",
+        "followers": 1218
       },
       "size": "11-50 employees",
-      "yearFounded": 2011,
+      "yearFounded": 2013,
       "locations": [
-        "Boston, MA"
+        "Toronto, ON, Canada",
+        "Toronto, Ontario"
       ],
       "topics": [
         "AI",
@@ -583,79 +649,24 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
+          "url": "https://www.youtube.com/watch?v=UHArUciCDH4"
         }
       ],
-      "heat": 0,
-      "tags": [
-        "Cancer"
-      ],
+      "heat": 6,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1346162837165584385/QFGdDwR2_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "FDNA",
+          "title": "Cyclica",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEeqnDcOiRZjw/company-logo_200_200/0?e=1594857600&v=beta&t=_UW_wK1qFOVieLjIDNCcSSlAfpopXdm5rltlfFxaexc",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sophiagenetics.md",
-      "title": "Sophia Genetics",
-      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sophiagenetics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sophiagenetics/",
-      "type": "profile",
-      "name": "Sophia Genetics",
-      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "website": "https://www.sophiagenetics.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sophiagenetics/",
-        "followers": 25618
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sophia-genetics"
-      },
-      "twitter": {
-        "username": "sophiagenetics",
-        "url": "https://twitter.com/sophiagenetics",
-        "followers": 21788
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Switzerland",
-        "Saint Sulpice"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
-        }
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sophia Genetics",
-          "isCached": true
         }
       ],
       "content": "\r\n"
