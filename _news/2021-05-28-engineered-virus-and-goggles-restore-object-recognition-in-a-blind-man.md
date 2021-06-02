@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/science/2021/05/forget-vr-goggles-and-gene
 webUrl: "https://arstechnica.com/science/2021/05/forget-vr-goggles-and-genetic-engineering-restore-some-sight/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 70
+published: true
 
 provider:
   name: Ars Technica

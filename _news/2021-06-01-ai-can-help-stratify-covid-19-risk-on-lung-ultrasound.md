@@ -147,6 +147,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
+    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
+    publishedDateTime: 2021-06-02T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Machine Learning Predicts Dialysis, Death in COVID-19 Patients"
     excerpt: "Researchers have developed a machine learning model that uses predictive analytics to detect risk of dialysis or death in COVID-19 patients."
     publishedDateTime: 2021-06-01T17:00:00Z

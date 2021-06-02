@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/relativity-acquires-text-iq-t
 webUrl: "https://www.cioapplications.com/news/relativity-acquires-text-iq-to-strengthen-its-position-as-a-leader-in-artificial-intelligence-for-ediscovery-compliance-and-privacy-nid-7851.html"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 450
     height: 308
     isCached: true
-
-related:
-  - title: "Relativity acquires Text IQ to augment AI platform for lawyers"
-    excerpt: "Relativity acquires Text IQ to drive AI technologies deeper into a platform law firms employ to reduce discovery time and effort."
-    publishedDateTime: 2021-05-28T13:20:00Z
-    webUrl: "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/"
-    ampWebUrl: "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/relativity-textiq-ancmnt_1500x750.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "LTYXueryG67b5qWohHqn0oUKXyJnafyE/lkUFV4xYJBGo2hvuGVhmb+q05fLtYORbKDmU7t6cYRhVQfteALt5oWxQdKkdx9ls3MXcI94Zbcbwgadzup2+U8a978yj0L65zW7P92XjUNobdj7givp5v/dVFEwrw52TXUpY1NDNJFyg5Jy3h/NjAXSVXrOg+3b0td1NTf4U4BQyrJ51wt7AT7unkoZYLqJ2Yj9U3vvO4IuJDTCPZmIRbYohS6si2PO8lA/jfUKSht08fMl1z3H3dH8qBB6fmIcRRZbyJJY51bUT22t/S6WrV5iTrVJuJn1shnGAnaFIEJndppFGIlPZiFn6g8x5J8UM10zA8bm93qK6pn4GU6Aa2+9qm1h/42Uo2w398qgK6EFZzJVHRDE/kxwEZ37k0/zN3tbd7jyr+7zaDN2fQLWH13cAJaFwnivlDv9QA6WoN0FBKiKGh8L82KV2hME3bccl1WaJaRN666ixlmsVakdNefjlipTBUZPWTrEaZOZR28ztykqgp9d9w==;oJusMRC+oZrpM5bUiXT/EQ=="
 ---

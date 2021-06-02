@@ -24,6 +24,17 @@ images:
     height: 304
     isCached: true
 
+related:
+  - title: "Canon EOS R3 to have motorsports AF, oversampled 4K video"
+    excerpt: "Canon has revealed more specifications of the widely anticipated EOS R3 mirrorless camera including that it will have motorsports AF"
+    publishedDateTime: 2021-06-02T06:37:00Z
+    webUrl: "https://camerajabber.com/canon-eos-r3-to-have-motorsports-af-oversample-4k-video/"
+    type: article
+    provider:
+      name: camerajabber.com
+      domain: camerajabber.com
+    quality: 4
+
 secured: "0g1zXzaeRdT4Jngf8wadGA0Oh9sTsfq0POcffHc3reHVq5aDaFoE12lm1ZCEzf1EdtCBzIy193BJ3+1F5KVk7f4s26UKdzysbHUCt8eRyjGNegZepEJ3BuHwF7YnZLZ7F9v90ZeHBl+K6gLQmwsv+QkiDMS1aCMsxhGO1ptCAtrR4E2ezpI1OdAqTJrg+kpOLNX/FMWxOH93MOaCyTTn1a4OiqnyeK/ta44ScrNPNvwkT1ZeRZnnjLnOHhl7h+kWXnU/57nx2sd8PLnZdJcqLMpOKZVseR9rDtucgW9iRjbr5668B9VDKIbXz/TfqroE2yUUmu3bYAniddH3xH20EQ2A/xvHqU/Z9rH6u10k4AY=;qJrkDWFO+VKJUCdjk7JXxA=="
 ---
 

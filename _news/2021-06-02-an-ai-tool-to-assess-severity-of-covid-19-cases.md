@@ -1,32 +1,46 @@
 ---
 category: news
-title: "New AI tool to help doctors assess severity of COVID in patients"
-excerpt: "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree"
-publishedDateTime: 2021-05-29T07:56:00Z
-originalUrl: "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
-webUrl: "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
-ampWebUrl: "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
-cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+title: "An AI Tool To Assess Severity Of COVID-19 Cases"
+excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
+publishedDateTime: 2021-06-02T06:30:00Z
+originalUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
+webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
 type: article
-quality: 59
-heat: 179
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Madhyamam
-  domain: madhyamam.com
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
-  - AI in Healthcare
+  - Google AI
   - AI
 
 images:
-  - url: "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg"
-    width: 600
-    height: 298
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
+  - title: "New AI tool to help doctors assess severity of COVID in patients"
+    excerpt: "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree"
+    publishedDateTime: 2021-05-29T07:56:00Z
+    webUrl: "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    ampWebUrl: "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    type: article
+    provider:
+      name: Madhyamam
+      domain: madhyamam.com
+    quality: 59
+    images:
+      - url: "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg"
+        width: 600
+        height: 298
+        isCached: true
   - title: "Novel AI tool to help assess Covid severity"
     excerpt: "\"Assessing the severity of a patient with Covid-19 is a critical step in the clinical workflow for determining the best course of action for treatment and care, be it admitting the patient to ICU, giving a patient oxygen therapy,"
     publishedDateTime: 2021-05-29T09:38:00Z
@@ -134,20 +148,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
-    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
-    publishedDateTime: 2021-06-02T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Machine Learning Predicts Dialysis, Death in COVID-19 Patients"
     excerpt: "Researchers have developed a machine learning model that uses predictive analytics to detect risk of dialysis or death in COVID-19 patients."
     publishedDateTime: 2021-06-01T17:00:00Z
@@ -202,6 +202,6 @@ related:
       domain: medindia.net
     quality: 24
 
-secured: "57R5FWOSZJrl2zUHqhLALNfpvyxlMtXfgefIQTrXNvjGUfeDdUvWlaGHo/UKadNRFZYZsyK8BrnOHgaNr+csl/lxm6nuGljM+VGkYCtR9s0dfcTvb531junoRXyCvlMU9Mo7JOAQkBeD1/Vd5Hf9GD6WzreTKVAoDbMVBLWv4SMwjjoT75ZaWXLtf5IFEh6mLfNwCHkFgfj6yvWD+xR6SAYqO4vTBYt5dlUM7h4psBCdhE9qhnR6MBKnYqTJbtm/2IbNOgqt47+KgEipKm5pyoSDqJkfi/gFUwuVp3WX0Irka2+dtXcSx2SzVW8rLHJTm73hYHUoNFiim3NydP667RMOJUINbHdwHKPmfINYVu4JRM7Z9Uq6hnqLsEOJ2yAV7iy2yR6ZglMGGUMWQeqCGkknzZbVx07kCkuw0lrqUKzGlazhKlQgfbBm0aFW//KvamCJhn3rDXIapllkk1J61GeFRmFb26f+bfQRLXDXDrkx+X/4GTnQnnmw6rB6MWFBlBzb/zlLBztxVwmU4DN6qw==;N8UlPfawcuIEXeHzuGlfFQ=="
+secured: "1hc7eaLKjZ762ddC+uABmAfI5R2bPSmjP4s3thxnHMYpiwbLu0jMp1mB6+quKovPnFE6EPKdz5cwdYwfSN8proER8bXP5fBJSheWkmurpEm1fVtPzOwbs5R5wjzekwLf7RgkEczWi2rS156SCb9zBT/wZd9natINrr7iphBxLhN4jkinEn2oStpKGwjBHAuLA/45CwH4W0Xr86AhOiF//VSn32/wTq+EUHuXeF/+mUAoGSsSHdIvyQkWmZW71sRXjOqdUPIYuay2R0/ecFky0AiPQ+ijUEMMS3wXskAKSA1QFbNYNsnSTLpB/byX+lspPsg5W4oatLNcqg3WmrKftgJX222ri9oWocS8ZNHQGW0=;wVrXNJvCpBhBa7OtV0f2Ew=="
 ---
 

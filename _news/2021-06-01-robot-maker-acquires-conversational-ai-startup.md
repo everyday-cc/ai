@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/robot-maker-acquires-conver
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-maker-acquires-conversational-ai-startup/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Relativity acquires AI startup"
-    excerpt: "Two months after landing an investment from Silver Lake at a $3.6 billion valuation, Chicago tech company Relativity has acquired an artificial intelligence startup that helps organizations identify sensitive data."
-    publishedDateTime: 2021-05-28T14:18:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2021/05/28/relativity-acquires-text-iq.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "njJjeXrrEZNW9JwMP4N7wRBaOY+NUFTnxhw9VB3ulNWFCjYqpQ1gXBXQZkSPO9UW+TxbNuLZcXXhe61zPbdBSTzHnMnDgj6hVm8y3NRbxVI02eKZbuIk2Ubb9l4rI6QhElYvjRkavZQs3GCibfHR8RgVHwvCuAUw1nDCbLGDrybn8b485qZFT8QFl7c0nqWnw77I+ggxxqaDjwAeURIgEzVTV2ND/DicKXIlIlSeoviogY+YqT3sUG/4hAuXNojSr1PSfnUWt72KhAjGzODCG7yqZVSDmfX4yV7OcZ8wm6zy+nJN+nrwYjqytCM/FAWcQ4t0yqKEval9Rx6S3EEP9c6gEH5rrDabZC6oB5gG7jI=;tfScYuCqpvg3jyWkLFXaBg=="
 ---

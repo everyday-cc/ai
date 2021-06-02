@@ -148,6 +148,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
+    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
+    publishedDateTime: 2021-06-02T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "DOST-assisted startup offers AI tool to cut electricity costs"
     excerpt: "Filipino business owners can save money by reducing their electricity bills with the use of a locally developed smart energy analytics platform, the Department of Science and Technology (DOST) announced recently."
     publishedDateTime: 2021-05-29T16:12:00Z

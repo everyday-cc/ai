@@ -22,20 +22,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science"
-    excerpt: "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,"
-    publishedDateTime: 2021-05-28T14:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Monitors Outbreak by 2027 | Microsoft, NVIDIA Corporation, IBM, Atomwise"
     excerpt: "The global Artificial Intelligence (AI) in Drug Discovery Market is projected to reach USD 3,932.87 million by 2027 from USD XX million in 2020, at a CAGR of 40.8% during the forecast period (2021–2027)."
     publishedDateTime: 2021-05-31T19:38:00Z
