@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined"
-publishedDateTime: 2021-06-01T13:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners-301302939.html"
-webUrl: "https://www.prnewswire.com/news-releases/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners-301302939.html"
+excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+publishedDateTime: 2021-06-01T13:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visa-s-clients-and-partners-1030482467"
+webUrl: "https://markets.businessinsider.com/news/stocks/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visa-s-clients-and-partners-1030482467"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1522911/Fintel_Connect_Visa_Ready_Logo.jpg?p=facebook"
-    width: 1120
-    height: 586
-    isCached: true
 
 related:
   - title: "Visa (V) Expands Reach of Fintech Partner Connect Program"
@@ -106,6 +104,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "/fj8wM7dTs7g+SssmkYH14JTOd4PrJpGuBbGYdZw/MOsvkGR0r0dpoYV0QLSbUFHl9y9LNk/NJ3vcd6K+kNMMDSP9RV7IYXqY5757wB6LwGNPUrloEqFj4GSTjPz1p1X3PaTdOXhsze9Kp8TQ+ngJs/YZYoFEO0ysEMCHcditcEpdYFjU+td76SAdxHCg9yagIUpx39BF7KCA6rhUwWp+YDACJWzJ4edpKuwLe6CtR2OuV3/41HIPrmsSurPohQ6g1TqPSuD/dcH/Es5aS1eLUdOQqeK4s3TT8IrAdcDMBVqEy3jBz1IlDUXkR6ZvFEdsxOEU+0YftbocHbpCI8SHsIqbT9BggKZ1jcsUWQrXbVjsrql5P8sV9dG54D8ihgYzCTQbN4KE0c7K3ydm0gawJlLIt5QuLv4v1UQWb1k1RrkcCUX5oC2AyDH8eEveBPU9sRtjmka8jcrUsCJswCG8H1CJVgAHTq2P9Dp072iOozsAvWVgLHMmHYkh6LcrKNnQvVD3SmPKWULxTtRtnn2Wg==;5UXI8XN/dOEGGfYvm6S2kg=="
+secured: "xrXWiz/OU7+HsOWKz0WeF7Swh/3lzlOHl2Lgx8gr/W7gg7I/XNNQMOp9xbCWMts+W+jvrC0AhDotRfdbtlqbK13ErbCJAizdUIzWIA2YrU8x8lEAv9J5rvwEMkxkfAHhUoqzu6kDnbJVCkRnNEisTlPMy6haCtijlBx7o9yP9tD295/2PtCdUCbUzXA44BjZx5CQj3Ce8oSrE8NW/jdCFobYsqFT/LbVIzmmV+Jl4e3QWaUxbaKQC3kiJL3ld8/PUS2IvUmb8PFXtJYB88w3LYaEIOzunhwQtJ/+S8sEqLVH3iO57xTeDevZ5X8ZDnNY/xpuv9+tccjls9XaZyoCRhPQdSUjjoVlxJoCipl9+hI=;z48WWOES5ebxDC2XYHeOMQ=="
 ---
 

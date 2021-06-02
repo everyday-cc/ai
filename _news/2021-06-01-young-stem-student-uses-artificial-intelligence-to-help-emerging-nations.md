@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-stu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 369
     isCached: true
-
-related:
-  - title: "New tool uses AI technology to assess the severity of lung infections and inform treatment"
-    excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
-    publishedDateTime: 2021-05-28T07:10:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-tool-ai-technology-severity-lung.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 29
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/helping-doctors-manage.jpg"
-        width: 685
-        height: 431
-        isCached: true
 
 secured: "0PYYO6efRU/VcAykuGxZjH71ut6vGJ/tRlItMKSK8bpoamJEkrVq8jrdY+UUz1B9buPet7vuerhmZAZVTuIlAEBVoy6/NMSo9P5izwjbTn+XEgKIbqzg9jdRyD7e0biqFmPjcZwZgJsfge1CS1lldxS+tm/zwN4BuyYdjnZcWPXcKHJtVuVksum/Jegx43YYc94aXRsR0ElP0UtqhNzKAinSgmyhdQ4J2AayNLbGQ3dCwp3PGAxoOQWxZvcOr0nGpuS6IUJ7jfXfNsq2iQ8ddfmI5Tu9g+SLzhLwzlapVHFy/1bzE6HEyvZlESVJaclyX9T5ntExXi00iuOmUNVymi7L9n9k8znGuGoctYoh8HZP0WswaV8Ze6gIk78qe6smFCe9mmN1v05FORFCkX1UGnNdnWh4VAEV5SZSs7xPPywbzm4TXKJuEzmkZ3/ZKO4iSW/Vbivj4nK34PaaZT/ih0zlX8rVwpBPHLubClEmR0eWqzqqUp3xFQ1/ekqCsU3dM1Hbzi+m1DInZK0FWoxdlg==;U0U2/5gFhdBySFWLiwtJFQ=="
 ---

@@ -1,21 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
-excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
-publishedDateTime: 2021-06-01T07:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at"
+publishedDateTime: 2021-06-01T07:35:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc/article_6294307b-9449-5d9d-a735-d1debdfaf4bd.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc/article_6294307b-9449-5d9d-a735-d1debdfaf4bd.html"
 type: article
-quality: 21
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Robotics
   - AI
   - AI in Healthcare
 
@@ -74,6 +73,6 @@ related:
       domain: openpr.com
     quality: 24
 
-secured: "7GRHf/wtgzaFB4Vx+RlDFyxg6d2hQwYajWRNslspo9+c+LRF+lbqVA8/mPg4wyXGIs7z3IKDt+aVM0Aw2FRObeBSigX9H2BM7o++/OYyN9klFUzeDsRdu85NrwgjFayg6ONKivGd/eD/3Jz2h7hSHRyxmJh1t5mUgji+PRdhhKgVvnEoxJGqmcwgyfezKuVPnSqNOQhgc/3+mZLWFETbs8Z/JWKNA7kWmurUANj6kvhkdlU6TmKcQ9QBu9LAQ01DSKcWaRVPZ163sz4rhwDjxJq35LK/tS2NHSG8p7VYR7/b+2bCgl42rh7L0VvTnJ9reU4ocZ2GXYQlHGxEPesbFOy0DRdSIvUyQxTw5vBznYM=;GWUyX1xR40ZyJQ/BeWvrZA=="
+secured: "XiwdYaflSmPrTdkgQHl3gGs+yLpGDVS9tgCWmcy9wuktS8b0MqtJsPDd3Ob/dzsxrjo5Ayjj0vEYS5/f5T747hDjETU+synnujf16h1T/ezgh+hGp/W240xORqiAhDstVlDmbkpdI/AMP95hw7mmtkJRf0sOpw0DNmTQumNA1F+0TS8NoilUH79XuJIIGaFx78gnENryiD3GgE+kNu/UEbHgt3cRtfK9JV+VrRe+cOAPK1QpZjZy9nna29RhIIxcGezVdw4PmRCgknWPQJJDRIjkXJqEDzf5/w6ZulrRFlWkP321Jc5GyOhbEubJ6xucmwXzgJO63ED/ihmuHvmQdAEjbGz1a3qH0ApQT+qa8aQ=;JokuDRpT9ZM/ceIsAWmspg=="
 ---
 

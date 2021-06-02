@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-14-top-5-most-controversial-scandals-in-ai-and-big-data.md",
+      "title": "Top 5 Most Controversial Scandals in AI and Big Data",
+      "excerpt": "Hi-tech companies, who invest huge funds on managing and examining real-time data explosion, have experienced the most scandalous controversies in the history of AI and Big Data, which take years to s",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-5-most-controversial-scandals-in-ai-and-big-data/",
+      "originalUrl": "https://www.analyticsinsight.net/top-5-most-controversial-scandals-in-ai-and-big-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Top-5-Most-Controversial-Scandals-in-AI-and-Big-Data.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-waymos-case-against-uber-sent-by-judge-to-us-prosecutors.md",
+      "title": "Waymo's Case Against Uber Sent by Judge to US Prosecutors",
+      "excerpt": "Waymo CEO John Krafcik debuts a customized Chrysler Pacifica ... Or you’re preparing students for a future where artificial intelligence, smart machines, and digital competencies will predominate: Would you channel everyone into four-year universities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/leadership/corporate-responsibility/article/22016399/waymos-case-against-uber-sent-by-judge-to-us-prosecutors",
+      "originalUrl": "https://www.industryweek.com/leadership/corporate-responsibility/article/22016399/waymos-case-against-uber-sent-by-judge-to-us-prosecutors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2019/04/industryweek_21615_gavel_t.png?auto=format&fit=max&w=1200",
+          "width": 595,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-cruise-expects-gm-to-begin-production-of-new-driverless-vehicle-in-early-2023.md",
       "title": "Cruise expects GM to begin production of new driverless vehicle in early 2023",
       "excerpt": "Cruise's CEO disclosed the timing Thursday, giving the most specific time frame yet for the vehicle and commercialization of its autonomous vehicle business.",
@@ -1308,101 +1394,6 @@
         "Microsoft AI",
         "AI in Autos",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-google-io-2018-the-10-biggest-announcements.md",
-      "title": "Google I/O 2018: The 10 biggest announcements",
-      "excerpt": "Artificial intelligence was obviously among the stars ... to overlay live results on items in your camera’s view. Waymo is the only company that currently has a fleet of fully self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/",
-      "originalUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2018/05/waymo-google-io-2018.jpg?quality=70&strip=all",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/amp/",
-      "publishedDateTime": "2021-05-08T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-googles-main-business-could-use-some-moonshots.md",
-      "title": "Google’s Main Business Could Use Some Moonshots",
-      "excerpt": "Time was when some investors valued Waymo above $100 billion ... DeepMind Technologies Ltd., the U.K.-based artificial intelligence company that is one of the “Other Bets,” has made ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-08/google-s-other-bets-should-focus-on-its-main-business",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-08/google-s-other-bets-should-focus-on-its-main-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZLIV5OSAj74/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-08T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

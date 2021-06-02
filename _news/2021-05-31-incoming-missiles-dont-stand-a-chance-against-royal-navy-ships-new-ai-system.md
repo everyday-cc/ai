@@ -40,6 +40,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "How Businesses Can Integrate AI-Based Technologies to Analyze Their Software Effectiveness and Reduce Cost"
+    excerpt: "Adopting AI-based technologies into your business won’t only save you time in performing your day-to-day administrative duties, their integrations"
+    publishedDateTime: 2021-06-01T19:00:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 39
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/05/AI-3-900x489.jpeg"
+        width: 900
+        height: 489
+        isCached: true
 
 secured: "vMetk6Ht0hitXKV/Djmaqs18r8q2OCeInBCqY+23znRhquIBXLnSC8MaF13JuF8rrg6Kxvitf5cOv0yhue3rVzEjjWc5mmk4Jr7g9CBTlr+YsjEN55AEY8uPqSEExkAvSIKKTCi8oi0x4b9ghxh5WnUVJtuHStbvxyxcrm5iZ9Nkull90yyxgFe3yrPvSNL6qPJW51gDhooQP8XxHA/jiqfKW4Gias58yziXRPD6McGZFv+9aDpr7Vz+PNUEg6uZtoAaq8scR4AtsbxPLcQXQf9GLqC0y56ON1WXzcAwCLPgiDl6MuTQAHkTwNp7jFJalXl0TkiwblhlS93c/lj/Bxw6ic+xUPbsEC0HjnZVWjU=;MUHlol79JRNhp/4wE+ie4Q=="
 ---

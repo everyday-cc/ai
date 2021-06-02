@@ -104,17 +104,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "How do you apply AI to Azure? Microsoft explains"
-    excerpt: "These services combine Azure Cognitive Services with task-specific AI and business logic, so developers can accelerate building AI solutions for common scenarios, such as document processing, customer service,"
-    publishedDateTime: 2021-05-28T07:15:00Z
-    webUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/"
-    ampWebUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 71
   - title: "Microsoft Weekly: Build 2021, a combo showcase, and next-gen Windows"
     excerpt: "In the last seven days we had the Build conference, a reveal of the Xbox and Bethesda E3 event date, and some needed improvements to shared calendars on Windows. Be sure to catch up via our overview."
     publishedDateTime: 2021-05-30T10:54:00Z

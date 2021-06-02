@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Businesses Can Integrate AI-Based Technologies to Analyze Their Software Effectiveness and Reduce Cost"
+    excerpt: "Adopting AI-based technologies into your business won’t only save you time in performing your day-to-day administrative duties, their integrations"
+    publishedDateTime: 2021-06-01T19:00:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 39
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/05/AI-3-900x489.jpeg"
+        width: 900
+        height: 489
+        isCached: true
   - title: "Incoming Missiles Don’t Stand a Chance Against Royal Navy Ships’ New AI System"
     excerpt: "There’s no doubt that AI and machine learning are becoming a big part of what the future of warfare looks like. Startle and Sycoiea sound like space-mission names, but they are actually some of the latest AI technologies developed for the Royal Navy ..."
     publishedDateTime: 2021-05-31T11:05:00Z

@@ -69,14 +69,14 @@ related:
       domain: openpr.com
     quality: 24
   - title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
-    publishedDateTime: 2021-06-01T07:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at"
+    publishedDateTime: 2021-06-01T07:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc/article_6294307b-9449-5d9d-a735-d1debdfaf4bd.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "Hs647dBCJAaQESI76ZKZg5Th/wRXZ96Exb3ii0toMzqcmFIr7iB734nrRKkC6q3wJRjqo+SixuYH6dzaR6ZfHRpK15uFog7uPuoYoq9hiwMOnjRY72h1roD3q9nwqrXQZGh8XfyMadiA5B12jm4GYVXpcXP4epkHcqh4/0z/zXbQ/P2mgalOFSg4r7PaxuBVSjnSxh5jNwPAKNCw2dwcVy97dMUtGUtAKO86EdAFzA29OvQJQ9Xvv4z5BKVBLwuUL7TBUSX4diitWlCWIVPZHlSEBSGKT6nbPQi2cwHekwnbvCugQTgvgPFLkYqCbA81sg7r5GggzdyvflaODmMe4VI6ofDQKNhxCbuIu/iKXWU=;uiivpJoAZWjefK9T1xEwew=="
 ---

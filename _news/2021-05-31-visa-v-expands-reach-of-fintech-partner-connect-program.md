@@ -81,6 +81,15 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+    publishedDateTime: 2021-06-01T13:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visa-s-clients-and-partners-1030482467"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
   - title: "Fintech changed the financial world quickly. Here's what's next."
     excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
     publishedDateTime: 2021-06-01T19:16:00Z
@@ -90,20 +99,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners-301302939.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1522911/Fintel_Connect_Visa_Ready_Logo.jpg?p=facebook"
-        width: 1120
-        height: 586
-        isCached: true
 
 secured: "WjCTNYOhQfsgvxdGaEeu7Yn9wjPJHnqxwgrn9qL2I7cYx1rpRMMqHW6Um7fIMz8U44qn9UPQkycAI6v8xMXKtZcG6mkz7c4+qJAcfGFJkld7cNKHG/CePsOmVr6nKabRvmvDQfkX/C+yqAb1v/H55NpS9lFdui6lyCvv76DezTXbZQnqEfykAlKp0m662J1+ipd1rvXrQfhFIbjhStZfNDaOyobFGnkVlwIuLXylICwe+nMBN2HqaaDrygW7hqfKu330TpS+yKgbKzIgrnLG5unDa6+bf2TfJndhvsP7MB3F++NAQQAMFP8zNY5s5lgZuVd/OgCzXsnZ1ellXxCNALJ12eBmNQ294la7txJ6Cfo=;i+J3Kk0+aECqRpHu1GEKNQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
 type: article
 quality: 139
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "King County bans facial recognition software in government agencies"
+    excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
+    publishedDateTime: 2021-06-02T00:37:00Z
+    webUrl: "https://kuow.org/stories/king-county-bans-facial-recognition-software-in-government-agencies"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 39
+    images:
+      - url: "https://kuow-prod.imgix.net/store/8920668ed5552ab64a68db6c2b883247.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 837
+        height: 628
         isCached: true
   - title: "King County, Wash., Bans Facial Recognition in Unanimous Vote"
     excerpt: "The Metropolitan King County Council unanimously voted today to prohibit county departments, including the sheriff's office, from using facial recognition tech. If signed by the county executive, the measure becomes law."

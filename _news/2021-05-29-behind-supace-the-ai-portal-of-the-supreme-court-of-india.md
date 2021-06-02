@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telcos back Artificial Intelligence, Internet of Things for 5G in India"
-    excerpt: "Delhi-based COAI represents incumbent telcos as well as multinational next-generation technology vendors such as Nokia, Ericsson, Huawei, ZTE, Cisco, .."
-    publishedDateTime: 2021-05-28T08:58:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83032108,imgsize-30418,width-800,height-434,overlay-ettelecom/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "India will see breakthrough application of AI"
     excerpt: "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom"
     publishedDateTime: 2021-05-28T17:45:00Z

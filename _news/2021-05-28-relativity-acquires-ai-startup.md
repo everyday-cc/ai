@@ -34,6 +34,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Conversational AI startup Cognigy nabs $44M"
+    excerpt: "Cognigy, a platform for designing conversational, AI-powered experiences, raised $44 million in fresh capital."
+    publishedDateTime: 2021-06-02T00:39:00Z
+    webUrl: "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/"
+    ampWebUrl: "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/06/feldman-automotive-chatbot-pr-magic.jpg?w=1200&strip=all"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
     publishedDateTime: 2021-05-28T09:44:00Z

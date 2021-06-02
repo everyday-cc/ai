@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-20-bluewire-aims-to-stop-false-narratives-against-trucking.md",
+      "title": "Bluewire aims to stop false narratives against trucking",
+      "excerpt": "Artificial intelligence is putting the virtual pedal ... hubs in the U.S. “Operating in that environment, we can test our Waymo Driver on highly dense highways and shipping lanes, further ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/press-release/21163967/bluewire-aims-to-stop-false-narratives-against-trucking",
+      "originalUrl": "https://www.fleetowner.com/technology/press-release/21163967/bluewire-aims-to-stop-false-narratives-against-trucking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/dreamstime_xxl_40196175_judge_verdict_Andrey_Popov.609bcb5585865.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence.md",
+      "title": "A Sustainable Future Is Not Possible Without Sustainable Artificial Intelligence",
+      "excerpt": "Although AI is the future of the world, training AI algorithms still depend on powerful computers, which consume significant energy and emit considerable carbon emissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a57fce790819a3e5723c48%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-05-20T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars.md",
       "title": "Pedestrians Said To Need ‘Reprogramming’ For The Benefit Of Self-Driving Cars",
       "excerpt": "There is talk of \"reprogramming\" human pedestrians to cope with the limitations of self-driving cars, which some think is prudent and others say is impractical.",
@@ -286,8 +382,8 @@
       "title": "Xilinx and Numenta claim dramatic speed-up of neural nets versus Nvidia GPUs",
       "excerpt": "Numenta, the Silicon Valley artificial intelligence firm founded by Palm Pilot creator Jeff Hawkins, has been able to achieve a dramatic speed up in conventional neural networks using Xilinx ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -304,9 +400,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
-      "publishedDateTime": "2021-05-18T23:02:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
+      "publishedDateTime": "2021-05-18T19:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1264,92 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-top-5-most-controversial-scandals-in-ai-and-big-data.md",
-      "title": "Top 5 Most Controversial Scandals in AI and Big Data",
-      "excerpt": "Hi-tech companies, who invest huge funds on managing and examining real-time data explosion, have experienced the most scandalous controversies in the history of AI and Big Data, which take years to s",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-5-most-controversial-scandals-in-ai-and-big-data/",
-      "originalUrl": "https://www.analyticsinsight.net/top-5-most-controversial-scandals-in-ai-and-big-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Top-5-Most-Controversial-Scandals-in-AI-and-Big-Data.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-waymos-case-against-uber-sent-by-judge-to-us-prosecutors.md",
-      "title": "Waymo's Case Against Uber Sent by Judge to US Prosecutors",
-      "excerpt": "Waymo CEO John Krafcik debuts a customized Chrysler Pacifica ... Or you’re preparing students for a future where artificial intelligence, smart machines, and digital competencies will predominate: Would you channel everyone into four-year universities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/leadership/corporate-responsibility/article/22016399/waymos-case-against-uber-sent-by-judge-to-us-prosecutors",
-      "originalUrl": "https://www.industryweek.com/leadership/corporate-responsibility/article/22016399/waymos-case-against-uber-sent-by-judge-to-us-prosecutors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2019/04/industryweek_21615_gavel_t.png?auto=format&fit=max&w=1200",
-          "width": 595,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-24-koreas-riiid-raises-175m-from-softbank-to-expand-its-ai-based-learning-platform-to-global-markets.md",
+      "title": "Korea’s Riiid raises $175M from SoftBank to expand its AI-based learning platform to global markets",
+      "excerpt": "AI is eating the world of education,” Riiid co-founder and CEO YJ Jang notes in his biographical description on his LinkedIn profile, and today his startup — which builds AI-based personalized learning,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
+      "originalUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1273917891.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
+      "publishedDateTime": "2021-05-24T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
       "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
       "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
@@ -1113,58 +1165,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks.md",
-      "title": "China fund managers rely on AI to manage trading data and pick stocks",
-      "excerpt": "Chinese fund managers grappling with mountains of trade data and a long list of publicly-traded stock rely on AI and ML to boost efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
-      "originalUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1218868159.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/",
-      "publishedDateTime": "2021-05-22T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -104,17 +104,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "How do you apply AI to Azure? Microsoft explains"
-    excerpt: "These services combine Azure Cognitive Services with task-specific AI and business logic, so developers can accelerate building AI solutions for common scenarios, such as document processing, customer service,"
-    publishedDateTime: 2021-05-28T07:15:00Z
-    webUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/"
-    ampWebUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 71
   - title: "Neural Networks Software Market Next Big Thing | Major Giants IBM, Microsoft, Oracle"
     excerpt: "Latest released the research study on Global Neural Networks Software Market offers a detailed overview of the factors influencing the global business scope Neural Networks Software Market research report shows the latest market insights current situation analysis with upcoming trends"
     publishedDateTime: 2021-05-28T12:47:00Z

@@ -115,7 +115,7 @@
       "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -1381,45 +1381,27 @@
       ]
     },
     {
-      "path": "_news/2021-05-18-amazon-again-denies-police-use-of-facial-recognition-software-rekognition.md",
-      "title": "Amazon again denies police use of facial recognition software Rekognition",
-      "excerpt": "Amazon, which one year ago barred police from using its facial recognition software, is extending that moratorium indefinitely. The extension of the ban on police use of Amazon'",
+      "path": "_news/2021-05-19-new-universal-object-recognition-technology-for-robots.md",
+      "title": "New Universal Object Recognition Technology for Robots",
+      "excerpt": "recently announced the availability of SentiSight 2.0 SDK universal object recognition technology for the development of robotics, artificial intelligence and computer-based vision applications. The SentiSight 2.0 algorithm provides enhanced 2D and 3D ...",
       "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/",
-      "originalUrl": "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/",
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/automation/article/21944115/new-universal-object-recognition-technology-for-robots",
+      "originalUrl": "https://www.industryweek.com/technology-and-iiot/automation/article/21944115/new-universal-object-recognition-technology-for-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 538,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/05/spheresmay2019-630x450.jpg",
-          "width": 630,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/",
-      "publishedDateTime": "2021-05-18T08:49:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

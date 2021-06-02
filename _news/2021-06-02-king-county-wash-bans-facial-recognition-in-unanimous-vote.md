@@ -101,6 +101,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "King County bans facial recognition software in government agencies"
+    excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
+    publishedDateTime: 2021-06-02T00:37:00Z
+    webUrl: "https://kuow.org/stories/king-county-bans-facial-recognition-software-in-government-agencies"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 39
+    images:
+      - url: "https://kuow-prod.imgix.net/store/8920668ed5552ab64a68db6c2b883247.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 837
+        height: 628
+        isCached: true
   - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
     excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
     publishedDateTime: 2021-05-28T18:52:00Z
@@ -141,6 +155,6 @@ related:
       domain: seattletimes.com
     quality: 26
 
-secured: "SCMzgOvbUIHbK8xk8iRn7o8QhzuJm6cyAN1nzB5FZ5lU3LkgvAdFYKV3GMpSqbVVLvJ1z3z1cj2TszhVBZzcP8HeqbhGFSs5s85WWBE8eOePWKR5AQp7gAC1clioXycWwgh/emGE0WHRb0Bl7h9vhKrAXbOz8FLAOcQQW7xMRfPOk3zXxJAEQIaz2fxh+fo8Gojg0dRBJHbHZz9AiGaT/ORjWCaC9mzlqXpIyxqTHWwnqdKoWP/7Ni55DIQ6A8Jw+MFniPbRadEFzG8QBPBGDtl9M0pRs7GsthB5F9l3Y8E1sDNSsSs/lvACswJM5UsLFHYHYgZDy081M6CU4+Pesth1bkC8e03zUTAkQcVFgz8=;eYEHfUIPcF1PS/xVaPVVkA=="
+secured: "NV9bf6BSU0FjhI37UdOBR85PwtojeKTPq5PoX2ysJ/gnx/CCBx43kycZJFbDe77dj3hysLHa20/2+3eWy0jycHSBIuaUkYySHSldvDGplyJdWhIHIC4VRpng33asCIPXk3+Fsilkux0kBBRPiBMKbYQBXj86SIwsHcpVNUVp4FBI346d0BlbmfLkuovsxKFuQyyzzVsyOLHjGrtj2JRRZt4PeBT6PlyNSdjUOcNjxx53mjL+aUkcEItzf9jPjSiQ4YcbsnkAEsw8+BonRO8vcSH1PhRhAEAg4RPK8xX5SsY1TenvX2zVSO2BQh+4VgykHP7LYpiQR7SlQvxS31+bk+RYBFFACtz7Swh1Fp8EXoLPRXhRBaF+mkQcwdG4FGD6FnAzNdlsdEbcY+dUkgdtka7Xo/q1nIA0umJts3LxouWLCfVxhiuOdrqyWc8tfeYTS9NHmew30WA9SDMmrGP7cSxs31D5bBooanxXHsacvESty9nGsni58m0AWnwId8K8f8LwNd5AfCK/bbZrNM1uNw==;zF4wd4LwWvsstfBTBAREZQ=="
 ---
 

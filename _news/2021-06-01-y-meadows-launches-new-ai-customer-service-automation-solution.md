@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Y Meadows Launches New AI Customer Service Automation Solution"
-excerpt: "PRNewswire/ -- Y Meadows, a technology company dedicated to empowering customer support teams with tools to elevate"
-publishedDateTime: 2021-06-01T12:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/y-meadows-launches-new-ai-customer-service-automation-solution-1030481818"
-webUrl: "https://markets.businessinsider.com/news/stocks/y-meadows-launches-new-ai-customer-service-automation-solution-1030481818"
+excerpt: "Y Meadows, a technology company dedicated to empowering customer support teams with tools to elevate the quality of their service, announces the launch of its AI customer service automation solution."
+publishedDateTime: 2021-06-01T13:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-y-meadows-launches-new-ai-customer-service-automation-/2021/06/01/9381186.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-y-meadows-launches-new-ai-customer-service-automation-/2021/06/01/9381186.htm"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -38,6 +34,6 @@ related:
         height: 267
         isCached: true
 
-secured: "fNxkhR57/mCTtl9KO9t8g6BG10xbCU4wK15MLflpeopstY29lCLle03oCqYrdbzOvH/84t607UBqoiT3CPLul6jZbmLp5taMQlwjspJkhFCe/D2m64MXBMT+wxl4xWwrk7766xAJUc/C2SDnXHGGTGt3AtpOl27S0S+xCMpngWduplHetPiECauIuf4knjcloo9GsR0YFGRsW68LAw9eV196UfsfXE94PcdIsYG3bZBwdJiO4IvzKRQN0oqqkLDuBJSwwOojY66cHV/Kck91dPBM17Tz24obVYs7FM2tcdxA3RtEvAi0c+qthkbo63UyPbMJ+WbSQTVfeNZQTAjjc86D9pZmrdzMLC0LvOhkRFo=;O9BkMsKRkBRXJFTuKmzipA=="
+secured: "6ov+rUt3m4bpxnRV5kS/5I51thbuJikaY01lRZR5ukmvdPRGnhRLbxEc0p2nFIwzbICItXuRsu3fRzfFhNsMN47MAWoDvqS9ltCKgWTwcNL6mODU9ebry0Az1DHjcLP5lDXy9CDM+qxOziO3V4PLdprhZuI3+FdIUHjT9wl2kvXbHy5SFPlEyzUKBHI561nt7Ooew/miboAWY0w7wPqGh5SUFKteJD+OL9K47sMKw8XWAAZbRyYBe1Bhn1rGHJxlpRJh/RWTMhe4ZTvON2XBCFVKg+BeJ6KCF7TbwOIkjBIYa6TRPWQ+sTBOjLdxBN/s8YYIRYaYMbMHbUVVcGWz23EsXb82pNqHasYTXHO9EWg=;oRIdOIecfRyfSNJrdHaOiA=="
 ---
 
