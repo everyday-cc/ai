@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/information-tech/india-will-see-bre
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, automation are relevant across every industry in India, says Anil Bhasker of IBM"
+    excerpt: "Covid-19 has greatly accelerated the adoption of artificial intelligence in industries, says the Cloud & Data platform Sales Leader, IBM Technology Sales"
+    publishedDateTime: 2021-06-02T04:29:00Z
+    webUrl: "https://www.thehindubusinessline.com/business-tech/ai-automation-are-relevant-across-every-industry-in-india-says-anil-bhasker-of-ibm/article34700778.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/business-tech/ai-automation-are-relevant-across-every-industry-in-india-says-anil-bhasker-of-ibm/article34700778.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/ai-automation-are-relevant-across-every-industry-in-india-says-anil-bhasker-of-ibm/article34700778.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 52
+    images:
+      - url: "https://www.thehindubusinessline.com/business-tech/7trus6/article34700777.ece/ALTERNATES/LANDSCAPE_615/Anil-Bhasker-IBM"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Behind SUPACE: The AI Portal Of The Supreme Court of India"
     excerpt: "The Supreme Court of India launched its first Artificial Intelligence portal SUPACE (Supreme Court Portal for Assistance in Courts Efficiency) last month. The idea is to leverage machine learning to deal with huge chunks of case data."
     publishedDateTime: 2021-05-29T06:30:00Z

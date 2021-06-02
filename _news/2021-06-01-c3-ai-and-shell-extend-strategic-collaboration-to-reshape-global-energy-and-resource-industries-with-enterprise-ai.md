@@ -36,13 +36,13 @@ related:
         height: 493
         isCached: true
   - title: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
-    excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, and Shell (NYSE:RDS) today announced a five-year renewal of their strategic agreement to accelerate the deployment of enterprise AI and ML applications on the C3 AI ® Suite across Shell."
-    publishedDateTime: 2021-06-01T18:48:00Z
-    webUrl: "https://www.afp.com/en/news/1313/c3-ai-and-shell-extend-strategic-collaboration-reshape-global-energy-and-resource-industries-enterprise-ai-202106010051081"
+    excerpt: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
+    publishedDateTime: 2021-06-02T04:22:00Z
+    webUrl: "https://www.businesswireindia.com/c3-ai-and-shell-extend-strategic-collaboration-to-reshape-global-energy-and-resource-industries-with-enterprise-ai-73259.html"
     type: article
     provider:
-      name: AFP
-      domain: afp.com
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 0
 
 secured: "65OY1U7FfeO2WHShTdoii1LNE38UR2MCj+Px4CgeHw4pTZBkIKQRSiOuWBPkrAosftch+va/gyggLroGFXM0DL9CPCF/BSKYh7h+yhOy2BBjtzUJd5DJJz5O67v6+DDoJ8To36LPJcSQYIWX/F5u5bV2yCXZAIqyVdOFIJkafCD/k6vm56oW5+QKzdyL12eF9FRyysyOIoi18sjmKtqXX3kY5s6X4cBSwNTgbo9C+5VF2jU0Jj1QEJcY/z5B+m8d2tllYcVCGz6vJgeAKZCKkzDqfLqpqXvk+FleUzqjC8olz3ehYabohUKBzK9cdhyzStA0QTBeayIOuU8Gp7OTAYSW9vv69gQYrXV0wwQ/ySI=;M2snOE3HUXF880ym3Ejfqw=="

@@ -335,6 +335,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-13-aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs.md",
+      "title": "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs",
+      "excerpt": "(NASDAQ: AMZN), and the National Hockey League (NHL) announced they will debut two new advanced analytics during the 2021 Stanley Cup Playoffs. These new stats powered by AWS will appear as on-screen graphics and data visualizations during NHL games and give fans a better understanding and deeper appreciation of how their favorite players and teams perform during crucial moments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/",
+      "originalUrl": "https://www.financialbuzz.com/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-true-influence-now-available-in-aws-data-exchange.md",
       "title": "True Influence® Now Available in AWS Data Exchange",
       "excerpt": "True Influence ®, the technology leader of data-driven sales and marketing solutions, today announced it is now available in AWS Data Exchange, a service that makes it easy to find, subscribe to, and use third-party data in the cloud from Amazon Web Services (AWS).",
@@ -1388,59 +1422,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility.md",
-      "title": "Artificial Intelligence Models For Sale, Another Step In The Spread Of AI Accessibility",
-      "excerpt": "A regular message in this column is that artificial intelligence (AI ... The models are built in a variety of AI techniques, including rules engines, xgboost, and neural networks (deep learning). “Different domains require different techniques ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
-      "publishedDateTime": "2021-05-04T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

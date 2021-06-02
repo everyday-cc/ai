@@ -9,7 +9,7 @@ ampWebUrl: "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doc
 cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Medical AI models rely on 'shortcuts' that could lead to misdiagnosis of COVID-19"
+    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes. From diagnosing disease, to personalizing treatment,"
+    publishedDateTime: 2021-05-31T15:00:00Z
+    webUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 52
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+        width: 2880
+        height: 1616
         isCached: true
   - title: "New Artificial Intelligence Tool Assesses COVID Severity"
     excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."

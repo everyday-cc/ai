@@ -110,22 +110,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "Neural Networks Software Market Next Big Thing | Major Giants IBM, Microsoft, Oracle"
-    excerpt: "Latest released the research study on Global Neural Networks Software Market offers a detailed overview of the factors influencing the global business scope Neural Networks Software Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-05-28T12:47:00Z
-    webUrl: "https://www.openpr.com/news/2293222/neural-networks-software-market-next-big-thing-major-giants"
-    ampWebUrl: "https://www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 69
-    images:
-      - url: "https://cdn.openpr.com/U/5/U528233394_g.jpg"
-        width: 512
-        height: 335
-        isCached: true
   - title: "Microsoft Weekly: Build 2021, a combo showcase, and next-gen Windows"
     excerpt: "In the last seven days we had the Build conference, a reveal of the Xbox and Bethesda E3 event date, and some needed improvements to shared calendars on Windows. Be sure to catch up via our overview."
     publishedDateTime: 2021-05-30T10:54:00Z
@@ -240,6 +224,6 @@ related:
         height: 900
         isCached: true
 
-secured: "5yR52bKO4tllYdpog3vdvLPfDqW66BuBiT84wQhdAlmehQ3p6QJIUBzncAV2kDxVtH/O4cZ5IlgzecaRUwZO4UwnIiA3j02QJN9qKRG6mz/Sh94wWZ7N4DwKdxg8HlIuoEzUysxS+t+mrOT6C+7rF1C74tgfG0wHkfIsE8HUxH8TR9u3AAeBTT/lOolvx8KMpdidU6/iMA5LxxoQOIjiIbaTD7mQdFgksv/UQ6FB28hSVEFfhMGKiy2dcD3NvhJbYM91o+zBcUc1MLeUWuCgNYTmjYc85US7cvsS6933J0PULYJNejK7e2JrBg5d/aUKTKpbT0qKsXx9E9yHPWctOz8kQR4+MPnIDVWfQW1YLpM=;PcbrS8n2YyuMM0oJT1Vtcg=="
+secured: "5uqhadnn/lAe00b+sSmC1ateu4tZC326axiBf4rpV2IYu3A4t7+oxC4EkT6Jp8/QFDgq8m2nqlHVcrkAbCs8oZqg8Y5wKoqxrAPPXahEG94VGzreUy1yd2jyloylvOUrdJj3N+BYIO1Burc+WOmT4Oe95qnh3YlbAVPGUCu5xbUvZ2N7x2wZKh1/zCRwrDmd333ckjjIT2YgLTGxYGUfFPrFPDSQdJRLNwzLEdrxCXHZhIpNhw6icAyutjMzTfCD+6kIx66Nftpbhgl4YMbzaQpHcq/TkTwIToaIzkcidtZOE/3W8GQlb3KLfn11G9YhMNaXDzSX4mfM6tqVFRrOikDU0w1uct7nMuvEQJztnpThKM7nz3+MhOi78NY72P4OQJoQC0EPPyczeZFLerFbl/GTMDaNtEaeDuvBxfcsPF7Qr2Cu+EwMNWDsAxjpMyAPjDnuSJxeoq2b0egy5q3KEVGdAkzqgihlKCHFCbZSWbi2qCbLp9Z+d/AiY6752jxdECht2uoZIoFXFejI3GQy2Q==;uB0jOERaqgY4a/2fZ/7Xqg=="
 ---
 

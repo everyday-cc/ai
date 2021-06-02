@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Argo AI's Game-Changing LiDAR Sensors for Safer Self-Driving Cars"
-    excerpt: "A US-based self-driving car developer, part-owned by Ford Motors and Volkswagen, could be set to redirect focus in the nascent – and turbulent – LiDAR sensor industry. Argo AI developed the new LiDAR sensor for autonomous cars in-house,"
-    publishedDateTime: 2021-05-28T11:57:00Z
-    webUrl: "https://www.azosensors.com/article.aspx?ArticleID=2237"
-    ampWebUrl: "https://www.azosensors.com/amp/article.aspx?ArticleID=2237"
-    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/article.aspx?ArticleID=2237"
-    type: article
-    provider:
-      name: Azo Sensors
-      domain: azosensors.com
-    quality: 59
-    images:
-      - url: "https://d10lvax23vl53t.cloudfront.net/images/Article_Images/ImageForArticle_2237_1622198779183791.jpg"
-        width: 1000
-        height: 620
-        isCached: true
   - title: "GM’s Cruise Says The US Risks Lagging Behind In Self-Driving Cars"
     excerpt: "GM's Cruise is urging the US administration to push the autonomous car sector. Joe Biden proposed $174 billion for EV plans."
     publishedDateTime: 2021-06-01T14:35:00Z

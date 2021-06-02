@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-set-to-trans
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-set-to-transform-the-pharmaceutical-industry-2021-06-01?amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "How Machine Learning has Transformed the Textile Industry?"
+    excerpt: "Computers have been used for textile production, but their advantages can be further improved by the introduction of artificial intelligence into the system. Although machine learning in the textile industry is still under development,"
+    publishedDateTime: 2021-06-02T04:55:00Z
+    webUrl: "https://www.cioapplications.com/news/how-machine-learning-has-transformed-the-textile-industry-nid-7859.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/uqphd450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "How AI can Bolster the Gaming Industry"
     excerpt: "How AI can Bolster the Gaming Industry By CIOReview - As the identification, privacy, and security of the gamer is a fundamental factor of the casino business, implementing AI"
     publishedDateTime: 2021-06-01T13:35:00Z

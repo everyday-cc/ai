@@ -99,22 +99,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "Neural Networks Software Market Next Big Thing | Major Giants IBM, Microsoft, Oracle"
-    excerpt: "Latest released the research study on Global Neural Networks Software Market offers a detailed overview of the factors influencing the global business scope Neural Networks Software Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-05-28T12:47:00Z
-    webUrl: "https://www.openpr.com/news/2293222/neural-networks-software-market-next-big-thing-major-giants"
-    ampWebUrl: "https://www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 69
-    images:
-      - url: "https://cdn.openpr.com/U/5/U528233394_g.jpg"
-        width: 512
-        height: 335
-        isCached: true
   - title: "Microsoft Weekly: Build 2021, a combo showcase, and next-gen Windows"
     excerpt: "In the last seven days we had the Build conference, a reveal of the Xbox and Bethesda E3 event date, and some needed improvements to shared calendars on Windows. Be sure to catch up via our overview."
     publishedDateTime: 2021-05-30T10:54:00Z

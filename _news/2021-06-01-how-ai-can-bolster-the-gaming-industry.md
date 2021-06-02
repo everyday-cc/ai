@@ -35,6 +35,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "How Machine Learning has Transformed the Textile Industry?"
+    excerpt: "Computers have been used for textile production, but their advantages can be further improved by the introduction of artificial intelligence into the system. Although machine learning in the textile industry is still under development,"
+    publishedDateTime: 2021-06-02T04:55:00Z
+    webUrl: "https://www.cioapplications.com/news/how-machine-learning-has-transformed-the-textile-industry-nid-7859.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/uqphd450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "6qde7b0lbgh/NY2cyiw76BwI9LuZiKV1f5n3zGR4lcszNct2SJOs8gKYdiIBS4PIcXp+Y7SO5gqDvxOaYNN6aE/RMwCZ3NrzNfASR0LLeDuhRgz9rhFyEE2OsvHUzRk9qw68tzAra7GO11y300uhbKFEzpggI/tw6UJMaTElJczFZ62at8QntsyzCbhxDQucIHqTcfbR1YndSmzTTzfKRlKp2WFfkHGapzXxFyWUvALrqUP/Rf00c01J/JjBl8EGBA6O6UllxPwXNnK0hG1B3CivbgjcaIwNnkIDmDAGqs4EHsmsfIhw84AX1nHx7+DpDtUjCawObTsiJEkwb5Ri5WtbK2estiB5Ua3QHoPqej2nSmxah+ZXyD8maF2NREckF3IGpgKa+Q1KUVGwT9nFTwZ8Dd41uFcKCW01EvxpOFfo06p/5BIiIZrjqf5cajrCBBivW++ic/PzkWxCjWSi/SoP63u9KgPBmWtbzjn9cepg9ANuzMhDEbxUfgAq8lOwhJxAoimK3eJ2A8mFhEMwjg==;BumX67nqI94LGz4a6znlPg=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a"
+    publishedDateTime: 2021-06-01T07:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-301302563.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+        width: 1400
+        height: 733
+        isCached: true
   - title: "Global Deep Learning Chipset Market Growth Analysis 2021-2027: with Revenue Share, Future Prospects, Developing Opportunities and Size Forecast"
     excerpt: "May 29, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chipset"
     publishedDateTime: 2021-05-29T18:30:00Z
@@ -68,15 +82,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
-    publishedDateTime: 2021-06-01T07:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
 
 secured: "5rMrdNHNh+QPURmG86qz3zQs5I4uPBaBD4lBqv+g/nW+jLFYV4oZuqZu2k2HNb2QlaasphjfPvyjniF3BkRprsmWEgrYxmZwr7mDTFMPLUScaz/GiaT7ATeQnulHAKKxP2mr0xzpqhL8WepIDuCUgKEMaaHVYIBBvhQodM4Vuxku5smF1Rw2q7hqMc101DokuQSAOv/J8geH3ivV25gKF0orGpFF4ZL4iREPO6N8Om0V++wmLdR0Tc+t1QnnQZpisJhbsMDDIvDWRFgMAu8lWVtkunrCk9xqrFu6MwUohPaASEdHxyBFiKChsJLC463D8PnyyUujjlqve3XiM3jjjq7BdFlXVaOTlQnF/hXeeFU=;OPjFsNYzEOjWr1PLO/bvLw=="
 ---

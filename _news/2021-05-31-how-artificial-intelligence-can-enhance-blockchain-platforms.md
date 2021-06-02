@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "France Deploys AI in 3 Billion-Euro Plan to Save Small Businesses"
+    excerpt: "The French government will use algorithms and artificial intelligence to identify small firms at risk of collapse in the wake of the Covid pandemic, and provide as much as 3 billion euros ($3.7 billion) to protect them."
+    publishedDateTime: 2021-06-01T11:51:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-01/france-deploys-ai-in-eu3-billion-plan-to-save-small-businesses"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikH4883W5N7w/v2/1200x675.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
     excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration was overwhelming."
     publishedDateTime: 2021-06-01T18:30:00Z

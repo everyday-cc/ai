@@ -46,6 +46,22 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "AI prompts a scramble for healthcare data"
+    excerpt: "Covid-19 has opened the eyes of the healthcare world to the promise of artificial intelligence. Two years ago, AI applications were largely seen as demonstration projects and start-up dreams. There were “nice to have” experiments in triaging mammograms,"
+    publishedDateTime: 2021-06-02T04:01:00Z
+    webUrl: "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d"
+    ampWebUrl: "https://amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 74
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce9e9331-316e-4c4c-a6a1-a1d8f77ec840.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "1Fx8/rUmeTdjJqQWwCubhZMxP/fHTXUWc7XCuXKByG7zGUlQRg8B5q1dvZqi1qN5S8Xw5TYTyXSWBpKoPABHHG66W2aiqdq679OHOrA5WZGsDVZvM2IqnR+nwVLUAhEjArs7SBfTIlFLImfDC2FLqGCt5Yq2DK/7rorhEXxL7T6OBW8uLFOP8Trh8/CS5E9lzx3UqrxRcKnQpLm3gBtVutBrp4iIswtN1qSdZR40x7fFVBOPCfYoyXpQppnxdfZ1DW+XzNALyzKvkId9+LmeFCIquZXcFSi+dSJl31emfT4DqPaV20UVHSSf8mu2bEKvoctztu3dpxlKe6R7nZt25DyRDFeNViJq7039IU49ayw=;lnOZPV7YQPN1P1+WNN6e0w=="
 ---

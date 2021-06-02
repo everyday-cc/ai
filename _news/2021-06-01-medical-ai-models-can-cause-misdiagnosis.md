@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/medical-a
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/medical-ai-models-can-cause-misdiagnosis-6a9a4aa6-8d6d-4bf6-8a48-bc9b39ea3b93"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     width: 651
     height: 366
     isCached: true
-
-related:
-  - title: "New AI-powered deep learning model to support medical diagnostics"
-    excerpt: "A new deep-learning model can learn to identify diseases from medical scans faster and more accurately, according to new research by a team of University of Alberta computing scientists and the U of A spinoff company MEDO."
-    publishedDateTime: 2021-05-28T12:15:00Z
-    webUrl: "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-powered-deep-le.jpg"
-        width: 2880
-        height: 1622
-        isCached: true
-  - title: "Medical AI models rely on 'shortcuts' that could lead to misdiagnosis of COVID-19"
-    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes. From diagnosing disease, to personalizing treatment,"
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
-        isCached: true
 
 secured: "whTJx7PbN+FtYLgcZFvwycJ4gPCTTekIF7QkatfwD4KS+m5uGgplULkcCalNAu24QWxzca6zwAOiZ8NdXCJgcoUOFbnXLiT3oyarkAc9uDZ/p0Kr1EJJoHUBfrAwAtNVVD4Us4idZ4Nd3oorZI1tdTl93lNYs/mL8Qedf4SbGvvg//m1LuTCiZym4rh/34LMam3KkLNEl24HfhzNkyiamNAZ73mWJ3mKPfAv/Q/s9WUNKz5AOe2e03W+0ggU/x1l2Jpkq63sSwMQciktQ3UxrLNZ1Tkk0Ao+xl3VjQgfYinkFFh+Nv8DafHuhXjcpBT33/i3yCYvasNEjmog9Amcohx2JMeTu/JWVrIMnZ609o8=;8g/wv0ORfuITkM51qWIHhw=="
 ---

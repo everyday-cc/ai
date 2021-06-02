@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Azure is now smarter and more powerful than ever"
 excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
 publishedDateTime: 2021-05-25T15:10:00Z
-originalUrl: "https://www.techradar.com/in/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-webUrl: "https://www.techradar.com/in/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+originalUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 270
     isCached: true
 
-secured: "5pqc+JnoQNwU7aT7SxL2F1Zm0XjHtXFd5YeCCBamNufxL2s5SQ/2boaskNF2n3JtZRy4q+JsiXY87BNx4RsadtHX2AePXLMSEhB/IYLBMzaDZlhnhv5gr2CKAXpJzhGgRn6C8QrnIqwIkY9HyK/8zfWi/0Np5dYyFiPnrrD/rVqIpuPqMaWcvgc+Vd/nivH1+5vSNBsRS037nsG2K17n5qyecUgXSTkwmaR1lbssN9ntIM9lNP0F/J/oSe9nQwA6Z2rpC5vRByJi4qSXkuDI74965JdHzr3kcFC6+EX29zcDm9jaN41hwghBzOB9CmL6fl46uladOZRklX9ogZCF5eOpfKFqIU4vPzDDixvBb1E=;q9HuaZUbVpiqgv57jfiU5g=="
+secured: "WVb+9BGkkqvqNw27Y0Nd7nWjtxeDIwB3GrKQdhz8ZxhRktNpeRHQuFCjkG9tkZBBZPnXp93c9tcoSjNg21ql56ViGpWM/WUw0XM+CNvC7b21OCT+SEPVBw9M3ZVU5e1l6SLHsbn35f5g9QhF8CmMJP+AdlW/3gxEGJO7PNgoj8Q97gvUSdSdeZ5gZOZ7HSg8uSJ0oWDgzQygVSQgn9f8XtWBNMACDCB9739qD2/IU+dZCd9OAP4bO4aD8DamiSTckjCS4SrgmWxu4QSayHyc+AYvv7879IJCHYukIIIjL04ve8R4wbrCigi7+OCeT8q1T94H4JH2C/Aa5nXcxxMArxfgh3zKdCl25xSGCt7vbiE=;Y9zQPEI0CDj+mKmUgt1zzA=="
 ---
 

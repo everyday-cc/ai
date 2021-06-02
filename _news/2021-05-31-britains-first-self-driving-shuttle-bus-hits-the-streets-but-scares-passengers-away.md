@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scar
 webUrl: "https://thenextweb.com/news/uk-first-self-driving-shuttle-bus-scares-passengers-away"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: The Next Web
@@ -27,24 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Britain’s first self-driving bus launches in Cambridge"
-    excerpt: "Self-driving buses will drive alongside other traffic for the first time in the UK as part of a trial in Cambridge. The three-wheel ‘autonomous passenger shuttles’ or ‘Auto-Shuttles’ were launched Thursday at the University of Cambridge."
-    publishedDateTime: 2021-05-28T11:09:00Z
-    webUrl: "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/"
-    ampWebUrl: "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/05/Grey-Autonomous-Shuttle-May-2021.xb009f880-fff1.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "7VRh4DFQDlUCQY1VIZgIEG9GUAptd/TB07Nxtem7BahG36C3WaYfbynP6qFeZh50Hs2Q9EVe96wjjK0cvAcwAODKesvlfdgqEt/0NVDP9KpVdj1j/TxNAUg39iTnPkBrLRFnA9IBiWi37win5htnmNjGX4rMoX/1Y9s8CB00DdM8uCByNnpOiC1eV48HMSz9UGBPR+Ct6wz2Lt3QjpHWINvBsZsNjEJVavh/up7I1SkwWxjs3QMdnonT4Ri7TTsAUhLokr3HRegEGqj/o3byfTt+ryrGW76BIapqLme50hv6SQS5As2iShRLG+V24b5IiegafUpHVv2YQKoselyajNfbHdhqrHJ/avfNxW6HpIPwBkxIKntlWebwsIBxHwBZzC8AjHjaqToFtcSuL5flVT9gOOHXZL4uNCzF65PP2thsQ8KIWybm5AAtcecoQgQdM74fFXxRrqLXxX3DAZoXDWMalslICG6I9rB2QFVXMNelYDfts97WLOuoAb4YxU3JNtiWZl6GlVjXcaBVKfIm6g==;iKsbOZc9+8ZHxgSKs9OkfA=="
 ---

@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-05-11-marketing-ai-institute-raises-in-1m-seed-funding.md",
+      "title": "Marketing AI Institute Raises in $1M Seed Funding",
+      "excerpt": "Cleveland, OH-based Marketing Artificial Intelligence Institute closed a $1m seed funding round. The round was led by Blue Cypress, a family of purpose-driven companies founded by technology entrepreneur Amith Nagarajan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
+      "originalUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/05/image-7.jpeg",
+          "width": 950,
+          "height": 1267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire.md",
       "title": "Utilizing AI To Reach Peak Performance In Health And Business: How The Sculpted Vegan Built An 8-Figure Empire",
       "excerpt": "According to Kim, data measurement is not only how she tracks performance and improves results, it is key to her success.",
@@ -1158,59 +1201,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-microsoft-and-darktrace-partner-on-ai-enhanced-cloud-security.md",
-      "title": "Microsoft and Darktrace partner on AI-enhanced cloud security",
-      "excerpt": "Microsoft has announced a new partnership with Cambridge-based AI startup Darktrace that aims to provide AI -enhanced cyber security to organisations transitioning to the cloud. The collaboration will focus on addressing security challenges in the “critical areas” of email security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816729/itpro/2018/10/securitybreach_shutterstock_432988318.jpg",
-          "width": 1000,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp",
-      "publishedDateTime": "2021-05-10T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
