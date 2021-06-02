@@ -91,20 +91,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Fintel Connect joins Visa Fintech partner connect to bring scalable customer acquisition to visa’s clients and partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a program designed to help Visa’s issuing clients quickly connect with a vetted and curated set of technology providers."
-    publishedDateTime: 2021-06-01T15:10:00Z
-    webUrl: "https://www.cuinsight.com/press-release/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners"
+  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+    publishedDateTime: 2021-06-01T13:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
     type: article
     provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
 
 secured: "lAfgB9wYhqVgCrTp9q+06X6qvs+qqOIgwKiacaE2Qjs38MS6V+Uv75KOn2HYHuTRhuVfHd3yUniOVjg9hG2JdiOHiF6hFNolmfdOaMLe7w8eAqjoq4N539g4zdq+rbfNQuslRyU3pRjqW+z3R4pv6Az/8bcW2rdEZo/klQe46hfcHYJ2/lhuOhZkvc2UV1L+/T0VpGTF1riDG24rl6Vk7oIuDckoDwBN4/dsz4Eve90D9vznIwIdnOtM83Bai3tgSpoQaH/CwHazHO791fXWmwQYzvl6BmLpSSEV0pv0od5S3hYl04w/n1xFeSLyZCMmqpo4mP3ciJg48Dco6p0Fa7GWVCTKCxa7zn9OS+ZatD2P1Xe8zGKI9+OvsJtBSr0DsXAk9aXDnJT+QUghwcVJLlX3B7KXADzK/RsuFgxnaERCsIE/Y01hCPZAnSatBM1L4n7cI2KjNYIVQ+XRduKu6OP1ip09m+Nx9txkbTL8RtQ+R7dTzObqOUIzxQ3o5jKtckD9ta067DIZ4niI0h8c2w==;TPfHXj4Wrv/v77zZjj8nHA=="
 ---

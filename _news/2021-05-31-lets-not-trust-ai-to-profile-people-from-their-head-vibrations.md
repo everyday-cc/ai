@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/lets-not-trust-ai-profile-people-from-
 webUrl: "https://thenextweb.com/news/lets-not-trust-ai-profile-people-from-head-vibrations-syndication"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Next Web
@@ -26,6 +26,22 @@ images:
     width: 360
     height: 203
     isCached: true
+
+related:
+  - title: "Think pet, not threat with Artificial Intelligence"
+    excerpt: "Intelligent machines will play a much larger role in the future than they do now, and we’re trying to imagine that future as we’re racing toward it. Some people envision things straight out of a Black Mirror episode with terrifying killer robots,"
+    publishedDateTime: 2021-06-02T13:58:00Z
+    webUrl: "https://whyy.org/episodes/think-pet-not-threat-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: WHYY
+      domain: whyy.org
+    quality: 39
+    images:
+      - url: "https://whyy.org/wp-content/uploads/91FM/schedulelogos/1a.jpg"
+        width: 370
+        height: 370
+        isCached: true
 
 secured: "4j53lzrxR59LXvBE3mVyO7HGHI8V7qsHvNl8r0oaxavJAWrAQOXLh/Vk2/Zqj3wPxV7yB2lZgVPfHxf4gLC/gJHBA3OcHY16HbmPCwnoQCjSz4XjqWJvs4TQQaEIsX/czTJjRDjw+/qQAxtfBNzbaHOOkxpMusZOUi03JH6LEkyHulLyF97NDwqSO/HjZupj7eV7MBEZbZ0OJCGwwXocvKuq9AlmShjlStYR5WzAmxnQ6ZwqHglWYhTE5LhSCWa02c8SqtHJaEvHr6dxEKtosg84vL0OearSnlm8wrWAjBawrZHiVXUmFsqQDtWIDXCERcMP9/v/4chYtB9Ouuyv/eCv/QGj5ZAQa9qDFbNRK5OhgNXKQKXzisV9ybz4PUPEbeMxab65HHEHD8tWl+8C+rIWZ7Paq2vZGYMMhOxmLKrQlN68LcyhkcXQDGp0JmBCnA0zpCb+66Ox619tLikv9GggbrELQmkV01LhhPlkt9Q7k8Jrdd4OiOtIOGrjpqX5nXjXhwYMjP8lJgtyHgKohw==;HN5O9w6rvgKkwjYq28ZmpQ=="
 ---

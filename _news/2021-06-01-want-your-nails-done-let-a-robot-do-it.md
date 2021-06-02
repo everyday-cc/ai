@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.a
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Want Your Nails Done? Let a Robot Do It."
+    excerpt: "Cameras within the devices take photos of the nails of the individual user, a process repeated each time a manicure is done even on the same person. During the development, all three have tried to minimize the number of moving parts and rely more on software,"
+    publishedDateTime: 2021-06-01T23:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/want-your-nails-done-let-a-robot-do-it/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/want-your-nails-done-let-a-robot-do-it/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/want-your-nails-done-let-a-robot-do-it/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
 
 secured: "PwMWLkkloaST7Yr044iV0vWtgFU8OgGfP8s/o0KObHYY1m3AsVPLKzfjz5tvCqe9AxtSKUPoPUgCPLhcwO0Ua2uJYJUTCBdtHSXxwi/al6jr2x4wowZ2YYBR4HRZB2h4EpKRQQ7Z6AVN28T5AlGgmWd30RhzP9/mwyznfUXouE9AeQP2tq/kDlTRWndYIRzGP7tPPj7IMSweAXd2w3tdY8+xhO8snsOvjr1dv4TxRtPT6caV2OwjSZqnR/4vPbPBaJ6NwDBW44u0IZoqeNZvjdHPGtEmRhIthwYNEJdrxXAiReHs8irXxFh+irweZwFHRo/qhQp/5D9ytrP7sJNb1lQ22fceXcyyNV0undC0mNRsFAr6CYejE+O3IWJHgSw4EtKqZug01/JTjHNK5vQti41KFUpg/1OVpkGdIclE0ME3SMOPrqVpZkSDXmnQbrFv2cKQ6MXHadfHgSGxJE2D6nxKkVrjqImT1GttXpfCnQYLIUEcvWp1c2z7SPADjeVUb3j2Z8MREgNwoljpq8JPLQ==;uvDbdVt0hv2BLXr49R9YkA=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple loses top managers from self-driving car division"
+    excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
+    publishedDateTime: 2021-06-02T13:48:00Z
+    webUrl: "https://techcentral.co.za/apple-loses-top-managers-from-self-driving-car-division/107749/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 24
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2020/12/apple-store-2156-1120.jpg"
+        width: 2156
+        height: 1120
+        isCached: true
 
 secured: "ca+Q6hc+IaoUgK/s5cm5w0wTg7b0rlBqHSEUvKnTNeJ05e3kfa7iz/9odTWDK0AvMZRtWdVavuC3vGCH4RPpZNH+jZkNG72rz0PMbd+MHnFne7lpG6ClIwp1An7MSttibxRCTTpZ5CScsmAxHB9ndPuA4/evbEV5xuEneUb9p10FqiHfBsfFa05K7q4Y7sD1N9E1NjjpIXOGB5rlKIclMYmzkzowboJQ1oqLVu/LmUPG8fQlR3U+uYOrxrr0bGzyLQMAblUpEieyWTd/yHUH3wOy+XTGMEvKnxRpLzOV2n+FTbi9pvsx46kHce5CGIPFdlGK5u0UFnytg1wMJbVPgwb0W1n3LRHrCB+eViVVo20=;LhkxTiz8La/kfk6HURvukA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-mult
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
 type: article
 quality: 119
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -171,6 +171,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 49
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by"
+    publishedDateTime: 2021-06-02T15:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
     publishedDateTime: 2021-05-30T04:30:00Z

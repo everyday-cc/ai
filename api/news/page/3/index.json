@@ -105,6 +105,57 @@
       ]
     },
     {
+      "path": "_news/2021-05-31-lets-not-trust-ai-to-profile-people-from-their-head-vibrations.md",
+      "title": "Let’s not trust AI to profile people from their head vibrations",
+      "excerpt": "AI' is being used to profile people from their head vibrations – but is there enough evidence to support it? For the most part, no.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/lets-not-trust-ai-profile-people-from-head-vibrations-syndication",
+      "originalUrl": "https://thenextweb.com/news/lets-not-trust-ai-profile-people-from-head-vibrations-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FAI-head-recognition-hed-shutterstock_1783490738.jpg&signature=2295dc9a82e4a4716445f84e90a7f0bc",
+          "width": 360,
+          "height": 203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials.md",
       "title": "Future of chip making to lean heavily on AI for spotting defects, says Applied Materials",
       "excerpt": "For the first time, a machine learning program will tell a scanning electron microscope where to look closer for defects in a silicon wafer",
@@ -165,7 +216,7 @@
       "originalUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -495,7 +546,7 @@
       "originalUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1154,49 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-india-will-see-breakthrough-application-of-ai.md",
-      "title": "India will see breakthrough application of AI",
-      "excerpt": "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
-      "publishedDateTime": "2021-05-28T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

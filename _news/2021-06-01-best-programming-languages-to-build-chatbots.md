@@ -41,6 +41,20 @@ related:
         width: 790
         height: 567
         isCached: true
+  - title: "At CAGR of 29.5%, Global Computer Vision in Healthcare"
+    excerpt: "Body> New York, NY, June 02, 2021 (GLOBE NEWSWIRE) -- Facts and Factors have published a new research report titled  ''Computer Vision in Healthcare Market by Product Type (Software (On-premise, Cloud),"
+    publishedDateTime: 2021-06-02T02:51:00Z
+    webUrl: "https://menafn.com/1102194903/At-CAGR-of-295-Global-Computer-Vision-in-Healthcare"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "At CAGR of 29.5%, Global Computer Vision in Healthcare Market Share Projected USD 2,384.2 Million Revenues by 2026: Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"Computer Vision in Healthcare Market by Product Type (Software"
     publishedDateTime: 2021-06-02T12:02:00Z

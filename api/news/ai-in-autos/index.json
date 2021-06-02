@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1296,6 +1296,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-23-learn-the-science-behind-self-driving-cars-for-under-50.md",
+      "title": "Learn the science behind self-driving cars for under $50",
+      "excerpt": "If machine learning sounds a little highbrow, it’s not: artificial intelligence has been steadily ... tech companies in the world. Google’s Waymo has been successfully tested in extreme ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/bazaar/machine-learning-robotics-course/",
+      "originalUrl": "https://www.dailydot.com/bazaar/machine-learning-robotics-course/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2b7/45/c6e53b53154de17c.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 710,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/bazaar/machine-learning-robotics-course/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/bazaar/machine-learning-robotics-course/?amp",
+      "publishedDateTime": "2021-05-22T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more.md",
       "title": "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more",
       "excerpt": "Chinese internet giant Baidu has been developing self-driving technologies for seven years without making money, but the company is committed enough to the future of transport to keep going for at ...",
@@ -1371,58 +1414,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-is-baidu-stock-a-buy.md",
-      "title": "Is Baidu Stock a Buy?",
-      "excerpt": "Baidu (NASDAQ:BIDU), the Chinese tech giant that owns the country's top search engine, recently posted first-quarter numbers that topped analysts' expectations. Its revenue rose 25% year over year to 28.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F627675%2Fbaidu_apollo_s_5g_remote_driving_service_remote_human_operators_control.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "publishedDateTime": "2021-05-21T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

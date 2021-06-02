@@ -2,6 +2,179 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-05-05-5-entry-level-marketing-projects-for-ai-newbies.md",
+      "title": "5 Entry-Level Marketing Projects for AI Newbies",
+      "excerpt": "Marketing teams are increasingly turning to artificial intelligence (AI) to improve results, with marketers investing over $227 million in AI-based technologies in 2018 alone, according to Statista. Yet many companies have yet to use AI or have just started exploring it recently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/0b9ddf7a31fc4dcc8f938ec905099756.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/amp/",
+      "publishedDateTime": "2021-05-05T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis.md",
+      "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of High Value Data for Survey Analysis",
+      "excerpt": "Rackspace Technology ®, a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership development firm that helps organizations identify opportunities to improve their performance so they can operate optimally in today’ s complex environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for",
+      "originalUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again.md",
+      "title": "U.S. chip startups, long shunned in favor of internet bets, stir excitement again",
+      "excerpt": "Silicon Valley venture capitalists, long focused on software and internet companies, are again pouring money into the semiconductor industry, lured by the promise of a new generation of artificial-intelligence chips that could challenge incumbents like Intel Corp and",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S",
+      "originalUrl": "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210505&t=2&i=1560981592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH440J4",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2CM10S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2CM10S",
+      "publishedDateTime": "2021-05-05T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question.md",
+      "title": "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question",
+      "excerpt": "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-fast-companys-2021-world-changing-ideas-awards-distinguishes-idx-privacy-with-honorable-mention-in-apps-category.md",
       "title": "Fast Company's 2021 World Changing Ideas Awards Distinguishes IDX Privacy with Honorable Mention in Apps Category",
       "excerpt": "IDX, the leading consumer privacy platform and data breach services provider, announced the mobile app of its flagship product, IDX Privacy, has received an honorable mention in Fast Company's World Changing Ideas Awards.",
@@ -1002,161 +1175,6 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-getting-started-with-deep-learning-using-tensorflow-keras.md",
-      "title": "Getting Started With Deep Learning Using TensorFlow Keras",
-      "excerpt": "Deep Learning is a subset of Machine learning. It was developed to have an architecture and functionality similar to that of a human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/",
-      "originalUrl": "https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/2-1.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-blockchaincom-announces-acquisition-of-aix-assets.md",
-      "title": "Blockchain.com Announces Acquisition of AiX Assets",
-      "excerpt": "Blockchain.com, a leading cryptocurrency services provider, announced that the company has acquired assets of technology firm AiX.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/",
-      "originalUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2020/06/cryptocurrency.jpg",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/amp/",
-      "publishedDateTime": "2021-05-05T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
-      "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?amp",
-      "publishedDateTime": "2021-05-05T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-correction-extracting-family-history-information-from-electronic-health-records-natural-language-processing-analysis.md",
-      "title": "Correction: Extracting Family History Information From Electronic Health Records: Natural Language Processing Analysis.",
-      "excerpt": "Either your web browser doesn't support Javascript or it is currently turned off. In the latter case, please turn on Javascript support in your web browser and reload this page.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/33939618",
-      "originalUrl": "https://europepmc.org/article/MED/33939618",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

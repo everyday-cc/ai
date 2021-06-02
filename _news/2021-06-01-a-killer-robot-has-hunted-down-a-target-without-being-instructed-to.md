@@ -43,6 +43,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Report: Rogue Drone Hunted Human"
+    excerpt: "New Scientist says that there is evidence a weaponized drone went on a rogue mission last year where it hunted a human target without being instructed to do so. The publication cites a UN report and says the details suggest a Kargu-2 quadcopter was being used in fully autonomous mode during a conflict in Libya in March of last year when the device pursued a soldier that was trying to retreat."
+    publishedDateTime: 2021-06-02T15:14:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21452491/report-rogue-drone-hunted-human"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/MM_227_Thumb.60b79f707bda9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "CDMfh9F8qp6vfGBPWsm0KayTDIerK7JpfLQGZ4WWRz72l0IDqSJnA72BLCCU+8e1qO1Af48BUTawfB+JoL9y6V4ucxgPdRvVQaPa6zFcW/ZdqQrhqm51i3ySrJ9OLJ/FkNcIQ9dqVnHm5nZfwL/si1HhbuzMhrmuUSwiXB+fkqE+/ehiGkE2Xw8t5KA6My/Die5LHMV+Yqp0yPlj6hCk28tv9DglSF/mfLcnaBB+/An5S3CY09PCLH9Ns0evhAXlQorQRXs6mP5J5dYpJBD8ZkWyk1ijOyKIS+ZRsb5Nf3KBXOQBZXlZyghyZv1FW0VPaJWMNamEWed2m/M97W9g2/egYyM74Uoz0LMKHvSZY+7+RphpAfkOmGcuslFRfDVKx4zyYzGcNQxX+wuDcVMr50cLZVIHktJg4c86656xTYmSOvN4aH66fHZOCkSYTvxSKCn7Egrwo88gGJ6E63/hunJxY9a31UeseNHUNvAFwvl3rej9cWawUgDDC/yV1p1ohvwI7y+t9pOp2dBJpa85dg==;NY4sQtsYkXONr/I2vw0BYw=="
 ---

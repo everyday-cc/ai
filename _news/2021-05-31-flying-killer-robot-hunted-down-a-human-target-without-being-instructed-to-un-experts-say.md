@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-w
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/05/weaponized-drone-in-fully-autonomous-mode-hunts-down-and-engages-human-target-162275_1.jpg"
         width: 1080
         height: 594
+        isCached: true
+  - title: "Report: Rogue Drone Hunted Human"
+    excerpt: "New Scientist says that there is evidence a weaponized drone went on a rogue mission last year where it hunted a human target without being instructed to do so. The publication cites a UN report and says the details suggest a Kargu-2 quadcopter was being used in fully autonomous mode during a conflict in Libya in March of last year when the device pursued a soldier that was trying to retreat."
+    publishedDateTime: 2021-06-02T15:14:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21452491/report-rogue-drone-hunted-human"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/MM_227_Thumb.60b79f707bda9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "bmyrWko6oylt2kj6X+mQVJ74ts677cu84vWKclXgPRJ/U965Tdd1SG2qqnwJw9nB9L1kPDgJS1jfQ1a06owyvxGe2t1+1g3uA2m+7HALNj2kew2bGD4kDruQ0c21d0aCY4NvdxyI9CpYOXuR60FPzk91REQEXZ0RVHp2OVN3mFjWlwDhsY3uwr0+pqqNE/fXUkoJPQZj0QpCA58gEvbThnEUbvNzRXbzecAS1nh/U20/VDR5w+IuSBGZyG+ZQXNZUPZYYYwOcz5ZygRNHFT1yhmM+BYNOTsyMCH4jqB1yT/jX/3WqQC0LrvC6ApYb7qqCk3WS6eOfMydCrOpipLYx40Vp/4ZbR2aUrwu5nFu9Hf47yUJCqeh4O7ViulOTRC8gZH9z00r6sm9Pg/FPPp/mU1tgfwvJNqYfvF/Ht3tiq/fVyOSUvyQ+CkTM8gH0RDXWMyIoAJCJNFDfnFthqXP0xsnNWp375rt277Xbj2z9BsfuuNwqRouIbwn5To881EWANERaj0D0gLSluKrHCDFlw==;A/L6PPsVtvtSTk4b9H3AxQ=="

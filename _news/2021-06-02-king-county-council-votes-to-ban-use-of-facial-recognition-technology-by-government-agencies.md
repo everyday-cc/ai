@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Washington State County Becomes First in US to Ban Facial Recognition Software Over Concerns of Racism"
+    excerpt: "King County's ban on facial recognition software is \"an important step forward in the effort to stop government use of this harmful and racist technology,\" said Jennifer Lee from ACLU Washington."
+    publishedDateTime: 2021-06-02T15:33:00Z
+    webUrl: "https://www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894"
+    ampWebUrl: "https://www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 75
+    images:
+      - url: "https://d.newsweek.com/en/full/1811407/video-surveillance-camera.jpg"
+        width: 2500
+        height: 1754
+        isCached: true
   - title: "Congress Struggles to Control Facial Recognition"
     excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
     publishedDateTime: 2021-06-01T20:53:00Z
@@ -39,35 +55,53 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
-    excerpt: "Joy Buolamwini of the MIT Media Lab created a mirror that would project aspirational images onto her face, but the software didn't recognize her until she wore a white mask."
-    publishedDateTime: 2021-05-31T16:42:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of-2/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of-2?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of-2?amp"
+  - title: "Final action expected on King County proposal to ban facial recognition software"
+    excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
+    publishedDateTime: 2021-06-01T15:31:00Z
+    webUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/"
+    ampWebUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 57
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 54
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/coded-bias-ft-img.jpg?fit=480%2C270"
-        width: 480
-        height: 270
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-1149113711-e1622557116352.jpg"
+        width: 620
+        height: 370
         isCached: true
-  - title: "Facial recognition payment to be rolled out at Moscow Metro stations"
-    excerpt: "RUSSIA: A facial recognition based payment system is to be offered at all Moscow Metro stations by the end of the year, according to Deputy Mayor and Head of the Department of Transport & Road Infrastructure Development Maxim Liksutov."
-    publishedDateTime: 2021-06-01T05:00:00Z
-    webUrl: "https://www.railwaygazette.com/metros/facial-recognition-payment-to-be-rolled-out-at-moscow-metro-stations/59185.article"
+  - title: "Washington’s biggest county—which includes Seattle—just banned facial recognition"
+    excerpt: "King County, Washington, which includes Seattle, became the first county in the country to ban government use of facial recognition."
+    publishedDateTime: 2021-06-02T14:08:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-king-county-seattle/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-ban-king-county-seattle/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-ban-king-county-seattle/?amp"
     type: article
     provider:
-      name: Railway Gazette International
-      domain: railwaygazette.com
-    quality: 39
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 54
     images:
-      - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/1024x536/6/2/7/41627_rumoscowmetrofrontimage1_373656_crop.jpg"
-        width: 599
-        height: 399
+      - url: "https://uploads.dailydot.com/2021/06/Facial-Recognition-King-County-Washington.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "King County Council will consider prohibiting use of facial recognition technology"
+    excerpt: "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information."
+    publishedDateTime: 2021-06-01T01:43:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+    ampWebUrl: "https://www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 53
+    images:
+      - url: "https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "King County bans facial recognition software in government agencies"
     excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
@@ -97,20 +131,54 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "Facial recognition controversy: Detroit City Council approves ordinance to increase transparency"
-    excerpt: "Big Brother is watching in Detroit. Police alone have access to thousands of surveillance cameras. An ordinance passed by Detroit City Council aims to make sure those being watched have a louder say about it."
-    publishedDateTime: 2021-05-28T21:23:00Z
-    webUrl: "https://www.wxyz.com/news/region/detroit/facial-recognition-controversy-detroit-city-council-approves-ordinance-to-increase-transparency"
+  - title: "King County Council Bans Use of Facial Recognition Technology by Sheriff's Office"
+    excerpt: "The Metropolitan King County Council voted Tuesday to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments."
+    publishedDateTime: 2021-06-02T15:17:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21225147/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office"
     type: article
     provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 26
+      name: Officer
+      domain: officer.com
+    quality: 34
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7bf326a/2147483647/strip/true/crop/2975x1562+12+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F727%2Fbe88c4e651db4a7dbe102614d7272948%2F727d76e188ed40eb99fe37b16ab02fd4%2Fposter_dd69ef3e268644299859db79169c6738.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/20210427_AMX_US_NEWS_FUNDAMENTALLY_FLAWED_MASSLIVE_TO_DISCUSS_1_MLV__1_.60b7a02a7449b.png?auto=format&fit=max&w=1200"
+        width: 960
+        height: 540
         isCached: true
+  - title: "Washington State’s Most Populous County Bans Use of Facial Recognition Technology"
+    excerpt: "King County, Washington state’s most populous county, which includes the city of Seattle and the headquarters of Amazon and Microsoft, has voted to ban the use of facial recognition technology by law enforcement and other agencies."
+    publishedDateTime: 2021-06-02T14:12:00Z
+    webUrl: "https://www.democracynow.org/2021/6/2/headlines/washington_states_most_populous_county_bans_use_of_facial_recognition_technology"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 34
+    images:
+      - url: "https://www.democracynow.org/images/headlines/87/58087/full_hd/h5-washington-state-most-populous-county-bans-use-facial-recognition-technology.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
+    excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
+    publishedDateTime: 2021-06-01T20:53:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
+  - title: "Facial Recognition Technology Ban Passed by King County Council"
+    excerpt: "Facial recognition is consistently used to target Muslims around the world, as well as to quell our First Amendment rights to freedom of speech, religion, and association. We applaud King County for being the first multi-city county in the nation to pass ..."
+    publishedDateTime: 2021-06-02T14:16:00Z
+    webUrl: "https://kingcounty.gov/council/mainnews/2021/June/6-01-facial-recognition.aspx"
+    type: article
+    provider:
+      name: King County%2c Washington
+      domain: kingcounty.gov
+    quality: 21
 
 secured: "/6pbn1PLglCZAovv120w6JL6T2vKntVDwtgT+zXneHTAEs1qPqMjBWixD7qwfaU7yj1MXTedz4KYCB0XuXuy9i6hCKVXfWvSBVZ1JzyyD7/Je1FIDHPYk9cb2Ea2eVMI/8o59EOfsrFg1/oxjGPFNT/2rVGoBKbB4oNJr51Erl8gJY4/sTYfJTwmxvwqp5ImI1yWHbcmoRJwst0Nqx+UqAA3hb6DD9zO46dPNfAo0NvQH+zn0nkqPfj6VcOpqgtCO21P+uSDzpbqJiuU7SbNDQloi5/W4KBnNQlQraiRDymz7JUs2TKi9yHXhtzTbvEA1B5WNmof9kmnfNpjp4XkGDO669EPw6mPq2rcEi+ttEE=;dZHEAJ0F2QIjG8krAT2kLg=="
 ---

@@ -29,7 +29,7 @@ related:
   - title: "White Paper: Robots Break Out of the Factory - Non-consumer Robotics Applications Take Off"
     excerpt: "Robots are being installed in industrial settings all over the world. Now, the market is at the start of a wave of development where breakthroughs in other technology areas will increase the scope of what industrial robots can do and lower the cost of robot systems."
     publishedDateTime: 2021-06-02T08:56:00Z
-    webUrl: "https://www.huawei.com/nl/technology-insights/industry-insights/outlook/mobile-broadband/insights-reports/robots-break-out-of-the-factory"
+    webUrl: "https://www.huawei.com/br/technology-insights/industry-insights/outlook/mobile-broadband/insights-reports/robots-break-out-of-the-factory"
     type: article
     provider:
       name: Huawei

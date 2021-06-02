@@ -167,6 +167,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 49
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by"
+    publishedDateTime: 2021-06-02T15:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-301304206.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
     publishedDateTime: 2021-05-30T04:30:00Z
@@ -191,6 +205,6 @@ related:
       domain: manometcurrent.com
     quality: 22
 
-secured: "CpF9S03tpcAL12yzvEBRppggNJv4NjfWFhzfy+0PAsJlwOXbcWschRiYN8wN1rYqYuiEen1PttIyuJ0Ar21vTWgmhASdATvJXJ3Q+/oaSe1Vx5sdiKcwQLKqSBXi/svz+ArXFzh+nZPKju9BSxIWGxiDHUHKHonq6JGGbHHObzOZTefzDBQDS6/pYm53I0pGEuw3Li4ALy3otLQY4nhkicorkXv48kBxxHayUu3MKthO+xlffgOk1GPPmGPVRsTUNh8ljKWXaAktKu4Izj60aAVujZrQKBD3fSHOujsJR4G0rJ/+gZuXWR4ktkyiUKKKnPxej8iyfn41qfnZeYktfOfQT5XmhgGewRKWQ5ei4Qg=;2tUpmlfeVxJjXIaK5e5KsA=="
+secured: "EMdNsvUFVK52gq7/+jQxM+qvY2uuvbmaOFY6KQc5KqCZ5nc7PSZuNfoC7mDLFEHL/5zUvjSRb+SqorRiNBJA6TVuYN6ZeLGn4mxb9o/i8omNKZOLQmObmuNuzCJy6M8h6RvzXNQN7rAopSkGVdtqiT1IEM4xijWpXfV68MKbl4nCNOBiK7861/+yKJoSbnUvHosS52dL53a5v1lHudezH0xGyXKOUbX9N6V6k/9TS5C80PbPVH3rCU/FpMGl/peFtsOEeQRXaSyZ20qVYC+mjDqoaN36NqfJz2+X6TLeVdPq184ugRYq1utoNI2nTzL/eMCltuvAMDKQLPM5iPZSY8IOFm2abpOwqEcevHtv6qWVa9nsMvpjSnTMkhmTEYjOyqjJ6LYRbMXcwKf61L2IgesKwEoEOSBM/2F2ZT4XtulEbFMY0dxqjd0u5nHaaKXuUXHfOzqvlrB4yV8GqiWsy2CIghZL6Z5VVOrs/tP7gXE4uy1423EHB6e3khD8mT1ghNEKwransXCHgrU1cUHqjA==;8vqDaDC2W/+sBWG0sC7ZkA=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "DeepLearning.AI, Coursera, and AWS launch the new Practical Data Science Specialization with Amazon SageMaker"
+    excerpt: "Amazon Web Services (AWS), Coursera, and DeepLearning.AI are excited to announce Practical Data Science, a three-course, 10-week, hands-on specialization designed for data professionals to quickly learn the essentials of machine learning (ML) in the AWS Cloud. DeepLearning.AI was founded in 2017 by Andrew"
+    publishedDateTime: 2021-06-02T15:59:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deeplearning-ai-coursera-and-aws-launch-the-new-practical-data-science-specialization-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
 
 secured: "pPgNbhH27aUHSg/3ATm46Cs+iGpHdlri4fPpuibfFMnq970AXx6q++M443IPsy3GtWJwJvmv7H8ebz56BkNU/qBm2/xrUjvmvyPX20f9zrVbBi56rN/xFvdOvfT7MzRCNsKTfb7BECDgE7FOKZHFHPe0EgK31v62BfWuzk3f9NdLoOnkucMNH5b+wNFGWPhRAV/+dts26FsMtOnLf0YErWpCgp3cx2Fddha6hor5rrEdkhzsQ5VouPpeg6Sl6I55j5aM08X2l3X+NYc1ce75I0Hqe0frfIbmj08uX+28dq2q5lDPW98Mx6GxMETGQ9Og8wEb8eF+Nype4UJrF+78jJcZW5Ocj7AILxnOJXxMyM4=;XfJZ6X13hU7fKfnq2mlJ8w=="
 ---

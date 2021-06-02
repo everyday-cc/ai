@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Fintel Connect joins Visa Fintech partner connect to bring scalable customer acquisition to visa’s clients and partners"
-excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a program designed to help Visa’s issuing clients quickly connect with a vetted and curated set of technology providers."
-publishedDateTime: 2021-06-01T15:10:00Z
-originalUrl: "https://www.cuinsight.com/press-release/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners"
-webUrl: "https://www.cuinsight.com/press-release/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners"
+title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
+excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+publishedDateTime: 2021-06-01T13:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Credit Union Insight
-  domain: cuinsight.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-    width: 792
-    height: 266
-    isCached: true
 
 related:
   - title: "Visa (V) Expands Reach of Fintech Partner Connect Program"
@@ -106,6 +100,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "Y09vmX1x1OK37CUZBKtMhlk4ZxZkrXf8VIWF4yRuByLwsI76/9TxbAcifIBWhaheGtv82sltfhKsbwm7RogqjWvizfXpX9/zN6jJfY4FVNfhWPBtfBShmPHPPOFrFB1n5/yZbD0odjak94YM1TlDhmC31GewWa2Wvh6JB6UvNIJJaPRA+oKHIhc+zzRUsm8FqiSZS7ggToC++QEFOje5u+OEOJpj+vmqSJq+gdZY8bSBcNIAHPAx9pu2VZWYgmNWhFRzgVDpXzWcmnkos3QmBZym/AiQVjUMzwGFTH5GO4Z7vk9c/WoI+dmKhNcBSaIaaEamInZzFDJZh9qRsDPWtaJOgqRZVtQLeUOvxBXdvLc=;QXQp9ZDFNpXyDQVp9hY7aA=="
+secured: "bu5CK0FhonezYQHXgcZ4hJgez5DdJiqwTo6S6P10sYLU2s/yVG1RnbndHehalikK2zRY/FjZE200Gnb4DXJkRYwqEuLmmpZi33KoKjR7H+e2cMIg84ba3sFWAa++Sz0NIEyZYlDglDGbkvJOpgCN4OYq5+sU0HmtGPnta0EPVwuaNR553cVhzlcLaRB4yXnDJDQUzBEpnau3TBsMV9XId6nP++xZC1RLN9q9SEiO0AHthMl342vxsWVYf9KMMlIIHNgzD5ja2QWvlDobOHwQ+1SXov1piYGSgf6CQpI+VmzKYC7TKNcddZsxVYqauwgGMcXJXHvHUmJKXmE9ThZLu0gHGTFG0F5/6GaUl2UtOTI=;0hF5Bau4hx9H57v0a9/K9w=="
 ---
 

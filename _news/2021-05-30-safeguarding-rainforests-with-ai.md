@@ -28,7 +28,7 @@ related:
   - title: "Envisioning safer cities with artificial intelligence"
     excerpt: "Over the past several decades, artificial intelligence has advanced tremendously, and today it promises new opportunities for more accurate healthcare, enhanced national security and more effective education,"
     publishedDateTime: 2021-06-01T15:12:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302812"
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302812&org=NSF"
     type: article
     provider:
       name: nsf.gov

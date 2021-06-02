@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Egress Acquires Aquilai to Defend Organizations Against Rising Tide of Targeted Phishing Attacks"
-    excerpt: "Egress, the leading provider of human layer security, today announced it has acquired Aquilai, an anti-phishing provider with machine learning and natural language processing technology that stops all targeted email attacks,"
-    publishedDateTime: 2021-06-02T11:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-egress-acquires-aquilai-defend-organizations-against-rising-tide-/2021/06/02/9381945.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-
 secured: "Km9dIbjiE2mBNC7/6j+qVyGae3+ZGu7qMwYKc59XLuxRhcKivmA/6P1Pc92Kk8tD0S5WwjaL+LHuSSurSVhIhBZt8YrCp5l96sybUGy0emXA30kfYu84bB05pwHAERwN5fV+AGt5zfhMb0jhV9j6/uTRAyvk2mb7SE0T1EDajQnqPQp8DOoVF5cEz6g+UdacfFVqdnBZiOiDQW8ZHLqhperWUZ5amz4I3tOYKt6KuwWuw7yM+sSlP0S414eEdse7sEyTcNGL7frxNTtH15MXMtT9fOeet+LlcVw39wJuVQtUFgwG6PBdRljvKtmdZVTiJj4NiibepAmCnvObPxZ7X6VRwi7xwqkOnYqIpt/CS5AlaBNqgfnBJiZxd2c8iQj23uRYD/gzV7S3dvuFWkf05ob5UguLWWSas0iEqD3YOfwujuHVcEgY+yfbzhk6jVl5edIouKianrB66bw+EbXpewlhmZMm7IYQpT+htJrVb/89La3qVG9g0FWDDTBSa0sArc6h9RxPf/jUSC1h7YUlNA==;qUOvRhBOoJ/+2BdzFtBtVg=="
 ---
 

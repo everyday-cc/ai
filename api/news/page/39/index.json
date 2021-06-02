@@ -2,6 +2,178 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-05-04-5-virtual-physical-therapy-startups-to-watch.md",
+      "title": "5 virtual physical therapy startups to watch",
+      "excerpt": "Digital physical therapy outfits think they can improve outcomes and reduce costs by making it easier for patients to stick to the program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
+      "originalUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_406527128-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.md",
+      "title": "Achieving true situational awareness in operation centres with computer vision & AI",
+      "excerpt": "This webinar dives into the growing capabilities and use cases for Computer Vision and AI in Operation Centres and beyond. Join industry innovators Userful and Security & Safety Things in this round table discussion on how Computer Vision and AI helps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html?ref=fve",
+      "originalUrl": "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html?ref=fve",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/virtual-events/612/computer-vision-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-baidu-launches-driverless-robotaxi-in-beijing.md",
+      "title": "Baidu Launches Driverless RoboTaxi in Beijing",
+      "excerpt": "Baidu Apollo Robotaxis move on a street at the Shougang Park in Beijing, Sunday, May 2, 2021. [Image - The Associated Press] Chinese tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2021/05/baidu-launches-driverless-robotaxi-in.html",
+      "originalUrl": "https://www.indianweb2.com/2021/05/baidu-launches-driverless-robotaxi-in.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1.bp.blogspot.com/-VqrCUbqcAm0/YJD2g5bhYaI/AAAAAAAAFJs/kKECe_rCvtQz2MhfQSNVqrgVCN4QHPqEACLcBGAsYHQ/s16000/robotaxi_baidu.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-building-ethical-ai-is-not-easy-but-this-guide-will-help-you.md",
+      "title": "Building Ethical AI is Not Easy. But, This Guide Will Help You",
+      "excerpt": "Adopting a sound ethical AI strategy is important to shape future developments. Building ethical AI requires both an ethical way for building AI systems and a strategy for making AI systems themselves moral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
+      "originalUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Ethical-AI.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
+      "publishedDateTime": "2021-05-03T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-computer-vision-for-visual-effects.md",
       "title": "Computer Vision for Visual Effects",
       "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers and researchers about the fundamental computer vision ...",
@@ -945,197 +1117,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-contractpodai-partners-with-qualitas-consulting-group-to-introduce-ai-powered-contract-management-to-more-legal-teams.md",
-      "title": "ContractPodAi Partners with Qualitas Consulting Group to Introduce AI-Powered Contract Management to More Legal Teams",
-      "excerpt": "ContractPodAi ®, the award-winning legal tech company and leader in AI-powered contract lifecycle management (CLM) solutions, today announced its partnership with Qualitas Consulting Group, a leading full-service consulting organization providing technical and functional expertise for business process,",
-      "sourceUrl": null,
-      "webUrl": "https://www.legalitprofessionals.com/global-news/12455-contractpodai-partners-with-qualitas-consulting-group-to-introduce-ai-powered-contract-management-to-more-legal-teams",
-      "originalUrl": "https://www.legalitprofessionals.com/global-news/12455-contractpodai-partners-with-qualitas-consulting-group-to-introduce-ai-powered-contract-management-to-more-legal-teams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "legalitprofessionals.com",
-        "domain": "legalitprofessionals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
-      "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
-      "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608c16ccf518acfd55532183%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "publishedDateTime": "2021-05-03T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-3-big-myths-of-ai-and-machine-learning-debunked.md",
-      "title": "3 Big Myths Of AI And Machine Learning Debunked",
-      "excerpt": "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086f7034b0844a0abeea8ad%2F0x0.jpg%3FcropX1%3D542%26cropX2%3D3795%26cropY1%3D0%26cropY2%3D2441",
-          "width": 1199,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
-      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
-      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-25-ai-removes-friction-from-challenger-bank-onboarding.md",
+      "title": "AI Removes Friction From Challenger Bank Onboarding",
+      "excerpt": "The Tracker explores how biometrics, behavioral analytics and IP address verification can help confirm user identities, smooth onboarding and prevent fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
+      "originalUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/05/biometrics-AI-banking-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
+      "publishedDateTime": "2021-05-25T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-leakers-reveal-what-to-expect-from-pixel-6-6-pro-display-whitechapel-chip.md",
+      "title": "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip",
+      "excerpt": "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "originalUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "publishedDateTime": "2021-05-24T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics.md",
       "title": "These Indian Edtech Companies are Shaping the Future of AI & Robotics",
       "excerpt": "Edtech companies have partnered with NITI Aayog to develop an interest in STEAM fields in young minds using AI and robotics. Read more about this here.",
@@ -1093,112 +1188,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-how-dynamic-working-enables-a-more-inclusive-workforce.md",
-      "title": "How dynamic working enables a more inclusive workforce",
-      "excerpt": "Why empowering employees to work however and wherever they want can help diversify and motivate your workforce",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1621607070/pregnant_woman_working.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive?amp",
-      "publishedDateTime": "2021-05-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-artificial-intelligence-where-it-is-working-and-where-it-is-not.md",
-      "title": "Artificial Intelligence: Where It Is Working And Where It Is Not",
-      "excerpt": "The use of artificial intelligence (AI) has been spreading in every industry. It was once a sci-fi myth found on shelf corners. Now, AI is becoming a core part of almost every technology. It plays a role in everything from helping people with disabilities to video games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a803f744a4520c480a70d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/amp/",
-      "publishedDateTime": "2021-05-24T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

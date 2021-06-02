@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-in-amazon-sagemaker-notebooks/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepLearning.AI, Coursera, and AWS launch the new Practical Data Science Specialization with Amazon SageMaker"
+    excerpt: "Amazon Web Services (AWS), Coursera, and DeepLearning.AI are excited to announce Practical Data Science, a three-course, 10-week, hands-on specialization designed for data professionals to quickly learn the essentials of machine learning (ML) in the AWS Cloud. DeepLearning.AI was founded in 2017 by Andrew"
+    publishedDateTime: 2021-06-02T15:59:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deeplearning-ai-coursera-and-aws-launch-the-new-practical-data-science-specialization-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
   - title: "Build reusable, serverless inference functions for your Amazon SageMaker models using AWS Lambda layers and containers"
     excerpt: "In AWS, you can host a trained model multiple ways, such as via Amazon SageMaker deployment, deploying to an Amazon Elastic Compute Cloud (Amazon EC2) instance (running a Flask + NGINX, for example), AWS Fargate, Amazon Elastic Kubernetes Service (Amazon EKS), or AWS Lambda. SageMaker provides convenient"
     publishedDateTime: 2021-06-01T19:29:23Z
