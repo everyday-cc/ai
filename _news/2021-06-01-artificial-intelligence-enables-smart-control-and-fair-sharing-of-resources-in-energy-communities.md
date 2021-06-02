@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
-    excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, and Shell (NYSE:RDS) today announced a five-year renewal of their strategic agreement to accelerate the deployment of enterprise AI and ML applications on the C3 ( News - Alert) AI ® Suite across Shell."
-    publishedDateTime: 2021-06-01T13:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-c3-ai-shell-extend-strategic-collaboration-reshape-global-/2021/06/01/9381253.htm"
+    excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, and Shell (NYSE:RDS) today announced a five-year renewal of their strategic agreement"
+    publishedDateTime: 2021-06-01T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/c3-ai-and-shell-extend-strategic-collaboration-to-reshape-global-energy-and-resource-industries-with-enterprise-ai-2021-06-01"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
     excerpt: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
     publishedDateTime: 2021-06-02T04:22:00Z

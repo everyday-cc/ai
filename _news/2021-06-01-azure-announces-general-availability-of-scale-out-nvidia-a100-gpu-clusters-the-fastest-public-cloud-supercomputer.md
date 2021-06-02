@@ -24,6 +24,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Microsoft Azure launches new Nvidia A100-powered supercomputing instances"
+    excerpt: "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads."
+    publishedDateTime: 2021-06-02T13:29:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 103
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "World’s fastest AI supercomputer is powered by 6000 NVIDIA A100 GPUs"
     excerpt: "NVIDIA has announced that the world’s fastest AI supercomputer has been turned on. The machine is called Perlmutter, and it was officially dedicated on May 27 at the National Energy Research"
     publishedDateTime: 2021-06-01T12:12:00Z
@@ -56,15 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia Comes Out with New 3080 Ti GPU and More on Computex"
-    excerpt: "Titan cards are believed to be the most powerful among the Nvidia GPUs and with the launch of the new RTX 3080 Ti card it can get even better."
-    publishedDateTime: 2021-06-01T08:18:00Z
-    webUrl: "https://www.pcquest.com/nvidia-launches-3080ti/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 19
 
 secured: "3ZKswDY/L2eGlfJh0pOSAEEnTjfxC3cdHFSPGEWkDZFowO+NSV4rDytSpNaZmuPmdn6FmqP6xC4jANnNPftSooNiUF0efa+7/3i1we679olzSLrNLmQsI6xEpWo8nlrjqgoVa51Hv6FTkhtf6snqD7rATBsnkUGGuv3eFuf+G6Gb+0wgj1v49wA0o0y3uZoeezN0g+1l9spWxgSwA8KRMjckTyVx6NvqRpw2lnXkPSIloxiTA+S5SudTz+5TTel80+1Hah1+R6g6dFLge3y08XtZKocuhdXVeMHT/a6NXM9td8+cuFcIE1gx8iHhX/g1APVCAYJLYbpmZFTpBycKvFndYAJY8PHtbfzpGn8mOEY=;GenjHPHLj4/xKKZKTKamIA=="
 ---

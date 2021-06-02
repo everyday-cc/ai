@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
-excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration was overwhelming."
-publishedDateTime: 2021-06-01T18:30:00Z
-originalUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894"
-webUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894"
-ampWebUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894?amp=1"
+excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration"
+publishedDateTime: 2021-06-02T12:02:00Z
+originalUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320"
+webUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320"
+ampWebUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/women-in-fintech.png"
-    width: 800
-    height: 400
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2018/10/GettyImages-912547822-e1539707985381-620x249.jpg"
+    width: 620
+    height: 249
     isCached: true
 
 related:
@@ -95,6 +95,6 @@ related:
         height: 533
         isCached: true
 
-secured: "BDgRwKZuhGfN12rRXNIUB1y4iQ39v4AENcL26epzsmceLLzd4MyrkDPRc7qmHxYrw7RMlllK+OkcWvewyD9d/7WtT295jnYTfhKo4COGAR9OPA4+9WdJSY9VOTpBLQO1E4+khdjN0Gu0VFMMfunTYYaMWl6cpH0MEFcF/P8EdVer+o31WhqvWCmr4BnnXJ1u3WGH2dFywdlahD75gKlChO4OOcmWExMy3Yh0yy/YvyTTfMnKb8MJ9lviM8ewXoTlc2QyjyPei68r4ei9o3jJpE+TvEoNfrlnJ72r7DqehgGIE5p3NSKnuJOIDuGvR36oyy1fmwmddv3KA6dMzU1R3bcDIhdu1hd6GMtXSXfu41LB7Gb8Y6Z/j20nR8FZDbMCJamRaZyPdOx/6gs5y2+8pVofpZMZWRWOjWCbaCgNweXq3zOzH20phwZr6NN8N6FsCbtKA/JUXK5pC+hPLjeBKlBKnOhY+N/KxneWOat1OuzhkVnHdJdb98KvXx0mRfL1fdKmTvxlYFoYGRKYdjs1gw==;8DrFQAjGnyjB5Y+GiromvQ=="
+secured: "TIv9XQwgF4hZygkJE2pmbjvI8bJpCgMlifqOm/1AY7h++cmXrZyTTyqyv7ebjDpql4HD3IIaPY0KfGXAf4+z0LpAEvhUVG/OgAj/1unlOKmkAW4Cmp+QIMUuxkeEgqdoZi/LifbyP45WMZq0JCqTQSY6y2jIYTKyiY6k35F4Om3qF8UTmC3dj0FD96VJV239gxThnnVwUSD/HX87EAcMoqvP/z4dZ+SAnC3iE8cm+VHX9uKcDrIFYaMy10CTXOuFf0ik0gMaPR29QDq5n+q+WrF2wX1NaoIDbw/dJJHyYIaRx0Um8K3hTB0ZHvsKHQWOyXJ31es3nIyNv9JnkZ+MCdSc6G7HhE21/rh6H4yODL0=;/nWycn7dSEl9Yc2RWktBqg=="
 ---
 

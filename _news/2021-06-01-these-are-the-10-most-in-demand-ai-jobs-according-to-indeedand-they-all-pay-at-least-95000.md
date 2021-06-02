@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-p
 ampWebUrl: "https://www.cnbc.com/amp/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html"
 type: article
-quality: 76
-heat: 86
+quality: 176
+heat: 186
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 578
         isCached: true
 
-secured: "pfw1HPmBcGgMgXWQRtRZFYNrPB9CCggJwweTKwfLM0bqTzQVDtxB0oFP8f1htagUw7mTHZJi82gNAzfZOM39IpY7lQUQ/J3Q2NeUgyLOgj/yxhUJdACh+EDf5N1AVOENPS6MoNgGGoRLXVnMAqIWGAVjE0K/PO92gg619JswDrgGg7Zr4YUjubcVd1Tpw7qmW/GLCoJHwJMnhE91HEyRAeiswuhprgcCSXEE/qypTD+khXInh7zgUPccQZ9sK1OUBRDcBQuL+3wrF/Q58ft3L1shyjh+thFhN3Q1q3HX40ELc3B56LNS3IH4pThPiVSEBPwiscE75lu7yBTIyZjddC7VITJTa6LPIIKC4OMMPM+1i5BQklz6mDi8qeOlurv/96Y49eayQFaW/7TCEDAS2ymMJHn5DSnGnr2mxVkjWRGgIuLe5NKUggz78SbVXIZc3kknvYR1L8Xt4HF9iPk0RJoB5W+fyCFTzAG06dL3xDnrelDGG6Qx/tXpqKJQw2905O5cnMEO0Fc+/5yS4T5xfA==;d/S8QFwG5oFeGSjucvxsnQ=="
+secured: "dcsjwlNnuVvlmpBVsVSzB3lgTZg7AX9AQkAzJ/7PIUK9Wk1CygMd0kc+Aw8h4whJp3YPPUYOMiDOFSs7wW9/Y3GsPrYex3Mbfda7agHMlpK1YnTwU1PjkeRADeqQh1kvN/gpMZ+bT216Ce8Rf71fr300p3AZA7/YmFVJVBGEVWc3v7e99VhVkjB7M5DnP/6JDRqRY9/wtjkQ6XnPYGH5X5i4/v1NkMa/ZlARe/vEIVlwZTi4ommGJoKukVQJ2yW1xGD0f2S65skrYqeS67jAt7QHGWSl0pNZ55vVGkVb7bzwS7wAj0nI0owMrJwmStW0HGdtmFH+lBO9QsrjNxPpKlsjcGaoTOV3+95hrACN6LZ1F/qNuesEvjaiFaaBeiQl/wT6yOUpDl6U1dTmKLNn/TKWYHZmdnAglS8s6/z3p4Kl0jh6RvPVdO2s38wIvUK/ZWedFXa/Hl1g5qtJ3TcKEFm/jJSiz2a4NOiPkAbNSi7LoUAAD02M4M3GV5OM7VyH37jia1lwKi97O3lZ8S8Mk4n1mt3jPKb0zS1xL1gPKBY=;V8aFZWEP6bCjDlvK2ZuNlw=="
 ---
 

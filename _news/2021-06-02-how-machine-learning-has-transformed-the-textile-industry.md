@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Set to Transform the Pharmaceutical Industry"
-    excerpt: "\"The search for novel therapies has long been a trial-and-error process that costs drug companies a vast amount of time and money,\" a Pharmaceutical Technology article said. \"Now, with artificial intelligence (AI) set to transform the pharmaceutical industry more than any other emerging technology,"
-    publishedDateTime: 2021-06-01T17:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-set-to-transform-the-pharmaceutical-industry-2021-06-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-set-to-transform-the-pharmaceutical-industry-2021-06-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-set-to-transform-the-pharmaceutical-industry-2021-06-01?amp"
+  - title: "AI Challenges For The Health IT Industry: Can We Trust AI Like Humans?"
+    excerpt: "Can we expect complete automation of medical processes in the near future, given the issues that AI systems face even in the most advanced areas of healthcare? I have touched on some of the aspects in my previous article,"
+    publishedDateTime: 2021-06-02T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b66240688fd548d87dd31b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI can Bolster the Gaming Industry"
     excerpt: "How AI can Bolster the Gaming Industry By CIOReview - As the identification, privacy, and security of the gamer is a fundamental factor of the casino business, implementing AI"
     publishedDateTime: 2021-06-01T13:35:00Z

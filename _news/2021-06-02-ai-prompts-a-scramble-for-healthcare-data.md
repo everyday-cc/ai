@@ -57,6 +57,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Treatment.com’s Innovative Healthcare AI is Put to the Test by Doctors"
+    excerpt: "(“Treatment” or the “Company”) (CSE: TRUE) is a healthcare technology company that has developed an exclusive AI software to think like a doctor. Using the latest artificial intelligence and machine learning,"
+    publishedDateTime: 2021-06-02T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/treatment-com-s-innovative-healthcare-ai-is-put-to-the-test-by-doctors-1030487034"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "+8BvIk4sMRVkGH98xiXk0U8xCxpnj8Br0SjI14I6k/zQ+kGsIbgHxd99Fa2WH1YGdD5/RpMNXm6o5wd9HLnQR93AZeB9fl3tfIfZs3QUBwzD4RksayZTt63zhiF7WN5iaYP3GxAAL4G+6rk33mEYj27mQ6Yk8HQtxHDzV2CvgnnhIhj2OxDJ64rK+N0d7vBAfydi+0+DPxBQiEDPQlofIJ6XwA1ZXjRFQrD4bY2Sc7Sgzpkb03dyKve9xNvxHXE0Wa41SYE7G9z9YDF+iScD803BOi7NWncF3gu1uhJmUr0mBK70YLnkkPrkyoojLjw+jF4DKVBAo947OtfLVwXNqnyh0Z3PJC3Xt0NEPTZWRbeNK1FTKKclCB/toVe+xqtIHPaSGO/JqzGFDKpl/Uw3Qp0bAxALK0p9nVOhdtu1UNyKPrxYtG406M6RRv65PFiZmn4sK9lJxnwmvyVPIPciEX5W/vwjYBmyfinOBDcajyK7ZDrlYOP0RpdWETT4UvL7EvcVHLVSL5IkC07NkPAidg==;bgQcWAB/MQGSo94ySNJLIw=="
 ---

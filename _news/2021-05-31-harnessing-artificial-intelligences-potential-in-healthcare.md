@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-pot
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Treatment.com’s Innovative Healthcare AI is Put to the Test by Doctors"
+    excerpt: "(“Treatment” or the “Company”) (CSE: TRUE) is a healthcare technology company that has developed an exclusive AI software to think like a doctor. Using the latest artificial intelligence and machine learning,"
+    publishedDateTime: 2021-06-02T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/treatment-com-s-innovative-healthcare-ai-is-put-to-the-test-by-doctors-1030487034"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "AJ4UCgAs398DDjUBAY7g0WqjjT0akNOO7bSMw+SqCvPCnW2qd7MbYyHfqtbaPGbKdDMauf523HKyCqJV2lrwdE68N+UGT4/EN8SzUSbRICJlQgR8DumSknZrVs9I4bjPNGT6SYVfb68Po3+pSNvs4fLJ2EfiN39GkpYSU+ce4wrAXA4TQGcU+SF6W/swZu6I4pFUEM8s5C5WdlyjdDuCGKEhztc+N37GiM9sxpm+L3o9JII7JR81jl3Nnyi5w2/s4lSCfq7DnkiKJj2KMCygxL6RAqsUUUgfqJP+fpPMoQs0p82dd4x4fAEqSHxVk1jnktxnazGOxFXVnTGTmSjlst/tR7SAqNd5oM7lNOWBDnNwgk6KZvMgdeAvuPE6S3g6Cql+WotKC/jO7BZ1HshiTjsmrqdVuTB5VMpbDZLcgvowlrkgPUdk8Y4nE144BNRMaXKt+cQv+NblJ3zB25oK1d2BjortWgrci3BRHrmINPBkjZw1DQhuT6EN0KGs/mjs2argDHEAJGOMaUcyg/QzRQ==;keQTwKlbKz8rn3dALf/G0g=="
 ---

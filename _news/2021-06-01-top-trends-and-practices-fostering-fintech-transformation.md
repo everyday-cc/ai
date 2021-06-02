@@ -91,19 +91,19 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+  - title: "Fintel Connect joins Visa Fintech partner connect to bring scalable customer acquisition to visa’s clients and partners"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a program designed to help Visa’s issuing clients quickly connect with a vetted and curated set of technology providers."
+    publishedDateTime: 2021-06-01T15:10:00Z
+    webUrl: "https://www.cuinsight.com/press-release/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Credit Union Insight
+      domain: cuinsight.com
     quality: 0
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
         isCached: true
 
 secured: "AZeUcZQhV/8vqIpwZovSo+D8giXDywTEyj8RWcweKIvmASY7K4ewoX2MtenO+0NrS5pDUnmUxbBnlj9XEYzB2ult3UIS4EVD/Vwl3F2C9IKHeITc+pEQ2BO0tfYMed0ue9oSopx6RhNH/tJ6UrvlHx0JcXRElFlvuFYQaK/Ezin59W+MBGd8JGXV0a2IBpUiQe7Pd8wOF1hzu2XDgC9zB/oXFMt/vDDtW497fkv1VacUaIF00oJVOYw4ecbAP1wqRFnYm5jJYr3DFiaXqkyBvA3f4hVNue3mcHIc/kx1uDwFpMQjTgEtNWhqCWcbXfB9uHfoCX4EVUlmW1POEDN+86XhzoyDjYOdI9K4TXC7vVMiiEhSdYF4krGPvNrxId8mHB5bD8ItpouneQzeqhYbIjyYDcSVoF7a5Byhf6PvnxsVBCTkpigxT1xbfA35ozwWL+IdIuWzwWX64S4ZXajyYiTHwpLgWkK4U19ZcIp5vO8mzqMhX2QRauDad6nRDsnMWlTo2emxHGvuEKHm90OJLA==;Ol5OrQbHwbtm+UdXOFO+pg=="

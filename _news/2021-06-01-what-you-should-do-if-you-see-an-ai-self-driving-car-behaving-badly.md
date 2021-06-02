@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/06/gettyimages-516804034.jpg"
         width: 940
         height: 626
+        isCached: true
+  - title: "Apple loses several top managers from self-driving car division"
+    excerpt: "Apple Inc. has lost multiple top managers from its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. The iPhone maker has hundreds of engineers working on underlying self-driving car technology as well as groups of employees working on an actual vehicle,"
+    publishedDateTime: 2021-06-02T13:32:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apple-loses-several-top-managers-self-driving-car-division"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/apple%20logo.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "ai+ogb/BkdwlAoCNeTl/7rV+Huc4LmzSMamYV733KBXHkeUImaOZpT6N6iLN8RTCFmuOaCyJZtowm4/20AbxRlp2g33fOlF4y2bG1xWxuW0DxZ5fL0/cgB88rRqY/zNsOjAwuty/KcjRZDGWiiw+f8uDjRrprtRbwzEGqhQ5CiFAf7weMR4zGraJ9Xq+yXmkzoz6LDwmGJSqIQEZBgLs7KoYYXf1cJkW3U7aArbdJX4Ek3/7Qem+cVC1OyD1Sl6BrpYCPxxAa/NNGiA4wt3fiVBHC4piVfgHBy2s1cMboNJn9/izAJlLasU/LUlBYsREeWRWTyA0cafSc6FF3sNfqVnTD+1qPnMyJ1znJTxIzZHWFhgegDEGYdK0EVPAMHjySO3JsDCcCpTzsjI88pYzn3r1jy/Y+D/wkYb4QLqIKPfdiqdlxls+37LHUbkcX4l7Zfwbg/4dybvND1TYW5SiA3PVmjNvnCW9GIMZQ4GKhN49pYhSVeElMBvLjJPXgG7ltwyU2N+BYYAomWNvHpbO3Q==;NAsl+D+Lr+VPvMwnlAWILQ=="

@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-02T07:09:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Neural Network Performs Complex Hand Movements in New Simulation"
-excerpt: "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations"
-publishedDateTime: 2021-06-01T13:54:00Z
-originalUrl: "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
-webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
+excerpt: "The movements were simulated on the EBRAINS research infrastructure. Credit: HBP/EBRAINS A team has produced an app called Significant Otter that allows couples to communicate with each other based on their sensed heart rate."
+publishedDateTime: 2021-06-01T14:33:00Z
+originalUrl: "https://www.technologynetworks.com/cell-science/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
+webUrl: "https://www.technologynetworks.com/cell-science/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "avTrLVVodyMSSkEXRfGEChzSY3Jrk7JefbJpOIzb94oO6ilJ2mRNFpPuoMP1BGImlOqPK7VIACxZ/oZDu+nbHGm8OtSp6YTGHgR3/PfoVWvuxBmtUfTEwYZwDQznbpjNXt8GMpdIgn3tmyYpM1BroZlvfnXmmYt8lLz8pGNH5eDUNl5ajPOAuWunFy30MxFr9T36u9HG+S77LCu/d27b5m9jZgZseUGpxsQAomU+XwMfu/7ywD7c+R0V6Vi3WBmfDL0zFNTqq+onHpmm5BdFKd19CClaRA8XaEWCcO4j11FKuQWZOxvWLvxhMQpV5jqxqYNjwAnFWsaunmrb2d5OoaijioDtrfO5D4Kt4ZcMZyBqaQUo46ZwH7wHqio3jTHoRcdKy513YwasEH5XyKDbNnuJ4/KhjlMqTXZdrQN5WQn9nK/Yp3ntrZkgjaxLR5SB7O8PnMskpT5bAWRgEwl+xh4UdfVR8NXOEyICceDmx9MrdWjdkiDfgnYlc6urpfXxYJikcmiVJsy4SVJJceMqeg==;JVqJJML/Zdwg9rmgeYgIaQ=="
+secured: "MFRHyg4Fq5blZ1PTyjQOUdBJ8beaCfoJgQo1o/kAwI8bHiZX6grtFfQDKHt0YEVon4YAn+g+3+9UCpqSofbnj0hW5AFn9h4mUv3eBUe7xLyl4/TlloAzWZd8ANP0kWKBpYRxvD+SIKJGWa8UarAozkf7NDlQiFexCpmu9YWfWd978SdVwmmmx7vz/lR4seMtS+CbRHp74AN6Vz/ig6TIwS40fPmrzH/7YPrIJSy0UNnboM1iULjsGadvJPfeey+a2d2Gg67IJFaTwjH/8yVCqOSDK+NhK+ghy+MuH4Ku/ItdXc3gfQnhLXVtCIvKsDSMB+D/b0NBmuoQot7j3fRJltR1oamkouX6LGBjtvHMAsA=;da+NxWQqZfQ9nY/jGv5LXQ=="
 ---
 

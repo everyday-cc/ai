@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Aetina Launches New Series of Edge AI Solution -- DeviceEdge Mini"
-    excerpt: "Aetina Corporation, a provider of Edge AI solutions, announced today during Computex 2021 its new series of DeviceEdge – DeviceEdge Mini, the edge AI-enabled computer. The DeviceEdge Mini Series leverage s the powerful capabilities of the NVIDIA® Jetson edge AI platform."
-    publishedDateTime: 2021-06-01T06:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aetina-launches-new-series-of-edge-ai-solution-deviceedge-mini-1030480095"
+  - title: "10 Ways AI And Automation Can Help Agencies Succeed"
+    excerpt: "Artificial intelligence and automation have transformed the way people do business and show no sign of slowing down. Smart agencies are seeking new ways to leverage both."
+    publishedDateTime: 2021-06-02T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/1521850/PR_Mini_1.jpg"
-        width: 400
-        height: 267
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b69b04d65af80e8d7dd319%2F0x0.jpg"
+        width: 1200
+        height: 580
         isCached: true
 
 secured: "6ov+rUt3m4bpxnRV5kS/5I51thbuJikaY01lRZR5ukmvdPRGnhRLbxEc0p2nFIwzbICItXuRsu3fRzfFhNsMN47MAWoDvqS9ltCKgWTwcNL6mODU9ebry0Az1DHjcLP5lDXy9CDM+qxOziO3V4PLdprhZuI3+FdIUHjT9wl2kvXbHy5SFPlEyzUKBHI561nt7Ooew/miboAWY0w7wPqGh5SUFKteJD+OL9K47sMKw8XWAAZbRyYBe1Bhn1rGHJxlpRJh/RWTMhe4ZTvON2XBCFVKg+BeJ6KCF7TbwOIkjBIYa6TRPWQ+sTBOjLdxBN/s8YYIRYaYMbMHbUVVcGWz23EsXb82pNqHasYTXHO9EWg=;oRIdOIecfRyfSNJrdHaOiA=="

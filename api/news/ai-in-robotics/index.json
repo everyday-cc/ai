@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-02-dhl-extends-warehouse-automation-partnership-with-locus-robotics.md",
+      "title": "DHL extends warehouse automation partnership with Locus Robotics",
+      "excerpt": "Robotic process automation is no longer a science experiment. This technology is no longer about figuring out what works. The time to consider whether to automate your warehouses has passed.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics",
+      "originalUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/06/DHL-locus.png",
+          "width": 1144,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics/amp",
+      "publishedDateTime": "2021-06-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-ai-driven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp.md",
       "title": "AI-driven platform XraySetu to facilitate early-Covid interventions over Whatsapp",
       "excerpt": "XraySetu is specifically designed to identify COVID positive patients even from low-resolution Chest X-Ray images sent over Whatsapp.",
@@ -1390,41 +1433,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-american-robotics-appoints-tech-industry-veteran-kevin-willis-as-vice-president-of-sales.md",
-      "title": "American Robotics Appoints Tech Industry Veteran, Kevin Willis, as Vice President of Sales",
-      "excerpt": "American Robotics, a leading commercial developer of fully-automated drone systems, today announced the appointment of Kevin Willis, former VP",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210524005528/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210524005528/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-23T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

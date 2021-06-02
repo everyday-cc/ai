@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-02T11:08:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - AI in Healthcare
   - AI
+  - Computer Vision
 
 related:
   - title: "Study to train AI for koala ‘face recognition’ at crossings"
@@ -48,6 +49,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "fbaV6XHByA9qhHLQpL4k+xmSYjLeF1s4HEbjYNA5+muJgloQzvZ7SuWk6hGCP33wK/Dv76a8GxqYWr8YUECJ49swlo7dCZzMq/2JebaF7z9119jYFWrYeUuDWJv+7c8VZNhRUO7K2du+S1vudbbPeHRYQh9Emswy50zG+QBIDvc+l+NIXq3EbZlVZCkGYWp3qnuDttq/iotuAZwgiZ/po/8uleu8HYYl41ndGBObowTyW29zb8b5U8ylX5yYbqAjz4D0PSHwzf4mZuDIMXhBJWzfQfi1C+eN1koYuW2/QHh0Xc410sCfutNiEXIINxN3XcQhmrEx+P00osxX++3Fe59X9pU3FOqUKQlgMoyVyN8=;OQAyuwXjXC/FQPuqhAoyaQ=="
+secured: "2RMy7PDpTlTtD/0yEETb2QyO41xkv9zOzNQtdN+q3yEscOvl3l94NfeTN3gqlZ5bFSKnHjlXwdj9YU2WZTAwALq9/t7v1iUq4KM9WWziGagpvI45kXHnHEAF9/IkMGP1OFkqYc0nQJuEVHonBGxO7YKk2ZCLWU7JyQhmDyv+kSgVwoKVrhLRBbVc/TGDBK0xat27zc3MKjfSNRp8J9zutG6PwvBTIIDHoZUlIsQ2cRU1apIICkuwhghp3kX2eMFIgjxehQlnnO2fHXY2ZsqHWayaHqsvYp5ondeHProPgE611y6/TsP+EoRwqlBpY7SNYNQwih3lPoRbGXoyRhkuC4U3GbnOcox1+K72TZyboqs=;zE3eCExdKKh+B0HMYVCXSA=="
 ---
 

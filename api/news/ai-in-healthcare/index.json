@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-31-healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-145.md",
+      "title": "Healthcare Chatbots Market Expected to Grow at a CAGR of 14.5%",
+      "excerpt": "Global healthcare chatbots market was valued at 116 9 million in 2018 and is expected to reach 345 3 million by 2026 registering a CAGR of 14 5 from 2019 to 2026 Healthcare chatbots are user interface which are employed",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "originalUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U531636275_g.jpg",
+          "width": 790,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "publishedDateTime": "2021-05-31T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-harnessing-artificial-intelligences-potential-in-healthcare.md",
       "title": "Harnessing artificial intelligence's potential in healthcare",
       "excerpt": "The adoption of AI in the healthcare industry is also gaining momentum in Gulf countries. For instance, the outbreak of the Covid-19 pandemic across the region has prompted two UAE-based health companies to launch the “world’s first” AI-powered rapid Covid-19 antigen test.",
@@ -114,7 +157,7 @@
       "originalUrl": "https://gulfnews.com/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1296,49 +1339,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum-japan-monstar-screen-2-trial.md",
-      "title": "Caris Life Sciences and National Cancer Center Japan Announce Exclusive Collaboration to Launch The SCRUM-Japan MONSTAR-SCREEN-2 Trial",
-      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today they",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
-      "originalUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/inforney.com/content/tncms/assets/v3/editorial/5/ff/5ffcd25b-7333-518e-bb6a-6f66d5176c83/606c3c27ea886.image.jpg?resize=703%2C630",
-          "width": 703,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News in Forney",
-        "domain": "inforney.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-publishedDateTime: 2021-06-02T02:40:00Z
-originalUrl: "https://www.ryt9.com/en/anpi/250000"
-webUrl: "https://www.ryt9.com/en/anpi/250000"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+publishedDateTime: 2021-06-01T23:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: RYT9
-  domain: ryt9.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
-    width: 800
-    height: 338
+  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -159,13 +159,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    excerpt: "Available in the Microsoft Azure Marketplace. Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage"
+    publishedDateTime: 2021-06-01T08:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210601005063/dataiku-now-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 49
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
@@ -191,6 +191,6 @@ related:
       domain: manometcurrent.com
     quality: 22
 
-secured: "5uqhadnn/lAe00b+sSmC1ateu4tZC326axiBf4rpV2IYu3A4t7+oxC4EkT6Jp8/QFDgq8m2nqlHVcrkAbCs8oZqg8Y5wKoqxrAPPXahEG94VGzreUy1yd2jyloylvOUrdJj3N+BYIO1Burc+WOmT4Oe95qnh3YlbAVPGUCu5xbUvZ2N7x2wZKh1/zCRwrDmd333ckjjIT2YgLTGxYGUfFPrFPDSQdJRLNwzLEdrxCXHZhIpNhw6icAyutjMzTfCD+6kIx66Nftpbhgl4YMbzaQpHcq/TkTwIToaIzkcidtZOE/3W8GQlb3KLfn11G9YhMNaXDzSX4mfM6tqVFRrOikDU0w1uct7nMuvEQJztnpThKM7nz3+MhOi78NY72P4OQJoQC0EPPyczeZFLerFbl/GTMDaNtEaeDuvBxfcsPF7Qr2Cu+EwMNWDsAxjpMyAPjDnuSJxeoq2b0egy5q3KEVGdAkzqgihlKCHFCbZSWbi2qCbLp9Z+d/AiY6752jxdECht2uoZIoFXFejI3GQy2Q==;uB0jOERaqgY4a/2fZ/7Xqg=="
+secured: "CpF9S03tpcAL12yzvEBRppggNJv4NjfWFhzfy+0PAsJlwOXbcWschRiYN8wN1rYqYuiEen1PttIyuJ0Ar21vTWgmhASdATvJXJ3Q+/oaSe1Vx5sdiKcwQLKqSBXi/svz+ArXFzh+nZPKju9BSxIWGxiDHUHKHonq6JGGbHHObzOZTefzDBQDS6/pYm53I0pGEuw3Li4ALy3otLQY4nhkicorkXv48kBxxHayUu3MKthO+xlffgOk1GPPmGPVRsTUNh8ljKWXaAktKu4Izj60aAVujZrQKBD3fSHOujsJR4G0rJ/+gZuXWR4ktkyiUKKKnPxej8iyfn41qfnZeYktfOfQT5XmhgGewRKWQ5ei4Qg=;2tUpmlfeVxJjXIaK5e5KsA=="
 ---
 

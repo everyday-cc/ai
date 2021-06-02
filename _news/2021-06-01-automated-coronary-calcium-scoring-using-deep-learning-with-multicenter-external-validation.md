@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41746-021-00460-1"
 webUrl: "https://www.nature.com/articles/s41746-021-00460-1"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 685
     height: 261
     isCached: true
+
+related:
+  - title: "Realising enterprise-scale machine learning with data governance"
+    excerpt: "It may not be long till machine learning becomes a norm in India.Get latest Information Technology online at cnbctv18.com"
+    publishedDateTime: 2021-06-02T13:06:00Z
+    webUrl: "https://www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 41
 
 secured: "ph5x9NVqqF/sHEofWiU2UXwxHwgOX+jST1uUsBSJUlFx9Oc+QKABAQeoX4Q7hkbkG7/zQKAyRD6M57vzAdm8e2kQyFltVp0N8/p3I6CbKD/dgvYv9gajhiqVEQ72YR5FpgYyEaZJEWnTsAvlnQeMqwzpQ6UzBY9uB+EBfIRBM/GAmI3PRn1QUQOaes3mKwe6gUUvRm2VD6cQAz9riosY2el/duLoxpmc7ilcFxkVfc2A+FkdPhqXCbVxHQ0sxhP2yCQv1EcRm42wOYUgHgItQYYRfCuc4vKUyjzMyC/tDHExuHlVnSrlex1jLsCC0nufNagyudss+rB8PZsXZjfgn5nhLklJAMmSPpgvy8mqmEj05NDvvU/F1gbUMol+vI6eOqxdoa1Ugch9q8dOx1x/MMN/ENVwzfxCKTJKN1c2AK8cv4T6woJ0DTIsPPzfqur5oD7Ovkf/4tJSFvc8cXhEGQpFE4LvoroP474EuGSRbab5NuSPrNwSZWqBNz/PICB7RyGz2fjIujA36UtU7Inn8A==;jy0j8ACEHvBzTwmRqTzKSg=="
 ---

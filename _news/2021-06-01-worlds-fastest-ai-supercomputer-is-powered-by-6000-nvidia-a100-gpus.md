@@ -9,8 +9,8 @@ ampWebUrl: "https://www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: SlashGear
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure launches new Nvidia A100-powered supercomputing instances"
+    excerpt: "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads."
+    publishedDateTime: 2021-06-02T13:29:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 103
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Azure announces general availability of scale-out NVIDIA A100 GPU Clusters: the fastest public cloud supercomputer"
     excerpt: "Today, Azure announces the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs—achieving leadership-class supercomputing scalability in a public cloud. For demanding customers chasing the next frontier of AI and high-performance computing (HPC), scalability"
     publishedDateTime: 2021-06-01T10:45:53Z
@@ -55,15 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia Comes Out with New 3080 Ti GPU and More on Computex"
-    excerpt: "Titan cards are believed to be the most powerful among the Nvidia GPUs and with the launch of the new RTX 3080 Ti card it can get even better."
-    publishedDateTime: 2021-06-01T08:18:00Z
-    webUrl: "https://www.pcquest.com/nvidia-launches-3080ti/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 19
 
 secured: "5OGR0o2lVXR26P3f2NS7gO6sfyQdYlW4f6mgSyLIs8TsF0QDBsCXM9bUbeqspkdzag4opsqy7ESWC0LOPirk6Ry6Jm7c4TYktVBJqJfXjhcsd0cWQ5sIf7UKTFVuzmJu9ytayKOut7sZIzGa4SVX3tCevY3aqfVGVNZXhWkmynTjtQDMrz9qHsjL4S5+K//BQsooSqicCOZ/4J5Nan/MFnq+6plWDb9pHrarkeoN7HyEf2aVc/+cNgherp7ZW5/p3Ew+3/kP255jXwelTrR40b6Ay7+k52AP2STn6bbkMgRQ7fWqwOh6qUlpeiY+lywtWlWohzGM+6FpIj4rs+S/aG0HS+NCAtwcVaX04iLnFo0BNPMM066uGAnJokfASQPbLeZ3UR2WT4PuEOsTx8AfGZY+yL5kVUQCJa1P9jpJwKIxagFf//p+c2QxUgrGOYc6SJ46AI97i8bZ4ChTUKOOcgwLSj1jXfko8Kmii9e5ibmGYGwtGUsDuxpXqTwd/tJjaSQxpFaiiIQTuY24b9i3XQ==;38BUDKEDLERJGEpAuR7PKw=="
 ---

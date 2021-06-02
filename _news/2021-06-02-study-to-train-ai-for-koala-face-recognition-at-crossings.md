@@ -33,7 +33,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 33
+    quality: 35
   - title: "Local author receives national recognition for debut novel"
     excerpt: "Four Women for the Earth, for the Future,” was recently selected as a 2021 Finalist for the Eric Hoffer Award’s Montaigne Medal. This national honor is given to the most"
     publishedDateTime: 2021-06-01T23:40:00Z

@@ -52,20 +52,20 @@ related:
       domain: businessinsider.com
     quality: 62
   - title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
-    excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration was overwhelming."
-    publishedDateTime: 2021-06-01T18:30:00Z
-    webUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894"
-    ampWebUrl: "https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894?amp=1"
+    excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration"
+    publishedDateTime: 2021-06-02T12:02:00Z
+    webUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320"
+    ampWebUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
+      name: IT Business
+      domain: itbusiness.ca
     quality: 59
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/women-in-fintech.png"
-        width: 800
-        height: 400
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/10/GettyImages-912547822-e1539707985381-620x249.jpg"
+        width: 620
+        height: 249
         isCached: true
   - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
     excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"

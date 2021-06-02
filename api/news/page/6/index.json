@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-27-deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge.md",
+      "title": "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge",
+      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award.md",
+      "title": "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award",
+      "excerpt": "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-eyeon-eye-tracking-device-wins-2021-edge-ai-/2021/05/27/9379175.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-eyeon-eye-tracking-device-wins-2021-edge-ai-/2021/05/27/9379175.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-udacity-aws-to-offer-free-courses-in-machine-learning.md",
+      "title": "Udacity, AWS to Offer Free Courses in Machine Learning",
+      "excerpt": "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "originalUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/05/1622109948_scholarships-online-free-courses.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "publishedDateTime": "2021-05-27T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams.md",
+      "title": "Lead Semantics Selects Fluree for TextDistil, a Secure Natural Language Processing Pipeline for Enterprise Data Management Teams",
+      "excerpt": "Fluree and Lead Semantics, two North Carolina technology companies, announce TextDistil for enterprise data teams building data fabrics and knowledge graphs TextDistil’s rules-powered neural language pipeline,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-openai-fund-of-100-million-for-ai-startups-with-microsoft.md",
       "title": "OpenAI fund of $100 million for AI startups with Microsoft",
       "excerpt": "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world.",
@@ -1008,195 +1154,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-maine-may-limit-use-of-facial-recognition-tech-by-police.md",
-      "title": "Maine May Limit Use of Facial Recognition Tech by Police",
-      "excerpt": "Portland, would allow for the use of the digital technology in the investigation of only the most serious crimes, including rape and murder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
-      "originalUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/99195c7/2147483647/strip/true/crop/940x490+0+80/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true",
-      "publishedDateTime": "2021-05-26T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-dumbed-down-ai-rhetoric-harms-everyone.md",
-      "title": "Dumbed Down AI Rhetoric Harms Everyone",
-      "excerpt": "By ignorance or malice, policymakers use sweeping platitudes to regulate artificial intelligence, which may prosecute citizens more than protect them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/",
-      "originalUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60ad87830744ea4218d0e6c1/master/pass/ideas-ai.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/amp",
-      "publishedDateTime": "2021-05-26T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-runai-named-as-a-2021-gartner-cool-vendor.md",
-      "title": "Run:AI named as a 2021 Gartner \"Cool Vendor\"",
-      "excerpt": "AI, creator of a cloud-native compute management platform for the AI era, announced today that it has been named a Cool Vendor in Enterprise AI Operationalization and Engineering by leading research and advisory company Gartner.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/run-ai-named-as-a-2021-gartner-cool-vendor-1030467458",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/run-ai-named-as-a-2021-gartner-cool-vendor-1030467458",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa.md",
-      "title": "GM and Lockheed Martin are making a self-driving Moon buggy for NASA",
-      "excerpt": "NASA’s astronauts need a new Moon ride, and GM and Lockheed Martin are aiming to hand them the keys to not just one but a whole fresh generation of lunar vehicles. The Lunar Terrain Vehicle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
-      "originalUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Lockheed_GM_Defense_LunarVehicles.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
-      "publishedDateTime": "2021-05-26T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

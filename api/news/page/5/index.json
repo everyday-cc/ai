@@ -2,6 +2,206 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-28-how-ai-and-machine-learning-help-fight-the-covid-19-battle.md",
+      "title": "How AI and machine learning help fight the COVID-19 battle",
+      "excerpt": "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
+      "publishedDateTime": "2021-05-27T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-new-degree-in-computer-vision-launches-as-artificial-intelligence-expands.md",
+      "title": "New Degree in Computer Vision Launches as Artificial Intelligence Expands",
+      "excerpt": "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota.md",
+      "title": "Tests of Clearview AI facial recognition software raises concerns in Minnesota",
+      "excerpt": "At least 42 law enforcement agencies in Minnesota, including the Renville County Sheriff's Office, reportedly used Clearview AI facial recognition software, according to a Buzzfeed investigation. Clearview AI is a web-based platform that allows users to submit pictures for possible matches in a database of more than 3 billion images pulled from open source websites,",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota",
+      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology.md",
+      "title": "AI Audio and Video Chip Market Seeking Excellent Growth | Amlogic, Rockchip, Allwinner Technology",
+      "excerpt": "The latest released AI Audio and Video Chip market research of 91 pages suggests that the industry has made modest progress in tech-driven transformation since 2017. Many organizations have yet to scale their end use applications beyond pilots and proofs-of-concept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada.md",
       "title": "Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada",
       "excerpt": "“The new 6 GHz spectrum allocation for Wi-Fi 6E provides exactly what future Wi-Fi-based services need, and that is more bandwidth,” said Chris Beg, wireless systems architect at Cognitive ...",
@@ -1046,152 +1246,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge.md",
-      "title": "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge",
-      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award.md",
-      "title": "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award",
-      "excerpt": "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-eyeon-eye-tracking-device-wins-2021-edge-ai-/2021/05/27/9379175.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-eyeon-eye-tracking-device-wins-2021-edge-ai-/2021/05/27/9379175.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-udacity-aws-to-offer-free-courses-in-machine-learning.md",
-      "title": "Udacity, AWS to Offer Free Courses in Machine Learning",
-      "excerpt": "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "originalUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/05/1622109948_scholarships-online-free-courses.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "publishedDateTime": "2021-05-27T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams.md",
-      "title": "Lead Semantics Selects Fluree for TextDistil, a Secure Natural Language Processing Pipeline for Enterprise Data Management Teams",
-      "excerpt": "Fluree and Lead Semantics, two North Carolina technology companies, announce TextDistil for enterprise data teams building data fabrics and knowledge graphs TextDistil’s rules-powered neural language pipeline,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
