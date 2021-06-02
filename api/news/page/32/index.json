@@ -2,6 +2,145 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-05-07-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
+      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
+      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance.md",
+      "title": "Proper data hygiene critical as enterprises focus on AI governance",
+      "excerpt": "AI use raises pressures to understand the provenance of data. That means greater AI governance will be needed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
+      "publishedDateTime": "2021-05-06T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-chinas-first-robotaxi-service-launches-in-beijing-ahead-of-the-olympics.md",
+      "title": "China’s First Robotaxi Service Launches in Beijing ahead of the Olympics",
+      "excerpt": "Baidu launches Apollo Go robotaxis in Beijing ... for 2024 This Is What Amazon's Robo-Taxi Could Look Like BMW Takes Self-Driving to the Next Level Here's Why Our Self-Driving Future Hasn't ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/news/technology/a36354137/beijing-olympics-robotaxi-china/",
+      "originalUrl": "https://www.autoweek.com/news/technology/a36354137/beijing-olympics-robotaxi-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/baidu-1620317811.jpg?crop=1.00xw:0.893xh;0,0.0667xh&resize=1200:*",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/news/technology/amp36354137/beijing-olympics-robotaxi-china/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp36354137/beijing-olympics-robotaxi-china/",
+      "publishedDateTime": "2021-05-06T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-best-tech-stocks-to-buy-now-4-names-to-know.md",
       "title": "Best Tech Stocks To Buy Now? 4 Names To Know",
       "excerpt": "The sector comprises businesses that sell goods and services in industries such as ... with the largest market capitalizations such as Microsoft Corporation (NASDAQ: MSFT) and Amazon.com (NASDAQ ...",
@@ -1040,155 +1179,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-artificial-intelligence-and-the-future-of-humans.md",
-      "title": "Artificial Intelligence And The Future Of Humans",
-      "excerpt": "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer.md",
-      "title": "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer",
-      "excerpt": "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to support its growing base of global customers and Aqua's commitment to customer success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aqua-security-appoints-former-microsoft-azure-executive-as-/2021/05/06/9363020.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aqua-security-appoints-former-microsoft-azure-executive-as-/2021/05/06/9363020.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products-with-help-from-robots.md",
-      "title": "The Latest Hot Marketplace, Material Bank, Raises $100 Million To Source Architectural And Construction Products — With Help From Robots",
-      "excerpt": "Media entrepreneur Adam Sandow used his experience with design publications to create a marketplace for architectural and construction products. That startup, Material Bank, is now worth nearly $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60929a3d3eb73ec47a49edff%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1728%26cropY1%3D305%26cropY2%3D1277",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/amp/",
-      "publishedDateTime": "2021-05-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

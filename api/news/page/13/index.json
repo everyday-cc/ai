@@ -2,6 +2,143 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-21-facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition.md",
+      "title": "Facebook AI cuts by more than half error rate of unsupervised speech recognition",
+      "excerpt": "The use of unlabeled data has big implications for work with languages that, in an AI context, are low-resource, such as Amharic, Swahili, Kyrgyz, and Tatar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/21/b61d7fe2-4923-41e5-b7af-bdabaf2ce107/facebook-ai-2021-wav2vec-u.jpg",
+          "width": 1494,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/",
+      "publishedDateTime": "2021-05-20T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping.md",
+      "title": "Transforming Retail With Augmented And Virtual Reality, Powered By Artificial Intelligence: The Case Of Eyewear Shopping",
+      "excerpt": "Want a better way to get an eye exam and shop for the perfect pair of glasses? Thanks to augmented reality and virtual reality, the entire process of buying glasses is getting a much-needed makeover.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a738051be92449464708cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/amp/",
+      "publishedDateTime": "2021-05-20T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-ai-powered-teleradiology-fda-cleared-for-triage-in-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.md",
+      "title": "AI-Powered Teleradiology FDA Cleared for Triage in Departments Swamped by COVID-19: Interview with David Stavens, CEO of Nines",
+      "excerpt": "Prior to that, we worked on building one of the first self-driving cars while at Stanford, which eventually became Waymo ... We believe the role of artificial intelligence for radiology is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2020/05/ai-powered-teleradiology-fda-cleared-for-triage-by-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.html",
+      "originalUrl": "https://www.medgadget.com/2020/05/ai-powered-teleradiology-fda-cleared-for-triage-by-departments-swamped-by-covid-19-interview-with-david-stavens-ceo-of-nines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-amazon-made-rekognition-software-now-able-to-detect-fear.md",
       "title": "Amazon-made Rekognition software now able to detect fear",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -384,19 +521,19 @@
     {
       "path": "_news/2021-05-21-scientists-bring-the-sense-of-touch-to-a-robotic-arm.md",
       "title": "Scientists Bring The Sense Of Touch To A Robotic Arm",
-      "excerpt": "AP, Susan Walsh A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile ...",
+      "excerpt": "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of... A robotic arm with a sense of touch has allowed a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm/",
-      "originalUrl": "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm/",
+      "webUrl": "https://www.northcountrypublicradio.org/news/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm",
+      "originalUrl": "https://www.northcountrypublicradio.org/news/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.hpm.io/assets/images/HPM-logo-OGimage-2.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815-493e45de75e2bb62942e5046a4be25f33401bd9b.jpg?s=6",
+          "width": 948,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -406,11 +543,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T13:44:00-07:00",
+      "publishedDateTime": "2021-05-20T13:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Public Media",
-        "domain": "houstonpublicmedia.org",
+        "name": "Northcountrypublicradio.org",
+        "domain": "northcountrypublicradio.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -566,49 +703,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
-      "title": "New sensation: pioneering mind-controlled arm restores sense of touch",
-      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp",
-      "publishedDateTime": "2021-05-20T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-21-industrial-robotics-market-to-grow-at-a-cagr-of-95-during-the-forecast-period-2020-2025.md",
       "title": "Industrial Robotics Market to Grow at a CAGR of 9.5% During the Forecast Period 2020-2025",
       "excerpt": "Industrial Robotics Market size was valued at 28 9 Million in 2019 and it is estimated to grow at a CAGR of 9 5 during 2020 2025 The advent of numerous sorts of techniques committed to production control and introduction",
@@ -700,6 +794,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
+      "title": "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch",
+      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
+      "originalUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1027,134 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-industrywired-names-top-revolutionary-digital-transformation-companies-in-the-world.md",
-      "title": "IndustryWired Names 'Top Revolutionary Digital Transformation Companies in the World'",
-      "excerpt": "IndustryWired has announced 'Top Revolutionary Digital Transformation Companies in the World' in its May magazine issue. The issue recognizes ten disruptive companies leveraging leading-edge technologies to redefine customer experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-industrywired-names-top-revolutionary-digital-transformation-companies-the-/2021/05/20/9374601.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-industrywired-names-top-revolutionary-digital-transformation-companies-the-/2021/05/20/9374601.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques.md",
-      "title": "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques",
-      "excerpt": "announced it has achieved greater than 100x performance improvements on inference tasks in deep learning network",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/article_51a78bad-488f-5ddd-b24f-3be5494b5950.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/article_51a78bad-488f-5ddd-b24f-3be5494b5950.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/7/b1/7b1c2f04-0f3f-55a7-9452-e57ed4f76396/60a67d8b237a1.image.jpg?resize=982%2C398",
-          "width": 982,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today.md",
-      "title": "Artificial Intelligence Identifies Ethan Allen Interiors And Yum China Holdings As Trending Stocks Today",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Ethan Allen Interiors and Yum China Holdings among the trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e77a29dc7b02d000666d9fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/amp/",
-      "publishedDateTime": "2021-05-20T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,23 +2,20 @@
 category: news
 title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
 excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
-publishedDateTime: 2021-06-01T07:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317"
+publishedDateTime: 2021-06-01T07:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
 type: article
-quality: 49
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Healthcare
 
@@ -65,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Size, Key Players Analysis, Business Opportunity Assessment, And Comprehensive Growth Drivers Forecast Till 2024"
-    excerpt: "Get a Sample PDF of Report -  Natural Language Processing Market competition is assessed by top manufacturers, with production, price, revenue (value), and market share for each manufacturer. It offers a complete evaluation of every area including the volume of the global Natural Language Processing market in that area in the estimated duration."
-    publishedDateTime: 2021-05-28T05:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-key-players-analysis-business-opportunity-assessment-and-comprehensive-growth-drivers-forecast-till-2024-2021-05-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
     publishedDateTime: 2021-05-29T14:00:00Z
@@ -90,21 +73,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Voice Assistant Market Research Trend 2027- Future Scope, Regional Development, and In-depth Manufacturers Analysis"
-    excerpt: "Market Overview <br /> Global Voice Assistant Market Research Trends valuation stood at USD 1.68 Billion in 2010 and is projected to reach USD 7.30 Billion by 2023, registering a 24.32% CAGR during the forecast period (2019 to 2025)."
-    publishedDateTime: 2021-05-28T06:35:00Z
-    webUrl: "https://menafn.com/1102155668/Voice-Assistant-Market-Research-Trend-2027-Future-Scope-Regional-Development-and-In-depth-Manufacturers-Analysis&source=24"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/updates/pr/2021-05/28/pr_12202_38d8afc3_image_story.jpg"
-        width: 768
-        height: 1087
-        isCached: true
 
-secured: "MQSZaStC+8M6E0Lixm73ZI01D4A3xCXmFQBHCHseH5lvgkYLGg+uQ68/xvefO+5qFR7s1dlV4re1XhS62sbVNGD4yY1HF5zJN2uuaF7wOTsXZnY9nNcW2DcQY6JI9BhgW6ZDVx5SJnO09f0iFaW56l630z8uBbfn9CgcJmri90YtkbuPhZ2hDWBVcqh+OW+CmP0qbNkytZJovzvvwOYbOJIgdCbsmTdsWNBUgpMKwKbrZTmScwReKto6jcEWXcCVUUa1a0LoES6hc/1SofweteeigFGJzXOcMQngeKUD1bNfhsWcS2JXNx8mxCNVfPHl4SU01RgDfegkl4XoZv6pIAJY2T8E0vG5NDFRII8qCyY=;ek9TZn3WXb5LtFgLLyGQkA=="
+secured: "7GRHf/wtgzaFB4Vx+RlDFyxg6d2hQwYajWRNslspo9+c+LRF+lbqVA8/mPg4wyXGIs7z3IKDt+aVM0Aw2FRObeBSigX9H2BM7o++/OYyN9klFUzeDsRdu85NrwgjFayg6ONKivGd/eD/3Jz2h7hSHRyxmJh1t5mUgji+PRdhhKgVvnEoxJGqmcwgyfezKuVPnSqNOQhgc/3+mZLWFETbs8Z/JWKNA7kWmurUANj6kvhkdlU6TmKcQ9QBu9LAQ01DSKcWaRVPZ163sz4rhwDjxJq35LK/tS2NHSG8p7VYR7/b+2bCgl42rh7L0VvTnJ9reU4ocZ2GXYQlHGxEPesbFOy0DRdSIvUyQxTw5vBznYM=;GWUyX1xR40ZyJQ/BeWvrZA=="
 ---
 

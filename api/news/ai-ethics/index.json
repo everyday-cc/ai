@@ -109,6 +109,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-28-google-ethical-ai-groups-turmoil-began-long-before-public-unravelling.md",
+      "title": "Google ethical AI group’s turmoil began long before public unravelling",
+      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms.md",
       "title": "AI Ethics Teams Bulk Up in Size, Influence at Tech Firms",
       "excerpt": "Artificial intelligence ethics teams are playing a greater role at tech companies and helping them deal with bias and fairness issues that have cropped up at companies such as Twitter.",
@@ -322,31 +366,22 @@
       "title": "New Report from Corinium and FICO Finds that Lack of Urgency Around Responsible AI Use is Putting Most Companies at Risk",
       "excerpt": "FICO and Corinium today released its second annual executive research report on Chief Analytics, Chief AI, and Chief Data Officers 65% of respondents' companies can't explain how specific AI model decisions or predictions are made 73% have struggled to get executive support for prioritizing AI ethics and responsible AI practices Only a fifth (20%) actively monitor their models in production for fairness and ethics Today,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use/article_d485892c-0583-53a5-9dce-a5b0b0e3c0da.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use/article_d485892c-0583-53a5-9dce-a5b0b0e3c0da.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441",
-          "width": 1200,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T05:00:00-07:00",
+      "publishedDateTime": "2021-05-25T05:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1417,51 +1452,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition.md",
-      "title": "POLITICO AI: Decoded: Robot law — Helsinki wants to be Europe’s smartest — China on facial recognition",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
-      "publishedDateTime": "2021-05-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

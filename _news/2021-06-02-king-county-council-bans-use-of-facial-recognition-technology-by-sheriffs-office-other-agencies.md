@@ -97,6 +97,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "King County, Wash., Bans Facial Recognition in Unanimous Vote"
+    excerpt: "The Metropolitan King County Council unanimously voted today to prohibit county departments, including the sheriff's office, from using facial recognition tech. If signed by the county executive, the measure becomes law."
+    publishedDateTime: 2021-06-01T22:29:00Z
+    webUrl: "https://www.govtech.com/policy/king-county-wash-bans-facial-recognition-in-unanimous-vote"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a69d779/2147483647/strip/true/crop/1000x486+0+101/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7d%2F97%2Fbba0ef014d3e8908a5647b7bd3f0%2Fshutterstock-299881847.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
     excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
     publishedDateTime: 2021-05-28T18:52:00Z
@@ -110,6 +124,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
         width: 730
         height: 499
+        isCached: true
+  - title: "King County Council votes to ban use of facial recognition technology by government agencies"
+    excerpt: "The King County Council has unanimously passed a proposal that would ban government use of facial recognition software."
+    publishedDateTime: 2021-06-01T22:47:00Z
+    webUrl: "https://www.q13fox.com/news/king-county-council-votes-to-ban-facial-recognition-technology-by-government-agencies"
+    type: article
+    provider:
+      name: Q13 FOX News
+      domain: q13fox.com
+    quality: 28
+    images:
+      - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2021/05/1280/720/2DA91231FE93417B92B3C7985719FE3F.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ISUCPNz7hoP0B5Hn4kPulMkP+8wgKLmFANhEiy97BoG+NBiU/1cFAOVcCSHIt7sRBdqgeaJkyw4zoMe2iX8l2Bh4L5Z5Ec027B7BNUh/2r5CpJ9VCqtN8sXjZa/AqzmVZ1ey9IDLKCjaL/Cz1we4VFdoiRKbex0ozI44AvHM3FTU7vL/tQcN+GBv9orTfixoCuDcRc4JBCVXmG/p5tZTxfhPuziX45NZFHDs13656TUeKPKN/g9lZsSEZuHOouIiqMfhb/MAI9+5HVyTunwN6FsYfWTuFMVDwATLgxuWtn8Ox62IA7+pJvu0ip19HeeXZVcnKgYMPPU/4OteLa/fYAjgyRD15VH1dACmPdW0Vf4Nlwpqm6p/1Vv/3uU9/EblV2JpZE+jgQZAtQKvSi1XA1NNLFSpyHXHjrjo8RsLKsZbFyOhM5nT8wwFiuqWNCoYsGuVQSdIJHArzEahtZp/NjkO4RT0XwyCioL07IawsUUm0GzxBSM13s705nrYwWjFBNZidsfJ1buGDMOyrQkvZQ==;BQyOrj0mtbpHUCzVsJJdoA=="

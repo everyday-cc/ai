@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-01T19:12:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-strong-quarterly-and-yearly-performance-intel-ibm-google-microsoft-general-vision/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-strong-quarterly-and-yearly-performance-intel-ibm-google-microsoft-general-vision/"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Healthcare
   - Microsoft AI
+  - Computer Vision
 
 related:
   - title: "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science"

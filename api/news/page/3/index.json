@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
+      "title": "AI and robotics take centre stage in rapidly changing world",
+      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "publishedDateTime": "2021-05-30T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-technical-university-of-munich-experience-key-players-from-robotics-and-ai-live.md",
       "title": "Technical University of Munich: Experience key players from robotics and AI live",
       "excerpt": "Automatica sprint is an independent offshoot of automatica, the world’s leading marketplace for automated smart production, usually held every two years at the Messe München trade fair facility. Due to the pandemic,",
@@ -53,7 +96,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -692,7 +735,7 @@
       "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1152,49 +1195,6 @@
       "provider": {
         "name": "India Times",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-artificial-intelligence-can-help-doctors-manage-covid-19.md",
-      "title": "Artificial Intelligence Can Help Doctors Manage COVID-19",
-      "excerpt": "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/",
-      "originalUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/COVID-Chest-X-rays.jpg",
-          "width": 777,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/",
-      "publishedDateTime": "2021-05-27T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
         "images": null,
         "publishers": null,
         "authors": null

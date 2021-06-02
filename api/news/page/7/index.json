@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-26-apple-seeks-to-bite-into-self-driving-electric-vehicle-market.md",
+      "title": "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market",
+      "excerpt": "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
+      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae53b5af931c3c2f08b5b6%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
+      "publishedDateTime": "2021-05-26T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
+      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
+      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning.md",
       "title": "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning",
       "excerpt": "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,",
@@ -169,17 +255,17 @@
     {
       "path": "_news/2021-05-26-forrester-total-economic-impact-of-ibm-openpages-with-watson.md",
       "title": "Forrester Total Economic Impact of IBM OpenPages With Watson",
-      "excerpt": "Learn how IBM OpenPages with Watson, an AI-driven integrated GRC platform, can cut license and implementation costs and drive savings due to regulatory fine and penalty avoidance, reduced risk ...",
+      "excerpt": "IBM recently commissioned Forrester Consulting to conduct the Total Economic Impact (TEI) study that evaluated the financial impact of IBM OpenPages with Watson on organizations. Learn how IBM ...",
       "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
-      "originalUrl": "https://www.computerworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
+      "webUrl": "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
+      "originalUrl": "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
           "width": 300,
           "height": 300,
           "title": null,
@@ -191,12 +277,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T04:46:00-07:00",
+      "publishedDateTime": "2021-05-26T04:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1017,112 +1112,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-microsoft-has-built-an-ai-powered-autocomplete-for-code-using-gpt-3.md",
-      "title": "Microsoft has built an AI-powered autocomplete for code using GPT-3",
-      "excerpt": "And the output of AI language models is often haphazard ... The company has fine-tuned GPT-3 to “translate” into code by training it on examples of Power Fx formula, but the core of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "originalUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ne3n4e4xjvi-Ih44nfl3ixNVPbU=/0x0:503x357/1400x933/filters:focal(212x139:292x219):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69339297/microsoft_gpt3_powerapps_code.0.gif",
-          "width": 503,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "publishedDateTime": "2021-05-25T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
-      "title": "Your Guide to the AWS Machine Learning Summit",
-      "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/2021_ML_Email-Signature_400x173@2x.png",
-          "width": 800,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T11:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

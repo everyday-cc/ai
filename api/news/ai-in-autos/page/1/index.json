@@ -106,6 +106,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-28-google-ethical-ai-groups-turmoil-began-long-before-public-unravelling.md",
+      "title": "Google ethical AI group’s turmoil began long before public unravelling",
+      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
       "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
       "excerpt": "Several weeks ago, Starsky Robotics said it intends to make driverless deliveries in ... the road with a self-driving tractor-trailer. Artificial intelligence is putting the virtual pedal to ...",
@@ -1397,58 +1441,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars.md",
-      "title": "Pedestrians Said To Need ‘Reprogramming’ For The Benefit Of Self-Driving Cars",
-      "excerpt": "There is talk of \"reprogramming\" human pedestrians to cope with the limitations of self-driving cars, which some think is prudent and others say is impractical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60121be798e828df8537895d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D46%26cropY2%3D4186",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/",
-      "publishedDateTime": "2021-05-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

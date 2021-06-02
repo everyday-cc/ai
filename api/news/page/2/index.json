@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-01-want-your-nails-done-let-a-robot-do-it.md",
+      "title": "Want Your Nails Done? Let a Robot Do It.",
+      "excerpt": "Start-ups are using technology to take a robotic approach to manicures, offering a simple way to provide foolproof nail polish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/01/multimedia/01sp-currents-nails/01sp-currents-nails-facebookJumbo.gif",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html",
+      "publishedDateTime": "2021-06-01T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-eib-sees-up-to-10-bln-euro-investment-shortfall-in-ai-and-blockchain.md",
       "title": "EIB sees up to 10 bln euro investment shortfall in AI and blockchain",
       "excerpt": "The European Union's attempts to catch China and the United States in artificial intelligence and blockchain technologies are set to be hobbled by an investment shortfall of as much as 10 billion euros ($12 billion) annually,",
@@ -1153,49 +1205,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
-      "title": "AI and robotics take centre stage in rapidly changing world",
-      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "publishedDateTime": "2021-05-30T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
         "publishers": null,
         "authors": null
       },
