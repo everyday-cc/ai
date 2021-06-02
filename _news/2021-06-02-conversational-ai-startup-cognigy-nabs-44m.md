@@ -46,20 +46,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-05-28T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Relativity acquires AI startup"
     excerpt: "Two months after landing an investment from Silver Lake at a $3.6 billion valuation, Chicago tech company Relativity has acquired an artificial intelligence startup that helps organizations identify sensitive data."
     publishedDateTime: 2021-05-28T14:18:00Z
@@ -70,6 +56,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "cdVohCLvdEcZYTyPPCwUySN6l0vHkMBD8JDKoFa74yUtZoWjebG1fac5LzfZEQRQhk1r3SOnS3lpflN6YwITIKrc6SxKkj1Bn4N8ifMewL9Nmsuu6tQ8b26jASBvk+DqorGdBmWkKTcalM6Jlh5FFvIbmUhrC4qw2si2gdCN62zSmP+BOTKSOLJqZajUGf848Nawu7LeyLgwlOu0VYOQm3hIHsLFXxrkkO/4VTQoeT6hSwXxyNHGL/dPutEHU3ouFUtn9RC7Kt74f6y4H5gJcznw/cjrYyerxkwddgaTc4+gXSIkyuQwHmNDcpM6EMUJoMqS1a/RJKgVqTtoRNCBIMqkIz5oXsBg95AAbfR8u1k=;hnGNLmqECL9Qan7c9T1AuQ=="
+secured: "+asK+FPjw7KdbpSG9mmBR4yR4Bqf5FrPeNfPuVcu5S7jSqsXRZfe3jb8fNjISH3LugZKEqEtEMQaiIQfRiiQY5WWf01PYv/A7ra4u9uQOzStfkgiGpOvlFTxgr8Pj5hYxf5/pVJ7p+iBcLvPcUzimrMeqhGDvHsWmv3iuQFBqf/BGGKPHgX6Jt+8hWx/ZLZ7SwSz8yYTB+Uof/IfzGtpkpI3/bu9m9azG3pY1C50uyxE3s6t95zXtcVP8GkTydEDkiulQ1xWSINYvAyFs6DRp05GoShEzNqhgdRtcINVSXsbhGBolSvj6UJe6dwqx5M3kKR1JHpvV297z9J2ZJAFBAEotDXdby9ui5SQ1L8X7WGOYCFxwruuzM/GU5MkNimqhU1cZ2wcmVhkSDmlmkCWjVqiEU+rFa90wQtdcPktK5BwMz8AZNH2zBCQM+0FkqCUqas4mpB1W0UI6D6od6khKDQ7U5b7pn32/6D8hLyOFwYuDVC/dpZgtTSbUIqYh2sQkd4W/56BLVVvwIMumbqJbA==;5IymM+MHz5vqGM9YY4oe8g=="
 ---
 

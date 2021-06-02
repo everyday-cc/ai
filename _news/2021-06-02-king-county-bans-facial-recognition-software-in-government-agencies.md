@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Privacy groups file complaint to EU countries over facial recognition technology"
-    excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition database using images scraped from the web."
-    publishedDateTime: 2021-05-28T10:25:00Z
-    webUrl: "https://www.modernghana.com/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 69
-    images:
-      - url: "https://cdn.modernghana.com/images/content/5282021110606-m6htk8v331-4295d2e4dc504e6087fae39d501c19615044132c.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Congress Struggles to Control Facial Recognition"
     excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
     publishedDateTime: 2021-06-01T20:53:00Z
@@ -155,6 +139,6 @@ related:
       domain: seattletimes.com
     quality: 26
 
-secured: "lzCi9lXvQ3Dv6O2/ziI1lIvY/l1ewHd4W9/xLC2jy+bqQ3m2hta0eP3MqXRUAXUZj/IGzK9z84qlJ2MJCoCPv+7FsQwUdaN8x8D/kGGgWQeNNlQ5jIuNwkz+iKswSnZ/OKPch4h2Enwi73EVnTC1oxFaNpNzwJEidEBpXwnbRIM83rQswrrgF6z9K1w8FXF8S39OnKOLjDYGC+IUcnOZprF89gPN0EfaLIGrG2fsESAu8sNSpjI2Mn4t5IoxhUSv2CYDfEsiNu+hzD4R6b0oAeaq0vp1KMt949NWkWKZSKDFm3Ue0YM8pSEUsetZE/EkS1v/0vMkr7M18GmseSIbX+9Lm6aw4Ab6ggjb3+Cf8Ak=;N5hYPYswdufHIZugcNFs7w=="
+secured: "hH5NZaAnQN9bZvjqTPx94fff0QC88yPScRnnbg2Us/bIbqPTM7ABxYdqJLwQ62qg+DQxvkf7GdohKGiwrJGkaFpJLj4Av2J7SVJ5Tgs2NJdfg93RDrrEGqXp91Di/UqTxoizSxZGLHc4DgVRL24IZzX7gvGehNIeNhgEyRxS9d7WLnaSnSuIYYEzfEqV57U6DdRJI89T9uyjTD+fAxlMU5Hd1cy/fvTxe96Ycm9r5MZgGvTjpcfujQt8SjbGh871rB9uqHZDOvCbuSMgNrC33k8d1MhOjtTLr7gAgPo5Tr22rbiY3AEDcDUskLuzW0S9KjUmVV15kyIoZylYbtmlmkuru6Zz66tZ8Z3xrETjent1JV6IQmOh+lkvopcqhygOYyXo5SgxEHJ4OXEnGpAL5DsR5KDBKbCVgwJdyk4WpXsUdeiHw4makZHNw+jixCtSgqjACUjVBucLV2J040uPBQ/IJF6UOvcZ1hiN52T0MU5Z2EeCP3dUIaR9sPveXoPBYDtU9U31hl+J916e7XSK5g==;KZscueOE1U8H/hNNUCyLRw=="
 ---
 

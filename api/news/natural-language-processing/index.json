@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -1105,19 +1105,19 @@
     {
       "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
       "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
-      "excerpt": "This is the result of ML-enabled automation for the production of multi-format, multi-domain, speech, audio, text, image, natural language and computer vision data, which are used to fuel mission ...",
+      "excerpt": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210521ph85988/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210521ph85988/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks",
+      "webUrl": "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg",
-          "width": 400,
-          "height": 286,
+          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook",
+          "width": 1304,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1127,11 +1127,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:36:00-07:00",
+      "publishedDateTime": "2021-05-21T05:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1141,9 +1141,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Natural Language Processing",
         "AI",
-        "Natural Language Processing"
+        "Computer Vision"
       ]
     },
     {

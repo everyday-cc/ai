@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Researchers fine-tune control over AI image generation"
-excerpt: "Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training."
-publishedDateTime: 2021-06-01T18:59:00Z
-originalUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.html"
-webUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.html"
-ampWebUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-fine-tune-ai-image.amp"
+excerpt: "A new state-of-the-art method for controlling how artificial intelligence AI systems create images has been developed by researchers from North Carolina State"
+publishedDateTime: 2021-06-01T18:31:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/269722725/researchers-fine-tune-control-over-ai-image-generation"
+webUrl: "https://www.bignewsnetwork.com/news/269722725/researchers-fine-tune-control-over-ai-image-generation"
 type: article
-quality: 57
-heat: 57
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-fine-tune.jpg"
-    width: 1500
-    height: 844
+  - url: "https://cdn.bignewsnetwork.com/ani1622571639.jpg"
+    width: 630
+    height: 420
     isCached: true
 
-secured: "5C4AV1PfaWsq8lirr8lStgR57fOK6NDUIEKi7ga7dJTU0hzwPpfIyP8sr2eUc4cVyY+858hBnj8nBbzaKI3G6TJDumnBU5Fs8A4MSQ5m0CTOLIrwZutkNuzgjFcAJg+8sC0T5OI+77/TpJSfcRlXtpRz7PJOjs8XI70604MPjl/ch+FaNmGLmL2HCJt3LmNWq/chGUbvSu+iuZEfQJLZ+DmT38BS7RHobC6tE4MPHUtffZDOLWdf22ZFNSHk62n5zP8Rf2nozOGYoCERFRyazoZ0oD1KdDj36TXpY3OON8a6sA8LdM0/ZxkE9yZMhDU3hp9MPvbLcNF0OCMl44fSEcp+MmcecVJ0cbvIbw90zKA=;o83de8TRpWR5RhF0L61OyQ=="
+secured: "pXQCQETsShffIcwalsQuRCC/DBRDdb5jl8hYq0e75Grch/skHfKBVLkwF1gmXt1pn9sX68qyAkzmqjrHv/0DDO9IbK9z4RpeWWNSuj706Xc0cYARXZhwzNzyC+QUBCdfYV+SzbecfITomFC0qS+5o7p5ngWcdZTmd7mxWq7R01ajfsz2kK26Wk40h5gtQQzAttZ2gmU4UGBl6NLKclfWdbFucObV2Q+FtABtc+ITWPyeqaoYN9C3YJ27c1ehAsRa7xOP74cXFOEiyRMWDFy5q/qo3TfJguwgDHuYtuw+qDPkj+bBlfo/KwumvRHzAOJYIjuxXU5XQYKt85CFtk1Q4p+qnO7zGDFFp5vrPPH+Y8E=;UkMJlQbGqND3WBhm4nL4mw=="
 ---
 

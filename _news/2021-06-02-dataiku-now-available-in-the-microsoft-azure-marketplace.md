@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
-excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
-publishedDateTime: 2021-05-28T18:35:00Z
-originalUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
-webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
-ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+publishedDateTime: 2021-06-02T02:40:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/250000"
+webUrl: "https://www.ryt9.com/en/anpi/250000"
 type: article
-quality: 102
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
-    width: 1199
-    height: 671
+  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+    width: 800
+    height: 338
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/d33209dd-b8cd-45f9-8721-b2f784f9ed3e-e1574362283724.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
+    publishedDateTime: 2021-05-28T18:35:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
+        width: 1199
+        height: 671
         isCached: true
   - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
     excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
@@ -155,20 +165,6 @@ related:
         width: 2698
         height: 1414
         isCached: true
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-    publishedDateTime: 2021-06-02T02:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/250000"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 69
-    images:
-      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
-        width: 800
-        height: 338
-        isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
     publishedDateTime: 2021-05-31T15:52:00Z
@@ -244,6 +240,6 @@ related:
         height: 900
         isCached: true
 
-secured: "W1ZZip7n65JaLrBHqhF6ih1kSQA5W9vY0BDWlbDlLRQn81M0kRkdFGEd8JK6T29SVlQAe1fJ8I0LkHJlhIuUqSYhzV5RGG+dwXuq/XtjISTJPSdcSb9FUq664YP03maBeLuz7A5adtICb3oF4EEduQ7hg/QEsHIvTO7jAaPG1uuEUdYeG8RfKGcrspn000kKw9PKBVqZXYF/SqeIk2zjkWQdpOHYRloItYSlLbrT/7WoGdCfFU8GVfmitQsApdqUj6bEckEe4USlxqLPnuIliUVp2w9eM1CB6EVU1rnQwriJmsrNQ33/NKDOSMheiEQLqqv7ukkbnhd5A5FyCS17dz7eAaDduS5vUwiMyTXlCvU2LAChE4IKB1pntVZ5w6bwwwPk6+FoPVoEfq0ZFiNcwqpxxJ/WQXNs8vlBYDu+r32GZpkbI2/rw6ZtUoP77Ux/QUs5QRN9wU2woHfezXgPunoNzoMupgf7T7NKrcm8MI+tC328PVbgsVAe/Fxe1gB5s5E5eoZdf3WUSHoT0KKlWA==;1mxtldRg0ZfNVOLrCeh8qA=="
+secured: "5yR52bKO4tllYdpog3vdvLPfDqW66BuBiT84wQhdAlmehQ3p6QJIUBzncAV2kDxVtH/O4cZ5IlgzecaRUwZO4UwnIiA3j02QJN9qKRG6mz/Sh94wWZ7N4DwKdxg8HlIuoEzUysxS+t+mrOT6C+7rF1C74tgfG0wHkfIsE8HUxH8TR9u3AAeBTT/lOolvx8KMpdidU6/iMA5LxxoQOIjiIbaTD7mQdFgksv/UQ6FB28hSVEFfhMGKiy2dcD3NvhJbYM91o+zBcUc1MLeUWuCgNYTmjYc85US7cvsS6933J0PULYJNejK7e2JrBg5d/aUKTKpbT0qKsXx9E9yHPWctOz8kQR4+MPnIDVWfQW1YLpM=;PcbrS8n2YyuMM0oJT1Vtcg=="
 ---
 

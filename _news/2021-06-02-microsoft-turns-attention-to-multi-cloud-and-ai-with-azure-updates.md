@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
-excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
-publishedDateTime: 2021-05-28T18:35:00Z
-originalUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
-webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
-ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
+excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
+publishedDateTime: 2021-06-02T01:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
+webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
 type: article
-quality: 102
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
-    width: 1199
-    height: 671
-    isCached: true
 
 related:
   - title: "Microsoft, GPT-3, and the future of OpenAI"
@@ -47,15 +39,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
-    excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
-    publishedDateTime: 2021-06-02T01:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
+  - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
+    publishedDateTime: 2021-05-28T18:35:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
+        width: 1199
+        height: 671
+        isCached: true
   - title: "Artificial Intelligence Identifies Netflix And Microsoft Among Today’s Trending Stocks"
     excerpt: "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Netflix and Microsoft, among others."
     publishedDateTime: 2021-05-28T15:20:00Z
@@ -244,6 +243,6 @@ related:
         height: 900
         isCached: true
 
-secured: "W1ZZip7n65JaLrBHqhF6ih1kSQA5W9vY0BDWlbDlLRQn81M0kRkdFGEd8JK6T29SVlQAe1fJ8I0LkHJlhIuUqSYhzV5RGG+dwXuq/XtjISTJPSdcSb9FUq664YP03maBeLuz7A5adtICb3oF4EEduQ7hg/QEsHIvTO7jAaPG1uuEUdYeG8RfKGcrspn000kKw9PKBVqZXYF/SqeIk2zjkWQdpOHYRloItYSlLbrT/7WoGdCfFU8GVfmitQsApdqUj6bEckEe4USlxqLPnuIliUVp2w9eM1CB6EVU1rnQwriJmsrNQ33/NKDOSMheiEQLqqv7ukkbnhd5A5FyCS17dz7eAaDduS5vUwiMyTXlCvU2LAChE4IKB1pntVZ5w6bwwwPk6+FoPVoEfq0ZFiNcwqpxxJ/WQXNs8vlBYDu+r32GZpkbI2/rw6ZtUoP77Ux/QUs5QRN9wU2woHfezXgPunoNzoMupgf7T7NKrcm8MI+tC328PVbgsVAe/Fxe1gB5s5E5eoZdf3WUSHoT0KKlWA==;1mxtldRg0ZfNVOLrCeh8qA=="
+secured: "j2iPMQ/KsUEtYzIZsw9ba+5ea9ztgUQDG3TivgBcvUR9UQz/9JafGplwmGhxtaRVmPnWfXkbJG5qvxsXE0SK116RQkTAxhNOSsj3vwM0+n2jY1DSEDeyXdtYnCSuGPIFtYLrC/hoYzJP4jVD9c+smFSsGEfZU+ua9S2xouH5c+QCS5kSrhvelnWUqmC+FLEWsEkdXX2c1rGl3tw26UNm0lX1/eWO7+/U13sVOEE+vEXPtlq8nkf7GW/u+QaCNPDvvEcvCNcncea4Y1SzmeJUuk0GoASce5O4xf34eaPbDFZJzJt+H7iIi5aJ3FFuL+Cf0XFq9lstzLctfT7UdxtIp4d1TwWn3gFz123vEdXCGVQ=;D8PRxwAurSKjYeqNRYRTYw=="
 ---
 

@@ -31,6 +31,17 @@ related:
       name: CBSSports.com
       domain: cbssports.com
     quality: 37
+  - title: "Pirates' Ka'ai Tom: Leaves with wrist discomfort"
+    excerpt: "Tom was removed from Tuesday's game at Kansas City with left wrist discomfort, Alex Stumpf of DKPittsburghSports.com reports. The 27-year-old was hit by a pitch while attempting a bunt, and he exited the contest during the following inning."
+    publishedDateTime: 2021-06-01T22:26:00Z
+    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-leaves-with-wrist-discomfort/"
+    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-leaves-with-wrist-discomfort/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-leaves-with-wrist-discomfort/amp/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 37
 
 secured: "oYXVdRDE7eYfT44pdYE8DFhOh5mmk32o9G/uzk7AyvTvAGcIwi1lZU/DlwTtH6T/f/3RpAfs0Z+Sft8RiOCgBdwcTZr2cb9ySHeW5mtywbkNwmDJQKua81JxBFlls8Cy/UlSWXvYGgX7I9U0CfySWgzFzB/4qrXV/dzgPFVT/uBhTxzFUKHZatoG5JeOOKQOHGE6FI4Y7n1pIFiSiCJjmQHigLvsrkqhkUqpWi1Sg69wli6ZB6Y3067SoV5XWX+u++Enl57IaYzTBuA1B/JwX4tMhv5SCT58/XgbQnyNtoiNUzcjiHSh1tbSgGOaiv4VeKaH5uoeEv0Ad4RvPaOF5CD8MjV5L/GZ6ApvFMfoUiRX5dzR1Ke9jFdkmHxDovTQZNIHZOgtt7cFR2A+236kU8JwVNecnlRgQJgl3et+sNnFpXWfa9cdCrFGyz/jmNzyugKlYSJQdN2jr0BVJ0bqOLOxUIwXokOxBigRWvmArxROz96eEenKfCHBqP/G2LW2ZrFUBYyAzjy+h0FQzu025g==;O3vY92q3NU4CvoissIyxcw=="
 ---

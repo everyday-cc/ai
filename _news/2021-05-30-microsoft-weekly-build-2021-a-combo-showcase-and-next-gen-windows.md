@@ -61,6 +61,15 @@ related:
         width: 1199
         height: 671
         isCached: true
+  - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
+    excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
+    publishedDateTime: 2021-06-02T01:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Artificial Intelligence Identifies Netflix And Microsoft Among Today’s Trending Stocks"
     excerpt: "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Netflix and Microsoft, among others."
     publishedDateTime: 2021-05-28T15:20:00Z
@@ -145,6 +154,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
         width: 2698
         height: 1414
+        isCached: true
+  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+    publishedDateTime: 2021-06-02T02:40:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/250000"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 69
+    images:
+      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+        width: 800
+        height: 338
         isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"

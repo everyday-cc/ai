@@ -82,15 +82,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
-    publishedDateTime: 2021-06-01T13:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visa-s-clients-and-partners-1030482467"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
   - title: "Fintech changed the financial world quickly. Here's what's next."
     excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
     publishedDateTime: 2021-06-01T19:16:00Z
@@ -100,6 +91,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
+    publishedDateTime: 2021-06-01T13:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "XoZsje8rxDX6l3KIb5eOFxZ/sA9a7UK2LpwVbJfu7CzEh+wHGFrpUo/jxNrvP2ud+3tM/Cuoc/ONfJ/tYpFhWCfUyW4hsk2o3nFEm4a0Xv8p3GI82NXkWdKOfNZ5xXRa9FDnOQEHqdmzsnFPVCn3bSBtZUo597wt7fSgT/4svRerwOdrqaQf4rEA+BuZSKFNBxdEFRX81BPphuGN79jHku7bmpNQ5LJP23cPbx8yIGc3i7FeIJ7ufYWwtttRli/C6Jj0+V+3h0BGMFyPziB6ZqrVeQUyxCYFsZpqP9dcVt8vQKouO1kfOMX1QGxvUYZGJDmxdpixskYKi8qmJ8BcEljJoGt4IGtmDeNlimxFgIXM7cxasnhjQSmB5TYfZp4XMXScbxkGlucAmO5khg9Nx8HmUEi/gLwNP7ot4Aupfey2Sx7rWgn2qcJu9t/xF8sNUFPIAOFN7EN4/SwCixMBWaROAViiellHNzSeayZ7RE4nEhozekJrnElKg0uekDkf55fIFRgFpjUo5iU1hVkC/Q==;ppd6/e/Si+qx/RCInDr4pg=="
 ---

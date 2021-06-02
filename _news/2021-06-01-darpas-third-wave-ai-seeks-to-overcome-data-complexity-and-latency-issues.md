@@ -2,9 +2,9 @@
 category: news
 title: "DARPA's 'Third wave AI' seeks to overcome data complexity and latency issues"
 excerpt: "Dr. Whitney Mason, Program manager at DARPA, explains to Tonya Hall why AI operations at the edge are key for defense use cases."
-publishedDateTime: 2021-06-01T14:15:00Z
-originalUrl: "https://www.zdnet.com/video/darpas-third-wave-ai-seeks-to-overcome-data-complexity-and-latency-issues/"
-webUrl: "https://www.zdnet.com/video/darpas-third-wave-ai-seeks-to-overcome-data-complexity-and-latency-issues/"
+publishedDateTime: 2021-06-01T09:19:00Z
+originalUrl: "https://www.zdnet.com/index.php/video/darpas-third-wave-ai-seeks-to-overcome-data-complexity-and-latency-issues/"
+webUrl: "https://www.zdnet.com/index.php/video/darpas-third-wave-ai-seeks-to-overcome-data-complexity-and-latency-issues/"
 type: article
 quality: 64
 heat: 64
@@ -27,6 +27,6 @@ images:
     height: 578
     isCached: true
 
-secured: "zhh7Hn05ZNqXdFzLURl6KpJeumwf0XiHuzuljHtTNIbixcDieL9yiOqeRm7bGndD+WMSP6UxuY9Cevq+u4i8JOEJajExEoGrn082sO2dIQDUq37hO/sp8AZykciGRH7WJkeTG7AHPPyNlW/T0QVNurHmq45hpug/Bh/RRKW5jUySXTZ8xRGkGYIaThKWynJWeQpEKFkWTQsihbUNHZdmPvStGgEZNPLt7Z07B/6aHj0t/bJyWULy3J43sG9r6Sy7P8RYastAtM21S2gXIrki+PUhxrB758gc27/MHKKbd4dsn4/E+HmTcktVkZnR7dA1t6jNViTBXqUb3s7Uuv/uZXW51gNQekDpZ6tb2lBNTqo=;p+GkWxLXV+pcMRmNrzgp5g=="
+secured: "XlpeUiA7b0ORaJg3FeXT3Uh3eV7qviy+2vFDU0qSqeBt0U6WQjXRvIe0atPC2H4suy5Gk6TmX9TD0iWrVxYPwuqEuaajwPq4FWurRv6ixLSooCYRmgwyMY0x66WK9cXSO/LUr0VidchkwyoaohLNFAZw47GkRKW+pkHUA/oa2oK5ngpH0mxnyBAftZ/VIRerCVtiQ9rTAKcwQz2TqPfh6FZGEDXVs5WGxFOtQFkCneZIWqIm4IFa/6DlrNaypR13RQaZQmfZS66IMzlMVVuaNf5BqXEu8rD2H37cCxM8Gwtydcp/LeCQs4ZL07urDdknNdqaMF6WRZIDOqxX3InEIGSZjaRAKbsEtQz6o0RLAp0=;KfF7AOl17mL/JJq6eHsDiQ=="
 ---
 

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Privacy groups file complaint to EU countries over facial recognition technology"
-    excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition database using images scraped from the web."
-    publishedDateTime: 2021-05-28T10:25:00Z
-    webUrl: "https://www.modernghana.com/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 69
-    images:
-      - url: "https://cdn.modernghana.com/images/content/5282021110606-m6htk8v331-4295d2e4dc504e6087fae39d501c19615044132c.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Congress Struggles to Control Facial Recognition"
     excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
     publishedDateTime: 2021-06-01T20:53:00Z

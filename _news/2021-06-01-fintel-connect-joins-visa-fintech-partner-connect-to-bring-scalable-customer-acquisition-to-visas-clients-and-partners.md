@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
-publishedDateTime: 2021-06-01T13:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visa-s-clients-and-partners-1030482467"
-webUrl: "https://markets.businessinsider.com/news/stocks/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visa-s-clients-and-partners-1030482467"
+excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
+publishedDateTime: 2021-06-01T13:34:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "Visa (V) Expands Reach of Fintech Partner Connect Program"
@@ -104,6 +106,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "xrXWiz/OU7+HsOWKz0WeF7Swh/3lzlOHl2Lgx8gr/W7gg7I/XNNQMOp9xbCWMts+W+jvrC0AhDotRfdbtlqbK13ErbCJAizdUIzWIA2YrU8x8lEAv9J5rvwEMkxkfAHhUoqzu6kDnbJVCkRnNEisTlPMy6haCtijlBx7o9yP9tD295/2PtCdUCbUzXA44BjZx5CQj3Ce8oSrE8NW/jdCFobYsqFT/LbVIzmmV+Jl4e3QWaUxbaKQC3kiJL3ld8/PUS2IvUmb8PFXtJYB88w3LYaEIOzunhwQtJ/+S8sEqLVH3iO57xTeDevZ5X8ZDnNY/xpuv9+tccjls9XaZyoCRhPQdSUjjoVlxJoCipl9+hI=;z48WWOES5ebxDC2XYHeOMQ=="
+secured: "ax3KlEG09p7BItDXgtHvxfUT3QRetM9sPNcawHqeTTU5qVtARknryYnTuNqqmUq8hYjqyNYR4jZ5jLBt3i8VhfGUMTN0L3qkZXIeqQI9+sMvI619zoLWBhOpCedT+LCAn9IY/KLhzlJHsUSFe387OKw5Mk9uV6yJKwoNcOGC94P3WuFbpyXEe9wPkpzAPHCZNLJFh6gJ6ZmIly3AuXowzBqw0lqqHM5rc6+iHntT5BCcCQEDPoP0yI8kExIuFjXRblbkWUiAz3j3TmUgtkC2zT4B7uJdfG4bmAJxuXM6XIHRVgBkaMe0kRfvzxnH+QRF+QS9qhRVpsoY2Y+jTh10Mi3+XHxpGrAToun1ZgktnSg=;oVxN6S6wVjMzSjIe10eedw=="
 ---
 
