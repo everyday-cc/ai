@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Fintel Connect joins Visa Fintech partner connect to bring scalable customer acquisition to visa’s clients and partners"
-excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a program designed to help Visa’s issuing clients quickly connect with a vetted and curated set of technology providers."
-publishedDateTime: 2021-06-01T15:10:00Z
-originalUrl: "https://www.cuinsight.com/press-release/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners"
-webUrl: "https://www.cuinsight.com/press-release/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients-and-partners"
+title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
+excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
+publishedDateTime: 2021-06-01T13:34:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Credit Union Insight
-  domain: cuinsight.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-    width: 792
-    height: 266
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -106,6 +106,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "uoaqpnuPI2UVSXBCu01poG5ZLcG7wTb4ukoH/IRNSdN7Y++TrWz2HrKGmwJ4Sy7ppXksZ+G8vU18Ur9L1Gh2GXZOCUYFziFRbgv8ecwLHXLYRJvgvobMPzmOvRDnXv1SIeXxd9kJW73SdzgQONx1IRPUFbbuuSaVUG8vnpRt/SwKF6zvOG384VLw9cj3WZzI2Jb85Ydvo3Ft/+lhq7PyDF0fR2d8ljt3cGLLXqfmO38+sbi9LLdziC17JXMC34A+52W1kX0VEWwlLgr/yIL3yzdw9p2M4XtydhUVMi7vPt0agra4vvA6mToTq5Ezv2471mPJcbdg4sYCvD5OIh3ESt8p+fe+Cz29t8YvDO5N5KM=;NMS9mJ4GUOhgjsE+WTqrsA=="
+secured: "Fka9mJy30FtpJj2oVzoqYmNPv89GoxaVrx1K8jFPiFMwwxIFyY2coGtcSQqrMTI/go+SHENthMQsSpWaWRx230f8doxC3i3RKLeFpqgNwqwfGhFXMOkKbRWnFT337el8WvWWZpr2t265LFuDNjEM9i2OXSyVTrYnK3/e7pIheHKcOYKvY2lTZRhgyJ2e4lN/AEKk7PJ1ZAv0LkGhX3RxCIImBlwEJlTtofCn+QJJZX7BAaoQTomt4J9TpZw2hnsqNQA45A03xIWMzH+RfyLoyrOf31g+wDEsI9vu1tDG9fffvzKJgKGilAtRQePU4K1wnxogJJElI+daFoz7OyN/8B96jveVp6WFh3a2ZujQNlQ=;UOpZrYDREUv1ZlXFjSRPhQ=="
 ---
 

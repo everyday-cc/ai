@@ -2,29 +2,32 @@
 category: news
 title: "Tesla aspires to become a robotics firm in Artificial Intelligence"
 excerpt: "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world."
-publishedDateTime: 2021-05-26T06:56:00Z
-originalUrl: "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php"
-webUrl: "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php"
+publishedDateTime: 2021-05-26T06:24:00Z
+originalUrl: "https://www.entrepreneur.com/article/372898"
+webUrl: "https://www.entrepreneur.com/article/372898"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/372898"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372898"
 type: article
-quality: 86
-heat: 86
-published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Autos
-  - AI in Robotics
 
 images:
-  - url: "https://s.hdnux.com/photos/01/20/21/05/21041482/3/rawImage.jpg"
-    width: 2000
-    height: 1333
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1621967000-tesla.jpg?width=600&crop=16:9"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "Tlxv5dKaNvnEvzK5xhzhahpNU5rHMs7nmyJez+vb0vgwGAe55/5pAvQO3wmb/YASTlvc1py7K+jZuJgRGjok23cxlf5pQLFvHh2uMVmsjM0NceMbnc2NEVkICrPpFS6Z9leMLAxx+MsQxrh8e0W6vfRDwikt55CjdB4RT77A+RZr+1ZJauDWN1A3WTg4Xqft9EryYbnqGOo09iaj8KSn5gWMX3IfXN8p9U8apxn4JJTHjELcXbo4X72TsRkU+n0YqhDPfpjudTJeI5jW5lqq+DfawVkj+ggykfZ6YVQVwXfLQy1pKfeneBBekAta9nkSgBTRGAx3Ne2aRPfQTrZki/mQg+TECLinfMr+H/4gE9izh2cUlpcRb+lWrrDzxCM9SzzbX8/bpLtiuezwf+fywkJtca0HSsNd5pjEmaSI3qLDRMWlZrIYidmZ61nN0HgJxa7ifdx6gw4e3j5Qhm9AgJm3EiKQzs3lol2NTBz95Weg33Vd0udOm3vEKLlbTFtF6+jmin2cyBkEYwA9xHOtzA==;28883rJ7jSyh7fSuUreNAg=="
+secured: "mOvaUotYvxy8+9JU4KN5Ux2p18QpVUsjt3VyMaZ99+YN94uM/WkLSJ2WkNjtUBjoSg/F6Ez4uE/tZ36t2KwKa1jEDScFaf4g9cx9thM7apy3EldgY0GvhM2txaEnXmwisWlDSfPk9kD7ibe1tB0+GU6UPqkBZfXAxP1ZLm50RzAXPHpdJL8Sgz/myUvV7Pm8T+j1UZZRegMD5iaZFXTMO8TXuamQKZqGryZcx35feJFg9tYBEoW87MirCgjyN5kptdi0eZPUBVFKn+bO1HxcinFJcWBxzS7tlojTy8/NgZD8KYQPv2aMjyC5ZZbcMCGXDdh07Zdv28uW6DQgo/D6awTd2aiF9pfBtH7WgzyAuEA=;7gutP2nHKT5ao9Km51ikTA=="
 ---
 

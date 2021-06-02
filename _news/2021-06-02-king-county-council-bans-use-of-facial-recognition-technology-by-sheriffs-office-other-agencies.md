@@ -37,20 +37,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
-    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
-    publishedDateTime: 2021-05-28T18:52:00Z
-    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "Thinking big with cognitive computing"
     excerpt: "Global IoT is set to reach USD3 trillion in value by 2020. SVP Li Ruicheng of SAP has the details of how technology and industry will change."
     publishedDateTime: 2021-06-01T03:12:00Z

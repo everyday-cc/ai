@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/science/aidriven-platform-xraysetu-to-facil
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/aidriven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp/amp-11622610842322.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mint
@@ -42,6 +42,20 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/12/w600X390/Qurer.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "XraySetu: This AI Platform Will Accept Your X-Ray Over WhatsApp & Check If You Have COVID"
+    excerpt: "An AI-driven platform called XraySetu has been developed to identify COVID-19 positive patients even from low-resolution chest X-ray images sent over WhatsApp."
+    publishedDateTime: 2021-06-02T11:11:00Z
+    webUrl: "https://www.republicworld.com/technology-news/apps/xraysetu-this-ai-platform-will-accept-your-x-ray-over-whatsapp-and-check-if-you-have-covid.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 30
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/dgm0hdxb7ozfa3h0_1622632275.jpeg"
+        width: 768
+        height: 438
         isCached: true
 
 secured: "YJYjzziBdsW+R4lO6mTqrSGzex4UslJ6kjiQm3o/xdwfwBXF7UQyqQ5KFCCR0Myz1jMEYilhkgBbWLRo3o16i7hdIC92htUoPnQwj119Y1+aGuwv4BL+PsTA/RzZpSOPeBrkwxfnhQVj+KF3747V4Zs0VW1Tf8XD7+vd7GWX3+b5vCKQqnjtpxDH/SviU1T9MHJ3Gxk8FYOSfBIF/wzdqHtZ9zNoqEh/t6Io89N4bQ9Ou+e3u6PTxCDJ63qANKbdunv6/tQ2qsjeYH42Xufcb0g/L5WeTqRW21xsHAFoH6INJTZ4gwzFy/AEF9SekLkYKCkMU4GqSE/DyqoAUL1BmqXyDbeQOwPAx/tlaIoJ0m7D0op9+jFu/bI/LQjuxZShCuDOH/6dQZMTRwYg91NxOa7elkvHeH7bFWCAIkoRBkfMAFZtnsJ4/7rQrOu2jMZLLYNVV5kJuv+rN9Nk/By6uC5d27J3+UFp5+T1RUkbryJ8GZTBoXkvUbPrU50kqTMIUhmie7VT56AKvrk5M9c/Wg==;CxkOJk7tuOwxljN7M+qLqQ=="

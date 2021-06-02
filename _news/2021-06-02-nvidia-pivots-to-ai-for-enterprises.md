@@ -8,7 +8,7 @@ webUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises"
 ampWebUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Google AI
   - AI
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png"
@@ -179,6 +180,6 @@ related:
       domain: tmcnet.com
     quality: 2
 
-secured: "z72nmkBjty0EbbJWzRMTWYXfbxYe2lcIt2d5q/CRYdzh1XW4Th1HW2aIhUUX471+DfG/792YECzmr3wn8BCEH2UAgqFl6oQtjom5amLKODO3pUIQFMpRdzjLSv0qqLIoYsFeZK8VrG+ymAHXZpV0FdlvW59uIK8S+IgE71X0h8aKCTzbtxJH0f9rI97TQ6ThnV5hcwik59Rc+77abrPmInsJsgVZ75I7/oP09c6P/Za9ERuRZOnoi51ktLrWYs2UdlYlzDZhRfTtfxIqpVdCirqsJtZKVPGBLLxHYqbixecd0TbwPerNzdlnRBZ8orPRVfWHsZPYcN0M5QK18hjK5DwoJBtmuY9PRAAtnaHtOMU=;juu3v3FpHKbteM5g14Diow=="
+secured: "fwaGcSjzfc4bmg/onZardjjdrvPPtuBstp4Ut3AJtMB1WWMrRwdX9R3JCI4CSSn0AxsnZI2STQyCO/d+J3FPvH4wbDsrJqfxjHFZDt5VyYhJc50/0D67DU1JaAeLaTCFNdYXAECjzBI+xOcAZsV+L3iTo+usVfTgT8Ff9MnBVburF77PyjNfkBIXIzCg/lkrBNdvM0Xpypw/9Q/N4L2jT0o7KuktDGGFCkvLPLgUtK8MqKqskENiU3/9JIRb6ezDG4K56skc2x2rCx29h09fX0+lopiarmjugApOBgZINejRQlKrvqwuNG0sKTevovfwi5w6A0tSmLT5YTWHLpFJkypxh+LzbLTkx3GwW1oj4TA2wZEVwbIZ+/d1w4QIEkq8DtH90uv9NnEThUqJu5O+0RPmkuw1Ziw2zYTFn2bhraKYkNyvXejOSfzcU5QyN0vRj5+qiJDz5KJFYh3vhUTGyCshl2HJMnXAEmwOTjE5yRhOLqrh4lwSRy41eDTwsmmKslT26eadoil0jIrjsoul3w==;zCKFfeNNN3Y3gkdf9/uDag=="
 ---
 

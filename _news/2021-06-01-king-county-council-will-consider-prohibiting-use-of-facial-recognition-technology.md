@@ -9,7 +9,7 @@ ampWebUrl: "https://www.king5.com/amp/article/tech/king-county-council-will-cons
 cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
-    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
-    publishedDateTime: 2021-05-28T18:52:00Z
-    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
     excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
     publishedDateTime: 2021-06-01T20:53:00Z

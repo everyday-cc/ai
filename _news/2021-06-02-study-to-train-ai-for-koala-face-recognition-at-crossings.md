@@ -7,8 +7,8 @@ originalUrl: "https://www.miragenews.com/study-to-train-ai-for-koala-face-recogn
 webUrl: "https://www.miragenews.com/study-to-train-ai-for-koala-face-recognition-at-569958/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Armed robbery in Revesby
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
+    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
+    publishedDateTime: 2021-06-02T11:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
   - title: "Local author receives national recognition for debut novel"
     excerpt: "Four Women for the Earth, for the Future,” was recently selected as a 2021 Finalist for the Eric Hoffer Award’s Montaigne Medal. This national honor is given to the most"
     publishedDateTime: 2021-06-01T23:40:00Z

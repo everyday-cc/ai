@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-21-computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027.md",
+      "title": "Computer Vision in Healthcare Market – Notable Developments, Potential Players & Worldwide Opportunities 2027",
+      "excerpt": "A new research study on the global Computer Vision in Healthcare market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 2020 to 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/20/computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027/",
+      "originalUrl": "https://ksusentinel.com/2021/05/20/computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/YytmRP2/R39.jpg",
+          "width": 640,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report.md",
+      "title": "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report",
+      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1514656/AInnovation_Named_a_Gartner_Cool_Vendor.jpg",
+          "width": 400,
+          "height": 301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
       "title": "States move to limit government use of facial recognition software",
       "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
@@ -559,8 +646,8 @@
       "title": "Patriot One Technologies Announces Accuracy Enhancements to Video Recognition Software for Weapons and Threat Detection",
       "excerpt": "Patriot One Technologies Inc. (TSX: PAT) (OTCQX: PTOTF) (FRANKFURT: 0PL) (“Patriot One” or the “Company”) today announced enhancements to its Video Recognition Software (VRS) for identifying weapons and other threats in crowds.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8235658/patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition-software-for-weapons-and-threat-detection",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8235658/patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition-software-for-weapons-and-threat-detection",
+      "webUrl": "https://www.tmcnet.com/usubmit/-patriot-one-technologies-announces-accuracy-enhancements-video-recognition-/2021/05/13/9368950.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-patriot-one-technologies-announces-accuracy-enhancements-video-recognition-/2021/05/13/9368950.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -570,11 +657,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T01:15:00-07:00",
+      "publishedDateTime": "2021-05-13T06:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1226,110 +1313,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-10T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-farm-machines-get-ai-computer-vision-to-boost-crop-yields.md",
-      "title": "Farm machines get AI computer vision to boost crop yields",
-      "excerpt": "Dr. Julian Sanchez, Director of Emerging Technologies at John Deere, explains to Tonya Hall how farmers are already enjoying the benefits of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/farm-machines-get-ai-computer-vision-to-boost-crop-yields/",
-      "originalUrl": "https://www.zdnet.com/video/farm-machines-get-ai-computer-vision-to-boost-crop-yields/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/10/2334a370-b93b-4aec-843b-b0fe962b225f/thumbnail/770x578/b0f6ebe2646f027dc052f70bde14b12d/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-computer-vision-market-size-share-revenue-competitive-analysis-demand-and-growth-by-2026.md",
-      "title": "Computer Vision Market Size, Share, Revenue, Competitive Analysis, Demand and Growth by 2026",
-      "excerpt": "According to the latest report by IMARC Group “ Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026 “, The global computer vision market exhibited strong growth during 2015-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-revenue-competitive-analysis-demand-and-growth-by-2026-2021-05-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-revenue-competitive-analysis-demand-and-growth-by-2026-2021-05-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T22:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

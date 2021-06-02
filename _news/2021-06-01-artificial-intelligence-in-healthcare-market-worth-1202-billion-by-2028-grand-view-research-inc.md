@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
-excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a"
-publishedDateTime: 2021-06-01T07:35:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-301302563.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-301302563.html"
+excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
+publishedDateTime: 2021-06-01T07:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-    width: 1400
-    height: 733
-    isCached: true
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2029"
@@ -34,6 +29,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Service Robotics Market 2021: Global Industry Growth, Size, Share, Demand, Trends and Forecasts to 2028"
+    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2021-05-31T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-2021-global-industry-growth-size-share-demand-trends-and-forecasts-to-2028-2021-05-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -65,6 +74,6 @@ related:
       domain: openpr.com
     quality: 24
 
-secured: "wER+iKL9bGgSxOHboAhF8cyQICsJoyGjC490jn5Q/AuBI3bMmNnb/81cL4GPA2uC/iZNf+Y5TijpXqPF9e30oYDxkS1jotUG/ZQIDZXr4qc/eXEOjfgnV0VvdRfxfrX3cDUnGvjop8ZpFm126/SxGbKK08F0TZkinOX6U+vSi9k3Xa+tR9qhycn5BeWvGlSeV8l1a7gt+a2dq6j/SGElyvWsGpMGmPzaGd/6UgPK8DkrUjxhVOhpOKF8CtSysln7tgPQNMJ8oR5ym1QI5IQf2JAk+aiuW4VLqM5EAUuG1n0Z0MMRe6/6EQePISaAUT4M5rnHns6FwyOVHGm8M6xsiyKrJHIHXYa+Uu5pdrOEsIMh4ul/SofhsP05EH1nTCzn5lHWRsiQHenHhKJYhAQtz4v0o53aJoKmCExTNTLn2YP3MHI7kGB17LYq65YJXTSVlq9X2kpN3BTdY/Ht+fjINk8UWNjWHzkAfY4b1cZ8TX/0lr1mTOJLsErFQ0ffmyzv6nGAZMP6mxw74Ic6H0dmUg==;udmwRvmREh6lBLttWWpjCA=="
+secured: "Kem2sU6GxfFhwaF3UDezvUqVGpUTR8F/22uuqBAJgrAH8JFiwv+vxUxZx/cO2LV/ey8mClVtdVIFsiq//4bvcBy9UTIwACcRM2SsCFV0bi/2AeL/kXi3FE0krBvoIkJdRr0SksdvFZgLlDOmciThXhp4hN8kafYO4br2/IHl1uYNrh5Avqzz3VsrC93wfx1uKzJl0rCXVbhtsWF2jNRhWkox7fLGLhRTw6S2FAoB7fzQGn3qC1xQR/qg9vGUSUs8UvVNQFBR/Zp2u7DKVbXZ8LJ4mVRHO2PNPQXYTmHDfOZUVeYLhkHYp/BusCtDVuS4iUtAvapqsVWRCPKjf8WP017+TWE0SzuGsTn9DUvs8n4=;c30BE2Pi4gYQL/AcGEYA3Q=="
 ---
 

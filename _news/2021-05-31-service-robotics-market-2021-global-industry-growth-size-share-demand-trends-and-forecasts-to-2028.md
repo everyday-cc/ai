@@ -29,22 +29,54 @@ images:
     isCached: true
 
 related:
-  - title: "SEO In 2021: Video, Voice And FAQs"
-    excerpt: "As last year saw a massive boom in e-commerce, with more and more brands turning to online, the need to rank higher in search engines has increased even more."
-    publishedDateTime: 2021-06-01T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/amp/"
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2029"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
+    publishedDateTime: 2021-06-01T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2029-2021-06-01"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0ec00274e4789315f0e3b%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
+  - title: "Global Deep Learning Chipset Market Growth Analysis 2021-2027: with Revenue Share, Future Prospects, Developing Opportunities and Size Forecast"
+    excerpt: "May 29, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chipset"
+    publishedDateTime: 2021-05-29T18:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-growth-analysis-2021-2027-with-revenue-share-future-prospects-developing-opportunities-and-size-forecast-2021-05-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
+    publishedDateTime: 2021-05-29T14:00:00Z
+    webUrl: "https://www.openpr.com/news/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+    ampWebUrl: "https://www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+  - title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
+    publishedDateTime: 2021-06-01T07:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "bO0dB/tt2F/EbsnEaAF0d8nfgXypdNyXTsS8z9f4R4FA8YbY3vh2/mCDmpgKZQBD5GfsIQ/o2w50ULewGNenaxSY2KrBnQELT1kHOcBD46BgrseuFDzmBj0TZiSUF8Eh9rWl1nGBAVoZDYzYpGZ0GfBsIEOZUo+BuwPrN4i6rrHnDrg1gZy7VCnkfpZg2jL3T+HNNhrMxYrqmCvFDOqESIibaZQSu3UCjBXIKsc5KPXvUhXVs+hteO8WqMQZc5gamPRyRLJ0YMQ5meYZ+m1O30P72bnAzzy3CQZGKnRstYFBFW92hTLvRKNMoWi0V5YoO72fbpWwculJvCrKSHkj8fuFebTVL6h2ruszsmjP5z8=;X+5+KSuNg+B+yDcljbBXrA=="
 ---

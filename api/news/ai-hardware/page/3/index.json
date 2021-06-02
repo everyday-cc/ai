@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-03-extreme-ceo-talks-ai-automation-chip-shortages.md",
+      "title": "Extreme CEO talks AI, automation, chip shortages",
+      "excerpt": "Extreme CEO Ed Meyercord says its tools that incorporate automation, AI, and ML can help IT catch more problems earlier and head them off before they hit the network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.html",
+      "originalUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/network_security_automation_artificial_intelligence_endpoints_integrated_connections_by_blue_planet_studio_gettyimages-1250576928_cso_2400x1600-100851256-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html",
+      "publishedDateTime": "2021-05-03T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
       "title": "Why Most AI Writing Can’t Get Its Facts Straight",
       "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",

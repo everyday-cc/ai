@@ -675,17 +675,17 @@
       "title": "Tesla aspires to become a robotics firm in Artificial Intelligence",
       "excerpt": "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php",
-      "originalUrl": "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php",
+      "webUrl": "https://www.entrepreneur.com/article/372898",
+      "originalUrl": "https://www.entrepreneur.com/article/372898",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/20/21/05/21041482/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621967000-tesla.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -693,14 +693,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T23:56:00-07:00",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372898",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372898",
+      "publishedDateTime": "2021-05-25T23:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -709,9 +718,9 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI",
-        "AI in Autos",
-        "AI in Robotics"
+        "AI in Autos"
       ]
     },
     {

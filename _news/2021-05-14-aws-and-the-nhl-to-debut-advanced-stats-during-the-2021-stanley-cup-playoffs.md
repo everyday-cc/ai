@@ -1,39 +1,26 @@
 ---
 category: news
 title: "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the National Hockey League (NHL) announced they will debut two"
-publishedDateTime: 2021-05-13T20:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210513005820/en/AWS-and-the-NHL-to-Debut-Advanced-Stats-During-the-2021-Stanley-Cup-Playoffs"
-webUrl: "https://www.businesswire.com/news/home/20210513005820/en/AWS-and-the-NHL-to-Debut-Advanced-Stats-During-the-2021-Stanley-Cup-Playoffs"
+excerpt: "These advanced analytics are the result of the new partnership announced in February 2021 when AWS was named the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure ..."
+publishedDateTime: 2021-05-13T17:59:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html"
 type: article
-quality: 16
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "NHL, AWS debut advanced real-time stats"
-    excerpt: "Amazon Web Services (AWS), an Amazon company, and the National Hockey League (NHL) will debut two new advanced analytics during the 2021 Stanley Cup Playoffs. T"
-    publishedDateTime: 2021-05-14T12:40:00Z
-    webUrl: "https://advanced-television.com/2021/05/14/nhl-aws-debut-advanced-real-time-stats/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 39
-    images:
-      - url: "https://advanced-television.com/wp-content/uploads/2021/03/ESPNNHL.jpg"
-        width: 1024
-        height: 682
-        isCached: true
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "kKIXFQVhW3cKwJR/vEqjBg8adITsS86vS6IkPX/loWFD6FuVLb5/JkdUUHZjCK7oxGx+tBsjI2jiaAKJ56KMGlkVWcidXi8a2y+Esi57CG7aRUmdyZhCSZ+F6gfewJ4FsfN3/96mgXMy8OKyca4DGA/H7Jwatp/6UyYBq9fclbhCn2bF6OzjTQ9IU7fFfeokpKfn0rLWphHQ8rBXkgA4p/nfMMVHwpYBN0aV2ORZCTJMcJyhaarPl3OF04rSYWMymF0vB48L9GDdBQ+kZxjNfHXyWEWYXCZgq5gkX/eU3ZKT1+HyT8hIp5anM8lmZsSt85F0egOoqsvFkfFo0+bVzaZ1G6VkpPuNNiguy6lNM/3YiB7Qwe3dR8fqWtggAPL2mP8wLHc70yeU596M1RvXpOWx/OJtZAtHegTJItjbEsj9IwnSnWqY2OA27M++uDXieUAeLJPiCeK2bkg9mpc6Q5ILhEQlxhKKXH/+igCcXTJwIIwO4HcZO8JErEDgPiZFZEGoemhk9EV7AW4HVMJxwQ==;89MvmhlZemhFzGf+4LZEnw=="
+secured: "ymsrwB29SqyaPuiQ4tDzZxeuwvuB/yB1XxLI12cl4oaUVH3qj3r0afJCJJwiW/KjEFxG68Pd3LjOTzDaOsiKYmY1qsYIJLI8SX4lZ7WxZ+4D8b4jPBXuTcJtLAwJwiolYoFyjxL34u78e7/NhJ/mAK26f3eS5ExQxWdiOxcettnivqP9Lx+oRgwNK0VsSuiRYmkb1MmdOXKcYzlnChHnWkO/H8HB2+KNyJRIEpx4uMmCINhfQ/cVEMGk1DY28l7ZIZK9X1z0VG2Ju4oJKmgMNhRhyYPd91E+lIVeNtJv03jgHuyh0l4MOQ2W3CVvLLVie0iblUu+j8aXzmyxIwiebx8/mo5NVQ2YveQqizaAsdA=;zI/k4bgeZV4LuWUDEbMMtA=="
 ---
 

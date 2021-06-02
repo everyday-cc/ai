@@ -53,21 +53,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Build- New Windows, Enhanced Arm Support, And Adds Azure Features"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper Microsoft’s annual Build conference for software developers wraps up this week."
-    publishedDateTime: 2021-05-28T18:35:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/28/microsoft-build--new-products-and-enhancements/amp/"
+  - title: "Microsoft's Azure IoT platform helps make farming greener as well as smarter"
+    excerpt: "Precision agriculture brings sensors, AI, and farming together to deliver better crops with lower environmental impact. Now it's also helping to track carbon."
+    publishedDateTime: 2021-06-02T11:12:00Z
+    webUrl: "https://www.techrepublic.com/article/microsofts-azure-iot-platform-helps-make-farming-greener-as-well-as-smarter/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-azure-iot-platform-helps-make-farming-greener-as-well-as-smarter/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-azure-iot-platform-helps-make-farming-greener-as-well-as-smarter/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 101
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
-        width: 1199
-        height: 671
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/02/e5ca2060-b61a-4991-a58a-df38fdcc14cc/resize/1200x/3a4b18e380749405a438cc1bf24cbc4e/tr-azure-farmbeats-diagram.jpg"
+        width: 1200
+        height: 672
         isCached: true
   - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
     excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
@@ -100,20 +100,6 @@ related:
         height: 428
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-    publishedDateTime: 2021-06-01T13:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
     publishedDateTime: 2021-06-02T02:40:00Z
     webUrl: "https://www.ryt9.com/en/anpi/250000"
@@ -143,20 +129,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
-    excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."
-    publishedDateTime: 2021-05-28T17:39:00Z
-    webUrl: "https://www.itbusinessedge.com/development/aera-ai/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 54
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/05/Aera-Technology-Partners-with-Microsoft-Digital-Twins-Service.jpeg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
     excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
     publishedDateTime: 2021-05-30T06:47:00Z
@@ -185,6 +157,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
     publishedDateTime: 2021-05-30T04:30:00Z

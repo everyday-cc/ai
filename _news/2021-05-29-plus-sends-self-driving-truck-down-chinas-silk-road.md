@@ -24,6 +24,22 @@ images:
     height: 246
     isCached: true
 
+related:
+  - title: "Smart China: JD self-driving delivery car"
+    excerpt: "Waiting for a green light, letting pedestrians go first, JD self-driving delivery cars can deliver orders safely and punctually on a designed public road in Beijing now. Let’s check out how it works:"
+    publishedDateTime: 2021-06-02T11:04:00Z
+    webUrl: "https://www.globaltimes.cn/page/202106/1225218.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 24
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-02/2890ce8f-25df-44e7-98df-3ce9ef4f57cf.jpeg"
+        width: 800
+        height: 480
+        isCached: true
+
 secured: "Ww0/jDgjnGMZeM7oMnUfS+Ai04a5MPm5hnDHNhq3nwHurHW7QEQciyxvTF8G5xrlNtGToJrOUFnw3tesZ8frJmw8rm48yokR4txfMJf6bfs9dWTeTaShZp5ipOAh+K7kny/kA+zQpYuqUSUyc6qe8oRk5F5xFhdDGnBY6I9UL8fYiW1pstiHb8g2l7fi7xx4LGEs9t6rlkbdN7MbwyZSsHTgIEABn/9tN86xeO02BU86xa++VTzpu3DHwfLi9N/sGCytY0gpMp59FFmOUAv4x0bctUlIKGigE/WliINNS6AhjLoVS2UqxxzhlePLCfxM3SftxofP9QjX9bXMllkDJBJqOtFBjVlEpTKdxZv1hxLOWa62GnRUrJ4m0EvtGa2Typ7SHbV7SU1h4MEGioTfKqvxrXPDR8zNWJrZxk8xeh+3+MJI5/oVAl+rIvmoGkj2CIM6IeFI/Rw7U/o0NR8w3rvpUeyn7+dc1NFSxSGhL+9XvshsC7Ln/zlzZBSf/DCK4AOzcm4gg5jAOPqmKO6GmA==;42z63ehBv+b0alpJMCkimg=="
 ---
 
