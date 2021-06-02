@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-ca
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Make Artificial Intelligence Real"
-    excerpt: "The global datasphere is growing exponentially, and predicted to reach 175ZB by 2025. AI has the power to help organizations make"
-    publishedDateTime: 2021-05-28T15:45:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/make-artificial-intelligence-real/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/make-artificial-intelligence-real/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/make-artificial-intelligence-real/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
   - title: "The Robot Smiled Back: Engineers Use AI to Teach Robots to Make Appropriate Reactive Human Facial Expressions"
     excerpt: "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,"
     publishedDateTime: 2021-05-31T04:04:00Z

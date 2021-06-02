@@ -7,7 +7,7 @@ originalUrl: "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facia
 webUrl: "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 710
     isCached: true
+
+related:
+  - title: "POLITICO AI: Decoded: Age of surveillance — Australia’s AI vision — Clearview under fire"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-06-02T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-age-of-surveillance-australias-ai-vision-clearview-under-fire/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 30
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "eeehGdJQMlGHL0Bu35IZhTxbziS3Mc4Kz7oSX2kLOzvnL9pp6bpXZ6D1tPF3FyiA5LW7CE8jd/x4qNd7P8mwCi94m5NZ4d9N889tOEIrOg1nSUfGJdLMu5r2hUxvtn5iVOUQsxs6flRInXi6PHwqD2GKF3dizuZHwIqNhjSXyqUBGt6K1j29QdtZUz8PPAn01eF9J6yOXHvfBepiAxvzA8NC2rnGtJCuEFPp0/+fvDqb3J2jn7Rb4WxoLFBEbLFM9D/TcGsIt2jyduQ66mxtLoWhXZt0ktMHEugX8oJJDejHRZnPt8GQbev67qVSzn2NSgdtwqodAqQBRTHh9MPT6atH7xqpJBSA3m22F4lxZ+46NjzEdsU+6fKqWSYLZnJPy7xZKE3FSPvXZ/jEhsfwDPrUxobL+n8KjqQ+y7hXxU/lpM2fuRiLcIOkhxOFk83/iBElgbFtgocgl4ujxlyiVZO83GoxJ+cNGOku5Bm6a21bT8ZrAZoiduwzgbSka5/X97cA5UtJ0s1r9MsZzYdrjQ==;XUeEn/QeBUSOnovpZn/VxA=="
 ---

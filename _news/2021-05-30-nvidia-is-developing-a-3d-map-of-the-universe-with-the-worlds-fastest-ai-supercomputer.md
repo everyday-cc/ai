@@ -51,20 +51,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 79
-  - title: "6,000 GPUs: Perlmutter to Deliver 4 Exaflops, Top Spot in AI Supercomputing"
-    excerpt: "The U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."
-    publishedDateTime: 2021-05-28T15:37:00Z
-    webUrl: "https://insidehpc.com/2021/05/6000-gpus-perlmutter-to-deliver-4-exaflops-top-spot-in-ai-supercomputing/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 52
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/05/Perlmutter-NERSC-Nvidia-052721.jpg"
-        width: 600
-        height: 252
-        isCached: true
   - title: "Nvidia Comes Out with New 3080 Ti GPU and More on Computex"
     excerpt: "Titan cards are believed to be the most powerful among the Nvidia GPUs and with the launch of the new RTX 3080 Ti card it can get even better."
     publishedDateTime: 2021-06-01T08:18:00Z

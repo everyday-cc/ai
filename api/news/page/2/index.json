@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-01-seo-in-2021-video-voice-and-faqs.md",
+      "title": "SEO In 2021: Video, Voice And FAQs",
+      "excerpt": "As last year saw a massive boom in e-commerce, with more and more brands turning to online, the need to rank higher in search engines has increased even more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0ec00274e4789315f0e3b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/amp/",
+      "publishedDateTime": "2021-06-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-artificial-intelligence-social-media-and-the-future-of-investing.md",
+      "title": "Artificial Intelligence, Social Media, and the Future of Investing",
+      "excerpt": "Whether influenced by one or many, the result is clear: social media can drive today’s markets. Such incidents, combined with their capriciousness and unpredictability, have led to pushback from the financial establishment and calls for greater oversight of social media practices and businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/",
+      "originalUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/06/SM-AI-Algorithms-scaled.jpg",
+          "width": 1600,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/",
+      "publishedDateTime": "2021-06-01T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-want-your-nails-done-let-a-robot-do-it.md",
       "title": "Want Your Nails Done? Let a Robot Do It.",
       "excerpt": "Start-ups are using technology to take a robotic approach to manicures, offering a simple way to provide foolproof nail polish.",
@@ -164,7 +258,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -451,6 +545,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-01-king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology.md",
+      "title": "King County Council will consider prohibiting use of facial recognition technology",
+      "excerpt": "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54",
+      "originalUrl": "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54",
+      "cdnAmpWebUrl": "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54",
+      "publishedDateTime": "2021-05-31T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KING5",
+        "domain": "king5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-why-do-board-directors-and-ceos-need-to-value-sustainability-and-ai-relevance.md",
       "title": "Why Do Board Directors And CEO’s Need To Value Sustainability And AI Relevance?",
       "excerpt": "In my last blog on board director and CEO leadership needs to advance AI knowledge, I primarily focused on defining the three main categories of AI: Artificial Narrow Intelligence (ANI) , Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).",
@@ -731,7 +868,7 @@
       "originalUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1050,152 +1187,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-the-power-of-synthetic-images-to-train-ai-models.md",
-      "title": "The power of synthetic images to train AI models",
-      "excerpt": "As privacy laws start to limit companies' data sets, synthetic data could be key to continuing to leverage AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/",
-      "originalUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-539085830.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/amp/",
-      "publishedDateTime": "2021-05-30T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-flying-killer-robot-hunted-down-a-human-target-without-being-instructed-to-un-experts-say.md",
-      "title": "Flying Killer Robot 'Hunted Down' a Human Target Without Being Instructed to, UN Experts Say",
-      "excerpt": "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
-      "originalUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dca2c6eb2c05d71e386bb0b4cdb8c47b.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp",
-      "publishedDateTime": "2021-05-30T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
-      "title": "AI and robotics take centre stage in rapidly changing world",
-      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "publishedDateTime": "2021-05-30T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
         "publishers": null,
         "authors": null
       },

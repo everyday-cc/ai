@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "AI-driven platform to facilitate early Covid intervention over WhatsApp"
+    excerpt: "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,"
+    publishedDateTime: 2021-06-02T09:07:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    ampWebUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1701412699.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "AI technology can assess COVID-19 severity with a promising degree of accuracy"
     excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
     publishedDateTime: 2021-05-29T08:12:00Z
@@ -122,6 +138,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
         width: 2880
         height: 1616
+        isCached: true
+  - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
+    excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients."
+    publishedDateTime: 2021-06-02T09:31:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 47
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/02/full/20210602142448.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "New Artificial Intelligence Tool Assesses COVID Severity"
     excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."

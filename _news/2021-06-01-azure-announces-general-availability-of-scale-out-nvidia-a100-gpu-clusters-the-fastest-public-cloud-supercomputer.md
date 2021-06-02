@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 685
         isCached: true
-  - title: "6,000 GPUs: Perlmutter to Deliver 4 Exaflops, Top Spot in AI Supercomputing"
-    excerpt: "The U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."
-    publishedDateTime: 2021-05-28T15:37:00Z
-    webUrl: "https://insidehpc.com/2021/05/6000-gpus-perlmutter-to-deliver-4-exaflops-top-spot-in-ai-supercomputing/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 52
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/05/Perlmutter-NERSC-Nvidia-052721.jpg"
-        width: 600
-        height: 252
-        isCached: true
   - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
     excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."
     publishedDateTime: 2021-05-30T12:50:00Z

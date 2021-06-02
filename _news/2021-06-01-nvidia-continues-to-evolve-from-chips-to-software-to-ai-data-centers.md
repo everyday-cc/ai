@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/NVIDIA-Base-Command-Platform-e1622242314506.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "NVIDIA pivots to AI for enterprises"
+    excerpt: "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products."
+    publishedDateTime: 2021-06-02T09:52:00Z
+    webUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises"
+    ampWebUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 61
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png"
+        width: 1124
+        height: 760
         isCached: true
   - title: "Nvidia Lays The Foundation For Wider AI Adoption"
     excerpt: "Nvidia has been pushed its way into the datacenter, making its presence felt with its GPU accelerators that are designed to"

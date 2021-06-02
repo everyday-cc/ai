@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-02-us-china-tech-war-beijing-funded-ai-researchers-surpass-google-and-openai-with-new-language-processing-model.md",
+      "title": "US-China tech war: Beijing-funded AI researchers surpass Google and OpenAI with new language processing model",
+      "excerpt": "The WuDao 2.0 natural language processing model had 1.75 trillion parameters, topping similar models developed in the US as China pushes to close in on its rival in critical technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3135764/us-china-tech-war-beijing-funded-ai-researchers-surpass-google-and",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3135764/us-china-tech-war-beijing-funded-ai-researchers-surpass-google-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/06/02/0c070422-c37f-11eb-b0c2-606eecf395cb_image_hires_171026.jpg?itok=dmCyZCGX&v=1622625034",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3135764/us-china-tech-war-beijing-funded-ai-researchers-surpass-google-and",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3135764/us-china-tech-war-beijing-funded-ai-researchers-surpass-google-and",
+      "publishedDateTime": "2021-06-02T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-use-amazon-translate-in-amazon-sagemaker-notebooks.md",
       "title": "Use Amazon Translate in Amazon SageMaker Notebooks",
       "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation in 71 languages and 4,970 language pairs. Amazon Translate is great for performing batch translation when you have large quantities of pre-existing text to translate and real-time",
@@ -52,59 +104,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-microsoft-gpt-3-and-the-future-of-openai.md",
-      "title": "Microsoft, GPT-3, and the future of OpenAI",
-      "excerpt": "Elevate your enterprise data technology and strategy at Transform 2021. One of the biggest highlights of Build, Microsoft’s annual software development conference, was the presentation of a tool that uses deep learning to generate source code for office applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/",
-      "originalUrl": "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/d33209dd-b8cd-45f9-8721-b2f784f9ed3e-e1574362283724.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/amp/",
-      "publishedDateTime": "2021-06-01T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1148,19 +1147,19 @@
     {
       "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
       "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
-      "excerpt": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut",
+      "excerpt": "This is the result of ML-enabled automation for the production of multi-format, multi-domain, speech, audio, text, image, natural language and computer vision data, which are used to fuel mission ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210521ph85988/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210521ph85988/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook",
-          "width": 1304,
-          "height": 683,
+          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg",
+          "width": 400,
+          "height": 286,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1170,11 +1169,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:34:00-07:00",
+      "publishedDateTime": "2021-05-21T05:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1184,9 +1183,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Computer Vision",
         "AI",
-        "Computer Vision"
+        "Natural Language Processing"
       ]
     },
     {

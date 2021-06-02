@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/banned-gamblers-in-south-au
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
       name: Mumbrella
       domain: mumbrella.com.au
     quality: 38
+  - title: "Arab Council of Australia continues calls for federal recognition of Armenian Genocide"
+    excerpt: "ARMENPRESS. Following the 106th Anniversary of the Armenian Genocide and Prime Minister Scott Morrison's statement falling short of accurately characterizing the events of 1915, the Arab Council of Australia has joined a growing number of community organizations in calling for the Federal Government to recognize the Armenian,"
+    publishedDateTime: 2021-06-02T09:31:00Z
+    webUrl: "https://armenpress.am/eng/news/1054146.html"
+    ampWebUrl: "https://armenpress.am/eng/amp/1054146"
+    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1054146"
+    type: article
+    provider:
+      name: Armenpress
+      domain: armenpress.am
+    quality: 16
 
 secured: "C/UUGo9JXnLAhnHWrN5vENHnJ0c64Mh8/xgqalmKUVTiIQBVqsBvlWLuNIUAyIPOKYtZTf8NOIBgHsI3rLl2FRwthenznuL9tOgMkONtVbHTDBdJ7ouxQ1Wm/q5mqpzGiw/Q84fZ+T/ZxXLCVlAz6wur+7RIEGJwKAV9k+iqxhwBTe0JbzVj9gXpgIl+1pQbwN8BTYwF/fbPRspq75o1FH5CemLjd8ZXeh/CuZjyO8t3x2JkGPszGTvWdPplKZusqzZi/yATBLxwZqzeiWcNuostX0xTbDPx4PzcS+B2OmVgQpcQs51PKpA+wkHUYoIAAJV3IdSbVy9U0is5AeHiai4zC8ydpkZoP87ZVxf2G1w=;g+TRcH9b0uBnQ1icDa9LVw=="
 ---

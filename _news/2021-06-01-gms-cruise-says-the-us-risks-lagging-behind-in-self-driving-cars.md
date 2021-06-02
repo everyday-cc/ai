@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New Research Says Human Drivers Are Accelarousal-Prone Which Is Especially Eye-Catching For AI Self-Driving Cars"
-    excerpt: "Research indicates that acceleration can lead to more stress in some drivers over other drivers, which has notable ramifications for drivers and for self-driving cars."
-    publishedDateTime: 2021-05-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/28/new-research-says-human-drivers-are-accelarousal-prone-which-is-especially-eye-catching-for-ai-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0085456d92dc2e2231a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1952%26cropY1%3D113%26cropY2%3D1212"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "ca+Q6hc+IaoUgK/s5cm5w0wTg7b0rlBqHSEUvKnTNeJ05e3kfa7iz/9odTWDK0AvMZRtWdVavuC3vGCH4RPpZNH+jZkNG72rz0PMbd+MHnFne7lpG6ClIwp1An7MSttibxRCTTpZ5CScsmAxHB9ndPuA4/evbEV5xuEneUb9p10FqiHfBsfFa05K7q4Y7sD1N9E1NjjpIXOGB5rlKIclMYmzkzowboJQ1oqLVu/LmUPG8fQlR3U+uYOrxrr0bGzyLQMAblUpEieyWTd/yHUH3wOy+XTGMEvKnxRpLzOV2n+FTbi9pvsx46kHce5CGIPFdlGK5u0UFnytg1wMJbVPgwb0W1n3LRHrCB+eViVVo20=;LhkxTiz8La/kfk6HURvukA=="
 ---

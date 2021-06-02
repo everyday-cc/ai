@@ -25,20 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Quantum Cloud Computing: Why it is on the Rise"
-    excerpt: "Why it is on the Rise By - Rather than investigating each alternative separately, developers employ quantum computing to encapsulate problems as"
-    publishedDateTime: 2021-06-01T13:41:00Z
-    webUrl: "https://www.cioreview.com/news/quantum-cloud-computing-why-it-is-on-the-rise-nid-33740-cid-17.html"
+  - title: "King County Council will consider prohibiting use of facial recognition technology"
+    excerpt: "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information."
+    publishedDateTime: 2021-06-01T01:43:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+    ampWebUrl: "https://www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
+      name: KING5
+      domain: king5.com
+    quality: 53
     images:
-      - url: "https://www.cioreview.com/news_new/companyimages/t4se.nx1d6.river.gif"
-        width: 300
-        height: 220
+      - url: "https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
+  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
+    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
+    publishedDateTime: 2021-05-28T18:52:00Z
+    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
+  - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
+    excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
+    publishedDateTime: 2021-06-01T20:53:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
 
 secured: "p0gsJWTDPbP1n0911LjUuauc1VXBo/OhtmaiWJ2HJVu5vRnvMEXxqmemmzljVR4iceWtqOXUcxyfY5wN0ju/k3V5wAbYBLpC4HZfBoTw/1AXAWetOGXxPG2lU8gXR/agmaAQP2q3KUxGaMTxS4xY+tA0o9pL8aVU4W8Bpvk/tzJstO4wYt8Wz1g9S4LSLlaGiv0xB0l/r26FoBcngMs6zJJccz5CMsfvXCMUVSdydqCjA0teVASv38RuOhXUwwFP0QymQ1IKiBUD1xMLuCy+oZEbaB8lWRuDEYGYADVcSt/SHe1R6aQBVBrpDRrhYjfpmnU/iA6XD+Y3n3Z+2P0vF4omjnQUIzpDkf3FfXJcMW2aCsgmmXwQgbu+7+fAwfT1ODoLvtiDFNllLPSd2qztV5Kl3jF8CyUpKbTNtUbw1U6dNTzjs7HrnZVrsFfAWZLRWjLQ7fGJHCLws/B76zuQW3MQHsXoEXE603KZJENqd4ZbRqbYBW7xuSVoTMCMxV3EEwcbpFM06mlKSQpyscvr9Q==;RKkbSa2IFJRdICh25EP/cQ=="
 ---

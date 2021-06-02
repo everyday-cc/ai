@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,101 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-congress-struggles-to-control-facial-recognition.md",
+      "title": "Congress Struggles to Control Facial Recognition",
+      "excerpt": "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/news/congress-struggles-to-control-facial-recognition/",
+      "originalUrl": "https://www.eweek.com/news/congress-struggles-to-control-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology.md",
+      "title": "King County Council will consider prohibiting use of facial recognition technology",
+      "excerpt": "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54",
+      "originalUrl": "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54",
+      "cdnAmpWebUrl": "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54",
+      "publishedDateTime": "2021-05-31T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KING5",
+        "domain": "king5.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -114,7 +209,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1059,19 +1154,19 @@
     {
       "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
       "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
-      "excerpt": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut",
+      "excerpt": "This is the result of ML-enabled automation for the production of multi-format, multi-domain, speech, audio, text, image, natural language and computer vision data, which are used to fuel mission ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210521ph85988/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210521ph85988/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook",
-          "width": 1304,
-          "height": 683,
+          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg",
+          "width": 400,
+          "height": 286,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1081,11 +1176,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:34:00-07:00",
+      "publishedDateTime": "2021-05-21T05:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1095,9 +1190,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Computer Vision",
         "AI",
-        "Computer Vision"
+        "Natural Language Processing"
       ]
     },
     {
@@ -1278,10 +1373,10 @@
     {
       "path": "_news/2021-05-20-ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report.md",
       "title": "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report",
-      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The",
+      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1298,118 +1393,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21210159",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21210159",
-      "publishedDateTime": "2021-05-19T23:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T23:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
-      "title": "States move to limit government use of facial recognition software",
-      "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-amazon-halts-polices-use-of-facial-recognition-software-reuters.md",
-      "title": "Amazon Halts Police's Use Of Facial Recognition Software: Reuters",
-      "excerpt": "Amazon.com Inc (NASDAQ: AMZN) indefinitely extended the halt since June 2020 on the police use of its facial recognition software, Reuters reports. The nationwide backlash against police brutality towards non-Whites intensified by the murder of African-American George Floyd by a white policeman led to the initial halt.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-halts-police-s-use-of-facial-recognition-software-reuters-1030447675",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-halts-police-s-use-of-facial-recognition-software-reuters-1030447675",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_394.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

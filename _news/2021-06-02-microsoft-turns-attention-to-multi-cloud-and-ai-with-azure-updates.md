@@ -1,26 +1,34 @@
 ---
 category: news
 title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
-excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.Read"
-publishedDateTime: 2021-06-02T01:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
-webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates-10197208"
+excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting."
+publishedDateTime: 2021-06-02T06:20:00Z
+originalUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/"
+webUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/"
+ampWebUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
 type: article
-quality: 79
-heat: -1
-published: false
+quality: 119
+heat: 249
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Microsoft, GPT-3, and the future of OpenAI"
@@ -54,34 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b136683a6f0c989b5f6bbe%2F0x0.png"
         width: 1199
         height: 671
-        isCached: true
-  - title: "Artificial Intelligence Identifies Netflix And Microsoft Among Today’s Trending Stocks"
-    excerpt: "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Netflix and Microsoft, among others."
-    publishedDateTime: 2021-05-28T15:20:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2021/05/28/artificial-intelligence-identifies-netflix-and-microsoft-among-todays-trending-stocks/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062149b2a0bc1d85864ecd8%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "SD Times news digest: Amazon Redshift ML, Microsoft’s GPT-3 features, and OpenCilk 1.0 released"
-    excerpt: "Amazon Redshift ML is now generally available. The cloud data warehouse enables users to create machine learning models and make predictions from data directly from their Amazon Redshift cluster. Users just have to use a simple SQL query to specify what data they want to use to train their model as well as the output value they want to predict,"
-    publishedDateTime: 2021-05-28T15:43:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-redshift-ml-microsofts-gpt-3-features-and-opencilk-1-0-released/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 76
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/redshift-ml-create-model-1024x416-1.png"
-        width: 1024
-        height: 416
         isCached: true
   - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
     excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
@@ -168,22 +148,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft's GPT-3 technology could soon write code using ordinary language"
-    excerpt: "A year after funneling $1 billion in OpenAI and gaining exclusive rights to GPT-3, Microsoft shared plans to bring the NLP tech to programming applications"
-    publishedDateTime: 2021-05-30T15:33:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/microsoft-s-gpt-3-nlp-tech-could-soon-write-code/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 59
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l84720210527144028.jpeg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
     excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."
     publishedDateTime: 2021-05-28T17:39:00Z
@@ -212,6 +176,20 @@ related:
         width: 1462
         height: 1056
         isCached: true
+  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored"
+    publishedDateTime: 2021-06-02T08:01:00Z
+    webUrl: "https://www.lelezard.com/en/news-19835112.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 51
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
     publishedDateTime: 2021-05-30T04:30:00Z
@@ -226,7 +204,16 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
+    excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-01T19:12:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-strong-quarterly-and-yearly-performance-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 22
 
-secured: "j2iPMQ/KsUEtYzIZsw9ba+5ea9ztgUQDG3TivgBcvUR9UQz/9JafGplwmGhxtaRVmPnWfXkbJG5qvxsXE0SK116RQkTAxhNOSsj3vwM0+n2jY1DSEDeyXdtYnCSuGPIFtYLrC/hoYzJP4jVD9c+smFSsGEfZU+ua9S2xouH5c+QCS5kSrhvelnWUqmC+FLEWsEkdXX2c1rGl3tw26UNm0lX1/eWO7+/U13sVOEE+vEXPtlq8nkf7GW/u+QaCNPDvvEcvCNcncea4Y1SzmeJUuk0GoASce5O4xf34eaPbDFZJzJt+H7iIi5aJ3FFuL+Cf0XFq9lstzLctfT7UdxtIp4d1TwWn3gFz123vEdXCGVQ=;D8PRxwAurSKjYeqNRYRTYw=="
+secured: "KsRPEJh/Sd8US2Ux1EoYZVF+jAHA3zDnVvSpW2tVS9i3IK0uiQ1Q5Pmm6yvGlBFQnN9dNtO0P6uaTWFHYpTPrFo/3LP9BgoQ19izkx3zVhQk70DPfajhTEg+JG50GSmaL1q9UdQDOdIBfxv6FbO3+Lcc2Sz1vAtl7FjgbZw6EdLeYVIGgOtKCNVG9JDAGGvJ9aQ+GIq2GJwhane41LZiSnHQ9UD9pl4B7EQsOuY7KU2L/Lp7K1loY3XP71XxiWRPtvVdxFysd3oWXw6YXZhIuR8KOn0IRyAhGSzW5oPhvq2nF5t6YhuvloJgnq4EtYj7Br9tL8fw3bPghFzeEgDHrPAe/0CXgPKoDAHBeFfhhRs=;05i0jHouLMTEsl7NImw1fg=="
 ---
 

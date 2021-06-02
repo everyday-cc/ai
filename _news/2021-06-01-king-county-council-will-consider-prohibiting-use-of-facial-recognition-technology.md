@@ -9,8 +9,8 @@ ampWebUrl: "https://www.king5.com/amp/article/tech/king-county-council-will-cons
 cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: KING5
@@ -27,78 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baltimore could enact nation's strictest facial recognition ban"
-    excerpt: "The Baltimore City Council Public Safety and Government Operations Committee on Wednesday passed an ordinance that would not only ban law enforcement and other agencies from purchasing and using facial recognition systems but would even bar the use of such technology by private citizens in the city."
-    publishedDateTime: 2021-05-28T15:28:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 139
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Detection_And_Recognition_380721568.60b10b5b785a3.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Congress Struggles to Control Facial Recognition"
-    excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
-    publishedDateTime: 2021-06-01T20:53:00Z
-    webUrl: "https://www.eweek.com/news/congress-struggles-to-control-facial-recognition/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
-        width: 2560
-        height: 1280
-        isCached: true
-  - title: "Final action expected on King County proposal to ban facial recognition software"
-    excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
-    publishedDateTime: 2021-06-01T15:31:00Z
-    webUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/"
-    ampWebUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 54
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-1149113711-e1622557116352.jpg"
-        width: 620
-        height: 370
-        isCached: true
-  - title: "King County bans facial recognition software in government agencies"
-    excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
-    publishedDateTime: 2021-06-02T00:37:00Z
-    webUrl: "https://kuow.org/stories/king-county-bans-facial-recognition-software-in-government-agencies"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 39
-    images:
-      - url: "https://kuow-prod.imgix.net/store/8920668ed5552ab64a68db6c2b883247.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
-        isCached: true
-  - title: "King County, Wash., Bans Facial Recognition in Unanimous Vote"
-    excerpt: "The Metropolitan King County Council unanimously voted today to prohibit county departments, including the sheriff's office, from using facial recognition tech. If signed by the county executive, the measure becomes law."
-    publishedDateTime: 2021-06-01T22:29:00Z
-    webUrl: "https://www.govtech.com/policy/king-county-wash-bans-facial-recognition-in-unanimous-vote"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a69d779/2147483647/strip/true/crop/1000x486+0+101/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7d%2F97%2Fbba0ef014d3e8908a5647b7bd3f0%2Fshutterstock-299881847.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
     excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
     publishedDateTime: 2021-05-28T18:52:00Z
@@ -113,20 +41,6 @@ related:
         width: 730
         height: 499
         isCached: true
-  - title: "King County Council votes to ban use of facial recognition technology by government agencies"
-    excerpt: "The King County Council has unanimously passed a proposal that would ban government use of facial recognition software."
-    publishedDateTime: 2021-06-01T22:47:00Z
-    webUrl: "https://www.q13fox.com/news/king-county-council-votes-to-ban-facial-recognition-technology-by-government-agencies"
-    type: article
-    provider:
-      name: Q13 FOX News
-      domain: q13fox.com
-    quality: 28
-    images:
-      - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2021/05/1280/720/2DA91231FE93417B92B3C7985719FE3F.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
     excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
     publishedDateTime: 2021-06-01T20:53:00Z
@@ -138,6 +52,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 26
+  - title: "Thinking big with cognitive computing"
+    excerpt: "Global IoT is set to reach USD3 trillion in value by 2020. SVP Li Ruicheng of SAP has the details of how technology and industry will change."
+    publishedDateTime: 2021-06-01T03:12:00Z
+    webUrl: "https://www.huawei.com/us/technology-insights/publications/winwin/24/thinking-big-with-cognitive-computing"
+    type: article
+    provider:
+      name: Huawei
+      domain: huawei.com
+    quality: 24
+    images:
+      - url: "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/24/09-en.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "E5+2WTcbQK7FXRhcroRePgluGTS/tbgzeuGqD2F8AsRNtqmnS0k387534J3hsgnFdP/XBen8Mh8k0vKAGBKQ9xzrnB2e+cEjIR0JAy9KoieuHqfW0xtsid41OwC6i62qWY5NoDlmrHo3dvlYeAoy+mYufz0m/qzkF9n+Jzd+Sr4HFVEML8DNcDed0nJzi55gWxy8WYs+LrPkcG5140EmZyqHDEHw4gjNQ7ZPQvW2NaapXRro2CLijixofeN8hoxoNS0KvFg9u2KeIlnxBQ9bwS1UlmCL4+qOc/CYXE+KkFM7ATjz/5TdGiiS3N1S6PEBrHjmHDsMkuStP8r5yAjSl3njcewz03e4FHMzpfb3H/IDxkFJNSccsmgLK7G74Szlb4/fb3g+/1otWzkvTH+ofocg7Kyu5Jgfm6HRFVBKmyqoGy1h1fDTTGK9r6aU3HKbvgB0b6XQGpCx7J6+o/s74pYQRk8B4ORTej7ufq6PM1XsCVfcED/h5FW9TSQgqqpUA3a6HOLHUjwUCMvh8g6+ag==;COdySBRY8Q0x1xVCLrQP6A=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Trucks Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027"
-    excerpt: "The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
-    publishedDateTime: 2021-05-28T16:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Deep Learning Chipset Market Growth Analysis 2021-2027: with Revenue Share, Future Prospects, Developing Opportunities and Size Forecast"
     excerpt: "May 29, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chipset"
     publishedDateTime: 2021-05-29T18:30:00Z

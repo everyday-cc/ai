@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-02-microsoft-gpt-3-and-the-future-of-openai.md",
-      "title": "Microsoft, GPT-3, and the future of OpenAI",
-      "excerpt": "Elevate your enterprise data technology and strategy at Transform 2021. One of the biggest highlights of Build, Microsoft’s annual software development conference, was the presentation of a tool that uses deep learning to generate source code for office applications.",
+      "path": "_news/2021-06-02-microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates.md",
+      "title": "Microsoft turns attention to multi-cloud and AI with Azure updates",
+      "excerpt": "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/",
-      "originalUrl": "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/",
+      "webUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
+      "originalUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 249,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/d33209dd-b8cd-45f9-8721-b2f784f9ed3e-e1574362283724.png?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/amp/",
-      "publishedDateTime": "2021-06-01T12:15:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/",
+      "publishedDateTime": "2021-06-01T23:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -49,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

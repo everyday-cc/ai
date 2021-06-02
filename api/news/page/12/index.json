@@ -2,6 +2,187 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-22-computer-vision-developer-stradvision-to-showcase-its-most-advanced-perception-camera-for-autonomous-driving-adas-at-auto-tech-2021.md",
+      "title": "Computer Vision Developer StradVision to Showcase its Most Advanced Perception Camera for Autonomous Driving & ADAS at Auto Tech 2021",
+      "excerpt": "StradVision, a pioneer in AI-based vision processing technology for autonomous vehicles and automotive ADAS systems, will showcase the latest features of its camera perception software named “SVNet” during The China Guangzhou International Automotive Technology Expo 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
+      "originalUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202105/21/l_60a838a13e331.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
+      "title": "Best practices in customer service automation",
+      "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T15:48:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-sense-of-touch-improves-control-of-robotic-arm.md",
+      "title": "Sense of Touch Improves Control of Robotic Arm",
+      "excerpt": "Adding a BCI that evokes tactile sensations makes it easier for users to manipulate and use robotic arm prosthetics.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/",
+      "originalUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/05/touch-robotic-arm-control-neuroscineces-public.jpg",
+          "width": 770,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/bci-tactile-robotic-arm-18469/amp/",
+      "publishedDateTime": "2021-05-21T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-campaigners-predict-us-federal-facial-recognition-regulation.md",
+      "title": "Campaigners predict U.S. federal facial recognition regulation",
+      "excerpt": "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation",
+      "originalUrl": "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
+          "width": 640,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-chinese-startup-ponyai-can-now-test-driverless-vehicles-in-three-california-cities.md",
       "title": "Chinese startup Pony.ai can now test driverless vehicles in three California cities",
       "excerpt": "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous vehicles with a safety",
@@ -1011,198 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-big-brains-new-books-on-artificial-intelligence.md",
-      "title": "Big Brains: New Books on Artificial Intelligence",
-      "excerpt": "Reading ‘Genius Makers,’ ‘A Brief History of Artificial Intelligence,’ ‘Atlas of AI’ and ‘Futureproof.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "originalUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-341172/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "publishedDateTime": "2021-05-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data.md",
-      "title": "Facebook Wav2vec-U learns to recognize speech from unlabeled data",
-      "excerpt": "Facebook claims to have developed an AI model that learns to recognize speech without the need for annotations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/amp/",
-      "publishedDateTime": "2021-05-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
-      "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
-      "excerpt": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook",
-          "width": 1304,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging.md",
-      "title": "The American Academy of Thermology Announces The Formation of New Platforms For Artificial Intelligence in Medical Infrared Imaging",
-      "excerpt": "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19819004.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19819004.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

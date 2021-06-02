@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Trucks Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027"
-    excerpt: "The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
-    publishedDateTime: 2021-05-28T16:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
     excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a"
     publishedDateTime: 2021-06-01T07:35:00Z

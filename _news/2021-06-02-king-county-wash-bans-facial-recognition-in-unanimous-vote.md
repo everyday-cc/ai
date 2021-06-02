@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baltimore could enact nation's strictest facial recognition ban"
-    excerpt: "The Baltimore City Council Public Safety and Government Operations Committee on Wednesday passed an ordinance that would not only ban law enforcement and other agencies from purchasing and using facial recognition systems but would even bar the use of such technology by private citizens in the city."
-    publishedDateTime: 2021-05-28T15:28:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 139
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Detection_And_Recognition_380721568.60b10b5b785a3.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Congress Struggles to Control Facial Recognition"
     excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
     publishedDateTime: 2021-06-01T20:53:00Z
@@ -53,37 +39,35 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Final action expected on King County proposal to ban facial recognition software"
-    excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
-    publishedDateTime: 2021-06-01T15:31:00Z
-    webUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/"
-    ampWebUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
+  - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
+    excerpt: "Joy Buolamwini of the MIT Media Lab created a mirror that would project aspirational images onto her face, but the software didn't recognize her until she wore a white mask."
+    publishedDateTime: 2021-05-31T16:42:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of-2/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of-2?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of-2?amp"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 54
+      name: Marketplace
+      domain: marketplace.org
+    quality: 57
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-1149113711-e1622557116352.jpg"
-        width: 620
-        height: 370
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/coded-bias-ft-img.jpg?fit=480%2C270"
+        width: 480
+        height: 270
         isCached: true
-  - title: "King County Council will consider prohibiting use of facial recognition technology"
-    excerpt: "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information."
-    publishedDateTime: 2021-06-01T01:43:00Z
-    webUrl: "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
-    ampWebUrl: "https://www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
+  - title: "Facial recognition payment to be rolled out at Moscow Metro stations"
+    excerpt: "RUSSIA: A facial recognition based payment system is to be offered at all Moscow Metro stations by the end of the year, according to Deputy Mayor and Head of the Department of Transport & Road Infrastructure Development Maxim Liksutov."
+    publishedDateTime: 2021-06-01T05:00:00Z
+    webUrl: "https://www.railwaygazette.com/metros/facial-recognition-payment-to-be-rolled-out-at-moscow-metro-stations/59185.article"
     type: article
     provider:
-      name: KING5
-      domain: king5.com
-    quality: 53
+      name: Railway Gazette International
+      domain: railwaygazette.com
+    quality: 39
     images:
-      - url: "https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/1024x536/6/2/7/41627_rumoscowmetrofrontimage1_373656_crop.jpg"
+        width: 599
+        height: 399
         isCached: true
   - title: "King County bans facial recognition software in government agencies"
     excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
@@ -99,20 +83,6 @@ related:
         width: 837
         height: 628
         isCached: true
-  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
-    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
-    publishedDateTime: 2021-05-28T18:52:00Z
-    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "King County Council votes to ban use of facial recognition technology by government agencies"
     excerpt: "The King County Council has unanimously passed a proposal that would ban government use of facial recognition software."
     publishedDateTime: 2021-06-01T22:47:00Z
@@ -127,17 +97,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
-    excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
-    publishedDateTime: 2021-06-01T20:53:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
+  - title: "Facial recognition controversy: Detroit City Council approves ordinance to increase transparency"
+    excerpt: "Big Brother is watching in Detroit. Police alone have access to thousands of surveillance cameras. An ordinance passed by Detroit City Council aims to make sure those being watched have a louder say about it."
+    publishedDateTime: 2021-05-28T21:23:00Z
+    webUrl: "https://www.wxyz.com/news/region/detroit/facial-recognition-controversy-detroit-city-council-approves-ordinance-to-increase-transparency"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: WXYZ Detroit
+      domain: wxyz.com
     quality: 26
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7bf326a/2147483647/strip/true/crop/2975x1562+12+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F727%2Fbe88c4e651db4a7dbe102614d7272948%2F727d76e188ed40eb99fe37b16ab02fd4%2Fposter_dd69ef3e268644299859db79169c6738.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NV9bf6BSU0FjhI37UdOBR85PwtojeKTPq5PoX2ysJ/gnx/CCBx43kycZJFbDe77dj3hysLHa20/2+3eWy0jycHSBIuaUkYySHSldvDGplyJdWhIHIC4VRpng33asCIPXk3+Fsilkux0kBBRPiBMKbYQBXj86SIwsHcpVNUVp4FBI346d0BlbmfLkuovsxKFuQyyzzVsyOLHjGrtj2JRRZt4PeBT6PlyNSdjUOcNjxx53mjL+aUkcEItzf9jPjSiQ4YcbsnkAEsw8+BonRO8vcSH1PhRhAEAg4RPK8xX5SsY1TenvX2zVSO2BQh+4VgykHP7LYpiQR7SlQvxS31+bk+RYBFFACtz7Swh1Fp8EXoLPRXhRBaF+mkQcwdG4FGD6FnAzNdlsdEbcY+dUkgdtka7Xo/q1nIA0umJts3LxouWLCfVxhiuOdrqyWc8tfeYTS9NHmew30WA9SDMmrGP7cSxs31D5bBooanxXHsacvESty9nGsni58m0AWnwId8K8f8LwNd5AfCK/bbZrNM1uNw==;zF4wd4LwWvsstfBTBAREZQ=="
 ---

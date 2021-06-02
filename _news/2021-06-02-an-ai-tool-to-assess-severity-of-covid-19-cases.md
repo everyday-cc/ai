@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "AI-driven platform to facilitate early Covid intervention over WhatsApp"
+    excerpt: "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,"
+    publishedDateTime: 2021-06-02T09:07:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    ampWebUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1701412699.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "AI technology can assess COVID-19 severity with a promising degree of accuracy"
     excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
     publishedDateTime: 2021-05-29T08:12:00Z
@@ -136,6 +152,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
         width: 2880
         height: 1616
+        isCached: true
+  - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
+    excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients."
+    publishedDateTime: 2021-06-02T09:31:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 47
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/02/full/20210602142448.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "New Artificial Intelligence Tool Assesses COVID Severity"
     excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
@@ -202,6 +234,6 @@ related:
       domain: medindia.net
     quality: 24
 
-secured: "1hc7eaLKjZ762ddC+uABmAfI5R2bPSmjP4s3thxnHMYpiwbLu0jMp1mB6+quKovPnFE6EPKdz5cwdYwfSN8proER8bXP5fBJSheWkmurpEm1fVtPzOwbs5R5wjzekwLf7RgkEczWi2rS156SCb9zBT/wZd9natINrr7iphBxLhN4jkinEn2oStpKGwjBHAuLA/45CwH4W0Xr86AhOiF//VSn32/wTq+EUHuXeF/+mUAoGSsSHdIvyQkWmZW71sRXjOqdUPIYuay2R0/ecFky0AiPQ+ijUEMMS3wXskAKSA1QFbNYNsnSTLpB/byX+lspPsg5W4oatLNcqg3WmrKftgJX222ri9oWocS8ZNHQGW0=;wVrXNJvCpBhBa7OtV0f2Ew=="
+secured: "Oi17kHTSOKw9v+Baagz807/wegUSQZ/YXufIIZkvG8qPJSoDtip+K0ieOlyCBXUr5p455YTtRLXXTWxKRHO3blp9GrkLK57MciOe0NrT11Wb+WYeK8SOXzuD5xkuYcMcHpLq53TkZ00Qm9BwRarFznwaoVQXPofZ/QtT9f+fm/LFHsrCMJScLpcOZxBX0J66V7Qq457NDByyJ6In1SeMhIjfBa0Yc4hcP2D8rALN/nKJADD7VIR+wnnd70KjAHapk56piTuW07LvxPn1v20e87OciX/SgIjFlce3tUDMNelqYjhjy743eQK0CKOMxQjX5dCgRH1wiNyiIn8KU0xvUKmfTEcALUR+re50FalVGUy7AyUD3NDa6nFBZuJssyjwzR14kTHqWggr1rivFDD0+6kad2mwkIQ8MHCOzZVQtdpy5UH2ej6IhjUrhPaxgmJ0Rd1URuzx+38XjekwbOl+wqL6YiOyQBHJRbT6DkSElWfHL7pyhCVli87ieXtAVhqN5ZWXYIr/7ayNXINn4/pFlw==;OOUyWC+DQYZNTxOK/Sn47w=="
 ---
 

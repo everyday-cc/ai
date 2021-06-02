@@ -3,8 +3,8 @@ category: news
 title: "Memo Outlines DOD Plans for Ethical Artificial Intelligence"
 excerpt: "From the battlefield to the back office, artificial intelligence has the potential to transform how the Defense Department does business, and ensuring that AI is developed, procured and used"
 publishedDateTime: 2021-06-01T19:39:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2640609/memo-outlines-dod-plans-for-ethical-artificial-intelligence/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2640609/memo-outlines-dod-plans-for-ethical-artificial-intelligence/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2640609/memo-outlines-dod-plans-for-ethical-artificial-intelligence/source/GovDelivery/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2640609/memo-outlines-dod-plans-for-ethical-artificial-intelligence/source/GovDelivery/"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "7K85SMCSi8kgfL0aXmEd1+Jb9uZ/uFDHYHfWuXE5IC/YAgqeOjtPR3Mh8bu0KItlu4xQdVSeZH/o7OOBw6KPWofcPugs514sZxlZo8fiO6hwqnLldfF0z2z5FtMas/8J/p+ubdex66+p/MY67e29V6IB0pgz6MvsSN21+cwaq5TD+1+sYmVujvJ5SPqu2fyesk+PdBKPdHC/9NZVDYVcJJnC2yo0O2bguBXK/omxcl5SxntyzY7Ox0nXskSGHpKZ8OEC+1fDTq9xXu0CbTWy8wYnAJHpW/yz3Fyo7LA8bongvrg9uEWAOZsiuSG09wLtNH31YSb7i5D1Dh9pSu961l1JoKSki8Z+O10gO1DU1Ou0aO4poI4iSYzRomWnfKcL+l7BozL/1fcNe+QY80tpP5zMQ8+fZ2OiFZ9kQx7KqWW7+Beoui1v0lBw4+0WvFkAOjY0kX38pPzvYUfMCSJVHzpHZeUkFAKyccMYdyFUhTh9AZjY69JvzW8UOrsafKJiZ8wOjjBsLllRhwXbNEsi9A==;AMHte+vktrlYIvoGurAllA=="
+secured: "ZZ2hZNhXT3O7dbhTXr8fgSfMbvg6DcfGgpDH+XmBvRm6gM0P65lF2Q7JKTshopxrHLmkrA3oUtGVeTKRxosRPEcyXEKMRv5/oJcZUNdwK7uzpGZ95RR+3V+J/g98w96NnWQh+94Tt9zcSJBcluvZjwXWaN0uv/+WLLuHKpbKLthOFuW1j98boyOiTYHGml/WeF6+SaYnj8CsQj3RnA8HCLahqlsaewdSq5uOiNm4lDTeyGy+8pn5sBnc2T+7itxdatVHNxR2Cx/IZ9CsULqVEsXMKrpDD2psbvqb0UtfBEqktyks7CUrUUMdzksfbjXCv43d85OyCMudwj3W1vrB7vohepBC9gaQzzzlAIBXWEM=;Pr5KmULS4lbU1MH/PuE0Jw=="
 ---
 

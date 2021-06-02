@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "NVIDIA pivots to AI for enterprises"
+    excerpt: "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products."
+    publishedDateTime: 2021-06-02T09:52:00Z
+    webUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises"
+    ampWebUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 61
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png"
+        width: 1124
+        height: 760
+        isCached: true
   - title: "How Nvidia plans to own the data center with AI"
     excerpt: "Nvidia Corp. wants to transform enterprise computing completely by making data centers run 10 times faster at one-10th the cost. Nvidia Chief Executive Jensen Huang (pictured) is crafting a strategy to re-architect today’s on-premises data centers,"
     publishedDateTime: 2021-05-29T18:37:00Z
