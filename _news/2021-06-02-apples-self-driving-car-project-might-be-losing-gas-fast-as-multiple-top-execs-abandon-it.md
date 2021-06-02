@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Faces Exodus Of Managers From Self-Driving Unit: Report"
+    excerpt: "Apple Inc.'s (NASDAQ: AAPL) ambition to develop an Apple car could be in jeopardy, as the company is reportedly losing key personnel from its self-driving unit in"
+    publishedDateTime: 2021-06-02T18:58:00Z
+    webUrl: "https://www.benzinga.com/news/21/06/21392580/apple-faces-exodus-of-managers-from-self-driving-unit-report"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21392580"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392580"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/apple-2385198_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Apple’s Self-Driving Car Team Loses ‘Multiple Top Managers’ in Recent Months"
     excerpt: "The bumpy road to Apple Car continues, with Bloomberg now claiming Wednesday that Apple has “lost multiple top managers of its self-driving car team” in recent months."
     publishedDateTime: 2021-06-02T15:19:00Z
@@ -58,6 +74,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PBIa4YrNXmQH0lnVnDo/P1DE0M7p7C0XNqLCEtBxZ8QjfBkZueiesDd8JA2FtomY2bKXZyoR0RH31Po+B+cCNs4s8Bdd+MX9Nysb9qBgEai1hx7Dk8cxRmhiHeqVKKmZuqSqa1tHFWB1P6vBUljtEqZimsa6UWg9LG8ASnz1FIsLqcJxqqwVGlvdrPJfMJE5l9CYwzjU7I9wRVK2EHDGlrCjUp06eSsDhvzInnvyFIBFq/ekqgDRZkb1nQzJS0QwgYlunDRDY1GuPOtvdj6cAFg4U1C/+jx4cTEjW9dLNAn/TwE1ipWZbuv6wJQ4/6dJxh5nxAmanpZDKNPYcJTKSpCNoYMCszjdcM6MJWdcfqE=;QCQDQ9dhrqvejvtH/72mgw=="
+secured: "xTX/c4Jri+BglxVoK1rUvmHfoohsJoeojE80GCYZJ52fKTM7xu2Bqa7kbfpyYM6JsbVJtZcP8i3jIHNNZuEYmaKXSeOJ6U7x7VApmw8Ga+8lX9Lnb+fbiTDJHLqGQtXn7Hqa6Wxx2wSPv6X3pHuGRQ6ZXRUbeQmmDzqWvadbUtniiB5SjfXZphJyX+QrRUij5zlH8NhMHGgCzUp+R+QqQ/ehW22kmmHa6bfjjQwydR1TI509gy46KKtz0TVIQueNCQXSFoHPHzkVACp7lHugGce7ljBWlUUbLxSPa0YtUwD+CV4clrgC0kL6z+yhX4UKFW0gRMtcMOB2i6LjiMiZEKKlM1DvOV9589KMDhNfPDIvOmFUA+Fc0bbMlFAf7SWU+CG5g21qKgKLG9F0Z05OQj59Rf3Njqk3fPUwt3JRrNOlDZSu2JPxXfq0RYvLaOfnxyOF+Qo8vmGPRp7N6PMXfES2tgl0NGkqTDw8Q3JvtnSZhwaNFS7ZwFIHBeMk/aEW36bITTDfvtONyPbn76sxig==;0e0sMUWib/O3OpdKxh4wvQ=="
 ---
 

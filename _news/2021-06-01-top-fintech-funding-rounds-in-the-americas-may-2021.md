@@ -53,6 +53,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "U.S. Fintech Taulia Announces New Footprint in China & Singapore"
+    excerpt: "Taulia, a U.S.-based working capital solutions provider, announced on Tuesday it has expanded its global footprint by growing its presence in both China and Singapore. Founded in 2009, Taulia claims to be a leading provider of working capital solutions."
+    publishedDateTime: 2021-06-02T18:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176152-u-s-fintech-taulia-announces-new-footprint-in-china-singapore/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/01/South-East-Asia-at-Night.png"
+        width: 1088
+        height: 772
+        isCached: true
 
 secured: "sGU2sLPTEZaZK5/ggrYQsYuG3qpAB3mHe9rPhL4tg7qb7vUl8ME38fCaRKjtCIgdI6ajN7EwzCCeVkatPqmKkyhNX1MOPHcLL4MOqgGKiyNyj4oIvWYbp+4GALZUVRlQN1tWiTY1AiWE4sgimdsACITyno0GlRNlBnjv4JFbUQ++R/0vy1mz9ehVMPx7YeimxXNDfjrexBFtbZXZQ7SHC4CTGzpJyxog0ZFIaMeUcEFx2gIGS84oAttzm3PTgd+aZjrWl+6M4eeedlqvYVSq7fgsSvXd9jKujK4nInrq0Fitsnen2Wl+kvNmm/7DjNMHhyY8fQk7g4gX4F7102Dwpv8E0vr5CCHs/hZMBJjGDEcxkWGgVmnvl4SO8jcoVkKBNZKJAMo6UpTS+JqThR7uZbeCffaiTCkf3z7UvMjf9RIzpWkoJ5hHeMCL+llqFum46kzWUrPUmvr+eUgPWyDJPr7JuovCv0yKAuDBiH2V5Mqa7iN10kr2AsSnkv4UVJpQxE5q+m6AYFDZIzYrgXel7Q==;blL9CwAjrj7pivZLEFtdzA=="
 ---

@@ -1,32 +1,22 @@
 ---
 category: news
 title: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
-excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, and Shell (NYSE:RDS) today announced a five-year renewal of their strategic agreement"
-publishedDateTime: 2021-06-01T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/c3-ai-and-shell-extend-strategic-collaboration-to-reshape-global-energy-and-resource-industries-with-enterprise-ai-2021-06-01"
-webUrl: "https://www.marketwatch.com/press-release/c3-ai-and-shell-extend-strategic-collaboration-to-reshape-global-energy-and-resource-industries-with-enterprise-ai-2021-06-01"
+excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, and Shell (NYSE:RDS) today announced a five-year renewal of their strategic agreement to accelerate the deployment of enterprise AI and ML applications on the C3 ( News - Alert) AI ® Suite across Shell."
+publishedDateTime: 2021-06-01T13:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-c3-ai-shell-extend-strategic-collaboration-reshape-global-/2021/06/01/9381253.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-c3-ai-shell-extend-strategic-collaboration-reshape-global-/2021/06/01/9381253.htm"
 type: article
-quality: 47
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Artificial intelligence enables smart control and fair sharing of resources in energy communities"
@@ -55,6 +45,6 @@ related:
       domain: businesswireindia.com
     quality: 0
 
-secured: "rfcPBnlyC6u+ZMKzfXVhrsHOLRPu1V0jPK+TYt64d2O6xUNMpvyyY/aqUguzqZBH9SpI0+Nuyk3LYBV0s0v2bSHj/tJb6BPBJi9Ftt7sQXaqgmZH94SGBQGUrRJusEWu2vYAwblzjFUN1GjFt3JgaF0L+xQ5u8BNFHbDaWr6CSBw0pIA6Py+LtKkTzeKLs+lfDKIzIkTph/BDYRzI7jkzuXHMNVesi+BbQg8zsRx8y7kWkY1sR9tfeiK9bxbLapEcQL5G3/FTn2pfGytZtdnLRUH/U5v8Kj9sQ9mgwHVYDMvKQ5YduVRvjBySyCgc1xQSZ9lYS8nvLFvqanhyzDaLLaRNaQvXseXn92u3mhGzEM=;WS/omXhpvfLJvmFEwJjWSg=="
+secured: "nzNEFYJHJzxo4iNixSqKwhjw9Zn2haBIIJCMS2XzsYT0GqvjDVHyG/PxieaR5E8ceLXnPcN5IJuaC5zGsDJ3hnEitl8px1pPMldDyXQk9iSQFCuUUA/1UlOU8/z+28UCn62DmQZARsy1JU4HHIIpFO8V4Vk3VJ6Pwq19ElbsjH976olSGCsX+gK7P+ShQDxhUgMG4Eu5BVZ/QX9pTJLILceEHJELhHoiepysPE75zOyHO7T6gmV34mRdMQp8RuC0WrvdNPqXJXvqlo2hOTFJrMsxUY0yjtIDhcH7dEiTosaCY25qaLOT3XUTZK+1QU5d3cJp49N6IKyLcs9Flzs6d+byd3r87LpcSTvjt5GKNW0=;QVnC0y72sQoySBy44janCg=="
 ---
 

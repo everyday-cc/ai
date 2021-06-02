@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AF tracking for racing cars and motorbikes - more details of Canon's EOS R3 revealed - a high-speed, high-performance mirrorless"
-    excerpt: "Today, new specs prove the EOS R3 takes object-tracking to another level – adding Auto Focus (AF) tracking for motorsports including racing cars and motorbikes. In addition to this, ideal for filmmakers,"
-    publishedDateTime: 2021-06-02T17:22:00Z
-    webUrl: "https://www.zawya.com/mena/en/story/AF_tracking_for_racing_cars_and_motorbikes__more_details_of_Canons_EOS_R3_revealed__a_highspeed_highperformance_mirrorless-AFPR020620211139/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR020620211139/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR020620211139/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
-    images:
-      - url: "https://www.africa-newsroom.com/files/large/9217b3b41df1f43"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
     excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
     publishedDateTime: 2021-06-02T12:21:00Z
@@ -68,6 +52,20 @@ related:
       - url: "https://cms.cnbcafrica.com/wp-content/uploads/2020/07/1200px-CNBC_Africa.svg_.png"
         width: 1200
         height: 1112
+        isCached: true
+  - title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
+    excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
+    publishedDateTime: 2021-06-02T18:00:00Z
+    webUrl: "https://guardian.ng/apo-press-releases/af-tracking-for-racing-cars-and-motorbikes-more-details-of-canons-eos-r3-revealed-a-high-speed-high-performance-mirrorless/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 10
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2019/01/Guardian_ChangeofName-06-e1547732039626.png"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "F4pOHnh1c6QQCPdSuL4umSdWNfk9+EJb8JOcDdKZ6tXAA7QUSRCAvm9TruRGoLjylhQEDVuAkuYoxL0UuyoP3a/wEvhzysLAf2mgay2STYpK4oMKgrVvc6ztg0RwtERCHgDF+UqxCOfoY2M0coR/HHYSJQQ5tG4iQ1MmYBcss/BvDm/2MZ2E4Frk1cgZ3NoZ4Di0p4vAbZ9/qTVfAwpA6kpwsAHRXF8b3seZrLOPJIeIiv7JAG//Gz9K3vvFjDEBWZ1nDlbaTZXFKXGndSYbTU483VxeM2uIlfsSb3WXOLODrsbdY+SAJbD5yGUd+NEB3BvZfm/FzQbFFrK/DnSQZbd5BUkoqTN9NMyNUjA4H/k=;1y3cHfoMA8yD+z+oGT7RNA=="

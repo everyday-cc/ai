@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-publishedDateTime: 2021-06-01T23:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+publishedDateTime: 2021-06-02T02:40:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/250000"
+webUrl: "https://www.ryt9.com/en/anpi/250000"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+    width: 800
+    height: 338
     isCached: true
 
 related:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/02/e5ca2060-b61a-4991-a58a-df38fdcc14cc/resize/1200x/3a4b18e380749405a438cc1bf24cbc4e/tr-azure-farmbeats-diagram.jpg"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Microsoft acquires ReFirm Labs to enhance its Azure Defender for IoT platform"
+    excerpt: "Microsoft will integrate ReFirm Labs' firmware analysis technology into the company's existing IoT security platform, offering customers an all-in-one, cloud-based security solution."
+    publishedDateTime: 2021-06-02T14:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-acquires-refirm-labs-to-enhance-its-azure-defender-for-iot-platform/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 81
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1622654517_microsoft-refirm-labs_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
     excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
@@ -161,7 +175,7 @@ related:
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
       name: TMCnet
@@ -205,6 +219,6 @@ related:
       domain: manometcurrent.com
     quality: 22
 
-secured: "EMdNsvUFVK52gq7/+jQxM+qvY2uuvbmaOFY6KQc5KqCZ5nc7PSZuNfoC7mDLFEHL/5zUvjSRb+SqorRiNBJA6TVuYN6ZeLGn4mxb9o/i8omNKZOLQmObmuNuzCJy6M8h6RvzXNQN7rAopSkGVdtqiT1IEM4xijWpXfV68MKbl4nCNOBiK7861/+yKJoSbnUvHosS52dL53a5v1lHudezH0xGyXKOUbX9N6V6k/9TS5C80PbPVH3rCU/FpMGl/peFtsOEeQRXaSyZ20qVYC+mjDqoaN36NqfJz2+X6TLeVdPq184ugRYq1utoNI2nTzL/eMCltuvAMDKQLPM5iPZSY8IOFm2abpOwqEcevHtv6qWVa9nsMvpjSnTMkhmTEYjOyqjJ6LYRbMXcwKf61L2IgesKwEoEOSBM/2F2ZT4XtulEbFMY0dxqjd0u5nHaaKXuUXHfOzqvlrB4yV8GqiWsy2CIghZL6Z5VVOrs/tP7gXE4uy1423EHB6e3khD8mT1ghNEKwransXCHgrU1cUHqjA==;8vqDaDC2W/+sBWG0sC7ZkA=="
+secured: "XCysRud3LccUQ/f5YYQcNjF94YpG5nGFAgMgfoNyqlrBy0hv9TxIwv1uaQWoQa/t7UstZkYdg+Lbg5j/KHN6K8O/ihNb5ogI88lNAKMZbNmGrxXoyZx7OqCYXnKUIw5qPgOXEPppuugeDGmllIaL7fPIpo2CN72EREF+37R2PirUXhQhQ8VLXc2/iObpphhKApr2MvBc8DzlOjlgHOmyFiISOYilOie4N5uYEidE7wW/pGsyA8iK5DDXpk5whbLXMaSjqURGT97vZhg5CO2n9r8EalLCMEDu9mo8bocLolcI+xCjl7j45SYM1N580qfEIvuoZrQaCI45HkAZ4Ey7wEmhrhcpjAk7LPCKvTQnU2Y=;TY3QwNV8lJ4w8wLrZi6zog=="
 ---
 

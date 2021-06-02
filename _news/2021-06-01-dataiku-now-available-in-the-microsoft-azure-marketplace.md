@@ -3,8 +3,8 @@ category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
 excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Microsoft acquires ReFirm Labs to enhance its Azure Defender for IoT platform"
+    excerpt: "Microsoft will integrate ReFirm Labs' firmware analysis technology into the company's existing IoT security platform, offering customers an all-in-one, cloud-based security solution."
+    publishedDateTime: 2021-06-02T14:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-acquires-refirm-labs-to-enhance-its-azure-defender-for-iot-platform/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 81
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1622654517_microsoft-refirm-labs_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
     excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
     publishedDateTime: 2021-05-30T11:47:00Z
@@ -109,18 +123,18 @@ related:
       domain: pcmethods.com
     quality: 69
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-    publishedDateTime: 2021-06-01T23:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+    publishedDateTime: 2021-06-02T02:40:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/250000"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: RYT9
+      domain: ryt9.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+        width: 800
+        height: 338
         isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
@@ -204,6 +218,6 @@ related:
       domain: manometcurrent.com
     quality: 22
 
-secured: "WriT2eDWJ57RA81LHcQfdTL/UnIIFJThV38SB9aRcjFxePbzYmi8oyGejTlP6UwThxHAMm6du3EdUAjAOTMeZ+uhKvBFSsCIjlbEkOY9PzP3qAxx7sazxQzwe+tNyIufQENbPYEWkYfgxq9TDnZ/VUZQN84knjtaQD6KBZkXOO55T/IK1M/yISBzMBf12D6XG2GAaUduKoNXQwsCKqbbhrvbVnZiFQ6jzhJk65g/v4j4nQOMe1EnhNzcXtZt4uLVfxBTQq6pPyyCFvkQYZeRAZ7olscpCeYKeYYDoaaf/GYGBgoXFahfFTo2ssnbT3WQCy4kugdjxrhdB8+54DrTC0zbBPRgjUdVIps7XoXFfMo=;2JTUt/qARrs+lc2Ck28Ftg=="
+secured: "EH3gQ5PwZ1PPcF29WEmiVn9FwuqzbjNQ+TSXJ2SP7U4ug0ZHSzC6iNoydF5nv9zLEcD4RCq1jKj7ivyo0rwxfKn16Eirr2Lq/Jwsd4sbJQSmo/82yuavFlYPlTrOXOnPB7fjUBX0w+rOXiZ52OLX+URQqniuSWWP/UERCA8rV/lI8l09x2J1aE/psn1D1XXhiiW+toc/YqltxjK9YffqRwKqN9Mdl/bjpUS4proxp+W6A7eK5IHfG2StG9rnIyWd34OKzc/HsdIdmToiA4eXVcRrnOgzqZm+HAM8yLzysfat3Gpj1S7bGjW5gxG3n/M4xP1uqVCIhMK9h6+Iq9ElkZRrBkAr36FQpSFkcLj7oOE=;/Tl0yXFunBxdInHTl7bGeQ=="
 ---
 

@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Driverless cars hitting streets of Fremont, Milpitas, Irvine"
-excerpt: "The company, which was founded in Fremont in 2016, has been testing cars equipped with its self-driving technology suite since 2017."
-publishedDateTime: 2021-05-25T17:50:00Z
-originalUrl: "https://www.timesheraldonline.com/2021/05/25/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/"
-webUrl: "https://www.timesheraldonline.com/2021/05/25/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/"
-ampWebUrl: "https://www.timesheraldonline.com/2021/05/25/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/"
-cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/05/25/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/"
+excerpt: "The company, which was founded in Fremont in 2016 by James Peng and Tiancheng Lou, both formerly of Baidu and Google, has been testing cars equipped with its self-driving technology suite since 2017."
+publishedDateTime: 2021-05-26T14:44:00Z
+originalUrl: "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/"
+webUrl: "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/"
+ampWebUrl: "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: Vallejo Times Herald
-  domain: timesheraldonline.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.timesheraldonline.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&#038;h=452"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&h=452"
     width: 680
     height: 452
     isCached: true
 
-secured: "CgRegUTsNwItEl6el2tFgfYQo5ZhF0UVjnT0tg59l2hWA5CFWZzSqA73M0OEAdGJNqvZSOsjVe5FyxGd/wXhLONPLyADq7L/hSlvyljOH/gQyVIM/QDV3y6/wnpWwOPxQXGbYw/VhopQOOX3FnK8rvktGHzi37GmjqXcPLngKJ84zmuH6+LgoMs94tVOblzhNpEwDyFCwRoKn8clgO5R4stZJKBdlP1E5Kty1BBb9Li740vcaqkAoLUKLcR1gH6Bx/UxL8lQ/saOUVs9QbnSRCHfKp8vrmzFzZIuikMXCSY7v2ZFTBiBvo9xgu/eZY9tBoQL7O3z2LnzfrLhu41UGPgV6yQtNvYW59XL6vpasqsIETzQKYdh+kBRlDB1+meYLW5KKk9k0gnPjxTCHvSVJp2c0/BqLj4TZozLnhWfjeBdNJCI/kLXB6S+Qb8A0+2Gcp0jicOhyY8MAutjvDj9G4chmtm5N94ErE1pW1/gmwNI7m5yoyFbowqozYoO6rEV5gyao7BF5D60GtKFifB/5Q==;gBb7yod5Za4py8IQjyLutg=="
+secured: "HJOGCWsMOMPSIT8/47kLs+XyegN9rMMoih/x+p5Hr/TZA1iPGdOaqK2AMWkc23nVyJL9ZCDkk9YJ0O3FLRx3wsC/GmCqvWqphIHkxvB4tZxWMhFAfjpCdoVGZPyBMnGJfAgrOPDM+vtvb4EAhnnIEEjnnKRYbkBwToxwwhtjPxBN5tiS3cf1NWDBFYk+L6l90nG8HZxiZCuAmeLmgqFHQclUiq0fdPfWCYc6q0mpXxmyKrJPmfyp2Yp9mp8H8wJCte20u3cFPRTRyJLf5NMqXj9aRDwhm8Crfwh4kz91r+mX6sFWrsAkDlVRaT5jDJbDRMJ1ctydI2n1r/j/6ZYsiuibqtT35hCi7VYjtr2bN38=;6Bx3rw0sZrkv/4YKBQMMuw=="
 ---
 

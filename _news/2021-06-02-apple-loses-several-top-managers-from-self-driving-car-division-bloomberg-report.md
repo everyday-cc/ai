@@ -39,6 +39,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Apple Faces Exodus Of Managers From Self-Driving Unit: Report"
+    excerpt: "Apple Inc.'s (NASDAQ: AAPL) ambition to develop an Apple car could be in jeopardy, as the company is reportedly losing key personnel from its self-driving unit in"
+    publishedDateTime: 2021-06-02T18:58:00Z
+    webUrl: "https://www.benzinga.com/news/21/06/21392580/apple-faces-exodus-of-managers-from-self-driving-unit-report"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21392580"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392580"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/apple-2385198_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Apple’s Self-Driving Car Team Loses ‘Multiple Top Managers’ in Recent Months"
     excerpt: "The bumpy road to Apple Car continues, with Bloomberg now claiming Wednesday that Apple has “lost multiple top managers of its self-driving car team” in recent months."
     publishedDateTime: 2021-06-02T15:19:00Z

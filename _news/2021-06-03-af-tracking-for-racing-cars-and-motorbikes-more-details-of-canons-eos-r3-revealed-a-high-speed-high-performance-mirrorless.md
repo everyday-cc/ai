@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AF tracking for racing cars and motorbikes - more details of Canon's EOS R3 revealed - a high-speed, high-performance mirrorless"
-excerpt: "Today, new specs prove the EOS R3 takes object-tracking to another level – adding Auto Focus (AF) tracking for motorsports including racing cars and motorbikes. In addition to this, ideal for filmmakers,"
-publishedDateTime: 2021-06-02T17:22:00Z
-originalUrl: "https://www.zawya.com/mena/en/story/AF_tracking_for_racing_cars_and_motorbikes__more_details_of_Canons_EOS_R3_revealed__a_highspeed_highperformance_mirrorless-AFPR020620211139/"
-webUrl: "https://www.zawya.com/mena/en/story/AF_tracking_for_racing_cars_and_motorbikes__more_details_of_Canons_EOS_R3_revealed__a_highspeed_highperformance_mirrorless-AFPR020620211139/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR020620211139/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR020620211139/"
+title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
+excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
+publishedDateTime: 2021-06-02T18:00:00Z
+originalUrl: "https://guardian.ng/apo-press-releases/af-tracking-for-racing-cars-and-motorbikes-more-details-of-canons-eos-r3-revealed-a-high-speed-high-performance-mirrorless/"
+webUrl: "https://guardian.ng/apo-press-releases/af-tracking-for-racing-cars-and-motorbikes-more-details-of-canons-eos-r3-revealed-a-high-speed-high-performance-mirrorless/"
 type: article
-quality: 30
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: The Guardian Nigeria
+  domain: guardian.ng
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.africa-newsroom.com/files/large/9217b3b41df1f43"
-    width: 600
-    height: 315
+  - url: "https://guardian.ng/wp-content/uploads/2019/01/Guardian_ChangeofName-06-e1547732039626.png"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -70,6 +68,6 @@ related:
         height: 1112
         isCached: true
 
-secured: "DU8ApXcNxzf8wXG168Fa7ZxTWZPv3RC7x+EhIx4VgsdgA1+ITCpCBE+LEE66WG19EoDlZj7OLcsG1PfcmQq6oAtK4kNCLcswDzwzBXyiDLdprml3+W7bHqJLFaZjyqYeUIn1C/lmtXEEypmGrYpLqkKUQrl1eqOhM68IrAEBd7vE/vCcoOjlyDcXYn9dVODeMqo4Y6gTcsL63rOUnAxp2ellzGGQsIE8FhJeCUiTFfJtDMMnhiuBS5ty25wy9OmuOfWwDmDDz4wNhnERTlRa+icGy6/dHT8kgLOq8rul2WCyKHDrDD8GBrhj3V1wlfB0yQuXntwi8ilgvlAxRhp9vU7R/dtehot7jUSWVtDigek=;s5vQOmAq3Hf6QNa2YB16BQ=="
+secured: "97itvCQ3JyRGIG5M0okLMKn3wevFet4iJ2R3Z/jCsMDVucPwBKL8VO/Qj/6jPFx7uEldBM/8IpXzeOpaH6H3oEv1K8Bnjs5gtSvMqvRWhH4Yg0BluaELNbDmaYuqFkkXCqsI3JaK5gM09wiVH2rJlUXheY354d3eArcV+SdsvII8XD5xrVG7HbxXLoxoqFS1ckpPq3c1pLLg4pFX2eatnzjBDxu57rT3cmUruU9Sk3Gy+pY2IZDUgHVH550qBU4h9GOZ8r6z+458SBq4oO8jo0AqXVR9xLZeuwbA+GdI8JQdf/KCa4R5Ug/icXU6IAUtKTXjx2tAHigmsQ4HgOzTWgXyPGRbvDvUKQd83jlMmrk=;VMxjhuHuDfSUeEl56/YS/Q=="
 ---
 

@@ -46,6 +46,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Smart talk: why conversational AI is central to contact center evolution"
+    excerpt: "According to research, customer calls to contact centers increased by as much as 600% as physical locations stayed closed. This leap in call volume prompts a rethink about how traditional contact centers will operate moving forward,"
+    publishedDateTime: 2021-06-02T16:40:00Z
+    webUrl: "https://www.orange-business.com/en/blogs/smart-talk-why-conversational-ai-central-contact-center-evolution"
+    type: article
+    provider:
+      name: Orange Business Services
+      domain: orange-business.com
+    quality: 38
+    images:
+      - url: "https://www.orange-business.com/sites/default/files/530x250_50256-.png"
+        width: 530
+        height: 250
+        isCached: true
 
 secured: "+asK+FPjw7KdbpSG9mmBR4yR4Bqf5FrPeNfPuVcu5S7jSqsXRZfe3jb8fNjISH3LugZKEqEtEMQaiIQfRiiQY5WWf01PYv/A7ra4u9uQOzStfkgiGpOvlFTxgr8Pj5hYxf5/pVJ7p+iBcLvPcUzimrMeqhGDvHsWmv3iuQFBqf/BGGKPHgX6Jt+8hWx/ZLZ7SwSz8yYTB+Uof/IfzGtpkpI3/bu9m9azG3pY1C50uyxE3s6t95zXtcVP8GkTydEDkiulQ1xWSINYvAyFs6DRp05GoShEzNqhgdRtcINVSXsbhGBolSvj6UJe6dwqx5M3kKR1JHpvV297z9J2ZJAFBAEotDXdby9ui5SQ1L8X7WGOYCFxwruuzM/GU5MkNimqhU1cZ2wcmVhkSDmlmkCWjVqiEU+rFa90wQtdcPktK5BwMz8AZNH2zBCQM+0FkqCUqas4mpB1W0UI6D6od6khKDQ7U5b7pn32/6D8hLyOFwYuDVC/dpZgtTSbUIqYh2sQkd4W/56BLVVvwIMumbqJbA==;5IymM+MHz5vqGM9YY4oe8g=="
 ---

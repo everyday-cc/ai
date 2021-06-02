@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 2156
         height: 1120
         isCached: true
+  - title: "Apple's self-driving car division has lost 3 top managers this year"
+    excerpt: "The departures from Apple's car team come as it is reportedly aiming to produce a self-driving passenger vehicle in 2024 with a game-changing battery of its own device."
+    publishedDateTime: 2021-06-02T19:30:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/02/apple-self-driving-car-unit-loses-3-top-managers.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "ai+ogb/BkdwlAoCNeTl/7rV+Huc4LmzSMamYV733KBXHkeUImaOZpT6N6iLN8RTCFmuOaCyJZtowm4/20AbxRlp2g33fOlF4y2bG1xWxuW0DxZ5fL0/cgB88rRqY/zNsOjAwuty/KcjRZDGWiiw+f8uDjRrprtRbwzEGqhQ5CiFAf7weMR4zGraJ9Xq+yXmkzoz6LDwmGJSqIQEZBgLs7KoYYXf1cJkW3U7aArbdJX4Ek3/7Qem+cVC1OyD1Sl6BrpYCPxxAa/NNGiA4wt3fiVBHC4piVfgHBy2s1cMboNJn9/izAJlLasU/LUlBYsREeWRWTyA0cafSc6FF3sNfqVnTD+1qPnMyJ1znJTxIzZHWFhgegDEGYdK0EVPAMHjySO3JsDCcCpTzsjI88pYzn3r1jy/Y+D/wkYb4QLqIKPfdiqdlxls+37LHUbkcX4l7Zfwbg/4dybvND1TYW5SiA3PVmjNvnCW9GIMZQ4GKhN49pYhSVeElMBvLjJPXgG7ltwyU2N+BYYAomWNvHpbO3Q==;NAsl+D+Lr+VPvMwnlAWILQ=="
 ---

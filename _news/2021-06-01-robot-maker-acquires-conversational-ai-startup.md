@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/robot-maker-acquires-conver
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-maker-acquires-conversational-ai-startup/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/06/feldman-automotive-chatbot-pr-magic.jpg?w=1200&strip=all"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Smart talk: why conversational AI is central to contact center evolution"
+    excerpt: "According to research, customer calls to contact centers increased by as much as 600% as physical locations stayed closed. This leap in call volume prompts a rethink about how traditional contact centers will operate moving forward,"
+    publishedDateTime: 2021-06-02T16:40:00Z
+    webUrl: "https://www.orange-business.com/en/blogs/smart-talk-why-conversational-ai-central-contact-center-evolution"
+    type: article
+    provider:
+      name: Orange Business Services
+      domain: orange-business.com
+    quality: 38
+    images:
+      - url: "https://www.orange-business.com/sites/default/files/530x250_50256-.png"
+        width: 530
+        height: 250
         isCached: true
 
 secured: "njJjeXrrEZNW9JwMP4N7wRBaOY+NUFTnxhw9VB3ulNWFCjYqpQ1gXBXQZkSPO9UW+TxbNuLZcXXhe61zPbdBSTzHnMnDgj6hVm8y3NRbxVI02eKZbuIk2Ubb9l4rI6QhElYvjRkavZQs3GCibfHR8RgVHwvCuAUw1nDCbLGDrybn8b485qZFT8QFl7c0nqWnw77I+ggxxqaDjwAeURIgEzVTV2ND/DicKXIlIlSeoviogY+YqT3sUG/4hAuXNojSr1PSfnUWt72KhAjGzODCG7yqZVSDmfX4yV7OcZ8wm6zy+nJN+nrwYjqytCM/FAWcQ4t0yqKEval9Rx6S3EEP9c6gEH5rrDabZC6oB5gG7jI=;tfScYuCqpvg3jyWkLFXaBg=="

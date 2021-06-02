@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2029-2021-06-01"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Global Facial Recognition Industry Global Trends Analysis: Comprehensive Research Study, Development Status, Forecast to 2025"
+    excerpt: "The facial recognition market was valued at USD 5.07billion in 2019and is expected to reach a value of USD 10.19billion by 2025, at a CAGR of 12.5%, for the forecast period (2020-2025). Facial Recognition has been gaining prominence in recent times,"
+    publishedDateTime: 2021-06-02T13:05:00Z
+    webUrl: "https://ksusentinel.com/2021/06/02/global-facial-recognition-industry-global-trends-analysis-comprehensive-research-study-development-status-forecast-to-2025/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "Gt0svvbF8aSiua+wwj7Ot/m4M0dbxuYaxgfxi2wLN3d7XfQWQflLWBDE+y07yf+ILmLMHLaFC0ukGPWGX8hjmXQWS4/BQtADoquOEhwHZDIOMAsJ1+CkrkzTfwkSyFInYNJddNoKc01jvxRIYojmi8WeQKnOH/OjanM7bvrjpPND78z8FRiwz/sgpvYy2px0Hjfb30gSOmO/6fAGc8gXlcUzbPI4f5n78pqSsHts2fz9YKDUA4JLE12z5HxRPqULZZmdeu3ctJpAtz9UNNHZ5uQzAIZShQ4QxFmPjndXA6waHcC/S0RxqDDm2obguTBZfgQY5xeqEjJcNQgS7jKH9v2kB0mpw4iKMTfLuPPliy0=;lxZ4frCP5b2quzfQVquh8w=="
 ---

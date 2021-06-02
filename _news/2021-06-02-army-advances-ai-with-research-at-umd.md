@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AIMResearch Releases Report On Responsible AI Adoption In Indian Enterprises"
-    excerpt: "A new report released by AIMResearch analyses the current state of Responsible AI among Indian enterprises. The report, titled “State of Responsible AI in India” highlights the efforts made by organisations in India to ensure AI’s safe and responsible development and draws attention to areas that need improvement."
-    publishedDateTime: 2021-06-01T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/aimresearch-releases-report-on-responsible-ai-adoption-in-indian-enterprises/"
+  - title: "Artificial intelligence agreement to advance Army modernization efforts"
+    excerpt: "The US Army plans to cooperate in artificial intelligence research with teams led by the University of Maryland, College Park and in partnership with the University of Maryland, Baltimore County. The cooperative agreement brings together a collaborative of nearly 30 diverse experts in engineering,"
+    publishedDateTime: 2021-06-02T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uarl-aia060221.php"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/BannerResponsibleAI.jpeg"
-        width: 1120
-        height: 630
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "RO8/H55OdGz5722rifGM9fXznb71Poy1e9jLMuFjS9mcjKPRI7lO4SAFqPnMKL0SktNY6WWjl6OM8tX1hyOMYT2bU46TeUOAcLzmPe7xygvBLoe62hOkUOdWVkdoJzEHBPKyRYHD/Mx2qGCbuiCzH+9fOLxrlMLhgvAI9eyUeNC+Py/F6ZAswuPowO52doeovvdB9KgGNwvdPXcKSfeex46Duk0xMxrWEaALB8hNnzq2JOC0/qmEXUbNdUdg9/TsopL2fPOPMvuPOh70StXDs+Ye2wVpCx+xh7f0GlX0O83cCQRpYmflic8wCbJbzMEEdZClCPE0hZylQBhtX3glFuZQTcZPnEdm73A1++snMls=;oQiqziP43o9Cr1W9XZlZFA=="

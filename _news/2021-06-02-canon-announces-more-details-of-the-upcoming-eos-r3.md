@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AF tracking for racing cars and motorbikes - more details of Canon's EOS R3 revealed - a high-speed, high-performance mirrorless"
-    excerpt: "Today, new specs prove the EOS R3 takes object-tracking to another level – adding Auto Focus (AF) tracking for motorsports including racing cars and motorbikes. In addition to this, ideal for filmmakers,"
-    publishedDateTime: 2021-06-02T17:22:00Z
-    webUrl: "https://www.zawya.com/mena/en/story/AF_tracking_for_racing_cars_and_motorbikes__more_details_of_Canons_EOS_R3_revealed__a_highspeed_highperformance_mirrorless-AFPR020620211139/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR020620211139/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR020620211139/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
-    images:
-      - url: "https://www.africa-newsroom.com/files/large/9217b3b41df1f43"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Canon EOS R3 - What We Know So Far"
     excerpt: "More information on the new Canon EOS R3 has been released by Canon. Here's some new information on this flagship camera."
     publishedDateTime: 2021-06-02T10:37:00Z
@@ -69,7 +53,21 @@ related:
         width: 1200
         height: 1112
         isCached: true
+  - title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
+    excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
+    publishedDateTime: 2021-06-02T18:00:00Z
+    webUrl: "https://guardian.ng/apo-press-releases/af-tracking-for-racing-cars-and-motorbikes-more-details-of-canons-eos-r3-revealed-a-high-speed-high-performance-mirrorless/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 10
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2019/01/Guardian_ChangeofName-06-e1547732039626.png"
+        width: 640
+        height: 360
+        isCached: true
 
-secured: "pHubofujamDpP30Le1QxjSI+GKLyXMc/rxkGGSuefrNns6EDaqccq4exZ6rlNN3Yzar5KGF1yDQ0zoEn8nYOUy3tRTgJO+iH1rEv6lahx+IPkATuryENG1G/jnXV2WT9t2LzGr2EmtXQ+Hn/lqG0nILOPnTb0elogtSbgpNRNBnxm7uL4DH/SoGX2ulP7B0hOs/QNN5EKHGWSfKkl7ceOMYqauOF8Cq1mtNkYFD33lO3dZ18PJ/LewQX3B0d0es29K2054L1FPHpQSRGggEHJMrbn+AG5tqz2d20n4zm2twrRBZRrlybvw8kqKspe3hKvs6EBM9SGODQOwrSzuGfVr6PzrucuMUe554JW4Btlic=;fwMv0w8VVDia3gqIywebsQ=="
+secured: "PK7t9v0njlIVxWOcLgOQIcfTk1dnOIl1dG5Ip5uNE0dt6iv2NeojrojJ1t9mUfJeqUE5G8ZEjN8ZplAUDOjCbeA/TLp5qaZvvnWg2rhemhwF15lyl4w9i60Ztha0vMrqaQtI3D2Ya/WqLQvzP0k8YHbxDcEP+jhTij4rW9ZzSIFZVGI5VCZLk6q/rzwbhfpeStP2Kb2XmkJ4tKyjmwDv5BV7ADBPVM/QLTGjBWNIBI3L6CjFwUrhElTDwFoXxrLgGEmEHWSD8bfuMEShDLO8N4opkYw/YpapDYnxcAgRzVZ/4ShqENGhYwR9wEaiOzXb51d8dVoHtuUrWVBAGLhBQ8x4k0YlXAO8ck/9AHiERudoQYdxB7p1P9P6Am9DTk/b+swYLWSnECwtoJH1S2B0qru0CMpurZh/ytJioh5LVykN0XwP18AhY//5CZaPZ4cfRi+gA4b8mQIDLH4YkYomEW0I+pYsJGO1ZzhNhC0ekYg2t3vMvZuoWL6vU3Mr3YtnUPkNBDAcXtMcP3JB/jcXQQ==;vPVk4ISMJiXsxvcQniI0NQ=="
 ---
 
