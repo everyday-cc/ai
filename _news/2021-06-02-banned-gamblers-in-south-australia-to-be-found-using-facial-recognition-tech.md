@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/banned-gamblers-in-south-au
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Technology Banned in Kings County"
+    excerpt: "The law would allow people to sue if facial recognition technology is used in violation. It would not ban the use of such technology by any other government within King County, or by private groups or individuals."
+    publishedDateTime: 2021-06-02T17:53:00Z
+    webUrl: "https://www.govtech.com/em/safety/facial-recognition-technology-banned-in-kings-county"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/46c9950/2147483647/strip/true/crop/940x457+0+99/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "Ai-Media signs 3 year captioning contact renewal with Sky News Australia"
     excerpt: "Ai-Media has renewed its captioning contract with Sky News Australia for another three years.The announcement:Access Innovation Holdings Limited (Ai-Media or Company) (ASX: AIM), a global provider of technology-driven captioning,"
     publishedDateTime: 2021-05-31T19:04:00Z

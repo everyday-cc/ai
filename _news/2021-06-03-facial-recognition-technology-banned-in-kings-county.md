@@ -1,0 +1,69 @@
+---
+category: news
+title: "Facial Recognition Technology Banned in Kings County"
+excerpt: "The law would allow people to sue if facial recognition technology is used in violation. It would not ban the use of such technology by any other government within King County, or by private groups or individuals."
+publishedDateTime: 2021-06-02T17:53:00Z
+originalUrl: "https://www.govtech.com/em/safety/facial-recognition-technology-banned-in-kings-county"
+webUrl: "https://www.govtech.com/em/safety/facial-recognition-technology-banned-in-kings-county"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Government Technology
+  domain: govtech.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://erepublic.brightspotcdn.com/dims4/default/46c9950/2147483647/strip/true/crop/940x457+0+99/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+    width: 1440
+    height: 700
+    isCached: true
+
+related:
+  - title: "Banned gamblers in South Australia to be found using facial recognition tech"
+    excerpt: "A number of gaming rooms in South Australia have adopted facial recognition tech from Vix Vizion as part of the state's gambling reforms that went live in December."
+    publishedDateTime: 2021-06-02T03:19:00Z
+    webUrl: "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/02/90403232-2d0f-455a-ad7d-5d02bf0fce3f/man-gambling.jpg"
+        width: 6720
+        height: 4480
+        isCached: true
+  - title: "Ai-Media signs 3 year captioning contact renewal with Sky News Australia"
+    excerpt: "Ai-Media has renewed its captioning contract with Sky News Australia for another three years.The announcement:Access Innovation Holdings Limited (Ai-Media or Company) (ASX: AIM), a global provider of technology-driven captioning,"
+    publishedDateTime: 2021-05-31T19:04:00Z
+    webUrl: "https://mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678"
+    ampWebUrl: "https://mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678/amp"
+    cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678/amp"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 38
+  - title: "Arab Council of Australia continues calls for federal recognition of Armenian Genocide"
+    excerpt: "ARMENPRESS. Following the 106th Anniversary of the Armenian Genocide and Prime Minister Scott Morrison's statement falling short of accurately characterizing the events of 1915, the Arab Council of Australia has joined a growing number of community organizations in calling for the Federal Government to recognize the Armenian,"
+    publishedDateTime: 2021-06-02T09:31:00Z
+    webUrl: "https://armenpress.am/eng/news/1054146.html"
+    ampWebUrl: "https://armenpress.am/eng/amp/1054146"
+    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1054146"
+    type: article
+    provider:
+      name: Armenpress
+      domain: armenpress.am
+    quality: 16
+
+secured: "jzr1A8UUgGPcBufpqXnkL8ssrEym48VJmnnsOrqoQ3Rn4Yw9z93JwhbN1Jcl3tXZpdMrBWkInFXZlBnszSfYJQFf/39EG8M51S08/9eS5ttzIDy4m57FSVDIbp9DHq7nhY+AlAnCE3XC1kgXs1CALxa4fjQ6yLgTlopILkljgfOVdYetoUcpCL/uO9Xe8ZlvVLQFzU4av7MYUwd6hf+Ya/ePCO8K/FGs2kEjnL0VnMsigE19bKm+KOn81oEw7/g771qXITCaZK2RVKn9FQbAZAq/j/93AUKoHbln/tnObrAJdC0w7gsyzDGHM0vzCMwi6zviFnhyq0Ru6mhKcoc3RKmlXV8KzMlAme4vLn9Ww0k=;5QICj7wsBBnJqEN4vjblkQ=="
+---
+

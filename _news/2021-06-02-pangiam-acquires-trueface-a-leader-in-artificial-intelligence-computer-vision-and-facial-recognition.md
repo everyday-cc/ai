@@ -3,10 +3,10 @@ category: news
 title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
 excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
 publishedDateTime: 2021-06-02T11:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9381927.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9381927.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - AI in Healthcare
   - AI
+  - Computer Vision
 
 related:
   - title: "Study to train AI for koala ‘face recognition’ at crossings"
@@ -48,6 +49,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "rhWSLZOR7ZX7Y3cyU3+tALeAm+S0hoiWD8uLwE0WW9y4K/wHDCGo7L00V55ywye4+AA0M8lhoBYU6pZUBfTW6Wf6l+V82cdZtTGBLDAv5s97B65mFikRpX54VYuP93evxCXDYgzl1DRS29XpSr8Kl5opAg846ABbvF6PnHWxzic3Am+7ihKKzb0cE+QJUsnaWpkLJUwv5O8Q2u5jp0GametSnZEc1bDyxO+HEsnhXb+oDB/OOCkqtejILy6JuFwuuhzrvPLbkHUmIMmzJzswjdin9zkyJmnHAFLftKN/gQf3mA1i+q9R0WaHAWLYCbXTwQeScYhAxHluX95jDFwrNr6zFV+M/SAbfcS05KppNo4=;xUyq7H61glyhOGvWseH9kw=="
+secured: "QhfIO5bVaCJB3/z5WrEYEC7nKQUjAP9pR8cy/9RKoFK5OJjv2wV5fsX47u/hvw0CkZZ4dkTSahRqlqJyIR6n4c9XpLOHt+AQCZHJ8VnI0NzwAIOEhO3dAq2CxqHX+wnFgb2jBv1ZahA2O2/6T09oQmhCIGlD7uyFLxRqLCuUwUJg8mNewjthdVqxnpT07Q0J9KTzTJvwK2I4Pyj0qhuEVNaOBDY8RK4rJkG/hcca1mEKlwdmcVndpNZowSDVShbcyFc3+AT7w69TJqAvSkhUjcndddPNeaJE5oA/JsL1buNct7o8TFMbCfXXHE7tN2nFL1MmL53nAx7HCNMv8OG0bLO6rl6Fkr+sYXtdeRUIKpY=;hZ3Vu07FwlDC+NLRi/Vd8A=="
 ---
 

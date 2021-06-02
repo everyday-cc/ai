@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/washington-state-county-becomes-first-us-ba
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894?amp=1"
 type: article
 quality: 75
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://kuow-prod.imgix.net/store/8920668ed5552ab64a68db6c2b883247.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
         width: 837
         height: 628
+        isCached: true
+  - title: "King County, Wash., Approves New Facial Recognition Ban"
+    excerpt: "The King County Council voted to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments, citing the technology's threat to privacy and history of bias."
+    publishedDateTime: 2021-06-02T16:51:00Z
+    webUrl: "https://www.govtech.com/products/king-county-wash-approves-new-facial-recognition-ban"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/049c588/2147483647/strip/true/crop/796x387+0+113/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc4%2Fd4%2F40cd44ec3e3d080e77a856070773%2Fshutterstock-facial-recognition.jpg"
+        width: 1440
+        height: 700
         isCached: true
   - title: "King County, Wash., Bans Facial Recognition in Unanimous Vote"
     excerpt: "The Metropolitan King County Council unanimously voted today to prohibit county departments, including the sheriff's office, from using facial recognition tech. If signed by the county executive, the measure becomes law."

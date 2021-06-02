@@ -7,7 +7,7 @@ originalUrl: "https://www.iphoneincanada.ca/news/apple-car-managers/"
 webUrl: "https://www.iphoneincanada.ca/news/apple-car-managers/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple's self-driving car project might be losing gas fast as multiple top execs abandon it"
+    excerpt: "Apple reportedly wants to launch its self-driving cars under Project Titan in 2024. However, several of the company's top executives have left it recently which may really hamper such plans."
+    publishedDateTime: 2021-06-02T12:14:00Z
+    webUrl: "https://www.neowin.net/news/apples-self-driving-car-project-might-be-losing-gas-fast-as-multiple-top-execs-abandon-it/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 44
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2015/09/apple-car_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "'Apple Loses Several Top Managers From Self-Driving Car Division' -Bloomberg Report"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
     publishedDateTime: 2021-06-02T12:57:00Z

@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How will artificial intelligence change the way we work? There’s good and bad news"
-    excerpt: "Workplace accidents caused by malfunctioning robots grab the bulk of the headlines, but the greater risk may be related to recruitment and worker surveillance, writes Colin Gavaghan, director of the Centre for Law and Policy in Emerging Technologies Until recently,"
-    publishedDateTime: 2021-05-31T00:21:00Z
-    webUrl: "https://thespinoff.co.nz/science/31-05-2021/how-will-artificial-intelligence-change-the-way-we-work-theres-good-and-bad-news/"
-    ampWebUrl: "https://thespinoff.co.nz/science/31-05-2021/how-will-artificial-intelligence-change-the-way-we-work-theres-good-and-bad-news/?amp"
-    cdnAmpWebUrl: "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/31-05-2021/how-will-artificial-intelligence-change-the-way-we-work-theres-good-and-bad-news/?amp"
+  - title: "This is how AI can unlock hidden talent in the workplace"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kate Whiting, Senior Writer, Formative Content The"
+    publishedDateTime: 2021-06-02T16:30:00Z
+    webUrl: "https://europeansting.com/2021/06/02/this-is-how-ai-can-unlock-hidden-talent-in-the-workplace/"
+    ampWebUrl: "https://europeansting.com/2021/06/02/this-is-how-ai-can-unlock-hidden-talent-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/06/02/this-is-how-ai-can-unlock-hidden-talent-in-the-workplace/amp/"
     type: article
     provider:
-      name: The Spinoff
-      domain: thespinoff.co.nz
-    quality: 53
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 57
     images:
-      - url: "https://assets.thespinoff.co.nz/1/2021/05/GettyImages-534244988.jpg"
-        width: 850
-        height: 510
+      - url: "https://europeansting.files.wordpress.com/2021/06/robots_.jpeg"
+        width: 967
+        height: 725
         isCached: true
 
 secured: "x2hXyEapiJzyxyPmxFDLATMYxeJEWkpq5epzRLLh4lzXKNuII3lCIJambdcQkcDnkTWccAKCbzBmIQUlkkrpnjNGyvTV3k83ehZbYRuwguzpLeURkb0VdL8+RkgiCLVvCXHtzZswi0IwRPD3VAlkikFpuiiHlSWznTagqdA7UoG4Ww2qLRQfF0uHWSawjNzfRvjOI10qRMa9Plgk9ZeTTi5U9zgPFh3sCVfNAqh5vJMPnM4mAZnA2x+LtmJEDJTsLSZcWrf8A9+S6Q18iQ2KAoNFR9rueQyj4I4DI73PcjuOnHsX0fUlsWD8bL4M2X6w7DqdfewlE61wwyzHWe0/lYtBg3uGxfeoPnwqNXmVnBo=;c3cJG0arcAMWjINTIDEYrA=="

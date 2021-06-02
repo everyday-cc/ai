@@ -37,6 +37,20 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "Facial Recognition Technology Banned in Kings County"
+    excerpt: "The law would allow people to sue if facial recognition technology is used in violation. It would not ban the use of such technology by any other government within King County, or by private groups or individuals."
+    publishedDateTime: 2021-06-02T17:53:00Z
+    webUrl: "https://www.govtech.com/em/safety/facial-recognition-technology-banned-in-kings-county"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/46c9950/2147483647/strip/true/crop/940x457+0+99/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "Arab Council of Australia continues calls for federal recognition of Armenian Genocide"
     excerpt: "ARMENPRESS. Following the 106th Anniversary of the Armenian Genocide and Prime Minister Scott Morrison's statement falling short of accurately characterizing the events of 1915, the Arab Council of Australia has joined a growing number of community organizations in calling for the Federal Government to recognize the Armenian,"
     publishedDateTime: 2021-06-02T09:31:00Z

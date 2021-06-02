@@ -1,29 +1,23 @@
 ---
 category: news
 title: "GoFor and Speebly Partner to Increase Driver Safety with Voice Assist Technology"
-excerpt: "GoFor Industries, North America’s leading marketplace for last mile, on-demand and same-day delivery and logistics, today announced a partnership with Speebly, a leader in voice assistant technologies,"
-publishedDateTime: 2021-06-02T12:05:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/gofor-and-speebly-partner-to-increase-driver-safety-with-voice-assist-technology/article_90829223-2e78-5e36-a213-6eeb3c042399.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/gofor-and-speebly-partner-to-increase-driver-safety-with-voice-assist-technology/article_90829223-2e78-5e36-a213-6eeb3c042399.html"
+excerpt: "GoFor Industries, North America's leading marketplace for last mile, on-demand and same-day delivery and logistics, today announced a partnership with Speebly, a leader in voice assistant technologies,"
+publishedDateTime: 2021-06-02T12:20:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382115.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382115.htm"
 type: article
-quality: 19
-heat: 19
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/fc/efc1e261-66ab-5678-bc32-242a9b8600ad/60b77a59b49e6.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
-
-secured: "AgEMpSGCrenSYBhqRtBsgqyTEtgVTmAMDrCqlWfjH0Sqd8mHKY8OUeIMUlIXlAd/WsV0BBWa3HNVKppf5IR0OsdvXCiCIwPHZM5U/AwUZGGlId9xj+XgBR4eNPKj8H1XoZwHXPf/rmNz9RVk0bDZav3K+BxxZKcWwkcCR4Ye7DBwaZXCNXvUxN47gQfDjpU882f94giu7vBnbl6ioCZTov5VsDOWGJ1+0bMDVId48zp93RAyLKtanVIvHm0rGcd1jVWE7nozkLuTCzpUuCQbFzus8XmnIfp1SXOvgIMdJv8Jxo2Eacr43tAm6EdBhhBjcjlEs46mIVhVGxj37u4r68LZQnJ2sRdli8D69kVSpTI=;lRCDmQPDUFhjOP0IpKk7sw=="
+secured: "Y2QqR1e35YR71OTnGFAvTbHYsHHLzHpHfF8hX8y4ak9DnsQNw3NwHZHsY0RNfAQiwXDVapynh6jFFs5XAnV1s+hEiUqc24cOToevvQ01xbj7OLIPOowAvQ24fXLErsQJqifKouOFTsD3p9fiNqgHNcVql+t2iyM5cdWh0Kx9UiPKL+dgWHHscjPBizKyfNU6MnO6pJao41Xg/hhzD9x+9ioOEO0WT/NR0gtEITi7ZqOhO1l0HJWGcFHiJ1YdJqhQCZj6EKoYr+P3Q4PVM62GCf3cgu8AOqrEfcLTQI15bQtgvd4yR7tptSWX6YAEEhr2gVr95ouC4ff9u8DhYbdXKzoWUNI8yackdlBbtgSGSaS7eiMv6oCq3EcTCfa6pp7bWf/xjU8LO8QuJi1alZoD3DSFgfzdMNdQzUUFaXXA0SNbGN3TH7Pv04QmjxX+1XUvLDk+ExvZJkv3bCBWNuk9EyNCpEZHVW89mS3aCa3f2K8NuP6WKMPlu/gqBvYwH11bMaZbv0BA1+Xg2zHodJ1cmg==;yOC/WQPTEYUthI8Ql0HRXQ=="
 ---
 

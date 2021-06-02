@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple's self-driving car project might be losing gas fast as multiple top execs abandon it"
+    excerpt: "Apple reportedly wants to launch its self-driving cars under Project Titan in 2024. However, several of the company's top executives have left it recently which may really hamper such plans."
+    publishedDateTime: 2021-06-02T12:14:00Z
+    webUrl: "https://www.neowin.net/news/apples-self-driving-car-project-might-be-losing-gas-fast-as-multiple-top-execs-abandon-it/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 44
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2015/09/apple-car_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Apple’s Self-Driving Car Team Loses ‘Multiple Top Managers’ in Recent Months"
     excerpt: "The bumpy road to Apple Car continues, with Bloomberg now claiming Wednesday that Apple has “lost multiple top managers of its self-driving car team” in recent months."
     publishedDateTime: 2021-06-02T15:19:00Z

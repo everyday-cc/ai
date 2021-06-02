@@ -117,6 +117,20 @@ related:
         width: 837
         height: 628
         isCached: true
+  - title: "King County, Wash., Approves New Facial Recognition Ban"
+    excerpt: "The King County Council voted to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments, citing the technology's threat to privacy and history of bias."
+    publishedDateTime: 2021-06-02T16:51:00Z
+    webUrl: "https://www.govtech.com/products/king-county-wash-approves-new-facial-recognition-ban"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/049c588/2147483647/strip/true/crop/796x387+0+113/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc4%2Fd4%2F40cd44ec3e3d080e77a856070773%2Fshutterstock-facial-recognition.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "King County, Wash., Bans Facial Recognition in Unanimous Vote"
     excerpt: "The Metropolitan King County Council unanimously voted today to prohibit county departments, including the sheriff's office, from using facial recognition tech. If signed by the county executive, the measure becomes law."
     publishedDateTime: 2021-06-01T22:29:00Z
@@ -180,6 +194,6 @@ related:
       domain: kingcounty.gov
     quality: 21
 
-secured: "d65OQYwmXhLCRZgtAHZrrLIqCzetK3uvypbDfaP5bFXEYkjMgG5X1b3W3+gHVQMhucAN+TTLkxrDaXxQkh2mRH1/5Xt1cv5YLc0uaRC9YNnRDmj6eReDNvhQ8/nRuMkLi9MczGQ7G5BsGsK1XQrzBpYCBhwYOSounSHxx1kqfyx015Ljqhcq9adjAO4w1VrBtBohhC9Z15N+2cJYOmSGuMePz2EtBOmjTdmqbd+5Oxf6y0yTrpmsqaL0m8NZge/1sDeKXDeKN7TMaDDYEv9tM/zUZnOHipS+xOzsSe5sQB8tEGGfVMgT3+2DHAsBA7vSjHgfL3SgHJ8wXyyo9SzOiEivYpan3cozdnP1x4xcur8=;b0Fw4vs+E/FIZHQMIvtLUg=="
+secured: "dJt8acCmaYnn9JryWlUhf6gmoVCGBD3tyBkg0KHWVTi4+icHzVd09R5eP9IpTK+/Pfw00T0nbzwb8RfBxeR8i+wPG8okqnPV7lO6SVaGsy1y2/qCHivO5Yjq0iDY0hue7P5WQoNGJgoeqp9gNJiNHzeiHOIEI5XDz7EXArAFdCXrTtcBDF/m1xftQLMe4Knh95iR6OxScbZRGsexKl4WA0FJFkv5iTNABqbAmh6m2JM8q9Ds/ToUbCH/5QmQcEymmHapfXe5+0t/cwTzeozsjiLiACg9vLFzV7i1M2p26c6TyIb14GAj0mLsyot7GsZvtvnN2rCNjhfm/eV3v+2GUWnxvBqicPIjk7cyEUvcqY6tH8WeT1vR/LxX2ZlZN0LaGkhuYPQTnVorxQYjQN2AJmrtixk7JgFppq2K9q4lflLxnJ8LtNwWhnD7H5l6hlDESI8oBKsVIBVxp6YsRfdDfBpvirVAN9ht2HH14WgJ77iK7HRsOiwADtmNivz+kT+2ZFZXpOX1foC2AlvdmLVkbw==;NR8d1IwVw67wq3Y0Uq5i2w=="
 ---
 

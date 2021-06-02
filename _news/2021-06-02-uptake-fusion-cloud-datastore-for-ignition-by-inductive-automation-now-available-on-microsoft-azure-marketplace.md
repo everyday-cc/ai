@@ -173,13 +173,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Available in the Microsoft Azure Marketplace. Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage"
-    publishedDateTime: 2021-06-01T08:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210601005063/dataiku-now-available-in-the-microsoft-azure-marketplace"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
@@ -205,6 +205,6 @@ related:
       domain: manometcurrent.com
     quality: 22
 
-secured: "q+k6h3GLN+bA2mhwYk+FZ8efTh6CV3mbia4aP96ayjpbD6EUaZus8UB0MeDsqw6FltY54/F+NF2hxOoXzX7853Ah8FdL8El6JYKG99J30vYG3iTVumTPXq20LCBbqa3kKzZ4SvI2NowiCM7BqDzJYWFML8liwvUOXnJwwfvlaPl3vjttmKB+TgUkyeYa/F/bbWfvAOgj2Tph8Y6rBlYpmpOOL4+BeMeIem2cjYOMjBDPgMxwogcswqSQN6DZ0e/DOhWfMnR8xCJD6Col8dF97Qneco3eQdtoDE7GMR+rNdX2nA6oyx/1A+EiEwng/11RNE7eofTdzqcOuMG0EW/aAsTLMiVoGkgtoHRtvZN/2dU=;wbh1lSqpuHgMPhJjRaTviQ=="
+secured: "CqR7+V7h2v8/3KcRRzVjmaGUGstkGIvtl8erZfS8IdcikqpMR8OeJHz4lI9Xj4VDpmfwLJnbMsc6DhsiioR9jIJeOJ8rs3FKw47LO3krkVQeqKt4y++mMHGh5dODELIxUKcXHRNnLL22I6FvpCIZ63J272xVy21SdzXPaR77F3LeoKB3VlbdnTWJXxQFuA/XPePto2BMCdS6k0J1pGPaDP704jr6/6a4PFL94GAZAeO8Z0Gr0oW6qQQ9xwiFJouKdEDHmRWmJQmYpcTUX49UnOy3mu9spaHoNIXulMjKnUlm404hDJxv4V8wfLxFx95FvVMzPWhWYWwkopiSpyEp8eZGeCXOXl2fLHMxt6QU030ji8/H7pFoJiRdY6lVNWrQ+9EyEGtSGQrF3Vi9t9ZHlzugNA218cW+w04QMkEI+zdNsCLP6ycYGzU2ztEn7+MWCMGlqw/M0Ginic74f5EG5XxBAQ0pT4KGS2VtrtbzMPIEOkDWIkU6Msv634eFXnRGCkMkuBoWvCZMGiVP9ujtEA==;YvO6HtLuRnc185Qun41fJQ=="
 ---
 
