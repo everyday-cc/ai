@@ -23,6 +23,22 @@ images:
     height: 202
     isCached: true
 
+related:
+  - title: "Startup News: Locus raises $50 million in Series C funding"
+    excerpt: "AI-powered logistics platform vendor to use funds to focus on innovation, geographical expansion, and scaling the team{/exp:eehive_hacksaw"
+    publishedDateTime: 2021-06-02T21:46:00Z
+    webUrl: "https://www.scmr.com/article/startup_news_locus_raises_50_million_in_series_c_funding"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 37
+    images:
+      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
+        width: 444
+        height: 333
+        isCached: true
+
 secured: "LUUZvBrFyKV5ALdGxSYvokFz6vLY4wTmvianWYp3+VeNFDd+/SjrR6BK7h43v3kG2uhcT38Ql1W1EYxwXNbWk7M+t2SUSVAkFZrgvY0ba6XxGPVEov4qsRecfjeo+DQcedGsPwDyADFJog7xf/t6XGLRY5nPtO0b/iY+BmXx7asMIml8Fb/0vJPa+JLQMqHrzLWu/Hsr5ZogKpnntEVobCaCqJVyudNf0U+571bmN68CKeUryOSZjNZ5F+zSptnLQxoxjo1vIGSqTNVKeqUYrS3oe2qcMfae0bgWIwUEeeghm7bFr11IsOA7RRpfUhoDdTTJ9QMt1gdCbDqmb0RpUCigcDcFYKSJQOrqBZZr5EA=;FUPwFrUft15hPMk9LIp4WA=="
 ---
 

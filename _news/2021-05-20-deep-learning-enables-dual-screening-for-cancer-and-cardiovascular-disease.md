@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Deep learning enables dual screening for cancer and cardiovascular disease"
-excerpt: "In research published today in Nature Communications, a team of engineers from Rensselaer Polytechnic Institute and clinicians from Massachusetts General Hospital developed a deep learning algorithm that can help assess a patient's risk of cardiovascular disease with the same low-dose computerized tomography (CT) scan used to screen for lung cancer."
-publishedDateTime: 2021-05-20T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/rpi-dle052021.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-05/rpi-dle052021.php"
+excerpt: "Heart disease and cancer are the leading causes of death in the United States, and it's increasingly understood that they share common risk factors, including tobacco use, diet, blood pressure, and obesity."
+publishedDateTime: 2021-05-20T15:40:00Z
+originalUrl: "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.html"
+webUrl: "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-enables.jpg"
+    width: 800
+    height: 600
     isCached: true
 
-secured: "O8fP0eAYoSCyyhdPKq1b7rvl2wm94DP8AHA5ySjXKvl34UWO0mzweh6Is5ycyW+wWnwLYcpV3S7xcfsSSeLAYttS8Ncd3kTwTSCRtDcvCgmss/hcb/xZmW3ZDABX0eCSRkRivmUJKzdb5NTmmAXBod3ajFPOvWr+OEig2pcu1KqLgqguJd4v+UI5DAkulcPkqMBNKBcd3T13cWNWWDpJIKX7SSE+Tq/SJbbDHvFn8DawYHuFLjDeG5yPqvRYP9mXNYcx81wAUss5bOVmtfAbU6Krtg3bw2HtTuSjV+/sv/M8uPW+myLurxZ1Q5jaUeh7ht1l7vIl1TQNwJY8ZIjlQrOIK4Jqz9/ilPoY9tcjAdE=;vsFV85Xemigz6SVa6Qio1w=="
+secured: "HJi0OO/71+qxJBKo1pTYxGx+eenV0gT/cDGIynhc6P3FKnrccwGtJKnMu/JPhRwNTZqBqAdCwejyn2694uqyqv+4MJiXZ1EShoJ89TNYWQRbNQEUxnufjoK1FrdjyOYZ8xr/YvJ9lmm53k5RnbOqlpV8akqR5Oy+B27Tlh4BldGSLTVXrCMmbiRuJnc7Rxu4+0C3Ek08K2GMq2fl7dZQ4R0zEuoJ6d2PnqBd0LQBPEhJInQQzlDluUHNeuZ3EhfXbVn16iJX/L1hcJxngWFXcdydg50BDTRrdETQVyqdh13S1Pa1AAkv41AAgO+VygVUB+VYHWm2d1fmaDngMs7Xhe0Sn/Z/C/AyDZCdxhjvyI4=;FxbZ7dCuOWxsunDVa94x2w=="
 ---
 

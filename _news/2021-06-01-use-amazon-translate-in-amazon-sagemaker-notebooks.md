@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-in-amazon-sagemaker-notebooks/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Edelweiss improves cross-sell using machine learning on Amazon SageMaker"
+    excerpt: "This post is co-written by Nikunj Agarwal, lead data scientist at Edelweiss Tokio Life Insurance. Edelweiss Tokio Life Insurance Company Ltd is a leading life insurance company in India. Its broad spectrum of offerings includes life insurance, health insurance, retirement policies, wealth enhancement"
+    publishedDateTime: 2021-06-02T21:56:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/edelweiss-improves-cross-sell-using-machine-learning-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 105
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/3-Flowchart-1797.jpg"
+        width: 700
+        height: 617
+        isCached: true
   - title: "DeepLearning.AI, Coursera, and AWS launch the new Practical Data Science Specialization with Amazon SageMaker"
     excerpt: "Amazon Web Services (AWS), Coursera, and DeepLearning.AI are excited to announce Practical Data Science, a three-course, 10-week, hands-on specialization designed for data professionals to quickly learn the essentials of machine learning (ML) in the AWS Cloud. DeepLearning.AI was founded in 2017 by Andrew"
     publishedDateTime: 2021-06-02T15:59:48Z

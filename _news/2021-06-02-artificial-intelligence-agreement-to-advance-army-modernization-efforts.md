@@ -27,6 +27,20 @@ images:
 related:
   - title: "Army Advances AI with Research at UMD"
     excerpt: "A collaborative research agreement between the University of Maryland and DEVCOM seeks to accelerate the development of AI technology for autonomous vehicles and robots for critical missions."
+    publishedDateTime: 2021-06-02T19:00:00Z
+    webUrl: "https://www.evaluationengineering.com/industries/mil-aero/article/21225206/army-advances-ai-with-research-at-umd"
+    type: article
+    provider:
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 39
+    images:
+      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2021/06/MW.TAG__1____Copy___Copy.60b7da5e865f0.png?auto=format&fit=max&w=1200"
+        width: 443
+        height: 249
+        isCached: true
+  - title: "Army Advances AI with Research at UMD"
+    excerpt: "A collaborative research agreement between the University of Maryland and DEVCOM seeks to accelerate the development of AI technology for autonomous vehicles and robots for critical missions."
     publishedDateTime: 2021-06-02T15:34:00Z
     webUrl: "https://www.mwrf.com/markets/defense/article/21165850/microwaves-rf-army-advances-ai-with-research-at-umd"
     type: article

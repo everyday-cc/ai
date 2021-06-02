@@ -233,6 +233,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 24
+  - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
+    excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients. Chest CT scans are an integral part of the diagnosis and management of COVID-19."
+    publishedDateTime: 2021-06-02T21:14:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765196.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 5
 
 secured: "Oi17kHTSOKw9v+Baagz807/wegUSQZ/YXufIIZkvG8qPJSoDtip+K0ieOlyCBXUr5p455YTtRLXXTWxKRHO3blp9GrkLK57MciOe0NrT11Wb+WYeK8SOXzuD5xkuYcMcHpLq53TkZ00Qm9BwRarFznwaoVQXPofZ/QtT9f+fm/LFHsrCMJScLpcOZxBX0J66V7Qq457NDByyJ6In1SeMhIjfBa0Yc4hcP2D8rALN/nKJADD7VIR+wnnd70KjAHapk56piTuW07LvxPn1v20e87OciX/SgIjFlce3tUDMNelqYjhjy743eQK0CKOMxQjX5dCgRH1wiNyiIn8KU0xvUKmfTEcALUR+re50FalVGUy7AyUD3NDa6nFBZuJssyjwzR14kTHqWggr1rivFDD0+6kad2mwkIQ8MHCOzZVQtdpy5UH2ej6IhjUrhPaxgmJ0Rd1URuzx+38XjekwbOl+wqL6YiOyQBHJRbT6DkSElWfHL7pyhCVli87ieXtAVhqN5ZWXYIr/7ayNXINn4/pFlw==;OOUyWC+DQYZNTxOK/Sn47w=="
 ---

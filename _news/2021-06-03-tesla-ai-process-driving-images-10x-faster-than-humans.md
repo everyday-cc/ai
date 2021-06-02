@@ -8,8 +8,8 @@ webUrl: "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-1
 ampWebUrl: "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html"
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2017/12/7180bfad19f2195c59f8a445e080234a.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 987
     isCached: true
 
-secured: "IQsec88DZtCOYUEQWx4m5Dgq+ZKOP//AEB0N5kfXwcuPoN3jqcLx4hC04Yntw/7JwR9RWoTt5b70qEvtSxvTfuMkd/SDJmIPO73folYaHb4VCT90+4YuAAfxNtsJ7S33JzK2SjW1D/qrJh//OiA8p7OtdCvG1+ApT+E+gnoi0lzFKH/cjKTMxRV9Hb2EJoVbAMJ+oHTb6QBMyIuU3xmv18kPwQIssvRLqTRx6kOVNA8udqnp9ANNsXGWsESjEXAUA1v2TR5yQEESfinW/U3p3kwmUeI0OZzhIZXMf0VPD1bDkMaEXw/N/10uBkmmetnuwFNZ6Jy+4h51pOgIaTc5drIckmzcAzoqDXOGADuExu0=;kfxjDc/jB++La9nvKcZKsA=="
+secured: "vKGOBsqrTwRl0mDz8QAUPYB9itmB9d5nDrpSgrH2kEBDFXHvGw/EQoqzIub7AZbf0l4m6JmARgYXC2+VEG9FdbcERJk8h7ER9XY+4kFe/oMbv9H5qQ1/ev25PolyG/tiGeuylF3UEeSkPvLvWVuurtXuWBZ0ComfCbikpOWLsz05cpQY3OyvK9H7vIqjalvLpcepxJY8pYYrI96Gpbn7u//q+MLwQcDhMtaFkPfBYamC2yy65KxXXcmd6M1QadKiUoaX3Q8KxHW1WZHvpvnLfuR21022bEYYInzOHQh7O1Ivf/jHNH93MyBFPyaQxygs8c19ybgPU/u7nNyyoblrEo0e8yI05eetGv6cBErr3MDVBR7AelVpOEz9C1/xk9JWZvbw/qUkoCXT8IMtbMCViyFkJMMxKllVVMvtZVvFaDLSGcMcleVB6TqYWWudVimDw0tDr+wbiM6dTQ8XCZDfd7JibKLo8+vIp0xskvL3G64dMCPXyfZox6tGQ6mBtPKWbjDtf3jQ4TYT+2nlvFc7ww==;e931F1y1POCVTl+bJctaBg=="
 ---
 

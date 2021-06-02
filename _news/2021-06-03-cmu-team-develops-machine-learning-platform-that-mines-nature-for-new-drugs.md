@@ -1,29 +1,47 @@
 ---
 category: news
-title: "CMU Team develops machine learning platform that mines nature for new drugs"
-excerpt: "Researchers from Carnegie Mellon University's Computational Biology Department in the School of Computer Science have developed a new process that"
-publishedDateTime: 2021-06-02T18:26:00Z
-originalUrl: "https://www.miragenews.com/cmu-team-develops-machine-learning-platform-570561/"
-webUrl: "https://www.miragenews.com/cmu-team-develops-machine-learning-platform-570561/"
+title: "CMU Team Develops Machine Learning Platform That Mines Nature for New Drugs"
+excerpt: "Researchers from Carnegie Mellon University's Computational Biology Department in the School of Computer Science have developed a new process that could reinvigorate the search for natural product drugs to treat cancers,"
+publishedDateTime: 2021-06-02T17:41:00Z
+originalUrl: "https://www.cs.cmu.edu/news/cmu-team-develops-machine-learning-platform-mines-nature-new-drugs"
+webUrl: "https://www.cs.cmu.edu/news/cmu-team-develops-machine-learning-platform-mines-nature-new-drugs"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: cmu.edu
+  domain: cmu.edu
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.bristol.ac.uk/media-library/sites/news/2021/june/man-article.jpg"
-    width: 500
-    height: 333
+  - url: "https://www.cs.cmu.edu/sites/default/files/figure_capsule_AI.jpg"
+    width: 1200
+    height: 719
     isCached: true
 
-secured: "3Y4jkUVl6s5EtAaPXVO57k/V1o1NxQEcZpGajlbY1fw/c3hR4oxMdYLrA3IGZGCaeg9Wd28CSgEI6fDWQ4XHrI/LJuNhSpbD9mVeb/vAzDSE3gMzsWrpdoQ9DcWRqt9m78NvcZAO7VlmWG0/u8/6ks+GnprnmngUAlDweAdAJqnMLZ71S39dRt8UcTaJ7ypfJwkcs4ZXjW+iF5dz6/+C0ClJECIC0Ho0TlQmx05+B3qgzLgsrn/rMrJufP3wI/oZh9FQaBBw3xGi5wkQM9frMuNGw6twvoSFNHK7dmIgKrHDiklU+c3XtCnaZUHkKMpOlkBFkMf8etGlhJgQ+OLDKF8RIzNBROmWdALEJO/euIA=;Ep2evw7Nmq5mOerFf4qjtA=="
+related:
+  - title: "Team develops machine learning platform that mines nature for new drugs"
+    excerpt: "Researchers from Carnegie Mellon University's Computational Biology Department in the School of Computer Science have developed a new process that could reinvigorate the search for natural product drugs to treat cancers,"
+    publishedDateTime: 2021-06-02T20:11:00Z
+    webUrl: "https://phys.org/news/2021-06-team-machine-platform-nature-drugs.html"
+    ampWebUrl: "https://phys.org/news/2021-06-team-machine-platform-nature-drugs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-team-machine-platform-nature-drugs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/team-develops-machine.jpg"
+        width: 600
+        height: 360
+        isCached: true
+
+secured: "J+aiASF8mIr6yyjcxkfsrkZ/VXoGyZ8Ns15szNNPVO28/KK/R5GqSWTWg8PYKShA0iLnmssOI5TIONPMcE97Cd7SNfjQGHtLmSX+QTAcKF4yTD8m+VUkTm/ZVR/lwWqyuuh+zlBh+kRMMtDnqYWPVu8qZPbO07ajOoW14ty2Db3dLvZNKAt798mAs3M5gDRiRR0fur/mKntLGsZJqiRFst/3unLupuW7BuIVUKOZKLHVnBIzj3XTHiJenLAk6kmgvb3c2Xnu8yeWbYDlYBk9x7FQfn/2sLZM4KgFKy5eBPtK3vYqQxTmOqKW/T4zd1xpNOQA2qaP9yNdXuUFaCVoFviS9BWDPVhu7OZY6bJpVEk=;lb1HYeh9qAI/P+fIeEZRRw=="
 ---
 

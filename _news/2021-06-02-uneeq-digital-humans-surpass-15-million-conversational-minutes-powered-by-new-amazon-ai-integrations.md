@@ -3,8 +3,8 @@ category: news
 title: "UneeQ Digital Humans Surpass 1.5 Million Conversational Minutes, Powered by New Amazon AI Integrations"
 excerpt: "UneeQ, a United States and New Zealand-based digital human company, announces a new milestone along with the latest integrations of Amazon Lex natural language processing and Amazon Polly synthetic voices into UneeQ Creator,"
 publishedDateTime: 2021-06-02T13:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-uneeq-digital-humans-surpass-15-million-conversational-minutes-/2021/06/02/9382255.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-uneeq-digital-humans-surpass-15-million-conversational-minutes-/2021/06/02/9382255.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382255.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382255.htm"
 type: article
 quality: 23
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 534
         isCached: true
 
-secured: "sd+4BcVz1Ta7H1VIZys0Wl7T9lbL0G1chED6WhkuBgo8GyIWxE8dveuqC12sf0CcxbeoJWIftx5CtSOJlDP2wWQRrCuBlXIDDkAsItz3a8NQ/2jXD7eJ4N8ZIIQugG5AKYP4RCIAxabH96UHWlxNZRVcTiBmxR1Og/Wv48SKLdkZ0w61E6F3N+i7zdmXNS9k048K69UF/9CtNpsk/jHtc/X+gj5MgB+LKnJkD5aes3U3Ve6joVknlk1HSBIwrswz9plmDAdAhxsD5zIsZ9M/43MHNqwpKNjvCDdRD7Bz3nNsBiE9CB4q7V3Ey+5ePVc2jah4QrGFIWtLL6uqc7qdYFo7B6OInCXLd2PgmP90Avk=;9zZC20wBnN0QmhzsjQBz3g=="
+secured: "w+BaGV533uW0pkNV3zX1Ijz3aUPjg2/oKWhh7udA4moPebgye7z2suC0OdQSD6Tbf4dZ3Y4Ha0Gb+TP4a1YsFvdjjI89X/UflhNmheCUpcKM8jXmyUuC1lEw2jUplWQTSQ3Y324PUsvjfNT7eEMs1S2bZlJGyLPPxFsw26+8z61CDl8WzkorkusFdlRQD8GTrLp5L8GvB09C8GJLyXYNgaLjaYSJUvYfDyBeA0V/08rBqpLn8CedTzNM4JfiaMLFnanw7Je+5eHVEz7yn9J4B3rEIdOZSZqWemGz6cBV8W4ix1CySk1aZQXXR5bothhAN64MPrcg7S04BrR/ZOrWQxvZg5vaCMcL/Wo0MVsmqNo=;GC3Yf6cGsfB+EsDN+gJ7vw=="
 ---
 

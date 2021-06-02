@@ -9,7 +9,7 @@ ampWebUrl: "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doc
 cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
 type: article
 quality: 59
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -233,6 +233,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 24
+  - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
+    excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients. Chest CT scans are an integral part of the diagnosis and management of COVID-19."
+    publishedDateTime: 2021-06-02T21:14:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765196.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 5
 
 secured: "57R5FWOSZJrl2zUHqhLALNfpvyxlMtXfgefIQTrXNvjGUfeDdUvWlaGHo/UKadNRFZYZsyK8BrnOHgaNr+csl/lxm6nuGljM+VGkYCtR9s0dfcTvb531junoRXyCvlMU9Mo7JOAQkBeD1/Vd5Hf9GD6WzreTKVAoDbMVBLWv4SMwjjoT75ZaWXLtf5IFEh6mLfNwCHkFgfj6yvWD+xR6SAYqO4vTBYt5dlUM7h4psBCdhE9qhnR6MBKnYqTJbtm/2IbNOgqt47+KgEipKm5pyoSDqJkfi/gFUwuVp3WX0Irka2+dtXcSx2SzVW8rLHJTm73hYHUoNFiim3NydP667RMOJUINbHdwHKPmfINYVu4JRM7Z9Uq6hnqLsEOJ2yAV7iy2yR6ZglMGGUMWQeqCGkknzZbVx07kCkuw0lrqUKzGlazhKlQgfbBm0aFW//KvamCJhn3rDXIapllkk1J61GeFRmFb26f+bfQRLXDXDrkx+X/4GTnQnnmw6rB6MWFBlBzb/zlLBztxVwmU4DN6qw==;N8UlPfawcuIEXeHzuGlfFQ=="
 ---
