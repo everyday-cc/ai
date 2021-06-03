@@ -1,25 +1,28 @@
 ---
 category: news
 title: "King County Council approves facial recognition technology ban"
-excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tuesday, June 1. King County, home to 2."
-publishedDateTime: 2021-06-02T23:45:00Z
-originalUrl: "https://www.seattleweekly.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
-webUrl: "https://www.seattleweekly.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
+excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tu 1. King County, home to 2.3 million people in and around Seattle,"
+publishedDateTime: 2021-06-02T23:43:00Z
+originalUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
+webUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
+ampWebUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
+cdnAmpWebUrl: "https://www-valleyrecord-com.cdn.ampproject.org/c/s/www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
 type: article
-quality: 39
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Seattle Weekly
-  domain: seattleweekly.com
+  name: Snoqualmie Valley Record
+  domain: valleyrecord.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://www.seattleweekly.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
+  - url: "https://www.valleyrecord.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
     width: 1200
     height: 800
     isCached: true
@@ -103,6 +106,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Washington State County Bans Use of Facial Recognition"
+    excerpt: "The King County sheriff’s department and other county departments are prohibited from using facial recognition technology or information from the technology under a new measure that cites its threat to privacy and history of bias."
+    publishedDateTime: 2021-06-03T00:19:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2021-06-02/washington-state-county-bans-use-of-facial-recognition"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "King County bans facial recognition software in government agencies"
     excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
     publishedDateTime: 2021-06-02T00:37:00Z
@@ -222,6 +234,6 @@ related:
       domain: kingcounty.gov
     quality: 21
 
-secured: "wcUEC2KTGbXAcKUgt+55mKs1HYoC4wLYlGR4aKC2uXWuOMMI4NxbJa7Cm6+B7j8rpfMLGfKeRSyFlE+X/3Q71ZxIK7d8SFL4hgwOn1Su9WVrPRzMQEFnCmc4Ol35W2FUgwsLsmdUYTdt4T//UEwzE6DZESkD9rrzJ0z8Fc+e0/EwS9dtGZwKwszIqOai+6UUudRdU4/+41WCaJNgu73bDaGHcXbEkSBzXFVjfLiludUNtMVtNSfveibVLN+dS2dBLd+Lz8L3SNCJWTBUc5c0FT8qtQJHTs/C6rnMew/4TE5+/FyJ/7I8F94++jzW1UeR6SfRlz5tf7cyldb0SsW3KhtDGWRlE5sP5O1wVdDlt/w=;n5o7ycXllT7pkmqayyUC4A=="
+secured: "rnjuKUSAoMoue8kRg4F2UJ4COoChsRWl+Wu+zMyFAh9NC4A0DNqZ0TM92ko+TaqHSHaaRqyGJv4JkdFo5JxeO4XKwrqUrLl5mJJfZnEvc1UslUncayiwO/6Lh3XVJNQ+Zu+pOcyAKw+dy0XNGCVck92vEGHXLq5qDGIwQ1gjUkGQTIo46lre/V+jF26ArKPUrzfnNQrxat29ZkDj2xNBsy2JxE8vopT7cFYpIpS28IRhbt1ihf/yNAcVHUxRomQA8qsewM9M04eXxuGNVnqZt44HJ5z9CW3MYzCty3pXyc358XL8My5EognDlYcXs8/+v04zE36i2shibRd9H0lrBeCdXEeUV3b+DO81EMyro8w=;GgmJHXOQm3fX9iW1hP1dgg=="
 ---
 

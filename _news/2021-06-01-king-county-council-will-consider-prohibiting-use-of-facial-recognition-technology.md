@@ -57,6 +57,22 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "King County Council approves facial recognition technology ban"
+    excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tu 1. King County, home to 2.3 million people in and around Seattle,"
+    publishedDateTime: 2021-06-02T23:43:00Z
+    webUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
+    ampWebUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
+    cdnAmpWebUrl: "https://www-valleyrecord-com.cdn.ampproject.org/c/s/www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
+    type: article
+    provider:
+      name: Snoqualmie Valley Record
+      domain: valleyrecord.com
+    quality: 61
+    images:
+      - url: "https://www.valleyrecord.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Final action expected on King County proposal to ban facial recognition software"
     excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
     publishedDateTime: 2021-06-01T15:31:00Z
@@ -89,6 +105,15 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Washington State County Bans Use of Facial Recognition"
+    excerpt: "The King County sheriff’s department and other county departments are prohibited from using facial recognition technology or information from the technology under a new measure that cites its threat to privacy and history of bias."
+    publishedDateTime: 2021-06-03T00:19:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2021-06-02/washington-state-county-bans-use-of-facial-recognition"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "King County bans facial recognition software in government agencies"
     excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
     publishedDateTime: 2021-06-02T00:37:00Z
@@ -130,20 +155,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/a69d779/2147483647/strip/true/crop/1000x486+0+101/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7d%2F97%2Fbba0ef014d3e8908a5647b7bd3f0%2Fshutterstock-299881847.jpg"
         width: 1440
         height: 700
-        isCached: true
-  - title: "King County Council approves facial recognition technology ban"
-    excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tuesday, June 1. King County, home to 2."
-    publishedDateTime: 2021-06-02T23:45:00Z
-    webUrl: "https://www.seattleweekly.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
-    type: article
-    provider:
-      name: Seattle Weekly
-      domain: seattleweekly.com
-    quality: 39
-    images:
-      - url: "https://www.seattleweekly.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Washington county restricts facial recognition use by sheriff, country offices"
     excerpt: "King County, Washington, home to facial recognition-providing tech giants Amazon and Microsoft, has banned the use of facial recognition by local police."

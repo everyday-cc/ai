@@ -28,9 +28,9 @@ related:
   - title: "Amazon AWS Machine Learning Summit keynote kicks off with ‘few-shot learning’"
     excerpt: "Amazon AWS's AI and machine learning executives Swami Sivasubramanian and Bratin Saha lead the morning keynote."
     publishedDateTime: 2021-06-02T08:10:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-aws-summit/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-aws-summit/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-summit/"
+    webUrl: "https://www.zdnet.com/index.php/article/amazon-aws-summit/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/"
     type: article
     provider:
       name: ZDNet

@@ -3,8 +3,8 @@ category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
 excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
@@ -152,6 +152,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
+    excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
+    publishedDateTime: 2021-06-01T14:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/articleshow/83147254.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-560387,msid-83147238/bpo-bccl.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
     excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
     publishedDateTime: 2021-05-30T06:47:00Z
@@ -224,6 +240,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "fgqk7FhzDuNkgtu6GQYokcJJyyKwW4CAL62QEG6ICdT/+1+SvlGVdDhTUJJW4SofOmCzAxXR4vaYbaOmYy/Sm0anR8jzCO1n2iztSEpNqWefbkoUGTj88jg748u5PpaYjRbSm2yo0mTAS4gLzVsP/orVT0/Q0Svrbi+83sqtTFqu/8f+/KnePWjWWmhBcM47Smr7cTWq1nECnPTSK1QDPl8jlKMIMJYD3+lpaByAOSAlQbGh61E+3lpGVEV9/sw+/NlxHZT9BoR4G/9rk5tn5ayGtcvTt9ivxW8hAsY0oXNFFfw28ReywV4Kyfux6QTQ7eXT0/HIOPsYo+jOItbv1ySWhj5DDT5uz3zzBKzBTmc=;RrUg3z9t48b5pU68Pj8sLg=="
+secured: "VOWVPMumHg1gGDbYtGpU9VNBh2lpSW+z6dyAFyeP8tarq/MAMyI9JjgmWtvpvcW1aTQl0PM5PZ50J/SSDAcJfZ3LKsRW7veTqncVZuoXY8wF6n88ZSuxgNJLHYsErhY4LLCqlgeAY3ZsicpdRtKk6t9Vn+Aw84KPFcJs2Y4zWNTnI6/OSnF9eHF1cSeoLD+odMacOTTGvLX0lQBvHb/kA37nbg978ARUb12ALu8ZCSwG+gDzT0O69pWXgu/nbifq0XGhlvMMFnWtDnYYJXeYESMCX89xNVMMcaB9pIHvP7KqskFxUy1NgkKljIpxN7ko+IPG55Mdp0sWXZ55pppYdTG/e1HfvDuA81LUMT3BSAE=;e8+x1V0x0+7iay09Xcnadw=="
 ---
 

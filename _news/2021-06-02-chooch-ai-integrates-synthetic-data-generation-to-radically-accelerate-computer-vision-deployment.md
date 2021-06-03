@@ -3,8 +3,8 @@ category: news
 title: "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment"
 excerpt: "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,"
 publishedDateTime: 2021-06-02T14:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
 type: article
 quality: 21
 heat: -1
@@ -47,6 +47,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "HcjRzk7vkEX+GwS3I5vgz5pQ9x1kekTWNu/npVVNnVbKsqpAjpz3+Pp128NGdFfzNEiZf/ns8M5DJnC2RV6z3wiyCON+npQbpDMQSC02ln0Ut/viRl+zHm9A+c4nzIfGK8oD6YvcfCYDwq329x6M0XDhsSAHkqUC7hPYn9R0D6ZZPlni+xzDr05BxLZB2P2n99CrIyyXhihymq+wjoxKO9hKHu+veEr51SwEzl79cRY/NZulVWAVuB162LQ/nVejUXuQqN8deYWDv6CW9DUOAqUx1vZoMUtwX01yWpSfGo90Ie7XfYiQQF8mQ34GmNyjftDVDtcxh8qnxCD69HCsRgdjOtpWxqxbFeuaGjvxug8=;MkaZRaFGOjsTeYUHv9MK4w=="
+secured: "XzGjgJqd0Fn2bIdj+ZZwCiNOe6u6mJ8FXaimiw+v7BeYQxa/cLAsXIz4pN6fcBVoAseAQV0MP/GcBXoDwdwr/FdD2JhOGmioHE8yMvh841T34768lhAS+sw9xwBfV+C/R/e/mtyTOev08EZt0WrOHR7Bbx3cqcFyxm2mm9bAKyZSuiwNxAj8toCZeIjQINDNphF7P5z8A70lTjhLJ1xMJ6hz4KsN95rTwGG+uS66zYWCV4ubvaduFGvk0tC8dv56QCCYkZw30opB5hgCtZJjIqf1fpf7nuwdFDfdAeWZsEW4pDEpIv7lZaNdeR51EWK6kmxNqLv6L8rUERH6ycmRmTeITbNyT2B2VJ6t22L5ihE=;vHvPFRM8s2ZR4EhJpKQSAg=="
 ---
 

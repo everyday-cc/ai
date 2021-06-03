@@ -143,6 +143,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
+    excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
+    publishedDateTime: 2021-06-01T14:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/articleshow/83147254.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-560387,msid-83147238/bpo-bccl.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
     excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
     publishedDateTime: 2021-05-30T06:47:00Z
@@ -174,7 +190,7 @@ related:
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
     type: article
     provider:
       name: TMCnet

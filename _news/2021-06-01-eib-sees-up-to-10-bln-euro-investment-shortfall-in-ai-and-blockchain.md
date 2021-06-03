@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/eib-sees-up-10-bln-euro-investm
 webUrl: "https://www.reuters.com/technology/eib-sees-up-10-bln-euro-investment-shortfall-ai-blockchain-2021-06-01/"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528132.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
+    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership"
+    publishedDateTime: 2021-06-02T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial-services-marketplace-301304393.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1213912/Even_Financial_Logo.jpg?p=facebook"
+        width: 2498
+        height: 1309
         isCached: true
 
 secured: "LYOoEFZp9OwWR4INrXcb8wGAwR6mhRGCZ1TpRH04fhoJcwZ7RUymcsQ82Or7uJppSe0clth+nSUUc8LPfi0twaOXeZ4YBIBvqvu3Jf9Z/ubSU2p+BN8tq+Sv2VEnazUFt+S/1h5A7+9V+epxqJ7VI1m6ADYb4PF5wFR0PbCNvvroG3kHSSX526EIa/hy5EHEHg9CedofEF4cFiLABVaVlFAT+xIlsMNFoqfngtjtkfK3jE7rVbQ12w2BsqkGc/Q4lBct39e3mBi8ojN5aZoXaJ58j5gMqVy+L2o6Nnc/JB+uhB2XGqD5HDIv550iteOJfF4jlV4EHvaX4cK5zDIkk1rkQXwPK6hiHccllFVsZt8BF4aY0bPVfb/ezVesnYOqNtw8YOavWwC03G9pPJS9OMCRa32ohzlnXFbcrq/30fl33TG6y4+TldURGz7wFPaVKrkqXo35di+gYOBfpcOB1jYX3Fhn6tUjZckbl2ca+gRShErRp8pOmn2EZiCU8O5fxJKdgQ2bFfG0Xq3trkmRmA==;nRczSgLC0ONM2cLszWwNtw=="

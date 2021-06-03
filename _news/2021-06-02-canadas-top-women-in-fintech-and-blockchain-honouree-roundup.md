@@ -94,6 +94,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
+    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership"
+    publishedDateTime: 2021-06-02T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial-services-marketplace-301304393.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1213912/Even_Financial_Logo.jpg?p=facebook"
+        width: 2498
+        height: 1309
+        isCached: true
 
 secured: "9tlk96ZQH9660YlRfoq5NIVOOwtZeMyRLHpbxCFyZ6f9IhiTwE3qiB5WKxyaNhLeDREzPJ63aaklc+avM8bAY3lhBYj8XZVmbbP11qo6r4Qaeq7H334Y13iPW02IUPosPvAQAgo04meOgISA8NCdJWzZ7k3e59rlCtw6SBK5+saCNK/ZZJGzuY6cVxHpJ3W1A8AVOTAfn40v2AGwjswyertc+uVoG4DNDKhHRipPpIvqXoYkbEWTspzsNBbkr/wOHPNBn0HWfHGUY/hKHf7y1/HV4NThf5oTQASLllZgmWqztpSJnZLNGuyLTeqOB85jATx8+B69S+XJ5vqt6WcoGimFX3j9vJviae4EPyb53p2sAsI0fxAxIvDpkqvUn4EUbextb55jBh0p1nRSzghZnw4dgjkI8LsndqZPq8KFuW1IWw92TuSfBmLJNLcJEfb9LhX5ZSkUMyPSX+Czs2QMgIelY4Q8ansTybv462PZjwdZ33sOwaSpbVVB52ckKKKHJQRhhB9PHiRbl7U7zSrjGg==;Rty6nC2mbLr6U1sGHXU7ZQ=="
 ---
