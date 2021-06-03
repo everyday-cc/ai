@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
+      "title": "AI and robotics take centre stage in rapidly changing world",
+      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "publishedDateTime": "2021-05-30T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-technical-university-of-munich-experience-key-players-from-robotics-and-ai-live.md",
       "title": "Technical University of Munich: Experience key players from robotics and AI live",
       "excerpt": "Automatica sprint is an independent offshoot of automatica, the world’s leading marketplace for automated smart production, usually held every two years at the Messe München trade fair facility. Due to the pandemic,",
@@ -187,48 +230,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-royal-navy-test-artificial-intelligence-against-supersonic-missile-threats-off-scots-coast.md",
-      "title": "Royal Navy test artificial intelligence against supersonic missile threats off Scots coast",
-      "excerpt": "THE NAVY has tested artificial intelligence against supersonic missile threats for the first time at sea as it ushers in a new age of autonomous defence. The live-fire drill test of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.thescottishsun.co.uk/news/scottish-news/7181734/sampson-hms-dragon-argyll-lancaster-sea-viper-missiles/",
-      "originalUrl": "https://www.thescottishsun.co.uk/news/scottish-news/7181734/sampson-hms-dragon-argyll-lancaster-sea-viper-missiles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/05/DEFENCE-Navy-11532913jpg-JS656181472.jpeg?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thescottishsun.co.uk/news/scottish-news/7181734/sampson-hms-dragon-argyll-lancaster-sea-viper-missiles/amp/",
-      "cdnAmpWebUrl": "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/news/scottish-news/7181734/sampson-hms-dragon-argyll-lancaster-sea-viper-missiles/amp/",
-      "publishedDateTime": "2021-05-29T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scottish Sun",
-        "domain": "thescottishsun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

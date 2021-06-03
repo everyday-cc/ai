@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
-publishedDateTime: 2021-06-02T15:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+publishedDateTime: 2021-06-02T15:31:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -201,7 +199,7 @@ related:
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
       name: TMCnet
@@ -240,6 +238,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "MVBjq4jLIH7SyTdxg8vm1z27Vx2eazQ2hwY4ApUPoYO5qzgIJOh8pNlP6YDEzPHU3nACqFN50Nex1ZcyBvaK6jG2mnuu0XsdJ8dVGUtV/xIykAGbpdNQAdHLGlPyl3JeR62pU8W2aDIm0qz/AdyRC29RImaAtYmDOcgFccTHIzIXu/DBZ8EgB6tNSdyykQzFjtJ5YQiw0uWMBto20hEtgEnUHfUDQFI8AiXhce7YD1wEqyZgWsc2EBpACZUxzBJ9hH2fFgwM1x6KbuHPr5Ife2c/v6EeD4L0Ong0XKLO7PAv4mRdh3oEOt/Zyx8Fsfao3bBGcfl4/vneFy3q+jefQKJfBEbKjDU8X97v1CNIwAk=;xwgkvcsju6aFvuynAmFQVQ=="
+secured: "hD+rseXaus7mGEyGXZli0E/EilI86r0sAp0TnHWGrWRXClAOLo8C3/cy5prrybs8vJr+spJhxkdcpEbEeKsaFyhFRCQq08JO/Kn7pyytn/GcHr/J53MzhOZ4tlsdDnHWW6al+a5ZIgJduUAJDwgDqIMmjK0JdvX/MvZvUddEPPGCNRYUqhyatK1/ttME0rm2iuURVjB3TMjNENoqRBb2wG3RcTEE1qPkRB011CuPufD3JBERFb7myqz/jqNCc2HJ1rllYDc+z7k4NFlVtrGZsX7VrZDcPUwnXSBV1fWOUGs1AUoZdDPTx6SGwm+zJ0aCQzahvdtbS/CY9LaCoTmbKSw71LgT1nOj/lUap9ja8rY=;ZtiQPnS3olrKhM4XhLjPIQ=="
 ---
 

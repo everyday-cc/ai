@@ -191,22 +191,11 @@ related:
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 49
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
-    publishedDateTime: 2021-06-02T15:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
     quality: 49
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
@@ -222,6 +211,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T15:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -241,6 +239,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "zz0lfzrvJOBNaelphfN+0PLXjQnkhwyJjaZE4HJDCA/HrAESJ7/HmNOeLcMtLs2RU/3lSPPXIDXZCMKsZRYkR7NHVDEPbgGuTYJb0C/f9/SvbfR/gwthFywLRepN1fxB23w25uZF0ZPBC/CaUeHqqN+IN0Rxwh+taT2/rA9ockc4FbvHoL52dtcNzjwcGiSwWU7rX7gSyqxPFNrCU9HCR5Nt6xD9a19hzB4fvcS9UrF28BrTKSyYd1yZqZKQ3o1TprkqkEY4fqOTNV5Mb3aX95LeddXsQh25w93oTCbm4UNYDXIz1pbCjfmBGbTEjijRYmNDWJBVhFvFsvOFAQPMfuxamtDo38PrYq/2GsnhMYQ=;fllF3YCuaupRezYzXcxTOA=="
+secured: "ZSy8d5eDD6WnOsrj4IEanFntUkd3qhNcljV0PSHkuIRu/h5kVMWm3V7duH+Q7Zzwrsu+W7GtiL60HnoRxuPL4YYPTlnMVymbCEVsKHandHd/ffoR7xI8BlSZZABJu5eMM9631WI5VoKT/qt/Ge2i/IvCwg7Lw3ygtnK6rLOa9AwKMXqS6awiMiFa1D7DykY0j767wlbV2A+RIwXMBFYxNgpBI56xpQRGpBj2pH52V9vdInXG8Q9LKQU6i9gvxnodT8frI2ukQtGwabSrzduKSuI/tTdgsV9ttxnoJucyADLId8u4+vAtbQ2T438Yqm4h29YeursKZ73YZr2jdj7pMLUNgEn18gZ+OeMNohvHa8D9aOv6g9YV/3k1faMyK/u+ws1tK7MFjMHlvilEPCHWYptgr2IGshY1emm8ZcsyV8e7v2hRC6zrVdmC1/70929MqvQbUHzFBH4AgoBrjHQOhTV1ilbxd1GFqswhBKOeaki/eDf73tbINqEf6SGUPwa6FlaAUmS8Z4jtEX+s85LlOA==;T01H/c/B7fmlRSz0i+yL+w=="
 ---
 

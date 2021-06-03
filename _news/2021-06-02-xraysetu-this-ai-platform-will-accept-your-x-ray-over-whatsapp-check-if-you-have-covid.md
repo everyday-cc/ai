@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI-driven platform to facilitate early Covid intervention over WhatsApp"
+    excerpt: "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,"
+    publishedDateTime: 2021-06-02T09:07:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    ampWebUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1701412699.jpg"
+        width: 660
+        height: 440
+        isCached: true
+  - title: "COVIZN: An affordable artificial intelligence solution for COVID-19 diagnosis"
+    excerpt: "COVIZN is an artificial intelligence based screening software for COVID-19 that can be an affordable alternative to microbial swab test"
+    publishedDateTime: 2021-05-31T11:03:00Z
+    webUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/"
+    ampWebUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 54
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-skeleton-163715_640.jpg"
+        width: 711
+        height: 400
+        isCached: true
   - title: "AI-driven platform XraySetu to facilitate early-Covid interventions over Whatsapp"
     excerpt: "XraySetu is specifically designed to identify COVID positive patients even from low-resolution Chest X-Ray images sent over Whatsapp."
     publishedDateTime: 2021-06-02T05:38:00Z
@@ -73,6 +105,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "New Artificial Intelligence Tool Assesses COVID Severity"
+    excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
+    publishedDateTime: 2021-05-29T17:36:00Z
+    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "eJeLKkBR7Px7dPc+DOdhlw/auQF5zqkkeCXjrdEIzuwGV8uVf96b0j5OdB4S1h1ZXBaAoFLGHbeZLTTJhoNIa4xd8u5DoVMD3rlVswDriasO95a1lk5rYl6Ik8p0PlndaKCDVnOiJeCSAexqBQedBaQqPLfRnNvnBT5eOrsiZ0z+9saGfqdLEBPW/0e2/3FGc3cs/JGq5AkAzVY3KlTyEi31IxXINOhITfFFvxUKIpTVx3tNjlqqmi8BnPmaTCVU8iL68bNvmu7LRLOpJ4Qjk2xzTnbRXjnvcmADEMzEnqSlt4Lh6hAeLikSAdAKC7KqAFmtz3NHaQwEUt1MgkLB7vsRNNrke6HX9AnAFYx1jGH4J9TsC2C6+6OxSRtuLDwB/J7mXaMJk+OHc26PEv8LtlQtGY0GIyoIvp2fvBtU0i7FT1S1tY6E8PK/aOwLEkDxzLHRot6kW70S7GoW3RenkcQHxoEDYyqCaciFNyV3KOXUi4my89P757AQmCSaGXzBdS8C+C4phFKIdWFw5zqRLA==;w8dEPQeSGVOjWu+dtAetwQ=="
 ---

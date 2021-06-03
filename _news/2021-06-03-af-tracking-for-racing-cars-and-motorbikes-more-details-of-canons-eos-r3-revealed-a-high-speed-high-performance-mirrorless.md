@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
-excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
-publishedDateTime: 2021-06-02T18:00:00Z
-originalUrl: "https://guardian.ng/apo-press-releases/af-tracking-for-racing-cars-and-motorbikes-more-details-of-canons-eos-r3-revealed-a-high-speed-high-performance-mirrorless/"
-webUrl: "https://guardian.ng/apo-press-releases/af-tracking-for-racing-cars-and-motorbikes-more-details-of-canons-eos-r3-revealed-a-high-speed-high-performance-mirrorless/"
+title: "AF tracking for racing cars and motorbikes more details of Canon''s EOS R3 revealed a high-speed, high-performance mirrorless"
+excerpt: "Following Canon Inc.'s initial development announcement of the EOS R3 – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
+publishedDateTime: 2021-06-03T02:49:00Z
+originalUrl: "https://menafn.com/1102199159/AF-tracking-for-racing-cars-and-motorbikes-more-details-of-Canons-EOS-R3-revealed-a-high-speed-high-performance-mirrorless"
+webUrl: "https://menafn.com/1102199159/AF-tracking-for-racing-cars-and-motorbikes-more-details-of-Canons-EOS-R3-revealed-a-high-speed-high-performance-mirrorless"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: The Guardian Nigeria
-  domain: guardian.ng
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://guardian.ng/wp-content/uploads/2019/01/Guardian_ChangeofName-06-e1547732039626.png"
-    width: 640
-    height: 360
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?388936"
+    width: 352
+    height: 250
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 1112
         isCached: true
 
-secured: "97itvCQ3JyRGIG5M0okLMKn3wevFet4iJ2R3Z/jCsMDVucPwBKL8VO/Qj/6jPFx7uEldBM/8IpXzeOpaH6H3oEv1K8Bnjs5gtSvMqvRWhH4Yg0BluaELNbDmaYuqFkkXCqsI3JaK5gM09wiVH2rJlUXheY354d3eArcV+SdsvII8XD5xrVG7HbxXLoxoqFS1ckpPq3c1pLLg4pFX2eatnzjBDxu57rT3cmUruU9Sk3Gy+pY2IZDUgHVH550qBU4h9GOZ8r6z+458SBq4oO8jo0AqXVR9xLZeuwbA+GdI8JQdf/KCa4R5Ug/icXU6IAUtKTXjx2tAHigmsQ4HgOzTWgXyPGRbvDvUKQd83jlMmrk=;VMxjhuHuDfSUeEl56/YS/Q=="
+secured: "9aCTW0QAXB8XiXM3Z//RZaZ2PR7rc+K7N0HOuaAOb5prwYE0o/zL18Ca2BQasZY7n1X2DYK9q9fJwHM5WW3tllYgxvq+v0uBi73k7HhHqDCD4PHfNKfD2T1Xk9xLWjb0iNW0uV6OOAJkjuwpDS9fjS95dE86UrEwfJWjtHSG5QTgQl5Q2OmyAeRCBfXDzbomOCgmxwp56BBU0ccl+z1K1UagRRHSB2ppqTRRO8VRHv1pcpHqcddW8QGgG7yOrUX5Bgp+6ffBfc0KiS2Vu0hTupnTcxc9+TsWXW8ds61WlMRRi/USy0yKtZmH6C4qCutiIeD5lz9U08T9ib+Tl0tQswBSFIu3cF4pco30dAyP/Rg=;NjpFx7yNAFZBew7XU6BcaA=="
 ---
 

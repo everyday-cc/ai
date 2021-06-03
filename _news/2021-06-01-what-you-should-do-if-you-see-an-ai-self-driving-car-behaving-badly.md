@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple loses several top execs from self-driving car division"
+    excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
+    publishedDateTime: 2021-06-03T03:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/articleshow/83194050.cms"
+    ampWebUrl: "https://m.economictimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/amp_articleshow/83194050.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/amp_articleshow/83194050.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-478263,msid-83194045/apple-afp.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "GM’s Cruise Says The US Risks Lagging Behind In Self-Driving Cars"
     excerpt: "GM's Cruise is urging the US administration to push the autonomous car sector. Joe Biden proposed $174 billion for EV plans."
     publishedDateTime: 2021-06-01T14:35:00Z

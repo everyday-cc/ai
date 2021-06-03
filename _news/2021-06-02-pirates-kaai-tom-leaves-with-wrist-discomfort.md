@@ -20,17 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Pirates' Ka'ai Tom: Reinstated from 10-day injured list"
-    excerpt: "Tom (wrist) was reinstated from the 10-day injured list Saturday. Tom had been dealing with a left wrist injury recently, but he'll return to the roster after a minimum stay on the 10-day injured list."
-    publishedDateTime: 2021-05-29T10:39:00Z
-    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-reinstated-from-10-day-injured-list/"
-    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-reinstated-from-10-day-injured-list/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-reinstated-from-10-day-injured-list/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 37
   - title: "Pirates' Ka'ai Tom: Remains with big club"
     excerpt: "Tom will remain with the major-league club after serving as the team's 27th man during Saturday's doubleheader, Jake Crouse of MLB.com reports. This doesn't come as a surprise, as it was reported that the Pirates would try to find a way to keep Tom on the major-league roster."
     publishedDateTime: 2021-05-30T10:43:00Z

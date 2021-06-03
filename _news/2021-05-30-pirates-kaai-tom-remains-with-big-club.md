@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-rem
 cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-remains-with-big-club/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,17 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Pirates' Ka'ai Tom: Reinstated from 10-day injured list"
-    excerpt: "Tom (wrist) was reinstated from the 10-day injured list Saturday. Tom had been dealing with a left wrist injury recently, but he'll return to the roster after a minimum stay on the 10-day injured list."
-    publishedDateTime: 2021-05-29T10:39:00Z
-    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-reinstated-from-10-day-injured-list/"
-    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-reinstated-from-10-day-injured-list/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-reinstated-from-10-day-injured-list/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 37
   - title: "Pirates' Ka'ai Tom: Leaves with wrist discomfort"
     excerpt: "Tom was removed from Tuesday's game at Kansas City with left wrist discomfort, Alex Stumpf of DKPittsburghSports.com reports. The 27-year-old was hit by a pitch while attempting a bunt, and he exited the contest during the following inning."
     publishedDateTime: 2021-06-01T22:26:00Z

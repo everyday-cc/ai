@@ -38,6 +38,17 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
+    excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
+    publishedDateTime: 2021-05-29T11:20:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 24
 
 secured: "qHlCirAnjPvddIPO3PBNPsO7LmJ8MsKkD4//7XyYlcCl4j11thNg+sitSZws3Hg8mwPyql3z+je2EsVNoNXkzpHPDX8ObQ082wkuwlyoEzi9SrIySNKiyBxzVQr/wBvrkT82xvTr3LwgjrahsHyfBjJLo8AVy4YiypO4hvtXNA9cFqifVm2XwzmNBKJB/s0qRKMk8HmFnGJFcPl5WvtF92b+4PoJJ92sRfGe02sOFVzMbHTea6f1ZV73smyNbfNB+RUB2h2acrs6G/9oXogu1oaR1hI1xXM4zdQ4gSQ00vIYEEkA3xebaGXpVYgFuBkkdNdn+k10P25zg2ibZbnqDeSR961AOQ9N9jnKm7yswWk=;UshtvWDXn7P195zAmPQT9A=="
 ---

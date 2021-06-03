@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Novel AI tool to help assess Covid severity"
-    excerpt: "\"Assessing the severity of a patient with Covid-19 is a critical step in the clinical workflow for determining the best course of action for treatment and care, be it admitting the patient to ICU, giving a patient oxygen therapy,"
-    publishedDateTime: 2021-05-29T09:38:00Z
-    webUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html"
-    ampWebUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/03/QT-Artificial-Intelligence-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI-driven platform to facilitate early Covid intervention over WhatsApp"
     excerpt: "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,"
     publishedDateTime: 2021-06-02T09:07:00Z
@@ -58,53 +42,53 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "AI models look for shortcuts that could lead to errors in diagnosis of COVID-19"
-    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes."
-    publishedDateTime: 2021-05-31T18:29:00Z
-    webUrl: "https://www.news-medical.net/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
+  - title: "AI-driven platform XraySetu to facilitate early-Covid interventions over Whatsapp"
+    excerpt: "XraySetu is specifically designed to identify COVID positive patients even from low-resolution Chest X-Ray images sent over Whatsapp."
+    publishedDateTime: 2021-06-02T05:38:00Z
+    webUrl: "https://www.livemint.com/science/aidriven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp-11622610842322.html"
+    ampWebUrl: "https://www.livemint.com/science/aidriven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp/amp-11622610842322.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/aidriven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp/amp-11622610842322.html"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 53
+      name: Mint
+      domain: livemint.com
+    quality: 54
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://images.livemint.com/img/2021/06/02/600x338/KRF1UVG2_1609346470096_1609346481066_1622612032657.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Medical AI models rely on 'shortcuts' that could lead to misdiagnosis of COVID-19"
-    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes. From diagnosing disease, to personalizing treatment,"
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
+  - title: "Reading X-ray via WhatsApp: AI-driven 'XraySetu' helps doctors detect Covid in rural population"
+    excerpt: "Besides COVID-19, the platform can also detect 14 additional lung-related ailments, including tuberculosis and pneumonia."
+    publishedDateTime: 2021-06-02T05:26:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2021/jun/02/reading-x-ray-via-whatsapp-ai-drivenxraysetu-helps-doctors-detect-covid-in-rural-population-2310737.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2021/jun/02/reading-x-ray-via-whatsapp-ai-drivenxraysetu-helps-doctors-detect-covid-in-rural-population-2310737.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2021/jun/02/reading-x-ray-via-whatsapp-ai-drivenxraysetu-helps-doctors-detect-covid-in-rural-population-2310737.amp"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
-        isCached: true
-  - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
-    excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients."
-    publishedDateTime: 2021-06-02T09:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
+      name: The New Indian Express
+      domain: newindianexpress.com
     quality: 47
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/02/full/20210602142448.jpg"
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/12/w600X390/Qurer.jpg"
         width: 600
-        height: 450
+        height: 390
+        isCached: true
+  - title: "Indian startup develops platform for early Covid detection over WhatsApp"
+    excerpt: "Xray Setu has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp."
+    publishedDateTime: 2021-06-02T14:08:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/indian-startup-develops-platform-for-early-covid-detection-over-whatsapp-71622641975838.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/indian-startup-develops-platform-for-early-covid-detection-over-whatsapp-71622641975838.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/indian-startup-develops-platform-for-early-covid-detection-over-whatsapp-71622641975838.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 43
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/06/02/1600x900/3f6fd570-be3c-11eb-8083-8f092783bf58_1622642574358_1622642627189.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "New Artificial Intelligence Tool Assesses COVID Severity"
     excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
@@ -117,68 +101,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
-    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
-    publishedDateTime: 2021-06-02T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
+  - title: "XraySetu: This AI Platform Will Accept Your X-Ray Over WhatsApp & Check If You Have COVID"
+    excerpt: "An AI-driven platform called XraySetu has been developed to identify COVID-19 positive patients even from low-resolution chest X-ray images sent over WhatsApp."
+    publishedDateTime: 2021-06-02T11:11:00Z
+    webUrl: "https://www.republicworld.com/technology-news/apps/xraysetu-this-ai-platform-will-accept-your-x-ray-over-whatsapp-and-check-if-you-have-covid.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 30
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
-        width: 1600
-        height: 900
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/dgm0hdxb7ozfa3h0_1622632275.jpeg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "DOST-assisted startup offers AI tool to cut electricity costs"
-    excerpt: "Filipino business owners can save money by reducing their electricity bills with the use of a locally developed smart energy analytics platform, the Department of Science and Technology (DOST) announced recently."
-    publishedDateTime: 2021-05-29T16:12:00Z
-    webUrl: "https://businessmirror.com.ph/2021/05/30/dost-assisted-startup-offers-ai-tool-to-cut-electricity-costs/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/05/science01-153021.jpg"
-        width: 720
-        height: 724
-        isCached: true
-  - title: "AI can help stratify COVID-19 risk on lung ultrasound"
-    excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
-    publishedDateTime: 2021-06-01T07:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132539"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_28_22_04_8526_2021_06_01_AI_COVID_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
-    excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
-    publishedDateTime: 2021-05-29T11:20:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 24
-  - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
-    excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients. Chest CT scans are an integral part of the diagnosis and management of COVID-19."
-    publishedDateTime: 2021-06-02T21:14:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765196.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 7
 
 secured: "xY9ta5HdBV7XTNOcT1/DW/Z2cI4o5Cvj73iR0/O+vDNtw6Jr82sGeuxfGL9G20JkbhDT1iRJiPMsFwlCUITGdy1cxKQzo9qIa0FAru+Xkhj00YOM1F9CSv0eNglO0b4ua+MBp0muxNzP9Va33ysqZoPdBVMMRMny3yF1j8wURkv968MTCta+EUAhOI9bw7ivUpwweNR7NSTjbqkV/t1iB6pu2myiP0VBT6Rg0SdnmlknAurYbT428yRIgGh2Pq6U9zh8PQdU/pT3Aqj7dxut34YsxrkipyCNn874hyrlJor6yinrcrSM4QdF3VutOx/MpgtsNjCAmxz0pdENN88ZmWNTv2o/N/BWTlwElHxQkhk=;31t/DFrWhf3rayZQ5IjcQg=="
 ---

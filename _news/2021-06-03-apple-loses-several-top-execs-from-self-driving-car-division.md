@@ -1,27 +1,29 @@
 ---
 category: news
-title: "GM’s Cruise Says The US Risks Lagging Behind In Self-Driving Cars"
-excerpt: "GM's Cruise is urging the US administration to push the autonomous car sector. Joe Biden proposed $174 billion for EV plans."
-publishedDateTime: 2021-06-01T14:35:00Z
-originalUrl: "https://techstory.in/gms-cruise-says-the-us-risks-lagging-behind-in-self-driving-cars/"
-webUrl: "https://techstory.in/gms-cruise-says-the-us-risks-lagging-behind-in-self-driving-cars/"
+title: "Apple loses several top execs from self-driving car division"
+excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
+publishedDateTime: 2021-06-03T03:04:00Z
+originalUrl: "https://economictimes.indiatimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/articleshow/83194050.cms"
+webUrl: "https://economictimes.indiatimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/articleshow/83194050.cms"
+ampWebUrl: "https://m.economictimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/amp_articleshow/83194050.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/amp_articleshow/83194050.cms"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: tech
-  domain: techstory.in
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://techstory.in/wp-content/uploads/2021/06/gettyimages-516804034.jpg"
-    width: 940
-    height: 626
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-478263,msid-83194045/apple-afp.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -41,21 +43,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple loses several top execs from self-driving car division"
-    excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
-    publishedDateTime: 2021-06-03T03:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/articleshow/83194050.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/amp_articleshow/83194050.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/amp_articleshow/83194050.cms"
+  - title: "GM’s Cruise Says The US Risks Lagging Behind In Self-Driving Cars"
+    excerpt: "GM's Cruise is urging the US administration to push the autonomous car sector. Joe Biden proposed $174 billion for EV plans."
+    publishedDateTime: 2021-06-01T14:35:00Z
+    webUrl: "https://techstory.in/gms-cruise-says-the-us-risks-lagging-behind-in-self-driving-cars/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
+      name: tech
+      domain: techstory.in
+    quality: 24
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-478263,msid-83194045/apple-afp.jpg"
-        width: 600
-        height: 450
+      - url: "https://techstory.in/wp-content/uploads/2021/06/gettyimages-516804034.jpg"
+        width: 940
+        height: 626
         isCached: true
   - title: "Apple loses several top managers from self-driving car division"
     excerpt: "Apple Inc. has lost multiple top managers from its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. The iPhone maker has hundreds of engineers working on underlying self-driving car technology as well as groups of employees working on an actual vehicle,"
@@ -109,6 +109,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "ca+Q6hc+IaoUgK/s5cm5w0wTg7b0rlBqHSEUvKnTNeJ05e3kfa7iz/9odTWDK0AvMZRtWdVavuC3vGCH4RPpZNH+jZkNG72rz0PMbd+MHnFne7lpG6ClIwp1An7MSttibxRCTTpZ5CScsmAxHB9ndPuA4/evbEV5xuEneUb9p10FqiHfBsfFa05K7q4Y7sD1N9E1NjjpIXOGB5rlKIclMYmzkzowboJQ1oqLVu/LmUPG8fQlR3U+uYOrxrr0bGzyLQMAblUpEieyWTd/yHUH3wOy+XTGMEvKnxRpLzOV2n+FTbi9pvsx46kHce5CGIPFdlGK5u0UFnytg1wMJbVPgwb0W1n3LRHrCB+eViVVo20=;LhkxTiz8La/kfk6HURvukA=="
+secured: "f5CIj7PlXhVWbcAgGdmH96P6lCGMDUAN2/wDEpziQqUpMPdrG23mLqE3dsFGF5dSylcctjpz3Y1aEaFqTA79RBi0HVQFH+niNXLJcET7XmQr3yMw77rX/XuNOnyMVJfs7pTlCu8Muf3ReyyIzMD1g2lWsMkjnvL0P7iBI9q9zsVhfwrVRqu5ZiVndlB69rbJ5Cln9AZTxcRSUWifWtHdDHz99qM8/+9TKxQEKtbZ2y4iKk2f2QSHcHcYBIAXSdsZNrQ5VhR3x2w+Wsa534a4j9Xf7T7d3T7c9Jqn6eXcRPA7J/J7aqFRE1NAWLZYCAnYDODleZJG2j2ntiBwEQofJhand5+d9V6rpE3jJBhfHK8=;YmYT/NjhtOSVoRlEUN21+Q=="
 ---
 

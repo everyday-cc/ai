@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/kau
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,97 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Novel AI tool to help assess Covid severity"
-    excerpt: "\"Assessing the severity of a patient with Covid-19 is a critical step in the clinical workflow for determining the best course of action for treatment and care, be it admitting the patient to ICU, giving a patient oxygen therapy,"
-    publishedDateTime: 2021-05-29T09:38:00Z
-    webUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html"
-    ampWebUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/03/QT-Artificial-Intelligence-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "AI-driven platform to facilitate early Covid intervention over WhatsApp"
-    excerpt: "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,"
-    publishedDateTime: 2021-06-02T09:07:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
-    ampWebUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1701412699.jpg"
-        width: 660
-        height: 440
-        isCached: true
-  - title: "COVIZN: An affordable artificial intelligence solution for COVID-19 diagnosis"
-    excerpt: "COVIZN is an artificial intelligence based screening software for COVID-19 that can be an affordable alternative to microbial swab test"
-    publishedDateTime: 2021-05-31T11:03:00Z
-    webUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/"
-    ampWebUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 54
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-skeleton-163715_640.jpg"
-        width: 711
-        height: 400
-        isCached: true
-  - title: "AI models look for shortcuts that could lead to errors in diagnosis of COVID-19"
-    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes."
-    publishedDateTime: 2021-05-31T18:29:00Z
-    webUrl: "https://www.news-medical.net/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210531/AI-models-look-for-shortcuts-that-could-lead-to-errors-in-diagnosis-of-COVID-19.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 53
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Medical AI models rely on 'shortcuts' that could lead to misdiagnosis of COVID-19"
-    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes. From diagnosing disease, to personalizing treatment,"
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
-        isCached: true
-  - title: "New Artificial Intelligence Tool Assesses COVID Severity"
-    excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
-    publishedDateTime: 2021-05-29T17:36:00Z
-    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
   - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
     excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
     publishedDateTime: 2021-06-02T06:30:00Z
@@ -132,19 +41,33 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "DOST-assisted startup offers AI tool to cut electricity costs"
-    excerpt: "Filipino business owners can save money by reducing their electricity bills with the use of a locally developed smart energy analytics platform, the Department of Science and Technology (DOST) announced recently."
-    publishedDateTime: 2021-05-29T16:12:00Z
-    webUrl: "https://businessmirror.com.ph/2021/05/30/dost-assisted-startup-offers-ai-tool-to-cut-electricity-costs/"
+  - title: "Kauvery Hospitals adopt artificial intelligence"
+    excerpt: "Kauvery Hospitals one of India leading multispecialty chain of Hospitals have been harnessing the power of AI to better detect and manage the disease in COV"
+    publishedDateTime: 2021-06-02T09:36:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269731397/kauvery-hospitals-adopt-artificial-intelligence"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1622625685.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "AI for radiographic COVID-19 detection selects shortcuts over signal"
+    excerpt: "The urgency of the developing COVID-19 epidemic has led to a large number of novel diagnostic approaches, many of which use machine learning. DeGrave and colleagues use explainable AI techniques to analyse a selection of these approaches and find that the methods frequently learn to identify features unrelated to the actual disease."
+    publishedDateTime: 2021-05-31T15:02:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00338-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
     quality: 37
     images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/05/science01-153021.jpg"
-        width: 720
-        height: 724
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00338-7/MediaObjects/42256_2021_338_Fig1_HTML.png"
+        width: 685
+        height: 358
         isCached: true
   - title: "AI can help stratify COVID-19 risk on lung ultrasound"
     excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
@@ -160,17 +83,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
-    excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
-    publishedDateTime: 2021-05-29T11:20:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+  - title: "Middle East & Africa AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Component and End-User"
+    excerpt: "Reportlinker.com announces the release of the report \"Middle East & Africa AI in Computer Vision Market Forecast to 2027"
+    publishedDateTime: 2021-05-31T11:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21356348/middle-east-africa-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-regional-anal"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21356348"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21356348"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
   - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
     excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients. Chest CT scans are an integral part of the diagnosis and management of COVID-19."
     publishedDateTime: 2021-06-02T21:14:00Z

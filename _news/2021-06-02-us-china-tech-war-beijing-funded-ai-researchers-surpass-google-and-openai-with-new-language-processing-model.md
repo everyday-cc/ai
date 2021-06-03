@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3135764/us-china-tech-war
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3135764/us-china-tech-war-beijing-funded-ai-researchers-surpass-google-and"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-02/52659cc8-73c8-4bd3-a4fb-7425cb6c09ee.jpeg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "OpenAI Launches $100 Mn Fund To Catch AI Startups Young"
-    excerpt: "Microsoft acquired an exclusive license to GPT-3 last year, in the wake of its $1 billion investment in OpenAI."
-    publishedDateTime: 2021-05-29T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/openai-launches-100-mn-fund-to-catch-ai-startups-young/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/sam-altman.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "9UVq0v8JNXEPNfJZrFAywkpuyxdtJ7i7GMQt5JDqOhNcFp1p3TBM0oUmv4zBX5PxTYTbs4ofsccRQU2hGaS2UwrJbp3hVcTnyM2WVHcRhgYJ2rSUguw5zN4pCy5mXL5p7FwdoWolP8gmrDaO96V2+HSwXRiSOMC+bbm/PEQsvDJ1Sb5AKt8vd1BykyLQtNqjO+VJTbCl9gcwelBOhQOz5PUPie4MpzbBMlQuEUjSK46lZvQmSQqZLy3zNlLkgG8/SLEGEzjxAgEI6s78/TmFOYbGkt+Ruw2HDMhdW5a94oVr3G3ILCmaW35g/qOCzGlaZkCL040I6HM5FAyu+diWgoXZ48QSe+WZwppQ3XggPFbqVmV0LoMEm4s2PLFqV9SYl/EaOPuMe7qHwKkzafimI61qTlgNR+ex0K9Pl1IFhdOOo7QgW78mxmvojtqxRkKgpyslCKh4kuksv5FIH0d4nGznygFllDOBj6T/MnYHA+okhskcnrE9ndFMKr7klzLlcXBciHNt9xml51MWVUpADg==;TcILiQXJIJoET6XzVPrGTQ=="
