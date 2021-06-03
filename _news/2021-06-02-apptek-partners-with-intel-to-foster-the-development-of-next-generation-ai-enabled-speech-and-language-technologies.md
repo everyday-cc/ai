@@ -2,17 +2,21 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
+publishedDateTime: 2021-06-02T12:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
+webUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
 type: article
-quality: 0
-heat: -1
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -29,6 +33,6 @@ related:
       domain: businessinsider.com
     quality: 26
 
-secured: "GDkE8D02qxZpuZ+iM2xcRQjbEl/z1hsua8ibGKJ3hUba7FzVjPuYCB79ADvX0n5Qy3MMZ+4OCfmWiLNJTjgsbdyZCDTuu25KFEkWlxZO3c15l8yCm/ZZTYUG0WOoDBsuNW5Bsv2Ca17V/tUjuW9u2sun9d82tHv7VWYzaZCcyQgY8pSLHPK+hEjtwlAOWB6u2GntORRmttzOK7QHGD2wujKSavB6UQ+GLsInqYsWm3o8NeYypZdLTdhL0GRjKfiplS35lPZCGXlIWp5duK3UJa4HoyeKThxMo4+NG4S8+qtJ+HWzVL0McXLREp4vYzas/RiuqlKYo+5ymhzKTaWv3LU4pGjttjheoqdbvsihdj4=;JZVLjupMT1ElwlwtmOEm2A=="
+secured: "6tfd7rB3i5/GubsMMMQLUJ/EY1gdYVZYCiRGhzvuHlO4trrGZ6qtY2zGwMS7LwZpVcNdfHCuw3is2w62U1poqVuZ55g6CYD7oUwd2kdkP7vWcCFBwOi3IkzA8tG/5Aowq/3FilLAiRB2/TlB1EQzrSjQ/Yss6RSaPtJiYR4KSC6r3r3PE8JUfpOJ05u4AKN8788OcfJw9f/kt9g6lLGrO7ffkawrHUhWMPIahV45nSK0VIS3+3qboFWeWQY7oOwvFwjMSwG8PrcwmwiyukLc+ExzTjs0JKtMxwFaBAgdDZuB3fR0DH34qOkyUpN6CBOohfP3ztLF07yoBS/Vac6Y+OM05de2MbulKsMt1U3osrg=;G86cXwrIiv1Hnv2yVfSWiw=="
 ---
 

@@ -2,6 +2,272 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-05-15-top-artificial-intelligence-job-openings-to-watch-out-for-this-week.md",
+      "title": "Top Artificial Intelligence Job Openings to Watch Out for This Week",
+      "excerpt": "Artificial Intelligence job prospects have grown in recent years as industry demand has increased. Here is a list of 10 Artificial Intelligence job openings for this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-job-openings-to-watch-out-for-this-week/",
+      "originalUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-job-openings-to-watch-out-for-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-Job-Openings.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities.md",
+      "title": "IBM announces breakthrough hybrid cloud and AI capabilities",
+      "excerpt": "IBM announced advances in AI, hybrid cloud, and quantum computing at Think 2021, helping clients and partners accelerate their digital transformations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vir.com.vn/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-84217.html",
+      "originalUrl": "https://www.vir.com.vn/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-84217.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vir.com.vn/stores/news_dataimages/dinhthuy/052021/14/14/in_article/croped/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities.jpg?randTime=1622138429",
+          "width": 636,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vietnam Investment Reviev",
+        "domain": "vir.com.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-ai-artificial-intelligence-how-non-tech-firms-can-benefit.md",
+      "title": "AI (Artificial Intelligence): How Non-Tech Firms Can Benefit",
+      "excerpt": "No doubt, these problems are even worse for non-tech companies. They generally do not have the expertise or sufficient resources to make AI a success. “Research shows non-tech companies in particular have struggled to take their AI programs beyond the proof of concept and pilot phases–with just 21% of retail,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/14/ai-artificial-intelligence-how-non-tech-firms-can-benefit/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/14/ai-artificial-intelligence-how-non-tech-firms-can-benefit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609f27279715e8996e16c7cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-new-deep-learning-model-brings-image-segmentation-to-edge-devices.md",
+      "title": "New deep learning model brings image segmentation to edge devices",
+      "excerpt": "This made it difficult to run these deep learning models without a connection to cloud servers. In their latest work, the scientists at DarwinAI and the University of Waterloo have managed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/brain-ai-e1561657878421.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/",
+      "publishedDateTime": "2021-05-14T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse.md",
+      "title": "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse",
+      "excerpt": "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/21139096",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096",
+      "publishedDateTime": "2021-05-14T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-elon-musks-best-investments.md",
+      "title": "Elon Musk's Best Investments",
+      "excerpt": "A list of some of Musk's best investments includes PayPal Holdings Inc. (PYPL), SpaceX, DeepMind (GOOGL), Tesla Inc. (TSLA), and The Boring Company.﻿﻿ ﻿﻿ Musk is the CEO and co-founder of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
+      "originalUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/116HqdfR7rOQoAhctt4rjgaZYqE=/680x440/filters:fill(auto,1)/ap_507406182676-5bfc3829c9e77c00587a7cc8.jpg",
+          "width": 680,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-heres-what-the-dreams-of-googles-artificial-intelligence-look-like.md",
       "title": "Here’s What the “Dreams” of Google’s Artificial Intelligence Look Like",
       "excerpt": "Google’s Artificial Intelligence can dream in reality. Its innovative DeepDream software is turning AI neural networks inside out to comprehend how computers think.",
@@ -904,293 +1170,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-how-asset-management-firms-can-use-ai-for-data-analytics.md",
-      "title": "How Asset Management Firms Can Use AI For Data Analytics",
-      "excerpt": "Artificial intelligence is transforming the asset management industry by enabling fundamental analysts to research and extract more information faster so they can uncover accurate investment insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d63b3c54978bb11535422%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/",
-      "publishedDateTime": "2021-05-14T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-mit-researchers-commercializing-rfid-and-computer-vision-robotics.md",
-      "title": "MIT Researchers Commercializing RFID and Computer Vision Robotics",
-      "excerpt": "Researchers at the MIT Media Lab are employing radio frequency identification technology along with computer vision to enable robots to explore their environment in order to locate and move a targeted item that may not be visible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "originalUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rfidjournal.com/wp-content/uploads/2021/04/MITMediaLab-1.jpg",
-          "width": 1000,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024.md",
-      "title": "Global Healthcare Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2024",
-      "excerpt": "Global Healthcare Artificial Intelligence Market Overview:Global Healthcare Artificial Intelligence Market Report 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
-      "title": "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
-      "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027.md",
-      "title": "Artificial Voice Box Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027",
-      "excerpt": "The growing impact of artificial intelligence (AI) on the accuracy of speech and voice recognition and also the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-voice-box-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-top-7-deep-learning-companies-having-positive-impact-on-humankinds-future.md",
-      "title": "Top 7 deep learning companies having positive impact on humankind’s future",
-      "excerpt": "It continuously extracts higher level features from the raw data.Basically, the deep learning companies have designed a technology that imitatesthe human brain. This new technology continuously ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102078630/Top-7-deep-learning-companies-having-positive-impact-on-humankinds-future",
-      "originalUrl": "https://menafn.com/1102078630/Top-7-deep-learning-companies-having-positive-impact-on-humankinds-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-03-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
-      "title": "AWS announces winners of first DeepRacer Women’s League in India",
-      "excerpt": "Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
-      "originalUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canindia.com/epaper/CIFRONT-HOLDER.png",
-          "width": 252,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canindia.com",
-        "domain": "canindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals.md",
       "title": "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals",
       "excerpt": "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads.",
@@ -193,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1405,6 +1361,58 @@
         "name": "E&E",
         "domain": "eenews.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues.md",
+      "title": "From driverless cars to robotic warehouses, China looks to automation to solve population issues",
+      "excerpt": "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
+      "publishedDateTime": "2021-05-23T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

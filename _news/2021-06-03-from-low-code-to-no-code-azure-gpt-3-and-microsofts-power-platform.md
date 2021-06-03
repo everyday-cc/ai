@@ -223,13 +223,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -284,6 +284,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "qojFkxvQS+EsG92cKb9qddSpwlmcgMwOJWLCa3jvTI3OpR8zdE9NuWHbwuiBxsbDTt4XSxk9HCC3BTLNIFqnkkqDlZcnIID6Sw855/nTsjaKg8q+231K7JBb7tDZVREazS+F6uS7yRLE4b9ctSOnGBGEzPOo2P+Z02o0pHJ9H1nFFBdTlhpuzAtG1FuVgI9YGpYi5Wq9Q62z77tO0StgzXn3QQpz6aMP3YRz05F4xsI5zdJEafTOy3P1EFz7zW2AjpyOQzLIsQr4FOAwlSGH14KaqfBq2FSYSAfFIFofgUNNZ/MGTf9zKdVdFU5mIN5DP9/kN269w1a6r8YbXzch8utKk0B4rykGTSOg0u2b1xI=;IxV/nNkpVh/yMgZYrQLYOg=="
+secured: "NQywDaJc9oedWFDpiSnq6REgq3BBEXTQYrYIXNI/qMXClBMB2et3eqJfaTmuKkfuK+LZvvkdgHJTEWOxpTWhh8b9/dxNRgQTCCQDme6lSktsjid/uICoyGru/P6sQ1a9zX054p294rQUUjqEPlR+PtkcRD/56Ksgs0nxIjzDeoWDY73uuh0pfDAGpnnXW8j5U/UPB+hecsuHTpNPHrrzhiopJyGS/5rdRtz53BTTHTtfYEwzdJxewEuhzmr+E/7NRPwQ3G9MdTG0720hY2jnSdRZ/tFjhcLwImcGgOsu+T9x5iZkglRURgdrNH7zfn+MqUWlh5BhBq/G9w73Y3xh4v+pBcWxuMjoVZ+bqmfYx0GtBVJTR9+nK8/X6/mVXszi27V578ArB+ihrFI8sf18lIt15dEf3z5FqTHXsQpf+m6TXUyYreDYD1hQo8lD7lGDMrA56jT6Jf4qynCFPN/+FElSvEFNMiaRXSG99G/J/ELZlvFGwSVGOItFFlGJAQQZPui7P7ODSYYDQt3S30cuoA==;UFdffn9/w+rEcClK2MPqVg=="
 ---
 

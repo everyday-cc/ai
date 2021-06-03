@@ -2,6 +2,264 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-05-18-california-places-teslas-full-self-driving-under-review.md",
+      "title": "California places Tesla's 'Full Self-Driving' under review",
+      "excerpt": "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_4a35d5a5f27e4bffb6600fd2462f18dc_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "publishedDateTime": "2021-05-17T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics.md",
+      "title": "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics",
+      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9372576.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9372576.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1512714/Photo2.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-machine-learning-ide-in-alpha.md",
+      "title": "Machine Learning IDE In Alpha",
+      "excerpt": "Machine is an IDE for building machine learning systems using TensorFlow. You can sign up for the alpha, but first, have a look at the video below to see what it is all about. You’ll see in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/06/27/machine-learning-ide-in-alpha/",
+      "originalUrl": "https://hackaday.com/2017/06/27/machine-learning-ide-in-alpha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/03/selfdriving_thumbnail.png?w=600&#038;h=600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-state-farm-taps-object-recognition-with-carcapture-app.md",
+      "title": "State Farm taps object recognition with CarCapture app",
+      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html?referrer_site=www.mobilemarketer.com",
+      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html?referrer_site=www.mobilemarketer.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Dive",
+        "domain": "marketingdive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
+      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated \"driver.\" Volvo will design and manufacture the vehicles. The companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/26/volvo-cars-waymo-partner-to-build-self-driving-vehicles",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/26/volvo-cars-waymo-partner-to-build-self-driving-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/26/734158.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-the-future-workforce-how-conversational-ai-is-changing-the-game.md",
+      "title": "The Future Workforce: How Conversational AI Is Changing The Game",
+      "excerpt": "AI was among the many emerging technologies to take hold in 2021. Companies are using AI to streamline everyday workplace tasks and transform the client experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/",
+      "originalUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a2fff5ff2f7cc62ab87605%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/",
+      "publishedDateTime": "2021-05-17T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-google-research-launches-movenet-with-tensorflowjs-api.md",
       "title": "Google Research launches MoveNet with TensorFlow.js API",
       "excerpt": "Google has launched its new MoveNet model with an API for TensorFlow.js to help developers create apps that can track movements. In future updates, MoveNet should be able to track multiple people.",
@@ -865,273 +1123,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-international-automaker-to-launch-self-driving-cars-in-pakistan.md",
-      "title": "International automaker to launch self driving cars in Pakistan",
-      "excerpt": "The concept of self-driving cars replacing conventional cars has been been a trending discussion but the implementation of this has been varying due to safety",
-      "sourceUrl": null,
-      "webUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
-      "originalUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofislamabad.com/digital_images/extra-large/2021-05-17/international-automaker-to-launch-self-driving-cars-in-pakistan-1621249505-5432.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
-      "cdnAmpWebUrl": "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
-      "publishedDateTime": "2021-05-17T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Islamabad",
-        "domain": "timesofislamabad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-artificial-intelligence-market-to-perceive-substantial-growth-during-2021-2025-says-kenneth-research.md",
-      "title": "Artificial Intelligence Market to Perceive Substantial Growth during 2021- 2025 | Says Kenneth Research",
-      "excerpt": "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-ai-has-a-racism-problem-but-fixing-it-is-complicated-say-experts.md",
-      "title": "AI has a racism problem, but fixing it is complicated, say experts",
-      "excerpt": "(Screenshot of Amazon listing) On Baidu, China's top search engine, the N-word is suggested as a translation option for the Chinese characters for \"Black person.\" Experts say these AI language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150",
-      "originalUrl": "https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6028159.1621145111!/httpImage/image.jpg_gen/derivatives/16x9_620/image.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6027150",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6027150",
-      "publishedDateTime": "2021-05-17T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-financial-literacy-startup-goalswell-closes-seed-round.md",
-      "title": "Financial Literacy Startup Goalswell Closes Seed Round",
-      "excerpt": "a computer scientist and cognitive psychologist from Microsoft Corp.’s research lab in New York, have been named to the startup’s board. Others are expected to join, Yuan said. MobLab and ...",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/news/2021/may/17/financial-literacy-startup-goalswell-closes-seed/",
-      "originalUrl": "https://labusinessjournal.com/news/2021/may/17/financial-literacy-startup-goalswell-closes-seed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/17/LA-CC-Deloitte-210515.png",
-          "width": 294,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-robotics-company-embodied-acquires-conversational-ai-business.md",
-      "title": "Robotics Company Embodied Acquires Conversational AI Business",
-      "excerpt": "Pasadena-based Embodied Inc. released a product last year called Moxie, an artificial-intelligence-enabled robotic companion for young children. The device — which Time selected as one of its top inventions of 2020 — is designed to support kids’ social and emotional development through interactions themed around concepts like kindness,",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/",
-      "originalUrl": "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/13/PG11_TECH_EMBODIED_0517_Moxie2_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
-          "width": 670,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-3u-vpx-embedded-computing-for-artificial-intelligence-ai-electronic-warfare-ew-offered-by-curtiss-wright.md",
-      "title": "3U VPX embedded computing for artificial intelligence (AI), electronic warfare (EW) offered by Curtiss-Wright",
-      "excerpt": "The VPX3-4935 SOSA aligned module feature an NVIDIA Quadro Turing TU104 (RTX5000E) GPU that delivers 11.2 TFLOPS/TIPS performance. It provides 3072 CUDA cores, 384 tensor cores, and 48 ray-tracing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
-      "originalUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/05/Curtiss_19_May_2021.609ade048a9db.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-16T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military",
-        "domain": "militaryaerospace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

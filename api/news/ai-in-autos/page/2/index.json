@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-24-from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues.md",
-      "title": "From driverless cars to robotic warehouses, China looks to automation to solve population issues",
-      "excerpt": "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "originalUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "publishedDateTime": "2021-05-23T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-23-self-driving-cars-pose-crucial-question-who-to-blame-in-a-crash.md",
       "title": "Self-driving cars pose crucial question: who to blame in a crash",
       "excerpt": "self-driving test car in 2018, has focused attention on the issue ... China’s automated driving technology speeds ahead with research by search engine giant Baidu China’s automated driving technology speeds ahead with research by search engine giant ...",
@@ -1357,6 +1305,49 @@
       "provider": {
         "name": "BBC",
         "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-international-automaker-to-launch-self-driving-cars-in-pakistan.md",
+      "title": "International automaker to launch self driving cars in Pakistan",
+      "excerpt": "The concept of self-driving cars replacing conventional cars has been been a trending discussion but the implementation of this has been varying due to safety",
+      "sourceUrl": null,
+      "webUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
+      "originalUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofislamabad.com/digital_images/extra-large/2021-05-17/international-automaker-to-launch-self-driving-cars-in-pakistan-1621249505-5432.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
+      "cdnAmpWebUrl": "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
+      "publishedDateTime": "2021-05-17T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Islamabad",
+        "domain": "timesofislamabad.com",
         "images": null,
         "publishers": null,
         "authors": null

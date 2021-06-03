@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-as-ai-develops-so-does-the-debate-over-profits-and-ethics.md",
+      "title": "As AI develops, so does the debate over profits and ethics",
+      "excerpt": "But what remains unknowable are the benefits that may be lost to society by not fully using AI in responsible ways. We understandably recoil at the possibility of technology companies gaining privileged access to confidential medical records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4",
+      "originalUrl": "https://www.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3b33e271-7459-43f6-b05d-91bca84eacd6.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4",
+      "publishedDateTime": "2021-06-03T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-the-potential-of-artificial-intelligence-to-bring-equity-in-health-care.md",
       "title": "The potential of artificial intelligence to bring equity in health care",
       "excerpt": "Nearly 1,400 joined MIT's AI for Health Care Equity Conference that explored new artificial intelligence technologies as a platform for change.",
@@ -419,22 +462,31 @@
       "title": "New Report from Corinium and FICO Finds that Lack of Urgency Around Responsible AI Use is Putting Most Companies at Risk",
       "excerpt": "FICO and Corinium today released its second annual executive research report on Chief Analytics, Chief AI, and Chief Data Officers 65% of respondents' companies can't explain how specific AI model decisions or predictions are made 73% have struggled to get executive support for prioritizing AI ethics and responsible AI practices Only a fifth (20%) actively monitor their models in production for fairness and ethics Today,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use/article_d485892c-0583-53a5-9dce-a5b0b0e3c0da.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use/article_d485892c-0583-53a5-9dce-a5b0b0e3c0da.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441",
+          "width": 1200,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T05:07:00-07:00",
+      "publishedDateTime": "2021-05-25T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1410,58 +1462,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-how-adobes-ethics-committee-helps-manage-ai-bias.md",
-      "title": "How Adobe’s Ethics Committee Helps Manage AI Bias",
-      "excerpt": "Review boards can help companies mitigate some of the risks associated with using artificial intelligence, an Adobe executive said Wednesday at The Wall Street Journal’s Risk & Compliance Forum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "originalUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-334697/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "publishedDateTime": "2021-05-05T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

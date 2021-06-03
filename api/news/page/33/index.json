@@ -2,6 +2,304 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-05-10-mega-man-11-review-i-hate-bounce-man.md",
+      "title": "'Mega Man 11' Review: I Hate Bounce Man",
+      "excerpt": "The eight robot masters have been taken by the evil Dr. Wily, and it's up to you to get him back. You'll jump, dash and bounce in levels themed around each one of these mind-controlled bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
+      "originalUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-the-startup-born-from-googles-self-driving-car-project-plans-to-automate-semis-meet-the-leaders-behind-it.md",
+      "title": "The startup born from Google's self-driving car project plans to automate semis. Meet the leaders behind it.",
+      "excerpt": "Insider talked to three of Waymo Via's top leaders about the company. Trucking is an $800 billion business in the US, so the opportunity is huge.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-leaders-via-waymos-self-driving-trucking-arm-2021-5-1030441205",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-leaders-via-waymos-self-driving-trucking-arm-2021-5-1030441205",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.markets.businessinsider.com/5f17ab202618b9121c5778d3?format=jpeg",
+          "width": 790,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-uber-launches-new-toronto-based-autonomous-vehicle-research-hub.md",
+      "title": "Uber launches new Toronto-based autonomous vehicle research hub",
+      "excerpt": "The company announced this week that it will be launching a new research hub in Toronto focused on developing artificial intelligence (AI ... announcement comes amid Uber’s legal battle with Waymo, the company that runs Google’s self-driving car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
+      "originalUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/05/uber-toronto-e1494445629969-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-cogniflare-unveils-data-management-and-catalog-platform-for-google-cloud.md",
+      "title": "Cogniflare unveils data management and catalog platform for Google Cloud",
+      "excerpt": "Cogniflare plans to add connectors that will extend Kyra’s data management reach into the various cloud services provided by Microsoft and ... In addition, Cognitive is working to give Kyrah ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/",
+      "originalUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/amp/",
+      "publishedDateTime": "2021-05-09T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-china-tech-giants-bet-19-billion-on-global-electric-car-frenzy.md",
+      "title": "China Tech Giants Bet $19 Billion on Global Electric Car Frenzy",
+      "excerpt": "China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen as the future of transport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-09/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-09/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imzlfa1z.VSs/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
+      "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
+      "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
+      "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings.md",
       "title": "Jobs Lost To Industrial Robots Amidst COVID-19 May Never Come Back To Human Beings",
       "excerpt": "With intelligent machines on the horizon and with an industrial focus on enhancing productivity and lowering costs in the post-pandemic era, artificial intelligence (AI) and autonomous robots are destined to win this bid of the future job market.",
@@ -909,289 +1207,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-microsoft-surface-duo-review-beautiful-hardware-terrible-software.md",
-      "title": "Microsoft Surface Duo Review: Beautiful Hardware, Terrible Software",
-      "excerpt": "I’ve been a huge fan of the Surface devices ever since I first got the original Surface Pro after waiting in line during a snowstorm at the Microsoft ... take up too much cognitive energy ...",
-      "sourceUrl": null,
-      "webUrl": "https://pocketnow.com/microsoft-surface-duo-review",
-      "originalUrl": "https://pocketnow.com/microsoft-surface-duo-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2020/09/SurfaceDuo_AZL3448.jpg",
-          "width": 780,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks.md",
-      "title": "Artificial Intelligence Ranks Moderna And IBM Among Trending Stocks",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified Moderna and IBM among other trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001ebea375c531889c54471%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
-      "publishedDateTime": "2021-05-07T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-cybergangs-connected-to-russian-intelligence-cisa-on-fivehands-scripps-cyber-incident-insecure-routers-ryuk-vs-research.md",
-      "title": "Cybergangs connected to Russian intelligence. CISA on FiveHands. Scripps cyber incident. Insecure routers. Ryuk vs. research.",
-      "excerpt": "Signs of cybergangs' connections to Russian intelligence. CISA analyzes FiveHands. Scripps cyber incident. Insecure routers. Ryuk vs. research.",
-      "sourceUrl": null,
-      "webUrl": "https://thecyberwire.com/newsletters/daily-briefing/10/88",
-      "originalUrl": "https://thecyberwire.com/newsletters/daily-briefing/10/88",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thecyberwire.com/images/social-media/2021/05/cw-briefing-050721.jpg",
-          "width": 2640,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyber Wire",
-        "domain": "thecyberwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-baidu-rolls-out-paid-driverless-taxi-service-autox-completes-100-days-of-robotaxi-service-in-china.md",
-      "title": "Baidu rolls out paid driverless taxi service, AutoX completes 100 days of Robotaxi service in China",
-      "excerpt": "Baidu has commenced paid services for the Apollo Robotaxis in China without a safety driver behind the steering wheel for the first time. The Baidu milestone coincided with another milestone by Alibaba-backed AutoX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
-      "originalUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/baidu-robotaxi.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-tesla-admits-totally-self-driving-cars-likely-arent-happening-in-2021.md",
-      "title": "Tesla admits totally self-driving cars likely aren't happening in 2021",
-      "excerpt": "An Autopilot engineer told California regulators Tesla may not achieve Level 5 autonomy, despite what CEO Elon Musk predicted in January.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-self-driving-cars-elon-musk-california/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-self-driving-cars-elon-musk-california/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/-5LRj4YtyHQ7C5i8Ccr-6OJTotw=/2021/01/27/3847d537-713c-4f4a-8448-d4787dac6172/tesla-model-s-refresh-210-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/",
-      "publishedDateTime": "2021-05-07T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-artificial-intelligence-makes-great-microscopes-better-than-ever.md",
-      "title": "Artificial intelligence makes great microscopes better than ever",
-      "excerpt": "To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy, which makes it possible to image such fast biological processes in 3D.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html",
-      "originalUrl": "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp",
-      "publishedDateTime": "2021-05-07T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,0 +1,61 @@
+---
+category: news
+title: "McDonald's is testing voice recognition software in Chicago for drive-thru orders"
+excerpt: "McDonald's is testing AI systems at 10 locations in Chicago. The technology is taking orders at the drive-thru with 85% accuracy. The company also plans to add robotic fryers in the kitchen."
+publishedDateTime: 2021-06-03T15:08:00Z
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-9648437/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-9648437/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9648437/amp/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9648437/amp/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Daily Mail
+  domain: dailymail.co.uk
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2021/06/03/14/43790581-0-image-a-11_1622727734817.jpg"
+    width: 636
+    height: 382
+    isCached: true
+
+related:
+  - title: "Applying AI Knowledge at McDonald's"
+    excerpt: "Rhett D'souza (MSAI '19) talks about his new role at McDonald's and how his time in Northwestern Engineering's Master of Science in Artificial Intelligence (MSAI) program prepared him for the position."
+    publishedDateTime: 2021-05-31T23:25:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/applying-ai-knowledge-at-mcdonalds.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/applying-ai-knowledge-at-mcdonalds-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What's Next: McDonald’s Customers Order Up BIPA Suit Over Drive-Thru Tech + An Evolution in Ransomware Attacks + A Trial Over AI-Driven Chat"
+    excerpt: "A proposed class action claims McDonald’s voice recognition technology is storing drive-thru customer’s voiceprint biometrics to create a “tailored experience.”"
+    publishedDateTime: 2021-06-02T23:03:00Z
+    webUrl: "https://www.law.com/2021/06/02/whats-next-mcdonalds-customers-order-up-bipa-suit-over-drive-thru-tech-an-evolution-in-ransomware-attacks-a-trial-over-ai-driven-chat/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 2
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2021/06/unnamed.gif"
+        width: 550
+        height: 268
+        isCached: true
+
+secured: "wW0M6dERGFKQuXHmPG1oHVewbAUru3SclzPlZyErJ+z+UNoKfv3e2BGcsfE7DavAGKWVLWJbv1CG8AyPd7gQy/DZVR05OueADXsyT4KZDmr82z3mCE4duY3hetJ5/O+nC5jtOLWzRkO6DHzWEdSM92rk7JbutHZegeiYOok0bt+WadR9luRKCpT9Rpn2BDr489iPLfRgK2q3YeGcGVDFymC8i4jZdoLebHIlkyXzIGxJIrIkSjfxChzFc/e3sNBKDVR/YxwQoHXMRtagQ4KRgvIQ7oQZXmkUCCewobvoCWGrxxNDpJOymE72QnMX9K7KoE6n5RttUOdfz8F0R6IKcbMM3+g5RcbEhv5lyvKHiqg=;K06r3tE/IWHMHbWArmlnsA=="
+---
+

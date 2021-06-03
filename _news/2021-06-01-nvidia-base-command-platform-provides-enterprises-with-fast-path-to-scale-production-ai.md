@@ -166,6 +166,15 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "GIGABYTE Offers More NVIDIA-Certified GPU Servers"
+    excerpt: "GIGABYTE Technology, (TWSE: 2376), a maker of high-performance servers and workstations, today announced additional GIGABYTE servers that have been added to the growing list of NVIDIA-Certified Systems."
+    publishedDateTime: 2021-06-03T14:37:00Z
+    webUrl: "https://insidehpc.com/2021/06/gigabyte-offers-more-nvidia-certified-gpu-servers/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "NVIDIA AI Enterprise Software Drives New Wave of Certified Systems from World's Leading Manufacturers"
     excerpt: "COMPUTEX--NVIDIA today announced dozens of new servers certified to run NVIDIA AI Enterprise software, marking a rapid expans"
     publishedDateTime: 2021-06-01T05:46:00Z

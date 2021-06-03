@@ -42,7 +42,7 @@ related:
   - title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
     excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
     publishedDateTime: 2021-06-02T11:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9381927.htm"
     type: article
     provider:
       name: TMCnet

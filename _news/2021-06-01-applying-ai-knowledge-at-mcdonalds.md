@@ -7,7 +7,7 @@ originalUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/ins
 webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/applying-ai-knowledge-at-mcdonalds.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "McDonald's is testing voice recognition software in Chicago for drive-thru orders"
+    excerpt: "McDonald's is testing AI systems at 10 locations in Chicago. The technology is taking orders at the drive-thru with 85% accuracy. The company also plans to add robotic fryers in the kitchen."
+    publishedDateTime: 2021-06-03T15:08:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9648437/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9648437/amp/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9648437/amp/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 39
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/06/03/14/43790581-0-image-a-11_1622727734817.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "What's Next: McDonald’s Customers Order Up BIPA Suit Over Drive-Thru Tech + An Evolution in Ransomware Attacks + A Trial Over AI-Driven Chat"
     excerpt: "A proposed class action claims McDonald’s voice recognition technology is storing drive-thru customer’s voiceprint biometrics to create a “tailored experience.”"
     publishedDateTime: 2021-06-02T23:03:00Z

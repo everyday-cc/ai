@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-03-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
-      "title": "AWS announces winners of first DeepRacer Women’s League in India",
-      "excerpt": "Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
-      "originalUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canindia.com/epaper/CIFRONT-HOLDER.png",
-          "width": 252,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canindia.com",
-        "domain": "canindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-06-02-interact-with-an-amazon-lex-v2-bot-with-the-aws-cli-aws-sdk-for-python-boto3-and-aws-sdk-for-dotnet.md",
       "title": "Interact with an Amazon Lex V2 bot with the AWS CLI, AWS SDK for Python (Boto3), and AWS SDK for DotNet",
       "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 console and APIs make it easier to build, deploy, and manage bots. The Amazon Lex V2 console and APIs provide a simple information architecture in which the bot intents and slot types are scoped",
@@ -1373,6 +1329,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-pharma-40-must-focus-on-manufacturing-not-just-data-says-ai-firm.md",
+      "title": "Pharma 4.0 must focus on manufacturing, not just data, says AI firm",
+      "excerpt": "Vitalie’s firm specializes in this area using AWS cloud. The science of artificial intelligence in life sciences is ripe for exploiting, the entrepreneur reckons. “If you look at manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/05/19/pharma-4-0-must-focus-on-manufacturing-not-just-data-says-ai-firm-awsshowcase2q21/",
+      "originalUrl": "https://siliconangle.com/2021/05/19/pharma-4-0-must-focus-on-manufacturing-not-just-data-says-ai-firm-awsshowcase2q21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/John-Vitalie-CC-AWS-Startup-Showcase-2021.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

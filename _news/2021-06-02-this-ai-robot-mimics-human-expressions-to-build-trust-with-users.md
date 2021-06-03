@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-robot-mimics-human-expressions-to-g
 webUrl: "https://thenextweb.com/news/ai-robot-mimics-human-expressions-to-gain-trust-improve-human-robot-interactions"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Watch: Robot can mimic human facial expressions"
+    excerpt: "Facial expressions play a huge role in building trust for humans. With the rapidly increasing use of robots to interact with humans, robots need to become more expressive and facially realistic to build trust."
+    publishedDateTime: 2021-06-03T14:41:00Z
+    webUrl: "https://insights.globalspec.com/article/16701/watch-robot-can-mimic-human-facial-expressions"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
   - title: "Smile like you mean it! Scientists develop an eerily human-like robot head with a 'soft and expressive face' that mimics the expressions of people around it"
     excerpt: "Eva is a new autonomous robot with a soft and expressive blue face, developed by researchers at Columbia University in New York."
     publishedDateTime: 2021-06-01T09:16:00Z

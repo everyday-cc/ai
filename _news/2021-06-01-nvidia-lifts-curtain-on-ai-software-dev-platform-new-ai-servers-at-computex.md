@@ -162,6 +162,15 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "GIGABYTE Offers More NVIDIA-Certified GPU Servers"
+    excerpt: "GIGABYTE Technology, (TWSE: 2376), a maker of high-performance servers and workstations, today announced additional GIGABYTE servers that have been added to the growing list of NVIDIA-Certified Systems."
+    publishedDateTime: 2021-06-03T14:37:00Z
+    webUrl: "https://insidehpc.com/2021/06/gigabyte-offers-more-nvidia-certified-gpu-servers/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "NVIDIA Base Command Platform Provides Enterprises with Fast Path to Scale Production AI"
     excerpt: "COMPUTEX -- NVIDIA today unveiled NVIDIA ® Base Command™ Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
     publishedDateTime: 2021-06-01T05:55:00Z
