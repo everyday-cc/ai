@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-20-future-with-all-challenges-and-opportunity-of-natural-language-processing-market.md",
+      "title": "Future with all challenges and opportunity of Natural Language Processing Market",
+      "excerpt": "The most important of these discoveries was that of natural language processing, which turned out to the most sought after technological and linguistic advancement in the world. In the 1900s, a professor at the University of Geneva,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/20/future-with-all-challenges-and-opportunity-of-natural-language-processing-market/",
+      "originalUrl": "https://ksusentinel.com/2021/05/20/future-with-all-challenges-and-opportunity-of-natural-language-processing-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-New-Report-27.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation.md",
       "title": "IBM Think 2021: AI, Automation, Hybrid Cloud and Practical Innovation",
       "excerpt": "Takeaways from IBM Think 2021? The company is focused on helping enterprise customers and partners survive the challenges of the Covid-19 pandemic and prepare them to thrive as business and daily life resumes.",
@@ -1445,59 +1488,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-your-face-voice-and-fingerprints-could-defend-you-against-banking-scams.md",
-      "title": "Your face, voice, and fingerprints could defend you against banking scams",
-      "excerpt": "Daphné Leprince-Ringuet tells Karen Roby that HSBC says that it prevented hundreds of millions of dollars from falling prey to hackers, simply thanks to voice recognition technology. Read more:",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
-      "originalUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/11/8104b7ae-9d38-43cb-8ac5-84137f5d6e35/thumbnail/770x578/be84cecb7e419c7da08de55941d1cefc/20210510-daphne-karen-bio.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

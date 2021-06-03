@@ -33,6 +33,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
+    excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
+    publishedDateTime: 2021-05-30T16:23:00Z
+    webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 42
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Global Education and Learning Analytics Market Report 2021-2027"
+    excerpt: "The \"Education and Learning Analytics Market by Component, Deployment, Applications (Acquisition and Retention,"
+    publishedDateTime: 2021-06-03T08:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21403802/global-education-and-learning-analytics-market-report-2021-2027"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21403802"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21403802"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
   - title: "FinTech Blockchain Market Worth $36.04 Billion by 2028- Exclusive Report by Meticulous Research®"
     excerpt: "According to a new market research report titled, \"FinTech Blockchain Market by Application (Payments, Clearing, &"
     publishedDateTime: 2021-06-02T10:11:00Z

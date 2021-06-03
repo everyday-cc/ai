@@ -3,8 +3,8 @@ category: news
 title: "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment"
 excerpt: "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,"
 publishedDateTime: 2021-06-02T14:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
 type: article
 quality: 21
 heat: -1
@@ -28,6 +28,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "EdgeCortix Collaborates with Cadence to Accelerate AI Chip Design"
+    excerpt: "Cadence today announced that EdgeCortix has deployed multiple Cadence® verification and digital tools to accelerate the design and verification of its edge AI chips."
+    publishedDateTime: 2021-06-03T09:21:00Z
+    webUrl: "https://www.design-reuse.com/news/50090/edgecortix-cadence-ai-chip-design.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
   - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that it is expanding its collaboration with TSMC to accelerate mobile, AI and hyperscale computing application design using the integrated Cadence® digital flow and custom/analog tool suite on TSMC’s N3 and N4 process technologies."
     publishedDateTime: 2021-05-31T06:55:00Z
@@ -47,6 +56,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "ELYHW+LMMy5u8877gWha5TDMWBAXjT7zKATFRq0Tdb7ZS22ga2pDs5rKugJROuwvfQfnDxEIb1kzcl6Bd0UqXtb4wETsc6y5njFI6B6b8EQC5/I5KEsrYYyxnv/laxacDvSnyID6EM6s6UqIbw9T23OMLLbavMI9R8TVnAxGOySbyhPfdBYDXfT8sc1gVl/GwghanYysQCcbgZH39aGht4PHETUnvfGyNEDD5qakw067PKAwlNcaVcp/z7E1cj7mxgAx5m8kTyJcLyeKqLzdq4R64JNXm71eUm0l3tsPzhlEMoOZEh9Ra2WVawu6RS9/1Fb/Y9G7q111NSMRA4TxLfwA2uitXBuR2E2Y3EhcVQc=;43X+RBkmFWrgaMoz1rHDGQ=="
+secured: "19ClkSQuGAf+ZT/rCYPGF31mBmUz5wbAZLLELIPI9Lzd0GQkpRkA+5qkjK9p12T29nNc5uwRhYSeNb3uNrdxJ7A6PndYtWlCSlBOAqFJJPNok1q7MtCZWLpOp6UZ2fMBy2TOByLuxrRck8nZ+hKnPTTvKzKdBYRwIwiXsKZjEkttA1xe9KMgrXPFgl/RO7B7l/dtoJB9vCZTpwojQUKYHOuzSvTF8u7doKUFVLRPPbhptvLVO199+d6lVPvFkWpv/v04EANy7rv4GRc2XDFzAaK2jWvu6wJ0P595ZeGcxM9HwAjHJytCWH9pk1Dsds0BE9EEWXfWVt3g+7Za6d/bfX0mm7agRLMTo9In7iodrAQ=;/KKRHO6SlXGlyK1xeeNQFw=="
 ---
 

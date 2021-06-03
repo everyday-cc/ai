@@ -64,6 +64,22 @@ related:
         width: 777
         height: 437
         isCached: true
+  - title: "MIT Engineers Create a Programmable Digital Fiber – With Memory, Sensors, and AI"
+    excerpt: "In a first, the digital fiber contains memory, temperature sensors, and a trained neural network program for inferring physical activity. MIT researchers have created the first fiber with digital capabilities,"
+    publishedDateTime: 2021-06-03T09:03:00Z
+    webUrl: "https://scitechdaily.com/mit-engineers-create-a-programmable-digital-fiber-with-memory-sensors-and-ai/"
+    ampWebUrl: "https://scitechdaily.com/mit-engineers-create-a-programmable-digital-fiber-with-memory-sensors-and-ai/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mit-engineers-create-a-programmable-digital-fiber-with-memory-sensors-and-ai/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 54
+    images:
+      - url: "https://scitechdaily.com/images/Digital-Fibers-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
 
 secured: "khmwnWi6TcQLXfc6z1bq73X01r5OoRxNNohuPvf5mAJ/dBCImriYuJmyrKpTURPjDUyWzy4eY1LLM0DmPtMlPuXsQksjY1HI4tPgUuHV4XEOcW1X5BQYwsuvPgsCuCqzHOYGvf2m0LrMhF5L1PEfdhDU4T6OyUNjFH0IlxEC1Wd6bLQ+v7twoMXwyEQ89wgMLPKBJOm3vnJ0yVA/v9hQ7dDdjuo33p9wdN7N5EvpkceF8BvRTXpUasqKigQnrJkbngO622YQNd6zs9ZJtgTwD/SAu1WI7KzL06mj+2h6sNtaLIFeAc0V1WxFVTB1lM9ENCTk7k9w8DDOjmpNgU/hDMIbS2DZzSseu81eYyaGNqBRg2c+95GEpkOIrfV4Yp0YnPkzrMEujP2ZIUM7hfaQdGB/kbG2KbJPpgSnPNmpp5AtHDwe2uWvUKnyJ6ykMCCjf7569hqEnxM9kDsCYhuwC/o6KrcccwOhBh1RdfvDSJdoKR1W/w2aWAkCST9F+JlIN7K0s5dftrep5y6yE96GCA==;UaFdX3afvnhLRVWej/gEmw=="
 ---

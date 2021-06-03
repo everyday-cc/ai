@@ -212,6 +212,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-29-why-natural-language-processing-is-ais-jewel-in-the-crown.md",
+      "title": "Why natural language processing is AI’s jewel in the crown",
+      "excerpt": "As we enter the intelligent era, smart devices and data volumes will skyrocket, as will the demand for human-computer interaction through speech and language - that's why it will be a US$16 billion market by 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huawei.com/my/technology-insights/publications/winwin/33/why-natural-language-processing-is-AIs-jewel-in-the-crown",
+      "originalUrl": "https://www.huawei.com/my/technology-insights/publications/winwin/33/why-natural-language-processing-is-AIs-jewel-in-the-crown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/33/liuqun-natural-language-process-l.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-29T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Huawei",
+        "domain": "huawei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-india-will-see-breakthrough-application-of-ai.md",
       "title": "India will see breakthrough application of AI",
       "excerpt": "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom",
@@ -361,10 +404,10 @@
     {
       "path": "_news/2021-05-27-lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams.md",
       "title": "Lead Semantics Selects Fluree for TextDistil, a Secure Natural Language Processing Pipeline for Enterprise Data Management Teams",
-      "excerpt": "Fluree and Lead Semantics, two North Carolina technology companies, announce TextDistil for enterprise data teams building data fabrics and knowledge graphs TextDistil’s rules-powered neural language pipeline,",
+      "excerpt": "Lead Semantics' natural language processing (NLP) technology, powered by Fluree's semantic graph database, will help convert unstructured data assets (including text) into semantic-capable enterprise knowledge.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/27/9379139.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/27/9379139.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -374,11 +417,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T04:00:00-07:00",
+      "publishedDateTime": "2021-05-27T04:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1379,49 +1422,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-future-with-all-challenges-and-opportunity-of-natural-language-processing-market.md",
-      "title": "Future with all challenges and opportunity of Natural Language Processing Market",
-      "excerpt": "The most important of these discoveries was that of natural language processing, which turned out to the most sought after technological and linguistic advancement in the world. In the 1900s, a professor at the University of Geneva,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/20/future-with-all-challenges-and-opportunity-of-natural-language-processing-market/",
-      "originalUrl": "https://ksusentinel.com/2021/05/20/future-with-all-challenges-and-opportunity-of-natural-language-processing-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-New-Report-27.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

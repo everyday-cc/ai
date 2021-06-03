@@ -2,58 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-05-18-sas-flexes-ai-ambitions-with-viya-platform-expansion.md",
-      "title": "SAS flexes AI ambitions with Viya platform expansion",
-      "excerpt": "SAS today announced an expansion for its SAS Viya platform, which is used for analyzing data and building AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/vivian-sas-itrc-chatbot.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/amp/",
-      "publishedDateTime": "2021-05-18T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-18-teslas-full-self-driving-under-review-in-us.md",
       "title": "Tesla’s ‘Full Self-Driving’ under review in U.S.",
       "excerpt": "Tesla advertises a $10,000 “Full Self-Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. CEO Elon Musk has said he ...",
@@ -1167,6 +1115,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
+      "title": "Google Vertex AI unifies cloud machine learning toolkit",
+      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "publishedDateTime": "2021-05-17T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
