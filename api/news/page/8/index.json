@@ -2,6 +2,179 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-26-driverless-cars-hitting-streets-of-fremont-milpitas-irvine.md",
+      "title": "Driverless cars hitting streets of Fremont, Milpitas, Irvine",
+      "excerpt": "The company, which was founded in Fremont in 2016 by James Peng and Tiancheng Lou, both formerly of Baidu and Google, has been testing cars equipped with its self-driving technology suite since 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "originalUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&h=452",
+          "width": 680,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "publishedDateTime": "2021-05-26T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-the-worlds-smallest-fruit-picker-controlled-by-artificial-intelligence.md",
+      "title": "The world's smallest fruit picker controlled by artificial intelligence",
+      "excerpt": "The goal of Kaare Hartvig Jensen, Associate Professor at DTU Physics, was to reduce the need for harvesting, transporting, and processing crops for the production of biofuels, pharmaceuticals, and other products.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.html",
+      "originalUrl": "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/the-worlds-smallest-fr.jpg",
+          "width": 1440,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-world-smallest-fruit-picker-artificial.amp",
+      "publishedDateTime": "2021-05-26T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot.md",
+      "title": "Tesla Model 3, Model Y Ditch Radar To Adopt Camera-Based 'Tesla Vision' For Autopilot",
+      "excerpt": "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "originalUrl": "https://hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/55210/content/tesla_model_3_news.jpg",
+          "width": 708,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "publishedDateTime": "2021-05-26T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
+      "title": "Research team improves fetal heart defect detection using machine learning",
+      "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg",
+          "width": 1920,
+          "height": 1289,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
+      "publishedDateTime": "2021-05-26T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny.md",
       "title": "Tesla drops radar from lower-priced cars amid ‘self-driving’ scrutiny",
       "excerpt": "Tesla said it is dropping radar systems in its lower-priced electric cars in favor of cameras and other AI equipment — even as the company faces growing scrutiny over its “autonomous",
@@ -174,6 +347,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
+      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
+      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning.md",
       "title": "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning",
       "excerpt": "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,",
@@ -209,35 +416,26 @@
       ]
     },
     {
-      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
-      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
-      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning,",
+      "path": "_news/2021-05-26-kms-lighthouse-now-available-in-microsoft-azure-marketplace.md",
+      "title": "KMS Lighthouse Now Available in Microsoft Azure Marketplace",
+      "excerpt": "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-301299487.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-301299487.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T06:00:00-07:00",
+      "publishedDateTime": "2021-05-26T05:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -247,7 +445,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -293,49 +491,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-kms-lighthouse-now-available-in-microsoft-azure-marketplace.md",
-      "title": "KMS Lighthouse Now Available in Microsoft Azure Marketplace",
-      "excerpt": "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -923,201 +1078,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tesla-aspires-to-become-a-robotics-firm-in-artificial-intelligence.md",
-      "title": "Tesla aspires to become a robotics firm in Artificial Intelligence",
-      "excerpt": "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372898",
-      "originalUrl": "https://www.entrepreneur.com/article/372898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621967000-tesla.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372898",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372898",
-      "publishedDateTime": "2021-05-25T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void.md",
-      "title": "One year after Amazon, Microsoft and IBM ended facial recognition sales to police, smaller players fill void",
-      "excerpt": "Dozens of smaller facial recognition companies have taken over for Amazon, IBM and Microsoft in providing police departments with tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "originalUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "publishedDateTime": "2021-05-25T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-abu-dhabi-boosts-digital-economy-capabilities-with-upcoming-aws-region.md",
-      "title": "Abu Dhabi Boosts Digital Economy Capabilities with Upcoming AWS Region",
-      "excerpt": "Abu Dhabi’s digital economy will be boosted through the launch of Amazon Web Services’ (AWS) cloud infrastructure region in the UAE, as part of the Abu",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
-      "originalUrl": "https://www.albawaba.com/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-05/Photo%20of%20H.E.%20Dr.%20Tariq%20Bin%20Hendi%2C%20Director%20General%2C%20ADIO.jpg?itok=j6eX-2hN",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
-      "publishedDateTime": "2021-05-25T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker.md",
-      "title": "How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker",
-      "excerpt": "In this post, we present the results of a model serving experiment made by Contentsquare scientists with an innovative DL model trained to analyze HTML documents. We show how the Amazon SageMaker TensorFlow Serving solution helped Contentsquare address several serving challenges. Contentsquare’s challenge",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-SageMaker-TensorFlow-endpoint-option.jpg",
-          "width": 700,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T18:21:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

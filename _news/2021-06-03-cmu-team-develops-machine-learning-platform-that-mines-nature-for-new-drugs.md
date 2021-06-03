@@ -41,6 +41,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Machine learning platform mines nature for new drugs"
+    excerpt: "Researchers have developed a new process using machine learning algorithms to match the signals of a microbe's metabolites with its genomic signals and identify which likely correspond to a natural product."
+    publishedDateTime: 2021-06-02T22:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210602153420.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "J+aiASF8mIr6yyjcxkfsrkZ/VXoGyZ8Ns15szNNPVO28/KK/R5GqSWTWg8PYKShA0iLnmssOI5TIONPMcE97Cd7SNfjQGHtLmSX+QTAcKF4yTD8m+VUkTm/ZVR/lwWqyuuh+zlBh+kRMMtDnqYWPVu8qZPbO07ajOoW14ty2Db3dLvZNKAt798mAs3M5gDRiRR0fur/mKntLGsZJqiRFst/3unLupuW7BuIVUKOZKLHVnBIzj3XTHiJenLAk6kmgvb3c2Xnu8yeWbYDlYBk9x7FQfn/2sLZM4KgFKy5eBPtK3vYqQxTmOqKW/T4zd1xpNOQA2qaP9yNdXuUFaCVoFviS9BWDPVhu7OZY6bJpVEk=;lb1HYeh9qAI/P+fIeEZRRw=="
 ---

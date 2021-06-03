@@ -69,6 +69,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple loses many top managers from self-driving car division"
+    excerpt: "Apple Inc has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
+    publishedDateTime: 2021-06-02T21:26:00Z
+    webUrl: "https://www.gulf-times.com/story/693036/Apple-loses-many-top-managers-from-self-driving-ca"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 24
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/62021302625161496485.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Apple's self-driving car division has lost 3 top managers this year"
     excerpt: "The departures from Apple's car team come as it is reportedly aiming to produce a self-driving passenger vehicle in 2024 with a game-changing battery of its own device."
     publishedDateTime: 2021-06-02T19:30:00Z

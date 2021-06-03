@@ -1,0 +1,44 @@
+---
+category: news
+title: "What's Next: McDonald’s Customers Order Up BIPA Suit Over Drive-Thru Tech + An Evolution in Ransomware Attacks + A Trial Over AI-Driven Chat"
+excerpt: "A proposed class action claims McDonald’s voice recognition technology is storing drive-thru customer’s voiceprint biometrics to create a “tailored experience.”"
+publishedDateTime: 2021-06-02T23:03:00Z
+originalUrl: "https://www.law.com/2021/06/02/whats-next-mcdonalds-customers-order-up-bipa-suit-over-drive-thru-tech-an-evolution-in-ransomware-attacks-a-trial-over-ai-driven-chat/"
+webUrl: "https://www.law.com/2021/06/02/whats-next-mcdonalds-customers-order-up-bipa-suit-over-drive-thru-tech-an-evolution-in-ransomware-attacks-a-trial-over-ai-driven-chat/"
+type: article
+quality: 2
+heat: -1
+published: false
+
+provider:
+  name: Law
+  domain: law.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.law.com/contrib/content/uploads/sites/292/2021/06/unnamed.gif"
+    width: 550
+    height: 268
+    isCached: true
+
+related:
+  - title: "Applying AI Knowledge at McDonald's"
+    excerpt: "Rhett D'souza (MSAI '19) talks about his new role at McDonald's and how his time in Northwestern Engineering's Master of Science in Artificial Intelligence (MSAI) program prepared him for the position."
+    publishedDateTime: 2021-05-31T23:25:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/applying-ai-knowledge-at-mcdonalds.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/applying-ai-knowledge-at-mcdonalds-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "08IcRser8RHIg9EwmeZrIcYv8MjrxMMFr8ob11+MEBwWpgj076z+H5tQKfnOC2bcGxyxZczP+YBv28GF83Tcv0hv79TaNKRIdMRz/Z8WEtscLLTxlssH5R+dd/BXMsTJs9rFzx2egD544eNroi1nsVO7k7cybr0K+OowwCPo55M9PQ3CXqg+dHZnxeq6LHFFcjAui7VERa1VwT6cLOqSYz3/Rjzh5Y5PcZP/0x6ywvWa4KTuQ5bE1m2dbaBXxNwrg+HNzK1LzAGwSeolhzl5EZiJl2B+wcaM8dLUP2c0NwFtwYNCPSBp4Ofgky0/fi9AHmTHMZwS+VJ1EbU9aMaok15lnXL7R4W8vzK509rk2QI=;ufcay75+//sWSxURtF+6XQ=="
+---
+

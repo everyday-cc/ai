@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Lead Semantics Selects Fluree for TextDistil, a Secure Natural Language Processing Pipeline for Enterprise Data Management Teams"
-excerpt: "Fluree and Lead Semantics, two North Carolina technology companies, announce TextDistil for enterprise data teams building data fabrics and knowledge graphs TextDistil’s rules-powered neural language pipeline,"
-publishedDateTime: 2021-05-27T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams"
-webUrl: "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams"
+excerpt: "Lead Semantics' natural language processing (NLP) technology, powered by Fluree's semantic graph database, will help convert unstructured data assets (including text) into semantic-capable enterprise knowledge."
+publishedDateTime: 2021-05-27T11:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-lead-semantics-selects-fluree-textdistil-secure-natural-language-/2021/05/27/9379139.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-lead-semantics-selects-fluree-textdistil-secure-natural-language-/2021/05/27/9379139.htm"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "gnPR8gX/RSDJu7EWJXKz3NmDsnnXKP5A5+uNcTUb6gabFzktBta6ron2xVH8NWfegLOWHaFty4uf/8CayPVdnrT5BiCrDMkMWI17ZU6vjQI1hGt0RMwAZOAUg6W5lW6BT6ARoM3cJasVtnysMSVbsUpZpK++gdKKFMroydayOS+ugP1hxOT42lobA2WzXkNXMVykT0BAQ5RM0z2ubScI0uQN6qB0C3RzS7Gx/JhJc4P6H6H6YrFvCq6fSMOKfMlkimBXKBsPREQs9qCxso6B/Tth99SCOOd8airji6F705Z51ekWt4YP3gQ4tDjcbleQJXr6eA147r4HUIm3UvGhtjUbBkzGMZjig/jT8SuqV30=;AW6ttBMhXJDili2vEYeG4w=="
+secured: "hu7ebi4z/B0OUrOb0d76anNYwhNay76lMmgOh7P46NLB5aggNtnmvGqGfPqseZFP/ULnks7XwcD5SfqxQt8/SglqoQisOrvWQigx8KGX+eWdHIUPdVFKQ7a4mCjSWqzOS9f2VCuf/swn4WCAVwHzrtsDjnVo9gim7gD1Fcw0MxG2rd9fTzOURuJuNa8z5N2NcT/tsAfua8vpFg9rc9DWVtNABIg/uy+wI5TK5dU66lAFeDT1QQNyFz27NW8FpnpuBRrKoANxrXUSLGzEFAZ7I/4lSBlcjpPheiCcwzSvcaCeQVWPyzFtLyMjvxqa/5VeoTBkMzxHJ5+FsDzkAOd5QHevTv3oLqnjVgENlAtGbsg=;YKtK4tVEJIR2APd95YHBkQ=="
 ---
 

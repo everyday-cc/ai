@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-researchers-fine-tune-control-over-ai-image-generation.md",
+      "title": "Researchers fine-tune control over AI image generation",
+      "excerpt": "Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-06-fine-tune-ai-image.html",
+      "originalUrl": "https://techxplore.com/news/2021-06-fine-tune-ai-image.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-fine-tune.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-06-fine-tune-ai-image.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-fine-tune-ai-image.amp",
+      "publishedDateTime": "2021-06-01T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-nvidia-continues-to-evolve-from-chips-to-software-to-ai-data-centers.md",
       "title": "NVIDIA Continues To Evolve, From Chips To Software To AI Data Centers",
       "excerpt": "At Computex, new Base Command platform, expanded NVIDIA Certified program, and significant traction for DGX Servers NVIDIA made several announcements this week at the annual Computex conference in Taiwan,",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1429,49 +1472,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better.md",
-      "title": "Google AI advancements: next gen AI chips and LaMDA to make AI conversations better",
-      "excerpt": "Google has announced two major advancements in the field of AI-v4 TPUs and the LaMBDA model for more natural AI conversations.",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/",
-      "originalUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2021/05/Screenshot-201-e1621363561223.png",
-          "width": 687,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/?amp",
-      "publishedDateTime": "2021-05-18T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

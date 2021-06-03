@@ -132,6 +132,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA leads journey to AI-Infused Industrial Edge with AI-powered technologies"
+    excerpt: "Computex is recognized as the world’s largest tech conference focused on the IT and IoT industry.  This year Computex invited Jerry Chen, head of Global Business Development for NVIDIA’s Manufacturing and Industrial Business,"
+    publishedDateTime: 2021-06-02T08:48:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-leads-ai-infused-industrial-edge/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 35
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/06/Jerry-Chen-Keynote-2.jpg?resize=640%2C352&#038;ssl=1"
+        width: 640
+        height: 352
+        isCached: true
   - title: "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI"
     excerpt: "Kao Data, the specialist developer and operator of advanced, carrier neutral data centres for high performance colocation, has today announced it has become NVIDIA DGX-Ready Data Center certified. This step further reinforces its capabilities as a world-class data centre operator and highlights its expertise in delivering customised architectures for high-performance computing (HPC),"
     publishedDateTime: 2021-06-01T15:47:00Z

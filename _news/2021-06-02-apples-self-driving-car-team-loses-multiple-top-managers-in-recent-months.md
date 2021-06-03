@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Semi-Truck Completes 950-Mile Delivery 10 Hours Faster Than a Human Trucker Could"
+    excerpt: "Trucking can be a tough job, with long hours and huge distances to cover. It's a field ripe for automation, as self-driving vehicles could potentially travel further and faster without the need to take regular rest breaks for safety reasons. Several ..."
+    publishedDateTime: 2021-06-02T23:46:00Z
+    webUrl: "https://www.thedrive.com/news/40899/self-driving-semi-truck-completes-950-mile-delivery-10-hours-faster-than-a-human-trucker-could"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 12
+    images:
+      - url: "https://www.thedrive.com/content/2021/06/tusimplerun.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "dIwdhU76ClTXcu8uuPge+VGIEaSInjln2ZM3Hk5pMO5CB/HgB/Rs4mOhA4v21Z1EsbKUSrT8rv2r/2Bk3ArUso/3KeF0c93mWB5RD5xNhGFWHxLrF/tR7LzvlIr+uKU777AJHVCS/O03z9Iue3aYAZ38QgEPsq0jOPSpEkJ2jqSc83yTsk3kXV+6wt9AMxKtQsARKS2xUVm4gd4gocmol6u54EOUOEkzELoSZIr27n7uabRiw7XVxJNBmQ6SuhJomTrHTIVSIxze9CUWdBxZhdXxNbSDHVJLTKco6nWcaYkVNlTKacilETXlH9J81To1MAUt2qvUtgTV33N4wvb7sZmSYkZG51kLGOnoyzztJUo=;S6tNlh89uiYKTfrFeIwIWA=="
 ---

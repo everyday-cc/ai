@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-20-carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial-intelligence-as-a-service.md",
+      "title": "Carestream Selects HPE GreenLake to Transform Healthcare Platform Using Artificial Intelligence as a Service",
+      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19816657.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19816657.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-harvard-medtech-names-monica-mohring-as-vice-president-of-market-partnerships.md",
       "title": "Harvard MedTech Names Monica Mohring as Vice President of Market Partnerships",
       "excerpt": "Harvard MedTech, a breakthrough digital health company dedicated to healing trauma through a proprietary blend of virtual reality, artificial intelligence and behavioral interventions, announced today the appointment of Monica Mohring as Vice President of Market Partnerships.",
@@ -1291,58 +1334,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-ai-is-ready-to-take-on-a-massive-healthcare-challenge.md",
-      "title": "AI is ready to take on a massive healthcare challenge",
-      "excerpt": "Shortening the diagnostic journey and reducing the associated costs was, until recently, a moonshot challenge, but is now within reach. Technology and AI advances are combining to make genetic testing accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-482179767.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

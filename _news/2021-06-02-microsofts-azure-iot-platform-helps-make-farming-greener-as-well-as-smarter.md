@@ -177,13 +177,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Available in the Microsoft Azure Marketplace. Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage"
-    publishedDateTime: 2021-06-01T08:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210601005063/dataiku-now-available-in-the-microsoft-azure-marketplace"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -219,6 +219,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 22
+  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
+    publishedDateTime: 2021-06-02T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
 
 secured: "1rsiwdlGJx/ZGNFBbfr7Q+rDx8j+mt6EMw7Ua6YxD1Z7akc2B2P1ELPwH0JdVdBLts7hokM0/sBsElsQg2puGPyu9JsMiWdB5yDcFE7ljoSwti6+OaDI3fS1R5/zCZ2+Oh29m3tIY3hLMWQ8SulJHqxwpmTyx+6k3BdZUtUrERHAsTYa8gzh17GB0QnNYpf3YrFurk/Gn8iAQsSV3NW6jQU5XsEf8TeCtcZW+aQY2JLGTHbgxlzslITMitNkr3XsvvbIEsv11XBCCX6MX/I5+257xWLZ6xJ6Zu/ny2N9BLzxqNQRL0kcMoY3CxFtqzVqWoQaxFAkzdLbYCqcvyJMqxxXwx9Q8ccUFomFhIw98Xs=;lFGI3yGbtI7k0j18Fpy03g=="
 ---

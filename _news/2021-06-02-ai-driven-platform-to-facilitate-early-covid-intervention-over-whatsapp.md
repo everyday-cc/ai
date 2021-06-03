@@ -241,7 +241,7 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
-    quality: 5
+    quality: 7
 
 secured: "ZGN2o2NygFVFtNboQAxI+FTXfzSTomrb0WJL7cI2hZJbj1GGX+UEEIjKGtFACQVm+FD5pcl7a1ACPwvFAR2Mp2A/YFHwSaIMa4ULLxEpIeOhgvDAIjQByextczNY+CR8qEOntl02tC8h3SPG6R63IhZQT/5mRqo5PvjzWZA95ynAhOccjLpzIYcvS9DvgkWgSji9x/iHjzV+XHSf6ZHBj9bK9Ec07DgtmyRdSNX4YcGsltoC6PSboJvW/EZNed6nuAdenja1EeveNItbLmpMxrN28hvJ6vUKUl32r4b0cBvLQyskkBAa0A/q5YlTEuwFWowm0zRObVr6phblbfS1jFC1RHfDtkVdgROZUjsTETS7G+sTnsNnSTaWa+upZXZlpB0KDZ5FiraeH9JhtEtNiG+XyYSh3zP1Y++1Jtvq7csjtekyaKq/UyrbtrbYWdLFP5Rv8NFTpU90HmtCA9kWE00pAF73ye3CqaP2XmkUnVDnc8f8WMceXfCUQL6f9dufr3yKBvjZ0xKSVBTrpbOXUg==;eT5rYD/FH0O+gwyKjrhiKw=="
 ---

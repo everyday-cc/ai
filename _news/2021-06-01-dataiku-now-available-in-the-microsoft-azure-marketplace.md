@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Available in the Microsoft Azure Marketplace. Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage"
-publishedDateTime: 2021-06-01T08:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210601005063/dataiku-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/business-wire/20210601005063/dataiku-now-available-in-the-microsoft-azure-marketplace"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -214,7 +214,16 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 22
+  - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
+    excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
+    publishedDateTime: 2021-06-02T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amesite-launches-remote-upskilling-courses-on-microsoft-azure-in-partnership-with-wayne-state-university/article_54e0d8a6-efbd-5f18-9291-5ec3685dcf89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
 
-secured: "Bc6djvYqr8a4Z7qLTgWILueT/8tPMLj5rhfy29GwD/ElnnzqCXm9JYrXV0NCEq/9ZvNbwojC9jTA6Rx3XiCs+A+4SVm3S4AJEWlxNW9hZYSvVq9yeEip+UASy6B8X/IGKYYkX6U7Z2h4xiionG/VgG0o0VqxERNb1goktD7/eBdtrsajYHgvRfdp79AgdVfurhc3hhvTz0ywNT/3cQQl45SCBSRLVutyKuxyox/hpPlsjoaTw0Hzr32QNiCcCO04IYfwI2jP136Ib0sSQFmUpA9vIRBlG7pm2JYvfboUQNmvxPu1jdxz1NKLDl07qyTJ3h3Xh1js5w34/x5xman81v7Oj23cXV8dtzIPrxRkB24=;N9w3QNeOQEKHQtRSTcWA4A=="
+secured: "fgqk7FhzDuNkgtu6GQYokcJJyyKwW4CAL62QEG6ICdT/+1+SvlGVdDhTUJJW4SofOmCzAxXR4vaYbaOmYy/Sm0anR8jzCO1n2iztSEpNqWefbkoUGTj88jg748u5PpaYjRbSm2yo0mTAS4gLzVsP/orVT0/Q0Svrbi+83sqtTFqu/8f+/KnePWjWWmhBcM47Smr7cTWq1nECnPTSK1QDPl8jlKMIMJYD3+lpaByAOSAlQbGh61E+3lpGVEV9/sw+/NlxHZT9BoR4G/9rk5tn5ayGtcvTt9ivxW8hAsY0oXNFFfw28ReywV4Kyfux6QTQ7eXT0/HIOPsYo+jOItbv1ySWhj5DDT5uz3zzBKzBTmc=;RrUg3z9t48b5pU68Pj8sLg=="
 ---
 

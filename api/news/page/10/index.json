@@ -2,6 +2,188 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-25-gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer.md",
+      "title": "GNS to Develop the World's First in silico Patient For Prostate Cancer",
+      "excerpt": "GNS Healthcare, an artificial intelligence company creating in silico patients that simulate drug treatment at the individual patient level, today announced plans to",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer/article_15897f49-4587-55d8-9e3d-5b54e312884f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer/article_15897f49-4587-55d8-9e3d-5b54e312884f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-taipei-based-computer-vision-startup-eys3d-gets-7m-series-a.md",
+      "title": "Taipei-based computer vision startup eYs3D gets $7M Series A",
+      "excerpt": "Ys3D Microelectronics, a fabless design house that focuses on end-to-end software and hardware systems for computer vision technology, has raised a $7 million Series A. Participants included ARM IoT Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/eYs3D1.png?w=1024",
+          "width": 1024,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/",
+      "publishedDateTime": "2021-05-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings.md",
+      "title": "Solid Gaming, Data-Center Demand to Aid NVIDIA (NVDA) Q1 Earnings",
+      "excerpt": "NVIDIA Corporation’s NVDA first-quarter fiscal 2022 results, scheduled for a May 26 release, are likely to reflect benefits of stellar demand for chips used in gaming, cloud com",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings-2021-05-25",
+      "originalUrl": "https://www.nasdaq.com/articles/solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings-2021-05-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings-2021-05-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/solid-gaming-data-center-demand-to-aid-nvidia-nvda-q1-earnings-2021-05-25?amp",
+      "publishedDateTime": "2021-05-25T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m.md",
+      "title": "Security startup Tessian, which uses AI to fight social engineering, trousers $65M",
+      "excerpt": "In the latest chunky funding round out of Europe, UK-based email security startup, Tessian, has closed $65 million in Series C funding. The startup applies machine learning to build individual behavior models for enterprise email use that aims to combat human error by flagging problematic patterns",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/",
+      "originalUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/06/Tessian-Co-founders-L-R-Tim-Sadler-CEO_-Ed-Bishop-CTO_-Tom-Adams-Head-of-Client-side-engineering.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/amp/",
+      "publishedDateTime": "2021-05-25T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-rsa-2021-can-artificial-intelligence-play-a-role-in-cybersecurity.md",
       "title": "RSA 2021: Can Artificial Intelligence Play a Role in Cybersecurity?",
       "excerpt": "AI is becoming an increasingly common tool to defend against cyberattacks. But is it being employed by cybercriminals as well? AT RSA 2021, we spoke with thought leaders about the use of AI in both offensive and defensive tactics.",
@@ -1012,196 +1194,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-the-missing-vaccine-in-the-pandemic-how-the-shortage-of-emotional-intelligence-is-driving-everyone-crazy.md",
-      "title": "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy",
-      "excerpt": "The result is the modern epidemic of low emotional intelligence: in many cases, we do not know how to read others, we do not know when to listen, or we do not know how to communicate with people who are different from us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php",
-      "originalUrl": "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/20/16/70/21032496/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
-      "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
-      "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/",
-      "originalUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/amp/",
-      "publishedDateTime": "2021-05-24T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-firefliesai-puts-14m-into-its-ai-videoconferencing-assistant.md",
-      "title": "Fireflies.ai puts $14M into its AI videoconferencing assistant",
-      "excerpt": "Fireflies.ai, an AI-powered videoconference note-taking tool, has raised $14 million in a series A funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/",
-      "originalUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Copy-of-FoundersPicJ219-1.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/amp/",
-      "publishedDateTime": "2021-05-24T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness.md",
-      "title": "Facebook’s Dynabench now scores NLP models for metrics like ‘fairness’",
-      "excerpt": "Facebook updated its Dynabench language model evaluation tool with Dynaboard, an 'evaluation-as-a-service' platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
-      "originalUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
-      "publishedDateTime": "2021-05-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

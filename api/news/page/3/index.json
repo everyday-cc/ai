@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-01-nvidia-continues-to-evolve-from-chips-to-software-to-ai-data-centers.md",
+      "title": "NVIDIA Continues To Evolve, From Chips To Software To AI Data Centers",
+      "excerpt": "At Computex, new Base Command platform, expanded NVIDIA Certified program, and significant traction for DGX Servers NVIDIA made several announcements this week at the annual Computex conference in Taiwan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b4d19d005773dfff9f9079%2F0x0.jpg",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/",
+      "publishedDateTime": "2021-05-31T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-how-artificial-intelligence-ai-will-change-nigerian-banking-in-2021.md",
+      "title": "How Artificial Intelligence (AI) Will Change Nigerian Banking in 2021",
+      "excerpt": "Banking is changing. Banks, and their customers, are riding a wave of innovation, reimagination, and reinvention thereby intensifying retail competition and how customers are serviced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.proshareng.com/news/Fintech/How-AI-Will-Change-Nigerian-Banking-in-2/57438",
+      "originalUrl": "https://www.proshareng.com/news/Fintech/How-AI-Will-Change-Nigerian-Banking-in-2/57438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proshareng.com/admin/upload/news/57438-proshare.jpg",
+          "width": 2094,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigeria",
+        "domain": "proshareng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-azure-arc-bringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments.md",
+      "title": "Azure Arc - Bringing The Best Of The Public Cloud To Hybrid And Multi-Cloud Environments",
+      "excerpt": "Microsoft is one of the first companies to exploit Kubernetes as the foundation for its hybrid and multi-cloud strategy. In just two years, it ported a dozen managed services to Kubernetes, branding them as Arc-enabled services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b5c3a5b8ac6ccbc84c9ae8%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/amp/",
+      "publishedDateTime": "2021-05-31T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation.md",
       "title": "Udacity Issues a Two-Month Free Course on AWS Machine Learning Foundation",
       "excerpt": "Udacity announced last week the launch of a new version of its AWS Machine Learning Foundations course with AWS (Amazon Web Services). It’s two months, free course for beginners with little to no experience in the area.",
@@ -1041,152 +1188,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-the-ftc-discrimination-warning-on-ai-7-expert-tips-to-stay-out-of-trouble.md",
-      "title": "The FTC Discrimination Warning On AI - 7 Expert Tips To Stay Out Of Trouble",
-      "excerpt": "As more and more companies adopt AI, a question arises - can the federal government keep up with all the changes from a regulatory perspective? In some cases, the federal government is behind (see Why Are Technology Companies Quitting Facial Recognition?).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b2d4a01172ccc8c87167c6%2F0x0.jpg",
-          "width": 680,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/amp/",
-      "publishedDateTime": "2021-05-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.md",
-      "title": "Ubisoft hires AI, machine learning expert to lead product technology",
-      "excerpt": "Ubisoft is forging ahead with experimental technology like machine learning, AI, blockchain and more for its upcoming projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/9/79664_32_ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
-      "publishedDateTime": "2021-05-29T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them.md",
-      "title": "Adversarial attacks in machine learning: What they are and how to stop them",
-      "excerpt": "Adversarial attacks present a growing threat to commercial AI and machine learning systems. Fortunately, some solutions exist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "originalUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "publishedDateTime": "2021-05-29T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

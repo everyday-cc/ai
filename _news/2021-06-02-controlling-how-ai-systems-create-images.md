@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-02T05:03:00Z
 originalUrl: "https://www.controleng.com/articles/controlling-how-ai-systems-create-images/"
 webUrl: "https://www.controleng.com/articles/controlling-how-ai-systems-create-images/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/06/CTL2106_WEB_IMG_NCSU_AI_ImageGeneration-Slider.jpg"
@@ -25,20 +26,36 @@ images:
 
 related:
   - title: "Researchers fine-tune control over AI image generation"
-    excerpt: "A new state-of-the-art method for controlling how artificial intelligence AI systems create images has been developed by researchers from North Carolina State"
-    publishedDateTime: 2021-06-01T18:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269722725/researchers-fine-tune-control-over-ai-image-generation"
+    excerpt: "Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training."
+    publishedDateTime: 2021-06-01T18:59:00Z
+    webUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-fine-tune-ai-image.amp"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-fine-tune.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Researchers fine-tune AI image generation"
+    excerpt: "A new state-of-the-art method for controlling how artificial intelligence (AI) systems create images has been developed by researchers from North Carolina State University. The work has applications for fields from autonomous robotics to AI training."
+    publishedDateTime: 2021-06-02T20:35:00Z
+    webUrl: "https://theshillongtimes.com/2021/06/03/researchers-fine-tune-ai-image-generation/"
+    type: article
+    provider:
+      name: Shillong Times
+      domain: theshillongtimes.com
     quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1622571639.jpg"
-        width: 630
-        height: 420
+      - url: "https://theshillongtimes.com/wp-content/uploads/2021/06/AI-P-9.jpg"
+        width: 1000
+        height: 465
         isCached: true
 
-secured: "kXzwya95oksjN3hsw305LwPaLDqiZJU6XADuDkvwN5QT+dml/s+1at2tqdIB3zXc6rtGB7sMge91icTL7cfFIrXsoWm47d5HC2IKqMcu6WwCz1RY2toWsrNW0OQvkn8U3oM3TlbIVOnob75eP1ajcDc1ZonAdE0Kk03AiNmWydEQiQRHKLSuXqVWZ9ghGRziqmsXGIjc53yvlrRK77E/eFIeqOM1Kemn2sLnrxJjyvidNrg4dSIVdzm00iLPsk4slepUDVKwnh1DCCKwIeCBZORYayv5BrPVP79UCWHYvSsPAFrOiUiIuumuPEkI7c9Y3aJPME9EgeXblOCkMaD+Z06akWu1LZ8Z2sOZC6r2LSc=;cu/cxfgfWhlT6chH4UJ9PQ=="
+secured: "vAv39hFmTxCxJkMWrQgEMnAZFoTNUBrj1wykuZE7P4chDRbcvfB/yfKvhVtUQZ5tWVJ02dOzgXZTwm90Z45GH0DtHC7SoJGq2aCxaGBwtT3LXzYx0rLJCbUIUnk8xV9BEmkeyEMGPRbqkMn7WwtEThpMfA+YmYdCOylPa+SxRy5FfEz3Msva/Dja3MQhmlyTryx0yffhlQGv3qN9JVJzd9xvvMLusHUMHZTJjktXkV4xv95evuiLd+u8jBaFc0lVofxr9fENVmCzA6O/yGMdigoXKYfewyndXR2kNCFARYmz0uWHprOKB/uxfGlhJ4ULXUUWMGUCz3CKma5vSkpOEFL43xH6LfFLxREBP2QQK/2nhMx8ZPe0UYoueE8HTs2ybmb/EPMv/o8HETbFGW6++KoznT6I2SJg9McPuG/yF/MZmvvxlYuR2g7LPdSvsK08QWJutC5KIjZ99fY7MV3JxgZXRnCoErRLKCwPuj6QvJX6tcEQ4v5auqrvLEx5/cwHOZl+yCgrwWiVGAnb/nIJpw==;ZDZv9CBtL8GQqFkf1cs99A=="
 ---
 

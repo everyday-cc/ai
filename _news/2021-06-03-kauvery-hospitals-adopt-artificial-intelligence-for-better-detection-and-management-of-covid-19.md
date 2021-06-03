@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-02T21:14:00Z
 originalUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765196.html"
 webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765196.html"
 type: article
-quality: 5
+quality: 7
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "New AI tool to help doctors assess severity of COVID in patients"
