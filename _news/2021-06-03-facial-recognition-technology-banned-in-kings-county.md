@@ -41,6 +41,38 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "Artificial Intelligence for conservation: Australian researchers to test koala 'facial recognition'"
+    excerpt: "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation. The team from Griffith University is attempting to use artificial intelligence (AI) to recognise individual furry mammals when they use wildlife road crossings in Queensland state."
+    publishedDateTime: 2021-06-03T06:43:00Z
+    webUrl: "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160"
+    ampWebUrl: "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 60
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/06/03/197140-untitled-design-2021-06-03t121927387.jpg"
+        width: 918
+        height: 506
+        isCached: true
+  - title: "Aussie researchers to test koala 'facial recognition'"
+    excerpt: "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation."
+    publishedDateTime: 2021-06-03T07:50:00Z
+    webUrl: "https://phys.org/news/2021-06-aussie-koala-facial-recognition.html"
+    ampWebUrl: "https://phys.org/news/2021-06-aussie-koala-facial-recognition.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-aussie-koala-facial-recognition.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/a-team-from-griffith-u.jpg"
+        width: 1024
+        height: 705
+        isCached: true
   - title: "Ai-Media signs 3 year captioning contact renewal with Sky News Australia"
     excerpt: "Ai-Media has renewed its captioning contract with Sky News Australia for another three years.The announcement:Access Innovation Holdings Limited (Ai-Media or Company) (ASX: AIM), a global provider of technology-driven captioning,"
     publishedDateTime: 2021-05-31T19:04:00Z

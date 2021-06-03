@@ -2,6 +2,91 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-05-15-software-engineer-ai-computer-vision.md",
+      "title": "Software Engineer (AI Computer Vision)",
+      "excerpt": "Develop AI computer vision modules for machine automation and visual inspection Develop software GUI using C#/C++ Assist in Research & Development of image processing using cloud computing (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://tweakers.net/carriere/it-banen/251998/software-engineer-ai-computer-vision-maastricht-en-hr-solutions",
+      "originalUrl": "https://tweakers.net/carriere/it-banen/251998/software-engineer-ai-computer-vision-maastricht-en-hr-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tweakers",
+        "domain": "tweakers.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai.md",
+      "title": "What the vaccine rollout can teach us about big data and AI",
+      "excerpt": "When it comes to being data driven and innovative with AI, there are 4 lessons enterprises can learn from the vaccine rollout.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1152335789.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/amp/",
+      "publishedDateTime": "2021-05-15T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys.md",
       "title": "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys",
       "excerpt": "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one.",
@@ -1067,110 +1152,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-facebook-aims-to-help-ai-models-forget-with-expire-span.md",
-      "title": "Facebook aims to help AI models forget with Expire-Span",
-      "excerpt": "Benefits and risks of artificial intelligence Expire-Scan is still in the research phase and focuses on past experience memories. Facebook said it will study how to incorporate more memories into neural networks to better replicate the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/12/38de8040-e46d-4d0e-a6ac-3d03e3591991/expire-span-before-after.gif",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
-      "publishedDateTime": "2021-05-14T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-facebooks-new-technique-helps-ai-systems-forget-irrelevant-information.md",
-      "title": "Facebook’s new technique helps AI systems forget irrelevant information",
-      "excerpt": "Facebook claims to have developed a technique that enables AI models to forget irrelevant information while retaining relevant data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
-      "originalUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/",
-      "publishedDateTime": "2021-05-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

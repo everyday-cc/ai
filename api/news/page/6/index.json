@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-28-legal-software-co-relativity-snaps-up-ai-startup-after-private-equity-infusion.md",
+      "title": "Legal software co Relativity snaps up AI startup after private equity infusion",
+      "excerpt": "Legal and compliance software provider Relativity ODA LLC said Thursday it has acquired artificial intelligence company Text IQ Inc, touting the promise of its AI technology for law firms and other customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-legalinnovation-relativity-textiq-idUSKCN2D82H2",
+      "originalUrl": "https://www.reuters.com/article/us-legalinnovation-relativity-textiq-idUSKCN2D82H2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563653176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q191",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D82H2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D82H2",
+      "publishedDateTime": "2021-05-27T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-us-energy-department-launches-the-perlmutter-ai-supercomputer.md",
+      "title": "US Energy Department launches the Perlmutter AI supercomputer",
+      "excerpt": "Each of Phase 1's GPU-accelerated nodes has four Nvidia A100 Tensor Core GPUs, for a total of 6,144 Nvidia A100 Tensor Core GPUs. Each Phase 1 node also has a single AMD Milan CPU. What is AI? Everything you need to know about Artificial Intelligence A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
+      "originalUrl": "https://www.zdnet.com/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/26/2c65bb00-1c92-4e21-9674-293340f8960a/perlmutter-the-largest-nvidia-a100-powered-system-in-the-world-perlmutter-the-largest-a100-powered-system-in-the-world.jpg",
+          "width": 4000,
+          "height": 3300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
+      "publishedDateTime": "2021-05-27T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology.md",
       "title": "Utah DOT pilots Blyncsy’s AI-powered road maintenance technology",
       "excerpt": "If you drive past potholes and faded lane dividers on your morning commute to work, chances are you’ll continue to see such road blemishes until someone alerts the local department of transportation to the problem by filing a complaint.",
@@ -803,10 +906,10 @@
     {
       "path": "_news/2021-05-27-deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge.md",
       "title": "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge",
-      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ...",
+      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -816,12 +919,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T05:11:00-07:00",
+      "publishedDateTime": "2021-05-27T05:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1072,103 +1184,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
-      "title": "Databricks ups AI ante with new AutoML engine and feature store",
-      "excerpt": "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "publishedDateTime": "2021-05-27T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030.md",
-      "title": "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
       ]
     }
   ],

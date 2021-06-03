@@ -2,6 +2,103 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-22-sofic-news-microsoft-socom-highlight-need-for-ethical-use-of-artificial-intelligence.md",
+      "title": "SOFIC NEWS: Microsoft, SOCOM Highlight Need for Ethical Use of Artificial Intelligence",
+      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/05/istock-1150199386_resave.ashx?h=500&w=878&la=en&hash=279D049267A88C2C38978D40F816A53C",
+          "width": 878,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031.md",
+      "title": "Machine Learning in Retail Market Key Aspects of the Industry by Segments to 2031",
+      "excerpt": "The latest research report provides a complete assessment of the Global Machine Learning in Retail market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health.md",
       "title": "Ai Medicine Software Market Growth Graph To Demonstrate Inclination Towards Positive Axis By 2027 | Enlitic, Atomwise, DeepMind, Babylon Health",
       "excerpt": "The Ai Medicine Software Market study offers a meticulous study of all the factors that are anticipated to influence the growth of the industry. This Industry report introduces Definitions, Classifications,",
@@ -1097,101 +1194,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
-      "title": "Finding any Cartier watch in under 3 seconds",
-      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
-      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
-          "width": 1600,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
-      "publishedDateTime": "2021-05-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-have-ai-chatbots-come-of-age.md",
-      "title": "Have AI chatbots come of age?",
-      "excerpt": "“Chatbots are now a critical component in the customer omnichannel experience,” said Rob Dunlap, Associate Partner – Cognitive & Analytics Practice Leader with IBM at a recent CanadianCIO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679",
-      "originalUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/ai-bot-0041z.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1",
-      "publishedDateTime": "2021-05-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -71,17 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
-    publishedDateTime: 2021-05-29T14:00:00Z
-    webUrl: "https://www.openpr.com/news/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    ampWebUrl: "https://www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
   - title: "Computer Vision Industry Production Capacity Estimates and Forecasts to 2027 | Industry Size, Current Trend and Future Demands"
     excerpt: "Market Scenario: <br /> The global market for Computer Vision Industry is expected to surpass a valuation of USD 48,300 Mn by 2023. It stood at over USD 9,200 Mn in 2017. <br /> The market is projected to expand amid rising applications of augmented and virtual reality."
     publishedDateTime: 2021-06-03T03:55:00Z

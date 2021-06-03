@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-01-artificial-intelligence-social-media-and-the-future-of-investing.md",
+      "title": "Artificial Intelligence, Social Media, and the Future of Investing",
+      "excerpt": "Whether influenced by one or many, the result is clear: social media can drive today’s markets. Such incidents, combined with their capriciousness and unpredictability, have led to pushback from the financial establishment and calls for greater oversight of social media practices and businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/",
+      "originalUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/06/SM-AI-Algorithms-scaled.jpg",
+          "width": 1600,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/",
+      "publishedDateTime": "2021-06-01T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-want-your-nails-done-let-a-robot-do-it.md",
       "title": "Want Your Nails Done? Let a Robot Do It.",
       "excerpt": "Start-ups are using technology to take a robotic approach to manicures, offering a simple way to provide foolproof nail polish.",
@@ -1144,57 +1186,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-the-power-of-synthetic-images-to-train-ai-models.md",
-      "title": "The power of synthetic images to train AI models",
-      "excerpt": "As privacy laws start to limit companies' data sets, synthetic data could be key to continuing to leverage AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/",
-      "originalUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-539085830.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/amp/",
-      "publishedDateTime": "2021-05-30T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

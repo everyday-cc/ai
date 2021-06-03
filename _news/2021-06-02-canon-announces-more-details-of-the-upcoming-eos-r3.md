@@ -7,7 +7,7 @@ originalUrl: "https://www.newsshooter.com/2021/06/02/canon-announces-more-detail
 webUrl: "https://www.newsshooter.com/2021/06/02/canon-announces-more-details-of-the-upcoming-eos-r3/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces General Availability of Amazon Location Service"
-    excerpt: "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications."
-    publishedDateTime: 2021-06-01T23:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210601006014/en/"
+  - title: "Canon EOS R3 will shoot RAW at 30fps, RAW footage internally"
+    excerpt: "Auto Focus (AF) tracking for motorsports including racing cars and motorbikes and the ability to record oversampled 4K video are two of the features of the EOS R3 now revealed by Canon. As the company did before with another R family camera,"
+    publishedDateTime: 2021-06-02T09:05:00Z
+    webUrl: "https://www.provideocoalition.com/canon-eos-r3-will-shoot-raw-at-30fps-raw-footage-internally/"
+    ampWebUrl: "https://www.provideocoalition.com/canon-eos-r3-will-shoot-raw-at-30fps-raw-footage-internally/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/canon-eos-r3-will-shoot-raw-at-30fps-raw-footage-internally/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 44
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/canoneosr3002.jpg"
+        width: 1420
+        height: 946
+        isCached: true
   - title: "Canon EOS R3 - What We Know So Far"
     excerpt: "More information on the new Canon EOS R3 has been released by Canon. Here's some new information on this flagship camera."
     publishedDateTime: 2021-06-02T10:37:00Z
@@ -76,6 +83,15 @@ related:
         width: 1200
         height: 1112
         isCached: true
+  - title: "Canon EOS R3 to have motorsports AF, oversampled 4K video"
+    excerpt: "Canon has revealed more specifications of the widely anticipated EOS R3 mirrorless camera including that it will have motorsports AF"
+    publishedDateTime: 2021-06-02T06:37:00Z
+    webUrl: "https://camerajabber.com/canon-eos-r3-to-have-motorsports-af-oversample-4k-video/"
+    type: article
+    provider:
+      name: camerajabber.com
+      domain: camerajabber.com
+    quality: 4
 
 secured: "PK7t9v0njlIVxWOcLgOQIcfTk1dnOIl1dG5Ip5uNE0dt6iv2NeojrojJ1t9mUfJeqUE5G8ZEjN8ZplAUDOjCbeA/TLp5qaZvvnWg2rhemhwF15lyl4w9i60Ztha0vMrqaQtI3D2Ya/WqLQvzP0k8YHbxDcEP+jhTij4rW9ZzSIFZVGI5VCZLk6q/rzwbhfpeStP2Kb2XmkJ4tKyjmwDv5BV7ADBPVM/QLTGjBWNIBI3L6CjFwUrhElTDwFoXxrLgGEmEHWSD8bfuMEShDLO8N4opkYw/YpapDYnxcAgRzVZ/4ShqENGhYwR9wEaiOzXb51d8dVoHtuUrWVBAGLhBQ8x4k0YlXAO8ck/9AHiERudoQYdxB7p1P9P6Am9DTk/b+swYLWSnECwtoJH1S2B0qru0CMpurZh/ytJioh5LVykN0XwP18AhY//5CZaPZ4cfRi+gA4b8mQIDLH4YkYomEW0I+pYsJGO1ZzhNhC0ekYg2t3vMvZuoWL6vU3Mr3YtnUPkNBDAcXtMcP3JB/jcXQQ==;vPVk4ISMJiXsxvcQniI0NQ=="
 ---

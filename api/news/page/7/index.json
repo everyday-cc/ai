@@ -2,6 +2,103 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
+      "title": "Databricks ups AI ante with new AutoML engine and feature store",
+      "excerpt": "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "publishedDateTime": "2021-05-27T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030.md",
+      "title": "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030",
+      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-how-supply-chain-digitisation-is-paving-the-way-to-gene-therapy.md",
       "title": "How supply chain digitisation is paving the way to gene therapy",
       "excerpt": "Big pharma has been on the frontline to vaccinate the world against Covid-19. Digitising supply chains sets them up to personalise patient care",
@@ -1101,111 +1198,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-memorial-day-traveling-in-an-era-of-ai-self-driving-cars.md",
-      "title": "Memorial Day Traveling In An Era Of AI Self-Driving Cars",
-      "excerpt": "A close look at how Memorial Day weekend traveling will take place once we have an abundance of AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-05-26T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-nokia-unveils-the-worlds-first-telecom-ai-library.md",
-      "title": "Nokia unveils the world’s first telecom AI library",
-      "excerpt": "Nokia has released a library of artificial intelligence (AI) use cases for telecommunication providers through a public cloud, an industry first. Developed in collaboration with Microsoft, the Nokia AVA AI-as-a-service combines Nokia's security framework with Microsoft Azure's digital architecture to help communications service providers (CSPs) take on 5G and cloud computing challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615893259/itpro/NokiaSign_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp",
-      "publishedDateTime": "2021-05-26T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

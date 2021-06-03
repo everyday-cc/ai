@@ -3,26 +3,22 @@ category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
 publishedDateTime: 2021-06-02T12:41:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21387911"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21387911"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "AI Chipmaker Hailo Partners with Lanner Electronics to Launch Next-generation AI Inference Solutions at the Edge"
@@ -35,6 +31,6 @@ related:
       domain: businessinsider.com
     quality: 26
 
-secured: "+ECWHbchoubxOvjxm9YAHH3Uw6HnXgHq1jjspSXT3huSCH9racX7Jfcq256X6l4UATI2dkbzTTwHLm6n1SqHuYONoNpg/8az+1m83xsRCUic4OUjvpj3se0cjjwaq0kmRkYmZKhy3+1dKc0uoBNSS/hmIrKRKxOHmBleEeA4wGWHn+pAhxTHaelb5Ov6oAzqYO6dlYiur5Y0OMVcSP79m3/2p1dUgOPu8faC4Scp/a6NUi36Zu+cWfrih2ikGCCsgXQCaUkgTeKA28+hqSByWVHOXWKKTssBGtbMc3UekXhY6bgiwWHUmc0X+zamX3XB9/nERcK1ANnxZPq8MG3zk0LHetjd4PYnG02PWm+ajNM=;xVHKbPx2PEt1sGDv8UWR+g=="
+secured: "za4G7AP30KwHz6ZiuFjb4DkG3/ZeJ6OZQNIV146RLHiNlvBU7VfLVCD2B4vukBp1ITSwe9tkA5i7tw9t7P6IYY7QpYZouqEC0y+SpT/5YHxYE11gLeKSOBPBjirkbnNevqZnIIJ7fLL/woLI6ff4k6a+NcnsZE7G+Sgy9LsjjKRebfD6yEVn8JCBQH2tz1Dd0eik/cr1HYfmyZkWtBxL2yfdNUEUqK8ZNKnaei7AIiNpTeqqmOFj/GzX9vnxHcwbIT3q+tUaOghBI+tjeOMG0LHxc96ApUPgnWJ3DDdhwzCML+lH0DPnKebeZCY2CZ58XkCzoU4elx67J1Z/7ee+NFXV2gPjWg+YWsA3ZVkn3bQ=;k6vg18BubE93ohs9f58+xg=="
 ---
 

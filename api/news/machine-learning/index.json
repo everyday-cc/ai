@@ -105,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -569,6 +569,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-28-a-new-frontier-of-ai-and-deep-learning-capabilities.md",
+      "title": "A New Frontier of AI and Deep Learning Capabilities",
+      "excerpt": "Thanks to robust HPC systems, compute capacity and data handling are powerful and affordable enough that many organizations are beginning to invest in a new frontier of AI and deep learning capabilities. HPC solutions coupled with advanced data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/",
+      "originalUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/?amp",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/?amp",
+      "publishedDateTime": "2021-05-28T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-new-ai-powered-deep-learning-model-to-support-medical-diagnostics.md",
       "title": "New AI-powered deep learning model to support medical diagnostics",
       "excerpt": "A new deep-learning model can learn to identify diseases from medical scans faster and more accurately, according to new research by a team of University of Alberta computing scientists and the U of A spinoff company MEDO.",
@@ -857,10 +891,10 @@
     {
       "path": "_news/2021-05-27-deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge.md",
       "title": "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge",
-      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ...",
+      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -870,12 +904,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T05:11:00-07:00",
+      "publishedDateTime": "2021-05-27T05:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1314,59 +1357,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
-      "title": "Your Guide to the AWS Machine Learning Summit",
-      "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/2021_ML_Email-Signature_400x173@2x.png",
-          "width": 800,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T11:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
