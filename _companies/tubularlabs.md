@@ -22,12 +22,12 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1400569250431913991/D9w4zGP1_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Tubular Labs"
 
-secured: "R/XYLzjZR8s5oW27/lwT5mGzuRpjXAU86gReAbgUF+6+jGhQyh3l/SbiR8Et1NmAjUT/c2E+jvhX5jf4mqr/sTspgGwQbNMis8aXGX/8+EVChY7K42SPASQyX7jJ1OGse8sX0BGiLFy269uZjMBfQIclFJaW/CLhsyNXlWjt0dI1VG0rDfMuxxNwK1UBp903Z1pIZHXbVbBDnrNt7d94C5350A50voHiQrpKimgmtujO205xsXDKGQGfn3ymw8CSMp/DrMCi6uaXfAaoFOAO8NSn0vd3YfkMH65zFjzSL1vDxjUyHavtPebXWUOv9oujN9iVmLW1hIrqhza4H1p+xxaQeX4OJ6ZJ7ZmlE5M/gjxnWIcdQycT6fQlr2gLQY48PwwQXxUXLRy9g6G6f1NbhXi/79xpK6luC3Cw1Xx+vuA=;KEQViu6aUyL8HyGGCmfDzQ=="
+secured: "IY7iKLY/x0W03dsu3IM69iAOYo4UET9tkQY64/X5MyK5Wh4UiQpb1Y8lmCYEdFsmxeAOefSvofC1hxT9XN6HJ9fv5SnvMqs0n6WE9YpDMWOUnz5fXCprV8Xbk2Tt1nYXow+yky3Zn97vTw66fbWdB/DxplLrdzfGLrUrkNb4vOTWIzT7styz2a4vuKmfgZ3XYYHo/oaTOkJ2s4C30eUynwiK7goSdF70HBTXA13ffUt+qoG8BdBOarNNwSSTtrv3p8P5k0Lf54KBWJzKYPQ7y8n+wsH/+qd0eJGm50brkEB+XO1wcQ0VLMI1eBg66vz0mwvvrsgTqJkLdBoa9PaHxCmu6jhTI8vF1JjUQZJKVBHbIdAtuWGh26NbSfx//0Fl1JoRp18YQ0ohzTgktlFhzQK5dTOuEQqrrrfhCNSJyKc=;/qIZGiSNmOsn8L7GLhT4Pg=="
 ---
 

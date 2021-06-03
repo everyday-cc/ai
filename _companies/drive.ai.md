@@ -2,7 +2,7 @@
 name: "Drive.ai"
 overview: "A modern machine learning company dedicated to revolutionizing diagnostic healthcare"
 type: "profile"
-heat: 42
+heat: 31
 
 website: https://www.drive.ai/
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=YJe8ELIU7_E"
 
-secured: "y4QzmUZVJIJUhiJ3FtgYT5PI5HcjY4dtmljbJ3pqfY0agC5YfFpSOri/YrC1UIfPOC45WlegaeDsxY2d5z1eKhMYSpoQgE8p8ZXw1ORMYc3BZ/SW7CDJSrqQvQgWA1Msrgqgcm1mAtRwVrtYW5O6NoLxNjK97dmKWHfsEIvQGqJiXJH/QdFS0i8xbSt1hFhABTYuW7Pih7J+rY6wS/5ZmjEozaoAlE5XVLP6CVZ6NPAvQ3hJCtbV2RP74gxpgfFk42N1QbMsA5DoxliiG2cS8ZUj7ej6VWb9d/CKCt/xhv5ZHtfXK00RfP2WzU7bd7YtIWqfsRa/woNMvWEsyrXmFgclbcmkiDQGvlG+MkiFpvu4+7GmqgqiZkFLjS6Uo661y29jsa+snL5RJBlUJurQQRLA25aNV6bdGv4H/NSk9/c=;SbHnD+8mhIcIwjCaTAlN+w=="
+secured: "xAhYkrXjHWQw+/My+BVm0v+qI1ofS2+VlH1THG04YHNpQ0ncPf3Bcp/GAngUin1HdKl2VMWxu5LO3j+K/ROLsor9acQS6n8J87Hsh+zI8VQVu9Nsp9rjX4SRUkHlxzoM1kIHjdB4T8Df+RwGjbilhJimgJ75lktRMy6fz395yAyP2TZMsLPAW3tq+D6jPRamrjmAiyf+I6ThJqHEH+UDPrU+U2bxcbLGeXSb+XreQM1z0Lfo9t5OmQbays7BZYGVQafc1KM9xXD/uQsrxznuFHrTnPk8ogHF5cMm6BDidKl501EhK+lTd7XSwbiOigdYR33pOZD8EL6tPWlv2eomocDPN7ykiP5CDDZOHTha3l3RTHG9Vv94Hn/kqs2DZakUbANdu2P24H+EWw3TlFL/K/xchfxorRtCcfVyY7Kxf9Q=;sDmlLtcnvAeFUrWJ5eYYmA=="
 ---
 
