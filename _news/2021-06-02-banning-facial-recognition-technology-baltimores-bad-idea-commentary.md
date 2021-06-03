@@ -9,8 +9,8 @@ ampWebUrl: "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-reco
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html?outputType=amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Baltimore Sun
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Human and civil rights groups call for ban on police facial recognition technology"
+    excerpt: "A large coalition of advocacy groups focused on civil and human rights are pushing to ban the police from using facial recognition technology that they say could create an Orwellian surveillance state."
+    publishedDateTime: 2021-06-03T21:51:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 33
   - title: "Fish facial recognition? Researchers test technology on invasive Asian carp"
     excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
     publishedDateTime: 2021-06-03T16:04:00Z

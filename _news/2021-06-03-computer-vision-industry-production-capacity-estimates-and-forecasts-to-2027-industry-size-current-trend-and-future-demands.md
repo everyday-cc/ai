@@ -64,6 +64,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Artificial Intelligence Systems Spending Market Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2027"
+    excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-06-03T13:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2027-2021-06-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
     excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
     publishedDateTime: 2021-06-03T12:04:00Z

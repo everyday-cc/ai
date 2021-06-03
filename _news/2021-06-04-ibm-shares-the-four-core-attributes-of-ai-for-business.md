@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-03T18:00:00Z
 originalUrl: "https://siliconangle.com/2021/06/03/ibm-shares-four-core-attributes-ai-business-think2021/"
 webUrl: "https://siliconangle.com/2021/06/03/ibm-shares-four-core-attributes-ai-business-think2021/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Scott-Hebner-IBM-Think-2021.jpg"

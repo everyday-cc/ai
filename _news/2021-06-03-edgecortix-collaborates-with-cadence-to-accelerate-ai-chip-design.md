@@ -46,15 +46,6 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 0
-  - title: "RTI Joins the Teleoperation Consortium to Collaboratively Advance Autonomous Vehicle Adoption"
-    excerpt: "Real-Time Innovations (RTI), the largest software framework company for autonomous systems, today announced it has joined the Teleoperation Consortium (TC), and CEO Stan Schneider has joined its Board of Directors."
-    publishedDateTime: 2021-06-02T12:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rti-joins-teleoperation-consortium-collaboratively-advance-autonomous-vehicle-/2021/06/02/9382012.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "+voj11Br/N447KvloVEnmJRr7AsRVqEzicr2PMXxgC26vYlddbf/YAQtxmM1QVs1lQnyRoIAE4SYgj84yn6UL8+PJ9Jw3mVc3u+UMu9iguJtlnq9Qcq5yQKGRK1x9XvBdgtyX+LZGh5x3TaR5NGFsGVF8RYitqSzRtmt0wNuBJuS3o8r3eF8hEcpWjvfXXdzwKjq7lxZvr+fRWPxR7dybh2rUIUsA8taygDEelKvhVupiEZ2wB3rSrjujaROrH9M95vuUuDonor0b797SjnWq3CbDCbuWA0Bkga+P6kTpeajzbtyAklJyyxvY5CRbCqO0yjpJiaUE5ikgmnoVN/j9tzVhbPBZAahSLV7lpKmiK8=;mKhWhLXdso4iwiDXpAOm6g=="
 ---

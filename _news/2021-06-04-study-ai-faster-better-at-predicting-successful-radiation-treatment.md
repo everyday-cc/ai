@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/03/science-University-o
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,23 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s AI czar focuses on societal risks, preventing harm"
-    excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling"
-    publishedDateTime: 2021-06-03T16:18:00Z
-    webUrl: "https://www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-    ampWebUrl: "https://www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
+  - title: "AI outperforms humans in creating cancer treatments, but do doctors trust it?"
+    excerpt: "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a unique study involving physicians and their patients."
+    publishedDateTime: 2021-06-03T15:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.amp"
     type: article
     provider:
-      name: WTEN
-      domain: news10.com
-    quality: 59
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
     images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280"
-        width: 1280
-        height: 1130
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
-secured: "pnqHvr6iqrSsMs26VQS3zFXysyeU6MHeyh6ML5YJOsmMhwtcKEf+GaC5Xa1nA9JE4K0hB0/JRmLZDX7xt4kL5kX8E2xVD/I2xYi/uY14zgvzA3/7v/I8qMjF9FXEVi2no3L54oRAqPwrQF7oXWqJBiZQry/ayrHLrSnrLg5EtsIUgWP8RBrXJE+YbZ9d3BvTsqIsSj3bwh8Ey586Hp/rheell0fbMyyxEjcfMJ0UOdWEwRshmThxvz/ajFXrgE9obECHrDR87v9+BudGOwMjO0eJCrtEJElwMbOwoPrY5O5/JsglH0oYYuxdOzpZxxLDPNqwIdhdHi34miUmfy1Pinduck5K3FD/U0FBozaJP1o=;2Dor5AtHq825YVthjtNNvw=="
+secured: "YhvJ2sR16Z7ip8ofDL3X3UfjBuxokVDFQcm3rocTUUu3k9PrGyclGINmfXs11rVYY0OD4Hmvf+kx1b1wLEGTMBHdAEgWOVqF6tDXsD10/hFLHClvhRMYRMqOf3XvHWb/DQWTAxc4i04UpHnahpEwb0O5VJsOeKcB24kqbvJFymhD3Bo8ME/266X5b0oQof9AtIibBSKWKQmkchZ9CFcgUpwMBwK6O93vMKWOvsRSUvCXKBMxXf4L9K7v3sH40+UErqMteGwQnaAB56ia83rTrZvDYzXx4NygONwyy5khMhOHq3CduxTjqsPCUI6zwdqOk10qnbb1qZML8n3IANlwhyv1NFm6sROoNqg7jKJVZkKv12sQTLanswOb4gN7XdrSWDQXx3JqNgSYCXaJUoIw1Sph4QY0LGdhURXWacf8s4Rf1QLAh8DgcHO/sEAlSUbv9y4qMBgihCMPSavhl86tUn8urUr7jCZR9Sp8GDkU+Y1BTaosC5I/xAnRhoUoJdUhx75vyxvSlQ0+J8378j7wLA==;1EUewGA4+fmo1cV+8m1PPg=="
 ---
 

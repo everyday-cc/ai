@@ -3,8 +3,8 @@ category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
 excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
@@ -237,20 +237,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 49
-  - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
-    excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
-    publishedDateTime: 2021-05-30T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-ms-build-openai-million-fund-top-news/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 45
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/download_20210530_100536.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
     excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
     publishedDateTime: 2021-06-03T10:07:00Z
@@ -279,6 +265,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "7AQRUz2KkM7FzyrbREfCJ/olnNXxcPNfYJHiDlyN5aD4ZMBtM9WayFG6wYpEyvZyQ9mW5exLK2/WhOTccwU6UIpLqKwBxX4y0FLrSy4lr124KrPsTI77DZEDzdXk7AkLr3LC2jjDbNvEamqdoWjcOHabFb9+GuXgNq82Rx+mtxb+C6ipBspm+LpvoJ2GWYjpm6qxhBRNsQ4RQ4Z73tHoMYjhTuu1JiSWV5f5pgOGPdsrNTLmu2RJx+BcOfpjcX70JBUyjJF1NZBYsSnEq/TYB1Kyl1NG+NoMRq0LvRJkkwiT1M5t7p7hIWUWxwgZhkPOWA0KodyzcRwxQZe3JqBk5UQsaaHhx6uAE8punnGA3JM=;fK5pYVczhzVJbaM4JBlE8w=="
+secured: "2bpqJWKOpd1WwmHukvsAefNSMoYew0stgzXICOy8FcAYML9UILHgwez0PWXyzKTXgpf307xCuHcnBFKDNrwGOTk9hZV1ixcuBHeF/iAjQB0KEtb+Cpb5Rl+51TEASG0qrCx4hfVky7ijsi1XhlQ0jrb7NhMhniOP3hMv2GhNSRPkzrPdFYDFkw6Q3Mevu4GwZbfF7IZivW5s/x75KYkmbj1k5JH32cviSveJ6qQeAYM3WvQCTDouItT1l0NMiyXbYSr+4gaKUfNT0Bb/YKQwZ5MMPfP6ck6LkKler16wr2DcqXvglN5+OUNX4Lq6kQW9ZQoTt8xDM+MLMqPnHOB+YKnOYCR6w3fqzDr0XkUP2FA=;BxzMw4MOCiy9r6lyu5fvfA=="
 ---
 

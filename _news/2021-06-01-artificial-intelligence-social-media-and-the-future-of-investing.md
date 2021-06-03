@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/artificial-intelligence-social-media-future-o
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/w8bk2450h6ry4.gif"
         width: 450
         height: 308
+        isCached: true
+  - title: "Artificial Intelligence and the Future for Smart Homes"
+    excerpt: "The computer revolution has changed our lives massively in the last 50 years, and it''s not looking like it will stop anytime soon. In the last few years, we''ve seen everything from self-driving cars to text messages that can read your mind."
+    publishedDateTime: 2021-06-03T20:03:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2021/06/03/449024-artificial-intelligence-the-future-smart-homes.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/0856353907-smart-home-3574545_960_720.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "5+GNchIpZvZsK+IMxHSADtpmA9++gqpf9oxTUyOS+AZZRleSbZ9V8wOk0+I5Susnw9lCNhRxUXUOklTxUm8XMyIRE7rW32g5eTOkp+QbEqOnCwvRXND3MxH6MUEA+CQEggKAhupvojx4xRvmD0NpoR/3Ne7AgL/7jgGhcsK2KHcGc1BjoUUCIalILyaSA+sPw+aXAClQYD0sP/wXkHy5+MERRXSELl+fH2A1sX2qzlRsbOJqO5MENP+0nete3NC4Ff4l5hGGI3nu0OAfeqWiRYqufPAMcJ5+ozvez9H9NuJET3UNCKuqH0l7onXdaW3iOFsBGQX+3q/v2fR6S1NT3uneO1at46s2QS9VQn+4WYg=;2S1ByyAnF+suMWat/OPabg=="

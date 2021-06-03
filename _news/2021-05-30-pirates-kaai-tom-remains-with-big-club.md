@@ -31,6 +31,17 @@ related:
       name: CBSSports.com
       domain: cbssports.com
     quality: 37
+  - title: "Pirates' Ka'ai Tom: Won't start Thursday"
+    excerpt: "Ben Gamel will pick up the start in left field in place of Tom, who can be considered day-to-day heading into the weekend."
+    publishedDateTime: 2021-06-03T17:05:00Z
+    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-wont-start-thursday/"
+    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-wont-start-thursday/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-wont-start-thursday/amp/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 37
 
 secured: "UEP7yceridr2/Pta7Oeu20M9VZbDCn+p+0p9ZWLSyoQ15u4I5JsFpP05Z2UhFAH5nqr97M6VAFqMosrQcmRgqMdwiat5ms7T6qfw2/VrCt0iO+a1McGFTMWUHkomroQa4P3t76Ad9ONY0ooh6EysQDyWCzddKjE2ppAIHnZS4QZCSteibk/0GLPuJIlm+mrlU1tGm36a6ecr0ajWzvTaqFDIc+b5rsHNkdTQiDwQu8rbS0qUtk/dGumzQibV4vXlzFvDrNdmr46vysmSyKSKBuh57osnJPi6VJO/qI1WlzRzDBJCMPtiu/cz2eB+F/XQ2KvL7dyrps80JzF2tRqzpgrzUljc3UMAb33zmwaAe4kjRHaoYU80+h3n4qGJ1pnUdFEcy8vBwAKHGeNrWi4ALpFaAz8T2V6SBHZKY/FwcZjbL7iPxRVHsrf6ku3s4Jmhyr0ADc96/T4n8S/4zFbGx5FErXBREm9PUzT5suysVJouWUEZnZdYzHgtcwkxKNjGVpgCeJ67CBoOC/WQPMx7Ug==;eVkaZ9FygbmHU/CqAbnmUA=="
 ---

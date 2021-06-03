@@ -2,9 +2,9 @@
 category: news
 title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
 excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of... A robotic arm with a sense of touch has allowed a ..."
-publishedDateTime: 2021-05-20T20:48:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
+publishedDateTime: 2021-05-20T22:52:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 710
     isCached: true
 
-secured: "fgqY818Pwz+KZmRllafYg/8R38Nwu2rS/doxFaqjdZRH85pwbhqiEIg37dCthiZ3J7eXvO9EHAuyjZzQw9Dcf1ww+ezM1tK1BsezKHOmzBinMdUZJmeDotoroYszCD//tj30jlGDlsgXnWV0Y9MvEjEcVJEjEHWrxt0/aaCozwmhsmMrc96up3dzrzRJYlzo7W5fdpWSA47XL1hX/iTRpyf4vy+cZD37WpHWfdkDLkgwm+IFyJ90z3hY/JzGNIti6xHs21hSaQJO1zST9Nwf3L/MWhHh5FZ7yPQW0rjJ0MxwfbJqXID2rGZbkcfOpa2MdYgkSh10s/IcS5XCZOUzrFDJAnNhpIvbF29ge3ESWeM=;UsIBG/2r4OEGZrF5sjk6XQ=="
+secured: "tAZkYeSYTq80zatqQJiCMTrM+/rhn3Qf6OMpSeB38Rs4U6ZtEfGyGHsYcghHpus6eapc2b8aJlpK3D+aduGbOPE9h1rwU1r/adF+moGt1ZiCNihpXdSdmlNLFKFZSPpuVIYuddoLoKPbmkyNjOJiBcCYIshA5We7ocYBmybHpuQV1bwjjqkKDYWBTNzHOt+veSAp9+T9EBE2FA0/c+uxXi9vsF4j8BQxan41986gQFGUoYVRd4mmftR3BKwHiO/GjheETk++1Uv7iHVwU1QgavewqNB9MQAxtI27diOz6o1hA6Mnn4wImV7opwxDEs7gUw85Wh/9rnm2j9L1fZJ1IuDnAA90mS1SbIMAt6rz3b8=;1S+EH4QsRgARPiFJrMoIFg=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Insurance to Mitigate the Risk of AI Systems Coming into View"
+    excerpt: "AI insurance and revamped cyber security insurance aims to mitigate the risk of deploying AI systems for high risk decision-making."
+    publishedDateTime: 2021-06-03T20:41:00Z
+    webUrl: "https://www.aitrends.com/ai-and-business-strategy/insurance-to-mitigate-the-risk-of-ai-systems-coming-into-view/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-4AIInsurance-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
   - title: "NCSU researchers report breakthrough in creating images though artificial intelligence"
     excerpt: "RALEIGH – Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training."
     publishedDateTime: 2021-06-03T11:29:00Z

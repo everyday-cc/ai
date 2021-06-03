@@ -57,6 +57,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Artificial Intelligence and the Future for Smart Homes"
+    excerpt: "The computer revolution has changed our lives massively in the last 50 years, and it''s not looking like it will stop anytime soon. In the last few years, we''ve seen everything from self-driving cars to text messages that can read your mind."
+    publishedDateTime: 2021-06-03T20:03:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2021/06/03/449024-artificial-intelligence-the-future-smart-homes.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/0856353907-smart-home-3574545_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "M44gJznHcIOle9TjaGyUg6t4iyGksCZih1lYOAYmVWxgxZNrmLbSj2n/KLSpLh/drMZ/XpP/rRSni3PYSch1H9bFFGkGDfrLxZI6XBr+6zQNyPP+lNt1OQEFoUQezQLhtgD0Y0zSdNtGnloxrYgEVz3fCKQk8PE/iPCQ4v3i2P5OFNlEnqBeDxjFbR8dKXUxa592CfCYwPmjxps+Yb1iqOKQI7Xh21b4wzt6YuDDhOtaavVlIemh+6wH1GdO+p9khjLPd93sAPLF9f07dN07GRAWmJjd/i1nEbLPIZJ4HWuob48mruwNgp1TaHbqimwdufSCA03OJGjLGZigc++OJ4jMU2jAGSMsab9zgNh77S8=;XCZwqjtalivNxRIXRa627Q=="
 ---

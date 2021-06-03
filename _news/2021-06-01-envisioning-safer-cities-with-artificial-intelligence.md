@@ -3,8 +3,8 @@ category: news
 title: "Envisioning safer cities with artificial intelligence"
 excerpt: "Over the past several decades, artificial intelligence has advanced tremendously, and today it promises new opportunities for more accurate healthcare, enhanced national security and more effective education,"
 publishedDateTime: 2021-06-01T15:12:00Z
-originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302812&org=NSF"
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302812&org=NSF"
+originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302812"
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302812"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 220
     isCached: true
 
-secured: "oxTyx+ILoznAPV/3cAgFFzSWQnRKfYniP6xtTMCF19WZeEZcAOEMeAXEnG3AVxFsK9V9ZdZoWbDqJ1yP4hue9lkBhpOr0+Z7UMNM4z/LFe8qmpbI8nZGZfUpSAQQY7DvLOYXjJ8asjbEDDLI2zRohSOTe85fm7YNs2C81NEz7Q0vwlTCJZnFu1DC7xw8PteYpyTLjl/8e9syuDkgyQoa6gz5r10aW1W99yW98S23WMFmw96mbrYznYHqBEXqE3nIrp0cv9HzbgRlLgeZITAImrv+0lgPfcKYFQop8AvdGbJvdST84OvnvJsBclWgxMLjO0TpQCKbC6B/ExlVQWHHy3oOUtrThwW9gJfSu+X6N0w=;NDgsnhS4MevI6Lp1ubPzew=="
+secured: "G+nEIEk3OWLk+4JBqZfbpVUha7cXscNnh8ds2lXFZXuxIfn6cdzzBs7Bx2lodYB6kYWC3hwOQEmmcf2XVwqXU0S7Xkbpgo2lYgCrdqHYVjo8gPeY1TxyRrAreQIgV7774W+o8A9GbHqPAqXHGybQQZJZtNUwvJ5o8WZSEn/hWepkJYSjb0O3CxfinuNL6aHtNKUyVKonb5ZcJierpQAbkWFDNJ/nw/9s7e1tRLiSO08ejXQ9j3kHjuOcCZD+yBR+MNZLE7B/4C2jxHqvrhMqR6aebdK08ccw3XPgz+g6h9fzrshFRjnkBUllGEe7OUGjIoOKsCeqW5c7nESkCVZBwMtKH00OMsaq9LHHzeeR54Y=;N5Tw8NDSNBD2Ma6Wr0T/Cg=="
 ---
 

@@ -23,6 +23,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "The top Austin tech and startup executive hires and promotions (May 2021)"
+    excerpt: "It's a competitive hiring landscape out there. These Austin businesses have been able to add top executives recently, including from companies such as Google Energy, Better.com and Options Clearing Corporation."
+    publishedDateTime: 2021-06-03T20:18:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2021/06/03/austin-tech-and-startup-hires-and-promotions.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 1
+
 secured: "vFfZOyCZCQfDq1whX0T0sfxYIQESOA+VRI4X5aq66MCDqnvL/g6B3JqKCwSV1p/fP6moxoOWo8tMa4BJROsNweAhr/7nvfCAK9S5CFoCE1hSoWivAHO+9MDZ2XL3Fc597EG4pjFYbQUt5TRKwStOqLcOgQMgzqYV4pbZHUCf5NV3+YytxpLbOXrz8p8ABZHfB0jh3nQ+7w/Esbry1Bo5X0kE6jfRNjBlMD5cbJjeeH/RQhqEeDFUR8BoGKqKSOj6W9oumJ3/F6T/qzhOpWutVl8lWVYAU1iBknmeRSkZqmjeS/QiF/q+F44JrtmwhvlsJiBmneWpUunPq89PWgEtZ7j5xVKBE1mDVegRLfzha4qm3gTbocc1l6dhW13QHVqlTJpqvede+Zfgiw+jn+eYFejGSXUZgWFezfzyQvgghQHGPZcEUVrkM8GN1yEAFoK1ys3tN+FSmkgDBSEpgnq3voFEeQHQ8+Sjv7xbxwzrO97esU9UpupglMzGE3gdqc97YlvL60TvhRH7UFQ5TUCgVw==;We21mkbzhn2SAOP3WcWGJw=="
 ---
 

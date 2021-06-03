@@ -3,8 +3,8 @@ category: news
 title: "Realising enterprise-scale machine learning with data governance"
 excerpt: "Realising the promise of AI/ML calls for organisations to scale its use enterprise-wide and promote the culture of an insights-driven organisation. Additionally, data is the fuel that keeps machine learning (ML) going,"
 publishedDateTime: 2021-06-02T13:06:00Z
-originalUrl: "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm"
-webUrl: "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm"
+originalUrl: "https://www.cnbctv18.com/personal-finance/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm"
+webUrl: "https://www.cnbctv18.com/personal-finance/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm"
 ampWebUrl: "https://www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp"
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp"
 type: article
@@ -37,6 +37,6 @@ related:
         height: 261
         isCached: true
 
-secured: "PtlvVvM/3ejsRclfZczbw4PcUQ0+cTkp1ENQY5OF+9Z8k6mUSiHTvqGYPrte34p1rTKFt9A/BAzyx1jsY278gKBLls8z9pahqpOhEYXihf5xeL6aeBplVIlIYFGDTo1B3eLoHoJiykOI1Oxw3eFfMMCVIOv3fN9m5oZBSGEEJCX6+ax49W6dUpDjqb+GNT/fPmJiXwH1mja75WLH/jOjU/5dOHANM7d91CWkvf75TZ4CeXLCpYGuEdhVTXWauU3pFGsvQzpC1NNUtzmrmyLeciP3JaXYtSnwbCF1wD/0d96a+hL5ZMr2HNPeysWNuoLsqRTnx6BB1yeub4MYojBEmKutgxGFVVpr92xJuCRIUXx9CkLjR65rdNFJ6SiqlT/OdEaoQK9psEsvnilJOc93jpz9E4SynfYFcqqXDKWCvTDnBYvRckTmssoRQ+N643tRQxov/Q/jn3i54cntAjrnSKzehwDAw7AMYqymtoNB+FnQ9PhVTB/W2YNR+JgNS6ioV+jwt8QZiVGyfo6clyvSdw==;+PLx8SvoLOLoX8wUUvSRWA=="
+secured: "uo55SwDGEiVpBxKyoZ3pOk4AjK0gOa238Yz3Nf4lGlYqUA/P0jMzKAAORHrnrcC/dr+nk9gTCmXiWHyAwfDabWe1PCfI3wwqqHsQb4HqXL6PWZEhl3/gnhXRS622MHGEy2lcC0aNKfvX4sDz7KJ2381nZr4FWdQ4E3RGntVefKCZKwIjx5XHcNhIESdzA6T30OU+Kf8N87gsmATxo/e/JB5C7qOhfpqfmkF2InFDAXIn9rakwkSC69I5g5QltEY5IheFKYUBfTj4u1ODG9y8IEhJAB7ALg8mMgamQoSzuV7FMeww1XOZXUwzhH0kf4B62b+uuVU/HKQW9bIIpdA5JGhFfhRVqdyBhbo0kUqA8RjqCziDeqUwbMv0vuSz2hILyxZL6KCYrDhhoJ+IhUEHyyCfrNXbD/R0DsbfpEsuSbbYVFvAvtObh495s8HAWVN9YKN9udNhUraVkkXF+NfKyG4UrlohKBuQYJASIqfQLgtYAlufAQmsUt+N6ndAzPOB6jGp7O0EFOSVw+aG1b/Pdg==;5Ggy+Fgu8FR+RJbq2dLRww=="
 ---
 

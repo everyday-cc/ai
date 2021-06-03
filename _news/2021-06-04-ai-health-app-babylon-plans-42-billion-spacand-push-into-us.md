@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 674
     isCached: true
 
-secured: "8FJJiM9zN8pce+7lQNBDzFeZ1gKgy1NbLghckpWEIbChIax48eV+cdP+4+hLeaqKSsdDrUHpM/Hsv3HX7ZXTyWqmHlnFKfwh/LMXdPhnea83zlQxAVQlSgp1K8ADfm4q/GGL4Fx/yTHGbiDlT4f6EpFiCNU/FZ7nCGbz9NwfDfj6qTsGUeQiALsdJVT6vaU6oTx5ClK3uaUJSVQ8AFmh6CqR3uZ95cMSHSWue3FZ5JyMgTmMjufioqvM8rTq19tqhEVrirh/xcFE3ogBdwVqoRYnDHAdjAvBAkUREKulVovGtBrAqPyvEjJLJVyREeVztPXJcEoqr8Aze5YDfuSMRDM6rSimJEeBr1mlI/PtlAs=;5sT/S8T49kSkXp11yD3kZQ=="
+related:
+  - title: "Healthcare Startup Babylon Plans Public Offering Via $4.2 Billion SPAC Merger"
+    excerpt: "Artificial intelligence (AI) healthcare startup Babylon is merging with special purpose acquisition company (SPAC) Alkuri Global Acquisition Corp. to go public."
+    publishedDateTime: 2021-06-03T20:48:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/healthcare-startup-babylon-plans-public-offering-via-4-2-billion-spac-merger/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/healthcare-startup-babylon-plans-public-offering-via-4-2-billion-spac-merger/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/healthcare-startup-babylon-plans-public-offering-via-4-2-billion-spac-merger/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 56
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Babylon-SPAC-merger-healthcare-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+
+secured: "E8gF+De0wbkjTm/ih52rBHmEaytz1Llurf1XAdPHjNByNoTwZoIUxeeyCxxpVx62BR4dLkdzRNqlOOpRda3ZdtKfYjBarOJq/gxRSKijtDv1j9psY1o3trwVfaHMFLHIb0UNJ8GLxH6MrgH+M/R54nEyQ1UeZy70FoADHyXp+4FTeb6k/qhEkQRlWaFmVmx0m19stWJnwPKEhwDyfScEcvRrd9dxEtdFy/Thl9qJsCZN2WV/uSj1MzbgCDABBkX4blIPVbz8HZvONsNpC5QSGNyt+ZUxdI9n0QsKAozoOtvh60yJjMubMmKGbXtUQmNJL5z9rfCAo4mBwh2KDTBFnTVR1XxeBJ32VIfgQpQiOVSfGvkCI9CNikkzGxcBZtV/NwHaoG2SwWMV1V/rwxHSHVjnJfhXCdvS4UmpEitOB8FU71lkgQYsRhjeZ8DBlD0Pny3c2PfHCqgY+Zem9F7UKJslmOBjUfzMUpauuntwT7glriU5hoLWSrRXmuIeXNueNPYReQ75RZ8pcYKskXq0yg==;Mao5JbpFmQHmyKR90JN8Lw=="
 ---
 

@@ -35,6 +35,17 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Human and civil rights groups call for ban on police facial recognition technology"
+    excerpt: "A large coalition of advocacy groups focused on civil and human rights are pushing to ban the police from using facial recognition technology that they say could create an Orwellian surveillance state."
+    publishedDateTime: 2021-06-03T21:51:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 33
 
 secured: "L2AMbewBQBlKxjlp5w+MrxOPxIr/ODy9LGmX8Yw6yKOUMx6BqXiF/hzNe+iXuqG5CuiV6CWzKntfcWIU4+DHzhLA6gzOwzkdRpOUP0/7+VT7ISWAq3N+63bjeZtJj24J1aAem7BHvLftJYOqBX/cJ72swNYKJyfDt9iurkK9qskMcQc1iMYBG6BJVv2oFlFNVyY1IeDUtvu2H5j2A4tLQQfww3g9xaE3L44oiJ5jsMUDLPIEjkVBiFhfv3YQ3vtlnVGtxAH40AHS4xEO11zkJLfQEix4OHev69wzhek/WiyElmSewLHZGaHJA5LGHCTii3r+6QUc0QBd2JWIfdbIcmoCwmnMJHHKVirXnBcA3EU=;BdNrQSWxl4pLAfANVjcyzw=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership"
-publishedDateTime: 2021-06-02T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial-services-marketplace-301304393.html"
-webUrl: "https://www.prnewswire.com/news-releases/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial-services-marketplace-301304393.html"
+excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
+publishedDateTime: 2021-06-02T22:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
 type: article
-quality: 13
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1213912/Even_Financial_Logo.jpg?p=facebook"
-    width: 2498
-    height: 1309
-    isCached: true
 
 related:
   - title: "EIB sees up to 10 bln euro investment shortfall in AI and blockchain"
@@ -109,6 +103,6 @@ related:
         height: 533
         isCached: true
 
-secured: "JgTKSpy9fCAZxQpSttf8Kd9tBE0pX0f8TEUOotH26AQexLJ8cESwWeWQwx01GUCSa1FuAVq6lU3mbBOKDuPEX7Im0i6/qec54gF5JcmceYkM1J9iOaRM3g9MShWG/aoJ3ja4L04Odte0WqFT5tHqm7LvBPn78YQiQlGPZf2fRSh7XchMhqiS+pWoAdhJeoZCJIA51CRogA5HqzlAPK2diutPnaEGU/jwjXTQJ3rSAOnxh9UW4RkKi4Xq8ZqEN/TRR/nkCu3OHFqJ5Gr1IenB0WHDNja9FXfjoWk+usj8VyeGN4PASCiGMKtpQDubKOKgPhnGM7ps/GnGLYuSSjQHN5erOcY4e6fFi5n8PYXepklHtpRSWcxev17gDcnpox5DHuFZdPQ9IvkQ3sMDr3J8inBttjby1+1fsOELa572HPYs22mZAuMks/YVoZAX4ZFDFzhuNiERIN1CtzB7euxQoVudvIBtfTEEuUzTWjAb8dRxFrK7pAWHs028nWYqEbKKuwaiKGU7WBdMGg+bunhVrQ==;2kMd/Y2yH7ub0FvVpP13pA=="
+secured: "XIqIvP0/nhwZ18ljTuiMS++34BOJmzMO2AM86DoHzQkWkXnLlGabqOtP0/1K+6uYOKq7ZFHyzECSfw2JjcU7MOpPFzXcIVGKVZ7EPb9cgmQZ5y7UPizsLGq8r7owkMzbpvq9qtuD3YMx4TA2lnM9o9m9Wrjr2l8Ql8MYBqhZGiGBQq1Fg85uTLD1T5xGfUkO9Jwtn9duNeH/zJGCNTZ35tECrAZGCreokPnKN/TWu3EZwTpQfq8Tb1yjnKXLRZP9kPJx7nc/gaH1/1au+t+9ciJbxuhth8NDx/g3xpS9WiVrV6dTj5xhrc0zAm9Zw4+NQXScQu0EC3xFp5d8s25olUTWPBYrLwrFqorqd3pIl5I=;6dpxHB1SSw3ezbdsWi4c3Q=="
 ---
 
