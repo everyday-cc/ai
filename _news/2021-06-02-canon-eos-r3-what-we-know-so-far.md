@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Location Service"
+    excerpt: "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications."
+    publishedDateTime: 2021-06-01T23:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210601006014/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "AF tracking for racing cars and motorbikes more details of Canon''s EOS R3 revealed a high-speed, high-performance mirrorless"
     excerpt: "Following Canon Inc.'s initial development announcement of the EOS R3 – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
     publishedDateTime: 2021-06-03T02:49:00Z

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-publishedDateTime: 2021-06-02T15:31:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
+publishedDateTime: 2021-06-02T15:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -197,13 +199,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 49
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
@@ -238,6 +240,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "hD+rseXaus7mGEyGXZli0E/EilI86r0sAp0TnHWGrWRXClAOLo8C3/cy5prrybs8vJr+spJhxkdcpEbEeKsaFyhFRCQq08JO/Kn7pyytn/GcHr/J53MzhOZ4tlsdDnHWW6al+a5ZIgJduUAJDwgDqIMmjK0JdvX/MvZvUddEPPGCNRYUqhyatK1/ttME0rm2iuURVjB3TMjNENoqRBb2wG3RcTEE1qPkRB011CuPufD3JBERFb7myqz/jqNCc2HJ1rllYDc+z7k4NFlVtrGZsX7VrZDcPUwnXSBV1fWOUGs1AUoZdDPTx6SGwm+zJ0aCQzahvdtbS/CY9LaCoTmbKSw71LgT1nOj/lUap9ja8rY=;ZtiQPnS3olrKhM4XhLjPIQ=="
+secured: "OUU+EqSCN6bW7fnuMRd7rAztV0a/D9DV8gmvZnc11r406kBhECBa5a2SlTSPfoAhcoOfIvQF7BSwxmXEonnbwzVyc4muxExt++DgYyTPP5HxSrSg9Ze2A75tbdQwCWn6g5hB/dJRBs8+Fj32O5WKn3FP2ZNb0dTvRc9bs2RIrhGeyKOB5k/C6bEnhw0sCyNqEilRGXKiUuzLLmFRijEI9sCPtPbrR8NpdLR0+YdMMuyYx/POS3pje7uvb0jqrhNZdJrdlCbJ1TDnSmzt8Aa3qVovEC1IgzwUSo1oVWJm5IFQdI8ihS4JtSgLE7PRhgrt3GZM0IlyVK9vxXI0NQJYncJHtRnfw8E74/1P1y23Cho=;4mhXjOM8JS0d1pahXql9XA=="
 ---
 

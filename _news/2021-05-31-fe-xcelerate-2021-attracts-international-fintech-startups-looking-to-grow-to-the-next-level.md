@@ -2,17 +2,21 @@
 category: news
 title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
 excerpt: "In partnership with Southeast Asian early-stage venture capital firm Expara, FE Credit – the largest consumer finance company in Vietnam, launched FE XCELERATE 2021 in May with the intention of bringing international fintech companies a pack of opportunities to scale up their business in Vietnam,"
-publishedDateTime: 2021-05-31T11:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fe-xcelerate-2021-attracts-international-fintech-startups-looking-/2021/05/31/9380629.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fe-xcelerate-2021-attracts-international-fintech-startups-looking-/2021/05/31/9380629.htm"
+publishedDateTime: 2021-05-31T13:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fe-xcelerate-2021-attracts-international-fintech-startups-looking-to-grow-to-the-next-level-1030478601"
+webUrl: "https://markets.businessinsider.com/news/stocks/fe-xcelerate-2021-attracts-international-fintech-startups-looking-to-grow-to-the-next-level-1030478601"
 type: article
-quality: 0
-heat: 0
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -29,6 +33,6 @@ related:
       domain: ryt9.com
     quality: 0
 
-secured: "+Svfeu0G4Qg9viJQrtix3GN+KB/wDXPfrLly9WaIOcRWQ0iWdRU8Dx6CFSXopohB5AQehmHBNjouidpcPHPsMNiXa7s+D5BBWATLZJRvzuir9Ov+XPjRjmJoNPZT2RA/jI4e7nfSsu1vLtP0XeyqLOLD0Yrw5+9zO8JzwYf6vQA9AIJib0YLT2xoQRQ2QHjFkRok+roWDcd9FucL0oh1jeeRDLWmKL41I7/dGm4xZ4sT7edkIUDBKe3it3kmQ6E4IDu6NZXZaHeD68/3fZzVs5Fpr6YnMhCB/Fej7KcMMBkW/9lFUphaqdhHRpk8UnkPxk4D+rslJSQim5oa7F3mj6cTGN1yoR7ydVptu17LjYQ=;RpyZ1trQdRVywYd/V2dTxg=="
+secured: "zcezqULZk5NJLfP6oVZinBYsRvhIomJokxodTbAXX3GJHShmsQhK2w0bneAzsLGjE6oms2KhZcoLDiPlS5SJc4xYRgWSL5uXqxWJO20khhvOeS5UvWdl4Bw/AYXzpdOiLno/YvCSn19R3U3MIkQHHs8bHTq16uexeDR5csCoFTDo30Z2FcRgzpf4a1Fo4dRxzCu28u8SuJO64DAw2KMYPCTa9qJ3ymQxAnkxQhU5Bpp1dniJZYW3OiWANjerKjiSmcSxOLxBgV+n8HOs+vlUsCWsTWEaDppQsEhH77eFJ/UV1EvOhd+HDKo5dtuHf2GtXuavbdi84tytpAqxY0TvLkfw0/uQ2MmyWhBXZl749IA=;nmQB/WUhf6sxCDQlqJxhzA=="
 ---
 

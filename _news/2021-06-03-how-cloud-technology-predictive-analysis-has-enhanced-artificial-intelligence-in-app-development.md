@@ -8,8 +8,8 @@ webUrl: "https://techspective.net/2021/06/02/how-cloud-technology-predictive-ana
 ampWebUrl: "https://techspective.net/2021/06/02/how-cloud-technology-predictive-analysis-has-enhanced-artificial-intelligence-in-app-development/amp/"
 cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/06/02/how-cloud-technology-predictive-analysis-has-enhanced-artificial-intelligence-in-app-development/amp/"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techspective.net/wp-content/uploads/2021/06/artificial-intelligence-4736369_1920.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1108
     isCached: true
 
-secured: "eFZa8QzKcrgIGbDEhZFxnM9Ba2KRfFewYWo9AeWuMBqR6sxYS5DP2rAyc3CuGQ3OYUwActoylqcyWoUXJJvQziUwuVkwtoUSl05lcfev2MnYDCHNDFSz5HNp6MkpUWOurVXo/+wgWktWhgT1mXrmbVDzCdqsA3SrzybidIxVvDvs95WyGI6G2wAJpV1Mww9awFneLyMfZA4uPucy9JvUVQVHUbFFVH7U3fwVrjKa7v84BFkf3/B7JfOyBR77TiB0yljqR9j9CzjhVbnB2BgZCSBSEg8YJ26LIFxoQtGANjNurefcJMzQRI6QMA8KgqJukOGHbmZn81O3aIaFcYVlxDxx4Xm8RtYr6g9YzRLGUBo=;9nOgo/fi5i4iEacqCUEpBQ=="
+secured: "IrTuGiiDZzQNVwiVP3ojy2H1DdpKKoUKvWLF5rSn+ZslmoeFcTnclFHa9JwI8L+0enEWIU+un0jlO8ZcS9rrRo8gakUu/8SOe5+pyu/EY0baj+z8Bwruk0ft8lDPkhBCRtmsngAUf/hOeX5aeHMuyzyp6C/03Xf5kmUaPi8ovU81e94BUlk4sSOYM9WJH8YtsftksBc2yBUDSgf73OYaKiG8Ub0u5R+phx9JVgE6Za/ap80+aWLYWIfb3xhlh70Zt7aHlHSQczSxZfCwHFvcrzsSNdkDES8Ef1xBN1fcYedpENOHIO3H6TUg82dspzsVCrmWJeOHyw4nEqJOgVt0Fapx7beX8AAZ22AFleTpcMlrCcft2kS8NkhSzZuhzxvVqk0CfotS4aKhDtVfjAirSYmtWrFXhYsnnkG7cjOBjtnVDE93S+Dhl2i6UeQSoH32bKblxfzD8v6JYlZASLkarbR1n3DV1xrhR+ffcRv1j8yiCMcWptoO+WeOd5bp5x5dgiQFUOV5Mayh++ipY8GlUA==;WjobMpO13/zizu9fcgp++g=="
 ---
 

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Announces General Availability of Amazon Location Service"
+    excerpt: "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications."
+    publishedDateTime: 2021-06-01T23:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210601006014/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "Canon EOS R3 - What We Know So Far"
     excerpt: "More information on the new Canon EOS R3 has been released by Canon. Here's some new information on this flagship camera."
     publishedDateTime: 2021-06-02T10:37:00Z

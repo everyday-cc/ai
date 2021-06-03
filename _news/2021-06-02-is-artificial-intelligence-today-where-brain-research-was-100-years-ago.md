@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-02T00:00:00Z
 originalUrl: "https://press.princeton.edu/ideas/is-artificial-intelligence-today-where-brain-research-was-100-years-ago"
 webUrl: "https://press.princeton.edu/ideas/is-artificial-intelligence-today-where-brain-research-was-100-years-ago"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://press.princeton.edu/sites/default/files/styles/facebook/public/image/2021-05/Artificial%20intelligence.png?h=71976bb4&itok=be9GU-S8"

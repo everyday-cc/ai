@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 1313
         isCached: true
+  - title: "Local author receives national recognition for debut novel"
+    excerpt: "Four Women for the Earth, for the Future,” was recently selected as a 2021 Finalist for the Eric Hoffer Award’s Montaigne Medal. This national honor is given to the most"
+    publishedDateTime: 2021-06-01T23:40:00Z
+    webUrl: "https://www.theunion.com/entertainment/local-author-receives-national-recognition-for-debut-novel/"
+    type: article
+    provider:
+      name: The Union
+      domain: theunion.com
+    quality: 24
+    images:
+      - url: "https://imengine.public.prod.sci.navigacloud.com/?uuid=9d0b1c35-c897-5705-9496-2c91f9e7f63f&type=preview&function=cover&width=1024&q=80"
+        width: 1024
+        height: 1365
+        isCached: true
 
 secured: "QwPp6+jQiRSUx+tBvf8Mh1zLaE52h66NbuK+Cp9I0cpwu+Cvv4Rx4PeGBwgDfaxylYpliNMt86FT76ASqa3EJ0McdAV8ESuKYakj7CyiwagPT1KAiuw0CNpkaogFdVZ53iW6laBjqINMKMbCGrGEerbNSxxLSMHSYW9RhR0BlNxJGxaOcCeiLnHdIRsa4tGxlwe0zZiloxp2D3DIGt3KY5SsWltgZx2w7ydeI+aqoG69oq6eISG7CYMXrGWx6FZZhDMzVQ3ZmcWJ5vMShyT/ZTOqxX+g7Bxg/UDWpbrLi2a/mCqA9033++tSxuIikP3VxIJbrZ3+HwqRKWoCgOfoQ6OEs0fpaj5+dAh22onHa2dp8zocfwy6SMJ7+L7Qt3HOfbKx7woQmmHqxK1uKTpYxbfMueF1jmFdalQv0xX3DwS3wGLWvzcUnOHJqtP250MkSebTJHBGLkl+giM59auwQnBcYhWrwCQJevcqCqg1sCjnSPMHo8HgTIrKqEXmQVcyBVJoGJ4g955cc9cdhn1pUA==;X2fXkEM0QFA270bLPHFtdQ=="
 ---

@@ -1,45 +1,81 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Location Service"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Location Service, a new service that makes it easier and more cost-effective for customers to add location functionality to their applications without compromising on user privacy or data security."
-publishedDateTime: 2021-06-02T13:42:00Z
-originalUrl: "https://gisuser.com/2021/06/aws-announces-general-availability-of-amazon-location-service/"
-webUrl: "https://gisuser.com/2021/06/aws-announces-general-availability-of-amazon-location-service/"
+excerpt: "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications."
+publishedDateTime: 2021-06-01T23:48:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210601006014/en/"
+webUrl: "https://www.businesswire.com/news/home/20210601006014/en/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: gisuser.com
-  domain: gisuser.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png"
-    width: 300
-    height: 250
-    isCached: true
-
 related:
-  - title: "Interact with an Amazon Lex V2 bot with the AWS CLI, AWS SDK for Python (Boto3), and AWS SDK for DotNet"
-    excerpt: "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 console and APIs make it easier to build, deploy, and manage bots. The Amazon Lex V2 console and APIs provide a simple information architecture in which the bot intents and slot types are scoped"
-    publishedDateTime: 2021-06-02T20:32:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/interact-with-an-amazon-lex2v2-bot-with-the-aws-cli-aws-sdk-for-python-and-aws-sdk-dotnet/"
+  - title: "Canon announces more details of the upcoming EOS R3"
+    excerpt: "Canon has announced more details about the upcoming EOS R3. These details include information about a new form of object tracking and the ability to record"
+    publishedDateTime: 2021-06-02T05:05:00Z
+    webUrl: "https://www.newsshooter.com/2021/06/02/canon-announces-more-details-of-the-upcoming-eos-r3/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
+      name: News Shooter
+      domain: newsshooter.com
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/1-2920-Chat.jpg"
-        width: 700
-        height: 394
+      - url: "https://www.newsshooter.com/wp-content/uploads/2021/06/r34.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Canon EOS R3 - What We Know So Far"
+    excerpt: "More information on the new Canon EOS R3 has been released by Canon. Here's some new information on this flagship camera."
+    publishedDateTime: 2021-06-02T10:37:00Z
+    webUrl: "https://www.ephotozine.com/article/canon-eos-r3---what-we-know-so-far-35465"
+    type: article
+    provider:
+      name: ePHOTOzine
+      domain: ephotozine.com
+    quality: 24
+    images:
+      - url: "https://www.ephotozine.com/articles/more-details-on-the-canon-eos-r3-announced-35465/images/xlg_eos-r3-rear_gallery_1622628306.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "AF tracking for racing cars and motorbikes more details of Canon''s EOS R3 revealed a high-speed, high-performance mirrorless"
+    excerpt: "Following Canon Inc.'s initial development announcement of the EOS R3 – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
+    publishedDateTime: 2021-06-03T02:49:00Z
+    webUrl: "https://menafn.com/1102199159/AF-tracking-for-racing-cars-and-motorbikes-more-details-of-Canons-EOS-R3-revealed-a-high-speed-high-performance-mirrorless"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?388936"
+        width: 352
+        height: 250
+        isCached: true
+  - title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
+    excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
+    publishedDateTime: 2021-06-02T12:21:00Z
+    webUrl: "https://www.cnbcafrica.com/2021/af-tracking-for-racing-cars-and-motorbikes-more-details-of-canons-eos-r3-revealed-a-high-speed-high-performance-mirrorless/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 10
+    images:
+      - url: "https://cms.cnbcafrica.com/wp-content/uploads/2020/07/1200px-CNBC_Africa.svg_.png"
+        width: 1200
+        height: 1112
         isCached: true
 
-secured: "dTRVVLVJLqncpztXRBClLLDlfRItV+SY3BON9TRxYngDgwNW97CIVBjFuLT3+s6RfGqNmEIs2+hiTsQlaQPHbp+v+NcHpE65VCrRsoTwzjVlyv7JDpUokm4NNmZsSIqFi08yJNhl9sZUzWpVeefevjH1UT6k/jak/4yRbJHABFKlKYzFnTwfwMKwl0ZbE09KB95pQE5O9vVNDaEscMLI8kdXn1VB3D97Z6idmDuwaHCzI+zKgnALoYYQ1c+TsfqlZs/98zvK8u7BQhynCaH7oMggRMcTXLGk06QB/W3Na4SMgy6unZGZcmAjo1NHkh+B6SesPo6fUQPCO6Yj0fi87/F8ttZUImc8I+uGz+oBfRLXT8vo86gn6UNqubWIyfTzIgxU+ZeGAyCovEqPHA8oE92MJJz2MiF0oYe49m6YN7II+UMHkaCgAjBVyCzXqODhdoLtMdwW+ngIQtfz4B8hZ6u1mojYW2HYagNtGey2+4m3l+jC78ucXJ/UTKiZrBnIGF5vMRdt89eQfonHDakp+w==;lNYAroXC78CZ7DuSyUsFZw=="
+secured: "Dk/IsuPb9X0DfTMoi0jZefMF9yuuxbWHGQ/6rbtghO0biTN5hHFVsKEZhaOLasHTS2OAxrv+YCFLAnjFsyA24NmDpxwnTMi0SCZ/4NYnvXr9wvabNJqqiuZYOI4YrMaohjKJaFxJvWgoPwmIWtod/dYn5q3I6gOSZaurdBtlA6T5gp4QpEBPhIgSsMbOhb6kTUz5TBKvhhO2HhPlmQtEuA+0V95HZLOGDO2mj8ie80PxZSxVJiXVok+Fo58VtZ7vE/0rxYum8CFVJ7IN5hKYyo1fQwI3XCNapFxU6PjGQdAJ3PHno+uPXxbyfob33WjAaAaW3pNmNj8IMP3kiLVMLI2UEfl1jEu931p2bRTTTNk=;JzkhPruTRfB47NOSfn6how=="
 ---
 

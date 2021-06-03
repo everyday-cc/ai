@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:00:00Z
+originalUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Microsoft AI
@@ -196,6 +196,17 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
+    publishedDateTime: 2021-06-02T15:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
   - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
     excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
     publishedDateTime: 2021-05-30T04:30:00Z
@@ -210,15 +221,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-    publishedDateTime: 2021-06-02T15:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -238,6 +240,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "nRPbqRNpsxlqqIC2uLeRr0dQuveFvJCuNcGYdvJt9IkMJkMm4o8YXEuPYDOrxLmyYUnZb/nfBqTpykaM2rg73k5O0KvCLsCT8nE29s0hXp7vR65yo4E+r5eRknNNOGzb6OS3hvtv3o8nbLvyZxL1fyEi+qR8fGtaFyIXd104WGWdAGphkLZoOPmuyGmr2BjC2fmOpEaOSpR/7kXjqR5rNy8LxVD5GAFCIRQI7PfLPJZX+odwiceP392lgB6aLmvP+plQDJLtg1H8mhSvSdO+ZEV2YQEhHKGGGloFWMheTCNo6afE/FO26j5cfE7rbj4ruKGjnkfK54ixdYAZOKgdmSN9pYlXYo55lNS+Zccxj04=;JeAvcbw860h8RH1Jl/8WKQ=="
+secured: "o8eVchqbGloEF24FrgFR2h7tgoqaWNsVuLV34huUGwUiDMw3qh3L3+rQ/r5ozBhDPlBT8RWBOjty2bFYttxlCh9OCkIpUgC1zoUtVFAapJZj7QtZw5N57bO2hf/IOD5b9eD0lxi0sq2cc7U93m71RsS6aX7cMTcDhZc0KPzU7fMezayTbXxEKZ6C7tJDICb80/H46gkDlkW23dA4MkRYxTygo41l3gJ9oBQtR4xF5n7B2MG/3oxV8DKOPq25C3/nuFKNiVRahxQWbhDq4cfQMe7AFvHM31MgJJ/JnKPD70wOeJkt4zlu+gcZmA/lqwmXw+X7BVcvb+JJR2lJFTQuVegz5ism4S9UGj937++Fa3Q=;PRfrsIUoGHSDimy3e/2Tgw=="
 ---
 

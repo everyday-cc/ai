@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/interact-with-an-ama
 webUrl: "https://aws.amazon.com/blogs/machine-learning/interact-with-an-amazon-lex2v2-bot-with-the-aws-cli-aws-sdk-for-python-and-aws-sdk-dotnet/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 700
     height: 394
     isCached: true
-
-related:
-  - title: "AWS Announces General Availability of Amazon Location Service"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Location Service, a new service that makes it easier and more cost-effective for customers to add location functionality to their applications without compromising on user privacy or data security."
-    publishedDateTime: 2021-06-02T13:42:00Z
-    webUrl: "https://gisuser.com/2021/06/aws-announces-general-availability-of-amazon-location-service/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 54
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "zy4oPFkn4/mMXrnkC1Pu+VRo3mH5qoqjELqYw+Lx6htn42T+m+rtT0Tlh2VXoXM29N6BOQvHWzwi4lISptyKZB6HY5q1lhhRSqG44rBzoCj3bID0MOSEMggsX3FzK40TIBw031w0ri2OrqEqvb3N/A6Ki3MNZccApfSULq9VYCa9epMzWJpL5nKGo6xByfWmNtE/JpDM8HPz4yP0p4UlS3qqyDzkKwqhMk3yT8hovM3yYlHuxHERkLnuUHvyT5Y0HME0jn1MUPthkaH9X7C4+lo+cjVLDJX9M0zSkAtxIMXv1i/Tyx97RCAhKHi3DhWhLMOfFjA8kcqmYvkCtPTmdz39iBpbFtHLyi4zb1zCa8I=;d3N8EbtfIr8fAISfpM6DJw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/self-driving-trucks-may-replace-
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/amp/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The costly pursuit of self-driving cars continues on. And on. And on."
-    excerpt: "New tests, in years of tests, revealed more and more distractions for the driverless cars. Their road skills improved, but matching the competence of human drivers was elusive. The cluttered roads"
-    publishedDateTime: 2021-05-29T12:00:00Z
-    webUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/"
-    ampWebUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
+  - title: "Pentagon Experiments with Self-Driving Shuttles at San Diego Military Base"
+    excerpt: "Driverless technology provider Robotic Research and Verizon Public Sector on Wednesday confirmed their cooperative involvement in a pilot project to explore the use of autonomous shuttles at the Marine Corps Air Station,"
+    publishedDateTime: 2021-06-02T20:56:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/pentagon-experiments-self-driving-shuttles-san-diego-military-base/174463/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 44
+      name: Nextgov
+      domain: nextgov.com
+    quality: 22
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AUTOS-DRIVERLESS-OUTLOOK-1-0.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/02/automatic_car_get_catch_in_the_traffic_jam_picture_id1125799954/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "96aMQInRPMISo8nqybZX8SLm4uigtd9LippU7IsxVmvA0N3twAqC1NBzfhrzqw1VXhz0UJuWA/YmE92Qeo0OShijgOQqaieHeotJuQvd6bDORTSdEGjqoGjG+cNqkYvVqmaBIA+ON5NfKFhkfM4wxzM4uGq7GGs6kqNgxSIjflmn8fnYaid+Gq5b/QIL6hUAMcY4sUzHjRW61gFIqoDgDtQBjdQTGzZD+rWtVbrzwis9wi/g64OQ5hHO9SP2expqQr0j63kbmRL25YVTJc2iGQV6oaGq9YwqPZNsOz+h5YwHH1gaJ3VZq3sgO/Y8lUDsasT/QZPShf9wYbYGE/9h/vlKNjEzQGnwuOM/MZBd6q2ZpMTERcNHYycOf2KA6AUi1wp+by41bip4zum7haNWCbWJYPb79r1X9RQaPA2nw5+dkjptXSOpONzRik8dHG+QR0s1GIJgEIuDmXZ1Jl0tc9cIQynIgG7LxRXMg4/zcR4s73GNd/SankMr+sNDh0kvDrX9zr5TUKMPjp807wkR7g==;64iBxqSObi9SDezvoQfGPQ=="
