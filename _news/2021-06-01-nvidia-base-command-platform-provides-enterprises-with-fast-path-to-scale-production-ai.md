@@ -82,20 +82,6 @@ related:
         width: 1199
         height: 877
         isCached: true
-  - title: "How Nvidia plans to own the data center with AI"
-    excerpt: "Nvidia Corp. wants to transform enterprise computing completely by making data centers run 10 times faster at one-10th the cost. Nvidia Chief Executive Jensen Huang (pictured) is crafting a strategy to re-architect today’s on-premises data centers,"
-    publishedDateTime: 2021-05-29T18:37:00Z
-    webUrl: "https://siliconangle.com/2021/05/29/nvidia-plans-data-center-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/04/huanggtc2016.jpg"
-        width: 819
-        height: 546
-        isCached: true
   - title: "Nvidia announces more certified AI server systems at Computex 2021"
     excerpt: "Nvidia Corp. is expanding the number of Nvidia-certified systems available for enterprises that want to run artificial intelligence workloads at scale in their own data centers or Nvidia’s cloud. The announcement was made at the virtual Computex 2021 event today,"
     publishedDateTime: 2021-06-01T06:00:00Z

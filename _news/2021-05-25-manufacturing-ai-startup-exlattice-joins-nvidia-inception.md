@@ -1,55 +1,26 @@
 ---
 category: news
 title: "Manufacturing AI Startup ExLattice Joins NVIDIA Inception"
-excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine."
-publishedDateTime: 2021-05-25T12:50:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
+excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI"
+publishedDateTime: 2021-05-25T12:38:00Z
+originalUrl: "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html"
+webUrl: "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Johnson City Press
+  domain: johnsoncitypress.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
-related:
-  - title: "Nvidia’s Next Major Wave Of AI Revenues"
-    excerpt: "It is a good thing for Nvidia that most of the hyperscalers in the world – or at least the ones that matter – also have substantial public cloud"
-    publishedDateTime: 2021-05-27T03:15:00Z
-    webUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/"
-    ampWebUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg"
-        width: 937
-        height: 592
-        isCached: true
-  - title: "Nvidia CEO: ‘The Next Major Wave Of AI’ Is In The Enterprise"
-    excerpt: "Jensen Huang says the chipmaker’s channel partners are integral to Nvidia’s new sales push with enterprise customers, which includes the new Nvidia AI Enterprise software suite that enables GPU-accelerated computing on VMware’s vSphere platform."
-    publishedDateTime: 2021-05-26T23:47:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ceo-the-next-major-wave-of-ai-is-in-the-enterprise"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0269-125f3b030706-73bb79955dcc-1000/jensen-huang-nvidia.jpg"
-        width: 609
-        height: 457
-        isCached: true
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/johnsoncitypress.com/content/tncms/assets/v3/editorial/d/aa/daa84b8d-90c2-54e7-9b23-7b4a0bc1eb1d/60acf55dd58e4.image.jpg?crop=379%2C213%2C210%2C0&resize=379%2C213&order=crop%2Cresize"
+    width: 379
+    height: 213
+    isCached: true
 
-secured: "NffP7e1JmJysj00tIoevD+f4CWMszg4K2eA1pVGkVqD8hnGCrDy1rIpyTz+YOHpsnlrQM8J9xhclRErRRmKAwQvd9E6DM1AMFVoo0qsYRM3N9iQcvGAQ+CbF94Y741lhPAvQDCzAYIk5DS2ePmsgd/6/3geQ/ttPtEkXwdKhaxzmf2e2HfyCOYKgaafTVwOMFFsfAlF4AX50AOFuaKDYr+OAZJibI/tVz5QIy5D4ixl9D6Rv8Nr1CdgDaSH482fyRTcEboP3t88v1RQMrNhMmo6jjd8d5fW3IJG0r0xEne0j2X3uvHFp8mHNEa1gFRZN+Q+VamK7EfhdUH5dU9XDowU3LZrVXoIY/BDxhB2sOGQ=;qUB2Dur5ZeLd003E7NT0BA=="
+secured: "PlCd/Rkl7BbPxt6J/iQMWF+et/dWpE0vr6KW7x2Ip29yUVA9oJ4jhrQKDDnl5b/HwcGAx/EvZ2uTwvfMBQrh06wdjzzWidncyWDBW9eJ0BKbNfkcFZ8J0+cC6cUJF6JT9nLfu+o2rlqxDlrJnjkA15GjJ4KlzVp3XM6kz4zRmZYoC0yh1puPmZ2Ua5BU4nSo8qd1zEa8gVG1pJdOxWG/HoBFZDVOepcg3kNh4gYWhOudvq16jt6QyBprK1Hx/wbuuxkinuJ35V+14FgZRk5p1+BQL9hQ6K0xgdbeVF6k17FEdc8c7t1ThJqCsmpp/q0WYXV0H0cRe4OiylgJ3H7YRT81a1sirihsjwLV9oHMKUs=;5Xvn3O2AOE3IWjd/+EjmWA=="
 ---
 

@@ -38,20 +38,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
-    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
-    publishedDateTime: 2021-05-31T14:16:00Z
-    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 43
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
-        width: 765
-        height: 509
-        isCached: true
 
 secured: "4teQmXEctlKZeGDzmxHzaSOyqy3ZukCFJbcFH1c67xBVH6c8PScSvYUZItFu/0RtMr3Sf9TS9v/U2SzOXbGLUEC+/sqqzc2r5VSxaI6r7vYHdYZA5L4U56ZpjIiLpcYT5pDYHKpx0VYIAbx4FFOWnFHqIfIVFyzmYZTeA3bhwZkaXgD8Lq2b3wrcp5QhgbyAwHyBK94bvvLWPCiANDUjsuJn7B2802zC8FayVY6mhajpi62A6E9g6213TsmgzXilYHHeGdG58poVnAXw4zUH0Ugn178iTBxTLcBQeOoYUyQeGaQqU9YS64LQvEfzgJmtLOugaTxFxUr5E8wCuZpIRbNAqUcERxij6/7wnscZ3FXJZ8+tTkig1RirlzL5F+csuT3PoOb/J6JkAmF4F0NC2pa9DP7o1FCfb36N7xJfd9Xy0zvTp30jlN3XPuln3qVfoU7q0MaYk/Gq+kcVRwSA2ySGGEakBUEXWYQQBR1Tyg0+b7dRrhO+1tLYyKlDfRu0mqKySM1pTE7v2CNleEmRUQ==;m3G7CnbEwLkjNgbo4wJ7yw=="
 ---

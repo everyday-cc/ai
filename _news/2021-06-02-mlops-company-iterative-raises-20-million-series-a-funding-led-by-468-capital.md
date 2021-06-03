@@ -3,8 +3,8 @@ category: news
 title: "MLOps Company Iterative Raises $20 Million Series A Funding Led by 468 Capital"
 excerpt: "Iterative, the MLOps company dedicated to streamlining the workflow of data scientists and Machine Learning (ML) engineers, today announced that it has raised $20 million in A round funding. The round is led by 468 Capital and Florian Leibert,"
 publishedDateTime: 2021-06-02T16:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382620.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382620.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-mlops-company-iterative-raises-20-million-series-funding-/2021/06/02/9382620.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mlops-company-iterative-raises-20-million-series-funding-/2021/06/02/9382620.htm"
 type: article
 quality: 15
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 600
         isCached: true
 
-secured: "V5MiFlMyZ7PS117hTrYCcSl28ssESnxC1M2hpcRGcMHRoE0e3bLijCKZ+08XucEWyR5hFKE02020X0mQ5mHEfnFxFdWes7g2z705jYvC+kTtYIKu8xiW7IQgyAOlNqYcMlrFru84fCBgj9LNdpAXJ/eNChv2m4lU7ZRLit3UB+8wfPAWemOsZzkV3xrdwsgCGCwVNXpkjiSNvmaSeMyN0pYglOykge3Y883xJURPrcxp7DqJtQ3BLtLB2gu2fPIqfpyrXvB0RkzK3QmVZ4HPs1VV1H+vitINSMy2Q0Jeo9fpplqkDcXiTr4o9mos7xZt+CaRHD/oIBwtkPWc1n/H01ZNatWej9dtxr2uMU7oGaQ=;VgzO3XviRG0ZlirOHNNasw=="
+secured: "6ua4aMqX3/g4Br8CttOXHr80RgLG3X6QGse2zLl7bJi7pj44ucA8aSzmPozdK1BzJI5YvVor3H1aBpT/Jd5DAP6qGuZhNVSSQixRzt5/DfWV572M2jpz7w1u8K8tcnZ8lYUKX2K7GbwX3su5MY0SZhYhQwLmvCTEKPdKZUQ1vQhg7JfH/iVfW/yGkPOCh1U4Dxvngids9Ko0eEPKVLSbYl31eC/iTRtn4B3BqyTZYkzOvuAA+hZX4hmfAd+l4H5tbeIzkmHd8wNMDM4PtscOq6wVyMs6EtXQqV4KliuO6redSAklbC4Si0e34edAlZVXvmZIMmWrIl6F4xlCL0/f2ZF10uZJswwf7SXUJ0n1y7s=;/0Vd2r+dMD5jbu1rST/31A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/facebook-goes-all-in-on-pytorch-at-f8-refre
 webUrl: "https://sdtimes.com/ai/facebook-goes-all-in-on-pytorch-at-f8-refresh/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/facebook-pytorch.png"
         width: 1166
         height: 646
+        isCached: true
+  - title: "Inside PyTouch, Facebook’s ML Library For Touch Processing"
+    excerpt: "Facebook has evaluated the performance of machine learning models on vision-based tactile sensors like DIGIT, OmniTact and GelSight."
+    publishedDateTime: 2021-06-03T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/inside-pytouch-facebooks-ml-library-for-touch-processing/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/2021-06-02.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "eYUCvdkouogXNv0OMFnpdbd9jxk0gud0R/2PjhmA3wfHk13LzHTVdpKzGyrvebRA+jTeTWppNsWztdCddTZS/asbEszsaHia55FolxgvOUcoGQSzL8+eu41hq92dA66XNIaH1NuHMhI0wnsL1h70PIshuv1OssaLJAYSjYfUqwxILD5gCZXbj3gJLPFvoKZ7QZYvjHq7g0NHiqH/IQrKQxSb56T4Cd6jz1KvpAJS1Kg8yucM7GAmjYaZ5EnfRoHr7pym1hVZ1zU2fWu+FnAjzROa5rVcUxF7kEztVfYAsf9GJ9OECnXIBH/YveWlLfW+dbTNKYUHoLwam4I5ZPljsez41lGdHPCqvmOZwh89GlhPAs1lVPnhwobz6MndCVuAWwvTA1tLrQUArtNtJ3CZLWHRAQ9N3RYJZjPdgkHr64aw6Es7sr9RAcBdigRCZ8znxEe/Zw4q8Wu3wy/D7u9uB5w1kiN4CrbEhFUoHEa1zHH1LkngnvxqMkJq9ayj6xDVi07Za2w0VF3Cs++7SFoWSw==;FkBT7Eipd4YIEAtycyf3gQ=="

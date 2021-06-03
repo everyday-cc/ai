@@ -105,17 +105,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "New Artificial Intelligence Tool Assesses COVID Severity"
-    excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
-    publishedDateTime: 2021-05-29T17:36:00Z
-    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
 
 secured: "eJeLKkBR7Px7dPc+DOdhlw/auQF5zqkkeCXjrdEIzuwGV8uVf96b0j5OdB4S1h1ZXBaAoFLGHbeZLTTJhoNIa4xd8u5DoVMD3rlVswDriasO95a1lk5rYl6Ik8p0PlndaKCDVnOiJeCSAexqBQedBaQqPLfRnNvnBT5eOrsiZ0z+9saGfqdLEBPW/0e2/3FGc3cs/JGq5AkAzVY3KlTyEi31IxXINOhITfFFvxUKIpTVx3tNjlqqmi8BnPmaTCVU8iL68bNvmu7LRLOpJ4Qjk2xzTnbRXjnvcmADEMzEnqSlt4Lh6hAeLikSAdAKC7KqAFmtz3NHaQwEUt1MgkLB7vsRNNrke6HX9AnAFYx1jGH4J9TsC2C6+6OxSRtuLDwB/J7mXaMJk+OHc26PEv8LtlQtGY0GIyoIvp2fvBtU0i7FT1S1tY6E8PK/aOwLEkDxzLHRot6kW70S7GoW3RenkcQHxoEDYyqCaciFNyV3KOXUi4my89P757AQmCSaGXzBdS8C+C4phFKIdWFw5zqRLA==;w8dEPQeSGVOjWu+dtAetwQ=="
 ---

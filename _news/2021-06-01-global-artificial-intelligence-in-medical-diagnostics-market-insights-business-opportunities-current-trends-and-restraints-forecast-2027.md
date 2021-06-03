@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the"
-    publishedDateTime: 2021-06-02T17:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02"
+  - title: "Service Robotics Market 2021: Global Industry Growth, Size, Share, Demand, Trends and Forecasts to 2028"
+    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2021-05-31T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-2021-global-industry-growth-size-share-demand-trends-and-forecasts-to-2028-2021-05-31"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -58,26 +58,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "FinTech Blockchain Market Worth $36.04 Billion by 2028- Exclusive Report by Meticulous Research®"
-    excerpt: "According to a new market research report titled, \"FinTech Blockchain Market by Application (Payments, Clearing, &"
-    publishedDateTime: 2021-06-02T10:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21384559/fintech-blockchain-market-worth-36-04-billion-by-2028-exclusive-report-by-meticulous-research"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21384559"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21384559"
+  - title: "Computer Vision Industry Production Capacity Estimates and Forecasts to 2027 | Industry Size, Current Trend and Future Demands"
+    excerpt: "Market Scenario: <br /> The global market for Computer Vision Industry is expected to surpass a valuation of USD 48,300 Mn by 2023. It stood at over USD 9,200 Mn in 2017. <br /> The market is projected to expand amid rising applications of augmented and virtual reality."
+    publishedDateTime: 2021-06-03T03:55:00Z
+    webUrl: "https://menafn.com/1102201197/Computer-Vision-Industry-Production-Capacity-Estimates-and-Forecasts-to-2027-Industry-Size-Current-Trend-and-Future-Demands&source=30"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
-  - title: "Global Machine Learning as a Service (MLaaS) Market Will Generate New Growth Opportunities by 2027: Know more about Top Key Players"
-    excerpt: "Syndicate Market Research’s Latest Report ‘Global Machine Learning as a Service (MLaaS) Market 2021‘ Analyses Research Methodology overview including Primary Research, Secondary Research, Company Share Analysis,"
-    publishedDateTime: 2021-05-31T01:13:00Z
-    webUrl: "https://ksusentinel.com/2021/05/31/global-machine-learning-as-a-service-mlaas-market-will-generate-new-growth-opportunities-by-2027-know-more-about-top-key-players/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 4
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 11
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/02/pr_12202_41aa052b_image_story.jpg"
+        width: 375
+        height: 530
+        isCached: true
 
 secured: "xN737+raoAjR5eiuSaxIAC4NU7/zIP7GBydb58M3GDmOpQ0DB5zj/xBg+ygk34XfOd9H9EAjgkxB2sBIbrfx/osYIeQVQECvyrloRwVL0eKi20HKdQ/aaVtnLtqQVFuXB+1d+e5xWgXYQ1bkwCWGlD51nwtoMscO7sZBvyyb/Apok4+4yXDvZMTCO4Q5OdiwYBRyS3iU1x1iumkMEaBr/eKOYFL3gf9fFJkfgY1SrCbdfIA9XZrO6l7eHrreWTwcQF7ke9XzMNvxbGKSaWn9CCl2Qk5hxpOFpkgQvNfhUIJtFo2ytv5yolYuMGfmtFGT3/9k5PNR8kwBlD4MN7X0m+z0b0xhP49mTVtMTmD+geE=;zb/e/4EVaSH7Jfdtn7eBww=="
 ---

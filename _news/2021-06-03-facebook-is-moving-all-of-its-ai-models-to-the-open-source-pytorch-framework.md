@@ -40,6 +40,20 @@ related:
         width: 1000
         height: 653
         isCached: true
+  - title: "Inside PyTouch, Facebook’s ML Library For Touch Processing"
+    excerpt: "Facebook has evaluated the performance of machine learning models on vision-based tactile sensors like DIGIT, OmniTact and GelSight."
+    publishedDateTime: 2021-06-03T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/inside-pytouch-facebooks-ml-library-for-touch-processing/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/2021-06-02.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "lUXxaBfAGik3FIBGTmSWw9nGcGFFmBFHWPBza5alvbq7q6ufQZOpFTFEzWRj+yBVbl8Xm7DDoDOEXQAx9NiVmWJHNTNWJGsxWY11+/9adrinuWjrdmPsXFqYiOEJDLwKnevwDifKHxPRNTmA5ysnlNFChAYu86y7ArqG5kGPwBEP9NzuwBLXoxHcL1ycd0o8iWspnIhSieB+lt1Zak0kY7/jj7kwboJJuD9mrclmN2YFVV6nIGU21OR+wvR4PtsFqoUS8sHHZx6tWbMmtxafG5Ufsu8Xi/EDix067GxQr/zfOChcJcfr23ZLzMB6eYP9aup7tHBbExUcFrwl7G6NLrysl+ArTYM2ILw9tdZZIeHBpsdUgO8ardnkP04JyGqlTAvFFZw6dAGozSJgtcJE3PDdFEXVCYp7u2+182PYg9KnJAWrKbpynUfycVYbXzC7CVTj1kFMhsOj9+TR8ZLhHXQwrqfB+PaQ70F0O3yI6T8vco8Y66M1660LtVDIEGqfxIXbBZnSrUFjCamipZovkQ==;mrTEG+Ib4MEU7tXkGC0xQw=="
 ---

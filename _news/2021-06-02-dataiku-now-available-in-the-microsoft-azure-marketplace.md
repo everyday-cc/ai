@@ -174,6 +174,20 @@ related:
         width: 1462
         height: 1056
         isCached: true
+  - title: "Morgan Stanley goes all in on Microsoft Azure"
+    excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
+    publishedDateTime: 2021-06-03T10:20:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored"
     publishedDateTime: 2021-06-02T08:01:00Z
@@ -189,13 +203,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -222,6 +236,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
+    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+    publishedDateTime: 2021-06-03T10:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -241,6 +264,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "sRoQN/OVbI/LXJeLBws0mDpA9UaEZko7w2MzQzgF+sdNquU6PThS9SyyVJrUirXyXJ2rcUoV2u/2KG6B4S2K2Asw9n5fFnox6GdU4adFAtPdLaVqoM2wiLbkMY313aF6nFYXI9QF12pyG7uMcPphQk+4z3PlImUyfIo3dLPpWNiGbKGYgqBJpCICNLEOiK+xMrOAJHNa8aQAfnid5K/w3BI2lJQv5UYESNdU3TePqtaZ6qma4a3wSv9ObNYMmfy0KwIeIaD4jl7FrvtZelpr74a+YmdVVD+W/zdKoA2C3HmZTaZxi9J6YFNq8Uqgr522tS8xaoHh37paPT8IHmOkLFzYjgiCDgthyJHVRjrSYM0=;BMapUZDmBTLwTh/FwSQ1bQ=="
+secured: "xnocpFw17j3zhZJlwQGEcUXmTYH7G+kqUe4dK+IpvUXBd4NlTeDXNAcvjtQygTQ5rDQpD24sYNSWz544b9Yk/xJQx6S5VyaNqHFC0/gCIBe0sxoN2riitPDr41RmP7Htc92oSDq19h52bsh+1IzkD6Bceo7qIS+4vJ7PED4YU+Hjv2WOL9M1P8W73rQ68dXwfdEnMrcVRB2BoI45+3UNRPIGkM3BNvJwWVowyAOTEfLujzN2lnCA3xWLsFDjC8WJLg6ZonNqesnhs3coWPEN8y0KkvZ5/aukLxrpowqMBox2muqGGvYnDMew6L3dEjca2h9O+H3IjuZaMWwoR1h80NAcCkmwC6QfHWCRE6lZBddYK6QcjZKsEZ4j0ixfkkDUKAp+zMjAEUIUbUro5oyXMK1xECN/dpWOSjyytpIckfOcVZme0TLfBsKUMI9gnuCa0/pi8NSw6nvzl8Awty2G7htwFOepCrpvyevL2bN+DIk9UNNBgVVstuA58rP2Qls02xwS3kgftU4cFlOJn0bD+w==;I0B7y3ddyxntc/tXJolJ7g=="
 ---
 

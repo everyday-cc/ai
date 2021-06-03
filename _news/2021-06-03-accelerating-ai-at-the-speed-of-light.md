@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-lig
 webUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
-    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
-    publishedDateTime: 2021-05-31T14:16:00Z
-    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 43
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
-        width: 765
-        height: 509
-        isCached: true
   - title: "The Military Is Embracing a New Era of Artificial Intelligence"
     excerpt: "Autonomous jet fighter technology has performed quite well in dogfighting simulations against human pilots in air-to-air combat."
     publishedDateTime: 2021-06-01T14:02:00Z

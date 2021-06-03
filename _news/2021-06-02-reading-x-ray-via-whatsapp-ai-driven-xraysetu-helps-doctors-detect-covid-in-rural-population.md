@@ -91,17 +91,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "New Artificial Intelligence Tool Assesses COVID Severity"
-    excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
-    publishedDateTime: 2021-05-29T17:36:00Z
-    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
   - title: "XraySetu: This AI Platform Will Accept Your X-Ray Over WhatsApp & Check If You Have COVID"
     excerpt: "An AI-driven platform called XraySetu has been developed to identify COVID-19 positive patients even from low-resolution chest X-ray images sent over WhatsApp."
     publishedDateTime: 2021-06-02T11:11:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -182,6 +182,20 @@ related:
         width: 1462
         height: 1056
         isCached: true
+  - title: "Morgan Stanley goes all in on Microsoft Azure"
+    excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
+    publishedDateTime: 2021-06-03T10:20:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored"
     publishedDateTime: 2021-06-02T08:01:00Z
@@ -221,6 +235,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
+    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+    publishedDateTime: 2021-06-03T10:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -240,6 +263,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "o8eVchqbGloEF24FrgFR2h7tgoqaWNsVuLV34huUGwUiDMw3qh3L3+rQ/r5ozBhDPlBT8RWBOjty2bFYttxlCh9OCkIpUgC1zoUtVFAapJZj7QtZw5N57bO2hf/IOD5b9eD0lxi0sq2cc7U93m71RsS6aX7cMTcDhZc0KPzU7fMezayTbXxEKZ6C7tJDICb80/H46gkDlkW23dA4MkRYxTygo41l3gJ9oBQtR4xF5n7B2MG/3oxV8DKOPq25C3/nuFKNiVRahxQWbhDq4cfQMe7AFvHM31MgJJ/JnKPD70wOeJkt4zlu+gcZmA/lqwmXw+X7BVcvb+JJR2lJFTQuVegz5ism4S9UGj937++Fa3Q=;PRfrsIUoGHSDimy3e/2Tgw=="
+secured: "nJOleq4PvdkzWSBrVKhhMoxDAzs/cqz9LXpcwwjfrqFNqhL96Is97zc050L092UV0JQaYIdbl9wO4OGKMcyXsNHj04RLpUs+6WsJC5Gl8MYitmw9JVEJ1om89J9SXFWGwvK1Crz3gI4yTZOjyc3jtbQOXM0pUM9hcCdL3HIrFy44aUNwb1XVdj/7o1dBMRyoyJ8wtgE29ZpoBSpQsqTNIIqhbenL0CclqFAE9UM2In6RpRUEWcQT27WoadN/y5/RDF0pr65ocC3DmkdEX2lb4gKuwndQOwmH9YUon4/BTvMbWuUSSglzVLDFB557LsMgyk0DBLAWWEEgqv/mcavdM+BdWqXF2Qc6L479iaViRqs=;NRl7MeJE5a0TUq8y65hsMA=="
 ---
 

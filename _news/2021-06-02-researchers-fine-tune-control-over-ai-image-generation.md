@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-fine-tune-ai-image.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://theshillongtimes.com/wp-content/uploads/2021/06/AI-P-9.jpg"
         width: 1000
         height: 465
+        isCached: true
+  - title: "NCSU researchers report breakthrough in creating images though artificial intelligence"
+    excerpt: "RALEIGH – Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training."
+    publishedDateTime: 2021-06-03T11:29:00Z
+    webUrl: "https://www.wraltechwire.com/2021/06/03/ncsu-researchers-report-breakthrough-in-creating-images-though-artificial-intelligence/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 31
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/06/ai-images-e1622719742715.png"
+        width: 942
+        height: 530
         isCached: true
 
 secured: "XFiW4am4U83apM3+A7Dap41gEGlZPvZF8jLD8jkwZF9Ox6dNt3BNI/Z8qAAlnf9QbATGGPxhxP0OIx/uNEp4c9qoAEaRptndMoV8Syz3zzdKWHi1ayjE1mRASR1tm44hz0uoK+NefgWxHU7DBb+XemqgA469H+v0bGx0YOeJ1seZ6grKEVHaxRVbEstdGBmmClWwomIc8ZIB8E+3hPtRVUmWBUIZl59GRz0BwqO94jGHPVKludCkb4zCa1Lu1Ot1RqYt1WuNFdNzcfAaRDJPA1YL0dTwNp3IJ2JcthUScKqciTvu/fvbG/l8bTCsig9xFhPioJEtkLo4SgMzjwviUSu1W8qvoS67TV11A5ASDMI=;kPyDGZHbl2kAp9ZBX3FXrw=="

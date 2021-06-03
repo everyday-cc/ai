@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Canon's EOS R3 will keep fast-moving sportscars in sharp focus"
+    excerpt: "Canon dropped a few choice details about its upcoming pro-focused mirrorless flagship, the EOS R3. Now the company's drip feed continues with some more key specs, including improved tracking autofocus and internal recording of RAW video."
+    publishedDateTime: 2021-06-03T11:42:00Z
+    webUrl: "https://newatlas.com/photography/canon-eos-r3-update/"
+    ampWebUrl: "https://newatlas.com/photography/canon-eos-r3-update/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-eos-r3-update/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/c43aec2/2147483647/strip/true/crop/1200x800+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F12%2Fe3%2F2939732e4a24a9138a80b89a1335%2F03.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Canon EOS R3 will shoot RAW at 30fps, RAW footage internally"
     excerpt: "Auto Focus (AF) tracking for motorsports including racing cars and motorbikes and the ability to record oversampled 4K video are two of the features of the EOS R3 now revealed by Canon. As the company did before with another R family camera,"
     publishedDateTime: 2021-06-02T09:05:00Z
@@ -54,20 +70,6 @@ related:
       - url: "https://www.newsshooter.com/wp-content/uploads/2021/06/r34.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AF tracking for racing cars and motorbikes more details of Canon''s EOS R3 revealed a high-speed, high-performance mirrorless"
-    excerpt: "Following Canon Inc.'s initial development announcement of the EOS R3 – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
-    publishedDateTime: 2021-06-03T02:49:00Z
-    webUrl: "https://menafn.com/1102199159/AF-tracking-for-racing-cars-and-motorbikes-more-details-of-Canons-EOS-R3-revealed-a-high-speed-high-performance-mirrorless"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?388936"
-        width: 352
-        height: 250
         isCached: true
   - title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
     excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"

@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "How Healthcare Will Continue To Rely On AI To Save Lives During This Pandemic"
+    excerpt: "When we work alongside our customers on strategies to help them employ AI algorithms within their health care operations, we see industry leaders ensuring they have a solid data strategy in place."
+    publishedDateTime: 2021-06-03T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 101
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harnessing artificial intelligence's potential in healthcare"
     excerpt: "The adoption of AI in the healthcare industry is also gaining momentum in Gulf countries. For instance, the outbreak of the Covid-19 pandemic across the region has prompted two UAE-based health companies to launch the “world’s first” AI-powered rapid Covid-19 antigen test."
     publishedDateTime: 2021-05-31T09:46:00Z
@@ -39,35 +55,35 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "AI prompts a scramble for healthcare data"
-    excerpt: "Covid-19 has opened the eyes of the healthcare world to the promise of artificial intelligence. Two years ago, AI applications were largely seen as demonstration projects and start-up dreams. There were “nice to have” experiments in triaging mammograms,"
-    publishedDateTime: 2021-06-02T04:01:00Z
-    webUrl: "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d"
-    ampWebUrl: "https://amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d"
+  - title: "Changing attitudes to AI and the opportunities to utilize new technologies during the pandemic"
+    excerpt: "Some industries have pushed ahead with their use of AI and machine learning, but plenty of others have seen little change in their attitudes towards the technology. For many companies, the value that they have seen with AI during the pandemic has led them to recognize that they can utilize it further and prepare for the future,"
+    publishedDateTime: 2021-05-31T09:30:00Z
+    webUrl: "https://www.itproportal.com/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 45
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce9e9331-316e-4c4c-a6a1-a1d8f77ec840.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "The potential of artificial intelligence to bring equity in health care"
-    excerpt: "Nearly 1,400 joined MIT's AI for Health Care Equity Conference that explored new artificial intelligence technologies as a platform for change."
-    publishedDateTime: 2021-06-01T17:57:00Z
-    webUrl: "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601"
+  - title: "How Artificial Intelligence Helped Fight The Global Pandemic"
+    excerpt: "Artificial intelligence (AI) is a large subject of computer science devoted to the development of intelligent computers capable of doing activities that would typically need human intelligence"
+    publishedDateTime: 2021-05-31T14:16:00Z
+    webUrl: "https://gisuser.com/2021/05/how-artificial-intelligence-helped-fight-the-global-pandemic/"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 71
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 43
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202105/AI-Health-Care-Equity.png"
-        width: 1500
-        height: 1000
+      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-31_7-14-56.jpg"
+        width: 765
+        height: 509
         isCached: true
 
 secured: "Xv0c/VI8cqMtLPadU/YK5mwRcB8+fq9vztwbZTvf8XDn/GbtaJKW8kq4npCeaV9jsa+tFW6RwIksqBRIDvXPJOMpo/B9pbgEM8hjgjC8CCsWMkEjYPuUP6uFKCGl/UBJFW/mT8AMFE1evt2Seu37Xt/5k5zTJUWPcHf8rp1ptRsTWNQcDOJLrI7Ps27gYJg9GVSX8ouiUibgUz/Ss5BuuqjhUFtbIUGjwmeUyS9cDMYW8Q7Yx2ZylbB7TAnWeTo9xxZgX1d50lNzu65t2F2KdHYIXEA6zTznNR18bOjVN2g20NDEwPePf105zX0ZtwWixF44C7N1jmCTzScy7OJRY7p1zFJ6B28bQT57v8wdVkM=;TRG2T6mSK3paji4y7uAfcw=="

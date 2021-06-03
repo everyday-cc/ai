@@ -2,17 +2,19 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-apptek-partners-with-intel-foster-development-next-generation-/2021/06/02/9382200.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-apptek-partners-with-intel-foster-development-next-generation-/2021/06/02/9382200.htm"
+publishedDateTime: 2021-06-02T12:41:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21387911"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21387911"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
@@ -29,6 +31,6 @@ related:
       domain: businessinsider.com
     quality: 26
 
-secured: "WaUgEkeiIay/u31IJN6J3iYO9lgcjFcX73YtLV9JXXveyf0cKZnWP21RWBemmn+A63PI/MQgCSWmNRyg8K/gDkI9AA3r/yDcvQWtltJgSl7Yx7luXVRPq065il7cQi3ty6Lz7ANT17s1jL5dGFtTCeCYJuDeUR6SPRa7B3Fa/dCnPaRfqX2WY7oDL3JEFA0gFatX7EjxasIHdURGsmWEBK+IpKIRly5WQXXz9suEOURkayYUrGrMFj5iLH7IqswxV+bBAt5Fg8iX6zTQMVmSTgKe0y8FIADk7cCgDyIPra00uHBFrc0TpydS7N786dm8sBTJCBpXDeds6qt5nawyYyzbjThG81Ezq2pdUVUhVYY=;sti/wCzGBtuva5d2vCR/Zg=="
+secured: "7aiJuEUaDyv8ZZzMEQPyKk5cLzaceQSpp9US8A9BHkqDH0NU9r8/+NylEOdZ0uyJOm68zydTbRasVsbXo/DWGZ7/Ms8rvqOAQgHCcGOYFHErQy45VH5qw318iYwv8zMCl79R2O+jJ7exXk2Yrc3YfzdOPsirbW7PMZBL4EW59y4d/HOl4eOkqrp/Y9nRR9vgNBS9gMUZVPMBuKaABY3+lJOb/pR3/cp9x4vaZ4rJNaoi81rUpq/m9UWIfUetBYQYH9lLjyrg9IEhoDwodaKb7oHwo2ALqHMEcTSe1a8EhTxgDA0MZXeKTjrAuaEvU4J8AWmz99mvdECJLT7zCX70evu32Fv4gk+lS9MdniA15PA=;ojTDZ5c2iFWpbhKSRGTS8w=="
 ---
 

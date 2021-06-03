@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/incoming-missiles-dont-stand-a-
 webUrl: "https://www.autoevolution.com/news/incoming-missiles-dont-stand-a-chance-against-royal-navy-ships-new-ai-system-162279.html"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,40 +22,6 @@ images:
     width: 728
     height: 300
     isCached: true
-
-related:
-  - title: "Changing attitudes to AI and the opportunities to utilize new technologies during the pandemic"
-    excerpt: "Some industries have pushed ahead with their use of AI and machine learning, but plenty of others have seen little change in their attitudes towards the technology. For many companies, the value that they have seen with AI during the pandemic has led them to recognize that they can utilize it further and prepare for the future,"
-    publishedDateTime: 2021-05-31T09:30:00Z
-    webUrl: "https://www.itproportal.com/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 45
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "How Businesses Can Integrate AI-Based Technologies to Analyze Their Software Effectiveness and Reduce Cost"
-    excerpt: "Adopting AI-based technologies into your business won’t only save you time in performing your day-to-day administrative duties, their integrations"
-    publishedDateTime: 2021-06-01T19:00:00Z
-    webUrl: "https://www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995"
-    ampWebUrl: "https://www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-businesses-can-integrate-ai-based-technologies-to-analyze-their-software-effectiveness-and-reduce-cost-02408995/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 39
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/05/AI-3-900x489.jpeg"
-        width: 900
-        height: 489
-        isCached: true
 
 secured: "vMetk6Ht0hitXKV/Djmaqs18r8q2OCeInBCqY+23znRhquIBXLnSC8MaF13JuF8rrg6Kxvitf5cOv0yhue3rVzEjjWc5mmk4Jr7g9CBTlr+YsjEN55AEY8uPqSEExkAvSIKKTCi8oi0x4b9ghxh5WnUVJtuHStbvxyxcrm5iZ9Nkull90yyxgFe3yrPvSNL6qPJW51gDhooQP8XxHA/jiqfKW4Gias58yziXRPD6McGZFv+9aDpr7Vz+PNUEg6uZtoAaq8scR4AtsbxPLcQXQf9GLqC0y56ON1WXzcAwCLPgiDl6MuTQAHkTwNp7jFJalXl0TkiwblhlS93c/lj/Bxw6ic+xUPbsEC0HjnZVWjU=;MUHlol79JRNhp/4wE+ie4Q=="
 ---
