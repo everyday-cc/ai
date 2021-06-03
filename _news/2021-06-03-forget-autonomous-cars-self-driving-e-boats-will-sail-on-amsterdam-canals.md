@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/forget-autonomous-cars
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -43,7 +43,21 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Self-Driving Electric Boats Set to be Trialled in Amsterdam"
+    excerpt: "Amsterdam is set to play host to the testing of a new fleet of self-driving electric boats dubbed: Roboats. Designed and created by the Amsterdam Institute for Advanced Metropolitan Solutions and the Massachusetts Institute of Technology,"
+    publishedDateTime: 2021-06-03T12:28:00Z
+    webUrl: "https://hypebeast.com/2021/6/electric-self-driving-boat-roboat-amsterdam-trial-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Felectric-self-driving-boat-roboat-amsterdam-trial-news-TW2.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
-secured: "DsiQsVF8VyR90RvXgHeyacea+m0KaLQQCFBX4nsu7UTgR/GL4OTtOSNWVgywUI1by5LTC/OhP5q37LE6oYbwvig1dDY2tu23UEXHRdKVQuHemLpUN0vi1FNqXETDJOG6zGrrQszPofjlx6DI01Rd4SJEdN2Ddh8aVejGofwtodjNpTOUI3K2V4BNk7TcXKKQ1zLNeFLm+hayDU1uHsLSgOFzXuOZW8jW0HuIEUXjxoq0xuv39SM8EHVA9bk2nP5t8Qw48SeoIuNCLrox/qTKxxsGsdZaAQYiW34zP6NuJI0X8A7kgKPuz2BVlHvAODgBXCGd5kt2ZH1f2tYm0FhT3NrMfIrQRbWa0hwx5qIYAwg=;teaMbQ+NoKYHugcfOgOaKg=="
+secured: "+IqIDb8QKA/X300i2qnK/D/s2YzmiYJ6wIpoRZsdeZhbUwAeHUdxEazpFRxHC89NI4mHocZYIKLLgO2uRulIpJUMcRWfWgTEfvqKsToURkLecfjKV7ThNrdZVG7JhwJhkRMy3GtEyHtzh3Bsd5biLH5c0hT4+LqDhDOyAGGlY+G4IxnuUhJq3AKlxZ00UnoU3k8yfMZjQePQVYhOdI4YS2uZugDxfI73NBJgsVVaCgHCOaxDj4QPDwC5ppiJxRRw9qHe8z/HlWYRiuitah/h81/14GS8Pc59MwB88mXDcdMHc8nMBB9bkNNwPycxV2lXyXfkFKQUfHt2Y3jKp52tE+T8gYsJX6bcfP+RFUxvXYGRcn6nnQZlq0cySBnyWIM31w4B5qKxHLzyi0pq8Q1pkl9eh1E8Q1fsW7LMGn1Hjpg03CHkrg4Zr6cT019PiaJzQf/EpAD0KGjD4WVXRUr3Vx0dfKGi0gzLFlxheI9TH9WtUE7qY/V4K0geNVgBm4YLIeIkdm6cfCHCWVdIRwfx2g==;4P59zkqQKiMZJX0Uu70sHA=="
 ---
 

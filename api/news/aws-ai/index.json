@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of first DeepRacer Women’s League in India",
+      "excerpt": "Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
+      "originalUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canindia.com/epaper/CIFRONT-HOLDER.png",
+          "width": 252,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canindia.com",
+        "domain": "canindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-interact-with-an-amazon-lex-v2-bot-with-the-aws-cli-aws-sdk-for-python-boto3-and-aws-sdk-for-dotnet.md",
       "title": "Interact with an Amazon Lex V2 bot with the AWS CLI, AWS SDK for Python (Boto3), and AWS SDK for DotNet",
       "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 console and APIs make it easier to build, deploy, and manage bots. The Amazon Lex V2 console and APIs provide a simple information architecture in which the bot intents and slot types are scoped",
@@ -552,8 +596,8 @@
       "title": "TDRA welcomes AWS's decision to open data centers in the UAE",
       "excerpt": "This step timing has great implications as the UAE prepares for its next fifty and developing a digital future that enhances the UAE global position as a hub for attracting investments and partnerships.",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
+      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -570,8 +614,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/",
+      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210526141121/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210526141121/",
       "publishedDateTime": "2021-05-26T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1340,58 +1384,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent.md",
-      "title": "Artificial Intelligence And Automation’s Paradox: More Human Talent Needed To Reduce Need For Human Talent",
-      "excerpt": "Impending post-Covid boom in AI, algorithm and automation jobs means more talent shortages -- and re-inventing careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
-          "width": 1200,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/amp/",
-      "publishedDateTime": "2021-05-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

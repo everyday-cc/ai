@@ -27,9 +27,9 @@ related:
   - title: "Microsoft Azure launches new Nvidia A100-powered supercomputing instances"
     excerpt: "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads."
     publishedDateTime: 2021-06-02T13:29:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    webUrl: "https://www.techradar.com/uk/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
     type: article
     provider:
       name: TechRadar
@@ -55,6 +55,20 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/perlmutter.jpg"
         width: 1280
         height: 685
+        isCached: true
+  - title: "Cirrascale Cloud Services Broadens Deep Learning Cloud Offerings with World's Most Powerful GPU for AI Supercomputing"
+    excerpt: "Cirrascale Cloud Services®, a premier cloud services provider of deep learning infrastructure solutions for autonomous vehicles, natural language processing, and computer vision workflows,"
+    publishedDateTime: 2021-06-03T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cirrascale-cloud-services-broadens-deep-learning-cloud-offerings-with-worlds-most-powerful-gpu-for-ai/article_ab9710e0-a4c8-5315-bff6-bf45fef734c6.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
     excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."

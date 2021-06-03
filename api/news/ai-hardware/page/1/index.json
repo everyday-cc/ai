@@ -107,49 +107,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-02-researchers-fine-tune-control-over-ai-image-generation.md",
-      "title": "Researchers fine-tune control over AI image generation",
-      "excerpt": "Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-fine-tune-ai-image.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-fine-tune-ai-image.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-fine-tune.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-fine-tune-ai-image.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-fine-tune-ai-image.amp",
-      "publishedDateTime": "2021-06-01T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-01-nvidia-continues-to-evolve-from-chips-to-software-to-ai-data-centers.md",
       "title": "NVIDIA Continues To Evolve, From Chips To Software To AI Data Centers",
       "excerpt": "At Computex, new Base Command platform, expanded NVIDIA Certified program, and significant traction for DGX Servers NVIDIA made several announcements this week at the annual Computex conference in Taiwan,",
@@ -833,33 +790,24 @@
     {
       "path": "_news/2021-05-25-manufacturing-ai-startup-exlattice-joins-nvidia-inception.md",
       "title": "Manufacturing AI Startup ExLattice Joins NVIDIA Inception",
-      "excerpt": "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI",
+      "excerpt": "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine.",
       "sourceUrl": null,
-      "webUrl": "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html",
-      "originalUrl": "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/johnsoncitypress.com/content/tncms/assets/v3/editorial/d/aa/daa84b8d-90c2-54e7-9b23-7b4a0bc1eb1d/60acf55dd58e4.image.jpg?crop=379%2C213%2C210%2C0&resize=379%2C213&order=crop%2Cresize",
-          "width": 379,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T05:38:00-07:00",
+      "publishedDateTime": "2021-05-25T05:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Johnson City Press",
-        "domain": "johnsoncitypress.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1469,6 +1417,59 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
+      "title": "Google details new AI accelerator chips",
+      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-05-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI",
         "AI Hardware"
       ]

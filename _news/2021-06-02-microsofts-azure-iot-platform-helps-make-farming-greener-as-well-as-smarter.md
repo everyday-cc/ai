@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "From low code to no code: Azure GPT-3 and Microsoft's Power Platform"
+    excerpt: "Microsoft is turning low code into 'don't write code' by taking a description of what you want to do and writing code snippets for you."
+    publishedDateTime: 2021-06-03T11:59:00Z
+    webUrl: "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/03/5d7d019c-5b4d-4245-9a63-f4cdbf62dbd9/resize/1200x/9d2746c963e4d8f0c0f1939984e26709/tr-dax-smart-narrative.jpg"
+        width: 1200
+        height: 662
+        isCached: true
   - title: "Microsoft acquires ReFirm Labs to enhance its Azure Defender for IoT platform"
     excerpt: "Microsoft will integrate ReFirm Labs' firmware analysis technology into the company's existing IoT security platform, offering customers an all-in-one, cloud-based security solution."
     publishedDateTime: 2021-06-02T14:16:00Z

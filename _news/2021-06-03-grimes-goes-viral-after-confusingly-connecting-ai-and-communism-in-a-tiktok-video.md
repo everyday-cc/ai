@@ -1,0 +1,46 @@
+---
+category: news
+title: "Grimes Goes Viral After Confusingly Connecting AI And Communism In A TikTok Video"
+excerpt: "Grimes says: “I have a proposition for the communists. Typically, most of the communists I know are not big fans of AI. But if you think about it, AI is actually the fastest path to communism. So, if implemented correctly,"
+publishedDateTime: 2021-06-03T12:55:00Z
+originalUrl: "https://uproxx.com/indie/grimes-ai-communism-tiktok-video/"
+webUrl: "https://uproxx.com/indie/grimes-ai-communism-tiktok-video/"
+type: article
+quality: 32
+heat: -1
+published: false
+
+provider:
+  name: Uproxx
+  domain: uproxx.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://uproxx.com/wp-content/uploads/2021/06/grimes-getty-grid.jpg?w=710"
+    width: 710
+    height: 400
+    isCached: true
+
+related:
+  - title: "Grimes Says AI Will Give Us Communism in Confusing New TikTok Video"
+    excerpt: "Grimes, the musician and romantic partner of billionaire Elon Musk, is a big believer in artificial intelligence, according to a new TikTok video she posted late Wednesday. What can AI do for humanity?"
+    publishedDateTime: 2021-06-03T10:00:00Z
+    webUrl: "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911"
+    ampWebUrl: "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/696acb23ff63a207eebfa85717e959fd.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "4RzgrkV/lANOZwPTEA8Ysc1iqBt2xte0MC4cqkme602k2SeVnNNUhMFeXHRiyk7t4cAOydUFB1gDzDzDY990vKM5XDzoZegtUn+rk4I5JvHar1EGL7Ij7wZWQcYChC2jGeal3ewTBANTy8QZhPGU//WVIqJjpaRvgczjoshvqyhcc1upWKlW8BL8XFdsx61RW19IjN3CQnAgyrgVY4zTnjIsuJZXD17AQ96qSH8VltMjrOUw/v8Cyd46p5QUcogmm7CzH/Pmsg8MUGm5Zc10x7Qi6jsGOloSdVg8sgFlIosENhdD0f2L+TnAPm3GApZE57zc7i9rCAeLk19fCPFkhPNz026wRJpzlomh7+oZsQ0=;mN032WKcYYrOU2DcDGyhEQ=="
+---
+

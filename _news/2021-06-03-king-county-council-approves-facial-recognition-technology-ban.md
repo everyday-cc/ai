@@ -3,18 +3,18 @@ category: news
 title: "King County Council approves facial recognition technology ban"
 excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tu 1. King County, home to 2.3 million people in and around Seattle,"
 publishedDateTime: 2021-06-02T23:43:00Z
-originalUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
-webUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
-ampWebUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
-cdnAmpWebUrl: "https://www-valleyrecord-com.cdn.ampproject.org/c/s/www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
+originalUrl: "https://www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
+webUrl: "https://www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
+ampWebUrl: "https://www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
+cdnAmpWebUrl: "https://www-issaquahreporter-com.cdn.ampproject.org/c/s/www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Snoqualmie Valley Record
-  domain: valleyrecord.com
+  name: issaquah Reporter
+  domain: issaquahreporter.com
 
 topics:
   - Natural Language Processing
@@ -22,7 +22,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://www.valleyrecord.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
+  - url: "https://www.issaquahreporter.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
     width: 1200
     height: 800
     isCached: true
@@ -234,6 +234,6 @@ related:
       domain: kingcounty.gov
     quality: 21
 
-secured: "srRhTgUgiKlt8LAjlSMQA7Ot2EqrR53jg4E95KIaSKMqQTHdCJTYo4kr0cQwg6JcrHprTNpXRzGM8K3qhxcyT4M40nRNFMxUNtsOV1ECYCOKFcZ4xSZL2nXfVvJkbd23HD3ydtD8oqMV7btqlS88wtUFgCVqOYVVXKnMi6t3Ro9VEKFvofwMHXvPktrewkK98ejAsGih8z6ctpE6g5PiU6ckJy4rdv8awlOYxqFu4u3/DFB1iuKSG2NOUSUH/Y/znAZWy+V26CjBZl7Dxa+MTyyQaBPZvWJxStntnRJ6C3GV4YjBlr+XAoPojSHQcId6JagvXIytECeC3Ymb8Kt2f+E9mbqeMSlZ0G1PYYM5K5AFcJROpoH9VbmYqGiFncXwuCJLb6/X3l3lMkzQf1RNQrcggUphaoSJ6/2ENlr4n5GxAEmYaL19T6Twbvgw2swgZZ26s8ul2se1M1ZfRMV5SGVwI5Mx2hvnNFCtZ1e1/aUwvn4ioCsOYGlrk/zYKXGCyQKUB6esv39N11U4qye4lQ==;3l4FeOc7RXnF4OwfYpqQTA=="
+secured: "aE/j/MVD/UFPOtaDzlCXwKFLu7Al4z52GSJCAjn5aLMls41y6/HNZwfdm923bJYmur7XqiFT69uak8Bq0zcaxwlPyAwULBFQJPA+uveybcAHcfhrZwCf2HzSCjHcxKSiQUE500gbnmZahrogSLzufno5vTaqWD0RpCbVNetxM5zJle0gYipqDAyGwvj7/3U2tSnHIy2ljyQ4Ekr3Mm3Lt1g+H9xEGDZAR9DFNi7yZWPXSxovquKlPgMesfWdUhsAZe7Xc/p0NI4QbYQVUjXHMNzf54W0agEpA5W5DfZWMw9E1puSd9qIkpVLO1KF57aoQ1npndo83ZbvTvY75CCJKAoa73lItCZ5GYW+h7k3ZNE=;3I8ajzIejB5VPw0qBATCkg=="
 ---
 

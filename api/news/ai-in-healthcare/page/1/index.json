@@ -150,58 +150,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-01-global-artificial-intelligence-ai-in-hivaids-market-will-reach-usd-400-million-by-2026-facts-factors.md",
-      "title": "Global Artificial Intelligence (AI) in HIV/AIDS Market Will Reach USD 400 Million by 2026: Facts & Factors",
-      "excerpt": "\"According to the recent research report, the demand of global Artificial Intelligence (AI) in HIV/AIDS Market size & share expected to reach to USD 400.7 Million by 2026 from USD 240.0 Million in 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-hivaids-market-will-reach-usd-400-million-by-2026-facts-factors-2021-06-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-hivaids-market-will-reach-usd-400-million-by-2026-facts-factors-2021-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-01-innovate-toward-health-experience-not-just-healthcare.md",
       "title": "Innovate Toward Health Experience, Not Just Healthcare",
       "excerpt": "Pamela Spence, EY Global Health Sciences and Wellness Industry Leader. Technological innovation has pushed the consumer experience forward in banking, retail, entertainment and hospitality (among other industries) but has not yet broken through with health interactions.",
@@ -262,7 +210,7 @@
       "originalUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1348,6 +1296,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-vital-signs-positive-for-ai-in-european-healthcare.md",
+      "title": "Vital signs positive for AI in European healthcare",
+      "excerpt": "AI can improve care outcomes, patient experiences, and access to healthcare services while empowering healthcare systems to provide additional and better care to more people. It can also support the faster delivery of care,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "originalUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cYtXJnV58cwJqjpdHjQEbR-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "publishedDateTime": "2021-05-20T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

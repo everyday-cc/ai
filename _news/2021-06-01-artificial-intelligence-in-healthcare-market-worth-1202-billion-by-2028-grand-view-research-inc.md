@@ -25,45 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in HIV/AIDS Market Will Reach USD 400 Million by 2026: Facts & Factors"
-    excerpt: "\"According to the recent research report, the demand of global Artificial Intelligence (AI) in HIV/AIDS Market size & share expected to reach to USD 400.7 Million by 2026 from USD 240.0 Million in 2020,"
-    publishedDateTime: 2021-06-01T13:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-hivaids-market-will-reach-usd-400-million-by-2026-facts-factors-2021-06-01"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences To Report Impressive Growth, Revenue To Surge To US$ Billion/Million By 2027"
+    excerpt: "The Natural Language Processing NLP in Healthcare and Life Sciences market report presents the global Natural Language Processing NLP in Healthcare and Life Sciences sales and revenue by companies regions type and application and forecast to 2027 This report also"
+    publishedDateTime: 2021-05-31T13:00:00Z
+    webUrl: "https://www.openpr.com/news/2294456/natural-language-processing-nlp-in-healthcare-and-life"
+    ampWebUrl: "https://www.openpr.com/amp/2294456/natural-language-processing-nlp-in-healthcare-and-life"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2294456/natural-language-processing-nlp-in-healthcare-and-life"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/5/U531683912_g.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Artificial Intelligence Market 2021-2025, Market Size will reach 187231 Million USD in 2025, with a CAGR of 46.76% during Forecast Period"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
-    publishedDateTime: 2021-06-01T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2025-market-size-will-reach-187231-million-usd-in-2025-with-a-cagr-of-4676-during-forecast-period-2021-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At CAGR of 29.5%, Global Computer Vision in Healthcare Market Share Projected USD 2,384.2 Million Revenues by 2026: Facts & Factors"
-    excerpt: "Facts and Factors have published a new research report titled \"Computer Vision in Healthcare Market by Product Type (Software"
-    publishedDateTime: 2021-06-02T12:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21386772/at-cagr-of-29-5-global-computer-vision-in-healthcare-market-share-projected-usd-2-384-2-million-re"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21386772"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21386772"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
 
 secured: "UXxSGXB3mYd1GYJlBFdQw3Y3pdETLJjhlqePB6imh2TYOL81VZXk1OPhuEpi88jf4gFabBb7izWYdVH//m7q6ViKn9zwCpDzCwxN7hYnddMH5qCgjs/w88OlirkNoNqSJhyKcGvMzCgKOCJAHEX5YSHN9gksiNwDEuqivpBrr7AkEcNojo1+jmwF9ZLfyBTIHjkCl6mgpKFb0VyPskJVL9JG3ucdLh4g1Db69MljKPDwB1HkRsQTMjXijwC7lzBflF6b9XC2jHRqO0DMFLYhq+i5rdHW/MEANoON7MUwlu4180D+TES/UYf9UchFvVKSaeA1KKOc3sEoHe+zNn8EBbRViDGxD76UVrizX6yajSi7Jiqb39YNWhgV8Me/HqrJ7L8A1xrRnPy3WAZ2UxW74fIov12WNxMkij9VR9F+MC7sGZnWquWbjg4vWYIfP0dk6PFTdZ8sPBDo3jxLo5eKVPwMTP+ffKSJdvxKw1jhEhcVCKYG385RpKaokjfMmQVnJlteH2anWHm/WOjN5XqQlw==;zS0WvET82Obxc8EldAOQ0A=="
 ---

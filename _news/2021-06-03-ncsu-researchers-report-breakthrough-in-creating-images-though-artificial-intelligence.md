@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers fine-tune control over AI image generation"
-    excerpt: "Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training."
-    publishedDateTime: 2021-06-01T18:59:00Z
-    webUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-fine-tune-ai-image.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-fine-tune.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Controlling how AI systems create images"
     excerpt: "Control Engineering - Researchers from North Carolina State University have developed a method for controlling how artificial intelligence (AI) systems create images. The work"
     publishedDateTime: 2021-06-02T05:03:00Z
@@ -55,21 +39,7 @@ related:
         width: 645
         height: 350
         isCached: true
-  - title: "Researchers fine-tune AI image generation"
-    excerpt: "A new state-of-the-art method for controlling how artificial intelligence (AI) systems create images has been developed by researchers from North Carolina State University. The work has applications for fields from autonomous robotics to AI training."
-    publishedDateTime: 2021-06-02T20:35:00Z
-    webUrl: "https://theshillongtimes.com/2021/06/03/researchers-fine-tune-ai-image-generation/"
-    type: article
-    provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
-    quality: 39
-    images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2021/06/AI-P-9.jpg"
-        width: 1000
-        height: 465
-        isCached: true
 
-secured: "wcriBaC4FXhQ6nvTL6q8DqXN9dEJCWXyM/vP8XD9dy+pp+j+0mP5ay0KCQ7LyWPT2soqZNT9AlKe9atR5oRtmT1hMsyzD+oFDHE81euBU03Z5uJE/+VZQHERIERtamNfR00vUoaoliP8Ii5fmY+IU1Ze3nO0oUtzxJSVR0LOYjovgABsr0C80itmavE+2p0JHzLEmgF9hsnsH6/hSPaSeT8GcvlCc3yZz5nZ97ovgGdcw/I8KKwNhrVZ0Y+V6JHZ7P/1oUrjYPFhgnI8J+gMR1Gk6w4Xg8bsBYmHHhauHXb7/7kTXY7WZwaNl0w2SYTHJWFAaaWiJHG8DjVmjrlyla2vnkPsUHFb11FGN+i8dPk=;fQh7F2VyQki/3cDSdPo8RA=="
+secured: "feuDwxMewift0yHq+Er0k48VCxacy3lYu0VGSKkkThuvBa9pzBZVvkKG9ADGBKVBj9svC7fZPNeBaVSR3DfjHspXkHEdBBxZceT4MtfR3jh/XIkJHRPDATVFpznDJ7MmrGSc/q81PdqP9YesrTQpfsLiJNFaRLSx1lRaMiruyTAW2rOHzbdOxKqEFzVScORAIIfXqlhlZLtYQH8ruCN9FSUvwSdNvs9Q+xckPlOYugsu7MwcJLT2Dnd9oGLAiOT+6rNtKyZFwCA04ibh3YyxcGJ24Z26888x9LPy39cB8lYTPpwt0ksZ7Cz17Z9HdVgJdGSLkO4JGdmjbyHHPJRfbPO3RkVaC3YruCuL4dVsQIGMLJyOL6I4qSnnSqC4jNair2zcnc6WX4x5oGgT8gNUieoOrgzeVBYOdi4ErFqbrUAyxyz/hjD9r0DCvBZqEQ99Dx5mKoY3nquBDFNXLDoCOGlVsrUjwixpJ1AGAlUfq88esLQt6bCCSRB8LORnmyKxdVE4EC1FRyQqLm66emSiKQ==;/7v1eHZJLweXmkYJBHEMnA=="
 ---
 

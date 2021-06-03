@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusi
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Grimes Goes Viral After Confusingly Connecting AI And Communism In A TikTok Video"
+    excerpt: "Grimes says: “I have a proposition for the communists. Typically, most of the communists I know are not big fans of AI. But if you think about it, AI is actually the fastest path to communism. So, if implemented correctly,"
+    publishedDateTime: 2021-06-03T12:55:00Z
+    webUrl: "https://uproxx.com/indie/grimes-ai-communism-tiktok-video/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 32
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2021/06/grimes-getty-grid.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
 
 secured: "NSl+iwJevhRmJno/tqXaFpgvfLoCsd0P+SOiNxUqBB/hEGU2WRpyvHbHIONxG9h4SA6zhQUOwoErkKz82RxhgxB7ibgaDDM72DGMw/E1x8G4Q8WrmBi/dVa4/kDuFWZqKsz0VAvj1d+a7tVb0w66P1BI/gksPGKVJ9qvPEFIEkxboq0gWzS/BKhDVyf5SgwaWx1Lr52Yitin3MZZzabD5d9yQz3023oVgkcDz2pWEdIXJrOHvysawpdAWB23FltIrUZJbjeuxije3Tcyq1HVyHN9gpklL8wIS1D3IfvwXa25z4EmDseHTj7zhCbVZEGr4O75gwNGKBukHAi09wBtqjN0f3ggsRA9fzBBIBysj6E=;yWbXkRAILO10vTuG1WidYw=="
 ---

@@ -2,6 +2,248 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-temenos-explainable-ai-offering-for-smb-decision-making-rolls-out-globallyv.md",
+      "title": "Temenos' explainable AI offering for SMB decision-making rolls out globallyv",
+      "excerpt": "Temenos will roll out globally the explainable AI (XAI) product Temenos Virtual COO—letting banks use the technology for complex operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6",
+      "originalUrl": "https://www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60b8dbbebee0fc0019d5b125?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6?amp",
+      "publishedDateTime": "2021-06-03T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of first DeepRacer Women’s League in India",
+      "excerpt": "Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
+      "originalUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canindia.com/epaper/CIFRONT-HOLDER.png",
+          "width": 252,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canindia.com",
+        "domain": "canindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code.md",
+      "title": "Researchers open-source benchmarks measuring quality of AI-generated code",
+      "excerpt": "And as computers become ubiquitous, the demand for quality code draws an ever-growing number of aspiring programmers to the profession. After years of study to become proficient at coding, experts learn to convert abstracts into concrete,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/amp/",
+      "publishedDateTime": "2021-06-03T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history.md",
+      "title": "Why AI Powered Creative Is The Most Important Change In Advertising Development History",
+      "excerpt": "AI powered creative takes the guesswork out of advertising development. Brands can test infinite combinations of advertising copy, visuals, music and calls to action at the micro-targeting level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8b4a93b665e5c4903315b%2F0x0.jpg",
+          "width": 1200,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/amp/",
+      "publishedDateTime": "2021-06-03T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals.md",
+      "title": "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals",
+      "excerpt": "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-814506,msid-83198867/developers-say-they-still-need-two-to-four-years-to-perfect-the-self-steering-technology-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
+      "publishedDateTime": "2021-06-03T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-canons-eos-r3-will-keep-fast-moving-sportscars-in-sharp-focus.md",
       "title": "Canon's EOS R3 will keep fast-moving sportscars in sharp focus",
       "excerpt": "Canon dropped a few choice details about its upcoming pro-focused mirrorless flagship, the EOS R3. Now the company's drip feed continues with some more key specs, including improved tracking autofocus and internal recording of RAW video.",
@@ -62,7 +304,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -166,7 +408,7 @@
       "originalUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -810,11 +1052,11 @@
       "title": "Microsoft Azure launches new Nvidia A100-powered supercomputing instances",
       "excerpt": "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "originalUrl": "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
+      "webUrl": "https://www.techradar.com/uk/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
+      "originalUrl": "https://www.techradar.com/uk/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -828,8 +1070,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
       "publishedDateTime": "2021-06-02T06:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1000,264 +1242,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-machine-learning-is-not-a-better-horse.md",
-      "title": "Machine Learning Is Not A 'Better Horse'",
-      "excerpt": "Too often, it can sound like the trucking industry views machine learning as a “better horse.” It is common to hear the idea that better, bigger data will allow the industry to better forecast prices far into the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57837b502c3222019364e8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
-      "publishedDateTime": "2021-06-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare.md",
-      "title": "Want Perfect Summer Skin? Try Proven Skincare’s AI-Based Custom Skincare",
-      "excerpt": "New skin care can be daunting. Where to start? What to buy? What will work? There are never really any guarantees. There is one brand, though, that does get as close to a guarantee as possible when it comes to skin products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b76e4c2114e78b4fba0f41%2F0x0.jpg",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/amp/",
-      "publishedDateTime": "2021-06-02T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans.md",
-      "title": "AI Challenges For The Health IT Industry: Can We Trust AI Like Humans?",
-      "excerpt": "Can we expect complete automation of medical processes in the near future, given the issues that AI systems face even in the most advanced areas of healthcare? I have touched on some of the aspects in my previous article,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b66240688fd548d87dd31b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/",
-      "publishedDateTime": "2021-06-02T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues.md",
-      "title": "TruEra launches tool for spotting and contextualizing AI bias, other issues",
-      "excerpt": "AI startup TruEra lanched an enterprise tool for monitoring and diagnosing issues in machine learning models, including bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
-      "originalUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Monitoring-Illustration-20210601.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
-      "publishedDateTime": "2021-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-uks-ai-startup-scene-has-grown-600-percent-over-past-decade.md",
-      "title": "UK's AI startup scene has grown 600 percent over past decade",
-      "excerpt": "The country's £32.76 billion AI sector brought in £2.41 billion worth of investment in 2020 alone, according to Tech Nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622627477/itpro/AI_UnionJack_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade?amp",
-      "publishedDateTime": "2021-06-02T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI Hardware"
       ]
     }
   ],

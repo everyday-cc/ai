@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Israeli-Founded Startup Gong Raises $250M At $7.2B Valuation"
+    excerpt: "Gong has developed a revenue intelligence platform that leverages AI to analyze customer data for sales teams."
+    publishedDateTime: 2021-06-03T13:12:00Z
+    webUrl: "https://nocamels.com/2021/06/gong-valuation-series-startup-funding/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/06/gong.jpg"
+        width: 1200
+        height: 713
+        isCached: true
 
 secured: "hocFl8H5JFJyPHakuCsxOqUuqHpqgTe3qz+8gEYUMKMypWrXl6uE89rjUrEm/n4zYHWyfmdmpCsjHV0BGkLNJEw0bEsE0dCt3yM2XgMpu5IPgqsjwOEp4bc8YLGQm43moXyW/C7aiJFTpG2ihXERPwvqNYQumQ6ySNqpJohrlkY0sqEIomfqCTHOs3DtS/agesDJ0ediGRAhT0op7ko/yZqxDhsl6E7yc6S7MqCg+ZCy6Yx8fVZ+rJmFDUMG/f2cFbIx4TFw+NgpMEVNudU16cA9z6rW5Z74ZOfjxCBh/oWbdbOloCNwm9UpM/53MKjrIsw7Du9QN9He7X7RDhEkHjpG58SKBnikxaJfgaW/59A=;3yY58bp3VtRTyqnIn07QkQ=="
 ---

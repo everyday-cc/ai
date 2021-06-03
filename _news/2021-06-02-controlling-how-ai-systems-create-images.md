@@ -7,7 +7,7 @@ originalUrl: "https://www.controleng.com/articles/controlling-how-ai-systems-cre
 webUrl: "https://www.controleng.com/articles/controlling-how-ai-systems-create-images/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers fine-tune control over AI image generation"
-    excerpt: "Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training."
-    publishedDateTime: 2021-06-01T18:59:00Z
-    webUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-fine-tune-ai-image.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-fine-tune.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "Researchers fine-tune AI image generation"
-    excerpt: "A new state-of-the-art method for controlling how artificial intelligence (AI) systems create images has been developed by researchers from North Carolina State University. The work has applications for fields from autonomous robotics to AI training."
-    publishedDateTime: 2021-06-02T20:35:00Z
-    webUrl: "https://theshillongtimes.com/2021/06/03/researchers-fine-tune-ai-image-generation/"
-    type: article
-    provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
-    quality: 39
-    images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2021/06/AI-P-9.jpg"
-        width: 1000
-        height: 465
-        isCached: true
   - title: "NCSU researchers report breakthrough in creating images though artificial intelligence"
     excerpt: "RALEIGH – Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training."
     publishedDateTime: 2021-06-03T11:29:00Z

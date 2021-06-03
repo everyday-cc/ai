@@ -64,6 +64,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
+    excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-06-03T12:04:00Z
+    webUrl: "https://menafn.com/1102203168/Computer-Vision-Market-Size-Revenue-Growth-Opportunities-Competitive-Analysis-Trends-and-Demand-by-2026&source=139"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/03/pr_9559_a64faf5a_image_story.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Global Artificial Intelligence in Medical Diagnostics Market Insights Business Opportunities, Current Trends And Restraints Forecast 2027"
     excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market report provides a holistic evaluation of the market for the forecast period (2018–2027). The report comprises of various segments as well an analysis of the trends and factors that are playing a substantial role in the market."
     publishedDateTime: 2021-06-01T11:42:00Z

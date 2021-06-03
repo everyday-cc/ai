@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code.md",
+      "title": "Researchers open-source benchmarks measuring quality of AI-generated code",
+      "excerpt": "And as computers become ubiquitous, the demand for quality code draws an ever-growing number of aspiring programmers to the profession. After years of study to become proficient at coding, experts learn to convert abstracts into concrete,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/amp/",
+      "publishedDateTime": "2021-06-03T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-washington-state-county-becomes-first-in-us-to-ban-facial-recognition-software-over-concerns-of-racism.md",
       "title": "Washington State County Becomes First in US to Ban Facial Recognition Software Over Concerns of Racism",
       "excerpt": "King County's ban on facial recognition software is \"an important step forward in the effort to stop government use of this harmful and racist technology,\" said Jennifer Lee from ACLU Washington.",
@@ -216,8 +268,8 @@
       "title": "Why natural language processing is AI’s jewel in the crown",
       "excerpt": "As we enter the intelligent era, smart devices and data volumes will skyrocket, as will the demand for human-computer interaction through speech and language - that's why it will be a US$16 billion market by 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.huawei.com/it/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown",
-      "originalUrl": "https://www.huawei.com/it/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown",
+      "webUrl": "https://www.huawei.com/my/technology-insights/publications/winwin/33/why-natural-language-processing-is-AIs-jewel-in-the-crown",
+      "originalUrl": "https://www.huawei.com/my/technology-insights/publications/winwin/33/why-natural-language-processing-is-AIs-jewel-in-the-crown",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1369,59 +1421,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise.md",
-      "title": "Microsoft launches Azure Applied AI Services toolkit for enterprise",
-      "excerpt": "At Build, Microsoft launched Azure Applied AI Services, a suite of AI tools designed specifically for enterprise scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise/amp/",
-      "publishedDateTime": "2021-05-20T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

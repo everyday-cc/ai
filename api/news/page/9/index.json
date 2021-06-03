@@ -2,6 +2,162 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
+      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
+      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning.md",
+      "title": "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning",
+      "excerpt": "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
+      "title": "Pioneering mind-controlled arm restores sense of touch",
+      "excerpt": "(MENAFN - Jordan Times) WASHINGTON — Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102139423/Pioneering-mind-controlled-arm-restores-sense-of-touch&source=139",
+      "originalUrl": "https://menafn.com/1102139423/Pioneering-mind-controlled-arm-restores-sense-of-touch&source=139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-05/26/JT_f0f236cb-eimage_story.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-laser-driven-ion-acceleration-with-deep-learning.md",
+      "title": "Laser-driven ion acceleration with deep learning",
+      "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
+      "originalUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/laser-driven-ion-accel.jpg",
+          "width": 1358,
+          "height": 1210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-laser-driven-ion-deep.amp",
+      "publishedDateTime": "2021-05-26T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-kms-lighthouse-now-available-in-microsoft-azure-marketplace.md",
       "title": "KMS Lighthouse Now Available in Microsoft Azure Marketplace",
       "excerpt": "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an",
@@ -956,198 +1112,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note.md",
-      "title": "The Oral Extended Release Tablets Market To Grow On A Quintessential Note",
-      "excerpt": "The Oral Extended Release Tablets Market report by Persistence Market Research emphasizes on the inflow of artificial intelligence therein and also the medications (pharmaceuticals) to be rendered. Precise diagnostics leads to precise rendition of drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/25/the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note/",
-      "originalUrl": "https://ksusentinel.com/2021/05/25/the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-microsoft-has-built-an-ai-powered-autocomplete-for-code-using-gpt-3.md",
-      "title": "Microsoft has built an AI-powered autocomplete for code using GPT-3",
-      "excerpt": "And the output of AI language models is often haphazard ... The company has fine-tuned GPT-3 to “translate” into code by training it on examples of Power Fx formula, but the core of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "originalUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ne3n4e4xjvi-Ih44nfl3ixNVPbU=/0x0:503x357/1400x933/filters:focal(212x139:292x219):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69339297/microsoft_gpt3_powerapps_code.0.gif",
-          "width": 503,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "publishedDateTime": "2021-05-25T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
-      "title": "Your Guide to the AWS Machine Learning Summit",
-      "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/2021_ML_Email-Signature_400x173@2x.png",
-          "width": 800,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T11:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law.md",
-      "title": "Chips Designed By AI Are The Future Of Semiconductor Evolution Beyond Moore's Law",
-      "excerpt": "Synopsys CEO Aart de Geus believes his company and its advanced AI design automation tools may have an answer to scale complexity of Moore’s Law and the systemic complexity of hyper-convergent integration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ad2c51a132a7ece07f4a43%2F0x0.jpg",
-          "width": 1200,
-          "height": 912,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/amp/",
-      "publishedDateTime": "2021-05-25T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -47,6 +47,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Self-Driving Electric Boats Set to be Trialled in Amsterdam"
+    excerpt: "Amsterdam is set to play host to the testing of a new fleet of self-driving electric boats dubbed: Roboats. Designed and created by the Amsterdam Institute for Advanced Metropolitan Solutions and the Massachusetts Institute of Technology,"
+    publishedDateTime: 2021-06-03T12:28:00Z
+    webUrl: "https://hypebeast.com/2021/6/electric-self-driving-boat-roboat-amsterdam-trial-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Felectric-self-driving-boat-roboat-amsterdam-trial-news-TW2.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "1sCqEnYejsi3TGAZkpTYnImclk832twZkZG0/k4pdpljXuZ2RyqwB7ARjK5CtZGB9pRXMJihSeMGM6l835NHA7k88QUhvWKKNBGf8Spw8tVsIhpU5CZY+jslCqEJbnHPJnqtJD+ORKbJ3pMAgN4NgxNFE0XS8jwiMA3zWMs6AfCIcb8MnbRsaGL4cp05QQ/1fPt83upGjzyarerYSMyNL4FQqKKnDDkoMvvn/ObFMfr72k32tnID9yCy52px4tzpDwByXGNGtfZ0CS75YZkBptv7sid21bjd1SCpgBfiyKpd7OT4O30B5IXdjuFq80xQKHzGrp9Fk1DAjKBGHz9qk6nTQBp8RhDRm0RGiPTdous=;S/zza+4RVHgswLko6HMASw=="
 ---

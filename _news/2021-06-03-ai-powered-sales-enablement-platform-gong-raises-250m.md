@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/03/ai-powered-sales-enablement-platf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Israeli-Founded Startup Gong Raises $250M At $7.2B Valuation"
+    excerpt: "Gong has developed a revenue intelligence platform that leverages AI to analyze customer data for sales teams."
+    publishedDateTime: 2021-06-03T13:12:00Z
+    webUrl: "https://nocamels.com/2021/06/gong-valuation-series-startup-funding/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/06/gong.jpg"
+        width: 1200
+        height: 713
+        isCached: true
   - title: "Revenue intelligence startup Gong raises $250M in late-stage funding"
     excerpt: "Sales revenue intelligence company Gong.io Inc. has raised $250 million in a new round of funding that brings its total amount raised to date to $584 million. Franklin Templeton led the Series E round,"
     publishedDateTime: 2021-06-03T11:30:00Z

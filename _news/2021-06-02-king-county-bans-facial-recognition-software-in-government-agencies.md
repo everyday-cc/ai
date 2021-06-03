@@ -58,16 +58,16 @@ related:
   - title: "King County Council approves facial recognition technology ban"
     excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tu 1. King County, home to 2.3 million people in and around Seattle,"
     publishedDateTime: 2021-06-02T23:43:00Z
-    webUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
-    ampWebUrl: "https://www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
-    cdnAmpWebUrl: "https://www-valleyrecord-com.cdn.ampproject.org/c/s/www.valleyrecord.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
+    webUrl: "https://www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
+    ampWebUrl: "https://www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
+    cdnAmpWebUrl: "https://www-issaquahreporter-com.cdn.ampproject.org/c/s/www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
     type: article
     provider:
-      name: Snoqualmie Valley Record
-      domain: valleyrecord.com
+      name: issaquah Reporter
+      domain: issaquahreporter.com
     quality: 61
     images:
-      - url: "https://www.valleyrecord.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
+      - url: "https://www.issaquahreporter.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
         width: 1200
         height: 800
         isCached: true

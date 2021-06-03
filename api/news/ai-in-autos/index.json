@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of first DeepRacer Women’s League in India",
+      "excerpt": "Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
+      "originalUrl": "https://www.canindia.com/aws-announces-winners-of-first-deepracer-womens-league-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canindia.com/epaper/CIFRONT-HOLDER.png",
+          "width": 252,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canindia.com",
+        "domain": "canindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals.md",
+      "title": "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals",
+      "excerpt": "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-814506,msid-83198867/developers-say-they-still-need-two-to-four-years-to-perfect-the-self-steering-technology-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
+      "publishedDateTime": "2021-06-03T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-heres-why-the-us-continues-to-beat-china-in-the-ai-race.md",
       "title": "Here’s why the US continues to beat China in the AI race",
       "excerpt": "China's meteoric rise to prominence in the global AI race has been surprising, but there's little reason for the US to fear losing the top spot.",
@@ -1318,110 +1405,6 @@
         "name": "E&E",
         "domain": "eenews.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues.md",
-      "title": "From driverless cars to robotic warehouses, China looks to automation to solve population issues",
-      "excerpt": "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "originalUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "publishedDateTime": "2021-05-23T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-self-driving-cars-pose-crucial-question-who-to-blame-in-a-crash.md",
-      "title": "Self-driving cars pose crucial question: who to blame in a crash",
-      "excerpt": "self-driving test car in 2018, has focused attention on the issue ... China’s automated driving technology speeds ahead with research by search engine giant Baidu China’s automated driving technology speeds ahead with research by search engine giant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/21/2fabb15a-b954-11eb-9461-e80e43f535ad_image_hires_153618.jpeg?itok=2T7WWRIP&v=1621582591",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash",
-      "publishedDateTime": "2021-05-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

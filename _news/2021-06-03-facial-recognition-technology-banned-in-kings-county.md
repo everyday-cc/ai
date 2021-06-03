@@ -73,6 +73,22 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "Australian researchers to test koala ‘facial recognition’"
+    excerpt: "Australian researchers are launching a koala “facial recognition” study that aims to better monitor the marsupials’ behavior and ultimately aid in their"
+    publishedDateTime: 2021-06-03T13:50:00Z
+    webUrl: "https://english.alarabiya.net/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
+    ampWebUrl: "https://english.alarabiya.net/amp/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 59
+    images:
+      - url: "https://vid.alarabiya.net/images/2013/01/25/b86c8598-3fe4-4dae-abf3-c1113e612197/b86c8598-3fe4-4dae-abf3-c1113e612197_16x9_600x338.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Ai-Media signs 3 year captioning contact renewal with Sky News Australia"
     excerpt: "Ai-Media has renewed its captioning contract with Sky News Australia for another three years.The announcement:Access Innovation Holdings Limited (Ai-Media or Company) (ASX: AIM), a global provider of technology-driven captioning,"
     publishedDateTime: 2021-05-31T19:04:00Z
