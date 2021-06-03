@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -139,18 +139,18 @@ related:
       domain: pcmethods.com
     quality: 69
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-    publishedDateTime: 2021-06-02T02:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/250000"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+    publishedDateTime: 2021-06-01T23:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 69
     images:
-      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
-        width: 800
-        height: 338
+      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
@@ -197,20 +197,6 @@ related:
       - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
         width: 1462
         height: 1056
-        isCached: true
-  - title: "iManage adopts Microsoft Azure as global cloud platform"
-    excerpt: "Manage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
-    publishedDateTime: 2021-06-03T16:04:00Z
-    webUrl: "https://www.legalfutures.co.uk/associate-news/imanage-adopts-microsoft-azure-as-global-cloud-platform"
-    type: article
-    provider:
-      name: Legal Futures
-      domain: legalfutures.co.uk
-    quality: 54
-    images:
-      - url: "https://www.legalfutures.co.uk/wp-content/uploads/Leading-solicitors-PI-Insurance_advert-305x200px-MAY-2021-1.jpg"
-        width: 636
-        height: 417
         isCached: true
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
@@ -265,6 +251,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
+    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+    publishedDateTime: 2021-06-03T10:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -284,6 +279,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "fRsKFZRMU2EMpLds1Kg+sTFqVmr0h5ep98enhnzH9KidY/LtT13y1Bt/GT8lJy6WlaKbs/1HgtGmAr4Q1Z1uGtWboUY22VWOp9KFHn0hycQ7lmbV4oZOhF0cwIrIbICQe8ONEFKc1k1dLgyB6BkKncokrnH0o8ZSOaPnCOJKj5dLDJw9XHWdyrd6ZnfJ/0RPnrd6L5UaPS5Oc178S1H9Kj75fN+MXQAsCDkLt/tONZXkI8KvXyrsV3otW+tEidtPtCKoU2rjwTx4S+fLHogi11scnL+JOHJOuLIPKlVcbDwk4ngQP8Hv0Irkmq1314dMrTZmIKA9QKFuJN5rPN18GDr8OWufTDedJ/sDXKWDYxY=;AGUWZ5suGdZt/7DPjPY0Tw=="
+secured: "7AQRUz2KkM7FzyrbREfCJ/olnNXxcPNfYJHiDlyN5aD4ZMBtM9WayFG6wYpEyvZyQ9mW5exLK2/WhOTccwU6UIpLqKwBxX4y0FLrSy4lr124KrPsTI77DZEDzdXk7AkLr3LC2jjDbNvEamqdoWjcOHabFb9+GuXgNq82Rx+mtxb+C6ipBspm+LpvoJ2GWYjpm6qxhBRNsQ4RQ4Z73tHoMYjhTuu1JiSWV5f5pgOGPdsrNTLmu2RJx+BcOfpjcX70JBUyjJF1NZBYsSnEq/TYB1Kyl1NG+NoMRq0LvRJkkwiT1M5t7p7hIWUWxwgZhkPOWA0KodyzcRwxQZe3JqBk5UQsaaHhx6uAE8punnGA3JM=;fK5pYVczhzVJbaM4JBlE8w=="
 ---
 

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "At CAGR of 29.5%, Global Computer Vision in Healthcare Market Share Projected USD 2,384.2 Million Revenues by 2026: Facts & Factors"
+    excerpt: "\"According to the recent research report, the demand of global Computer Vision in Healthcare Market size & share expected to reach to USD 2,384.2 Million by 2026 from USD 262.2 Million in 2019, at a compound annual growth rate (CAGR) of 29."
+    publishedDateTime: 2021-06-02T13:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-cagr-of-295-global-computer-vision-in-healthcare-market-share-projected-usd-23842-million-revenues-by-2026-facts-factors-2021-06-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "At CAGR of 29.5%, Global Computer Vision in Healthcare"
     excerpt: "Body> New York, NY, June 02, 2021 (GLOBE NEWSWIRE) -- Facts and Factors have published a new research report titled  ''Computer Vision in Healthcare Market by Product Type (Software (On-premise, Cloud),"
     publishedDateTime: 2021-06-02T02:51:00Z
@@ -41,17 +55,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "At CAGR of 29.5%, Global Computer Vision in Healthcare Market Share Projected USD 2,384.2 Million Revenues by 2026: Facts & Factors"
-    excerpt: "Facts and Factors have published a new research report titled \"Computer Vision in Healthcare Market by Product Type (Software"
-    publishedDateTime: 2021-06-02T12:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21386772/at-cagr-of-29-5-global-computer-vision-in-healthcare-market-share-projected-usd-2-384-2-million-re"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21386772"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21386772"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "Best Programming Languages To Build Chatbots"
     excerpt: "Let’s look at the best languages to build a chatbot. Python is one of the best languages. The presence of AIML (Artificial Intelligence Markup Language) makes it easier to compose syntax. It also reduces the margin of errors for beginners and professionals."
     publishedDateTime: 2021-06-01T06:30:00Z

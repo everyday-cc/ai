@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving electric boats could soon begin ferrying passengers on Amsterdam's canals"
+    excerpt: "The 13ft-long 'Roboat' vessels travel at about 4mph (3.5 knots) and can run for 12-24 hours depending on the battery type and cargo load. They are being tested on Amsterdam's waterways."
+    publishedDateTime: 2021-06-03T18:25:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9647177/Amsterdam-tests-electric-autonomous-boats-canals.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9647177/amp/Amsterdam-tests-electric-autonomous-boats-canals.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9647177/amp/Amsterdam-tests-electric-autonomous-boats-canals.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 36
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/06/03/17/43797699-0-image-a-7_1622737432113.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "6tm9x84AEpEEDCFWeMaZKdkridXL06Lcj7ihrzf1pQ1krdPBUw0PMNM4e1ohVq3EUveH+Tb5jDS/JItH6YdEev8r/Imgv+LrQD3ktARTCU1MCWI37LEg83YAt7DfVop+R+L4x2H+etmjTR4T41bc4LSgfjTJkUWLZgFeTqTAjZ2UVI04rhrmInty08O+fXCYdtunzO7LWWX4XBorGsmf7yH3mRB8Xu7Un+4ou9bzqPVbBH/c/+vfx0LEpTVxuM0VXI4uOwvBA215BeuVxrj4qHCK1Gp3XGcsdXp6IxBAcMKN/hAWnXpG2fa74t7OqvOhVRB1HGlLIB98/LQSgLU7poxkPXn3ZEMAgOSmLTz2NugkQ6Sx33sT2zNZqShmzIapZWOwiMBozDZxtxZGpCf+afGrRBvo5dH/lh7aJu67eAtbWN77uq6ABPBNvnU/z3WqUgJTolp60/wShfii1fZuct3JVjabOr1RW/Aqdo5TQ0a6a9HIi5kigD3o32uJmkE4duO11lCED69MF9rwOal6aQ==;WzwZyRVtXRj5KaP8TObOCA=="
 ---

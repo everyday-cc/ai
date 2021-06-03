@@ -420,11 +420,11 @@
       "title": "Alteryx announces new AutoML product and Intelligence Suite",
       "excerpt": "The company, best known for its data prep bona fides, leverages its acquisitions in the machine learning space to announce new data science features in Alteryx Designer and new standalone AutoML product,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -438,8 +438,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
       "publishedDateTime": "2021-05-18T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1105,21 +1105,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-ai-in-fashion-market-research-2021-report-growth-forecast-to-2027-ibm-google-facebook-aws-sap.md",
-      "title": "Ai In Fashion Market Research 2021 Report | Growth Forecast to 2027 IBM, Google, Facebook, AWS, SAP",
-      "excerpt": "Ai In Fashion Market is growing at a 40.80% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
+      "path": "_news/2021-05-19-google-plans-to-build-a-practical-quantum-computer-by-2029-at-new-center.md",
+      "title": "Google plans to build a practical quantum computer by 2029 at new center",
+      "excerpt": "He's been instrumental in building key technologies like MapReduce, which helped propel Google to the top of the search engine business, and TensorFlow, which powers its extensive use of ...",
       "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/18/ai-in-fashion-market-research-2021-report-growth-forecast-to-2027-ibm-google-facebook-aws-sap/",
-      "originalUrl": "https://ksusentinel.com/2021/05/18/ai-in-fashion-market-research-2021-report-growth-forecast-to-2027-ibm-google-facebook-aws-sap/",
+      "webUrl": "https://www.cnet.com/news/google-plans-to-build-a-practical-quantum-computer-by-2029-at-new-center/",
+      "originalUrl": "https://www.cnet.com/news/google-plans-to-build-a-practical-quantum-computer-by-2029-at-new-center/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-234-780x470.png",
-          "width": 780,
-          "height": 470,
+          "url": "https://www.cnet.com/a/img/hO_SE3we82KxPAga2O5_B63XIzQ=/1200x630/2019/10/23/365ced13-a80d-4f6e-967d-302c2fe53806/20191023-google-quantum-computer-lab-010.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1127,14 +1127,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T13:07:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-plans-to-build-a-practical-quantum-computer-by-2029-at-new-center/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-plans-to-build-a-practical-quantum-computer-by-2029-at-new-center/",
+      "publishedDateTime": "2021-05-18T13:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1143,9 +1152,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
+        "Google AI",
+        "AI"
       ]
     }
   ],

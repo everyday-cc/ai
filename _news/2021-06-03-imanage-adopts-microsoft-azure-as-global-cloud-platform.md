@@ -1,28 +1,22 @@
 ---
 category: news
-title: "iManage adopts Microsoft Azure as global cloud platform"
-excerpt: "Manage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
-publishedDateTime: 2021-06-03T16:04:00Z
-originalUrl: "https://www.legalfutures.co.uk/associate-news/imanage-adopts-microsoft-azure-as-global-cloud-platform"
-webUrl: "https://www.legalfutures.co.uk/associate-news/imanage-adopts-microsoft-azure-as-global-cloud-platform"
+title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
+excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+publishedDateTime: 2021-06-03T10:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Legal Futures
-  domain: legalfutures.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.legalfutures.co.uk/wp-content/uploads/Leading-solicitors-PI-Insurance_advert-305x200px-MAY-2021-1.jpg"
-    width: 636
-    height: 417
-    isCached: true
 
 related:
   - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
@@ -145,18 +139,18 @@ related:
       domain: pcmethods.com
     quality: 69
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-    publishedDateTime: 2021-06-02T02:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/250000"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+    publishedDateTime: 2021-06-01T23:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 69
     images:
-      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
-        width: 800
-        height: 338
+      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
@@ -233,13 +227,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -285,6 +279,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "NrYUpTySZ1aRVQU8P0f5hHSs1Ri3wVMw1dRxOOSva24C5YO7wkFg6lac31VomjQI7LCMVfVU+Wyr9c50MzfTZclspCX1Wvw3k0x8BO7uzzP3DNYPwdZuIPJidEuU9QNeyjCL0TMlBQuXsY7IJsYK8Sb6CFy5665pV4LjiywFN15SxD7JWvkU6lNItc/XVagpmdnhG+3K5LY3mJOVe8sCEZseDHeNZ4HIseZFElf7S3Awz6C3IFtMrMjqdHggfItvhE+GflVWHFw6RrO2knfE7n/2gRQuGmWQBcwfy0TURZoCBdg+h1WBKgzjSy18/mL+xGSov3fD3mGrUl/kMkcDM6eW4yiuaSAaURcvbIqfFWQ=;be+hZ+Q2Nyhuo+VM1cTuyw=="
+secured: "BQ1yVRixr0vW6h333Fy0xsYhDxyE5f0w0HG4M+kC3TJfjCqDjWZ2lgEQYOVU9E5ijL8L5TkqWafDZPoaTRnAmNM8n8GshS6FDONHcMJZxj2Esc+HfA/rt/YYI/OI/Wi1TJC86RWKOG41EDZHfo5ei5pCGBLT8UhvyNWgfv5C9RDgynhYRNuMkTXzR8eAsxT7qMzs5szfosh/coWUKEWuOHBKLwynRMecgDyIMi2BFZjJxlPp7ryNAk26Bbhj/vo1Na6MzrgOQOs2xQuudpHUiZg2Ax9X8eFt3ziozc50y/P8yg0UxVEREZzgjKvcsMKtYtXV+E3cX5aKVjv/HbxFPbvh4yzEGJ0z4+owyRRq6fc=;SjEK4/uj+nJ/oXQnLH51NA=="
 ---
 
