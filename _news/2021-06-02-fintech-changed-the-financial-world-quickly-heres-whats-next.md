@@ -76,6 +76,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "5 Hottest Trends Ruling The Fintech Sector In 2021"
+    excerpt: "Halfway into 2021, we have already witnessed how technology has helped the fintech sector evolve. The hottest technologies like AI"
+    publishedDateTime: 2021-06-03T16:07:00Z
+    webUrl: "https://www.valuewalk.com/5-hottest-trends-ruling-fintech-sector-2021/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 24
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
+        width: 1280
+        height: 856
+        isCached: true
   - title: "Global fintech group joins growing tech community at Alderley Park’s Glasshouse"
     excerpt: "Global fintech Quint Group is set to join Bruntwood SciTech’s rapidly growing tech community at , Alderley Park. Quint owns and operates a number of fintech businesses"
     publishedDateTime: 2021-06-01T08:51:00Z
@@ -105,14 +119,19 @@ related:
         height: 339
         isCached: true
   - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
-    publishedDateTime: 2021-06-01T13:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
+    publishedDateTime: 2021-06-01T13:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "7ijTcJW0+0anBGUD64qt1co9H9JDjwpTWYLWLCpsknFZ7kBfxiApBDl34M52TV53NpxP2hxnNS89V8pgdAyzfxyGGeJSil2mKokgBihaaf/hGzUHmIsA+j9MU6Zd7La/y4aGO6ihZFhlFgAfgkTAy9gdE9XFckF7zOOsolTeaWgJ/Hd5UDUjCcoX+dIDZv2pesgdauy7kEoSeg5L/6wnJ9RgJ4sq91XcyMqjFm3Wion3ypz8oL3sEGcLCJRj0gwLkipR+aGEwtuDG7IAvOSLUeqQJO2dWFgGsWSONo8cmDJbQfS+bnFH/QhtuvUktqAFL8tI3eeNDHdhi0/dyAlEeFexc9a7t7ZQzv220FmA8Wiwg2UMshhtpFzWFR8Lddlw1fjPSygRVC6GZ07k4QOackgEk7g/q6L3HQyGJRHsW2BCkerBkL96TNtBk46KO2U9tw/8EJl0tmxdRbm5CLoCW0SNS9fbHMhSp4dACyKrQCW7ixPM0LkkuiP4NXt0rp/sqZLfv6MhBwwrJlpOaQDcBA==;0P3gzITqFxYE7UFlU8c0CA=="
 ---

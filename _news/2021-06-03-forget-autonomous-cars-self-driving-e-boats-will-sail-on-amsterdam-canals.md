@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/forget-autonomous-cars
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/4cb4ec93d0a0ebc42c146f8c300c77f7fdcd5ade/0_288_6240_3744/master/6240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aca7bb403a7730fe41b0df25d5f3cdeb"
         width: 600
         height: 360
+        isCached: true
+  - title: "self driving electric 'roboats' to begin trials on amsterdam canals"
+    excerpt: "(AMS) and MIT senseable city lab, is moving one step closer to being fully operational. in april 2021, a new slewing crane was erected at marineterrein amsterdam, allowing a full-scale roboat prototype to be launched and tested on the water."
+    publishedDateTime: 2021-06-03T16:01:00Z
+    webUrl: "https://www.designboom.com/technology/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-06-03-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 39
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/06/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-designboom-1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Self-Driving Electric Boats Set to be Trialled in Amsterdam"
     excerpt: "Amsterdam is set to play host to the testing of a new fleet of self-driving electric boats dubbed: Roboats. Designed and created by the Amsterdam Institute for Advanced Metropolitan Solutions and the Massachusetts Institute of Technology,"

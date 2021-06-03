@@ -147,18 +147,18 @@ related:
       domain: pcmethods.com
     quality: 69
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-    publishedDateTime: 2021-06-01T23:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+    publishedDateTime: 2021-06-02T02:40:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/250000"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: RYT9
+      domain: ryt9.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+        width: 800
+        height: 338
         isCached: true
   - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
     excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
@@ -189,6 +189,20 @@ related:
       - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
         width: 1462
         height: 1056
+        isCached: true
+  - title: "iManage adopts Microsoft Azure as global cloud platform"
+    excerpt: "Manage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+    publishedDateTime: 2021-06-03T16:04:00Z
+    webUrl: "https://www.legalfutures.co.uk/associate-news/imanage-adopts-microsoft-azure-as-global-cloud-platform"
+    type: article
+    provider:
+      name: Legal Futures
+      domain: legalfutures.co.uk
+    quality: 54
+    images:
+      - url: "https://www.legalfutures.co.uk/wp-content/uploads/Leading-solicitors-PI-Insurance_advert-305x200px-MAY-2021-1.jpg"
+        width: 636
+        height: 417
         isCached: true
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
@@ -252,15 +266,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
-    publishedDateTime: 2021-06-03T10:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z

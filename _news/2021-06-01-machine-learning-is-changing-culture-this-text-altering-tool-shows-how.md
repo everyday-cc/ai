@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "How AI Is Transforming Fintech and Where to Find Great AI Roles"
+    excerpt: "Below is more about how chatbots have specifically transformed the fintech industry, and how and where to find great AI roles. Chatbots in the fintech industry came as long-awaited solutions to long queues at bank branches."
+    publishedDateTime: 2021-06-03T16:56:00Z
+    webUrl: "https://www.vault.com/blogs/innovate-with-influence-global-high-tech/how-ai-is-transforming-fintech-and-where-to-find-great-ai-roles"
+    type: article
+    provider:
+      name: Vault
+      domain: vault.com
+    quality: 39
+    images:
+      - url: "https://media2.vault.com/14340846/thisisengineering-raeng-64yrpkiguae-unsplash-1.jpg"
+        width: 850
+        height: 550
+        isCached: true
   - title: "Machine learning is changing our culture. Try this text-altering tool to see how"
     excerpt: "Most of us benefit every day from the fact computers can now 'understand' us when we speak or write. Yet few of us have paused to consider the potentially damaging ways this same technology may be shaping our culture."
     publishedDateTime: 2021-06-01T08:44:00Z

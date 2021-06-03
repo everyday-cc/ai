@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-w
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/05/weaponized-drone-in-fully-autonomous-mode-hunts-down-and-engages-human-target-162275_1.jpg"
         width: 1080
         height: 594
+        isCached: true
+  - title: "AI drone may have 'hunted down' and killed soldiers in Libya with no human input"
+    excerpt: "At least one autonomous drone operated by artificial intelligence (AI) may have killed people for the first time last year in Libya, without any humans consulted prior to the attack, according to a U."
+    publishedDateTime: 2021-06-03T16:34:00Z
+    webUrl: "https://www.livescience.com/ai-drone-attack-libya.htm"
+    ampWebUrl: "https://www.livescience.com/amp/ai-drone-attack-libya.htm"
+    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/ai-drone-attack-libya.htm"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/q9FoegtB3DriBdybAgfTvf-480-80.jpeg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Report: Rogue Drone Hunted Human"
     excerpt: "New Scientist says that there is evidence a weaponized drone went on a rogue mission last year where it hunted a human target without being instructed to do so. The publication cites a UN report and says the details suggest a Kargu-2 quadcopter was being used in fully autonomous mode during a conflict in Libya in March of last year when the device pursued a soldier that was trying to retreat."

@@ -47,6 +47,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "self driving electric 'roboats' to begin trials on amsterdam canals"
+    excerpt: "(AMS) and MIT senseable city lab, is moving one step closer to being fully operational. in april 2021, a new slewing crane was erected at marineterrein amsterdam, allowing a full-scale roboat prototype to be launched and tested on the water."
+    publishedDateTime: 2021-06-03T16:01:00Z
+    webUrl: "https://www.designboom.com/technology/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-06-03-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 39
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/06/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-designboom-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Electric Boats Set to be Trialled in Amsterdam"
     excerpt: "Amsterdam is set to play host to the testing of a new fleet of self-driving electric boats dubbed: Roboats. Designed and created by the Amsterdam Institute for Advanced Metropolitan Solutions and the Massachusetts Institute of Technology,"
     publishedDateTime: 2021-06-03T12:28:00Z
@@ -62,6 +76,6 @@ related:
         height: 480
         isCached: true
 
-secured: "1sCqEnYejsi3TGAZkpTYnImclk832twZkZG0/k4pdpljXuZ2RyqwB7ARjK5CtZGB9pRXMJihSeMGM6l835NHA7k88QUhvWKKNBGf8Spw8tVsIhpU5CZY+jslCqEJbnHPJnqtJD+ORKbJ3pMAgN4NgxNFE0XS8jwiMA3zWMs6AfCIcb8MnbRsaGL4cp05QQ/1fPt83upGjzyarerYSMyNL4FQqKKnDDkoMvvn/ObFMfr72k32tnID9yCy52px4tzpDwByXGNGtfZ0CS75YZkBptv7sid21bjd1SCpgBfiyKpd7OT4O30B5IXdjuFq80xQKHzGrp9Fk1DAjKBGHz9qk6nTQBp8RhDRm0RGiPTdous=;S/zza+4RVHgswLko6HMASw=="
+secured: "R3znD2rl+kzwVzBIAhcp2c2Gbb9nCwqVnPc8xgURiRsEIindQG9Kze/sdiuu4ttD/W7KQlJCwFxvdjrHBw3Fq/FSHfimTBaN7R5iXLc1HxL+J2lSBd+yXkU3PeMVNopQCuzVA4WnBizffPUOTCUCG4IV2phsKSj1YJNBXm7/x/SgzbFtt8wc+c2Amx0EV2vwlnzl/uW7db57puIvGHlqmvq0bz8ZmOb/2SAnd9wZdQSXnRtYgSffHTlmvdf9s9jZlg+o5hvKWGc277cVZyDE8F6sTAqF4MvXYGQkaXrE0p05eCYPPS8bkiVzNQHz2Fq35F/FBpcsLH4aToZcIsysMmpqJnWEFpTtuHEHAeYev7rC1JQkJ7KO3FiX5LTQGoHHRnAOqgYUO/Djvhk6kXgGUB8Jcac7qHLv3foQD8ciowvj6pZeVWs6yt5mkkBwQYkKO2Z1JlxYv1y8AzCspL+mDZB5qBVaFU6G5VBJVxpBNY2mH5tHQGwfl/WynwSNKugRBc8U5ate9qKz7/WeesU2wQ==;I45Xw+kUtiEq1VbF9hSxKQ=="
 ---
 

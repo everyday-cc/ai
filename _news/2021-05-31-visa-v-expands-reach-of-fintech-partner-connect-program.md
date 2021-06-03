@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-part
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "5 Hottest Trends Ruling The Fintech Sector In 2021"
+    excerpt: "Halfway into 2021, we have already witnessed how technology has helped the fintech sector evolve. The hottest technologies like AI"
+    publishedDateTime: 2021-06-03T16:07:00Z
+    webUrl: "https://www.valuewalk.com/5-hottest-trends-ruling-fintech-sector-2021/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 24
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
+        width: 1280
+        height: 856
+        isCached: true
   - title: "Global fintech group joins growing tech community at Alderley Park’s Glasshouse"
     excerpt: "Global fintech Quint Group is set to join Bruntwood SciTech’s rapidly growing tech community at , Alderley Park. Quint owns and operates a number of fintech businesses"
     publishedDateTime: 2021-06-01T08:51:00Z
@@ -105,14 +119,19 @@ related:
         height: 339
         isCached: true
   - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
-    publishedDateTime: 2021-06-01T13:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
+    publishedDateTime: 2021-06-01T13:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "WjCTNYOhQfsgvxdGaEeu7Yn9wjPJHnqxwgrn9qL2I7cYx1rpRMMqHW6Um7fIMz8U44qn9UPQkycAI6v8xMXKtZcG6mkz7c4+qJAcfGFJkld7cNKHG/CePsOmVr6nKabRvmvDQfkX/C+yqAb1v/H55NpS9lFdui6lyCvv76DezTXbZQnqEfykAlKp0m662J1+ipd1rvXrQfhFIbjhStZfNDaOyobFGnkVlwIuLXylICwe+nMBN2HqaaDrygW7hqfKu330TpS+yKgbKzIgrnLG5unDa6+bf2TfJndhvsP7MB3F++NAQQAMFP8zNY5s5lgZuVd/OgCzXsnZ1ellXxCNALJ12eBmNQ294la7txJ6Cfo=;i+J3Kk0+aECqRpHu1GEKNQ=="
 ---

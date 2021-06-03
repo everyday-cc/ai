@@ -57,6 +57,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "self driving electric 'roboats' to begin trials on amsterdam canals"
+    excerpt: "(AMS) and MIT senseable city lab, is moving one step closer to being fully operational. in april 2021, a new slewing crane was erected at marineterrein amsterdam, allowing a full-scale roboat prototype to be launched and tested on the water."
+    publishedDateTime: 2021-06-03T16:01:00Z
+    webUrl: "https://www.designboom.com/technology/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-06-03-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 39
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/06/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-designboom-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6tm9x84AEpEEDCFWeMaZKdkridXL06Lcj7ihrzf1pQ1krdPBUw0PMNM4e1ohVq3EUveH+Tb5jDS/JItH6YdEev8r/Imgv+LrQD3ktARTCU1MCWI37LEg83YAt7DfVop+R+L4x2H+etmjTR4T41bc4LSgfjTJkUWLZgFeTqTAjZ2UVI04rhrmInty08O+fXCYdtunzO7LWWX4XBorGsmf7yH3mRB8Xu7Un+4ou9bzqPVbBH/c/+vfx0LEpTVxuM0VXI4uOwvBA215BeuVxrj4qHCK1Gp3XGcsdXp6IxBAcMKN/hAWnXpG2fa74t7OqvOhVRB1HGlLIB98/LQSgLU7poxkPXn3ZEMAgOSmLTz2NugkQ6Sx33sT2zNZqShmzIapZWOwiMBozDZxtxZGpCf+afGrRBvo5dH/lh7aJu67eAtbWN77uq6ABPBNvnU/z3WqUgJTolp60/wShfii1fZuct3JVjabOr1RW/Aqdo5TQ0a6a9HIi5kigD3o32uJmkE4duO11lCED69MF9rwOal6aQ==;WzwZyRVtXRj5KaP8TObOCA=="
 ---

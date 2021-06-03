@@ -57,6 +57,22 @@ related:
         width: 1080
         height: 594
         isCached: true
+  - title: "AI drone may have 'hunted down' and killed soldiers in Libya with no human input"
+    excerpt: "At least one autonomous drone operated by artificial intelligence (AI) may have killed people for the first time last year in Libya, without any humans consulted prior to the attack, according to a U."
+    publishedDateTime: 2021-06-03T16:34:00Z
+    webUrl: "https://www.livescience.com/ai-drone-attack-libya.htm"
+    ampWebUrl: "https://www.livescience.com/amp/ai-drone-attack-libya.htm"
+    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/ai-drone-attack-libya.htm"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/q9FoegtB3DriBdybAgfTvf-480-80.jpeg"
+        width: 480
+        height: 320
+        isCached: true
 
 secured: "ylquMHZFMowr5ppw4n9LegA204im8mmog1t8MS755vUckb+JGjCLvt+KfIoVOPMJ7mRd2duxT3wrR70sSu3jodERaNuG6I//0A4xHrtcSBqRoR2AQVJHVyEm7mOdS1hSq3m9u9Pp4ayAJNxWmwefDPbB6Pu5P/VNUvbRUtpNh3Y7PeedUzNypkxTJJBgIq6IkmK2wnaqxVTir7YRXRIVpOZvwavIRN4Z2iB/J2/Lzcwe4AE8FMjrpDLPCguHly310IsiRvcsrKXycD9A9WbkzoSh4HekhMg0yGkTBMJ5/Zj/CtgNh5mdOxMtne5BscTp1rfu/Zyus/B5v4/XiiMIIC3+5bRdpP9pEsjwZRcedKgEpDrW4ktOm+AP+ouOxmxX6Z1B+gAOaAxd0IqjiccehRjbFMngMjF2YrO6FazToDE+C5QoxFXKwSIJISx4IMLkM7wYTV+GS+rqZO66DhZ9cN5Khu7d5rD0Wx53XtjGhwVdlRhhIVXY8l+vkx3oMxAR2FpawLsoXq7Qe6hwPp4MqA==;9TbQzOzbxfI8BZ2gkBan6w=="
 ---

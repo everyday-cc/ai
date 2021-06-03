@@ -7,7 +7,7 @@ originalUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer
 webUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ topics:
   - AWS AI
   - AI
   - AI in Autos
+
+related:
+  - title: "DeepRacer Women’s League: AWS announces winners of ML for women initiative"
+    excerpt: "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league."
+    publishedDateTime: 2021-06-03T15:37:00Z
+    webUrl: "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/"
+    ampWebUrl: "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 106
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg"
+        width: 625
+        height: 294
+        isCached: true
 
 secured: "s34WF3lJegJrQ6QO8kX4ICH4dpydrFcv3qjeigR+eVzEI3ZnErX1iVrb3mDQLmX5w8xo8F3V/Urw+bXSuoZLcu+/hlFtt7kKSF0eOh2CJfKZEVyh5bGi8XF6zIVgCecGxV+cqt7IVgXVURJl08ad5Fo1+iGRGFWOCeM7gQxRmWkmZ3yaiiwY9AiOPhavOCje11YJrQN6qlCLI1Fx3K5mCaaxxtLrNLsXGzy9nf/+Hfjy1HBRY56bH1wK2b3MjzXnFBZseBy88nqQod05eoDShA5aWC0XnJTp4qTlU1wI5X1bm29zvKQEOlF2Z2qXYdDsFom4wM0abXjYK5pXQbBEO1eNkwIisbeG58+Cfh2AJtE=;9lY34xRWpQZrxb0Ky6vqNg=="
 ---

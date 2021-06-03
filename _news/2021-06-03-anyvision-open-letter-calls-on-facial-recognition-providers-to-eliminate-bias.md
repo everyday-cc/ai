@@ -24,6 +24,17 @@ images:
     height: 260
     isCached: true
 
-secured: "jHrUt4os+hqOJRvjPNgSL4Du7GmBfKX40UzhPCBhaKVubqrd/s1LtkBS9/XlEgVI4SyyeFncYlPMBJUrZ9oqa3eydzgm58x8XjWNVkcJa6krWzCm83QxIBbfKby/oMhyrnmicaMVgRrSDp9N4DJgAdIK/aX7oU+BfPhSUFIe3fzkTvunQO9xQ99MX7Jl1D4DbHDL23lcoqJDYA2NeDD7Qgd6o6XG4VnOlv9wWQlNt0yu4fPe3mhFfwTwz2qp3JDeCYbMG/rA6kHUGBfGDx7UO3CKU/3td8VU7crJCz7hmrGGaJB2wtzZWblZkQ9Xm3rZPameAfqjp9nlRDLEnuS8i6CUtc8KXv+gLp7Wn11ftRU=;Ik35RYgpu3VNGCtw0EANTw=="
+related:
+  - title: "AnyVision to NIST: \"AI companies must purge demographic bias from their algorithms and be transparent about their methodology\""
+    excerpt: "AnyVision is the first known entity from within the AI industry to address the initiative and respond to NIST in an open letter entitled: \"Purging Demographic Bias While Increasing Transparency in Facial Recognition."
+    publishedDateTime: 2021-06-03T10:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383005.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "tgulcm9FYStnz5Q5n8F4FmuLgpbki3lv+lWjeB1115r4x8lZbe/CzUpITViaJVjaoXDy4FrBXQznzguh6AYXwNXg9rXDOY+bVdhd8EdeTpg1UX/rhmP6dJoK4GkvbZvnEDRRhEFM81tMvoKgEm+n8Hrg+JYH8N1Piv/XZhenmUA8QbQY7ZFQoN/VRwGf8GXaryquNbLkB2JJXBT8XJt2lbIwuVDxXD7PmALr1ofxtZCRZ0K8DdOQ5vRuusea9w/FwpRFhXiFLTGNgZsqVUJF9rE6mxoCRPYlErn+n3zK7qjYW9DbDN0/LSd/UtfafPgDj/QFYUS5jeGmNTsWQIoCAq/UDtkgHMxirVNBeruvgtiolfmeEV7seanR4SAW0P/lArNpswlBX2Xz4d8tIPmIras8OdGemPgzVv9RMQp1vq6H4O/tFF62vg2UAQe6MHfV1HghUmwhu2LW9WBHmvSQSHhYo/CTT4vuww1R3b0b144mafkIRVgEYRGh3JNYJujUo7eYLLCbsRNz/9hrRtDtaQ==;/+1+fRaGC64saIMrRVkCZA=="
 ---
 

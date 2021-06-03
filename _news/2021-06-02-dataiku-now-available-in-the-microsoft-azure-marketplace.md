@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-publishedDateTime: 2021-06-01T23:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+publishedDateTime: 2021-06-02T02:40:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/250000"
+webUrl: "https://www.ryt9.com/en/anpi/250000"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+    width: 800
+    height: 338
     isCached: true
 
 related:
@@ -190,6 +190,20 @@ related:
         width: 1462
         height: 1056
         isCached: true
+  - title: "iManage adopts Microsoft Azure as global cloud platform"
+    excerpt: "Manage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+    publishedDateTime: 2021-06-03T16:04:00Z
+    webUrl: "https://www.legalfutures.co.uk/associate-news/imanage-adopts-microsoft-azure-as-global-cloud-platform"
+    type: article
+    provider:
+      name: Legal Futures
+      domain: legalfutures.co.uk
+    quality: 54
+    images:
+      - url: "https://www.legalfutures.co.uk/wp-content/uploads/Leading-solicitors-PI-Insurance_advert-305x200px-MAY-2021-1.jpg"
+        width: 636
+        height: 417
+        isCached: true
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
     publishedDateTime: 2021-06-03T10:20:00Z
@@ -252,15 +266,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
-    publishedDateTime: 2021-06-03T10:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -280,6 +285,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "xnocpFw17j3zhZJlwQGEcUXmTYH7G+kqUe4dK+IpvUXBd4NlTeDXNAcvjtQygTQ5rDQpD24sYNSWz544b9Yk/xJQx6S5VyaNqHFC0/gCIBe0sxoN2riitPDr41RmP7Htc92oSDq19h52bsh+1IzkD6Bceo7qIS+4vJ7PED4YU+Hjv2WOL9M1P8W73rQ68dXwfdEnMrcVRB2BoI45+3UNRPIGkM3BNvJwWVowyAOTEfLujzN2lnCA3xWLsFDjC8WJLg6ZonNqesnhs3coWPEN8y0KkvZ5/aukLxrpowqMBox2muqGGvYnDMew6L3dEjca2h9O+H3IjuZaMWwoR1h80NAcCkmwC6QfHWCRE6lZBddYK6QcjZKsEZ4j0ixfkkDUKAp+zMjAEUIUbUro5oyXMK1xECN/dpWOSjyytpIckfOcVZme0TLfBsKUMI9gnuCa0/pi8NSw6nvzl8Awty2G7htwFOepCrpvyevL2bN+DIk9UNNBgVVstuA58rP2Qls02xwS3kgftU4cFlOJn0bD+w==;I0B7y3ddyxntc/tXJolJ7g=="
+secured: "yRig19JYASsUuM46fDCey9I5V7gLMuqHc9SPHfOZff0/mouVE5zo7khROUhr7slDDy3ixGZxV0RYgm5u/FFe5m1n3LX9vGH5IZVe3dhSPeIqQ/b/1MjTP4SjABIag42fUCY9xhHssZ3GH20i84Xwoxm1o5gbqhDZLwgng+gK6R7bk4H2HI+93ZvVZgab+2yoFs00ab34G1PnHqkycnnJgUVuv2EN3hZTIMfMhbkKAsQgq7YzADcu8fYEJ4Pdx2YDTeHEu2GrLR+a5pIqEviS1Swhk4VTDKronkh2dHePfhIDFxgdM9Q0SmAIkvvUdr0/7FiqoN3F4Ws1caKglSrCa/Dh9vD2W7ylsPNohgNspUM=;NoQV5fPAhkEYIMZTe3karA=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
-    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
-    publishedDateTime: 2021-06-02T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI for radiographic COVID-19 detection selects shortcuts over signal"
     excerpt: "The urgency of the developing COVID-19 epidemic has led to a large number of novel diagnostic approaches, many of which use machine learning. DeGrave and colleagues use explainable AI techniques to analyse a selection of these approaches and find that the methods frequently learn to identify features unrelated to the actual disease."
     publishedDateTime: 2021-05-31T15:02:00Z

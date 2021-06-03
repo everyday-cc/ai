@@ -75,6 +75,15 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "The Robot Smiled Back"
+    excerpt: "Columbia Engineering researchers have developed an autonomous robot whose face can mimic the expressions of nearby humans."
+    publishedDateTime: 2021-06-03T17:16:00Z
+    webUrl: "https://cacm.acm.org/news/253047-the-robot-smiled-back/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "kC8DH2mdMRrAf9K4L2Sim6tTH8ijdnDNcXFEZLLrHpvIIVkw4tvrKCDliWEIIhvvhsLrp7rekTrDmLk5aS1mosfUds3Jn/t8ubvQoFf5C9wCPS+JqEpSiCE3UgsBUAQF3sbnT3XxykqiuFB7AqoMe3LbeDlGb+cp5GbGkoO5huKTkt2Oend0/z6V/phG9FRQo40d+9lI7VaXPSbBnj+F7/aacbE2lo+Cc1pEPfdr/m31IkBr9brP6HLMIg3ztNp8k6rJF8bQ1a+/U5wa7Uo+v5Abc6TKoin3RT/2D+vUA/KKupWWMmNxWJ9BLR7KL1dWE9tnX1/QI4n2PF1vlpqSKTiS47BvEWeSzPy1Q2V3bojb4ToSxZ7kQz9xSYP0Mj/PLQpkVbDNjHBc7pMLLYPREPdj+1gIfoNUenpVwoW1HjkBcCQAI17IrigQAtEeFJZL8Fl0MSrJODAJHyKOzy0DEIubUY4lUHo4654/zU1gR/EUOHSUumZpGSQJCtmWLb92pBKmwIUGfmmfI3+2RacR/Q==;FQ3VghLnaBhOed/kFAfiCg=="
 ---

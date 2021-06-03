@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/why-united-nations-urgently-needs-own-
 webUrl: "https://thenextweb.com/news/why-united-nations-urgently-needs-own-regulation-ai"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -28,51 +28,79 @@ images:
     isCached: true
 
 related:
-  - title: "The United Nations needs to start regulating the ‘Wild West’ of artificial intelligence"
-    excerpt: "The new EU regulation is about to change the way we do artificial intelligence. The United Nations needs to follow suit."
-    publishedDateTime: 2021-05-31T16:41:00Z
-    webUrl: "https://theconversation.com/the-united-nations-needs-to-start-regulating-the-wild-west-of-artificial-intelligence-161257"
-    ampWebUrl: "https://theconversation.com/amp/the-united-nations-needs-to-start-regulating-the-wild-west-of-artificial-intelligence-161257"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-united-nations-needs-to-start-regulating-the-wild-west-of-artificial-intelligence-161257"
+  - title: "Foundations of trustworthy AI: How to conduct trustworthy AI assessment and mitigation"
+    excerpt: "The ability of artificial intelligence to perform important business tasks has grown by leaps and bounds in recent years. As AI has progressed from a proof of concept to powering critical enterprise workflows, it has become increasingly apparent that this general-purpose technology must be assessed in"
+    publishedDateTime: 2021-06-03T16:30:10Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 49
+      name: IBM
+      domain: ibm.com
+    quality: 111
     images:
-      - url: "https://images.theconversation.com/files/403244/original/file-20210527-23-1t1mzqk.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=217&fit=crop"
-        width: 320
-        height: 217
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_assess-risk_2000x1000.jpg"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "FDA faces big questions as it takes a closer look at AI regulations"
-    excerpt: "An action plan shared by the FDA earlier this year showed how the regulator is thinking about future regulations for AI and machine learning in healthcare. But the agency still has several big questions to address as it prepares to roll out new guidance."
-    publishedDateTime: 2021-05-31T13:13:00Z
-    webUrl: "https://medcitynews.com/2021/05/fda-faces-big-questions-as-it-takes-a-closer-look-at-ai-regulations/"
+  - title: "Nvidia Lays The Foundation For Wider AI Adoption"
+    excerpt: "Nvidia has been pushed its way into the datacenter, making its presence felt with its GPU accelerators that are designed to"
+    publishedDateTime: 2021-06-01T16:02:00Z
+    webUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/"
+    ampWebUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
+        width: 1199
+        height: 877
+        isCached: true
+  - title: "Why Board Directors And CEO’s Need To Learn AI Knowledge Foundations: Building AI Leadership Brain Trust - Blog Series"
+    excerpt: "This blog continues to outline the importance of board directors and CEOs learning AI foundational terms. This article defines Artificial Narrow Intelligence, (ANI) Artificial General Intelligence (AGI),"
+    publishedDateTime: 2021-05-30T17:44:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/05/30/why-board-directors-and-ceos-need-to-learn-ai-knowledge-foundations-building-ai-leadership-brain-trustblog-series/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097def72068bbfb5968d9ce%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Future of artificial intelligence"
+    excerpt: "From self-driving cars to innovative drug development, artificial intelligence (AI) is going to fundamentally change our lives in a variety of ways."
+    publishedDateTime: 2021-06-03T13:40:00Z
+    webUrl: "https://www.miragenews.com/future-of-artificial-intelligence-571282/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 41
+    images:
+      - url: "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs/robot_ai_human.jpg/robot_ai_human.jpg/d880x320"
+        width: 880
+        height: 319
+        isCached: true
+  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
+    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
+    publishedDateTime: 2021-06-02T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://medcitynews.com/uploads/2021/05/virtual_access-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "UneeQ Digital Humans Surpass 1.5 Million Conversational Minutes, Powered by New Amazon AI Integrations"
-    excerpt: "UneeQ, a United States and New Zealand-based digital human company, announces a new milestone along with the latest integrations of Amazon Lex natural language processing and Amazon Polly synthetic voices into UneeQ Creator,"
-    publishedDateTime: 2021-06-02T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-uneeq-digital-humans-surpass-15-million-conversational-minutes-/2021/06/02/9382255.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1523573/210601_AWS_How_it_works.jpg"
-        width: 400
-        height: 225
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
-secured: "3iJ3fKMpvRvLXGFsAo315ApyU3PxakrrArPHeqNhG1ItPXdH1P3nRREiMR8ptjv306R5TGDq9SafP+KA6i2Rq/2hJX2CdR1I2hOobCW51gEXPR85ZxTz/vwGUNOKeYkHSY8Svdyp/7g1VXjIbDP1Vp6dd4AgKxOVU2NYwFO4k9hy0V32kDxFyedTbkdCn+5tgI1VJSerbuPQzZ8SwFvneoHeh7SnXInRo/p6mJhI/bq3H90nTcv+vStDHNiGojrNPrhSdVy3z9qlCbTL00CNtklxe6R8eRlaViaOybyR4oOlj77pV04k67TD1WSyxT4vBLcGR9Mwy5ZLnI8UNufCIMyZiAQQajP3dMoucIpL3Y4=;PhDikWRuj9yq2UwJbxlnRA=="
+secured: "e4iHqIqhFErrrtMVotSFBPJESOOdcKK7J1VTo/6mM0luvcozyvivkfOnHSsHXQD8JmWwRB8nz+gELiAYlLupPocjbigtjlFhxGuTuLqIeF5xw8A44bh1FqDcClb4bGtUfateWop2C5ASeZVQlWC1thzhWGOK1pEjM96WVMwQQr61aUFRXf4QS1Ws0KCjB2KWFO53Y7BfdnQhzGNEeUtK1AOxdsh48Bi6ZmJyCj7JzeiiF2wFAyhLguNUekxwZx9aQdbyJl8GalOrpXfueWx1RzSHUdBjtXs+DsS9c7Yl7Xrjv8rswMWdvGCdGn9hAeuc7c0Me4MPLRnvNfBQR4fK1CpqS2dium5DwFXudDpIZjYupzUM2fQoZulfMcYebDKrS/c1FP8seoKVboAfJEFWYq605Az8GV2iGPQoIvRZJYqcrgiVAQwqN3LB6QvmJXhVdYY4V285GnJHSzqUM2RlZxDrjYVrWqMHf49jsAOOUFnf8ruEI4ZhKOoQQx5xzHhqHdgCT9dGA43QcJiQLBdwqA==;ANhiQDYG2JZulYw3miJPWg=="
 ---
 

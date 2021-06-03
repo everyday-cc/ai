@@ -24,6 +24,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Bell transforms customer experiences and extends 5G leadership by collaborating with AWS for cloud and 5G multi-access edge computing"
+    excerpt: "Bell transforms customer experiences and extends 5G leadership by collaborating with AWS for cloud and 5G multi-access edge computing"
+    publishedDateTime: 2021-06-03T17:06:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/06/03/bell-transforms-customer-experiences-and-extends-5g-leadership-by-collaborating"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
+
 secured: "W4NL79YqfJJVpeB+7ncFcoZ8HG4/qezNReOsq7vhq1t6L+I1HAAHQECgPwikR4Tl+xtg9b8l6q76ShKiadBZ/7ShGjnQNzs7BfIJV8rqgucSzdQAU95KZQQWgU7/xj0IiNqwlUXXegjssebk80MgHBJPl3InwSnqIaepL8ywtkjQ43wDzZUeaNFIHQF3WqGs+c8AF/9mdop7oxtruJvcTsRAOXLFxKhDEvl0PY/sOUzXg0OMRUJd5mjR3qtmj5ZYE0GLTJ0Wg/M/8A1RkRS6yWw49Cust/LoL56qrbxYrGbs1MVdfjbcVoWV8jOoWjz5aOz7wwZI8Yb3ZlnmHWHbiqXhvL8C1MMhTlt6jRce51o=;TK5JWWvHrnbF5Ec+mo983g=="
 ---
 

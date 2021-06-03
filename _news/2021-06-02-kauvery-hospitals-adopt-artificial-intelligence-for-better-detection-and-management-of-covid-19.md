@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
-    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
-    publishedDateTime: 2021-06-02T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Kauvery Hospitals adopt artificial intelligence"
     excerpt: "Kauvery Hospitals one of India leading multispecialty chain of Hospitals have been harnessing the power of AI to better detect and manage the disease in COV"
     publishedDateTime: 2021-06-02T09:36:00Z

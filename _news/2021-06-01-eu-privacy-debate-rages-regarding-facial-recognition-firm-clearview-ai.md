@@ -7,8 +7,8 @@ originalUrl: "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facia
 webUrl: "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: TechHQ
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU Privacy Groups File Complaint, Assert Clearview AI Facial Recognition Software Violates Data Protection Laws"
+    excerpt: "Clearview AI's controversial facial recognition software is facing legal complaints in the EU challenging the troubled company on the basis of violating data protection laws by 'scraping' websites.”"
+    publishedDateTime: 2021-06-03T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 54
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/06/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "POLITICO AI: Decoded: Age of surveillance — Australia’s AI vision — Clearview under fire"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2021-06-02T09:00:00Z

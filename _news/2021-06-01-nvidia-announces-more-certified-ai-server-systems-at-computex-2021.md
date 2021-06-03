@@ -72,22 +72,6 @@ related:
         width: 1124
         height: 760
         isCached: true
-  - title: "Nvidia Lays The Foundation For Wider AI Adoption"
-    excerpt: "Nvidia has been pushed its way into the datacenter, making its presence felt with its GPU accelerators that are designed to"
-    publishedDateTime: 2021-06-01T16:02:00Z
-    webUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/"
-    ampWebUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
-        width: 1199
-        height: 877
-        isCached: true
   - title: "NVIDIA Launches Cloud Hub to Support AI Project Development"
     excerpt: "NVIDIA is unveiling the NVIDIA Base Command Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
     publishedDateTime: 2021-06-01T17:36:00Z

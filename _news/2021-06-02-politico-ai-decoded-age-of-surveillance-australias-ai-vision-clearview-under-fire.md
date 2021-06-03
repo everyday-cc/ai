@@ -39,6 +39,22 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "EU Privacy Groups File Complaint, Assert Clearview AI Facial Recognition Software Violates Data Protection Laws"
+    excerpt: "Clearview AI's controversial facial recognition software is facing legal complaints in the EU challenging the troubled company on the basis of violating data protection laws by 'scraping' websites.”"
+    publishedDateTime: 2021-06-03T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 54
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/06/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
 
 secured: "sjs5vXo6Oqg7MCgxHzgrnaRB+aWBiyeKdRnROctC0VQYSJOdaswM185b75iek/6oIH60im/DmHi+bD6+LTHxhs24wDO86nrKwuPg8f25WggtvKo9WYVHfe6Kg6guXviQ4FpbyePGZGl0YwYxaiWCNxm8CtDFjigisF8HdnRfnQTVsJfSPi/ONLZ8vWqHkFUJCG9IbEHsGh8LlIsuWlvGPEsQdgZVfE64mm+TfjtnO/Q7vqGGuxTjZt7/agB5qe27G6GjXkNnssEkcx4/4t9FpvZa35g419lkZTaI2Rmy/y9wHWvLTWVelKL0I7MbNBXMhVHp5CTGHrfFM1VrMJ1nPXEXf8zxjxoxY+ZyVO4scfEScBJUZj5SdAjpoDSi6tDSU5M5fyDWMDA+bsUH/V/HA3lLx4oY3tzGbUGdlcw7DoSpzM1oSn/UZqUINjcSFtOFPzUOqSsOm26TUhdSthro5XVQkp8fzlViWA+dWx2AKwI+nKylyemusSqC95x1vhD5z+it/X+RnsQ35SVxtTBqQQ==;fybJ3sXe92XPFcyT7bWCTA=="
 ---

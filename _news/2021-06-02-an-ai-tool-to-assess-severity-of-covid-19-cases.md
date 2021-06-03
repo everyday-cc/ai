@@ -25,84 +25,78 @@ images:
     isCached: true
 
 related:
-  - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
-    excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients."
-    publishedDateTime: 2021-06-02T09:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/kauvery-hospitals-adopt-artificial-intelligence-for-better-detection-and-management-of-covid-19-121060200701_1.html"
+  - title: "Foundations of trustworthy AI: How to conduct trustworthy AI assessment and mitigation"
+    excerpt: "The ability of artificial intelligence to perform important business tasks has grown by leaps and bounds in recent years. As AI has progressed from a proof of concept to powering critical enterprise workflows, it has become increasingly apparent that this general-purpose technology must be assessed in"
+    publishedDateTime: 2021-06-03T16:30:10Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 47
+      name: IBM
+      domain: ibm.com
+    quality: 111
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/02/full/20210602142448.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_assess-risk_2000x1000.jpg"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "Kauvery Hospitals adopt artificial intelligence"
-    excerpt: "Kauvery Hospitals one of India leading multispecialty chain of Hospitals have been harnessing the power of AI to better detect and manage the disease in COV"
-    publishedDateTime: 2021-06-02T09:36:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269731397/kauvery-hospitals-adopt-artificial-intelligence"
+  - title: "Why the United Nations urgently needs its own regulation for AI"
+    excerpt: "A regulatory framework would take the pressure off data scientists in the humanitarian sector to individually justify their activities."
+    publishedDateTime: 2021-06-03T14:20:00Z
+    webUrl: "https://thenextweb.com/news/why-united-nations-urgently-needs-own-regulation-ai"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1622625685.jpg"
-        width: 630
-        height: 420
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fcyber-4062449_1280-e1622729428242.jpg&signature=6b3a71a408d4023c116fbff2889165f5"
+        width: 1220
+        height: 610
         isCached: true
-  - title: "AI for radiographic COVID-19 detection selects shortcuts over signal"
-    excerpt: "The urgency of the developing COVID-19 epidemic has led to a large number of novel diagnostic approaches, many of which use machine learning. DeGrave and colleagues use explainable AI techniques to analyse a selection of these approaches and find that the methods frequently learn to identify features unrelated to the actual disease."
-    publishedDateTime: 2021-05-31T15:02:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00338-7"
+  - title: "Nvidia Lays The Foundation For Wider AI Adoption"
+    excerpt: "Nvidia has been pushed its way into the datacenter, making its presence felt with its GPU accelerators that are designed to"
+    publishedDateTime: 2021-06-01T16:02:00Z
+    webUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/"
+    ampWebUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00338-7/MediaObjects/42256_2021_338_Fig1_HTML.png"
-        width: 685
-        height: 358
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
+        width: 1199
+        height: 877
         isCached: true
-  - title: "AI can help stratify COVID-19 risk on lung ultrasound"
-    excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
-    publishedDateTime: 2021-06-01T07:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132539"
+  - title: "Why Board Directors And CEO’s Need To Learn AI Knowledge Foundations: Building AI Leadership Brain Trust - Blog Series"
+    excerpt: "This blog continues to outline the importance of board directors and CEOs learning AI foundational terms. This article defines Artificial Narrow Intelligence, (ANI) Artificial General Intelligence (AGI),"
+    publishedDateTime: 2021-05-30T17:44:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/05/30/why-board-directors-and-ceos-need-to-learn-ai-knowledge-foundations-building-ai-leadership-brain-trustblog-series/"
     type: article
     provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 45
     images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_28_22_04_8526_2021_06_01_AI_COVID_social.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097def72068bbfb5968d9ce%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Middle East & Africa AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Component and End-User"
-    excerpt: "Reportlinker.com announces the release of the report \"Middle East & Africa AI in Computer Vision Market Forecast to 2027"
-    publishedDateTime: 2021-05-31T11:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21356348/middle-east-africa-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-regional-anal"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21356348"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21356348"
+  - title: "Future of artificial intelligence"
+    excerpt: "From self-driving cars to innovative drug development, artificial intelligence (AI) is going to fundamentally change our lives in a variety of ways."
+    publishedDateTime: 2021-06-03T13:40:00Z
+    webUrl: "https://www.miragenews.com/future-of-artificial-intelligence-571282/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-  - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
-    excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients. Chest CT scans are an integral part of the diagnosis and management of COVID-19."
-    publishedDateTime: 2021-06-02T21:14:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20210602/3765196.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 7
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 41
+    images:
+      - url: "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs/robot_ai_human.jpg/robot_ai_human.jpg/d880x320"
+        width: 880
+        height: 319
+        isCached: true
 
 secured: "Oi17kHTSOKw9v+Baagz807/wegUSQZ/YXufIIZkvG8qPJSoDtip+K0ieOlyCBXUr5p455YTtRLXXTWxKRHO3blp9GrkLK57MciOe0NrT11Wb+WYeK8SOXzuD5xkuYcMcHpLq53TkZ00Qm9BwRarFznwaoVQXPofZ/QtT9f+fm/LFHsrCMJScLpcOZxBX0J66V7Qq457NDByyJ6In1SeMhIjfBa0Yc4hcP2D8rALN/nKJADD7VIR+wnnd70KjAHapk56piTuW07LvxPn1v20e87OciX/SgIjFlce3tUDMNelqYjhjy743eQK0CKOMxQjX5dCgRH1wiNyiIn8KU0xvUKmfTEcALUR+re50FalVGUy7AyUD3NDa6nFBZuJssyjwzR14kTHqWggr1rivFDD0+6kad2mwkIQ8MHCOzZVQtdpy5UH2ej6IhjUrhPaxgmJ0Rd1URuzx+38XjekwbOl+wqL6YiOyQBHJRbT6DkSElWfHL7pyhCVli87ieXtAVhqN5ZWXYIr/7ayNXINn4/pFlw==;OOUyWC+DQYZNTxOK/Sn47w=="
 ---

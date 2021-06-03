@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant"
+    excerpt: "Facebook's AI team is moving all of its machine learning model deployment to the PyTorch framework, and standardizing on the framework for development, the company said Wednesday, during its F8 annual developer event,"
+    publishedDateTime: 2021-06-03T10:06:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg"
+        width: 1600
+        height: 1069
+        isCached: true
   - title: "Facebook goes all in on PyTorch at F8 Refresh"
     excerpt: "Facebook announced it is making PyTorch its default framework for artificial intelligence and machine learning models at F8 Refresh"
     publishedDateTime: 2021-06-02T20:14:00Z

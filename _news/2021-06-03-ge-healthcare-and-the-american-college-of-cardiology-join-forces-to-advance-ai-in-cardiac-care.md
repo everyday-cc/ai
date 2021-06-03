@@ -1,27 +1,23 @@
 ---
 category: news
 title: "GE Healthcare and the American College of Cardiology Join Forces to Advance AI in Cardiac Care"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net GE Healthcare is ... of building a roadmap for Artificial Intelligence (AI) and digital ..."
-publishedDateTime: 2021-06-03T13:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ge-healthcare-and-the-american-college-of-cardiology-join-forces-to-advance-ai-in-cardiac-care-1030491481"
-webUrl: "https://markets.businessinsider.com/news/stocks/ge-healthcare-and-the-american-college-of-cardiology-join-forces-to-advance-ai-in-cardiac-care-1030491481"
+excerpt: "GE Healthcare is collaborating with the American College of Cardiology (ACC) through support of and participation in the ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes."
+publishedDateTime: 2021-06-03T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-the-american-college-cardiology-jo-forces-/2021/06/03/9383450.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-the-american-college-cardiology-jo-forces-/2021/06/03/9383450.htm"
 type: article
-quality: 52
-heat: 52
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "9F7VpxU8W/L57tVXy1XBDNdKRoU8ycOmLiGrWFgS1JLN3Z1JmQdOr6y4zkk7QdMtW6ZY8a1WSN6BWAuFzHVvtqrnMHdsRVuLJ+BQUOTP6EjbYGmLjOH1+8wX9qV8l1E3PxJJavrsOidF3WaJ4NWwizRSMlwkOp81a81+qMxGy2czg0W4RAJsmlSsllnuQ5M2jN+HDJ6krYOSLJ0geS0PSs4qM6fNsKTYmJAHczav0i+oUaDOAvttJozVn+fI8049InZc9PLmTzbuHdRzHsChy3Cn4yyU0Pnm7VXiFqGVD1ox6xUn1WBSdAA8aDVfIhpfZYniIYYG3SiA/DW7cK1ui8lodA38Ndq9+m1ofs9Y0gw=;M1ZAViNE7EwrgW8nfXIS0g=="
+secured: "qDIv6JGLsjtX7KGnjbe7zdE677D0CDHnbZGQvSxUBMTGoB/wvk2GS5/6P0ygbZduCejXAJi/SYeAFYIiWS3yTWR3kyuLMd/KyUm3vlU8JoBjRklXqYLTp1+sL6YuL2MdCoY8a/FX3aZo5t8msVkkoL21/qWvsxOFUsguAOrUtnPhFo2tkwZ6bXz2tmxWp547t/pNCcEL/4l4759phAi7CmOlvX0nC/ilDkjDVIkiO8O1lPUZxr7VKgJUJXeumqvs/g5dTN0n3t2poeE/56rBPERJUx2uHgDE/J4X4stVHZUkmt8j2ea5iMRbgsGJ3PnzuoXHBp9eK0PxprHgFj8I9Z9zgqQvmZR8zVYeS2+WpB8=;oe++J2Dcz0UOap8Zw2koqg=="
 ---
 

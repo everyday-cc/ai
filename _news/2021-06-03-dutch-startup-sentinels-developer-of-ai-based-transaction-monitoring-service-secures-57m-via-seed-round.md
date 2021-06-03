@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2021/06/176182-dutch-startup-sentinels
 ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176182-dutch-startup-sentinels-developer-of-ai-based-transaction-monitoring-service-secures-e5-7m-via-seed-round/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176182-dutch-startup-sentinels-developer-of-ai-based-transaction-monitoring-service-secures-e5-7m-via-seed-round/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/10/jace-grandinetti-The-Netherlands-Amsterdam-Bicycles-1-1-300x223.jpg"
