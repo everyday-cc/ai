@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
-    excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
-    publishedDateTime: 2021-05-30T16:23:00Z
-    webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 42
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Global Education and Learning Analytics Market Report 2021-2027"
     excerpt: "The \"Education and Learning Analytics Market by Component, Deployment, Applications (Acquisition and Retention,"
     publishedDateTime: 2021-06-03T08:08:00Z
@@ -92,6 +78,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Machine Learning as a Service Market Size and Share Evolution to 2030 by Growth Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine Learning as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-04T08:46:00Z
+    webUrl: "https://menafn.com/1102210614/Machine-Learning-as-a-Service-Market-Size-and-Share-Evolution-to-2030-by-Growth-Insight-Key-Development-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643070"
+        width: 374
+        height: 249
+        isCached: true
   - title: "Global Artificial Intelligence in Medical Diagnostics Market Insights Business Opportunities, Current Trends And Restraints Forecast 2027"
     excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market report provides a holistic evaluation of the market for the forecast period (2018–2027). The report comprises of various segments as well an analysis of the trends and factors that are playing a substantial role in the market."
     publishedDateTime: 2021-06-01T11:42:00Z
@@ -101,6 +101,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 1
+  - title: "Global Neuromorphic Computing Market Report 2021: Image Recognition, Signal Recognition, Data Mining – Forecast to 2026 – ResearchAndMarkets.com"
+    excerpt: "The “Global Neuromorphic Computing Market With COVID-19 Impact by Offering, Deployment, Application (Image Recognition, Signal Recognition, Data Mining), Vertical (Aerospace, Military, & Defense, Automotive,"
+    publishedDateTime: 2021-06-03T10:24:00Z
+    webUrl: "https://www.financialbuzz.com/global-neuromorphic-computing-market-report-2021-image-recognition-signal-recognition-data-mining-forecast-to-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "DmKw9xBgSWZk4alu5w7W5j5+bE0DSS9i7cxYUZJ+RJkHFe6W3MDlSV5R3r4yTQNUeXGu7WexaC7Q4kGEHUnFDSY8tahjWaJcv33TJQE3ClwFt7x+sHivVgGTgq/Rw6JjlvCpluEjlqyFjmOhgotb1u6kigf68/Vt+MtpZd0ilVPFEyxzrWicdfs7T/bOwrJnjFNUJaLLL3EBVHxtpygFH7len7VHSlGBu6n1oF6RNWeSAHSQZhGJEHUM6JCVQRP9aoBedE4cCPKrWt66W86j0LNHSBKTg47pbS3pbyFabK0Osqt0lH8JVT31hJJATlquuZXFl/+QF/KmLK+elktSQYlLrruq1ZlyCGPuiG+qums=;dv63x8cfhk5sc66AotwQfw=="
 ---

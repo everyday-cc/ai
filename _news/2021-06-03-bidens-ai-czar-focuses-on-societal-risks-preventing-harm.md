@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Biden's AI czar focuses on societal risks, preventing harm"
-excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn"
-publishedDateTime: 2021-06-03T16:11:00Z
-originalUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
-webUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
-ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
+excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pullin"
+publishedDateTime: 2021-06-03T16:13:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904"
-    width: 1024
-    height: 904
+  - url: "https://s.abcnews.com/images/Politics/WireAP_638923c36dfc4347a4800bf6940f183c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -43,23 +42,7 @@ related:
         width: 2000
         height: 1765
         isCached: true
-  - title: "Study: AI faster, better at predicting successful radiation treatment"
-    excerpt: "In another win for the robots, artificial intelligence is putting on a lab coat to outdo doctors in radiation therapy treatment."
-    publishedDateTime: 2021-06-03T19:45:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1061622739992/2021/1/81fb8d912bcb9af1dbe5cf47a91b10d1/v1.5/Study-AI-faster-better-at-predicting-successful-radiation-treatment.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
-secured: "aLmwlczX48pCSQmfbZh5DGLybVoH15ILoQ/3wIA84Pjk4PrQAFuwrTWJutD/00eZvrwQl6bMOKV+3WFy97JIVtRF8eQtPBAJm81QDvOuXWgpDp7bWs9BtcJ4igiZCx56AWoyKgRUHDlzukMBv7t3u0Yk8nbtrStsm9uWhWDic2IKHDViMMZeZggBRi5eJA7u9denXC9DjfI9/1IFAz/FZTitn/zkty/egCnhcuqybn93wQxYjIOGK9UQUtjnyHPPKtegpplPCC9jS9BPduI6LL+D73Q6dGXr2fdxooPyn8R8dIZTrb33pUTaLuJVcHQZ1/5pedW/awhFbr2jMc3BF8P6yt9KlxGBcFtr/c0xN08=;EU4bukkyFel7rSN9AeZZAQ=="
+secured: "x026Q0MltxEMm/eGffk15d5Bl/K22l6g6fI0/tGd8J5FfFHgbpJGzC3haCdxeu3BuDfJfpMB+EczvLEplLr8G/wY4jBdIJctpNi1yY6vdsmlBDU6HmnPtyFDUtheNraG0N1EFuIBzj7Xp31/G74g1nMxsnqXxV+95F1QoNL78RQeR87CmNaQBiVrXoWcyjLkn4ABrt3DMJ6ljt2cti0KLiWOJk/DYqYhmY0Iti3QwzdrvCiaeE+r1OEsMGB1hxtup0yvf0D2VSuDPlJs7+qyxZfXB+j9QBqpmSwIjvnGvj8jyUKjoGuMPdvdiX4A2+7sm/KSkq+Vmp4Vv9emjs/c4nN1KutudguTX6hNFbImX54=;9O+IsAl1Dl8dUIjxsLKSBA=="
 ---
 

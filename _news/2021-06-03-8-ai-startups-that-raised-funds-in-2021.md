@@ -41,6 +41,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI still sucks at moderating hate speech"
+    excerpt: "For all of the recent advances in language AI technology, it still struggles with one of the most basic applications. In a new study, scientists tested four of the best AI systems for detecting hate speech and found that all of them struggled in different ways to distinguish toxic and innocuous sentences."
+    publishedDateTime: 2021-06-04T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/"
+    ampWebUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/bananaflage-b.jpg?w=3000"
+        width: 3000
+        height: 1993
+        isCached: true
 
 secured: "F9n3CzHCwxOKCLBWfubFckgQvkMamURDuu6Th9FfidNoAH8B1Gn8Q1m1Cd8Q3B6NAC3x/N720yqAUnVBoUZAu+opr/dIwI6GJmQHYOTxy0natRDf0nE2mHj7bWVPjtDIj582o2etEXPNsJG+4xrE2jki6frDnBDTkowFUngrNYNDkK6/HeYd9SCL82DhpCd4VMg121xM/+FxCqhdT78Dmc3qqRvVlXgN99f2Z732x6eRoT8CI+ICHH1PgH41n6NnyWqTK4GEvkNP0YqcNIBl4CXdvy8AjiUqaEpu+rx8aKqSQERaNg4wsgdEDxwkOQ7k2RGuIjocGEP2lGjrnPeYzl4CcLtvmw9349Sui42hqZGqwuZv6uEcv8QNiD9TOIn8qwq8ozmEzpszUwY/k+kuhakkFhuSoJCpHP0jlGcMBHmuh/WQrIVgGDS2SmtxObTa9zai+G+biCICIa+7yGW5A+oCejIKWVR7Ye0xxfLSEhQWDaPiFsDPdXQSyfKgVUBt/Q0Ja08h+ZBTMXiedK+YQQ==;nsNk56UVQaKu/EiJ5k8uXA=="
 ---

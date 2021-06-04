@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
-    excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
-    publishedDateTime: 2021-05-30T16:23:00Z
-    webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 42
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Global Education and Learning Analytics Market Report 2021-2027"
     excerpt: "The \"Education and Learning Analytics Market by Component, Deployment, Applications (Acquisition and Retention,"
     publishedDateTime: 2021-06-03T08:08:00Z
@@ -78,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market Size and Share Evolution to 2030 by Growth Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine Learning as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-04T08:46:00Z
+    webUrl: "https://menafn.com/1102210614/Machine-Learning-as-a-Service-Market-Size-and-Share-Evolution-to-2030-by-Growth-Insight-Key-Development-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643070"
+        width: 374
+        height: 249
+        isCached: true
   - title: "Computer Vision Industry Production Capacity Estimates and Forecasts to 2027 | Industry Size, Current Trend and Future Demands"
     excerpt: "Market Scenario: <br /> The global market for Computer Vision Industry is expected to surpass a valuation of USD 48,300 Mn by 2023. It stood at over USD 9,200 Mn in 2017. <br /> The market is projected to expand amid rising applications of augmented and virtual reality."
     publishedDateTime: 2021-06-03T03:55:00Z
@@ -101,6 +101,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 1
+  - title: "Global Neuromorphic Computing Market Report 2021: Image Recognition, Signal Recognition, Data Mining – Forecast to 2026 – ResearchAndMarkets.com"
+    excerpt: "The “Global Neuromorphic Computing Market With COVID-19 Impact by Offering, Deployment, Application (Image Recognition, Signal Recognition, Data Mining), Vertical (Aerospace, Military, & Defense, Automotive,"
+    publishedDateTime: 2021-06-03T10:24:00Z
+    webUrl: "https://www.financialbuzz.com/global-neuromorphic-computing-market-report-2021-image-recognition-signal-recognition-data-mining-forecast-to-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "t4/U2SE3uqEe2qo0xfTgJqFFALtoatSlCm5kT5KE7bCKDbeBEUrBR7eNl12hVf60ckKJT1AWHBhYdx8sFm2JdlzdTP1VeUK8GCMeX/31oElStVHdNriAtyLtOVqlQ9DQ/7P92mYS17Dv19heDTNdw8V+uZsgqvLVKAbyGHGsm58VuFKJMfz6aOk35o8NELk2sikD01Z4yd/hOkcKfm1VyMEpB2xXLvkewCzk5j/nfqvuAyAqJpMjmT/t9pqpyJVp8EkBTQh+xhMLAGZDwJZFpsK8LJJpdUvBO7ODA1NXUvX6jNYsDrsEMG1D4s1sSL/QRwktPXVE7RqVQ/scnunaLjmFnoS4/sCZhIAX9qTElRE=;iUtpSpl1Yjq6LjZ35lhJyA=="
 ---

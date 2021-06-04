@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
-    excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
-    publishedDateTime: 2021-05-30T16:23:00Z
-    webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 42
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Artificial Intelligence Systems Spending Market Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2027"
     excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."
     publishedDateTime: 2021-06-03T13:27:00Z
@@ -78,6 +64,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Machine Learning as a Service Market Size and Share Evolution to 2030 by Growth Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine Learning as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-04T08:46:00Z
+    webUrl: "https://menafn.com/1102210614/Machine-Learning-as-a-Service-Market-Size-and-Share-Evolution-to-2030-by-Growth-Insight-Key-Development-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643070"
+        width: 374
+        height: 249
+        isCached: true
   - title: "Computer Vision Industry Production Capacity Estimates and Forecasts to 2027 | Industry Size, Current Trend and Future Demands"
     excerpt: "Market Scenario: <br /> The global market for Computer Vision Industry is expected to surpass a valuation of USD 48,300 Mn by 2023. It stood at over USD 9,200 Mn in 2017. <br /> The market is projected to expand amid rising applications of augmented and virtual reality."
     publishedDateTime: 2021-06-03T03:55:00Z
@@ -101,6 +101,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 1
+  - title: "Global Neuromorphic Computing Market Report 2021: Image Recognition, Signal Recognition, Data Mining – Forecast to 2026 – ResearchAndMarkets.com"
+    excerpt: "The “Global Neuromorphic Computing Market With COVID-19 Impact by Offering, Deployment, Application (Image Recognition, Signal Recognition, Data Mining), Vertical (Aerospace, Military, & Defense, Automotive,"
+    publishedDateTime: 2021-06-03T10:24:00Z
+    webUrl: "https://www.financialbuzz.com/global-neuromorphic-computing-market-report-2021-image-recognition-signal-recognition-data-mining-forecast-to-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "cZUGH1HauaiFzWhR9wj1MYAeo9PwHO6SSJ+f7wEcXCEeRDhOKBhgfCZrKJeQwNnj8JJy7ehmUTXKL6BxTarCUEg3unTEjlmnuzl1Ry1VmzNg0KhKalXwDFzGrmQhE8Mtf5KpXENoFQBdElrtUpDVvJvAvxaO8U0v2/q4q3CG6c9YLmqRzjZb5pDeLaDGSe//8XCdfjZZkm5jOWJhvC3Bn851kgi0KY7mFVcsjEml6Gn5VMjYiDUuzfkDdSNFS786JY5lcR9cgoH68FezrNFxPF7JDQSvkzhqJrSH6nrHhwKVKT9ckj0kJwmRy7nWj8FPSaYmrxa4j/W5nFc06hNbuRoLfL5S/deBR0vkD0mrMkc=;483yiQYYFaUyFOlDUihcIQ=="
 ---

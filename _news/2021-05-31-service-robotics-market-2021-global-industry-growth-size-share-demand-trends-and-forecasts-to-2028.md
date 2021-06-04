@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-2021-global-industry-growth-size-share-demand-trends-and-forecasts-to-2028-2021-05-31"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Space Robotics Market 2021-2026: Size, Growth, Driving Factors, Key Players and Industry Scope"
-    excerpt: "According to IMARC Group’s latest report, titled “ Space Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, ” the global space robotics market grew at a CAGR around 6% during 2015-2020."
-    publishedDateTime: 2021-05-30T16:23:00Z
-    webUrl: "https://manometcurrent.com/space-robotics-market-2021-2026-size-growth-driving-factors-key-players-and-industry-scope/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 42
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Space-Robotics-Market-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Global Education and Learning Analytics Market Report 2021-2027"
     excerpt: "The \"Education and Learning Analytics Market by Component, Deployment, Applications (Acquisition and Retention,"
     publishedDateTime: 2021-06-03T08:08:00Z
@@ -82,6 +68,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Machine Learning as a Service Market Size and Share Evolution to 2030 by Growth Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine Learning as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-04T08:46:00Z
+    webUrl: "https://menafn.com/1102210614/Machine-Learning-as-a-Service-Market-Size-and-Share-Evolution-to-2030-by-Growth-Insight-Key-Development-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643070"
+        width: 374
+        height: 249
+        isCached: true
   - title: "Computer Vision Industry Production Capacity Estimates and Forecasts to 2027 | Industry Size, Current Trend and Future Demands"
     excerpt: "Market Scenario: <br /> The global market for Computer Vision Industry is expected to surpass a valuation of USD 48,300 Mn by 2023. It stood at over USD 9,200 Mn in 2017. <br /> The market is projected to expand amid rising applications of augmented and virtual reality."
     publishedDateTime: 2021-06-03T03:55:00Z
@@ -105,6 +105,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 1
+  - title: "Global Neuromorphic Computing Market Report 2021: Image Recognition, Signal Recognition, Data Mining – Forecast to 2026 – ResearchAndMarkets.com"
+    excerpt: "The “Global Neuromorphic Computing Market With COVID-19 Impact by Offering, Deployment, Application (Image Recognition, Signal Recognition, Data Mining), Vertical (Aerospace, Military, & Defense, Automotive,"
+    publishedDateTime: 2021-06-03T10:24:00Z
+    webUrl: "https://www.financialbuzz.com/global-neuromorphic-computing-market-report-2021-image-recognition-signal-recognition-data-mining-forecast-to-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "bO0dB/tt2F/EbsnEaAF0d8nfgXypdNyXTsS8z9f4R4FA8YbY3vh2/mCDmpgKZQBD5GfsIQ/o2w50ULewGNenaxSY2KrBnQELT1kHOcBD46BgrseuFDzmBj0TZiSUF8Eh9rWl1nGBAVoZDYzYpGZ0GfBsIEOZUo+BuwPrN4i6rrHnDrg1gZy7VCnkfpZg2jL3T+HNNhrMxYrqmCvFDOqESIibaZQSu3UCjBXIKsc5KPXvUhXVs+hteO8WqMQZc5gamPRyRLJ0YMQ5meYZ+m1O30P72bnAzzy3CQZGKnRstYFBFW92hTLvRKNMoWi0V5YoO72fbpWwculJvCrKSHkj8fuFebTVL6h2ruszsmjP5z8=;X+5+KSuNg+B+yDcljbBXrA=="
 ---

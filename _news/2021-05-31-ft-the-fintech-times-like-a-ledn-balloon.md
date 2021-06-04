@@ -39,6 +39,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "For FinTech – the ‘new normal’ in finance"
+    excerpt: "FinTech has risen to challenges posed by Covid-19 by delivering digital, secure, seamless user experiences. The way people manage their finances has dramatically changed with the convenience of FinTech technologies."
+    publishedDateTime: 2021-06-04T06:07:00Z
+    webUrl: "https://www.malaysiakini.com/advertorial/577567"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 39
+    images:
+      - url: "https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/06/f6f548a7b30cdbd5fec09bc0fd19dfd0.jpg"
+        width: 3120
+        height: 2080
+        isCached: true
   - title: "Top FinTech funding rounds in the Americas: May 2021"
     excerpt: "Tracking investments offers a better perspective on the competitive and strategic trends in the finance industry. The article lists 5 FinTech fundings rounds in May 2021"
     publishedDateTime: 2021-06-01T09:19:00Z

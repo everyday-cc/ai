@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI still sucks at moderating hate speech"
+    excerpt: "For all of the recent advances in language AI technology, it still struggles with one of the most basic applications. In a new study, scientists tested four of the best AI systems for detecting hate speech and found that all of them struggled in different ways to distinguish toxic and innocuous sentences."
+    publishedDateTime: 2021-06-04T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/"
+    ampWebUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/bananaflage-b.jpg?w=3000"
+        width: 3000
+        height: 1993
+        isCached: true
   - title: "8 AI Startups That Raised Funds In 2021"
     excerpt: "Indian Government has launched a Startup India Seed Fund Scheme with a corpus of 945 crore rupees to provide seed funding to qualified startups through eligible incubators across India in the next four years."
     publishedDateTime: 2021-06-03T09:30:00Z
