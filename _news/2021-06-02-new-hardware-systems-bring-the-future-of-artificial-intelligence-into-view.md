@@ -42,6 +42,22 @@ related:
         width: 1600
         height: 1333
         isCached: true
+  - title: "The future of elder care is here – and it’s artificial intelligence"
+    excerpt: "Computers are increasingly guiding decisions about elder care – and tracking everything from toilet visits to whether someone has bathed"
+    publishedDateTime: 2021-06-03T18:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/e99464f60a7fdf337fcc4dda5ebdafaa5b56cad0/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ab9f8cbb0be98959d25227534c9ab1fc"
+        width: 600
+        height: 360
+        isCached: true
   - title: "AI Summers And Winters And What They Teach Us About The Future"
     excerpt: "While the promise of Data Science and Machine Learning has created a lot of traction, we had before two other cases of AI summers: in the 1950s and 1960s, we had the “age of reasoning” and prototype AI,"
     publishedDateTime: 2021-05-31T15:24:00Z

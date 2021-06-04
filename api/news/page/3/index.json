@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-02-ai-prompts-a-scramble-for-healthcare-data.md",
+      "title": "AI prompts a scramble for healthcare data",
+      "excerpt": "Covid-19 has opened the eyes of the healthcare world to the promise of artificial intelligence. Two years ago, AI applications were largely seen as demonstration projects and start-up dreams. There were “nice to have” experiments in triaging mammograms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
+      "originalUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce9e9331-316e-4c4c-a6a1-a1d8f77ec840.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
+      "publishedDateTime": "2021-06-01T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-texas-proving-grounds-to-test-ai-in-the-real-world.md",
+      "title": "Texas proving grounds to test AI in the real world",
+      "excerpt": "AI is making its way into the physical world. How do you make sure nothing goes horribly wrong? How do you test out how AI will interact with physical systems in a real-world environment? If you're SparkCognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
+      "originalUrl": "https://www.zdnet.com/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/31/ab2962ca-1e04-450f-bd21-eb60865b3fcb/boeingdrone.jpg",
+          "width": 920,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
+      "publishedDateTime": "2021-06-01T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-banned-gamblers-in-south-australia-to-be-found-using-facial-recognition-tech.md",
       "title": "Banned gamblers in South Australia to be found using facial recognition tech",
       "excerpt": "A number of gaming rooms in South Australia have adopted facial recognition tech from Vix Vizion as part of the state's gambling reforms that went live in December.",
@@ -1098,7 +1192,7 @@
       "originalUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1128,100 +1222,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-instacart-bets-on-robots-to-shrink-ranks-of-500000-gig-shoppers.md",
-      "title": "Instacart Bets on Robots to Shrink Ranks of 500,000 Gig Shoppers",
-      "excerpt": "Automating much of its operations could help the company lower prices and appeal to a mass market. But Instacart needs industry buy-in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/instacart-bets-on-robots-to-shrink-ranks-of-500000-gig-shoppers/ar-AAKADHK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioYyq3DJqM_k/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T02:00:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
-        "domain": "bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-want-your-nails-done-let-a-robot-do-it.md",
-      "title": "Want Your Nails Done? Let a Robot Do It.",
-      "excerpt": "Start-ups are using technology to take a robotic approach to manicures, offering a simple way to provide foolproof nail polish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/01/multimedia/01sp-currents-nails/01sp-currents-nails-facebookJumbo.gif",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html",
-      "publishedDateTime": "2021-06-01T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

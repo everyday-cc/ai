@@ -42,6 +42,22 @@ related:
         width: 1600
         height: 1069
         isCached: true
+  - title: "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant"
+    excerpt: "In a kind of battle of the researchers versus devs, the decision happened only after Schroepfer and team came around to the thinking of Facebook AI's head of research, Yann LeCun, according to Schroepfer. \"I had this knock-out, drag-out debate with Yann ..."
+    publishedDateTime: 2021-06-03T23:01:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 99
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg"
+        width: 1600
+        height: 1069
+        isCached: true
   - title: "Facebook goes all in on PyTorch at F8 Refresh"
     excerpt: "Facebook announced it is making PyTorch its default framework for artificial intelligence and machine learning models at F8 Refresh"
     publishedDateTime: 2021-06-02T20:14:00Z

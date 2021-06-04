@@ -33,7 +33,7 @@ related:
   - title: "MLOps Company Iterative Raises $20 Million Series A Funding Led by 468 Capital"
     excerpt: "Iterative, the MLOps company dedicated to streamlining the workflow of data scientists and Machine Learning (ML) engineers, today announced that it has raised $20 million in A round funding. The round is led by 468 Capital and Florian Leibert,"
     publishedDateTime: 2021-06-02T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mlops-company-iterative-raises-20-million-series-funding-/2021/06/02/9382620.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382620.htm"
     type: article
     provider:
       name: TMCnet

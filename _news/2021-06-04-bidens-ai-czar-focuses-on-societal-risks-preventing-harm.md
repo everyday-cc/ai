@@ -28,23 +28,23 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s AI czar focuses on societal risks, preventing harm"
-    excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling"
-    publishedDateTime: 2021-06-03T16:18:00Z
-    webUrl: "https://www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-    ampWebUrl: "https://www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
+  - title: "Biden's AI czar focuses on societal risks, preventing harm"
+    excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pullin"
+    publishedDateTime: 2021-06-03T16:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
     type: article
     provider:
-      name: WTEN
-      domain: news10.com
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280"
-        width: 1280
-        height: 1130
+      - url: "https://s.abcnews.com/images/Politics/WireAP_638923c36dfc4347a4800bf6940f183c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
-secured: "EginGR/25BZTgddk5Gx/cQME073pCiJdxFkhIHIExKVnwJWM49aftuyqYI/8l56qeT0tgFOpaNH0DJMJr+n1/xP6lH65ts6aCgebap7tODyJ78dDBYSKxb0TXaz0YMSV2Nf2OvwJ3sJDmDDBB/4nBPQli3yddI2Ha6G6/h1ii5ia2tB1fD/gKo9iKwhRWKE7gmWaVWY2RMkLrVEYTIBT98W3ABRHAno4C7nJdfCLOJeUIeUn/lTolZawyxvqwPKONq/OkBmHP7Rhta0LRg7q1lJaU6xXfJhCR/M32ru5E9/77slKFvBrhmWYv1CIiB1QUgNe7MwlP4tIVs80G4+1+3v+RVcYTrWI3clR2JXS1BI=;tQiWFq98fa6VEJqQ6p0VjA=="
+secured: "3ZodfvhDCQN0f82XAMuRYIAUQK6SEomkYvWbKfoJOMf9/v2K4JyyAdC6bz2h/4ajy66Qw3mWA7LhH/4UJZ8HXjCAaMnEtlU7O/y+X4WJna9xk4JKRX1dqQLq4VvCV7Zu7xGT86Zr3Vn2+0Qjf0E89aYMShHt3evrxGlwTQKxetK6z6GTMQLXXhNtIcpoC3hryF7j9kaxzzQiuFeMi83K3kHPm3vgIC96Na4qhgoXRCOjcZPT5tn49misRJwGFkmGHUeY7o+VNnZsKEduongFzqW/6bWU6dMGzyMo3nhKtM/2bHqYyOq9SFWkdahV8O4bCbxBvHpWhJZKsVrn1tCLT0LhWOQWmZXEY9t8BZodPwxCcO1oYFzOPODznOoyIDEWXDdxLGfe5f45LFsesf2e6i8T0GnRBJoxhyUSZx/f6yQaHlmRrKFdvj3aydY1xg4X2t08MsM89DvL1hWfUW9/NsrBAEpcgISzR6N8keVNr/2YmO0P3P673rVZRmZfGRDwebNdJFAWasqRmEk/OZXWpw==;9PxJJF9+8goKx0WYUpt+kQ=="
 ---
 

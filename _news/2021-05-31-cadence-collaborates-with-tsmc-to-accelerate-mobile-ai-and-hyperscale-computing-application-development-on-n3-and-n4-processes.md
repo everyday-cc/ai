@@ -28,14 +28,14 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "EdgeCortix Collaborates with Cadence to Accelerate AI Chip Design"
-    excerpt: "Cadence today announced that EdgeCortix has deployed multiple Cadence® verification and digital tools to accelerate the design and verification of its edge AI chips."
-    publishedDateTime: 2021-06-03T09:21:00Z
-    webUrl: "https://www.design-reuse.com/news/50090/edgecortix-cadence-ai-chip-design.html"
+  - title: "EdgeCortix Collaborates With Cadence To Accelerate AI Chip Design"
+    excerpt: "Cadence today announced that EdgeCortix, Inc has deployed multiple Cadence tools to accelerate the design and verification of its edge AI chips."
+    publishedDateTime: 2021-06-02T18:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210602005272/en/EdgeCortix-Collaborates-With-Cadence-To-Accelerate-AI-Chip-Design/?feedref=JjAwJuNHiystnCoBq_hl-cFcUWvK4NSyDWO6DSHmLQqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu6AeRucmCP4ZHknI_zC0f97"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 34
   - title: "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment"
     excerpt: "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,"

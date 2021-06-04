@@ -190,20 +190,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
-    excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
-    publishedDateTime: 2021-05-30T06:47:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
-        width: 1462
-        height: 1056
-        isCached: true
   - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored"
     publishedDateTime: 2021-06-02T08:01:00Z
@@ -221,7 +207,7 @@ related:
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
     type: article
     provider:
       name: TMCnet

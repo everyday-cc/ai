@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusi
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Grimes goes on TikTok rant claiming that artificial intelligence is the key to communist future"
+    excerpt: "Grimes posted her bubbly, enthusiastic rant on Wednesday and left viewers baffled as she described how A.I. could lead to a world where nobody has to work and everyone lives in comfort."
+    publishedDateTime: 2021-06-03T23:17:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9649909/Grimes-goes-TikTok-rant-claiming-artificial-intelligence-key-communist-future.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9649909/amp/Grimes-goes-TikTok-rant-claiming-artificial-intelligence-key-communist-future.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9649909/amp/Grimes-goes-TikTok-rant-claiming-artificial-intelligence-key-communist-future.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/06/03/23/43808123-0-image-a-9_1622758056107.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Grimes Goes Viral After Confusingly Connecting AI And Communism In A TikTok Video"
     excerpt: "Grimes says: “I have a proposition for the communists. Typically, most of the communists I know are not big fans of AI. But if you think about it, AI is actually the fastest path to communism. So, if implemented correctly,"
     publishedDateTime: 2021-06-03T12:55:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
 excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
@@ -184,20 +184,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
-    excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
-    publishedDateTime: 2021-05-30T06:47:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/azure-elastic-stack/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2021/05/azure-elastic-stack/en/resources/11afb6ffe-56f4-48ee-b800-940178032fcb-1622313479776.jpg"
-        width: 1462
-        height: 1056
-        isCached: true
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
     publishedDateTime: 2021-06-03T10:20:00Z
@@ -265,6 +251,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "2bpqJWKOpd1WwmHukvsAefNSMoYew0stgzXICOy8FcAYML9UILHgwez0PWXyzKTXgpf307xCuHcnBFKDNrwGOTk9hZV1ixcuBHeF/iAjQB0KEtb+Cpb5Rl+51TEASG0qrCx4hfVky7ijsi1XhlQ0jrb7NhMhniOP3hMv2GhNSRPkzrPdFYDFkw6Q3Mevu4GwZbfF7IZivW5s/x75KYkmbj1k5JH32cviSveJ6qQeAYM3WvQCTDouItT1l0NMiyXbYSr+4gaKUfNT0Bb/YKQwZ5MMPfP6ck6LkKler16wr2DcqXvglN5+OUNX4Lq6kQW9ZQoTt8xDM+MLMqPnHOB+YKnOYCR6w3fqzDr0XkUP2FA=;BxzMw4MOCiy9r6lyu5fvfA=="
+secured: "VILD1oiVqK5mhvuTGSRa0oB4cH8FdeOO1CsluEXwLgp444P9nZ/F6SzqBbQNRJ7e52TOcbDVFwBNWijrZoj7bMb9fhGUqi4p+Hg8eUXnn5Vwjb/XszbUN/a4ROjbw3E4Znhhho0BtRl/J1LUSdTkZliuo1d12m1kFk3q5szAUMf3ATZionEmwNSRN15EAlzVm7eF9vq06cXKMo4A5kG6c1zX7HJirOgRdDzyU5VqJ4pL3NB2WfHNTwuW6eAJu0ZzYLLo7dCWxPr7hfIPes4/Umomq9lhOMuNYsT1HedkObJtOCzHt76TaFGPKBhNmtWfynHN2U4BGw3KT5z/nGDkLvhcsqh/lm31larFvXKlLpg=;5IOYxPqBZIJvr+sLq/mjWw=="
 ---
 

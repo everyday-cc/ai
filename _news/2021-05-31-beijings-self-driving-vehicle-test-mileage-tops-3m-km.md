@@ -39,20 +39,6 @@ related:
         width: 672
         height: 420
         isCached: true
-  - title: "Insurers ask who is responsible, who pays when self-driving vehicles crash"
-    excerpt: "The advent of self-driving cars is raising questions in the insurance sector about who should pay when the vehicles crash and how insurers will set equitable rates."
-    publishedDateTime: 2021-05-30T05:43:00Z
-    webUrl: "https://www.newstribune.com/news/national/story/2021/may/30/insurers-ask-who-is-responsible-who-pays-when-self-driving-vehicles-crash/873143/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 22
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/05/27/198476953_BIZ-AUTO-SELFDRIVING-INSURANCE-DMT458323238_t1070_h77627e104634e1fa149f834ee3ab7ae57f6274f6.jpg"
-        width: 1070
-        height: 712
-        isCached: true
 
 secured: "lx25CrV5RySArsUzIx1Rbnp5Y6I1cOldNZNkwRnM47CXUb+TA9PktBlVUybaA75MzdTk9Juf+BfXr4xCX+59piwKrReos3uKoLuOYU++vMcc9/nzI1fYEIFCWGToOiQ6wF84FXoMoBs2RVUH1WTp3hcnwss5+qYsxNAIYy+vujUWrypv4wdfpaUmujTSwReHXKar5GDCQpABtOJQXQZ0k0iPn3T3xfgr1V0Awz/9auV8j7b3HQhoPw9wiv0hOuQM45qV8XFh+FmNbJEpR0aJP3omyFE0doxunW9eZBk6oab1+QTwv90qIZq/d3H6AlPZ8V+lvc+M6Dhd9+HNGqajlKFLlfdgpVrt4kszRi70nCTEWNhRtI3XxVQqb9EnAqKnsNLANG2d3IqcqdiArnm1bzgdl4eKQCgclS8jT5RkO5j3JzzOcopoe1Ky+AH5Fa94FuGIEkuVFRJK/pnKTefe0Yhd82QPBJH2e88uRDZnYxUGgQ+FDQC9WJAlP67S8jlRjNGKVPvWeOeDXraR9CGSJQ==;ikg33sM1XBE5pl9evJ69Kw=="
 ---

@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Biden’s AI czar focuses on societal risks, preventing harm"
-excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling"
-publishedDateTime: 2021-06-03T16:18:00Z
-originalUrl: "https://www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-webUrl: "https://www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-ampWebUrl: "https://www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
-cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/national/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
+title: "Biden's AI czar focuses on societal risks, preventing harm"
+excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pullin"
+publishedDateTime: 2021-06-03T16:13:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WTEN
-  domain: news10.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280"
-    width: 1280
-    height: 1130
+  - url: "https://s.abcnews.com/images/Politics/WireAP_638923c36dfc4347a4800bf6940f183c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -44,6 +43,6 @@ related:
         height: 1765
         isCached: true
 
-secured: "DpAhBf20SJRag+rixDYrQthOa5+mmLd2zywBtzOCDGtWslFx3a9WgN47s8Lz4xApCHnubMLWGXlh2cWmQdWbd9RKalYjvN9Tl4l5LmQg3C3f36lE0xcKGVJM4FLMfOGVeNWvqntMMH2J/Tpf8gC9aYUBnXGmudaRVyNC2EVvshsQSCOuHKXB88x7M61feHfqLRn3swnaoGr72gYhMBj4e15r2ulKzvv6WKvJQy+5E6IFktISbWKnyqkpSFc3rc4yW+wdkVi/n1rHPvx3oQ1GQU5rIRxVdKfIml/VhOpbuIauDYwSVvK6cD43Sz4AImQpskW9W1Itt596XdWbnYuDC/fIdA6gtwLjFGo+bB+OmVw=;izf2bZDIzC5YEc/KeUBkGA=="
+secured: "7/6Fos6vbXww7iEzbsrATpyrifT0QgJtojEqPVPuZi7eEvuGuQCYfNjy0fdrza4G/3yjXmI5aj/70F2cPGlnfCToitGdZ8FQf3kPb5MHsfjfPDnnZz0aGVRQxO4RHIlFiXGZC9iorTCMlRsQBcYfF63yJO4fIqPzl34mYwuLbaTLbr+Nak9//fvAFqh56LZDeGLK02ObwHy8iZKGprgcNC/IvVIMfdGVYDz/3ht2nFHE48cfPtKxxfAEq+cs+ovJJo3MddYqNaycXzm6jMzBQFRQw7UOKxXIOlpVnVthjsmNHgX95sf59hIriu9nGX+usj1GvM5ZOWwPAyPb0y68m+OYy06ZuWPsA3f6bK10gRE=;bStHKkTH/PRB2wBZofX0jg=="
 ---
 
