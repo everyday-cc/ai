@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sophiagenetics"
   url: "https://twitter.com/sophiagenetics"
-  followers: 21790
+  followers: 21792
 
 size: 201-500 employees
 yearFounded: 2011
@@ -32,7 +32,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1400776184724602884/NcjvEobU_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1400903436854571012/wx96H1fl_400x400.png"
     width: 400
     height: 400
     isCached: true
