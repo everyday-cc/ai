@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-publishedDateTime: 2021-06-02T02:40:00Z
-originalUrl: "https://www.ryt9.com/en/anpi/250000"
-webUrl: "https://www.ryt9.com/en/anpi/250000"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+publishedDateTime: 2021-06-01T23:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: RYT9
-  domain: ryt9.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
-    width: 800
-    height: 338
+  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -118,20 +118,6 @@ related:
       - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
         width: 740
         height: 493
-        isCached: true
-  - title: "Microsoft Weekly: Build 2021, a combo showcase, and next-gen Windows"
-    excerpt: "In the last seven days we had the Build conference, a reveal of the Xbox and Bethesda E3 event date, and some needed improvements to shared calendars on Windows. Be sure to catch up via our overview."
-    publishedDateTime: 2021-05-30T10:54:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-weekly-build-2021-a-combo-showcase-and-next-gen-windows/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 69
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1622383930_msw-20210530_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "3 reasons to invest in Microsoft Azure AI"
     excerpt: "Digital transformation enabled businesses to obtain data from places they never thought possible and to monitor every aspect of customer interactions to gain a holistic view of their customers. Companies soon realized,"
@@ -252,6 +238,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "8gB35EJUebVRy6KPIq+5gxP4B72SzAd/GWfb/DPuUHpGGmA1GTiAOlmO/LveH4d72JWN7nNFOqbEZSpimnXys6xSd+rHBfRy0oKAgMDKucXGDH6AByTo6u5xr+JPD4pD25wjV8KTrgVV8Gf1zr45bpuwnzImHCgiw3nuU9YXEAB+dYxmtUmeM+JOU9eGstQ2glrfNq+JscBruyCKUpBPtT3lrdDUAsMH0vaiijmc2VrXlHhZuhSkVqUEXz1geqcfX/v4XVhWsLGplvV14AMR1dY0EhTiL0XI9qDqx+h3DXQTrOG33nc0C8Bk4CLNLRcZLjvnuf7aRlPCDdLm72yz46taNDv0tIPHtMwJ5VIlcSA=;zv380wf03/KhUyrRkDZB+A=="
+secured: "R2Qn6YTodFZbpaatgJbuV3ZMBm6W17YtMPZJ4jOW0xQbv6Ix2J05TNDPTxH+y41+GZYrzu7xvKF5qd3S1mjuYkuyjpHcfEfm/4yRkrQ/qyHcS+ySeNIJHiljA5LjAfKi0YkePo1bRbFe7h0jAP/11h9T+kH++nffNXVaw7AOCxjz2N4luopBvpij418TCBwISV1uGItbFLNGwOPDBY8qAEIqGoB3hdfehblGXMvuewNCEDEsKa7NvuIrM+30J7WvW/2ilTbsIYmPk3FSWzpzs5XClPH/IqxMu8OAZBb5A85IPX65r/OMntuEiRoGcwuAwsUOL8zYuK4eacd3gCkRTH0la3CDIZCe0bOw83f+r74=;fcw7gNg/xKi9QQt/B4qbCg=="
 ---
 

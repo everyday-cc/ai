@@ -3,8 +3,8 @@ category: news
 title: "BrainChip Highlights Its Akida Neural Processor at AI Field Day 2"
 excerpt: "AI Field Day is the latest entry into the long-running series of Tech Field Day events presented by Gestalt IT. BrainChip will discuss recent developments about its Akida event domain neural processor SoC,"
 publishedDateTime: 2021-05-25T21:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-brainchip-highlights-its-akida-neural-processor-ai-field-/2021/05/25/9377741.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-brainchip-highlights-its-akida-neural-processor-ai-field-/2021/05/25/9377741.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377741.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377741.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "X0hEBoq1Y7zJ4L1wJ9ZsNKyyMZT6Q3M7+QR4A/DEw8/igLr3H+1YvWn22va2pIAlF8T2rokt9O2kTeLjyajMyt54U/D4zGm/S7ntJ5yOKiPov0UxTNfafr44fznOukfWoSAt0P23Gzt76XZGEhOPVZQr1lJ/y/xhPd2yL7hYmVQOjQ/JPrMoaaesVPuFU0MDD9flKjDtsaCilA10DsnVLnb2brfMZ5KeA9Yr3Bp+htiEPJs1Lq0k9vjg+ZxW1KnHbr/b3HlZPPJOXFMTTInWgkrJ2mTzEh+JE70KEuMy6NO2jYAdOfkXe13mIwwu7ckVa37rmhstzwauo5+R5ECx2GxjEyC0nf/bQvR1FBqnEKA=;5nCP9S2Y/FC0wGRHdhFg0w=="
+secured: "bLL28k/WaDp9Ms35GcXcocsXs7mjryhg7ceayoElQA+4R9l1rL388iJWxSZFIWHDU3f4ol49otPzQtEsAoAgi3sG765Sdk5inBJNyhO+efQRVG+p8A9CyquvaQCAvf6vb3hSd4fnxzEgl2ykMSsHXp+4S7HOU2orO2OSD1ZsxNvASZxcboK5KljPG7kVM/VE/96tfqK5DFTOr5dld4HecJI5j0Mqk6ME9QWHhrCGMyt9PpIG5zqjP7+1oP0SJVSBdf+Cdi+24ksGYcDXCEJJYuZ1+bjZiW5dJ2B9gNRNSx9HIXno3pKkxg19AVEoCsjApTcBBbbz0jZxYEqV+HS7yT3MiXJMcSPyXmKxFdt/x7g=;D0xjnqNwmYEgC3N0nXmRIQ=="
 ---
 

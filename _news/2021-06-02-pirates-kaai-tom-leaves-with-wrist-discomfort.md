@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-lea
 cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-leaves-with-wrist-discomfort/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,17 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Pirates' Ka'ai Tom: Remains with big club"
-    excerpt: "Tom will remain with the major-league club after serving as the team's 27th man during Saturday's doubleheader, Jake Crouse of MLB.com reports. This doesn't come as a surprise, as it was reported that the Pirates would try to find a way to keep Tom on the major-league roster."
-    publishedDateTime: 2021-05-30T10:43:00Z
-    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-remains-with-big-club/"
-    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-remains-with-big-club/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-remains-with-big-club/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 37
   - title: "Pirates' Ka'ai Tom: Won't start Thursday"
     excerpt: "Ben Gamel will pick up the start in left field in place of Tom, who can be considered day-to-day heading into the weekend."
     publishedDateTime: 2021-06-03T17:05:00Z

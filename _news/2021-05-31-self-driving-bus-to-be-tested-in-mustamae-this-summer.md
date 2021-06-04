@@ -7,7 +7,7 @@ originalUrl: "https://news.err.ee/1608230049/self-driving-bus-to-be-tested-in-mu
 webUrl: "https://news.err.ee/1608230049/self-driving-bus-to-be-tested-in-mustamae-this-summer"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 672
     height: 420
     isCached: true
-
-related:
-  - title: "Beijing's self-driving vehicle test mileage tops 3m km"
-    excerpt: "BEIJING - The safety test mileage of Beijing's self-driving vehicles has exceeded 3 million km to date, equivalent to going about 75 times around the equator. Currently, the city has 226 routes for testing self-driving vehicles,"
-    publishedDateTime: 2021-05-31T09:32:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202105/31/WS60b4ad4ea31024ad0bac29dd.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202105/31/60b4ad4ea31024adbdcb4126.jpeg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "AomvMd2QrDwKGnwzS5SyxeSRi8IyqeIrCcHyJOYMFgiy1xZ2Jf/MT1CS0W0q1cb4A59j1CV++J7NyLai0xrJBg8IHkdyRyqLM7yqsx0VVsDtvAoKqXHmWuVbsEiPiR+MGtwMZoYUA98HsXOFNWx1j2UaE882lsA9QZRMLs+JCyr8RT2CQ18reR5nnLbsF1XOii/iAc0utRsP/JRdVDF4xcXTLQE9gyLlNSQOo7ZcA9t6lhSCiycYhbz3fQODja/wlVk91VUYavN8mtuvQliUGggqV64Ago6Ou9VOxINbgM/qKxUmyJ/SMiRxFb3Zd6UNFa9SDbM9LZp9jsR8RQWfWp8sYebuzw1EFEiqSPBrRGk=;3+yE8PIFkaQ/hySluH6qbw=="
 ---

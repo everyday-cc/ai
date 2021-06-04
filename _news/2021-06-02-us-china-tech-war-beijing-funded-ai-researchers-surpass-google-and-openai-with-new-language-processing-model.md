@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3135764/us-china-tech-war
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3135764/us-china-tech-war-beijing-funded-ai-researchers-surpass-google-and"
 type: article
 quality: 70
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Beijing AI academy unveils world's largest pre-trained deep learning model"
-    excerpt: "The Beijing Academy of Artificial Intelligence (BAAI) unveiled a newer version of its hyper-scale pre-trained deep learning model, the country's first and the world's largest, at an ongoing AI-themed forum in Beijing,"
-    publishedDateTime: 2021-06-02T06:49:00Z
-    webUrl: "https://www.globaltimes.cn/page/202106/1225172.shtml"
+  - title: "China outstrips GPT-3 with even more ambitious AI language model"
+    excerpt: "A Chinese AI institute has unveiled a new natural language processing ( NLP) model that is even more sophisticated than those created by both Google and OpenAI. The WuDao 2.0 model was created by the Beijing Academy of Artificial Intelligence (BAAI) and developed with the help of over 100 scientists from multiple organizations."
+    publishedDateTime: 2021-06-04T03:25:00Z
+    webUrl: "https://www.techradar.com/sg/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 52
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-02/52659cc8-73c8-4bd3-a4fb-7425cb6c09ee.jpeg"
-        width: 1200
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/o32fPtrBni3aBQR3wyWqqE-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "9UVq0v8JNXEPNfJZrFAywkpuyxdtJ7i7GMQt5JDqOhNcFp1p3TBM0oUmv4zBX5PxTYTbs4ofsccRQU2hGaS2UwrJbp3hVcTnyM2WVHcRhgYJ2rSUguw5zN4pCy5mXL5p7FwdoWolP8gmrDaO96V2+HSwXRiSOMC+bbm/PEQsvDJ1Sb5AKt8vd1BykyLQtNqjO+VJTbCl9gcwelBOhQOz5PUPie4MpzbBMlQuEUjSK46lZvQmSQqZLy3zNlLkgG8/SLEGEzjxAgEI6s78/TmFOYbGkt+Ruw2HDMhdW5a94oVr3G3ILCmaW35g/qOCzGlaZkCL040I6HM5FAyu+diWgoXZ48QSe+WZwppQ3XggPFbqVmV0LoMEm4s2PLFqV9SYl/EaOPuMe7qHwKkzafimI61qTlgNR+ex0K9Pl1IFhdOOo7QgW78mxmvojtqxRkKgpyslCKh4kuksv5FIH0d4nGznygFllDOBj6T/MnYHA+okhskcnrE9ndFMKr7klzLlcXBciHNt9xml51MWVUpADg==;TcILiQXJIJoET6XzVPrGTQ=="

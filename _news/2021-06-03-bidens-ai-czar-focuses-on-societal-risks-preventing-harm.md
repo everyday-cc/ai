@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Biden's AI czar focuses on societal risks, preventing harm"
-excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pullin"
-publishedDateTime: 2021-06-03T16:13:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
-webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn"
+publishedDateTime: 2021-06-03T16:11:00Z
+originalUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
+webUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
+ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_638923c36dfc4347a4800bf6940f183c_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904"
+    width: 1024
+    height: 904
     isCached: true
 
 related:
@@ -43,6 +44,6 @@ related:
         height: 1765
         isCached: true
 
-secured: "ndTofwcXaHLCVw4eTE/OLME8M5Tv1ZlqJGdJGU0x2Op+DyXUUuoN+ld6G/J/AWiQWxlXQ725jnCkmz4Myor/abRsMcH4v0GNizhwxVFAzsoGDZC6rn+HcKdmXN8lQ06Jr66t2rZtLr6YGAw5i8Dhm0FD97P60d6CTcvivfVRXCxGC4lNtTPbyKNrZAaL1SaoPtzQ03EG10cxfi/jD7qobsM27a3vAyIoAQY0CU8gv22BVXTCqSkSSzIWRCTgu7ADOE3EdXP6VrPKPvhigc2f7al1uSiZvWT5mL9vDnMzqKPND74+q3pvVRMTN9m22AE+nMi2kk31d+fW0lcMoEq/695e8YuD+cJBZSGuRpBC95tOZ/thsJZKjsRLZ+AbaJ6TckEyXoLFT4THJP+1c5mJ3aj5FtBqH0NEdFA+PoiLaCpn0b2/swtelEzRrQfJR9WT2ml5aB7xb3EorXFver90kJ1djMsLWGCN3zieN1yA3fx49pL/opsb6ZD+fS1MpB5OCg6tI/GsZWTpal+R6Hqa8A==;rMzGoDKqgdBfmfTzOTaEUA=="
+secured: "F5Al/GW0XDgAdTF6UOZK3gEnTjvVLpY+/QBZiWcDGQhf91mTKZDAJ5xaRfI2ffmgakKWaajggDv31XjfDfMiK8CaH99OPcniv3OUiztB2gLOZEpp77ZnUMtPeoDloOc+VvS5sqxTr+D7CIBtDJb0lZd0oXJA14Kc+cuJwOQyFhif8ooaHBGCkoOdoYQ3D4y6eppe1jb2R6QRcKuZsDiUy/gs7r0p93x/YRRtDzdTYDcPhG8Nz0fiW35ZNDmrQJbkxKQf/w3KdWo0IxOWBeFl0if/Du130KIQu8j7273NCFwxt7VhQymbYUPH379T4OlnPxngb4Q6aZYhXycNn9gY2MlAASOUdQspvAW1yISRSMw=;bcAQS3Oi+s8jQwuT0hop3Q=="
 ---
 

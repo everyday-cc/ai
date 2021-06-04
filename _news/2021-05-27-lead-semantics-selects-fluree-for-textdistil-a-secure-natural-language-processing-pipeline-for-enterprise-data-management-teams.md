@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Lead Semantics Selects Fluree for TextDistil, a Secure Natural Language Processing Pipeline for Enterprise Data Management Teams"
-excerpt: "Lead Semantics' natural language processing (NLP) technology, powered by Fluree's semantic graph database, will help convert unstructured data assets (including text) into semantic-capable enterprise knowledge."
-publishedDateTime: 2021-05-27T11:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-lead-semantics-selects-fluree-textdistil-secure-natural-language-/2021/05/27/9379139.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-lead-semantics-selects-fluree-textdistil-secure-natural-language-/2021/05/27/9379139.htm"
+excerpt: "Fluree and Lead Semantics, two North Carolina technology companies, announce TextDistil for enterprise data teams building data fabrics and knowledge graphs TextDistil’s rules-powered neural language pipeline,"
+publishedDateTime: 2021-05-27T11:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams"
+webUrl: "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "VKWriF7lnua/L/qi4iiu/sHLonFvznXWcEjeREtxmJWR6wsc6DqXSqFuzMxPpQN/1a6TVBLqFxE/95GW4E+WugkR5dF7LodJyPe8bsUnyTIls/Lb+zEm77sER6YLc2fnt6vXuWX9QnhX8lAH0zNhiLt3c42XSBpk2dkuMPTsL01r+MdAnS8yIhTG/ff8tlHw4hytAJLEaduMzJuH4Vx+9qbTfl4evFmU1fyg67zsV3No7sR93bWWkQjYnW47nB6erFaKsDqRRU4lASjZI3naKY3Hq29EhtrpEqVDvBBGggvMK2G/aWJQOZWrKkImZJgi9S5gig0PY962JEFyu9rpqZ4L6wia1BwUFunssxZ7cdc=;qpOsY1q9NdkU/Htvj2NySw=="
+secured: "h8dFICDUrvU/rrPFktZJ4K8Wnc/1BHse9vbZ6fF0Ge4hcIVhnerKM290vsx766dHioslfcC9PpMtsRhUar1SibFAvVA91wC55vyTRwdgwdy7THmk7NxCFm5JoZBVQPPo2s7b7F20aivzcA6weGsGCug6iwlelTyn63pQdn/DPOfZnuN6k/2XlTsxLT+JQOD+Ecwgu+HkQgnRIIAHr1zi7ug5RChPZofz9MNGfezT05+Mrys6x60xprDCLvXcQMK5NZR6UAfU+2JabWf+YqukLwnLAcM5JErLny6gTItdk5XVrT2aDP83Y38dFifgpbw8J9FHLTLCKNiCO0/TjITYX0qdxm0HHzojeAbnzF8J9UU=;1AgZwKZLXsnPaFmceF2f4Q=="
 ---
 

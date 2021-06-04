@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/373586"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373586"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 338
     isCached: true
 
-secured: "cDNiFwo6Z6Y0NTL/vjf50lEEnA5DZphYg8oRJzKds5gYahT2kXgzienQrtPQ+ph6TjmHnLG+RjR2/AAPC0roB/k07zMLqTNmG94FzVSfcoxV+CEIH/0DxuHLi/4nQXEg5vA7rK3Dmf9lEaXQJDwJS3U3k/6be5TItGeF/EXMQOYk/q0a+vrVdWHYMPWJciCB5qk0lY49B3qwGj6XzSCllxZMIDoGzLq61jXoSPQc+O7wKTzDy391/w75knFb9VLT0o8iqcOwgvXhyjQmkVnBIoOPPV3oLK+37iQ1TNpWi75nP4ac6Q5rMFWxgkwsK7uRseiAo7V/9cPVqMOW54GmvaFR842nsZExhQkD119qezg=;Ua5RNTaeXVAHah9oG/brlw=="
+related:
+  - title: "How to start your career as a programmer in artificial intelligence?"
+    excerpt: "In the last decade, the demand for artificial intelligence programmers has increased exponentially, both in Mexico and throughout the world. According to Gartner, sectors such as energy, retail, financial services,"
+    publishedDateTime: 2021-06-03T17:04:00Z
+    webUrl: "https://www.chron.com/business/article/How-to-start-your-career-as-a-programmer-in-16221260.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/30/77/21073870/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+
+secured: "dzSHgeJpMqnyZKiVqhagXQ2cXL1XqwZ+E6/u3EqpUDTBw0SEzVR5WJB9lhS1BBHOQWgTIz5fNp7i7R/RxAjOh3oxPdC96zIROc+cEP3aZ5f4Qlstdi2FFwM4/ZnGoBRTzrgqi/oP0lU27a6rDa+pA8WI7JUr1iV7pPm9uz2LDGu8pv6um5AQEP0+nDMozOrjTb3f/LQyYQ8JcNCq4KKx7E/FrVfpPd9QEvMDmjKqpoQRs5Uoof9//3PbowiPOjJxmohOgSzRWMxLTYpEswvpOCX3JL5of8NcBD0xBB8vLL/EoIml9piIu8NAYPpqgib4GvcoL+6xuRYSPtnfP6VXAEF01Ts1KUWa+pBybPXNztT+0ivcU0pSTcCMVOJF9QynwP9Ekyf5PCkrscrbXQ60FbGwyJl0WDWUF6YrLGKlPtVXhgMNC/e6Lt0+eCALCg7xm+xnNkhL6bRiM05rUWDXEAYn5PXeM7VB2ETxnXjijLWDcEmLlvI/yMUD3JvNXbehl7X0sQro516hxScnQWNOow==;5Tzl3wmFntqGx+ej3APx2w=="
 ---
 
