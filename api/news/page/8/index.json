@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-05-27-openai-fund-of-100-million-for-ai-startups-with-microsoft.md",
-      "title": "OpenAI fund of $100 million for AI startups with Microsoft",
-      "excerpt": "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
-      "originalUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/",
-      "publishedDateTime": "2021-05-27T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-expand-pentagons-chinese-investment-blacklist-says-new-report.md",
       "title": "Expand Pentagon’s Chinese investment blacklist, says new report.",
       "excerpt": "Washington has restricted trade against more than 40 companies linked to the Chinese military, but they’re just the “tip of the iceberg,” says a new report.",
@@ -1139,29 +1096,38 @@
       ]
     },
     {
-      "path": "_news/2021-05-26-runai-named-as-a-2021-gartner-cool-vendor.md",
-      "title": "Run:AI named as a 2021 Gartner \"Cool Vendor\"",
-      "excerpt": "AI, creator of a cloud-native compute management platform for the AI era, announced today that it has been named a Cool Vendor in Enterprise AI Operationalization and Engineering by leading research and advisory company Gartner.",
+      "path": "_news/2021-05-26-gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa.md",
+      "title": "GM and Lockheed Martin are making a self-driving Moon buggy for NASA",
+      "excerpt": "NASA’s astronauts need a new Moon ride, and GM and Lockheed Martin are aiming to hand them the keys to not just one but a whole fresh generation of lunar vehicles. The Lunar Terrain Vehicle,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/run-ai-named-as-a-2021-gartner-cool-vendor-1030467458",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/run-ai-named-as-a-2021-gartner-cool-vendor-1030467458",
+      "webUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
+      "originalUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 134,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Lockheed_GM_Defense_LunarVehicles.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T09:00:00-07:00",
+      "ampWebUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
+      "publishedDateTime": "2021-05-26T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "SlashGear",
+        "domain": "slashgear.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1177,8 +1143,61 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity.md",
+      "title": "Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity",
+      "excerpt": "Amazon Web Services is partnering with Udacity to help educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Scholarship Program by Udacity by offering 425 scholarships, with a focus on women and underrepresented groups. Machine learning is an exciting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T08:50:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     }
   ],

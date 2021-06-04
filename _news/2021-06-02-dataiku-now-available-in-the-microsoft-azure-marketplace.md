@@ -103,22 +103,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
-    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
-    publishedDateTime: 2021-05-30T11:47:00Z
-    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
-    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "3 reasons to invest in Microsoft Azure AI"
     excerpt: "Digital transformation enabled businesses to obtain data from places they never thought possible and to monitor every aspect of customer interactions to gain a holistic view of their customers. Companies soon realized,"
     publishedDateTime: 2021-06-01T14:57:00Z
@@ -238,6 +222,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "R2Qn6YTodFZbpaatgJbuV3ZMBm6W17YtMPZJ4jOW0xQbv6Ix2J05TNDPTxH+y41+GZYrzu7xvKF5qd3S1mjuYkuyjpHcfEfm/4yRkrQ/qyHcS+ySeNIJHiljA5LjAfKi0YkePo1bRbFe7h0jAP/11h9T+kH++nffNXVaw7AOCxjz2N4luopBvpij418TCBwISV1uGItbFLNGwOPDBY8qAEIqGoB3hdfehblGXMvuewNCEDEsKa7NvuIrM+30J7WvW/2ilTbsIYmPk3FSWzpzs5XClPH/IqxMu8OAZBb5A85IPX65r/OMntuEiRoGcwuAwsUOL8zYuK4eacd3gCkRTH0la3CDIZCe0bOw83f+r74=;fcw7gNg/xKi9QQt/B4qbCg=="
+secured: "teq/Dyfnfm62y1s3xKzrwfUdujzGj5Lh9SIa4JglXX5REJfN2/mX2Tp341ChqgQnqNyXQ2BaRct71/fUCF3KXcWXLCg+0hxO3yPaL9SAlPuKRfChynZIXcZydXAJj1J7HO8nSTT4HB64VPvLChUhMEUPMpOA5F2umkIzuK1Doiltvq1PVFwmlc5gksCWRMZnl+Z3S15sqqzwp5d3TVVaosMpbyFFhDWb7f8xjLa+P9pDW5wgSawUKx0U6mtq2FP8N9YyVNyS4kjdjxsGm2ySx4QPHZpnkyQ1thVSbeVnYlTzCnRNiL9R6Ocf5W+VWTPDzJv7WRWMMysKy7XMJOIyyjqXMDXwCoyOzxcHCzMBsgOpVG4WN5w+cpstHRVgdVpfJ2fnPEk3hMWaK8Cx2Qx+7v0IoZ8MBhoWGEy7y/2n0couyau/c69C+FG2oy74v0fmwMXM1EwtE+8HXecyBkHzseANWyURFcCYW0MVXTwaXwoWhGcfZZN9iRW/FpsPDGmg0gqzOXnTlfBwklU+CxFugw==;C2ZN/10Av3ofUmyrh0nZ/w=="
 ---
 

@@ -34,9 +34,9 @@ related:
   - title: "China outstrips GPT-3 with even more ambitious AI language model"
     excerpt: "A Chinese AI institute has unveiled a new natural language processing ( NLP) model that is even more sophisticated than those created by both Google and OpenAI. The WuDao 2.0 model was created by the Beijing Academy of Artificial Intelligence (BAAI) and developed with the help of over 100 scientists from multiple organizations."
     publishedDateTime: 2021-06-04T03:25:00Z
-    webUrl: "https://www.techradar.com/sg/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+    webUrl: "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+    ampWebUrl: "https://www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
     type: article
     provider:
       name: TechRadar

@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-05-31-the-power-of-synthetic-images-to-train-ai-models.md",
-      "title": "The power of synthetic images to train AI models",
-      "excerpt": "As privacy laws start to limit companies' data sets, synthetic data could be key to continuing to leverage AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/",
-      "originalUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-539085830.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/the-power-of-synthetic-images-to-train-ai-models/amp/",
-      "publishedDateTime": "2021-05-30T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-31-flying-killer-robot-hunted-down-a-human-target-without-being-instructed-to-un-experts-say.md",
       "title": "Flying Killer Robot 'Hunted Down' a Human Target Without Being Instructed to, UN Experts Say",
       "excerpt": "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week.",
@@ -1172,6 +1121,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-this-singapore-based-startup-is-unlocking-true-potential-of-cctv-cameras-through-ai.md",
+      "title": "This Singapore-Based Startup Is Unlocking True Potential Of CCTV Cameras Through AI",
+      "excerpt": "Somehow we have grown with this practice, but what if artificial intelligence (AI) can be used to control the flow of traffic or manage crowds through the already deployed CCTV camera? This is what a Singapore-based startup Graymatics is offering with much ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373150",
+      "originalUrl": "https://www.entrepreneur.com/article/373150",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622210255-MyPost122.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373150",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373150",
+      "publishedDateTime": "2021-05-28T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

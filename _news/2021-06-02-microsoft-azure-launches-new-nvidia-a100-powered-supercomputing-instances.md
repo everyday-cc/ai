@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-launches-new-n
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -69,22 +69,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "NVIDIA Is Developing A 3D Map Of The Universe With The World’s Fastest AI Supercomputer"
-    excerpt: "Tech giant NVIDIA on Thursday launched a new supercomputer claimed to be the fastest in the environment for AI (artificial intelligence) workloads at the Nationwide Energy Research Scientific Personal computer Middle (NERSC) in California."
-    publishedDateTime: 2021-05-30T12:50:00Z
-    webUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html"
-    ampWebUrl: "https://www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/05/nvidia-worlds-fastest-ai-supercomputer.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 49
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2021/05/Perlmutter.jpeg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "v3BME6QaWXuGtu06wQQcDjgXr+blHNp2rSnvuFDOLuMfipiA8f2yokIPp4IiRWKBES+oorPYS0mBUPcBZNStZcWxgiQjfxM2fmwnN6saehDzUFwLgFFEZAQl685Gs1emM5bSrgJaUl2CaaNrDAsGfLMutvXhy830kqXsa5br9qavV+aqo1IG2d6VPjOwBfANa2CXAbxe7ciUlRBeVlhF8ZfGso8YVdFbO2aS05p/5GuWN7Wna0T+RZ3mQGzZR5oqElfqYOeYsEytqZ/7paI0lE/IWekxZAcHgChwZtGGSRe+yZ0j02OI45+PrnyxT2WSTYgazuNqNfRhMIMj1D8XVV1vM63+b5bs83VeRB6sdDk=;9PyUKx6+qlfh/Anz3S/lOQ=="

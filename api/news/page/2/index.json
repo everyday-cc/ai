@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-06-03-do-ai-powered-food-robots-put-human-jobs-at-risk.md",
-      "title": "Do AI-powered food robots put human jobs at risk?",
-      "excerpt": "Quick serve is going to the robots thanks to these new machines. Here's why humans stand a chance. Throughout the pandemic, there's been major interest in contactless, automation-driven consumer experiences in the food industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/do-ai-powered-food-robots-put-human-jobs-at-risk/",
-      "originalUrl": "https://www.zdnet.com/article/do-ai-powered-food-robots-put-human-jobs-at-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/7ebf7a97-57b3-4f21-9bb2-55659f055d32/blendid.png",
-          "width": 1300,
-          "height": 867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/do-ai-powered-food-robots-put-human-jobs-at-risk/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/do-ai-powered-food-robots-put-human-jobs-at-risk/",
-      "publishedDateTime": "2021-06-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-dhl-dials-up-robotics-investment-as-delivery-timeframes-shrink.md",
       "title": "DHL Dials Up Robotics Investment As Delivery Timeframes Shrink",
       "excerpt": "In the face of increasingly short delivery windows, global logistics firm DHL is expanding its use of robotics to help it get the job done right ... and on time.",
@@ -251,7 +199,7 @@
       "originalUrl": "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -641,7 +589,7 @@
       "originalUrl": "https://www.techradar.com/uk/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1233,6 +1181,58 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates.md",
+      "title": "Microsoft turns attention to multi-cloud and AI with Azure updates",
+      "excerpt": "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
+      "originalUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/",
+      "publishedDateTime": "2021-06-01T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

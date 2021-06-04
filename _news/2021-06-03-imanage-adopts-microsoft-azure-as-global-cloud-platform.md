@@ -97,22 +97,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
-    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
-    publishedDateTime: 2021-05-30T11:47:00Z
-    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
-    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "3 reasons to invest in Microsoft Azure AI"
     excerpt: "Digital transformation enabled businesses to obtain data from places they never thought possible and to monitor every aspect of customer interactions to gain a holistic view of their customers. Companies soon realized,"
     publishedDateTime: 2021-06-01T14:57:00Z

@@ -2,40 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2021-05-05-zogby-poll-51-want-congressional-probe-into-911-actions-by-bush-and-cheney.md",
-      "title": "ZOGBY POLL: 51% Want Congressional Probe into 9/11 Actions by Bush and Cheney",
-      "excerpt": "Must hit the road for a bunch of hours today (Utah here we come! For a few hours, anyway.) so I'll leave you with the following press release from Zogby sent out this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bradblog.com/?p=5039",
-      "originalUrl": "https://www.bradblog.com/?p=5039",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Brad Blog",
-        "domain": "bradblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-why-autonomous-ai-based-software-tests-save-costs.md",
       "title": "Why Autonomous , AI-based Software Tests Save Costs",
       "excerpt": "When you weigh test cases by severity and frequency that a failure can impact the business, you can much better prioritize what to test.",
@@ -1189,6 +1155,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-leveraging-uncertainty-from-deep-learning-for-trustworthy-material-discovery-workflows.md",
+      "title": "Leveraging Uncertainty from Deep Learning for Trustworthy Material Discovery Workflows",
+      "excerpt": "In this paper, we leverage predictive uncertainty of deep neural networks to answer challenging questions material scientists usually encounter in machine learning-based material application workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://pubs.acs.org/doi/10.1021/acsomega.1c00975",
+      "originalUrl": "https://pubs.acs.org/doi/10.1021/acsomega.1c00975",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pubs.acs.org/pb-assets/images/footer_logos/logo-cope-1525375622977.png",
+          "width": 323,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C&EN",
+        "domain": "acs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

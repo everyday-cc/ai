@@ -2,49 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2021-05-15-elon-musks-best-investments.md",
-      "title": "Elon Musk's Best Investments",
-      "excerpt": "A list of some of Musk's best investments includes PayPal Holdings Inc. (PYPL), SpaceX, DeepMind (GOOGL), Tesla Inc. (TSLA), and The Boring Company.﻿﻿ ﻿﻿ Musk is the CEO and co-founder of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
-      "originalUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/116HqdfR7rOQoAhctt4rjgaZYqE=/680x440/filters:fill(auto,1)/ap_507406182676-5bfc3829c9e77c00587a7cc8.jpg",
-          "width": 680,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-15-heres-what-the-dreams-of-googles-artificial-intelligence-look-like.md",
       "title": "Here’s What the “Dreams” of Google’s Artificial Intelligence Look Like",
       "excerpt": "Google’s Artificial Intelligence can dream in reality. Its innovative DeepDream software is turning AI neural networks inside out to comprehend how computers think.",
@@ -1191,6 +1148,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-top-7-deep-learning-companies-having-positive-impact-on-humankinds-future.md",
+      "title": "Top 7 deep learning companies having positive impact on humankind’s future",
+      "excerpt": "It continuously extracts higher level features from the raw data.Basically, the deep learning companies have designed a technology that imitatesthe human brain. This new technology continuously ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102078630/Top-7-deep-learning-companies-having-positive-impact-on-humankinds-future",
+      "originalUrl": "https://menafn.com/1102078630/Top-7-deep-learning-companies-having-positive-impact-on-humankinds-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

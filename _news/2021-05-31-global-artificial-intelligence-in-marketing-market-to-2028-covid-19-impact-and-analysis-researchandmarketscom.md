@@ -48,6 +48,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Lung ultrasound with deep learning models may help stratify COVID-19 risk: Study"
+    excerpt: "Italy: Deep-learning (DL) models can be used to automatically stratify patients on lung ultrasound(LUS) as having an either low or high risk of clinical worsening in COVID-19 patients, according"
+    publishedDateTime: 2021-06-04T03:30:00Z
+    webUrl: "https://medicaldialogues.in/radiology/news/lung-ultrasound-with-deep-learning-models-may-help-stratify-covid-19-risk-study-78275"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 34
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2021/03/19/150455-lung-ultrasound.jpg"
+        width: 1500
+        height: 960
+        isCached: true
   - title: "Thinking big with cognitive computing"
     excerpt: "Global IoT is set to reach USD3 trillion in value by 2020. SVP Li Ruicheng of SAP has the details of how technology and industry will change."
     publishedDateTime: 2021-06-01T03:12:00Z

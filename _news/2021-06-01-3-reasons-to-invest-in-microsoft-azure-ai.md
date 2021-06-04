@@ -99,22 +99,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
-    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
-    publishedDateTime: 2021-05-30T11:47:00Z
-    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
-    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
     publishedDateTime: 2021-06-01T23:00:00Z

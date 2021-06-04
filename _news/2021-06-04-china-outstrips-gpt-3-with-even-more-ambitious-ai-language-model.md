@@ -3,10 +3,10 @@ category: news
 title: "China outstrips GPT-3 with even more ambitious AI language model"
 excerpt: "A Chinese AI institute has unveiled a new natural language processing ( NLP) model that is even more sophisticated than those created by both Google and OpenAI. The WuDao 2.0 model was created by the Beijing Academy of Artificial Intelligence (BAAI) and developed with the help of over 100 scientists from multiple organizations."
 publishedDateTime: 2021-06-04T03:25:00Z
-originalUrl: "https://www.techradar.com/sg/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
-webUrl: "https://www.techradar.com/sg/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+originalUrl: "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+webUrl: "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+ampWebUrl: "https://www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
 type: article
 quality: 89
 heat: 99
@@ -48,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3P+hJ7nX/d7DHhdd6Wgb1o2IuYyozBkd8xq6XDjsn5sMvUfQHDzC9YFYfYU/z41zHrIP1JMb8pGS+HgG6STm6ZqYjfk1f0Gi+JwKNIPBDLlFfHOdOvzQGFGBrVN4i3Ude6t84uVdHFkwjwwKbR92dD0zkt72FIp61USpnySpZgqwFfw+AKr+1GyP87PSHA1dWcfpWphyCboqeP7QMqOerlX5rtR3AvlRFefgcBsCP35yQHmS+ua4Flq/RKezb8fkH5CQFzPlSNbt1+VcAYSeFb0r2it3GsWJUOMqHrNGzb6l78giRpNXHFDdd/wmz9rPGyuxfpPslZVcdDoxoDB6xOgPFQP3dxQ3JUafTrHzb2A=;Tkahqa6SYaAQ7wA5LcPaLQ=="
+secured: "i/V4EbGmt93Ghb70wN6qOI76pJHx10n6mpOY59r0n6HfO0eGB6fhNNedWfknpt0GsMCoSkyoF7j09r+3UjSp2OueCbTe6SEmRcipNWNQNzLMsl2gDZvGJKsTsvSPXywhGKJrnB/lOQdC973IP04gLZssQWQwPSXJQFemlv5SnmzXw9GnoXz9cYLK9H/8HZi0PAh8ctXni0tjy4IiSn49xzLylAtBgAlS4fc5ZQJi2HVOfv4CPKC/a4opNvQhZ5dEprpgtHDfOK6/wXsYpgVR5pRb6our5fDf7ljhgvIa9X2xv/pbLzFMXSBCYD+KNaf9rYvHwGXqovDDtFhjFVgq+KhP/YQK3KEtEwJNsCWrgBA=;oLp+hYmAu3HipK22l0+Mmw=="
 ---
 

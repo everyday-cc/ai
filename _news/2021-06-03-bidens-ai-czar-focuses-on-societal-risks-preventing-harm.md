@@ -1,49 +1,48 @@
 ---
 category: news
 title: "Biden's AI czar focuses on societal risks, preventing harm"
-excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn"
-publishedDateTime: 2021-06-03T16:11:00Z
-originalUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
-webUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
-ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
+excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pullin"
+publishedDateTime: 2021-06-03T16:13:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904"
-    width: 1024
-    height: 904
+  - url: "https://s.abcnews.com/images/Politics/WireAP_638923c36dfc4347a4800bf6940f183c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
   - title: "Biden's AI czar focuses on societal risks, preventing harm"
     excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pulling barnacles off a ship."
-    publishedDateTime: 2021-06-03T21:11:00Z
-    webUrl: "https://www.click2houston.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-    ampWebUrl: "https://www.click2houston.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
-    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
+    publishedDateTime: 2021-06-03T20:11:00Z
+    webUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
+    ampWebUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 61
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 59
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/4KQI2JAAWJBB5AL6RC627ULDHA.jpg"
         width: 2000
         height: 1765
         isCached: true
 
-secured: "F5Al/GW0XDgAdTF6UOZK3gEnTjvVLpY+/QBZiWcDGQhf91mTKZDAJ5xaRfI2ffmgakKWaajggDv31XjfDfMiK8CaH99OPcniv3OUiztB2gLOZEpp77ZnUMtPeoDloOc+VvS5sqxTr+D7CIBtDJb0lZd0oXJA14Kc+cuJwOQyFhif8ooaHBGCkoOdoYQ3D4y6eppe1jb2R6QRcKuZsDiUy/gs7r0p93x/YRRtDzdTYDcPhG8Nz0fiW35ZNDmrQJbkxKQf/w3KdWo0IxOWBeFl0if/Du130KIQu8j7273NCFwxt7VhQymbYUPH379T4OlnPxngb4Q6aZYhXycNn9gY2MlAASOUdQspvAW1yISRSMw=;bcAQS3Oi+s8jQwuT0hop3Q=="
+secured: "hfwDJ0Aa+u4IfbkbVaB8VyVyd/kEW6i5MIwaak9vBDwBmTu1vU+QlsOq4k0f7/gujOeuOlLuY4xP2/Sc+Yfmxm38xE1yloH9MBexiwD+dQVP3SBGwL3M2y296C4iE39vJBy1etTNtpdM7MKV9LmUGhUpg8v0HYg6d5eUoFykKymEGRMr/szhXa1eDlm4RfNnn/8HgQm6K20X6fz6hxswQ9GDISXtvE+JsJ8f0gfurJfKiLJS/2J1itOnLCcrEw0tdpqpLErw+/SA38Y+0XmHvK2rAgM7UUJE5zzBZV6tKZhM7NgoP1M+aL3s9td2yJ/wBJ4gDH0bwMEyiZJ3Lt06o7tsl/ZadzhmERqLo4gL3EA=;hT+yTpUlZ0PsaYcLXCTXIw=="
 ---
 
