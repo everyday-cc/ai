@@ -54,6 +54,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "The Human Error of Artificial Intelligence"
+    excerpt: "AI and predictive analytics offer a stereotypical, reductionist view of human nature, and this is a problem we need to address"
+    publishedDateTime: 2021-05-31T06:56:00Z
+    webUrl: "https://www.agendadigitale.eu/cultura-digitale/the-human-error-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: AGENDA DIGITALE
+      domain: agendadigitale.eu
+    quality: 37
+    images:
+      - url: "https://imgcdn.agendadigitale.eu/wp-content/uploads/2021/06/19110627/bigtech.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "6qde7b0lbgh/NY2cyiw76BwI9LuZiKV1f5n3zGR4lcszNct2SJOs8gKYdiIBS4PIcXp+Y7SO5gqDvxOaYNN6aE/RMwCZ3NrzNfASR0LLeDuhRgz9rhFyEE2OsvHUzRk9qw68tzAra7GO11y300uhbKFEzpggI/tw6UJMaTElJczFZ62at8QntsyzCbhxDQucIHqTcfbR1YndSmzTTzfKRlKp2WFfkHGapzXxFyWUvALrqUP/Rf00c01J/JjBl8EGBA6O6UllxPwXNnK0hG1B3CivbgjcaIwNnkIDmDAGqs4EHsmsfIhw84AX1nHx7+DpDtUjCawObTsiJEkwb5Ri5WtbK2estiB5Ua3QHoPqej2nSmxah+ZXyD8maF2NREckF3IGpgKa+Q1KUVGwT9nFTwZ8Dd41uFcKCW01EvxpOFfo06p/5BIiIZrjqf5cajrCBBivW++ic/PzkWxCjWSi/SoP63u9KgPBmWtbzjn9cepg9ANuzMhDEbxUfgAq8lOwhJxAoimK3eJ2A8mFhEMwjg==;BumX67nqI94LGz4a6znlPg=="
 ---

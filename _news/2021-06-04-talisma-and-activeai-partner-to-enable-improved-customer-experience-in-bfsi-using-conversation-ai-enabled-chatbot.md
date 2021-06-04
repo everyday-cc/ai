@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/ani-press-releases/talisma-and-active-ai-partner
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/talisma-and-active-ai-partner-to-enable-improved-customer-experience-in-bfsi-using-conversation-ai-enabled-chatbot/671584/?amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Talisma and Active.Ai, partner enable customer experience"
+    excerpt: "Talisma Corporation Pvt Ltd a leading provider of customer experience solutions today announced that it has partnered with Active Intelligence Pte Ltd a Si"
+    publishedDateTime: 2021-06-04T13:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269756824/talisma-and-activeai-partner-enable-customer-experience"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1622812850.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne"
     excerpt: "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor management technology by WinTech, LLC, has expanded their relationship to enable an instant offering in multiple languages,"
     publishedDateTime: 2021-06-03T12:09:00Z

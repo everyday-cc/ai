@@ -145,6 +145,17 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "King County ban on police use of facial recognition software spotlights local movements across US"
+    excerpt: "As federal legislation on law enforcement's use of facial recognition software stalls, dozens of cities and counties are taking measures into their own hands."
+    publishedDateTime: 2021-06-04T05:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 56
   - title: "Final action expected on King County proposal to ban facial recognition software"
     excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
     publishedDateTime: 2021-06-01T15:31:00Z
@@ -186,6 +197,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Contactless Voice Payment Technology: A Retail Strategy for Bringing Customers Back In-Store"
+    excerpt: "Voice recognition technology has moved beyond the realm of checking the weather and playing music. Pandemic-fueled digital commerce is rapidly increasing the use of voice recognition technology. In particular,"
+    publishedDateTime: 2021-06-04T12:37:00Z
+    webUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store"
+    ampWebUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 48
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/06/voice-commerce-1.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
   - title: "King County bans facial recognition software in government agencies"
     excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
     publishedDateTime: 2021-06-02T00:37:00Z

@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-04-ai-cybersecurity-provider-sentinelone-files-for-100m-ipo.md",
+      "title": "AI cybersecurity provider SentinelOne files for $100M IPO",
+      "excerpt": "SentinelOne, a late-stage security startup that helps organizations secure their data using AI and machine learning, has filed for an IPO on the New York Stock Exchange (NYSE). In an S-1 filing on Thursday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/",
+      "originalUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1174418589-1.jpg?w=1024",
+          "width": 1024,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/",
+      "publishedDateTime": "2021-06-04T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-xiaomi-backed-fund-invests-in-chinese-self-driving-system-developer-zongmu.md",
+      "title": "Xiaomi backed Fund invests in Chinese self driving system developer Zongmu",
+      "excerpt": "The Chinese self driving vehicle system developer Zongmu recently raised 190 million US Dollars in its series D funding round, which also had the Xiaomi backed Fund invest in the company. According to a CaixinGlobal report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/06/04/xiaomi-backed-fund-invests-chinese-self-driving-system-developer/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/04/xiaomi-backed-fund-invests-chinese-self-driving-system-developer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/mi_car_1.jpg",
+          "width": 620,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-how-ai-is-addressing-the-enterprise-email-overload-problem.md",
       "title": "How AI Is Addressing The Enterprise Email Overload Problem",
       "excerpt": "AI-powered technology is helping businesses deal with their cluttered inboxes and better manage customer expectations.",
@@ -113,7 +216,7 @@
       "originalUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 349,
+      "heat": 369,
       "tags": null,
       "images": [
         {
@@ -799,49 +902,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-03-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
-      "title": "Biden's AI czar focuses on societal risks, preventing harm",
-      "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html",
-      "originalUrl": "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904",
-          "width": 1024,
-          "height": 904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html",
-      "publishedDateTime": "2021-06-03T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-artificial-intelligence-identifies-advanced-micro-devices-among-todays-top-buys.md",
       "title": "Artificial Intelligence Identifies Advanced Micro Devices Among Today’s Top Buys",
       "excerpt": "The Dow Jones dropped 160 points, the S&P 500 declined 0.6%, and the Nasdaq fell 0.8%. Find opportunities with today's Top Buys from Q.ai's deep learning algorithms.",
@@ -1184,58 +1244,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements.md",
-      "title": "Retailers: Leverage AI For A Greener Planet And Greener Financial Statements",
-      "excerpt": "Optimizing a retail supply chain for efficiency and reduction of waste requires careful planning and consideration, and machine learning and predictive analytics technology have changed the rules of the game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b79fee579fd2ad8f4c9ae8%2F0x0.jpg",
-          "width": 1200,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/amp/",
-      "publishedDateTime": "2021-06-03T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 608
         isCached: true
-  - title: "A Robot That Smiles: Scientists Have Created A Robot That Responds To Human Facial Expressions"
-    excerpt: "Yet, the robotic systems that are seen today in airports, hospitals, or even restocking shelves in grocery stores are quite obviously robotic in nature; that is, they don’t resemble or understand human nature—rather,"
-    publishedDateTime: 2021-05-30T21:02:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b3f7bcd8be7c6a32bf20a4%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "MIT Engineers Create a Programmable Digital Fiber – With Memory, Sensors, and AI"
     excerpt: "In a first, the digital fiber contains memory, temperature sensors, and a trained neural network program for inferring physical activity. MIT researchers have created the first fiber with digital capabilities,"
     publishedDateTime: 2021-06-03T09:03:00Z

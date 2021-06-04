@@ -25,54 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Flying Killer Robot 'Hunted Down' a Human Target Without Being Instructed to, UN Experts Say"
-    excerpt: "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week."
-    publishedDateTime: 2021-05-30T19:45:00Z
-    webUrl: "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471"
-    ampWebUrl: "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp"
+  - title: "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the"
+    publishedDateTime: 2021-06-02T17:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 78
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dca2c6eb2c05d71e386bb0b4cdb8c47b.jpg"
-        width: 800
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "A Killer Robot Has Hunted Down A Target Without Being Instructed To"
-    excerpt: "Advertisement If there’s one thing that shouldn’t be autonomous in this day and age, it’s weaponized drones. There’s just so much that can go wrong there. Artificial Intelligence works most of the time but it isn’t reliable especially in critical situations like these."
-    publishedDateTime: 2021-05-31T20:14:00Z
-    webUrl: "https://wonderfulengineering.com/a-killer-robot-has-hunted-down-a-target-without-being-instructed-to/"
-    ampWebUrl: "https://wonderfulengineering.com/a-killer-robot-has-hunted-down-a-target-without-being-instructed-to/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/a-killer-robot-has-hunted-down-a-target-without-being-instructed-to/amp/"
+  - title: "FinTech Blockchain Market Worth $36.04 Billion by 2028- Exclusive Report by Meticulous Research®"
+    excerpt: "According to a new market research report titled, \"FinTech Blockchain Market by Application (Payments, Clearing, &"
+    publishedDateTime: 2021-06-02T10:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21384559/fintech-blockchain-market-worth-36-04-billion-by-2028-exclusive-report-by-meticulous-research"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21384559"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21384559"
     type: article
     provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 59
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/05/weaponized-drone-in-fully-autonomous-mode-hunts-down-and-engages-human-target-162275_1.jpg"
-        width: 1080
-        height: 594
-        isCached: true
-  - title: "AI drone may have 'hunted down' and killed soldiers in Libya with no human input"
-    excerpt: "At least one autonomous drone operated by artificial intelligence (AI) may have killed people for the first time last year in Libya, without any humans consulted prior to the attack, according to a U."
-    publishedDateTime: 2021-06-03T16:34:00Z
-    webUrl: "https://www.livescience.com/ai-drone-attack-libya.htm"
-    ampWebUrl: "https://www.livescience.com/amp/ai-drone-attack-libya.htm"
-    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/ai-drone-attack-libya.htm"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+  - title: "Global Machine Learning as a Service (MLaaS) Market Will Generate New Growth Opportunities by 2027: Know more about Top Key Players"
+    excerpt: "Syndicate Market Research’s Latest Report ‘Global Machine Learning as a Service (MLaaS) Market 2021‘ Analyses Research Methodology overview including Primary Research, Secondary Research, Company Share Analysis,"
+    publishedDateTime: 2021-05-31T01:13:00Z
+    webUrl: "https://ksusentinel.com/2021/05/31/global-machine-learning-as-a-service-mlaas-market-will-generate-new-growth-opportunities-by-2027-know-more-about-top-key-players/"
     type: article
     provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/q9FoegtB3DriBdybAgfTvf-480-80.jpeg"
-        width: 480
-        height: 320
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 4
+  - title: "Worldwide Web Hosting Services Industry to 2027 - Artificial Intelligence in Web Hosting Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The \"Web Hosting Services Market by Type, Deployment Model, Application and End User: Global Opportunity Analysis and Industry Forecast, 2020-2027\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-06-03T10:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210603005450/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "ylquMHZFMowr5ppw4n9LegA204im8mmog1t8MS755vUckb+JGjCLvt+KfIoVOPMJ7mRd2duxT3wrR70sSu3jodERaNuG6I//0A4xHrtcSBqRoR2AQVJHVyEm7mOdS1hSq3m9u9Pp4ayAJNxWmwefDPbB6Pu5P/VNUvbRUtpNh3Y7PeedUzNypkxTJJBgIq6IkmK2wnaqxVTir7YRXRIVpOZvwavIRN4Z2iB/J2/Lzcwe4AE8FMjrpDLPCguHly310IsiRvcsrKXycD9A9WbkzoSh4HekhMg0yGkTBMJ5/Zj/CtgNh5mdOxMtne5BscTp1rfu/Zyus/B5v4/XiiMIIC3+5bRdpP9pEsjwZRcedKgEpDrW4ktOm+AP+ouOxmxX6Z1B+gAOaAxd0IqjiccehRjbFMngMjF2YrO6FazToDE+C5QoxFXKwSIJISx4IMLkM7wYTV+GS+rqZO66DhZ9cN5Khu7d5rD0Wx53XtjGhwVdlRhhIVXY8l+vkx3oMxAR2FpawLsoXq7Qe6hwPp4MqA==;9TbQzOzbxfI8BZ2gkBan6w=="
 ---

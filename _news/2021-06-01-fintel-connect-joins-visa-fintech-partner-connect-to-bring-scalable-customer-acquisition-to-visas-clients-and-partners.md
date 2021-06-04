@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-publishedDateTime: 2021-06-01T13:34:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+publishedDateTime: 2021-06-01T13:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
 
 related:
   - title: "Visa (V) Expands Reach of Fintech Partner Connect Program"
@@ -67,6 +61,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Jaipur-Rajasthan-India-Money-evgeny-nelmin-unsplash-300x249.jpg"
         width: 300
         height: 249
+        isCached: true
+  - title: "Toyota VC arm rebrands as it expands remit to sustainable tech, digital health, fintech"
+    excerpt: "Toyota has rebranded its venture capital arm amid launching two new funds totalling $300m. Toyota AI Ventures, which was launched in 2017, has been renamed Toyota Ventures as it branches out into new areas including climate change."
+    publishedDateTime: 2021-06-04T11:14:00Z
+    webUrl: "https://www.altassets.net/market-news/firm-news/toyota-vc-arm-rebrands-as-it-expands-remit-to-sustainable-tech-digital-health-fintech.html"
+    type: article
+    provider:
+      name: AltAssets
+      domain: altassets.net
+    quality: 31
+    images:
+      - url: "https://www.altassets.net/wp-content/uploads/2021/05/imgpsh_fullsize_anim.png"
+        width: 625
+        height: 521
         isCached: true
   - title: "Top Trends and Practices Fostering Fintech Transformation"
     excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
@@ -134,6 +142,6 @@ related:
         height: 339
         isCached: true
 
-secured: "STU1hM64YCo/wCB2J0dUzOYdVfJdPpokZ+W68D38IMzPSDYs170YJFxnn8Xlav4vam/IaF2SOIHKup0j34tN1hHP99TlJGc960tNG3+L8tygUe0kqdJoHZ/8RTxxAiEiF57ONJ2QHU2LG0RpxQfGDQF4+v8NpywdAgO76qy4GnxiNepHy8kbqPz9crvGCvg1apRIX/RZPOZQYeNSVtc/LCq7+7gZkt5lFRfk+teau6Rih9NzRCYAIS4jufJSKgykPnwud1WSRP3k0IpmOrHn6+EfFBnC/FAQok1VcDEvM7M+2H8z8RZpgwl3M+gQN5Iin37oLmLTZWiC7PLKc+SaTrUDQ7BalgI7ufEEw9vk+v0=;1fIJgavkoWXYDE/KXiTjBw=="
+secured: "V4aqRb0qYcwqzHIBb0qRIlt3afFFZcRMt6Ra8oVMQTKobVRSYVGLpt1bnE4MiYhw0CPzatndihhCo73xGINx5oXN9g41Dj1fFxxr/p2b31iEkZ00N3jmzImZJ2V+VAikeGTU71VJpvyDqlbDACfZiFvG+NguDLuk/iQRxZsb6eSWj/0XzEuqe9KFGSjBAG5A962AaswCipC3KTIaCw3hE3KnKQUbHwDSEhG+8jQIoAjtLqC1uLFE3jm0csYNMVvNo2Jn5dQTHMks3G46M+uW1C437FRmucawG0m6OCA9ZmardgqtJuL42Vceb7M59eJCrjzP8F8QBRhb++yhulzJfIt8N//09JlHt2aoO/obgbo=;bvxZNQwwRDxM3VouACQxiA=="
 ---
 

@@ -28,15 +28,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment"
-    excerpt: "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,"
-    publishedDateTime: 2021-06-02T09:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 21
   - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that it is expanding its collaboration with TSMC to accelerate mobile, AI and hyperscale computing application design using the integrated Cadence® digital flow and custom/analog tool suite on TSMC’s N3 and N4 process technologies."
     publishedDateTime: 2021-05-31T06:55:00Z

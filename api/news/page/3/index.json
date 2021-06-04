@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-02-machine-learning-is-not-a-better-horse.md",
+      "title": "Machine Learning Is Not A 'Better Horse'",
+      "excerpt": "Too often, it can sound like the trucking industry views machine learning as a “better horse.” It is common to hear the idea that better, bigger data will allow the industry to better forecast prices far into the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57837b502c3222019364e8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
+      "publishedDateTime": "2021-06-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare.md",
       "title": "Want Perfect Summer Skin? Try Proven Skincare’s AI-Based Custom Skincare",
       "excerpt": "New skin care can be daunting. Where to start? What to buy? What will work? There are never really any guarantees. There is one brand, though, that does get as close to a guarantee as possible when it comes to skin products,",
@@ -61,7 +113,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1179,58 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-which-robot-vacuum-should-you-buy-on-prime-day.md",
-      "title": "Which robot vacuum should you buy on Prime Day?",
-      "excerpt": "Robot vacuums are so handy when it comes to saving us time, and with Amazon Prime Day, you certainly can expect deals on popular models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/which-robot-vacuum-should-you-buy-on-prime-day/",
-      "originalUrl": "https://www.digitaltrends.com/home/which-robot-vacuum-should-you-buy-on-prime-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/roborock-s7-robot-vacuum-lifestyle.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/which-robot-vacuum-should-you-buy-on-prime-day/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/which-robot-vacuum-should-you-buy-on-prime-day/?amp",
-      "publishedDateTime": "2021-06-01T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-publishedDateTime: 2021-06-04T09:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
+excerpt: "Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
+publishedDateTime: 2021-06-04T09:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa78a8c6-83de-5004-b501-de332a69eeea/60b9ebc250460.image.jpg?resize=1200%2C579"
+    width: 1200
+    height: 579
+    isCached: true
 
 related:
   - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
@@ -183,13 +189,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -230,6 +236,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "k38Be13t8GNOACijD6Ow2mG7W0fI/vs9A9L44vj4wlNE4JagYHv+hFB0VMlQ6VqaZ+frTgb6HzUELArOdrOu08DOIwuoRsDdGCufiByIk5AeK9hi85M4MgWcu/ocHk1OpdGtrLB/MM3nZfqKlHlzbQCBlKebhY52ZhtBppfLfvliAhwFuZ21jlk+zbRo6xc9TxZpNLiuFok8y4tG31BSrHA3S/lYh26QCTESFwSwIqlQvNrnDzPor/wI4zs4DDvVoqOic61k5Uan5o1plO9TUhhsOl6/M6MQY9RRznImBdeMz6atF1TZNEJSdUVhWB/dlXHT5qqQecnHpO/uSyWiShZTLBY1KvajXcHpaB0g4Ug7hZMloiVk5Bw1E2+K606SgJka3wxX4FGjLV2/h4CdZg2xYUcDIuQAztQQuBPNwN/KfRFrzkGnCb+oKLC64arIWzkfX0Vu7R9gPXqjZv0/c5GrRe2ayjnCtqcPSgySJGWRcxYosl7iPy7RdNrJGp8Bi6NQFyrYnMCTy4TAmIaTPQ==;xGiwybAQGO0hKvoTtmepnw=="
+secured: "Z8E+QzOGhC5jaE/FxpUdxH0LbTtnwf47Qs/QQ09EGEnQ7Ppo41Zn/GVoMiB+uI+Dll+t7CsYTpGAqwk0Y4HY5bCuomPQD1JThj3Y313jzMccC0MppPgGV0nBC/gb5jAjHQnF9b7Byg1vLWyqj+7fSGTeWMow+3BzYmESWFr1LUrgSdcKY21Npc29KXq9jCSIwgHi0gDiJipFpBm7oQszXj80VlpCnJibdCx8O8wlyaicQicN3dmrrc+8FZajZ8zDwFGqBe+hmeln9QBaYvpCoBf06aqDJGCwCryI6GgmGMfaUpC0v/9JyXa/dbIfaNJTBgrn+P9Hen/2BKrb04b/PwmjwUuPWB/WgIIVR8rOOuo=;huvHQJGumyf0bkarNgzeAg=="
 ---
 

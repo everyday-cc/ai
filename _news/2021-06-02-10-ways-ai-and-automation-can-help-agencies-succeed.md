@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automation, AI keys to rubber industry's future success"
+    excerpt: "And while the pace of technological advancement—and the adoption of the technology throughout the rubber industry—can feel overwhelming, LabsCubed CEO Khaled Boqaileh contends it doesn't have to be. In a presentation given during the virtual Rubber in Automotive Conference hosted June 1-3 by Rubber & Plastics News,"
+    publishedDateTime: 2021-06-04T12:00:00Z
+    webUrl: "https://www.rubbernews.com/news/automation-ai-keys-rubber-industrys-future-success"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 39
+    images:
+      - url: "https://www.rubbernews.com/s3/files/styles/800x600/public/Industry%204.0-main_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Y Meadows Launches New AI Customer Service Automation Solution"
     excerpt: "Y Meadows, a technology company dedicated to empowering customer support teams with tools to elevate the quality of their service, announces the launch of its AI customer service automation solution."
     publishedDateTime: 2021-06-01T13:00:00Z

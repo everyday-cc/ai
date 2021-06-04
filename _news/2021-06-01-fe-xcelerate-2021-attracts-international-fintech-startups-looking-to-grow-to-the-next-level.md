@@ -21,13 +21,13 @@ topics:
 related:
   - title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
     excerpt: "In partnership with Southeast Asian early-stage venture capital firm Expara, FE Credit – the largest consumer finance company in Vietnam, launched FE XCELERATE 2021 in May with the intention of bringing international fintech companies a pack of opportunities to scale up their business in Vietnam,"
-    publishedDateTime: 2021-05-31T13:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fe-xcelerate-2021-attracts-international-fintech-startups-looking-to-grow-to-the-next-level-1030478601"
+    publishedDateTime: 2021-05-31T11:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/31/9380629.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Wz84iCT2m8Y4na5+4mEYYgTCVLEMRFkDbtMbu2bXeeABshq8DbUdhUjewjdvWZxcs8H5Xp3BaaWFHDR4JMydvPJV4TJCxBdU3fXreXAyhKT6V4cV0qWphgQoX05Y8cvicEAQlkTikX6MTcQ29fJq5WVrH/psQNiAL3d1Zg9tPruVbyHvyrk9AB6AHz1tu96HSFrUBUhKMm46i90fwLN2psyO3GTa9ABpsGhG2xaE3975P95y4yF28p6IT4Cn0D/Ozutev8X+vhXgOpnpX/EEHGA1m7c+MlbVo2KAIIG5t6cdMgMByZHbxuW4rRoCPDnLROjuGRlmIfD9hSIHTOdhLUUOKxcFgCLlvY3+ASOXlO0=;WG31H8K+qcQ0V4+TPpoA8A=="
 ---

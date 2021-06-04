@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 580
         isCached: true
+  - title: "Automation, AI keys to rubber industry's future success"
+    excerpt: "And while the pace of technological advancement—and the adoption of the technology throughout the rubber industry—can feel overwhelming, LabsCubed CEO Khaled Boqaileh contends it doesn't have to be. In a presentation given during the virtual Rubber in Automotive Conference hosted June 1-3 by Rubber & Plastics News,"
+    publishedDateTime: 2021-06-04T12:00:00Z
+    webUrl: "https://www.rubbernews.com/news/automation-ai-keys-rubber-industrys-future-success"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 39
+    images:
+      - url: "https://www.rubbernews.com/s3/files/styles/800x600/public/Industry%204.0-main_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "6ov+rUt3m4bpxnRV5kS/5I51thbuJikaY01lRZR5ukmvdPRGnhRLbxEc0p2nFIwzbICItXuRsu3fRzfFhNsMN47MAWoDvqS9ltCKgWTwcNL6mODU9ebry0Az1DHjcLP5lDXy9CDM+qxOziO3V4PLdprhZuI3+FdIUHjT9wl2kvXbHy5SFPlEyzUKBHI561nt7Ooew/miboAWY0w7wPqGh5SUFKteJD+OL9K47sMKw8XWAAZbRyYBe1Bhn1rGHJxlpRJh/RWTMhe4ZTvON2XBCFVKg+BeJ6KCF7TbwOIkjBIYa6TRPWQ+sTBOjLdxBN/s8YYIRYaYMbMHbUVVcGWz23EsXb82pNqHasYTXHO9EWg=;oRIdOIecfRyfSNJrdHaOiA=="
 ---

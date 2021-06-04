@@ -175,13 +175,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -203,6 +203,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
+    publishedDateTime: 2021-06-04T09:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa78a8c6-83de-5004-b501-de332a69eeea/60b9ebc250460.image.jpg?resize=1200%2C579"
+        width: 1200
+        height: 579
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -221,15 +235,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 17
-  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-    publishedDateTime: 2021-06-04T09:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "ZSy8d5eDD6WnOsrj4IEanFntUkd3qhNcljV0PSHkuIRu/h5kVMWm3V7duH+Q7Zzwrsu+W7GtiL60HnoRxuPL4YYPTlnMVymbCEVsKHandHd/ffoR7xI8BlSZZABJu5eMM9631WI5VoKT/qt/Ge2i/IvCwg7Lw3ygtnK6rLOa9AwKMXqS6awiMiFa1D7DykY0j767wlbV2A+RIwXMBFYxNgpBI56xpQRGpBj2pH52V9vdInXG8Q9LKQU6i9gvxnodT8frI2ukQtGwabSrzduKSuI/tTdgsV9ttxnoJucyADLId8u4+vAtbQ2T438Yqm4h29YeursKZ73YZr2jdj7pMLUNgEn18gZ+OeMNohvHa8D9aOv6g9YV/3k1faMyK/u+ws1tK7MFjMHlvilEPCHWYptgr2IGshY1emm8ZcsyV8e7v2hRC6zrVdmC1/70929MqvQbUHzFBH4AgoBrjHQOhTV1ilbxd1GFqswhBKOeaki/eDf73tbINqEf6SGUPwa6FlaAUmS8Z4jtEX+s85LlOA==;T01H/c/B7fmlRSz0i+yL+w=="
 ---

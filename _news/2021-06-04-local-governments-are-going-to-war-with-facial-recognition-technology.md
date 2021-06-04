@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tec
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
 type: article
 quality: 89
-heat: 349
+heat: 369
 published: true
 
 provider:
@@ -141,6 +141,17 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "King County ban on police use of facial recognition software spotlights local movements across US"
+    excerpt: "As federal legislation on law enforcement's use of facial recognition software stalls, dozens of cities and counties are taking measures into their own hands."
+    publishedDateTime: 2021-06-04T05:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 56
   - title: "Final action expected on King County proposal to ban facial recognition software"
     excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
     publishedDateTime: 2021-06-01T15:31:00Z
@@ -182,6 +193,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Contactless Voice Payment Technology: A Retail Strategy for Bringing Customers Back In-Store"
+    excerpt: "Voice recognition technology has moved beyond the realm of checking the weather and playing music. Pandemic-fueled digital commerce is rapidly increasing the use of voice recognition technology. In particular,"
+    publishedDateTime: 2021-06-04T12:37:00Z
+    webUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store"
+    ampWebUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 48
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/06/voice-commerce-1.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
   - title: "King County bans facial recognition software in government agencies"
     excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
     publishedDateTime: 2021-06-02T00:37:00Z
@@ -391,6 +418,6 @@ related:
       domain: detroitnews.com
     quality: 17
 
-secured: "eFIH3sltLhQTSyEaA+xZmi7SVto6E4W9UHvAx661Pg/MSN5ELxXT5iJMvlXmc/o3pjpksTHfaTP9Ek++qfdM3Tzfx6CjTOzNJyV9i2VxIudlFcUwa6qR781qsOOkS8UxRF6XDuTfpf/x62erIhkM/e8e6ZuunYEiwTPUPZ6bXSL+YGlppecGEPdBeMYIT7whMbB+79x3s42hvA9bJri9r9Cj0hOJZekZ1U2UwZARKUOUQqGl0Thp9Nh24s3tvwh7nFIN44gn+DtA8piIx1ro/SGhxGuZd+oOW11yXpuN6NEi7QiY+cCAiTSES41uyXZ56hdBX1Xb/ibmQbwYYRt42ap7i+AXMgEQma8vrPPt2IA=;8VJruUh0GSBGhGy2/V0tOg=="
+secured: "dFjTvin8PEUXi6oAZ31nxInuiZM0moWEal38QmvDtg80vFmHF+9aTJUQcJXGua6Pdh0K8uGU+TEQuwTe0rrJooVb/nle5nA9AI+BshrwXtcODTAW0SU3BKbicJpHa3ixaGP2CoXr9cxJkysormrweuwYbhaeaS3RHQEKYte0o0crYJ2XWqMABkzpVdGhJyg0E1k2ynYGAIkRCmAQE+33E24lIm9uftOxaeReTbmJwKH2AcqX0PnwxgLcfX1IYNyTd/ugQ3TbX/Xo0toiRarqurHtjFlxM9rZqcaROwRxApr+TD8K3ST2w/OfUTt7KWr2hLn94FL5wm5fWDMr7VMcyGvTgywmNLWSb8Sgn8TLUx9gU8U03r/E003/8MuuErcEmyAWu+NyI9wHZ22rYkTrQT4aTkLvTNLX6qtbMwl112VWjtITJaDB4ddLXHNsQxcCnMnXbyeTWJZk+KmtXoLhHdx/2PcMP9AlXSyyGRfaZFH76Y+bqoboQmAzE0OsaN02l4+5HuNdBByCGFnp62RHdA==;f7sI1zCaKIWmTtLkc2+UEA=="
 ---
 

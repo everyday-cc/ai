@@ -68,6 +68,20 @@ related:
         width: 300
         height: 249
         isCached: true
+  - title: "Toyota VC arm rebrands as it expands remit to sustainable tech, digital health, fintech"
+    excerpt: "Toyota has rebranded its venture capital arm amid launching two new funds totalling $300m. Toyota AI Ventures, which was launched in 2017, has been renamed Toyota Ventures as it branches out into new areas including climate change."
+    publishedDateTime: 2021-06-04T11:14:00Z
+    webUrl: "https://www.altassets.net/market-news/firm-news/toyota-vc-arm-rebrands-as-it-expands-remit-to-sustainable-tech-digital-health-fintech.html"
+    type: article
+    provider:
+      name: AltAssets
+      domain: altassets.net
+    quality: 31
+    images:
+      - url: "https://www.altassets.net/wp-content/uploads/2021/05/imgpsh_fullsize_anim.png"
+        width: 625
+        height: 521
+        isCached: true
   - title: "Top Trends and Practices Fostering Fintech Transformation"
     excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
     publishedDateTime: 2021-06-01T11:12:00Z
@@ -120,19 +134,14 @@ related:
         height: 339
         isCached: true
   - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+    publishedDateTime: 2021-06-01T13:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "lAfgB9wYhqVgCrTp9q+06X6qvs+qqOIgwKiacaE2Qjs38MS6V+Uv75KOn2HYHuTRhuVfHd3yUniOVjg9hG2JdiOHiF6hFNolmfdOaMLe7w8eAqjoq4N539g4zdq+rbfNQuslRyU3pRjqW+z3R4pv6Az/8bcW2rdEZo/klQe46hfcHYJ2/lhuOhZkvc2UV1L+/T0VpGTF1riDG24rl6Vk7oIuDckoDwBN4/dsz4Eve90D9vznIwIdnOtM83Bai3tgSpoQaH/CwHazHO791fXWmwQYzvl6BmLpSSEV0pv0od5S3hYl04w/n1xFeSLyZCMmqpo4mP3ciJg48Dco6p0Fa7GWVCTKCxa7zn9OS+ZatD2P1Xe8zGKI9+OvsJtBSr0DsXAk9aXDnJT+QUghwcVJLlX3B7KXADzK/RsuFgxnaERCsIE/Y01hCPZAnSatBM1L4n7cI2KjNYIVQ+XRduKu6OP1ip09m+Nx9txkbTL8RtQ+R7dTzObqOUIzxQ3o5jKtckD9ta067DIZ4niI0h8c2w==;TPfHXj4Wrv/v77zZjj8nHA=="
 ---

@@ -44,6 +44,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
+  - title: "Report: Rogue Drone Hunted Human"
+    excerpt: "New Scientist says that there is evidence a weaponized drone went on a rogue mission last year where it hunted a human target without being instructed to do so. The publication cites a UN report and says the details suggest a Kargu-2 quadcopter was being used in fully autonomous mode during a conflict in Libya in March of last year when the device pursued a soldier that was trying to retreat."
+    publishedDateTime: 2021-06-02T15:14:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21452491/report-rogue-drone-hunted-human"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/MM_227_Thumb.60b79f707bda9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Worldwide Web Hosting Services Industry to 2027 - Artificial Intelligence in Web Hosting Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "The \"Web Hosting Services Market by Type, Deployment Model, Application and End User: Global Opportunity Analysis and Industry Forecast, 2020-2027\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-06-03T10:02:00Z

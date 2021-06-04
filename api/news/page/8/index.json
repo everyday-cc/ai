@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-27-librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision.md",
+      "title": "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision",
+      "excerpt": "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert vision giving industrial workers immediate access to the content,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/27/9379360.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/27/9379360.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1519650/AI_Connected_Expert_PR_Image_Web.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-clearview-ai-hit-with-legal-complaints-in-5-countries-accused-of-facial-recognition-abuse.md",
       "title": "'Clearview AI' Hit With Legal Complaints In 5 Countries, Accused of Facial Recognition Abuse",
       "excerpt": "Clearview AI, the American maker of a controversial facial recognition tool used mostly by police, is facing a downpour of legal complaints across Europe as of Thursday, alleging scopious privacy violations,",
@@ -1075,58 +1118,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare.md",
-      "title": "Pandemic Shines Spotlight On Big Data And AI In Life Sciences And Healthcare",
-      "excerpt": "Healthcare and life science firms are becoming more aggressive, more optimistic, and more successful in achieving data-driven business outcomes that their peers in other industries in the wake of the worldwide COVID pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae87f76fcb859005f94d8c%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/",
-      "publishedDateTime": "2021-05-26T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

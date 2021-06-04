@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2021-06-e-cigarette-conversations-twitter-a
 ampWebUrl: "https://techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.amp"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ecigarette.jpg"
@@ -73,6 +74,6 @@ related:
         height: 250
         isCached: true
 
-secured: "dtrU0op2wW3Ldu4WL/jJZ4uJtCtGYSghKjW32NjVYzEv2lNRmJ8ezCEKBIQfEijU4yszGvWRqMVGmWIiT0t+AXo5aTxaiYikO7jc4QwH29b2BoY8wmZPwLfwDoMQPnT0EJR0Ev46QBupYrRHIwISKFGRjMLbdXzzYihXSWIZj97QaX631Q5IHDDWk84zw6mZ1d26RhYmYe3xR5ppSf3kFLdhSs/BniBzclXbNbomf/ytyquzOBBf2WvUui0+MZwosy6MuUGdJ8WTrtyBXgQR4uhldWgIzyO9jGDkBCIveLL+hKUKXNCRS6S/3TQTHuT/l5ryXF1UQtgB+e13TT+Th4ST42N3tuXUuGwr5KJywxs=;7IEnHtMdskhHkATuqyF8lQ=="
+secured: "5e6OO7bZK2b8fL5twxhvoW9zB34uPTKI5vdBDPTT2m3myqa54x/gDX+lml/3kSXcWmGkyIJTW+Zxih8d+3OOUKY4rU4Oa9/JZ5rhvIJ7nS6NR++B1wkl3wHaE+l1BmN4cpSYaUVF+p2Ks85/N2sCIigV1NE8e4CUh66C7YhTe2WW8w+avJzImHx9/POjX7LogwKlrBOgODln86gRMhTbFVy5lEQadhwRZPTaKqRVrTaoVHyQYB67CMonq68mrFg1/0Ty+bAOQrLRZDz+MXNL93kZ8x3K/L4b0arOlP+ZyzQctVpKUwBn7y1GjphoCb3BeprHPdCRqKyznAmS3M9zHP9i4PxLEzCewtO/TfRUcxOJhRN1HLpMLg7Oq+XDZrkeqKThzpvSw6eGKPh5AnjwJ0zTqh8u5Kb/Efe+kwkZbU8Tab6tJs+D0lXic0Gm+LTxCumSGeE6PvVgD3zr/G08BXUHBl9aeOMw+G1VePFZDWjF640kyUpgpWyG20VsIFhPo2YE0HpDs9iBiJ6ghHVV7Q==;3Ibp70TDsAeqSE1qwYHoDQ=="
 ---
 

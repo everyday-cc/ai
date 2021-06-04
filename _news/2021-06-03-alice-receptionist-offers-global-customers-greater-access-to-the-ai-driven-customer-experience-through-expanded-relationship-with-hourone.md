@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Talisma and Active.Ai, partner enable customer experience"
+    excerpt: "Talisma Corporation Pvt Ltd a leading provider of customer experience solutions today announced that it has partnered with Active Intelligence Pte Ltd a Si"
+    publishedDateTime: 2021-06-04T13:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269756824/talisma-and-activeai-partner-enable-customer-experience"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1622812850.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Talisma and Active.Ai, partner to enable improved customer experience in BFSI using Conversation AI enabled Chatbot"
     excerpt: "Talisma Corporation Pvt. Ltd., a leading provider of customer experience solutions, today announced that it has partnered with"
     publishedDateTime: 2021-06-04T03:34:00Z

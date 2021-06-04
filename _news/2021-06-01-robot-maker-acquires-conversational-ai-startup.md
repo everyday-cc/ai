@@ -57,7 +57,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ecigarette.jpg"
         width: 2880

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/uqphd450308.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "The Human Error of Artificial Intelligence"
+    excerpt: "AI and predictive analytics offer a stereotypical, reductionist view of human nature, and this is a problem we need to address"
+    publishedDateTime: 2021-05-31T06:56:00Z
+    webUrl: "https://www.agendadigitale.eu/cultura-digitale/the-human-error-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: AGENDA DIGITALE
+      domain: agendadigitale.eu
+    quality: 37
+    images:
+      - url: "https://imgcdn.agendadigitale.eu/wp-content/uploads/2021/06/19110627/bigtech.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "How AI can Bolster the Gaming Industry"
     excerpt: "How AI can Bolster the Gaming Industry By CIOReview - As the identification, privacy, and security of the gamer is a fundamental factor of the casino business, implementing AI"

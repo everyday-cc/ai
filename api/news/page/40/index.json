@@ -2,6 +2,48 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-05-05-blockchaincom-announces-acquisition-of-aix-assets.md",
+      "title": "Blockchain.com Announces Acquisition of AiX Assets",
+      "excerpt": "Blockchain.com, a leading cryptocurrency services provider, announced that the company has acquired assets of technology firm AiX.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/",
+      "originalUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2020/06/cryptocurrency.jpg",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/amp/",
+      "publishedDateTime": "2021-05-05T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
       "excerpt": "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ...",
@@ -1084,58 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how.md",
-      "title": "Microsoft Windows and Azure can be a business lifeline. This training shows you how.",
-      "excerpt": "Register fo r the AI event of the year ... With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
-      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
-      "publishedDateTime": "2021-05-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

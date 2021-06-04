@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Human Error of Artificial Intelligence"
+    excerpt: "AI and predictive analytics offer a stereotypical, reductionist view of human nature, and this is a problem we need to address"
+    publishedDateTime: 2021-05-31T06:56:00Z
+    webUrl: "https://www.agendadigitale.eu/cultura-digitale/the-human-error-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: AGENDA DIGITALE
+      domain: agendadigitale.eu
+    quality: 37
+    images:
+      - url: "https://imgcdn.agendadigitale.eu/wp-content/uploads/2021/06/19110627/bigtech.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How AI can Bolster the Gaming Industry"
     excerpt: "How AI can Bolster the Gaming Industry By CIOReview - As the identification, privacy, and security of the gamer is a fundamental factor of the casino business, implementing AI"
     publishedDateTime: 2021-06-01T13:35:00Z
