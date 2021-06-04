@@ -52,22 +52,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "India’s Consumer Lending Fintech ZestMoney Expects Steady Revenue Growth, as BNPL Market Expands"
-    excerpt: "India also does not have reliable consumer credit services. Only around 3% of adults in the country are using credit cards at the moment, according to Research and Markets. Indian consumers do not have access to modern credit services because of the cost of distribution and operations associated with financial services."
-    publishedDateTime: 2021-05-30T22:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/176014-indias-consumer-lending-fintech-zestmoney-expects-steady-revenue-growth-as-bnpl-market-expands/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/176014-indias-consumer-lending-fintech-zestmoney-expects-steady-revenue-growth-as-bnpl-market-expands/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/176014-indias-consumer-lending-fintech-zestmoney-expects-steady-revenue-growth-as-bnpl-market-expands/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 31
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Jaipur-Rajasthan-India-Money-evgeny-nelmin-unsplash-300x249.jpg"
-        width: 300
-        height: 249
-        isCached: true
   - title: "Top Trends and Practices Fostering Fintech Transformation"
     excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
     publishedDateTime: 2021-06-01T11:12:00Z
@@ -95,20 +79,6 @@ related:
       - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
         width: 1280
         height: 856
-        isCached: true
-  - title: "Global fintech group joins growing tech community at Alderley Park’s Glasshouse"
-    excerpt: "Global fintech Quint Group is set to join Bruntwood SciTech’s rapidly growing tech community at , Alderley Park. Quint owns and operates a number of fintech businesses"
-    publishedDateTime: 2021-06-01T08:51:00Z
-    webUrl: "https://www.thebusinessdesk.com/northwest/news/2079836-global-fintech-group-joins-growing-tech-community-at-alderley-park’s-glasshouse"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 20
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/aug_20/Atrium_2-e1596717557909-1024x684.jpg"
-        width: 1024
-        height: 684
         isCached: true
   - title: "Fintech changed the financial world quickly. Here's what's next."
     excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
@@ -143,6 +113,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "g2Q41SIZRg7i5rxe7uA9BUw3O8qko1dBGSPjN/dCdOuvUnNwkSiaTzPoz5l2MvsXjaxfRNqoedgrBTGkprEYOdYorusm1wS8+aVhtcBgnkG+ncOsLiJwCnxUjnN65iPHTjR5ZxLdWHmZEajb5JhOrQxPiGdQEVLOLijdGQZt9zU905g1FpGqzjFd8Qs2B4ucMO2UO2+neqYR5cQlV+aOef4x5tF0hGQ+95bmk+IGa3EuZiuIvr2YV7hrHOidvaKj5u7pso+0hgSXgBYeHYa34nMl3VyEuUoiWAsGQs/tK9dBWA6chll65dLwKMFOMahcX+ORZkvjybSVzdbq8Sk4U1a0z0tINpTVFkWeWyZGz6w=;KHug4buj5cG6tJ4Bl1SAIA=="
+secured: "6QolYdd8482vNi+tf6WTUOwz6u3NhPSUyhEDAs88b2x0hEDdOolPF7I4r1ofX/5pdtSxTp6POLyQXj3o/trxjBqlY6zHc8aelLCFC4etJEYDxSTL8XesqZy3K+gBzJc132aQSg3oZSGrv2gnN775SuGRYoHYS658nh58c51W90qjUi0egCiRSd/1kfeqcSGmj0a230P5CXaAQIm9VoGAw9duecXz9QL1VzwYdERQNya8mQ/CvS6+Je7KDpEu0wIrcUlElpZW8kIDjkRmEqz5QTuAzURdVvwr4OX1awcOcjend+8aFpnXygcEqHHdmyHh+D+kjGbQ9/oUSAXf+Ie8IsH8HMnGtXJzHG4bUnkmpSJ/dEHFqvLMz0knAkPvjJ9YYR9GPn+yTNHuAuMqUVzvXVPOBJaoSpmlPNqVUuNextSvxPXfr0kShesDS6hObDKcWNU5hafaeQpER3J9vriQiWo5NK+75Ee9VVPoV6lv3CKvXPgXYSTQISqEi2EvKZ8TswUqb44prgSn665iRPqomg==;6FFnrdwpSgQ7eoCY/G/iNA=="
 ---
 

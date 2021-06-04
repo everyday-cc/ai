@@ -2,25 +2,27 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
+publishedDateTime: 2021-06-02T12:41:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
 type: article
-quality: 27
-heat: 27
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "AI Chipmaker Hailo Partners with Lanner Electronics to Launch Next-generation AI Inference Solutions at the Edge"
@@ -33,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 26
 
-secured: "J+Dh/hRlvl8bpDEXGXvHvnluwm1uCU4Cz0SehvCGrCaZMs3cbtq6Se5lH0uvq+Se6dVBdOpHlnScXj8c6TYUruOPoc+vaD2n1eV3gsDrVLeR/pM21ip51Sl+QHnmokbiIZsFFK+G3lVgc+e0FvQWmHetVgB76aRuNMKTQSiOm4k/MWVdG8yq2AL8bBByVrtxCV4PNgN4WlBVjfsK3B4IPTxmUae1ysmljX0V/2sD3iMQwb+STC0HHJJ3bcOqmBYRqmMzOtc1cvlLctOHU34h7brkwkmcCiu7ncoSm9TVfMG3Lx61ftZp/A5z/4P9GM6PYYfVoH4WR9gsejePVj84UpJScHtD0KeI3Kk2X1eVNdM=;Si8K0HGeOTQhMFP/CzA6cw=="
+secured: "tUP8hVuK8XkMO47YGBRDqD6nSoUmlu/v5NcVOCMds9qQSmEw04DKotx6ARcT7rqH0uvoXKlS7U21XJgulT+Ae9Z1DCZUt6bkoFkIJqvCNK+JNkPkgfgKK162/gY9Q4tRDd4IvdOlk8iLxmlJpiRA0JxJKR1JeMJWp2I9TPJF56UkYq4ObGpqNA7X3HJMU79mBPZASKjC5XC9iDXwiBfUKYZObnHUPtTbaJezOtxUJFnZhnkCSNVS0r2tEa/ZOfVNyB+xaomAaSPON45S/E4XLgKMF+K6qkoVu4ePk9UbI1ML1Ia94wgL7er7nugDhz1uAyXx4Z9D1Rc4UrhgTxHSkVZpEHIFzhs4LLL/z/VAcuo=;C9mclqTH3ArEwqId/UhMAQ=="
 ---
 

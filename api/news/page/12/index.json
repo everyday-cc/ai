@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-25-pixel-6-leak-reveals-64-inch-120hz-display-5000-mah-battery-and-whitechapel-with-focus-on-ai-and-ml.md",
+      "title": "Pixel 6 Leak Reveals 6.4-Inch 120Hz Display, 5,000 mAh Battery and Whitechapel with Focus On AI and ML",
+      "excerpt": "Recently we saw a Pixel 6 render with the redesigned back panel and a dual-color treatment. Like Apple, Google is expected to switch to their in-house",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/",
+      "originalUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.androidbeat.com/wp-content/uploads/2021/05/pixel-6-pro-feature-1024x665.jpg",
+          "width": 1024,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/",
+      "cdnAmpWebUrl": "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/",
+      "publishedDateTime": "2021-05-25T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "androidbeat.com",
+        "domain": "androidbeat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-how-watson-discovery-helps-contractpodai-provide-legal-excellence.md",
+      "title": "How Watson Discovery helps ContractPodAi provide legal excellence",
+      "excerpt": "IBM Watson Discovery speeds contract renewal time by 50% IBM Watson Assistant helps counsel find specific information among thousands of data points IBM business partner ContractPodAi offers an end-to-end contract management solution designed by lawyers for lawyers. The solution aims to dissolve traditional",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ContractPodAI_V2_2000x1006.jpg",
+          "width": 2000,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T06:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
       "title": "Computer Vision Is Like Investing In The Internet In The ‘90s",
       "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
@@ -108,33 +203,24 @@
     {
       "path": "_news/2021-05-25-manufacturing-ai-startup-exlattice-joins-nvidia-inception.md",
       "title": "Manufacturing AI Startup ExLattice Joins NVIDIA Inception",
-      "excerpt": "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI",
+      "excerpt": "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine.",
       "sourceUrl": null,
-      "webUrl": "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html",
-      "originalUrl": "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/johnsoncitypress.com/content/tncms/assets/v3/editorial/d/aa/daa84b8d-90c2-54e7-9b23-7b4a0bc1eb1d/60acf55dd58e4.image.jpg?crop=379%2C213%2C210%2C0&resize=379%2C213&order=crop%2Cresize",
-          "width": 379,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T05:38:00-07:00",
+      "publishedDateTime": "2021-05-25T05:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Johnson City Press",
-        "domain": "johnsoncitypress.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1106,111 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness.md",
-      "title": "Facebook’s Dynabench now scores NLP models for metrics like ‘fairness’",
-      "excerpt": "Facebook updated its Dynabench language model evaluation tool with Dynaboard, an 'evaluation-as-a-service' platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
-      "originalUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
-      "publishedDateTime": "2021-05-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-the-missing-vaccine-in-the-pandemic-how-the-shortage-of-emotional-intelligence-is-driving-everyone-crazy.md",
-      "title": "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy",
-      "excerpt": "Learn to develop self-leadership and to govern your emotions in the face of situations that are happening at full speed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372732",
-      "originalUrl": "https://www.entrepreneur.com/article/372732",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621869982-Depositphotos-160926830-l-2015.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372732",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372732",
-      "publishedDateTime": "2021-05-24T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -189,13 +189,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -236,6 +236,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "Z8E+QzOGhC5jaE/FxpUdxH0LbTtnwf47Qs/QQ09EGEnQ7Ppo41Zn/GVoMiB+uI+Dll+t7CsYTpGAqwk0Y4HY5bCuomPQD1JThj3Y313jzMccC0MppPgGV0nBC/gb5jAjHQnF9b7Byg1vLWyqj+7fSGTeWMow+3BzYmESWFr1LUrgSdcKY21Npc29KXq9jCSIwgHi0gDiJipFpBm7oQszXj80VlpCnJibdCx8O8wlyaicQicN3dmrrc+8FZajZ8zDwFGqBe+hmeln9QBaYvpCoBf06aqDJGCwCryI6GgmGMfaUpC0v/9JyXa/dbIfaNJTBgrn+P9Hen/2BKrb04b/PwmjwUuPWB/WgIIVR8rOOuo=;huvHQJGumyf0bkarNgzeAg=="
+secured: "JQud7gOj9XX9f+Jj2kMD5NHaV1dpSPjhOiPhZOqczVeTis88EDIRA8lFwh/jf6vosxLlYQVkXmLJ3BYk4uZ/08mqN2bhPSoSVgt3Y12A5EZEIsUNCEUwA4up6r/RH7hsUMOyPsudNceN03HtIOsVwJGisANNJV5aec6xkdBSeldKo/qMJBKFti6WBEp8/BQM6de8djYy+YV3/ZnJzU22aGAMNzMoIhGTD5q0mSE7YA9/470BcmekiG3j9Z0MbsTZYKCfT1MGNqLhg4rBNDcAMWd+nDcf3H8bKtM0rnC+8AOL+KGTPWIBMRK9XwO+CTVMeZXswCAsdSyTX6VMRTogaQxZD7GY6N3NwKlkaSe1EZbTsFeq54lYVjswoTBKugqF2wboJcIzwX0RDjWESZxgzF+d4U5rfOvTwWunk846FIMD5S6aWp5DjBKnZPjFaYrcjase441XjYsZbWsn46mrsW01LN22depYi+jhjmWSmuCt56s7moCBqLGlTHAlT6vUBCVEF3A8FqJ7d+Njeddkiw==;XnDQ2+hfaYVfS0iDEmzUQg=="
 ---
 

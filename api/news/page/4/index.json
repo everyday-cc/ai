@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-01-humanoid-robot-aims-to-read-and-react-to-human-emotion.md",
+      "title": "Humanoid robot aims to read and react to human emotion",
+      "excerpt": "Researchers from Pisa University in Italy hope that one day Abel will be able to become a home help for people with autism and Alzheimer’s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
+      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wane.com/wp-content/uploads/sites/21/2021/06/Humanoid-robot-photo.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
+      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
+      "publishedDateTime": "2021-06-01T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wane",
+        "domain": "wane.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-artificial-intelligence-enables-smart-control-and-fair-sharing-of-resources-in-energy-communities.md",
+      "title": "Artificial intelligence enables smart control and fair sharing of resources in energy communities",
+      "excerpt": "Energy communities will play a key role in building the more decentralized, less carbon intensive, and fairer energy systems of the future. Such communities enable local prosumers (consumers with own generation and storage) to generate,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.html",
+      "originalUrl": "https://techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-7.jpg",
+          "width": 714,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.amp",
+      "publishedDateTime": "2021-06-01T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-which-robot-vacuum-should-you-buy-on-prime-day.md",
       "title": "Which robot vacuum should you buy on Prime Day?",
       "excerpt": "Robot vacuums are so handy when it comes to saving us time, and with Amazon Prime Day, you certainly can expect deals on popular models.",
@@ -949,7 +1034,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -983,7 +1068,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1125,101 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials.md",
-      "title": "Future of chip making to lean heavily on AI for spotting defects, says Applied Materials",
-      "excerpt": "For the first time, a machine learning program will tell a scanning electron microscope where to look closer for defects in a silicon wafer",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
-      "originalUrl": "https://www.zdnet.com/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/31/dba100ab-4cc9-444c-beec-c9de99f3a1e4/applied-materials-extractai-slide-12-2021.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
-      "publishedDateTime": "2021-05-31T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-145.md",
-      "title": "Healthcare Chatbots Market Expected to Grow at a CAGR of 14.5%",
-      "excerpt": "Global healthcare chatbots market was valued at 116 9 million in 2018 and is expected to reach 345 3 million by 2026 registering a CAGR of 14 5 from 2019 to 2026 Healthcare chatbots are user interface which are employed",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
-      "originalUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U531636275_g.jpg",
-          "width": 790,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
-      "publishedDateTime": "2021-05-31T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

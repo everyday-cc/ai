@@ -52,22 +52,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "India’s Consumer Lending Fintech ZestMoney Expects Steady Revenue Growth, as BNPL Market Expands"
-    excerpt: "India also does not have reliable consumer credit services. Only around 3% of adults in the country are using credit cards at the moment, according to Research and Markets. Indian consumers do not have access to modern credit services because of the cost of distribution and operations associated with financial services."
-    publishedDateTime: 2021-05-30T22:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/176014-indias-consumer-lending-fintech-zestmoney-expects-steady-revenue-growth-as-bnpl-market-expands/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/176014-indias-consumer-lending-fintech-zestmoney-expects-steady-revenue-growth-as-bnpl-market-expands/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/176014-indias-consumer-lending-fintech-zestmoney-expects-steady-revenue-growth-as-bnpl-market-expands/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 31
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Jaipur-Rajasthan-India-Money-evgeny-nelmin-unsplash-300x249.jpg"
-        width: 300
-        height: 249
-        isCached: true
   - title: "Toyota VC arm rebrands as it expands remit to sustainable tech, digital health, fintech"
     excerpt: "Toyota has rebranded its venture capital arm amid launching two new funds totalling $300m. Toyota AI Ventures, which was launched in 2017, has been renamed Toyota Ventures as it branches out into new areas including climate change."
     publishedDateTime: 2021-06-04T11:14:00Z
@@ -109,20 +93,6 @@ related:
       - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
         width: 1280
         height: 856
-        isCached: true
-  - title: "Global fintech group joins growing tech community at Alderley Park’s Glasshouse"
-    excerpt: "Global fintech Quint Group is set to join Bruntwood SciTech’s rapidly growing tech community at , Alderley Park. Quint owns and operates a number of fintech businesses"
-    publishedDateTime: 2021-06-01T08:51:00Z
-    webUrl: "https://www.thebusinessdesk.com/northwest/news/2079836-global-fintech-group-joins-growing-tech-community-at-alderley-park’s-glasshouse"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 20
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/aug_20/Atrium_2-e1596717557909-1024x684.jpg"
-        width: 1024
-        height: 684
         isCached: true
   - title: "Fintech changed the financial world quickly. Here's what's next."
     excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."

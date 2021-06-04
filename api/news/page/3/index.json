@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-02-10-ways-ai-and-automation-can-help-agencies-succeed.md",
+      "title": "10 Ways AI And Automation Can Help Agencies Succeed",
+      "excerpt": "Artificial intelligence and automation have transformed the way people do business and show no sign of slowing down. Smart agencies are seeking new ways to leverage both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b69b04d65af80e8d7dd319%2F0x0.jpg",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/",
+      "publishedDateTime": "2021-06-02T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count.md",
+      "title": "Cyclist Use Of Key London Bridge Higher Now Than Bike Boom Of 1949, Finds AI Camera Count",
+      "excerpt": "AI-powered traffic counting has found that cyclists accounted for 41% of all road users on Blackfriars Bridge, London.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/",
+      "originalUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b77445def8ce96737dd31b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/amp/",
+      "publishedDateTime": "2021-06-02T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-machine-learning-is-not-a-better-horse.md",
       "title": "Machine Learning Is Not A 'Better Horse'",
       "excerpt": "Too often, it can sound like the trucking industry views machine learning as a “better horse.” It is common to hear the idea that better, bigger data will allow the industry to better forecast prices far into the future.",
@@ -1147,91 +1249,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-humanoid-robot-aims-to-read-and-react-to-human-emotion.md",
-      "title": "Humanoid robot aims to read and react to human emotion",
-      "excerpt": "Researchers from Pisa University in Italy hope that one day Abel will be able to become a home help for people with autism and Alzheimer’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
-      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wane.com/wp-content/uploads/sites/21/2021/06/Humanoid-robot-photo.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
-      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
-      "publishedDateTime": "2021-06-01T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-artificial-intelligence-enables-smart-control-and-fair-sharing-of-resources-in-energy-communities.md",
-      "title": "Artificial intelligence enables smart control and fair sharing of resources in energy communities",
-      "excerpt": "Energy communities will play a key role in building the more decentralized, less carbon intensive, and fairer energy systems of the future. Such communities enable local prosumers (consumers with own generation and storage) to generate,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-7.jpg",
-          "width": 714,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.amp",
-      "publishedDateTime": "2021-06-01T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
