@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network"
+    excerpt: "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect"
+    publishedDateTime: 2021-06-04T06:15:00Z
+    webUrl: "https://www.entrepreneur.com/article/373682"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/373682"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Mumbai Angels and Auxano lead pre series funding for Edtech startup Avishkaar"
     excerpt: "Read Article Mumbai Angels Network, a platform for early-stage investments, along with Auxano, and other eminent angel investors, has invested INR five cr in edtech startup Avishkaar as a part of pre series."
     publishedDateTime: 2021-06-01T06:48:00Z

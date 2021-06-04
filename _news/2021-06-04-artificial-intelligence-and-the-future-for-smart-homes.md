@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-03T20:03:00Z
 originalUrl: "https://www.tmcnet.com/topics/articles/2021/06/03/449024-artificial-intelligence-the-future-smart-homes.htm"
 webUrl: "https://www.tmcnet.com/topics/articles/2021/06/03/449024-artificial-intelligence-the-future-smart-homes.htm"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/0856353907-smart-home-3574545_960_720.jpg"
@@ -87,6 +88,6 @@ related:
         height: 308
         isCached: true
 
-secured: "AL3KLQSzU99w+2MRpJKklwnLnQql5pMmrDbmgfENKLgrtTLcVN2h5zENpt+pl7+ZpmAx10IdNUkMUmtCyYlbZqRuPhXiersZiHOKteRTIos/0dI/zV8SbaHk6cyhyv1pQ94us4MtsPVYUS7FZtsh3iaXnCwl43TMLVXG9lrPwN+Mo0KSzLJEvxx302Za89fq++qEcmckE26VlXtajjJAWbZReeFRDdbJPMS3fvfIRDxq+FTmzLXdq4UQJRFQ8dPY9LaFm92RcAHcCjKmdb2Hq7G43o8gDtPHcF+zqsk2nIYB3j95m4WLwMPUUMvOIZ6LdoNNhiVxurcXHjm+BSzJUAcPopxbIxDdGxKYBllARI4=;SBFEKngG383ujwI6ceMvkg=="
+secured: "N1qT2Lsr+bp7h8MoUeR7Te26Vwt/sy4ntsuXtpNSzH9tIPp1PyngIyBqMVBiyX3ub5jQqqicg2e9hGnEQ6bk+e74NwnS1mYq2vKeMqTswwoi7v0WxAWGhtdEwTJZ4Iku90lbsGGhDffDBN1w4h+5XZgSY4a31/Yt/Q9iHUEpPASjgvXNv8hBP56WBWuzsPWqo8kJ/jO6ImeDDrPkWv3vhp1j05aX1d1Oc/rf7y5FAJY/gpBChCggexBBr0K1gqaYTr+M7Lm1+4cQVUKvgsAMc+EdIpXbH8iC3uH6BE8YdGUbMr0a3HCfx+8yD1vTF2yXtV2KHNNZRyuB32BkEqyewHFGROh8o959iFFbV3P4ufhBO0NZ2cp5ptqWZNt906F9f58BhPP42v5609Vde+sbaPxt/qXY6QN+DRBIWX0hDuKwU2Ke2+S7lBADUhhjqKQNteWkCwVMKNysRD5M16nlgYJmZ5ol3+wAQcNTU/riXeOaLksmU7LBvrfvppc72ScM1/mFJULVqOuUXjQGs76QWw==;iryWFqXfvKUYdoGpYJ2NwA=="
 ---
 

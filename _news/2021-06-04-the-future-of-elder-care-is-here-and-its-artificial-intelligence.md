@@ -84,7 +84,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/0856353907-smart-home-3574545_960_720.jpg"
         width: 960

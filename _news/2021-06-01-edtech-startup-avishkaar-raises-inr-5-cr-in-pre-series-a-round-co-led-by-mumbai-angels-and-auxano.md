@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/373331"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373331"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network"
+    excerpt: "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect"
+    publishedDateTime: 2021-06-04T06:15:00Z
+    webUrl: "https://www.entrepreneur.com/article/373682"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/373682"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Edtech startup Avishkaar raises Rs 5 crore of funding in pre-series A"
     excerpt: "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent"
     publishedDateTime: 2021-06-01T07:33:00Z

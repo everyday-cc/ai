@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-04T05:00:00Z
 originalUrl: "https://menafn.com/1102207343/CareDx-Advances-Artificial-Intelligence-in-Transplantation"
 webUrl: "https://menafn.com/1102207343/CareDx-Advances-Artificial-Intelligence-in-Transplantation"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?608108"

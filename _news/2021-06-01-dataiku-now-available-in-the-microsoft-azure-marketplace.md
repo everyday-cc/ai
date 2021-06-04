@@ -3,8 +3,8 @@ category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
 excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
@@ -109,18 +109,18 @@ related:
       domain: pcmethods.com
     quality: 69
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-    publishedDateTime: 2021-06-01T23:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+    publishedDateTime: 2021-06-02T02:40:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/250000"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: RYT9
+      domain: ryt9.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+        width: 800
+        height: 338
         isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
@@ -221,6 +221,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "61+CI5ZoKktzgUvB189JETuzvOm+o/C0ZLy3Xejw/9f1VtfxNiGfavDsYu0v5DrcYXKa3SoLMd8eAoBqhk6xBrMRcaFmM61OHHJgj0Si/rec1tBYTyTLpHe9IJx+Y7TyUlKpUAiZVj4phm3hQyj9gdxPg3eefS/lQyg9z4NfEKs9OkcOk4KbC0C2UGJAnLyfokCom9coumlfnO1JzK6wEBclY4TvYUF7XphKlPqTBhrwJbRRySMrQljx0ARGfzM+UUQmW8NjPhv5feJW63s6igLK8rwBtOPyiQQfdc1MR0CzlmC5j8teQYH4hwfidjqj9lbiVGxGZZXJrWa4Jyjt88/wB0ph++nxvgdsA8qyPss=;pYToWFNc6xJ182sGA4Akyw=="
+secured: "6UJvMLzjJaoKnfW7GnktkdYNTkY1Lsg2IPdxZOiJdug158F0jMP4ZLb6sR7kdd2EooOpNdtk7/etuFLggiz9AVtipiAlhDUkK+LSWk5Jea/mgxGzyGm0B9CzF5vFgylN20d58IOjRzYtzF12m8iDzXVB8PbBzGVOPwf5aQN/DKQM/1TVOzRR57VzM5HCzLK/ZhPofCXRwh6H1E5Fj37VjmdL0Tabtbmy/XpSHMs9uoSnv7gWm54rVxkwuu46v3mvUKwMJU8JRILh3ys0WLxXNG4n436CjmJSktSDumCmpNHflqZ51SJnHfO3Q6eTbyzpruy44anYx4pN17gxN4Hi63aAd9RlS5Knk543zibZI7M=;BSsMYx5OaynuLXipCNJwTw=="
 ---
 

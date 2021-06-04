@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/deepracer-womens-league-aws-announces-winner
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS announces winners of the AWS DeepRacer Women’s League in India"
+    excerpt: "Read Article Artificial intelligence (AI) and machine learning (ML) are innovative technologies that are unlocking opportunities and helping solve some of our most difficult challenges. But to date in India,"
+    publishedDateTime: 2021-06-04T06:03:00Z
+    webUrl: "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/"
+    ampWebUrl: "https://www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/"
+    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 91
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2019/06/17104829/trophy_820.jpg"
+        width: 696
+        height: 465
+        isCached: true
   - title: "AWS announces winners of first DeepRacer Women's League in India"
     excerpt: "Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Womens League in India, held to boost women students to learn machine learning (ML) via a Cloud-based virtual racing simulator."
     publishedDateTime: 2021-06-03T13:51:00Z

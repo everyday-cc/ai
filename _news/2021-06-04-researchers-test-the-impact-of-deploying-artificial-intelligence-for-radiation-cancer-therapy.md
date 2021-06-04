@@ -27,35 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Accelerating AI at the speed of light"
-    excerpt: "MIT alumnus Yichen Shen PhD '16 is the CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence."
-    publishedDateTime: 2021-06-02T19:25:00Z
-    webUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"
+  - title: "A simple model of the brain provides new directions for AI research"
+    excerpt: "Research on how human brains process language can help create algorithms that are robust enough to understand and engage in conversations."
+    publishedDateTime: 2021-06-04T06:40:00Z
+    webUrl: "https://venturebeat.com/2021/06/03/a-simple-model-of-the-brain-provides-new-directions-for-ai-research/"
+    ampWebUrl: "https://venturebeat.com/2021/06/03/a-simple-model-of-the-brain-provides-new-directions-for-ai-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/a-simple-model-of-the-brain-provides-new-directions-for-ai-research/amp/"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202105/yichen-shen.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "The Military Is Embracing a New Era of Artificial Intelligence"
-    excerpt: "Autonomous jet fighter technology has performed quite well in dogfighting simulations against human pilots in air-to-air combat."
-    publishedDateTime: 2021-06-01T14:02:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/military-embracing-new-era-artificial-intelligence-186533"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-09-23T083906Z_375121032_RC116C659340_RTRMADP_3_MIDEAST-IRAN-TANKER-USA%20copy.jpg"
-        width: 1300
-        height: 851
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/brain-neuron-assemblies-e1622194218984.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
-secured: "poCIZZpsid3NLjhadE41NSnV5dJX/lYwXbJJhInTpdfiTXupvYdSPjfEB/NoB2Bt5JuUXX//la+aTYgDDn906UKa0WkhcAb7MzakzT1N/a3NZ7e/JI1nBdT198s8oaBz3IRtRhOii26SFG1MkJxr6f7icBI6XbsE/efMkrGGnzg+iaxaEz8sk37Z+hz60jjwbLZLPgRNjtjHHEI2qYaeWvllnGmzXOHDEpcm9LVQkawCb8lKAHu0VDzdYNwX7gg36NwC9ehNdBO0ONIYsr5okOk8YME4FRKAyNLK3/uaDvZHCtLpu1PVYkBaSzwvCdBES8i+JSgr38h5TgwasMpBEnE0SfuQYMupJScHO2Qg8rI=;hjYoY+mRTqENBjBR3QfZoA=="
+secured: "NBpCysOxjDPMWl26gIWa6mkpsd7vDUzfop0rYIQ8thwcP4tlLrjME6q0kTd42uPMDqZ092GXGJCyNGaasrLHCcYPUOjqo46HgyM9JnX++TLEvRhbXsmLvHeG9tMU/0F/mvF1G5hLWwMcdlTBWjA66tSdvQPcdKS2X3n9FUnqgVMCH/+ekrtBAHtVTvI84x3tlBa2JmLOD6KwxAdQ0nSrmCvYmoD2IXSeGdaH62zYEGlJDDgzyW4WgCDZUsWfy1bYOS+3dTeHyDpQUsMlKkYa+4y1aPjvSqDPzhCHGlssS/H2y/wROMKbDv1Rf4sv47REiAxY3Nc1D+Duph/vUpnz6Lp6sqdsYy35Eq79YGvJWM91CM/YjpYwZPJn57hqQBe+pReGCrYStgXW9HE7vnecwNTBxNmE17lSAdmR1rGPacop0ckx2fKyXayeTFlZagVw8BrFnzR8Bi0+kDY86FtblGyfUKY388f9qxfa7tivTiZ4K3BG1VGrwN8Qw/pcSnSYL8U0oBtulyZBzkz0FAuCmw==;kNr1yqeIlmrzPHsnDX6toA=="
 ---
 

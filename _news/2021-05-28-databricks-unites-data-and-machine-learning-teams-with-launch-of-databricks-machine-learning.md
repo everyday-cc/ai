@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-publishedDateTime: 2021-05-27T22:11:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
-webUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
+excerpt: "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ..."
+publishedDateTime: 2021-05-27T21:39:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430"
+webUrl: "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-    width: 1094
-    height: 576
-    isCached: true
-
-secured: "RHkoq5XAposSQ3/U/r3cBr65F4GCCXqCmZFPuvir7Vd2KMVDKTJtXflAuYdVuCP8dqVDsKFcK2T/cW6BiD99ZiRJyXPiIm+P+ag2dy9HZo9OmatzKTecbMsP36LvpWL9Qtr5GqTY1HsMOsdu65MV4ZHMelJJ+WjVUYNDqm0ZXhZr9ZyTZ8jiI8kKZzs0VpTs/T+N3KMAwSSxEj4pOeiSDKx0FcvQkLifBDpe1IFKIzeYFbAXdorJ9Jc9UnhbYLnOaeyT6cCOYqWLefUhIkPWYwc3EEYMCNWyKry/fmL07BoNN1dIbhRK1mAS1bUe5tdPFWa4U8IcPVy0jLs+jh4gsdJpSb9uVaqk5MJLyci+FtQ=;zT0TD+q7NjlI0cinMwQnTg=="
+secured: "uvdbR/HBDcirHs1rVQsrwKP4yRiXO5GZ8Tbi69Q+tLiPxxCxkKIZKwIFcyk0s28opan9KU496V77kT9fAoiqqqlJCwX2xqJsETOHtEmYTjkt+paMWzq+W/J62X0xPhdof7yyoqYYRN1Inac1c8g2avRa69V86F/zbK0ik69Ftf5Jm/Y7zN22R2VQBBeTYC9zAUUAjnCCIr+aur2yYnY/YL4N+8kCCWRBvUpLXtUJX4ogpZG1HOeOvRxLx6qR0pCYfFAp3EcWMsP3F3/38VPA1R8ZXRIBMLME2aFNQHskj3Dri+Ccwp8H/4D38Lt7oOT20dq/NoaMTdfCUk3F/xoJiQ1HcEpGdawGyAA28GREHAs=;KzaHnMmv2xFxo4RxBzLheA=="
 ---
 
