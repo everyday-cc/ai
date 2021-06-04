@@ -1,43 +1,43 @@
 ---
 category: news
-title: "Machine Learning Predicts Dialysis, Death in COVID-19 Patients"
-excerpt: "Researchers have developed a machine learning model that uses predictive analytics to detect risk of dialysis or death in COVID-19 patients."
-publishedDateTime: 2021-06-01T17:00:00Z
-originalUrl: "https://healthitanalytics.com/news/machine-learning-predicts-dialysis-death-in-covid-19-patients"
-webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-dialysis-death-in-covid-19-patients"
+title: "Edge Computing AI Chips Market Exhibits a Stunning Growth by 2027 with Covid-19 Impact"
+excerpt: "The static and dynamic elements of the companies have been combined in this Edge Computing AI Chips market report. This study report examines the competitive dynamics of markets in order to comprehend global competition."
+publishedDateTime: 2021-06-04T01:36:00Z
+originalUrl: "https://manometcurrent.com/edge-computing-ai-chips-market-exhibits-a-stunning-growth-by-2027-with-covid-19-impact/"
+webUrl: "https://manometcurrent.com/edge-computing-ai-chips-market-exhibits-a-stunning-growth-by-2027-with-covid-19-impact/"
 type: article
-quality: 39
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Analytics
-  domain: healthitanalytics.com
+  name: manometcurrent.com
+  domain: manometcurrent.com
 
 topics:
-  - Machine Learning
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
-    width: 690
-    height: 400
+  - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Monitor-Featured-Image.gif"
+    width: 1050
+    height: 600
     isCached: true
 
 related:
-  - title: "Edge Computing AI Chips Market Exhibits a Stunning Growth by 2027 with Covid-19 Impact"
-    excerpt: "The static and dynamic elements of the companies have been combined in this Edge Computing AI Chips market report. This study report examines the competitive dynamics of markets in order to comprehend global competition."
-    publishedDateTime: 2021-06-04T01:36:00Z
-    webUrl: "https://manometcurrent.com/edge-computing-ai-chips-market-exhibits-a-stunning-growth-by-2027-with-covid-19-impact/"
+  - title: "Machine Learning Predicts Dialysis, Death in COVID-19 Patients"
+    excerpt: "Researchers have developed a machine learning model that uses predictive analytics to detect risk of dialysis or death in COVID-19 patients."
+    publishedDateTime: 2021-06-01T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-dialysis-death-in-covid-19-patients"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 46
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Monitor-Featured-Image.gif"
-        width: 1050
-        height: 600
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "Thinking big with cognitive computing"
     excerpt: "Global IoT is set to reach USD3 trillion in value by 2020. SVP Li Ruicheng of SAP has the details of how technology and industry will change."
@@ -77,6 +77,6 @@ related:
       domain: morningstar.com
     quality: 14
 
-secured: "dhs0A/5inNZW30+1+kpuXloFTpUMh5fvX5/kF2srtflIdtT4Ts7qTTnK5QA+YfwHy/5G1dcYFfDoP4DQpch7dLABvg2tJw9FBvVOaMlhuy8HON8mMSNWaYW3EuS7yZ6+9sffbnNpFeelVf6O2TBmidn2I0MtrhuCULEYuzi+CxRuXC4WLwSlQBTxBDb+vYSzimp6m8sHONB5Bk7507gFh5OLc8XEZjRAMjsgEOWYXbe8ReTNyc3Y1j6j1RUQGAKEDx21fT6vswFdB17ds6L+0Elk9C8d1jnBt/U4n+1WeLaUgyuTCB+HxXk0yyMxfAbdtuhzVxJYpBgf6/eUMoFyvAzwqJOH3ID56rb3XMqfAxFJ1T15oAxsQEeN1NwY8KHxoBZdC6IvB71trbgYM7GYFFUs4Aw7++0Oe9V4v9dXSaytN4NTaqkJI2ToFHw/ZlR/ZI+z2vOzK4qUaGZe3GWtF48PtlMDIogK2ZdnAGJErDXDY9ZcFmg+2xE8d3IcMA6I2WNT3lpquOHXOtUfLo32CQ==;qHBEF/sFbwxY0CsRJgMwRQ=="
+secured: "Bbkx87CMfwQUSf18j37HcWjU13EqMCMdguuhd7b0QIVeSskNY9Svpu83TCmvhAZtJ3jXOoHxfnHVe8Xcp7HJbhIzh7EeHo5x8A7w9iUNn4uMN3ZApmGxd2F9Q6x22otP5c1HRpYHKPURcWpGEFgOLjGbHwcPlRtj15t5PsXBWHiOd2/spAvgoKbpEI3RBp5+qBpLqntY4cc9WZjoYB5XYUIezx6JmkNyIOndrslWSKbQ1tW9YEuO2fnF5sAUun+M8DVzxYZboB/tcsr9qDsreDS54ktuSXoG+cedH1unKu//GKyVk35xJvKYSAKunVMoLLoGEjPPJ6meXFAn3mq6HGilHzRpMRNm8ibCZtECwDA=;dK2wvwWrT5vRulA6WnuSVQ=="
 ---
 

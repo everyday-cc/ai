@@ -170,6 +170,20 @@ related:
         width: 1440
         height: 700
         isCached: true
+  - title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
+    excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."
+    publishedDateTime: 2021-06-03T23:05:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1003020341"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 39
+    images:
+      - url: "https://www.capradio.org/images/share/placeholder.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "King County Council Bans Use of Facial Recognition Technology by Sheriff's Office"
     excerpt: "The Metropolitan King County Council voted Tuesday to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments."
     publishedDateTime: 2021-06-02T15:17:00Z

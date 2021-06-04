@@ -1,26 +1,26 @@
 ---
 category: news
-title: "King County bans facial recognition software in government agencies"
-excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
-publishedDateTime: 2021-06-02T00:37:00Z
-originalUrl: "https://kuow.org/stories/king-county-bans-facial-recognition-software-in-government-agencies"
-webUrl: "https://kuow.org/stories/king-county-bans-facial-recognition-software-in-government-agencies"
+title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
+excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."
+publishedDateTime: 2021-06-03T23:05:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=1003020341"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=1003020341"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/8920668ed5552ab64a68db6c2b883247.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 837
+  - url: "https://www.capradio.org/images/share/placeholder.jpg"
+    width: 1200
     height: 628
     isCached: true
 
@@ -128,6 +128,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "King County bans facial recognition software in government agencies"
+    excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
+    publishedDateTime: 2021-06-02T00:37:00Z
+    webUrl: "https://kuow.org/stories/king-county-bans-facial-recognition-software-in-government-agencies"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 39
+    images:
+      - url: "https://kuow-prod.imgix.net/store/8920668ed5552ab64a68db6c2b883247.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 837
+        height: 628
+        isCached: true
   - title: "King County, Wash., Approves New Facial Recognition Ban"
     excerpt: "The King County Council voted to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments, citing the technology's threat to privacy and history of bias."
     publishedDateTime: 2021-06-02T16:51:00Z
@@ -155,20 +169,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/a69d779/2147483647/strip/true/crop/1000x486+0+101/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7d%2F97%2Fbba0ef014d3e8908a5647b7bd3f0%2Fshutterstock-299881847.jpg"
         width: 1440
         height: 700
-        isCached: true
-  - title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
-    excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."
-    publishedDateTime: 2021-06-03T23:05:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1003020341"
-    type: article
-    provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 39
-    images:
-      - url: "https://www.capradio.org/images/share/placeholder.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Washington county restricts facial recognition use by sheriff, country offices"
     excerpt: "King County, Washington, home to facial recognition-providing tech giants Amazon and Microsoft, has banned the use of facial recognition by local police."
@@ -247,6 +247,6 @@ related:
       domain: kingcounty.gov
     quality: 21
 
-secured: "hH5NZaAnQN9bZvjqTPx94fff0QC88yPScRnnbg2Us/bIbqPTM7ABxYdqJLwQ62qg+DQxvkf7GdohKGiwrJGkaFpJLj4Av2J7SVJ5Tgs2NJdfg93RDrrEGqXp91Di/UqTxoizSxZGLHc4DgVRL24IZzX7gvGehNIeNhgEyRxS9d7WLnaSnSuIYYEzfEqV57U6DdRJI89T9uyjTD+fAxlMU5Hd1cy/fvTxe96Ycm9r5MZgGvTjpcfujQt8SjbGh871rB9uqHZDOvCbuSMgNrC33k8d1MhOjtTLr7gAgPo5Tr22rbiY3AEDcDUskLuzW0S9KjUmVV15kyIoZylYbtmlmkuru6Zz66tZ8Z3xrETjent1JV6IQmOh+lkvopcqhygOYyXo5SgxEHJ4OXEnGpAL5DsR5KDBKbCVgwJdyk4WpXsUdeiHw4makZHNw+jixCtSgqjACUjVBucLV2J040uPBQ/IJF6UOvcZ1hiN52T0MU5Z2EeCP3dUIaR9sPveXoPBYDtU9U31hl+J916e7XSK5g==;KZscueOE1U8H/hNNUCyLRw=="
+secured: "8B4KXef9IOsCzuVJ3QMbLQ7mCH3Pji6yc5I4BULwp6C1IFaiYFPBtZsfT97hnykNIxikFse0zgRmp8f7QrYkfdI9na3yZjaa13rTABTy1eZb5i8xmfSprrDTyygo8UUsEZJod0Tsfk0p8MQXcT/y0TXKrdTJ3yYkE0EYxxjsFWDZjF4JTE7nBzDMpp1o0XHkCfqpplE4veWSqeZ6kkOzLwL063DhsXfhoyR+rs7geyoxo5YhkaP8fhjT3zVAxsb161MJh/u8updcrRFWHA/KiI8kLQZnyxhYZXThoPGfA4kC4OrHodzU1TIlJnzYVEExliJyWZtXm94mXY9ju14aTnyU+tRllGeMaVkPNKq6U/w=;+vfCWxUUbEuG4k775GNunA=="
 ---
 

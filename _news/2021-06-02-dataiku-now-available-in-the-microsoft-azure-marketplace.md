@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-publishedDateTime: 2021-06-01T23:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+publishedDateTime: 2021-06-02T02:40:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/250000"
+webUrl: "https://www.ryt9.com/en/anpi/250000"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+    width: 800
+    height: 338
     isCached: true
 
 related:
@@ -207,7 +207,7 @@ related:
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
       name: TMCnet
@@ -252,6 +252,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "SksGtsoe9+cnqFrRRVZo/h1p7Y73h6URoNCPuT7oWZ1hdmgsO027hOBCkm7zWQeoAH5QC2ZyXMZI4v9yJ8QxirIYnnPinUIvi2Gp1FA8Z0hYfovtfnX/EjFdIalebL3AkYart+1hnTkCzetFaMjPIjEpkDdGSB/U4jXKfQXVs0fkfjpL1npurXys8Vxg4PxiLbuWGqDGpw98Yd365vwOIRWAQK/2g9s56zO1rzOaJdZCpIxKbv19KmTUA7tk7a4Raf1dBx3RpkW+S5CxFCwX9INL7AS0tavg1hQ+HmZZTxOAan+sWygfO6GBCENlKjNyffP+Y/dWxl+SIlkkVaMlAnbXgqdm9n5Ls9ONkHiBmzNCLUbpG82psLdWgMqccly5OBn6fDcLnM7zl4OGCoHrQMKOMd6a2/SBEYBvcu3g5mwdnSRjuwJk5gElc7FN/pSAWfIgH+6+AIukmrHqjSXmRXE6yQVaDGzH8iwb2pHLzVEDV18DLMqFEKTsKpt3lnOiT++QJqiV9LEOW1RNN6Wjbw==;DuXtpMkZGwEApf499lKvgQ=="
+secured: "8gB35EJUebVRy6KPIq+5gxP4B72SzAd/GWfb/DPuUHpGGmA1GTiAOlmO/LveH4d72JWN7nNFOqbEZSpimnXys6xSd+rHBfRy0oKAgMDKucXGDH6AByTo6u5xr+JPD4pD25wjV8KTrgVV8Gf1zr45bpuwnzImHCgiw3nuU9YXEAB+dYxmtUmeM+JOU9eGstQ2glrfNq+JscBruyCKUpBPtT3lrdDUAsMH0vaiijmc2VrXlHhZuhSkVqUEXz1geqcfX/v4XVhWsLGplvV14AMR1dY0EhTiL0XI9qDqx+h3DXQTrOG33nc0C8Bk4CLNLRcZLjvnuf7aRlPCDdLm72yz46taNDv0tIPHtMwJ5VIlcSA=;zv380wf03/KhUyrRkDZB+A=="
 ---
 

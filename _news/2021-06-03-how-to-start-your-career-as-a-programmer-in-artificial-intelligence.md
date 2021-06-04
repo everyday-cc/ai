@@ -1,28 +1,34 @@
 ---
 category: news
 title: "How to start your career as a programmer in artificial intelligence?"
-excerpt: "In the last decade, the demand for artificial intelligence programmers has increased exponentially, both in Mexico and throughout the world. According to Gartner, sectors such as energy, retail, financial services,"
-publishedDateTime: 2021-06-03T10:47:00Z
-originalUrl: "https://www.chron.com/business/article/How-to-start-your-career-as-a-programmer-in-16221260.php"
-webUrl: "https://www.chron.com/business/article/How-to-start-your-career-as-a-programmer-in-16221260.php"
+excerpt: "From free online courses to specialized trainings that provide the opportunity for job placement, today there are different types of learning available for you to start your career as a programmer in artificial intelligence."
+publishedDateTime: 2021-06-03T06:27:00Z
+originalUrl: "https://www.entrepreneur.com/article/373586"
+webUrl: "https://www.entrepreneur.com/article/373586"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/373586"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373586"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/20/30/77/21073870/3/rawImage.jpg"
-    width: 2000
-    height: 1333
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1622658709-inteligencia-artificial.jpg?width=600&crop=16:9"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "6x57gNuov5cgfvCXq4vzMItXbxLNwcQHftgcLEYvzNr7U7ia9jTECk5PiinmuTmQMw2nW3hKU8Wip3ev/pBRw+7LvldsKRKzsVFC/G4T5nxAnt1go5f3Ym9QmarqfLMC2OZsadMICSvkMnNJShavhv/uQzFdrP0xpNJZjPZxhxMc/CvfmxuffrlYx6wr8tlb50vvw9F4aLR6BJKRqu5KKeUShQjk1opEXxBZWMBPUTWqIkBk3yE2GB8Ay9mGqx3zwLkZQWSIiYBFENAWNnPJMVkAyTstWmZ3H0Fs8LnsRLL7AivxQdjZdqScsv7c+YiVyZUaVKVa9f35O1mGqryM+pMyisBzjmyvhbE31aV3rqNKgxTmC1cC0soIKgJIDek5yaH9miQNJQtYfKvwmK34I9Hn0QkKMs08nkaYHPH8ybObT/1BxnKGdbUMWkQVXVq1w2/M2xgzSyBknjONA8qwWOThD2FnLFny0rJ2mrbq+TR2iITrA3oYi3whCYM3LqAh1WTaRnD7CP6hzHgxYJnKkA==;oXYXnTyz//RFBCRsCY7L6Q=="
+secured: "cDNiFwo6Z6Y0NTL/vjf50lEEnA5DZphYg8oRJzKds5gYahT2kXgzienQrtPQ+ph6TjmHnLG+RjR2/AAPC0roB/k07zMLqTNmG94FzVSfcoxV+CEIH/0DxuHLi/4nQXEg5vA7rK3Dmf9lEaXQJDwJS3U3k/6be5TItGeF/EXMQOYk/q0a+vrVdWHYMPWJciCB5qk0lY49B3qwGj6XzSCllxZMIDoGzLq61jXoSPQc+O7wKTzDy391/w75knFb9VLT0o8iqcOwgvXhyjQmkVnBIoOPPV3oLK+37iQ1TNpWi75nP4ac6Q5rMFWxgkwsK7uRseiAo7V/9cPVqMOW54GmvaFR842nsZExhQkD119qezg=;Ua5RNTaeXVAHah9oG/brlw=="
 ---
 

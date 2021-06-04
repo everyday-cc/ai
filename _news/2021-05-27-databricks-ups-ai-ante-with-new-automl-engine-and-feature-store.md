@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Databricks ups AI ante with new AutoML engine and feature store"
-excerpt: "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike."
-publishedDateTime: 2021-05-27T08:30:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-webUrl: "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+excerpt: "For the developer crowd as well as sophisticated business users, Databricks is introducing an AutoML (automated machine learning) engine; for data scientists, the company is adding a feature store."
+publishedDateTime: 2021-05-27T15:30:00Z
+originalUrl: "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+webUrl: "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "z9ddK3jVF/rWgbZeP6EX6BQaDH8qQ191PLsj0WY+YmVrnD7TSqht3qgiCCIxePOjgeWHyhdVl2VML5crOCKllxXQSyx/OHlJ2MQ1fSuXZSFSfm6E4K5VeS0kwPBJC6eavJxjtRzhQ/qiBqTRo2Xq6uTLaVzEsdaLtpW5EiU4h5pkI1aUKzY6kf/s6LyDQzqjxD5mdFMIV80QYT04lF/HYLCURIDWEQW1xd12w0aqs/JnXgz8aFEo4VGEZmF5GctXTLvc80B45w+nG4611d0/QXUfP5xE226tnhoYBxjvEWeFuc0zt2uOnRMRrZXc7v0C4qE41oAsR7+iIdVYb6G6U2scX2SQEOyxq1RevczRV/gK2w9k9Za9XoLi5vGNZm3jrLHx3e5X6gKQHHmfapt2Ug6W1frFMsNRu7W/7WauoW0uwMRRlPi0P7a7yQ8y/lsQlJ1aC9vGKISF5BTpALDSBX6f611Cz1/Q2ft+muNuu9HBlwITK1cVe0tWF+XBy1g2XNVwQTzs2mMgmYoIkq9Y6A==;/cT6K85lNlVwQcs3vVrICg=="
+secured: "hsPDUiaDg3ZbJ5MBqVWSTMScYSt1PD+ORpu6YjFoTeJZHaGHTCgjcABUxqwlo0maLqPTICp3p6wtq2LMAwtVyvndF0wZh4m2di57GHXpi9FOobLhsvlT9Y/ppss0N9wTYAwqBPZqWSY2TxBZV5xAh2GGXknXWqRJUC9SQ7l16nn09FC56vpQ1Nc93XICKm1C7WVitI9hFB/bW28TZd3NDo40sVPl2ulZ2nvDTqD3EXrI1hrjDEZepQNoeEXgbWdf3RLjQfPnp8iTHoQH7B3rs4xja485xgk63LxJomvM59v355QAO7cDJNSzyHZtCBntelH49iB/ahUtLo6mKveu/hqLV1ibycc3ZtaNL0UMkqA=;+HoHUiIuE1j0LZvkUg0Nuw=="
 ---
 

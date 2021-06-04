@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-27-openai-fund-of-100-million-for-ai-startups-with-microsoft.md",
+      "title": "OpenAI fund of $100 million for AI startups with Microsoft",
+      "excerpt": "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
+      "originalUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/",
+      "publishedDateTime": "2021-05-27T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-expand-pentagons-chinese-investment-blacklist-says-new-report.md",
       "title": "Expand Pentagon’s Chinese investment blacklist, says new report.",
       "excerpt": "Washington has restricted trade against more than 40 companies linked to the Chinese military, but they’re just the “tip of the iceberg,” says a new report.",
@@ -40,49 +83,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
-      "title": "Databricks ups AI ante with new AutoML engine and feature store",
-      "excerpt": "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "publishedDateTime": "2021-05-27T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
