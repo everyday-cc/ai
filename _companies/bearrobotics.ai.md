@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bearrobotics"
   url: "https://twitter.com/bearrobotics"
-  followers: 343
+  followers: 345
 
 size: 11-50 employees
 yearFounded: 2017
