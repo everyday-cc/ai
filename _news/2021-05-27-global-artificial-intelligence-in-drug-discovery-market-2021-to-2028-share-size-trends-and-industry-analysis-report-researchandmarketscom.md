@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
-excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-05-27T12:59:00Z
-originalUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
-webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com"
+excerpt: "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2021-05-27T16:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210527005561/en/"
+webUrl: "https://www.businesswire.com/news/home/20210527005561/en/"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "kMUcgaZ0blCEkni1VTQNM/SuA/TigRUOjLb19Y0VWsV38FuKJXCbrjaTHhuJk4ubQ5Uw3/CKxXeBNZfQIiTz9EynJ698B4/Is4iB7G2qbsK4MTTrkAFf/p7hHCYZlD97Ujbg40w3JKQyOp8e5jMqLUXhYNWdpI0Sl5gSICrnGP2MNYk34Wodpd97j3aUTDCFE2zXvoriyB87AXNe/wz8YCZwFrwBQu35kAVLVdgoXNArGGDqyRSNqgdGZRo2vnJc5bHQDWBP60B8j3e4c3bBp2za06HOTZJQnwgbtR+s232lA/d30lsF/AHgvCPjTDGNoyxSG70+jZFrcuSAQu8yMxaXR02+b8Wa4jDjlIvIX/M=;pqYNDHCalh2UcMm75d/DKg=="
+secured: "BeuFBQWBA8OmkSRzY8Ext0M3oioMrAgSAHeFbGp5R23zLcfZ2w00ZxjZ+9UmsyImaUsIDtavqEEdst3EsB6en6a4Ko7WNDveKDavpc1iyHrZmieAHON0XkaQI13X9jmlC9W7TfwEGIyMGYxCwbSdHvBzb4INuxjTDquhYy8a2Ii3t/1jbnurhuHoP0IZ2kWFMlYTN+tulbtx3MMp+1EtkGwg18y6slh1McXinZVnadSPYrokaHleYgTc2E1qfc1ZU+HiFf1s3QkDoUmyKdNTEGMCOVWnzufaNn6J3ZjYasfQcCZCcajLCFL6BqJSBhkkIqaLL+N14CE91sNXVTFaXAuAusQ99RgkmC2UabijEvw=;IMw+Xl+WYUPRU5TK0tdc6A=="
 ---
 

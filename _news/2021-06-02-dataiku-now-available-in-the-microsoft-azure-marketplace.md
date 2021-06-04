@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-publishedDateTime: 2021-06-02T02:40:00Z
-originalUrl: "https://www.ryt9.com/en/anpi/250000"
-webUrl: "https://www.ryt9.com/en/anpi/250000"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+publishedDateTime: 2021-06-01T23:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: RYT9
-  domain: ryt9.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
-    width: 800
-    height: 338
+  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -231,6 +231,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "YKxY1U1dtMWUaz5y1hwU+8/sEkSzLukbWEMOeH0jA4CULXXOe4O+jxpH+Yb0kw6TQ4kgtXz0PtbeFqNB/6Xi6Rcj0wTOmkaZk0fRlq5jbhQTXjlcIwfTvTvxYY446vJVIqhqKEK/B6JIfOAQ6qw/MMY1xJUi/7Xlohqi0FxZR42lLCbX5ANVy+Gayr3q4L3L7R9qF9ren0YBIJ4CFx23WX6gmUCpZbeagOk0I/ILKwHYtK+wAnJes9RNFvhu2vgdL0sLUZaiK+DehsaLXfbBBStOla3EOzDGEZ2zg0uXaHa43/spU6MeAaIZlRMGICKWSup9GJgcS4TI4wYCx45Qv9aTnGggw6SMf/ZsLpfIrnH98VQRNRxmpkFkKas52C9kMaaMl1dVeBo28e2Noz+PK/7E63vPoqytDDiB3g04GM0vB4FmhYiUJI4I6+J+Oaov4NAnxw5D59FEDquaQIDKcNADIwovUxi6IEoO4j6oI5L4q23G+PdmKJ99xkdY5nuNKumDSV/SY2wPq3OA8HZzKw==;v3UTZ7qOSZjkS72jD8I1Ng=="
+secured: "wTubJSZYwq+bmgeJ+bNvZ6RMuXu/4aQBdgWpX2sFM3Mb422oBUletP3Bd30R/Ytx73kQ84yd+PKAEOMWtzJ8i+VQQYdYZ/IlXcIZHeZ+STmq1NXt/4QcbKcqqF/nPN9h9MI7kHslVhVeYDjcGg7DkHs0NPbrVIbz3Kl4wSoOMKWYXW4d4t0yO2Kv+Na0bSW0HKkwi2JHQg2jGL+J41h7+IA2tS0eKEQ1BiooxjXobWUjVBpqiTRJvD/O2amPXPEwMxUOpDdYYbYhUMbvQzZGzWpFFinyA5WUbhuenZzHGQq6L8eNwLVfqZ8LNUPngLAv+hqW3F94uFVp5AkXe07Dl20PjnqDV2DuE2AtorebmkE=;2Bs00yAb5xGNtSXPRh4Smw=="
 ---
 

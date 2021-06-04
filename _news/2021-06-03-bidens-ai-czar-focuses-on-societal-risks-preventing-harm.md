@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Biden's AI czar focuses on societal risks, preventing harm"
-excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn"
-publishedDateTime: 2021-06-03T16:11:00Z
-originalUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
-webUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
-ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
+excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pullin"
+publishedDateTime: 2021-06-03T16:13:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-ai-czar-focuses-societal-risks-preventing-harm-78066251"
 type: article
-quality: 59
-heat: 89
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904"
-    width: 1024
-    height: 904
+  - url: "https://s.abcnews.com/images/Politics/WireAP_638923c36dfc4347a4800bf6940f183c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -43,22 +42,6 @@ related:
         width: 2000
         height: 1765
         isCached: true
-  - title: "Study: AI faster, better at predicting successful radiation treatment"
-    excerpt: "In another win for the robots, artificial intelligence is putting on a lab coat to outdo doctors in radiation therapy treatment."
-    publishedDateTime: 2021-06-03T19:45:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1061622739992/2021/1/81fb8d912bcb9af1dbe5cf47a91b10d1/v1.5/Study-AI-faster-better-at-predicting-successful-radiation-treatment.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "White House AI Czar Focuses on Societal Risks, Preventing Harm"
     excerpt: "A computer scientist and pioneering roboticist, Lynne Parker now confronts the promise and risks of artificial intelligence."
     publishedDateTime: 2021-06-04T14:56:00Z
@@ -74,6 +57,6 @@ related:
         height: 675
         isCached: true
 
-secured: "vD53j9QzjtrcYA0SNXIKEp74D7b2YRypldceGtWMRJlnnwKe34YeAUDdma8RwOiDSxbdzOrTW8CkS0cQKJTNQAfV95yws4vUjKlHfJlcggiSljYc/OYeh4/XYyB5FzUgxWyG/KdlksR96U5HWaue+eHYeewNpsvTv4kECTZxuwLKQZQRfQNcIh+73/ynpTR/S+ovvWvUQq/k/QNO0flclrr1re1/8qhTOaG2zyAeaNsvJMOeJSUqUwQBdHQiliPS6xES7GpIdY9h1M40Bg4RRMAye+IQZfFFItqTewVttP3cfP527omOM+7PxVDLySw7jNdg+5GBkrzF++1Vkt1B4t92CLvb93G8SnrtKOTldhA=;Dhul/oixb6s+s58xkdPk2Q=="
+secured: "EzzaDIq0aTSbc48KpVzI7Ug+EUHhZ4iJJ096V/RXBvYx6LymNr4V3JgRpcdrzLc6P+w2Dg539JW5msCx6cubyWUWg10x1iHdbfxvnEl06uMXMuRfN4TxiS8mFGRP4gYNNuPt3wxkk1v8kpcQJ/6gQafHiePAvgga0kdzpKrQTRFRpeDqorZ04lDDCwjqtBxPHTu7whXhb1BrKzteGghPWMIyY1x3nOtdLTZKSuXSDGVorejHeDjGPHCaOVZ6OR101RQE1pHBeZ2QyfRxndDq5SFIFgPTtGWbFcJ3c5fqP474Su4N7Kxm9iTmCTnZTYLz0iyd5RobOjFesTYyq5nO7DWDZ+X4gBHAZ36KOwEWu9o=;9rm0q2KSo1AArWJFe94a8A=="
 ---
 

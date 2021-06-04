@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202106/anyvision-open-letter-calls
 webUrl: "https://www.biometricupdate.com/202106/anyvision-open-letter-calls-on-facial-recognition-providers-to-eliminate-bias"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AnyVision to NIST: \"AI companies must purge demographic bias from their algorithms and be transparent about their methodology\""
-    excerpt: "AnyVision is the first known entity from within the AI industry to address the initiative and respond to NIST in an open letter entitled: \"Purging Demographic Bias While Increasing Transparency in Facial Recognition."
-    publishedDateTime: 2021-06-03T10:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383005.htm"
+  - title: "The Biden administration's new facial recognition app for asylum seekers sets off alarm bells"
+    excerpt: "The Biden administration recently rolled out a new app that uses facial recognition and geolocation technology to gather and store data about asylum seekers before they even enter the U.S., the Los Angeles Times reported Friday."
+    publishedDateTime: 2021-06-04T19:51:00Z
+    webUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets"
+    ampWebUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: THE WEEK
+      domain: theweek.com
+    quality: 48
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622837168/GettyImages-1062889184.jpg"
+        width: 814
+        height: 458
+        isCached: true
 
 secured: "tgulcm9FYStnz5Q5n8F4FmuLgpbki3lv+lWjeB1115r4x8lZbe/CzUpITViaJVjaoXDy4FrBXQznzguh6AYXwNXg9rXDOY+bVdhd8EdeTpg1UX/rhmP6dJoK4GkvbZvnEDRRhEFM81tMvoKgEm+n8Hrg+JYH8N1Piv/XZhenmUA8QbQY7ZFQoN/VRwGf8GXaryquNbLkB2JJXBT8XJt2lbIwuVDxXD7PmALr1ofxtZCRZ0K8DdOQ5vRuusea9w/FwpRFhXiFLTGNgZsqVUJF9rE6mxoCRPYlErn+n3zK7qjYW9DbDN0/LSd/UtfafPgDj/QFYUS5jeGmNTsWQIoCAq/UDtkgHMxirVNBeruvgtiolfmeEV7seanR4SAW0P/lArNpswlBX2Xz4d8tIPmIras8OdGemPgzVv9RMQp1vq6H4O/tFF62vg2UAQe6MHfV1HghUmwhu2LW9WBHmvSQSHhYo/CTT4vuww1R3b0b144mafkIRVgEYRGh3JNYJujUo7eYLLCbsRNz/9hrRtDtaQ==;/+1+fRaGC64saIMrRVkCZA=="
 ---

@@ -81,15 +81,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "Global Artificial Intelligence in Marketing Market to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Impact and Analysis - ResearchAndMarkets.com . The \"Artificial Intelligence in Marketing Market Forecast to 2"
-    publishedDateTime: 2021-05-31T04:02:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210531005077/global-artificial-intelligence-in-marketing-market-to-2028-covid-19-impact-and-analysis-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
 
 secured: "y2kKvUxbeWWGY/2fuUHw1VqHMpyyLkhYnYFwf39PDhbBnByP0f0mGJheb/hKxVx+wC2KibttCcxHzSPaXCVz7T6yuFeRhWy+LXRFYyTkghdYFERDdt3jRwKY146Y7z4wcxc7YJQPHvjOuI/68nefxl5e5auvy2Wo0doSt4vDjZv+ncLW6EuZ1nh/df6VgcGqK79NkLHmR+5tXsjXB/ALTHYlgFDJKfDS8nl4ktat7nFeVxx3L0edG1xQjatW8jyrwjcf7kUW5rraO/9AMXcy1oeSvJGCu9/5/JBlqShSntsWuiOKUXplUf2SVgxTIoZqvWQi+1ch7orFs8EUKQ7cf/JWkHdLVhcnoWXnyyeXAweVFSEXsXs9M16JKx+ZzEer8qGtH/nh1+YZG4b2ugqhG/x7kZ83QCWo/ahLI1bMvwBOADayAFlK2YHPofFd4axZ+0CNH1JxNKY5vcJ+Jsr3X1mXP5k1tQrjE+cdBPhu9jnKG5ofCpf/HCiAKtcyDrbHb2uRVa+P9O8aDZOClAbwoA==;/JZLvBz6rvzgbHJT8I+JrA=="
 ---

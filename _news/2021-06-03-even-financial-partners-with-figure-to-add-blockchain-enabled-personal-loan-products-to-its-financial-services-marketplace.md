@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US Senate Innovation Caucus Provides Bipartisan Vehicle to Promote Fintech, Blockchain, AI and More"
+    excerpt: "Last week, an official announcement was issued by Senators Cynthia Lummis and Kyrsten Sinema regarding the launch of the US Senate Financial Innovation Caucus. Senators John Hickenlooper, Tim Scott, Marsha Blackburn,"
+    publishedDateTime: 2021-06-04T21:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Cynthia-Lummis-at-Bitcoin-Miami-2021-600x529.jpeg"
+        width: 600
+        height: 529
+        isCached: true
 
 secured: "iFlQGMXjKctczZPyPQ1GOK5ipPaKtaT9sHZq2KDB0rX1pegdoJJUzUW4JAu/DIyNFsgFMA0QQh25gHTajZRF0QziQS6PPBXXM5jEFIJ1zV7kd79ZbOTouYcToCb1L+ZtJLJ8UcrIpFYdsHO441A6xF+aa4c0W+BVHbu2iX8Eh2LaOW5r6wTJAHB9bGY6uIEmP6ZRbCvnyl8ywkAJlac7uurIROCv+RUjAOXNaRcR8z6nP/iUoVLkLaL9w12u5nhUXtlBUpB1tBl/Khcj+IeOSDkhc4iWFGAyLqyVl1/pUnCdMnQVybHCO2cuXBsJdZxPQHRSE91DUm6RwplpP8sN3rbOKWodCWjlF515nOtEIgw=;VdoAaABty/WDMkQDwwxhXg=="
 ---

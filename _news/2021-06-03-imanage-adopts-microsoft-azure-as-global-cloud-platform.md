@@ -109,18 +109,18 @@ related:
       domain: pcmethods.com
     quality: 69
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-    publishedDateTime: 2021-06-02T02:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/250000"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+    publishedDateTime: 2021-06-01T23:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 69
     images:
-      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
-        width: 800
-        height: 338
+      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"

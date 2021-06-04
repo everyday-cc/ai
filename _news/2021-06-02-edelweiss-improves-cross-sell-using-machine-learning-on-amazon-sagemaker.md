@@ -44,6 +44,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker"
+    excerpt: "DICOM (Digital Imaging and Communications in Medicine) is an image format that contains visualizations of X-Rays and MRIs as well as any associated metadata. DICOM is the standard for medical professionals and healthcare researchers for visualizing and interpreting X-Rays and MRIs. The purpose of this"
+    publishedDateTime: 2021-06-04T20:48:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 112
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/1-1247-Architecutre_v2.jpg"
+        width: 800
+        height: 541
+        isCached: true
   - title: "DeepLearning.AI, Coursera, and AWS launch the new Practical Data Science Specialization with Amazon SageMaker"
     excerpt: "Amazon Web Services (AWS), Coursera, and DeepLearning.AI are excited to announce Practical Data Science, a three-course, 10-week, hands-on specialization designed for data professionals to quickly learn the essentials of machine learning (ML) in the AWS Cloud. DeepLearning.AI was founded in 2017 by Andrew"
     publishedDateTime: 2021-06-02T15:59:48Z

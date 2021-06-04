@@ -40,22 +40,6 @@ related:
         width: 800
         height: 413
         isCached: true
-  - title: "CBSE launches Teacher's Capacity Building Programmes In AI, Information Technology, Batches start from 2nd June"
-    excerpt: "CBSE has initiated teacher capacity building programmes for teachers teaching Information Technology to classes 9 to 10 students. Get details here"
-    publishedDateTime: 2021-05-31T04:57:00Z
-    webUrl: "https://www.jagranjosh.com/news/cbse-launches-teachers-capacity-building-programmes-in-ai-information-teachnology-batches-start-from-2nd-june-158905"
-    ampWebUrl: "https://m.jagranjosh.com/news/amp/cbse-launches-teachers-capacity-building-programmes-in-ai-information-teachnology-batches-start-from-2nd-june-158905"
-    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/news/amp/cbse-launches-teachers-capacity-building-programmes-in-ai-information-teachnology-batches-start-from-2nd-june-158905"
-    type: article
-    provider:
-      name: Rojgar Samachar
-      domain: jagranjosh.com
-    quality: 37
-    images:
-      - url: "https://img.jagranjosh.com/images/2021/May/3152021/cbse_programme.jpg"
-        width: 640
-        height: 420
-        isCached: true
   - title: "Esme Learning and MIT Launch Online Executive Education Courses in AI Leadership, Leading Health Tech Innovation"
     excerpt: "The Massachusetts Institute of Technology (MIT) and Esme Learning have announced two six-week online courses in AI Leadership and Leading Health Tech Innovation that will deliver essential knowledge to help prepare business leaders and burgeoning health tech professionals for the future of work."
     publishedDateTime: 2021-06-01T13:13:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-in-amazon-sagemaker-notebooks/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker"
+    excerpt: "DICOM (Digital Imaging and Communications in Medicine) is an image format that contains visualizations of X-Rays and MRIs as well as any associated metadata. DICOM is the standard for medical professionals and healthcare researchers for visualizing and interpreting X-Rays and MRIs. The purpose of this"
+    publishedDateTime: 2021-06-04T20:48:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 112
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/1-1247-Architecutre_v2.jpg"
+        width: 800
+        height: 541
+        isCached: true
   - title: "Edelweiss improves cross-sell using machine learning on Amazon SageMaker"
     excerpt: "This post is co-written by Nikunj Agarwal, lead data scientist at Edelweiss Tokio Life Insurance. Edelweiss Tokio Life Insurance Company Ltd is a leading life insurance company in India. Its broad spectrum of offerings includes life insurance, health insurance, retirement policies, wealth enhancement"
     publishedDateTime: 2021-06-02T21:56:18Z

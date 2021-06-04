@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US Senate Innovation Caucus Provides Bipartisan Vehicle to Promote Fintech, Blockchain, AI and More"
+    excerpt: "Last week, an official announcement was issued by Senators Cynthia Lummis and Kyrsten Sinema regarding the launch of the US Senate Financial Innovation Caucus. Senators John Hickenlooper, Tim Scott, Marsha Blackburn,"
+    publishedDateTime: 2021-06-04T21:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Cynthia-Lummis-at-Bitcoin-Miami-2021-600x529.jpeg"
+        width: 600
+        height: 529
+        isCached: true
   - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
     excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
     publishedDateTime: 2021-06-02T22:40:00Z

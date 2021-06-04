@@ -24,6 +24,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "How fintech is fighting R&D attrition in Canada"
+    excerpt: "One downturn stands out like a sore thumb in the Organization for Economic Co-operation and Development’s recent assessment of Canadian tax relief for research and development: From 2014 to 2018, the number of recipients of research-and-development tax relief fell by nearly 25 per cent,"
+    publishedDateTime: 2021-06-04T20:43:00Z
+    webUrl: "https://ipolitics.ca/2021/06/04/how-fintech-is-fighting-rd-attrition-in-canada/"
+    type: article
+    provider:
+      name: iPolitics
+      domain: ipolitics.ca
+    quality: 24
+    images:
+      - url: "https://ipolitics.ca/wp-content/uploads/2021/05/DSCF3065-scaled.jpg"
+        width: 2560
+        height: 1443
+        isCached: true
+
 secured: "SZOTYfvTOkbhji7G20iC7GxIZQRSDLO/IMu18E6chy8X/t3DHl2t9sIT5cpQXtl2MluHEas8uBq0cnBQjtC+vs5zvoezDip2+Q4WxDrBfLSmKMiTKIk1tPmlXvw4PO5NJE4a6jDL4bPTQ3G+x1A6hrMG2pikziS5fbk0w5cV1djb4F6qxnP6A7iGXm98q3QL6EkRWg8IWLUSiQO1ghSfFQzx5NjGZRzbBfM/JVz2Pe43A2n9h/L7YOAvjEUeidCieCzO3eFzLCMKbApp6cm4hxeRJv8GhepGSMCs0nevfKcIsVPfM+9aPlayL5S3jLjisAeVZqB2d8OYfuOIGA6Jdz2oXd3t7xat/9hpPLVI8iD8R8mDyTQ29hxc8V2H1oq3ONgMWsOh2KNeexBy8/SRg0z3bJGG2JmtxAYPMzW02A+DdR4JftYgbRLhpOWiDK+jB0NBQ/DBv6epvrZ2hlbMJjYhpTDiEryx5E85KhtjdgibS4CJ4R0iAXvIcEhlpSMAdY6BkapJcbFrwlQbKHemJg==;R8BcLLMIPACH7/VRn17Udg=="
 ---
 

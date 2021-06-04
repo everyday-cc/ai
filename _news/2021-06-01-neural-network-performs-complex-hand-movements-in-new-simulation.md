@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Neural Network Performs Complex Hand Movements in New Simulation"
-excerpt: "The movements were simulated on the EBRAINS research infrastructure. Credit: HBP/EBRAINS A team has produced an app called Significant Otter that allows couples to communicate with each other based on their sensed heart rate."
-publishedDateTime: 2021-06-01T14:33:00Z
-originalUrl: "https://www.technologynetworks.com/cell-science/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
-webUrl: "https://www.technologynetworks.com/cell-science/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
+excerpt: "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations"
+publishedDateTime: 2021-06-01T13:54:00Z
+originalUrl: "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
+webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "+jBu5x71h7dzp9vKaBOBEWtjnNlKFYn4z/I8a7C30zPHzMwV62W5usztiHilKlvVeTYjg5ZSF8tcxOvb5exfcKjMqbSYbAral4UkXhy6iKj6X8Zbg+9LcP8GXkxZkyShZ1KjpfGxRb3qTxSbLLNkgFV21zXrTemRw46nw0cIAqRjFmwYS4pOBQU9EFeF81rdrbW1OMGUTePa0POKe6ph3E8dTDyu+mJAPEbhxsp+mK9TrWZ/A9vPTp5odUeTVucCrMIFefSYD+cBdaLd4rKN5eHWQVuGfxGtzSMxSboRPKj7qJ0nbLDL8LDkDr23dBFcIyz9uFP8PUyJUOt0aSIY6UmmMnegQ84Mzl230kCgi9E=;nXQd+GEAeIMGMG3lr1rmEA=="
+secured: "PxHxPabVaTlPulXY/Ez+eTgxmwx5OjKz6WDSGyjnHG74wajKev6IRTnnzG3uYwSz0hHnjuOZ4CMoGkFyI9H8jcQCz5QkeAtumOM9wrzLBnKrJ/qQ1E15KcoO/b3h3uP4zqfACUpu1AEuNtrHJc8iOBpF887T1sCumU/4mwzM6tQKXsn2Lom9u+vRURfzfGI6NOaDYDbKyn1GEwZ6v649OLRO12W85xmYC3TrbG2kO0GmOUfu7wF33kbxBCKKAaPwmaxLhJ15BKaeol7+j+f1IkMLKUj2s+16nJhZjMDOSa/8vme55qq8KeWmqz3vJPyk5g4Y7SxmqAu/pFyALEecJcSG7LphAItsnhA0WhxCcCo=;rgf6crfDichOzjP4vhnmtg=="
 ---
 

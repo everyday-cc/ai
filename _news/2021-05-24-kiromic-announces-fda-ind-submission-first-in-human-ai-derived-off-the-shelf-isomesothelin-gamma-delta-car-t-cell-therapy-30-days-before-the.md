@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Kiromic Announces FDA IND Submission First-In-Human, AI derived Off-The-Shelf IsoMesothelin Gamma Delta CAR T-cell Therapy, 30 Days Before the End of the Second Quarter"
-excerpt: "Kiromic achieves key milestone for this first-in-human Phase 1 clinical trial with a target derived by Kiromic’s AI platform. HOUSTON-- ( BUSINESS WIRE )--Kiromic Biopharma, Inc. (Nasdaq: KRBP), an immuno-oncology target discovery and gene-editing company with a proprietary artificial intelligence neural network platform (Diamond AI) that is used to develop novel oncology therapeutics,"
-publishedDateTime: 2021-05-24T15:55:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210524005256/en/Kiromic-Announces-FDA-IND-Submission-First-In-Human-AI-derived-Off-The-Shelf-IsoMesothelin-Gamma-Delta-CAR-T-cell-Therapy-30-Days-Before-the-End-of-the-Second-Quarter"
-webUrl: "https://www.businesswire.com/news/home/20210524005256/en/Kiromic-Announces-FDA-IND-Submission-First-In-Human-AI-derived-Off-The-Shelf-IsoMesothelin-Gamma-Delta-CAR-T-cell-Therapy-30-Days-Before-the-End-of-the-Second-Quarter"
+title: "Kiromic Announces FDA IND Submission First-In-Human, AI derived Off-The-Shelf IsoMesothelin Gamma Delta CAR T-cell Therapy, 30 Days Before the End of"
+excerpt: "Kiromic achieves key milestone for this first-in-human Phase 1 clinical trial with a target derived by Kiromic’s AI platform.HOUSTON--(BUSINESS WIRE)--$KRBP #IND--Kiromic Biopharma, Inc. (Nasdaq: KRBP),"
+publishedDateTime: 2021-05-24T11:55:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=473933"
+webUrl: "https://us.acrofan.com/detail.php?number=473933"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "0V164f67aPTVbxdVwz2dktyMfGnyF0aGPkM8V0xn1R6sdlt4GE8mvBChipkCxPbW2a6vT3GLkKcl7ozQRgq25rmFIBHjXNdZTvPcGbaEUOfLFDIOvVVcNGVAD3jnWpYy5sf7htWlFzuS0Sc+ICCgC/LHJ14i7YwNS9SBscwH4n1D7Gnh1PtBmmoe+txRpO0yLzfT97ImYcjXtRSxpOnFynd+WsUYv8npebHW4nfGfqw2peLs8SYZbU0k9kctsfsVQXq7G2eX+NwQr7fWvRWvsWxXIbaFnYUceUZwvo6+kIZTwK479DqV9+3KhI+wlvpxX+f1ZYoN+UXzTJRCjjz/O1+b55+Cizn0b/zBQuGmhgqYdfDukDRyJMbZnZ17yl4DvV7lu3NvjqRAQZKV0J9+3kR1fpsi1yKBNXAulxFWD/NtMucm4ceqkHzd7WHF41wshIXMrlzOGa5XcJsBW/LmDOgS8mRh6HNA4j/P8iAMkldMWMOtHRGu5DzD2KWvRm2oTPSLDxeCEpHB8Mwd8lIlog==;jUiq0NEfvMfyC/Myr5WNDA=="
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
+
+secured: "L1YamN12mr8GNjCN6xPc0BvoGyOfWoT0Gktb9vuOU8TQxqOdaZHOfsHodGK1MDxuKPUXYw4lXkUCGSiKKLrIH84Z8ssL/YQ3+4Ul81ksvwRkX73pXQ7fUO1M/4oOksYw1wqM2E9HWt6NP9w+GUA4gbfXpAExeJYo8eBoHb6Q2zUoCTuv7gd3MJkIK12tSnARP8kFSkITbFVjA4IIaAaaS2xbgctgDNRXi6upDIk92oL1yt5O5VcxgXoUNvqbJ8D7ihhoyqwTdGT1YlpRI/E9S8zesoa3Ey4EJ5dK6BI9NqmY3uELaASLWCAYhR+7PGWYsRQswfJPC8TBSp/YFdo0MnMYi6n9woJMGjun4SVK/fo=;fq9XFLpB7HzplSddbJjHIQ=="
 ---
 

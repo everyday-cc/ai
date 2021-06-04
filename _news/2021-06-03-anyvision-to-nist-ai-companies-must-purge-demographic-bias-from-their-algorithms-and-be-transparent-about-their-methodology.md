@@ -1,39 +1,23 @@
 ---
 category: news
-title: "AnyVision to NIST: \"AI companies must purge demographic bias from their algorithms and be transparent about their methodology\""
-excerpt: "AnyVision is the first known entity from within the AI industry to address the initiative and respond to NIST in an open letter entitled: \"Purging Demographic Bias While Increasing Transparency in Facial Recognition."
-publishedDateTime: 2021-06-03T10:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383005.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383005.htm"
+title: "AnyVision to NIST: “AI companies must purge demographic bias from their algorithms and be transparent about their methodology”"
+excerpt: "AnyVision is the first known entity from within the AI industry to address the initiative and respond to NIST in an open letter entitled: “ Purging Demographic Bias While Increasing Transparency in Facial Recognition ."
+publishedDateTime: 2021-06-03T10:00:00Z
+originalUrl: "https://www.financialbuzz.com/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/"
+webUrl: "https://www.financialbuzz.com/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "AnyVision open letter calls on facial recognition providers to eliminate bias"
-    excerpt: "Companies developing biometrics and artificial intelligence algorithms must rid their systems of demographic bias and make their methodology transparent."
-    publishedDateTime: 2021-06-03T15:28:00Z
-    webUrl: "https://www.biometricupdate.com/202106/anyvision-open-letter-calls-on-facial-recognition-providers-to-eliminate-bias"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-
-secured: "6wbgCjQw5iKLqhlS9zEKd124+7SHw5H4d6yXVOgWJhPX047bjvA4eT9LYaVgdz4IIUHKqonWzubLG5gXsQB4iZe2AAYD9oUv8bjfNzlSaN544UZh5vRsLXMKC5aPohCTZSgxb7HeKuExZivjJ/eScQYC/SyEGWc9h3p4P+lUbU2njsZRplE4tDX7sJd4ixjjRQIOTEGFk2VzHG5AoVe0ob+Yu2bqXUfR5L1KLBvA3O6jf2VjJtUmwjf/MaXtgPHyMQB4gTyzmRqsZDpPQ2emi6Q9EZl3Nv73WghPPDITL4oT3EBCzfsjBdDzGmR75fb+ZVRqCNEd902unFLIRhF2fze4qF2gVT62Shs4JN5lVRc=;YRxt/XeuEoYVQ+q71FwNHw=="
+secured: "3DmAJBQGP1/T3QdOTmMYceeG9UUtyOl9/+1OYH0lWUq6Q3XfAGBk78cqwNGAOnV1yT/jvrD1X3x7fkcP435+oD22FQUo7n/xn1zFAW7/RsFW17HAuZrHyNd1WRJHmLb7Ayopj6xrBilrSB5yi0GwgjBlGOA8zveV1hRGkVT1At1uS1L2qmaF9tgnHJK9OVxpXFEFjPiJ/kRIZkT6XDOaWAP+0+0gndKpUe3f/8GUy2nRQA3Z+/NeWO2mfWK8WxUnOvKMNXP0q2U6+LtBBYtZowvlJZD5Tnz8+9MVulGpH8KXwpwu51dy+o6NZMS9itwnROTGRjE+l3QsKqPpQVfnC6iJPobmQcP5rtkRooMlKqs=;4BT6o5BroD6ulr0u/tMVrQ=="
 ---
 
