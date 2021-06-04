@@ -1,28 +1,26 @@
 ---
 category: news
 title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-excerpt: "Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
-publishedDateTime: 2021-06-04T09:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology/article_1520de70-d64f-5ab7-81a9-702331711b9a.html"
+excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+publishedDateTime: 2021-06-04T11:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
 type: article
-quality: 25
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa78a8c6-83de-5004-b501-de332a69eeea/60b9ebc250460.image.jpg?resize=1200%2C579"
-    width: 1200
-    height: 579
-    isCached: true
 
 related:
   - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
@@ -191,7 +189,7 @@ related:
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
       name: TMCnet
@@ -236,6 +234,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "JQud7gOj9XX9f+Jj2kMD5NHaV1dpSPjhOiPhZOqczVeTis88EDIRA8lFwh/jf6vosxLlYQVkXmLJ3BYk4uZ/08mqN2bhPSoSVgt3Y12A5EZEIsUNCEUwA4up6r/RH7hsUMOyPsudNceN03HtIOsVwJGisANNJV5aec6xkdBSeldKo/qMJBKFti6WBEp8/BQM6de8djYy+YV3/ZnJzU22aGAMNzMoIhGTD5q0mSE7YA9/470BcmekiG3j9Z0MbsTZYKCfT1MGNqLhg4rBNDcAMWd+nDcf3H8bKtM0rnC+8AOL+KGTPWIBMRK9XwO+CTVMeZXswCAsdSyTX6VMRTogaQxZD7GY6N3NwKlkaSe1EZbTsFeq54lYVjswoTBKugqF2wboJcIzwX0RDjWESZxgzF+d4U5rfOvTwWunk846FIMD5S6aWp5DjBKnZPjFaYrcjase441XjYsZbWsn46mrsW01LN22depYi+jhjmWSmuCt56s7moCBqLGlTHAlT6vUBCVEF3A8FqJ7d+Njeddkiw==;XnDQ2+hfaYVfS0iDEmzUQg=="
+secured: "Yzcm5EcEeZdxIoQml7RJhhHTWqTh3Wu1TmALMjHB++UksIm72eiPAc9hnaPN+u+Xd0J6wpKFwksBAMyLQGIfXgmkbiRhkzz8gcgu2RqL9ZFonXII+E/GbEYFv+pCn+QJbmMSX0liv/SV+FL+FAYWkJx8Fw2Q64yO5uLeZZ/rbhuKuGkNCM0IfEbgSj0MaYeYC7BZNW0+dN2dmYk3OaqKz1WQqeeHR4YgFcnAMH68D8GfpMx6ZG0f4hWzJryS6j+aM0PE+0sSCFSYPi40/HCfw6gtQNEKS+M89QNzow0CHynGyGEsG+gsxVI3GmvpS+HCkYGtx3rlbSlhs6BIEoTDghCNoiwo/dAKYhbRTm5jmvYkA9bFq1Aiu61D2gxzuBwq13AowiRYa1IDo49WSvGNsD3q1fK8e2masyyYRV/6gTis7gok9kBGqehXSS5NXlLavK8MI03ovXoizm/qOO+oVlB2gO+dUWiIbBHnFsCKkRNUB/Q6kjxYBMv5tmaMWVIYI1mL9bdfzEr4sIa+eV3e4Q==;GI8wYXFOHRmYW3zqRZLw5A=="
 ---
 

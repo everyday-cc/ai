@@ -2,17 +2,19 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
+publishedDateTime: 2021-06-02T12:41:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21387911"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21387911"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
@@ -29,6 +31,6 @@ related:
       domain: businessinsider.com
     quality: 26
 
-secured: "EDKc10YK5RnRK7kmncF2RPdXoBZKnxTyUHrsqmrU24JoJv2F6DKcAvfAnlesxxxVqZaQU1O9GT6NsKSydgCao57OcDKlarNUzj9OeF7Dbw5uYFpzMdym+9zlA7AMky58UTk6OpSC1YgNGoGTs37qHeRWS0jetoSlNkPFJKCg5uggjrSqncXa4txbfYDPvWabgfChg6cPOyeCf30cN+JJ8Xo5rWrZmBRcADWG9Is/q8iBZS8OHORMgiRnK12e5I6+NQ9siyIpKydTE01zXKU02LKURr5fL+tIUqNnBcuVrXdfqWjnSJ3wXqmHrC3NI6+FcqXL0IHf8VpedMnikoVz6BVW3nhH7zYYvHY424XxexE=;pHdHDBRxytaQeB5Bzv+50w=="
+secured: "P/P7xRmLRm3FsW3USbCf6dVTgvMKcvvBwu7FtSUbGKBRb1/Q2Mj+L4c8OZ/O28mz6ytIePT8oveMkNPW+wx1A4soKoBrKPjGKL3vOVo29nSxPciG9DnJ8frLdGIXL8ucAEmMV8tOkO2e35Apzky648CLE4/SSKJO/u1RBFXKJTuzym8Jk7mRUa18t0L2Z0F0veyqyjvOHj0kzj2wa7b7x6gNnd4DBNR8nVB0EEsI+jdo/3jMC+FcLmZPc6339MbD/Y4zIbJpgEPOypwSsc5NmxIOTxMuB1Tr0XYLkkOf5NXHbQpKLxeCysXkgfkd/iF9W9AzdY3JxXbCcnNiI27PI7NbLThA8afPP8CJAbTX//U=;dIQFQ8HBgyMVe6ozwAfoIg=="
 ---
 

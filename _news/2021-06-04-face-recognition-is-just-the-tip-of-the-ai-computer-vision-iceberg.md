@@ -7,7 +7,7 @@ originalUrl: "https://www.airforce-technology.com/features/face-recognition-is-j
 webUrl: "https://www.airforce-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Inside the $5 Million Competition Defining the Future of Artificial Intelligence"
+    excerpt: "Time to hit pause on those dystopian, Terminator-esque visions of the future. AI for Good is here, and it’s helping us rescue victims of human trafficking, defeat depression, and end malaria. In the words of our machine friends (not overlords!"
+    publishedDateTime: 2021-06-03T16:25:00Z
+    webUrl: "https://www.wired.com/sponsored/story/inside-the-dollar5-million-competition-defining-the-future-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 64
+    images:
+      - url: "https://media.wired.com/photos/60b6ad1d41e613255aec163b/master/w_2560%2Cc_limit/Untitled-1.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Study to train AI for koala ‘face recognition’ at crossings"
     excerpt: "A team of Griffith University AI researchers will train cameras to use 'facial recognition' technology at koala crossing locations across South"
     publishedDateTime: 2021-06-02T00:29:00Z
@@ -42,19 +56,14 @@ related:
         height: 1200
         isCached: true
   - title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
-    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused"
-    publishedDateTime: 2021-06-02T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
+    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
+    publishedDateTime: 2021-06-02T11:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
   - title: "Meicam Co., Ltd. won the first prize of the “Broadcast, TV and Network Audiovisual Artificial Intelligence Application Innovation Competition”"
     excerpt: "The State Administration of Radio Film and Television of China (SARFT) held the first “Broadcast, TV and Network Audiovisual Artificial Intelligence Application Innovation Competition (MediaAIAC)” to announce the list of winners."
     publishedDateTime: 2021-06-03T17:54:00Z

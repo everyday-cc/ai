@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-19-google-io-2021-the-vertex-ai-platform-connects-ml-tools.md",
+      "title": "Google I/O 2021: The Vertex AI platform connects ML tools",
+      "excerpt": "What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from machine learning and general AI to neural networks. Read More While Google has a bevy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/",
+      "publishedDateTime": "2021-05-18T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
       "title": "Less watching, more learning: AI enabling a smarter world",
       "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
@@ -1364,58 +1408,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-datarobot-expands-platform-and-announces-zepl-acquisition.md",
-      "title": "DataRobot expands platform and announces Zepl acquisition",
-      "excerpt": "DataRobot, the Boston-based automated machine learning startup, had a bushel of announcements this morning as it expanded its platform to give technical and nontechnical users alike something new. It also announced it has acquired Zepl,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
-      "originalUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1299482894.jpg?w=1024",
-          "width": 1024,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/amp/",
-      "publishedDateTime": "2021-05-11T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

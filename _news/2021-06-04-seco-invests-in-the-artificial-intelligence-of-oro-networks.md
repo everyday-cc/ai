@@ -1,32 +1,28 @@
 ---
 category: news
 title: "SECO invests in the Artificial Intelligence of Oro Networks"
-excerpt: "SECO S.p.A. (\"SECO\"), reference player in the field of technological innovation and Internet of Things solutions, today announced the s"
-publishedDateTime: 2021-06-04T13:18:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/seco-invests-in-the-artificial-intelligence-of-oro-networks-1030495209"
-webUrl: "https://markets.businessinsider.com/news/stocks/seco-invests-in-the-artificial-intelligence-of-oro-networks-1030495209"
+excerpt: "SECO S.p.A. (\"SECO\"), reference player in the field of technological innovation and Internet of Things solutions, today announced the signing of a binding"
+publishedDateTime: 2021-06-04T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/seco-invests-in-the-artificial-intelligence-of-oro-networks/article_be4d6190-a4c9-508e-a76d-2abcce04ded4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/seco-invests-in-the-artificial-intelligence-of-oro-networks/article_be4d6190-a4c9-508e-a76d-2abcce04ded4.html"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1526268/SECO_Oro_Networks.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/46/1468f4be-0aec-512e-8692-53ed8d385ac7/60ba24c213d32.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "0bdoLBEnmOIB7Fqj51JLWweuVOQ1ICMlv2CchnFMDvHbRyG0Vts/42qsySz2Am4NA/2NgjAaFaI4EeHuH7+vuvMIh4J27PUpWat1GwuI4DGADx3ezpML049+xH6Qdt3T/RoKVh5pupoTAN3DILu7/9eVq+O6PyMrelIB0Zpe6kaPNU+nwLFNCyT/35cbA4SCZxhBnsP9aeQzVG+Ti7laM5U41tyjlkr4Lq817/nXNL1hF3qozu6Yi7E+9zsyYXlkcd1jlMyrxXOdLRh8reuWL0i7AZ/aGcM/5WTvXhwQ5QYkI4f3O08TskkHO3YVi+fVcrR5zH+Fg3rcwRjmoJeLYNd9ptsU1ePL4pt2VTJ4aLE8aV2aKmyD1+HqRA5Xm0D0W6xIkyZGMAO1ARygKss0uxEodSx/KCDodhhMmBMjD7XAfD5wdlyAzrZtOUFwRDKD+Jvq7F4VTmyK2ZvHpaWYLgpNemMjf83LKjSVqK9D4ftYmC46qnU6bditFtmfn0fBa4+JM5rbMAqq4CiNS11alg==;gUSQ9uceLUghudx9GXcx1A=="
+secured: "ZIl32miQd1Vw0N3jUa+z+/j7nH43+6ybruUx2vzesnBtHQLi5i9aoxlLPdnuNyr57CkRtIztzD+ml+09f8c+xkDU0r39RAJxSoqK4fNZJ4aZYKnGkvZdmxBu70ywhoIpLDPEjL3X511emTnI5L/uEgsIUXds97yVof76dUjrnnsANzwHW1Rk1D885YjQ/UXoSrfGcnWodPvf2olQdY5/bS19+eWdq4YHnMu5iyZ/89yYRe8DCYJkPQemSzwes91ar3V/fKHu4+pRZDq7jQMY5VlfLX4Qg9uTXcWZNGHubp2ViC9CbanppudXb4XTsy357GjRP4MOi0w1gmfKLpyucH4wSWdabUr6f5tFpoyBTyc=;rWER30OSIhlj9g9qTdEKRA=="
 ---
 

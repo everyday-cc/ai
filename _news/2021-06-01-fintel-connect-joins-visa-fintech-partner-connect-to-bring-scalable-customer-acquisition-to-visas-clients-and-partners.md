@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-publishedDateTime: 2021-06-01T13:34:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+publishedDateTime: 2021-06-01T13:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
 
 related:
   - title: "Visa (V) Expands Reach of Fintech Partner Connect Program"
@@ -94,6 +88,20 @@ related:
         width: 1280
         height: 856
         isCached: true
+  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
+    excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
+    publishedDateTime: 2021-06-04T19:02:00Z
+    webUrl: "https://www.pr-inside.com/ncfa-successfully-concludes-canada-s-leading-fintech-and-financing-r4833550.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 24
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Fintech changed the financial world quickly. Here's what's next."
     excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
     publishedDateTime: 2021-06-01T19:16:00Z
@@ -118,6 +126,6 @@ related:
         height: 339
         isCached: true
 
-secured: "ntyUzP5fGKpa5nUbMJ2T/SrAcvkNPPz3xoD5uM6k61Hsqm3X6tVJQ0pe0rDDM9K8sCcfY3K5m+rc3j8U2vEt9Dt3JokFjHheZRrp3tcAamHsKA1Cw6E9g+sezAk9UKtSPOFZYfJU9VCnhIgLOn1hAtNgdur+wwVIlQW/qtPN/+Pbqb8WvFK8IxpfnL/v3Ri4UYNF7Wq2xltoB9vX6uShwfHw7k6kaLaZHIfTVEt2DsPLC1lmdD1o9nlAZbApJxskKIsG9XQWB5f31LCSI/pRKyFG9gvVill2LAXDL7hovu1KMVsJot1UPHtcFUHEXLZ+ESwi6ShMpf3yagTLiZI4L1eOytO7bb/CmOxP3LjZOtg=;WzQUnPxaX1JZDoqEjL6rqQ=="
+secured: "NI7CnPzkcJ7OturUdEQC4rvm+oX97ocNUmmKE4lqGsd7he5laPdljeKWkWkvlVP1NAGCSOwIDEpa/S1DzJKyYQBY5w2RkgRWdmFBn1k6QnFkZBAFtidy15iQYQKwkBy6fWdpqvxTGZMvKqxdskpk5x8dDERummIidLAZ07uzGt8FP/HXnprrbih/B9uX3eCBGLLFWLSC1HR9RiJ24ru6DXMW9e55BINB0CIo73HTw5hy7obiYRdNNRCd9K/+wHOG8Tnmy03Ww6rYthCWcd8Fv97d62Mwc2QApeerw8hMT/Jxjv0I1WjWJE8eV96zNKPMuxvpGkmz/ZgaWfVTdqSiAbbP5uJ6ajwYwIetK4U4tQM=;dPp/BkP37UgLTRmJuF5Cww=="
 ---
 

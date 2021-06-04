@@ -2,6 +2,57 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-05-07-how-voice-ai-is-changing-the-way-people-order-food.md",
+      "title": "How Voice AI Is Changing The Way People Order Food",
+      "excerpt": "As consumers continue to leverage voice-to-order from restaurants and voice-enabled technology continues to thrive, it’s clear that voice AI solutions should be a priority for restaurant leaders across the country this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
+      "publishedDateTime": "2021-05-07T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring.md",
       "title": "Battling Bias: Why Employers Should Not Fear AI For Diversity Hiring",
       "excerpt": "As more businesses look to achieve workplace equality this year, they will have to overcome a significant barrier to successful DE&I recruitment: unconscious bias.",
@@ -1121,58 +1172,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-why-wait-for-a-crash-to-invest-these-3-top-stocks-are-already-down-more-than-40.md",
-      "title": "Why Wait for a Crash to Invest? These 3 Top Stocks Are Already Down More Than 40%",
-      "excerpt": "Some top-quality stocks are already down by 30%, 40%, or even more from their all-time highs. Case in point: Shares of Zillow Group ( NASDAQ:ZG) ( NASDAQ:Z), Baidu ( NASDAQ:BIDU), and Teladoc ( NYSE:TDOC) are all trading at least 40% below their recent highs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624941%2Fgettyimages-534824667.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "publishedDateTime": "2021-05-06T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

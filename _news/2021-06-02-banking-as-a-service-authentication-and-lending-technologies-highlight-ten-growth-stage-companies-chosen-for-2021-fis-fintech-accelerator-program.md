@@ -94,6 +94,20 @@ related:
         width: 1280
         height: 856
         isCached: true
+  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
+    excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
+    publishedDateTime: 2021-06-04T19:02:00Z
+    webUrl: "https://www.pr-inside.com/ncfa-successfully-concludes-canada-s-leading-fintech-and-financing-r4833550.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 24
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Fintech changed the financial world quickly. Here's what's next."
     excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
     publishedDateTime: 2021-06-01T19:16:00Z
@@ -104,19 +118,14 @@ related:
       domain: bizjournals.com
     quality: 4
   - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+    publishedDateTime: 2021-06-01T13:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "M6gwL5apBuIHoSrwA6PxVWGib1X/YFaGZdYfnQQANAvStsYEg/TI6oCcqthaEzSUMn7mPoOnU8LlHPFTTHXYxhDvGVOAk/uWSsGlyN5sVkT0rTP84UtdQjiU42FCxuSeMIdK3hrptG9ep0GFhYXKA2nQtkHvdm4mq6gi0+lac8GOOQzgZf02YDZ/QStQSFEUgjueteSukO68vB9+vM77ttYZsdTkTUgC37cOnTjMU4JaCcK8Ok/QMXH1ucYEBwwjnLjA4WMcFl1aBS+VhKRL6yrfrowRuRI3+lMLPXnuwVrh6ERBJJXE9SXh/5ZuC/fVZeXppDh6/yfxvwP4x3sDOmtQbQs+OpDBC97i+ZNPFOs=;uRjPbmeJtrjT6D9vK1IPlQ=="
 ---

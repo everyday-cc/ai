@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-res
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02"
 type: article
 quality: 50
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Global Machine Learning as a Service (MLaaS) Market Will Generate New Growth Opportunities by 2027: Know more about Top Key Players"
-    excerpt: "Syndicate Market Research’s Latest Report ‘Global Machine Learning as a Service (MLaaS) Market 2021‘ Analyses Research Methodology overview including Primary Research, Secondary Research, Company Share Analysis,"
-    publishedDateTime: 2021-05-31T01:13:00Z
-    webUrl: "https://ksusentinel.com/2021/05/31/global-machine-learning-as-a-service-mlaas-market-will-generate-new-growth-opportunities-by-2027-know-more-about-top-key-players/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 4
   - title: "Worldwide Web Hosting Services Industry to 2027 - Artificial Intelligence in Web Hosting Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "The \"Web Hosting Services Market by Type, Deployment Model, Application and End User: Global Opportunity Analysis and Industry Forecast, 2020-2027\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-06-03T10:02:00Z
