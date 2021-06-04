@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pantagraph.com/news/state-and-regional/facial-recognitio
 cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/state-and-regional/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-keep-them/article_56a5de74-a98b-55b6-bcad-d35c420e4b99.amp.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition for Fish May Help Environmental Challenge"
-    excerpt: "Illinois researchers are prepping a test of a system to get Asian carp out of waterways while also helping native fish travel by working with Whooshh Innovations, a company known for the fish tube, or salmon cannon."
-    publishedDateTime: 2021-06-02T19:38:00Z
-    webUrl: "https://www.govtech.com/products/facial-recognition-for-fish-may-help-environmental-challenge"
+  - title: "Daywatch: Illinois’ fewest COVID cases since March 2020, state Senate passes elected school board for Chicago and facial recognition for fish?"
+    excerpt: "There was another major COVID-19 update in Chicago yesterday too: the city’s health officials announced that there are no states listed on the travel order. This means that visitors to Chicago will no longer be required to quarantine or obtain a negative test result before arriving — for the first time since last July."
+    publishedDateTime: 2021-06-02T10:59:00Z
+    webUrl: "https://www.chicagotribune.com/news/ct-aud-cb-daywatch-newsletter-june2-20210602-bqffl7ckhnfr5io67i34qqfoo4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/news/ct-aud-cb-daywatch-newsletter-june2-20210602-bqffl7ckhnfr5io67i34qqfoo4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/news/ct-aud-cb-daywatch-newsletter-june2-20210602-bqffl7ckhnfr5io67i34qqfoo4-story.html?outputType=amp"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/e61ab23/2147483647/strip/true/crop/770x374+0+69/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F21%2F97%2Fd00f65636598110cc7631c7c7736%2Ffish.jpg"
-        width: 1440
-        height: 700
-        isCached: true
-  - title: "Local author receives national recognition for debut novel"
-    excerpt: "Four Women for the Earth, for the Future,” was recently selected as a 2021 Finalist for the Eric Hoffer Award’s Montaigne Medal. This national honor is given to the most"
-    publishedDateTime: 2021-06-01T23:40:00Z
-    webUrl: "https://www.theunion.com/entertainment/local-author-receives-national-recognition-for-debut-novel/"
-    type: article
-    provider:
-      name: The Union
-      domain: theunion.com
-    quality: 24
-    images:
-      - url: "https://imengine.public.prod.sci.navigacloud.com/?uuid=9d0b1c35-c897-5705-9496-2c91f9e7f63f&type=preview&function=cover&width=1024&q=80"
-        width: 1024
-        height: 1365
+      - url: "https://www.chicagotribune.com/resizer/RC8wWxITTGc8TUpOK70GQ1AghDk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUBOS7ICUVFOJHY5XLBIM3ZQJ4.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "O4XLfmE7bQR+WbYsYwgBvP7dKJExReHTaL29tyAXvmjAirJ9gsUppVSNW/G6MuJ+WR2uj+X3HpLVghq6/5cOEaFaxlbBOUtmO/VLRUALhx5zyUvGfZ7hTrW1Axz2sEi04yuRtLz38FTJBkxzW7iNui7i3DIhTnUb542bCI8jXYgm9CluWTA/GL+VE+qN0zU0cSOTUEL5fxcZF1EuvIa6vrz7amg3cKLgJs6a1WiIyMXGzSeArwLVllcJF8iP+eSqhnL0tDyY5SujZqeHvpfYYJoxj2AaVIJ51GT90XO4fY+6EyoafX5r7jZQsxTGB/pgSszO7REeycxRX0Q82uHyX2GnPNPBlopuA8k3iZvIg5U=;//aAH46/w5NcZH3dMl59rg=="

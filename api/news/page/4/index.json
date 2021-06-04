@@ -2,6 +2,163 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-01-young-stem-student-uses-artificial-intelligence-to-help-emerging-nations.md",
+      "title": "Young STEM Student Uses Artificial Intelligence To Help Emerging Nations",
+      "excerpt": "In emerging markets, many health and economic problems are related to access to clean water and sanitation infrastructure. This causes issues related to hygiene, pollution, agriculture, diseases, food and education. ISEF competitor Arya Tschand, 17, from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b63962dacd06d77ad5cd41%2F0x0.jpg",
+          "width": 620,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/amp/",
+      "publishedDateTime": "2021-06-01T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-what-artificial-intelligence-still-cant-do.md",
+      "title": "What Artificial Intelligence Still Can’t Do",
+      "excerpt": "Modern artificial intelligence is capable of wonders. It can produce breathtaking original content: poetry, prose, images, music, human faces. It can diagnose some medical conditions more accurately than a human physician.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b52de2a5dc9f37974c9ae8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D0%26cropY2%3D337",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
+      "publishedDateTime": "2021-06-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-text-altering-ai-is-changing-our-culture-try-this-tool-to-find-out-how.md",
+      "title": "Text-altering AI is changing our culture — try this tool to find out how",
+      "excerpt": "Recent research shows that AI is influncing how we use language through these text-altering machines. These tools are a great example of how this is done.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication",
+      "originalUrl": "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-robot-writing-hed-shutterstock_591536696.jpg&signature=eb3fc916c8e4408192846cbf04fdca3f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-edtech-startup-avishkaar-raises-inr-5-cr-in-pre-series-a-round-co-led-by-mumbai-angels-and-auxano.md",
       "title": "Edtech Startup Avishkaar Raises INR 5 Cr In Pre-Series A Round Co-led By Mumbai Angels And Auxano",
       "excerpt": "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent",
@@ -585,7 +742,7 @@
       "originalUrl": "https://www.zdnet.com/article/robot-maker-acquires-conversational-ai-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -728,58 +885,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-for-chinas-single-mothers-a-road-to-recognition-paved-with-false-starts.md",
-      "title": "For China’s Single Mothers, a Road to Recognition Paved With False Starts",
-      "excerpt": "Unmarried mothers are often denied government benefits. A debate over the policy is being propelled by a declining birthrate and a new generation of independent Chinese women.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/24/world/00china-singlemoms01/00china-singlemoms01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html",
-      "publishedDateTime": "2021-05-31T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1115,101 +1220,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-still-waiting-on-your-ps5-and-ipad-to-ship-blame-the-global-chip-shortage.md",
-      "title": "Still waiting on your PS5 and iPad to ship? Blame the global chip shortage",
-      "excerpt": "Global chip shortage is afffecting industries ranging from smartphone manufacturing to auto companies, so expect delivery delays on your gadget orders.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/chip-shortage-iphone-cars-gadets-analysis",
-      "originalUrl": "https://thenextweb.com/news/chip-shortage-iphone-cars-gadets-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fjeremy-zero-wl8hZoJBSU8-unsplash-e1622445256780.jpg&signature=fedcf2414598b37b9548b34ded480c67",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain.md",
-      "title": "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain",
-      "excerpt": "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computation",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
-      "originalUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/05/image0013UIF.png",
-          "width": 577,
-          "height": 219,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
-      "publishedDateTime": "2021-05-30T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

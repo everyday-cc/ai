@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-04-local-governments-are-going-to-war-with-facial-recognition-technology.md",
+      "title": "Local governments are going to war with facial recognition technology",
+      "excerpt": "Local governments, including King county in Washington state, are passing laws to curb the use of facial recognition technology by law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
+      "originalUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 349,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2021/06/2021-01-20T153652Z_1_LYNXMPEH0J13Z_RTROPTP_4_CHINA-SECURITY-e1622773726474.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/",
+      "publishedDateTime": "2021-06-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg.md",
       "title": "Face recognition is just the tip of the AI Computer Vision iceberg",
       "excerpt": "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,",
@@ -99,102 +151,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-02-washington-state-county-becomes-first-in-us-to-ban-facial-recognition-software-over-concerns-of-racism.md",
-      "title": "Washington State County Becomes First in US to Ban Facial Recognition Software Over Concerns of Racism",
-      "excerpt": "King County's ban on facial recognition software is \"an important step forward in the effort to stop government use of this harmful and racist technology,\" said Jennifer Lee from ACLU Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894",
-      "originalUrl": "https://www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1811407/video-surveillance-camera.jpg",
-          "width": 2500,
-          "height": 1754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894?amp=1",
-      "publishedDateTime": "2021-06-02T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-banning-facial-recognition-technology-baltimores-bad-idea-commentary.md",
-      "title": "Banning facial recognition technology: Baltimore’s bad idea | COMMENTARY",
-      "excerpt": "There are a number of ways city governments can use facial recognition that would benefit the public: to find missing persons, catch identity thieves, improve security in crowded venues and identify victims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html",
-      "originalUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/ABATWjVilab86KnjaYK3Rb2rPcc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MJWA2OZPURORLGCTGQM4RJKXTM.aspx",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-02T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-02-banned-gamblers-in-south-australia-to-be-found-using-facial-recognition-tech.md",
       "title": "Banned gamblers in South Australia to be found using facial recognition tech",
       "excerpt": "A number of gaming rooms in South Australia have adopted facial recognition tech from Vix Vizion as part of the state's gambling reforms that went live in December.",
@@ -203,7 +159,7 @@
       "originalUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -277,58 +233,6 @@
         "name": "TechHQ",
         "domain": "techhq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-for-chinas-single-mothers-a-road-to-recognition-paved-with-false-starts.md",
-      "title": "For China’s Single Mothers, a Road to Recognition Paved With False Starts",
-      "excerpt": "Unmarried mothers are often denied government benefits. A debate over the policy is being propelled by a declining birthrate and a new generation of independent Chinese women.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/24/world/00china-singlemoms01/00china-singlemoms01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html",
-      "publishedDateTime": "2021-05-31T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1411,6 +1315,93 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-we-could-see-federal-regulation-on-face-recognition-as-early-as-next-week.md",
+      "title": "We could see federal regulation on face recognition as early as next week",
+      "excerpt": "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/",
+      "originalUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/AP_21125089623947.jpg?w=3000",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/",
+      "publishedDateTime": "2021-05-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-amazon-made-rekognition-software-now-able-to-detect-fear.md",
+      "title": "Amazon-made Rekognition software now able to detect fear",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

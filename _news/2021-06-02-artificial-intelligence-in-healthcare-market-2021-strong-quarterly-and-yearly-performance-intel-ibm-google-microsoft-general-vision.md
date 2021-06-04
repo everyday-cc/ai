@@ -186,13 +186,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -205,15 +205,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 49
-  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-    publishedDateTime: 2021-06-04T09:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
     excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
     publishedDateTime: 2021-06-03T10:07:00Z
@@ -232,6 +223,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 17
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+    publishedDateTime: 2021-06-04T09:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "sU/XThnB8NoUOEh1xdoxUNbDFhl+WT6GWhEypL50Ngx8/zmRWdF5BtQwjPQl3d9CsuOOIChn/75A9vGmjZBU0RROFHRCYu5BJDd5f/2b91MdR/y8IVu49CabnNZ/5FjOKsfdn6iczsU3Y04+zY8Nyr4ZjpvWJEDpnK8dntu0VMgJ22bygYEq1pzOuH22zhjv6h+utiI2gAXz34cOlc5l3MA8YMFJM2kbvrZ+EGnGr2yBxlrqPssPVY7ES7mdemJ10mOV1NKAZP5H/eFpHgjsppPT0YafwS/XVw0fkLiiWTz44/Uz5CSJ55okjmfSbWwZSoJdEjvMNQKiVlfSfQnbx4xjSyuePkBNuMyIevTZMT8=;6uZtCTAUGTm42OdXIwIdoA=="
 ---

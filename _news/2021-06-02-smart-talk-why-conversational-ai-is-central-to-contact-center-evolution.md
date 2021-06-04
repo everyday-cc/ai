@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Following e-cigarette conversations on Twitter using artificial intelligence"
+    excerpt: "The advertising of nicotine products is highly restricted, but social media allows a way for these products to be marketed to young people. What's more, e-cigarette flavorings make them particularly appealing to teenagers and young adults."
+    publishedDateTime: 2021-06-04T10:59:00Z
+    webUrl: "https://techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ecigarette.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
 
 secured: "8glTlCnaOk2IcfgZXooonPVJbOSXWEGPhvaTKAjfcH25U17wIHIG7knHITnt/h+KM9f/wcc2kZqe7M9e8rWqh42YdL/Eg27niK1juUHlKm+X7XZSxE7Nbt/J0iffSGeGoHqFQUalxcHYl6tNZsmpXgGYhSDs5qjBbRvl+5QHhp1RNqwCoPVGk+O6RDm2K0S2pxZZ2Ov41kV6KGZz4jKE6wYSeNyBA2Zx+VwQpRnLaGWX5TnDBXlgdwJhjdIHbr/simWBkSTKnxt4clMO7Hds1Jj9UJGuW9c9mU+sdouGgMRiWJpansjIYAVtED+p+7YtMaAaL31PROVCCOoglLX5egxNXA8akryMbHlb5fbSnGsvXt3WlF22NQ/W+GBx9q8LtLjdCqS1c7Rk1vFTJsDrCRTEt64E37NAWOtjEZ8ZOHET35wCmJuX+dE/AKcLbXUmtYP/O9dTdkfJaS/t3N8JHiKzMEILNVdBoScFCZS81POs6P3xzHkyyBwDPNAa2KESFb3YuKhNzJJouAhv9fJemg==;55IQygZY3b1i75vSmR6APg=="
 ---

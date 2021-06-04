@@ -46,6 +46,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Following e-cigarette conversations on Twitter using artificial intelligence"
+    excerpt: "The advertising of nicotine products is highly restricted, but social media allows a way for these products to be marketed to young people. What's more, e-cigarette flavorings make them particularly appealing to teenagers and young adults."
+    publishedDateTime: 2021-06-04T10:59:00Z
+    webUrl: "https://techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ecigarette.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Smart talk: why conversational AI is central to contact center evolution"
     excerpt: "According to research, customer calls to contact centers increased by as much as 600% as physical locations stayed closed. This leap in call volume prompts a rethink about how traditional contact centers will operate moving forward,"
     publishedDateTime: 2021-06-02T16:40:00Z

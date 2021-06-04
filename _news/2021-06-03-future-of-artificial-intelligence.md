@@ -70,20 +70,6 @@ related:
         width: 1199
         height: 877
         isCached: true
-  - title: "Why Board Directors And CEO’s Need To Learn AI Knowledge Foundations: Building AI Leadership Brain Trust - Blog Series"
-    excerpt: "This blog continues to outline the importance of board directors and CEOs learning AI foundational terms. This article defines Artificial Narrow Intelligence, (ANI) Artificial General Intelligence (AGI),"
-    publishedDateTime: 2021-05-30T17:44:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/05/30/why-board-directors-and-ceos-need-to-learn-ai-knowledge-foundations-building-ai-leadership-brain-trustblog-series/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097def72068bbfb5968d9ce%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
     excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
     publishedDateTime: 2021-06-02T06:30:00Z

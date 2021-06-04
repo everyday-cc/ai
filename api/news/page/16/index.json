@@ -2,6 +2,232 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-21-rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai.md",
+      "title": "RAI INDUSTRY SHOWCASE SHAPING UP TO BE THE BIGGEST EVENT IN UK ROBOTICS & AI",
+      "excerpt": "Robotics & AI Showcase, 25 - 27 May, has more than 70 exhibitors booked in and over 800 visitors registered to attend and counting, making it the biggest robotics and AI events of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/news/2021/05/21/rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai/16895/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2021/05/21/rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai/16895/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-big-brains-new-books-on-artificial-intelligence.md",
+      "title": "Big Brains: New Books on Artificial Intelligence",
+      "excerpt": "Reading ‘Genius Makers,’ ‘A Brief History of Artificial Intelligence,’ ‘Atlas of AI’ and ‘Futureproof.’",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
+      "originalUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-341172/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
+      "publishedDateTime": "2021-05-21T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data.md",
+      "title": "Facebook Wav2vec-U learns to recognize speech from unlabeled data",
+      "excerpt": "Facebook claims to have developed an AI model that learns to recognize speech without the need for annotations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/",
+      "originalUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/amp/",
+      "publishedDateTime": "2021-05-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
+      "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
+      "excerpt": "This is the result of ML-enabled automation for the production of multi-format, multi-domain, speech, audio, text, image, natural language and computer vision data, which are used to fuel mission ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210521ph85988/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210521ph85988/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg",
+          "width": 400,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging.md",
+      "title": "The American Academy of Thermology Announces The Formation of New Platforms For Artificial Intelligence in Medical Infrared Imaging",
+      "excerpt": "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19819004.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19819004.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
       "title": "New sensation: Pioneering mind-controlled arm restores sense of touch",
       "excerpt": "The world's first brain-computer interface allowed a volunteer with paralysis from the chest down to accomplish this very feat Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its ...",
@@ -931,232 +1157,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027.md",
-      "title": "Computer Vision in Healthcare Market – Notable Developments, Potential Players & Worldwide Opportunities 2027",
-      "excerpt": "A new research study on the global Computer Vision in Healthcare market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 2020 to 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/20/computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027/",
-      "originalUrl": "https://ksusentinel.com/2021/05/20/computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/YytmRP2/R39.jpg",
-          "width": 640,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-sofic-news-microsoft-socom-discuss-ethical-use-of-artificial-intelligence.md",
-      "title": "SOFIC NEWS: Microsoft, SOCOM Discuss Ethical Use of Artificial Intelligence",
-      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/01_covers/may_cover.ashx?h=793&w=601&la=en&hash=2A0B7FC465C936EDFB5D8EB19D5A3113",
-          "width": 601,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-industrial-robotics-market-to-grow-at-a-cagr-of-95-during-the-forecast-period-2020-2025.md",
-      "title": "Industrial Robotics Market to Grow at a CAGR of 9.5% During the Forecast Period 2020-2025",
-      "excerpt": "Industrial Robotics Market size was valued at 28 9 Million in 2019 and it is estimated to grow at a CAGR of 9 5 during 2020 2025 The advent of numerous sorts of techniques committed to production control and introduction",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
-      "originalUrl": "https://www.openpr.com/news/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U520628557_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
-      "publishedDateTime": "2021-05-20T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-in-the-race-for-tech-talent-the-us-should-look-to-mexico.md",
-      "title": "In the race for tech talent, the US should look to Mexico",
-      "excerpt": "Amid a backdrop of skyrocketing tech valuations, the U.S. tech sector should look to Mexico as a key growth market and partner. The time is now for the U.S. to tap into Mexico's surplus tech talent.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/",
-      "originalUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1164223141.jpg?w=1024",
-          "width": 1024,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/amp/",
-      "publishedDateTime": "2021-05-20T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
-      "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
-      "excerpt": "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/brain-stimulation-evok-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp",
-      "publishedDateTime": "2021-05-20T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

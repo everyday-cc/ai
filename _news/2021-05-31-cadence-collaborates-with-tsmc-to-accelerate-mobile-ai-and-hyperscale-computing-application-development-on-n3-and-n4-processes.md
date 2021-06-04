@@ -39,12 +39,12 @@ related:
     quality: 34
   - title: "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment"
     excerpt: "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,"
-    publishedDateTime: 2021-06-02T14:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
+    publishedDateTime: 2021-06-02T09:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 21
 
 secured: "9NZPRW2Hvy2lkMC0mObW0FkSCjEuWm34eor8rclKMfaAgU46TEIu4WsTdBkzYscoEyp0//nfg9XhO/VgTSRu3+9beaTNLs7RatvyF0RF+aaJeZoEd2BCdeVkzMq0oYHaoyrfKBu+8XvHk/24nwqhDWylJ9fmdZvsUdJM35X3ea5X4n9XU8u4Ri4Yia1fMaot9XsTA6AnYXSI3dLB1UbkQeZF3R5Q+tiHV8nZO0Kw5y6nkwT8BArzFHGxWD6j2/oNskavqu/6GVkh4vSRioDJi+dINPLF6PpqvYYpH/L0eVJhK85u8/Cz3YzvUl8h+j6TzrSuHe1F1GaNaJZRVTCkRg0GWB3C960YApnhrCXgXH8=;GcpHYJkvj2k3O+XpatIJgQ=="

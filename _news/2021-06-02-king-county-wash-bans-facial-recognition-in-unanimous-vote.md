@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Local governments are going to war with facial recognition technology"
+    excerpt: "Local governments, including King county in Washington state, are passing laws to curb the use of facial recognition technology by law enforcement."
+    publishedDateTime: 2021-06-04T10:00:00Z
+    webUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/"
+    ampWebUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 89
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2021/06/2021-01-20T153652Z_1_LYNXMPEH0J13Z_RTROPTP_4_CHINA-SECURITY-e1622773726474.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Washington State County Becomes First in US to Ban Facial Recognition Software Over Concerns of Racism"
     excerpt: "King County's ban on facial recognition software is \"an important step forward in the effort to stop government use of this harmful and racist technology,\" said Jennifer Lee from ACLU Washington."
     publishedDateTime: 2021-06-02T15:33:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1811407/video-surveillance-camera.jpg"
         width: 2500
         height: 1754
+        isCached: true
+  - title: "For China’s Single Mothers, a Road to Recognition Paved With False Starts"
+    excerpt: "Unmarried mothers are often denied government benefits. A debate over the policy is being propelled by a declining birthrate and a new generation of independent Chinese women."
+    publishedDateTime: 2021-05-31T14:02:00Z
+    webUrl: "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 73
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/24/world/00china-singlemoms01/00china-singlemoms01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Congress Struggles to Control Facial Recognition"
     excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
@@ -71,6 +103,54 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Aussie researchers to test koala 'facial recognition'"
+    excerpt: "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation."
+    publishedDateTime: 2021-06-03T07:50:00Z
+    webUrl: "https://phys.org/news/2021-06-aussie-koala-facial-recognition.html"
+    ampWebUrl: "https://phys.org/news/2021-06-aussie-koala-facial-recognition.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-aussie-koala-facial-recognition.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/a-team-from-griffith-u.jpg"
+        width: 1024
+        height: 705
+        isCached: true
+  - title: "Australian researchers to test koala ‘facial recognition’"
+    excerpt: "Australian researchers are launching a koala “facial recognition” study that aims to better monitor the marsupials’ behavior and ultimately aid in their"
+    publishedDateTime: 2021-06-03T13:50:00Z
+    webUrl: "https://english.alarabiya.net/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
+    ampWebUrl: "https://english.alarabiya.net/amp/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 59
+    images:
+      - url: "https://vid.alarabiya.net/images/2013/01/25/b86c8598-3fe4-4dae-abf3-c1113e612197/b86c8598-3fe4-4dae-abf3-c1113e612197_16x9_600x338.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Banning facial recognition technology: Baltimore’s bad idea | COMMENTARY"
+    excerpt: "There are a number of ways city governments can use facial recognition that would benefit the public: to find missing persons, catch identity thieves, improve security in crowded venues and identify victims."
+    publishedDateTime: 2021-06-02T15:03:00Z
+    webUrl: "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 58
+    images:
+      - url: "https://www.baltimoresun.com/resizer/ABATWjVilab86KnjaYK3Rb2rPcc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MJWA2OZPURORLGCTGQM4RJKXTM.aspx"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "Final action expected on King County proposal to ban facial recognition software"
     excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
     publishedDateTime: 2021-06-01T15:31:00Z
@@ -86,22 +166,6 @@ related:
       - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-1149113711-e1622557116352.jpg"
         width: 620
         height: 370
-        isCached: true
-  - title: "Washington’s biggest county—which includes Seattle—just banned facial recognition"
-    excerpt: "King County, Washington, which includes Seattle, became the first county in the country to ban government use of facial recognition."
-    publishedDateTime: 2021-06-02T14:08:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-king-county-seattle/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-ban-king-county-seattle/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-ban-king-county-seattle/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 54
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/Facial-Recognition-King-County-Washington.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
         isCached: true
   - title: "King County Council will consider prohibiting use of facial recognition technology"
     excerpt: "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information."
@@ -153,6 +217,34 @@ related:
     quality: 39
     images:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/049c588/2147483647/strip/true/crop/796x387+0+113/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc4%2Fd4%2F40cd44ec3e3d080e77a856070773%2Fshutterstock-facial-recognition.jpg"
+        width: 1440
+        height: 700
+        isCached: true
+  - title: "Facial Recognition for Fish May Help Environmental Challenge"
+    excerpt: "Illinois researchers are prepping a test of a system to get Asian carp out of waterways while also helping native fish travel by working with Whooshh Innovations, a company known for the fish tube, or salmon cannon."
+    publishedDateTime: 2021-06-02T19:38:00Z
+    webUrl: "https://www.govtech.com/products/facial-recognition-for-fish-may-help-environmental-challenge"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/e61ab23/2147483647/strip/true/crop/770x374+0+69/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F21%2F97%2Fd00f65636598110cc7631c7c7736%2Ffish.jpg"
+        width: 1440
+        height: 700
+        isCached: true
+  - title: "Facial Recognition Technology Banned in Kings County"
+    excerpt: "The law would allow people to sue if facial recognition technology is used in violation. It would not ban the use of such technology by any other government within King County, or by private groups or individuals."
+    publishedDateTime: 2021-06-02T17:53:00Z
+    webUrl: "https://www.govtech.com/em/safety/facial-recognition-technology-banned-in-kings-county"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/46c9950/2147483647/strip/true/crop/940x457+0+99/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
         width: 1440
         height: 700
         isCached: true
@@ -212,6 +304,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Delivering on Digital Government: Achieving the Promise of Artificial Intelligence"
+    excerpt: "In an era of rapid technological change and nearly limitless possibilities, artificial intelligence (AI) and machine learning stand out for their potential to transform our society. Private sector adoption across retail,"
+    publishedDateTime: 2021-06-03T02:22:00Z
+    webUrl: "https://www.nextgov.com/assets/delivering-digital-government-artificial-intelligence.pdf"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 33
+    images:
+      - url: "https://cdn.nextgov.com/media/screen_shot_2021-05-20_at_11.12.15_am.png"
+        width: 1022
+        height: 1328
+        isCached: true
+  - title: "Human and civil rights groups call for ban on police facial recognition technology"
+    excerpt: "A large coalition of advocacy groups focused on civil and human rights are pushing to ban the police from using facial recognition technology that they say could create an Orwellian surveillance state."
+    publishedDateTime: 2021-06-03T21:51:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 33
   - title: "King County Council votes to ban use of facial recognition technology by government agencies"
     excerpt: "The King County Council has unanimously passed a proposal that would ban government use of facial recognition software."
     publishedDateTime: 2021-06-01T22:47:00Z
@@ -246,6 +363,29 @@ related:
       name: King County%2c Washington
       domain: kingcounty.gov
     quality: 21
+  - title: "Civil Society Coalition Releases Statement of Concerns Regarding Law Enforcement Use of Face Recognition Technology"
+    excerpt: "Civil society coalition statement highlighting six major civil rights concerns regarding law enforcement use of face recognition technology."
+    publishedDateTime: 2021-06-03T15:24:00Z
+    webUrl: "https://www.newamerica.org/oti/press-releases/civil-society-coalition-releases-statement-of-concerns-regarding-law-enforcement-use-of-face-recognition-technology/"
+    type: article
+    provider:
+      name: New America
+      domain: newamerica.org
+    quality: 19
+    images:
+      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_1783490738.2e16d0ba.fill-1200x630.jpg"
+        width: 1000
+        height: 525
+        isCached: true
+  - title: "Fish facial recognition? Researchers test technology on invasive Asian carp"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
+    publishedDateTime: 2021-06-03T16:04:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/science/2021/06/03/fish-facial-recognition-researchers-test-technology-invasive-asian-carp/7524225002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
 
 secured: "NV9bf6BSU0FjhI37UdOBR85PwtojeKTPq5PoX2ysJ/gnx/CCBx43kycZJFbDe77dj3hysLHa20/2+3eWy0jycHSBIuaUkYySHSldvDGplyJdWhIHIC4VRpng33asCIPXk3+Fsilkux0kBBRPiBMKbYQBXj86SIwsHcpVNUVp4FBI346d0BlbmfLkuovsxKFuQyyzzVsyOLHjGrtj2JRRZt4PeBT6PlyNSdjUOcNjxx53mjL+aUkcEItzf9jPjSiQ4YcbsnkAEsw8+BonRO8vcSH1PhRhAEAg4RPK8xX5SsY1TenvX2zVSO2BQh+4VgykHP7LYpiQR7SlQvxS31+bk+RYBFFACtz7Swh1Fp8EXoLPRXhRBaF+mkQcwdG4FGD6FnAzNdlsdEbcY+dUkgdtka7Xo/q1nIA0umJts3LxouWLCfVxhiuOdrqyWc8tfeYTS9NHmew30WA9SDMmrGP7cSxs31D5bBooanxXHsacvESty9nGsni58m0AWnwId8K8f8LwNd5AfCK/bbZrNM1uNw==;zF4wd4LwWvsstfBTBAREZQ=="
 ---

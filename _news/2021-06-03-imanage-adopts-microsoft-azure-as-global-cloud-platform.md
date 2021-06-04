@@ -183,13 +183,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -202,15 +202,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 49
-  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-    publishedDateTime: 2021-06-04T09:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -229,6 +220,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 17
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+    publishedDateTime: 2021-06-04T09:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "BQ1yVRixr0vW6h333Fy0xsYhDxyE5f0w0HG4M+kC3TJfjCqDjWZ2lgEQYOVU9E5ijL8L5TkqWafDZPoaTRnAmNM8n8GshS6FDONHcMJZxj2Esc+HfA/rt/YYI/OI/Wi1TJC86RWKOG41EDZHfo5ei5pCGBLT8UhvyNWgfv5C9RDgynhYRNuMkTXzR8eAsxT7qMzs5szfosh/coWUKEWuOHBKLwynRMecgDyIMi2BFZjJxlPp7ryNAk26Bbhj/vo1Na6MzrgOQOs2xQuudpHUiZg2Ax9X8eFt3ziozc50y/P8yg0UxVEREZzgjKvcsMKtYtXV+E3cX5aKVjv/HbxFPbvh4yzEGJ0z4+owyRRq6fc=;SjEK4/uj+nJ/oXQnLH51NA=="
 ---

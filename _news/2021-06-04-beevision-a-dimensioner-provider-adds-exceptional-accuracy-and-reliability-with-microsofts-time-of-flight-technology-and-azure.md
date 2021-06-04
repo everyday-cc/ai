@@ -2,21 +2,17 @@
 category: news
 title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
 excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-publishedDateTime: 2021-06-04T09:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
-webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+publishedDateTime: 2021-06-04T09:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
 type: article
-quality: 35
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -187,13 +183,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
@@ -234,6 +230,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "VJ5NstvCPWFziv/QJOL5xKMGlCm8pHG8R2jrPwfz7JMCzQHgLYs8y2PHU5M03aHc77BshB+LdUQRgJR832YRsOB6IC4FFy/5CnDCL/IRIox2GW7yfrP9XL2REjUzqs3Ma1ZZNsL+yqvmBB+jHa97kZKwNgDzmbBJDa5VXpGuQ8E/RUEepjFZP/Irtzd0pO5TPkSxdwJRp+DDj0zvuB8NCqMIEe37gstUi6WG22WNueT37k6LrI4eF4Q5/HmudsV9ISFv7vkTtaIjgYyNxg8U/f6gm8+QYQSGDtWYre9HxDqsAkHWSc+mSRtv4b5ibGckiAKSEYgym7aInLH+v8+DrLTthWmHmw3IVxUyESNY0erVT5Q4Vr7mS+CWJlwnjp3hAi1g5XvBNXTFf4ntPm/Xll+2n7LoMK7oR5mnrUNx7VuaWqtUSZ8tB8akRLWtNggwCjtYou4L9k/qKapGhMpJqsOkVJNKKWPVGQ35QZYgsRU0HJo0qLmzWX3Dknb1OjZuofod69LyNnJtQUs4mmTWrw==;gVojPCKb8/0trMsSmF/f8Q=="
+secured: "k38Be13t8GNOACijD6Ow2mG7W0fI/vs9A9L44vj4wlNE4JagYHv+hFB0VMlQ6VqaZ+frTgb6HzUELArOdrOu08DOIwuoRsDdGCufiByIk5AeK9hi85M4MgWcu/ocHk1OpdGtrLB/MM3nZfqKlHlzbQCBlKebhY52ZhtBppfLfvliAhwFuZ21jlk+zbRo6xc9TxZpNLiuFok8y4tG31BSrHA3S/lYh26QCTESFwSwIqlQvNrnDzPor/wI4zs4DDvVoqOic61k5Uan5o1plO9TUhhsOl6/M6MQY9RRznImBdeMz6atF1TZNEJSdUVhWB/dlXHT5qqQecnHpO/uSyWiShZTLBY1KvajXcHpaB0g4Ug7hZMloiVk5Bw1E2+K606SgJka3wxX4FGjLV2/h4CdZg2xYUcDIuQAztQQuBPNwN/KfRFrzkGnCb+oKLC64arIWzkfX0Vu7R9gPXqjZv0/c5GrRe2ayjnCtqcPSgySJGWRcxYosl7iPy7RdNrJGp8Bi6NQFyrYnMCTy4TAmIaTPQ==;xGiwybAQGO0hKvoTtmepnw=="
 ---
 

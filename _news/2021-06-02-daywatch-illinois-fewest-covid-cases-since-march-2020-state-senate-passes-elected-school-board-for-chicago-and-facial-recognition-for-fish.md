@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/news/ct-aud-cb-daywatch-newsletter-ju
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/news/ct-aud-cb-daywatch-newsletter-june2-20210602-bqffl7ckhnfr5io67i34qqfoo4-story.html?outputType=amp"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to keep them out of Lake Michigan"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is"
+    publishedDateTime: 2021-06-02T17:00:00Z
+    webUrl: "https://www.pantagraph.com/news/state-and-regional/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-keep-them/article_56a5de74-a98b-55b6-bcad-d35c420e4b99.html"
+    ampWebUrl: "https://www.pantagraph.com/news/state-and-regional/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-keep-them/article_56a5de74-a98b-55b6-bcad-d35c420e4b99.amp.html"
+    cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/state-and-regional/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-keep-them/article_56a5de74-a98b-55b6-bcad-d35c420e4b99.amp.html"
+    type: article
+    provider:
+      name: The Pantagraph
+      domain: pantagraph.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/1/23/123f914a-921b-5f8c-85d1-fc3966f4a77e/60b795764ab8a.image.jpg?resize=1024%2C1313"
+        width: 1024
+        height: 1313
+        isCached: true
 
 secured: "JhJty73wFhQRVOBI9DL/SkEuQGeiLMpBecICj/tsbvfzSjPJrRmxJLEIvPDWd2h5ECImGLPDLY9ilbJ9d2/+UrDMiHzQ4tZEfKdGApTtdDXEqxvnccr6z9sBM9Yi45qNr/+uG2XdjiC6bx6jHSK3/fGQN4+sj/pR0S0G2tJvUMIMLEwwEofYu2+pA/M2l8KWjvN+jNtFHyZlPQa2pwkogSVd+JNNO5Z4SnweDcVHYAMjV2zWHdrJ4B0QkFI01nQo/XemowyH+2R9NiJ86jJMBn+fNOKF47h0jq8ocQcPcDJ+3vJw1WX/5B3ni9/4U78MKdJUlyJCK05z9FrBvfwU48HWsTbgxGjobIJjKSo998A=;c3j7H9qEOnPQSuJIhb+nwA=="
 ---

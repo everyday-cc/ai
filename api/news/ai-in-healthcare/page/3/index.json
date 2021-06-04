@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-10-softbank-backed-health-ai-startup-moves-into-clinical-care-with-key-amazon-hire.md",
+      "title": "Softbank-Backed Health AI Startup Moves Into Clinical Care With Key Amazon Hire",
+      "excerpt": "Maulik Majmudar, the cardiologist who led the tech giant’s push into wearables with Amazon Halo, joins Biofourmis as the company expands beyond software and sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2021/05/10/softbank-backed-health-ai-startup-moves-into-clinical-care-with-key-amazon-hire/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2021/05/10/softbank-backed-health-ai-startup-moves-into-clinical-care-with-key-amazon-hire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60986c881cb1ac6bf7a5e166%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3790%26cropY1%3D314%26cropY2%3D2446",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2021/05/10/softbank-backed-health-ai-startup-moves-into-clinical-care-with-key-amazon-hire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/05/10/softbank-backed-health-ai-startup-moves-into-clinical-care-with-key-amazon-hire/amp/",
+      "publishedDateTime": "2021-05-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
+      "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
+      "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
+      "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays.md",
       "title": "DRDO Centre for Artificial Intelligence and Robotics develops ‘Atman AI’ for Covid detection in Chest X-rays",
       "excerpt": "The product has been designed to reduce the burden of CT scans and make covid diagnosis accessible for smaller towns by helping in making the process ..",
