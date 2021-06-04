@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-04T15:54:00Z
 originalUrl: "https://www.bbntimes.com/technology/artificial-intelligence-the-evolution-of-neural-networks"
 webUrl: "https://www.bbntimes.com/technology/artificial-intelligence-the-evolution-of-neural-networks"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.bbntimes.com/images/articles/society/Artificial_Intelligence-_The_Evolution_of_Neural_Networks.jpg"
@@ -24,6 +25,6 @@ images:
     height: 586
     isCached: true
 
-secured: "D397odB2oO/qSu70aBftKtIlo09mGVHgAKA5+DDM1KBwOAwzBeDW6SrMNNW/lKjb6UXdFNqAiriDCCb49M0syGtncimDolDhVzfdxTuT9I+1AGQUpbQzMqkZ42RTM2485vRpbrRGYnQQZAGXrHRhZDHYq809Z4jhpa/VByJjCzXojABPya+lFoAKQeBvBxujim0YOpcz3B5lc1wfy4c7rWdO/I5T8OxvPi2s4HigBNJNo5E+0obsOwQ0zMgcjUHAGABkBpc21vnmsIY5/beUPLcNQ2BReboy3UEnqmmQvkGlzmuhd5hQic3aeEAz9pIuWk5T4htqFqsh1Jtvm+o9bt61IqEOmkO+wLnMmbyelbY=;8y5IZqmY4Z3c3RdkuzTs9Q=="
+secured: "+IVySYxyNuNtVkTT7X2HJvrLBtedwoSdLPSMKgvRdpc2uQdAFuqcWe/VdwdgGkCmzTxPhzcG00ySGsMO9RyBszbLLA78dSDk5n2Ovhg7pVLbpT2XH8/5FQObvRICvDB928WMJ5VDoeCtaT0knYkUnzX8VPX2eTyqTZpGG9Sd4hkG1Kr9beXgoj2+1eOr9SebUj1sa2W4s4ilT0KQMJIDwVB+Bp0Wg8sZ9cRFLVTUbqhNiDE9+gDs18gEJe8fHrNF9D3Z5e85F+3Tn0m/KO588WRF/x5+nnITrCxBdiTy7IE8r4E4BgAJP/1RsmeRJCj0sKWB5UtO+F+tgmMFH2juU174v3Ry3CwKnzaXy3Zi/kx2pRxRQcFQWP1TaeOyJNgXZUXyCMAtLl+k5G+1ETpDlEUjT1ptWi0PUl2S1IC+yebXEwUHkdWHCqw2nuAzw5qPLcwXScoq228rSvRqq2IYxj/VDByQLB1JM+UtBAJ8xWegXCY6eA7Dw8VX2ShD06yULysJ2tSur/UO+wK3uCR/Gw==;2BwPmF7V9tl13WgIk7qvhg=="
 ---
 

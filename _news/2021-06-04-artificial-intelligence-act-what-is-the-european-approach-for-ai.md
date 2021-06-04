@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-04T15:50:00Z
 originalUrl: "https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai"
 webUrl: "https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.lawfareblog.com/sites/default/files/2222375123_2361483d03_b.jpg"
@@ -39,6 +40,6 @@ related:
         height: 533
         isCached: true
 
-secured: "kmYfus8jycBE8uA6vx6mGOtIEbT6CUQYZ49OhF8qdI4k5BppUAwYNbObTeavA3fpcjwrapVxluYjzZhWXxfyOtXW2l7pWpWmXvkB3nWxxJD9G37kzjeQPhG32RZAAF7VZ044nxxEpbC3wXYY/tco5VX11Zx5k3X40Ayw9009wpZP5iNlRvm9sazAhhmJX2ftFq0w222BolQYZ70sM5uhu3Aa6DGsRzhGf2XUZ96n1P+dVTjccHIBBLWsRBikYa3jdAKHlY8BojDFNgYMeKQZ5r6XqsAZElY9kxp6HxqxJtSYV01Iu/DZ6beQMmaEgcj4xrPpLkD0V/yPS+hbUZkLzQLfy+WLbVvjevB3DXaj1+E=;8VMobUfeoxNlTkDcJpTwUg=="
+secured: "GJTiOoQmX6Gti+j6Xma6r3p0nfFVJNsg6LPey3cUBHspXv7Yee5tpcoiLe1xWceToad6UucqspE53fMo/y7Zh/EMARh1szttbLOdcdSfklHtKuz9IY14XyU30l5xosE2bWCSLbfDoNmGC3edoRyE6Qs8pBNjEZtkoP2laMxCxzx5VPDbc5spUp3RYsJmnW/VajJ7Vnq8Tr5ukdVF7Tp8YGQVdsg0PkRlPGrfPz8icuzmDCj/jRrVOOKNnBRF2leuZyiLR5C7Lmgggsmp2Nf+N0HBl4NE5RObrjxs7fbj0CWNDn2IztZZ42kz115QsRp5wHmcJh6jFSeOGA+AP6fsJ8Rw6OMGSpWeHbRCUXAVru7z7c2C8C9H2eu66wotRtY+ogZQIxjhmcjDq6+Jck6F3OUpwbMe2H68X4Oss+klxRiRtbPG9oYa3chKU0RbUt8bI9c/+INvoq9r0FnEKiHRrzjSD/HE1iQCigh5yM1pCEtdfCtfjrC1lyv/Duh9Vp1Nr7x0NrTWmGsZHXMKo+1BDA==;tRoiEOdltLFEeMlmXv6BZQ=="
 ---
 

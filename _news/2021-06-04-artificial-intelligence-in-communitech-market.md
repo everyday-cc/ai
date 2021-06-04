@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2298702/artificial-intelligence-in-communit
 ampWebUrl: "https://www.openpr.com/amp/2298702/artificial-intelligence-in-communitech-market-size-trends"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2298702/artificial-intelligence-in-communitech-market-size-trends"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.openpr.com/U/6/U604355779_g.jpg"
@@ -41,6 +42,6 @@ related:
         height: 684
         isCached: true
 
-secured: "ByoOesBuQ8yOssNJ6t4qZkUmOjQ6n/8OsBOd6xYd9TkJUd7ywd4BQ9k7Gc0bNqnb3GrHuJPpZtoPShZpHOdMmHVKuqcb6+ODaTJBcvot7KvjC+pA83hhkM1hfFyeKddBoAhRxqijf0pjt6x8r2g0B14rdaTUbLEXTDu3x7cuF//e6vo9jO8MdZjOnWcyGkJVs+j2nQOdcsc5enuDKnH1tUZcxB0DT0BdnuU8jvXeE4ld5mLUKVRC6EZQKKwtPqmf8a8CshfSogCI17MwFFA/tvvyQxuCzF8nHgTD4JrwsHFBW5eyX+vytXpMeXsRPsdPMKeDnCk3ulnyV7HR69j6E1+n8HCQv3fDP9p10Cx25D8=;wbhUNCudvpSAqLi6hUeIrQ=="
+secured: "8XRL+XuvuhuVtFgJIOqXnT4wYZKL5s15ro4HZs4jtffvWDavbtRBH0ZmivvxQJUcP3XC+8/JSki06+HuS2ozcqpCUpt2ZEMc2ndfsFj0eryQU3H0/0DgU6ha31l6dnAymrWfaoAqVhTA/FHy13eKJwl5/hRN5OzqvDRW8ItXO78en5yfkr0xuK1ezFA6kgYFJXMM2H/7Un7FNJTU8+1lqCYIH3gI0QpQdPRUIieodpFO8EUZeg+v5HT+fwsNcqxlzL21evfxSa5R+hatUlvMAIMuWzHxrkN7ImJf4FUwJhpWJjkbOeI/HeHeFL3V2AMwcrEMtqbfIoDPsqXPzoX+90Lu8Hxh2kCIWT2kRw8U0ZGuGPOMI13WZtJ/WNHiusUKKFTv42yBkKIFb+9CD1+DtDvChEMcIWTaIxA0gV03DDGxIdpKsJDG5DEvBzYvTAEY0eovLUxwR/Smxo1PUVaSQvoZO5B9o2HUtwVtxCBuEZ0TWVu0UVpZ9OC4Qdxe1k22dFMJ6EDPMJzspSgz+nS5gQ==;+2bi8qy2Mhmw9Y0vDCL+mQ=="
 ---
 

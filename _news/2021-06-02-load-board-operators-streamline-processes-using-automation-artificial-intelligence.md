@@ -7,7 +7,7 @@ originalUrl: "https://www.ttnews.com/articles/load-board-operators-streamline-pr
 webUrl: "https://www.ttnews.com/articles/load-board-operators-streamline-processes-using-automation-artificial-intelligence"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,47 @@ images:
     width: 470
     height: 246
     isCached: true
+
+related:
+  - title: "How AI can simplify, streamline, and enhance supply chain operations"
+    excerpt: "The shift to advanced automation and AI was already underway as IT teams streamline and enhance their supply chain processes and operations."
+    publishedDateTime: 2021-06-04T17:20:00Z
+    webUrl: "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/"
+    ampWebUrl: "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_708536860-e1622819708357.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How artificial intelligence can enhance blockchain platforms"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
+    publishedDateTime: 2021-05-31T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/currencies/news/how-artificial-intelligence-can-enhance-blockchain-platforms-10190893"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+  - title: "How artificial intelligence can enhance blockchain platforms"
+    excerpt: "Artificial intelligence and blockchain are both touted as technologies that will lead our future. But here’s the problem: They’re like oil and water. While innovative in their own right, there’s a noticeable lack of interconnectedness — projects that tightly combine AI and blockchain,"
+    publishedDateTime: 2021-06-01T15:00:00Z
+    webUrl: "https://www.investing.com/news/cryptocurrency-news/how-artificial-intelligence-can-enhance-blockchain-platforms-2520182"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 52
+    images:
+      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528132.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "3Ivv80hhB98Pqq+ZhYtdtrmDHcf+ssEQPdETzF1RNpdPxPQTsfjZVzqHc79u64rObHicS3prNvmO4sizGp31cUng/PfqOxe6/D4lC3luE/mCMkRo4xgZCf0PQby2IcHwSZ/Sz1hPLKlf4k9ixAmfvXZPINdMahBTRHBaPR2zX8rYjLO7BzN0jThHKNbzMImuZmYZTfmngKS8/H2WQyZVMaW24cbXcryAYoS70kBBvOVcIN0u7xBPe9iWe9t/vo1eKK2de3Td6oVvrF15ekPA6RF4JatnAxomp06+lfqGfXAf03ZUubShc7U34gjDX73JWS9eXksdkB0BwHqmpKJrM7uuOmb5Bym7DBLy1C+dM4cInJFMM+tsDkvtNl3YfEnjGcthr/HpuD3aw3jX8szHOX1RUJLDAU2xykZ+bxjGULAb5SYJhwM591bpCY8Zknc+Nf9cSJANKTZksm80yrFWqc9TzOmbjnPyzDZpExH35zjC7wN5LOusFO3E0QO0vFDZBHEUDNW73kyBOWTT9HZLXg==;zU3l1fS28FucvAAn9XsmqA=="
 ---

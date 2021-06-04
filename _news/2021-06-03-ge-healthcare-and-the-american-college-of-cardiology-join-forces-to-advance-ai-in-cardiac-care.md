@@ -33,6 +33,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "GE Healthcare, American College of Cardiology partner to advance digital technology in cardiac care"
+    excerpt: "Healthcare supply and service company GE Healthcare is partnering with the American College of Cardiology to advance artificial intelligence and digital technology in cardiac care. GE Healthcare will participate in ACC's Applied Health Innovation Consortium,"
+    publishedDateTime: 2021-06-04T16:14:00Z
+    webUrl: "https://www.beckersasc.com/cardiology/ge-healthcare-american-college-of-cardiology-partner-to-advance-digital-technology-in-cardiac-care.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 25
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-mobile-logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "qDIv6JGLsjtX7KGnjbe7zdE677D0CDHnbZGQvSxUBMTGoB/wvk2GS5/6P0ygbZduCejXAJi/SYeAFYIiWS3yTWR3kyuLMd/KyUm3vlU8JoBjRklXqYLTp1+sL6YuL2MdCoY8a/FX3aZo5t8msVkkoL21/qWvsxOFUsguAOrUtnPhFo2tkwZ6bXz2tmxWp547t/pNCcEL/4l4759phAi7CmOlvX0nC/ilDkjDVIkiO8O1lPUZxr7VKgJUJXeumqvs/g5dTN0n3t2poeE/56rBPERJUx2uHgDE/J4X4stVHZUkmt8j2ea5iMRbgsGJ3PnzuoXHBp9eK0PxprHgFj8I9Z9zgqQvmZR8zVYeS2+WpB8=;oe++J2Dcz0UOap8Zw2koqg=="
 ---

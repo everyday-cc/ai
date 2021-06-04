@@ -32,7 +32,7 @@ related:
     provider:
       name: Lawfare
       domain: lawfareblog.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.lawfareblog.com/sites/default/files/2222375123_2361483d03_b.jpg"
         width: 1024

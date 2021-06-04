@@ -104,14 +104,19 @@ related:
         height: 339
         isCached: true
   - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
-    publishedDateTime: 2021-06-01T13:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
+    publishedDateTime: 2021-06-01T13:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "6QolYdd8482vNi+tf6WTUOwz6u3NhPSUyhEDAs88b2x0hEDdOolPF7I4r1ofX/5pdtSxTp6POLyQXj3o/trxjBqlY6zHc8aelLCFC4etJEYDxSTL8XesqZy3K+gBzJc132aQSg3oZSGrv2gnN775SuGRYoHYS658nh58c51W90qjUi0egCiRSd/1kfeqcSGmj0a230P5CXaAQIm9VoGAw9duecXz9QL1VzwYdERQNya8mQ/CvS6+Je7KDpEu0wIrcUlElpZW8kIDjkRmEqz5QTuAzURdVvwr4OX1awcOcjend+8aFpnXygcEqHHdmyHh+D+kjGbQ9/oUSAXf+Ie8IsH8HMnGtXJzHG4bUnkmpSJ/dEHFqvLMz0knAkPvjJ9YYR9GPn+yTNHuAuMqUVzvXVPOBJaoSpmlPNqVUuNextSvxPXfr0kShesDS6hObDKcWNU5hafaeQpER3J9vriQiWo5NK+75Ee9VVPoV6lv3CKvXPgXYSTQISqEi2EvKZ8TswUqb44prgSn665iRPqomg==;6FFnrdwpSgQ7eoCY/G/iNA=="
 ---

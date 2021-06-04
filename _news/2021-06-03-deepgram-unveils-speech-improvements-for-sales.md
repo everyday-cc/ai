@@ -3,8 +3,8 @@ category: news
 title: "Deepgram Unveils Speech Improvements for Sales"
 excerpt: "Deepgram today released real-time streaming and solutions for conversational AI and sales and support enablement."
 publishedDateTime: 2021-06-03T04:00:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147222"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147222"
+originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Deepgram-Unveils-Speech-Improvements-for-Sales-147222.aspx"
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Deepgram-Unveils-Speech-Improvements-for-Sales-147222.aspx"
 type: article
 quality: 41
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 600
         isCached: true
 
-secured: "+DsNVx0MPavk/tgFg2XYyvWRxcGo9vDKIP8+YweSzDiYrKhdVNDybxbcdntb+VLpev5P1lJwc9DWF8nu5SMUfZD97HLEfd+hBeKO2rvD/opbjpELJWdcQvyqWlsxRkn4f3MxwTFxcuIkmPX0b9B9sq4CiZ0q0nQcoCutAP/3DYGkmTrnbbvUOBY6Yoe5s2abEs7c2MR//mzolwrthHCRa1rjsDTrWsf0Ie9JfmBUuSgxnQUU8r0dRrBZdO5pxOtLITomEaVBPk2SrlJBOlFk5R2ewLejSzTeiWWk8AkDH40BQu0+UPfZrgl0t7d88VnCpGCWs3g7dqjHAxz8BARWDnoN0B54AYENirUvdtr2DeQ=;8dBS7bu0LgHWgiaz/3pQLA=="
+secured: "Sd0FjL8D6BtaYXwwVkCthn6PRJI3YL0qq9lSilfxFc05edJcQAeFY0MCZNfGIKZjJfDF7/I7g4aMxjfC55huUrzo24jGTVPpnw1l+56q55n36uucnkI6isFxvfoEmCOTDq78hyo7BBSyTlDwlqwyBjlNNOrMIgFwrIVdYNTIuMLxLlhH2O+LDJjZoo7j2aqyTTjUOWUksXq+MY8ycoqtSbYbywKYi608vEJl4mfjteBdsFQwgfzy6zxyq9N/I9XRuE277Qbn2ScvZ8j3ZREcTx5+o7KMJNNj6647mPLuzdVwNrlvVwA3hiCFIcstq2LHDpiHhSSOTggFShGHYRBp47BMxvZXZAhVxmBluZqDrmU=;x0W9Yrf4UnuMPjG4YYLQnw=="
 ---
 

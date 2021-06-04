@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How artificial intelligence can enhance blockchain platforms"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/currencies/news/how-artificial-intelligence-can-enhance-blockchain-platforms-10190893"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
     excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"
     publishedDateTime: 2021-06-01T09:55:00Z
@@ -80,28 +71,14 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How artificial intelligence can enhance blockchain platforms"
-    excerpt: "Artificial intelligence and blockchain are both touted as technologies that will lead our future. But here’s the problem: They’re like oil and water. While innovative in their own right, there’s a noticeable lack of interconnectedness — projects that tightly combine AI and blockchain,"
-    publishedDateTime: 2021-06-01T15:00:00Z
-    webUrl: "https://www.investing.com/news/cryptocurrency-news/how-artificial-intelligence-can-enhance-blockchain-platforms-2520182"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 52
-    images:
-      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528132.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
-    publishedDateTime: 2021-06-02T22:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
+    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
+    publishedDateTime: 2021-06-02T21:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
 
 secured: "9tlk96ZQH9660YlRfoq5NIVOOwtZeMyRLHpbxCFyZ6f9IhiTwE3qiB5WKxyaNhLeDREzPJ63aaklc+avM8bAY3lhBYj8XZVmbbP11qo6r4Qaeq7H334Y13iPW02IUPosPvAQAgo04meOgISA8NCdJWzZ7k3e59rlCtw6SBK5+saCNK/ZZJGzuY6cVxHpJ3W1A8AVOTAfn40v2AGwjswyertc+uVoG4DNDKhHRipPpIvqXoYkbEWTspzsNBbkr/wOHPNBn0HWfHGUY/hKHf7y1/HV4NThf5oTQASLllZgmWqztpSJnZLNGuyLTeqOB85jATx8+B69S+XJ5vqt6WcoGimFX3j9vJviae4EPyb53p2sAsI0fxAxIvDpkqvUn4EUbextb55jBh0p1nRSzghZnw4dgjkI8LsndqZPq8KFuW1IWw92TuSfBmLJNLcJEfb9LhX5ZSkUMyPSX+Czs2QMgIelY4Q8ansTybv462PZjwdZ33sOwaSpbVVB52ckKKKHJQRhhB9PHiRbl7U7zSrjGg==;Rty6nC2mbLr6U1sGHXU7ZQ=="

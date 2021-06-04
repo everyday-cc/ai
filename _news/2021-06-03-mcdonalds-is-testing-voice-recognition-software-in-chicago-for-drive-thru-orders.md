@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "McDonald’s Is Testing Automated Voice Ordering at Drive-Thrus"
+    excerpt: "The fast-food chain says the system can handle about 80 percent of orders, after a trial at about ten Chicago locations."
+    publishedDateTime: 2021-06-04T16:27:00Z
+    webUrl: "https://www.foodandwine.com/news/mcdonalds-automated-voice-ordering-drive-thru"
+    type: article
+    provider:
+      name: Food & Wine
+      domain: foodandwine.com
+    quality: 24
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2021%2F06%2F04%2Fmcdonalds-automated-drive-thru-FT-BLOG0621.jpg"
+        width: 2000
+        height: 999
+        isCached: true
   - title: "What's Next: McDonald’s Customers Order Up BIPA Suit Over Drive-Thru Tech + An Evolution in Ransomware Attacks + A Trial Over AI-Driven Chat"
     excerpt: "A proposed class action claims McDonald’s voice recognition technology is storing drive-thru customer’s voiceprint biometrics to create a “tailored experience.”"
     publishedDateTime: 2021-06-02T23:03:00Z

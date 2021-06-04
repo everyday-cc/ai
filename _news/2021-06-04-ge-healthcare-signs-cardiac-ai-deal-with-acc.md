@@ -7,8 +7,8 @@ originalUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132568"
 webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132568"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: AuntMinnie
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GE Healthcare, American College of Cardiology partner to advance digital technology in cardiac care"
+    excerpt: "Healthcare supply and service company GE Healthcare is partnering with the American College of Cardiology to advance artificial intelligence and digital technology in cardiac care. GE Healthcare will participate in ACC's Applied Health Innovation Consortium,"
+    publishedDateTime: 2021-06-04T16:14:00Z
+    webUrl: "https://www.beckersasc.com/cardiology/ge-healthcare-american-college-of-cardiology-partner-to-advance-digital-technology-in-cardiac-care.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 25
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-mobile-logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "GE Healthcare and the American College of Cardiology Join Forces to Advance AI in Cardiac Care"
     excerpt: "GE Healthcare is collaborating with the American College of Cardiology (ACC) through support of and participation in the ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes."
     publishedDateTime: 2021-06-03T13:10:00Z

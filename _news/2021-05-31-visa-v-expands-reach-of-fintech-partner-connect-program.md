@@ -103,14 +103,19 @@ related:
         height: 339
         isCached: true
   - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
-    publishedDateTime: 2021-06-01T13:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
+    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
+    publishedDateTime: 2021-06-01T13:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "WjCTNYOhQfsgvxdGaEeu7Yn9wjPJHnqxwgrn9qL2I7cYx1rpRMMqHW6Um7fIMz8U44qn9UPQkycAI6v8xMXKtZcG6mkz7c4+qJAcfGFJkld7cNKHG/CePsOmVr6nKabRvmvDQfkX/C+yqAb1v/H55NpS9lFdui6lyCvv76DezTXbZQnqEfykAlKp0m662J1+ipd1rvXrQfhFIbjhStZfNDaOyobFGnkVlwIuLXylICwe+nMBN2HqaaDrygW7hqfKu330TpS+yKgbKzIgrnLG5unDa6+bf2TfJndhvsP7MB3F++NAQQAMFP8zNY5s5lgZuVd/OgCzXsnZ1ellXxCNALJ12eBmNQ294la7txJ6Cfo=;i+J3Kk0+aECqRpHu1GEKNQ=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect —a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
-publishedDateTime: 2021-06-01T13:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fintel-connect-joins-visa-fintech-partner-connect-bring-/2021/06/01/9381352.htm"
+excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
+publishedDateTime: 2021-06-01T13:34:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "Visa (V) Expands Reach of Fintech Partner Connect Program"
@@ -112,6 +118,6 @@ related:
         height: 339
         isCached: true
 
-secured: "V4aqRb0qYcwqzHIBb0qRIlt3afFFZcRMt6Ra8oVMQTKobVRSYVGLpt1bnE4MiYhw0CPzatndihhCo73xGINx5oXN9g41Dj1fFxxr/p2b31iEkZ00N3jmzImZJ2V+VAikeGTU71VJpvyDqlbDACfZiFvG+NguDLuk/iQRxZsb6eSWj/0XzEuqe9KFGSjBAG5A962AaswCipC3KTIaCw3hE3KnKQUbHwDSEhG+8jQIoAjtLqC1uLFE3jm0csYNMVvNo2Jn5dQTHMks3G46M+uW1C437FRmucawG0m6OCA9ZmardgqtJuL42Vceb7M59eJCrjzP8F8QBRhb++yhulzJfIt8N//09JlHt2aoO/obgbo=;bvxZNQwwRDxM3VouACQxiA=="
+secured: "ntyUzP5fGKpa5nUbMJ2T/SrAcvkNPPz3xoD5uM6k61Hsqm3X6tVJQ0pe0rDDM9K8sCcfY3K5m+rc3j8U2vEt9Dt3JokFjHheZRrp3tcAamHsKA1Cw6E9g+sezAk9UKtSPOFZYfJU9VCnhIgLOn1hAtNgdur+wwVIlQW/qtPN/+Pbqb8WvFK8IxpfnL/v3Ri4UYNF7Wq2xltoB9vX6uShwfHw7k6kaLaZHIfTVEt2DsPLC1lmdD1o9nlAZbApJxskKIsG9XQWB5f31LCSI/pRKyFG9gvVill2LAXDL7hovu1KMVsJot1UPHtcFUHEXLZ+ESwi6ShMpf3yagTLiZI4L1eOytO7bb/CmOxP3LjZOtg=;WzQUnPxaX1JZDoqEjL6rqQ=="
 ---
 

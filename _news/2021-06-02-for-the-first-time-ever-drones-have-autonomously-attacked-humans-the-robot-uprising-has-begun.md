@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Age of Autonomous Killer Robots May Already Be Here"
-    excerpt: "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week."
-    publishedDateTime: 2021-05-30T23:45:00Z
-    webUrl: "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471"
-    ampWebUrl: "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp"
+  - title: "Autonomous 'Slaughterbot' Drones Reportedly Attack Libyans Using Facial Recognition Tech"
+    excerpt: "It featured swarms of autonomous killer drones using facial recognition technology to hunt down and attack specific human targets. Now, according to a new United Nations (U.N.) report on military activity in war-torn Libya,"
+    publishedDateTime: 2021-06-01T20:55:00Z
+    webUrl: "https://reason.com/2021/06/01/autonomous-slaughterbot-drones-reportedly-attack-libyans-using-facial-recognition-tech/"
+    ampWebUrl: "https://reason.com/2021/06/01/autonomous-slaughterbot-drones-reportedly-attack-libyans-using-facial-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/01/autonomous-slaughterbot-drones-reportedly-attack-libyans-using-facial-recognition-tech/?amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
+      name: Reason
+      domain: reason.com
+    quality: 50
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dca2c6eb2c05d71e386bb0b4cdb8c47b.jpg"
-        width: 800
-        height: 450
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/06/Screen-Shot-2021-06-01-at-2.04.41-PM.png"
+        width: 919
+        height: 535
         isCached: true
 
 secured: "xmv2tmoS75Njx+NsTLvSAcL37qZzgGyZycr8T5RL81tvo8+RgIZhgfoDtYCbhJtApewknrIE1AP9RunRQZl4f3EitgIRs11QEIxedYRtjIzP61uuz2dcrH4PY7UMZ0b8ta9unE43ilE/T1jMJj0uMlid8QjEYrensAjN12OMqPbyJduDeb6ZzejIhesnlYFUuMsuvhRhrzSlxusdPgwg+RyAZiHseJc2adi2mlzwO7PPyneZWkm90JRgw0wKwYltIqRNgBO9z2XNOegyQIR2zojfIwYbUv3pHn3RObvMsC7YzdpemD5WM8yJ6s3UoJ7oTfrKl19cD7KjlebwWrOZch9gb1y5qtHhGgQyEv5ufe65KxKoGZ2gb14oxX6kwip+Db8r6HBJFpGnYjXodMbroDD8RTkbH5nbUSJuMceKqisSrkBISaNZvSKI4DLSP2uhlzWU+QeSat2DG8NjGsXydOhhLwGgKALC0GO5yakTcOsep8PeYkoBbEy0RcElt0mnhR/q7DyDJ+F/rmTSdDpG+g==;SKAQyqDjZnQS4+TcVzgBvg=="

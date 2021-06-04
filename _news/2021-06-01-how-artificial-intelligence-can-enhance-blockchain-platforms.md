@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "EIB sees up to 10 bln euro investment shortfall in AI and blockchain"
-    excerpt: "The European Union's attempts to catch China and the United States in artificial intelligence and blockchain technologies are set to be hobbled by an investment shortfall of as much as 10 billion euros ($12 billion) annually,"
-    publishedDateTime: 2021-06-01T07:30:00Z
-    webUrl: "https://www.reuters.com/technology/eib-sees-up-10-bln-euro-investment-shortfall-ai-blockchain-2021-06-01/"
+  - title: "How AI can simplify, streamline, and enhance supply chain operations"
+    excerpt: "The shift to advanced automation and AI was already underway as IT teams streamline and enhance their supply chain processes and operations."
+    publishedDateTime: 2021-06-04T17:20:00Z
+    webUrl: "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/"
+    ampWebUrl: "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.reuters.com/resizer/pzXDSh8-xxazcvwwqLRTlYtSxfY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NLED3IXHE5OYZPUVD5AVAJNT6E.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_708536860-e1622819708357.jpg?w=1200&strip=all"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "France Deploys AI in 3 Billion-Euro Plan to Save Small Businesses"
-    excerpt: "The French government will use algorithms and artificial intelligence to identify small firms at risk of collapse in the wake of the Covid pandemic, and provide as much as 3 billion euros ($3.7 billion) to protect them."
-    publishedDateTime: 2021-06-01T11:51:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-01/france-deploys-ai-in-eu3-billion-plan-to-save-small-businesses"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikH4883W5N7w/v2/1200x675.png"
-        width: 1200
-        height: 675
+        height: 600
         isCached: true
   - title: "How artificial intelligence can enhance blockchain platforms"
     excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
@@ -61,47 +49,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
-    excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration"
-    publishedDateTime: 2021-06-02T12:02:00Z
-    webUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320"
-    ampWebUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
+  - title: "Load Board Operators Streamline Processes Using Automation, Artificial Intelligence"
+    excerpt: "Load board operators, logistics companies and technology vendors are increasingly utilizing improved data analytics, artificial intelligence and business-process automation to more efficiently connect loads with trucks to move them."
+    publishedDateTime: 2021-06-01T19:30:00Z
+    webUrl: "https://www.ttnews.com/articles/load-board-operators-streamline-processes-using-automation-artificial-intelligence"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 59
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 31
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/10/GettyImages-912547822-e1539707985381-620x249.jpg"
-        width: 620
-        height: 249
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/load-boards-1200.jpg?itok=7GG2OQ4T"
+        width: 470
+        height: 246
         isCached: true
-  - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
-    excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"
-    publishedDateTime: 2021-06-01T09:55:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/EIB_sees_up_to_12bln_investment_shortfall_in_AI_and_blockchain-TR20210601nL2N2NI1KCX1/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/200716071635LCVC.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
-    publishedDateTime: 2021-06-02T22:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "KWm+qRJMXdCqSOjIbsROYbKj1Y7ZV5Q+ZIHg8pCV1GGUx8jy2UDQhYP7kT1btAW8VpMQcyjDrtKknQOXVlvr+9bnaDoZRMqkRu/y4zQ4JyE02soUVwjGcDxJhX7sIyRuuy0QIvqprsmf8ILVvGlZXPZ9hValSPwYnjA5JaWFFHRJSfivK0drqFG9E/6Gjs4DN/gu6ZlZnXMsq28pJ3zkXRYVhaJ9vQZ7bPtK3hEvUcgXI5biNDGELdJtp+lVocH0da8f54g07PMCcqpWvvsiBIrhv98ffdH6XqBpm0QZ3+Nd1dgjA5EyqGcyUkNLY+Swkcfy260avHCxEQzdVqSnqoEJL8/+5BCqzxQCKyKhLBI=;vmMogi9XMksv6fsh/vWf8g=="
 ---
