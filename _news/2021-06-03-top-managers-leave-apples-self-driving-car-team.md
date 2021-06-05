@@ -1,32 +1,31 @@
 ---
 category: news
-title: "Automating Care: about our new series on the rise of AI in caregiving"
-excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
-publishedDateTime: 2021-06-03T14:54:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+title: "Top Managers Leave Apple's Self-Driving Car Team"
+excerpt: "Apple Inc. has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. Mark Gurman reports."
+publishedDateTime: 2021-06-03T02:28:00Z
+originalUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video"
+webUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video"
 type: article
-quality: 57
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
-    width: 600
-    height: 360
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdIoLVg6Uqo/v5/-1x-1.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -46,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Automating Care: about our new series on the rise of AI in caregiving"
+    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
+    publishedDateTime: 2021-06-03T14:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
+        width: 600
+        height: 360
+        isCached: true
   - title: "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars"
     excerpt: "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars."
     publishedDateTime: 2021-06-03T15:30:00Z
@@ -61,20 +76,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Top Managers Leave Apple's Self-Driving Car Team"
-    excerpt: "Apple Inc. has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. Mark Gurman reports."
-    publishedDateTime: 2021-06-03T02:28:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdIoLVg6Uqo/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Apple loses several top execs from self-driving car division"
     excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
@@ -158,6 +159,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "ogjAtKBrqnxa7I/pIXo+xsx1ndVsvKjg1jozHWVxtJlDZSLWrTVvWWzEu7uQjskZ/s9ybdC94CVwHd2ZtLxO+EPS/AstkNPYyFJDXaB6Uzs6w99UDKiTEWJ4sTDgw55NoT434+vsLGt/eMEWCjRQqRJgIz/AWIgBTp9rCOuoIw3sYO9Y2aMJ3j/gg3Dk3JZ3JtGJv5pPp0mK9rlOqRS34tvC/GZyxgm3aiMStg4hthhkdIxCOi8pFnCkrQ4zKjr37iYiSgywrch7JJcxcLsh+9jgA+oHt4gt5PFArU0HblTX8VKh363J0/OVs/SMmNDpItPKLhB2GlCDz3HZ1guWzOPfFN0V1gmdrDhZ58F+0BQUDXO47josENjm5O5rRLHUYmvy0sSpujIzsgVYg2nbOc/DnaNyxLaZCbCRXCLnk609Co9hs3Rw9ZgiqM6w7j5OEfPoAumFRU84L8mmqUYVR+TCBujm6vKxbF9Yc1D2/sI2p3Mz/0XNT+dw46IXXXmZR5PcbmbUXn1iepFdvMupvg==;OtOCWDUaFn50zoSsHcZiLw=="
+secured: "PXG0GNG3Ik5KrBrVDEnomfHDVqlcNwZCW3ENSp4lSYN3i+HH1etpXf4EkoWnWEyDNN2o/tj8PChMFdQQZOV8+kByhNFlxUFMxk9VcewWITfG10k/eLFPXCJdK+mNiObMwUsQnBg9rLe8YNE+/ogjk4W3j4hsR+pFukqdH739U1gF0vibFHUGCYMNdayFc7CVGJJr5LNQeudLeL4vtNmI2z5u3OqkUEWWtqF0x9KMhzJoDxGDneQpMj/aGB+SqnBU2ygf/FsRUIQI+Wrd40gDZclDns5kHYXUCHGiWWH7KQY1coZWcPgHJLJfMzm9eOHgtxMaSlnikmADWGPI3pq7xvk2fzRgmsxrAXFndpSfC+Y=;LD3WUu9IVSxJGKEGp7yt/Q=="
 ---
 

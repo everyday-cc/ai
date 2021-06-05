@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Transforming our understanding of deep learning"
-excerpt: "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent."
-publishedDateTime: 2021-05-26T04:00:00Z
+excerpt: "A team of UK scientists from the universities of Bath, Cambridge and UCL aims to make Deep Learning (DL) more accountable and transparent by better understanding the decision making process behind ..."
+publishedDateTime: 2021-05-26T14:08:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
 type: article
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "wk/6WICWvOk3tUDdtQm3Wp/sqtRzuxmFkV6GkMAghdOr2p1zOI9vDrvqFKF/TPg8lz7rFXiZCd+6sOEZ93skDz/cx9HONAel1qgLElc9akZgYkinlCGnEbW7KJTr4lDXrjjdi74VJglZmMidUs4w+MmQcjBPZaZ11gyuoCJDnqALHIRCiETYM9CeGfePHaNwDTtzhkOT0qYdmzYtBdXxf92wLqPnZhHj9EMRJCWayOLOCunAW3eUIFHKybn/cxABFXZljnN1FOVJrejkvT9zDhr78xv+l7y8uTVqsdvyXJQ0CBl1Wb+K+zmsbI+dQpd6VJOelMTaW2QPtqKrPFEynPEQ0LFkz9ijDsSWlI6MX7Y=;6kESJAuo/wKtCQqt77Zc7g=="
+secured: "9s0fOlkkwU1OVFvDR5rvPzhHH/tqAOvqboKOzCqC2+6r3dRid4bkJiloystv6ZouofyPKxeOWSiFWuWVd5G5FOtr9CFIBCm9y+/rr5vVZt7N3LbF5m48qZdNJIpj3lzu+P5GldGqJA8JJv8dlYaQFvS27QbofAp1KBT+8MedDsiZA/9ImpjyWtd2PcD/sg7oA70GLVPRZVFea21bCgg84QHyRvqUceHrD+Bee8HdCkhky+gJIjg/1d/T181lJsj2NZLrTC/BBqnHZoCEG0R1ifHsaBQOxYI8mOFl8hsXdBktcFpD3K/PEkksM3KhSMmIV96ZwPV0Hq/Np58Jzvh/oH0l7jbkVOEfIRzXs20CwBw=;lmjQ54rqDdlG9loSR8hISg=="
 ---
 

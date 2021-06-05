@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America Artificial Intelligence in Healthcare Market Outlook for Major Applications/end Users, Consumption, Share and Growth Rate 2027"
+    excerpt: "North America Artificial Intelligence in Healthcare market report leverages expert verbatim to provide insights about the Covid-19 impact on the overall revenue and growth matrix of the business over 2020-2027."
+    publishedDateTime: 2021-06-01T07:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-healthcare-market-outlook-for-major-applicationsend-users-consumption-share-and-growth-rate-2027-2021-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
     excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
     publishedDateTime: 2021-06-03T12:04:00Z

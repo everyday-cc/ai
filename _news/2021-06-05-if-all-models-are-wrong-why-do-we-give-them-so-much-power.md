@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-chr
 ampWebUrl: "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static01.nyt.com/images/2021/06/04/opinion/04eks-christian-image/04eks-christian-image-facebookJumbo.jpg"
@@ -30,6 +31,6 @@ images:
     height: 472
     isCached: true
 
-secured: "+j49HYiUNw+BPQ1BKBaW6Ghym3MK9pAbkZJcueOX0DBfVx5R11V58LxUWll1G6IdKGyNT6I34njQYcEu4LalIdKNMK06r5SoT0m3tFhQ4ionUD1GvLnwEoiIYBexT7GgzLj8PF6B+KMNmOaaqbjy77vXHmN5YrNDM2rfhWlj4samfMvOEs40lgjPVoBVdrivWK3jEiu9QgbZfW3Z8ciJ0RaJqnnwr920XJaSugattu/ufXRcDjifpDG/HRZ3LYNTJIQA+GNhE4qKPJpk+7aaieaMt5kYeAHHgnAazixVygVDpyWi/70tctV4Jv4ibZPog96Aju3iJ5euv1akqAWaVzHfZBXNW3HFr1P+NxCMQhM=;DDYzMJVy2I0ssxHb2s4gSw=="
+secured: "UeyYINmMW5Mzy35JJuWQ45KSWR8zT6oq6wre2GlnTTY2tIict4ZI+y644LP87UrNX5rXXQpEfIB6Kj+KuUu7pFDgrpPVh+YiyZIiv3QZK8y6VwT+F6GWZ27lV6GzW7tm0U47FKtr1mB0kBptFQp074L7PQj2HSxaxuYo27gJ3H0ZLuzAd9kXNvRGzEs6lK+Bu1kH5O3VfKRXTUl+hKqMLMIcbM9qw0mt0xll/99TQxIclb/QHbpmVnn94twYSlNiyWZpKyI4FfJCAjQn2UGp+7CxOB7/18OWKblCYTHzy7tHD1LvsbYXJ23M1LbpwWwKBJ2gmbgPCx+wdqPhLbX6Kpc9lQBVFjsTCmzxdrXMDhOUhbxh0qw0O6QBEMu3GteopKw8JJfK+epCzuL4reD+VdtN1lqedRIvaalH1urQswhOHhw3mkpmXvZn2gdpAGSujqGG/7CfSk6ouBRiG63ew3LWSKQAXfDDgVMbhUZ93dVssyqqHcxvZjz1fWWLu4CK59EGwWPctzB18Z8E4gq5cw==;vZNTxr8LKRcwBCnHbPobSA=="
 ---
 

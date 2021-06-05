@@ -66,20 +66,6 @@ related:
         width: 1500
         height: 960
         isCached: true
-  - title: "Thinking big with cognitive computing"
-    excerpt: "Global IoT is set to reach USD3 trillion in value by 2020. SVP Li Ruicheng of SAP has the details of how technology and industry will change."
-    publishedDateTime: 2021-06-01T03:12:00Z
-    webUrl: "https://www.huawei.com/us/technology-insights/publications/winwin/24/thinking-big-with-cognitive-computing"
-    type: article
-    provider:
-      name: Huawei
-      domain: huawei.com
-    quality: 24
-    images:
-      - url: "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/24/09-en.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "qHlCirAnjPvddIPO3PBNPsO7LmJ8MsKkD4//7XyYlcCl4j11thNg+sitSZws3Hg8mwPyql3z+je2EsVNoNXkzpHPDX8ObQ082wkuwlyoEzi9SrIySNKiyBxzVQr/wBvrkT82xvTr3LwgjrahsHyfBjJLo8AVy4YiypO4hvtXNA9cFqifVm2XwzmNBKJB/s0qRKMk8HmFnGJFcPl5WvtF92b+4PoJJ92sRfGe02sOFVzMbHTea6f1ZV73smyNbfNB+RUB2h2acrs6G/9oXogu1oaR1hI1xXM4zdQ4gSQ00vIYEEkA3xebaGXpVYgFuBkkdNdn+k10P25zg2ibZbnqDeSR961AOQ9N9jnKm7yswWk=;UshtvWDXn7P195zAmPQT9A=="
 ---

@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top Managers Leave Apple's Self-Driving Car Team"
+    excerpt: "Apple Inc. has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. Mark Gurman reports."
+    publishedDateTime: 2021-06-03T02:28:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdIoLVg6Uqo/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "GM’s Cruise Says The US Risks Lagging Behind In Self-Driving Cars"
     excerpt: "GM's Cruise is urging the US administration to push the autonomous car sector. Joe Biden proposed $174 billion for EV plans."
     publishedDateTime: 2021-06-01T14:35:00Z

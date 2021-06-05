@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Top Managers Leave Apple's Self-Driving Car Team"
+    excerpt: "Apple Inc. has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. Mark Gurman reports."
+    publishedDateTime: 2021-06-03T02:28:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdIoLVg6Uqo/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Apple loses several top execs from self-driving car division"
     excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."

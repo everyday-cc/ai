@@ -53,20 +53,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Thinking big with cognitive computing"
-    excerpt: "Global IoT is set to reach USD3 trillion in value by 2020. SVP Li Ruicheng of SAP has the details of how technology and industry will change."
-    publishedDateTime: 2021-06-01T03:12:00Z
-    webUrl: "https://www.huawei.com/us/technology-insights/publications/winwin/24/thinking-big-with-cognitive-computing"
-    type: article
-    provider:
-      name: Huawei
-      domain: huawei.com
-    quality: 24
-    images:
-      - url: "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/24/09-en.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence Platform Market is Thriving with Emerging Trends 2021 after Covid-19 Pandemic"
     excerpt: "The Global Artificial Intelligence Platform Market 2021 Studies document from Big Market Research presents an in-depth assessment of geographic scope, market size, huge company information, great analysis and market revenue estimates up to 2026."
     publishedDateTime: 2021-06-01T11:21:00Z

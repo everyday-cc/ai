@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "North America Artificial Intelligence in Healthcare Market Outlook for Major Applications/end Users, Consumption, Share and Growth Rate 2027"
+    excerpt: "North America Artificial Intelligence in Healthcare market report leverages expert verbatim to provide insights about the Covid-19 impact on the overall revenue and growth matrix of the business over 2020-2027."
+    publishedDateTime: 2021-06-01T07:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-healthcare-market-outlook-for-major-applicationsend-users-consumption-share-and-growth-rate-2027-2021-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Insights from Happenings in the Fintech Landscape - 280521"
     excerpt: "CBDCs, digital and cryptocurrency are seemingly gaining more momentum with incumbents and government institutions as the Central Bank of Bahrain, Bank ABC and J.P. Morgan recently announced a digital"
     publishedDateTime: 2021-06-02T12:12:00Z
