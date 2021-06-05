@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-27-future-cny-how-robots-are-helping-to-mind-write-the-strokes-of-chinese-calligraphy.md",
-      "title": "Future CNY: how robots are helping to 'mind-write' the strokes of Chinese calligraphy",
-      "excerpt": "Then, the system can decode the operator's intent and control the robot to write the character,\" explained Prof Xu. The mind-controlled writing system allows two people to work on a character ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/lifestyle/culture/2021/02/11/future-cny-how-robots-are-helping-to-039mind-write039-the-strokes-of-chinese-calligraphy",
-      "originalUrl": "https://www.thestar.com.my/lifestyle/culture/2021/02/11/future-cny-how-robots-are-helping-to-039mind-write039-the-strokes-of-chinese-calligraphy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/02/11/1041346.jpg",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-exclusive-brazilian-ag-ai-startup-adroit-robotics-raises-seed-funding.md",
       "title": "EXCLUSIVE: Brazilian ag AI startup Adroit Robotics raises seed funding",
       "excerpt": "Adroit Robotics' LeafSense tech is being used by growers to optimize the productivity of citrus orchards - and coffee and avocados could be next.",
@@ -1177,17 +1134,17 @@
       "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
       "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/",
-      "originalUrl": "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/",
+      "webUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
+      "originalUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://a.scpr.org/i/aae9139b88dad894336a1ed40d4911f8/233444-full.jpg",
-          "width": 1024,
-          "height": 637,
+          "url": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg",
+          "width": 800,
+          "height": 498,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1197,11 +1154,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T15:41:00-07:00",
+      "publishedDateTime": "2021-05-20T14:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KPCC",
-        "domain": "scpr.org",
+        "name": "WSHU news",
+        "domain": "wshu.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1332,6 +1289,58 @@
         "name": "techbooky.com",
         "domain": "techbooky.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-slicing-up-pizza-robots.md",
+      "title": "Slicing up pizza robots",
+      "excerpt": "So, true story. Over the weekend I was talking to someone about restaurant robotics. It’s a concept people often have trouble visualizing — and understandably so. Among other things, there’s really no commonly accepted form factor in a category that sometimes is literally a robot arm",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
+      "originalUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Pj1j9cioj_w/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
+      "publishedDateTime": "2021-05-20T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

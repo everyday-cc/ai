@@ -52,6 +52,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
+    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
+    publishedDateTime: 2021-06-02T11:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition-1030486478"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Study to train AI for koala ‘face recognition’ at crossings"
     excerpt: "A team of Griffith University AI researchers will train cameras to use 'facial recognition' technology at koala crossing locations across South"
     publishedDateTime: 2021-06-02T00:29:00Z
@@ -65,20 +74,6 @@ related:
       - url: "https://news.griffith.edu.au/wp-content/uploads/2021/06/koala-630117_1920-1200x1200.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
-    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused"
-    publishedDateTime: 2021-06-02T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "1XEnvoqmMBmiNwUJjZckFdo+I0QVGU7BH++ZC5xGdXprYaxwfjnxJ+JxBHmyLTQdFFGQHkQYZ1uCn3jMxJ4/W2gyhemb0IlLrh09trll47BivRtZP3KCYJHq7uLi9zUoQRJLWq7yKiUqm9BYtumTNmlUp76qzu80qUofwDluwZzDiLetxihYwyMcx2bxkGWAF4kEHqagfING46djdXtwFcCPgUiAlghHzznR0NPnmDXsa3mMU9Jk9tFdpxW51gOGdoEItWDcZq4fd0vsMvVwOfyFJPv82yxdxWdFkiV6HgkL3ak+PIy5yLbceXYEw8h2AI7eu6tUZVhDooiUUhjtGKw08Pkh/ykWjRpwglGPpQ17uPsnis7XWcctyCTsFLHw8L/snEHL7JS4lTK8Ax2Da4KWRSKGDXZ473OiMzj+SmK/C2o9kydt3r+xzljffacno//IEq3zjbuh3/8HLhProUBpRX9Mu6da2/pxriyy8dFAp/iqhEtnkn9DMv+pHqGnWxlZrSkpD/AgjHpeaJoAsQ==;fzGmnFvecQlZp6AEGJUs2A=="

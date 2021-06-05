@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
+excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
 publishedDateTime: 2021-06-02T21:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
 type: article
 quality: 0
 heat: -1
@@ -96,6 +96,6 @@ related:
         height: 529
         isCached: true
 
-secured: "2kOOCXSDBsTeNqz4Db2p0fd4prgeVHaA7CZUuUCuwH/x/pRnmE8lpYcEyd7VE9k2TaAUIgIfhWUdH0p85v6DEKpBxpJFtTzIytjHY8mHyg1hxZgoU8dYwFQqrfM41/4h+3EioFDRtkdcXmPDuzZlA599W0yKl/fGYvCJtSrZPJfotBSoiMNmU5f0YGhiw2V0roVu2vox8UWCLIrH+mq8i1fNzYZUhatUg25eellp0LHyz4denS30R5KoOiAPivkpeasjY5l8A19E/XUQOoxXgzDEtrNfdaBxtB2ZhemeuCnBOSGKTvxypQEsScaZB+7MEG2xZtW/NeY6owLH4zZz9WG/SL7DpblKl9GA5d6VKwg=;EGFzEOxsGJPI4r/3iAjwYA=="
+secured: "kauA3J1WleAryxQxOpNF4BGgOlnVp4GIY6vA6RSetpGCH0WuquLHpgUxRP5m5tnSZ/abd4F2SNDQ7w2S8TY2Rar5s8xo6ipVpsfDDXKx8oj192Wwb+PtREA1Oye2ZvpwcfckSl3ccT5yhQ+ItQZgJxisSjAedX/k1uD/hM9rKe6QFweBqIxjkJGZcKGJ/cXuQxot+5RlC3P088E2iJhN8SOVTIqBvdqUg32gOZzsjMP1iWD9v/hp4sPxLtLdvyvkJBbRxZ9sSyVtGXeX4nLad9mWzla3v00gGFjbUHkTGjKQHTdaBcDCZFuySkTP8o5/HowsoivXdjbIk5bjexdPqlo6v88YRq9pwfs7HKVznbM=;ZogQAfVKENDF1BQOOMMYIw=="
 ---
 

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
-excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused"
-publishedDateTime: 2021-06-02T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
+excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
+publishedDateTime: 2021-06-02T11:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition-1030486478"
+webUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition-1030486478"
 type: article
-quality: 53
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
@@ -82,6 +80,6 @@ related:
         height: 421
         isCached: true
 
-secured: "RgoRdZOztoiQ+Ykf/6ZWQ3iyxEv65tN1ALWFWqG5YrTG4xvExZnrkbVk+oqlj0dMuwqbBy7oXheMIV+fmnV5GRUUTKDAbOMLAALsn80wriovQKp22aetTXqzmeLSeNNfpWeAgWE4YHX/FLytyMnc/hbPklzvPHAZIVTjTdvhWtKj4eLm+RKiGDp5YjqVaoXcMb584cT4eJ2BXhmsVKVVZSzGjSXsrf9JgQnpCVG22P21EWBuHJFCqp9J65vWCwSIoAIpqTjHFLxdbyGoKVAZtC4YDNA/8OuIsIPmyXZ1Gllvz98iN2RSMcgv8Tu1ACapYh8qZKkR/DwjCoRRRt4v14+nqIlUFS6OE5frSlRAyWk=;IKOyaPk8N9eKUP5f0R4NtQ=="
+secured: "Ua8HXk/IjcRWSsUBCFNL5IA8yx2gUskhHL/lcrRAoD5YVyXWZLoDTpBM2dxHkthCxd81bKuwe71o1aYFDRRNYlsM7qZS5mnRtbrJbZpob0FVJJWcfZdwZ8TvwsIgk0lrq++wIs+NQsuzhpF+GMjJQQtOeNNjguoGXSRjtdD8yLdB3R/F3CiPlwfN3JFaMOHLCdtbszCGX7TXtz+q2/jilkEJup9kzVBMjNA3ae/SSc3oAGtGbj8hMu3C40AViumvNkSKYDBOINAIw3fyRBd/vwpfQPV3bzYZ9eeTr3baAIAn0Yn6MTRikutVvrRt12/vg8rENvTKxhEBQUGEE6biK9NdyD0ay7rHsU0wbnbzQhU=;V7OKZYwLcpFXhzDdW0PcvA=="
 ---
 
