@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimod
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "Ffegph33hYM9J+KWKb+Z8LvFlj/bZ576gsscJ0kFH1jB7SofbFoMq5Wtk6Mz+3iiKza5jeWAuG779Rowr+/Oea++qz98WfwvZnGhdyKk5Y47AAT8k9+6NFiuXld6rD1gpalX0CtHuruQrFib3BHwGoJK6cJiIyW8Gk0BZXz9Iqqo71kJPTvER9431JpkGL5V8HvOWw8aCKWdFiGcYGcIdhvoc0VHIpeD2fAkL8W1vuQH1IUU1jHv+Ytr0htHL+xeOY3k1pJDXjgi4CY20GYMM23Pi4baJoMkssWXffUqii17nTPSNrT8UGYOMz+imlps5k8hqRFDbwil7zvVU+eX14dLc5mHK2LiE77vIsgRo2M=;gV7DFbWo+0IozcGObHupGw=="
+secured: "1mDz4rvFdsz1e72jdM9l9G1BdIpivP+H93LI7jZEqzSuMu4KP4qTND3ov+bTgRoBj3b1JePih/tCBPTtBK24HnvkDxsupHsHMKsQZgz8IdmUkdo7GL/Q9rK3+r54OsbKgR/pzkaTuY+jiiTPElu2DMeVp+P1PjRz8HJnskNw52As8Q7UFgMonkd3rK48oiy6MreVhkxYKnmFcj6PeVWfAEdRp+Vl8X92hbJkTT/QTQFSOsCeFnUsXHmoziIu7QcQPPL39A5DCraaIR2RPrzs8E6Ves5zcbolUjN/NjT0xqZQcBsjhBPyu7D5Pusr5vP0LCOdcOvN8IwwiUdLxVYUHLlSOVYDcYhovauQxV1hcmEkQoye9p7iGynd1HrxiTZxSsu5Kqj/VL+xwJLXAn2CgYxp5KAikVdRvSIl1BjF1UfHNXLYLYAfZAhKLdpJwWZ+Nz7NUuLkbhwG4BoIHYkt3W8T4Tah1fXsrP4IDQnc6enZe/TbOrLqoXXbIzOuDzYoKS1baUkvHNO5zByEt9iXhg==;ofd0tOJmKAZjRK7QTrAAJg=="
 ---
 

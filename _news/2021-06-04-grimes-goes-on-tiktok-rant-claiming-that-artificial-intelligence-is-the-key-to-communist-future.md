@@ -42,6 +42,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Artificial intelligence could lead to communism says music star and Elon Musk girlfriend Grimes in viral video"
+    excerpt: "The singer later commented that her video was a joke. \"AI is actually the fastest path to communism,” said Grimes in the video. AI could automate farming, providing food while no one has to work, she said."
+    publishedDateTime: 2021-06-04T21:41:00Z
+    webUrl: "https://thehill.com/changing-america/respect/poverty/556947-artificial-intelligence-could-lead-to-communism-says-music"
+    ampWebUrl: "https://thehill.com/changing-america/respect/poverty/556947-artificial-intelligence-could-lead-to-communism-says-music?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/poverty/556947-artificial-intelligence-could-lead-to-communism-says-music?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 37
+    images:
+      - url: "https://thehill.com/sites/default/files/ca._grime_gettyimages-958397822.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Grimes Goes Viral After Confusingly Connecting AI And Communism In A TikTok Video"
     excerpt: "Grimes says: “I have a proposition for the communists. Typically, most of the communists I know are not big fans of AI. But if you think about it, AI is actually the fastest path to communism. So, if implemented correctly,"
     publishedDateTime: 2021-06-03T12:55:00Z

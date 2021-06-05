@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-publishedDateTime: 2021-06-01T23:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+publishedDateTime: 2021-06-02T02:40:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/250000"
+webUrl: "https://www.ryt9.com/en/anpi/250000"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+    width: 800
+    height: 338
     isCached: true
 
 related:
@@ -102,6 +102,20 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1622654517_microsoft-refirm-labs_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Microsoft wins approval from US antitrust regulators to buy AI firm Nuance as it looks to bolster healthcare business"
+    excerpt: "Nuance said in an SEC filing Friday that the US government's deadline to object to the deal expired on June 1, clearing a major regulatory hurdle."
+    publishedDateTime: 2021-06-04T22:37:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-wins-antitrust-approval-buy-acquire-nuance-19-billion-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/60baa79393c6fa00195e55a7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "3 reasons to invest in Microsoft Azure AI"
     excerpt: "Digital transformation enabled businesses to obtain data from places they never thought possible and to monitor every aspect of customer interactions to gain a holistic view of their customers. Companies soon realized,"
@@ -231,6 +245,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "wTubJSZYwq+bmgeJ+bNvZ6RMuXu/4aQBdgWpX2sFM3Mb422oBUletP3Bd30R/Ytx73kQ84yd+PKAEOMWtzJ8i+VQQYdYZ/IlXcIZHeZ+STmq1NXt/4QcbKcqqF/nPN9h9MI7kHslVhVeYDjcGg7DkHs0NPbrVIbz3Kl4wSoOMKWYXW4d4t0yO2Kv+Na0bSW0HKkwi2JHQg2jGL+J41h7+IA2tS0eKEQ1BiooxjXobWUjVBpqiTRJvD/O2amPXPEwMxUOpDdYYbYhUMbvQzZGzWpFFinyA5WUbhuenZzHGQq6L8eNwLVfqZ8LNUPngLAv+hqW3F94uFVp5AkXe07Dl20PjnqDV2DuE2AtorebmkE=;2Bs00yAb5xGNtSXPRh4Smw=="
+secured: "/M2r1L/VwQdK9RL1UBHFtP93rDpemGbe1z5tErlxU9D2nHnQm32Jj6MMrIfoRVoIuFLQcmNDpMR5fWy59Xy0wrdFd1Jei3twLRTtiejHgv7t1eQhAha1IcjwImZwXwd6TBZF9g3YDNN3s+MaOagNf/ChmrmVqflRvwH0xKT7P7nAS9jea+lrA1mkW9ovwYYFYbbfleOwss2luXTGurWT3ITCUuM4V/4DEgwlLVU2NLx7DceoRhIC3+Mg09nqd7eAMb8i9EtmApSKs0R22UdB7FtomYDq9utS7QDfTUWd9Kq0XBNdyfj2GvHX9M0IXzSHKTyrcEkakRBrfJhg61pLR4SRpKW+JbAIHfnoatCE2A8=;fv5r9WtQl2T243aLzGPu3A=="
 ---
 

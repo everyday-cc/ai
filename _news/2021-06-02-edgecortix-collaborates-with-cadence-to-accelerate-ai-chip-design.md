@@ -28,15 +28,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that it is expanding its collaboration with TSMC to accelerate mobile, AI and hyperscale computing application design using the integrated Cadence® digital flow and custom/analog tool suite on TSMC’s N3 and N4 process technologies."
-    publishedDateTime: 2021-05-31T06:55:00Z
-    webUrl: "https://www.design-reuse.com/news/50059/cadence-tsmc-n3-n4.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
 
 secured: "vwdp+SI4a5RcqnuPudk/N7BuLVRy6Bg/ZnXz7Usu0kPMkrvHKBw0ZHj3x4tr0+uHLenCg/+4rGckrrTSBCGaB0+GnFLyswTNQyihBwImoyvv4I4kRLsTKRIzUgM/VrR3Xq3XG/YXSWuhOqLgX13pBRffI17J45KLCYQafxeDdvpiqUdKaCexXjqqaZsqpHktX0LWJjaERQk2RyIKvRXp0UOO/wE4hHd8bJ4O0W2CfFYrSN7iHWcnrjVg2AWoGmi6yXepRqzAMJaxxPGDAe7g08ZQEwGsRUdyUNba2Pf5SPRsi7CVAHV2X2WpGLiXq7Gndz4WEF1/4O5tCVcOqn0a4ANkWahfgIVqVfzQBme6xvE=;viUlGDg11DZXunygDNRWhg=="
 ---

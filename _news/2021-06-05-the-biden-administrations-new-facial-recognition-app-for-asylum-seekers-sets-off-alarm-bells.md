@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
+    excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
+    publishedDateTime: 2021-06-04T23:34:00Z
+    webUrl: "https://kvia.com/news/border/2021/06/04/biden-officials-quietly-deploy-facial-recognition-to-process-asylum-seekers/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 37
+    images:
+      - url: "https://kvia.b-cdn.net/2020/04/hypatia-h_975fbaaa11f7415e7c3bc311df1a7fde-h_69d00cdd749b7dab664bc4702b02acbd-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "AnyVision open letter calls on facial recognition providers to eliminate bias"
     excerpt: "Companies developing biometrics and artificial intelligence algorithms must rid their systems of demographic bias and make their methodology transparent."
     publishedDateTime: 2021-06-03T15:28:00Z
@@ -42,6 +56,6 @@ related:
         height: 260
         isCached: true
 
-secured: "9zZDhNMoF63ce4vJl/KONhw0SxUsiambJCO4GF1/CuLG2PyzLN0+FzhrtCiovsJZIGgR4TQdKkTXKlp7Qqft8YzLj9BhP67fClRUar/VmnnJrVhD2IdTdJLag4xqivf2mxjFsP67+k3y3vh7JdgiLf1mfJ1hP3wwh31MMXVbG2EUWD+d7vdnWY0/H61TPxXRNjQt/cWZzN0hbD47/Q83ar3hbNPGeTIQcm8SFeSWdaSL4MPqgswsOH4S8tzu7tVv9S6IWFScAhCopSmztXcmkHqomNtpoN62tINpjuQ+bgLRzZErj0rH6pjmv+hUUKOqAqnbV9Yeyc2rakUWXYyFQiK+XxhR6vT5aYT+RvdoSSk=;udOY3n9xeP67cb6nt+60cA=="
+secured: "j5fues4Z7U5bcauDFzlC130Xa76PmCFMU6Dc55AdXh9TcmesPd5RpxwH/tktuqrTlP8EVS6pZRS5rTGYiVWIfiSRGK1RY3v8Gma4u+5zpw0oH8M7J/B+6Hh0xdcq3S5Yj//WxLUjbRd7xacECHvINiGAAaLtiUYoN/iu2lpGY7VTA8KXb7YNxXaE2y6ndGtD+OG73Yas0jCf3w4hEGM/bAOss8dM1hcADyvdAWVnbZq3SevK/cOc/I0LStVsCU4BtLt9unMWixPI4NDrKYWN+CXpUdIn9XGL5C08SZmwtpQ6rezZYcgxz7f4ftrG2e1Q8Fwj0M2IuIDZYUZVH3SSWrghTZ037/spsHbKm2Q2lciU8sU46mUngpeM+lc7t/kkZISp4GwEJ4iWwuYgC4WYITn3U5sCn1mJZ0ZtLnYX+T3ghJMh52l7LGVebv4RWOiVAXa3s962aUmLiltAGP1yh53on1Bi1angKksXwQPqNFsPyUIM5qrw6AkfK1wFOBuh9lIlyLlrzvgEUbbXERliIw==;fNV0VlkpHKAfZXub/nvTkg=="
 ---
 

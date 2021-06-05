@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

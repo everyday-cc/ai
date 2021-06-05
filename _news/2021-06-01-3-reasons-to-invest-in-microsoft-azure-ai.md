@@ -99,19 +99,33 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-    publishedDateTime: 2021-06-01T23:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+  - title: "Microsoft wins approval from US antitrust regulators to buy AI firm Nuance as it looks to bolster healthcare business"
+    excerpt: "Nuance said in an SEC filing Friday that the US government's deadline to object to the deal expired on June 1, clearing a major regulatory hurdle."
+    publishedDateTime: 2021-06-04T22:37:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-wins-antitrust-approval-buy-acquire-nuance-19-billion-2021-6"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/60baa79393c6fa00195e55a7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
+    publishedDateTime: 2021-06-02T02:40:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/250000"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
+        width: 800
+        height: 338
         isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"

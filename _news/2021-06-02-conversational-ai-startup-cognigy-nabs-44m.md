@@ -76,6 +76,20 @@ related:
         width: 530
         height: 250
         isCached: true
+  - title: "Dallas-Based Conversational AI Service Novo Labs Acquired by SYNQ3 Restaurant Services"
+    excerpt: "Silverton Partners-backed Novo Labs turns voice interactions into digital transactions. But it's more than a chatbot, says Co-Founder and CEO Clinton Coleman. The startup's proprietary natural language processing stack handles the “real-world conditions” of how people talk."
+    publishedDateTime: 2021-06-04T22:24:00Z
+    webUrl: "https://dallasinnovates.com/dallas-based-conversational-ai-service-novo-labs-acquired-by-synq3-restaurant-services/"
+    type: article
+    provider:
+      name: dallasinnovates.com
+      domain: dallasinnovates.com
+    quality: 31
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2018/10/lukpedclub_istockphoto_weekly-calendar-811171674_1027x1027-264x350.jpg"
+        width: 264
+        height: 350
+        isCached: true
 
 secured: "+asK+FPjw7KdbpSG9mmBR4yR4Bqf5FrPeNfPuVcu5S7jSqsXRZfe3jb8fNjISH3LugZKEqEtEMQaiIQfRiiQY5WWf01PYv/A7ra4u9uQOzStfkgiGpOvlFTxgr8Pj5hYxf5/pVJ7p+iBcLvPcUzimrMeqhGDvHsWmv3iuQFBqf/BGGKPHgX6Jt+8hWx/ZLZ7SwSz8yYTB+Uof/IfzGtpkpI3/bu9m9azG3pY1C50uyxE3s6t95zXtcVP8GkTydEDkiulQ1xWSINYvAyFs6DRp05GoShEzNqhgdRtcINVSXsbhGBolSvj6UJe6dwqx5M3kKR1JHpvV297z9J2ZJAFBAEotDXdby9ui5SQ1L8X7WGOYCFxwruuzM/GU5MkNimqhU1cZ2wcmVhkSDmlmkCWjVqiEU+rFa90wQtdcPktK5BwMz8AZNH2zBCQM+0FkqCUqas4mpB1W0UI6D6od6khKDQ7U5b7pn32/6D8hLyOFwYuDVC/dpZgtTSbUIqYh2sQkd4W/56BLVVvwIMumbqJbA==;5IymM+MHz5vqGM9YY4oe8g=="
 ---

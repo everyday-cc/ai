@@ -28,15 +28,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that it is expanding its collaboration with TSMC to accelerate mobile, AI and hyperscale computing application design using the integrated Cadence® digital flow and custom/analog tool suite on TSMC’s N3 and N4 process technologies."
-    publishedDateTime: 2021-05-31T06:55:00Z
-    webUrl: "https://www.design-reuse.com/news/50059/cadence-tsmc-n3-n4.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
 
 secured: "7kVOJQMoNoQFqvxbsFYSH3n7OL4UGrts0m1FuJVFcz75zqhTc2tLAOoy/bYYBYZA5EZ1U1/6PjtFAsTNXRSWt5gRaWl4HkKa10DEBJkTfjRkQsq8wZql8copVSpIY2bLK/xGdoUTf7+6kTKLwbK/anvsrFz1uHxbV9484TxNVBlUDXTHYLdmvX4Hef0bgKoglFhaJsEuTJw1lr4dTeiw4c29Za7ZJvjzy0t5mMr5BAmYXaEOAbt4eQrlJID36AWJze8Ybw+fds614nz/IfZL8WXp0XaIv7xkMIUP3rbnDW1SVQ1bs8UD3f9FKBS3BacqEuOlvV4I6m5hcV7lYYJ60gTrcAq9lPiHnREA25oK/csasjPTp4N8vJyTWie9p4b6UMIR8eTBi18pBqbi/fShSCbqwmjJ5kbst/RwywQ5u+917JRLEbU7nn2H9kfC3qx7sYE4AcUBXhpMtPjn0kinHoFvdnKrWcAAsucNCCQXjR5yae7wBJoPyOco9sODVbJyqd0t5V6VUYq6JTh4GF8r9A==;c3KD4xnMXVfm08JsSPsfMg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/fintech/21/06/21423204/fintech-spotlight-start
 ampWebUrl: "https://www.benzinga.com/amp/content/21423204"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21423204"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.benzinga.com/files/images/story/2012/cover_photo_28.png"
@@ -25,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "r7iFJ1+N6Dyg7Ihnme5o0AGK5mKWnFHMtq/nSEaEyLlKZJH14MxJnSp6IKXmyGpT/K3G0orPRTXOoqxBVOXULUQ2qzbuJqh/AhoVrmED2O4WlIInATvrJJxhPNJUmnUl4vCHOYOU+w/qZJve2Gz7j8Z3ysqjLzMiZDsiRRbQM0kukNgp1lPuy5iGjPbmN1TmChrRKfsYcs21aEJBp/SLl+mibEnu9UmLDNLWhU/Vu6seE2kXW+5ISpOXNAglbaKYv3euVeUZQHBf3yWAgQayHNTFf/5lm7CyprXONiZx4u2YSy+3MTcXA3hEqlyDTaT4tjhQ+QsDxLa4ZjyvQG+INaP35ZEJ52O38GR5PnWtdtA=;l/QmXRiZJdJPjWSGZAHb7g=="
+secured: "clTVxzHBlHzkGZDIBh57/Flx/4RQEB1cZ+WigA1hJehSZDdzOKNdGr8OXCFPnZ00mhEyd+S5N3cDhqa/FTW3sSfpTiQZS4UVjk9HJJ6ILGLHOdSkYVX3IcoTIkgeEDdlH6Cxbc26u7R0M9n3xXq4mOZEdVJ1qzP/gkfiepL+1Q8cfoSWS7EVeom7u2nadf6sBqnykTkBjkojEQ78IWtrCSfuy68KRl3Ssj2NEYqe/kGmwkFJ0kHIZzo/cXMhEDTsp6QnNVAhuZHCkzeKklmZRLHUvl2BAboTvt2FaVPEAznbtgnlkzd06es5ivPLuA24swTfRCPSfyGHeOg1gnVIrVdoKQvE29iZhfgA6nSUifYkClFL6ga6KZtPMLz01rGF2faeODxx5ocDteWngU0spSqgO610BMTXSW96oipjD+TgPavqeC8frtu8dYIOVWy5uuBFSPfVL96RxmeJu17kfGJr9dyRWttvn0D9K1IsSFJ2suTfYOhZ3k79/DsBNHLDxHi7DxkQ0GFJNuwCuYznLQ==;3s9xKZQJ2bKvRSpevTiUQg=="
 ---
 

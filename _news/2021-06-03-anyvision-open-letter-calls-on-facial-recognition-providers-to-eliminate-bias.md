@@ -41,6 +41,20 @@ related:
         width: 814
         height: 458
         isCached: true
+  - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
+    excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
+    publishedDateTime: 2021-06-04T23:34:00Z
+    webUrl: "https://kvia.com/news/border/2021/06/04/biden-officials-quietly-deploy-facial-recognition-to-process-asylum-seekers/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 37
+    images:
+      - url: "https://kvia.b-cdn.net/2020/04/hypatia-h_975fbaaa11f7415e7c3bc311df1a7fde-h_69d00cdd749b7dab664bc4702b02acbd-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "tgulcm9FYStnz5Q5n8F4FmuLgpbki3lv+lWjeB1115r4x8lZbe/CzUpITViaJVjaoXDy4FrBXQznzguh6AYXwNXg9rXDOY+bVdhd8EdeTpg1UX/rhmP6dJoK4GkvbZvnEDRRhEFM81tMvoKgEm+n8Hrg+JYH8N1Piv/XZhenmUA8QbQY7ZFQoN/VRwGf8GXaryquNbLkB2JJXBT8XJt2lbIwuVDxXD7PmALr1ofxtZCRZ0K8DdOQ5vRuusea9w/FwpRFhXiFLTGNgZsqVUJF9rE6mxoCRPYlErn+n3zK7qjYW9DbDN0/LSd/UtfafPgDj/QFYUS5jeGmNTsWQIoCAq/UDtkgHMxirVNBeruvgtiolfmeEV7seanR4SAW0P/lArNpswlBX2Xz4d8tIPmIras8OdGemPgzVv9RMQp1vq6H4O/tFF62vg2UAQe6MHfV1HghUmwhu2LW9WBHmvSQSHhYo/CTT4vuww1R3b0b144mafkIRVgEYRGh3JNYJujUo7eYLLCbsRNz/9hrRtDtaQ==;/+1+fRaGC64saIMrRVkCZA=="
 ---
