@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Neural Network Performs Complex Hand Movements in New Simulation"
-excerpt: "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations."
-publishedDateTime: 2021-06-01T14:33:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
-webUrl: "https://www.technologynetworks.com/neuroscience/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
+excerpt: "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations"
+publishedDateTime: 2021-06-01T13:54:00Z
+originalUrl: "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
+webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "TmUibgeIimikMXJEKJZG92y9hC5vfWue/vyiSNEkIrphM5lJan0ldxQ9LFYzhg9XDLh3tYYj5U0Q884+U4jgbnyHUOwGpUBGad7bqrwc+gvN9UBWW3O1uqG+isBwYlH1HGjQiK+FkJMFH3DU+k7P5rwwo1iXKhDv2q0Ykrztu7aFpy7n1Nx80TdB22Jpr2mh/Hu2cC3APNak/RLk4t67O8QoJraAf0xL5+S0gPQxAjd10bA3WGBbLXT0mnQUtc68guqXUZbRmfQ7cih6Ye0xiktbdeNXLiwhm66uuZpa9F/x1BFY1Z54Om49YeGTOIPaMluEie2SQtbRJYtoNGzXmQ3AXHnKv8dyTOuJqq4DALkOpJlPzLHheZqUIvj1XF/Osc7/pXYUCq7utQuYaenADNNC0RfbDNWV4+6QZSpO7UoZJ+oE82mAvox+cAogvck9BnCNPH/W7B5nyXNp/Zix8dbV298GwOee2HgLED2ke3pyiVPkuJiQqzhsgbPmK3Wp1mpmINaC6hQscZGCcaH7gA==;AGl5iV0QQ92zgvzcv7Tt2Q=="
+secured: "EAHqOdAV/WZeVZ5OhVP8ksfq17h0FIWqF4fV00IreYN5Da9EnAUtyjUvDA7VH1hVpuNawZjNif+mJWwqkAE/thV14vMM14xDuE4/n/IAhE8TS3abauMEBCltfk4jRGiYillV/L0VskAz+PZFGDMd+k9SmSU9ZWXIQrSF8Ue96EKSf/ppz/VAxzTUhrhoT6s0N/oy3GWu+fM2IsLjxl8Pm1ET387Cjn/AP5Ehbl2mbL5MQTDzFSbM31o8hj9fli436TMYTsYN0jFIUbOpVZGnhkv3vYVHXMrQOZFxuyfUmEStdCXzH6/ziAKIYNCr6k/b+4Tb+bngmrW/0tBH0WC7eYp0PZ2Oi/gxLIpw6ssTJp4=;13txFiJHxeGtWE9o95y8vw=="
 ---
 

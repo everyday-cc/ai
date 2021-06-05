@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/uqphd450308.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "How AI can Bolster the Gaming Industry"
-    excerpt: "How AI can Bolster the Gaming Industry By CIOReview - As the identification, privacy, and security of the gamer is a fundamental factor of the casino business, implementing AI"
-    publishedDateTime: 2021-06-01T13:35:00Z
-    webUrl: "https://www.cioreview.com/news/how-ai-can-bolster-the-gaming-industry-nid-33739-cid-64.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/graph_image/0ux8himahdagdy123.jpg"
-        width: 349
-        height: 242
         isCached: true
 
 secured: "br/FHubOmlxXvElrRix8XRM1iIT9wuDAZGow6V6HEwUtYtDkBaXCRWifhUA3VzcSJqy3s0yyjmsrtK3r0itYpMEcJb4K5lnnP0dI+Hll15+ncSF3n/yzTPJqxmGDYV0k/p9RfqT5s/KmHbfSqPk929BeJ/Nl+JvreV8Se2KbyY6fqUb2iZFlnKFhcDSMEIOxFZYmlDdXQVAUGTv+T61KbO8RRXRERPn6G/R5nTYmi5DZbRxikryQSZmG/9f0kfV8AfTwYt7KdyUfBSE3x+RDsOG6rXD9ygtrVHJXxcyWq/9YbJlKgfkaaooApYhqtSdadekrMRf9olzc4zhV7DgVrrQKGIRVDYvF+ME3AT8TEWC5HRS17L9skcChKRCU24BReNU2b8907l8t4FZIo4v4B5TVNr+hQRfZQDZJ2K+ROj6f4YrAdYPYhdHYgsdDwPoZMqDv5HP96R6WasPT9bNKGvv9GgNUpgorzNY6N3B1DKgOAezC8i2Stl2WGBZjZJA+R9GmXLOpPnSIBVI4QTfoFw==;ToIQh9j75D20qkyhUBl9qg=="

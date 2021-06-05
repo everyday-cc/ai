@@ -164,22 +164,6 @@ related:
         width: 620
         height: 370
         isCached: true
-  - title: "King County Council will consider prohibiting use of facial recognition technology"
-    excerpt: "The ordinance would also ban county offices from entering into an agreement with third parties or obtaining facial recognition information."
-    publishedDateTime: 2021-06-01T01:43:00Z
-    webUrl: "https://www.king5.com/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
-    ampWebUrl: "https://www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/king-county-council-will-consider-prohibiting-use-of-facial-recognition-technology/281-657b2822-7b4b-4f81-988c-a245bf67fc54"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 53
-    images:
-      - url: "https://media.king5.com/assets/KING/images/06a4d40b-773d-4c5b-9bee-7a46913eae80/06a4d40b-773d-4c5b-9bee-7a46913eae80_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Washington State County Bans Use of Facial Recognition"
     excerpt: "The King County sheriff’s department and other county departments are prohibited from using facial recognition technology or information from the technology under a new measure that cites its threat to privacy and history of bias."
     publishedDateTime: 2021-06-03T00:19:00Z

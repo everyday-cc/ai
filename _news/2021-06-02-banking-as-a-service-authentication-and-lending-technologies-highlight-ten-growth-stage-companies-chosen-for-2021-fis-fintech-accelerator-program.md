@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
-    excerpt: "FE XCELERATE, the topline fintech accelerator program series in Asia, has overwhelmingly received more than 40 applications from fintech companies from around the world just two weeks after opening, a"
-    publishedDateTime: 2021-06-01T01:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/249966"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
   - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
     excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
     publishedDateTime: 2021-06-01T13:34:00Z
