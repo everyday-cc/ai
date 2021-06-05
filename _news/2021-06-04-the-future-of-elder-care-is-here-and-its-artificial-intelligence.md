@@ -62,20 +62,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "AI Summers And Winters And What They Teach Us About The Future"
-    excerpt: "While the promise of Data Science and Machine Learning has created a lot of traction, we had before two other cases of AI summers: in the 1950s and 1960s, we had the “age of reasoning” and prototype AI,"
-    publishedDateTime: 2021-05-31T15:24:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/ai-summers-and-winters-and-what-they-teach-us-about-the-future-nid-7822.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/w8bk2450h6ry4.gif"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Artificial Intelligence and the Future for Smart Homes"
     excerpt: "The computer revolution has changed our lives massively in the last 50 years, and it''s not looking like it will stop anytime soon. In the last few years, we''ve seen everything from self-driving cars to text messages that can read your mind."
     publishedDateTime: 2021-06-03T20:03:00Z

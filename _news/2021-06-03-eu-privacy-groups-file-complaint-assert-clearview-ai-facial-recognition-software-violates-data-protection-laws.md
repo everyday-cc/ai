@@ -55,6 +55,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Guest view: Regulate facial recognition now"
+    excerpt: "This editorial first appeared in The Washington Post. Guest editorials don’t necessarily reflect the Denton Record-Chronicle’s opinions."
+    publishedDateTime: 2021-06-04T04:45:00Z
+    webUrl: "https://dentonrc.com/opinion/guest-view-regulate-facial-recognition-now/article_a3d3c4f2-e52e-51c8-b6c0-b2a897114b46.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 19
 
 secured: "gQRBf0HMN7nxSEfGSendNtT9ebIVK78sj0dTZkKYiZINGG2m7qr8OV+oYjpdA+F6Gt3ci7afP8j8FvDNoAdJWVj6WG5l7sQlV1ixdw30RLhnOQBJ3cGRa2rLpWgk0KIrRqq5z/5AFhDucdb0okhquOcrJTfBe72BdXwAy7h9EI0t4RTh5fW5LorHv5pjmyUOaRJYdCfedaTPlLLjcxUbmZBr4zL5rouhntjmRmylhp3sgcyEoLYWRIwklxPlA8JODi1qztF0zUvnWdeikegJ1uCaQOwdrkGon5giRw09Ln8o4JQ+vtKVm5SO6Wl/iJdnTEamPTWg+uylNP1JeQlItitlQcUf75WVz28gNfdXRFdnJnCaClI0CfyDuZTIQobWb3RpgoRj8LgqPzlOKhfkURXT3S9S3KipL8KT2xzu0EY7BanS/BH6+lUEm2/BiwsDeIN4uSq3PeExYmQHFfFTxGqp/kIuQLWqjpmstcgozkN4rbvtjfzJw4cR2ZYTG5CUl5dVngSoEiEePHu2ywWD1Q==;PzdfmXrUA2eU8S8Z2kE1+A=="
 ---

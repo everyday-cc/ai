@@ -1,30 +1,26 @@
 ---
 category: news
-title: "AI Outperforms Humans in Creating Cancer Treatments – But Do Doctors Trust It?"
-excerpt: "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a unique study involving physicians and their patients."
-publishedDateTime: 2021-06-04T23:33:00Z
-originalUrl: "https://scitechdaily.com/ai-outperforms-humans-in-creating-cancer-treatments-but-do-doctors-trust-it/"
-webUrl: "https://scitechdaily.com/ai-outperforms-humans-in-creating-cancer-treatments-but-do-doctors-trust-it/"
-ampWebUrl: "https://scitechdaily.com/ai-outperforms-humans-in-creating-cancer-treatments-but-do-doctors-trust-it/amp/"
-cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-outperforms-humans-in-creating-cancer-treatments-but-do-doctors-trust-it/amp/"
+title: "AI outperforms humans in creating cancer treatments, but do doctors trust it?"
+excerpt: "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by researchers in a unique study involving physicians and their patients."
+publishedDateTime: 2021-06-05T01:19:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/06/210603111932.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/06/210603111932.htm"
 type: article
-quality: 55
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: SciTech Daily
-  domain: scitechdaily.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://scitechdaily.com/images/Chris-McIntosh-300x400.jpg"
-    width: 300
-    height: 400
-    isCached: true
 
 related:
   - title: "AI outperforms humans in creating cancer treatments, but do doctors trust it?"
@@ -44,6 +40,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "WClrcCTKcV2/sqK0fkzZlC6/pR5F3BasdfBCvpgUxYIXE8UMJE64TytruMn+NESu7AvBr36X8pTBUIch11TjDVSRqaEiSRfaXzvhxPNy0qxpE83NvL9Of0KI30U0PkKkhmCWwEc3ru375JR2/arHmheHtgU9qiOD85OIc2CMhyo6XpzSkWiKXRmcedpK8o+LCIsZK/wPXqUFNoFXuMWCoRc1SQUiT5IIXwGXz8I5KQ1meXdU4/0wdKfoCC5Eg1eXiWd05lO4/gJdP3voaUllUWEA7FFlhinV1woRF4e6H1KqiSfBY3eDa5h6dAbqFgGCD9Wq/c8Zu9GMlCeQ8+bJavi5lMd+58nKYzYr/zOUNk7D/1GfaJYyA1gRidKxx8INMdoLnX8iD0ISAc0ixNUrd48CkKisOQISdx9KwBY8RfI52u2/C7DXHfAjwqoQQIyu20JOe41I5nIqflscIeIkA9E3wZt+oLlobmF+LKEy/lqZhJODi8i6JzDVmcDABfyR8Jm8BTn6SgL5vWxBAkMZCA==;vgqHJMmUfu1wMrm5Hi2g3g=="
+secured: "siNhl1CdU/i9qcZalSAKZ+RLOjbQdJbXxaZa++SopAoWDVph337T3fl0BOrxiQB7dNA4Qs96Nj1cgxtGb45sOMHlBsFQi6RP+AJHxz4xkf6SwNTnGg+chtiVeIPzMWYPHAvg6kKcwFhW0uSQDh76w9uaf63q9xgobB2+zK2qRpJRinPMg62vkaN4A/bujJmzxcEC3aA60dNujPWwGpNRhAtesg2Uq0jZBvAeg305HBlju8dMtHMmx12QneoEjLmxhsxK9C2l8O+TAd8MjKNNJF2uoSRs+9QQ9XL8LnJ6WLhD6hzHKeb7iexL9jrTgpbb5pk2sHNGGoVaYEZfiF9asGVwx6ztm6MMGRWPvO9tUtk=;B/wLN8bulGhzkvFuBLjIYQ=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -136,22 +136,6 @@ related:
         width: 800
         height: 338
         isCached: true
-  - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
-    excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
-    publishedDateTime: 2021-05-31T15:52:00Z
-    webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
-    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 68
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
     excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
     publishedDateTime: 2021-06-01T14:44:00Z
@@ -196,17 +180,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
-    publishedDateTime: 2021-06-02T15:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
   - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
     excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
     publishedDateTime: 2021-06-04T11:00:00Z
@@ -225,6 +198,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T15:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -244,6 +226,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "uaJ3YK0c+rBRI+xZRkC+6qiksRBz65xZWDg3ZgJeMPbYixOfXG0jbWi6k+w3b9ivUoXCFVD0V45chgdR3RlUf4Wxu/ZgpqtvLoTZ1p6ZiLVapqa+YOLb+s0DgyzWcT8xk2tuAG3tj1zP4wlWuk6WBSkBeUgYrNuxKsHQTfs65cN6pstaDKhS4NHjebv6hCMBMHZWpComJ+ElEC+MEhCIeex7KfxAVb9Dby4vLQ/GhhG5r0F6AOViPEoSnTHtzziu/dWe7D6AsRGEOcqzQX0RPtU2/jiq94SkwdYtm2gzLdm8x3hLe6Oi0xtRuO7GDkeCHO2nyYcKQ+n+YMmrtAm9UxieuBhhDx9M9xTF02NBSLE=;ScFNkDGuR8xI1+Tvhqudew=="
+secured: "AiMpPDqLZJJbVPrkZwD9epvq0WCtqeAFU5TXIgBq081kfWWyrlGFTKNP+kH7w4jWIxnC2MjTSM1FN7f+PqqHEINS45b7zZFCUwnA8e19ikr8zraE/MGZTth+RtUwgGIzlUoL5PYb0wdvkwMz5FPhuPIPJH5YNyM/BTFuJPJh9wTuzNeFFU8v+vZYWspOnmlrSWZN0tsrG26Cqkwexs301f6FPgH4vtehcyFDCdh+pPxrGnX0IHFFNEObEF6K+JG8v3XrIAVBSmOdroTo8fcfPPa/jDEpmXCqOHD4Wc52KsvU0n7fu45fJjKtJ55fSDQKZHoHTa8ERpFWiQO1JPSJUKmEtjV8ATUld+uUetPfyTo=;cYC+kuv2Uk/G25NIg7MqGQ=="
 ---
 

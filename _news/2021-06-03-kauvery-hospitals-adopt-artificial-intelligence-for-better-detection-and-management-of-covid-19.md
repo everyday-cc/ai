@@ -49,20 +49,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "AI for radiographic COVID-19 detection selects shortcuts over signal"
-    excerpt: "The urgency of the developing COVID-19 epidemic has led to a large number of novel diagnostic approaches, many of which use machine learning. DeGrave and colleagues use explainable AI techniques to analyse a selection of these approaches and find that the methods frequently learn to identify features unrelated to the actual disease."
-    publishedDateTime: 2021-05-31T15:02:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00338-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00338-7/MediaObjects/42256_2021_338_Fig1_HTML.png"
-        width: 685
-        height: 358
-        isCached: true
   - title: "AI can help stratify COVID-19 risk on lung ultrasound"
     excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
     publishedDateTime: 2021-06-01T07:32:00Z

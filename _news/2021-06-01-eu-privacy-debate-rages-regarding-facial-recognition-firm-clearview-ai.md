@@ -7,7 +7,7 @@ originalUrl: "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facia
 webUrl: "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Guest view: Regulate facial recognition now"
+    excerpt: "This editorial first appeared in The Washington Post. Guest editorials don’t necessarily reflect the Denton Record-Chronicle’s opinions."
+    publishedDateTime: 2021-06-04T04:45:00Z
+    webUrl: "https://dentonrc.com/opinion/guest-view-regulate-facial-recognition-now/article_a3d3c4f2-e52e-51c8-b6c0-b2a897114b46.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 19
 
 secured: "eeehGdJQMlGHL0Bu35IZhTxbziS3Mc4Kz7oSX2kLOzvnL9pp6bpXZ6D1tPF3FyiA5LW7CE8jd/x4qNd7P8mwCi94m5NZ4d9N889tOEIrOg1nSUfGJdLMu5r2hUxvtn5iVOUQsxs6flRInXi6PHwqD2GKF3dizuZHwIqNhjSXyqUBGt6K1j29QdtZUz8PPAn01eF9J6yOXHvfBepiAxvzA8NC2rnGtJCuEFPp0/+fvDqb3J2jn7Rb4WxoLFBEbLFM9D/TcGsIt2jyduQ66mxtLoWhXZt0ktMHEugX8oJJDejHRZnPt8GQbev67qVSzn2NSgdtwqodAqQBRTHh9MPT6atH7xqpJBSA3m22F4lxZ+46NjzEdsU+6fKqWSYLZnJPy7xZKE3FSPvXZ/jEhsfwDPrUxobL+n8KjqQ+y7hXxU/lpM2fuRiLcIOkhxOFk83/iBElgbFtgocgl4ujxlyiVZO83GoxJ+cNGOku5Bm6a21bT8ZrAZoiduwzgbSka5/X97cA5UtJ0s1r9MsZzYdrjQ==;XUeEn/QeBUSOnovpZn/VxA=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Biden's AI czar focuses on societal risks, preventing harm"
-excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn"
-publishedDateTime: 2021-06-03T16:11:00Z
-originalUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
-webUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
-ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
+title: "Biden’s AI czar focuses on societal risks, preventing harm"
+excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling"
+publishedDateTime: 2021-06-03T16:14:00Z
+originalUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
+webUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
+ampWebUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
+cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
 type: article
 quality: 59
 heat: 99
 published: true
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: WSAV-TV
+  domain: wsav.com
 
 topics:
-  - AI in Robotics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904"
-    width: 1024
-    height: 904
+  - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280"
+    width: 1280
+    height: 1130
     isCached: true
 
 related:
@@ -85,6 +85,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "iYC2LwI8+FaJXJKnjtjYhb6D2bAhl4y8l46gfPxanbQ48OAiS4xQH7M6OFkH3eaJ17ExBovbYoiN+jEdd8YucnH8maPK3ex90jtJk3iIn/g37loEWy1O5oRevRGooYAglRK3yxpYLmHCCN8tZGsaX/kr4gHNV6B5XMYYQh0RWNfYJouQdFrVaV8pkvHugK6Ts0vT40L+k7MMZRZ+yP2Ecewxa3X3dPTK03EJOdoCXQt5ebmRHCSrL2Kjk7UW5Cb2fEkL1mzpBdc/rsZImloLnnBKgmepyLfU5CaAcJ2kDgHlnzHfz+3KYBDPD4YtaM2TIY8WwBDTB178xlwt4Mg+NvLkJr+twqCyfM2fOSDYCW0=;GusLcGvCNv6PcG9qYOrAzA=="
+secured: "hlDEVWvOUdN2/JVuwfOQFGNVyru/KdNRyN+4x66PDU+S3zcXc3g6uyYcIupQdVzMPh7peYxnsND96VCnMTK01PckUvkSdej9ihhhb6UWwqp1f6pAZMB0i6pal9xXkNvo+7AxHrf0KJ34VVH84peX1PKhjtuwTt7uTL9qjQ5CYIl2JpQMQt9H1CfK+vNeyGCwICrxDCkG6HKU/63eRBjm1uKVrwftHqqdqzCldtjWcyKa+yuyJUrQfJSx0hZz8H18S67JXLdBaVKxqVazXZC8lERtNm82wjxZbD/UceNLlEKi3mthwn3uUm6ZRYIa3Nubhs7pDh21SaXF/4Mv7bq8WfzFOX1qdPVDWs3F6/UkQlc=;PpwnPge+OdNlZjkYz5WrJA=="
 ---
 

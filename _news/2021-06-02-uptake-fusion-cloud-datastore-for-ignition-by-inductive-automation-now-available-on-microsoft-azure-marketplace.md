@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
-publishedDateTime: 2021-06-02T15:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+publishedDateTime: 2021-06-02T15:31:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -138,22 +136,6 @@ related:
         width: 800
         height: 338
         isCached: true
-  - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
-    excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
-    publishedDateTime: 2021-05-31T15:52:00Z
-    webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
-    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 68
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
     excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
     publishedDateTime: 2021-06-01T14:44:00Z
@@ -199,13 +181,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
   - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
     excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
@@ -244,6 +226,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "KGSXQVIzpOQx+hIBpGiq0aufI08LmRzeJwEustRddr3p9zEPwy01Rbew6XRC5PMQw4ZDWvfl46+vx0dZ8TRe7lGf273uPi0Kb/PsQ+1j/V9P7t7vyKaVb2fOLk2iK+ulzfzd6/U/eJjPm0cofl1UkFrCIpX6XDO8+KcmIzxoq6yFV89R8hBDpbMO4r4turxNDZ6JGRpJwdYTv9lBs856wIRGwZpbSw5c4IzcyEAy4fjzb/f7WgdKfvUOTRzhi7SmXxZJp9drtkv9GvLLVuYywhTTFWwvCBY9X6VytmWJDH9zQx7v89eHet4NBU+AfiIIq1VQ9RKdia8Rtb9vXvRd3iWO1izPpobtSuwoJwzT1vo=;mf2pSoQDRgF2X2Xr6qm0Qw=="
+secured: "JlsUW2S85y17bfQWQ//kDcNfhx2a5BJ5lZ5fBHlJunr0wy+SIlIZ3EHUtU6MptR5ut4WrEY1Q3N8XSF0mlAcRq9zW8jHs66fPsRFhgbWgxzZPnS3ZTXJBlwJi4n+7kqbGMGih7vgrn8nGrXAQHOuoq/qFn9CQQkW6cotidpc1EMk1MCqt6xEaayWxjb4cT8w3WS486gYWdu3VaGbI0LZwu2jyyGN0TUpjo/zpUUiMqvNmOUwdJERdBDfItvqB+IPo/AJve7AhVSZOTup68kQJKnCwDSxjTLO+o+j6kvatgCLCCyAFh++XQ56/ePo13fjz8Xddyytm5Br0iDkJ82D2aHKhfeu/iuDiuSPgpoIvb4=;I86R9fw/bB4bBcjjksXebA=="
 ---
 

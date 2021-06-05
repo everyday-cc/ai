@@ -1,51 +1,50 @@
 ---
 category: news
-title: "What You Should Do If You See An AI Self-Driving Car Behaving Badly"
-excerpt: "Make sure you are prepared to take appropriate action if you are driving and come upon an AI self-driving car that is behaving badly. Here are some important insider tips and suggestions for you."
-publishedDateTime: 2021-06-01T15:30:00Z
-originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/"
-webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/"
-ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
+title: "Automating Care: about our new series on the rise of AI in caregiving"
+excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
+publishedDateTime: 2021-06-03T14:54:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
 type: article
-quality: 89
-heat: 169
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6e3d49095945c75cc74ef%2F0x0.jpg%3FcropX1%3D11%26cropX2%3D3287%26cropY1%3D84%26cropY2%3D1927"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "Automating Care: about our new series on the rise of AI in caregiving"
-    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
-    publishedDateTime: 2021-06-03T14:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+  - title: "What You Should Do If You See An AI Self-Driving Car Behaving Badly"
+    excerpt: "Make sure you are prepared to take appropriate action if you are driving and come upon an AI self-driving car that is behaving badly. Here are some important insider tips and suggestions for you."
+    publishedDateTime: 2021-06-01T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
-        width: 600
-        height: 360
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6e3d49095945c75cc74ef%2F0x0.jpg%3FcropX1%3D11%26cropX2%3D3287%26cropY1%3D84%26cropY2%3D1927"
+        width: 1200
+        height: 675
         isCached: true
   - title: "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars"
     excerpt: "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars."
@@ -145,6 +144,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "ai+ogb/BkdwlAoCNeTl/7rV+Huc4LmzSMamYV733KBXHkeUImaOZpT6N6iLN8RTCFmuOaCyJZtowm4/20AbxRlp2g33fOlF4y2bG1xWxuW0DxZ5fL0/cgB88rRqY/zNsOjAwuty/KcjRZDGWiiw+f8uDjRrprtRbwzEGqhQ5CiFAf7weMR4zGraJ9Xq+yXmkzoz6LDwmGJSqIQEZBgLs7KoYYXf1cJkW3U7aArbdJX4Ek3/7Qem+cVC1OyD1Sl6BrpYCPxxAa/NNGiA4wt3fiVBHC4piVfgHBy2s1cMboNJn9/izAJlLasU/LUlBYsREeWRWTyA0cafSc6FF3sNfqVnTD+1qPnMyJ1znJTxIzZHWFhgegDEGYdK0EVPAMHjySO3JsDCcCpTzsjI88pYzn3r1jy/Y+D/wkYb4QLqIKPfdiqdlxls+37LHUbkcX4l7Zfwbg/4dybvND1TYW5SiA3PVmjNvnCW9GIMZQ4GKhN49pYhSVeElMBvLjJPXgG7ltwyU2N+BYYAomWNvHpbO3Q==;NAsl+D+Lr+VPvMwnlAWILQ=="
+secured: "oQxbW+EdmZ/pT+07lH9/8Yp6jXGToAXbGHluLTdvFFCDq/7lRO+kif8nEFlHV+iC8wC28ni8LAthpLq283mHL6RUk9l8Wf3MTv4NnAyFu7fE/EX3MHUkMLyx986pV6eZY9yLePj2u+yyjxM6FLo5ACn7P9/mkuzJGSy36QygYHlg9Wp/I/3ytnnclU6Tog61kITOKrVif2Rr07uY4wnsX66PMEeLEGuEL5H3D/lrOypZGDmNfMUct5dVb375tVAHNaaxPGN39z6Wmnm4viY6x0Rjc/nRdG1t3FIII09Gl2u5L+JJahxMODxSLPMIvdJqTXzdaF62oL+JJ2u8vuhjVV3SX2Yv6kj753S9QyDWcQ0=;k8TrjddE+W8ICKVJRM960A=="
 ---
 

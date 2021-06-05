@@ -20,6 +20,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement"
+    excerpt: "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time."
+    publishedDateTime: 2021-06-05T09:17:00Z
+    webUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/"
+    ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 79
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png"
+        width: 800
+        height: 598
+        isCached: true
   - title: "ICICI Lombard redefines customer engagement with Azure Cognitive Services"
     excerpt: "The deployment of Azure AI tools has enabled ICICI Lombard to increase the accuracy of Quality Audit (QA) during its calls - from 50% to over 80%."
     publishedDateTime: 2021-06-04T06:59:00Z
