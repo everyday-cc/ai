@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Transforming our understanding of deep learning"
-excerpt: "A team of UK scientists from the universities of Bath, Cambridge and UCL aims to make Deep Learning (DL) more accountable and transparent by better understanding the decision making process behind ..."
-publishedDateTime: 2021-05-26T14:08:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
+excerpt: "A team of scientists aims to make Deep Learning more accountable and transparent by better understanding the decision making process behind the algorithms."
+publishedDateTime: 2021-05-26T10:55:00Z
+originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=58093.php"
+webUrl: "https://www.nanowerk.com/news2/robotics/newsid=58093.php"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Nanowerk
+  domain: nanowerk.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "0HQhrH8V6diAIhEv3DF1lGSDljBXdYhER8ey7zovD9g2gsetRts3XcHw3VH906diea9O3yJagFa9xW6wurU59StiXERh+kJ62o7AHUBqqCFh8CX/2MCprjIOwngv9iZfLC6USdxnxj+JEjveTrFKWdn07ZhJu8n43CfghH9hqSs1Co5Sf2DMZhgrgt0ofWZsdLWyRT6x7ckBp5okOrAYxw23zYJVrI0OWoNT1938ZhJgazHCYa31UtSRqKGfMWgZ4x7bwaPYUrWXTUlekrZJqGuvPEotLJqTNgEu2mU5CT1U7zP8F4Bs9i9n77X+jJdk4pPVJxA8UQ/fM9jyqnzjcnAiBGmKK9RU6vDfJguE0sg=;NlPfHvO+VCs0HJndbVjUyw=="
+secured: "pSfsK+0TbYnLOM8U579fIBc7qnKEIP+MOE7ghQbsACSEfJfBfQGGKQ35flEMk91FeU+TuxY7DboekgkoMZ0VafifO1m+nSNoPBS/UnpCrs0vaNzTIrU1Wn6KCfjNxoxAYPG7tPLn24iUnilBAN8E6OD9AJffAKAyr5p0ufmPltfFpj5E7kmAe5qJTO7n2BUcl06SqvPeYAo9PWuiR3C4pcrEMz122n7lvkkWQQQWoruYXPiCooOJMOiuLGaYivuDMEuAecVDoXIAeoN3r8Mg+WIwjY3ZgZtRddfWsL5Tqx7o/twSSGH/x+F1Eqo45XRSBJc8oZYcgTOY+XUS+atZYZyEavCshFiUYxfBckGJdx69KXl961BsiwF5GvXboNChkRljWZTgTXH3vtrmAvmFnMNj+Bp9XurTsVy0uOyTXSuivH8Amcpk5QnABn+HYZMFCOUNj+G1TkyZvunA7e5pgjbFgEZaFum3Yb10U68nQf3FZycodorQ/1QdnwMh133Q/0WusYA3Ti2ou9JcjQeq6g==;VLnfde3rziVLHbOhEPODbA=="
 ---
 
