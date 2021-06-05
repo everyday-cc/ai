@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deep6ai"
   url: "https://twitter.com/deep6ai"
-  followers: 1324
+  followers: 1323
 
 size: 11-50 employees
 yearFounded: 2015
