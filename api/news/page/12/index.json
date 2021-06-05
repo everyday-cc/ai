@@ -2,59 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-05-26-microsoft-has-built-an-ai-powered-autocomplete-for-code-using-gpt-3.md",
-      "title": "Microsoft has built an AI-powered autocomplete for code using GPT-3",
-      "excerpt": "And the output of AI language models is often haphazard ... The company has fine-tuned GPT-3 to “translate” into code by training it on examples of Power Fx formula, but the core of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "originalUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ne3n4e4xjvi-Ih44nfl3ixNVPbU=/0x0:503x357/1400x933/filters:focal(212x139:292x219):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69339297/microsoft_gpt3_powerapps_code.0.gif",
-          "width": 503,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
-      "publishedDateTime": "2021-05-25T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
       "title": "Your Guide to the AWS Machine Learning Summit",
       "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
@@ -105,6 +52,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-driverless-cars-hitting-streets-of-fremont-milpitas-irvine.md",
+      "title": "Driverless cars hitting streets of Fremont, Milpitas, Irvine",
+      "excerpt": "The company, which was founded in Fremont in 2016 by James Peng and Tiancheng Lou, both formerly of Baidu and Google, has been testing cars equipped with its self-driving technology suite since 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesheraldonline.com/2021/05/25/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "originalUrl": "https://www.timesheraldonline.com/2021/05/25/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timesheraldonline.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&h=452",
+          "width": 680,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesheraldonline.com/2021/05/25/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "cdnAmpWebUrl": "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/05/25/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "publishedDateTime": "2021-05-25T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vallejo Times Herald",
+        "domain": "timesheraldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -389,8 +379,8 @@
       "title": "Microsoft Azure is now smarter and more powerful than ever",
       "excerpt": "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
-      "originalUrl": "https://www.techradar.com/sg/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "webUrl": "https://www.techradar.com/nz/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "originalUrl": "https://www.techradar.com/nz/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -407,8 +397,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
       "publishedDateTime": "2021-05-25T08:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -588,8 +578,8 @@
       "title": "15 Big Azure Announcements Made At Microsoft Build 2021",
       "excerpt": "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

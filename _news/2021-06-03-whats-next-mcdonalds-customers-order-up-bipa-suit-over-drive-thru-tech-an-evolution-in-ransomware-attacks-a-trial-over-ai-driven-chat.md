@@ -56,20 +56,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Applying AI Knowledge at McDonald's"
-    excerpt: "Rhett D'souza (MSAI '19) talks about his new role at McDonald's and how his time in Northwestern Engineering's Master of Science in Artificial Intelligence (MSAI) program prepared him for the position."
-    publishedDateTime: 2021-05-31T23:25:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/applying-ai-knowledge-at-mcdonalds.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 37
-    images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/applying-ai-knowledge-at-mcdonalds-1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "McDonald’s Is Testing Automated Voice Ordering at Drive-Thrus"
     excerpt: "The fast-food chain says the system can handle about 80 percent of orders, after a trial at about ten Chicago locations."
     publishedDateTime: 2021-06-04T16:27:00Z

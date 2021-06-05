@@ -1,29 +1,32 @@
 ---
 category: news
-title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
-excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
-publishedDateTime: 2021-06-01T14:44:00Z
-originalUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/articleshow/83147254.cms"
-webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/articleshow/83147254.cms"
-ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
+title: "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI"
+excerpt: "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI."
+publishedDateTime: 2021-06-05T15:06:00Z
+originalUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
+webUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
 type: article
-quality: 58
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-560387,msid-83147238/bpo-bccl.jpg"
-    width: 600
-    height: 450
+  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/06/GPT-3-code-generation.gif"
+    width: 696
+    height: 375
     isCached: true
 
 related:
@@ -91,20 +94,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI"
-    excerpt: "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI."
-    publishedDateTime: 2021-06-05T15:06:00Z
-    webUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 85
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/06/GPT-3-code-generation.gif"
-        width: 696
-        height: 375
-        isCached: true
   - title: "Microsoft acquires ReFirm Labs to enhance its Azure Defender for IoT platform"
     excerpt: "Microsoft will integrate ReFirm Labs' firmware analysis technology into the company's existing IoT security platform, offering customers an all-in-one, cloud-based security solution."
     publishedDateTime: 2021-06-02T14:16:00Z
@@ -157,6 +146,22 @@ related:
       - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
         width: 800
         height: 338
+        isCached: true
+  - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
+    excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
+    publishedDateTime: 2021-06-01T14:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/articleshow/83147254.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-560387,msid-83147238/bpo-bccl.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
@@ -243,6 +248,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "ZSy8d5eDD6WnOsrj4IEanFntUkd3qhNcljV0PSHkuIRu/h5kVMWm3V7duH+Q7Zzwrsu+W7GtiL60HnoRxuPL4YYPTlnMVymbCEVsKHandHd/ffoR7xI8BlSZZABJu5eMM9631WI5VoKT/qt/Ge2i/IvCwg7Lw3ygtnK6rLOa9AwKMXqS6awiMiFa1D7DykY0j767wlbV2A+RIwXMBFYxNgpBI56xpQRGpBj2pH52V9vdInXG8Q9LKQU6i9gvxnodT8frI2ukQtGwabSrzduKSuI/tTdgsV9ttxnoJucyADLId8u4+vAtbQ2T438Yqm4h29YeursKZ73YZr2jdj7pMLUNgEn18gZ+OeMNohvHa8D9aOv6g9YV/3k1faMyK/u+ws1tK7MFjMHlvilEPCHWYptgr2IGshY1emm8ZcsyV8e7v2hRC6zrVdmC1/70929MqvQbUHzFBH4AgoBrjHQOhTV1ilbxd1GFqswhBKOeaki/eDf73tbINqEf6SGUPwa6FlaAUmS8Z4jtEX+s85LlOA==;T01H/c/B7fmlRSz0i+yL+w=="
+secured: "f42W/MYRkEvR+btrM9TzFMQRxt0xFJIFdm5NcnNZN7SwFJ/wN5jdpNfyStl2RchoQ8empAKThzgzqInjgmgh28/7K/DXZ8ACz4M7uctE62+2TmTQ1IrrWj5ZPisCbRANLp4/xbFuB8BmworpT/ke8QkeKbTw2nDk5O1O+bj32S6gYQrrrcnOb/8rVG36pfPJj2KRVrvP/RFfAsAcNwEbgT1u7l34epqUWD+T6HJHq9uQFKaOYvnWb7FTLXZcvWwMBd+qfGCdl9F6WbJCdTkoirgowHGzzP5zaBtOMtEVGxeenRU/1rj+zzIJP+MYJd5g53PUJq++RRgkv2afIvhtZItQs35ar0pmE4smHZSLO/Y=;Wiy3LhNJw3m0UAKvciGUdA=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-05-19-amazon-extends-ban-of-police-using-its-facial-recognition-indefinitely.md",
+      "title": "Amazon extends ban of police using its facial recognition indefinitely",
+      "excerpt": "Amazon Inc (NASDAQ:AMZN) barred police from using its facial-recognition software almost a year ago, saying it would prohibit them from using it for a year. Now the online retailer says it will extend the ban \"until further notice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372432",
+      "originalUrl": "https://www.entrepreneur.com/article/372432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-372432.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372432",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372432",
+      "publishedDateTime": "2021-05-19T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports.md",
       "title": "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports",
       "excerpt": "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. LaLiga will offer new experiences such as augmented reality,",
@@ -1098,58 +1151,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-otterais-new-assistant-can-automatically-transcribe-your-zoom-meetings.md",
-      "title": "Otter.ai’s new assistant can automatically transcribe your Zoom meetings",
-      "excerpt": "A.I.-powered voice transcription service Otter.ai wants to make it even easier for its business users to record their meetings. The company is today introducing a new feature, Otter Assistant, which can automatically join the Zoom meetings on your calendar,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/",
-      "originalUrl": "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jzbRLczOk1w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/amp/",
-      "publishedDateTime": "2021-05-19T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

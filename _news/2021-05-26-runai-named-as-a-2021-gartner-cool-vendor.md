@@ -2,19 +2,23 @@
 category: news
 title: "Run:AI named as a 2021 Gartner \"Cool Vendor\""
 excerpt: "AI, creator of a cloud-native compute management platform for the AI era, announced today that it has been named a Cool Vendor in Enterprise AI Operationalization and Engineering by leading research and advisory company Gartner."
-publishedDateTime: 2021-05-26T14:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-runai-named-as-2021-gartner-cool-vendor-/2021/05/26/9378502.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-runai-named-as-2021-gartner-cool-vendor-/2021/05/26/9378502.htm"
+publishedDateTime: 2021-05-26T16:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/run-ai-named-as-a-2021-gartner-cool-vendor-1030467458"
+webUrl: "https://markets.businessinsider.com/news/stocks/run-ai-named-as-a-2021-gartner-cool-vendor-1030467458"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "mGyegHWjxxBoySRgz/T28CWBjZEWX+eL+fb36q6D+9TZp2b5uk0V+vcdLGx3is/gKQXwnduB/Igi41Q9ZKBE55dJZrQoVmEijvzl3FXPaCNaj96UcjPoOm+ro6ry/e+DNd/CchZU9T2nbp/wIRAWSd5RAR/B+A3hJwhg4N0qdyFYUXmXAtFsZCW2UnuKuqQcgLZDiV7kqJ0oMdf68bM4GAOsNecQHE0wPJX42df6mOOKSSaMt+az3JMLbeU2vDPrAVJUQD5uzMlnqeZACCvJRoVf7xmrdfbujgThMOmcAXr9J9I3Z/POTrMMLfZ1vt156lP46pGLRv2yhtGrrTvMadxfR3P57kJtjUbyNIZg7ss=;fCQQZKJu6sFYk/aeGzoS/A=="
+secured: "B0ZbRm6+Ky47myq5/xxBRbzyzlQf+AsoGvZ+4SM1Dkur/FcVjr0XmQWiNUNzrZr5vB9cQKko8BaAVf3bY8n6UyTBimRwyXrNPL2gjZNcdb0okPRfDGTfWdxGGzBiamddm6vMF/uTaqTnvYO7nQVdT3Soz7Ygy3xarS4aXsPT8fjEWExeGCDvJO1FQxIEyMGPGpX4ukIYyMK7iFMdjxd7r1fg7h0MqmsEFD4hz2h20JpLUFaOMDRnYk/dUbyCfF1AdMA20jSLxrSLvhQJVKms4DAxH50w3NAnLs2SV+1DGtphmMgmjmu/lpBIx/LsyZflwLxF33lYiKmY6deTu7400mkeA4nT7DdhJTRXaIvpLmI=;T3dT7sYcXddXqho7VWS8JA=="
 ---
 

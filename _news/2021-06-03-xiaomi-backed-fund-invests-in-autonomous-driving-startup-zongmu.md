@@ -42,6 +42,20 @@ related:
         width: 620
         height: 399
         isCached: true
+  - title: "Xiaomi-Backed Fund Joins $190 Million Funding Round for Smart Parking Specialist Zongmu"
+    excerpt: "Zongmu completed the financing in three stages, with the last tranche led by Hubei Xiaomi Yangtze River Industrial Fund, an investment fund backed by smartphone giant Xiaomi, Zongmu said in a statement on Thursday."
+    publishedDateTime: 2021-06-03T10:02:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-03/xiaomi-backed-fund-joins-190-million-funding-round-for-smart-parking-specialist-zongmu-101722448.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 16
+    images:
+      - url: "https://file.caixin.com/en/images/icons/google.png"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "gIaPHjA4qXYdVmF0l9XNK6lr13oOelCwA5thjJwEkjOSWoRi5v8h9foMnvFhLdBHPb5k5yoARIRP6jM5lqOMHHl0W2qFNYVt+x3x2iFGVXK6ZLY2Bbw95iWkP6hJid82/nTziaukCScWp9SVxF7HQAJwyBeDh410aPUhaaprJVWdjBjfVDkjZYao0VdUUcXosZnobeO4rZUVu+rG3WWofVTulAoUvNoE19Be9cIDaYQx/VawEYWTgr0ljV3LsyYuUTxPE23jLT0OJ/jkzeW90p96AxB//z0kz4Zd7xhL/4ODg1aKk2Qrx9fXz/GlPDZwzFNESIV2bZSzDV4PXbQuv0/8S6fskX0JC59xQQ50zG4lUChuVaNI0E6+j+dvuAtnfydwR942SMOeo8QsQ1t8lAw1oxLpl39uCaXA4smJqF5tUx7HNRB5jYpZO6QJ+v7FXtiMpvpWwmManW/02BjsG9KgRGtAO8D2/QLc0xRu/I3KgXE1mbxoOmgltFUG0i4Bm4j6j1IqSV/z098b7pBvbQ==;4cynhJIZnJvbqLhALaUK1A=="
 ---

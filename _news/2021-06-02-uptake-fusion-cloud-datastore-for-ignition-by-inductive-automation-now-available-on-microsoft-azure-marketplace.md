@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-publishedDateTime: 2021-06-02T15:31:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
+publishedDateTime: 2021-06-02T15:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -82,6 +84,20 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/02/e5ca2060-b61a-4991-a58a-df38fdcc14cc/resize/1200x/3a4b18e380749405a438cc1bf24cbc4e/tr-azure-farmbeats-diagram.jpg"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI"
+    excerpt: "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI."
+    publishedDateTime: 2021-06-05T15:06:00Z
+    webUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 85
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/06/GPT-3-code-generation.gif"
+        width: 696
+        height: 375
         isCached: true
   - title: "Microsoft acquires ReFirm Labs to enhance its Azure Defender for IoT platform"
     excerpt: "Microsoft will integrate ReFirm Labs' firmware analysis technology into the company's existing IoT security platform, offering customers an all-in-one, cloud-based security solution."
@@ -181,13 +197,13 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 49
   - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
     excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
@@ -226,6 +242,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "JlsUW2S85y17bfQWQ//kDcNfhx2a5BJ5lZ5fBHlJunr0wy+SIlIZ3EHUtU6MptR5ut4WrEY1Q3N8XSF0mlAcRq9zW8jHs66fPsRFhgbWgxzZPnS3ZTXJBlwJi4n+7kqbGMGih7vgrn8nGrXAQHOuoq/qFn9CQQkW6cotidpc1EMk1MCqt6xEaayWxjb4cT8w3WS486gYWdu3VaGbI0LZwu2jyyGN0TUpjo/zpUUiMqvNmOUwdJERdBDfItvqB+IPo/AJve7AhVSZOTup68kQJKnCwDSxjTLO+o+j6kvatgCLCCyAFh++XQ56/ePo13fjz8Xddyytm5Br0iDkJ82D2aHKhfeu/iuDiuSPgpoIvb4=;I86R9fw/bB4bBcjjksXebA=="
+secured: "xhaOYZNnIEELXORW4jJlyYAXqLP8wXRqha/0nNRj5CFJrVHZlO4ULBrSugHX/XUYjHPZTvuFRR1ZmaFEB+w5y0NUWGYDJXvKwr0YslFSWWWHAl9IyLL6Kr3TkAk79yShRekkwBdgiyQPhBzzKeN+JbaqC/+Fi/qWd9w+0DDFASKrjVKv8/oda5I9RHwAATVt+AbiwIOzzFK6VltIIA0CCJtGbOA+LPsG2ly/naCUE4t5O4jHnUwtBF172q+JoEQGXoCBxjVwyC71KQ+SrW6Qc3uxfE8M9Gi0uHpNo3XkMKdPCWAiOvW/yebP8CwEFFcuShd0MV2zGYuuDTdc0OTm4s5pEvChaTr9tUfz6+wc0Do=;Nw2pZfEXcmqoOGlX3NIcTQ=="
 ---
 

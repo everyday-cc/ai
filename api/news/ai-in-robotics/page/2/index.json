@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-27-dream-bot-l10-pro-review-a-robot-vacuum-newcomer-that-cleans-well.md",
-      "title": "Dream Bot L10 Pro Review: A robot vacuum newcomer that cleans well",
-      "excerpt": "The Dreame Bot L10 Pro is one of the first bots from Dreame Technology, which is looking to make a name of itself in the always competitive robot vacuum space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/",
-      "originalUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dreame-bot-l10-pro-review-11-of-12.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/?amp",
-      "publishedDateTime": "2021-05-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-future-cny-how-robots-are-helping-to-mind-write-the-strokes-of-chinese-calligraphy.md",
       "title": "Future CNY: how robots are helping to 'mind-write' the strokes of Chinese calligraphy",
       "excerpt": "Then, the system can decode the operator's intent and control the robot to write the character,\" explained Prof Xu. The mind-controlled writing system allows two people to work on a character ...",
@@ -1095,49 +1043,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
-      "title": "New sensation: Pioneering mind-controlled arm restores sense of touch",
-      "excerpt": "The world's first brain-computer interface allowed a volunteer with paralysis from the chest down to accomplish this very feat Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dhakatribune.com/world/2021/05/21/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch",
-      "originalUrl": "https://www.dhakatribune.com/world/2021/05/21/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-eng.dhakatribune.com/uploads/2021/05/watermarked/367558/1621599940829brain-computer-1621599614229.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dhaka Tribune",
-        "domain": "dhakatribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-21-getting-started-with-geometric-algebra-for-robotics-computer-vision-and-more.md",
       "title": "Getting Started With Geometric Algebra For Robotics, Computer Vision And More",
       "excerpt": "[Hugo Hadfield] wrote to let us know about an intriguing series of talks that took place in February of this year at GAME2020, on the many applications of geometric algebra. The video playlist of ...",
@@ -1311,6 +1216,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
+      "title": "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch",
+      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
+      "originalUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
       "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
       "excerpt": "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled.",
@@ -1340,6 +1288,49 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-robotics-technology-market-tipped-to-skyrocket-to-189-billion-by-2027.md",
+      "title": "Robotics Technology Market Tipped To Skyrocket To $189 billion By 2027",
+      "excerpt": "In wake of COVID-19, demand of robotics technology is expected to increase among several industries such as supply chain",
+      "sourceUrl": null,
+      "webUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "originalUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techbooky.com/wp-content/uploads/2021/05/abstract-robot-thinking-800x450-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "cdnAmpWebUrl": "https://www-techbooky-com.cdn.ampproject.org/c/s/www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "publishedDateTime": "2021-05-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
         "images": null,
         "publishers": null,
         "authors": null

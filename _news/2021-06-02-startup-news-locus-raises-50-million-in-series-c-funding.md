@@ -47,6 +47,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Robotic Process Automation Platform ElectroNeek Raises $20 Million in Series A Funding Round to Democratize Access to RPA Technology"
+    excerpt: "ElectroNeek, a leading robotic process automation (RPA) platform for managed service providers (MSPs) and IT teams, has announced that it raised $20 million in a Series A funding round led by Baring Vostok with participation of AICPA and existing investors - YellowRockets."
+    publishedDateTime: 2021-06-01T13:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-robotic-process-automation-platform-electroneek-raises-20-million-/2021/06/01/9381299.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/1179162/ElectroNeek_Logo.jpg "
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "LUUZvBrFyKV5ALdGxSYvokFz6vLY4wTmvianWYp3+VeNFDd+/SjrR6BK7h43v3kG2uhcT38Ql1W1EYxwXNbWk7M+t2SUSVAkFZrgvY0ba6XxGPVEov4qsRecfjeo+DQcedGsPwDyADFJog7xf/t6XGLRY5nPtO0b/iY+BmXx7asMIml8Fb/0vJPa+JLQMqHrzLWu/Hsr5ZogKpnntEVobCaCqJVyudNf0U+571bmN68CKeUryOSZjNZ5F+zSptnLQxoxjo1vIGSqTNVKeqUYrS3oe2qcMfae0bgWIwUEeeghm7bFr11IsOA7RRpfUhoDdTTJ9QMt1gdCbDqmb0RpUCigcDcFYKSJQOrqBZZr5EA=;FUPwFrUft15hPMk9LIp4WA=="
 ---

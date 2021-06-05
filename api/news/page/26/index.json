@@ -2,6 +2,48 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-05-17-how-ai-vendors-can-navigate-the-health-care-industry.md",
+      "title": "How AI Vendors Can Navigate the Health Care Industry",
+      "excerpt": "The adoption of AI in health care is being driven by an exponential growth of health data, the broad availability of computational power, and foundational advances in machine lear",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry?ab=hero-subleft-2",
+      "originalUrl": "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry?ab=hero-subleft-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/05/May21_17_1226988439.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry",
+      "publishedDateTime": "2021-05-17T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-hayden-ai-secures-45m-funding-round-led-by-bootstraplabs-to-support-growth.md",
       "title": "Hayden AI Secures $4.5M Funding Round Led by BootstrapLabs to Support Growth",
       "excerpt": "Hayden AI Technologies, Inc. (\"Hayden AI\"), a leading smart city solutions provider, today announced the closing of a $4.5 million funding round led by BootstrapLabs, an early-stage Silicon Valley venture capital firm focused on Applied Artificial Intelligence.",
@@ -1093,40 +1135,6 @@
         "Microsoft AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-regulating-artificial-intelligence-and-the-limits-of-the-law.md",
-      "title": "Regulating Artificial Intelligence and the Limits of the Law",
-      "excerpt": "Should we regulate artificial intelligence? Can we? From self-driving cars and high-speed trading to algorithmic decision-making, the way we live, work, and play is increasingly dependent on AI systems that operate with diminishing human intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/us/academic/subjects/law/e-commerce-law/we-robots-regulating-artificial-intelligence-and-limits-law?format=PB",
-      "originalUrl": "https://www.cambridge.org/us/academic/subjects/law/e-commerce-law/we-robots-regulating-artificial-intelligence-and-limits-law?format=PB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-15T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recog
 webUrl: "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 533
     isCached: true
 
-related:
-  - title: "Allegations in wrongful arrest suit involving face biometrics against Apple, contractor get worse"
-    excerpt: "Apple is facing legal action over an alleged repeated pattern of carelessness and over-reliance on a face biometrics system."
-    publishedDateTime: 2021-05-31T23:05:00Z
-    webUrl: "https://www.biometricupdate.com/202105/allegations-in-wrongful-arrest-suit-involving-face-biometrics-against-apple-contractor-get-worse"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06145144/apple-logo-building.png"
-        width: 721
-        height: 420
-        isCached: true
-
-secured: "5KyP/yon4xs7HM+n7tKmwS9ESNL2uF5b/O6oyfI0AsAWBxsUi6aHdTL3ZJGehcc3O0qHIT64vipqZk2BIumBXvAOE6sUOoWgoMFv99O4QBo+N4pc2rLw9PtJW46T5/zuopqHKTRi4FGZUMDQ4fM2veXetuJPWHLq6Y+15GTb7nRA2yXABvAQiTm6vG/w7kq1Lla2DCsHgsXqhQqkwARs1mCePzWSgICWNT5axl4zCFWoV0nfGdJEWswVTWsZ+FD942aSEg0SuuAvnZ1I86SICu3va48DE2Vy2Syp8doj1Y6gU4LbVAbmb4JhxV6qvOgFcs4sg0dLq53vUpPL262Zjb2fc6lG4MsPDB9deBk0Kgw=;Fg5wyjImSAt6bDuWo2Vdxw=="
+secured: "jPuk9EZCSIFwhg5sfytO9cV7drhVby9zMeNjHmzwaQFLvEwiBT7mAj+0FeEGpd+QWNa5ZYjQiMUHuieAHXUCf9s1Leh5Q3GxZuja1sNo52YgVtCCFtewvFvnIlG2qMK0HXwNgNNGF0T7JAQQdmdo1A3ZbHbLwyXfCB3iu3jBdK3TPl+JqszpYcIkoeLy+U8M6Cq6etk1RYpkhbGheuUroT8TZvTnIZpTxRrwJcEsR/9sErSVcciARtEZsQbUFLgSbFTT7+2iwoPkOE9HFbuLZ60R38pk24gwkjQrTA7OaWWo4oX4NFAVlGRycEApQJMsJ/vnZ5QTwJj4/0Zp4xMmtF4lRxWqjwiS1foyojBYIEkRX7Nvl7MS5h4Vq5uPlbJCoSguxuK4Dh4KYI/C99qzB7IZkNj+YzFIRRauHaZV3ksghyV2ActNDD4NPg36ofy1jn49ec193jf6X6X8fv2LucmdJaCFCnzFmNzPKJk0kphovxhs+uovZ25kIM/sPcmoqudGlmfLQm7pobXJB6SeKQ==;FIXatKocXgpx/NkHmQkEfQ=="
 ---
 

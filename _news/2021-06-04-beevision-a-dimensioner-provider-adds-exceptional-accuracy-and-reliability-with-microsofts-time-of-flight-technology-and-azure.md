@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI"
+    excerpt: "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI."
+    publishedDateTime: 2021-06-05T15:06:00Z
+    webUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 85
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/06/GPT-3-code-generation.gif"
+        width: 696
+        height: 375
+        isCached: true
   - title: "Microsoft acquires ReFirm Labs to enhance its Azure Defender for IoT platform"
     excerpt: "Microsoft will integrate ReFirm Labs' firmware analysis technology into the company's existing IoT security platform, offering customers an all-in-one, cloud-based security solution."
     publishedDateTime: 2021-06-02T14:16:00Z
@@ -185,13 +199,24 @@ related:
         height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+    excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-06-01T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 49
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
+    publishedDateTime: 2021-06-02T15:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 49
   - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
     excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
@@ -202,15 +227,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-    publishedDateTime: 2021-06-02T15:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z

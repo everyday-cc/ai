@@ -2,6 +2,40 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-05-14-4-artificial-intelligence-stocks-to-watch-right-now.md",
+      "title": "4 Artificial Intelligence Stocks To Watch Right Now",
+      "excerpt": "Top Artificial Intelligence Stocks To Watch In May 2021. As tech stocks continue to recover from this week’s losses, investors may be looking towards Artificial Intelligence (AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14",
+      "originalUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14?amp",
+      "publishedDateTime": "2021-05-14T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts.md",
       "title": "One Drop Receives CE Mark For AI-Powered Blood Glucose Forecasts",
       "excerpt": "One Drop, a leader in precision health solutions for people living with chronic conditions, today announced it has achieved the Conformité Européenne (CE) Mark for its Blood Glucose Prediction Analysis Engine to accurately forecast glucose levels up to eight hours in advance for people living with prediabetes,",
@@ -1143,40 +1177,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
-      "title": "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
-      "excerpt": "Windows Virtual Desktop is a Microsoft solution that seamlessly ... consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-72975.html",
-      "originalUrl": "https://www.businesswireindia.com/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-72975.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
