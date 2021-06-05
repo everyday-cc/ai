@@ -52,15 +52,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
-    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
-    publishedDateTime: 2021-06-02T11:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition-1030486478"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Study to train AI for koala ‘face recognition’ at crossings"
     excerpt: "A team of Griffith University AI researchers will train cameras to use 'facial recognition' technology at koala crossing locations across South"
     publishedDateTime: 2021-06-02T00:29:00Z
@@ -75,6 +66,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
+    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
+    publishedDateTime: 2021-06-02T11:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
 
 secured: "1XEnvoqmMBmiNwUJjZckFdo+I0QVGU7BH++ZC5xGdXprYaxwfjnxJ+JxBHmyLTQdFFGQHkQYZ1uCn3jMxJ4/W2gyhemb0IlLrh09trll47BivRtZP3KCYJHq7uLi9zUoQRJLWq7yKiUqm9BYtumTNmlUp76qzu80qUofwDluwZzDiLetxihYwyMcx2bxkGWAF4kEHqagfING46djdXtwFcCPgUiAlghHzznR0NPnmDXsa3mMU9Jk9tFdpxW51gOGdoEItWDcZq4fd0vsMvVwOfyFJPv82yxdxWdFkiV6HgkL3ak+PIy5yLbceXYEw8h2AI7eu6tUZVhDooiUUhjtGKw08Pkh/ykWjRpwglGPpQ17uPsnis7XWcctyCTsFLHw8L/snEHL7JS4lTK8Ax2Da4KWRSKGDXZ473OiMzj+SmK/C2o9kydt3r+xzljffacno//IEq3zjbuh3/8HLhProUBpRX9Mu6da2/pxriyy8dFAp/iqhEtnkn9DMv+pHqGnWxlZrSkpD/AgjHpeaJoAsQ==;fzGmnFvecQlZp6AEGJUs2A=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 800
         height: 413
         isCached: true
-  - title: "CBSE To Conduct IBM AI Teacher Training For Class XII Teachers, Register Here"
-    excerpt: "Central Board of Secondary Education, CBSE has announced an IBM AI teacher training programme for Class XII for session 2021-2022. Read more to know about it."
-    publishedDateTime: 2021-05-31T10:45:00Z
-    webUrl: "https://www.republicworld.com/india-news/education/cbse-to-conduct-ibm-ai-teacher-training-for-class-xii-teachers-register-here.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 34
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/a8h6tmg6rbnox3lp_1622456919.jpeg"
-        width: 768
-        height: 439
-        isCached: true
 
 secured: "0nMKr0Jjonqhd2fAbADvpqoXNZ4Uem2uBxjcttVGKmunP4LkbHLMz713CXV8sbZ6Q1w7EA/vMJv11NqFORIY6YgWhxtk4/KH0tePihjT+mfkleUXsMS7riKDZL/ef3lZw6t1VrQe+W2pM8P7ZN6mbHT5OpWzRtMPNCc3J6wpFv0jrFUzKVVxwiwWAWKuPJgMltpJ1M/qLIWvxQv2nf+EVvXqzXWcbsD+BcFeyaqR5ZUq1afehMPLa06TlyliT8FefxyO9iBjvS8JVhDG3/PFYgTOlucK4dJ/GtbVlscn04s//PFVSseVW8cUSFzmnLlCta5W8sYZm/8OmiK/NU2PVKYTDX5m6B7dZh9EoLcKscs=;S/YRa8qx1HQOReN37vDSug=="
 ---

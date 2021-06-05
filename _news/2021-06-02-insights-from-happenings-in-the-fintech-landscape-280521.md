@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
+    excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-06-03T12:04:00Z
+    webUrl: "https://menafn.com/1102203168/Computer-Vision-Market-Size-Revenue-Growth-Opportunities-Competitive-Analysis-Trends-and-Demand-by-2026&source=139"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/03/pr_9559_a64faf5a_image_story.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "asCVH3WNmN6QwqQLWC1Y2z1F4Kj/swXt6hyVxw2invaV9fwLToRTeOJ7g9w9/Bpi+XysIblIrdWE0TN7ZSydeDq1ESkqUr4hm2TsjUN/q76yzBkOuDdxWSKDotx67da6p3axHSpHkj9Y7dYwJ38Qt5y7fNcKy8IRZVSGAhDgTpdpyqQj8G40k5i2GyrZPPau0CzfP8zCAXi7qwKMddPNwNwVbhvAmOyBjWFGZz0ixEg98fQIY/eEfOLu4XVx1B7YOLaV1xy9GbwxBcIGCvFTphUm5Kkr01sKeXoKJuPLHDSdoH8Evl8PbAv0fp1l6ggsdEuqT0mmx8fRrqjdqxmj/Z+YvOVXpRVyR5D7/YAvdd4xcLcadXA/V20oUfOVGaY7ftRkS9hJ/ukDy5QR4mHF8MTIf/b3tMRwZrm49c5eXWczVFnjdEHFWx16iG+jJiSdbCUADq+eW0GD/zkcrs6M72eQHVFSruguVK+CYgYwbqeg+VnZbKhpea8KHINTVnP+k3QCejD3TrRlA+4DlMduNQ==;/gCjRV+8X4OMLBJht8kdxg=="
 ---

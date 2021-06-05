@@ -2,21 +2,17 @@
 category: news
 title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
 excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
-publishedDateTime: 2021-06-02T11:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition-1030486478"
-webUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition-1030486478"
+publishedDateTime: 2021-06-02T11:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
 type: article
-quality: 63
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -80,6 +76,6 @@ related:
         height: 421
         isCached: true
 
-secured: "Ua8HXk/IjcRWSsUBCFNL5IA8yx2gUskhHL/lcrRAoD5YVyXWZLoDTpBM2dxHkthCxd81bKuwe71o1aYFDRRNYlsM7qZS5mnRtbrJbZpob0FVJJWcfZdwZ8TvwsIgk0lrq++wIs+NQsuzhpF+GMjJQQtOeNNjguoGXSRjtdD8yLdB3R/F3CiPlwfN3JFaMOHLCdtbszCGX7TXtz+q2/jilkEJup9kzVBMjNA3ae/SSc3oAGtGbj8hMu3C40AViumvNkSKYDBOINAIw3fyRBd/vwpfQPV3bzYZ9eeTr3baAIAn0Yn6MTRikutVvrRt12/vg8rENvTKxhEBQUGEE6biK9NdyD0ay7rHsU0wbnbzQhU=;V7OKZYwLcpFXhzDdW0PcvA=="
+secured: "rmC2xi2XJqBY2FQyMQ1CzSTjQ18h/bMBkZ3uhDmUgWNuOs00ZwuFHSk+hx2Z1e/8sT3ScEfxpDxtphuE2ZSu03f2S2CsMrl61Phe0mS3PFnJmQsT0R2zeJGM3y8n/o6gxsOQtYd5j7J3WzYTwS50ktLe38yR2I1Thtr6cjOHc0IJNG2oEO2/oj3OiEhlVzvC6aag7ckgFvI+Vw/IYqloOLymxAESH8Bh+ZzBjgbT6QDyLdJUAhkHNW3VKBdn/mf9eGWQAccaXz9QYSN191K2Hm017LkN7rlI6d/RrYGgYBkyc6eYeBZZmTMbJEmX5uUcgBHxrRnH2YHlUDd5REgl5qdsJIAM7KqeM/+PmAdxLLQ=;41V/GYIMwf3gZTxjckYeIA=="
 ---
 

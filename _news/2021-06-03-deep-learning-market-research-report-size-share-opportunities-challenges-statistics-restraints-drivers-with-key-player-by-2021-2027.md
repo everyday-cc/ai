@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-res
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02"
 type: article
 quality: 50
-heat: 80
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Global Education and Learning Analytics Market Report 2021-2027"
+    excerpt: "The \"Education and Learning Analytics Market by Component, Deployment, Applications (Acquisition and Retention,"
+    publishedDateTime: 2021-06-03T08:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21403802/global-education-and-learning-analytics-market-report-2021-2027"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21403802"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21403802"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
   - title: "FinTech Blockchain Market Worth $36.04 Billion by 2028- Exclusive Report by Meticulous Research®"
     excerpt: "According to a new market research report titled, \"FinTech Blockchain Market by Application (Payments, Clearing, &"
     publishedDateTime: 2021-06-02T10:11:00Z
@@ -54,6 +65,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Global Artificial Intelligence in Medical Diagnostics Market Insights Business Opportunities, Current Trends And Restraints Forecast 2027"
+    excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market report provides a holistic evaluation of the market for the forecast period (2018–2027). The report comprises of various segments as well an analysis of the trends and factors that are playing a substantial role in the market."
+    publishedDateTime: 2021-06-01T11:42:00Z
+    webUrl: "https://ksusentinel.com/2021/06/01/global-artificial-intelligence-in-medical-diagnostics-market-insights-business-opportunities-current-trends-and-restraints-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
   - title: "Worldwide Web Hosting Services Industry to 2027 - Artificial Intelligence in Web Hosting Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "The \"Web Hosting Services Market by Type, Deployment Model, Application and End User: Global Opportunity Analysis and Industry Forecast, 2020-2027\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-06-03T10:02:00Z

@@ -25,91 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market 2021: Global Industry Growth, Size, Share, Demand, Trends and Forecasts to 2028"
-    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2021-05-31T10:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-2021-global-industry-growth-size-share-demand-trends-and-forecasts-to-2028-2021-05-31"
+  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
+    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
+    publishedDateTime: 2021-06-02T07:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Education and Learning Analytics Market Report 2021-2027"
-    excerpt: "The \"Education and Learning Analytics Market by Component, Deployment, Applications (Acquisition and Retention,"
-    publishedDateTime: 2021-06-03T08:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21403802/global-education-and-learning-analytics-market-report-2021-2027"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21403802"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21403802"
+  - title: "Insights from Happenings in the Fintech Landscape - 280521"
+    excerpt: "CBDCs, digital and cryptocurrency are seemingly gaining more momentum with incumbents and government institutions as the Central Bank of Bahrain, Bank ABC and J.P. Morgan recently announced a digital"
+    publishedDateTime: 2021-06-02T12:12:00Z
+    webUrl: "https://www.proshareng.com/news/Fintech/Insights-from-Happenings-in-the-Fintech-Landscape---280521/57485"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-  - title: "Artificial Intelligence Systems Spending Market Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2027"
-    excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-06-03T13:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2027-2021-06-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+      name: Nigeria
+      domain: proshareng.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.proshareng.com/admin/upload/news/57485-proshare.jpg"
+        width: 947
+        height: 654
         isCached: true
-  - title: "Machine Learning as a Service Market Size and Share Evolution to 2030 by Growth Insight, Key Development, Trends and Forecast"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine Learning as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-06-04T08:46:00Z
-    webUrl: "https://menafn.com/1102210614/Machine-Learning-as-a-Service-Market-Size-and-Share-Evolution-to-2030-by-Growth-Insight-Key-Development-Trends-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643070"
-        width: 374
-        height: 249
-        isCached: true
-  - title: "Computer Vision Industry Production Capacity Estimates and Forecasts to 2027 | Industry Size, Current Trend and Future Demands"
-    excerpt: "Market Scenario: <br /> The global market for Computer Vision Industry is expected to surpass a valuation of USD 48,300 Mn by 2023. It stood at over USD 9,200 Mn in 2017. <br /> The market is projected to expand amid rising applications of augmented and virtual reality."
-    publishedDateTime: 2021-06-03T03:55:00Z
-    webUrl: "https://menafn.com/1102201197/Computer-Vision-Industry-Production-Capacity-Estimates-and-Forecasts-to-2027-Industry-Size-Current-Trend-and-Future-Demands&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 11
-    images:
-      - url: "https://menafn.com/updates/pr/2021-06/02/pr_12202_41aa052b_image_story.jpg"
-        width: 375
-        height: 530
-        isCached: true
-  - title: "Global Artificial Intelligence in Medical Diagnostics Market Insights Business Opportunities, Current Trends And Restraints Forecast 2027"
-    excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market report provides a holistic evaluation of the market for the forecast period (2018–2027). The report comprises of various segments as well an analysis of the trends and factors that are playing a substantial role in the market."
-    publishedDateTime: 2021-06-01T11:42:00Z
-    webUrl: "https://ksusentinel.com/2021/06/01/global-artificial-intelligence-in-medical-diagnostics-market-insights-business-opportunities-current-trends-and-restraints-forecast-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 1
-  - title: "Global Neuromorphic Computing Market Report 2021: Image Recognition, Signal Recognition, Data Mining – Forecast to 2026 – ResearchAndMarkets.com"
-    excerpt: "The “Global Neuromorphic Computing Market With COVID-19 Impact by Offering, Deployment, Application (Image Recognition, Signal Recognition, Data Mining), Vertical (Aerospace, Military, & Defense, Automotive,"
-    publishedDateTime: 2021-06-03T10:24:00Z
-    webUrl: "https://www.financialbuzz.com/global-neuromorphic-computing-market-report-2021-image-recognition-signal-recognition-data-mining-forecast-to-2026-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "t4/U2SE3uqEe2qo0xfTgJqFFALtoatSlCm5kT5KE7bCKDbeBEUrBR7eNl12hVf60ckKJT1AWHBhYdx8sFm2JdlzdTP1VeUK8GCMeX/31oElStVHdNriAtyLtOVqlQ9DQ/7P92mYS17Dv19heDTNdw8V+uZsgqvLVKAbyGHGsm58VuFKJMfz6aOk35o8NELk2sikD01Z4yd/hOkcKfm1VyMEpB2xXLvkewCzk5j/nfqvuAyAqJpMjmT/t9pqpyJVp8EkBTQh+xhMLAGZDwJZFpsK8LJJpdUvBO7ODA1NXUvX6jNYsDrsEMG1D4s1sSL/QRwktPXVE7RqVQ/scnunaLjmFnoS4/sCZhIAX9qTElRE=;iUtpSpl1Yjq6LjZ35lhJyA=="
 ---

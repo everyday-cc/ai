@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Harnessing artificial intelligence's potential in healthcare"
-    excerpt: "The adoption of AI in the healthcare industry is also gaining momentum in Gulf countries. For instance, the outbreak of the Covid-19 pandemic across the region has prompted two UAE-based health companies to launch the “world’s first” AI-powered rapid Covid-19 antigen test."
-    publishedDateTime: 2021-05-31T09:46:00Z
-    webUrl: "https://gulfnews.com/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
-    ampWebUrl: "https://gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/harnessing-artificial-intelligences-potential-in-healthcare-1.1622454353180"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/05/31/-_179c1cb5ae7_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Treatment.com’s Innovative Healthcare AI is Put to the Test by Doctors"
     excerpt: "(“Treatment” or the “Company”) (CSE: TRUE) is a healthcare technology company that has developed an exclusive AI software to think like a doctor. Using the latest artificial intelligence and machine learning,"
     publishedDateTime: 2021-06-02T12:40:00Z
@@ -68,22 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Changing attitudes to AI and the opportunities to utilize new technologies during the pandemic"
-    excerpt: "Some industries have pushed ahead with their use of AI and machine learning, but plenty of others have seen little change in their attitudes towards the technology. For many companies, the value that they have seen with AI during the pandemic has led them to recognize that they can utilize it further and prepare for the future,"
-    publishedDateTime: 2021-05-31T09:30:00Z
-    webUrl: "https://www.itproportal.com/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/changing-attitudes-to-ai-and-the-opportunities-to-utilize-new-technologies-during-the-pandemic/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 45
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "h1MTEf/G9cGXwh2Xbh8W3nilyDh7XI3UDk8+BUfJgBipcaC2IE+kG/4ixFwOl3ffPZinQn4IDR1QiK5AJOHKMxG0IvoGa/L11pISw6+myNljOqfJJi39Rx8gmrwqb2UsRIjTNjMx10AcpHd7x+HSX5xbYA+Ajk25ibeZyPPoU3Ueg+ChDJFk3NMZtscLmIxWe0h6nqCJqoFEj9YPG1IUaD040iiWgRZwaikBcXyXgTzXrXW4QlJl9Id+mH0tV5Y8xpYeCMYmIPWsu5fhkkmbDSIboQZgYNWnEMH9dspaBzbrRu3Wc71fnz4tPO7BFy+5Ti9Ai3FU4gjLfiiT1uy1VDT2AMGWkyqaJcRmWNyXTFoRvrbjnDq4C0PzPOOqXmcH1vZbCu+83Q2Vi6hgPDSoCd20LQhY336IcWTP7uJ8IjbdjAzYnwHTg+5PGdDEy7ppa7DDEVAaiHLT95WdTH4xwJFggghCsplC/LP1PNWK9k19UPdWKVjo6Q49tP4uJN8XrEw+7qWyUXQxO/vX6CDulw==;2u1gxHh7Nv7uFpwYbiQd8A=="
 ---
