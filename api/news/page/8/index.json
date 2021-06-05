@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-27-fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker.md",
+      "title": "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker",
+      "excerpt": "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg",
+          "width": 800,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T11:25:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-majority-of-europeans-would-replace-government-with-ai-oof-theyre-so-wrong.md",
       "title": "Majority of Europeans would replace government with AI — oof, they’re so wrong",
       "excerpt": "A recent survey conducted by researchers at the IE Center for the Governance of Change indicates that a majority of people would support replacing members of their respective parliaments with AI systems.",
@@ -337,34 +389,34 @@
     {
       "path": "_news/2021-05-27-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
       "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
-      "excerpt": "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ...",
+      "excerpt": "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030472355",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030472355",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T08:45:00-07:00",
+      "publishedDateTime": "2021-05-27T09:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1077,10 +1129,10 @@
     {
       "path": "_news/2021-05-27-deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge.md",
       "title": "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge",
-      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ...",
+      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1090,12 +1142,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T05:11:00-07:00",
+      "publishedDateTime": "2021-05-27T05:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1140,50 +1201,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-udacity-aws-to-offer-free-courses-in-machine-learning.md",
-      "title": "Udacity, AWS to Offer Free Courses in Machine Learning",
-      "excerpt": "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "originalUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/05/1622109948_scholarships-online-free-courses.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
-      "publishedDateTime": "2021-05-27T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/banned-gamblers-in-south-au
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "Ai-Media signs 3 year captioning contact renewal with Sky News Australia"
-    excerpt: "Ai-Media has renewed its captioning contract with Sky News Australia for another three years.The announcement:Access Innovation Holdings Limited (Ai-Media or Company) (ASX: AIM), a global provider of technology-driven captioning,"
-    publishedDateTime: 2021-05-31T19:04:00Z
-    webUrl: "https://mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678"
-    ampWebUrl: "https://mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678/amp"
-    cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678/amp"
-    type: article
-    provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
-    quality: 38
   - title: "Arab Council of Australia continues calls for federal recognition of Armenian Genocide"
     excerpt: "ARMENPRESS. Following the 106th Anniversary of the Armenian Genocide and Prime Minister Scott Morrison's statement falling short of accurately characterizing the events of 1915, the Arab Council of Australia has joined a growing number of community organizations in calling for the Federal Government to recognize the Armenian,"
     publishedDateTime: 2021-06-02T09:31:00Z

@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-05-21-artificial-intelligence-is-americas-achilles-heel-against-china.md",
+      "title": "Artificial Intelligence Is America’s Achilles Heel Against China",
+      "excerpt": "Unless Big Tech, universities and the Pentagon can work together, China’s government-run approach will surpass U.S. efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-20/china-s-artificial-intelligence-advantage-is-america-s-achilles-heel",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-20/china-s-artificial-intelligence-advantage-is-america-s-achilles-heel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iicAif8HY5Z4/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise.md",
       "title": "Microsoft launches Azure Applied AI Services toolkit for enterprise",
       "excerpt": "At Build, Microsoft launched Azure Applied AI Services, a suite of AI tools designed specifically for enterprise scenarios.",
@@ -1096,49 +1147,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial-intelligence-as-a-service.md",
-      "title": "Carestream Selects HPE GreenLake to Transform Healthcare Platform Using Artificial Intelligence as a Service",
-      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19816657.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19816657.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

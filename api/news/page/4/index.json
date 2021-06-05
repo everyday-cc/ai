@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-02-artificial-intelligence-chipsets-market-size-share-global-industry-report-2027.md",
+      "title": "Artificial Intelligence (Chipsets) Market Size, Share | Global Industry Report, 2027",
+      "excerpt": "Market Opportunities, Size, Share, Emerging Trends, Technological Innovation, Forecasts & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \" Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates.md",
       "title": "Microsoft turns attention to multi-cloud and AI with Azure updates",
       "excerpt": "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.",
@@ -156,7 +208,7 @@
       "originalUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -504,7 +556,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-robot-mimics-human-expressions-to-gain-trust-improve-human-robot-interactions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1189,40 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
-      "title": "Computer vision is like investing in the internet in the ‘90s",
-      "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01",
-      "originalUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01?amp",
-      "publishedDateTime": "2021-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

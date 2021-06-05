@@ -53,17 +53,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "Ai-Media signs 3 year captioning contact renewal with Sky News Australia"
-    excerpt: "Ai-Media has renewed its captioning contract with Sky News Australia for another three years.The announcement:Access Innovation Holdings Limited (Ai-Media or Company) (ASX: AIM), a global provider of technology-driven captioning,"
-    publishedDateTime: 2021-05-31T19:04:00Z
-    webUrl: "https://mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678"
-    ampWebUrl: "https://mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678/amp"
-    cdnAmpWebUrl: "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/ai-media-signs-3-year-captioning-contact-renewal-with-sky-news-australia-685678/amp"
-    type: article
-    provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
-    quality: 38
 
 secured: "YjjaGo5WdSgUswGSCc+0YpYlt98xieNZm3PaEwtQ6TzKOWixCmWYq7Yjv67m39+fTdblqp7IaI/2AO3Z8b2gLhOBVYtzvIgr1+A8CMgcs4eb6zUbMw63SzIXcKHaeXzhPiXq3WJMo9o8VQW1nGBnlUJsLpVqkAD8QSrLzDYnle4fODRzFuPQaJx7G9Tj4jOpNf875VWMz5EId0eebS71Kq/jAEMaiG3MxRINDWGH85AqWKuv6gw6nbwkvymk/tn6Bx4Ehgve9ptosYsn5rV7p+8Kq9FXfybRDg3UCBNCLoWUhrdaGWjcQr7FQSvhwEUcpZ04APIhQNVLkGKVpSFMKbFzWl8q4t+s+1w2xPuGAhcNkG8xQsChuGrRb/gBW4pXKIQnreEoWSXRg5PPxTLI01xIO42KBHoAfS7iaH+99tiGibnedFPy/lzeNjhxRZB9Eq86pg9yFf4S+57jDv8hR2fWWH8HOY4l8v7seDEUvR9SUP/Xx0CpAiYhm+dcVV9gN5RrNWHUcq6658c9jOrZiA==;FyhF1z0XBaq/nk3lJXaXLw=="
 ---

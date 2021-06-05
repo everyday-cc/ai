@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-26-sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia.md",
+      "title": "SK partnership brings Kodiak Robotics’ autonomous technology to Asia",
+      "excerpt": "Kodiak Robotics strikes a partnership with South Korea’s SK conglomerate to move its autonomous trucking software to Asia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia",
+      "originalUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/052621-Kodiak-SK.jpg",
+          "width": 595,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp",
+      "publishedDateTime": "2021-05-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-forrester-total-economic-impact-of-ibm-openpages-with-watson.md",
       "title": "Forrester Total Economic Impact of IBM OpenPages With Watson",
       "excerpt": "IBM recently commissioned Forrester Consulting to conduct the Total Economic Impact (TEI) study that evaluated the financial impact of IBM OpenPages with Watson on organizations. Learn how IBM ...",
@@ -96,40 +139,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-transforming-our-understanding-of-deep-learning.md",
-      "title": "Transforming our understanding of deep learning",
-      "excerpt": "A team of scientists aims to make Deep Learning more accountable and transparent by better understanding the decision making process behind the algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=58093.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=58093.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -721,6 +730,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-transforming-our-understanding-of-deep-learning.md",
+      "title": "Transforming our understanding of deep learning",
+      "excerpt": "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker.md",
       "title": "How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker",
       "excerpt": "In this post, we present the results of a model serving experiment made by Contentsquare scientists with an innovative DL model trained to analyze HTML documents. We show how the Amazon SageMaker TensorFlow Serving solution helped Contentsquare address several serving challenges. Contentsquare’s challenge",
@@ -1096,58 +1148,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law.md",
-      "title": "Chips Designed By AI Are The Future Of Semiconductor Evolution Beyond Moore's Law",
-      "excerpt": "Synopsys CEO Aart de Geus believes his company and its advanced AI design automation tools may have an answer to scale complexity of Moore’s Law and the systemic complexity of hyper-convergent integration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ad2c51a132a7ece07f4a43%2F0x0.jpg",
-          "width": 1200,
-          "height": 912,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/amp/",
-      "publishedDateTime": "2021-05-25T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

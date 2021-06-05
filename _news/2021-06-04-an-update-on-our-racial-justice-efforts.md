@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/announcements/an-update-on-our-racial-ju
 webUrl: "https://deepmind.com/blog/announcements/an-update-on-our-racial-justice-efforts"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

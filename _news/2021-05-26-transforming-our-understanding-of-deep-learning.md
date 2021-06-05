@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Transforming our understanding of deep learning"
-excerpt: "A team of scientists aims to make Deep Learning more accountable and transparent by better understanding the decision making process behind the algorithms."
-publishedDateTime: 2021-05-26T10:55:00Z
-originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=58093.php"
-webUrl: "https://www.nanowerk.com/news2/robotics/newsid=58093.php"
+excerpt: "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent."
+publishedDateTime: 2021-05-26T04:00:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
 type: article
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "pSfsK+0TbYnLOM8U579fIBc7qnKEIP+MOE7ghQbsACSEfJfBfQGGKQ35flEMk91FeU+TuxY7DboekgkoMZ0VafifO1m+nSNoPBS/UnpCrs0vaNzTIrU1Wn6KCfjNxoxAYPG7tPLn24iUnilBAN8E6OD9AJffAKAyr5p0ufmPltfFpj5E7kmAe5qJTO7n2BUcl06SqvPeYAo9PWuiR3C4pcrEMz122n7lvkkWQQQWoruYXPiCooOJMOiuLGaYivuDMEuAecVDoXIAeoN3r8Mg+WIwjY3ZgZtRddfWsL5Tqx7o/twSSGH/x+F1Eqo45XRSBJc8oZYcgTOY+XUS+atZYZyEavCshFiUYxfBckGJdx69KXl961BsiwF5GvXboNChkRljWZTgTXH3vtrmAvmFnMNj+Bp9XurTsVy0uOyTXSuivH8Amcpk5QnABn+HYZMFCOUNj+G1TkyZvunA7e5pgjbFgEZaFum3Yb10U68nQf3FZycodorQ/1QdnwMh133Q/0WusYA3Ti2ou9JcjQeq6g==;VLnfde3rziVLHbOhEPODbA=="
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "wk/6WICWvOk3tUDdtQm3Wp/sqtRzuxmFkV6GkMAghdOr2p1zOI9vDrvqFKF/TPg8lz7rFXiZCd+6sOEZ93skDz/cx9HONAel1qgLElc9akZgYkinlCGnEbW7KJTr4lDXrjjdi74VJglZmMidUs4w+MmQcjBPZaZ11gyuoCJDnqALHIRCiETYM9CeGfePHaNwDTtzhkOT0qYdmzYtBdXxf92wLqPnZhHj9EMRJCWayOLOCunAW3eUIFHKybn/cxABFXZljnN1FOVJrejkvT9zDhr78xv+l7y8uTVqsdvyXJQ0CBl1Wb+K+zmsbI+dQpd6VJOelMTaW2QPtqKrPFEynPEQ0LFkz9ijDsSWlI6MX7Y=;6kESJAuo/wKtCQqt77Zc7g=="
 ---
 

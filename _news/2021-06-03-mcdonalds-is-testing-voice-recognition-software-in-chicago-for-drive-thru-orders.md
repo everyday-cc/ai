@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9648437/amp/McDonald
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9648437/amp/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch: McDonald’s is testing Siri-style AI technology at drive-thrus"
+    excerpt: "Welcome to McDonald’s,” the Siri-like voice says, greeting a customer in the drive-thru. “We’re currently serving a limited menu, so please review the menu before"
+    publishedDateTime: 2021-06-05T13:13:00Z
+    webUrl: "https://bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/"
+    ampWebUrl: "https://bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 57
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/06/rsz_adobestock_88936328.jpg?quality=70&strip=all"
+        width: 2592
+        height: 1572
+        isCached: true
   - title: "Applying AI Knowledge at McDonald's"
     excerpt: "Rhett D'souza (MSAI '19) talks about his new role at McDonald's and how his time in Northwestern Engineering's Master of Science in Artificial Intelligence (MSAI) program prepared him for the position."
     publishedDateTime: 2021-05-31T23:25:00Z

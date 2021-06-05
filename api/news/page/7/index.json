@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-28-this-singapore-based-startup-is-unlocking-true-potential-of-cctv-cameras-through-ai.md",
+      "title": "This Singapore-Based Startup Is Unlocking True Potential Of CCTV Cameras Through AI",
+      "excerpt": "Somehow we have grown with this practice, but what if artificial intelligence (AI) can be used to control the flow of traffic or manage crowds through the already deployed CCTV camera? This is what a Singapore-based startup Graymatics is offering with much ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373150",
+      "originalUrl": "https://www.entrepreneur.com/article/373150",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622210255-MyPost122.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373150",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373150",
+      "publishedDateTime": "2021-05-28T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers.md",
       "title": "Relativity acquires Text IQ to augment AI platform for lawyers",
       "excerpt": "Relativity acquires Text IQ to drive AI technologies deeper into a platform law firms employ to reduce discovery time and effort.",
@@ -769,49 +820,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-28-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
-      "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
-      "excerpt": "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook",
-          "width": 1094,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-28-applied-ai-takes-the-spotlight-at-build-2021.md",
       "title": "Applied AI takes the spotlight at Build 2021",
       "excerpt": "Microsoft's growing push into higher-level services for applied AI and business scenarios was front and center at its Build event this week.",
@@ -968,31 +976,22 @@
       ]
     },
     {
-      "path": "_news/2021-05-28-new-degree-in-computer-vision-launches-as-artificial-intelligence-expands.md",
-      "title": "New Degree in Computer Vision Launches as Artificial Intelligence Expands",
-      "excerpt": "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,",
+      "path": "_news/2021-05-28-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
+      "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
+      "excerpt": "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T14:31:00-07:00",
+      "publishedDateTime": "2021-05-27T14:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1015,7 +1014,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1061,6 +1060,49 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-new-degree-in-computer-vision-launches-as-artificial-intelligence-expands.md",
+      "title": "New Degree in Computer Vision Launches as Artificial Intelligence Expands",
+      "excerpt": "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-301301267.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-301301267.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg?p=facebook",
+          "width": 1600,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1156,58 +1198,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker.md",
-      "title": "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker",
-      "excerpt": "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg",
-          "width": 800,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T11:25:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

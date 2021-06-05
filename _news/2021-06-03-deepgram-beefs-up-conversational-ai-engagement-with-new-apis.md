@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

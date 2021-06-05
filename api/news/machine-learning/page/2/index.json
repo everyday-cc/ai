@@ -124,40 +124,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-26-transforming-our-understanding-of-deep-learning.md",
-      "title": "Transforming our understanding of deep learning",
-      "excerpt": "A team of scientists aims to make Deep Learning more accountable and transparent by better understanding the decision making process behind the algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=58093.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=58093.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-26-a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai.md",
       "title": "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI",
       "excerpt": "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning.",
@@ -201,6 +167,49 @@
         "Machine Learning",
         "Microsoft AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-transforming-our-understanding-of-deep-learning.md",
+      "title": "Transforming our understanding of deep learning",
+      "excerpt": "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {

@@ -3,8 +3,8 @@ category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
 excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
 type: article
 quality: 49
 heat: -1
@@ -226,6 +226,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "AiMpPDqLZJJbVPrkZwD9epvq0WCtqeAFU5TXIgBq081kfWWyrlGFTKNP+kH7w4jWIxnC2MjTSM1FN7f+PqqHEINS45b7zZFCUwnA8e19ikr8zraE/MGZTth+RtUwgGIzlUoL5PYb0wdvkwMz5FPhuPIPJH5YNyM/BTFuJPJh9wTuzNeFFU8v+vZYWspOnmlrSWZN0tsrG26Cqkwexs301f6FPgH4vtehcyFDCdh+pPxrGnX0IHFFNEObEF6K+JG8v3XrIAVBSmOdroTo8fcfPPa/jDEpmXCqOHD4Wc52KsvU0n7fu45fJjKtJ55fSDQKZHoHTa8ERpFWiQO1JPSJUKmEtjV8ATUld+uUetPfyTo=;cYC+kuv2Uk/G25NIg7MqGQ=="
+secured: "Ee4kGxJF7xTvTNLWfEZ7SDtTpWr44/j6ZNo6VR/gHLCuWxGPHzxBObSK3vaOKAHeP2BgBpqTXQDLEKFtEwqZt+/sLcmBI9PZFDYEq6I0AYIxQWiaRIp6OXM+FA0tCNMhdKhNrD/iyw0R5f5d6k6QM1tLlw0Xfaw1vdg60hy3RZcY0rtgrFZ5TTtf8cFZJki7HkXb0BIpR/yAnDfPfzK+fKbEf4bfHGoNlZSAJ2kpNBVC0es0WmXpwLirr/AjbtZidF0pLKMjCDDgQwbJPEwbTrrf8tPKx+l+dk4iHRH5whDjuB//GAK8QjqOiGGzRpCLBXjfMBmqld9ztg7wjet0FKg1MAoR1ZABZa3DT5LYFog=;oGq0EU2R9OXkjhbCVMYyRQ=="
 ---
 

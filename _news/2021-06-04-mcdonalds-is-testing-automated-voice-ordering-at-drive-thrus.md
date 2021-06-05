@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch: McDonald’s is testing Siri-style AI technology at drive-thrus"
+    excerpt: "Welcome to McDonald’s,” the Siri-like voice says, greeting a customer in the drive-thru. “We’re currently serving a limited menu, so please review the menu before"
+    publishedDateTime: 2021-06-05T13:13:00Z
+    webUrl: "https://bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/"
+    ampWebUrl: "https://bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 57
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/06/rsz_adobestock_88936328.jpg?quality=70&strip=all"
+        width: 2592
+        height: 1572
+        isCached: true
   - title: "McDonald's is testing voice recognition software in Chicago for drive-thru orders"
     excerpt: "McDonald's is testing AI systems at 10 locations in Chicago. The technology is taking orders at the drive-thru with 85% accuracy. The company also plans to add robotic fryers in the kitchen."
     publishedDateTime: 2021-06-03T15:08:00Z
