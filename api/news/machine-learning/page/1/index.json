@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-05-neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time.md",
+      "title": "Neuromorphic Chip: Artificial Neurons Recognize Biosignals in Real Time",
+      "excerpt": "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "originalUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg",
+          "width": 777,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "publishedDateTime": "2021-06-04T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-build-regression-models-with-amazon-redshift-ml.md",
       "title": "Build regression models with Amazon Redshift ML",
       "excerpt": "With the rapid growth of data, many organizations are finding it difficult to analyze their large datasets to gain insights. As businesses rely more and more on automation algorithms, machine learning (ML) has become a necessity to stay ahead of the competition. Amazon Redshift, a fast, fully managed,",
@@ -1320,49 +1364,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
-      "title": "Research team improves fetal heart defect detection using machine learning",
-      "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg",
-          "width": 1920,
-          "height": 1289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
-      "publishedDateTime": "2021-05-26T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

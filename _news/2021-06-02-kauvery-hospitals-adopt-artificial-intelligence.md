@@ -69,17 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Middle East & Africa AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Component and End-User"
-    excerpt: "Reportlinker.com announces the release of the report \"Middle East & Africa AI in Computer Vision Market Forecast to 2027"
-    publishedDateTime: 2021-05-31T11:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21356348/middle-east-africa-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-regional-anal"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21356348"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21356348"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
   - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
     excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients. Chest CT scans are an integral part of the diagnosis and management of COVID-19."
     publishedDateTime: 2021-06-02T21:14:00Z

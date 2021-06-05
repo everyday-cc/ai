@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
-publishedDateTime: 2021-06-02T15:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+publishedDateTime: 2021-06-02T15:31:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -244,6 +242,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "OUU+EqSCN6bW7fnuMRd7rAztV0a/D9DV8gmvZnc11r406kBhECBa5a2SlTSPfoAhcoOfIvQF7BSwxmXEonnbwzVyc4muxExt++DgYyTPP5HxSrSg9Ze2A75tbdQwCWn6g5hB/dJRBs8+Fj32O5WKn3FP2ZNb0dTvRc9bs2RIrhGeyKOB5k/C6bEnhw0sCyNqEilRGXKiUuzLLmFRijEI9sCPtPbrR8NpdLR0+YdMMuyYx/POS3pje7uvb0jqrhNZdJrdlCbJ1TDnSmzt8Aa3qVovEC1IgzwUSo1oVWJm5IFQdI8ihS4JtSgLE7PRhgrt3GZM0IlyVK9vxXI0NQJYncJHtRnfw8E74/1P1y23Cho=;4mhXjOM8JS0d1pahXql9XA=="
+secured: "S87VvLQi2tCXTo00xHRc0ULHAAX9u9Ed0JsQV+thcRofGPb0CtcRC/NE10EBo+MqBY/W0RPGvMtg6bnHKoBJqDyl5KxX2beQltCWX164vbC1Qdrp1oe/EwfR58SG7MpVY82iRymma/uuXlZ3+/F0+dO6spF6jvfmkke7MRvPMxtma5astcefUMiJpj5lduiyjLNmV+9V683AH1UGeAmghvSmuECWgVZ5CBOxBCZw5ygZeSRZ9XlKqd9rfQdWO6ImN7AWeqlxXVD0L/1QO7ge4OsHf3WmvVFQE/XCfs5eX7UJzgUj+GStahhzoCoPR/sgbyiEDjZpCvQfIqIKCiykQ9eLH9IN0Lnpjw2KBwVdHBU=;VZDUVzL6RK1JN77CQGqVog=="
 ---
 

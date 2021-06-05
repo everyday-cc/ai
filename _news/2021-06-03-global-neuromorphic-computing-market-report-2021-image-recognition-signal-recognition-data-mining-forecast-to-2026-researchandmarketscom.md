@@ -29,7 +29,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg"
         width: 777

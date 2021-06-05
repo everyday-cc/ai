@@ -2,6 +2,230 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-05-17-artificial-intelligence-market-to-perceive-substantial-growth-during-2021-2025-says-kenneth-research.md",
+      "title": "Artificial Intelligence Market to Perceive Substantial Growth during 2021- 2025 | Says Kenneth Research",
+      "excerpt": "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-ai-has-a-racism-problem-but-fixing-it-is-complicated-say-experts.md",
+      "title": "AI has a racism problem, but fixing it is complicated, say experts",
+      "excerpt": "(Screenshot of Amazon listing) On Baidu, China's top search engine, the N-word is suggested as a translation option for the Chinese characters for \"Black person.\" Experts say these AI language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150",
+      "originalUrl": "https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6028159.1621145111!/httpImage/image.jpg_gen/derivatives/16x9_620/image.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6027150",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6027150",
+      "publishedDateTime": "2021-05-17T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-financial-literacy-startup-goalswell-closes-seed-round.md",
+      "title": "Financial Literacy Startup Goalswell Closes Seed Round",
+      "excerpt": "a computer scientist and cognitive psychologist from Microsoft Corp.’s research lab in New York, have been named to the startup’s board. Others are expected to join, Yuan said. MobLab and ...",
+      "sourceUrl": null,
+      "webUrl": "https://labusinessjournal.com/news/2021/may/17/financial-literacy-startup-goalswell-closes-seed/",
+      "originalUrl": "https://labusinessjournal.com/news/2021/may/17/financial-literacy-startup-goalswell-closes-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/17/LA-CC-Deloitte-210515.png",
+          "width": 294,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Business Journal",
+        "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-robotics-company-embodied-acquires-conversational-ai-business.md",
+      "title": "Robotics Company Embodied Acquires Conversational AI Business",
+      "excerpt": "Pasadena-based Embodied Inc. released a product last year called Moxie, an artificial-intelligence-enabled robotic companion for young children. The device — which Time selected as one of its top inventions of 2020 — is designed to support kids’ social and emotional development through interactions themed around concepts like kindness,",
+      "sourceUrl": null,
+      "webUrl": "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/",
+      "originalUrl": "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/13/PG11_TECH_EMBODIED_0517_Moxie2_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
+          "width": 670,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Business Journal",
+        "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-3u-vpx-embedded-computing-for-artificial-intelligence-ai-electronic-warfare-ew-offered-by-curtiss-wright.md",
+      "title": "3U VPX embedded computing for artificial intelligence (AI), electronic warfare (EW) offered by Curtiss-Wright",
+      "excerpt": "The VPX3-4935 SOSA aligned module feature an NVIDIA Quadro Turing TU104 (RTX5000E) GPU that delivers 11.2 TFLOPS/TIPS performance. It provides 3072 CUDA cores, 384 tensor cores, and 48 ray-tracing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
+      "originalUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/05/Curtiss_19_May_2021.609ade048a9db.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Military",
+        "domain": "militaryaerospace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-how-crocs-used-robots-to-rule-the-comfort-economy.md",
       "title": "How Crocs used robots to rule the comfort economy",
       "excerpt": "Crocs emerged as a stay-at-home comfort essential and experienced unprecedented demand. As a result, the company quickly outgrew their distribution center and",
@@ -910,229 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-top-artificial-intelligence-job-openings-to-watch-out-for-this-week.md",
-      "title": "Top Artificial Intelligence Job Openings to Watch Out for This Week",
-      "excerpt": "Artificial Intelligence job prospects have grown in recent years as industry demand has increased. Here is a list of 10 Artificial Intelligence job openings for this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-job-openings-to-watch-out-for-this-week/",
-      "originalUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-job-openings-to-watch-out-for-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-Job-Openings.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities.md",
-      "title": "IBM announces breakthrough hybrid cloud and AI capabilities",
-      "excerpt": "IBM announced advances in AI, hybrid cloud, and quantum computing at Think 2021, helping clients and partners accelerate their digital transformations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vir.com.vn/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-84217.html",
-      "originalUrl": "https://www.vir.com.vn/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-84217.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vir.com.vn/stores/news_dataimages/dinhthuy/052021/14/14/in_article/croped/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities.jpg?randTime=1622138429",
-          "width": 636,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vietnam Investment Reviev",
-        "domain": "vir.com.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-ai-artificial-intelligence-how-non-tech-firms-can-benefit.md",
-      "title": "AI (Artificial Intelligence): How Non-Tech Firms Can Benefit",
-      "excerpt": "No doubt, these problems are even worse for non-tech companies. They generally do not have the expertise or sufficient resources to make AI a success. “Research shows non-tech companies in particular have struggled to take their AI programs beyond the proof of concept and pilot phases–with just 21% of retail,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/14/ai-artificial-intelligence-how-non-tech-firms-can-benefit/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/14/ai-artificial-intelligence-how-non-tech-firms-can-benefit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609f27279715e8996e16c7cf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-new-deep-learning-model-brings-image-segmentation-to-edge-devices.md",
-      "title": "New deep learning model brings image segmentation to edge devices",
-      "excerpt": "This made it difficult to run these deep learning models without a connection to cloud servers. In their latest work, the scientists at DarwinAI and the University of Waterloo have managed to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/brain-ai-e1561657878421.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/",
-      "publishedDateTime": "2021-05-14T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse.md",
-      "title": "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse",
-      "excerpt": "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21139096",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096",
-      "publishedDateTime": "2021-05-14T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

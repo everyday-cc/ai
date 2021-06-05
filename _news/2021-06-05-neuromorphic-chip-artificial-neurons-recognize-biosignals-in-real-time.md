@@ -8,9 +8,9 @@ webUrl: "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize
 ampWebUrl: "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: SciTech Daily
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg"
@@ -37,6 +38,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "YlpzP7QGxuaKknvWuaedyFKhZtOJPuvFONguzMZR7Jl1x1sLuHJH4B9uE/t0oZJgAakCnT0DAqLoI2jX+olmRzimZz3W9XM/w3iJvl0aT0jHpoYyaRrx3L1ZLsYa6pp3O1s3ET+ATWE7PqGSuf3CFsb+9gpPs+yDgDxEYELCshsuyzuwnwRKDDHcUR5d0nJazyQJHbWNQM4EVOt00at11a3GYsxr4CUUYTqxQzJFaDEIG2JC0YsdIJKy/taVQ5ks0/JxhthPLqFgt8fLMYgxjn0CDbLXQg2tYQPUqBy+tPW01rsrr6JkPBPnrHlQIHn1MllAggFFsEGLItN72CUsPMhzR/dNZJQUqARpEb/fdQc=;fQs0jNbuk+bDuAomLCCtrA=="
+secured: "g0r5alXHdQ2Pk57amRstrsZnhhSpU3sxzZBjjwUi08dYVM6nGaZcGN+RmMTrgYce66Qf73vdaRb5kcns/AaBMKkNUfP/MBTJOLrSKq01eRmYizVTA08KFEnFhf+0K6LItqdLKbXn6IPkAnrtqgB64o+cIoU5b+pjvsAr59mm0bLtxIhQSmiR59ykqx6w2eOtJWcv1GtBKrfBex1vozJ/mmaEm8sm7UoKA3CGGYzeBS0ZzOsDohN/bjgfD4O7URIDBF2iFGsw+aNPmxmOAOuGVkD8NOT+Z96mFzaC0M4EDvuNIBPAq9VWUiKC/aKosJGEX15fybM3qOSBne+1rEEUtAvPE1gpktj1Ql+QNT6+rjU50PokTexzB8nUxtjYXLJ0RHpcdTCdzgQm2eNme0upgAYvT0Moju6BIBcn4Hruf59aDkIaWqiFiyH0K0554X/qBF+EqcOBIi5zolrWWXyxK65jh0kXWslhl4ykSSYgdkJFgPw1CGU1UC9dvshyqHXAyjhVdJPasu8jND4/r/9FeQ==;gudp9Bbqmp+QUtaISOI/JQ=="
 ---
 

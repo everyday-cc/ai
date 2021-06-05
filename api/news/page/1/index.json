@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-05-chinese-ai-speech-recognition-chip-startup-secures-new-war-chest.md",
+      "title": "Chinese AI speech recognition chip startup secures new war chest",
+      "excerpt": "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F9%252F0%252F34550907-3-eng-GB%252FCropped-1622689933%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%25AEAI%25E3%2583%2581%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2583%25A2%25E3%2582%25B7%25E3%2582%2599%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time.md",
+      "title": "Neuromorphic Chip: Artificial Neurons Recognize Biosignals in Real Time",
+      "excerpt": "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "originalUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg",
+          "width": 777,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "publishedDateTime": "2021-06-04T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-deepak-chopra-plans-to-live-forever-through-ai-heres-how.md",
       "title": "Deepak Chopra Plans To Live Forever Through AI, Here’s How",
       "excerpt": "Before the pandemic, meditation guru Deepak Chopra uploaded his \"consciousness\" to the AI Foundation to ensure he could talk to future generations. Virgin Galactic's Richard Branson, Twitter's Biz Stone and VC Cyan Bannister did the same.",
@@ -49,6 +137,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said.md",
+      "title": "Self-Driving Cars Could Be Decades Away, No Matter What Elon Musk Said",
+      "excerpt": "Experts aren’t sure when, if ever, we’ll have truly autonomous vehicles that can drive anywhere without help. First, AI will need to get a lot smarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615?mod=hp_lead_pos9",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615?mod=hp_lead_pos9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-348105/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "publishedDateTime": "2021-06-04T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1103,152 +1243,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-biological-robots-may-soon-build-you-a-better-heart.md",
-      "title": "Biological Robots May Soon Build You a Better Heart",
-      "excerpt": "Computer scientists and biologists have teamed up to create a creature heretofore unseen on Earth: a living robot. Made from the cells of frogs and designed by artificial intelligence, they’re called xenobots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7OvZdWy0Khw/v5/-1x-1.jpg",
-          "width": 1594,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-ge-healthcare-signs-cardiac-ai-deal-with-acc.md",
-      "title": "GE Healthcare signs cardiac AI deal with ACC",
-      "excerpt": "GE Healthcare is teaming up with the American College of Cardiology (ACC) to help build a roadmap for the use of artificial intelligence (AI) and digital technology in cardiology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132568",
-      "originalUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.auntminnie.com/user/images/content_images/pho_redir/2020_01_29_18_12_5932_GE_RSNA_2019_400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AuntMinnie",
-        "domain": "auntminnie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-ai-health-app-babylon-plans-42-billion-spacand-push-into-us.md",
-      "title": "AI-Health App Babylon Plans $4.2 Billion SPAC—And Push Into U.S.",
-      "excerpt": "The growing market for virtual healthcare is heating up with telehealth app Babylon announcing Thursday that it is going public by merging with a special purpose acquisition company, or SPAC, that values the company at $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/",
-      "originalUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b915bf2d94bf703b936962%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1646%26cropY1%3D46%26cropY2%3D971",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/",
-      "publishedDateTime": "2021-06-03T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

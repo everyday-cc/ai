@@ -2,6 +2,232 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-05-06-artificial-intelligence-and-the-future-of-humans.md",
+      "title": "Artificial Intelligence And The Future Of Humans",
+      "excerpt": "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer.md",
+      "title": "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer",
+      "excerpt": "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to support its growing base of global customers and Aqua's commitment to customer success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aqua-security-appoints-former-microsoft-azure-executive-as-/2021/05/06/9363020.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aqua-security-appoints-former-microsoft-azure-executive-as-/2021/05/06/9363020.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products-with-help-from-robots.md",
+      "title": "The Latest Hot Marketplace, Material Bank, Raises $100 Million To Source Architectural And Construction Products — With Help From Robots",
+      "excerpt": "Media entrepreneur Adam Sandow used his experience with design publications to create a marketplace for architectural and construction products. That startup, Material Bank, is now worth nearly $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/",
+      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60929a3d3eb73ec47a49edff%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1728%26cropY1%3D305%26cropY2%3D1277",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/amp/",
+      "publishedDateTime": "2021-05-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-minds-without-brains-the-promise-and-peril-of-artificial-intelligence.md",
+      "title": "Minds Without Brains? The promise and peril of artificial intelligence",
+      "excerpt": "In the view of many scientists, Artificial Intelligence (AI) isn’t living up to the hype of its proponents. We don’t yet have safe driverless cars—and we’re not likely to in the near future. Nor are robots about to take on all our domestic drudgery so that we can devote more time",
+      "sourceUrl": null,
+      "webUrl": "https://3quarksdaily.com/3quarksdaily/2021/05/minds-without-brains-the-promise-and-peril-of-artificial-intelligence.html",
+      "originalUrl": "https://3quarksdaily.com/3quarksdaily/2021/05/minds-without-brains-the-promise-and-peril-of-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3quarksdaily.com/wp-content/uploads/2021/05/Farrell-360x202.jpeg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "3 Quarks Daily",
+        "domain": "3quarksdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-ai-powered-gene-therapy-platform.md",
+      "title": "Dyno Therapeutics Closes $100 Million Series A Financing Led by Andreessen Horowitz to Accelerate AI-powered Gene Therapy Platform",
+      "excerpt": "Dyno Therapeutics, Inc., a biotechnology company applying artificial intelligence (AI) to gene therapy, today announced a $100 million Series A financing led by Andreessen Horowitz, with participation from a select syndicate of new investors including Casdin Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/06/9362890.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/06/9362890.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-self-driving-startup-aeva-says-its-sensor-can-detect-vehicles-over-500m-away.md",
       "title": "Self-Driving Startup Aeva Says Its Sensor Can Detect Vehicles Over 500m Away",
       "excerpt": "Self-driving sensor startup Aeva Technologies Inc, founded by former Apple Inc engineers, said on Thursday its sensor can detect other vehicles from beyond 500 meters and pedestrians from a distance of more than 350 meters.",
@@ -906,238 +1132,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-states-push-back-against-use-of-facial-recognition-by-police.md",
-      "title": "States push back against use of facial recognition by police",
-      "excerpt": "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
-      "originalUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
-      "publishedDateTime": "2021-05-05T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-automatically-scale-amazon-kendra-query-capacity-units-with-amazon-eventbridge-and-aws-lambda.md",
-      "title": "Automatically scale Amazon Kendra query capacity units with Amazon EventBridge and AWS Lambda",
-      "excerpt": "Data is proliferating inside the enterprise and employees are using more applications than ever before to get their jobs done, in fact according to Okta Inc., the number of software apps deployed by large firms across all industries world-wide has increased 68%, reaching an average of 129 apps per company.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-scale-amazon-kendra-query-capacity-units-with-amazon-eventbridge-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-scale-amazon-kendra-query-capacity-units-with-amazon-eventbridge-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/2-2932-architecture.jpg",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T15:42:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-east-village-gets-futuristic-grocery-store-designed-by-accel-robotics.md",
-      "title": "East Village gets futuristic grocery store designed by Accel Robotics",
-      "excerpt": "A futuristic grocery store is opening in East Village on the ground floor of the luxury high-rise apartment complex Vantage Pointe. The new store, called Valet Market, was designed by local tech startup Accel Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village",
-      "originalUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f633c89/2147483647/strip/true/crop/7757x5139+0+16/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F31%2F67973aa641aca4def504b293b770%2Fveo-1.jpeg",
-          "width": 320,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true",
-      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true",
-      "publishedDateTime": "2021-05-05T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Diego Union-Tribune",
-        "domain": "sandiegouniontribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-real-world-ai-a-great-guide-for-managers.md",
-      "title": "Real World AI: A Great Guide For Managers",
-      "excerpt": "A Practical Guide for Responsible Machine Learning does not fall within either category. Then again, the authors include Alyssa Simpson Rochwerger, who is a director of product at Blue Shield of California,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609311ae6b34dfaf46f70578%2F0x0.jpg",
-          "width": 471,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/",
-      "publishedDateTime": "2021-05-05T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
-      "title": "Considerations for Implementing AI/ML in Your Business",
-      "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
-      "originalUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
-      "publishedDateTime": "2021-05-05T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

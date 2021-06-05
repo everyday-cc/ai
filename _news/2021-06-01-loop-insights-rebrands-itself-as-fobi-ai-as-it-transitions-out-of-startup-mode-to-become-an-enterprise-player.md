@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Loop Insights Rebrands as Fobi AI To Unify Messaging And Branding With Next Phase Of Enterprise Level Growth"
-    excerpt: "The company previously operating as Loop Insights announces a major rebrand as Fobi AI. The name change signifies Fobi’s focus on enterprise clients and will be accompanied by a new logo, website, and messaging that will set the Fobi brand up for continued growth."
-    publishedDateTime: 2021-05-31T11:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-loop-insights-rebrands-as-fobi-ai-unify-messaging-/2021/05/31/9380637.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Toyota AI Ventures rebrands as Toyota Ventures; additional $300M to invest in emerging technologies and carbon neutrality"
     excerpt: "Toyota’s first standalone, early-stage venture capital firm, Toyota AI Ventures, will change its name to Toyota Ventures and grow its total assets under management to more than $500 million with the addition of two $150 million early-stage funds: the Toyota Ventures Frontier Fund and the Toyota Ventures Climate Fund."
     publishedDateTime: 2021-06-04T07:02:00Z

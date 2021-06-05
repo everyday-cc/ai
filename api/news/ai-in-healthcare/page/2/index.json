@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-22-ai-in-healthcare-the-tech-is-here-the-users-are-not.md",
+      "title": "AI in healthcare: The tech is here, the users are not",
+      "excerpt": "The biggest challenges for AI-enabled care are delivering real-time insights into the clinical workflow and gaining acceptance from caregivers as well as patients. Innovative solutions continue to emerge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.html",
+      "originalUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/healthcare_technology_medical_data_by_metamorworks_gettyimages-1127069581_2400x1600-100837041-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html",
+      "publishedDateTime": "2021-05-21T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-mental-health-app-wysa-raises-55m-for-emotionally-intelligent-ai.md",
       "title": "Mental health app Wysa raises $5.5M for ’emotionally intelligent’ AI",
       "excerpt": "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence.",
@@ -1276,59 +1320,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-global-healthcare-natural-language-processing-nlp-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by.md",
-      "title": "Global Healthcare Natural Language Processing (NLP) Market 2021 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2026",
-      "excerpt": "MarketsandResearch.biz has recently publicized a new report entitled Global Healthcare Natural Language Processing (NLP) Market 2021 by Company, Regions, Type and Application, Forecast to 2026 highlights the need for up-to-date market data for the business management that will offer development and profitability of the global Healthcare Natural Language Processing (NLP) market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2026-2021-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2026-2021-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

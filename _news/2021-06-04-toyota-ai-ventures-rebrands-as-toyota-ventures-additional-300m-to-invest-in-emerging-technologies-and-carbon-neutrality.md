@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Loop Insights Rebrands as Fobi AI To Unify Messaging And Branding With Next Phase Of Enterprise Level Growth"
-    excerpt: "The company previously operating as Loop Insights announces a major rebrand as Fobi AI. The name change signifies Fobi’s focus on enterprise clients and will be accompanied by a new logo, website, and messaging that will set the Fobi brand up for continued growth."
-    publishedDateTime: 2021-05-31T11:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-loop-insights-rebrands-as-fobi-ai-unify-messaging-/2021/05/31/9380637.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "/X6Jtg5CTqUp6ZlPpsEvkfuRJPvPvjR5bXmqw5unov6i5pyhmhIHHM2unpS50tASR4b5O11xD3R4xJS9uYs116f6zlij4OxkWoVfmap8nMnwZe+TLZ/gyXcYTyHnSglCcT5hKomWsR4QrVJ+ay6nhg+eTmsbSvhSpt0hrVXa2IpUqaCTHLsoVInc9NnfDw+HObbSYYMi8JrJSjP+XHPoBnb8aSmrLPWQF+wgh6fmVNvrdvsRmrAxBUduZ8BiEGCEvW2ejmmVMZPQB+qJV75YGxNLllfLk7An2BmLX+H0ebXJeeyiS20P+wV/c6/AmlC9IXWrcB/tWQTya4UptJexp2w04PWrRPDsAOS4kg9Lx8Q=;vhn+JeHFxs/oJSRpfHZe0Q=="
 ---

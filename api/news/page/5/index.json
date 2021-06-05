@@ -2,6 +2,185 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-01-instacart-bets-on-robots-to-shrink-ranks-of-500000-gig-shoppers.md",
+      "title": "Instacart Bets on Robots to Shrink Ranks of 500,000 Gig Shoppers",
+      "excerpt": "Automating much of its operations could help the company lower prices and appeal to a mass market. But Instacart needs industry buy-in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/instacart-bets-on-robots-to-shrink-ranks-of-500000-gig-shoppers/ar-AAKADHK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioYyq3DJqM_k/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T02:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
+        "domain": "bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-want-your-nails-done-let-a-robot-do-it.md",
+      "title": "Want Your Nails Done? Let a Robot Do It.",
+      "excerpt": "Start-ups are using technology to take a robotic approach to manicures, offering a simple way to provide foolproof nail polish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/01/multimedia/01sp-currents-nails/01sp-currents-nails-facebookJumbo.gif",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html",
+      "publishedDateTime": "2021-06-01T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai.md",
+      "title": "EU privacy debate rages regarding facial recognition firm Clearview AI",
+      "excerpt": "European regulators are concerned over the practices of Clearview AI, whose facial recognition database uses images \"scraped\" from the web.",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/",
+      "originalUrl": "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/06/063_1198303844-1.jpg",
+          "width": 1024,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-medical-ai-models-can-cause-misdiagnosis.md",
+      "title": "Medical AI models can cause misdiagnosis",
+      "excerpt": "Artificial Intelligence models like humans have a tendency to look for shortcuts and in the case of an AI-assisted disease detection, these shortcuts could lead to diagnostic errors if deployed in clinical settings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/technology/software-and-internet/medical-ai-models-can-cause-misdiagnosis-6a9a4aa6-8d6d-4bf6-8a48-bc9b39ea3b93",
+      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/medical-ai-models-can-cause-misdiagnosis-6a9a4aa6-8d6d-4bf6-8a48-bc9b39ea3b93",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/1280x366/File-picture-Pexels?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/d8be3a87-c96a-5048-b0bd-0c9c23b609e9&operation=CROP&offset=0x224&resize=1280x720",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/technology/software-and-internet/medical-ai-models-can-cause-misdiagnosis-6a9a4aa6-8d6d-4bf6-8a48-bc9b39ea3b93",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/medical-ai-models-can-cause-misdiagnosis-6a9a4aa6-8d6d-4bf6-8a48-bc9b39ea3b93",
+      "publishedDateTime": "2021-06-01T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-eib-sees-up-to-10-bln-euro-investment-shortfall-in-ai-and-blockchain.md",
       "title": "EIB sees up to 10 bln euro investment shortfall in AI and blockchain",
       "excerpt": "The European Union's attempts to catch China and the United States in artificial intelligence and blockchain technologies are set to be hobbled by an investment shortfall of as much as 10 billion euros ($12 billion) annually,",
@@ -596,6 +775,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-31-fe-xcelerate-2021-attracts-international-fintech-startups-looking-to-grow-to-the-next-level.md",
+      "title": "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level",
+      "excerpt": "In partnership with Southeast Asian early-stage venture capital firm Expara, FE Credit – the largest consumer finance company in Vietnam, launched FE XCELERATE 2021 in May with the intention of bringing international fintech companies a pack of opportunities to scale up their business in Vietnam,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/31/9380629.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/31/9380629.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-145.md",
       "title": "Healthcare Chatbots Market Expected to Grow at a CAGR of 14.5%",
       "excerpt": "Global healthcare chatbots market was valued at 116 9 million in 2018 and is expected to reach 345 3 million by 2026 registering a CAGR of 14 5 from 2019 to 2026 Healthcare chatbots are user interface which are employed",
@@ -983,238 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
-      "title": "AI and robotics take centre stage in rapidly changing world",
-      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "publishedDateTime": "2021-05-30T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-technical-university-of-munich-experience-key-players-from-robotics-and-ai-live.md",
-      "title": "Technical University of Munich: Experience key players from robotics and AI live",
-      "excerpt": "Automatica sprint is an independent offshoot of automatica, the world’s leading marketplace for automated smart production, usually held every two years at the Messe München trade fair facility. Due to the pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "originalUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-Logo_of_the_Technical_University_of_Munich.svg-1024x783.png",
-          "width": 1024,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "publishedDateTime": "2021-05-30T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-the-ftc-discrimination-warning-on-ai-7-expert-tips-to-stay-out-of-trouble.md",
-      "title": "The FTC Discrimination Warning On AI - 7 Expert Tips To Stay Out Of Trouble",
-      "excerpt": "As more and more companies adopt AI, a question arises - can the federal government keep up with all the changes from a regulatory perspective? In some cases, the federal government is behind (see Why Are Technology Companies Quitting Facial Recognition?).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b2d4a01172ccc8c87167c6%2F0x0.jpg",
-          "width": 680,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/amp/",
-      "publishedDateTime": "2021-05-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.md",
-      "title": "Ubisoft hires AI, machine learning expert to lead product technology",
-      "excerpt": "Ubisoft is forging ahead with experimental technology like machine learning, AI, blockchain and more for its upcoming projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/9/79664_32_ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
-      "publishedDateTime": "2021-05-29T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them.md",
-      "title": "Adversarial attacks in machine learning: What they are and how to stop them",
-      "excerpt": "Adversarial attacks present a growing threat to commercial AI and machine learning systems. Fortunately, some solutions exist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "originalUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "publishedDateTime": "2021-05-29T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

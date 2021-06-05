@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Manufacturing AI Startup ExLattice Joins NVIDIA Inception"
-excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine."
-publishedDateTime: 2021-05-25T12:50:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
+excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI"
+publishedDateTime: 2021-05-25T12:38:00Z
+originalUrl: "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html"
+webUrl: "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Johnson City Press
+  domain: johnsoncitypress.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "4sOKjNKU3/+RPW4YTj72K1gj12OvJlYP0UaDPp4lmCxJVK8W1RsdBb6pCQYnaHFCoUBkNVlHFhdjBlYH9kjPPWO5cQKGZTzgcdPszck/nztYEj2zH/6+iSFHHAXBUQQpRMAik8laYCXfDeFF7K+FVc9rguoBIVoB0eY3pjUKNBXe3ySNQPPTJd6aaMF23sShdc8ASjGdFQjgo72AdKlWj33nNylolgfk4mWn/opLe2W/eLXn2mu05AOTFrMWaoeqHdzxcwIMejrZ2/yhK+w4DKNYXp5FOn17AH1WMCV2eXori3T/3gI2rrAwrfg2BEXjlUJOtMU36vLSNxRemaEoPU2R92NYse9Mhd48xURrx30=;b2cR5hfm4IoLzJm+EcfWVg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/johnsoncitypress.com/content/tncms/assets/v3/editorial/d/aa/daa84b8d-90c2-54e7-9b23-7b4a0bc1eb1d/60acf55dd58e4.image.jpg?crop=379%2C213%2C210%2C0&resize=379%2C213&order=crop%2Cresize"
+    width: 379
+    height: 213
+    isCached: true
+
+secured: "wWHTRqDmSTtaZYA2AGYSn9uAig8gOJH0oJrZUWGzOym4jWaZu/HsS+ielxuuDFceb9bEqYIFRvkNv4gi4ScMyZPtti+MM6kmaPXRiF5mn2dQBIbyenIgcG/0OqMgF9ptpN/Dq3OUhZIevB6MRq+kfXdWK4u9HaSZTFb2iUsk9CfA4SWXE6PZT9YLugfLDHchrgFoTjzAjT4CLwxjc0criYTinh62PA8bj4b5NuKGccC1I3CLb6dFuop91OMDRYYgKNu9vOoyQoC4YbbdZjKAeBFuMyK0Q6SGEqyYPKwAYNclDL02qqsWkK9CMJYVhEckGI0grjsxE043yNyyND42o16wBdB51cgFzKqbtIm4g84=;ecv+HdfQGEMrHd/v/vvq4Q=="
 ---
 

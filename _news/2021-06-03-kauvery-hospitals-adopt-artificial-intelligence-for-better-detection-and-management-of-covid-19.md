@@ -77,17 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Middle East & Africa AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Component and End-User"
-    excerpt: "Reportlinker.com announces the release of the report \"Middle East & Africa AI in Computer Vision Market Forecast to 2027"
-    publishedDateTime: 2021-05-31T11:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21356348/middle-east-africa-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-regional-anal"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21356348"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21356348"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
 
 secured: "AzukYeMfwU/mutuem1Zqz458gR52F1vROpxyN/egx/PdG+iZvg9dhvq6ltV67XKeVKMesOe1lde5cwQo8PSjnLpCyZqlJx6RA639EMrKhf4lw6Fv91Iy2ImBG/NtY5JmWOMJ8Pn0rLtqkZhtHrmIJSb2otShcXSQ2f6eebFXfeXo/YfgbMu6JP1MH0hC1LjYNUKbf5Sw7EuVfwweTkVdvMR/DBmtPUWzIhFBnDngInHEJ0D+OD8OMvLe54R7vxmDAeC0a3fYlsKOz9MKmyr+K3KXEjEKIqYCSVLoR+JcoOIZLtJdKSF08tZGaxD9aJ5KrzY0QwjidKxfCE+Y2vMLaM55EPdiP9+8WiNf5MOFixM=;YbtyMEBOP/wkm/iuo+4tmg=="
 ---

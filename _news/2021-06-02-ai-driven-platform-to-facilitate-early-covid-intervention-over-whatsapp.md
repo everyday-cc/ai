@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facil
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "COVIZN: An affordable artificial intelligence solution for COVID-19 diagnosis"
-    excerpt: "COVIZN is an artificial intelligence based screening software for COVID-19 that can be an affordable alternative to microbial swab test"
-    publishedDateTime: 2021-05-31T11:03:00Z
-    webUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/"
-    ampWebUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 54
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-skeleton-163715_640.jpg"
-        width: 711
-        height: 400
-        isCached: true
   - title: "AI-driven platform XraySetu to facilitate early-Covid interventions over Whatsapp"
     excerpt: "XraySetu is specifically designed to identify COVID positive patients even from low-resolution Chest X-Ray images sent over Whatsapp."
     publishedDateTime: 2021-06-02T05:38:00Z

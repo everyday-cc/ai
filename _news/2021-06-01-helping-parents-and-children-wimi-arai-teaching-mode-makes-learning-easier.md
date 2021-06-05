@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/21372085"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21372085"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Leveraging Machine Learning to Fight Money Laundering"
-    excerpt: "Machine learning can play a big role in fighting against money laundering, says Rene Perez, financial crimes consultant at Jack Henry and Associates."
-    publishedDateTime: 2021-05-31T12:52:00Z
-    webUrl: "https://www.databreachtoday.com/leveraging-machine-learning-to-fight-money-laundering-a-16771"
-    type: article
-    provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/leveraging-machine-learning-to-fight-money-laundering-showcase_image-10-a-16771.jpg"
-        width: 860
-        height: 520
-        isCached: true
 
 secured: "OILBn2r8rZFOube94vQrQDEKMlQvaS/vyVXWRHuYEyB5GxJmdZH69KMzlW0gwEyK4dVnedjws9FrU7HTAx2hTdTwynt+kOGvwtR8e66MDuZ+fkRCOvbWUvt8HPxbKYKjWrzqJmKaRXaH2an2aqd0NUnlJClChagWxBLuzuyScGZa1EGjlNGZKTlcSZje3Y1i2hZ4JpwgRQiAjjUj7i/XsV93SAGPKuUNjxAxi65KJm7dGYgXp64oNS5Z+qft6oKNJUEgUhk5Oyk0X7UVvutS+BwbplkD8+qQ9Jn1aF6LqbkeL3vmG2PjTMpG7sWnWwC8zURjphOOZEYoWTtb2Je4epAx9hgdeYF7IiUlNPHnVGM=;AnsZvlGL0ZdnGRKRZuFATg=="
 ---

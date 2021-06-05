@@ -43,22 +43,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "COVIZN: An affordable artificial intelligence solution for COVID-19 diagnosis"
-    excerpt: "COVIZN is an artificial intelligence based screening software for COVID-19 that can be an affordable alternative to microbial swab test"
-    publishedDateTime: 2021-05-31T11:03:00Z
-    webUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/"
-    ampWebUrl: "https://www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/covizn-affordable-artificial-intelligence-solution-covid-19-diagnosis/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 54
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-skeleton-163715_640.jpg"
-        width: 711
-        height: 400
-        isCached: true
   - title: "Reading X-ray via WhatsApp: AI-driven 'XraySetu' helps doctors detect Covid in rural population"
     excerpt: "Besides COVID-19, the platform can also detect 14 additional lung-related ailments, including tuberculosis and pneumonia."
     publishedDateTime: 2021-06-02T05:26:00Z

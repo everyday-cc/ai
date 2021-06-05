@@ -2,6 +2,223 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-24-koreas-riiid-raises-175m-from-softbank-to-expand-its-ai-based-learning-platform-to-global-markets.md",
+      "title": "Korea’s Riiid raises $175M from SoftBank to expand its AI-based learning platform to global markets",
+      "excerpt": "AI is eating the world of education,” Riiid co-founder and CEO YJ Jang notes in his biographical description on his LinkedIn profile, and today his startup — which builds AI-based personalized learning,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
+      "originalUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1273917891.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
+      "publishedDateTime": "2021-05-24T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
+      "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
+      "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24?amp",
+      "publishedDateTime": "2021-05-24T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-how-healthcare-workflows-can-use-intelligent-automation-for-better-care.md",
+      "title": "How Healthcare Workflows Can Use Intelligent Automation for Better Care",
+      "excerpt": "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience.",
+      "sourceUrl": null,
+      "webUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "originalUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1163245446-3f32efd853ffed8e5d8a1184abc2c18d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "publishedDateTime": "2021-05-24T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthpayerintelligence.com",
+        "domain": "healthpayerintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027.md",
+      "title": "Artificial Intelligence In Healthcare Market Growth, Global Survey, Analysis, Share, Company Profiles and Forecast by 2027",
+      "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/24/artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027/",
+      "originalUrl": "https://ksusentinel.com/2021/05/24/artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/8-68.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-nlp-in-healthcare-life-sciences-market-forecasts-to-2026.md",
+      "title": "NLP in Healthcare & Life Sciences Market - Forecasts to 2026",
+      "excerpt": "As per the research conducted by GME the Natural Language Processing NLP in Healthcare and Life Sciences will grow with a CAGR value of 20 8 percent by 2021 Aspects such as heightened demand for enhancing the usability of electronic",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
+      "originalUrl": "https://www.openpr.com/news/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U524163924_g.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
+      "publishedDateTime": "2021-05-24T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-how-dynamic-working-enables-a-more-inclusive-workforce.md",
       "title": "How dynamic working enables a more inclusive workforce",
       "excerpt": "Why empowering employees to work however and wherever they want can help diversify and motivate your workforce",
@@ -947,239 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-learn-the-science-behind-self-driving-cars-for-under-50.md",
-      "title": "Learn the science behind self-driving cars for under $50",
-      "excerpt": "If machine learning sounds a little highbrow, it’s not: artificial intelligence has been steadily ... tech companies in the world. Google’s Waymo has been successfully tested in extreme ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/bazaar/machine-learning-robotics-course/",
-      "originalUrl": "https://www.dailydot.com/bazaar/machine-learning-robotics-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2b7/45/c6e53b53154de17c.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 710,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/bazaar/machine-learning-robotics-course/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/bazaar/machine-learning-robotics-course/?amp",
-      "publishedDateTime": "2021-05-22T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks.md",
-      "title": "China fund managers rely on AI to manage trading data and pick stocks",
-      "excerpt": "Chinese fund managers grappling with mountains of trade data and a long list of publicly-traded stock rely on AI and ML to boost efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
-      "originalUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1218868159.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/",
-      "publishedDateTime": "2021-05-22T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google.md",
-      "title": "DeepMind lost a yearlong bid of asking more independence from Google",
-      "excerpt": "Tension and conflicts between Google and its AI brain firm, DeepMind, are always fascinating and exciting to watch. Talking about both these companies' histor",
-      "sourceUrl": null,
-      "webUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
-      "originalUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg",
-          "width": 741,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
-      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
-      "publishedDateTime": "2021-05-22T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Micky",
-        "domain": "micky.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-new-olivia-rodrigo-album-sour-stakes-her-claim-to-being-the-voice-of-gen-z-raw-and-real.md",
-      "title": "New Olivia Rodrigo album 'Sour' stakes her claim to being the voice of Gen Z: Raw and real",
-      "excerpt": "Sour' succeeds largely because it feels like reading pages torn out of a diary, or spending time with a close friend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_20/3476822/210521-olivia-rodrigo-ew-438p_a020ba8b7d87be39e628a05a320d3347.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1268211",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1268211",
-      "publishedDateTime": "2021-05-22T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-whats-next-machine-learning-at-scale-through-unified-modeling.md",
-      "title": "What’s next: Machine learning at scale through unified modeling",
-      "excerpt": "Here's how to create a single model, rather than a set of related but separate models, to power a process or product.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
-      "originalUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1281172753.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
-      "publishedDateTime": "2021-05-22T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -208,17 +208,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
-    publishedDateTime: 2021-06-02T15:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
   - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
     excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
     publishedDateTime: 2021-06-04T11:00:00Z
@@ -237,6 +226,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T15:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
   - title: "Amesite Launches Remote Upskilling Courses on Microsoft Azure, in Partnership with Wayne State University"
     excerpt: "Amesite Inc. (Nasdaq: AMST), a high-tech artificial intelligence software company offering a cloud-based learning platform and content creation services for business, university and K-12"
     publishedDateTime: 2021-06-02T12:00:00Z

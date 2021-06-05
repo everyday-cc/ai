@@ -7,7 +7,7 @@ originalUrl: "https://www.theaustralian.com.au/special-reports/new-ground-in-rob
 webUrl: "https://www.theaustralian.com.au/special-reports/new-ground-in-robotics-and-quantum-technology/news-story/7e810478fa3ff09c9b6d44ec7cb0ec8f"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "China positioned to emerge as key player in chip technology"
-    excerpt: "To counter the geopolitical challenge and reduce its dependence on the US, China is accelerating investment in next-generation enabling technologies. Against this backdrop, the country is well-positioned to lead in the emerging Internet of things (IoT) arena,"
-    publishedDateTime: 2021-05-31T11:11:00Z
-    webUrl: "https://www.ept.ca/2021/05/china-positioned-to-emerge-as-key-player-in-chip-technology/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/05/x_IoT.jpeg"
-        width: 726
-        height: 482
-        isCached: true
 
 secured: "NdoNy4GVkD3jpIHeeD7U75MMesplms69VRlSvakRGyQglrLxxWCEPc6Im4n7qc0wao4V1i3ngaH0TT8DHlvCDqMiReVv41JJObA+3IuMTnVyO7p75KkFw9uaoQQwMXIFc2T0v7m45/xKVQgZeYVQdM0Iv2JYb8NH9Hu1Eh15cb6lX8/cYpjjoC/kUsuFlwdW8dsZnBx93Hm5HGKGpt+0LKSjNC2lDMs3UOyVyTocEMTvZQpxSA3aZGAvyTr8dfpYpEGVHhVa2GHKiGCHbw7Oi2eNwgpr7uSC76csQq7c7g2hnUE/XAYmebeI/Hni3LjwKUH/IXnCWWBUl4nZqfDVWaosnPQnj+7E2G1BxPVpIRSRQAbwLQvhHja8Bdd+qsJVq6ba3xt0wCw3+FXtej+g73r9HOxMVhL/nlM7anqcImSugGr12GX0O/n2fieSXs/8p31BU5vuWmbFCFDDv6wq0Z2YS0/ykPPup6W8/MmEQTj47aekF2E2nvlRngJ1xdPLY0wiEHmIgxTqlNiXdWyykA==;jRxaMOdFVlbouV2c6P15/Q=="
 ---

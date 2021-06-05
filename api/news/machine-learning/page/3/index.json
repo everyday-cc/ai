@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-19-neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025.md",
+      "title": "Neural Network Software Market Landscape Assessment By Type, Opportunities and Higher Mortality Rates by 2025",
+      "excerpt": "Snapshot. Thanks to the technological advancements in the field of data analytics, the global market for neutral network software is witness",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/19/neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025/",
+      "originalUrl": "https://ksusentinel.com/2021/05/19/neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.instanttechnews.com/wp-content/uploads/2020/02/9-16.jpg",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
       "title": "Alteryx announces new AutoML product and Intelligence Suite",
       "excerpt": "The company, best known for its data prep bona fides, leverages its acquisitions in the machine learning space to announce new data science features in Alteryx Designer and new standalone AutoML product,",
@@ -1363,49 +1406,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-artificial-intelligence-can-now-detect-sarcasm-but-for-what.md",
-      "title": "Artificial Intelligence Can Now Detect Sarcasm. But For What?",
-      "excerpt": "Researchers from the University of Central Florida have created an artificial intelligence device that can detect human sarcasm. Read about the uses of this AI tool here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/artificial-intelligence-can-now-detect-sarcasm-but-for-what/",
-      "originalUrl": "https://www.analyticsinsight.net/artificial-intelligence-can-now-detect-sarcasm-but-for-what/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-7.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

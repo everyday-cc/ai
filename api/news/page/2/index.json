@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-04-biological-robots-may-soon-build-you-a-better-heart.md",
+      "title": "Biological Robots May Soon Build You a Better Heart",
+      "excerpt": "Computer scientists and biologists have teamed up to create a creature heretofore unseen on Earth: a living robot. Made from the cells of frogs and designed by artificial intelligence, they’re called xenobots,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7OvZdWy0Khw/v5/-1x-1.jpg",
+          "width": 1594,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-ge-healthcare-signs-cardiac-ai-deal-with-acc.md",
+      "title": "GE Healthcare signs cardiac AI deal with ACC",
+      "excerpt": "GE Healthcare is teaming up with the American College of Cardiology (ACC) to help build a roadmap for the use of artificial intelligence (AI) and digital technology in cardiology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132568",
+      "originalUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.auntminnie.com/user/images/content_images/pho_redir/2020_01_29_18_12_5932_GE_RSNA_2019_400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AuntMinnie",
+        "domain": "auntminnie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-ai-health-app-babylon-plans-42-billion-spacand-push-into-us.md",
+      "title": "AI-Health App Babylon Plans $4.2 Billion SPAC—And Push Into U.S.",
+      "excerpt": "The growing market for virtual healthcare is heating up with telehealth app Babylon announcing Thursday that it is going public by merging with a special purpose acquisition company, or SPAC, that values the company at $4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/",
+      "originalUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b915bf2d94bf703b936962%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1646%26cropY1%3D46%26cropY2%3D971",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/",
+      "publishedDateTime": "2021-06-03T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-tsmcs-5nm-chip-enhancements-steer-ai-driving-5g.md",
       "title": "TSMC’s 5nm chip enhancements steer AI driving, 5G",
       "excerpt": "Taiwan Semiconductor Manufacturing Company (TSMC) introduced N5A enhancement to 5-nanometer chips for AI applications.",
@@ -107,20 +253,20 @@
     },
     {
       "path": "_news/2021-06-03-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
-      "title": "Biden's AI czar focuses on societal risks, preventing harm",
-      "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn",
+      "title": "Biden’s AI czar focuses on societal risks, preventing harm",
+      "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html",
-      "originalUrl": "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html",
+      "webUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
+      "originalUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904",
-          "width": 1024,
-          "height": 904,
+          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280",
+          "width": 1280,
+          "height": 1130,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,13 +274,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html",
-      "publishedDateTime": "2021-06-03T09:11:00-07:00",
+      "ampWebUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/",
+      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/",
+      "publishedDateTime": "2021-06-03T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
+        "name": "WSAV-TV",
+        "domain": "wsav.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -144,7 +290,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1094,152 +1240,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-the-ibm-research-ai-hardware-center-an-update.md",
-      "title": "The IBM Research AI Hardware Center: An Update",
-      "excerpt": "Celebrating its two-year anniversary, the Center announces innovative AI acceleration technologies along with nearly tripling its cadre of memberships. The IBM Research AI Hardware Center is the nexus",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60abe0b98e463609ef56ead6%2F0x0.png",
-          "width": 696,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/amp/",
-      "publishedDateTime": "2021-06-02T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-interact-with-an-amazon-lex-v2-bot-with-the-aws-cli-aws-sdk-for-python-boto3-and-aws-sdk-for-dotnet.md",
-      "title": "Interact with an Amazon Lex V2 bot with the AWS CLI, AWS SDK for Python (Boto3), and AWS SDK for DotNet",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 console and APIs make it easier to build, deploy, and manage bots. The Amazon Lex V2 console and APIs provide a simple information architecture in which the bot intents and slot types are scoped",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interact-with-an-amazon-lex2v2-bot-with-the-aws-cli-aws-sdk-for-python-and-aws-sdk-dotnet/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/interact-with-an-amazon-lex2v2-bot-with-the-aws-cli-aws-sdk-for-python-and-aws-sdk-dotnet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/1-2920-Chat.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T13:32:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-team-develops-machine-learning-platform-that-mines-nature-for-new-drugs.md",
-      "title": "Team develops machine learning platform that mines nature for new drugs",
-      "excerpt": "Researchers from Carnegie Mellon University's Computational Biology Department in the School of Computer Science have developed a new process that could reinvigorate the search for natural product drugs to treat cancers,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-06-team-machine-platform-nature-drugs.html",
-      "originalUrl": "https://phys.org/news/2021-06-team-machine-platform-nature-drugs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/team-develops-machine.jpg",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-06-team-machine-platform-nature-drugs.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-team-machine-platform-nature-drugs.amp",
-      "publishedDateTime": "2021-06-02T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

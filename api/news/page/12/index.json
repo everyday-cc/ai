@@ -2,6 +2,241 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-25-neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.md",
+      "title": "Neteera CEO on using artificial intelligence to change healthcare",
+      "excerpt": "Neteera is a health care technology firm that has developed a heart and lung monitor that is contact free and can measure vital signs through clothing. The company is ranked 26th on CNBC's Disruptor 50 list.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106888119-1621966946-16331919716-hd-L-00-00-08-03-Still002-png?v=1621968882",
+          "width": 534,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-3-reasons-applied-materials-is-more-than-just-a-chip-shortage-stock.md",
+      "title": "3 Reasons Applied Materials Is More Than Just a Chip Shortage Stock",
+      "excerpt": "A global shortage of semiconductors -- basic building blocks for everything from high-tech services to autos to household appliances -- is reverberating through the economy. For semiconductor manufacturing equipment providers like Applied Materials (NASDAQ:AMAT),",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/14d2a740700f7cfec74e9045798e7186.png",
+          "width": 720,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
+      "publishedDateTime": "2021-05-25T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-4-ai-healthcare-stocks-transforming-the-medical-industry.md",
+      "title": "4 AI Healthcare Stocks Transforming the Medical Industry",
+      "excerpt": "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
+      "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
+      "publishedDateTime": "2021-05-25T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-microsoft-azure-is-now-smarter-and-more-powerful-than-ever.md",
+      "title": "Microsoft Azure is now smarter and more powerful than ever",
+      "excerpt": "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "originalUrl": "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "publishedDateTime": "2021-05-25T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-build-2021-a-quick-roundup-of-azure-announcements.md",
+      "title": "Build 2021: A quick roundup of Azure announcements",
+      "excerpt": "In addition to being a focal presence during BUILD 2021's keynote opener, there are over 127 sessions dedicated to various aspects of Azure development",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmsft.com/news/microsoft-build-2021-a-roundup-of-azure-news",
+      "originalUrl": "https://www.onmsft.com/news/microsoft-build-2021-a-roundup-of-azure-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.onmsft.com/wp-content/uploads/2021/05/Satya-Nadella-Azure-BUILD2021.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "On MSFT",
+        "domain": "onmsft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-azure-applied-ai-services-accelerate-ai-solution-development-to-help-businesses-soar.md",
       "title": "Azure Applied AI Services accelerate AI solution development to help businesses soar",
       "excerpt": "The post Azure Applied AI Services accelerate AI solution development to help businesses soar appeared first on The AI Blog.\n",
@@ -110,8 +345,8 @@
       "title": "15 Big Azure Announcements Made At Microsoft Build 2021",
       "excerpt": "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -774,24 +1009,33 @@
     {
       "path": "_news/2021-05-25-manufacturing-ai-startup-exlattice-joins-nvidia-inception.md",
       "title": "Manufacturing AI Startup ExLattice Joins NVIDIA Inception",
-      "excerpt": "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine.",
+      "excerpt": "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm",
+      "webUrl": "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html",
+      "originalUrl": "https://www.johnsoncitypress.com/manufacturing-ai-startup-exlattice-joins-nvidia-inception/article_d903ac35-8fc3-5230-8efb-adeb065d515d.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/johnsoncitypress.com/content/tncms/assets/v3/editorial/d/aa/daa84b8d-90c2-54e7-9b23-7b4a0bc1eb1d/60acf55dd58e4.image.jpg?crop=379%2C213%2C210%2C0&resize=379%2C213&order=crop%2Cresize",
+          "width": 379,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T05:50:00-07:00",
+      "publishedDateTime": "2021-05-25T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Johnson City Press",
+        "domain": "johnsoncitypress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -923,256 +1167,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-researchers-bring-the-sense-of-touch-to-robotic-prosthetics.md",
-      "title": "Researchers bring the sense of touch to robotic prosthetics",
-      "excerpt": "The human sense of touch is critical to being able to perform many activities of daily living. We take our ability to feel how heavy a cup of hot liquid is and make adjustments without thinking",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
-      "originalUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/roboarm.jpg",
-          "width": 1500,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/",
-      "publishedDateTime": "2021-05-25T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge.md",
-      "title": "AnyClip Gets $47 Million For Recruiting AI To Manage The Video Deluge",
-      "excerpt": "Visual intelligence company AnyClip raised $47 million to help businesses manage their video assets and consumers to find the video clips they need",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60abd1ce0a130948a5b5b642%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/amp/",
-      "publishedDateTime": "2021-05-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-google-pixel-6-custom-chip-to-offer-performance-similar-to-snapdragon-870-tipster.md",
-      "title": "Google Pixel 6 custom chip to offer performance similar to Snapdragon 870: Tipster",
-      "excerpt": "Recently, there have been a number of rumors and reports regarding the upcoming Google Pixel 6 series. One of the notable rumors is that the device will feature a custom chip that is built in collaboration with Samsung.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/",
-      "originalUrl": "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/Google-Pixel-6-Pro-CAD-renders-3.jpg",
-          "width": 5120,
-          "height": 2880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ai-removes-friction-from-challenger-bank-onboarding.md",
-      "title": "AI Removes Friction From Challenger Bank Onboarding",
-      "excerpt": "The Tracker explores how biometrics, behavioral analytics and IP address verification can help confirm user identities, smooth onboarding and prevent fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
-      "originalUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/05/biometrics-AI-banking-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
-      "publishedDateTime": "2021-05-25T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-leakers-reveal-what-to-expect-from-pixel-6-6-pro-display-whitechapel-chip.md",
-      "title": "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip",
-      "excerpt": "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "originalUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "publishedDateTime": "2021-05-24T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,256 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-25-researchers-bring-the-sense-of-touch-to-robotic-prosthetics.md",
+      "title": "Researchers bring the sense of touch to robotic prosthetics",
+      "excerpt": "The human sense of touch is critical to being able to perform many activities of daily living. We take our ability to feel how heavy a cup of hot liquid is and make adjustments without thinking",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
+      "originalUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/roboarm.jpg",
+          "width": 1500,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/",
+      "publishedDateTime": "2021-05-25T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge.md",
+      "title": "AnyClip Gets $47 Million For Recruiting AI To Manage The Video Deluge",
+      "excerpt": "Visual intelligence company AnyClip raised $47 million to help businesses manage their video assets and consumers to find the video clips they need",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60abd1ce0a130948a5b5b642%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/amp/",
+      "publishedDateTime": "2021-05-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-google-pixel-6-custom-chip-to-offer-performance-similar-to-snapdragon-870-tipster.md",
+      "title": "Google Pixel 6 custom chip to offer performance similar to Snapdragon 870: Tipster",
+      "excerpt": "Recently, there have been a number of rumors and reports regarding the upcoming Google Pixel 6 series. One of the notable rumors is that the device will feature a custom chip that is built in collaboration with Samsung.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/",
+      "originalUrl": "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/Google-Pixel-6-Pro-CAD-renders-3.jpg",
+          "width": 5120,
+          "height": 2880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-ai-removes-friction-from-challenger-bank-onboarding.md",
+      "title": "AI Removes Friction From Challenger Bank Onboarding",
+      "excerpt": "The Tracker explores how biometrics, behavioral analytics and IP address verification can help confirm user identities, smooth onboarding and prevent fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
+      "originalUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/05/biometrics-AI-banking-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
+      "publishedDateTime": "2021-05-25T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-leakers-reveal-what-to-expect-from-pixel-6-6-pro-display-whitechapel-chip.md",
+      "title": "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip",
+      "excerpt": "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "originalUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "publishedDateTime": "2021-05-24T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-robotic-arm-sense-of-touch.md",
       "title": "robotic arm sense of touch",
       "excerpt": "Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.",
@@ -619,6 +869,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-24-kiromic-announces-fda-ind-submission-first-in-human-ai-derived-off-the-shelf-isomesothelin-gamma-delta-car-t-cell-therapy-30-days-before-the.md",
+      "title": "Kiromic Announces FDA IND Submission First-In-Human, AI derived Off-The-Shelf IsoMesothelin Gamma Delta CAR T-cell Therapy, 30 Days Before the End of the Second Quarter",
+      "excerpt": "Kiromic achieves key milestone for this first-in-human Phase 1 clinical trial with a target derived by Kiromic’s AI platform. HOUSTON-- ( BUSINESS WIRE )--Kiromic Biopharma, Inc. (Nasdaq: KRBP), an immuno-oncology target discovery and gene-editing company with a proprietary artificial intelligence neural network platform (Diamond AI) that is used to develop novel oncology therapeutics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210524005256/en/Kiromic-Announces-FDA-IND-Submission-First-In-Human-AI-derived-Off-The-Shelf-IsoMesothelin-Gamma-Delta-CAR-T-cell-Therapy-30-Days-Before-the-End-of-the-Second-Quarter",
+      "originalUrl": "https://www.businesswire.com/news/home/20210524005256/en/Kiromic-Announces-FDA-IND-Submission-First-In-Human-AI-derived-Off-The-Shelf-IsoMesothelin-Gamma-Delta-CAR-T-cell-Therapy-30-Days-Before-the-End-of-the-Second-Quarter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness.md",
       "title": "Facebook’s Dynabench now scores NLP models for metrics like ‘fairness’",
       "excerpt": "Facebook updated its Dynabench language model evaluation tool with Dynaboard, an 'evaluation-as-a-service' platform.",
@@ -919,266 +1203,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-koreas-riiid-raises-175m-from-softbank-to-expand-its-ai-based-learning-platform-to-global-markets.md",
-      "title": "Korea’s Riiid raises $175M from SoftBank to expand its AI-based learning platform to global markets",
-      "excerpt": "AI is eating the world of education,” Riiid co-founder and CEO YJ Jang notes in his biographical description on his LinkedIn profile, and today his startup — which builds AI-based personalized learning,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
-      "originalUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1273917891.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
-      "publishedDateTime": "2021-05-24T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
-      "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
-      "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in-2021-05-24?amp",
-      "publishedDateTime": "2021-05-24T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-how-healthcare-workflows-can-use-intelligent-automation-for-better-care.md",
-      "title": "How Healthcare Workflows Can Use Intelligent Automation for Better Care",
-      "excerpt": "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience.",
-      "sourceUrl": null,
-      "webUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "originalUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1163245446-3f32efd853ffed8e5d8a1184abc2c18d.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "publishedDateTime": "2021-05-24T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthpayerintelligence.com",
-        "domain": "healthpayerintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth, Global Survey, Analysis, Share, Company Profiles and Forecast by 2027",
-      "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/24/artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027/",
-      "originalUrl": "https://ksusentinel.com/2021/05/24/artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/8-68.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-nlp-in-healthcare-life-sciences-market-forecasts-to-2026.md",
-      "title": "NLP in Healthcare & Life Sciences Market - Forecasts to 2026",
-      "excerpt": "As per the research conducted by GME the Natural Language Processing NLP in Healthcare and Life Sciences will grow with a CAGR value of 20 8 percent by 2021 Aspects such as heightened demand for enhancing the usability of electronic",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
-      "originalUrl": "https://www.openpr.com/news/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U524163924_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
-      "publishedDateTime": "2021-05-24T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-kiromic-announces-fda-ind-submission-first-in-human-ai-derived-off-the-shelf-isomesothelin-gamma-delta-car-t-cell-therapy-30-days-before-the.md",
-      "title": "Kiromic Announces FDA IND Submission First-In-Human, AI derived Off-The-Shelf IsoMesothelin Gamma Delta CAR T-cell Therapy, 30 Days Before the End of",
-      "excerpt": "Kiromic achieves key milestone for this first-in-human Phase 1 clinical trial with a target derived by Kiromic’s AI platform.HOUSTON--(BUSINESS WIRE)--$KRBP #IND--Kiromic Biopharma, Inc. (Nasdaq: KRBP),",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=473933",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=473933",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
