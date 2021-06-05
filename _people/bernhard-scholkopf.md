@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: bschoelkopf
   url: https://twitter.com/bschoelkopf
-  followers: 7135
+  followers: 7137
 
 googleScholar:
   url: https://scholar.google.com/citations?user=DZ-fHPgAAAAJ
-  citations: 170848
+  citations: 170987
 
 topics:
   - AI

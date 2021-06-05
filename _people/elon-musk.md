@@ -8,7 +8,7 @@ heat: 747
 twitter:
   username: elonmusk
   url: https://twitter.com/elonmusk
-  followers: 56565875
+  followers: 56573275
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Elon_Musk
@@ -18,7 +18,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1400698471385083904/sLTt0UmS_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1400954091833004032/uY8FiKCH_400x400.jpg
     width: 400
     height: 400
     isCached: true
