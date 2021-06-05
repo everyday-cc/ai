@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 574471
+        "followers": 574511
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -37,7 +37,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 328,
+      "heat": 371,
       "tags": [
         "Non-profit"
       ],
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 72424
+        "followers": 72428
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -89,7 +89,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 222,
+      "heat": 203,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -104,6 +104,59 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0?e=1594857600&v=beta&t=Oind1GcEBma7VBWb3WzNUERBP78P-pelw0U8HIiRZj8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/baidu.md",
+      "title": "Baidu",
+      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/baidu/index.json",
+      "webUrl": "https://everyday.cc/ai/company/baidu/",
+      "type": "profile",
+      "name": "Baidu",
+      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "website": "http://ai.baidu.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/baidu-inc/",
+        "followers": 209798
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/baidu"
+      },
+      "twitter": {
+        "username": "BaiduResearch",
+        "url": "https://twitter.com/BaiduResearch",
+        "followers": 54657
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 2000,
+      "locations": [
+        "Beijing"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 138,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Baidu",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -132,7 +185,7 @@
       "twitter": {
         "username": "clarifai",
         "url": "https://twitter.com/clarifai",
-        "followers": 8663
+        "followers": 8662
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -147,7 +200,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 165,
+      "heat": 118,
       "tags": [
         "Image Recognition",
         "Facial Recognition"
@@ -159,59 +212,6 @@
           "height": 400,
           "title": "Clarifai",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/baidu.md",
-      "title": "Baidu",
-      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/baidu/index.json",
-      "webUrl": "https://everyday.cc/ai/company/baidu/",
-      "type": "profile",
-      "name": "Baidu",
-      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
-      "website": "http://ai.baidu.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/baidu-inc/",
-        "followers": 209798
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/baidu"
-      },
-      "twitter": {
-        "username": "BaiduResearch",
-        "url": "https://twitter.com/BaiduResearch",
-        "followers": 54650
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 2000,
-      "locations": [
-        "Beijing"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 127,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Baidu",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -239,7 +239,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 9742
+        "followers": 9744
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -255,7 +255,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 117,
+      "heat": 115,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg",
@@ -273,6 +273,66 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/slyce.it.md",
+      "title": "Slyce",
+      "excerpt": "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/slyce.it/index.json",
+      "webUrl": "https://everyday.cc/ai/company/slyce.it/",
+      "type": "profile",
+      "name": "Slyce",
+      "overview": "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment.",
+      "website": "https://slyce.it/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/slyce/",
+        "followers": 2247
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/slyce"
+      },
+      "twitter": {
+        "username": "slyceit",
+        "url": "https://twitter.com/slyceit",
+        "followers": 1218
+      },
+      "angelList": {
+        "url": "https://angel.co/company/slyce"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Philadelphia, PA",
+        "Philadelphia, Pennsylvania"
+      ],
+      "funding": {
+        "status": "M&A"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 82,
+      "tags": [
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1304125672919633923/i57xtW41_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Slyce",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHoj57sto9tZQ/company-logo_200_200/0?e=1594857600&v=beta&t=tCfcFRWuvhrzWBxIhkR3vyjqjdbIwQvSR9C_dkopBIA",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -314,7 +374,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 106,
+      "heat": 77,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -338,282 +398,69 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aira.io.md",
-      "title": "Aira Tech Corp",
-      "excerpt": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aira.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aira.io/",
+      "path": "_companies/sensetime.md",
+      "title": "SenseTime",
+      "excerpt": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sensetime/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sensetime/",
       "type": "profile",
-      "name": "Aira Tech Corp",
+      "name": "SenseTime",
       "otherNames": [
-        "Aira"
+        "商汤科技",
+        "商汤",
+        "Shangtang Keji"
       ],
-      "overview": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
-      "website": "https://aira.io/",
+      "overview": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
+      "website": "https://www.sensetime.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/airaio/",
-        "followers": 2543
+        "url": "https://www.linkedin.com/company/sensetime-group-limited/",
+        "followers": 27507
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aira"
+        "url": "https://www.crunchbase.com/organization/sensetime"
       },
       "twitter": {
-        "username": "airaio",
-        "url": "https://twitter.com/airaio",
-        "followers": 4309
+        "username": "sensetime_ai",
+        "url": "https://twitter.com/sensetime_ai",
+        "followers": 1393
       },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2018,
       "locations": [
-        "La Jolla, CA",
-        "La Jolla, California"
+        "Hong Kong, Hong Kong"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "Computer Vision",
-        "AI in Healthcare",
-        "Machine Learning"
-      ],
-      "heat": 93,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aira Tech Corp",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFJie4SeRm7AQ/company-logo_200_200/0?e=1594857600&v=beta&t=y73FJTU_72DV5AVlUkovIE3Fo4aThmx9RNtZRhxzxvE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/slyce.it.md",
-      "title": "Slyce",
-      "excerpt": "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/slyce.it/index.json",
-      "webUrl": "https://everyday.cc/ai/company/slyce.it/",
-      "type": "profile",
-      "name": "Slyce",
-      "overview": "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment.",
-      "website": "https://slyce.it/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/slyce/",
-        "followers": 2247
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/slyce"
-      },
-      "twitter": {
-        "username": "slyceit",
-        "url": "https://twitter.com/slyceit",
-        "followers": 1217
-      },
-      "angelList": {
-        "url": "https://angel.co/company/slyce"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Philadelphia, PA",
-        "Philadelphia, Pennsylvania"
-      ],
-      "funding": {
-        "status": "M&A"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 72,
-      "tags": [
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1304125672919633923/i57xtW41_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Slyce",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHoj57sto9tZQ/company-logo_200_200/0?e=1594857600&v=beta&t=tCfcFRWuvhrzWBxIhkR3vyjqjdbIwQvSR9C_dkopBIA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/kairos.md",
-      "title": "Kairos AR",
-      "excerpt": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kairos/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kairos/",
-      "type": "profile",
-      "name": "Kairos AR",
-      "overview": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
-      "website": "https://www.kairos.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/kairos-ar-inc-/",
-        "followers": 1759
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kairos-ar"
-      },
-      "twitter": {
-        "username": "LoveKairos",
-        "url": "https://twitter.com/LoveKairos",
-        "followers": 4493
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Miami, FL",
-        "Miami, Florida"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 65,
-      "tags": [
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1105124141915693057/yO91xNJ9_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Kairos AR",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFySTcbir1LkQ/company-logo_200_200/0?e=1594857600&v=beta&t=IqLGUTXpEX1kxuQDjgzd2EH85UuboYiYnyeizEzRPMQ",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrative.md",
-      "title": "Narrative",
-      "excerpt": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrative/index.json",
-      "webUrl": "https://everyday.cc/ai/company/narrative/",
-      "type": "profile",
-      "name": "Narrative",
-      "otherNames": [
-        "Third Dot AB",
-        "memoto",
-        "Narrative AB",
-        "Narrative Clip"
-      ],
-      "overview": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
-      "website": "http://getnarrative.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/narrative-ab-narrative-clip-/",
-        "followers": 469
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative"
-      },
-      "twitter": {
-        "username": "getnarrative",
-        "url": "https://twitter.com/getnarrative",
-        "followers": 23731
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Stockholm"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 65,
-      "tags": [
-        "Image Recognition",
-        "Wearables"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Narrative",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/orcam.md",
-      "title": "OrCam Technologies",
-      "excerpt": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/orcam/index.json",
-      "webUrl": "https://everyday.cc/ai/company/orcam/",
-      "type": "profile",
-      "name": "OrCam Technologies",
-      "overview": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
-      "website": "https://www.orcam.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/orcam",
-        "followers": 4818
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/orcam-technologies"
-      },
-      "twitter": {
-        "username": "OrCam",
-        "url": "https://twitter.com/OrCam",
-        "followers": 10507
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Jerusalem, Jerusalem Region"
-      ],
-      "topics": [
-        "AI",
+        "Machine Learning",
         "Computer Vision"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=jx2zOrCTvcA"
+          "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
         }
       ],
-      "heat": 65,
+      "heat": 64,
       "tags": [
         "Facial Recognition",
         "Image Recognition"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1162985248256380928/Mw9wWZI2_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "OrCam Technologies",
+          "title": "SenseTime",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -645,7 +492,7 @@
             "AI",
             "Computer Vision"
           ],
-          "heat": 165,
+          "heat": 118,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1286339140502654977/FmPAcETU_400x400.jpg",
@@ -670,7 +517,7 @@
             "Computer Vision",
             "Natural Language Processing"
           ],
-          "heat": 50,
+          "heat": 42,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
@@ -763,36 +610,40 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/sensetime.md",
-      "title": "SenseTime",
-      "excerpt": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sensetime/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sensetime/",
+      "path": "_companies/megvii.md",
+      "title": "Megvii",
+      "excerpt": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/megvii/index.json",
+      "webUrl": "https://everyday.cc/ai/company/megvii/",
       "type": "profile",
-      "name": "SenseTime",
+      "name": "Megvii",
       "otherNames": [
-        "商汤科技",
-        "商汤",
-        "Shangtang Keji"
+        "Face++",
+        "FacePlusPlus",
+        "Megvii Technology",
+        "北京旷视科技有限公司",
+        "旷视",
+        "Kuangshi Keji"
       ],
-      "overview": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
-      "website": "https://www.sensetime.com/",
+      "overview": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
+      "website": "http://www.megvii.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/sensetime-group-limited/",
-        "followers": 27507
+        "url": "https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86/",
+        "followers": 9533
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sensetime"
+        "url": "https://www.crunchbase.com/organization/megvii-technology"
       },
       "twitter": {
-        "username": "sensetime_ai",
-        "url": "https://twitter.com/sensetime_ai",
-        "followers": 1393
+        "username": "faceplusplus",
+        "url": "https://twitter.com/faceplusplus",
+        "followers": 884
       },
       "size": "1,001-5,000 employees",
-      "yearFounded": 2018,
+      "yearFounded": 2011,
       "locations": [
-        "Hong Kong, Hong Kong"
+        "Beijing, China",
+        "海淀区, 北京市"
       ],
       "funding": {
         "status": "Late Stage Venture"
@@ -804,24 +655,24 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
+          "url": "https://www.youtube.com/watch?v=sbsCwlkSlp0"
         }
       ],
-      "heat": 58,
+      "heat": 57,
       "tags": [
         "Facial Recognition",
         "Image Recognition"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1239848977958199298/DqKmJSLa_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SenseTime",
+          "title": "Megvii",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4",
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1594857600&v=beta&t=kA_--YeJ-O7M8XY68wTHM71MKKs2wEGDYzsOabuXEpo",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -831,32 +682,37 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/trueface.ai.md",
-      "title": "Trueface.ai",
-      "excerpt": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/trueface.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/trueface.ai/",
+      "path": "_companies/narrative.md",
+      "title": "Narrative",
+      "excerpt": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrative/index.json",
+      "webUrl": "https://everyday.cc/ai/company/narrative/",
       "type": "profile",
-      "name": "Trueface.ai",
-      "overview": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
-      "website": "https://trueface.ai/",
+      "name": "Narrative",
+      "otherNames": [
+        "Third Dot AB",
+        "memoto",
+        "Narrative AB",
+        "Narrative Clip"
+      ],
+      "overview": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
+      "website": "http://getnarrative.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/trueface.ai",
-        "followers": 760
+        "url": "https://www.linkedin.com/company/narrative-ab-narrative-clip-/",
+        "followers": 469
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/trueface-ai"
+        "url": "https://www.crunchbase.com/organization/narrative"
       },
       "twitter": {
-        "username": "trueface_ai",
-        "url": "https://twitter.com/trueface_ai",
-        "followers": 1598
+        "username": "getnarrative",
+        "url": "https://twitter.com/getnarrative",
+        "followers": 23731
       },
       "size": "11-50 employees",
-      "yearFounded": 2013,
+      "yearFounded": 2012,
       "locations": [
-        "Los Angeles, CA",
-        "Los Angeles, California"
+        "Stockholm"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -865,79 +721,125 @@
         "AI",
         "Computer Vision"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=j3cvmYhrgKU"
-        }
-      ],
-      "heat": 58,
+      "heat": 57,
       "tags": [
-        "Facial Recognition",
-        "Image Recognition"
+        "Image Recognition",
+        "Wearables"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1186378465508900865/N_mdyxUc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Trueface.ai",
+          "title": "Narrative",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/enlitic.md",
-      "title": "Enlitic",
-      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
-      "webUrl": "https://everyday.cc/ai/company/enlitic/",
+      "path": "_companies/aira.io.md",
+      "title": "Aira Tech Corp",
+      "excerpt": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aira.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aira.io/",
       "type": "profile",
-      "name": "Enlitic",
-      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "website": "https://www.enlitic.com/",
+      "name": "Aira Tech Corp",
+      "otherNames": [
+        "Aira"
+      ],
+      "overview": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
+      "website": "https://aira.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/enlitic/",
-        "followers": 3397
+        "url": "https://www.linkedin.com/company/airaio/",
+        "followers": 2543
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/enlitic"
+        "url": "https://www.crunchbase.com/organization/aira"
       },
       "twitter": {
-        "username": "enlitic",
-        "url": "https://twitter.com/enlitic",
-        "followers": 4716
+        "username": "airaio",
+        "url": "https://twitter.com/airaio",
+        "followers": 4309
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2015,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "La Jolla, CA",
+        "La Jolla, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare",
         "Computer Vision",
-        "Natural Language Processing"
+        "AI in Healthcare",
+        "Machine Learning"
       ],
       "heat": 50,
-      "tags": [
-        "Image Recognition",
-        "Cancer"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Enlitic",
+          "title": "Aira Tech Corp",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFJie4SeRm7AQ/company-logo_200_200/0?e=1594857600&v=beta&t=y73FJTU_72DV5AVlUkovIE3Fo4aThmx9RNtZRhxzxvE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/alitheon.md",
+      "title": "Alitheon",
+      "excerpt": "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/alitheon/index.json",
+      "webUrl": "https://everyday.cc/ai/company/alitheon/",
+      "type": "profile",
+      "name": "Alitheon",
+      "overview": "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets.",
+      "website": "https://www.alitheon.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/alitheon/",
+        "followers": 191
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/alitheon"
+      },
+      "twitter": {
+        "username": "alitheon",
+        "url": "https://twitter.com/alitheon",
+        "followers": 51
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Seattle, WA",
+        "Bellevue, Washington"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1306793871418908672/aKuqbENk_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Alitheon",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHa9XVFyBrjAw/company-logo_200_200/0?e=1594857600&v=beta&t=R1ePfZNXd91UI90Zh2NEMjv9oMqapHOxYAQgAKJAonc",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1131,52 +1033,39 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/megvii.md",
-      "title": "Megvii",
-      "excerpt": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/megvii/index.json",
-      "webUrl": "https://everyday.cc/ai/company/megvii/",
+      "path": "_companies/orcam.md",
+      "title": "OrCam Technologies",
+      "excerpt": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/orcam/index.json",
+      "webUrl": "https://everyday.cc/ai/company/orcam/",
       "type": "profile",
-      "name": "Megvii",
-      "otherNames": [
-        "Face++",
-        "FacePlusPlus",
-        "Megvii Technology",
-        "北京旷视科技有限公司",
-        "旷视",
-        "Kuangshi Keji"
-      ],
-      "overview": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
-      "website": "http://www.megvii.com/",
+      "name": "OrCam Technologies",
+      "overview": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
+      "website": "https://www.orcam.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86/",
-        "followers": 9533
+        "url": "https://www.linkedin.com/company/orcam",
+        "followers": 4818
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/megvii-technology"
+        "url": "https://www.crunchbase.com/organization/orcam-technologies"
       },
       "twitter": {
-        "username": "faceplusplus",
-        "url": "https://twitter.com/faceplusplus",
-        "followers": 884
+        "username": "OrCam",
+        "url": "https://twitter.com/OrCam",
+        "followers": 10506
       },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2011,
+      "size": "51-200 employees",
+      "yearFounded": 2010,
       "locations": [
-        "Beijing, China",
-        "海淀区, 北京市"
+        "Jerusalem, Jerusalem Region"
       ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
       "topics": [
         "AI",
-        "Machine Learning",
         "Computer Vision"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=sbsCwlkSlp0"
+          "url": "https://www.youtube.com/watch?v=jx2zOrCTvcA"
         }
       ],
       "heat": 50,
@@ -1186,18 +1075,11 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1239848977958199298/DqKmJSLa_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1162985248256380928/Mw9wWZI2_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Megvii",
+          "title": "OrCam Technologies",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1594857600&v=beta&t=kA_--YeJ-O7M8XY68wTHM71MKKs2wEGDYzsOabuXEpo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1409,53 +1291,171 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/alitheon.md",
-      "title": "Alitheon",
-      "excerpt": "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/alitheon/index.json",
-      "webUrl": "https://everyday.cc/ai/company/alitheon/",
+      "path": "_companies/enlitic.md",
+      "title": "Enlitic",
+      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
+      "webUrl": "https://everyday.cc/ai/company/enlitic/",
       "type": "profile",
-      "name": "Alitheon",
-      "overview": "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets.",
-      "website": "https://www.alitheon.com",
+      "name": "Enlitic",
+      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
+      "website": "https://www.enlitic.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/alitheon/",
-        "followers": 191
+        "url": "https://www.linkedin.com/company/enlitic/",
+        "followers": 3397
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/alitheon"
+        "url": "https://www.crunchbase.com/organization/enlitic"
       },
       "twitter": {
-        "username": "alitheon",
-        "url": "https://twitter.com/alitheon",
-        "followers": 51
+        "username": "enlitic",
+        "url": "https://twitter.com/enlitic",
+        "followers": 4716
       },
       "size": "11-50 employees",
-      "yearFounded": 2015,
+      "yearFounded": 2014,
       "locations": [
-        "Seattle, WA",
-        "Bellevue, Washington"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision"
+        "AI in Healthcare",
+        "Computer Vision",
+        "Natural Language Processing"
       ],
-      "heat": 41,
+      "heat": 42,
+      "tags": [
+        "Image Recognition",
+        "Cancer"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1306793871418908672/aKuqbENk_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Alitheon",
+          "title": "Enlitic",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHa9XVFyBrjAw/company-logo_200_200/0?e=1594857600&v=beta&t=R1ePfZNXd91UI90Zh2NEMjv9oMqapHOxYAQgAKJAonc",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kairos.md",
+      "title": "Kairos AR",
+      "excerpt": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kairos/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kairos/",
+      "type": "profile",
+      "name": "Kairos AR",
+      "overview": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
+      "website": "https://www.kairos.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kairos-ar-inc-/",
+        "followers": 1759
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kairos-ar"
+      },
+      "twitter": {
+        "username": "LoveKairos",
+        "url": "https://twitter.com/LoveKairos",
+        "followers": 4493
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Miami, FL",
+        "Miami, Florida"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 42,
+      "tags": [
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1105124141915693057/yO91xNJ9_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Kairos AR",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFySTcbir1LkQ/company-logo_200_200/0?e=1594857600&v=beta&t=IqLGUTXpEX1kxuQDjgzd2EH85UuboYiYnyeizEzRPMQ",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/trueface.ai.md",
+      "title": "Trueface.ai",
+      "excerpt": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/trueface.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/trueface.ai/",
+      "type": "profile",
+      "name": "Trueface.ai",
+      "overview": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
+      "website": "https://trueface.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/trueface.ai",
+        "followers": 760
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/trueface-ai"
+      },
+      "twitter": {
+        "username": "trueface_ai",
+        "url": "https://twitter.com/trueface_ai",
+        "followers": 1598
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Los Angeles, CA",
+        "Los Angeles, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=j3cvmYhrgKU"
+        }
+      ],
+      "heat": 42,
+      "tags": [
+        "Facial Recognition",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1186378465508900865/N_mdyxUc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Trueface.ai",
+          "isCached": true
         }
       ],
       "content": "\r\n"
