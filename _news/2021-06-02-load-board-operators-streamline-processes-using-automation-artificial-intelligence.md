@@ -41,15 +41,6 @@ related:
         height: 600
         isCached: true
   - title: "How artificial intelligence can enhance blockchain platforms"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/currencies/news/how-artificial-intelligence-can-enhance-blockchain-platforms-10190893"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-  - title: "How artificial intelligence can enhance blockchain platforms"
     excerpt: "Artificial intelligence and blockchain are both touted as technologies that will lead our future. But here’s the problem: They’re like oil and water. While innovative in their own right, there’s a noticeable lack of interconnectedness — projects that tightly combine AI and blockchain,"
     publishedDateTime: 2021-06-01T15:00:00Z
     webUrl: "https://www.investing.com/news/cryptocurrency-news/how-artificial-intelligence-can-enhance-blockchain-platforms-2520182"

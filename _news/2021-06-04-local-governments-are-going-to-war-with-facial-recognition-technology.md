@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tec
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
 type: article
 quality: 89
-heat: 369
+heat: 359
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1811407/video-surveillance-camera.jpg"
         width: 2500
         height: 1754
-        isCached: true
-  - title: "For China’s Single Mothers, a Road to Recognition Paved With False Starts"
-    excerpt: "Unmarried mothers are often denied government benefits. A debate over the policy is being propelled by a declining birthrate and a new generation of independent Chinese women."
-    publishedDateTime: 2021-05-31T14:02:00Z
-    webUrl: "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 73
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/24/world/00china-singlemoms01/00china-singlemoms01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Congress Struggles to Control Facial Recognition"
     excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."

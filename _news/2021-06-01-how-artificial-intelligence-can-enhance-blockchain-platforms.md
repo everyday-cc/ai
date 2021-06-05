@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How artificial intelligence can enhance blockchain platforms"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/currencies/news/how-artificial-intelligence-can-enhance-blockchain-platforms-10190893"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Load Board Operators Streamline Processes Using Automation, Artificial Intelligence"
     excerpt: "Load board operators, logistics companies and technology vendors are increasingly utilizing improved data analytics, artificial intelligence and business-process automation to more efficiently connect loads with trucks to move them."
     publishedDateTime: 2021-06-01T19:30:00Z

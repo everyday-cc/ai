@@ -42,22 +42,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Medical AI models rely on 'shortcuts' that could lead to misdiagnosis of COVID-19"
-    excerpt: "Artificial intelligence promises to be a powerful tool for improving the speed and accuracy of medical decision-making to improve patient outcomes. From diagnosing disease, to personalizing treatment,"
-    publishedDateTime: 2021-05-31T15:00:00Z
-    webUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-medical-ai-shortcuts-misdiagnosis-covid-.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
-        isCached: true
 
 secured: "FxzPsen0hlT3JhAXFU/NdrT+7Le4xn/fxjFgkQZ4hpOLvO+/w3hCgM+ZxGsI/ENurwUiMT4tCLCqTFH6hus60bqEU/R6a6N5Lv+Sb0OHobAZj9lrSTprpVD8NLfxgc1RmIe9xgVVlk7hiOim0NIGRCaqdrqfFOtRN/EnpdJKm+kE906qLiXabRZx6vaHbO9MXXartxu9byPNEv3pCWd701qT11jb9atDQOY5p/847lZOLJm+zTG7cE/3fZKWqRnteIZErO6ofNbHNXn0tvLgcS9MKurdOr/TYVRjzcPX31n1y3VxABR4I9jI9TAddQlURSFBX/9srxWdSgSamz8/7O92AIMTqu/znbr5mWCGC8Y=;k9ZUx5YbRmTyyUzta3KHtw=="
 ---

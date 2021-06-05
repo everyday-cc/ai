@@ -61,22 +61,6 @@ related:
         width: 2500
         height: 1754
         isCached: true
-  - title: "For China’s Single Mothers, a Road to Recognition Paved With False Starts"
-    excerpt: "Unmarried mothers are often denied government benefits. A debate over the policy is being propelled by a declining birthrate and a new generation of independent Chinese women."
-    publishedDateTime: 2021-05-31T14:02:00Z
-    webUrl: "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 73
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/24/world/00china-singlemoms01/00china-singlemoms01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "King County Council approves facial recognition technology ban"
     excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tu 1. King County, home to 2.3 million people in and around Seattle,"
     publishedDateTime: 2021-06-02T23:43:00Z

@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "For China’s Single Mothers, a Road to Recognition Paved With False Starts"
-    excerpt: "Unmarried mothers are often denied government benefits. A debate over the policy is being propelled by a declining birthrate and a new generation of independent Chinese women."
-    publishedDateTime: 2021-05-31T14:02:00Z
-    webUrl: "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/31/world/asia/china-single-mothers.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 73
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/24/world/00china-singlemoms01/00china-singlemoms01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Congress Struggles to Control Facial Recognition"
     excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
     publishedDateTime: 2021-06-01T20:53:00Z

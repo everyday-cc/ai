@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
-excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused"
-publishedDateTime: 2021-06-02T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
+excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
+publishedDateTime: 2021-06-02T11:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
@@ -82,6 +76,6 @@ related:
         height: 421
         isCached: true
 
-secured: "6HdDanSE2zdYpLNxF4fyICOBXaB72ZSjINCLWn/6TzHUHva+I3mfDov7uIVjZTWOtBnhmrKrpdsMmk0cm3Q0nAJK2f08/muAKoAuKWO0rTK6+EUK9BRzlD+ZeZqlMh+WSy4uLfdvQ8U9ojeuodoVgDSC2kggvvveXZwte1LzUv+N/9Fy2mBIkHP/vG8L8uHGi7C4/bwR8dqfny8TRlAaZfN3NWOenfNF0h0S6g0BKvUoDmDergDNAxAr7MeUZoUDRD19z4ttLfIZ/d9VGO5SZ6KWzkmUkRqTyWy6D7MiEcPyASozZJe9wmqQ4+g3ssVBZcT45XTsX8WY8NTGYipwCUe2pmCaBAxQe2S9CS0/OwA=;vnZp5/HXQQ1xMaeoGTM13A=="
+secured: "L2CwwWQM2IDljg5T5kOJUu6yKzgkdtXupg0bshKOfOoue2vhdxGQjnQWa6UkNnjUMHv1PDRAlOewuNcycwxvVmuQRw+c8ijy3eQq3LJh/0JVPS/r/69euzlLsBY/+7Bg7QFqZ9AQjNi8803J01Q2PMg8wb0Ouwps3WBDXt1NzyKW5zVp4eDth57g3Q5S4aIoztMD7F71fOQM8wYM+4XioV0MT1ubMoOMDQW5eq/WHFbDlSqnG4ykD35tuxQ/YV+fcoHEFj/lRXQdy2zobZRM/7t5yDzwz1yo90P1YRI25fP0OmE3X+FpvT57BNcH3K9P2LrJRUxg5Rg4Trq3CWkFFOT14ENiZyQHXn+wyQbxILw=;+770eQnbxkVxIG6Hk2iM8w=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
-excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-05-27T12:59:00Z
-originalUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
-webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com"
+excerpt: "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2021-05-27T16:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210527005561/en/"
+webUrl: "https://www.businesswire.com/news/home/20210527005561/en/"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "/97tSfKtU9Wijj5JG2fVsr75It5/VCrbwx51hzI1vhlPq06e6HKvpZm8fxIXwnGhVlYc5sFE1Q3bws6hgHNBPwnTtHq20f3dNYkG8xi9/Dxg8N1R5ht0swe6b+VhLaQsYr78AA+9ckm2g+GPs7PuQGZFUhv3AQja0M9H+nThtKcSR5vZpS6EcUFB9OivrQYEtoizf75nEWYTk8TpXsCNUXfzOqIZM/yNOezyxVMTLAi+fxuOhvz/7afRR05HNsiVZV/4BBCF5NKXa0elF/bPpeMVED18PRRW3vaOyQQRpmCMWj6hdwi8+tG7dXjsxDe+1Gx3G5UjlnCnMWyQsRcHYPpvzKMlt1XLhfwmmghPznk=;Bb4yL6toXsFfzSfa0c1YyQ=="
+secured: "50H/P79hnIj/uJtXuTRulUvlIun1I80zF+yXD6TG6eaO45yn+Hc6FBL5um8r25116URIyLIGL5/o47SerBC41moIC/DsLdDnh/aRSD/OI8UC4S3MHOE5RBaSFNq+aGK9LKihzByKQrVU+AKpnQWCr6mXitaadRAXaC5kMN/0Lc3g+3tt+IExuUPEf+eMaU83eZjvxHQy5QW0SKmdphKofDPfN8k9dYbrNbrTg5a7bzh57VHlo4TcNP/a3VObzvr5Jrn0k/dMHPIIz2hM4oR303vOdAyOG+N/bQl+uTYGvu4bkj/27r6cdulHln8u5Jox6CiYTtD4fiCRP2omqTqNDUDBbxt0IZQ/30/vulwzMA4=;iaL6gJh9HOPKuwhaS3sEpw=="
 ---
 

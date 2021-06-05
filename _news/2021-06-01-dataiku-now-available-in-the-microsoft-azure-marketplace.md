@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/01/9381257.htm"
+excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:00:00Z
+originalUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Microsoft AI
@@ -196,6 +196,17 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
+    publishedDateTime: 2021-06-02T15:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
   - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
     excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
     publishedDateTime: 2021-06-04T11:00:00Z
@@ -214,15 +225,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-    publishedDateTime: 2021-06-02T15:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
   - title: "Artificial Intelligence in Healthcare Market 2021 Strong Quarterly and Yearly Performance | Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Latest added Artificial Intelligence in Healthcare Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-01T19:12:00Z
@@ -242,6 +244,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "krJdy1Ky+bNVlRXz/ztiJj9PI3HgSFszbweTj0b62OX9TbOK0wuggjq/5OTdlxG4/O2HfVEvU/WHUvf0gqnPfpiQbM1fu1kMABUNEHKmLSMmjANbH3Mfuue1M8Z6IGoXYom5L59a8/bp1ekhJWm05/BpPPH1BQXr7Edyb4/W9Kl/5JbrU+HhY7W3RBsB1Y5k/zICpH1hvAZhSNqFu0A1ue/o6QUDhfwobAXDuD5N3UlUGM8fiLO5VDIdreGBBKV0mxMdrEjiBXMsxIULWbTvwUjuf4L83bVroO96ttCbiQnDWYDOGYAQYTEN+SYLSDvmndVz5NBX7IFZlcppm7luqo4+iAUYZ4cTiwiL8DPtpeU=;JWUnyvuHtoPXP3R3leidFQ=="
+secured: "uaJ3YK0c+rBRI+xZRkC+6qiksRBz65xZWDg3ZgJeMPbYixOfXG0jbWi6k+w3b9ivUoXCFVD0V45chgdR3RlUf4Wxu/ZgpqtvLoTZ1p6ZiLVapqa+YOLb+s0DgyzWcT8xk2tuAG3tj1zP4wlWuk6WBSkBeUgYrNuxKsHQTfs65cN6pstaDKhS4NHjebv6hCMBMHZWpComJ+ElEC+MEhCIeex7KfxAVb9Dby4vLQ/GhhG5r0F6AOViPEoSnTHtzziu/dWe7D6AsRGEOcqzQX0RPtU2/jiq94SkwdYtm2gzLdm8x3hLe6Oi0xtRuO7GDkeCHO2nyYcKQ+n+YMmrtAm9UxieuBhhDx9M9xTF02NBSLE=;ScFNkDGuR8xI1+Tvhqudew=="
 ---
 

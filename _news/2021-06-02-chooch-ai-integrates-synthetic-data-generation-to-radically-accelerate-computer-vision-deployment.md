@@ -2,17 +2,17 @@
 category: news
 title: "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment"
 excerpt: "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,"
-publishedDateTime: 2021-06-02T09:00:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment"
+publishedDateTime: 2021-06-02T14:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -38,6 +38,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "ySxZCnqd17PADnnXPOtAO403wRGNhm0SEb7pDmo/FXrTUZWDYswEIBPDyC61BWw9lwtYXIoPDbohafGkrtwrmPRbzaqHAYkqrVudvJv6u7giCTDLnIxxctO5JMAwitkQc/LleoUJldlkIqLadbCrkK6UmS0eVeJqL+yHYm02do9VYvKMOZ8L988nPXKNPBJEj59ImdP0sYJwR3EhIjkxFI3KCu/m26A/wppgzVcWaRbYjp1ewgNzt66gFcHwMZUIH3GcMFYlfHTUjWl3gzSRzkDrxKLSKMTIniHw2xL2PEEvhp02HSFl4CcAUp8P6EuQ8kIypxGbfwMe9LuBgD9TS3ufwnY2p3lTAspIFOOYAtU=;sD5Z4Fd9PzZRfPCzOCY31A=="
+secured: "hxoG/wb8Q6q8ca7JDlR0ZeHUAGv/3zruCLmQy5V78ERddIB/RxxMiQV7vMfbL9xJfHaA6p6OYynTQxk4i/vD2PSFuTo71EhjYLBcINRPH6JpKX9VT95OxmMb7j25hf7jCRLX925P92To/9EXC0MHWA/X4v2kc/SwOCrgd8684LG302/XJndlBTfrOfTNa5kI4C8rCwJsZtxqhD9PZ+JMUI2ivvC3Sn+W3VukTvHAJrWGDNbiCBU3oBtSG/mcA98vwRe2FISvHx/mCc3lbPFZA8YJvfyI2+hCnLqmhZcbK6FZDPgqdeU4DIM2b4rVnD45/TWSTyHS3fv1y6h0GeuAvuLTfGMF2LHji3BdFKknIds=;V52jmS9dEd9ZT2nevi/Tiw=="
 ---
 

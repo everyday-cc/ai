@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Visa (V) Expands Reach of Fintech Partner Connect Program"
-    excerpt: "Visa Inc. V extended its program, Visa Fintech Partner Connect, which was first unveiled across Europe in November 2020. This time around, the program can be availed by Visa clients in the Asia Pacific,"
-    publishedDateTime: 2021-05-31T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31"
-    ampWebUrl: "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Queen's Award-winning global fintech company Quint Group relocates headquarters"
     excerpt: "A Queen's Award-winning global fintech company has joined . Quint Group, which owns and operates a number of fintech businesses which are focused on improving access to credit, also has operations in San Diego,"
     publishedDateTime: 2021-06-01T08:51:00Z
@@ -45,20 +34,6 @@ related:
       - url: "https://i2-prod.business-live.co.uk/incoming/article20715549.ece/ALTERNATES/s615/0_Atrium_2.jpg"
         width: 615
         height: 409
-        isCached: true
-  - title: "Toyota VC arm rebrands as it expands remit to sustainable tech, digital health, fintech"
-    excerpt: "Toyota has rebranded its venture capital arm amid launching two new funds totalling $300m. Toyota AI Ventures, which was launched in 2017, has been renamed Toyota Ventures as it branches out into new areas including climate change."
-    publishedDateTime: 2021-06-04T11:14:00Z
-    webUrl: "https://www.altassets.net/market-news/firm-news/toyota-vc-arm-rebrands-as-it-expands-remit-to-sustainable-tech-digital-health-fintech.html"
-    type: article
-    provider:
-      name: AltAssets
-      domain: altassets.net
-    quality: 31
-    images:
-      - url: "https://www.altassets.net/wp-content/uploads/2021/05/imgpsh_fullsize_anim.png"
-        width: 625
-        height: 521
         isCached: true
   - title: "Top Trends and Practices Fostering Fintech Transformation"
     excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
@@ -125,6 +100,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
+    excerpt: "FE XCELERATE, the topline fintech accelerator program series in Asia, has overwhelmingly received more than 40 applications from fintech companies from around the world just two weeks after opening, a"
+    publishedDateTime: 2021-06-01T01:40:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/249966"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "NI7CnPzkcJ7OturUdEQC4rvm+oX97ocNUmmKE4lqGsd7he5laPdljeKWkWkvlVP1NAGCSOwIDEpa/S1DzJKyYQBY5w2RkgRWdmFBn1k6QnFkZBAFtidy15iQYQKwkBy6fWdpqvxTGZMvKqxdskpk5x8dDERummIidLAZ07uzGt8FP/HXnprrbih/B9uX3eCBGLLFWLSC1HR9RiJ24ru6DXMW9e55BINB0CIo73HTw5hy7obiYRdNNRCd9K/+wHOG8Tnmy03Ww6rYthCWcd8Fv97d62Mwc2QApeerw8hMT/Jxjv0I1WjWJE8eV96zNKPMuxvpGkmz/ZgaWfVTdqSiAbbP5uJ6ajwYwIetK4U4tQM=;dPp/BkP37UgLTRmJuF5Cww=="
 ---
