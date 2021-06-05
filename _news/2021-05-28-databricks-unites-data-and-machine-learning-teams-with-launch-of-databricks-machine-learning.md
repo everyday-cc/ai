@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-excerpt: "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ..."
-publishedDateTime: 2021-05-27T21:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430"
-webUrl: "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430"
+excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
+publishedDateTime: 2021-05-27T22:11:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
+webUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "p1EZBKxeicoYTImtand90V+M0J901CIaJnCr0+zveSWcNfKTe714myWNOx1b4T1c2sA/5u4ZKvcpuwUYx476Ug7NvFQeFEBOycwXboNIe3OrQZYTRerDmfF+lRPSOFykibbQaYa0kNdJkOV79H9QVgAfBjgmgE4OPP7S47m1BGJ7jLqqWJ1HFA4A7rTwMJGxvQz7Dc5/j3Mtu4MUD7Uf7XEhzXClGjFzaH6giqnXcsijB2IhqoLtieUP8F80NwFq5uFuohuJ86BC2m3JK5hPjmmG2wVqhH5OJZMd9lzQM1cVSA/7NDKQeB8y+HJx74adV+WUUBvYIE5EmeN/F/llbjgWKUeW1gbAk4Y19lwh/gc=;eHcRqXNUFjqdXCRK8zvYZg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+    width: 1094
+    height: 576
+    isCached: true
+
+secured: "McRD05POCtVdaLL7RSSy4GkVbp3lYYWPGt+2OPLwVE9tm1rY+nHrH6tNSROaMUN87L1pv/v4ZQgWLYQavLmgONIkq5TFlbZOVBiQcCqF9FUAXgJJIr0K0OwPHqLJ0b+0DvAkqPscKo17nma7eDYUTpxwQnWlItTTIH5eFAvEqYwc6P4wmdjJUaYEjs/LLG4n4zrjgGrPPz9YOGJjUB9VX2u+/SCckXkrIaI/IUW8iqrHxKXltml4IRpWIMGH531rtACAscYW7dKiwMVriOI99gyRHeaCcryDEuegY5a0LWdEar6TuebIs5fJk1NEH3m9a3iIdv5Kmk+0VR+CFg8+kzvtMFzoJl/UFuEXmLdRQGk=;+PTe6C4Y5JfSUgRczH0tOA=="
 ---
 

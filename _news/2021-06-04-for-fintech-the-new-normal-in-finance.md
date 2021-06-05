@@ -7,7 +7,7 @@ originalUrl: "https://www.malaysiakini.com/advertorial/577567"
 webUrl: "https://www.malaysiakini.com/advertorial/577567"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Top FinTech funding rounds in the Americas: May 2021"
-    excerpt: "Tracking investments offers a better perspective on the competitive and strategic trends in the finance industry. The article lists 5 FinTech fundings rounds in May 2021"
-    publishedDateTime: 2021-06-01T09:19:00Z
-    webUrl: "https://ibsintelligence.com/top-fintech-funding-rounds-in-the-americas-may-2021/"
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "The People's Bank of China Launches a Pilot Scheme for Integrated Application of Financial data The People’s Bank of China has launched a pilot scheme for the integrated application of financial data across the country."
+    publishedDateTime: 2021-06-05T14:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176277-china-weiyangx-fintech-review-203/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176277-china-weiyangx-fintech-review-203/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176277-china-weiyangx-fintech-review-203/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Beijing-China-Street-Scene-600x528.jpeg"
+        width: 600
+        height: 528
+        isCached: true
+  - title: "5 Hottest Trends Ruling The Fintech Sector In 2021"
+    excerpt: "Halfway into 2021, we have already witnessed how technology has helped the fintech sector evolve. The hottest technologies like AI"
+    publishedDateTime: 2021-06-03T16:07:00Z
+    webUrl: "https://www.valuewalk.com/5-hottest-trends-ruling-fintech-sector-2021/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
     quality: 24
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
+      - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
+        width: 1280
+        height: 856
         isCached: true
+  - title: "Fintech changed the financial world quickly. Here's what's next."
+    excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
+    publishedDateTime: 2021-06-01T19:16:00Z
+    webUrl: "https://www.bizjournals.com/twincities/inno/stories/inno-events/2021/06/01/state-of-innovation-fintech-minne-inno.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "twrLsFE98a2fVMZCc5qDm4YN0jZQrgajw8/AEapXZ8uXsVMGDN21kzpp87DsFJbT6+6vRn4RUAm80EbSUpq8iPtXA9TL9rWWSJcUM82RoojzQ/m0yXew9jZvm/9YcA3EKbrTJKyANU6OzENqEe2+usZhBfj/IM3Cd3rsF4VpK9+h0C9itWGWC0MGjixrkVELaGe/EQq0gFtgQxamjGriS15TjGNycvOcKnd5ljMlqNqMRiEy+NTq8kMK9YI2zoWGZ1GWenn1tXN6J+AnOXfjdwyMIgtEcsdcldjB/We81Ui9VcGUslUZu1KBt9SilqpYCfvwRXBRYCTL9UtZls8MYlyRPscle7AmD/jcfT/tyRA=;sKUX4FYo83RlP7SqUirT7Q=="
 ---

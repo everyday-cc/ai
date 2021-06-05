@@ -88,13 +88,13 @@ related:
         height: 800
         isCached: true
   - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
-    publishedDateTime: 2021-06-02T22:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
+    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
+    publishedDateTime: 2021-06-02T21:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
 
 secured: "Yq/WsfPKeJbUI6sMmPkc6A6n6R9pW/h2B9SbHOhLbjJQqR7BQsQdPqXra2carikdzug804OjMmKUg0Ve+O/D6uTCYnc0EC48kHCh7MMa7xbVeTGDDKK6zhX3wuiXMgN5Jmzr7GWoAihiDfsoCbaxKhc0yqEr3DlM2mnZynSqQstMU3AXyKn2X9YcRt6gL0mJ6e0duXD3E+dMkAVJbBxGVFoj0iPVBG4Rdr2ZLEwb4BFTKJ/dq5iWGE/p6p34VnoctCnuvFsA0OUQO0UeDqaDIx0tuidQeWn2JbWl8bDimzpQ28/m11BBX3FXr0O9bvSgLxOfPOVtIVxQ0ZW/OLjL4U44dF60M8fxCtWyBfKGOYs=;xXk5x+HscfFEhQaOHBVJOg=="

@@ -55,20 +55,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "5 Hottest Trends Ruling The Fintech Sector In 2021"
-    excerpt: "Halfway into 2021, we have already witnessed how technology has helped the fintech sector evolve. The hottest technologies like AI"
-    publishedDateTime: 2021-06-03T16:07:00Z
-    webUrl: "https://www.valuewalk.com/5-hottest-trends-ruling-fintech-sector-2021/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 24
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
-        width: 1280
-        height: 856
-        isCached: true
   - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
     excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
     publishedDateTime: 2021-06-04T19:02:00Z
@@ -83,15 +69,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Fintech changed the financial world quickly. Here's what's next."
-    excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
-    publishedDateTime: 2021-06-01T19:16:00Z
-    webUrl: "https://www.bizjournals.com/twincities/inno/stories/inno-events/2021/06/01/state-of-innovation-fintech-minne-inno.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
     excerpt: "FE XCELERATE, the topline fintech accelerator program series in Asia, has overwhelmingly received more than 40 applications from fintech companies from around the world just two weeks after opening, a"
     publishedDateTime: 2021-06-01T01:40:00Z

@@ -55,29 +55,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "5 Hottest Trends Ruling The Fintech Sector In 2021"
-    excerpt: "Halfway into 2021, we have already witnessed how technology has helped the fintech sector evolve. The hottest technologies like AI"
-    publishedDateTime: 2021-06-03T16:07:00Z
-    webUrl: "https://www.valuewalk.com/5-hottest-trends-ruling-fintech-sector-2021/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 24
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
-        width: 1280
-        height: 856
-        isCached: true
-  - title: "Fintech changed the financial world quickly. Here's what's next."
-    excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
-    publishedDateTime: 2021-06-01T19:16:00Z
-    webUrl: "https://www.bizjournals.com/twincities/inno/stories/inno-events/2021/06/01/state-of-innovation-fintech-minne-inno.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "Banking-as-a-Service, Authentication, and Lending Technologies Highlight Ten Growth-Stage Companies Chosen for 2021 FIS Fintech Accelerator Program"
     excerpt: "FIS and The Venture Center announce the ten growth-stage fintech companies selected to take part in the 2021 FIS Fintech Accelerator program.Highlighted by solutions focused on authentication, lending and banking-as-a-service,"
     publishedDateTime: 2021-06-02T12:03:00Z

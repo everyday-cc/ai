@@ -25,49 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Queen's Award-winning global fintech company Quint Group relocates headquarters"
-    excerpt: "A Queen's Award-winning global fintech company has joined . Quint Group, which owns and operates a number of fintech businesses which are focused on improving access to credit, also has operations in San Diego,"
-    publishedDateTime: 2021-06-01T08:51:00Z
-    webUrl: "https://www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547"
-    ampWebUrl: "https://www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547.amp"
-    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547.amp"
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "The People's Bank of China Launches a Pilot Scheme for Integrated Application of Financial data The People’s Bank of China has launched a pilot scheme for the integrated application of financial data across the country."
+    publishedDateTime: 2021-06-05T14:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176277-china-weiyangx-fintech-review-203/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176277-china-weiyangx-fintech-review-203/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176277-china-weiyangx-fintech-review-203/amp/"
     type: article
     provider:
-      name: business-live
-      domain: business-live.co.uk
-    quality: 40
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://i2-prod.business-live.co.uk/incoming/article20715549.ece/ALTERNATES/s615/0_Atrium_2.jpg"
-        width: 615
-        height: 409
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Beijing-China-Street-Scene-600x528.jpeg"
+        width: 600
+        height: 528
         isCached: true
-  - title: "Top Trends and Practices Fostering Fintech Transformation"
-    excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
-    publishedDateTime: 2021-06-01T11:12:00Z
-    webUrl: "https://www.cioapplications.com/news/top-trends-and-practices-fostering-fintech-transformation-nid-7854.html"
+  - title: "For FinTech – the ‘new normal’ in finance"
+    excerpt: "FinTech has risen to challenges posed by Covid-19 by delivering digital, secure, seamless user experiences. The way people manage their finances has dramatically changed with the convenience of FinTech technologies."
+    publishedDateTime: 2021-06-04T06:07:00Z
+    webUrl: "https://www.malaysiakini.com/advertorial/577567"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 39
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/5lqhz450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
-    excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
-    publishedDateTime: 2021-06-04T19:02:00Z
-    webUrl: "https://www.pr-inside.com/ncfa-successfully-concludes-canada-s-leading-fintech-and-financing-r4833550.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 24
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
+      - url: "https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/06/f6f548a7b30cdbd5fec09bc0fd19dfd0.jpg"
+        width: 3120
+        height: 2080
         isCached: true
   - title: "Fintech changed the financial world quickly. Here's what's next."
     excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
@@ -78,43 +64,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Banking-as-a-Service, Authentication, and Lending Technologies Highlight Ten Growth-Stage Companies Chosen for 2021 FIS Fintech Accelerator Program"
-    excerpt: "FIS and The Venture Center announce the ten growth-stage fintech companies selected to take part in the 2021 FIS Fintech Accelerator program.Highlighted by solutions focused on authentication, lending and banking-as-a-service,"
-    publishedDateTime: 2021-06-02T12:03:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=478666"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 1
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
-    excerpt: "FE XCELERATE, the topline fintech accelerator program series in Asia, has overwhelmingly received more than 40 applications from fintech companies from around the world just two weeks after opening, a"
-    publishedDateTime: 2021-06-01T01:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/249966"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
-  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "mE1TYmSVckyMEnJ7JjFWsrVLlwgu1hEgvmGkGWxgbhL4mcYDrfnL5MvwYoxrZllYYpdKqkdt3Pc+IgZCXkgsgWQWJiv2ri3GbYr24uewsKjafNdJx7flO+TSTqMxTVLVkSl9pDwNZ1iNx3qXO+mU7iguDGgV6GztZtQBoFYooWxa/Z1tmQZmVwiA5QaD/93iOD0+PcVAgJgmmlOwsBjmcWA/tERixF1iwK1lcY9iWfJfA6lgrRnR4ioBRt+xbNf5fsHjkq6ZkMzNXZHxRbokdA1KEBFdi+AIm1VEiCuY6aASVPg1t+YDP1ARPau3qTcTTyBYBFEsNTc3u8urhqJqQ8Hq7M0tog6LdFPlcn5IjEQ=;49QPU05QJzV+W23voGp6cQ=="
 ---

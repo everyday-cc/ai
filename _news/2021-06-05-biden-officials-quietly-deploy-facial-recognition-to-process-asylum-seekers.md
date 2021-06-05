@@ -55,6 +55,22 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Biden deploys controversial facial-recognition app to track asylum seekers as part of 'smart border' strategy - but privacy advocates cry foul and migrant crisis continues unabated"
+    excerpt: "Asylum seekers in the United States are being encouraged to submit biographic and biometric information to the CBP One app to allow border patrol officials to verify their identity."
+    publishedDateTime: 2021-06-05T14:56:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9655025/Biden-deploys-controversial-facial-recognition-app-track-asylum-seekers.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9655025/amp/Biden-deploys-controversial-facial-recognition-app-track-asylum-seekers.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9655025/amp/Biden-deploys-controversial-facial-recognition-app-track-asylum-seekers.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/06/05/14/43864419-0-image-a-2_1622898218342.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "f0qV8wb/DPOLVJOvHsDMUpJUSvtgyGsIPzz73OLjbRUHwRVVAN9FC8kUMw11fcTqXHXN5LeOrZ1xDQCzAYosya1gIgcFhfGYpgXyNg5NkJPxclzQ/iGtitmTEORXrakP1REip4O+UeM4w8sWLTBWvYHzrSCA3IrggLx0M4bJAmFYcPC9ZOYiCgVXVAl8VCNMWjZYrUNjNd7hahvqGsTOM6mIZVLBJpxXdndEeuxpLyaYeFIY6+MFK6fjQk7RMm+fCF5bjOoxBHtHFF3zRhVGv8/DHe9JC2yEHeqZm2+zCaDPEX9SzWgEKbUligl9bUVbH7RcjmSD8xJZJMIlCCqHYO5cRtPUAvknevsvSWuDN/zZ3P9TuSXASeZwnfL4+MLm5PBOXQS99udEmjH1i/axxZ2vIV7+Sn4PjtORjUVdMqax2SiPh9Qoco6N93hbbFWwb3CpmygU6HmCAKGKnL7SuFopcurFtGZ6FgSHwj7/J3I47Qi8iJ85oRY3Oem7FkWoPMqOIF8UdfjZCkJdWjDfSQ==;k2LSOIBNoTS4mFnNOLK8vQ=="
 ---
