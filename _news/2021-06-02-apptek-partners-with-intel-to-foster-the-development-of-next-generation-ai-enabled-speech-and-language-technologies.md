@@ -2,28 +2,22 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:41:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
+publishedDateTime: 2021-06-02T12:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
 type: article
-quality: 17
-heat: 17
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "QSsg0Qk8W2VEZSQo1MRPwfM8dxcBDXAHSNwnPEXz5LN4SJwMghuS2ihjWZ5m53soe0kora4lGRmEwjqpih2VONkIWwM0vtKNlwOtHl9OSG2bK6aVc0mGQm4wdDaI9HfTf2+jixIrFzpwCoV6oKCWNSgb8o1lQQjnHc1etzodEzLTdoUmX+WKhPbRhvvI5gI5qpchmsHywX0UqNAsGpOOQRXqCijKJY66okrdt/smVK1ON4QzomqyPJRW0DUo2VG+8yDA2lxvvJ0LRxATLwsAoH2lit0Uh+esSONjulfr8d6Hft8e2w5zynxDP2KxvWD87x6xoonSfbiF73pzZFdRJmO4bZAEtKSL2YXWRFj3X+s=;xJER6bvIGzvTpQei2Hv6LQ=="
+secured: "Nzsed7/dpOvjZmAOKAbZ3fEqFQGZoh7xx+XSWyVVTukyp2SO9m3xb8LwOUfq/0FS2ONVpOznZn3T1GE9H03v3ayVOhjH+dga9cwJ6WoGBUqX3PFUsGgSMYU7RO7xpk9Dl5hiIEXCKan9fsPOsasNUQiun2XwvsRkDpXxsL6TT/wYCaoeCBUzgZTj1OZVaYBs0emyh7lHKhy8FveBXKmqByQG7jei3QZi0YNOgNSP6p3BDqV9xRe2ggOJitleP+qDP4YHchaa1glwJ1a3oSR7USuqjEeiPEPWX53CXlfixW14DkmYVImRLlfPs5E7jQboXTFsrp5Vm14XIGkOpsm257bX4vefdjrHkxQk1s6r4ik=;Y/6PuPNBx0JKVVJ+A+Cf2A=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 1124
         height: 760
         isCached: true
-  - title: "Artificial intelligence (AI) Chips Market Next Big Thing | Major Giants AMD, Alphabet, Mythic, NVIDIA"
-    excerpt: "The '' ” Study has been added to HTF MI database. The study covers in-depth overview, description about the Product, Industry Scope and elaborates market outlook and growth status to 2026. At present,"
-    publishedDateTime: 2021-06-02T04:38:00Z
-    webUrl: "https://menafn.com/1102195902/Artificial-intelligence-AI-Chips-Market-Next-Big-Thing-Major-Giants-AMD-Alphabet-Mythic-NVIDIA"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "NVIDIA leads journey to AI-Infused Industrial Edge with AI-powered technologies"
     excerpt: "Computex is recognized as the world’s largest tech conference focused on the IT and IoT industry.  This year Computex invited Jerry Chen, head of Global Business Development for NVIDIA’s Manufacturing and Industrial Business,"
     publishedDateTime: 2021-06-02T08:48:00Z

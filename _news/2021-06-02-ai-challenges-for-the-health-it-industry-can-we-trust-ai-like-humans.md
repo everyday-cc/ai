@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How Machine Learning has Transformed the Textile Industry?"
-    excerpt: "Computers have been used for textile production, but their advantages can be further improved by the introduction of artificial intelligence into the system. Although machine learning in the textile industry is still under development,"
-    publishedDateTime: 2021-06-02T04:55:00Z
-    webUrl: "https://www.cioapplications.com/news/how-machine-learning-has-transformed-the-textile-industry-nid-7859.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/uqphd450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "br/FHubOmlxXvElrRix8XRM1iIT9wuDAZGow6V6HEwUtYtDkBaXCRWifhUA3VzcSJqy3s0yyjmsrtK3r0itYpMEcJb4K5lnnP0dI+Hll15+ncSF3n/yzTPJqxmGDYV0k/p9RfqT5s/KmHbfSqPk929BeJ/Nl+JvreV8Se2KbyY6fqUb2iZFlnKFhcDSMEIOxFZYmlDdXQVAUGTv+T61KbO8RRXRERPn6G/R5nTYmi5DZbRxikryQSZmG/9f0kfV8AfTwYt7KdyUfBSE3x+RDsOG6rXD9ygtrVHJXxcyWq/9YbJlKgfkaaooApYhqtSdadekrMRf9olzc4zhV7DgVrrQKGIRVDYvF+ME3AT8TEWC5HRS17L9skcChKRCU24BReNU2b8907l8t4FZIo4v4B5TVNr+hQRfZQDZJ2K+ROj6f4YrAdYPYhdHYgsdDwPoZMqDv5HP96R6WasPT9bNKGvv9GgNUpgorzNY6N3B1DKgOAezC8i2Stl2WGBZjZJA+R9GmXLOpPnSIBVI4QTfoFw==;ToIQh9j75D20qkyhUBl9qg=="
 ---

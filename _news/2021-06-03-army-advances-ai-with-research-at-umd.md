@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence agreement to advance Army modernization efforts"
-    excerpt: "The US Army plans to cooperate in artificial intelligence research with teams led by the University of Maryland, College Park and in partnership with the University of Maryland, Baltimore County. The cooperative agreement brings together a collaborative of nearly 30 diverse experts in engineering,"
-    publishedDateTime: 2021-06-02T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uarl-aia060221.php"
+  - title: "Think pet, not threat with Artificial Intelligence"
+    excerpt: "Intelligent machines will play a much larger role in the future than they do now, and we’re trying to imagine that future as we’re racing toward it. Some people envision things straight out of a Black Mirror episode with terrifying killer robots,"
+    publishedDateTime: 2021-06-02T13:58:00Z
+    webUrl: "https://whyy.org/episodes/think-pet-not-threat-with-artificial-intelligence/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: WHYY
+      domain: whyy.org
     quality: 39
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://whyy.org/wp-content/uploads/91FM/schedulelogos/1a.jpg"
+        width: 370
+        height: 370
         isCached: true
   - title: "Army Advances AI with Research at UMD"
     excerpt: "A collaborative research agreement between the University of Maryland and DEVCOM seeks to accelerate the development of AI technology for autonomous vehicles and robots for critical missions."
