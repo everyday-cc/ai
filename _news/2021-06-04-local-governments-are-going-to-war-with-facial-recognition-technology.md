@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tec
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
 type: article
 quality: 89
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -341,6 +341,20 @@ related:
       - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2021/05/1280/720/2DA91231FE93417B92B3C7985719FE3F.jpg?ve=1&tl=1"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
+    publishedDateTime: 2021-06-06T05:32:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/jun/06/researchers-test-facial-recognition-technology-on-asian-carp-in-battle-to-stop-invasive-species/873946/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 27
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/06/05/198553199_US-NEWS-SCI-FISH-RECOGNITION-2-TB469339106_t1070_h56768f7a4faa13a13e81741ca2b1659d6b3d18e5.jpg"
+        width: 1070
+        height: 692
         isCached: true
   - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
     excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."

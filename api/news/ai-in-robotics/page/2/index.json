@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-28-robots-drones-and-ai-the-new-technology-making-waves-in-wash.md",
+      "title": "Robots, drones, and AI: The new technology making waves in WASH",
+      "excerpt": "From sanitizing open-air markets to identifying leaky pipes, robots and AI are increasingly found in the WASH space. Devex looks at the potential positives and pitfalls of engaging a \"robo-WASH\" workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312",
+      "originalUrl": "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/devex/image/fetch/c_limit,w_1200/https://lh5.googleusercontent.com/DIrIWRji_Zokhv-x550QyWc7WwTJkHhX93_oSniSy9StDo8GvX6ryjuO083d1yMiRkuncZFccs-iAWenX0n0XY2kn2X7w-59eJQAUozXa2IzLTboF-E4zZUYwBa70UX4CcpEPC9u",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Devex",
+        "domain": "devex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-south-korean-firm-to-develop-liability-insurance-for-ai-robots.md",
+      "title": "South Korean firm to develop liability insurance for AI robots",
+      "excerpt": "South Korean telecom giant KT is developing an insurance program covering artificial intelligence-based robotics services for the first time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2021/05/27/skorea-insurance-robots-ai-liability/7721622131092/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/05/27/skorea-insurance-robots-ai-liability/7721622131092/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/7721622131092/2021/1/480b8a849ed52a9029a02b5f29d835b9/v1.5/South-Korean-firm-to-develop-liability-insurance-for-AI-robots.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/05/27/skorea-insurance-robots-ai-liability/7721622131092/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/05/27/skorea-insurance-robots-ai-liability/7721622131092/",
+      "publishedDateTime": "2021-05-27T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-dream-bot-l10-pro-review-a-robot-vacuum-newcomer-that-cleans-well.md",
       "title": "Dream Bot L10 Pro Review: A robot vacuum newcomer that cleans well",
       "excerpt": "The Dreame Bot L10 Pro is one of the first bots from Dreame Technology, which is looking to make a name of itself in the always competitive robot vacuum space.",
@@ -1254,92 +1340,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
-      "title": "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch",
-      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
-      "originalUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
-      "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
-      "excerpt": "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/brain-stimulation-evok-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp",
-      "publishedDateTime": "2021-05-20T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

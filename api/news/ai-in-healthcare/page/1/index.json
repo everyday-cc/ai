@@ -149,59 +149,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-02-at-cagr-of-295-global-computer-vision-in-healthcare-market-share-projected-usd-23842-million-revenues-by-2026-facts-factors.md",
-      "title": "At CAGR of 29.5%, Global Computer Vision in Healthcare Market Share Projected USD 2,384.2 Million Revenues by 2026: Facts & Factors",
-      "excerpt": "\"According to the recent research report, the demand of global Computer Vision in Healthcare Market size & share expected to reach to USD 2,384.2 Million by 2026 from USD 262.2 Million in 2019, at a compound annual growth rate (CAGR) of 29.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-cagr-of-295-global-computer-vision-in-healthcare-market-share-projected-usd-23842-million-revenues-by-2026-facts-factors-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-295-global-computer-vision-in-healthcare-market-share-projected-usd-23842-million-revenues-by-2026-facts-factors-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-06-02-artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report.md",
       "title": "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report",
       "excerpt": "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.",
@@ -210,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -315,7 +262,7 @@
       "originalUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -705,11 +652,11 @@
     },
     {
       "path": "_news/2021-05-27-global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets.",
+      "title": "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com",
+      "excerpt": "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210527005561/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210527005561/en/",
+      "webUrl": "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -719,11 +666,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T09:59:00-07:00",
+      "publishedDateTime": "2021-05-27T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1354,6 +1301,60 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-artificial-intelligence-where-it-is-working-and-where-it-is-not.md",
+      "title": "Artificial Intelligence: Where It Is Working And Where It Is Not",
+      "excerpt": "The use of artificial intelligence (AI) has been spreading in every industry. It was once a sci-fi myth found on shelf corners. Now, AI is becoming a core part of almost every technology. It plays a role in everything from helping people with disabilities to video games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a803f744a4520c480a70d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/amp/",
+      "publishedDateTime": "2021-05-24T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     }
   ],

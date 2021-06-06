@@ -25,35 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Text-altering AI is changing our culture — try this tool to find out how"
-    excerpt: "Recent research shows that AI is influncing how we use language through these text-altering machines. These tools are a great example of how this is done."
-    publishedDateTime: 2021-06-01T12:22:00Z
-    webUrl: "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication"
+  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
+    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
+    publishedDateTime: 2021-06-02T07:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 68
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-robot-writing-hed-shutterstock_591536696.jpg&signature=eb3fc916c8e4408192846cbf04fdca3f"
-        width: 1280
-        height: 640
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Machine learning is changing culture: This text-altering tool shows how"
-    excerpt: "Most of us benefit every day from the fact computers can now \"understand\" us when we speak or write. Yet few of us have paused to consider the potentially damaging ways this same technology may be shaping our culture."
-    publishedDateTime: 2021-06-01T15:44:00Z
-    webUrl: "https://techxplore.com/news/2021-06-machine-culture-text-altering-tool.html?via=indexdotco"
-    ampWebUrl: "https://techxplore.com/news/2021-06-machine-culture-text-altering-tool.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-culture-text-altering-tool.amp"
+  - title: "Insights from Happenings in the Fintech Landscape - 280521"
+    excerpt: "CBDCs, digital and cryptocurrency are seemingly gaining more momentum with incumbents and government institutions as the Central Bank of Bahrain, Bank ABC and J.P. Morgan recently announced a digital"
+    publishedDateTime: 2021-06-02T12:12:00Z
+    webUrl: "https://www.proshareng.com/news/Fintech/Insights-from-Happenings-in-the-Fintech-Landscape---280521/57485"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 61
+      name: Nigeria
+      domain: proshareng.com
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-is-ch.jpg"
-        width: 1356
-        height: 668
+      - url: "https://www.proshareng.com/admin/upload/news/57485-proshare.jpg"
+        width: 947
+        height: 654
+        isCached: true
+  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
+    excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-06-03T12:04:00Z
+    webUrl: "https://menafn.com/1102203168/Computer-Vision-Market-Size-Revenue-Growth-Opportunities-Competitive-Analysis-Trends-and-Demand-by-2026&source=139"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/03/pr_9559_a64faf5a_image_story.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "MZ/QVJwaC8C30Wp+Bkx/P0OctolOPp4VigN6vCZWLqqxdK9cfTHASAPugIhtONziBQYBwgGFuO5P2lifpTuQT5AOTUctAS8ZNzmTIGoI0TVAKV3phq9ldZfdyySzGUr6JejX/ogSa+ipJuNplmtmjNzujLOgdyHwT++0AU4kyqy2rPRIlBoJI4+Lh5TBmjK/wENFHgyruOaxxXAi6fXlviOtjkeHtgJPSw/WbaGWeld+7qyBye5dkImUrgKGXJhQENM9g6vSN6dy2Fb0rJzQyKXIQkQFyOXGKFGAO2I4uIfgTq+LoCvhI1RqWvKE5TXMDZGY+qxA1aohLpMpE561RcU3hnTlGGyLtTWD8xUSYf0=;najgvxt23vPmuztPfkXy+w=="

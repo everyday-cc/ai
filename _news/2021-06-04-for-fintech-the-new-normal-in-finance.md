@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 856
         isCached: true
-  - title: "Fintech changed the financial world quickly. Here's what's next."
-    excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
-    publishedDateTime: 2021-06-01T19:16:00Z
-    webUrl: "https://www.bizjournals.com/twincities/inno/stories/inno-events/2021/06/01/state-of-innovation-fintech-minne-inno.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "twrLsFE98a2fVMZCc5qDm4YN0jZQrgajw8/AEapXZ8uXsVMGDN21kzpp87DsFJbT6+6vRn4RUAm80EbSUpq8iPtXA9TL9rWWSJcUM82RoojzQ/m0yXew9jZvm/9YcA3EKbrTJKyANU6OzENqEe2+usZhBfj/IM3Cd3rsF4VpK9+h0C9itWGWC0MGjixrkVELaGe/EQq0gFtgQxamjGriS15TjGNycvOcKnd5ljMlqNqMRiEy+NTq8kMK9YI2zoWGZ1GWenn1tXN6J+AnOXfjdwyMIgtEcsdcldjB/We81Ui9VcGUslUZu1KBt9SilqpYCfvwRXBRYCTL9UtZls8MYlyRPscle7AmD/jcfT/tyRA=;sKUX4FYo83RlP7SqUirT7Q=="
 ---

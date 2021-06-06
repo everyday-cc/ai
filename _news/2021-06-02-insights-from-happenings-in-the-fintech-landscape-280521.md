@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How AI Is Transforming Fintech and Where to Find Great AI Roles"
+    excerpt: "Below is more about how chatbots have specifically transformed the fintech industry, and how and where to find great AI roles. Chatbots in the fintech industry came as long-awaited solutions to long queues at bank branches."
+    publishedDateTime: 2021-06-03T16:56:00Z
+    webUrl: "https://www.vault.com/blogs/innovate-with-influence-global-high-tech/how-ai-is-transforming-fintech-and-where-to-find-great-ai-roles"
+    type: article
+    provider:
+      name: Vault
+      domain: vault.com
+    quality: 39
+    images:
+      - url: "https://media2.vault.com/14340846/thisisengineering-raeng-64yrpkiguae-unsplash-1.jpg"
+        width: 850
+        height: 550
+        isCached: true
   - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
     excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
     publishedDateTime: 2021-06-03T12:04:00Z

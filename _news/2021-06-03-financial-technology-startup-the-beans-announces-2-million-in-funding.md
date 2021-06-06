@@ -22,47 +22,44 @@ topics:
   - AI
 
 related:
-  - title: "Startup News: Locus raises $50 million in Series C funding"
-    excerpt: "AI-powered logistics platform vendor to use funds to focus on innovation, geographical expansion, and scaling the team"
-    publishedDateTime: 2021-06-02T13:12:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/startup_news_locus_raises_50_million_in_series_c_funding"
+  - title: "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network"
+    excerpt: "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect"
+    publishedDateTime: 2021-06-04T06:15:00Z
+    webUrl: "https://www.entrepreneur.com/article/373682"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/373682"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682"
     type: article
     provider:
-      name: Logistics Management
-      domain: logisticsmgmt.com
-    quality: 37
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
     images:
-      - url: "https://sc247.s3.amazonaws.com/images/made/images/2021_article/LM2105_F_LMEx_DigitalSC_Technology800p_350_200_bor1_b9b3be_s_c1.jpg"
-        width: 352
-        height: 202
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Startup News: Locus raises $50 million in Series C funding"
-    excerpt: "AI-powered logistics platform vendor to use funds to focus on innovation, geographical expansion, and scaling the team{/exp:eehive_hacksaw"
-    publishedDateTime: 2021-06-02T21:46:00Z
-    webUrl: "https://www.scmr.com/article/startup_news_locus_raises_50_million_in_series_c_funding"
+  - title: "Fintech changed the financial world quickly. Here's what's next."
+    excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
+    publishedDateTime: 2021-06-01T19:16:00Z
+    webUrl: "https://www.bizjournals.com/twincities/inno/stories/inno-events/2021/06/01/state-of-innovation-fintech-minne-inno.html"
     type: article
     provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 37
-    images:
-      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
-        width: 444
-        height: 333
-        isCached: true
-  - title: "Robotic Process Automation Platform ElectroNeek Raises $20 Million in Series A Funding Round to Democratize Access to RPA Technology"
-    excerpt: "ElectroNeek, a leading robotic process automation (RPA) platform for managed service providers (MSPs) and IT teams, has announced that it raised $20 million in a Series A funding round led by Baring Vostok with participation of AICPA and existing investors - YellowRockets."
-    publishedDateTime: 2021-06-01T13:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-robotic-process-automation-platform-electroneek-raises-20-million-/2021/06/01/9381299.htm"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "Banking-as-a-Service, Authentication, and Lending Technologies Highlight Ten Growth-Stage Companies Chosen for 2021 FIS Fintech Accelerator Program"
+    excerpt: "FIS and The Venture Center announce the ten growth-stage fintech companies selected to take part in the 2021 FIS Fintech Accelerator program.Highlighted by solutions focused on authentication, lending and banking-as-a-service,"
+    publishedDateTime: 2021-06-02T12:03:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=478666"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 1
     images:
-      - url: "https://mma.prnewswire.com/media/1179162/ElectroNeek_Logo.jpg "
-        width: 400
-        height: 400
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "ssFiRSe9ZJIGv6yAnnxU3bd4KQDpKjPXs074wofZvUx1aH0eafw/MZbWDNxuhcxODVak4eZVYV2XrKuerOiOiSrbjDOOWmaHPxvSjRHDbhRsACxCAjwU6HgXOdYCXKBGYkTYb3UACz1Pda7cHYtk0PZCD/RNU8NNt08OAAVEE4UHX0cQNx1BIm6n0juUpYnVcce3WZwU+EOzQ9fZ/UI4ruoIh1J1w/R3S/pOIb41LmJHaUBSndmf2wQ4WtjmSCzYAvkNozSNXCzbVTeSIGyKvNYG9wkKwE5MnBZo7lzPTMEWEdaoTDNQ1sAcv7EXiwoG8POabPYPn+VcYQrzYytSLrDri8wPR9i4A58BOF7T3CI=;ESH97pewXclBkn13MNHBNQ=="

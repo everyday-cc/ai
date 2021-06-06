@@ -1251,16 +1251,16 @@
       "title": "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT",
       "excerpt": "VisionNav was founded in 2016 and it is committed to applying artificial intelligence (AI), environmental perception, deep learning and servo control technologies to driverless industrial vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat-1030464696",
+      "webUrl": "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat",
+      "originalUrl": "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1517703/image.jpg",
-          "width": 400,
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
           "height": 300,
           "title": null,
           "attribution": null,
@@ -1269,23 +1269,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T16:08:00-07:00",
+      "ampWebUrl": "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp",
+      "publishedDateTime": "2021-05-25T17:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

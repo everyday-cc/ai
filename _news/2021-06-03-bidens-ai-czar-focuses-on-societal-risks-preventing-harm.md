@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Biden’s AI czar focuses on societal risks, preventing harm"
-excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling"
-publishedDateTime: 2021-06-03T16:14:00Z
-originalUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-webUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-ampWebUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
-cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
+title: "Biden's AI czar focuses on societal risks, preventing harm"
+excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn"
+publishedDateTime: 2021-06-03T16:11:00Z
+originalUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
+webUrl: "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html"
+ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html"
 type: article
 quality: 59
 heat: 99
 published: true
 
 provider:
-  name: WSAV-TV
-  domain: wsav.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
-  - Facebook AI
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280"
-    width: 1280
-    height: 1130
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904"
+    width: 1024
+    height: 904
     isCached: true
 
 related:
@@ -85,6 +85,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "miZakvymnv5ueZqaWxuHTxSHhs1cUp/Cls+gNPy0ccl+w2Qi7warmeldP5PiZThgTpbETyULmznSyoBuQd9iSwbn/vrorfKe1Yp+GWiILYKGHHNU1RLoZzzi8CNGl3Ne7vODBGoNJR2FTNCpSM5TdQkbKipx+B34YpTLmRRWSahU20Sm3+NZEXh1tt/B5DpJMlaQWvaxncEfiGdRSjmLhR8FUaTm/Zw6cDLRUPtsH4RQWFIt9hANIzhxINz+fMhl7v7+3zzdy+ZVd/JhIzuCha49JcKkZjIZKIbVaBPw3C3vhJg8MClNkR3dT1MxSTxsBwrYZtv/sJrUuyHEDQjsYFvg8WLUiN6E0h+KMj56rfk=;P/g6a49QZL22mDBzI0W2xA=="
+secured: "S9hVaCI3vchuU/WD1KG/Xm0jzj7wpqVu3ZKizdTtnRVbJWv/UOeOLLtXMqS2QEwsbTVSrbbC/yK1BCM6Nyxsfrb6icD47q9hrddRaCA8a/zE8l+Fzpc85UdRMzssiF7R+tvJdQEQfWkx5xfOms0IXRp9NhPsN7PugTnjTXa7ZkVmyTnPV2e3MpCR7zoExzL5WBngDRghGwxg08bRY5zg7Fo0k6GBpDLJ41jG4FOB53HgFI0Ib2yDT6FYwOVZZLIvoTmSG1/j1MNs8wBWWqgvhebqQQ2bNb32+eq97U5fnO/iD7urpnLhqBqeA5wW6mznwazfieTQF1WBbuE4P4eevDJCCyAozZ1SMnTaO/JZhGA=;DP1F223jJg5dy6dBcqfk7w=="
 ---
 

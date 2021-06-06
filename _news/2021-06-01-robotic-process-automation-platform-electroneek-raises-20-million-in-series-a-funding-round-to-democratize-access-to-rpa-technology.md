@@ -53,15 +53,6 @@ related:
         width: 444
         height: 333
         isCached: true
-  - title: "Financial Technology Startup The Beans Announces $2 Million in Funding"
-    excerpt: "The Beans, a financial technology startup built for America's Caring Class, today announced $2 million in funding, led by Precursor Ventures with participation from Relay Ventures, One Planet VC, Swing Ventures,"
-    publishedDateTime: 2021-06-03T13:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/financial-technology-startup-the-beans-announces-2-million-in-funding-1030491735"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
 
 secured: "pQI4Kq2JRfLAvVc/nem3Vdt+5Hqf8calYOT1lcUSS86MOTthLV78bpU+32wbdOab6wDcjTLehKOBP1en7b+XdTPYpL6PzxGsPqIvSIoKTb5Do2KbxS7FNJNG78wqAEA4KLA+PhHvpatsWGS+ogjGFoSXIxKkNSwfrzyTHiSgTc+bK5P4ssfK+0WF9+MLrGdKxpB7QGkq8Cs7gtZauVB1Cqtj4SJk2FJ/+LLNctEMV4mdGXt+VuasG3j3uKperyTbbsvAVD33q7VKFQZDNtosiJUU1WbUhMvRuIjRi33mCncaWFwOogMKpZrVcjw3peAelRCrWCSh3iov9TleHhvrYlg7ismmsH16X/8X5RQqdMA=;g6KyuOMLmjjERHBBCjHxdQ=="
 ---

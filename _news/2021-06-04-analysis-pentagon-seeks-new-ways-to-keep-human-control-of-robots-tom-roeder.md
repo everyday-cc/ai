@@ -3,8 +3,8 @@ category: news
 title: "Analysis: Pentagon seeks new ways to keep human control of robots | Tom Roeder"
 excerpt: "I had just landed at Balad, Iraq, in 2008 when I watched an MQ-9 \"Reaper\" drone taxi by. The pilotless plane had missiles hanging from its wings and was headed"
 publishedDateTime: 2021-06-04T16:31:00Z
-originalUrl: "https://gazette.com/military/analysis-pentagon-seeks-new-ways-to-keep-human-control-of-robots-tom-roeder/article_3f937f30-c552-11eb-b15e-abf0713168fa.html"
-webUrl: "https://gazette.com/military/analysis-pentagon-seeks-new-ways-to-keep-human-control-of-robots-tom-roeder/article_3f937f30-c552-11eb-b15e-abf0713168fa.html"
+originalUrl: "https://gazette.com/premium/analysis-pentagon-seeks-new-ways-to-keep-human-control-of-robots-tom-roeder/article_3f937f30-c552-11eb-b15e-abf0713168fa.html"
+webUrl: "https://gazette.com/premium/analysis-pentagon-seeks-new-ways-to-keep-human-control-of-robots-tom-roeder/article_3f937f30-c552-11eb-b15e-abf0713168fa.html"
 type: article
 quality: 35
 heat: 35
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "qWwH1Ha8ZtWDBVNFnIclulI+wAEE95m7P3tvDx2KkkEmsqN9BZZvI6x5xW6MlPmr/m32WSISnAmyR2bj0CYBcz8EtOVg54pXPyl5mE0TOIG25IQedt+ney8PhSbEG7hvhUZ/qn8Ah8+CnbNXll/Cbe3hZ4jJ6QVFFwL/0z4pv+mFzaUeqjtxek/ujZEnsfG9i5LY9/pZqXUsxhV4pGMT6PnmmNlHXIlFzfWb2b+WdcnfPyyo/HTSk/8+hJ6bmPBmJ1iB9bYP1WhXYkAHscmGUw9qQCW4HvCbct2KYMcCid/r2G8qInxjk2poZGbm888c+KK8fIBqqAV8EbGu8epGv4YErW4GseQ3no6L1dUpO44=;augshgMkJSV0ic+BawI9Gg=="
+secured: "lZpUQHNiswj+PceuEAV/BcJuM12tdr1hjxTABUv7Ve8pLYEbBjSjKukxVQ0AJsLsObZVdqCX4iUeFmVVeFS+FVjEuk0sR6WGyLmsn6aQTMw7PuLLNYmrjNHYhKI8ED5LTL0fp9D0FaA9iuLq7yas6PBAxv1FulFhhF5NAIKm6ReT3rVKOZrgD9sF47lr22Lb5Q9D+pYYwZxoCdrQETfczYnznASJs3x7Q9k5B+M6DO7B2rPZrwQ6Sas8xh5F0SGxSkIF5Tbbwmms7/7emHwc8BAJUDswpyhLhYIZb6vcvCDgnRTmU/EPdOVMLsIzyjXWHZNrLEv/5cgbaSW2doe99e8IreCVoyjQ5h2/jM8UDwg=;ll8Ef7K4FRCAIGr3DpWwZg=="
 ---
 

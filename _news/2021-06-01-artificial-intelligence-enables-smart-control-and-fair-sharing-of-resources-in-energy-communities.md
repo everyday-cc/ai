@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-enables-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-enables-smart-fair.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
-    excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, and Shell (NYSE:RDS) today announced a five-year renewal of their strategic agreement"
-    publishedDateTime: 2021-06-01T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/c3-ai-and-shell-extend-strategic-collaboration-to-reshape-global-energy-and-resource-industries-with-enterprise-ai-2021-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
     excerpt: "C3 AI and Shell Extend Strategic Collaboration to Reshape Global Energy and Resource Industries with Enterprise AI"
     publishedDateTime: 2021-06-02T04:22:00Z

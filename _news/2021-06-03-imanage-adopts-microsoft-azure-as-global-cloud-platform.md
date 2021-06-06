@@ -150,6 +150,15 @@ related:
         width: 800
         height: 338
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T17:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
     excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
     publishedDateTime: 2021-06-01T14:44:00Z

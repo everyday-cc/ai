@@ -338,6 +338,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 33
+  - title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
+    publishedDateTime: 2021-06-06T05:32:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/jun/06/researchers-test-facial-recognition-technology-on-asian-carp-in-battle-to-stop-invasive-species/873946/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 27
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/06/05/198553199_US-NEWS-SCI-FISH-RECOGNITION-2-TB469339106_t1070_h56768f7a4faa13a13e81741ca2b1659d6b3d18e5.jpg"
+        width: 1070
+        height: 692
+        isCached: true
   - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
     excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
     publishedDateTime: 2021-06-01T20:53:00Z

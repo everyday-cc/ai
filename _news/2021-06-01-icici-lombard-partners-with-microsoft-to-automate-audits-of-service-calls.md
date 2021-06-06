@@ -158,6 +158,15 @@ related:
         width: 800
         height: 338
         isCached: true
+  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+    publishedDateTime: 2021-06-02T17:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
     publishedDateTime: 2021-06-03T10:20:00Z

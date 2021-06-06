@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Washington county restricts facial recognition use by sheriff, country offices"
-excerpt: "King County, Washington, home to facial recognition-providing tech giants Amazon and Microsoft, has banned the use of facial recognition by local police."
-publishedDateTime: 2021-06-02T22:11:00Z
-originalUrl: "https://www.biometricupdate.com/202106/washington-county-restricts-facial-recognition-use-by-sheriff-country-offices"
-webUrl: "https://www.biometricupdate.com/202106/washington-county-restricts-facial-recognition-use-by-sheriff-country-offices"
+title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
+excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
+publishedDateTime: 2021-06-06T05:32:00Z
+originalUrl: "https://www.newstribune.com/news/national/story/2021/jun/06/researchers-test-facial-recognition-technology-on-asian-carp-in-battle-to-stop-invasive-species/873946/"
+webUrl: "https://www.newstribune.com/news/national/story/2021/jun/06/researchers-test-facial-recognition-technology-on-asian-carp-in-battle-to-stop-invasive-species/873946/"
 type: article
-quality: 35
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-    width: 730
-    height: 499
+  - url: "https://media-cdn.wehco.com/img/photos/2021/06/05/198553199_US-NEWS-SCI-FISH-RECOGNITION-2-TB469339106_t1070_h56768f7a4faa13a13e81741ca2b1659d6b3d18e5.jpg"
+    width: 1070
+    height: 692
     isCached: true
 
 related:
@@ -271,6 +271,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Washington county restricts facial recognition use by sheriff, country offices"
+    excerpt: "King County, Washington, home to facial recognition-providing tech giants Amazon and Microsoft, has banned the use of facial recognition by local police."
+    publishedDateTime: 2021-06-02T22:11:00Z
+    webUrl: "https://www.biometricupdate.com/202106/washington-county-restricts-facial-recognition-use-by-sheriff-country-offices"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
   - title: "King County Council Bans Use of Facial Recognition Technology by Sheriff's Office"
     excerpt: "The Metropolitan King County Council voted Tuesday to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments."
     publishedDateTime: 2021-06-02T15:17:00Z
@@ -338,20 +352,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-06T05:32:00Z
-    webUrl: "https://www.newstribune.com/news/national/story/2021/jun/06/researchers-test-facial-recognition-technology-on-asian-carp-in-battle-to-stop-invasive-species/873946/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 27
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/06/05/198553199_US-NEWS-SCI-FISH-RECOGNITION-2-TB469339106_t1070_h56768f7a4faa13a13e81741ca2b1659d6b3d18e5.jpg"
-        width: 1070
-        height: 692
-        isCached: true
   - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
     excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
     publishedDateTime: 2021-06-01T20:53:00Z
@@ -396,6 +396,6 @@ related:
       domain: detroitnews.com
     quality: 17
 
-secured: "BUemmF8xYnYWVQLYdyX6+GMrWPYptLDPi3PEaI1Z+Tt9R39/0V1j4duj6UuIxA6lWd6Nj6rNxfVVebxkydbXcrf7Cc5xicVtP5IY4DVAZU4Jg3T/XkC1yQ+4FlArlNHt4wSGgpm0GYhk1CmBolkqqJjOi1ehwzu5HHAA/iEkG97CxcjiCqO+YpwUFi5RqxD+ruBWo5PQbGuDwBzQ/OIVJYYgq7rn7aq1CQ4e4nxMgkxjOjubLGomO1f/MBzN0HWtekJgjW4q8bw0YPJts/9iJXQFmJIEZAPBsLl+ngLi/7zT57FtgoYBpwT2/ZlyEmnp+ip1owrVCFOiRHTufI6VEypiFbRWiNbb26SZ4TaZfxw=;17AgP+Nzih3niHoBEimLYA=="
+secured: "OT1TU2lAVDmWot74RE3BkgbB/1DCRVvw8gSJ9Otz1Vu4KAjh3k+jZWI1d3qdjP+5r9IPWRL2qU9s2/lXbqGgAsDxpJkh74JQekF3x3Ls0fTzuGvTJywGpftXSDEWrvq6a5JYb7EYtiM/lF9bb0ljQau3lHY9No488TA7s3raGxVxlFG454dcGej3NyKtcmwX7l5ef6Q2jrm8nLsMZz5dNap9cLnh51HB3yaKo2sYfI8h2ui0vPhthkMGpnf5b3D8Zu9bEO8w4DjY0Fg5GiPAmAMj+KTF9TQeX4dOsRF9JGvJ5WCRrMzMY3fRXtYKFkMgulSc9zk0Ffho0grJ039uEjrVa/j2fp8MI03Mpp8y9EI=;ZE3UQI0W90niN8n09bN7YQ=="
 ---
 

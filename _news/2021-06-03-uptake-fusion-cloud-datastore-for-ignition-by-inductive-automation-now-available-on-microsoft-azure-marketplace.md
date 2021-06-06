@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored"
-publishedDateTime: 2021-06-02T08:01:00Z
-originalUrl: "https://www.lelezard.com/en/news-19835112.html"
-webUrl: "https://www.lelezard.com/en/news-19835112.html"
+title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+publishedDateTime: 2021-06-02T17:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
+webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
 type: article
-quality: 51
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
@@ -156,15 +154,6 @@ related:
         width: 800
         height: 338
         isCached: true
-  - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-    publishedDateTime: 2021-06-02T17:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace-1030488163"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
   - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
     excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
     publishedDateTime: 2021-06-01T14:44:00Z
@@ -194,6 +183,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored"
+    publishedDateTime: 2021-06-02T08:01:00Z
+    webUrl: "https://www.lelezard.com/en/news-19835112.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 51
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
@@ -252,6 +255,6 @@ related:
       domain: wfmz.com
     quality: 17
 
-secured: "TbcBrXWdpLxst9ikFSaap6R3jLyPTM3s1VEoKJSpjG/bq8K8fqsFb8XoLLZLivy7SkPBr20WNxpT1B3TclucphaO4zHebCTNLnwlTpstfWr83hZjW6GzqycUMfNPkfthS3Xgxg6AhcMvFRVIazZo30gfpBRQSuq+56A2Z7D9avzLXu52coCh6fLPngAmc0pzC7wAEanGxpfvYkVwaoJl/YMDuPpeAmOv/1wOXkmoi5GCy07NxGmtkWQLpzBQJ4t6DDsCuPLCM7D3+pbFntbYIlNA1/64lsi0qDOgHiDdQuN54uFkUg3FFtKRgee0LLSgF2oraO5VME890zfGG5RVEtPx3+I+ziDWhvAb9Rg2/3I=;x7hRJGFW97lAMvxIvF8xQw=="
+secured: "luA42/A+YxiTmbT0xi/Cr/fSUZk6ikStouD/FTOzvXp1EQ3rXrnRbb1ca14qUaKT7oFC7GeJAD4DDxgQFqQAzVLIZr5Kq4qltuZ0mcP/H2WpcTLemcZBaXjKeFU/nj3GF9wF7mM+vwNG33DkTvYo4wdz2hTDnHc+APy32NGpA2Eh/87CxcWR8m6kFbSp2b1tS5UPLQOF5nAR33xGWe+O3+PUEEhduC1Hv1hE4B4fm3087b079dYjilzEpcq50IhKXg3AAI3cS1BXRgwoh0PuEqhkL+ukJgqy7US1CC/nUx2WFE2NlHS/+SoaXrn+VCibRDV3X2O1TZ3OUQ1HGWI+mP3BgCzexWujtwbh7GiEmLI=;aW56ebzuCbN7k3ieDQ59Fw=="
 ---
 

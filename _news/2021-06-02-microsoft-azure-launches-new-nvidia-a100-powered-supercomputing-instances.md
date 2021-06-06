@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-launches-new-n
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "World’s fastest AI supercomputer is powered by 6000 NVIDIA A100 GPUs"
-    excerpt: "NVIDIA has announced that the world’s fastest AI supercomputer has been turned on. The machine is called Perlmutter, and it was officially dedicated on May 27 at the National Energy Research"
-    publishedDateTime: 2021-06-01T12:12:00Z
-    webUrl: "https://www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/"
-    ampWebUrl: "https://www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/worlds-fastest-ai-supercomputer-is-powered-by-6000-nvidia-a100-gpus-01675337/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/perlmutter.jpg"
-        width: 1280
-        height: 685
-        isCached: true
   - title: "Cirrascale Cloud Services Broadens Deep Learning Cloud Offerings with World's Most Powerful GPU for AI Supercomputing"
     excerpt: "Cirrascale Cloud Services®, a premier cloud services provider of deep learning infrastructure solutions for autonomous vehicles, natural language processing, and computer vision workflows,"
     publishedDateTime: 2021-06-03T13:00:00Z

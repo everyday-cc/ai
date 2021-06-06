@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/national/karnataka/nit-k-to-introduce-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hindu
@@ -42,6 +42,20 @@ related:
       - url: "https://bloncampus.thehindubusinessline.com/engineering/article34728306.ece/ALTERNATES/LANDSCAPE_615/blocNITK"
         width: 615
         height: 384
+        isCached: true
+  - title: "How The Indian FinTech Is Using AI"
+    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
+    publishedDateTime: 2021-06-06T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
+        width: 1600
+        height: 800
         isCached: true
 
 secured: "anSGvkAhd6CerhvvhcH7VwNSQe+PVCGeRfMjiHc5Z3aZl5QsIxMk8DkYtSIUin5/wEPk5ZG9Z0VxeWzAIfdT8OFw8GWixtNcW3GyLQ7N5bu7uCj45thEO/lPLEdm83+DtPAb0+uVIZ0lUTGRs7iuLeqbLgsrnHFZl/lZdhvVdseqRF57otdAEVZEjSP2Nr1mvKD/LuQcMea7n2xZ23/RtemcUbBS6f+mHqvMFdO8fk70zIs7x7d0dKu/oBXjGSRvCiMwMuyiP4QF2uKIJdFq6m0G0MVrSbWcfcQ0C2dNApM2aaIBWglmtbIFPYvQuFHZaFOZZPM0J3n28iPhrttSAfxbQPBotdFyY11xtrk/wlQ=;eAlCQYA9p9lV7oF4/tvmqg=="

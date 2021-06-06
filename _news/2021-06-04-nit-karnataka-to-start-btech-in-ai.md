@@ -43,6 +43,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "How The Indian FinTech Is Using AI"
+    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
+    publishedDateTime: 2021-06-06T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
+        width: 1600
+        height: 800
+        isCached: true
 
 secured: "513YGugqchRiSVbpvlsHet00evVshU7bK02uxos0f6L/io8dCy6gmHLCbwXylsEK91jGf24QyNlMktxCUUDvrZck5ffWJMW4F7/9p47qWQ8bkjCI5Ok9BsI0T3qHiVtTJEhlOsMvhad6ULl1RiLcQyZzF1ccz4+mFTTzF9Qqlua7AS6drDdh6Sp2307tJ99wQYO0z58g+n7wmla8b/mIE5XAnG3jGwzV+juXGOOPjWjNoxtHTNpAi2KPOrynXbsG1pVY7z3j18xCfx2kllqXX3rWiVoxqK1yMFQnhAZ93TGnt0L3dj05YjWvyXd+Q7m6Hz7efll6OJ1d40ERlltB3t5JSFfPIfspFS4SrS0k6VU=;eRNqEOm/WwffKqxYs4QFow=="
 ---

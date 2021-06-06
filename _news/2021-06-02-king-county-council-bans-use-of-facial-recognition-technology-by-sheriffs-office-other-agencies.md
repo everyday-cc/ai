@@ -348,6 +348,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
+    publishedDateTime: 2021-06-06T05:32:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/jun/06/researchers-test-facial-recognition-technology-on-asian-carp-in-battle-to-stop-invasive-species/873946/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 27
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/06/05/198553199_US-NEWS-SCI-FISH-RECOGNITION-2-TB469339106_t1070_h56768f7a4faa13a13e81741ca2b1659d6b3d18e5.jpg"
+        width: 1070
+        height: 692
+        isCached: true
   - title: "Facial Recognition Technology Ban Passed by King County Council"
     excerpt: "Facial recognition is consistently used to target Muslims around the world, as well as to quell our First Amendment rights to freedom of speech, religion, and association. We applaud King County for being the first multi-city county in the nation to pass ..."
     publishedDateTime: 2021-06-02T14:16:00Z

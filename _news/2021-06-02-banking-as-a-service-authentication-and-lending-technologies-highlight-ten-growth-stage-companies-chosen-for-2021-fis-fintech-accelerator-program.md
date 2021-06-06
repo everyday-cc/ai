@@ -25,34 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Regulation Is Hot Topic at Pujiang Innovation Forum in Shanghai"
-    excerpt: "The rapid development of the fintech sector calls for a new set of regulatory policies that focuses on issues such as fair competition and consumer protection, according to a panel of experts and professionals invited to the fintech seminar hosted by Yicai Media Group at the 2021 Pujiang Innovation Forum yesterday."
-    publishedDateTime: 2021-06-03T07:19:00Z
-    webUrl: "https://www.yicaiglobal.com/news/fintech-regulation-is-hot-topic-at-pujiang-innovation-forum-in-shanghai"
+  - title: "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network"
+    excerpt: "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect"
+    publishedDateTime: 2021-06-04T06:15:00Z
+    webUrl: "https://www.entrepreneur.com/article/373682"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/373682"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/fintech-regulation-is-hot-topic-at-pujiang-innovation-forum-in-shanghai/13845569030062080.jpg"
-        width: 720
-        height: 480
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Top Trends and Practices Fostering Fintech Transformation"
-    excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
-    publishedDateTime: 2021-06-01T11:12:00Z
-    webUrl: "https://www.cioapplications.com/news/top-trends-and-practices-fostering-fintech-transformation-nid-7854.html"
+  - title: "Financial Technology Startup The Beans Announces $2 Million in Funding"
+    excerpt: "The Beans, a financial technology startup built for America's Caring Class, today announced $2 million in funding, led by Precursor Ventures with participation from Relay Ventures, One Planet VC, Swing Ventures,"
+    publishedDateTime: 2021-06-03T13:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/financial-technology-startup-the-beans-announces-2-million-in-funding-1030491735"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/5lqhz450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+  - title: "Fintech changed the financial world quickly. Here's what's next."
+    excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
+    publishedDateTime: 2021-06-01T19:16:00Z
+    webUrl: "https://www.bizjournals.com/twincities/inno/stories/inno-events/2021/06/01/state-of-innovation-fintech-minne-inno.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "M6gwL5apBuIHoSrwA6PxVWGib1X/YFaGZdYfnQQANAvStsYEg/TI6oCcqthaEzSUMn7mPoOnU8LlHPFTTHXYxhDvGVOAk/uWSsGlyN5sVkT0rTP84UtdQjiU42FCxuSeMIdK3hrptG9ep0GFhYXKA2nQtkHvdm4mq6gi0+lac8GOOQzgZf02YDZ/QStQSFEUgjueteSukO68vB9+vM77ttYZsdTkTUgC37cOnTjMU4JaCcK8Ok/QMXH1ucYEBwwjnLjA4WMcFl1aBS+VhKRL6yrfrowRuRI3+lMLPXnuwVrh6ERBJJXE9SXh/5ZuC/fVZeXppDh6/yfxvwP4x3sDOmtQbQs+OpDBC97i+ZNPFOs=;uRjPbmeJtrjT6D9vK1IPlQ=="
 ---

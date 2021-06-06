@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy"
-excerpt: "For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent company. Now we report exclusively that Google ended those talks ..."
+excerpt: "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent ..."
 publishedDateTime: 2021-05-24T07:15:00Z
-originalUrl: "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page"
-webUrl: "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page"
+originalUrl: "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81"
+webUrl: "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "vsmUrzZRCr2mguqQDRiVOBMd+4x9Zuk0OUKRHuhzUeqFLVlBvHvayOwVxrk/lDKlm0OCdKXNMnwGsCvaHinv9C2S7bs6wYPdA0osIhlgBpfMAZn2+4hOOIvQSyYcpyyAZLElTDv0ft2z6s9btQgl+4vyivw+1xJJRaH6XzM4ZxhZOF9WVPlQZxeqC5xOw7XpWU77+DBcIfyQeijx5U8yvvXCV+1czo0K0hBN5fXOR5N7Onm3LV6lBLoeV0CWtTp2w7aDayZRNBlWz3NWcmGf/7OGNG8cFsFxtRjUJqX4YGbMXNRWS/6CftZ3MxHyb8z/eKSWMKRGxxwn+AbaDX5TwNSgdRqd/xjYw+hyJJTsz0Y=;99UhZemnnaZLNACJEkkHCw=="
+secured: "hCi1wOt+5l/Ig3S7RaPYzLDGmkmpvyv+YSEIhHj/izaxRirl2V+8tLroCWnZqmIs0RuiLeoZTi8oQvPOBuaqLPV/tLrsiIZoffWGyHclV52zC6m1QlalFTUI4d6F6p31kADxijQntcZfaRwKQ1N2wEdlskrVphnEnLiojnzTnAx3NxiwroZhNJwxrQ5rreLs5+kPbS6TqCtjqKyCsgg7uA1xLER/H/j7Mf7rLlpU/I/PtDXPbd8NWOmKGtYWdaXkoCYw569Hc+3ZTOzOLRIY3zaGvBOnSrSObYjxl3Hr1iGPPyubKz8I5jbYFaNDP2YiGpfxL7sxllhlHMR2hpEyXCdCI5TeSIyElkQpjwqzuLc=;KtI5jGH5pDPOoEKGUdoZTA=="
 ---
 

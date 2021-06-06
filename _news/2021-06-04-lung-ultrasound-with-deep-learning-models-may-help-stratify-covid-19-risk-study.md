@@ -53,20 +53,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Platform Market is Thriving with Emerging Trends 2021 after Covid-19 Pandemic"
-    excerpt: "The Global Artificial Intelligence Platform Market 2021 Studies document from Big Market Research presents an in-depth assessment of geographic scope, market size, huge company information, great analysis and market revenue estimates up to 2026."
-    publishedDateTime: 2021-06-01T11:21:00Z
-    webUrl: "https://ksusentinel.com/2021/06/01/artificial-intelligence-platform-market-is-thriving-with-emerging-trends-2021-after-covid-19-pandemic/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 22
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/33-4.png"
-        width: 628
-        height: 385
-        isCached: true
 
 secured: "MBIM43CmBu2UfdAe5nus4W0pF4bpXdlTnLpjB/rByaWHuhlTPplYV/Drw2o2e97u0oXbOQ44ciX/LyK1OwG2ofB6eOqStiNPv8MbNJxa5303BswD27MTEH6koSUG20kQzpbRktrJugL221RN+4YncwdBqjrtCiCpQ9DQv4eKNRWIPIIAbzP63PYOCYWsdI7SBsG0dMEtmVBeLDEVRPloNcR8bkfYzUQdyEYLlLrisTghc+hn6+hr5Ab9rN3IYvbmYSd7IhhtVtvG7EjL17ODFQPWDTOy65bW8XVlNnSvDqhdiKxPr9TpGmeH9aqjADf1S3YRQ2iF4JYmYBoWqN9Exw5T0wCoyUbxuZJepdgVVdcg2IW+p0+GLuUeDasTKHH3PdNL9keYkHjTSry98y+f1TGlj78ZxeMLXuI5mIaJTaJ299zABF+4P2v8wE91Oh6s1QIuLPqWhAYgTj0JllwHSHNyHEaOzkCV4D5DFyjQQMSq0JUNAnUS1cIlPwfxQWyRofKk+zN+geitnCSxnO2a4w==;Ea7aEoNOVRbyjPzFvSNALQ=="
 ---

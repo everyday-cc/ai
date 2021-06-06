@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
+      "title": "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch",
+      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
+      "originalUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
+      "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
+      "excerpt": "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/brain-stimulation-evok-1.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp",
+      "publishedDateTime": "2021-05-20T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-robotics-technology-market-tipped-to-skyrocket-to-189-billion-by-2027.md",
       "title": "Robotics Technology Market Tipped To Skyrocket To $189 billion By 2027",
       "excerpt": "In wake of COVID-19, demand of robotics technology is expected to increase among several industries such as supply chain",
@@ -1320,74 +1406,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-aico-flashbrands-ai-based-coach-supports-employees-mental-health-and-career-path.md",
-      "title": "AICO, Flashbrand’s AI-based Coach, Supports Employees’ Mental Health and Career Path",
-      "excerpt": "Flashbrand, a leading-edge, real-time employee talent management solution, unveils “AICO,” a unique AI-based professional coach for all employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210511005521/en/AICO-Flashbrand’s-AI-based-Coach-Supports-Employees’-Mental-Health-and-Career-Path",
-      "originalUrl": "https://www.businesswire.com/news/home/20210511005521/en/AICO-Flashbrand’s-AI-based-Coach-Supports-Employees’-Mental-Health-and-Career-Path",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-aico-flashbrands-ai-based-coach-supports-employees-mental-health-and-career-path.md",
-      "title": "AICO, Flashbrand's AI-based Coach, Supports Employees' Mental Health and Career Path",
-      "excerpt": "Flashbrand, a leading-edge, real-time employee talent management solution, unveils \"AICO,\" a first-of-a-kind, AI-based professional coach for all employees. AICO represents a",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/b21064273/aico-flashbrands-ai-based-coach-supports-employees-mental-health-and-career-path",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/b21064273/aico-flashbrands-ai-based-coach-supports-employees-mental-health-and-career-path",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21064273",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21064273",
-      "publishedDateTime": "2021-05-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

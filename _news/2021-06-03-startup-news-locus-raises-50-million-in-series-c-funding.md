@@ -38,15 +38,6 @@ related:
         width: 352
         height: 202
         isCached: true
-  - title: "Financial Technology Startup The Beans Announces $2 Million in Funding"
-    excerpt: "The Beans, a financial technology startup built for America's Caring Class, today announced $2 million in funding, led by Precursor Ventures with participation from Relay Ventures, One Planet VC, Swing Ventures,"
-    publishedDateTime: 2021-06-03T13:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/financial-technology-startup-the-beans-announces-2-million-in-funding-1030491735"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
   - title: "Robotic Process Automation Platform ElectroNeek Raises $20 Million in Series A Funding Round to Democratize Access to RPA Technology"
     excerpt: "ElectroNeek, a leading robotic process automation (RPA) platform for managed service providers (MSPs) and IT teams, has announced that it raised $20 million in a Series A funding round led by Baring Vostok with participation of AICPA and existing investors - YellowRockets."
     publishedDateTime: 2021-06-01T13:13:00Z
