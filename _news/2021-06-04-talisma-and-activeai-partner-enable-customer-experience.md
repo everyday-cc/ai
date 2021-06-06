@@ -43,12 +43,12 @@ related:
         isCached: true
   - title: "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne"
     excerpt: "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor management technology by WinTech, LLC, has expanded their relationship to enable an instant offering in multiple languages,"
-    publishedDateTime: 2021-06-03T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/"
+    publishedDateTime: 2021-06-03T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383226.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "yAzufXFif7n0s9VrlUOioocuLQgvpyL/xkojHD+FtyRO+a/GLIwFQmHJ/aJ/bhBwFgyEuhwpKzADjEZkSdbLpZ1vTjXXw6Ya2mvtVHKHZ4d49eXsIsQ2ARM0fXkIqOUoNxN7Qp53VMN1X5V90xzbCoReeJ8yI4XoxhjEl5LuNUApShViC4hMv4Hwvt4J9l5pDPj7S47lPGBuM1qNLTqXsS/rGatFcePRk7HKwkz7F42s9J9HAhX4HXSgq6VyhWLwj6lQsKVXLmNYU+uvfzFq95CLEQq9CJcWVmp9uQ0afh9lNF0jG4/BXwUDY06W3VrGPeR2F4PPl8dmgBXJfGW+HF553cDAXdVkrFAnxJzrEpMBF39yQDF1NMwNaXg6oMG7PgL5yD3nsj5CvgnxAvMJIQh3lNvSBfHOPUop8iuSOKyfmci/tvr/Vm1vqEg28iBkSbZwL4/iZ+mQmP5sb8R7/C+Gmj/L9IJRXac0pGsUYzOXhvOYqwoXW4gAOy++c+8dG/XSODNMUTSTQmqwyUnBZA==;kIkFCZwFdDsG8KBnmLKRKw=="

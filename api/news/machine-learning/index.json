@@ -160,7 +160,7 @@
       "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -486,10 +486,10 @@
     {
       "path": "_news/2021-06-01-neural-network-performs-complex-hand-movements-in-new-simulation.md",
       "title": "Neural Network Performs Complex Hand Movements in New Simulation",
-      "excerpt": "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations",
+      "excerpt": "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -508,7 +508,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:54:00-07:00",
+      "publishedDateTime": "2021-06-01T07:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "technologynetworks.com",

@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
-    publishedDateTime: 2021-06-02T02:40:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/250000"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 69
-    images:
-      - url: "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg"
-        width: 800
-        height: 338
-        isCached: true
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
     publishedDateTime: 2021-06-02T17:23:00Z

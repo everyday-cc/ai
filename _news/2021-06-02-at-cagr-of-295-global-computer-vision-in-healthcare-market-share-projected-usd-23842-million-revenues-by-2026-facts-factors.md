@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-cagr-of-295-global-co
 webUrl: "https://www.marketwatch.com/press-release/at-cagr-of-295-global-computer-vision-in-healthcare-market-share-projected-usd-23842-million-revenues-by-2026-facts-factors-2021-06-02"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "At CAGR of 29.5%, Global Computer Vision in Healthcare"
-    excerpt: "Body> New York, NY, June 02, 2021 (GLOBE NEWSWIRE) -- Facts and Factors have published a new research report titled  ''Computer Vision in Healthcare Market by Product Type (Software (On-premise, Cloud),"
-    publishedDateTime: 2021-06-02T02:51:00Z
-    webUrl: "https://menafn.com/1102194903/At-CAGR-of-295-Global-Computer-Vision-in-Healthcare"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "P66uvxt25MBuol1i2pgFJRkmt1AxVQyhGr1lBuEHCJVhRoNbGEoHNt/AOMObJaqt6VrV4Xt5R4X7XzFWI4fkvlr4ZkiJYmf9We1JhjVHF8PZsnR6iDY4K8s+mps2Lwr4GtzJtFj62s2HtGSF40EO4rzRhC8wOYIQiAZgU1Jzfn8ZPa/l1fPrJdrQwkRHJ7Z2FuWILlczU1Wc0OZeKg6Aqr+4W6ViXpaXRrs0pD2yxBFlSO02FBHNIPggDbio9CYVMLxvWH4/2BmV/j4BjQNJOTDkyZ0ekdV0GHjErbvXbmDf8Bg4BD4ZCjnC+7eh4B+0J/qnb5rNybaAnUYC970L8xS+iWF0GzcPzyrsl61gbDg=;ICzgHOss1arLYoPqhc8KlQ=="
 ---

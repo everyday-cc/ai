@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating System™"
-excerpt: "Aera Technology today announced a collaboration with Microsoft to integrate Microsoft Azure Digital Twins with Aera's Cognitive"
-publishedDateTime: 2021-05-25T14:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system-301298727.html"
-webUrl: "https://www.prnewswire.com/news-releases/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system-301298727.html"
+excerpt: "May 25, 2021 /PRNewswire/ -- Aera Technology today announced a collaboration with Microsoft ... data services to increase the precision and granularity of recommendations made by the Cognitive ..."
+publishedDateTime: 2021-05-25T14:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317"
+webUrl: "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1517353/AeraTechnology.jpg?p=facebook"
-    width: 669
-    height: 351
-    isCached: true
-
-secured: "noe0FVkqOqE/Tk0WBHj3+PyMP5ajDODsAdoW41c1yaR/Ria1GsIujd0UMTGpu6g17MJfGYTN75dEanEgbFKmJABVwhuoTxMtUDySL8PoN/6m032Yiw3Xavl4UytWfQ84qZbTZUT3WGBIkowEfSpyBscghTvX1Si9ZXg5mx1qhKBah1u3bGKFmLCJ4D2hMu7XQ0vIOF7HW+3SibHVicMd8mOC79ATwmTHD0lYzEzU4VuFinkOB/FFDX24Vs301W8jw1Xj0TU5gGurCzQ0kNGeyxujufzSbnkMNJJV1RVQaHfv//yeqHzaqo7Jo5i+wF3Le/m6H0rxk5dp+z/TWkiAgyPZxziSQ51Zx/mo3G+yaKgHKw2p3O0Wrjp3OSWISgOuQrxZiro50uxVIswAnnt2sTUwjKZahzADpGufTBi1PndVlKLn9J4qfFUEHsVQrbqIYRT5KZqRcPfRdyh6WEOQFGTbpJdUnTRMoxfSIXNIx+z3RJIEMILvloHEaE+1emCgS8E78aMnOv0GcyKkGfsl5w==;+CESKGUo1ieqan/7Br98iQ=="
+secured: "Wr9rYVKr+dYjIHZFuHhtQ6ilxHzTKgIDLr53PMTFhzwqOOLIz8c9kwiYCJser1OXTvSncfKUy19A6oxazcWU5u8hbbkhlJSFkHwDvlCH1Nu+zm5sF2srAxzZImXsdb3cmbCBlbaWmCLprF3giXvv7R+59pSvJbrrZWoLda35bh9w4I4z6Mg7479/unAv4U6yYRnDzTHs2hcm8nkhGKuxxe2DCy6odEoQlgCXKHnLG01Ps8LeYu7tsBcnewqkIrpAbYU61q6k/xC5JUh6rcn2+0uCNTQaUPuaLk+bACNg2vWTI8j6Rp3WnXSjTNKu1Pe3kShI9xgZv8PjPM843juH13luw4Tsk0vgK704e/Vl5jE=;7gd1/B+/OXi9mjwjd2puWg=="
 ---
 

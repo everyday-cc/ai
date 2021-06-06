@@ -2,17 +2,17 @@
 category: news
 title: "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne"
 excerpt: "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor management technology by WinTech, LLC, has expanded their relationship to enable an instant offering in multiple languages,"
-publishedDateTime: 2021-06-03T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/"
-webUrl: "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/"
+publishedDateTime: 2021-06-03T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383226.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383226.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -50,6 +50,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Ak4GgaveS+E0jbiXBojyVaMdAoByarPgsBhIpuHbpdKA/k5h85Ae5XhDd0h3vVeN+woMy0u2wUy8rkogvuozZv1clH4kSoqAFnWTRPlFzGIJ0qEJQBk/TEiczLx68psXiLnhFFIdXLHaNBekcOp4Sf1SiD9HZhrAESSXXduLP2aOHOjc8NGiIYYAa89PXQuk2WQkZAoq89KlJl/6HqRuShBSocCccBDNNxwDUX13iVnOAo4zjFcuLJ6ztJe29LhfUlWhnWnlvfPSDfZ3Ls4W4s6EaeJSg3onAReTQ/3ShZpWmnog/ewkN/nqdbd2vyEupgWxOtb0VL41BM9DzC2TZe9DKeCFdgUEw0PlmFPUVbE=;uGRBcgfh8pCGqqzkTeTbKg=="
+secured: "jzkSD64sexLUQgHCIT1LheLU1eJvlnxztkVHGcVj/1Ui0EzOStuL0QAna5tld2qMR/w3MVv66Wyi6EuJbfWwFO1Q6/yxHVwxSWeASfxyD9BxmIqW6er8fUFGtHTeLhafsnPfhyENOMDxa/3vFex9pZppLl3jC+WrFzs7gx0DVOQstP9WNrCC+N0Wp+WaiCaMuTJsttVBAqyb4VrmBUQdhRKxb3YIhdMD1HwkOopP71Mn1h7/m2I6ByEZgbfA/4BEU/4u1CjR5/bI8Kz+7GYxv/zGPsuEfbiHKWBGQoFNoMcM3jV1SPRcJroRQ4Q0sGHFAAc6Qh0oMSJuRR+z8xAZ5ReGYuXL9encrEyvQGJTvPc=;DIkhR0MYHKuvWB3tlechRw=="
 ---
 

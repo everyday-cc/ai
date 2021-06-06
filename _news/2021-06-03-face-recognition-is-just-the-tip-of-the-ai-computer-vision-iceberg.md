@@ -3,23 +3,23 @@ category: news
 title: "Face recognition is just the tip of the AI Computer Vision iceberg"
 excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
 publishedDateTime: 2021-06-03T16:59:00Z
-originalUrl: "https://www.mining-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
-webUrl: "https://www.mining-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
+originalUrl: "https://www.railway-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
+webUrl: "https://www.railway-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Mining Technology
-  domain: mining-technology.com
+  name: Railway Technology
+  domain: railway-technology.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg"
+  - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg"
     width: 2121
     height: 1193
     isCached: true
@@ -77,6 +77,6 @@ related:
         height: 421
         isCached: true
 
-secured: "RT0n1oGsl8y2gjfc4ZFvg+ZeaGrToAcg1xMECx79LlD921NzfB+2RciA/GCZ9rZO1iLx9NhSCkvVHVe+8seCfP2Zsow2MamjLYJLW/QsGIqZVMeBBRAA0UpIDbxm/icWCmBnsCkOWndmKHeY9rAkUJJy/VZ8dASSxun1Ks5NAMcO7Lj/j7OgppiwY8qvhCWglEQqjdcgg3Gzct5CvMVLPWOKlLVa/Kh/g8UcX4WhtgPqb/tsLpTFGiilfcTooh1+HEQRRwpJI7Cr4aG6VHL2Ru7tVcm2NqwfC8oCv7wBYGYjXQGZwjtmyWWE30J3psy5bzWEWSpukRu3appyFbeJTo8OcpdB7j9Oa+i3MCpkwww=;pz8tdFTM/v0iP0ZTqyxKbw=="
+secured: "HZST52SzmysqYPUU5ySG/l/GFaP550+zEzhX4YRTIulosFjM5sezz1QA/w+f+VEzKDJuo8mm9vfyCNOLRLxW4Jnt7ezYvseuicqGfVLwVnpPV4Aio+j3eliB1bBGmB8qoUpOUL73qYBNfFKYiuySgzryqKvlqS550ac5oC3sbidNJaxX2cK6KAjJMWy5dGLkwgJsH/zSGoXZ6FzMv0417A7SsMUwHXpHs62YKHRH/Zc1GVaiNCtrGQCjLv6gnwnFvxMeAfw4MN+PQL3JuWKR5elVVGG1+i1tC/oB1WyfLZ5AK/Iddlv59rlT9andzG9NikGVY6mRLMHrerEuLA/O/FULMTjQ3Hm0/8wFY/96djc=;fnR9mmOBLKLNkxdEPiKQJA=="
 ---
 

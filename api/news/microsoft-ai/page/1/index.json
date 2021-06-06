@@ -256,7 +256,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -302,10 +302,10 @@
     {
       "path": "_news/2021-06-01-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure.",
+      "excerpt": "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm",
+      "webUrl": "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/",
+      "originalUrl": "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -315,11 +315,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:05:00-07:00",
+      "publishedDateTime": "2021-06-01T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
