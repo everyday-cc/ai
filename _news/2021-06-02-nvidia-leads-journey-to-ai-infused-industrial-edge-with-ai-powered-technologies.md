@@ -55,20 +55,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "How AI can Bolster the Gaming Industry"
-    excerpt: "How AI can Bolster the Gaming Industry By CIOReview - As the identification, privacy, and security of the gamer is a fundamental factor of the casino business, implementing AI"
-    publishedDateTime: 2021-06-01T13:35:00Z
-    webUrl: "https://www.cioreview.com/news/how-ai-can-bolster-the-gaming-industry-nid-33739-cid-64.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/graph_image/0ux8himahdagdy123.jpg"
-        width: 349
-        height: 242
-        isCached: true
 
 secured: "ZyhpOZqo2tTwfUEw8vUcw15asd+a03cBxisYxOwgVYnIov29BZaG86f3ERPGyYyM4dbINbgvdl8E5wSTSrj2nCEgYrET+Ejvr1fZcqdi0AHlySJ1dSFFj3UFAvKoTlgdJP+FAmLvelKtSZMl9qr5c+/ewCkxPAFRXpIIdScfYEW70LTGE/i8YQVHuxD1L1/vzxi5GS/UgkVljRd53ClTdnjjzcOw7jVyDvYV53pARkzOPlBXa8qBR5LI3mrvqXXxBvyXnJX+QIIdYSr6jolRdkjvSWTo5QAe0Nffk3fkCfo7SZisFgIXMqHnQvIZXJvq+vvLxt3QzLc0uEXEd30PoeQYC8bRKxwdt++fF4qqPro=;r1RFVG99U+//sOZcJEYCIg=="
 ---

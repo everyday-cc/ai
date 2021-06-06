@@ -122,17 +122,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "3 reasons to invest in Microsoft Azure AI"
-    excerpt: "Digital transformation enabled businesses to obtain data from places they never thought possible and to monitor every aspect of customer interactions to gain a holistic view of their customers. Companies soon realized,"
-    publishedDateTime: 2021-06-01T14:57:00Z
-    webUrl: "https://www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529"
-    ampWebUrl: "https://www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529?hs_amp=true"
-    cdnAmpWebUrl: "https://www-pcmethods-com.cdn.ampproject.org/c/s/www.pcmethods.com/it-support-blog/3-reasons-to-invest-in-microsoft-azure-ai1622554529?hs_amp=true"
-    type: article
-    provider:
-      name: Precision Computer Methods Corporate Website
-      domain: pcmethods.com
-    quality: 69
   - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,"
     publishedDateTime: 2021-06-02T02:40:00Z
@@ -156,22 +145,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "ICICI Lombard partners with Microsoft to automate audits of service calls"
-    excerpt: "The deployment of Azures artificial tools has, among other things, allowed ICICI Lombard to improve the accuracy of its quality audits. According to Girish Nayak, ICICI Lombards chief technology officer,"
-    publishedDateTime: 2021-06-01T14:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/articleshow/83147254.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/icici-lombard-partners-with-microsoft-to-automate-audits-of-service-calls/amp_articleshow/83147254.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-560387,msid-83147238/bpo-bccl.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Morgan Stanley goes all in on Microsoft Azure"
     excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
     publishedDateTime: 2021-06-03T10:20:00Z
@@ -200,15 +173,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-06-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
     publishedDateTime: 2021-06-02T15:23:00Z

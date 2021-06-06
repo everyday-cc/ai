@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How AI can Bolster the Gaming Industry"
-    excerpt: "How AI can Bolster the Gaming Industry By CIOReview - As the identification, privacy, and security of the gamer is a fundamental factor of the casino business, implementing AI"
-    publishedDateTime: 2021-06-01T13:35:00Z
-    webUrl: "https://www.cioreview.com/news/how-ai-can-bolster-the-gaming-industry-nid-33739-cid-64.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/graph_image/0ux8himahdagdy123.jpg"
-        width: 349
-        height: 242
-        isCached: true
   - title: "NVIDIA leads journey to AI-Infused Industrial Edge with AI-powered technologies"
     excerpt: "Computex is recognized as the world’s largest tech conference focused on the IT and IoT industry.  This year Computex invited Jerry Chen, head of Global Business Development for NVIDIA’s Manufacturing and Industrial Business,"
     publishedDateTime: 2021-06-02T08:48:00Z

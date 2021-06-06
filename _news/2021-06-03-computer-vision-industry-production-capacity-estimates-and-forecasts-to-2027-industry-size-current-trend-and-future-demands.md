@@ -24,17 +24,6 @@ images:
     height: 530
     isCached: true
 
-related:
-  - title: "Global Facial Recognition Industry Global Trends Analysis: Comprehensive Research Study, Development Status, Forecast to 2025"
-    excerpt: "The facial recognition market was valued at USD 5.07billion in 2019and is expected to reach a value of USD 10.19billion by 2025, at a CAGR of 12.5%, for the forecast period (2020-2025). Facial Recognition has been gaining prominence in recent times,"
-    publishedDateTime: 2021-06-02T13:05:00Z
-    webUrl: "https://ksusentinel.com/2021/06/02/global-facial-recognition-industry-global-trends-analysis-comprehensive-research-study-development-status-forecast-to-2025/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
-
 secured: "DmKw9xBgSWZk4alu5w7W5j5+bE0DSS9i7cxYUZJ+RJkHFe6W3MDlSV5R3r4yTQNUeXGu7WexaC7Q4kGEHUnFDSY8tahjWaJcv33TJQE3ClwFt7x+sHivVgGTgq/Rw6JjlvCpluEjlqyFjmOhgotb1u6kigf68/Vt+MtpZd0ilVPFEyxzrWicdfs7T/bOwrJnjFNUJaLLL3EBVHxtpygFH7len7VHSlGBu6n1oF6RNWeSAHSQZhGJEHUM6JCVQRP9aoBedE4cCPKrWt66W86j0LNHSBKTg47pbS3pbyFabK0Osqt0lH8JVT31hJJATlquuZXFl/+QF/KmLK+elktSQYlLrruq1ZlyCGPuiG+qums=;dv63x8cfhk5sc66AotwQfw=="
 ---
 

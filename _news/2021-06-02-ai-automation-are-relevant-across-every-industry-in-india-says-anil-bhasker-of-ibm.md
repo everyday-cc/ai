@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/business-tech/ai-automation-are
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/ai-automation-are-relevant-across-every-industry-in-india-says-anil-bhasker-of-ibm/article34700778.ece/amp/"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "Q&A with Anil Bhasker, Cloud & Data platform Sales Leader, IBM Technology Sales"
-    excerpt: "As per the IBM CEO Study, in India, 45 per cent of CEOs expect AI machine learning to deliver results in 2-3 years. While the pandemic has accelerated the AI agenda more horizontally within many organizations,"
-    publishedDateTime: 2021-06-01T14:09:00Z
-    webUrl: "https://www.thehindubusinessline.com/business-tech/qa-with-anil-bhasker-cloud-data-platform-sales-leader-ibm-technology-sales/article34700778.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/business-tech/qa-with-anil-bhasker-cloud-data-platform-sales-leader-ibm-technology-sales/article34700778.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/qa-with-anil-bhasker-cloud-data-platform-sales-leader-ibm-technology-sales/article34700778.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/business-tech/l1qkqa/article34700777.ece/ALTERNATES/LANDSCAPE_615/Anil-Bhasker-IBM"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "pySYWIyICSgCNPe3VY1ZNx5WhNrPbwFGShAWyoG/7yFegjYXOGCtnXI7RW6ru3KSxYtuhcUcds0I26PF1Pm3ijA5Wlrs5GAvrBFpUsgvVRb2eHqt/HHzHPUEcQRYqsan8fOzcvGqq6xPuLDNZzRoRhO6hzzVzZJSxhS30fMAK2/68RED6SU2GeMBG5YgDpa7YKP8WJhCFxFZu5kjkLt71p66YAynJlrciV8cjfJffpofxIBhbwbLwrD2hVvWx0bbNyUcbCfKtxsot/XWJXVMxUQK0wyjT+v05EZ4B5hEugvaqXL+IUxr5GNKz4RnLw3L2Gj2nNMtgi6OQ9CT0QYBqW4yevBV+cLkW80F/RAMubI=;Td+1Em8yE0IfLHARI+UZog=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence can enhance blockchain platforms"
-    excerpt: "Artificial intelligence and blockchain are both touted as technologies that will lead our future. But here’s the problem: They’re like oil and water. While innovative in their own right, there’s a noticeable lack of interconnectedness — projects that tightly combine AI and blockchain,"
-    publishedDateTime: 2021-06-01T15:00:00Z
-    webUrl: "https://www.investing.com/news/cryptocurrency-news/how-artificial-intelligence-can-enhance-blockchain-platforms-2520182"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 52
-    images:
-      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528132.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Load Board Operators Streamline Processes Using Automation, Artificial Intelligence"
     excerpt: "Load board operators, logistics companies and technology vendors are increasingly utilizing improved data analytics, artificial intelligence and business-process automation to more efficiently connect loads with trucks to move them."
     publishedDateTime: 2021-06-01T19:30:00Z

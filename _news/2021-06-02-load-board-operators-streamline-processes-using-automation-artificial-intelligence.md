@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How artificial intelligence can enhance blockchain platforms"
-    excerpt: "Artificial intelligence and blockchain are both touted as technologies that will lead our future. But here’s the problem: They’re like oil and water. While innovative in their own right, there’s a noticeable lack of interconnectedness — projects that tightly combine AI and blockchain,"
-    publishedDateTime: 2021-06-01T15:00:00Z
-    webUrl: "https://www.investing.com/news/cryptocurrency-news/how-artificial-intelligence-can-enhance-blockchain-platforms-2520182"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 52
-    images:
-      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528132.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "3Ivv80hhB98Pqq+ZhYtdtrmDHcf+ssEQPdETzF1RNpdPxPQTsfjZVzqHc79u64rObHicS3prNvmO4sizGp31cUng/PfqOxe6/D4lC3luE/mCMkRo4xgZCf0PQby2IcHwSZ/Sz1hPLKlf4k9ixAmfvXZPINdMahBTRHBaPR2zX8rYjLO7BzN0jThHKNbzMImuZmYZTfmngKS8/H2WQyZVMaW24cbXcryAYoS70kBBvOVcIN0u7xBPe9iWe9t/vo1eKK2de3Td6oVvrF15ekPA6RF4JatnAxomp06+lfqGfXAf03ZUubShc7U34gjDX73JWS9eXksdkB0BwHqmpKJrM7uuOmb5Bym7DBLy1C+dM4cInJFMM+tsDkvtNl3YfEnjGcthr/HpuD3aw3jX8szHOX1RUJLDAU2xykZ+bxjGULAb5SYJhwM591bpCY8Zknc+Nf9cSJANKTZksm80yrFWqc9TzOmbjnPyzDZpExH35zjC7wN5LOusFO3E0QO0vFDZBHEUDNW73kyBOWTT9HZLXg==;zU3l1fS28FucvAAn9XsmqA=="
 ---

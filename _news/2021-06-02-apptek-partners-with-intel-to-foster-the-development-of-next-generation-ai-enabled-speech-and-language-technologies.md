@@ -2,25 +2,27 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
+publishedDateTime: 2021-06-02T12:41:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
 type: article
-quality: 27
-heat: 27
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "AI Chipmaker Hailo Partners with Lanner Electronics to Launch Next-generation AI Inference Solutions at the Edge"
@@ -32,21 +34,7 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
-  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
 
-secured: "Fa+jiiddvTsu6nA22YQHdK+JcOOhitaOsAhmpag5UsFkRvPirvGsytBinnuWaTyuI+yTAyrgRaJtIsJ2WrvBPUPVH6+ZiynjIfTwhkGkVolOOyrT+ChglrRJDCyZ/7inPM3SCNoqHqh88FnseLDtSP3M9AoCnAxBHr82EdYN4wpiTKwy+gK5RZh0+5IX9PdMmaqrP79UrifHT/rFB+Q0IiVqNyc7To0+VvtM9cDHeQlqGNdpL+Dho/4yq4yGmG2fcMubW667U7pu6LjDhehEjAPS5S0Q2qLOAV1wFeBs/Vj/e6kuEjgoy+AouFkqM3+KzM2UGdwb3h/YkfJ9eynXjBNqH41D0Bumbx1jhsfRtGk=;HUr/I4gEPBjf5evz6Rpk0A=="
+secured: "Xl+x/3JPo2lwngInv+5iIEMduV5ooEs6N394a1VshSBBsywS7jJsuG9fGhJtXx8yoa0/3vyxGN4UKQWlHIq7i9sqU+szCZgy2i45edymds/SifqB2j1KJnuVXRtafOxz/kPDo0RqXqsLLVTkWSvwWGQXtxSwH/VayyWu6iz9KiRpiZsLsl4+EBwBEwp1LgRZCcNQumF93gWuxozVMfIp/i8V5msHImL/kTzypO0ghiR65tNBLI25qTTPIWInYGuGKefLrRpYpJeKofQKxt77UPZ2DplIu5ZWAR5Wat48fTWwvf8ZqK9aktd/DnbYzhfbBys2H7cnRnF3OC/yEXd28QjByCq8YM+sUxtfQU1W4+4=;xyYtjloIjAb+i8fiEZF/SA=="
 ---
 

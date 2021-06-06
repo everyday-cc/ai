@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-chipmaker-hailo
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-chipmaker-hailo-partners-with-lanner-electronics-to-launch-next-generation-ai-inference-solutions-at-the-edge-1030484509"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -24,26 +24,17 @@ topics:
 related:
   - title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
     excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-    publishedDateTime: 2021-06-02T12:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
+    publishedDateTime: 2021-06-02T12:41:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "TOGjj10JF84JLf8hUBcUDbd8Rx19dhGdEJNZP/CPfqHpMmy6Hq7l2Jkq+qLvGt33/19UhnhED+qXv0RkDGlFqhniUMIO0Xk79cC5hCykfG/sBSG1R3rQKcKSdgt76jJwZsYYDDQ3IEVrhaf5MupHxA049wyID5qogNhy12052y0OSgLNgY0wCvj7GboRgRjKuAiy+cLFqj3sxfm/9JM4Vc2W6nuGRaNhl/a6TTXRXhONPimar9SbhQN+Iy8bWDhRcay13yZbaL8HwQxz9XqtSE6RnEJe0DSfun0X1k8g/5gtZ5Xqg/KuuE16ZQ1Al91bMsNvfZkdSxsF90hvTmSvnZiWYar0np2P7j4dvjYZe3SZh4xfSIhDbFT7zpg9NfYPqAjOyPIPGR3jvz7J7s6V2BophwAgh75dqpMNRsZJIq/w8vBWfOfCw6aP+pft7NjtFbF6GbCgexUnZfjat6MsHDP1yL6BtDW6+Q+TIZP/4uSANQvyDxXhAEWVONPjQuLQhy98N21TrtedKxE1JYJMJA==;igJu58s6RJ28GMp5iZNHRw=="

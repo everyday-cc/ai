@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-478263,msid-83194045/apple-afp.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "GM’s Cruise Says The US Risks Lagging Behind In Self-Driving Cars"
-    excerpt: "GM's Cruise is urging the US administration to push the autonomous car sector. Joe Biden proposed $174 billion for EV plans."
-    publishedDateTime: 2021-06-01T14:35:00Z
-    webUrl: "https://techstory.in/gms-cruise-says-the-us-risks-lagging-behind-in-self-driving-cars/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/gettyimages-516804034.jpg"
-        width: 940
-        height: 626
         isCached: true
   - title: "Apple loses several top managers from self-driving car division"
     excerpt: "Apple Inc. has lost multiple top managers from its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. The iPhone maker has hundreds of engineers working on underlying self-driving car technology as well as groups of employees working on an actual vehicle,"

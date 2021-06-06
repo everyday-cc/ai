@@ -103,20 +103,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "GM’s Cruise Says The US Risks Lagging Behind In Self-Driving Cars"
-    excerpt: "GM's Cruise is urging the US administration to push the autonomous car sector. Joe Biden proposed $174 billion for EV plans."
-    publishedDateTime: 2021-06-01T14:35:00Z
-    webUrl: "https://techstory.in/gms-cruise-says-the-us-risks-lagging-behind-in-self-driving-cars/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/gettyimages-516804034.jpg"
-        width: 940
-        height: 626
-        isCached: true
   - title: "Apple loses top managers from self-driving car division"
     excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
     publishedDateTime: 2021-06-02T13:48:00Z
