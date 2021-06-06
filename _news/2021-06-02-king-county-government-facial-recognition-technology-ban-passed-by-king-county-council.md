@@ -186,20 +186,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "King County, Wash., Bans Facial Recognition in Unanimous Vote"
-    excerpt: "The Metropolitan King County Council unanimously voted today to prohibit county departments, including the sheriff's office, from using facial recognition tech. If signed by the county executive, the measure becomes law."
-    publishedDateTime: 2021-06-01T22:29:00Z
-    webUrl: "https://www.govtech.com/policy/king-county-wash-bans-facial-recognition-in-unanimous-vote"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a69d779/2147483647/strip/true/crop/1000x486+0+101/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7d%2F97%2Fbba0ef014d3e8908a5647b7bd3f0%2Fshutterstock-299881847.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "Facial Recognition for Fish May Help Environmental Challenge"
     excerpt: "Illinois researchers are prepping a test of a system to get Asian carp out of waterways while also helping native fish travel by working with Whooshh Innovations, a company known for the fish tube, or salmon cannon."
     publishedDateTime: 2021-06-02T19:38:00Z
@@ -309,20 +295,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 33
-  - title: "King County Council votes to ban use of facial recognition technology by government agencies"
-    excerpt: "The King County Council has unanimously passed a proposal that would ban government use of facial recognition software."
-    publishedDateTime: 2021-06-01T22:47:00Z
-    webUrl: "https://www.q13fox.com/news/king-county-council-votes-to-ban-facial-recognition-technology-by-government-agencies"
-    type: article
-    provider:
-      name: Q13 FOX News
-      domain: q13fox.com
-    quality: 28
-    images:
-      - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2021/05/1280/720/2DA91231FE93417B92B3C7985719FE3F.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
     excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
     publishedDateTime: 2021-06-06T05:32:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Neural Network Performs Complex Hand Movements in New Simulation"
-excerpt: "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations"
-publishedDateTime: 2021-06-01T13:54:00Z
-originalUrl: "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
-webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
+excerpt: "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations."
+publishedDateTime: 2021-06-01T14:33:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
+webUrl: "https://www.technologynetworks.com/neuroscience/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 360
     isCached: true
 
-secured: "PNx9/pz8nXPOmcChxGQzBmAsYYFQrJGmyrWoBiLENUJdV/IcCC8do0hWB7UoNBuR/TkiwqfVrz8hgXq5q0Q5KquPJO2P22RTtJ4aUQNeywFGa4i+FXQ8eaKCA2mw89IINrJfJDTDn3B4tJIcfpBcKm0mWXHZu2NOoBTKu7FJwKcNi4WX3KkB1fvWWGhCkLfOT7azOy/jgd827mW9cKGsSFG5DC4B5DMr27Uc7tN9xiBxtrCESUr2s7gnavesCk/7MTAUlBQ5XI5I86v5mjrzGjqLKq40+w/2sK5fNOA+/UR6dlgJ94K1iCAkB4/HMGKwMvd/xYpNb4S/RlZbi3bFlQ/MEFQF4+zByOI/GdqtAz8=;F3J/bPRuKzF8fTbblYEolQ=="
+secured: "ju0lhjUUGKiFzW6CWNOuprUUwRnVVgoHQAUY6LS8gZ1YTDqa0MpP6AKgUeM4v6fmLdakIq6iyCnnZtwI7kBqA6E1XZKNK3JgJ4Cdxy6Ps0T9doGFdUyEoXoEVoViEzLUxAGIqZi+JkhszhRkqZzYXx5fbU8oCH22xi9Uy5Q4wVarEO6CbkSE5lVAnTA2o6FIc7wNuqj1/ogp1pNmBgyj8Wb9dmoGNC2QsBWFVHSknV/Jn7gOWZgdRBvq7vA/C9aTZXcvqL8dSveDQh+weM+d4xUvMZUnswsWwD6hPSNM9gfX8dvok3gGfou6V+CywcHCWeDgdXUtUtfbHWPv9Bu+gsyeDHr1RQUGyu4IEX4hAMY=;STapkhonocz8yfHdCmRKaw=="
 ---
 

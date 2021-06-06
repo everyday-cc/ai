@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

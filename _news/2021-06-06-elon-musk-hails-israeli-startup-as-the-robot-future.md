@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-star
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Z8mRswA3D/mM/aIQhpPqVy+9sjeq2iHzigfyA4GlVhQcJuHqR7iWFkUfyBN+mvH1gu162c05reXGBvFKkE9L4F9tSqs9vNeGPXuSO8tc+ZKEJNJIzu1JyltwaCMFh9t2a4wFJ0TgYxLUHvGszMrOFjhZAeNB8bde6zkvS1dG0plLWm1p66lsOASvmbrWLdZKR1T80rB9sfww6qxLhes9EGbtKHYelvH2yGLCgktzHcBgLIF2qwZdErlJbRUTaujNXZHwIK00Yh1lyilNHx4zsb4E0uPaIVPJ0MV6WmRt08RQD9F/TuGOmcizpO9xJ+OWt0ArT7fQwcMrO5lh8v775D1iDqjKmZK156Pijddq7XY=;AcC6WbUpGLQucxWbiUyxTg=="
+secured: "pbdS2u0u9bISo57WJBFsLKzsgA2LCLBnKWKUcCi5LdGnJ5HeCIvMTPXcOW9f39U2bY0pMjV54+nO6plYUejbCs9qaSvrhIzqyzxXQ9//L/pHX5pj23gDAD6ZKKN5bqc6s4Vs8i9tckFjKA+hy2XaVrFMPc/5ynGWUsc/xus/fHK+5Lx1Ht3eYRhDlYfZkhCTVYAlZM2j7QrCP13fqevrtnohQZ7OyzDJKwLLOBogdbOFf9ykOR/6sDQHLNkyHhtYCbZOab350D7VSgZUcOapC48/BrVfhAPM3yiMewFfoDyNgaGfTPpXQFdooGHw0FQhZOrKUwqp9Alse52gtgkRMSmGRnGCc4fQgszhlndjz7JMDL2YI02IJdEvxO6wvmlRbZEaKYFcVVl5s13G9/eEVY7h+C4D8/u0ZUlVR/7jE0f1qInO9Fnl6LPOEld+h7RgPZcDW5UJAunZhj8kVwEHzGzz/XSK+7qbcxvOG+y+jdBz7wGbpxFXLhlqVUeXStnlCh9uwDK+U2udP+xcYEE5CQ==;iKolUxWg17bAlB5109zqkA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/06/microsofts-kate-c
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent"
 type: article
 quality: 78
-heat: 78
+heat: 79
 published: true
 
 provider:
