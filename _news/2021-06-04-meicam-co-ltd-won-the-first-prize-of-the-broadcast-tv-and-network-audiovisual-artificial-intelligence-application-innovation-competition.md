@@ -41,14 +41,14 @@ related:
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
     excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
     publishedDateTime: 2021-06-03T16:59:00Z
-    webUrl: "https://www.railway-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
+    webUrl: "https://www.mining-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
     type: article
     provider:
-      name: Railway Technology
-      domain: railway-technology.com
+      name: Mining Technology
+      domain: mining-technology.com
     quality: 69
     images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg"
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg"
         width: 2121
         height: 1193
         isCached: true
@@ -65,20 +65,6 @@ related:
       - url: "https://media.wired.com/photos/60b6ad1d41e613255aec163b/master/w_2560%2Cc_limit/Untitled-1.png"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Study to train AI for koala ‘face recognition’ at crossings"
-    excerpt: "A team of Griffith University AI researchers will train cameras to use 'facial recognition' technology at koala crossing locations across South"
-    publishedDateTime: 2021-06-02T00:29:00Z
-    webUrl: "https://www.miragenews.com/study-to-train-ai-for-koala-face-recognition-at-569958/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 54
-    images:
-      - url: "https://news.griffith.edu.au/wp-content/uploads/2021/06/koala-630117_1920-1200x1200.jpg"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
     excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."

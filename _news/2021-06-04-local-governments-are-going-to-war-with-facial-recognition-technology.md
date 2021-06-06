@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tec
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
 type: article
 quality: 89
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -146,20 +146,6 @@ related:
       - url: "https://retailtouchpoints.com/wp-content/uploads/2020/06/voice-commerce-1.jpg"
         width: 2440
         height: 1627
-        isCached: true
-  - title: "King County bans facial recognition software in government agencies"
-    excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
-    publishedDateTime: 2021-06-02T00:37:00Z
-    webUrl: "https://kuow.org/stories/king-county-bans-facial-recognition-software-in-government-agencies"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 39
-    images:
-      - url: "https://kuow-prod.imgix.net/store/8920668ed5552ab64a68db6c2b883247.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
         isCached: true
   - title: "King County, Wash., Approves New Facial Recognition Ban"
     excerpt: "The King County Council voted to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments, citing the technology's threat to privacy and history of bias."

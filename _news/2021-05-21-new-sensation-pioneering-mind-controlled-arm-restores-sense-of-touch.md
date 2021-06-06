@@ -1,26 +1,28 @@
 ---
 category: news
-title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
-publishedDateTime: 2021-05-20T18:47:00Z
-originalUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
-webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
+publishedDateTime: 2021-05-20T19:18:00Z
+originalUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
+webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
+ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
     width: 1024
     height: 682
     isCached: true
 
-secured: "JpuCCpcvaLXCrXEzatEYgMhDIhCSAOtWPaVLBRVAwTltUNP4RE9QWR89l4DMPMvFv+BroNI96QSOneS0yNbrB5DVRXh8cbQHhIXez5vBQPBpCQfkm/I8ORlbvXXO55EuyYSgtPqtLrCFAOYqA/L6setx3aDdw2pTDw7XE6BJxX2FRTnnn7ihgJPygMYTgn44k4mbDNv1LxBi4Xt+XUpIye4hjrirLWKz2uudjct43jDzaR+2PuTYddKIU/SJmxCFCP3VK/dJwddAyYonzoaFMvPlVGvqoz3ykoBAJUI6s0+0sNoBgnZg6UUz6zJ2vJ1EQVyH8/Gu8H9WZRYZ3uOYiLwW1dShQWekV5Iqipx+vls=;VYGQqa2ChJFVJ2AY0sLN4Q=="
+secured: "95V/grfcO6WgW2YOx/U/0+9usLDeJAtYPVV3PKjsac9xDHR9hM3AfahLp2fdubs9QJEtr07tFxmra2SeByb9A6aHa0QPJZ4+hmcuZaHAuDpdPMyt9cpqRq4i+EBaig3FkzLAtJabwa8CQJP7WY36du2RvQWZswgM24jQdL5n5Es4yYBCfOcFhget1mlFxvKQ/5plsVLQxtrGJWgNLseGLXurDY/7JGExV761gmb8BcH9dHxyOzTvAH/GJRL53u5mRMfeGS8NzsfGjN2VoHOsewCH2UligqJkCOVzY3RMKrT7zkR9yj6N284RtIMLRXm2CR/G2x+mUh8C4t/aNW9MUdiz7vTFlCLdeOOMycM0Rmk=;cAXrS/AKVLccZo9MUMSF6Q=="
 ---
 

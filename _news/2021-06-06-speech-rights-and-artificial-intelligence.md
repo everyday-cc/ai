@@ -58,7 +58,7 @@ related:
     provider:
       name: KnowTechie
       domain: knowtechie.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/03/google-translate-transcribe-feature-3-1000x600.jpg"
         width: 1000

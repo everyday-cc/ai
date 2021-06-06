@@ -157,20 +157,6 @@ related:
         width: 2440
         height: 1627
         isCached: true
-  - title: "King County bans facial recognition software in government agencies"
-    excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
-    publishedDateTime: 2021-06-02T00:37:00Z
-    webUrl: "https://kuow.org/stories/king-county-bans-facial-recognition-software-in-government-agencies"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 39
-    images:
-      - url: "https://kuow-prod.imgix.net/store/8920668ed5552ab64a68db6c2b883247.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
-        isCached: true
   - title: "Facial Recognition for Fish May Help Environmental Challenge"
     excerpt: "Illinois researchers are prepping a test of a system to get Asian carp out of waterways while also helping native fish travel by working with Whooshh Innovations, a company known for the fish tube, or salmon cannon."
     publishedDateTime: 2021-06-02T19:38:00Z

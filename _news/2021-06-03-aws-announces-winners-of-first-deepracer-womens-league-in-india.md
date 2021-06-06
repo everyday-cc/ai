@@ -20,8 +20,8 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?38620"
-    width: 434
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
     height: 250
     isCached: true
 
@@ -59,6 +59,6 @@ related:
         height: 465
         isCached: true
 
-secured: "ZtdQa0ihX6+o+maq4eMHjpo0hi6a7y79tBhgMCIgtMWcnv0fn44qQ9OQMU8nZMYDMRcFtB8E91frX1NIHjY+0kl2r1J0LDzsnmz0MN/Dz3wcGuRk/PsJ+5ZLHrX/E6Y37nJmmteJUdcmDc337uhKZFkRXoNpwZ0X3uqZcKm6YGqmwQ9NrJOCCTn64sZnSC2QjSqOAnRraBxVowNH9gBKmEtQMoOF5LJo4KP1+wPqHcdoh9cDr38t7HI4qJBfeJ7HLd1YMNMz4XpLkD3OwuICbFugTHZiyjiJOvLpgA65Ce4BaNNOh5Xz9LnwFsLd7PIo8O7s6MDCMKrL6+QdiXCFmTKau2LQkOBCb+hzlgqwYFk=;sh6ouPEsrL96w11qihUt8A=="
+secured: "HOx51cOSSB4UY+H5M0bA+pplxB/ynN9VgyQwSk+zGRohKnRYLp2Sr8VE1oq2ibn5RKVJX9DdAi8rFM1n/lk/sYNh4jKhcWGufCwoNnFn0P6gQltEo+wKYFyfwe9DUksN2fqEPn2DxS4P4GhdMCvS4VIeQWBTFmAxEq0nHTEl6jofZ/ak3edIiju+WszTWBxv2XdFpq/s1P/2YZdOd8hRW1ysugreuAAlpgiElC4+6rXXVmW2ItH8874oc+yIQf5USkS6In2cLrue2glK/Vtb3S3THYj8JA6f4QsozjpiakgIJdf7HO5caaBdGjC+uSgYrO4c06DrUsYnwSrsOCUG+rQ9USRgwbssbTZBr+hegSE=;CIJ4+AgWNcpRwVhB7YPdvA=="
 ---
 

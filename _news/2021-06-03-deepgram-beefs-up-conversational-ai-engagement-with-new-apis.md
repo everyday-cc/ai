@@ -33,7 +33,7 @@ related:
   - title: "Deepgram Unveils Speech Improvements for Sales"
     excerpt: "Deepgram today released real-time streaming and solutions for conversational AI and sales and support enablement."
     publishedDateTime: 2021-06-03T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Deepgram-Unveils-Speech-Improvements-for-Sales-147222.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147222"
     type: article
     provider:
       name: Destination CRM

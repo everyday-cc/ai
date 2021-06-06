@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-03T13:46:00Z
 originalUrl: "https://knowtechie.com/online-translation-in-2021-ai-vs-humans/"
 webUrl: "https://knowtechie.com/online-translation-in-2021-ai-vs-humans/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/03/google-translate-transcribe-feature-3-1000x600.jpg"
@@ -64,6 +65,6 @@ related:
       domain: cambridge.org
     quality: 21
 
-secured: "LvD/STuauxj/YVvE9rWXYGG6UzySN2ijCnhpOlTbv3gyGdrZ4stsGXnk2K0t43Nc+VLC1PyzDYfr2ViHGiixEV3cuKyA7rBi8NGTxX0RQipMHcFXO519AnqciBQN8ZQzeN96vK74UUkLUsvP7H3Fe4eQdNgQ8fujpU8PCutH8RtsHBOnIJP/y2/YApU1YG8OBGODxH0ZsUvT/v+MChxjGziMa0sjhUtHcoTrSkfwcp23XdEfhGQGRk06AFmOOHIEpOD7oGAwMuKufgff4AdN1D0jYYn6u8Dw4aNZXbdJB9lt/NwEH4hB/lZpj4dF8LQd4JwDuwGeAKclH32X7SqD0h856ShX0hSVLbXHbwq+94o=;1tvZq5IyGBX/mkN0o1Pdhg=="
+secured: "RhEso7ZRGGBzdTPsa5ElQsCkKXRwBXY5YtagLZWiQ8aSZjUO2yEJYuvCRC3wDplYG7u8B+dkqrEqLcp12iQESSH2KBM+CNbdEhooecAfngX1Fvh+S9f8/zX4Hjnh1E49HiD0u50k46dx9Uhm/izR8UNQn29G/cI8Z8om2uSQgCZ/m6g6iS9LfHHEl2DG0CGePk8Jwjvpsp06dtu5bsvGxMLdEoC5xvNdOeQlQorCOLI2utrsu5YQOlHqtbiVB05rf6+JO6u4eVyQs4Ju5dbtGFXPlxS/Gago6Jt8lr6scaaLncQT64ORl7GTJtVNVN1gEr/KZbYG7BtxEG4E0wQkK6b6iNyqJQg8n61vfQh8NPkg7n6kdYtL/+89qe6NTt49ZVakf5YbOG2/h4tN8Z9qtSwglrD1vqOWywh7+cjPHk9lNbPFc5Z3/oV49IidJdWEeXQ7+9Dyn9yZk7B1sqsHnjn8Zle+t9p/WjEGW+42mi1S/OJm1fqCHj1W23AGcljZloLJM9U50bKBOLLJ5KRUOQ==;5t+Z0x2dJV4v0UCAu/bqeQ=="
 ---
 
