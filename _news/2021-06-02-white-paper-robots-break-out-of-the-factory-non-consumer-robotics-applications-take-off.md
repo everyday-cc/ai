@@ -24,6 +24,22 @@ images:
     height: 240
     isCached: true
 
+related:
+  - title: "Will robots take over communications?"
+    excerpt: "Are all our jobs going to be taken over by robots? Will any skill or profession be safe? What are the implications for how we are schooled, governed and treated in hospitals? And what on earth are"
+    publishedDateTime: 2021-06-06T13:23:00Z
+    webUrl: "https://www.corpcommsmagazine.co.uk/2021/06/will-robots-take-over-communications/"
+    type: article
+    provider:
+      name: CorpComms
+      domain: corpcommsmagazine.co.uk
+    quality: 41
+    images:
+      - url: "https://standfirst-corpcomms-production.imgix.net/uploads/2021/06/Robots.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&w=1024&h=831"
+        width: 1024
+        height: 831
+        isCached: true
+
 secured: "dnDoFB8AObfVo8Rpc3RpvHyjLkFjUW6g2s/8evdujEZN7U55+COsbVKxPMyodvWkflcnqdS+qcJu4g0UDoCsjhSje4qv7vLwNgJT2B7x2oVIafgIEE7h8vH2TgJYw8oL8l2GpsWZIErZJ3oTs0yRVisb0PcyZELY6ywwdZfsz8fviqQTQTyeHMdu6mNsi3NW9IA8h9h9/Xw5pmbobDdZNgSSPRqqWWd5BnONiHSqRQqdY8ti7XY8QGW2yndgtKbRO9LaSt0PoCGQgC5dBXI8BZXxro02CtftDExYpO8NYdvK0f3zsn6TjE7hExkvp8qF0L7+rsOCE9A5hx4HhRdf2Xfi/4ACVXfPhEGL4egzVWc=;puJL27nYCRxo8V9PO7bMOA=="
 ---
 

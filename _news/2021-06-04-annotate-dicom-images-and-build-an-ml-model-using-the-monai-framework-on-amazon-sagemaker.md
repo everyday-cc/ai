@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-image
 webUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/"
 type: article
 quality: 112
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Use Amazon Translate in Amazon SageMaker Notebooks"
-    excerpt: "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation in 71 languages and 4,970 language pairs. Amazon Translate is great for performing batch translation when you have large quantities of pre-existing text to translate and real-time"
-    publishedDateTime: 2021-06-01T19:45:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-in-amazon-sagemaker-notebooks/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Edelweiss improves cross-sell using machine learning on Amazon SageMaker"
     excerpt: "This post is co-written by Nikunj Agarwal, lead data scientist at Edelweiss Tokio Life Insurance. Edelweiss Tokio Life Insurance Company Ltd is a leading life insurance company in India. Its broad spectrum of offerings includes life insurance, health insurance, retirement policies, wealth enhancement"
     publishedDateTime: 2021-06-02T21:56:18Z
@@ -71,20 +57,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
         width: 768
         height: 385
-        isCached: true
-  - title: "Build reusable, serverless inference functions for your Amazon SageMaker models using AWS Lambda layers and containers"
-    excerpt: "In AWS, you can host a trained model multiple ways, such as via Amazon SageMaker deployment, deploying to an Amazon Elastic Compute Cloud (Amazon EC2) instance (running a Flask + NGINX, for example), AWS Fargate, Amazon Elastic Kubernetes Service (Amazon EKS), or AWS Lambda. SageMaker provides convenient"
-    publishedDateTime: 2021-06-01T19:29:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-reusable-serverless-inference-functions-for-your-amazon-sagemaker-models-using-aws-lambda-layers-and-containers/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 95
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/5-Flowchart-509.jpg"
-        width: 800
-        height: 774
         isCached: true
 
 secured: "h1rGDO5HQQWVd800yDy+A/K+REQ1RGr1riGGIx6JEsKrBZzBSR9IAtGKF3Fz3+AoGp/0srrdoBImxXsMyRK+pEXRIDDl1sSth12z5AlFUZt6FV9GNl1JlUwVQNEJViEs/qU1uU/CAlApuyHA3xukHBqY80okCEDqGlE7pRvF4uHdfrORZg7VkL/2RM17B5UAJRcQEuafUZXnecwk9ktrJKZyWJnL+fUHhUcn9ydSmhgmKcSFMtxcu0OK5smuKQ5s7myK/2205s10YDz9IyiCIyi05RQsn2BFqNKEVtJfCf/M3CSocIsAZFxm+8JyEHhjX3ceZvPcEpqoGSM7I/3fECliLa9KppH7VFudLy0QSB8=;ashSbKPFHMKA37CyvgP47A=="

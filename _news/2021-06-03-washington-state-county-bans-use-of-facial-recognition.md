@@ -55,20 +55,6 @@ related:
         width: 2500
         height: 1754
         isCached: true
-  - title: "Congress Struggles to Control Facial Recognition"
-    excerpt: "Partisan divides and political wrangling delay laws that govern how law enforcement and other agencies use facial recognition software."
-    publishedDateTime: 2021-06-01T20:53:00Z
-    webUrl: "https://www.eweek.com/news/congress-struggles-to-control-facial-recognition/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
-        width: 2560
-        height: 1280
-        isCached: true
   - title: "King County Council approves facial recognition technology ban"
     excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tu 1. King County, home to 2.3 million people in and around Seattle,"
     publishedDateTime: 2021-06-02T23:43:00Z
@@ -353,17 +339,6 @@ related:
         width: 1070
         height: 692
         isCached: true
-  - title: "King County Council bans use of facial recognition technology by Sheriff’s Office, other agencies"
-    excerpt: "King County joins a growing number of jurisdictions across the country that have moved to ban the technology, after a ream of studies have shown is frequently biased against people of color."
-    publishedDateTime: 2021-06-01T20:53:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office-other-agencies/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 26
   - title: "Facial Recognition Technology Ban Passed by King County Council"
     excerpt: "Facial recognition is consistently used to target Muslims around the world, as well as to quell our First Amendment rights to freedom of speech, religion, and association. We applaud King County for being the first multi-city county in the nation to pass ..."
     publishedDateTime: 2021-06-02T14:16:00Z

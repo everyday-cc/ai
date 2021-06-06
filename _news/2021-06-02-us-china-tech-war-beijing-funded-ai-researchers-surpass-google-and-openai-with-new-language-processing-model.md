@@ -41,7 +41,7 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/o32fPtrBni3aBQR3wyWqqE-480-80.jpg"
         width: 480

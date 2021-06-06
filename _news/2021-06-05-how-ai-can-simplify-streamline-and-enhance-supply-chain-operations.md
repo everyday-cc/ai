@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Load Board Operators Streamline Processes Using Automation, Artificial Intelligence"
-    excerpt: "Load board operators, logistics companies and technology vendors are increasingly utilizing improved data analytics, artificial intelligence and business-process automation to more efficiently connect loads with trucks to move them."
-    publishedDateTime: 2021-06-01T19:30:00Z
-    webUrl: "https://www.ttnews.com/articles/load-board-operators-streamline-processes-using-automation-artificial-intelligence"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 31
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/load-boards-1200.jpg?itok=7GG2OQ4T"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "/sRf5K0pHFhNnSmBh388Yc6nMV9Par9pTQy7gRgw6plN0nYE1OR2DK6HT8NQMGtXkkhsgh7wwJyVVa/lyyC6o5LscT2YyBVkqwHYEEmfGNDIxwb7kcBsGOER0B87BKQAS3gV+ZOo2OnVmXDd/3iZ1An9MBcd7SHL8qIhlq7ag/w9Q7tu+GWE4+tkW/aXW675C6owC1mqxhgv7SaIo9pBefb9uibhvqRdA8OnBfZczT8uMExggiEUdP3sPC0iysGXJ1lxqIA/cyqGqNvSHpwM/UfzZFkvCUsR/oG8z6lZ8f0Ba4+AcUnuaWb5iSGG4bv+YV1lgqUdoe+TaicZy+K6xAwrSdZ1INNBMdJhVZzh5rWq9o59LUC69EO0g2Nfn6FF3FVQuYajnOXPiZju/vetBhckREPlS5sbVLUPWpCV3WU/jVty99Hy666sgH97d2o6WVKdng/Xbeb7KHYQhIm71ROqhyhHa5vz0jXotLw3CGG4Hp+RDddeAaqsh0yvCK3J3ZDG5zfJAeIUPOoX50TjHg==;Vj2qjnAH82P6L+Li9N2txA=="
 ---

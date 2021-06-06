@@ -50,15 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "Fintech changed the financial world quickly. Here's what's next."
-    excerpt: "Fintech event, players in the local fintech space discussed how the industry got here, and where it will go next."
-    publishedDateTime: 2021-06-01T19:16:00Z
-    webUrl: "https://www.bizjournals.com/twincities/inno/stories/inno-events/2021/06/01/state-of-innovation-fintech-minne-inno.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "M6gwL5apBuIHoSrwA6PxVWGib1X/YFaGZdYfnQQANAvStsYEg/TI6oCcqthaEzSUMn7mPoOnU8LlHPFTTHXYxhDvGVOAk/uWSsGlyN5sVkT0rTP84UtdQjiU42FCxuSeMIdK3hrptG9ep0GFhYXKA2nQtkHvdm4mq6gi0+lac8GOOQzgZf02YDZ/QStQSFEUgjueteSukO68vB9+vM77ttYZsdTkTUgC37cOnTjMU4JaCcK8Ok/QMXH1ucYEBwwjnLjA4WMcFl1aBS+VhKRL6yrfrowRuRI3+lMLPXnuwVrh6ERBJJXE9SXh/5ZuC/fVZeXppDh6/yfxvwP4x3sDOmtQbQs+OpDBC97i+ZNPFOs=;uRjPbmeJtrjT6D9vK1IPlQ=="
 ---

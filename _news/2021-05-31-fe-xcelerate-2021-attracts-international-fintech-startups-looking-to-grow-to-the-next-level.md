@@ -2,19 +2,23 @@
 category: news
 title: "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level"
 excerpt: "In partnership with Southeast Asian early-stage venture capital firm Expara, FE Credit – the largest consumer finance company in Vietnam, launched FE XCELERATE 2021 in May with the intention of bringing international fintech companies a pack of opportunities to scale up their business in Vietnam,"
-publishedDateTime: 2021-05-31T11:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/31/9380629.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/31/9380629.htm"
+publishedDateTime: 2021-05-31T13:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fe-xcelerate-2021-attracts-international-fintech-startups-looking-to-grow-to-the-next-level-1030478601"
+webUrl: "https://markets.businessinsider.com/news/stocks/fe-xcelerate-2021-attracts-international-fintech-startups-looking-to-grow-to-the-next-level-1030478601"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "K5Tfyw/Gst7ImiCkHWmr+2/bpP0voct8nvHZfAZqnXAL3cFm/J6ksNIZ9IkjZRdVLH31XbReCH2U1c+xq2EMEBfyHch/iUceBd45y5Xqq1ws/6cEfndMsInoItmQGIpVmEe+7ngD/WV+RUU7HMi6Npm5F4NdgDWsKUjyNf4WeqLYOhWyOAzFGT9uPSMiUdaRznerV68/CPe9fyI8dyJLaYN5hUkTB5hxEieM6LKcIa8V11YvIqYNa53N2qbx4O8M7mGaoBdSnDfME0deMCRB2BQ0hju7FbNKK6K3L8I+fUiTNHFX6U33ZNAjbKnv6vqO80Q1sNra5RBE6u2NsW3GHR32NddzDXIAvQhisu1Gpbk=;HlnUs/K0OoN2qySJ1lkCEA=="
+secured: "77XYh7SLXscZp6LGr5nn4J8g6sC9SOpF7r+xa3SAID5g+l6QB8vY89beSxp0ZGQN/3vq0un7Hpy1lqdA5roIU7j2wl6v848+v+L2AYsPHG0Dky/efFeLOPfwJPOW/J4lmnqpa+pEfvOIY8Lu4gIAns5hMzxFuzI/K+JIfFRTwRPLJaz6BZvqAMd/0oUxs/ejODd2ZN4FbgHL8hsNl3nbYwy+PyJuxS1aMNXNr85svQegd1QkXuu5dJlZq0eOMS3xOetK3ADnGiPg4cloV5tUtGaGLr1Ww8RSez27Gizeoojo0+nqgwVHEr/+8xiuKz0I7Xh+I1A8fmDX98aU6sxQvqVd7CCHF3+zSfeYcK9xDF4=;HJ2DzZ0mh+epKryo/3iKuw=="
 ---
 
