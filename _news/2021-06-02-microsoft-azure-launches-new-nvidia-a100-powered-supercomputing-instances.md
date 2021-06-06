@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-launches-new-n
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
     quality: 50
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "All Major NVIDIA Announcements At Computex 2021"
+    excerpt: "NVIDIA announced the upgraded version of the base command platform. NVIDIA has announced new products, enhancements and features at Computex Taipei 2021. The company claimed to have integrated artificial intelligence across every consumer-facing applications,"
+    publishedDateTime: 2021-06-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 26
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
         width: 1280
         height: 720
         isCached: true

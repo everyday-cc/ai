@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimod
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

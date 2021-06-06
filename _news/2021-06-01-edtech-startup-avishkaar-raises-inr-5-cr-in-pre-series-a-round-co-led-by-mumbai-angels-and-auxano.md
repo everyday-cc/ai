@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/373331"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373331"
 type: article
 quality: 76
-heat: 126
+heat: 96
 published: true
 
 provider:
@@ -62,52 +62,6 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/12/full/1591984030-0973.jpg&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Mumbai Angels and Auxano lead pre series funding for Edtech startup Avishkaar"
-    excerpt: "Read Article Mumbai Angels Network, a platform for early-stage investments, along with Auxano, and other eminent angel investors, has invested INR five cr in edtech startup Avishkaar as a part of pre series."
-    publishedDateTime: 2021-06-01T06:48:00Z
-    webUrl: "https://www.crn.in/news/mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar/"
-    ampWebUrl: "https://www.crn.in/amp/news/mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar/"
-    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/mumbai-angels-and-auxano-lead-pre-series-funding-for-edtech-startup-avishkaar/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 56
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2021/06/01124829/pexels-monstera-5849585.jpg"
-        width: 696
-        height: 465
-        isCached: true
-  - title: "Edtech startup Avishkaar gets Rs 5 crore funding from Auxano, others"
-    excerpt: "Edtech startup Avishkaar, which clocked five times growth in 2020-21, focuses on robotics, artificial intelligence, coding, and app development for children between ages 5 and 15."
-    publishedDateTime: 2021-06-01T06:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/edtech-startup-avishkaar-gets-rs-5-crore-funding-from-auxano-others/articleshow/83138262.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/edtech-startup-avishkaar-gets-rs-5-crore-funding-from-auxano-others/amp_articleshow/83138262.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/edtech-startup-avishkaar-gets-rs-5-crore-funding-from-auxano-others/amp_articleshow/83138262.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-56968,msid-83138463/edtech.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Edtech startup Avishkaar raises Rs 5 cr, clocks 5X growth"
-    excerpt: "Edtech startup Avishkaar on Tuesday said it has raised Rs 5 crore in pre-Series A funding that will help towards product development"
-    publishedDateTime: 2021-06-01T06:37:00Z
-    webUrl: "https://www.glamsham.com/world/technology/edtech-startup-avishkaar-raises-rs-5-cr-clocks-5x-growth"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/fc3ed0a9c3c8f271de4ce3c003bb593a.jpg"
-        width: 400
-        height: 267
         isCached: true
 
 secured: "87H1lDbkmi6uuC4bNHIdMZBWAkHCYspl24iJ8i5jMoJM1IK8IqAnkYeXvpszUM9o7M1OSnNn75sZN3nDMmBaOJpIXdps7guXTLvlL7pKwWjonSrvcz50ri7HP9sW3TqlpWZifJuVR0U7xLODDKJ2wy1hxnTwAdGEH6iyoqsb2cn8XS4kOiW4q3bW1dgis78uVTKgJHYaSAduVluOvNHpO7/a/dmxnpckmcfpnERsvKUY4LMVEsTilxHQpnMw9pdM2fxEJous6NZ5H/MO30EVif6tFvo2MjoFEK0UEE4Ln9czKyjpB9wtomhlB6kd9b9AR8OMD7twmU1Ek6aOK7+KFS+TEhvp9DtCrKMcdEe650aMvY3RoQ82sEBc1Bv4QBBkDCwGCZab15FQ7AagX43XvPe1alEeH7AtjsY3Rqsr9WkJxOaQuYbCpkgTBmvpi3Z3riqja0NDQDz5+9vgc/FHdMuZlDOC0AdogD8KPma2i+AMkVbEr/gGwb35v/C0SopaHjqoW2PBIIFHlEKR977w4w==;yh7TfRWPitqK1Gp0q64DiQ=="

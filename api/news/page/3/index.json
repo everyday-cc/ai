@@ -595,7 +595,7 @@
       "originalUrl": "https://www.techradar.com/uk/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1147,6 +1147,51 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
+      "title": "NVIDIA pivots to AI for enterprises",
+      "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
+      "originalUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png",
+          "width": 1124,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp",
+      "publishedDateTime": "2021-06-02T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp.md",
       "title": "AI-driven platform to facilitate early Covid intervention over WhatsApp",
       "excerpt": "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,",
@@ -1187,59 +1232,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-few-shot-learning.md",
-      "title": "Amazon AWS Machine Learning Summit keynote kicks off with ‘few-shot learning’",
-      "excerpt": "Amazon AWS's AI and machine learning executives Swami Sivasubramanian and Bratin Saha lead the morning keynote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
-          "width": 1782,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
-      "publishedDateTime": "2021-06-02T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

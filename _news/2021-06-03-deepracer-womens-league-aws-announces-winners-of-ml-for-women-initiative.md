@@ -46,14 +46,19 @@ related:
         height: 465
         isCached: true
   - title: "AWS announces winners of first DeepRacer Women's League in India"
-    excerpt: "Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Womens League in India, held to boost women students to learn machine learning (ML) via a Cloud-based virtual racing simulator."
-    publishedDateTime: 2021-06-03T13:51:00Z
-    webUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html"
+    excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ..."
+    publishedDateTime: 2021-06-03T15:00:00Z
+    webUrl: "https://menafn.com/1102206361/AWS-announces-winners-of-first-DeepRacer-Womens-League-in-India"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 51
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 71
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "7OQrKLAv2yE1/ZRUjvTgLPLvW/vAjIoBppDyapx6uoevd67Df1nioPhgpMjYsaZ8AaSDprI+E+Q+eJk4MBf7dj+V6rnENegsV4IKp7uPPZpHNb43v4E/DPIhwnkVU91LGhV/goXAEoCruhewZsrOndrQ8x1Tmu4N9UMrmIgsfnxtWJhS8775sA5K8HSagEedkit2j+QowtsQaoLv0AfG53h5wAOpx4JInh27jgm+GI/WXQAIqa6vS5XDyDyl2y9L1rFHQ9Qzicof87I3eB5G103TgjTQlzK5EqLbH1DiQG5tw6nqEMlsc0z1Y8+pBmbCAyftYY7qfcI3ylcD47dQRB7rDo78ZxBbhVE8uMRWuP8=;K0/y23wE8vZc4fLLdakr5g=="
 ---

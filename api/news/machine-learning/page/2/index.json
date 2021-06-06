@@ -1220,6 +1220,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
+      "title": "Alteryx announces new AutoML product and Intelligence Suite",
+      "excerpt": "Intelligence Suite also adds some light automated machine learning (AutoML) capabilities. But if AutoML is what you're after, you'll want to take a look at the new Alteryx Machine Learning product ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/19/561d7db1-2f48-441a-bfd1-1cb1394ec6a5/alteryx-machine-learning-chord-diagram.png",
+          "width": 3836,
+          "height": 2060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "publishedDateTime": "2021-05-19T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-114-milestones-in-the-history-of-artificial-intelligence-ai.md",
       "title": "114 Milestones In The History Of Artificial Intelligence (AI)",
       "excerpt": "The evolution of AI from theoretical concepts to machine logic to expert systems to machine learning to artificial neural networks and big data-based deep learning",
@@ -1325,61 +1377,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-revamps-its-cloud-based-machine-learning-platform-yet-again.md",
-      "title": "Google Revamps Its Cloud-Based Machine Learning Platform Yet Again",
-      "excerpt": "With Vertex AI, Google not only unifies its AI offerings but also closes the gap with similar offerings from its key competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a4bfc594b2b134fb5ea400%2F0x0.jpg",
-          "width": 1000,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
-      "publishedDateTime": "2021-05-19T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-22-ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health.md",
+      "title": "Ai Medicine Software Market Growth Graph To Demonstrate Inclination Towards Positive Axis By 2027 | Enlitic, Atomwise, DeepMind, Babylon Health",
+      "excerpt": "The Ai Medicine Software Market study offers a meticulous study of all the factors that are anticipated to influence the growth of the industry. This Industry report introduces Definitions, Classifications,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/22/ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health/",
+      "originalUrl": "https://ksusentinel.com/2021/05/22/ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neighborwebsj.com/wp-content/uploads/2021/05/Untitled-design-3.gif",
+          "width": 1004,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-facebooks-ai-speech-recognition-no-longer-requires-human-transcriptions.md",
       "title": "Facebook’s AI Speech Recognition no longer requires human transcriptions",
       "excerpt": "Facebook's speech recognition can now learn new languages without human transcriptions, saving hours and hours of monotonous work.",
@@ -1141,58 +1184,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth.md",
-      "title": "Sinequa: Third-party marketplaces boost hyperscale cloud growth",
-      "excerpt": "Enterprise IT leaders prefer Google Cloud, Amazon Web Services, and Microsoft Azure because of the strength of the third-party marketplaces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/world.investmentsGettyImages-1201627478-e1616327709332.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/amp/",
-      "publishedDateTime": "2021-05-21T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

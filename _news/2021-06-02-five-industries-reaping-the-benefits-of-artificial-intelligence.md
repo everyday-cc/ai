@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-indus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.cioreview.com/graph_image/0ux8himahdagdy123.jpg"
         width: 349
         height: 242
+        isCached: true
+  - title: "NVIDIA leads journey to AI-Infused Industrial Edge with AI-powered technologies"
+    excerpt: "Computex is recognized as the world’s largest tech conference focused on the IT and IoT industry.  This year Computex invited Jerry Chen, head of Global Business Development for NVIDIA’s Manufacturing and Industrial Business,"
+    publishedDateTime: 2021-06-02T08:48:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-leads-ai-infused-industrial-edge/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 35
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/06/Jerry-Chen-Keynote-2.jpg?resize=640%2C352&#038;ssl=1"
+        width: 640
+        height: 352
         isCached: true
 
 secured: "Al8h3V9wSvdNR4JxLCm4I9HNgA5UBlZnptOLEtd2ujkD105cD+qMhfEcffJxEcYpdpbGu/m/VMxq7cijAT3pgyQ0V3kBEk2x0Nir5BZZGyuX5hAa8dvgEwT5QaiOLPYTUlc3p4sXfilofXmlsU+/ZDGVK9gKs21CXfJFdyhr+OxYRPc+WPyi2OY4BFd6dVjXkU8CN22b5+befXiK88+2r1oqf7w8e0F+moTA+SfQ877IX7/GnvHIJgUFLXRdXyEjBqIKVlUcAH2IEkJ0Ok7mGJuAmNq9L9vqR95wzhkRkj9nM4N7RfuurTNVS3ZNdlyeA2XpnzB4fAqgjBtKARW8RCVQz6dv3Rmep0LCtfRxEP0=;MSvsgShwnrtKkqLAEW52Qg=="

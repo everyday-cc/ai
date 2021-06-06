@@ -195,6 +195,51 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
+      "title": "NVIDIA pivots to AI for enterprises",
+      "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
+      "originalUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png",
+          "width": 1124,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp",
+      "publishedDateTime": "2021-06-02T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-nvidia-continues-to-evolve-from-chips-to-software-to-ai-data-centers.md",
       "title": "NVIDIA Continues To Evolve, From Chips To Software To AI Data Centers",
       "excerpt": "At Computex, new Base Command platform, expanded NVIDIA Certified program, and significant traction for DGX Servers NVIDIA made several announcements this week at the annual Computex conference in Taiwan,",
@@ -1392,50 +1437,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-mythic-ai-gets-funding-to-mass-produce-edge-chips.md",
-      "title": "Mythic AI gets funding to mass-produce edge chips",
-      "excerpt": "Just six months after unveiling its first AI inferencing processor, Mythic AI has announced a new round of funding for $70 million in Series C investment to begin mass production of its chips and to develop its next generation of hardware and software products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
-      "originalUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/neural-network1-100860577-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
-      "publishedDateTime": "2021-05-19T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

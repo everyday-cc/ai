@@ -1,23 +1,29 @@
 ---
 category: news
 title: "AWS announces winners of first DeepRacer Women's League in India"
-excerpt: "Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Womens League in India, held to boost women students to learn machine learning (ML) via a Cloud-based virtual racing simulator."
-publishedDateTime: 2021-06-03T13:51:00Z
-originalUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html"
-webUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html"
+excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ..."
+publishedDateTime: 2021-06-03T15:00:00Z
+originalUrl: "https://menafn.com/1102206361/AWS-announces-winners-of-first-DeepRacer-Womens-League-in-India"
+webUrl: "https://menafn.com/1102206361/AWS-announces-winners-of-first-DeepRacer-Womens-League-in-India"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
   - AI in Autos
+
+images:
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
+    isCached: true
 
 related:
   - title: "DeepRacer Women’s League: AWS announces winners of ML for women initiative"
@@ -53,6 +59,6 @@ related:
         height: 465
         isCached: true
 
-secured: "s34WF3lJegJrQ6QO8kX4ICH4dpydrFcv3qjeigR+eVzEI3ZnErX1iVrb3mDQLmX5w8xo8F3V/Urw+bXSuoZLcu+/hlFtt7kKSF0eOh2CJfKZEVyh5bGi8XF6zIVgCecGxV+cqt7IVgXVURJl08ad5Fo1+iGRGFWOCeM7gQxRmWkmZ3yaiiwY9AiOPhavOCje11YJrQN6qlCLI1Fx3K5mCaaxxtLrNLsXGzy9nf/+Hfjy1HBRY56bH1wK2b3MjzXnFBZseBy88nqQod05eoDShA5aWC0XnJTp4qTlU1wI5X1bm29zvKQEOlF2Z2qXYdDsFom4wM0abXjYK5pXQbBEO1eNkwIisbeG58+Cfh2AJtE=;9lY34xRWpQZrxb0Ky6vqNg=="
+secured: "C+8lgSF52I4Kn1tpNePtnSBcyJSzgo9YizFKyl5G795UxPwrZaSMYyeKTgoActQPo1IJKay8kHIgpkOig/78KasGbNp+pUKmT4WtI28mbbQEEe8LwYmKC25FLiHyhHIEJ075sCp/2/xfthlZBRsFteshfNA/dpxhVlbpKDkmExnK5rDUrOvBSAd8laaw78cn9lm/r9R2eYVjXSMJPLZi9nj1q/g5jkwf5aOHx2oZ3oscaSLbUxm4JAmgemuord8bKjrfoNqF4BSS9E+K7rj3jhSUihl3ROTYWyhBOPX5ubBJ0OrQXo4E02mFLcoYvd3CFUX0hvzK82rDKv/bc5EYoRPfKRO/WQojCCkVFwVpbEY=;EzsvyKAyuuSeM+c1lGClAQ=="
 ---
 

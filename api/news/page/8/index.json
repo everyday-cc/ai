@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-28-russias-sberbank-unit-unveils-self-driving-vehicle-flip.md",
+      "title": "Russia's Sberbank unit unveils self-driving vehicle FLIP",
+      "excerpt": "SberAutoTech, a subsidiary of Russia's largest lender Sberbank, has developed a fully self-driving vehicle, FLIP, which the company on Thursday described as a \"taxi of the future\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/russia-sberbank-autonomous/russias-sberbank-unit-unveils-self-driving-vehicle-flip-idUSL5N2ND6FC",
+      "originalUrl": "https://www.reuters.com/article/russia-sberbank-autonomous/russias-sberbank-unit-unveils-self-driving-vehicle-flip-idUSL5N2ND6FC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563651392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q18N",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2ND6FC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2ND6FC",
+      "publishedDateTime": "2021-05-27T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-how-ai-and-machine-learning-help-fight-the-covid-19-battle.md",
       "title": "How AI and machine learning help fight the COVID-19 battle",
       "excerpt": "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications.",
@@ -1158,59 +1210,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-foundations-of-trustworthy-ai-governed-data-and-ai-ai-ethics-and-an-open-diverse-ecosystem.md",
-      "title": "Foundations of trustworthy AI: governed data and AI, AI ethics and an open diverse ecosystem",
-      "excerpt": "Companies around the world are realizing that building trust in AI is key to widespread adoption of the technology. They know that trust in AI and being able to explain decisions made through AI algorithms are crucial to the success of their business from a brand perspective. According to Morning Consult,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundations/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/foundations_of_trustworthy_ai_blog_2000x1000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T06:00:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

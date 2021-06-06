@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "All Major NVIDIA Announcements At Computex 2021"
+    excerpt: "NVIDIA announced the upgraded version of the base command platform. NVIDIA has announced new products, enhancements and features at Computex Taipei 2021. The company claimed to have integrated artificial intelligence across every consumer-facing applications,"
+    publishedDateTime: 2021-06-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 26
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "5OGR0o2lVXR26P3f2NS7gO6sfyQdYlW4f6mgSyLIs8TsF0QDBsCXM9bUbeqspkdzag4opsqy7ESWC0LOPirk6Ry6Jm7c4TYktVBJqJfXjhcsd0cWQ5sIf7UKTFVuzmJu9ytayKOut7sZIzGa4SVX3tCevY3aqfVGVNZXhWkmynTjtQDMrz9qHsjL4S5+K//BQsooSqicCOZ/4J5Nan/MFnq+6plWDb9pHrarkeoN7HyEf2aVc/+cNgherp7ZW5/p3Ew+3/kP255jXwelTrR40b6Ay7+k52AP2STn6bbkMgRQ7fWqwOh6qUlpeiY+lywtWlWohzGM+6FpIj4rs+S/aG0HS+NCAtwcVaX04iLnFo0BNPMM066uGAnJokfASQPbLeZ3UR2WT4PuEOsTx8AfGZY+yL5kVUQCJa1P9jpJwKIxagFf//p+c2QxUgrGOYc6SJ46AI97i8bZ4ChTUKOOcgwLSj1jXfko8Kmii9e5ibmGYGwtGUsDuxpXqTwd/tJjaSQxpFaiiIQTuY24b9i3XQ==;38BUDKEDLERJGEpAuR7PKw=="
 ---

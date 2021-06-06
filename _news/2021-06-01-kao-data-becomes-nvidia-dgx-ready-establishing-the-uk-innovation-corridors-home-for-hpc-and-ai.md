@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Continues To Evolve, From Chips To Software To AI Data Centers"
-    excerpt: "At Computex, new Base Command platform, expanded NVIDIA Certified program, and significant traction for DGX Servers NVIDIA made several announcements this week at the annual Computex conference in Taiwan,"
-    publishedDateTime: 2021-06-01T06:10:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/01/ai-base-command-brings-nvidia-into-the-emerging-mlops-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b4d19d005773dfff9f9079%2F0x0.jpg"
-        width: 1200
-        height: 661
-        isCached: true
-  - title: "Nvidia lifts curtain on AI software dev platform, new AI servers at Computex"
-    excerpt: "Nvidia unveiled its Base Command AI software development platform and x86 servers certified to run Nvidia AI Enterprise."
-    publishedDateTime: 2021-06-01T06:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/31/nvidia-lifts-curtain-on-ai-software-dev-platform-new-ai-servers-at-computex/"
-    ampWebUrl: "https://venturebeat.com/2021/05/31/nvidia-lifts-curtain-on-ai-software-dev-platform-new-ai-servers-at-computex/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/nvidia-lifts-curtain-on-ai-software-dev-platform-new-ai-servers-at-computex/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/NVIDIA-Base-Command-Platform-e1622242314506.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NVIDIA pivots to AI for enterprises"
     excerpt: "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products."
     publishedDateTime: 2021-06-02T09:52:00Z
@@ -73,19 +41,19 @@ related:
         width: 1124
         height: 760
         isCached: true
-  - title: "Nvidia announces more certified AI server systems at Computex 2021"
-    excerpt: "Nvidia Corp. is expanding the number of Nvidia-certified systems available for enterprises that want to run artificial intelligence workloads at scale in their own data centers or Nvidia’s cloud. The announcement was made at the virtual Computex 2021 event today,"
-    publishedDateTime: 2021-06-01T06:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/01/nvidia-announces-certified-ai-server-systems-computex-2021/"
+  - title: "Artificial intelligence (AI) Chips Market Next Big Thing | Major Giants AMD, Alphabet, Mythic, NVIDIA"
+    excerpt: "The '' ” Study has been added to HTF MI database. The study covers in-depth overview, description about the Product, Industry Scope and elaborates market outlook and growth status to 2026. At present,"
+    publishedDateTime: 2021-06-02T04:38:00Z
+    webUrl: "https://menafn.com/1102195902/Artificial-intelligence-AI-Chips-Market-Next-Big-Thing-Major-Giants-AMD-Alphabet-Mythic-NVIDIA"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NVIDIA-Certified-Press-Graphic1.jpg"
-        width: 2048
-        height: 1024
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "NVIDIA Launches Cloud Hub to Support AI Project Development"
     excerpt: "NVIDIA is unveiling the NVIDIA Base Command Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
@@ -101,75 +69,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA leads journey to AI-Infused Industrial Edge with AI-powered technologies"
-    excerpt: "Computex is recognized as the world’s largest tech conference focused on the IT and IoT industry.  This year Computex invited Jerry Chen, head of Global Business Development for NVIDIA’s Manufacturing and Industrial Business,"
-    publishedDateTime: 2021-06-02T08:48:00Z
-    webUrl: "https://www.tech-critter.com/nvidia-leads-ai-infused-industrial-edge/"
+  - title: "AI funding frenzy tags cloud-scale computing as enterprises’ point of differentiation"
+    excerpt: "Data is at the core of today’s digital revolution, but its refinement processes have become the real points of differentiation for enterprises. As companies convert raw data into actionable insights,"
+    publishedDateTime: 2021-06-05T21:07:00Z
+    webUrl: "https://siliconangle.com/2021/06/03/ai-funding-frenzy-tags-cloud-scale-computing-enterprises-point-differentiation-awsshowcase2q21/"
     type: article
     provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 35
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
     images:
-      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/06/Jerry-Chen-Keynote-2.jpg?resize=640%2C352&#038;ssl=1"
-        width: 640
-        height: 352
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/AI-thumbs-funding-market-up-rise-arrow-growth.jpg"
+        width: 5760
+        height: 3152
         isCached: true
-  - title: "All Major NVIDIA Announcements At Computex 2021"
-    excerpt: "NVIDIA announced the upgraded version of the base command platform. NVIDIA has announced new products, enhancements and features at Computex Taipei 2021. The company claimed to have integrated artificial intelligence across every consumer-facing applications,"
-    publishedDateTime: 2021-06-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
+  - title: "Artificial Intelligence In Healthcare Market Overview, Demand, and Growth | Top Companies – Intel Corporation, Nvidia Corporation, Google."
+    excerpt: "The Artificial Intelligence In Healthcare Market is expected to grow at a CAGR of 7.67% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report."
+    publishedDateTime: 2021-06-04T12:27:00Z
+    webUrl: "https://ksusentinel.com/2021/06/04/artificial-intelligence-in-healthcare-market-overview-demand-and-growth-top-companies-intel-corporation-nvidia-corporation-google/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 26
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
-        width: 1280
-        height: 720
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Key-Questions-Answered-in-Report-1-1.jpg"
+        width: 573
+        height: 595
         isCached: true
-  - title: "Nvidia Pitches DGX SuperPOD Subscription, DPU Servers To Enterprises"
-    excerpt: "Nvidia is launching a new subscription solution for its DGX SuperPOD supercomputer called Base Command as new Nvidia-certified servers are expected to come with BlueField DPUs and Arm CPUs."
-    publishedDateTime: 2021-06-01T06:00:00Z
-    webUrl: "https://www.crn.com/news/data-center/nvidia-pitches-dgx-superpod-subscription-dpu-servers-to-enterprises"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/0269-12629ca6d149-7345b87a6f60-1000/nvidia-dgx-superpod.jpg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "GIGABYTE Offers More NVIDIA-Certified GPU Servers"
-    excerpt: "GIGABYTE Technology, (TWSE: 2376), a maker of high-performance servers and workstations, today announced additional GIGABYTE servers that have been added to the growing list of NVIDIA-Certified Systems."
-    publishedDateTime: 2021-06-03T14:37:00Z
-    webUrl: "https://insidehpc.com/2021/06/gigabyte-offers-more-nvidia-certified-gpu-servers/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
-  - title: "NVIDIA Base Command Platform Provides Enterprises with Fast Path to Scale Production AI"
-    excerpt: "COMPUTEX -- NVIDIA today unveiled NVIDIA ® Base Command™ Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
-    publishedDateTime: 2021-06-01T05:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-base-command-platform-provides-enterprises-with-fast-/2021/06/01/9380796.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-  - title: "NVIDIA AI Enterprise Software Drives New Wave of Certified Systems from World's Leading Manufacturers"
-    excerpt: "COMPUTEX--NVIDIA today announced dozens of new servers certified to run NVIDIA AI Enterprise software, marking a rapid expans"
-    publishedDateTime: 2021-06-01T05:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-ai-enterprise-software-drives-new-wave-certified-/2021/06/01/9380798.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "OYk0TxRv4dcW6Pw3jJoXFBrPtLBeobAH7MQR941tMziCagZmlzbXUzlwy++t/7QjOslWBqdRM7rATt7pBL3v5EhV/FCQObfxGjVgvP6DrcobYDBAvj0hUhmKUXe67jltPl1Sw6GoprnAlo9ns6mPn/saLqHCMS8CWy4f4Gjjng2fcxXeFXoIXLiE3qyjPprYvfnM+XMzOziYqFLreQ7bIX4JDzYvxhf4x0DdXNh0FgC8UvOHNW+fv7LsrDwzfCxaNclAlhOilrFvsnPl+ut1WTxm1UU2/lfXFy3oWBdI9yCUjc3jbjUgH6tHpKOp31mOPDEhaWsUyjrW+s8MG5faiYC1XM9W1wqKq5qXDMWUcyg=;ssy1qEa6P+ZRP7yKDtKszw=="
 ---

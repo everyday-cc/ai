@@ -2,6 +2,58 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-05-08-googles-main-business-could-use-some-moonshots.md",
+      "title": "Google’s Main Business Could Use Some Moonshots",
+      "excerpt": "Time was when some investors valued Waymo above $100 billion ... DeepMind Technologies Ltd., the U.K.-based artificial intelligence company that is one of the “Other Bets,” has made ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-08/google-s-other-bets-should-focus-on-its-main-business",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-08/google-s-other-bets-should-focus-on-its-main-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZLIV5OSAj74/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-08T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-cloud-software-provider-billcom-to-acquire-expense-management-fintech-divvy-in-25b-deal.md",
       "title": "Cloud Software Provider Bill.com to Acquire Expense Management Fintech Divvy in $2.5B Deal",
       "excerpt": "Cloud software provider Bill.com to acquire expense management Fintech Divvy in $2.5B deal. The transaction should be finalized by Sept 2021.",
@@ -1150,49 +1202,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-video-more-certainty-for-deep-learning.md",
-      "title": "Video: More certainty for deep learning",
-      "excerpt": "Deep learning, machine learning and artificial intelligence offer significant opportunities to solve the challenges of different disciplines and make our lives easier in many ways.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-video-certainty-deep.amp",
-      "publishedDateTime": "2021-05-07T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

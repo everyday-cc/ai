@@ -54,6 +54,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "NVIDIA leads journey to AI-Infused Industrial Edge with AI-powered technologies"
+    excerpt: "Computex is recognized as the world’s largest tech conference focused on the IT and IoT industry.  This year Computex invited Jerry Chen, head of Global Business Development for NVIDIA’s Manufacturing and Industrial Business,"
+    publishedDateTime: 2021-06-02T08:48:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-leads-ai-infused-industrial-edge/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 35
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/06/Jerry-Chen-Keynote-2.jpg?resize=640%2C352&#038;ssl=1"
+        width: 640
+        height: 352
+        isCached: true
 
 secured: "6qde7b0lbgh/NY2cyiw76BwI9LuZiKV1f5n3zGR4lcszNct2SJOs8gKYdiIBS4PIcXp+Y7SO5gqDvxOaYNN6aE/RMwCZ3NrzNfASR0LLeDuhRgz9rhFyEE2OsvHUzRk9qw68tzAra7GO11y300uhbKFEzpggI/tw6UJMaTElJczFZ62at8QntsyzCbhxDQucIHqTcfbR1YndSmzTTzfKRlKp2WFfkHGapzXxFyWUvALrqUP/Rf00c01J/JjBl8EGBA6O6UllxPwXNnK0hG1B3CivbgjcaIwNnkIDmDAGqs4EHsmsfIhw84AX1nHx7+DpDtUjCawObTsiJEkwb5Ri5WtbK2estiB5Ua3QHoPqej2nSmxah+ZXyD8maF2NREckF3IGpgKa+Q1KUVGwT9nFTwZ8Dd41uFcKCW01EvxpOFfo06p/5BIiIZrjqf5cajrCBBivW++ic/PzkWxCjWSi/SoP63u9KgPBmWtbzjn9cepg9ANuzMhDEbxUfgAq8lOwhJxAoimK3eJ2A8mFhEMwjg==;BumX67nqI94LGz4a6znlPg=="
 ---

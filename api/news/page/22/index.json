@@ -2,6 +2,104 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-05-19-baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars.md",
+      "title": "Baidu Awards Contract to Hesai for Customized Lidar Sensor That Will Power Its Self-Driving Cars",
+      "excerpt": "Baidu Apollo and Shanghai-based laser guidance system developer Hesai Technology have clinched a deal in which Hesai will produce a lidar sensor tailored to Baidu’s fifth-generation driverless vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-05-19/1621415590045976_560_373.jpg",
+          "width": 560,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-revamps-its-cloud-based-machine-learning-platform-yet-again.md",
+      "title": "Google Revamps Its Cloud-Based Machine Learning Platform Yet Again",
+      "excerpt": "With Vertex AI, Google not only unifies its AI offerings but also closes the gap with similar offerings from its key competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a4bfc594b2b134fb5ea400%2F0x0.jpg",
+          "width": 1000,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
+      "publishedDateTime": "2021-05-19T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning.md",
       "title": "Forecast nabs $19M for its AI-based approach to project management and resource planning",
       "excerpt": "Project management has long been a people-led aspect of the workplace, but that has slowly been changing. Trends in automation, big data, and AI have not only ushered in a new wave of project management applications,",
@@ -561,58 +659,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
-      "title": "Alteryx announces new AutoML product and Intelligence Suite",
-      "excerpt": "The company, best known for its data prep bona fides, leverages its acquisitions in the machine learning space to announce new data science features in Alteryx Designer and new standalone AutoML product,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/19/561d7db1-2f48-441a-bfd1-1cb1394ec6a5/alteryx-machine-learning-chord-diagram.png",
-          "width": 3836,
-          "height": 2060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "publishedDateTime": "2021-05-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-19-natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025.md",
       "title": "Natural Language Processing Market Report Analysis, Share, Revenue, Growth Rate With Forecast Overview To 2025",
       "excerpt": "The research report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, sales, current scenario, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10.",
@@ -1118,48 +1164,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-watch-singing-ai-blobs-rock-the-house-with-tune-yards-at-google-io.md",
-      "title": "Watch singing AI blobs rock the house with Tune-Yards at Google I/O",
-      "excerpt": "The blobs are back in town. Google opened its I/O developer conference Tuesday with a performance that felt genuinely innovative, and actually fun, from the avant-garde vocal and electronica artist Tune-Yards — and Google's own Blob Opera.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/blob-opera-tune-yards-google-io-2021/",
-      "originalUrl": "https://mashable.com/video/blob-opera-tune-yards-google-io-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F05%252F18%252Fc4%252Ff4dd622c59fc40d283b55abaf6d68bff.210a8.png%252F1200x630.png?signature=rBiyGXhp7f0mQHvzkz9NmuzLc7w=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/blob-opera-tune-yards-google-io-2021.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/blob-opera-tune-yards-google-io-2021.amp",
-      "publishedDateTime": "2021-05-18T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
