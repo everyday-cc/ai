@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/03/science-University-o
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -27,31 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "AI outperforms humans in creating cancer treatments, but do doctors trust it?"
-    excerpt: "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a unique study involving physicians and their patients."
-    publishedDateTime: 2021-06-03T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.amp"
+  - title: "Biden’s AI czar focuses on societal risks, preventing harm"
+    excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling"
+    publishedDateTime: 2021-06-03T16:14:00Z
+    webUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
+    ampWebUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
+    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
+      name: WSAV-TV
+      domain: wsav.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280"
+        width: 1280
+        height: 1130
         isCached: true
-  - title: "AI outperforms humans in creating cancer treatments, but do doctors trust it?"
-    excerpt: "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by researchers in a unique study involving physicians and their patients."
-    publishedDateTime: 2021-06-05T01:19:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/06/210603111932.htm"
+  - title: "Biden's AI czar focuses on societal risks, preventing harm"
+    excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pulling barnacles off a ship."
+    publishedDateTime: 2021-06-03T20:11:00Z
+    webUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
+    ampWebUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/4KQI2JAAWJBB5AL6RC627ULDHA.jpg"
+        width: 2000
+        height: 1765
+        isCached: true
+  - title: "White House AI Czar Focuses on Societal Risks, Preventing Harm"
+    excerpt: "A computer scientist and pioneering roboticist, Lynne Parker now confronts the promise and risks of artificial intelligence."
+    publishedDateTime: 2021-06-04T14:56:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21485499/bidens-ai-czar-focuses-on-societal-risks-preventing-harm"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/16x9/Screen_Shot_2021_06_04_at_10.21.51_AM.60ba455bca627.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden’s AI czar focuses on societal risks, preventing harm"
+    excerpt: "Computer scientist Lynne Parker's job is getting the U.S. government working together — alongside businesses, research universities and international allies — as director of a new national initiative on artificial intelligence."
+    publishedDateTime: 2021-06-04T21:19:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "YhvJ2sR16Z7ip8ofDL3X3UfjBuxokVDFQcm3rocTUUu3k9PrGyclGINmfXs11rVYY0OD4Hmvf+kx1b1wLEGTMBHdAEgWOVqF6tDXsD10/hFLHClvhRMYRMqOf3XvHWb/DQWTAxc4i04UpHnahpEwb0O5VJsOeKcB24kqbvJFymhD3Bo8ME/266X5b0oQof9AtIibBSKWKQmkchZ9CFcgUpwMBwK6O93vMKWOvsRSUvCXKBMxXf4L9K7v3sH40+UErqMteGwQnaAB56ia83rTrZvDYzXx4NygONwyy5khMhOHq3CduxTjqsPCUI6zwdqOk10qnbb1qZML8n3IANlwhyv1NFm6sROoNqg7jKJVZkKv12sQTLanswOb4gN7XdrSWDQXx3JqNgSYCXaJUoIw1Sph4QY0LGdhURXWacf8s4Rf1QLAh8DgcHO/sEAlSUbv9y4qMBgihCMPSavhl86tUn8urUr7jCZR9Sp8GDkU+Y1BTaosC5I/xAnRhoUoJdUhx75vyxvSlQ0+J8378j7wLA==;1EUewGA4+fmo1cV+8m1PPg=="
 ---

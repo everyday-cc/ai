@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Azure is now smarter and more powerful than ever"
 excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
 publishedDateTime: 2021-05-25T15:10:00Z
-originalUrl: "https://www.techradar.com/uk/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-webUrl: "https://www.techradar.com/uk/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+originalUrl: "https://www.techradar.com/sg/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+webUrl: "https://www.techradar.com/sg/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 270
     isCached: true
 
-secured: "SG6ayRvhbcpKrv6UQUyPhQmgs1uYCs6SmRH+gQzmkQqcQCg659i6dXFtjy0dowq0PX/Vl4vEY5TqcSZ+m1VtbNPVDhwdmQlFKl+YQJlbm838hycG0nXiwtvNCoBCwzR1dcsdkxUtCLSE57JmcU2MPhIshApM4TNbs2hh+lO41zn/NlkUHS0PMKkpuKQGf0XDj2Y9MyGWd6PBzb3b9TLF9uzuuzDhW8072Kqk1nck+XS+2znNLlyfRxrG8mIJ9hsrYVX9s7+BW4DJwVenzBKhGZSUH4H5B5M5v1LKR5o2myCyQCl/cyu0goBIdijhbWyJ19u/YlKtrLckOQqX352Za+O3AOvkLhVUbvtuo/pOReg=;RCt+zX55r9+g10VTTQAP4Q=="
+secured: "oIQ2Pzg91dM6QQujNqNCUnRsEJIwJVehUYuuuQQXrPaEMWX7ly4I0Gc0aeYw6Dg5SGXQDy/zhd/eiP53ZzrMvgzagOYdKHfiwqgFjeLMgoFbvfKBhwXO59wOPD0M0WEQTvdaqHYtcVKnvoOBij4WezqKmAJGs0bWlM+cEvfpn8Wpb5QzuwUgMs5CDYt7llN1erWt+n/dvQ0Hm9DlIIa0BvUl1JoKBNHzy0Ts1sXlePOaSlH6gfwFjkWG2wQbUn51KPBkntoAImBaZcqjNgxnBpeY+cNuVirzTyJb8L8x2HoABIOZllg+ZCzGQwcz9YXzaz0BvA8FzxWO6JKatFYQwFpNT9m3ZGYH3gCGk53fhnA=;yek5MygzORDZDQdfVbfUYw=="
 ---
 

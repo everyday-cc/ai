@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/elder-care-artificia
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New hardware systems bring the future of artificial intelligence into view"
-    excerpt: "Machine learning is the process by which computers adapt their responses without human intervention. This form of artificial intelligence (AI) is now common in everyday tools such as virtual assistants and is being developed for use in areas from medicine to agriculture."
-    publishedDateTime: 2021-06-01T17:19:00Z
-    webUrl: "https://techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-hardware-future-artificial-intelligence-view.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/closer-hardware-system.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence and the Future for Smart Homes"
     excerpt: "The computer revolution has changed our lives massively in the last 50 years, and it''s not looking like it will stop anytime soon. In the last few years, we''ve seen everything from self-driving cars to text messages that can read your mind."
     publishedDateTime: 2021-06-03T20:03:00Z

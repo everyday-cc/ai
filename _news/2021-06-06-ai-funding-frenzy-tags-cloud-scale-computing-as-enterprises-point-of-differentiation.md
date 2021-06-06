@@ -54,20 +54,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "NVIDIA Launches Cloud Hub to Support AI Project Development"
-    excerpt: "NVIDIA is unveiling the NVIDIA Base Command Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
-    publishedDateTime: 2021-06-01T17:36:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Launches-Cloud-Hub-to-Support-AI-Project-Development-147165.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Overview, Demand, and Growth | Top Companies – Intel Corporation, Nvidia Corporation, Google."
     excerpt: "The Artificial Intelligence In Healthcare Market is expected to grow at a CAGR of 7.67% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report."
     publishedDateTime: 2021-06-04T12:27:00Z

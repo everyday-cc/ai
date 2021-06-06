@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-05-13-how-a-helium-shortage-could-put-the-brakes-on-the-tech-boom.md",
+      "title": "How A Helium Shortage Could Put The Brakes On The Tech Boom",
+      "excerpt": "Big Tech, NASA and even the global healthcare industry depend on a critical gas, and it could be heading for a major supply shortage",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-12_cqpknqtdhx.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.amp.html",
+      "publishedDateTime": "2021-05-12T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-build-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker.md",
       "title": "Build a scalable machine learning pipeline for ultra-high resolution medical images using Amazon SageMaker",
       "excerpt": "Neural networks have proven effective at solving complex computer vision tasks such as object detection, image similarity, and classification. With the evolution of low-cost GPUs, the computational cost of building and deploying a neural network has drastically reduced. However, most techniques are designed",
@@ -1149,49 +1192,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-superopsai-electorq-upswing-cognitive-hospitality-solutions-raise-funding.md",
-      "title": "SuperOps.ai, ElecTorq, Upswing Cognitive Hospitality Solutions raise funding",
-      "excerpt": "SuperOps.ai, a professional services automation and remote monitoring and management ... and Freshworks. Upswing Cognitive Hospitality Solutions, a predictive data solutions startup for the hospitality and travel industry, has raised an undisclosed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/superops-ai-electorq-upswing-cognitive-hospitality-solutions-raise-funding",
-      "originalUrl": "https://www.vccircle.com/superops-ai-electorq-upswing-cognitive-hospitality-solutions-raise-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2019/08/FundingRF.jpg",
-          "width": 810,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

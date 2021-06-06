@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Researchers fine-tune control over AI image generation"
-    excerpt: "Researchers from North Carolina State University have developed a new state-of-the-art method for controlling how artificial intelligence (AI) systems create images. The work has applications for fields from autonomous robotics to AI training."
-    publishedDateTime: 2021-06-01T18:59:00Z
-    webUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-fine-tune-ai-image.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-fine-tune-ai-image.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-fine-tune.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "9h3t3Qg35dF42lH7AMngqTBdbmzKVlZhSZ0Oc2xAAdfwFqpIOZD0mhmQMkaGIEchD/QZ/HZnvl+Z2J1HSLetKWFV1UTuB/l94Fgt9NkTIfI1N+NlCBRvvZbLNJKG5TU4bndvQ6IhhJqNIIwFtBWqF+hb2xEi7wHKA4+blo7PzC4UOfIDxAEjhltxKblvdMV82/oGCssLpvJoWMHCfCWeYBP5nXhsngXJQH43mDntHBtThXYUMdVLLS7aVUkJZZ36RyCyXRRKof7MEF1w8RAxS3MPcyb59bxafchYHOkdqXN82OUIstnBry2g7/N+ELO1CAG8jHGtYgqR23KKEVQPbwkBmHnuZ6txJMo/E+urLiU=;NNn5uqmMFr2AvyRjSSAT1g=="
 ---

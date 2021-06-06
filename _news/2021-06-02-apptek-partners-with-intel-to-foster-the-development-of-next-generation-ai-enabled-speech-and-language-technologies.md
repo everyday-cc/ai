@@ -2,27 +2,21 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:41:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
+publishedDateTime: 2021-06-02T12:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
 type: article
-quality: 17
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "AI Chipmaker Hailo Partners with Lanner Electronics to Launch Next-generation AI Inference Solutions at the Edge"
@@ -35,6 +29,6 @@ related:
       domain: businessinsider.com
     quality: 26
 
-secured: "/t/a7lgArrzuH/Yct7D+Ymsz7tAFT7gjOI3PI7K5djgRim+MdleSDwCzxCeTm/xfy3RjyjChU7PpfIoz/pORVhDqRtxgxuLVQaoTtlwiwmulR/ez0iOA+h5KX9mwxEf1/eyho9lbXiYAap4kzX8R4b586xp0y5aFa+gmkiBl2h8JPk/67+v/PwDwzrNvVjSdKiiKYiXjrEZ+wvBuijIKM7JzEOlfaHZGfePbTU9rBz4ig3WwqDlzo2FJ1/Q8hv0aUB94IL6Ol8ZoV/73Vf3CJnDm4WpJwMsc35Mf79EHASCRdSK6EgonfoSnM3GttqnU6eGDiyLYnrxENfEpSyi2Ll/rkm+6pGoTsOtjzPRdjgE=;OzHbRzwcrdYIZcdXBRXRhA=="
+secured: "7yTI3f+un6mNosUMsSNl9/FrAMPydhxqCbx15EWGk3yaO2F1ohPe4MZgndLSS0iD0RM0BJiuLkkiIqCWVzCU6TwXeMnQBKWGU1i6YJMZILgt6Jswd+ZnCaUYjtK8UFot7ZKJlsZ9Ob4FPE7vfyB7+8L/s6vCdRZ/pSrN4xmxqAWYJkCsurkqLg5vGrNp9RZ1C5wwu2COMb/ume6KuZt1EVhyiRdzk0f9Kbuc7pAm+CQg9DqotwNlxYhUKaKPDfKnBWtWZ9gbB48ojItP8Mn5NEJXKGQgy9nPj/twYHxjlwmVbYM/iZn2Xr8XjFl1yWIupEX/amZaiaQ0dIzex5N7OIFi/oejbaYblCDpbg+plWw=;SRh4URDV44LFTOXX5LYtDQ=="
 ---
 

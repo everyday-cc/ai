@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
         height: 250
-        isCached: true
-  - title: "NVIDIA Launches Cloud Hub to Support AI Project Development"
-    excerpt: "NVIDIA is unveiling the NVIDIA Base Command Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to production. The software is designed for large-scale,"
-    publishedDateTime: 2021-06-01T17:36:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Launches-Cloud-Hub-to-Support-AI-Project-Development-147165.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI funding frenzy tags cloud-scale computing as enterprises’ point of differentiation"
     excerpt: "Data is at the core of today’s digital revolution, but its refinement processes have become the real points of differentiation for enterprises. As companies convert raw data into actionable insights,"

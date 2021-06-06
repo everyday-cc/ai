@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Speech Rights and Artificial Intelligence"
+    excerpt: "Today we are seeing the phenomenon of 'machine speech' enhanced by the development of sophisticated artificial intelligence. Ronald K. L. Collins and David M. Skover argue that the First Amendment must provide defenses and justifications for covering and protecting robotic expression."
+    publishedDateTime: 2021-06-06T11:06:00Z
+    webUrl: "https://www.cambridge.org/it/academic/subjects/law/constitutional-and-administrative-law/robotica-speech-rights-and-artificial-intelligence?format=PB&isbn=9781108448710"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 21
 
 secured: "HKdlrNSnzQ7MvStKE1A4yRb+SP/2L6MOJAHM0/1xmeCoglB0rxiMp52upAp+9Riw9xl0quG83yM7oRu2XqLp+NX7hwt17YnK7eKczPaaKXQywzDg8ZX1xOry9hmaI5h4bzGNLPuX0qx0YQ3VF256sSN83va13+rzuYoQt+76b09uvRgY6o0fP+b4Se75r28YT6+PQJbaehaXyfdIDBHZQRjXaEe7/Jy2ejGGXJRIsZeicICOa0OKdghPMIVfaHylyHdR2ikhkZVacYNinBgdlZrmP2FHL9w8b7+T+mjA8Gsmq6be5uW1vXeZiG/rwN4xxyrW6iHaucirj+GazWwhrHGKKhMrC2MYaqZuJQRxabs=;jl+UslAQyKVTmJo+mw7djw=="
 ---

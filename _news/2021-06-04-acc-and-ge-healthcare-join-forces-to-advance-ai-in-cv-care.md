@@ -7,8 +7,8 @@ originalUrl: "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26
 webUrl: "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: American College of Cardiology
@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The potential of artificial intelligence to bring equity in health care"
-    excerpt: "Nearly 1,400 joined MIT's AI for Health Care Equity Conference that explored new artificial intelligence technologies as a platform for change."
-    publishedDateTime: 2021-06-01T17:57:00Z
-    webUrl: "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601"
+  - title: "GE Healthcare signs cardiac AI deal with ACC"
+    excerpt: "GE Healthcare is teaming up with the American College of Cardiology (ACC) to help build a roadmap for the use of artificial intelligence (AI) and digital technology in cardiology."
+    publishedDateTime: 2021-06-03T18:09:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132568"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 71
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202105/AI-Health-Care-Equity.png"
-        width: 1500
-        height: 1000
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2020_01_29_18_12_5932_GE_RSNA_2019_400.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Automating Care: about our new series on the rise of AI in caregiving"
-    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
-    publishedDateTime: 2021-06-03T14:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+  - title: "GE Healthcare, American College of Cardiology partner to advance digital technology in cardiac care"
+    excerpt: "Healthcare supply and service company GE Healthcare is partnering with the American College of Cardiology to advance artificial intelligence and digital technology in cardiac care. GE Healthcare will participate in ACC's Applied Health Innovation Consortium,"
+    publishedDateTime: 2021-06-04T16:14:00Z
+    webUrl: "https://www.beckersasc.com/cardiology/ge-healthcare-american-college-of-cardiology-partner-to-advance-digital-technology-in-cardiac-care.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 25
     images:
-      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
-        width: 600
-        height: 360
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-mobile-logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "iRqVp51LTK9JDsUxG51Dlago6lyKQ/2HrvULiEWdgN8+eLEyLChOQCcwAKxXuNsA8r/ZLF6bKobIGX9UWNFxNDsqzLnXKOUrU6K7DPcijKyB76+EzhhBK53YUKk3TCCVutT098yXi8cx+vwh50y6SsXaFdK2Q3cJqYPPkA25PkqYgeJtX1lUDgNAByRxPUfBbbv0R0MyZctYfJTeQb7epeqn2SguTMJD2B7+AduP8DpEROBZmT23O96IHfxBPHLUCO7rgN+APlwoAqnmEQ/bbHz1zzQYRLbpeMnmYa+xeToOkkvkQC0tkcyN647VrNeqyZ1DiJHzZR/x10/cBCmNSucL9aJ9VH2ikm9OftXrKoI=;rOAi4TnCR98QgaSHX/hzJg=="

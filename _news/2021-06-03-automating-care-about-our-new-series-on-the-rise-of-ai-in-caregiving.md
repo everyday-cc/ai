@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-abou
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Guardian
@@ -30,34 +30,40 @@ images:
     isCached: true
 
 related:
-  - title: "The potential of artificial intelligence to bring equity in health care"
-    excerpt: "Nearly 1,400 joined MIT's AI for Health Care Equity Conference that explored new artificial intelligence technologies as a platform for change."
-    publishedDateTime: 2021-06-01T17:57:00Z
-    webUrl: "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601"
+  - title: "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars"
+    excerpt: "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars."
+    publishedDateTime: 2021-06-03T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 56
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202105/AI-Health-Care-Equity.png"
-        width: 1500
-        height: 1000
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "ACC and GE Healthcare Join Forces to Advance AI in CV Care"
-    excerpt: "The ACC and GE Healthcare are collaborating through support of and participation in ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes."
-    publishedDateTime: 2021-06-03T18:50:00Z
-    webUrl: "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care"
+  - title: "CareDx Advances Artificial Intelligence in Transplantation"
+    excerpt: "Together, CareDx and OrganX will develop advanced analytics that integrate AlloSure, the first transplant specific dd-cfDNA assay, with large transplant databases to provide clinical data solutions. This partnership delivers the next level of innovation beyond multi-modality by incorporating a variety of clinical inputs to create a universal composite scoring system."
+    publishedDateTime: 2021-06-03T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/caredx-advances-artificial-intelligence-in-transplantation-1030492964"
     type: article
     provider:
-      name: American College of Cardiology
-      domain: acc.org
-    quality: 54
-    images:
-      - url: "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg"
-        width: 600
-        height: 314
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "GE Healthcare and the American College of Cardiology Join Forces to Advance AI in Cardiac Care"
+    excerpt: "GE Healthcare is collaborating with the American College of Cardiology (ACC) through support of and participation in the ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes."
+    publishedDateTime: 2021-06-03T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-the-american-college-cardiology-jo-forces-/2021/06/03/9383450.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
 
 secured: "ogjAtKBrqnxa7I/pIXo+xsx1ndVsvKjg1jozHWVxtJlDZSLWrTVvWWzEu7uQjskZ/s9ybdC94CVwHd2ZtLxO+EPS/AstkNPYyFJDXaB6Uzs6w99UDKiTEWJ4sTDgw55NoT434+vsLGt/eMEWCjRQqRJgIz/AWIgBTp9rCOuoIw3sYO9Y2aMJ3j/gg3Dk3JZ3JtGJv5pPp0mK9rlOqRS34tvC/GZyxgm3aiMStg4hthhkdIxCOi8pFnCkrQ4zKjr37iYiSgywrch7JJcxcLsh+9jgA+oHt4gt5PFArU0HblTX8VKh363J0/OVs/SMmNDpItPKLhB2GlCDz3HZ1guWzOPfFN0V1gmdrDhZ58F+0BQUDXO47josENjm5O5rRLHUYmvy0sSpujIzsgVYg2nbOc/DnaNyxLaZCbCRXCLnk609Co9hs3Rw9ZgiqM6w7j5OEfPoAumFRU84L8mmqUYVR+TCBujm6vKxbF9Yc1D2/sI2p3Mz/0XNT+dw46IXXXmZR5PcbmbUXn1iepFdvMupvg==;OtOCWDUaFn50zoSsHcZiLw=="
 ---
