@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-24-3i-infotech-to-rely-on-deep-tech-for-1-billion-revenue-by-2030.md",
+      "title": "3i Infotech to rely on deep tech for $1 billion revenue by 2030",
+      "excerpt": "Based on a ‘Digital’ and a ‘Cloud-first’ approach, the cognitive services solution-oriented company will help in accelerating technology and product startups across the ecosystem. With strong tailwinds supporting its business and growth levers in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/",
+      "originalUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2015/02/Innovation-Growth.jpg",
+          "width": 849,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/amp/",
+      "publishedDateTime": "2021-05-24T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-how-ai-can-enhance-customer-experience.md",
       "title": "How AI can enhance customer experience",
       "excerpt": "G&J Pepsi and Zipline turn to data science and machine learning to get the right products to the right locations at the right time.",
@@ -142,10 +185,10 @@
     {
       "path": "_news/2021-05-24-google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy.md",
       "title": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy",
-      "excerpt": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent ...",
+      "excerpt": "For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent company. Now we report exclusively that Google ended those talks ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81",
-      "originalUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81",
+      "webUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page",
+      "originalUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1134,59 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-understanding-transformers-the-machine-learning-model-behind-gpt-3.md",
-      "title": "Understanding Transformers, the machine learning model behind GPT-3",
-      "excerpt": "How this novel neural network architecture changes the way we analyze complex data types, and powers revolutionary models like GPT-3 and BERT.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
-      "originalUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FAI-Transformers-abstract-hed.jpg&signature=7dad3d13328b212e6fc49afed1eb2819",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-22T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "Machine Learning"
       ]

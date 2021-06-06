@@ -49,20 +49,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Artificial Intelligence Market 2021-2025, Market Size will reach 187231 Million USD in 2025, with a CAGR of 46.76% during Forecast Period"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
-    publishedDateTime: 2021-06-01T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2025-market-size-will-reach-187231-million-usd-in-2025-with-a-cagr-of-4676-during-forecast-period-2021-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8DHNt1mNeWi3YUuoVK9eCgJYcoVS1yt8Kb+AoYH4qXukc3VjjI/oIQOS7sqw4MV0IV8OaiW+plYFybkbeIAp/fetP3/BQ+DAykjqynAtwWQygIm64d57W/OVhgiH6psVJNeiEOKImuY9eQMpv70SSk+U2UoEFxn0akfp5VxQa7Kpayg6SNhHLJBJX12bDwAgqNxl37UmFujRewL04CnkOLY7xHs1rbHfISQ31SbwR9XO00JbNSMqsQQWyksN45xVnul3c05UMjc7s+EDC0xtVgAFItJisD6NyhWZ/8A0Y6K6aJ+QsSM1cE5iwaY8iV3bB5g0AJostH87UDPb0l4SNI40Cinx4Fi86MI6b+zvI8k=;VF+Pku9Hgmgq6q4HVJdr6Q=="
 ---

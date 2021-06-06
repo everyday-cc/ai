@@ -2,6 +2,57 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-05-11-ai-fiori-expands-with-its-sky-terrace.md",
+      "title": "Ai Fiori Expands With Its Sky Terrace",
+      "excerpt": "An airy restaurant in the Rockaway Hotel, a brick-and-mortar location for King David Tacos, and more restaurant news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/12/dining/11Off/11Off-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.amp.html",
+      "publishedDateTime": "2021-05-11T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics.md",
       "title": "Innovative SAS Hackathon winners solve big problems through AI and analytics",
       "excerpt": "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,",
@@ -1139,49 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-graphene-flagship-spin-off-qurv-will-develop-imaging-technology-for-next-generation-computer-vision-solutions.md",
-      "title": "Graphene Flagship spin-off Qurv will develop imaging technology for next-generation computer vision solutions",
-      "excerpt": "The new company will market graphene-enabled image sensors with disruptive cost and performance potential compared to current alternatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mynewsdesk.com/graphene-flagship/pressreleases/graphene-flagship-spin-off-qurv-will-develop-imaging-technology-for-next-generation-computer-vision-solutions-3098595",
-      "originalUrl": "https://www.mynewsdesk.com/graphene-flagship/pressreleases/graphene-flagship-spin-off-qurv-will-develop-imaging-technology-for-next-generation-computer-vision-solutions-3098595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/stigv3gzk8q2gq13tsjv.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mynewsdesk.com",
-        "domain": "mynewsdesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

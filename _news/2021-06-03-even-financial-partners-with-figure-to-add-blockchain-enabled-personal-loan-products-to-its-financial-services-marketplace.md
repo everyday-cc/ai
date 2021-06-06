@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
-publishedDateTime: 2021-06-02T21:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
+publishedDateTime: 2021-06-02T22:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -34,22 +34,6 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2018/10/GettyImages-912547822-e1539707985381-620x249.jpg"
         width: 620
         height: 249
-        isCached: true
-  - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
-    excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"
-    publishedDateTime: 2021-06-01T09:55:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/EIB_sees_up_to_12bln_investment_shortfall_in_AI_and_blockchain-TR20210601nL2N2NI1KCX1/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/200716071635LCVC.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "US Senate Innovation Caucus Provides Bipartisan Vehicle to Promote Fintech, Blockchain, AI and More"
     excerpt: "Last week, an official announcement was issued by Senators Cynthia Lummis and Kyrsten Sinema regarding the launch of the US Senate Financial Innovation Caucus. Senators John Hickenlooper, Tim Scott, Marsha Blackburn,"
@@ -107,6 +91,6 @@ related:
         height: 628
         isCached: true
 
-secured: "DpOOIxCaOSgtpEB4xHS9FnnYTy4McYA186XtA5rCggBQzyCISwgoOQbKxW8jTY9UtMappx1MKIzrNo+lwK5SkpMsoJqtODQTBAZD1pUWzYqPl0EKNkBzG4vJdhsfaOag4ddZqJmXW0wY5IYKBdjG8rC8DOUE/QMvzgQ8GprLwQm6mpnNhQK8Q/pC/JbnNmpCUZ+A7hc6ZtG4XWxdb0DBLY3PaXFEe13YiNv4KaZIMYiuLtitsITWLLBJUbqhl7R0D2iaTj9T6+Tolk01oXDBtahGvS81AOr9SG+vCK7N7yyC+Qtv/Gw4Y0kmqDLCngnmlZwA76KIa+fxky0gPidobd8sm3FlAnQsp8H8QrMjwus=;P+RWkKv/DaCG72W7NTqwjA=="
+secured: "nxs8yrwq72a8C9nhE1kvTA/duOSI0Gc/UJAnooa1w4TOo7atX31RAsdJj9iVjCbW7mUt6vRs06tsgJdCNQDfE5cyMkbG+jE58UEzMWt9XvSEHU4ksdgA8ArFXxLu3+2XEgGEqX16YfgfHeBcjgOhCxqBC6xfNPgx28nOLGJzrVSn71qCfwANn/TkQxhRAe3sCRboIVFGm+JsS4WVIvBVxPQn6rmNtTIhk2fxFFLMj8gA3HEjrodi5/LVklAkwUjAe+Ngurq+rnvY3SLcxuBOwf21oIPcaqhCqw+yhSrYlJYwsxqZ83pEyNrurLHIo/xr1e8i2q87tubokWzgZ8+v9+BcLR4LQlVU58qFmYptNWI=;MvBJ6bGEH3kXS2e8z+34Kw=="
 ---
 

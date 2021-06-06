@@ -263,6 +263,57 @@
       ]
     },
     {
+      "path": "_news/2021-06-04-the-future-of-elder-care-is-here-and-its-artificial-intelligence.md",
+      "title": "The future of elder care is here – and it’s artificial intelligence",
+      "excerpt": "Computers are increasingly guiding decisions about elder care – and tracking everything from toilet visits to whether someone has bathed",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e99464f60a7fdf337fcc4dda5ebdafaa5b56cad0/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ab9f8cbb0be98959d25227534c9ab1fc",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software",
+      "publishedDateTime": "2021-06-03T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-ge-healthcare-signs-cardiac-ai-deal-with-acc.md",
       "title": "GE Healthcare signs cardiac AI deal with ACC",
       "excerpt": "GE Healthcare is teaming up with the American College of Cardiology (ACC) to help build a roadmap for the use of artificial intelligence (AI) and digital technology in cardiology.",
@@ -462,20 +513,20 @@
     },
     {
       "path": "_news/2021-06-03-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
-      "title": "Biden's AI czar focuses on societal risks, preventing harm",
-      "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn",
+      "title": "Biden’s AI czar focuses on societal risks, preventing harm",
+      "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html",
-      "originalUrl": "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html",
+      "webUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
+      "originalUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904",
-          "width": 1024,
-          "height": 904,
+          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280",
+          "width": 1280,
+          "height": 1130,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -483,13 +534,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html",
-      "publishedDateTime": "2021-06-03T09:11:00-07:00",
+      "ampWebUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/",
+      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/",
+      "publishedDateTime": "2021-06-03T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
+        "name": "WSAV-TV",
+        "domain": "wsav.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -499,7 +550,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1191,58 +1242,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic.md",
-      "title": "How Healthcare Will Continue To Rely On AI To Save Lives During This Pandemic",
-      "excerpt": "When we work alongside our customers on strategies to help them employ AI algorithms within their health care operations, we see industry leaders ensuring they have a solid data strategy in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/",
-      "publishedDateTime": "2021-06-03T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-bloc
 cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
-    excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"
-    publishedDateTime: 2021-06-01T09:55:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/EIB_sees_up_to_12bln_investment_shortfall_in_AI_and_blockchain-TR20210601nL2N2NI1KCX1/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/200716071635LCVC.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "US Senate Innovation Caucus Provides Bipartisan Vehicle to Promote Fintech, Blockchain, AI and More"
     excerpt: "Last week, an official announcement was issued by Senators Cynthia Lummis and Kyrsten Sinema regarding the launch of the US Senate Financial Innovation Caucus. Senators John Hickenlooper, Tim Scott, Marsha Blackburn,"
     publishedDateTime: 2021-06-04T21:00:00Z
@@ -99,13 +83,13 @@ related:
         height: 628
         isCached: true
   - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-    excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
-    publishedDateTime: 2021-06-02T21:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
+    publishedDateTime: 2021-06-02T22:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "9tlk96ZQH9660YlRfoq5NIVOOwtZeMyRLHpbxCFyZ6f9IhiTwE3qiB5WKxyaNhLeDREzPJ63aaklc+avM8bAY3lhBYj8XZVmbbP11qo6r4Qaeq7H334Y13iPW02IUPosPvAQAgo04meOgISA8NCdJWzZ7k3e59rlCtw6SBK5+saCNK/ZZJGzuY6cVxHpJ3W1A8AVOTAfn40v2AGwjswyertc+uVoG4DNDKhHRipPpIvqXoYkbEWTspzsNBbkr/wOHPNBn0HWfHGUY/hKHf7y1/HV4NThf5oTQASLllZgmWqztpSJnZLNGuyLTeqOB85jATx8+B69S+XJ5vqt6WcoGimFX3j9vJviae4EPyb53p2sAsI0fxAxIvDpkqvUn4EUbextb55jBh0p1nRSzghZnw4dgjkI8LsndqZPq8KFuW1IWw92TuSfBmLJNLcJEfb9LhX5ZSkUMyPSX+Czs2QMgIelY4Q8ansTybv462PZjwdZ33sOwaSpbVVB52ckKKKHJQRhhB9PHiRbl7U7zSrjGg==;Rty6nC2mbLr6U1sGHXU7ZQ=="

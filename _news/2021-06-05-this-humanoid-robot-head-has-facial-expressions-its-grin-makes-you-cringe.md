@@ -48,22 +48,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 19
-  - title: "Smile like you mean it! Scientists develop an eerily human-like robot head with a 'soft and expressive face' that mimics the expressions of people around it"
-    excerpt: "Eva is a new autonomous robot with a soft and expressive blue face, developed by researchers at Columbia University in New York."
-    publishedDateTime: 2021-06-01T09:16:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9639309/Scientists-develop-robot-matches-expressions-humans.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9639309/amp/Scientists-develop-robot-matches-expressions-humans.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9639309/amp/Scientists-develop-robot-matches-expressions-humans.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 16
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/06/01/09/43687917-0-image-a-2_1622536491463.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "47hWv81u9hb5+gfBt4kTV7ZT+Z94Iz+Vcl+Sx83DPq4PAG0UqBj8f9MGbcDxZot9tlAdmBgQbSUFpeMJJoyVvl903TEXkXqckbST2qgdwbjmCUx2/67vr2Jv0n4dZUnSfkLRAffIbDnl8f4ftHh667cWelsc3zM3Xqdh8e2PDT8pUAF5bY+6nZ+uUeHV41bhiDROQSqRr5ZEm2sN9hE/jcX+NVPPCAXuZwh9Wd1PFX/fYKjMsvzb9FQ4+RePQGJUE59OwpjPAdM/6RUWqUs1HsKJ4utNYDe2KO/RvHqbd2uK0nDFCfvibrZUeQrzqLHJwZ4m4NIBYwGowTtUIwuq9PL+ByPLH0SPg5dxoQ2vbJM=;V7v+0xf1HK5ERZVPM6XKFA=="
 ---

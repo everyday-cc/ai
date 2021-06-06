@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, Social Media, and the Future of Investing"
-    excerpt: "Whether influenced by one or many, the result is clear: social media can drive today’s markets. Such incidents, combined with their capriciousness and unpredictability, have led to pushback from the financial establishment and calls for greater oversight of social media practices and businesses."
-    publishedDateTime: 2021-06-01T10:42:00Z
-    webUrl: "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/"
-    ampWebUrl: "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 57
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/06/SM-AI-Algorithms-scaled.jpg"
-        width: 1600
-        height: 1333
-        isCached: true
   - title: "The future of elder care is here – and it’s artificial intelligence"
     excerpt: "Computers are increasingly guiding decisions about elder care – and tracking everything from toilet visits to whether someone has bathed"
     publishedDateTime: 2021-06-03T18:32:00Z

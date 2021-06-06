@@ -37,22 +37,6 @@ related:
         width: 620
         height: 249
         isCached: true
-  - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
-    excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"
-    publishedDateTime: 2021-06-01T09:55:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/EIB_sees_up_to_12bln_investment_shortfall_in_AI_and_blockchain-TR20210601nL2N2NI1KCX1/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/200716071635LCVC.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "US Senate Innovation Caucus Provides Bipartisan Vehicle to Promote Fintech, Blockchain, AI and More"
     excerpt: "Last week, an official announcement was issued by Senators Cynthia Lummis and Kyrsten Sinema regarding the launch of the US Senate Financial Innovation Caucus. Senators John Hickenlooper, Tim Scott, Marsha Blackburn,"
     publishedDateTime: 2021-06-04T21:00:00Z
@@ -98,13 +82,13 @@ related:
         height: 628
         isCached: true
   - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-    excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
-    publishedDateTime: 2021-06-02T21:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+    excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
+    publishedDateTime: 2021-06-02T22:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "t53Jpc2xg3xp0jBfnW/AiVuqNonnbjCIjvHp7FfXhEeN0nR3IRg2/wGie53WEIDLPQ13VlX1ss5sGzo9lf48M3E4fRtdsUBPfBKskijXSCYuwP0dW53EY52KK57dugOlWa716EPiz17ELsmOxB4Qf3SFf+Gnbsf3wqNxx1APlIlXYLaOCJcxGpf0mn2R7Fia6XzmzCfY6xKzpptQDClxmulkgrbIOrs6L9dw1R8QiuWgLZBEdDodq6WKDe1cTcYecGKsiifIvQPPbc3BXyf+14pxeClaF2mBDVJPZwY8PRQpt3xyBvcrd4E4v2wCKIwy6eksUWHfulRleEyTtia+dLxXFQY4kJYkcdjn/KO4mmE=;05/X53hLcnc23Om+YAlFeQ=="

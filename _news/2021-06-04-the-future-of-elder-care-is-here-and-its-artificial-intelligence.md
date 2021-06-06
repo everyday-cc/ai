@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/elder-care-artificia
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, Social Media, and the Future of Investing"
-    excerpt: "Whether influenced by one or many, the result is clear: social media can drive today’s markets. Such incidents, combined with their capriciousness and unpredictability, have led to pushback from the financial establishment and calls for greater oversight of social media practices and businesses."
-    publishedDateTime: 2021-06-01T10:42:00Z
-    webUrl: "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/"
-    ampWebUrl: "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 57
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/06/SM-AI-Algorithms-scaled.jpg"
-        width: 1600
-        height: 1333
-        isCached: true
   - title: "New hardware systems bring the future of artificial intelligence into view"
     excerpt: "Machine learning is the process by which computers adapt their responses without human intervention. This form of artificial intelligence (AI) is now common in everyday tools such as virtual assistants and is being developed for use in areas from medicine to agriculture."
     publishedDateTime: 2021-06-01T17:19:00Z

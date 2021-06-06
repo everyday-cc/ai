@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-05-18-researchers-call-for-bias-free-artificial-intelligence.md",
+      "title": "Researchers call for bias-free artificial intelligence",
+      "excerpt": "Clinicians and surgeons are increasingly using medical devices based on artificial intelligence. These AI devices, which rely on data-driven algorithms to inform health care decisions, presently aid in diagnosing cancers,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
+      "publishedDateTime": "2021-05-17T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services.md",
       "title": "US Federal Regulators Add Time to Comment Period on AI and Financial Services",
       "excerpt": "As was reported last March, five federal regulatory agencies joined in a consultation pertaining to the usage of artificial intelligence (AI) and machine learning (ML) within financial institutions. The Federal Reserve Board,",
@@ -1098,59 +1141,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-cloudflare-wants-to-kill-the-captcha-using-hardware-security-keys.md",
-      "title": "Cloudflare wants to kill the CAPTCHA using hardware security keys",
-      "excerpt": "Cloudflare is one of the top providers of web infrastructure and security, content delivery, DNS, among others. The company has also been offering businesses bot management",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "originalUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-16-image-4.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "publishedDateTime": "2021-05-16T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

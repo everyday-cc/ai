@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-launches-new-n
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
 type: article
 quality: 103
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1280
         height: 685
         isCached: true
-  - title: "Azure announces general availability of scale-out NVIDIA A100 GPU Clusters: the fastest public cloud supercomputer"
-    excerpt: "Today, Azure announces the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs—achieving leadership-class supercomputing scalability in a public cloud. For demanding customers chasing the next frontier of AI and high-performance computing (HPC), scalability"
-    publishedDateTime: 2021-06-01T10:45:53Z
-    webUrl: "https://azure.microsoft.com/blog/azure-announces-general-availability-of-scaleup-scaleout-nvidia-a100-gpu-instances-claims-title-of-fastest-public-cloud-super/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
   - title: "Cirrascale Cloud Services Broadens Deep Learning Cloud Offerings with World's Most Powerful GPU for AI Supercomputing"
     excerpt: "Cirrascale Cloud Services®, a premier cloud services provider of deep learning infrastructure solutions for autonomous vehicles, natural language processing, and computer vision workflows,"
     publishedDateTime: 2021-06-03T13:00:00Z
@@ -67,20 +58,6 @@ related:
     quality: 50
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "All Major NVIDIA Announcements At Computex 2021"
-    excerpt: "NVIDIA announced the upgraded version of the base command platform. NVIDIA has announced new products, enhancements and features at Computex Taipei 2021. The company claimed to have integrated artificial intelligence across every consumer-facing applications,"
-    publishedDateTime: 2021-06-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 26
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
         width: 1280
         height: 720
         isCached: true

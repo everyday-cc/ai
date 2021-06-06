@@ -3,8 +3,8 @@ category: news
 title: "Why natural language processing is AI’s jewel in the crown"
 excerpt: "As we enter the intelligent era, smart devices and data volumes will skyrocket, as will the demand for human-computer interaction through speech and language - that's why it will be a US$16 billion market by 2021."
 publishedDateTime: 2021-05-29T16:19:00Z
-originalUrl: "https://www.huawei.com/nl/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown"
-webUrl: "https://www.huawei.com/nl/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown"
+originalUrl: "https://www.huawei.com/my/technology-insights/publications/winwin/33/why-natural-language-processing-is-AIs-jewel-in-the-crown"
+webUrl: "https://www.huawei.com/my/technology-insights/publications/winwin/33/why-natural-language-processing-is-AIs-jewel-in-the-crown"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 540
     isCached: true
 
-secured: "qDTkiKMD4WGfQyFF6Az0almzAksP6mgzMKVyNdWRAuEHh8ZYaFJm4ewnMJTRxJoZ2DtwSey4BH2VSeqa8OkjkD5kl9nZM/55pownxI/I81Sox2UR+573I/zE2g+APF4CFIOpMayEzKdymp2C5cle1FgrE10osJoyYWYcDJwq6R4D2Sn5dqaHb9gowJhsEp4MhxVpdLc0DE5xjbsbD0+0yrNflPnhJHZw6u4ZhSsQ7jhe8M8FMDIXAwhxQ+UoRRA4tDxKPW+z6jNq/b86Mpq7LuTdKN1xocXINffN2oMpUwnQkGitbFT/pBqL5TEJQYbGPb1UmpumMT9Adw23qpxV48X0impfQP+Oj13qw+r6Usw=;k6ysv22csIB95qa25XtLZw=="
+secured: "CELe8rzQq9NpTGG4X7cRYi/AXiWR5bTDzWiPRxwndbAIRaOQh4J8+ddEJQng6mR8VLtH+Ih6VC7U5DIsD3pOGwdt5vQKcJqClAFDWMkTsGA6xc5HH9fwm1YDiC5WWN9zLmJdRjJLtxzhSVKxJpN13WtWSgYBuF0VCArS5WSp8y2fbJuMWQVlKGeFCa0pobVQ3LPa3EHvZ6NF/GlEPY/IyjtEaMt8r1Kk4iOXVBhq5JP/pIB7D5KaDeweposKxQiH2PlAb+QkhOLQTJ0YxzjPuKea0dUzcltHMZu9NoEBAOpgdlBhCkenbAW6wluaGMlNdiRby3LtEZ4ezXHPysXdWMJQG9lGLbP10HrwqOnxOmc=;5UF34uLX49yympYyeAFcWw=="
 ---
 

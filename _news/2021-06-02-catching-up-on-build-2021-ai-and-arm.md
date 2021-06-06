@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "SEO In 2021: Video, Voice And FAQs"
-    excerpt: "As last year saw a massive boom in e-commerce, with more and more brands turning to online, the need to rank higher in search engines has increased even more."
-    publishedDateTime: 2021-06-01T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0ec00274e4789315f0e3b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Online translation in 2021: AI vs humans"
     excerpt: "The simple existence of both human and AI translation doesn’t make them enemies. Vice versa, it’s great if you combine these types to get the best from each of them."
     publishedDateTime: 2021-06-03T13:46:00Z

@@ -59,29 +59,6 @@ related:
         width: 1280
         height: 685
         isCached: true
-  - title: "Azure announces general availability of scale-out NVIDIA A100 GPU Clusters: the fastest public cloud supercomputer"
-    excerpt: "Today, Azure announces the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs—achieving leadership-class supercomputing scalability in a public cloud. For demanding customers chasing the next frontier of AI and high-performance computing (HPC), scalability"
-    publishedDateTime: 2021-06-01T10:45:53Z
-    webUrl: "https://azure.microsoft.com/blog/azure-announces-general-availability-of-scaleup-scaleout-nvidia-a100-gpu-instances-claims-title-of-fastest-public-cloud-super/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
-  - title: "All Major NVIDIA Announcements At Computex 2021"
-    excerpt: "NVIDIA announced the upgraded version of the base command platform. NVIDIA has announced new products, enhancements and features at Computex Taipei 2021. The company claimed to have integrated artificial intelligence across every consumer-facing applications,"
-    publishedDateTime: 2021-06-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-major-nvidia-announcements-at-computex-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 26
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1617252340_Computex-2021-will-be-held-online.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "YYYwUk7UV5KbxYjJEoxK0JGohVPz6fSKpMzpIcnfb8DxX7gCht2rGHrlbay29cytevsZweYoRETZ9JZkvjg+tMBIp+eNlXYFsO7c06ZhoNSxxO1TufHYbmW6aIs8E03Ogc8YeZOJ3+B+spnrAjNYCLmkLQhQZMX37zfzE1/Xi/Q1gQ0SGeZkkPZgcVm41xn+Rng36buZJ4W4SpsZZTrs1RrCb90oLs/3+dcrN01M/+G9RtSJFA9OIIO/VDBbg30pnQ4i6Vd14k8SC1t1jqXqRu1f7xRzQJNfRQnW5+OnxoFu2yrfgjqFGidREqAQAF70klkXeTy+yFsyAURgetkbsSYSCzneEJ4JZQH/by5un8k=;e2nKCHC7CXrTy8BqV8ekdQ=="
 ---

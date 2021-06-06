@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "SEO In 2021: Video, Voice And FAQs"
-    excerpt: "As last year saw a massive boom in e-commerce, with more and more brands turning to online, the need to rank higher in search engines has increased even more."
-    publishedDateTime: 2021-06-01T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/01/seo-in-2021-video-voice-and-faqs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0ec00274e4789315f0e3b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "LvD/STuauxj/YVvE9rWXYGG6UzySN2ijCnhpOlTbv3gyGdrZ4stsGXnk2K0t43Nc+VLC1PyzDYfr2ViHGiixEV3cuKyA7rBi8NGTxX0RQipMHcFXO519AnqciBQN8ZQzeN96vK74UUkLUsvP7H3Fe4eQdNgQ8fujpU8PCutH8RtsHBOnIJP/y2/YApU1YG8OBGODxH0ZsUvT/v+MChxjGziMa0sjhUtHcoTrSkfwcp23XdEfhGQGRk06AFmOOHIEpOD7oGAwMuKufgff4AdN1D0jYYn6u8Dw4aNZXbdJB9lt/NwEH4hB/lZpj4dF8LQd4JwDuwGeAKclH32X7SqD0h856ShX0hSVLbXHbwq+94o=;1tvZq5IyGBX/mkN0o1Pdhg=="
 ---

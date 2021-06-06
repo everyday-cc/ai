@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-05-12-waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco.md",
+      "title": "Waymo And Cruise Said To Be Seeking Approval To Commercialize Self-Driving Rides In San Francisco",
+      "excerpt": "Alphabet Inc’s (NASDAQ: GOOGL) (NASDAQ: GOOG) self-driving subsidiary Waymo and General Motors Co (NYSE: GM)-backed Cruise have applied for commercial permits in",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/05/21075158/waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco",
+      "originalUrl": "https://www.benzinga.com/news/21/05/21075158/waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/w1_riders_2_0.jpeg",
+          "width": 6517,
+          "height": 4345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/21075158",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075158",
+      "publishedDateTime": "2021-05-11T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed.md",
       "title": "Artificial intelligence that can detect sarcasm in social media developed",
       "excerpt": "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer program to do it and do it well.",
@@ -1101,57 +1144,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ai-fiori-expands-with-its-sky-terrace.md",
-      "title": "Ai Fiori Expands With Its Sky Terrace",
-      "excerpt": "An airy restaurant in the Rockaway Hotel, a brick-and-mortar location for King David Tacos, and more restaurant news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/12/dining/11Off/11Off-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.amp.html",
-      "publishedDateTime": "2021-05-11T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

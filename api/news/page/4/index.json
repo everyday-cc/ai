@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-02-catching-up-on-build-2021-ai-and-arm.md",
+      "title": "Catching up on Build 2021: AI and Arm",
+      "excerpt": "What were the key announcements at Build this year? I’ve already looked at the Azure data platform updates, so it’s worth a quick dive into what I think are the most important pieces of news for anyone building applications on Microsoft platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html",
+      "originalUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/programmer_graduate_certification_megaphone_announcement_bull-horn-100787980-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html",
+      "publishedDateTime": "2021-06-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
       "title": "NVIDIA pivots to AI for enterprises",
       "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
@@ -802,7 +854,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-robot-mimics-human-expressions-to-gain-trust-improve-human-robot-interactions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1175,57 +1227,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-young-stem-student-uses-artificial-intelligence-to-help-emerging-nations.md",
-      "title": "Young STEM Student Uses Artificial Intelligence To Help Emerging Nations",
-      "excerpt": "In emerging markets, many health and economic problems are related to access to clean water and sanitation infrastructure. This causes issues related to hygiene, pollution, agriculture, diseases, food and education. ISEF competitor Arya Tschand, 17, from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b63962dacd06d77ad5cd41%2F0x0.jpg",
-          "width": 620,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/amp/",
-      "publishedDateTime": "2021-06-01T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

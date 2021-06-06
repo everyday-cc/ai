@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-25-handling-extrapolation-with-asymptotic-controls-in-neural-nets.md",
+      "title": "Handling extrapolation with asymptotic controls in neural nets",
+      "excerpt": "As machine learning continues to permeate many areas of quantitative finance, artificial neural networks are now being applied to derivatives pricing applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/handling-extrapolation-with-asymptotic-controls-in-neural-nets/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/handling-extrapolation-with-asymptotic-controls-in-neural-nets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-five-things-you-need-to-know-to-start-your-day.md",
       "title": "Five Things You Need to Know to Start Your Day",
       "excerpt": "Americans told to avoid travel to Japan. Concerns about Asia’s recovery deepen as vaccination pace lags. The EU discusses more sanctions on Belarus after it forced a passenger jet to land. Here's what you need to know to start your day.",
@@ -1146,49 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-3i-infotech-to-rely-on-deep-tech-for-1-billion-revenue-by-2030.md",
-      "title": "3i Infotech to rely on deep tech for $1 billion revenue by 2030",
-      "excerpt": "Based on a ‘Digital’ and a ‘Cloud-first’ approach, the cognitive services solution-oriented company will help in accelerating technology and product startups across the ecosystem. With strong tailwinds supporting its business and growth levers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/",
-      "originalUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2015/02/Innovation-Growth.jpg",
-          "width": 849,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/3i-infotech-rely-deep-tech-1-billion-revenue-2030/amp/",
-      "publishedDateTime": "2021-05-24T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

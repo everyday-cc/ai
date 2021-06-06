@@ -2,6 +2,48 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-05-04-artificial-intelligence-ai-in-bfsi-market.md",
+      "title": "Artificial Intelligence (AI) in BFSI Market",
+      "excerpt": "Allied Market Research published a new report titled Artificial Intelligence in BFSI Market By Offerings Hardware Software and Services Solution Chatbots Fraud Detection Prevention Anti Money Laundering Customer Relationship Management Data Analytics Prediction and Others Technology Deep Learning Querying Method",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "originalUrl": "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U503568929_g.jpg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "publishedDateTime": "2021-05-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-undergraduates-explore-practical-applications-of-artificial-intelligence.md",
       "title": "Undergraduates explore practical applications of artificial intelligence",
       "excerpt": "SuperUROP scholars funded by the MIT Quest for Intelligence worked with faculty this past year exploring AI applications ranging from optimized scheduling to modeling ocean dynamics to improve climate model projections.",
@@ -1114,57 +1156,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-re-humanizing-the-contact-center-with-ai.md",
-      "title": "Re-Humanizing The Contact Center With AI",
-      "excerpt": "In the end, it’s important to remember that the decisions you make now on your technology will impact you years down the line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60428b8f3fbc741bf8ae1c13%2F0x0.jpg",
-          "width": 737,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/",
-      "publishedDateTime": "2021-05-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
