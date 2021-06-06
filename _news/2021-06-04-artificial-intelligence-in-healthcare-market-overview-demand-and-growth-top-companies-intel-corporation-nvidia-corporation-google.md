@@ -83,20 +83,6 @@ related:
         width: 5760
         height: 3152
         isCached: true
-  - title: "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI"
-    excerpt: "Kao Data, the specialist developer and operator of advanced, carrier neutral data centres for high performance colocation, has today announced it has become NVIDIA DGX-Ready Data Center certified. This step further reinforces its capabilities as a world-class data centre operator and highlights its expertise in delivering customised architectures for high-performance computing (HPC),"
-    publishedDateTime: 2021-06-01T15:47:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2876664"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 26
-    images:
-      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
-        width: 256
-        height: 256
-        isCached: true
 
 secured: "wCUwZqaSPuWzpMq6ObjtK1kYBOIW/Ksk9hAVLgDUNXsgQ10AB7el8yFmCM5LSe9dHhlXZRRrDXjvKM5Y1tDUPmV4vrTdcFYywWA9fTJ9zFGDzFz5ShBYxD0BBueZmofNk0k1gamuE7cwurvCo5BC3WWM6YNdZfca+sT0/jzooWNOyoCTJnc2KeLDNa0C+R20zZt2yK3kbrAAwSzjtkBXY0j7qIlECUjPhX6nv3bKLaUlFR+p4tGpDi52ylGmQHRVr5DSSRDseBEcwrKJLnlBtRt3dhOCBVscEE6Hl577MPesxhJ98thHsgFNJIKlJvNNPrUU+OpLYo7F5/tHwXE0lJ4JmYbff+c1Dxw/Me5sVWsEW8VxRhfpkCQLuUeqA3SPo2JItLfGwFQUS8HAb9r+tT9LbbvMRASaIjUJgX7ptT+rwat9v6PvenAv1GFf1/JtpKi1ZO2H0cV52UsFSEAanSm9jFYlhrTo3fx1mMMmkpSrFJukYg09+42reYN7QzwLnvelEHCSiw+vCtwceGDDtw==;pwRYB/uZ+fmd0wDLG+l0FQ=="
 ---

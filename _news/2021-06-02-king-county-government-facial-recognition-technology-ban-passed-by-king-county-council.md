@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Contactless Voice Payment Technology: A Retail Strategy for Bringing Customers Back In-Store"
-excerpt: "Voice recognition technology has moved beyond the realm of checking the weather and playing music. Pandemic-fueled digital commerce is rapidly increasing the use of voice recognition technology. In particular,"
-publishedDateTime: 2021-06-04T12:37:00Z
-originalUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store"
-webUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store"
-ampWebUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
-cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
+title: "King County Government: Facial Recognition Technology Ban Passed By King County Council"
+excerpt: "A groundbreaking proposal to ban government use of facial recognition software has been passed by the King County Council. It was approv"
+publishedDateTime: 2021-06-02T15:19:00Z
+originalUrl: "https://patch.com/washington/seattle/king-county-government-facial-recognition-technology-ban-passed-king-county"
+webUrl: "https://patch.com/washington/seattle/king-county-government-facial-recognition-technology-ban-passed-king-county"
 type: article
-quality: 48
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Retail TouchPoints
-  domain: retailtouchpoints.com
+  name: Patch
+  domain: patch.com
 
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://retailtouchpoints.com/wp-content/uploads/2020/06/voice-commerce-1.jpg"
-    width: 2440
-    height: 1627
+  - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -157,6 +156,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Contactless Voice Payment Technology: A Retail Strategy for Bringing Customers Back In-Store"
+    excerpt: "Voice recognition technology has moved beyond the realm of checking the weather and playing music. Pandemic-fueled digital commerce is rapidly increasing the use of voice recognition technology. In particular,"
+    publishedDateTime: 2021-06-04T12:37:00Z
+    webUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store"
+    ampWebUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 48
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/06/voice-commerce-1.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
   - title: "King County bans facial recognition software in government agencies"
     excerpt: "The King County sheriff – cannot use facial recognition technology. Neither can any other county agency. That’s thanks to a new law approved unanimously by the King County Council Tuesday."
     publishedDateTime: 2021-06-02T00:37:00Z
@@ -283,20 +298,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "King County Government: Facial Recognition Technology Ban Passed By King County Council"
-    excerpt: "A groundbreaking proposal to ban government use of facial recognition software has been passed by the King County Council. It was approv"
-    publishedDateTime: 2021-06-02T15:19:00Z
-    webUrl: "https://patch.com/washington/seattle/king-county-government-facial-recognition-technology-ban-passed-king-county"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 33
-    images:
-      - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Delivering on Digital Government: Achieving the Promise of Artificial Intelligence"
     excerpt: "In an era of rapid technological change and nearly limitless possibilities, artificial intelligence (AI) and machine learning stand out for their potential to transform our society. Private sector adoption across retail,"
     publishedDateTime: 2021-06-03T02:22:00Z
@@ -394,6 +395,6 @@ related:
       domain: detroitnews.com
     quality: 17
 
-secured: "sjlMfbtW78XDM+Kv6toZDX3Xk8hjhvhcS1IFwlsbb71s7O9QeFiRcgfrYzc3pHzQiANwIorgNT1rxLuMzUerz9uQ/8ZKkn5eLXaktGfNQLiWIAuiUDcCicsoTcYYqegIL/jntxV7CKrkXWFDxhhk/mbbAG3hm4nKg3O6Gx5QD5RJ+mtYJxIzjzYFaXk/64ilOaU7GdFFTFxQff6OFe9JZY3pd6O5h6ZfgXpzBPu9/V8/+yd3B0ID1d4n4DsDXBjshw1cO8OYVWkTNeHG0RDB5hEvmtavYzsYmK0K8wbIl++pb8Ffbyfsz66jKuQ1Zsq4+3I4cDjJpe+zWIWaATEkYK2er4ZlYuDNn+397t7hLt2seJR+UxAtVJ/w+kwBibEdL33bVgfuzaT4jXNpXBBlPynpesMx2Ni6Lr7XgvXnLdi/H95JBwt9f7m/vKOyfmUIti68H3tV84sfWIk0FSpNxqjA/oCOs3503ziEiG6nMmiEOkAIQJu6vmPeKPWwsJ+5MKJWqIP3XGVOh/kAUqNUTA==;FuaHiInZ/a4xc/rK8OQ34w=="
+secured: "FWAStHqgbzYr04PNbfMNgGgIuO/8p1AbwVlrSdcAVmaJkF+xagXK97NVtmiMAW5NFOm+aXAyOWFjkVBNV4gen60ENcqtpeoq/9L8JClsueAtmyd/+gIk03jvRddC7eGJNBF1ifA3W6YM0+udhELUZNfPhTX4JZG3KuUKfCu8MZIdn+yu9xIm17GqzSlsJZ1Uen3wABVZe1C/G2iU3a/EaCQ5LeQqzSc86li6xytBkb0eUyjOhW7A+4D1ga3WyRyoffZQfvujXorf5zzDX6B88Pfaal3pNEBakYo0QzEEFEBiXUmomGRalIGOOM951tnZtUmsl8rWoL7DeHfak2GKIosz8O+zdb2riS6Xjx8VukQ=;Zv/QKbGdcLw5mCkCM1rGbQ=="
 ---
 

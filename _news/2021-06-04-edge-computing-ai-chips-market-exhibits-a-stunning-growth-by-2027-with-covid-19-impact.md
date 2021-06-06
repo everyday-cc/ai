@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Predicts Dialysis, Death in COVID-19 Patients"
-    excerpt: "Researchers have developed a machine learning model that uses predictive analytics to detect risk of dialysis or death in COVID-19 patients."
-    publishedDateTime: 2021-06-01T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-dialysis-death-in-covid-19-patients"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Lung ultrasound with deep learning models may help stratify COVID-19 risk: Study"
     excerpt: "Italy: Deep-learning (DL) models can be used to automatically stratify patients on lung ultrasound(LUS) as having an either low or high risk of clinical worsening in COVID-19 patients, according"
     publishedDateTime: 2021-06-04T03:30:00Z

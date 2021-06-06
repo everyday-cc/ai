@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-06T07:11:00Z
 originalUrl: "https://www.infoq.com/news/2021/06/google-vortex-ai/"
 webUrl: "https://www.infoq.com/news/2021/06/google-vortex-ai/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Google AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://res.infoq.com/news/2021/06/google-vortex-ai/en/headerimage/header%2810%29-1622907551574.jpg"

@@ -39,20 +39,6 @@ related:
         width: 1050
         height: 600
         isCached: true
-  - title: "Machine Learning Predicts Dialysis, Death in COVID-19 Patients"
-    excerpt: "Researchers have developed a machine learning model that uses predictive analytics to detect risk of dialysis or death in COVID-19 patients."
-    publishedDateTime: 2021-06-01T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-dialysis-death-in-covid-19-patients"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "MBIM43CmBu2UfdAe5nus4W0pF4bpXdlTnLpjB/rByaWHuhlTPplYV/Drw2o2e97u0oXbOQ44ciX/LyK1OwG2ofB6eOqStiNPv8MbNJxa5303BswD27MTEH6koSUG20kQzpbRktrJugL221RN+4YncwdBqjrtCiCpQ9DQv4eKNRWIPIIAbzP63PYOCYWsdI7SBsG0dMEtmVBeLDEVRPloNcR8bkfYzUQdyEYLlLrisTghc+hn6+hr5Ab9rN3IYvbmYSd7IhhtVtvG7EjL17ODFQPWDTOy65bW8XVlNnSvDqhdiKxPr9TpGmeH9aqjADf1S3YRQ2iF4JYmYBoWqN9Exw5T0wCoyUbxuZJepdgVVdcg2IW+p0+GLuUeDasTKHH3PdNL9keYkHjTSry98y+f1TGlj78ZxeMLXuI5mIaJTaJ299zABF+4P2v8wE91Oh6s1QIuLPqWhAYgTj0JllwHSHNyHEaOzkCV4D5DFyjQQMSq0JUNAnUS1cIlPwfxQWyRofKk+zN+geitnCSxnO2a4w==;Ea7aEoNOVRbyjPzFvSNALQ=="
 ---

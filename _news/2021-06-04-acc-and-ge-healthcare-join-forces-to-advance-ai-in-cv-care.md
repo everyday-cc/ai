@@ -39,6 +39,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Automating Care: about our new series on the rise of AI in caregiving"
+    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
+    publishedDateTime: 2021-06-03T14:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "iRqVp51LTK9JDsUxG51Dlago6lyKQ/2HrvULiEWdgN8+eLEyLChOQCcwAKxXuNsA8r/ZLF6bKobIGX9UWNFxNDsqzLnXKOUrU6K7DPcijKyB76+EzhhBK53YUKk3TCCVutT098yXi8cx+vwh50y6SsXaFdK2Q3cJqYPPkA25PkqYgeJtX1lUDgNAByRxPUfBbbv0R0MyZctYfJTeQb7epeqn2SguTMJD2B7+AduP8DpEROBZmT23O96IHfxBPHLUCO7rgN+APlwoAqnmEQ/bbHz1zzQYRLbpeMnmYa+xeToOkkvkQC0tkcyN647VrNeqyZ1DiJHzZR/x10/cBCmNSucL9aJ9VH2ikm9OftXrKoI=;rOAi4TnCR98QgaSHX/hzJg=="
 ---

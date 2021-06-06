@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/potential-artificial-intelligence-bring-
 webUrl: "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Automating Care: about our new series on the rise of AI in caregiving"
+    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
+    publishedDateTime: 2021-06-03T14:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
+        width: 600
+        height: 360
+        isCached: true
   - title: "ACC and GE Healthcare Join Forces to Advance AI in CV Care"
     excerpt: "The ACC and GE Healthcare are collaborating through support of and participation in ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes."
     publishedDateTime: 2021-06-03T18:50:00Z

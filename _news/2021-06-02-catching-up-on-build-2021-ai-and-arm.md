@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mastering artificial intelligence and machine learning"
+    excerpt: "Control Engineering - Just a few decades ago, artificial intelligence (AI) was the stuff of science fiction, but has since become part of our daily lives. In manufacturing, it"
+    publishedDateTime: 2021-06-06T09:02:00Z
+    webUrl: "https://www.controleng.com/articles/mastering-artificial-intelligence-and-machine-learning/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 54
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/06/CTL2106_WEB_IMG_xAI-Fraunhofer-IPA.jpeg"
+        width: 645
+        height: 350
+        isCached: true
   - title: "Online translation in 2021: AI vs humans"
     excerpt: "The simple existence of both human and AI translation doesn’t make them enemies. Vice versa, it’s great if you combine these types to get the best from each of them."
     publishedDateTime: 2021-06-03T13:46:00Z

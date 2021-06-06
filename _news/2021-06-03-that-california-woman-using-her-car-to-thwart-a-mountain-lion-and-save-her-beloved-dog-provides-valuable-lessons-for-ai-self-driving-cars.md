@@ -31,119 +31,82 @@ images:
     isCached: true
 
 related:
-  - title: "What You Should Do If You See An AI Self-Driving Car Behaving Badly"
-    excerpt: "Make sure you are prepared to take appropriate action if you are driving and come upon an AI self-driving car that is behaving badly. Here are some important insider tips and suggestions for you."
-    publishedDateTime: 2021-06-01T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6e3d49095945c75cc74ef%2F0x0.jpg%3FcropX1%3D11%26cropX2%3D3287%26cropY1%3D84%26cropY2%3D1927"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Automating Care: about our new series on the rise of AI in caregiving"
-    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
-    publishedDateTime: 2021-06-03T14:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Top Managers Leave Apple's Self-Driving Car Team"
-    excerpt: "Apple Inc. has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. Mark Gurman reports."
-    publishedDateTime: 2021-06-03T02:28:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdIoLVg6Uqo/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Apple loses several top execs from self-driving car division"
-    excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
-    publishedDateTime: 2021-06-03T03:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/articleshow/83194050.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/amp_articleshow/83194050.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/world-news/apple-loses-several-top-execs-from-self-driving-car-division/amp_articleshow/83194050.cms"
+  - title: "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals"
+    excerpt: "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads."
+    publishedDateTime: 2021-06-03T11:50:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 44
+    quality: 57
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-478263,msid-83194045/apple-afp.jpg"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-814506,msid-83198867/developers-say-they-still-need-two-to-four-years-to-perfect-the-self-steering-technology-.jpg"
         width: 600
         height: 450
         isCached: true
-  - title: "Apple loses several top managers from self-driving car division"
-    excerpt: "Apple Inc. has lost multiple top managers from its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. The iPhone maker has hundreds of engineers working on underlying self-driving car technology as well as groups of employees working on an actual vehicle,"
-    publishedDateTime: 2021-06-02T13:32:00Z
-    webUrl: "https://www.autonews.com/mobility-report/apple-loses-several-top-managers-self-driving-car-division"
+  - title: "Roboats: Amsterdam to trial self-driving electric boats"
+    excerpt: "Four-metre-long vessels will carry out tasks such as collecting rubbish and transporting passengers"
+    publishedDateTime: 2021-06-03T09:04:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/03/roboats-amsterdam-to-trial-self-driving-electric-boats"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/03/roboats-amsterdam-to-trial-self-driving-electric-boats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/03/roboats-amsterdam-to-trial-self-driving-electric-boats"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cb4ec93d0a0ebc42c146f8c300c77f7fdcd5ade/0_288_6240_3744/master/6240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aca7bb403a7730fe41b0df25d5f3cdeb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "self driving electric 'roboats' to begin trials on amsterdam canals"
+    excerpt: "(AMS) and MIT senseable city lab, is moving one step closer to being fully operational. in april 2021, a new slewing crane was erected at marineterrein amsterdam, allowing a full-scale roboat prototype to be launched and tested on the water."
+    publishedDateTime: 2021-06-03T16:01:00Z
+    webUrl: "https://www.designboom.com/technology/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-06-03-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 39
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/06/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-designboom-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving electric boats could soon begin ferrying passengers on Amsterdam's canals"
+    excerpt: "The 13ft-long 'Roboat' vessels travel at about 4mph (3.5 knots) and can run for 12-24 hours depending on the battery type and cargo load. They are being tested on Amsterdam's waterways."
+    publishedDateTime: 2021-06-03T18:25:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9647177/Amsterdam-tests-electric-autonomous-boats-canals.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9647177/amp/Amsterdam-tests-electric-autonomous-boats-canals.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9647177/amp/Amsterdam-tests-electric-autonomous-boats-canals.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 36
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/06/03/17/43797699-0-image-a-7_1622737432113.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Self-Driving Electric Boats Set to be Trialled in Amsterdam"
+    excerpt: "Amsterdam is set to play host to the testing of a new fleet of self-driving electric boats dubbed: Roboats. Designed and created by the Amsterdam Institute for Advanced Metropolitan Solutions and the Massachusetts Institute of Technology,"
+    publishedDateTime: 2021-06-03T12:28:00Z
+    webUrl: "https://hypebeast.com/2021/6/electric-self-driving-boat-roboat-amsterdam-trial-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
     quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/apple%20logo.jpg"
-        width: 800
-        height: 600
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Felectric-self-driving-boat-roboat-amsterdam-trial-news-TW2.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
-  - title: "Apple loses top managers from self-driving car division"
-    excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
-    publishedDateTime: 2021-06-02T13:48:00Z
-    webUrl: "https://techcentral.co.za/apple-loses-top-managers-from-self-driving-car-division/107749/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 24
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2020/12/apple-store-2156-1120.jpg"
-        width: 2156
-        height: 1120
-        isCached: true
-  - title: "Apple loses many top managers from self-driving car division"
-    excerpt: "Apple Inc has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
-    publishedDateTime: 2021-06-02T21:26:00Z
-    webUrl: "https://www.gulf-times.com/story/693036/Apple-loses-many-top-managers-from-self-driving-ca"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 24
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/62021302625161496485.jpg"
-        width: 620
-        height: 355
-        isCached: true
-  - title: "Apple's self-driving car division has lost 3 top managers this year"
-    excerpt: "The departures from Apple's car team come as it is reportedly aiming to produce a self-driving passenger vehicle in 2024 with a game-changing battery of its own device."
-    publishedDateTime: 2021-06-02T19:30:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/02/apple-self-driving-car-unit-loses-3-top-managers.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "auHnSlArc/WMlWDZ4PcOAuPIfw5IowIu93swPGAxb6q/AybccLET8Q6WXFbiVS4dGX/r9G8S9K2WxuQ7rphk7k6BkPxTYUruJTjC11KFH+5IJMdOsmQUyazKbwE7kUdak5//ODCJnCYqn3dCVCDZ7VE4PePuL7FuxhYTGx0KAIyj0sM3JfWyBEYDf5kfFaxKXmwcf5nuZlub7+2LFyxPv+YeJkv5WiNYo0RR2mFNsYdefxL8XJ7W8oiwtRqBPyQq+VPl0EVZ6pNEhhjWbd3n0TPN5txRrhB5crLhMs5fc/8wdI7ditHSx+1bfONsMAx0hCtksmm8HgSaQdOfFkKRhTQB51BGWq41NH0eD6b7uKhbKzpxf/lwGi630XZPb6YbAWZxhp7aXJ6VhcmyF0fuRxZ22PNkpsk8JZINimC4220g8Qz7Hlk4FkdzSFwZ5nvwMdAczaHFrRc3wIrR4fL/cP04jkZ055LFRCLD+RMthP6VjB0d6GVj9MJ3T03Oc1FIqbbkRLimJR5JliwRzxjL2A==;BVKYz+a46PccBPXPf86CjA=="
 ---

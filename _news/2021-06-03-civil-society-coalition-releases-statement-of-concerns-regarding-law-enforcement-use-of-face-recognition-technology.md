@@ -147,22 +147,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 56
-  - title: "Final action expected on King County proposal to ban facial recognition software"
-    excerpt: "King County may choose to ban government use of facial recognition software when the proposal faces final action at a meeting of the full council Tuesday."
-    publishedDateTime: 2021-06-01T15:31:00Z
-    webUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/"
-    ampWebUrl: "https://mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2940647/final-action-king-county-council-ban-facial-recognition/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 54
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-1149113711-e1622557116352.jpg"
-        width: 620
-        height: 370
-        isCached: true
   - title: "Washington State County Bans Use of Facial Recognition"
     excerpt: "The King County sheriff’s department and other county departments are prohibited from using facial recognition technology or information from the technology under a new measure that cites its threat to privacy and history of bias."
     publishedDateTime: 2021-06-03T00:19:00Z
@@ -313,6 +297,20 @@ related:
       - url: "https://www.democracynow.org/images/headlines/87/58087/full_hd/h5-washington-state-most-populous-county-bans-use-facial-recognition-technology.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "King County Government: Facial Recognition Technology Ban Passed By King County Council"
+    excerpt: "A groundbreaking proposal to ban government use of facial recognition software has been passed by the King County Council. It was approv"
+    publishedDateTime: 2021-06-02T15:19:00Z
+    webUrl: "https://patch.com/washington/seattle/king-county-government-facial-recognition-technology-ban-passed-king-county"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 33
+    images:
+      - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Delivering on Digital Government: Achieving the Promise of Artificial Intelligence"
     excerpt: "In an era of rapid technological change and nearly limitless possibilities, artificial intelligence (AI) and machine learning stand out for their potential to transform our society. Private sector adoption across retail,"

@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Study: AI faster, better at predicting successful radiation treatment"
+    excerpt: "In another win for the robots, artificial intelligence is putting on a lab coat to outdo doctors in radiation therapy treatment."
+    publishedDateTime: 2021-06-03T19:45:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1061622739992/2021/1/81fb8d912bcb9af1dbe5cf47a91b10d1/v1.5/Study-AI-faster-better-at-predicting-successful-radiation-treatment.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "AI outperforms humans in creating cancer treatments, but do doctors trust it?"
     excerpt: "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a unique study involving physicians and their patients."
     publishedDateTime: 2021-06-03T15:00:00Z

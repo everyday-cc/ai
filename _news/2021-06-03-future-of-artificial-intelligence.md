@@ -54,22 +54,6 @@ related:
         width: 1220
         height: 610
         isCached: true
-  - title: "Nvidia Lays The Foundation For Wider AI Adoption"
-    excerpt: "Nvidia has been pushed its way into the datacenter, making its presence felt with its GPU accelerators that are designed to"
-    publishedDateTime: 2021-06-01T16:02:00Z
-    webUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/"
-    ampWebUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
-        width: 1199
-        height: 877
-        isCached: true
   - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
     excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
     publishedDateTime: 2021-06-02T06:30:00Z

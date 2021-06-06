@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What You Should Do If You See An AI Self-Driving Car Behaving Badly"
-    excerpt: "Make sure you are prepared to take appropriate action if you are driving and come upon an AI self-driving car that is behaving badly. Here are some important insider tips and suggestions for you."
-    publishedDateTime: 2021-06-01T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/01/what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6e3d49095945c75cc74ef%2F0x0.jpg%3FcropX1%3D11%26cropX2%3D3287%26cropY1%3D84%26cropY2%3D1927"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Automating Care: about our new series on the rise of AI in caregiving"
-    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
-    publishedDateTime: 2021-06-03T14:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars"
-    excerpt: "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars."
-    publishedDateTime: 2021-06-03T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Top Managers Leave Apple's Self-Driving Car Team"
     excerpt: "Apple Inc. has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. Mark Gurman reports."
     publishedDateTime: 2021-06-03T02:28:00Z
@@ -86,6 +38,36 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdIoLVg6Uqo/v5/-1x-1.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Apple's self-driving car project might be losing gas fast as multiple top execs abandon it"
+    excerpt: "Apple reportedly wants to launch its self-driving cars under Project Titan in 2024. However, several of the company's top executives have left it recently which may really hamper such plans."
+    publishedDateTime: 2021-06-02T12:14:00Z
+    webUrl: "https://www.neowin.net/news/apples-self-driving-car-project-might-be-losing-gas-fast-as-multiple-top-execs-abandon-it/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 44
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2015/09/apple-car_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Apple Faces Exodus Of Managers From Self-Driving Unit: Report"
+    excerpt: "Apple Inc.'s (NASDAQ: AAPL) ambition to develop an Apple car could be in jeopardy, as the company is reportedly losing key personnel from its self-driving unit in"
+    publishedDateTime: 2021-06-02T18:58:00Z
+    webUrl: "https://www.benzinga.com/news/21/06/21392580/apple-faces-exodus-of-managers-from-self-driving-unit-report"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21392580"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392580"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/apple-2385198_1920.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Apple loses several top execs from self-driving car division"
     excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
@@ -102,6 +84,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-478263,msid-83194045/apple-afp.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Self-Driving Trucks May Replace Delivery Drivers After Incredible Cross Country Shipment Time"
+    excerpt: "Human truck drivers may become a thing of the past, as self-driving trucks appear to operate quicker than their person-controlled counterparts. The revelation comes after a driverless truck completed a cross country shipment much quicker than a human driver could have – arriving at its destination ten hours quicker."
+    publishedDateTime: 2021-06-02T17:02:00Z
+    webUrl: "https://www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 33
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F06%2Fself_drive_truck.jpg"
+        width: 1200
+        height: 619
         isCached: true
   - title: "Apple loses top managers from self-driving car division"
     excerpt: "Apple has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
@@ -130,6 +128,34 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/62021302625161496485.jpg"
         width: 620
         height: 355
+        isCached: true
+  - title: "Apple’s Self-Driving Car Team Loses ‘Multiple Top Managers’ in Recent Months"
+    excerpt: "The bumpy road to Apple Car continues, with Bloomberg now claiming Wednesday that Apple has “lost multiple top managers of its self-driving car team” in recent months."
+    publishedDateTime: 2021-06-02T15:19:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-car-managers/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 21
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2019/06/apple-car-640x336.jpg"
+        width: 640
+        height: 336
+        isCached: true
+  - title: "'Apple Loses Several Top Managers From Self-Driving Car Division' -Bloomberg Report"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-06-02T12:57:00Z
+    webUrl: "https://www.benzinga.com/news/21/06/21388269/apple-loses-several-top-managers-from-self-driving-car-division-bloomberg-report"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Apple's self-driving car division has lost 3 top managers this year"
     excerpt: "The departures from Apple's car team come as it is reportedly aiming to produce a self-driving passenger vehicle in 2024 with a game-changing battery of its own device."

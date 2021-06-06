@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/"
 type: article
 quality: 111
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fcyber-4062449_1280-e1622729428242.jpg&signature=6b3a71a408d4023c116fbff2889165f5"
         width: 1220
         height: 610
-        isCached: true
-  - title: "Nvidia Lays The Foundation For Wider AI Adoption"
-    excerpt: "Nvidia has been pushed its way into the datacenter, making its presence felt with its GPU accelerators that are designed to"
-    publishedDateTime: 2021-06-01T16:02:00Z
-    webUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/"
-    ampWebUrl: "https://www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/01/nvidia-lays-the-foundation-for-wider-ai-adoption/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
-        width: 1199
-        height: 877
         isCached: true
   - title: "Future of artificial intelligence"
     excerpt: "From self-driving cars to innovative drug development, artificial intelligence (AI) is going to fundamentally change our lives in a variety of ways."

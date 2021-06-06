@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/AI-thumbs-funding-market-up-rise-arrow-growth.jpg"
         width: 5760
         height: 3152
-        isCached: true
-  - title: "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI"
-    excerpt: "Kao Data, the specialist developer and operator of advanced, carrier neutral data centres for high performance colocation, has today announced it has become NVIDIA DGX-Ready Data Center certified. This step further reinforces its capabilities as a world-class data centre operator and highlights its expertise in delivering customised architectures for high-performance computing (HPC),"
-    publishedDateTime: 2021-06-01T15:47:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2876664"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 26
-    images:
-      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
-        width: 256
-        height: 256
         isCached: true
   - title: "Artificial Intelligence In Healthcare Market Overview, Demand, and Growth | Top Companies – Intel Corporation, Nvidia Corporation, Google."
     excerpt: "The Artificial Intelligence In Healthcare Market is expected to grow at a CAGR of 7.67% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report."
