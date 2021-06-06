@@ -25,64 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "Queen's Award-winning global fintech company Quint Group relocates headquarters"
-    excerpt: "A Queen's Award-winning global fintech company has joined . Quint Group, which owns and operates a number of fintech businesses which are focused on improving access to credit, also has operations in San Diego,"
-    publishedDateTime: 2021-06-01T08:51:00Z
-    webUrl: "https://www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547"
-    ampWebUrl: "https://www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547.amp"
-    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547.amp"
+  - title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
+    excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration"
+    publishedDateTime: 2021-06-02T12:02:00Z
+    webUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320"
+    ampWebUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
     type: article
     provider:
-      name: business-live
-      domain: business-live.co.uk
-    quality: 40
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 59
     images:
-      - url: "https://i2-prod.business-live.co.uk/incoming/article20715549.ece/ALTERNATES/s615/0_Atrium_2.jpg"
-        width: 615
-        height: 409
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/10/GettyImages-912547822-e1539707985381-620x249.jpg"
+        width: 620
+        height: 249
         isCached: true
-  - title: "Top Trends and Practices Fostering Fintech Transformation"
-    excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
-    publishedDateTime: 2021-06-01T11:12:00Z
-    webUrl: "https://www.cioapplications.com/news/top-trends-and-practices-fostering-fintech-transformation-nid-7854.html"
+  - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
+    excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"
+    publishedDateTime: 2021-06-01T09:55:00Z
+    webUrl: "https://www.zawya.com/uae/en/business/story/EIB_sees_up_to_12bln_investment_shortfall_in_AI_and_blockchain-TR20210601nL2N2NI1KCX1/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
+      name: Zawya
+      domain: zawya.com
+    quality: 57
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/200716071635LCVC.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "US Senate Innovation Caucus Provides Bipartisan Vehicle to Promote Fintech, Blockchain, AI and More"
+    excerpt: "Last week, an official announcement was issued by Senators Cynthia Lummis and Kyrsten Sinema regarding the launch of the US Senate Financial Innovation Caucus. Senators John Hickenlooper, Tim Scott, Marsha Blackburn,"
+    publishedDateTime: 2021-06-04T21:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Cynthia-Lummis-at-Bitcoin-Miami-2021-600x529.jpeg"
+        width: 600
+        height: 529
+        isCached: true
+  - title: "FinTech Blockchain Market Worth $36.04 Billion by 2028- Exclusive Report by Meticulous Research®"
+    excerpt: "According to a new market research report titled, \"FinTech Blockchain Market by Application (Payments, Clearing, &"
+    publishedDateTime: 2021-06-02T10:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21384559/fintech-blockchain-market-worth-36-04-billion-by-2028-exclusive-report-by-meticulous-research"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21384559"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21384559"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+  - title: "How fintech is fighting R&D attrition in Canada"
+    excerpt: "One downturn stands out like a sore thumb in the Organization for Economic Co-operation and Development’s recent assessment of Canadian tax relief for research and development: From 2014 to 2018, the number of recipients of research-and-development tax relief fell by nearly 25 per cent,"
+    publishedDateTime: 2021-06-04T20:43:00Z
+    webUrl: "https://ipolitics.ca/2021/06/04/how-fintech-is-fighting-rd-attrition-in-canada/"
+    type: article
+    provider:
+      name: iPolitics
+      domain: ipolitics.ca
     quality: 24
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/5lqhz450308.jpg"
-        width: 450
-        height: 308
+      - url: "https://ipolitics.ca/wp-content/uploads/2021/05/DSCF3065-scaled.jpg"
+        width: 2560
+        height: 1443
         isCached: true
-  - title: "Banking-as-a-Service, Authentication, and Lending Technologies Highlight Ten Growth-Stage Companies Chosen for 2021 FIS Fintech Accelerator Program"
-    excerpt: "FIS and The Venture Center announce the ten growth-stage fintech companies selected to take part in the 2021 FIS Fintech Accelerator program.Highlighted by solutions focused on authentication, lending and banking-as-a-service,"
-    publishedDateTime: 2021-06-02T12:03:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=478666"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 1
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
+  - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
+    excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
+    publishedDateTime: 2021-06-02T21:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "PU+/6mrNWSn7lo9ppO2dmer9pksp6toPOyxvSr70e950Y9m+JGP/HeBeoQF6tUY9m0N74Qg0fgvN/nytIHE9es6WEWU9X0DG9rf9becC8/zpMc17q566mgmvhaoGqQNVAe/M3Amkc2nYTnLHddfqXD4B2OORF/z66Rt5UU7h2Z2uzvfjqe2WJKiClC6oP9lD9sP9QNXCWWdjrgIOIGkBFCQ+w9E8AmQRyU+MxXFB+rV3bW6Kw0BEsI+vdNwl4noH3VXn8rSgupnO/xbbXtohJW2c8WJhvXMn5NPcF29Ror71lHRRxGPylsLJmZDY9Pznl8SKHTuFfV/TDQOV/A7+6AkHOlrj3Gclio8S11xAENY=;lS3mIsQ6o4R9NdGayYGt5Q=="
 ---

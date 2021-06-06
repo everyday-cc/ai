@@ -2,6 +2,126 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-05-17-items-filtered-by-date-may-2021.md",
+      "title": "Items filtered by date: May 2021",
+      "excerpt": "IpT opened talks to bring a second operator on board after connecting more than 650 sites since May 2019 and covering 800,000 people (450,000 actual customers) with a 3G and 4G rollout in rural Peru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/date/year/month/day?limit=3&limitstart=1584&start=1800",
+      "originalUrl": "https://www.thefastmode.com/date/year/month/day?limit=3&limitstart=1584&start=1800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community.md",
+      "title": "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community",
+      "excerpt": "The platform integrates a range of AWS technologies, including machine learning and artificial intelligence from Amazon SageMaker, a fully managed service for creating, training and deploying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-811327615.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-811327615.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg?p=facebook",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo says its tech would avoid fatal human crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/03/09/1070479.jpg",
+          "width": 1240,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-the-future-through-artificial-intelligence.md",
       "title": "The future through Artificial Intelligence",
       "excerpt": "ARTIFICIAL Intelligence (AI ... On a bigger spectrum, from self-driving cars to voice-initiated mobile phones and computer-controlled robots, the presence of AI is seen and felt almost everywhere.",
@@ -971,152 +1091,6 @@
       "ampWebUrl": "https://venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/amp/",
       "publishedDateTime": "2021-05-14T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-how-fintech-offerings-can-become-the-backbone-of-indias-banking-sector-in-at-least-5-years.md",
-      "title": "How fintech offerings can become the backbone of India’s banking sector in at least 5 years",
-      "excerpt": "Fintech players have developed advanced analytics systems, powered by AI , that process multiple data points to assess the creditworthiness of the borrower. The traditional method of assessment ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "originalUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1615473734377-1617021295429-1619116128157.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "publishedDateTime": "2021-05-14T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace.md",
-      "title": "As M&A accelerates, deal-makers are leveraging AI and ML to keep pace",
-      "excerpt": "Using AI and ML to cut out the labor-intensive parts of M&A both speeds the process and reduces the time-consuming tasks that lead to burnout in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/14/as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace/",
-      "originalUrl": "https://techcrunch.com/2021/05/14/as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-494329461.jpg?w=608",
-          "width": 608,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-when-ai-meets-bi-5-red-flags-to-watch-for.md",
-      "title": "When AI meets BI: 5 red flags to watch for",
-      "excerpt": "AI can transform BI into a tool that drives data-driven decision-making, but incorporating AI into existing BI environments is difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/",
-      "originalUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-machine_learning-shutterstock_671158525.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/",
-      "publishedDateTime": "2021-05-14T11:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

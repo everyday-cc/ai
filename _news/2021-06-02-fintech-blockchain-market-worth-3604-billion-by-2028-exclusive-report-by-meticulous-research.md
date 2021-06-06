@@ -21,62 +21,90 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the"
-    publishedDateTime: 2021-06-02T17:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02"
+  - title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
+    excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration"
+    publishedDateTime: 2021-06-02T12:02:00Z
+    webUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320"
+    ampWebUrl: "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/10/GettyImages-912547822-e1539707985381-620x249.jpg"
+        width: 620
+        height: 249
         isCached: true
-  - title: "Global Education and Learning Analytics Market Report 2021-2027"
-    excerpt: "The \"Education and Learning Analytics Market by Component, Deployment, Applications (Acquisition and Retention,"
-    publishedDateTime: 2021-06-03T08:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21403802/global-education-and-learning-analytics-market-report-2021-2027"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21403802"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21403802"
+  - title: "EIB sees up to $12bln investment shortfall in AI and blockchain"
+    excerpt: "Companies and governments in Europe are substantially underinvesting in AI and blockchain compared to other leading regions"
+    publishedDateTime: 2021-06-01T09:55:00Z
+    webUrl: "https://www.zawya.com/uae/en/business/story/EIB_sees_up_to_12bln_investment_shortfall_in_AI_and_blockchain-TR20210601nL2N2NI1KCX1/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20210601nL2N2NI1KCX1/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-  - title: "Report: Rogue Drone Hunted Human"
-    excerpt: "New Scientist says that there is evidence a weaponized drone went on a rogue mission last year where it hunted a human target without being instructed to do so. The publication cites a UN report and says the details suggest a Kargu-2 quadcopter was being used in fully autonomous mode during a conflict in Libya in March of last year when the device pursued a soldier that was trying to retreat."
-    publishedDateTime: 2021-06-02T15:14:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21452491/report-rogue-drone-hunted-human"
+      name: Zawya
+      domain: zawya.com
+    quality: 57
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/200716071635LCVC.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "US Senate Innovation Caucus Provides Bipartisan Vehicle to Promote Fintech, Blockchain, AI and More"
+    excerpt: "Last week, an official announcement was issued by Senators Cynthia Lummis and Kyrsten Sinema regarding the launch of the US Senate Financial Innovation Caucus. Senators John Hickenlooper, Tim Scott, Marsha Blackburn,"
+    publishedDateTime: 2021-06-04T21:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Cynthia-Lummis-at-Bitcoin-Miami-2021-600x529.jpeg"
+        width: 600
+        height: 529
+        isCached: true
+  - title: "How fintech is fighting R&D attrition in Canada"
+    excerpt: "One downturn stands out like a sore thumb in the Organization for Economic Co-operation and Development’s recent assessment of Canadian tax relief for research and development: From 2014 to 2018, the number of recipients of research-and-development tax relief fell by nearly 25 per cent,"
+    publishedDateTime: 2021-06-04T20:43:00Z
+    webUrl: "https://ipolitics.ca/2021/06/04/how-fintech-is-fighting-rd-attrition-in-canada/"
+    type: article
+    provider:
+      name: iPolitics
+      domain: ipolitics.ca
     quality: 24
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/MM_227_Thumb.60b79f707bda9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://ipolitics.ca/wp-content/uploads/2021/05/DSCF3065-scaled.jpg"
+        width: 2560
+        height: 1443
         isCached: true
-  - title: "Global Artificial Intelligence in Medical Diagnostics Market Insights Business Opportunities, Current Trends And Restraints Forecast 2027"
-    excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market report provides a holistic evaluation of the market for the forecast period (2018–2027). The report comprises of various segments as well an analysis of the trends and factors that are playing a substantial role in the market."
-    publishedDateTime: 2021-06-01T11:42:00Z
-    webUrl: "https://ksusentinel.com/2021/06/01/global-artificial-intelligence-in-medical-diagnostics-market-insights-business-opportunities-current-trends-and-restraints-forecast-2027/"
+  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
+    excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
+    publishedDateTime: 2021-06-04T19:02:00Z
+    webUrl: "https://www.pr-inside.com/ncfa-successfully-concludes-canada-s-leading-fintech-and-financing-r4833550.htm"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 1
-  - title: "Worldwide Web Hosting Services Industry to 2027 - Artificial Intelligence in Web Hosting Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The \"Web Hosting Services Market by Type, Deployment Model, Application and End User: Global Opportunity Analysis and Industry Forecast, 2020-2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-06-03T10:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210603005450/en/"
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 24
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
+    excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
+    publishedDateTime: 2021-06-02T21:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
 
 secured: "t53Jpc2xg3xp0jBfnW/AiVuqNonnbjCIjvHp7FfXhEeN0nR3IRg2/wGie53WEIDLPQ13VlX1ss5sGzo9lf48M3E4fRtdsUBPfBKskijXSCYuwP0dW53EY52KK57dugOlWa716EPiz17ELsmOxB4Qf3SFf+Gnbsf3wqNxx1APlIlXYLaOCJcxGpf0mn2R7Fia6XzmzCfY6xKzpptQDClxmulkgrbIOrs6L9dw1R8QiuWgLZBEdDodq6WKDe1cTcYecGKsiifIvQPPbc3BXyf+14pxeClaF2mBDVJPZwY8PRQpt3xyBvcrd4E4v2wCKIwy6eksUWHfulRleEyTtia+dLxXFQY4kJYkcdjn/KO4mmE=;05/X53hLcnc23Om+YAlFeQ=="

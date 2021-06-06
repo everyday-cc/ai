@@ -24,17 +24,6 @@ images:
     height: 401
     isCached: true
 
-related:
-  - title: "Nvidia Comes Out with New 3080 Ti GPU and More on Computex"
-    excerpt: "Titan cards are believed to be the most powerful among the Nvidia GPUs and with the launch of the new RTX 3080 Ti card it can get even better."
-    publishedDateTime: 2021-06-01T08:18:00Z
-    webUrl: "https://www.pcquest.com/nvidia-launches-3080ti/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 19
-
 secured: "zLQcqLaKyhnQnPze8pQJZ6DhGayMzPHq3TY6RLwvmsmyyKiPdPgA1Ov5PVsp+bLqweOLnNVUFbm6pOV7Z2z2v2CQdQSk2Zy3cRlzUPl70nlJ8Tyz0jS2kWgoBtAGHkL6A1B6oJTpQF0kImqA3j8G/NEky6IIYuhU1ELMGT4qgM5CI4bthgOVAC6ZWsB2iNIR294wb6Ue/r8JaVaA1suJWEZ7Ob2skguPrdVA6iY/WU1kOzwE0IROTi3QSgfstOdkRw2hmTU0LA2Db2VacAAQeyYTgMzD+/N2wiI5quWFlrZL1hR2EPdDu9o7fdOW5ZE8Qza+o+NJoHFfChiq8t4QDo5iLwv81nZuTodRe0n0mx9lB5MKds5ui/RsP3N77FA2o3VVBwHErAuJCwvoQoVLQXBlJnFgdSEW/BAXOOLZFBvkkIz+CVBEGDyc5wmBg7OBApaMpPQ5xUN5Rj0Hx0B+WokPkvLME6ycf/8Uk57DAOb2L84D3CznpMl2T8usGzpcnDXeA1r5wyDDUNhVzYmp9A==;Z7pycvxi7aTBwuO/ByUU+Q=="
 ---
 

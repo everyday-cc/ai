@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-groups-file-comp
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/amp/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: CPO Magazine
@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "EU privacy debate rages regarding facial recognition firm Clearview AI"
-    excerpt: "European regulators are concerned over the practices of Clearview AI, whose facial recognition database uses images \"scraped\" from the web."
-    publishedDateTime: 2021-06-01T07:50:00Z
-    webUrl: "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/"
+  - title: "Will Voice Recognition Tech Be the Target of a New Wave of BIPA Complaints?"
+    excerpt: "A group of McDonald’s customers claim that the food service chain’s drive-thru technology violates Illinois’ biometric privacy law. If they can prove that the company is using voice recognition to identify repeat customers,"
+    publishedDateTime: 2021-06-03T19:21:00Z
+    webUrl: "https://www.law.com/therecorder/2021/06/03/will-voice-recognition-tech-be-the-target-of-a-new-wave-of-bipa-complaints/"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
+      name: Law
+      domain: law.com
+    quality: 37
     images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/06/063_1198303844-1.jpg"
-        width: 1024
-        height: 710
-        isCached: true
-  - title: "POLITICO AI: Decoded: Age of surveillance — Australia’s AI vision — Clearview under fire"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-06-02T09:00:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-age-of-surveillance-australias-ai-vision-clearview-under-fire/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 30
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
-        width: 1920
-        height: 1080
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2021/06/McDonalds-Restaurant-09-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Guest view: Regulate facial recognition now"
     excerpt: "This editorial first appeared in The Washington Post. Guest editorials don’t necessarily reflect the Denton Record-Chronicle’s opinions."

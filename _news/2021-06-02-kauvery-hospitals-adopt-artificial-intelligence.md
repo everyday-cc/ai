@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "AI can help stratify COVID-19 risk on lung ultrasound"
-    excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
-    publishedDateTime: 2021-06-01T07:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132539"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_28_22_04_8526_2021_06_01_AI_COVID_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Kauvery Hospitals adopt artificial intelligence for better detection and management of COVID-19"
     excerpt: "Kauvery Hospitals, one of India's leading multispecialty chain of Hospitals, have been harnessing the power of AI to better detect and manage the disease in COVID-19 patients. Chest CT scans are an integral part of the diagnosis and management of COVID-19."
     publishedDateTime: 2021-06-02T21:14:00Z

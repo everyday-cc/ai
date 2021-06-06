@@ -50,17 +50,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "FinTech Blockchain Market Worth $36.04 Billion by 2028- Exclusive Report by Meticulous Research®"
-    excerpt: "According to a new market research report titled, \"FinTech Blockchain Market by Application (Payments, Clearing, &"
-    publishedDateTime: 2021-06-02T10:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21384559/fintech-blockchain-market-worth-36-04-billion-by-2028-exclusive-report-by-meticulous-research"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21384559"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21384559"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "Global Artificial Intelligence in Medical Diagnostics Market Insights Business Opportunities, Current Trends And Restraints Forecast 2027"
     excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market report provides a holistic evaluation of the market for the forecast period (2018–2027). The report comprises of various segments as well an analysis of the trends and factors that are playing a substantial role in the market."
     publishedDateTime: 2021-06-01T11:42:00Z

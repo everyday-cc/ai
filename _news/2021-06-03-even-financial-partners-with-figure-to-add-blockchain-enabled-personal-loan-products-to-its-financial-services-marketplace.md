@@ -1,52 +1,24 @@
 ---
 category: news
 title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
-publishedDateTime: 2021-06-02T22:40:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
+excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
+publishedDateTime: 2021-06-02T21:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 related:
-  - title: "EIB sees up to 10 bln euro investment shortfall in AI and blockchain"
-    excerpt: "The European Union's attempts to catch China and the United States in artificial intelligence and blockchain technologies are set to be hobbled by an investment shortfall of as much as 10 billion euros ($12 billion) annually,"
-    publishedDateTime: 2021-06-01T07:30:00Z
-    webUrl: "https://www.reuters.com/technology/eib-sees-up-10-bln-euro-investment-shortfall-ai-blockchain-2021-06-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/pzXDSh8-xxazcvwwqLRTlYtSxfY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NLED3IXHE5OYZPUVD5AVAJNT6E.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "France Deploys AI in 3 Billion-Euro Plan to Save Small Businesses"
-    excerpt: "The French government will use algorithms and artificial intelligence to identify small firms at risk of collapse in the wake of the Covid pandemic, and provide as much as 3 billion euros ($3.7 billion) to protect them."
-    publishedDateTime: 2021-06-01T11:51:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-01/france-deploys-ai-in-eu3-billion-plan-to-save-small-businesses"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikH4883W5N7w/v2/1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Canada’s Top Women in Fintech and Blockchain honouree roundup"
     excerpt: "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration"
     publishedDateTime: 2021-06-02T12:02:00Z
@@ -95,7 +67,46 @@ related:
         width: 600
         height: 529
         isCached: true
+  - title: "FinTech Blockchain Market Worth $36.04 Billion by 2028- Exclusive Report by Meticulous Research®"
+    excerpt: "According to a new market research report titled, \"FinTech Blockchain Market by Application (Payments, Clearing, &"
+    publishedDateTime: 2021-06-02T10:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21384559/fintech-blockchain-market-worth-36-04-billion-by-2028-exclusive-report-by-meticulous-research"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21384559"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21384559"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+  - title: "How fintech is fighting R&D attrition in Canada"
+    excerpt: "One downturn stands out like a sore thumb in the Organization for Economic Co-operation and Development’s recent assessment of Canadian tax relief for research and development: From 2014 to 2018, the number of recipients of research-and-development tax relief fell by nearly 25 per cent,"
+    publishedDateTime: 2021-06-04T20:43:00Z
+    webUrl: "https://ipolitics.ca/2021/06/04/how-fintech-is-fighting-rd-attrition-in-canada/"
+    type: article
+    provider:
+      name: iPolitics
+      domain: ipolitics.ca
+    quality: 24
+    images:
+      - url: "https://ipolitics.ca/wp-content/uploads/2021/05/DSCF3065-scaled.jpg"
+        width: 2560
+        height: 1443
+        isCached: true
+  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
+    excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
+    publishedDateTime: 2021-06-04T19:02:00Z
+    webUrl: "https://www.pr-inside.com/ncfa-successfully-concludes-canada-s-leading-fintech-and-financing-r4833550.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 24
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "MpWYVbIoW18CbOwQlKHuVTrgiPOwZh8A8YyrJwHhndfdkpmbvXswKc14kWBTgJSZL/aBb2Mgtc2VRDGPak9TyZd5q8Xksl3hxCc2ETP7CVpzgcKZFH5AjEibxbLgIz6KQme77y4wRwoU1dWFV0pfGcrvgaSv3BNcKvoy92wbJYKY4E9hprTlNE2TSxCirawRUFWn5D9xtWyIf0rO+OR+IPS0r29A3k2yJK8KLlusVg8YIPqpQS61K4qnLuMhpBDfCwD//E7c87ckJlcHq49GHTm/EV0U/ZgON5RAPaydVVqpuaQ8nCe6CBdp60mgpwBnsSUcQldyiU0bT7FYoxOtzQqBmfxVsK2aasVwrR+LNQo=;bJhPRPjDlxF+UeVPJJPXAw=="
+secured: "DpOOIxCaOSgtpEB4xHS9FnnYTy4McYA186XtA5rCggBQzyCISwgoOQbKxW8jTY9UtMappx1MKIzrNo+lwK5SkpMsoJqtODQTBAZD1pUWzYqPl0EKNkBzG4vJdhsfaOag4ddZqJmXW0wY5IYKBdjG8rC8DOUE/QMvzgQ8GprLwQm6mpnNhQK8Q/pC/JbnNmpCUZ+A7hc6ZtG4XWxdb0DBLY3PaXFEe13YiNv4KaZIMYiuLtitsITWLLBJUbqhl7R0D2iaTj9T6+Tolk01oXDBtahGvS81AOr9SG+vCK7N7yyC+Qtv/Gw4Y0kmqDLCngnmlZwA76KIa+fxky0gPidobd8sm3FlAnQsp8H8QrMjwus=;P+RWkKv/DaCG72W7NTqwjA=="
 ---
 

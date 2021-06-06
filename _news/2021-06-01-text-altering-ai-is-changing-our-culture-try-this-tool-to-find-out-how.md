@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/text-altering-ai-changing-culture-try-
 webUrl: "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://media2.vault.com/14340846/thisisengineering-raeng-64yrpkiguae-unsplash-1.jpg"
         width: 850
         height: 550
-        isCached: true
-  - title: "Machine learning is changing our culture. Try this text-altering tool to see how"
-    excerpt: "Most of us benefit every day from the fact computers can now 'understand' us when we speak or write. Yet few of us have paused to consider the potentially damaging ways this same technology may be shaping our culture."
-    publishedDateTime: 2021-06-01T08:44:00Z
-    webUrl: "https://menafn.com/1102186394/Machine-learning-is-changing-our-culture-Try-this-text-altering-tool-to-see-how"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2021-05/31/TC_699bfimage_story.jpg"
-        width: 1500
-        height: 1000
         isCached: true
 
 secured: "fzWvLpNg5t1fszqim5CXxSX6VJRYunhgSj4vnXWv/aleWxx9WnoZF6xlJBvnN2BcIvRl+jM2oOlnD38ia/IuFXtRiwtbgylaw2mUGmYk6t1y9vo87zvifCbrZNP4vZwVbnGbGfoXggoo5jyD47TsClgSHYlZ4pRPtLfd6bXZbcfeb4qTRoBTf84Pc3eMq+R4Dc0gFE5bGuqr/Ngs7roxFMIkLluIXPKGrDWER2tC0HA/2hlOhx2NVd1dCa5uTixC1tVe7GRdNcYqaI4+5Q7zVCwWlI5htgG0N80FNvzEyYoQAN6SYI07jnL22vJatSgHMOpKw8HNNWRtt3hSo8lSmMwGfzTN9fZ2bOM6LZZOFzlGUo9JVmceZEqZcqaYkl27QfUz9BjM0z1/PuPlwcGCbMe+6lKHmKoGzBL/8PJAY7dB1NagW4C/Y55X++Mt/M1282tKSM7gY6MaURTulHzsjpUwrLaie7Hyj+y5fCwzdqxdqOXb4WwPiRSJHwKvFgrp+qgGtPGFjsNp1lanO5tFyg==;zp7D34CCqiTsit40U9WhhA=="

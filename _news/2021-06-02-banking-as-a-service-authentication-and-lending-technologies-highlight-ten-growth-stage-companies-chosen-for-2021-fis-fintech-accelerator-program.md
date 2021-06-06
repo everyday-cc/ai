@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Queen's Award-winning global fintech company Quint Group relocates headquarters"
-    excerpt: "A Queen's Award-winning global fintech company has joined . Quint Group, which owns and operates a number of fintech businesses which are focused on improving access to credit, also has operations in San Diego,"
-    publishedDateTime: 2021-06-01T08:51:00Z
-    webUrl: "https://www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547"
-    ampWebUrl: "https://www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547.amp"
-    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/commercial-property/queens-award-winning-global-fintech-20715547.amp"
+  - title: "Fintech Regulation Is Hot Topic at Pujiang Innovation Forum in Shanghai"
+    excerpt: "The rapid development of the fintech sector calls for a new set of regulatory policies that focuses on issues such as fair competition and consumer protection, according to a panel of experts and professionals invited to the fintech seminar hosted by Yicai Media Group at the 2021 Pujiang Innovation Forum yesterday."
+    publishedDateTime: 2021-06-03T07:19:00Z
+    webUrl: "https://www.yicaiglobal.com/news/fintech-regulation-is-hot-topic-at-pujiang-innovation-forum-in-shanghai"
     type: article
     provider:
-      name: business-live
-      domain: business-live.co.uk
-    quality: 40
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
     images:
-      - url: "https://i2-prod.business-live.co.uk/incoming/article20715549.ece/ALTERNATES/s615/0_Atrium_2.jpg"
-        width: 615
-        height: 409
+      - url: "http://img.yicaiglobal.com/cdn/news/fintech-regulation-is-hot-topic-at-pujiang-innovation-forum-in-shanghai/13845569030062080.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Top Trends and Practices Fostering Fintech Transformation"
     excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
@@ -54,34 +52,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/5lqhz450308.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
-    excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
-    publishedDateTime: 2021-06-04T19:02:00Z
-    webUrl: "https://www.pr-inside.com/ncfa-successfully-concludes-canada-s-leading-fintech-and-financing-r4833550.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 24
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Fintel Connect Joins Visa Fintech Partner Connect to Bring Scalable Customer Acquisition to Visa's Clients and Partners"
-    excerpt: "Fintel Connect, a performance marketing technology company that serves financial services and fintechs, today announced that it has joined Visa Fintech Partner Connect—a"
-    publishedDateTime: 2021-06-01T13:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintel-connect-joins-visa-fintech-partner-connect-to-bring-scalable-customer-acquisition-to-visas-clients/article_b93bca12-6bd4-5499-9d92-6521b236d162.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ed/0ed9dd14-e778-5a4e-b776-1c76ba455387/60b63a15090d9.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
 
 secured: "M6gwL5apBuIHoSrwA6PxVWGib1X/YFaGZdYfnQQANAvStsYEg/TI6oCcqthaEzSUMn7mPoOnU8LlHPFTTHXYxhDvGVOAk/uWSsGlyN5sVkT0rTP84UtdQjiU42FCxuSeMIdK3hrptG9ep0GFhYXKA2nQtkHvdm4mq6gi0+lac8GOOQzgZf02YDZ/QStQSFEUgjueteSukO68vB9+vM77ttYZsdTkTUgC37cOnTjMU4JaCcK8Ok/QMXH1ucYEBwwjnLjA4WMcFl1aBS+VhKRL6yrfrowRuRI3+lMLPXnuwVrh6ERBJJXE9SXh/5ZuC/fVZeXppDh6/yfxvwP4x3sDOmtQbQs+OpDBC97i+ZNPFOs=;uRjPbmeJtrjT6D9vK1IPlQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/technology/want-your-nails-don
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/want-your-nails-done-let-a-robot-do-it/?amp=1"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Want Your Nails Done? Let a Robot Do It."
-    excerpt: "Start-ups are using technology to take a robotic approach to manicures, offering a simple way to provide foolproof nail polish."
-    publishedDateTime: 2021-06-01T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/01/multimedia/01sp-currents-nails/01sp-currents-nails-facebookJumbo.gif"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "nINowIaAodxVASOJdGtIP9ypFVDgq0vB6tfl//liM9oe4IP9NwD1sT0Po0ix2Wp23ARu2wxW6aiuT5ltJ9cE7EMU84/YpN6Uapy0WZdlLrDbpNLQFxOL0vAvvfhawlL50QO9OFZ98rdXJrJMcYBte7cw1K0Va7ic9NMWJBumsYkpx+bWr/K5Fm7rDbyx9AGcrWqqUaXegmSn4tIpLXspTlsPeBj7Jhm2gIC73nHz2I6Xtx6AEPYx9J7xcbpeYaTobFRwxjbBRqK2w3MFa/jkeNf0IvalIllu0XEkgX2l5Cck0P3sorl5jtwvcHGPRYNfjI4jCtzv9jV1lgtF30Kz45VnV08bzi1NyT9/70IYm82UMNffBuFy/yBi4WDedlJtEJUxV7Y0ENlyeAknEVTbssE8dZI+sbLC+8W2DuVzuJDqqz4k871ayqK+wbFpiiTLHhsPkwzTLvKALMWf/hhT31Kx9bS1gnrqqH7lhvAd25ktMHBbO8zA42khaq5SeQ1QNmorgVeGxTJLmug4WfobHg==;4CGyRarjcf3qn/R2NwGdDw=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Edtech startup Avishkaar raises Rs 5 crore of funding in pre-series A"
-    excerpt: "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent"
-    publishedDateTime: 2021-06-01T07:33:00Z
-    webUrl: "https://www.business-standard.com/article/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/edtech-startup-avishkaar-raises-rs-5-crore-of-funding-in-pre-series-a-121060100548_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/12/full/1591984030-0973.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "tuyagXOC8WbItGZREXGd0c8lfpNsgDl/O1ucl8pBKbu/m7ppppHwM6xSI4W0jIZEQYDENYHwwZsNb8K8hFBYJz/Z1Ljh4JTp2uQyQBveLk95KoS9h+HX2Xi+tcfj3Xzbg4lESoK8aYRD9/rbCLepHpkBooV9ZtTY0ZetyI+wk3Gmyj/E4FUbQT1ujQaYnIHGWonY/h9UUzWwonto7Nba5Tg5Ts6txz/nFz3h/uWTlhJbuhhOOUS6i9SpzINAlc0f+oluk5I4NOiTTmv9iGlxB/abpyx0UljxN1e1hXMtw3vPvZ0nHAfkFDXTAk0juvfue8qNNeMX7sC1bZLtpHUUq4g3a+IXqNSrAXv4ObZE+LsofU5rovHMxTMZbgZB22NFvUo+qhfjYjpDodFNTtWCqKQrWwLAC23EXky4f6Dsdc10C/5BIkN2uLlhhwy0Q97XoKHq/UnWbcDxcrPdfQy+Vz5I8dmCDa0gt/dFKqNs7C2EQopHNPuAtN4PcUTcLkOQDTwnVAZN+HOxsmUAEZuLPA==;bY3MqqP1Xvm4ukbjQKL06g=="
 ---

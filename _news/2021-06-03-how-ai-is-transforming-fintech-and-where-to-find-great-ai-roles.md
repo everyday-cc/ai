@@ -55,20 +55,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Machine learning is changing our culture. Try this text-altering tool to see how"
-    excerpt: "Most of us benefit every day from the fact computers can now 'understand' us when we speak or write. Yet few of us have paused to consider the potentially damaging ways this same technology may be shaping our culture."
-    publishedDateTime: 2021-06-01T08:44:00Z
-    webUrl: "https://menafn.com/1102186394/Machine-learning-is-changing-our-culture-Try-this-text-altering-tool-to-see-how"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2021-05/31/TC_699bfimage_story.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "MZ/QVJwaC8C30Wp+Bkx/P0OctolOPp4VigN6vCZWLqqxdK9cfTHASAPugIhtONziBQYBwgGFuO5P2lifpTuQT5AOTUctAS8ZNzmTIGoI0TVAKV3phq9ldZfdyySzGUr6JejX/ogSa+ipJuNplmtmjNzujLOgdyHwT++0AU4kyqy2rPRIlBoJI4+Lh5TBmjK/wENFHgyruOaxxXAi6fXlviOtjkeHtgJPSw/WbaGWeld+7qyBye5dkImUrgKGXJhQENM9g6vSN6dy2Fb0rJzQyKXIQkQFyOXGKFGAO2I4uIfgTq+LoCvhI1RqWvKE5TXMDZGY+qxA1aohLpMpE561RcU3hnTlGGyLtTWD8xUSYf0=;najgvxt23vPmuztPfkXy+w=="
 ---

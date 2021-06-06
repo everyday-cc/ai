@@ -43,17 +43,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "FinTech Blockchain Market Worth $36.04 Billion by 2028- Exclusive Report by Meticulous Research®"
-    excerpt: "According to a new market research report titled, \"FinTech Blockchain Market by Application (Payments, Clearing, &"
-    publishedDateTime: 2021-06-02T10:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21384559/fintech-blockchain-market-worth-36-04-billion-by-2028-exclusive-report-by-meticulous-research"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21384559"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21384559"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "Report: Rogue Drone Hunted Human"
     excerpt: "New Scientist says that there is evidence a weaponized drone went on a rogue mission last year where it hunted a human target without being instructed to do so. The publication cites a UN report and says the details suggest a Kargu-2 quadcopter was being used in fully autonomous mode during a conflict in Libya in March of last year when the device pursued a soldier that was trying to retreat."
     publishedDateTime: 2021-06-02T15:14:00Z

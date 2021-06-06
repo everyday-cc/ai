@@ -49,20 +49,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "AI can help stratify COVID-19 risk on lung ultrasound"
-    excerpt: "Deep-learning algorithms can be used to automatically provide risk scores on lung ultrasound exams in COVID-19 patients, researchers from Italy reported in an article published online May 27 in the Journal of the Acoustical Society of America."
-    publishedDateTime: 2021-06-01T07:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132539"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_28_22_04_8526_2021_06_01_AI_COVID_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "AzukYeMfwU/mutuem1Zqz458gR52F1vROpxyN/egx/PdG+iZvg9dhvq6ltV67XKeVKMesOe1lde5cwQo8PSjnLpCyZqlJx6RA639EMrKhf4lw6Fv91Iy2ImBG/NtY5JmWOMJ8Pn0rLtqkZhtHrmIJSb2otShcXSQ2f6eebFXfeXo/YfgbMu6JP1MH0hC1LjYNUKbf5Sw7EuVfwweTkVdvMR/DBmtPUWzIhFBnDngInHEJ0D+OD8OMvLe54R7vxmDAeC0a3fYlsKOz9MKmyr+K3KXEjEKIqYCSVLoR+JcoOIZLtJdKSF08tZGaxD9aJ5KrzY0QwjidKxfCE+Y2vMLaM55EPdiP9+8WiNf5MOFixM=;YbtyMEBOP/wkm/iuo+4tmg=="
 ---

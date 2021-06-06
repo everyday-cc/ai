@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "How fintech is fighting R&D attrition in Canada"
-    excerpt: "One downturn stands out like a sore thumb in the Organization for Economic Co-operation and Development’s recent assessment of Canadian tax relief for research and development: From 2014 to 2018, the number of recipients of research-and-development tax relief fell by nearly 25 per cent,"
-    publishedDateTime: 2021-06-04T20:43:00Z
-    webUrl: "https://ipolitics.ca/2021/06/04/how-fintech-is-fighting-rd-attrition-in-canada/"
+  - title: "Top Trends and Practices Fostering Fintech Transformation"
+    excerpt: "In the coming years, fintech companies should consider embracing these patterns to improve their digital transformation. Fremont, CA: In the wake of the Covid-19 pandemic, Fintech is transforming. The fintech industry overgrew during Covid-19,"
+    publishedDateTime: 2021-06-01T11:12:00Z
+    webUrl: "https://www.cioapplications.com/news/top-trends-and-practices-fostering-fintech-transformation-nid-7854.html"
     type: article
     provider:
-      name: iPolitics
-      domain: ipolitics.ca
+      name: CIO Applications
+      domain: cioapplications.com
     quality: 24
     images:
-      - url: "https://ipolitics.ca/wp-content/uploads/2021/05/DSCF3065-scaled.jpg"
-        width: 2560
-        height: 1443
+      - url: "https://www.cioapplications.com/newstransfer/upload/5lqhz450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Banking-as-a-Service, Authentication, and Lending Technologies Highlight Ten Growth-Stage Companies Chosen for 2021 FIS Fintech Accelerator Program"
+    excerpt: "FIS and The Venture Center announce the ten growth-stage fintech companies selected to take part in the 2021 FIS Fintech Accelerator program.Highlighted by solutions focused on authentication, lending and banking-as-a-service,"
+    publishedDateTime: 2021-06-02T12:03:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=478666"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 1
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "SZOTYfvTOkbhji7G20iC7GxIZQRSDLO/IMu18E6chy8X/t3DHl2t9sIT5cpQXtl2MluHEas8uBq0cnBQjtC+vs5zvoezDip2+Q4WxDrBfLSmKMiTKIk1tPmlXvw4PO5NJE4a6jDL4bPTQ3G+x1A6hrMG2pikziS5fbk0w5cV1djb4F6qxnP6A7iGXm98q3QL6EkRWg8IWLUSiQO1ghSfFQzx5NjGZRzbBfM/JVz2Pe43A2n9h/L7YOAvjEUeidCieCzO3eFzLCMKbApp6cm4hxeRJv8GhepGSMCs0nevfKcIsVPfM+9aPlayL5S3jLjisAeVZqB2d8OYfuOIGA6Jdz2oXd3t7xat/9hpPLVI8iD8R8mDyTQ29hxc8V2H1oq3ONgMWsOh2KNeexBy8/SRg0z3bJGG2JmtxAYPMzW02A+DdR4JftYgbRLhpOWiDK+jB0NBQ/DBv6epvrZ2hlbMJjYhpTDiEryx5E85KhtjdgibS4CJ4R0iAXvIcEhlpSMAdY6BkapJcbFrwlQbKHemJg==;R8BcLLMIPACH7/VRn17Udg=="
