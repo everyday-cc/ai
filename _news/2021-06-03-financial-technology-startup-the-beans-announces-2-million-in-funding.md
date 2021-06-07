@@ -38,6 +38,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Report lays out seven technologies key to fintech development"
+    excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
+    publishedDateTime: 2021-06-07T13:20:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202106/07/WS60be1d1fa31024ad0bac4249.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202106/07/60be1d1fa31024adbdcc988e.jpeg"
+        width: 678
+        height: 452
+        isCached: true
 
 secured: "ssFiRSe9ZJIGv6yAnnxU3bd4KQDpKjPXs074wofZvUx1aH0eafw/MZbWDNxuhcxODVak4eZVYV2XrKuerOiOiSrbjDOOWmaHPxvSjRHDbhRsACxCAjwU6HgXOdYCXKBGYkTYb3UACz1Pda7cHYtk0PZCD/RNU8NNt08OAAVEE4UHX0cQNx1BIm6n0juUpYnVcce3WZwU+EOzQ9fZ/UI4ruoIh1J1w/R3S/pOIb41LmJHaUBSndmf2wQ4WtjmSCzYAvkNozSNXCzbVTeSIGyKvNYG9wkKwE5MnBZo7lzPTMEWEdaoTDNQ1sAcv7EXiwoG8POabPYPn+VcYQrzYytSLrDri8wPR9i4A58BOF7T3CI=;ESH97pewXclBkn13MNHBNQ=="
 ---

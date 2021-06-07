@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "King County Council approves facial recognition technology ban"
-    excerpt: "The King County Council unanimously passed a groundbreaking proposal to ban government use of facial recognition software. The council approved the measure 9-0 on Tu 1. King County, home to 2.3 million people in and around Seattle,"
-    publishedDateTime: 2021-06-02T23:43:00Z
-    webUrl: "https://www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/"
-    ampWebUrl: "https://www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
-    cdnAmpWebUrl: "https://www-issaquahreporter-com.cdn.ampproject.org/c/s/www.issaquahreporter.com/northwest/king-county-council-approves-facial-recognition-technology-ban/?amp"
-    type: article
-    provider:
-      name: issaquah Reporter
-      domain: issaquahreporter.com
-    quality: 61
-    images:
-      - url: "https://www.issaquahreporter.com/wp-content/uploads/2021/06/25376105_web1_facialrecognition-allKC-210604-ban_1.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Aussie researchers to test koala 'facial recognition'"
     excerpt: "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation."
     publishedDateTime: 2021-06-03T07:50:00Z
@@ -96,15 +80,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 56
-  - title: "Washington State County Bans Use of Facial Recognition"
-    excerpt: "The King County sheriff’s department and other county departments are prohibited from using facial recognition technology or information from the technology under a new measure that cites its threat to privacy and history of bias."
-    publishedDateTime: 2021-06-03T00:19:00Z
-    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2021-06-02/washington-state-county-bans-use-of-facial-recognition"
+  - title: "Facial recognition for fish? Researchers test technology to stop invasive species"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
+    publishedDateTime: 2021-06-07T16:30:00Z
+    webUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.html"
+    ampWebUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/asiancarp.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Contactless Voice Payment Technology: A Retail Strategy for Bringing Customers Back In-Store"
     excerpt: "Voice recognition technology has moved beyond the realm of checking the weather and playing music. Pandemic-fueled digital commerce is rapidly increasing the use of voice recognition technology. In particular,"
     publishedDateTime: 2021-06-04T12:37:00Z

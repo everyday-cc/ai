@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/373682"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Report lays out seven technologies key to fintech development"
+    excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
+    publishedDateTime: 2021-06-07T13:20:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202106/07/WS60be1d1fa31024ad0bac4249.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202106/07/60be1d1fa31024adbdcc988e.jpeg"
+        width: 678
+        height: 452
+        isCached: true
 
 secured: "tuyagXOC8WbItGZREXGd0c8lfpNsgDl/O1ucl8pBKbu/m7ppppHwM6xSI4W0jIZEQYDENYHwwZsNb8K8hFBYJz/Z1Ljh4JTp2uQyQBveLk95KoS9h+HX2Xi+tcfj3Xzbg4lESoK8aYRD9/rbCLepHpkBooV9ZtTY0ZetyI+wk3Gmyj/E4FUbQT1ujQaYnIHGWonY/h9UUzWwonto7Nba5Tg5Ts6txz/nFz3h/uWTlhJbuhhOOUS6i9SpzINAlc0f+oluk5I4NOiTTmv9iGlxB/abpyx0UljxN1e1hXMtw3vPvZ0nHAfkFDXTAk0juvfue8qNNeMX7sC1bZLtpHUUq4g3a+IXqNSrAXv4ObZE+LsofU5rovHMxTMZbgZB22NFvUo+qhfjYjpDodFNTtWCqKQrWwLAC23EXky4f6Dsdc10C/5BIkN2uLlhhwy0Q97XoKHq/UnWbcDxcrPdfQy+Vz5I8dmCDa0gt/dFKqNs7C2EQopHNPuAtN4PcUTcLkOQDTwnVAZN+HOxsmUAEZuLPA==;bY3MqqP1Xvm4ukbjQKL06g=="
 ---

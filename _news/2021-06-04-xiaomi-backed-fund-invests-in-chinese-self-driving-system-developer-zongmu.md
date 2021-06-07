@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/06/04/xiaomi-backed-fund-invests-c
 webUrl: "https://www.gizmochina.com/2021/06/04/xiaomi-backed-fund-invests-chinese-self-driving-system-developer/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi-Backed Fund Invests in Autonomous Driving Startup Zongmu"
-    excerpt: "An investment fund backed by Xiaomi Corp. is among a new slew of investors in Zongmu Technology Shanghai Co. as the Chinese autonomous driving system startup raised $190 million in its latest funding round."
-    publishedDateTime: 2021-06-03T00:05:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/xiaomi-backed-fund-invests-in-autonomous-driving-startup-zongmu"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 52
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJQ5O6NbTqNY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Xiaomi-Backed Fund Joins $190 Million Funding Round for Smart Parking Specialist Zongmu"
     excerpt: "Zongmu completed the financing in three stages, with the last tranche led by Hubei Xiaomi Yangtze River Industrial Fund, an investment fund backed by smartphone giant Xiaomi, Zongmu said in a statement on Thursday."
     publishedDateTime: 2021-06-03T10:02:00Z

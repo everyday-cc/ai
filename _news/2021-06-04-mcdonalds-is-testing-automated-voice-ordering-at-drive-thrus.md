@@ -57,20 +57,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "What's Next: McDonald’s Customers Order Up BIPA Suit Over Drive-Thru Tech + An Evolution in Ransomware Attacks + A Trial Over AI-Driven Chat"
-    excerpt: "A proposed class action claims McDonald’s voice recognition technology is storing drive-thru customer’s voiceprint biometrics to create a “tailored experience.”"
-    publishedDateTime: 2021-06-02T23:03:00Z
-    webUrl: "https://www.law.com/2021/06/02/whats-next-mcdonalds-customers-order-up-bipa-suit-over-drive-thru-tech-an-evolution-in-ransomware-attacks-a-trial-over-ai-driven-chat/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 2
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2021/06/unnamed.gif"
-        width: 550
-        height: 268
-        isCached: true
 
 secured: "iRxwPR4oxYgbB0PMj9figHbHwgKMaQDiSjFiP9KZPJzM/XJtfGx/T9AzdXcq+y1UDfbMcLpoMwgUbC3xgL6byKTzhtSJQDFpWW/OBLYl5RdkIT/59H04jqIC/EcDD4D5Msx0vGSGC8Jw2dSanqk8b5Yf0xgCmlIasnJzX85nWvpA/CTLNqA2Gdv98mFOrFm9orTiOqg8N065vwOWkMsGCIBmt8o7dHarrdFQiHsPQqmlk2i05NzLmr7Gdjc1jbygwpPkQf+8PYGIMs84I3Y6tV2WugOmyrwtTIHoXS98VLuXTMfKkX6PRsvk93I1RTiMpzJAT3R+ZMJ8CJo3/p6KByYXDbl3fI9S8455L9b8hx8=;dsY9Lxp7NkNLEADhwCPP3A=="
 ---
