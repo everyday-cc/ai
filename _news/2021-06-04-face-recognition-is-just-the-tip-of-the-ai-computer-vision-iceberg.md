@@ -7,8 +7,8 @@ originalUrl: "https://www.airforce-technology.com/features/face-recognition-is-j
 webUrl: "https://www.airforce-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
 type: article
 quality: 73
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Airforce Technology
@@ -27,6 +27,52 @@ images:
     isCached: true
 
 related:
+  - title: "The State Of AI Decision Making"
+    excerpt: "Artificial intelligence (AI) is transforming the way we live and work, creating new opportunities in almost every industry and branch of government. Here is where it will go next."
+    publishedDateTime: 2021-06-07T11:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Temenos' explainable AI offering for SMB decision-making rolls out globallyv"
+    excerpt: "Temenos will roll out globally the explainable AI (XAI) product Temenos Virtual COO—letting banks use the technology for complex operations."
+    publishedDateTime: 2021-06-03T13:44:00Z
+    webUrl: "https://www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/60b8dbbebee0fc0019d5b125?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Accelerating AI at the speed of light"
+    excerpt: "MIT alumnus Yichen Shen PhD '16 is the CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence."
+    publishedDateTime: 2021-06-02T19:25:00Z
+    webUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 69
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202105/yichen-shen.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
     excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
     publishedDateTime: 2021-06-03T16:59:00Z
@@ -55,30 +101,61 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
-    excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
-    publishedDateTime: 2021-06-07T07:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+  - title: "Mastering artificial intelligence and machine learning"
+    excerpt: "Control Engineering - Just a few decades ago, artificial intelligence (AI) was the stuff of science fiction, but has since become part of our daily lives. In manufacturing, it"
+    publishedDateTime: 2021-06-06T09:02:00Z
+    webUrl: "https://www.controleng.com/articles/mastering-artificial-intelligence-and-machine-learning/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 22
-  - title: "Meicam Co., Ltd. won the first prize of the “Broadcast, TV and Network Audiovisual Artificial Intelligence Application Innovation Competition”"
-    excerpt: "The State Administration of Radio Film and Television of China (SARFT) held the first “Broadcast, TV and Network Audiovisual Artificial Intelligence Application Innovation Competition (MediaAIAC)” to announce the list of winners."
-    publishedDateTime: 2021-06-03T17:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/meicam-co-ltd-won-the-first-prize-of-the-broadcast-tv-and-network-audiovisual-artificial-intelligence-application-innovation-competition"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
+      name: Control Engineering
+      domain: controleng.com
+    quality: 54
     images:
-      - url: "https://www.getnews.info/uploads/ef60a897b9363a48f84c3f21c93be58d.png"
-        width: 600
-        height: 421
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/06/CTL2106_WEB_IMG_xAI-Fraunhofer-IPA.jpeg"
+        width: 645
+        height: 350
+        isCached: true
+  - title: "Can Artificial Intelligence Explain How Simple Organisms Make Decisions?"
+    excerpt: "Physicists use artificial intelligence (AI) machine learning to model chemotaxis in single-cell organisms. How do living organisms that lack a brain or nerve cells make decisions? In a new study published in May 2021 in the Proceedings of the National Academy of Sciences of the United States of America (PNAS),"
+    publishedDateTime: 2021-06-03T18:50:00Z
+    webUrl: "https://www.bbntimes.com/science/can-artificial-intelligence-explain-how-simple-organisms-make-decisions"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 53
+    images:
+      - url: "https://www.bbntimes.com/images/articles/society/AI_Organism.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Envisioning safer cities with artificial intelligence"
+    excerpt: "Over the past several decades, artificial intelligence has advanced tremendously, and today it promises new opportunities for more accurate healthcare, enhanced national security and more effective education,"
+    publishedDateTime: 2021-06-03T22:09:00Z
+    webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?org=NSF&cntn_id=302812&preview=false"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/lake_charles_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
+  - title: "Insurance to Mitigate the Risk of AI Systems Coming into View"
+    excerpt: "AI insurance and revamped cyber security insurance aims to mitigate the risk of deploying AI systems for high risk decision-making."
+    publishedDateTime: 2021-06-03T20:41:00Z
+    webUrl: "https://www.aitrends.com/ai-and-business-strategy/insurance-to-mitigate-the-risk-of-ai-systems-coming-into-view/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-4AIInsurance-2.jpeg"
+        width: 550
+        height: 366
         isCached: true
 
 secured: "lCT2nK/QPvifw+Nj4rh4S3uXczAH7494RD0Mu611AO5NGa03aPOSHtuNtdKfjwINsq07vT22JxnMCYyCNSLFCBkQI8dzEC8j/CGApXGoPcNQMEWwaLbkDiNzwicl7FcrVk/B3aEGacSXzODDZgm56d8L9toecyvV4zNX0FrPVu8H6arhzH/+qBTZpxb8WY+OglUSCeDH7jS00PYywVaJjFT3yaqR1XJiwo4f6UdDHMdynoZmuJk53gqC3JLnmn69m+AkuDop0OcFPjDGso7DS76gf6u7Sb2G2H75bMmeqCrjvCVTho5EfDV7w1JggscbvCk348lSvR0q1ssN6Cmf72FhjoIo5gRTCBDUFXHDzD0=;+AwuqxIG9ynU4bsEe8kPeQ=="

@@ -24,22 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI evolution: Ironing out all biases that could creep up must be a priority"
-    excerpt: "Just like electricity changed the last century for the better, AI will transform this era. It can help society scale new heights – making us healthier, more prosperous and more sustainable. But as we celebrate and anticipate AI’s enormous potential for economic and social good,"
-    publishedDateTime: 2021-06-04T09:37:00Z
-    webUrl: "https://gulfnews.com/business/analysis/ai-evolution-ironing-out-all-biases-that-could-creep-up-must-be-a-priority-1.1622799315365"
-    ampWebUrl: "https://gulfnews.com/amp/business/analysis/ai-evolution-ironing-out-all-biases-that-could-creep-up-must-be-a-priority-1.1622799315365"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/analysis/ai-evolution-ironing-out-all-biases-that-could-creep-up-must-be-a-priority-1.1622799315365"
+  - title: "3 AI startups revolutionizing NLP"
+    excerpt: "Deep learning has yielded amazing advances in natural language processing. Tap into the latest innovations with Explosion, Huggingface, and John Snow Labs."
+    publishedDateTime: 2021-06-07T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html"
+    ampWebUrl: "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
     images:
-      - url: "https://imagevars.gulfnews.com/2021/06/04/Stock---AI_179d661e069_large.jpg"
-        width: 750
-        height: 563
+      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "8 AI Startups That Raised Funds In 2021"
+    excerpt: "Indian Government has launched a Startup India Seed Fund Scheme with a corpus of 945 crore rupees to provide seed funding to qualified startups through eligible incubators across India in the next four years."
+    publishedDateTime: 2021-06-03T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/8-ai-startups-that-raised-funds-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Startup-funding-2021.jpg"
+        width: 1600
+        height: 1131
+        isCached: true
+  - title: "Startup Street: Here's an AI based solution to reduce air pollution"
+    excerpt: "Ahead of World Environment Day, watch Startup Street speak to a Bangalore based disruptive clean-tech company Devic Earth, on their flagship air pollution control product 'pure skies', and the impact it created through the technology."
+    publishedDateTime: 2021-06-04T16:55:00Z
+    webUrl: "https://www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm"
+    ampWebUrl: "https://www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 37
 
 secured: "fdDt9LfxsBArCJWzl9Ut+rXV05OzfJztptO7VBBaOpqjtFZG/xMKexIKrWdHKYwc79fqRKoQWaSRA5BHaZ80BKNjqCmqNahc+x5wHTV51SU23VnYIAoYyhJGSDSCFBJfYeFLHhUxgd2dtA0K4+uMzYOA6bfWFgcwBX+EWraL7wnCKMK/5vavr2h733Oh3yeFsf2MKjQpeclD9UDItPuDizqu3W3ujVg8G3xobtj3c+5NeR0G2q0XQGFoGNrxadqGdv534PvtCA2KPJeYRQoR6sEPuo76uj8m1nJFxnfCse6929HINLcqEeD24Aw3pT8bg28gwGq9+88kJIa0xXl+F4+vE9uTSLQ0azqo+JTK9AI=;kxVzYIcp31VPqex6VRFQOw=="
 ---

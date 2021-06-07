@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-06-team-machine-platform-nature-drugs.amp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-team-machine-platform-nature-drugs.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Phys.org
@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "CMU Team Develops Machine Learning Platform That Mines Nature for New Drugs"
-    excerpt: "Researchers from Carnegie Mellon University's Computational Biology Department in the School of Computer Science have developed a new process that could reinvigorate the search for natural product drugs to treat cancers,"
-    publishedDateTime: 2021-06-02T17:41:00Z
-    webUrl: "https://www.cs.cmu.edu/news/cmu-team-develops-machine-learning-platform-mines-nature-new-drugs"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 37
-    images:
-      - url: "https://www.cs.cmu.edu/sites/default/files/figure_capsule_AI.jpg"
-        width: 1200
-        height: 719
-        isCached: true
 
 secured: "YUTLmps8dJZ8d1xndXVnJw3u7gO50HQ1meWNnKpXrjVcHexK8j3ijefNpyYdTUVKW++EhntGel3IWwTA5C+P3/wnOXmYlJOmDVCCZ7kkciFcb5KyfQ2dpAiEgY3j+LZ7qt0p9EFCDx6IH3Z2F4grlTwcd3/8WP2RNsVukRHBmzF7Iv9ua9waaVnDY5byuxrCl8l4jfcqkNjUHTodQl29o3bl6hMvPpYRrqn5XTfX2L7Ah3zvUMcGYD1DUNuFfafFT5KAR+y+hrz1SoL/vJcNXOGrzYLnZ9KixWjYo1uMsJt8TaUiaiw6RhRZo8+c4q5TVgpX7bYI+Cn0CNum6PQeVtd/Af7i2oWZG2oPjglVKZlXft4IN5uuEc+gOFRr3wqUn8w5bOBSmrPU2P922k6V5OdhVmIDrEvx3xSVBryaU3rWgnBcBOmzI8hP5gsEv6MW/x3DN3Yhc7TywJrM6YwOrRmgxK2ZGvE5Vge+E8hRe7eKKMQl8xwZNGAmdWpfftkSjBTcCHh+UKeWizCBB3XgQg==;+QsGhuxc90Q78xz66FNKbg=="
 ---

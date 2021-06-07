@@ -126,20 +126,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "Facial Recognition Technology Banned in Kings County"
-    excerpt: "The law would allow people to sue if facial recognition technology is used in violation. It would not ban the use of such technology by any other government within King County, or by private groups or individuals."
-    publishedDateTime: 2021-06-02T17:53:00Z
-    webUrl: "https://www.govtech.com/em/safety/facial-recognition-technology-banned-in-kings-county"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/46c9950/2147483647/strip/true/crop/940x457+0+99/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
     excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."
     publishedDateTime: 2021-06-03T23:05:00Z
@@ -153,6 +139,20 @@ related:
       - url: "https://www.capradio.org/images/share/placeholder.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Hyderabad Man Bears The Brunt Of Facial Recognition Technology"
+    excerpt: "The Internet Freedom Foundation said the random collection of citizens’ photographs could be linked to a database building exercise for FRT"
+    publishedDateTime: 2021-06-07T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/hyderabad-man-bears-the-brunt-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Hyderabad_AIM.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Washington county restricts facial recognition use by sheriff, country offices"
     excerpt: "King County, Washington, home to facial recognition-providing tech giants Amazon and Microsoft, has banned the use of facial recognition by local police."

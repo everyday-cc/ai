@@ -55,6 +55,20 @@ related:
         width: 3120
         height: 2080
         isCached: true
+  - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
+    excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"
+    publishedDateTime: 2021-06-07T11:25:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-10-upcoming-fintech-webinars-and-virtual-events-in-dach-to-attend/45836/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Upcoming-Fintech-Webinars-and-Virtual-Events-in-DACH-.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
 
 secured: "mE1TYmSVckyMEnJ7JjFWsrVLlwgu1hEgvmGkGWxgbhL4mcYDrfnL5MvwYoxrZllYYpdKqkdt3Pc+IgZCXkgsgWQWJiv2ri3GbYr24uewsKjafNdJx7flO+TSTqMxTVLVkSl9pDwNZ1iNx3qXO+mU7iguDGgV6GztZtQBoFYooWxa/Z1tmQZmVwiA5QaD/93iOD0+PcVAgJgmmlOwsBjmcWA/tERixF1iwK1lcY9iWfJfA6lgrRnR4ioBRt+xbNf5fsHjkq6ZkMzNXZHxRbokdA1KEBFdi+AIm1VEiCuY6aASVPg1t+YDP1ARPau3qTcTTyBYBFEsNTc3u8urhqJqQ8Hq7M0tog6LdFPlcn5IjEQ=;49QPU05QJzV+W23voGp6cQ=="
 ---

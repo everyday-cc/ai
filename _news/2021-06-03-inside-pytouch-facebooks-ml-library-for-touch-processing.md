@@ -72,20 +72,6 @@ related:
         width: 1000
         height: 653
         isCached: true
-  - title: "Facebook is moving all of its AI models to the open-source PyTorch framework"
-    excerpt: "Facebook Inc. today revealed that it’s going all-in on PyTorch as its default artificial intelligence framework. The company said that by migrating all of its AI systems to PyTorch, it will be able to innovate much more quickly while ensuring a more optimal experience for all of its users."
-    publishedDateTime: 2021-06-02T17:53:00Z
-    webUrl: "https://siliconangle.com/2021/06/02/facebook-moving-ai-models-open-source-pytorch-framework/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/facebook-pytorch.png"
-        width: 1166
-        height: 646
-        isCached: true
 
 secured: "qKH0h7jtrnYVezDlPExRfni+9LnhKDALKb6973brLysHWgtQ98W6HU0Y7fxGXsrcr8qv47zmE4uKDP2esAHwGtURRCxaud1+l8n7oOkG6BeO7UBtpBmBAQfvrDRGEk33SchSJ8d9zRZD5rOCDLZmeSUr6GrM09hYg78Y+2pzdfj3OWwaX8lOGkcXtGXbWsqLrfkCDPEO+CIuFjSm1cmuVjdNfDlhokLjflq/k+dA2p2KP8mZsJZLgT6qZG71IaDcxUU4wLShWfr48rxxfgqoIq8rEhKEBTd/9mdOJ76F3ND3YrGLq09jLcu+vDwT7cZUV3lskEoK6eRYCCjElSbWulKRhQLKIShZahuR6UK9HTsRtGLHnW8ZknCKC7xw2Gb7tFkcfEoPepW72b1FAjwKVuoW7ZeIP+4WuQpcya5eeygyZU19fNgoMyUIZpSvb8MCWufTyNpdAbnJCDzmlt5bo1h/XC41I5J5NEWmEJN0pSa/MOHouMq/mX1CQx2wXtKZlyK/I4A/E67Kx8UewOZ/VQ==;7w57nXw07kHJ8r3ySRxVCg=="
 ---

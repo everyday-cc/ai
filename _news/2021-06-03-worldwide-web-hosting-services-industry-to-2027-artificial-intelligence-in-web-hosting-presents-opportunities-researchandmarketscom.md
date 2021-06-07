@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the"
-    publishedDateTime: 2021-06-02T17:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02"
+  - title: "Artificial Intelligence Systems Spending Market Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2027"
+    excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-06-03T13:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2027-2021-06-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -45,6 +45,34 @@ related:
       - url: "https://menafn.com/updates/pr/2021-06/03/pr_9559_a64faf5a_image_story.jpg"
         width: 960
         height: 640
+        isCached: true
+  - title: "Machine Learning as a Service Market Size and Share Evolution to 2030 by Growth Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine Learning as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-04T08:46:00Z
+    webUrl: "https://menafn.com/1102210614/Machine-Learning-as-a-Service-Market-Size-and-Share-Evolution-to-2030-by-Growth-Insight-Key-Development-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643070"
+        width: 374
+        height: 249
+        isCached: true
+  - title: "Computer Vision Industry Production Capacity Estimates and Forecasts to 2027 | Industry Size, Current Trend and Future Demands"
+    excerpt: "Market Scenario: <br /> The global market for Computer Vision Industry is expected to surpass a valuation of USD 48,300 Mn by 2023. It stood at over USD 9,200 Mn in 2017. <br /> The market is projected to expand amid rising applications of augmented and virtual reality."
+    publishedDateTime: 2021-06-03T03:55:00Z
+    webUrl: "https://menafn.com/1102201197/Computer-Vision-Industry-Production-Capacity-Estimates-and-Forecasts-to-2027-Industry-Size-Current-Trend-and-Future-Demands&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 11
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/02/pr_12202_41aa052b_image_story.jpg"
+        width: 375
+        height: 530
         isCached: true
 
 secured: "M8CS0Na2IKXz3W6r2l/D2OTQ/l7IJsfyaRgvGYGhYcj+5+RsR5E/Pwzjp67u/HOpiiaeqpk37kSzbl7Uv9iuHFvVd5xHYyyWMBV+tPtJpIbthtDIgXs9H/LGSZkm4R/+tAh7rhTBcORXP8bOxXsVFTj+XcfWWokhW8eyUyX03idXRuG+mwE0klqbULRvCvwZyovTLzQCkXrIOauKHITZD542fPouVIURvXeZRTUkNYvAp9HOeCK4bcXkYFFCtt+Xj0iTCGrCbYwnLUanWfh70c9FL9KnQLFuQc0pckP+mc7rknP12fIHL/NwQsOtkJCORWIpVGKpsJy/DWZPJYE7IXAwayFZl1xIQpuz7AMRL8NmIaISP76sJhlGJIu1ujlIriMpL4flyVcEYY8TDdIa1Bd9zR73Lpsn566vbP+6IlvpuR5UaEqGNADlZemzo4cCp3mEB0qFj1d3SfkLoNGSmZwxl6Ytk4qA2wwSYPingQQZtlqEdLFI/7uY55xmHTQtQoygJbWjvKjS7XmRUGiQ+Q==;I4X5GhZrP/Tzfcaf4miwNw=="
