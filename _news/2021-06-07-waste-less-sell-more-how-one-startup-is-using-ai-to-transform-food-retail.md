@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Waste less, sell more – how one startup is using AI to transform food retail"
-excerpt: "We’ve all thrown good food away. It looked perfect in the supermarket. The ripe fruit or vegetables, the prime meat, the nutritious dairy products. But when past its peak – maybe it was close to the “best-before” date,"
-publishedDateTime: 2021-06-06T18:12:00Z
-originalUrl: "https://www.hellenicshippingnews.com/waste-less-sell-more-how-one-startup-is-using-ai-to-transform-food-retail/"
-webUrl: "https://www.hellenicshippingnews.com/waste-less-sell-more-how-one-startup-is-using-ai-to-transform-food-retail/"
-ampWebUrl: "https://www.hellenicshippingnews.com/waste-less-sell-more-how-one-startup-is-using-ai-to-transform-food-retail/amp/"
-cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/waste-less-sell-more-how-one-startup-is-using-ai-to-transform-food-retail/amp/"
+excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. We each throw out 74kg (163 lbs) of food waste per person, per"
+publishedDateTime: 2021-06-07T15:00:00Z
+originalUrl: "https://europeansting.com/2021/06/07/waste-less-sell-more-how-one-startup-is-using-ai-to-transform-food-retail/"
+webUrl: "https://europeansting.com/2021/06/07/waste-less-sell-more-how-one-startup-is-using-ai-to-transform-food-retail/"
+ampWebUrl: "https://europeansting.com/2021/06/07/waste-less-sell-more-how-one-startup-is-using-ai-to-transform-food-retail/amp/"
+cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/06/07/waste-less-sell-more-how-one-startup-is-using-ai-to-transform-food-retail/amp/"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Hellenic Shipping News Worldwide
-  domain: hellenicshippingnews.com
+  name: europeansting.com
+  domain: europeansting.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.hellenicshippingnews.com/wp-content/uploads/2021/06/responsive_large_webp_dBjt1rysxseQln8uZKxvusS0K-uGDAmuMHotkbvzAeU.jpg"
-    width: 800
-    height: 566
+  - url: "https://europeansting.files.wordpress.com/2021/06/trush.jpeg"
+    width: 1050
+    height: 700
     isCached: true
 
-secured: "GyaJF8quXuTRsRxXrEYEypWdCajEDEUJZpIkR40lhzFIBdXtTnD62OYfHVJhjdXEnw2TAfBNw4givJmE0oWBoimDZ4owkm3vJ72ExSe7H3eCcrkgUEGYKRFwjDROVqeDshG/J2sXUdMiKCNTifUKbnK6HEl3Ugwha0tF0UYMQI/O3Gee//Wijzkrbhs5CwRsBuXxwzZZFyjQLhwq92rkYqA2tpWKXL8Ty9pid/hcMX6lBfKM++lFv9dyeKGPzBIeTmZIWMlMV/FwxGl/QlrmyrcICqz6bdM7OMvZWxnx3UkfbWkIareFHIsuWOWOpISQ6q2oMCYdQYJ5VJmpCZJIbg6PnpaM1uU+3iNWpfcrFjY=;dL8rDAiqUFw500XrFLbJUw=="
+secured: "NW9VG3pPNF3fKFoM1+pfsH5X75b9dUgWjcNhnNaThzUzo7Q7qop+0TxU0IJALQGgYjPGJBpNjmoZi8JLxsRFbs9K/ldTa9xzmVWW9IS4OflY4VN9HFlupTii/ptHykAhES//ib1bdd1/XPMo/IjYC81CajC6mn4ofLnle88PhJzjDfGw39BI9sau4W3ruy2xALTyNb/uu5YYLdc8qWUDcghCy79peZkGrw0NYXekhn861i6BgoqApyO4EgMyKDVvNl9zxFZ1SzzPCTly5AatF5IWy2nQPGmrX0hTRontIF/R5fv7evNNOeyZwlFQzhcPPkvk/6aaTrd0X9ZBghFSgJ/iMDDoKg/rzmjxEeHfkEk=;Q9HbuOqhkDt1g0uSmmwITQ=="
 ---
 

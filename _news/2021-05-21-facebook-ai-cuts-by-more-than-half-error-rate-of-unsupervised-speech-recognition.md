@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/05/21/b61d7fe2-4923-41e5-b7af-bdabaf2ce107/facebook-ai-2021-wav2vec-u.jpg"

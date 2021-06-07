@@ -2,9 +2,9 @@
 category: news
 title: "This self-driving weed zapper could be farmers' best friend"
 excerpt: "Tonya Hall interviews Paul Mikesell, founder and CEO at Carbon Robotics, about how his latest invention can be a great asset for intensive agriculture."
-publishedDateTime: 2021-06-03T16:07:00Z
-originalUrl: "https://www.zdnet.com/index.php/video/this-self-driving-weed-zapper-could-be-farmers-best-friend/"
-webUrl: "https://www.zdnet.com/index.php/video/this-self-driving-weed-zapper-could-be-farmers-best-friend/"
+publishedDateTime: 2021-06-03T13:22:00Z
+originalUrl: "https://www.zdnet.com/video/this-self-driving-weed-zapper-could-be-farmers-best-friend/"
+webUrl: "https://www.zdnet.com/video/this-self-driving-weed-zapper-could-be-farmers-best-friend/"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 578
     isCached: true
 
-secured: "90j+2z8iBoV8oBI4xrEwA3/oyxRaGpokpuJYjUD4pED0UMY1TcwSTLLYz8FZ6J5siL/gTyx2npa9YZHT+USi7kVMxi2ksviF4oHLq4JbImaTWG1ByvnYM3p2uEO2mbHst5eQbKwRt9gqwN6FLTy72lIpixoi1zL7yCDwt0EqrZzR3MLfA2iECIlHr2zyEmpCnpNGyIiGHBYvgaB/01YHaUJ+aalRJXcXYencxUyKiWaCk19VlPdHQjTWlBOPJVfXZ92vN5dSE7LK8HhKvwHuzcLBHslFumxG5BSUAvtXfGtdR3srzogw+W40JCgngPBG24i1rS4QQGSUT8XIBNu64SiaTEeKCksUVH1OTy3QlSw=;j6HNRgR+lgcwQKg4Bo98nw=="
+secured: "WQKZh3JN/F10sE2Y79QKQjNb1PTD4Y7LVxF96XPDhq6cVd5yNGfcMcEBqNyu7FjrhlqgPW7etO6li/SF/aDq5aR/DQITEd31HqFCrsgOR4WwdyKE76sQpfHX/fMSZYdtk96h82LJt4QxEPtdEJBQING6YB7YUzPeYisBkeiFwgAC8KJqFlHXxp7nL5WGVUHuACpQBQbOHrEfuWq8bVTO+OWJVmhlupB7d2L9AaAzSnseBuSLAHLtCOstoOgrLzOdR/Hq94ksvmpVzKgyP3luasoRKY4ISK2Z79BonhsQH0O0iCn9JMqkonjFsvDIlDtpPGQqCN4D4IiWZ+aRhFTEuxST50dSxZODmUaSxDWvuvg=;DKBhFHU7Jr11sXGuECyHuA=="
 ---
 

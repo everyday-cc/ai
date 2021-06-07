@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Healthcare Market Growth Set To Surge Significantly During 2021 To 2031 | Keyplayers-Nuance Communications, Inc., DeepMind Technologies Limited"
+    excerpt: "The most recent research report on AI in Healthcare Market 2021 published by insightSLICE begins with the market description, official report, segmentation, and classification. The report offers a comprehensive analysis of the market so that perusers can be guided on future opportunities and high-profit ranges within the industry."
+    publishedDateTime: 2021-06-07T14:10:00Z
+    webUrl: "https://ksusentinel.com/2021/06/07/ai-in-healthcare-market-growth-set-to-surge-significantly-during-2021-to-2031-keyplayers-nuance-communications-inc-deepmind-technologies-limited/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 32
+    images:
+      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/05/anysis.png"
+        width: 860
+        height: 522
+        isCached: true
 
 secured: "y2kKvUxbeWWGY/2fuUHw1VqHMpyyLkhYnYFwf39PDhbBnByP0f0mGJheb/hKxVx+wC2KibttCcxHzSPaXCVz7T6yuFeRhWy+LXRFYyTkghdYFERDdt3jRwKY146Y7z4wcxc7YJQPHvjOuI/68nefxl5e5auvy2Wo0doSt4vDjZv+ncLW6EuZ1nh/df6VgcGqK79NkLHmR+5tXsjXB/ALTHYlgFDJKfDS8nl4ktat7nFeVxx3L0edG1xQjatW8jyrwjcf7kUW5rraO/9AMXcy1oeSvJGCu9/5/JBlqShSntsWuiOKUXplUf2SVgxTIoZqvWQi+1ch7orFs8EUKQ7cf/JWkHdLVhcnoWXnyyeXAweVFSEXsXs9M16JKx+ZzEer8qGtH/nh1+YZG4b2ugqhG/x7kZ83QCWo/ahLI1bMvwBOADayAFlK2YHPofFd4axZ+0CNH1JxNKY5vcJ+Jsr3X1mXP5k1tQrjE+cdBPhu9jnKG5ofCpf/HCiAKtcyDrbHb2uRVa+P9O8aDZOClAbwoA==;/JZLvBz6rvzgbHJT8I+JrA=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-07T09:32:00Z
 originalUrl: "https://www.militaryaerospace.com/defense-executive/article/14204670/artificial-intelligence-ai-cyber-hypersonic"
 webUrl: "https://www.militaryaerospace.com/defense-executive/article/14204670/artificial-intelligence-ai-cyber-hypersonic"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/06/NAVAIR_research_7_June_2021.60ba6e9208c00.png?auto=format&fit=max&w=1200"

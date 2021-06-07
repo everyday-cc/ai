@@ -141,6 +141,20 @@ related:
         width: 550
         height: 366
         isCached: true
+  - title: "Massive Slate of iRacing AI Updates Set for 2021 Season 3"
+    excerpt: "Racing’s ever-expanding slate of AI content continues to grow for the upcoming 2021 Season 3 build, set for release on Wednesday. Multiple cars and nearly 30 track layouts will be making their debut with our virtual racers,"
+    publishedDateTime: 2021-06-07T15:25:00Z
+    webUrl: "https://www.iracing.com/massive-slate-of-iracing-ai-updates-set-for-2021-season-3/"
+    type: article
+    provider:
+      name: IRacing
+      domain: iracing.com
+    quality: 37
+    images:
+      - url: "https://s100.iracing.com/wp-content/uploads/2015/11/IE-Blurred-BG.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
 
 secured: "u+T6TiP79TMmzDE2epsh3QG6b2GXKFnfB9RBFY6qiKE5QKrfZdBLoxf8W3V7i7asxYGQ46e6OMFnkEIJJDDOhv/T/cF2PNSn4MBVcj1KuDDaBA4bCiWltVwMaXGM6+K6ZMkRcvI47v/TT/PHzbjRmQIx1o1omgAYe2Gv/5Zo3K3BLMs7+B76ZMyMnsCe0JWn3z1kjhHZfxhGim0aiLx1wxWls44AEwpprzOOKz5rwzfntjLuuVl9vmJBjTBjSWW4QKIVF69Dy2GSyl+qslnko4gq8OVL6chFyZvLozpImBS5tjTjo81OLMTevFS/Cv395Atl7j+4fZRxO2rY4yXE2RXwX6ZU1TQPpEshgddahsg=;+Gy+P26q5ClZQZCOTZLEUA=="
 ---

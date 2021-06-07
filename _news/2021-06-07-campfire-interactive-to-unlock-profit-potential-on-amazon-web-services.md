@@ -2,9 +2,9 @@
 category: news
 title: "Campfire Interactive to Unlock Profit Potential on Amazon Web Services"
 excerpt: "Campfire Interactive, Inc. (Campfire), the leading provider of portfolio profitability management in the automotive sector, announced a strategic relationship today with Amazon Web Services, Inc. (AWS),"
-publishedDateTime: 2021-06-07T13:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-campfire-interactive-unlock-profit-potential-amazon-web-services-/2021/06/07/9385014.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-campfire-interactive-unlock-profit-potential-amazon-web-services-/2021/06/07/9385014.htm"
+publishedDateTime: 2021-06-07T15:21:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2021/06/07/9385014.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2021/06/07/9385014.htm"
 type: article
 quality: 21
 heat: 21
@@ -15,10 +15,10 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AWS AI
-  - AI
   - AI in Finance
+  - AI
+  - AWS AI
 
-secured: "/v/qkfPxD55cmlLjBBNiOHcX3J6mLxTbW36cPzuRtK1JZxlu5dru5D2JIb1c0E+VYB7buWE32dfb6iJTI6yJXpA7WizRD3ebOn0uwbKmq02rIXT9VsGI7zSgURuG2s72Bil9aTacVyYyP7+xVE77bzJ+3lKvcRIY7BUjYnEqyVm8rdVlTPxFM3yxBBg/cWY8Gb/JUR+xTtJh9vwrPYBWafsCj6OFTCmudlTF6NLGk46wbvPolSPNvDZo8OEv2eeRIy1dwG/3PpoErYwUSawbo91FyHT0ucF56IOrTDrXCstI7yFVS9YcobD+NgVduKUgAj24ASdCiE1/NYXwjdAt4jMci28UxJKBDnNv/aVoSu8=;lH6ROHXaP3jTs+N15zPUbg=="
+secured: "PLu1bqLWv4/iSi9QPciWiUcsNjhUX+PNoNhJIxWxUnI5vNyr/SwrYw5nH4Hvwb3Udv+WHLNk2neglMd4d9Qj9sxVhZCrP5Hae4WV3MdS6wElI/fn8H+ouWuU/qjt89vtgeTvBH0x4fmDY6jTmvI6KmeFyDl4XBASso9EoxFrrrzzEPBAGpDdutb7nHG46DtGby5yQjaa1fKm6XhpdYJcsPxX34uQPGtEuvon3vsFwEdP8T25m9Gq3tK8EFUBcvqNebacIWOVd84A0K5d0MDREgDay7MxftRkfy8YX21qpyTGlsSnKlczshS84YO6WLhWZtlgD15+g8+IqY91E1RRYiYdUx/zVPvrcb4miwhkS3s=;jD3miouzJZHl4hGx9Y7YjA=="
 ---
 

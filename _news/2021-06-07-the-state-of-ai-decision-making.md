@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-4AIInsurance-2.jpeg"
         width: 550
         height: 366
+        isCached: true
+  - title: "Massive Slate of iRacing AI Updates Set for 2021 Season 3"
+    excerpt: "Racing’s ever-expanding slate of AI content continues to grow for the upcoming 2021 Season 3 build, set for release on Wednesday. Multiple cars and nearly 30 track layouts will be making their debut with our virtual racers,"
+    publishedDateTime: 2021-06-07T15:25:00Z
+    webUrl: "https://www.iracing.com/massive-slate-of-iracing-ai-updates-set-for-2021-season-3/"
+    type: article
+    provider:
+      name: IRacing
+      domain: iracing.com
+    quality: 37
+    images:
+      - url: "https://s100.iracing.com/wp-content/uploads/2015/11/IE-Blurred-BG.jpg"
+        width: 1920
+        height: 1200
         isCached: true
 
 secured: "wKNYPj9+GjMCCM30Xr768WTvLbzE6dY4dwujjGpsXUigDnz3tpVyZBw4VEZYoHzqdSjy0aJo+xXvTeUov0HX/vrs1a33hQ7vZdLs+v5c2BKnY47OYztxux33YHc9m3kIzBA7DM0TTb6dBzmMD/Fqy4YOnPpIh10MCS1MzWaK3O5qAjzMfdil5WSxeKWQTKYWQvzhJIBDuf/DMnu3x0MpXKRJ0zkGM/CPieK6YtZPBu3ALgbVXHGDwb5Y3CIF6gDvQWFu5URnEIgcZEAuxB+Y5H2QQnpSuJhSSfjQjmlr5mKahdMddrSLvdMqgc8q+EsZNzPjdyFyvOl9LfjsN+Tv0J+HGYOn1s3kwvPzRZpJGJ2XhauOXaPalUjFMu+7nY8/wW20jLSXjfZ28juEf9S9AUWQ9AfP04sXB9TfOL+tWsBTKDIuLhmxHeEGGz8ZEw4uZ10xMxLWtEyBC3CUYusm2I5S/ZHQLlgLoFA7LPrgfSE9I7qrJIh0JbZ0vyCLIR44qcg3RxCOa5vbeWRgJx8NuQ==;KvtgEK7q9aUVZY3BJNB/gw=="

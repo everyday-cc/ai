@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/technology/upmc-spins-ai-company-
 webUrl: "https://www.modernhealthcare.com/technology/upmc-spins-ai-company-analyzes-ehr-data"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "UPMC Starts Artificial Intelligence Company to Combat Chronic Disease"
+    excerpt: "UPMC launched Realyze Intelligence, a company that will use natural language processing and artificial intelligence to help chronic disease and cancer patients."
+    publishedDateTime: 2021-06-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/upmc-starts-artificial-intelligence-company-to-combat-chronic-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "am0IveKaBl0y/ecTZpFxP+0usPK3CB18Kh3qMYAZg/0boS6wE+ASSDD1rgPsrxAWUtOdRfhJp4TqEaoOeCrsVWoyZMpdWX1tvB+2SE2f8jL5PpswGVwlQ0qT/B+GuWAincArQnoi1a2pj1aeMZKadN+uH9QhYKOrlSIe0X3NqKiBDdfd6vHXfpGLq7pYR50Z16q95LzOANCVe1XHhjDc41mW7GI0bHv4rUOhHUa78VAopjaC+kvWLO4iWnokJflaiL0N85/oHraj9QXTiEiP823kF7tJLom9Ejlnjdxk9QsU9H0HJTzIZDqUFUqN9/Tkj/3NsocT1Q4uBMe5dXuyzafidXXUrGP2CObOTEDA0PPOFYzNx23wgfmfcOF+J3wPnm7lhIfh8W9TrDgAv3Q7uJ0yYhm7dey68LlZoyzSQypBDAJAM0lz7wszjiGiPd0KoHIqtSnME8+MKCULsJwqf4PERLCR93rF3d6q0MmfL0uyLWaEWgj5n87gZqA1kvHqpCE1ePUZgqf8GoGK7pacDA==;hVZ2JPK7mIkjeyC5hzuBdQ=="
 ---

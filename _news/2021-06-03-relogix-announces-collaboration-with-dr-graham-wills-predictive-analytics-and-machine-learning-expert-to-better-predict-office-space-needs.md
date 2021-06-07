@@ -28,6 +28,22 @@ images:
     height: 353
     isCached: true
 
+related:
+  - title: "Enzolytics Announces A Comprehensive Therapeutic Protocol For Production Of Monoclonal Antibodies To Address Ongoing And Future Pandemics"
+    excerpt: "(OTC PINK:ENZC) (  has announced a coherent protocol that it intends to execute to meet the Company's objective of producing a therapeutic cure for HIV as well as a planned protocol to address existing and future pandemics."
+    publishedDateTime: 2021-06-07T15:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269799037/enzolytics-announces-a-comprehensive-therapeutic-protocol-for-production-of-monoclonal-antibodies-to-address-ongoing-and-future-pandemics"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 0
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1622913744799.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
 secured: "A8eTb4ytZd69DRi72pLXPSqlQi2mwGhWhFV+tN0JgBflZM586RY7ccEEKzbcS6L8CDqmEoHbI790mSQ4xnabuCwjE/eVmnzZJhWxyi5vSBbVXW9gvjhHBnuPXVCVDI2BrRInSq9NhAE3tamccen7fzo8x169477hgvq/+XF6n4dG5N4uDRi4Fe2kFtYpICB5jHy/3p5rpDLQs6DPfwir6lGBFCuJ7QvpD9Oqy+rkk0wO20o6JaHINrFKyzZNGNHxEForBwykFKylO35CFTXNkag4oySrjHPSMUMgaEaYkibD2iqMPdAV5wi9ofH6F/nmVVrrVl0808pk7kFz7oIfKANIetneQ9oCfkD5wUPKaTU1eFq5aH8+qkUiupTe7GbkF+c1eNLE8l9zBSGkcpOZtGo5fR+7rsEX4GSFOZRXW7xOzDSMwWrE34shHTdLjqlot6gHmjQrGjL+O+cLqHkiXSadm+GL20AIrq0I3GJahuRjFoK8DdLgCuijLpAL+PXkoemIZYx0v5+8UrfeF/iSVQ==;9TFqw6111TU5bBY05GwA9Q=="
 ---
 

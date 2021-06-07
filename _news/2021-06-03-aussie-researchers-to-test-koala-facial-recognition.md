@@ -139,20 +139,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Washington county restricts facial recognition use by sheriff, country offices"
-    excerpt: "King County, Washington, home to facial recognition-providing tech giants Amazon and Microsoft, has banned the use of facial recognition by local police."
-    publishedDateTime: 2021-06-02T22:11:00Z
-    webUrl: "https://www.biometricupdate.com/202106/washington-county-restricts-facial-recognition-use-by-sheriff-country-offices"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "Delivering on Digital Government: Achieving the Promise of Artificial Intelligence"
     excerpt: "In an era of rapid technological change and nearly limitless possibilities, artificial intelligence (AI) and machine learning stand out for their potential to transform our society. Private sector adoption across retail,"
     publishedDateTime: 2021-06-03T02:22:00Z

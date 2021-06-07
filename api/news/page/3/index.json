@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-03-foundations-of-trustworthy-ai-how-to-conduct-trustworthy-ai-assessment-and-mitigation.md",
+      "title": "Foundations of trustworthy AI: How to conduct trustworthy AI assessment and mitigation",
+      "excerpt": "The ability of artificial intelligence to perform important business tasks has grown by leaps and bounds in recent years. As AI has progressed from a proof of concept to powering critical enterprise workflows, it has become increasingly apparent that this general-purpose technology must be assessed in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_assess-risk_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T09:30:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
       "title": "Biden’s AI czar focuses on societal risks, preventing harm",
       "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling",
@@ -1128,58 +1180,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-top-managers-leave-apples-self-driving-car-team.md",
-      "title": "Top Managers Leave Apple's Self-Driving Car Team",
-      "excerpt": "Apple Inc. has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. Mark Gurman reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdIoLVg6Uqo/v5/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

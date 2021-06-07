@@ -53,7 +53,7 @@
       "originalUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -363,58 +363,6 @@
         "name": "India Times",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-top-managers-leave-apples-self-driving-car-team.md",
-      "title": "Top Managers Leave Apple's Self-Driving Car Team",
-      "excerpt": "Apple Inc. has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product. Mark Gurman reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdIoLVg6Uqo/v5/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1406,6 +1354,58 @@
         "name": "Asia One",
         "domain": "asiaone.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-op-ed-alphabets-waymo-warns-that-describing-vehicles-as-self-driving-before-theyre-ready-can-lead-to-unsafe-driver-behavior.md",
+      "title": "Op-ed: Alphabet's Waymo warns that describing vehicles as 'self-driving' before they're ready can lead to unsafe driver behavior",
+      "excerpt": "Some vehicles marketed as fully self-driving actually have advanced driver-assistance systems (ADAS), which can confuse drivers, warns Waymo's safety chief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105098635-IMG_0057.jpg?v=1522347530",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
+      "publishedDateTime": "2021-05-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
