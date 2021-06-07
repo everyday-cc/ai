@@ -56,20 +56,6 @@ related:
         width: 880
         height: 319
         isCached: true
-  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
-    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
-    publishedDateTime: 2021-06-02T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "e4iHqIqhFErrrtMVotSFBPJESOOdcKK7J1VTo/6mM0luvcozyvivkfOnHSsHXQD8JmWwRB8nz+gELiAYlLupPocjbigtjlFhxGuTuLqIeF5xw8A44bh1FqDcClb4bGtUfateWop2C5ASeZVQlWC1thzhWGOK1pEjM96WVMwQQr61aUFRXf4QS1Ws0KCjB2KWFO53Y7BfdnQhzGNEeUtK1AOxdsh48Bi6ZmJyCj7JzeiiF2wFAyhLguNUekxwZx9aQdbyJl8GalOrpXfueWx1RzSHUdBjtXs+DsS9c7Yl7Xrjv8rswMWdvGCdGn9hAeuc7c0Me4MPLRnvNfBQR4fK1CpqS2dium5DwFXudDpIZjYupzUM2fQoZulfMcYebDKrS/c1FP8seoKVboAfJEFWYq605Az8GV2iGPQoIvRZJYqcrgiVAQwqN3LB6QvmJXhVdYY4V285GnJHSzqUM2RlZxDrjYVrWqMHf49jsAOOUFnf8ruEI4ZhKOoQQx5xzHhqHdgCT9dGA43QcJiQLBdwqA==;ANhiQDYG2JZulYw3miJPWg=="
 ---

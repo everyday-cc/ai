@@ -2,22 +2,28 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm"
+publishedDateTime: 2021-06-02T12:41:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
 type: article
-quality: 0
-heat: 0
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Nzsed7/dpOvjZmAOKAbZ3fEqFQGZoh7xx+XSWyVVTukyp2SO9m3xb8LwOUfq/0FS2ONVpOznZn3T1GE9H03v3ayVOhjH+dga9cwJ6WoGBUqX3PFUsGgSMYU7RO7xpk9Dl5hiIEXCKan9fsPOsasNUQiun2XwvsRkDpXxsL6TT/wYCaoeCBUzgZTj1OZVaYBs0emyh7lHKhy8FveBXKmqByQG7jei3QZi0YNOgNSP6p3BDqV9xRe2ggOJitleP+qDP4YHchaa1glwJ1a3oSR7USuqjEeiPEPWX53CXlfixW14DkmYVImRLlfPs5E7jQboXTFsrp5Vm14XIGkOpsm257bX4vefdjrHkxQk1s6r4ik=;Y/6PuPNBx0JKVVJ+A+Cf2A=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "DINOoYYE7Ba+uuywIV1D7ufRyS55Je+2faTWinFLYHmKvJaNbJL6IUXlmJ4iKQfYJsCA+TsjROnYhTi+nTfe9Lb9+92GqybdvDCHHDAjBlu+4BsFeT8XT38TLjEyRiKguIC4xyd5lnCpfUMhja8W93qurEcTC0nQsAm+Em4hGuLS6ld0h5La0XnrAF6bhB4pK25n+bUBuOVj7FXqQIY629m8YVMSNeZweLYp84LF44l6ivFJ7JeV0/snLHmFALwxgk5mHCW3LWv7d0ffReBDtk3pWLi3Gtrnjc9dff8TleO642VlfR3qss8+LlYNdHJGuTLAFgHLMBsoe7qeVhT786nPKQ80tWNxDFFPtf0Q8fc=;PnJioOwrwwH13RjNLoqDsg=="
 ---
 

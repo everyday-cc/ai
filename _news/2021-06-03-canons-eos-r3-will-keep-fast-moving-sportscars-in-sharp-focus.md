@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/canon-eos-r3-update/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-eos-r3-update/?amp=true"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
         width: 1420
         height: 946
         isCached: true
-  - title: "Canon announces more details of the upcoming EOS R3"
-    excerpt: "Canon has announced more details about the upcoming EOS R3. These details include information about a new form of object tracking and the ability to record"
-    publishedDateTime: 2021-06-02T05:05:00Z
-    webUrl: "https://www.newsshooter.com/2021/06/02/canon-announces-more-details-of-the-upcoming-eos-r3/"
-    type: article
-    provider:
-      name: News Shooter
-      domain: newsshooter.com
-    quality: 39
-    images:
-      - url: "https://www.newsshooter.com/wp-content/uploads/2021/06/r34.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Canon EOS R3 - What We Know So Far"
     excerpt: "More information on the new Canon EOS R3 has been released by Canon. Here's some new information on this flagship camera."
     publishedDateTime: 2021-06-02T10:37:00Z
@@ -89,15 +75,6 @@ related:
         width: 1200
         height: 1112
         isCached: true
-  - title: "Canon EOS R3 to have motorsports AF, oversampled 4K video"
-    excerpt: "Canon has revealed more specifications of the widely anticipated EOS R3 mirrorless camera including that it will have motorsports AF"
-    publishedDateTime: 2021-06-02T06:37:00Z
-    webUrl: "https://camerajabber.com/canon-eos-r3-to-have-motorsports-af-oversample-4k-video/"
-    type: article
-    provider:
-      name: camerajabber.com
-      domain: camerajabber.com
-    quality: 4
 
 secured: "v8kMaPgsKN8h7xxmMODsOwfNLo2cZH2U+z0W21ehjs7+4v2wi0Un9a9b01OrbGf+/XzD7xcXbT8VtuHbENSwPk25BPpwIb8M0hROu4eOdDuGsQpMmUyzU49erU1nXlT7/iUfsrKj7TTjqerWSxUCCu3Vp7IkAXAFEXegm2CGvnOolGQw0Tr2kh3R9qS4XWeOEdSrOIUPbbgqsDeVrANt8RvqEOM9jQ1r3GuoRWB37HdgAM79B3a66iNVWjAgJnzsL5OkQFNkJ4Av5hQPq2w/+NM8lsDsbxbzEDJ86qiQrPE9dJO7Drh/CNKpQn2x3qrnRaxx31EPbva/HNYBVbYpfoaTeH/wbvjWvBboipPdqK4SD+U8QhH00+4f6jQ8wkYdHxMlWf3PuW+96obcZZ0YxyKC2RFIRt5XBoCQnhRY2BCXDflnWfogJ9fiWwL1K/r4cFPwc+Keu/84sE29kgpPXJaChzZV+NQokn8C+v3TPagLe+4Mc36T6nPlfE6NfG17tQyqSeee+7ZEGxYjNGuDEw==;P4fnSZcfYN2x9T3mVHa0KQ=="
 ---

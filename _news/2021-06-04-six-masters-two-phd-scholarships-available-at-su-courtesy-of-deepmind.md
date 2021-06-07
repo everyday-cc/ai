@@ -9,7 +9,7 @@ ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=585979&rep_id=5581"
 cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=585979&rep_id=5581"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

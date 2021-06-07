@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision"
-excerpt: "The advancements build on the AI Connected Expert workforce ... voice recognition to deliver value.\" [1] Natural Language Processing Onsight Translator, Librestream's NLP capability, enables ..."
-publishedDateTime: 2021-05-27T12:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412"
-webUrl: "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412"
+excerpt: "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert vision giving industrial workers immediate access to the content,"
+publishedDateTime: 2021-05-27T12:49:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379360.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379360.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -25,6 +21,6 @@ images:
     height: 225
     isCached: true
 
-secured: "ULZaNDAhlySa1pfxgRhRq72U1u6wPkM+mwCslNsYct4ILFXmdNMYKb38Bookm5fn4Jowr2TPH4hnLyiXvW4NLPJ77caZs1pvJwx+O9sFBRsZgFywxx1pyGSOJpuNnF8kessqXApL7HQndk51Xf9eEak/P9pRFGWh34v/wHiQAxRRCLbnZPmbXP6Lbwzw4+EhlRkQ8vw1aRApg4jBE3LD1S1M8TO6Wd0qWysTZMVkFdtLUnACZWIZukN0vgrzRopz5Mcxm30a0lLZcXWUJ58A1fKPql77b3QmsqxQn4CW/zNTSOm/2Y566MyZdUjWi3M8+jXBmeFbAfm0OrCONsCkTRP7QLaX9aPCLls1AfQ0RpPKhbqtfWAW92SOQ1ktoSmrJdjynjBbT97tPkoTBxOfUxFxRvmocqEXfiiS0IfcXeFYrztF8Y8V5h6DLW7EnAvQoSjZ7bAPxqFqVz7UdophciumAPqJwQglx7z8PNbCL6O1vKjolgM26u+pFI0vneHz8NtVOIz4kYS7MctKGM02WA==;F36jihJTiiTlebZw2sckCQ=="
+secured: "sK1L7lPRmS1+9SFjEe8kzCyTh9eZ2v+67auf5aWlNXQBh8Bt5iKV3wTTTARmAYwX/5O5Zg+y1J3jzOaBnyyug8qBgXeoVNQWoV37AwgqSj/xIUd1uPvh2QYFUGct8qnyfbUzBv9H1vjQLtu9R7sSyU+uMNZbK5JFpQaC0k53lIW1yqKnK4bswJeiMQXc3cRoHVSUxVEqvqCn4uYKi7p5BmvXZd6J2V22Y+E1ul1/D0yMzoi2pyJrBhuOK1/SxspFKY02bok8JHngsabgKv6DQEP5HG5FaAOWMQ4dd07rmpcPXqwzTaT3E1/qR3L4DCOV3VaNCTvPr6XvGV5j6FNVfcpKIFbriemsvAghobemOzM=;DsU/d+gPxaf293tX65V2dg=="
 ---
 

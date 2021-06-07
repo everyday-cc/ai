@@ -41,38 +41,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "AI-driven platform XraySetu to facilitate early-Covid interventions over Whatsapp"
-    excerpt: "XraySetu is specifically designed to identify COVID positive patients even from low-resolution Chest X-Ray images sent over Whatsapp."
-    publishedDateTime: 2021-06-02T05:38:00Z
-    webUrl: "https://www.livemint.com/science/aidriven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp-11622610842322.html"
-    ampWebUrl: "https://www.livemint.com/science/aidriven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp/amp-11622610842322.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/aidriven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp/amp-11622610842322.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://images.livemint.com/img/2021/06/02/600x338/KRF1UVG2_1609346470096_1609346481066_1622612032657.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Reading X-ray via WhatsApp: AI-driven 'XraySetu' helps doctors detect Covid in rural population"
-    excerpt: "Besides COVID-19, the platform can also detect 14 additional lung-related ailments, including tuberculosis and pneumonia."
-    publishedDateTime: 2021-06-02T05:26:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2021/jun/02/reading-x-ray-via-whatsapp-ai-drivenxraysetu-helps-doctors-detect-covid-in-rural-population-2310737.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2021/jun/02/reading-x-ray-via-whatsapp-ai-drivenxraysetu-helps-doctors-detect-covid-in-rural-population-2310737.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2021/jun/02/reading-x-ray-via-whatsapp-ai-drivenxraysetu-helps-doctors-detect-covid-in-rural-population-2310737.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/12/w600X390/Qurer.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Indian startup develops platform for early Covid detection over WhatsApp"
     excerpt: "Xray Setu has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp."
     publishedDateTime: 2021-06-02T14:08:00Z

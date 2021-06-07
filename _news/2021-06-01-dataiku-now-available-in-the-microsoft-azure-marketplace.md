@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-06-01T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.financialbuzz.com/dataiku-now-available-in-the-microsoft-azure-marketplace/"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-06-01T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "mRryWXxvxBbAHEl0qeAUvyCC+ggDuVnmib2BQVtaqU1Cw+mYS5WXWdfxxmtOWT2L+vwQEcnDaAUDeDWyBC8hL/xAjptYMDLccDXm92QQ5XBoikE7jVc8GNJJ7z+TT2fyabGdqWcYpWl2vE5rUropUuVfa01ATz8BmlZXRaLmIYyGtFPG5BTXiSv29SefOvqYHHbfyZMWCdXQjsKbiloD908c/h+84KJZ2d+z15TWK5x3LyI4gobk4CPwZJ0j9x517kXDqiw21eUWFAQA4hVonor8dlyEEl7OfxnsiqIHO4I1yRYXCqU6Ft6dy/MzRGDpCxCbyJ5eFLYMGdU0SF5PVITZZlLjz90bIQd06FDu6TY=;CxKDg1y1vygMZ04o87ouog=="
+secured: "IeLAkdM29sQ/By3VL0IVjfhhiYOm+aeXfy2lJoD/V13Q2GNdJ6mm1DiMZLg6raDe1OhnNOm7gMFTBBz0NeP9A2YaSj66b6GFQsJTAzDNpnYWgBTlOenwewulKU6VER1gDj/TRna6ndApi9LhhmN/g1V1wMGnByWsVatPdZl9vd0crTjrqguPv7j9Rb8mZbUOn48y4BEbOP35mwg6s5UwEtQ/e/ZUI7xWfixbY8ZbgEJPFTfkSQkVrWjbQGUmoKLiqwQQ/KG3g+inuBFO+lWM6lmOjxDvQ0DtFwg6rgtB6/bfybp0eBaIWEhqcMFptF06/rGNZ24bDLk4gTKzIQxPseYJ3/5UHVbVkv907klvIi4=;gB/pyRie3OP2PKLG7NqLXQ=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Canon announces more details of the upcoming EOS R3"
-    excerpt: "Canon has announced more details about the upcoming EOS R3. These details include information about a new form of object tracking and the ability to record"
-    publishedDateTime: 2021-06-02T05:05:00Z
-    webUrl: "https://www.newsshooter.com/2021/06/02/canon-announces-more-details-of-the-upcoming-eos-r3/"
-    type: article
-    provider:
-      name: News Shooter
-      domain: newsshooter.com
-    quality: 39
-    images:
-      - url: "https://www.newsshooter.com/wp-content/uploads/2021/06/r34.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Canon EOS R3 - What We Know So Far"
     excerpt: "More information on the new Canon EOS R3 has been released by Canon. Here's some new information on this flagship camera."
     publishedDateTime: 2021-06-02T10:37:00Z
@@ -85,15 +71,6 @@ related:
         width: 1200
         height: 1112
         isCached: true
-  - title: "Canon EOS R3 to have motorsports AF, oversampled 4K video"
-    excerpt: "Canon has revealed more specifications of the widely anticipated EOS R3 mirrorless camera including that it will have motorsports AF"
-    publishedDateTime: 2021-06-02T06:37:00Z
-    webUrl: "https://camerajabber.com/canon-eos-r3-to-have-motorsports-af-oversample-4k-video/"
-    type: article
-    provider:
-      name: camerajabber.com
-      domain: camerajabber.com
-    quality: 4
 
 secured: "JfIwN+GhOMADM8B1rb2J89zri1VgVGE7075Yr0NFAjkJXSPFVGNbagN+3yK8Krlda2KHIliorM8Mno1VZH9smNa3S+MVVrsdgC2NphKplfSeKVvRe0IknQakhQj+54inFFy4XddIxHvhN+orU39ijT7uQo60QGJ2J/p1fhp/nM8SK2QCrYPNIjl3JbsmSrVCR0t5Ca8RMZLPwEaXy3lU2qKzfNTYoGSV5B/5dFwXWN7cXJH8FgtOUgsUNpB7S5kTwynKFmlr1kbEX6aY0M5nrDKciHp6FGMnR8XLval4BoIHfQqYFyCbAeLZF+76G3wCLH61Buf2arB5Uzp2faTPUcPfRe7ynYk2YBm9pA6UzlSKj37CDUQk+U8fQ0P87u65v1Kfpf7/saBdHM68WHuSTAJOZFeSFp1c6G0wx22JWnSD+iON+/P0ybLGQR8xSRgq/SXhEopKtYlhgDXkOlNlJw8roqxgTID4HwFO3OzP1wx5/XojcI5OMVf3LkkdZnvsF+dJMaQRccweiHY0Y51NAg==;eauQH8LxxLNJgqDfy4I7FA=="
 ---

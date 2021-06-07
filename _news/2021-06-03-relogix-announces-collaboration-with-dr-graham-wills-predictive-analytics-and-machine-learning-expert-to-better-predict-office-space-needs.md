@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Relogix Announces Collaboration with Dr. Graham Wills, Predictive Analytics and Machine Learning Expert, To Better Predict Office Space Needs"
-excerpt: "CNW/ - Relogix and Dr. Graham Wills, (PhD, Statistics) a pioneer in the field of Predictive Analytics and Machine"
+excerpt: "PRNewswire/ - Relogix and Dr. Graham Wills, (PhD, Statistics) a pioneer in the field of Predictive Analytics and"
 publishedDateTime: 2021-06-03T14:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/relogix-announces-collaboration-with-dr-graham-wills-predictive-analytics-and-machine-learning-expert-to-better-predict-office-space-needs-1030492055"
-webUrl: "https://markets.businessinsider.com/news/stocks/relogix-announces-collaboration-with-dr-graham-wills-predictive-analytics-and-machine-learning-expert-to-better-predict-office-space-needs-1030492055"
+originalUrl: "https://markets.businessinsider.com/news/stocks/relogix-announces-collaboration-with-dr-graham-wills-predictive-analytics-and-machine-learning-expert-to-better-predict-office-space-needs-1030492056"
+webUrl: "https://markets.businessinsider.com/news/stocks/relogix-announces-collaboration-with-dr-graham-wills-predictive-analytics-and-machine-learning-expert-to-better-predict-office-space-needs-1030492056"
 type: article
 quality: 34
 heat: 34
@@ -28,6 +28,6 @@ images:
     height: 353
     isCached: true
 
-secured: "k7VOLLCp56ldxOPi54fWg2D3hbBPsPoeSbd2TCQHsuxW6P3Cs6qhve85ZNr1IAQgzFar2SwYcXp2M81RATZeYyfu+xWaUpXcCbSrjxcaxD+PdFk35pVpm80nGgaP5oAClXhl0DP7x7rBDVgMRZsZNh7yvKgsz/7pKhB40A60nfQk19XE1Go/Frz1yp6PuBk8jCr2/JiX6knsKyASE0Ra1OkWpVyaSXNBrsjWqzrjbUoqJ7yP3LuTaPiMSz+aTbCqOJYGaLH+7rYrt24TvWZVDjwtpLbtLkCixqod+GmS5ihtqWXoZCBBWD8yc0sa5vLtUYGMOsW4TjFQSuCgNF7GWO+Q36nenwAdXHeZPwaj5H53UMchVKvwrFu9qMJUpniYac6WegMPuAVSihOHkkrW96u89FV5NoxexQmOKZeE1Jk1paVyFVmRw+rKt9zksXKODDWTJz6IJjlKQDoEd0eMQsJYD8xLkl/PiM2JJCSdJUGkTSH8EWWX756JbWudYhnEEV1kTff2T0fpT695nFSXXg==;KDvQ4Awjs3ym4Wx6jxevRg=="
+secured: "L56MDA4zKgjLibyq1srXL5Ikc8yvZDptyBCqnL6RaEABFJrYCwKTRpwyNht18nIaMhIByVb65g1x1lwp70ZPM4dwn1jJixD066ULUTalmX/DCGf/qLthjcUOfL9QaIP8D+s6R0hhX10vjmSyxWK6LCgDa0MFS2UJLoARlHmUEdKEljcDsGiC91udgSS1aT7SAoDoPiIaHuLwUYaFJ1VYfX7BK35M2ax83Xdp6YqLaVfkvPB8NJchVb+Jlctqzpu82LY5dyjfOKelqmgkz2iDXYsFA/eqE2lrOO4S04nd7Vk9Jb9oyGPDmLjs0A5zocESLS8u6j9tPlXuZzDbaheh66TSFt197AmfUrkjmhF49a4=;Eww3tjFKUbIvBMKFL/45DQ=="
 ---
 

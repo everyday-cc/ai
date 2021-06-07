@@ -1,20 +1,26 @@
 ---
 category: news
 title: "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications"
-excerpt: "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications."
-publishedDateTime: 2021-05-26T13:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm"
+excerpt: "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning,"
+publishedDateTime: 2021-05-26T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-301299487.html"
+webUrl: "https://www.prnewswire.com/news-releases/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-301299487.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "HgmuH84vABPgkvN5+us6YQvqXeT5h7SfQlhrJdb8kCLVU6Lk1LUmjSU3DKIixT26S5EIZMkhyOr0hz87d9anTNUAbHZ7UObSklvUBGXVzcLW0rjMzIwbJFhHwC+e2v2JVPIeh4ES8N+eXYZZL6b8i6hTuyleFoUPSQ9XHX+dQlDtMqUxROUoBoJPDLWfEIpTTTCWGIc4O2bNhduNfQqiRNKeCnG5qu86lNVnFu2c/tc9BTTQa5bhEdmyCELaY5Q2wtRYHq3GxREKbP2Idol697V9rWs4RkPRhU2w7e4KDJl3Tac8oQVks39WFMlAd08lFnSNv0cSVx/nnsR6wBJzoqRAVkyj7qILzBYMUFXME6M=;F9E7WhWlZvCRrfvogT6ZNQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "16dTT55Ox/vA4jpl6IhP4BX22by6e6cXnRTCTZ86zxuWY934GpjZcD3OK+mpSxbg4Ddz0HFEbiD1lUnJBVuy70ensIUF0NAN97KAR2W11yTm3Ri4Y7fGH0aKYfQFHfdOw8itIJ2advOilJaj9A2m9abIWWPTE7LxTHwgrwfmLAmQlnjvO+L97S0k3JaAYJzlxx8BuFMQ7/Q+MnxMwaQ/b+IS2r0ope/GgpaLglcRLNGIBUtZ+OHXR2LxlzcYB00XS/btqkfIS7qv6PPwQsAhvk5nAgqYk08NgbhNc2CN8SWZEOJTukyn1zN3YO8lJvff0EwbUOl2IHxUBFe7rvBBPRBllbz7mVwGc247sTCcHQ4=;2/xn8WS1gTpQsZz4T2BMug=="
 ---
 

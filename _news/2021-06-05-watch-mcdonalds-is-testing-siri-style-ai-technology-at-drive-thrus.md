@@ -9,7 +9,7 @@ ampWebUrl: "https://bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thr
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/amp/"
 type: article
 quality: 57
-heat: 89
+heat: 87
 published: true
 
 provider:

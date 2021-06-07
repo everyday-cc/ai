@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cogn
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
 type: article
 quality: 79
-heat: 102
+heat: 99
 published: true
 
 provider:

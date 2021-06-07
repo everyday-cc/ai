@@ -57,20 +57,6 @@ related:
         width: 1420
         height: 946
         isCached: true
-  - title: "Canon announces more details of the upcoming EOS R3"
-    excerpt: "Canon has announced more details about the upcoming EOS R3. These details include information about a new form of object tracking and the ability to record"
-    publishedDateTime: 2021-06-02T05:05:00Z
-    webUrl: "https://www.newsshooter.com/2021/06/02/canon-announces-more-details-of-the-upcoming-eos-r3/"
-    type: article
-    provider:
-      name: News Shooter
-      domain: newsshooter.com
-    quality: 39
-    images:
-      - url: "https://www.newsshooter.com/wp-content/uploads/2021/06/r34.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Canon EOS R3 - What We Know So Far"
     excerpt: "More information on the new Canon EOS R3 has been released by Canon. Here's some new information on this flagship camera."
     publishedDateTime: 2021-06-02T10:37:00Z
@@ -85,15 +71,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Canon EOS R3 to have motorsports AF, oversampled 4K video"
-    excerpt: "Canon has revealed more specifications of the widely anticipated EOS R3 mirrorless camera including that it will have motorsports AF"
-    publishedDateTime: 2021-06-02T06:37:00Z
-    webUrl: "https://camerajabber.com/canon-eos-r3-to-have-motorsports-af-oversample-4k-video/"
-    type: article
-    provider:
-      name: camerajabber.com
-      domain: camerajabber.com
-    quality: 4
 
 secured: "QW7WpeM6QlLTTPouaTEM45Mgl8cgScAsOYJDT655P+c0bh2vrYs52dr30vaWPUXs5VfAhcdxtoOotMeuEXxm2wXxDJgrX1WWHrHuxXoxqrvkCti9+jVY1ubiregqLUu2uw4mj+jVCJdtuaD6KF0BMPqdSRd8hvJiCtTWM/Q/Y7lM+IyZgDDOLPj5WdjDQPtMfcSeZ1Wow9abqIr3t4TkYBkGpCmRfMqG3XFGn8mnw/r79QsaA+i7pqZ+s9cWfZGJ2QPjz4DNeLnPB+faE1uNdCO0iUk5CF/2kcN+MLToVKqd50ptx4FkYqGe9Ms25SJIk6Cs4ao0aifz6wki4p2sAXocKXRnzw71rOInvfCRfuk=;F55s7cmhQEzLNklT47fWpA=="
 ---

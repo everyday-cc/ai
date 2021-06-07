@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/"
 type: article
 quality: 111
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs/robot_ai_human.jpg/robot_ai_human.jpg/d880x320"
         width: 880
         height: 319
-        isCached: true
-  - title: "An AI Tool To Assess Severity Of COVID-19 Cases"
-    excerpt: "Assessing the severity of a patient is a critical step in the clinical workflow for determining the best course of action for treatment."
-    publishedDateTime: 2021-06-02T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/an-ai-tool-to-assess-severity-of-covid-19-cases/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-TOOL.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "GM/wFMoxGDQaTfkN0TSwyoIkFi7n6xxqYGq+k972HhDkQqHVZ6j4meM2tVu1csi4QCXzAQf1fZzSF776YnE9L+QuwRMQhZXL95ka0E5nsYcJGtacTIDt6bR+qAoZmXet73LThOd5DHpkaYXET3zoqriM9AEJVzF5Hq1XwpWdxDqkufnn35IXRsrVKpCtNd8Ec92wL4EneP3UYNIP420A3kxpsu3+3cMIBYaCPXf9Y1CIiipN4VvLYBQM6C0/C20yzUe4XwhLqgYJkBUpAP134oOt+XMxNroT9003nj26geBSjvhNu6Uzlp1axK7NH6NVWoUxRO6g9MnfsTdwlCeLuBx7IaGLmnkwHxNlLiXjtlo=;UpM6FTTV6IVFzXqHX+amHA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wionews.com/trending/artificial-intelligence-for-conserv
 cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp"
 type: article
 quality: 60
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://kvia.b-cdn.net/2020/04/hypatia-h_975fbaaa11f7415e7c3bc311df1a7fde-h_69d00cdd749b7dab664bc4702b02acbd-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
+    publishedDateTime: 2021-06-06T21:45:00Z
+    webUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 22
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/06/0607_met_-SCI-FISH-RECOGNITION-TB.jpg"
+        width: 899
+        height: 599
         isCached: true
   - title: "Guest view: Regulate facial recognition now"
     excerpt: "This editorial first appeared in The Washington Post. Guest editorials don’t necessarily reflect the Denton Record-Chronicle’s opinions."

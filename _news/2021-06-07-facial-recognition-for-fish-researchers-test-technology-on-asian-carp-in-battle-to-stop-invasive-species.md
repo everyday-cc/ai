@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Investigation reveals NYPD may use more facial recognition cameras in neighborhoods of color"
-excerpt: "Cameras are always watching, so there’s nothing private for New Yorkers going out in public. But the NYPD’s facial recognition technology takes being on camera a step"
-publishedDateTime: 2021-06-04T03:19:00Z
-originalUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/"
-webUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/"
-ampWebUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
-cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
+excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
+publishedDateTime: 2021-06-06T21:45:00Z
+originalUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
+webUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
 type: article
-quality: 48
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: WPIX
-  domain: pix11.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://pix11.com/wp-content/uploads/sites/25/2021/06/AP21048630206426.jpg?w=1280"
-    width: 1024
-    height: 683
+  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/06/0607_met_-SCI-FISH-RECOGNITION-TB.jpg"
+    width: 899
+    height: 599
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/06/03/197140-untitled-design-2021-06-03t121927387.jpg"
         width: 918
         height: 506
+        isCached: true
+  - title: "Investigation reveals NYPD may use more facial recognition cameras in neighborhoods of color"
+    excerpt: "Cameras are always watching, so there’s nothing private for New Yorkers going out in public. But the NYPD’s facial recognition technology takes being on camera a step"
+    publishedDateTime: 2021-06-04T03:19:00Z
+    webUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/"
+    ampWebUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+    type: article
+    provider:
+      name: WPIX
+      domain: pix11.com
+    quality: 48
+    images:
+      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/06/AP21048630206426.jpg?w=1280"
+        width: 1024
+        height: 683
         isCached: true
   - title: "The Biden administration's new facial recognition app for asylum seekers sets off alarm bells"
     excerpt: "The Biden administration recently rolled out a new app that uses facial recognition and geolocation technology to gather and store data about asylum seekers before they even enter the U.S., the Los Angeles Times reported Friday."
@@ -89,20 +103,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
-    publishedDateTime: 2021-06-06T21:45:00Z
-    webUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 22
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/06/0607_met_-SCI-FISH-RECOGNITION-TB.jpg"
-        width: 899
-        height: 599
-        isCached: true
   - title: "Guest view: Regulate facial recognition now"
     excerpt: "This editorial first appeared in The Washington Post. Guest editorials don’t necessarily reflect the Denton Record-Chronicle’s opinions."
     publishedDateTime: 2021-06-04T04:45:00Z
@@ -124,6 +124,6 @@ related:
       domain: armenpress.am
     quality: 16
 
-secured: "idPUKO71MRBXERPTtg17OApjnJ1GEYy/+/m1qJ0X9zQ9ZhA/HxT643jUTfnzkwijX0QyOlzRBAzt/EmLftnrxZVwtwNKiT+mNVY+13QYv7qxBxmje0+CEKvVZtS3Rv02Ki/eG8QPBFihqvUdFNQ3hRhVp/TH5NaIDrjUhjrXC4DIcGb5Y21Ahw4GmIR5GC9XU7CDfrz4BgkNmRYrtUtJExApzM4yynx9KbH/sRQJxz+TwT0JK+bCJLL5npOf+5P3lv4yNF4RDotSqzKSnmmufJH3wWBiv4PTK9V7A9sPR1oKk/vHNzwlIlax/PEiLJuHXtq81Z3bUwd0OVdPf5WyD1X6ZiofpMwL6Cv5TaKEm4KWrp7OrOjzi2LvPZK67TOJfOVSvunpORDjZsPZpb1MD+Dd1xpLQgKHULT+glYPZlqNmy4f+TSUIGQMiXcOZ9ZOemMmLYv/tI0eLTcPFOMMHawaUXyS7nObEteSv5VXTCPNwguiIqGdFduEhQ7gfKCDdHc+LT+3CpAA+ZzQJZ+vhg==;5LIwD5ABruQPL/wFJr7ESA=="
+secured: "shVlOl1OBW9PJ89hiLp+JAe1/EX9hpF+eMBD6unVAEFtxma1hDJo+3fElGul73aqRACwot6RSigpCaXaghXfl3iHWSRuhtk2Epc8J+/394QWp/PsAa9aGz3b6o2e+is0s6ydViHgwDu/Zj31MvrYznPlhQeK+TByzNg2apvmqlzZnoHXUTpEiKz5Bbpb2cUSgrX3kM73sMmNEroYFGSveohr6o5xVWqy1pyDgGuhRtGUgSETjSFX7XDwAfh+2DmJz7FsZnupStqLw/6N4gHhIdBcNdV7WSI9i/8hIxne0/8wPi6ffIWrygAKFOF0WbcBmIgh3FETLb3V27P9M5Q/9mEXWdbASsPyTSpuMf8hQQI=;hb5xsN1wryzuFPeptZgeLg=="
 ---
 
