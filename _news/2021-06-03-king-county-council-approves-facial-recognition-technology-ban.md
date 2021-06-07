@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Washington State County Becomes First in US to Ban Facial Recognition Software Over Concerns of Racism"
-    excerpt: "King County's ban on facial recognition software is \"an important step forward in the effort to stop government use of this harmful and racist technology,\" said Jennifer Lee from ACLU Washington."
-    publishedDateTime: 2021-06-02T15:33:00Z
-    webUrl: "https://www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894"
-    ampWebUrl: "https://www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/washington-state-county-becomes-first-us-ban-facial-recognition-software-over-concerns-racism-1596894?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 75
-    images:
-      - url: "https://d.newsweek.com/en/full/1811407/video-surveillance-camera.jpg"
-        width: 2500
-        height: 1754
-        isCached: true
   - title: "Aussie researchers to test koala 'facial recognition'"
     excerpt: "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation."
     publishedDateTime: 2021-06-03T07:50:00Z
@@ -91,22 +75,6 @@ related:
       - url: "https://vid.alarabiya.net/images/2013/01/25/b86c8598-3fe4-4dae-abf3-c1113e612197/b86c8598-3fe4-4dae-abf3-c1113e612197_16x9_600x338.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Banning facial recognition technology: Baltimore’s bad idea | COMMENTARY"
-    excerpt: "There are a number of ways city governments can use facial recognition that would benefit the public: to find missing persons, catch identity thieves, improve security in crowded venues and identify victims."
-    publishedDateTime: 2021-06-02T15:03:00Z
-    webUrl: "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/op-ed/bs-ed-op-0603-facial-recognition-technology-ban-20210602-edoub7ntkrbxdluonlsrqobgaa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 58
-    images:
-      - url: "https://www.baltimoresun.com/resizer/ABATWjVilab86KnjaYK3Rb2rPcc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MJWA2OZPURORLGCTGQM4RJKXTM.aspx"
-        width: 1200
-        height: 802
         isCached: true
   - title: "King County ban on police use of facial recognition software spotlights local movements across US"
     excerpt: "As federal legislation on law enforcement's use of facial recognition software stalls, dozens of cities and counties are taking measures into their own hands."
@@ -143,20 +111,6 @@ related:
       - url: "https://retailtouchpoints.com/wp-content/uploads/2020/06/voice-commerce-1.jpg"
         width: 2440
         height: 1627
-        isCached: true
-  - title: "King County, Wash., Approves New Facial Recognition Ban"
-    excerpt: "The King County Council voted to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments, citing the technology's threat to privacy and history of bias."
-    publishedDateTime: 2021-06-02T16:51:00Z
-    webUrl: "https://www.govtech.com/products/king-county-wash-approves-new-facial-recognition-ban"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/049c588/2147483647/strip/true/crop/796x387+0+113/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc4%2Fd4%2F40cd44ec3e3d080e77a856070773%2Fshutterstock-facial-recognition.jpg"
-        width: 1440
-        height: 700
         isCached: true
   - title: "Facial Recognition for Fish May Help Environmental Challenge"
     excerpt: "Illinois researchers are prepping a test of a system to get Asian carp out of waterways while also helping native fish travel by working with Whooshh Innovations, a company known for the fish tube, or salmon cannon."
@@ -213,34 +167,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
         width: 730
         height: 499
-        isCached: true
-  - title: "King County Council Bans Use of Facial Recognition Technology by Sheriff's Office"
-    excerpt: "The Metropolitan King County Council voted Tuesday to ban the use of facial recognition technology by the county Sheriff's Office and all other county departments."
-    publishedDateTime: 2021-06-02T15:17:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21225147/king-county-council-bans-use-of-facial-recognition-technology-by-sheriffs-office"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 34
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/06/16x9/20210427_AMX_US_NEWS_FUNDAMENTALLY_FLAWED_MASSLIVE_TO_DISCUSS_1_MLV__1_.60b7a02a7449b.png?auto=format&fit=max&w=1200"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "King County Government: Facial Recognition Technology Ban Passed By King County Council"
-    excerpt: "A groundbreaking proposal to ban government use of facial recognition software has been passed by the King County Council. It was approv"
-    publishedDateTime: 2021-06-02T15:19:00Z
-    webUrl: "https://patch.com/washington/seattle/king-county-government-facial-recognition-technology-ban-passed-king-county"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 33
-    images:
-      - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "Delivering on Digital Government: Achieving the Promise of Artificial Intelligence"
     excerpt: "In an era of rapid technological change and nearly limitless possibilities, artificial intelligence (AI) and machine learning stand out for their potential to transform our society. Private sector adoption across retail,"

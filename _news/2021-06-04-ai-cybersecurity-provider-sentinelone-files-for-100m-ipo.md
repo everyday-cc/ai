@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Best AI-Based Cyber Security tools for Improved Safety"
+    excerpt: "There are several tools in the market that are making use of artificial intelligence to improve cybersecurity. In this are, I’m going to mention some of the popular tools. 1. X Sophos Intercept Tool Intercept X uses deep learning neural networks which work like the human brain."
+    publishedDateTime: 2021-06-07T09:51:00Z
+    webUrl: "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html"
+    ampWebUrl: "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp"
+    cdnAmpWebUrl: "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp"
+    type: article
+    provider:
+      name: technotification.com
+      domain: technotification.com
+    quality: 76
+    images:
+      - url: "https://www.technotification.com/wp-content/uploads/2018/04/IBM-AI-security.jpg"
+        width: 1200
+        height: 706
+        isCached: true
   - title: "Cybersecurity Startup SentinelOne Files For IPO"
     excerpt: "In the filing, the cybersecurity company disclosed that it had $130.825 million in annualized recurring revenue (ARR) as of January 31, 2021, up from $66.764 million as of January 31, 2020. The company said ARR represents “the annualized revenue run rate of our subscription contracts at the end of a reporting period,"
     publishedDateTime: 2021-06-04T21:21:00Z

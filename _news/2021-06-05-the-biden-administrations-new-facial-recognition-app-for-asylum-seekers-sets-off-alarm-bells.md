@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to keep them out of Lake Michigan"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is"
-    publishedDateTime: 2021-06-02T17:00:00Z
-    webUrl: "https://www.pantagraph.com/news/state-and-regional/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-keep-them/article_56a5de74-a98b-55b6-bcad-d35c420e4b99.html"
-    ampWebUrl: "https://www.pantagraph.com/news/state-and-regional/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-keep-them/article_56a5de74-a98b-55b6-bcad-d35c420e4b99.amp.html"
-    cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/state-and-regional/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-keep-them/article_56a5de74-a98b-55b6-bcad-d35c420e4b99.amp.html"
-    type: article
-    provider:
-      name: The Pantagraph
-      domain: pantagraph.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/1/23/123f914a-921b-5f8c-85d1-fc3966f4a77e/60b795764ab8a.image.jpg?resize=1024%2C1313"
-        width: 1024
-        height: 1313
-        isCached: true
   - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
     excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
     publishedDateTime: 2021-06-04T23:34:00Z

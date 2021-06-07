@@ -24,17 +24,6 @@ images:
     height: 249
     isCached: true
 
-related:
-  - title: "Army Advances AI with Research at UMD"
-    excerpt: "A collaborative research agreement between the University of Maryland and DEVCOM seeks to accelerate the development of AI technology for autonomous vehicles and robots for critical missions."
-    publishedDateTime: 2021-06-02T15:34:00Z
-    webUrl: "https://www.mwrf.com/markets/defense/article/21165850/microwaves-rf-army-advances-ai-with-research-at-umd"
-    type: article
-    provider:
-      name: Microwaves & RF
-      domain: mwrf.com
-    quality: 19
-
 secured: "koHuQFEPaz34yOYdZMdZWz1OCDEo4u/Kr/NyPwALH26ofvRlFQvJsAmDSDd0uqdo1cbYksQ50pIyO6J/NfgRi5E8nSUyD5A78qMWk3MbFgQkdIXrI8XQasjVKcuAZnstcjSB+aFTP8kpfossVfF/pfAmdVpjjJT8OsiGPk/CEtROpK4XFVB3Plav3dS0p5LNsRpPP/7w6r2dZZl+9kqFEF/81t0wOBN2ApXTfpKwdtGFDERZJh7WENaHkUsHyG0G0YZa5Yo7IN3zddP/xNPTwgfcRZQn8ScsmRD51sKrsO3a1wOH5Amzjk87fa86XPgnsMW3JoNna+Yo1jqmH+qaqMds8XMeakTTCQZbJnBcOmM=;fGjDC07hOR75BkKEjqY0NQ=="
 ---
 

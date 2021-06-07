@@ -65,22 +65,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Self-Driving Trucks May Replace Delivery Drivers After Incredible Cross Country Shipment Time"
-    excerpt: "Human truck drivers may become a thing of the past, as self-driving trucks appear to operate quicker than their person-controlled counterparts. The revelation comes after a driverless truck completed a cross country shipment much quicker than a human driver could have – arriving at its destination ten hours quicker."
-    publishedDateTime: 2021-06-02T17:02:00Z
-    webUrl: "https://www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/"
-    ampWebUrl: "https://www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 33
-    images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F06%2Fself_drive_truck.jpg"
-        width: 1200
-        height: 619
-        isCached: true
   - title: "Apple loses many top managers from self-driving car division"
     excerpt: "Apple Inc has lost multiple top managers of its self-driving car team in recent months, a sign of attrition at the division involved in what could become an important future product."
     publishedDateTime: 2021-06-02T21:26:00Z
@@ -94,20 +78,6 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/62021302625161496485.jpg"
         width: 620
         height: 355
-        isCached: true
-  - title: "Apple’s Self-Driving Car Team Loses ‘Multiple Top Managers’ in Recent Months"
-    excerpt: "The bumpy road to Apple Car continues, with Bloomberg now claiming Wednesday that Apple has “lost multiple top managers of its self-driving car team” in recent months."
-    publishedDateTime: 2021-06-02T15:19:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-car-managers/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 21
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2019/06/apple-car-640x336.jpg"
-        width: 640
-        height: 336
         isCached: true
 
 secured: "3uq8fTx9k+CPEBJw039/dEv9Je22W3sctlmdZgsmaKgfGbQOkBacogskgswImEBJbhCP9kzwNyJ0GrUvl7dhKLrnqixY4Pppf2yinIHU+IkMoqHPf0V/8+JMsCgHUmQ2GmQUGtbyMtjj/bMjSD0eoLssuNyE5dXSmVdveeZv8+utO2DOlAjy+FQIy+ae8cEQJMlMk/fieXptoN/PW9tVpv+EO3U3iViqVgdWQDOyFYFNV57y3tC3ooXEBedbOZqIJRKK9DnqShnmlKvDhO0WExQ+hn3RcxLegKjzhCh8ispvI9ilXX1z/JLakz9jdfdRoV6lw5o2KD9b0/0fMKqf/sVdnDhjiVrEXab8/8R3otFo4PgnuvJSp5LRcOLilNTW67XyrJkZ4aKyI4+sKekrNZOlPtCVcmjWQoJpM/lc9Keki289gaTD2g95pK0zUvxPamZ8oUGDAK8Rt1nCjCRjMeOuTR3un/mV3BJD/B259tiLFjt4fVAEgO0Bz3MDEFr1yhdE3I+HkMI9Pr2D3FF6SA==;Uljxdzmuh2CnObj5Of0m5A=="

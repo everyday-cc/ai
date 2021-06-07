@@ -71,36 +71,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Self-Driving Trucks May Replace Delivery Drivers After Incredible Cross Country Shipment Time"
-    excerpt: "Human truck drivers may become a thing of the past, as self-driving trucks appear to operate quicker than their person-controlled counterparts. The revelation comes after a driverless truck completed a cross country shipment much quicker than a human driver could have – arriving at its destination ten hours quicker."
-    publishedDateTime: 2021-06-02T17:02:00Z
-    webUrl: "https://www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/"
-    ampWebUrl: "https://www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/self-driving-trucks-may-replace-delivery-drivers-after-incredible-cross-country-shipment-time/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 33
-    images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F06%2Fself_drive_truck.jpg"
-        width: 1200
-        height: 619
-        isCached: true
-  - title: "Apple’s Self-Driving Car Team Loses ‘Multiple Top Managers’ in Recent Months"
-    excerpt: "The bumpy road to Apple Car continues, with Bloomberg now claiming Wednesday that Apple has “lost multiple top managers of its self-driving car team” in recent months."
-    publishedDateTime: 2021-06-02T15:19:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-car-managers/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 21
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2019/06/apple-car-640x336.jpg"
-        width: 640
-        height: 336
-        isCached: true
   - title: "Apple's self-driving car division has lost 3 top managers this year"
     excerpt: "The departures from Apple's car team come as it is reportedly aiming to produce a self-driving passenger vehicle in 2024 with a game-changing battery of its own device."
     publishedDateTime: 2021-06-02T19:30:00Z

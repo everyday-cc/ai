@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 648
         isCached: true
+  - title: "Best AI-Based Cyber Security tools for Improved Safety"
+    excerpt: "There are several tools in the market that are making use of artificial intelligence to improve cybersecurity. In this are, I’m going to mention some of the popular tools. 1. X Sophos Intercept Tool Intercept X uses deep learning neural networks which work like the human brain."
+    publishedDateTime: 2021-06-07T09:51:00Z
+    webUrl: "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html"
+    ampWebUrl: "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp"
+    cdnAmpWebUrl: "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp"
+    type: article
+    provider:
+      name: technotification.com
+      domain: technotification.com
+    quality: 76
+    images:
+      - url: "https://www.technotification.com/wp-content/uploads/2018/04/IBM-AI-security.jpg"
+        width: 1200
+        height: 706
+        isCached: true
 
 secured: "d15Ia3KqOGuFlmjZzLn3KcJS4rR51xJ4MsM6ta8+N2dmhNFSlcDDPi1cPj73BdmMeZxqzp5uE+IhX84u26BFx4h9zfUFhR1bn7IowDsfJAbuk4/yRnVPbLyal0GvsT83UCbhgWdWhDurHGkkBulsBa2xlFmQGJsu7r+CDMRorvogZBwi02Ha2Ru8wTLvXUtGw9zsThjyMPFbkSlp0L+qF1fgGw4VUbnGX57l8cnx5MOMCwyEnDKB1zJO1xhVGnr8YqG/MfSxGQBbr5eCAzN471JKdbSysWv8M5wfxPcIMbKoqtjb8JWnGT3qBE23BZP8kwykoUpBqBz7tYGPykDPq6LHud9RY28is2XksByfwpQ=;JXk4kxSKHi4FE02arIQbqw=="
 ---
