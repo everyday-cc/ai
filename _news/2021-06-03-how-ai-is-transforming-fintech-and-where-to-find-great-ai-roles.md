@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Regulation Is Hot Topic at Pujiang Innovation Forum in Shanghai"
-    excerpt: "The rapid development of the fintech sector calls for a new set of regulatory policies that focuses on issues such as fair competition and consumer protection, according to a panel of experts and professionals invited to the fintech seminar hosted by Yicai Media Group at the 2021 Pujiang Innovation Forum yesterday."
-    publishedDateTime: 2021-06-03T07:19:00Z
-    webUrl: "https://www.yicaiglobal.com/news/fintech-regulation-is-hot-topic-at-pujiang-innovation-forum-in-shanghai"
+  - title: "US Senate Innovation Caucus Provides Bipartisan Vehicle to Promote Fintech, Blockchain, AI and More"
+    excerpt: "Last week, an official announcement was issued by Senators Cynthia Lummis and Kyrsten Sinema regarding the launch of the US Senate Financial Innovation Caucus. Senators John Hickenlooper, Tim Scott, Marsha Blackburn,"
+    publishedDateTime: 2021-06-04T21:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176256-us-senate-innovation-caucus-provides-bipartisan-vehicle-to-promote-fintech-blockchain-ai-and-more/amp/"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/fintech-regulation-is-hot-topic-at-pujiang-innovation-forum-in-shanghai/13845569030062080.jpg"
-        width: 720
-        height: 480
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Cynthia-Lummis-at-Bitcoin-Miami-2021-600x529.jpeg"
+        width: 600
+        height: 529
+        isCached: true
+  - title: "Unicorns as solution provider: From fintech and pharma to green energy"
+    excerpt: "From fintech and pharma to green energy - As the world was returning to a normal lifestyle, after the first wave of the pandemic, the ferocious"
+    publishedDateTime: 2021-06-02T13:25:00Z
+    webUrl: "https://www.siliconindia.com/news/business/unicorns-as-solution-provider-from-fintech-and-pharma-to-green-energy-nid-216210-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/4xap5h62.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "MZ/QVJwaC8C30Wp+Bkx/P0OctolOPp4VigN6vCZWLqqxdK9cfTHASAPugIhtONziBQYBwgGFuO5P2lifpTuQT5AOTUctAS8ZNzmTIGoI0TVAKV3phq9ldZfdyySzGUr6JejX/ogSa+ipJuNplmtmjNzujLOgdyHwT++0AU4kyqy2rPRIlBoJI4+Lh5TBmjK/wENFHgyruOaxxXAi6fXlviOtjkeHtgJPSw/WbaGWeld+7qyBye5dkImUrgKGXJhQENM9g6vSN6dy2Fb0rJzQyKXIQkQFyOXGKFGAO2I4uIfgTq+LoCvhI1RqWvKE5TXMDZGY+qxA1aohLpMpE561RcU3hnTlGGyLtTWD8xUSYf0=;najgvxt23vPmuztPfkXy+w=="

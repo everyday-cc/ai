@@ -20,35 +20,21 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "10 Ways AI And Automation Can Help Agencies Succeed"
-    excerpt: "Artificial intelligence and automation have transformed the way people do business and show no sign of slowing down. Smart agencies are seeking new ways to leverage both."
-    publishedDateTime: 2021-06-02T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/"
+  - title: "As AI develops, so does the debate over profits and ethics"
+    excerpt: "But what remains unknowable are the benefits that may be lost to society by not fully using AI in responsible ways. We understandably recoil at the possibility of technology companies gaining privileged access to confidential medical records."
+    publishedDateTime: 2021-06-03T14:12:00Z
+    webUrl: "https://www.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4"
+    ampWebUrl: "https://amp.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Financial Times
+      domain: ft.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b69b04d65af80e8d7dd319%2F0x0.jpg"
-        width: 1200
-        height: 580
-        isCached: true
-  - title: "Automation, AI keys to rubber industry's future success"
-    excerpt: "And while the pace of technological advancement—and the adoption of the technology throughout the rubber industry—can feel overwhelming, LabsCubed CEO Khaled Boqaileh contends it doesn't have to be. In a presentation given during the virtual Rubber in Automotive Conference hosted June 1-3 by Rubber & Plastics News,"
-    publishedDateTime: 2021-06-04T12:00:00Z
-    webUrl: "https://www.rubbernews.com/news/automation-ai-keys-rubber-industrys-future-success"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
-    images:
-      - url: "https://www.rubbernews.com/s3/files/styles/800x600/public/Industry%204.0-main_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3b33e271-7459-43f6-b05d-91bca84eacd6.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "LFacLgJiSKh31QB4jbnogmGJ0D7Eddop/qxZC6Kvu5VMUyDeD3TwvsQ4eefwCc5/eG/fLRtuFEp0Mw8sZp0ENQSxDHqm462B7SIt4Z/Oat5j2iQB8zPVPNIgsMggdJz/zja3iehDboLDV9alGWxxJht+BCZ/Sri3lybEYqy05qWNXcjfQG3sdgz985ad/N/Ghv8tP2lO1jSOJ2WRqZs9GQMD8QW/1FJT2aHEj+MTx1WcJE9tZqD6tGJANOD1+g5XvWSmk93dVwwflgr+qlYMivu/T7eAv3gewM6acEpjZp5O5Czrk/VsJipmgaN8EpqLAwvKyx5ngyhyGHRR8ROBqOUWVcVHreFp0sJzcWivAe0=;wmNKQ/HjptVHR438QsBK/Q=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ncfa-successfully-concludes-cana
 webUrl: "https://www.digitaljournal.com/pr/ncfa-successfully-concludes-canadas-leading-fintech-and-financing-conference-ffcon21-breaking-barriers"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
+    excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
+    publishedDateTime: 2021-06-04T19:02:00Z
+    webUrl: "https://www.pr-inside.com/ncfa-successfully-concludes-canada-s-leading-fintech-and-financing-r4833550.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 24
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Commercial Finance Fintech and Business Lender join forces to give Australian Small Businesses a fighting chance"
+    excerpt: "The funding gap in small and medium business (SMB) lending in Australia is estimated at more than $90 billion. It was reported in late 2020 that the major banks are rejecting more than a quarter of SMB loan applications,"
+    publishedDateTime: 2021-06-07T01:07:00Z
+    webUrl: "https://prwire.com.au/pr/96967/commercial-finance-fintech-and-business-lender-join-forces-to-give-australian-small-businesses-a-fighting-chance-1"
+    type: article
+    provider:
+      name: PRWire
+      domain: prwire.com.au
+    quality: 0
 
 secured: "hcUpvmDyjl8YPXoC+mlavv10nkqcB9O9eA2P+eujMlBi8Qn2Wehg9fzuynR3evrv0veh/RTUrBBB678mM91CeK2Of9FL1WqR+DcVmqztx5YXT1KAWKWbNL3haiPgKIPodunBQCVmJ8AwPvJNm3E+TC8ta9+9T3cp0Kv/00oKDxiOlOZLY+nFlMiYlQZyrDP9KGtwbmrwpE621/agNTip5VrnJjwTvKsBS1j9Xlt7LmUX9Lf6kjABy+4fv29dBqR/ajsVkm/FY2mA+B/Xlf+2H3OBSRjyY9bxZVzRJSjixD2fJMB/vRP8EiGHMj5j2FN4raT6WAfMJyxPcDeTY9+/MTBKsQAWZemOGfYKzG0lMcs=;igW5HGtzv+3uVKWnUeOfbA=="
 ---

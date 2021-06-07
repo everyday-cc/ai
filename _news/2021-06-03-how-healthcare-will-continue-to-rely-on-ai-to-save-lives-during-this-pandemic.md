@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-health
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Treatment.com’s Innovative Healthcare AI is Put to the Test by Doctors"
-    excerpt: "(“Treatment” or the “Company”) (CSE: TRUE) is a healthcare technology company that has developed an exclusive AI software to think like a doctor. Using the latest artificial intelligence and machine learning,"
-    publishedDateTime: 2021-06-02T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/treatment-com-s-innovative-healthcare-ai-is-put-to-the-test-by-doctors-1030487034"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "neU+cXZIQbWSRc0+GdkbTdCyrZFCrkUIfMzZAsEFCAwjJ66prDvJ5NFDanx0wmDZ5bvWCqhDIQ+FnD/nJJSEIIi63fb3pKP6LP4NsH5k3xz0Amh7yqpn3BmKUPCFWnMgNyrUM80028+uGFO3yDPIbPZZ12IWLjl3g54ct0dnykGyMQBLvvMYRi9OyzVp1TIdqTaYTk8jjIBkIMcjQBuh7ABdrSMkMUREIYvKNCC7oRGz92YuLKmCCKtjhLWBEBHsE/DGlA0vcOSv8DsMBMP2GUhiqXmX5XaOZahZkjMrJnKV63ztaA07Uoywy7reBAm4O2+ZlzWByjg1ROhiKHe57BFi9RUQ3DedMs/p03HHPsbsUAErcWk8LXI7YQP21M8xY+x2f//1UEEUYpa06wY8tTdC+yF2mrVufulRfP5k9Xydjl+QySs9Q1g6HPmuxtpM0FpEt4YoGeiND8T4bLL9BdCMv+7VBpVpP62jpsBCAOwM2WAgAXl1xKMyvyBZ1OCI9GCgaC7aAYHN7DosW6FYkg==;rsXG32MyrvKEvBFanedm+g=="
 ---

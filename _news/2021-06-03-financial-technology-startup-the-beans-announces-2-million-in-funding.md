@@ -38,20 +38,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Banking-as-a-Service, Authentication, and Lending Technologies Highlight Ten Growth-Stage Companies Chosen for 2021 FIS Fintech Accelerator Program"
-    excerpt: "FIS and The Venture Center announce the ten growth-stage fintech companies selected to take part in the 2021 FIS Fintech Accelerator program.Highlighted by solutions focused on authentication, lending and banking-as-a-service,"
-    publishedDateTime: 2021-06-02T12:03:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=478666"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 1
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "ssFiRSe9ZJIGv6yAnnxU3bd4KQDpKjPXs074wofZvUx1aH0eafw/MZbWDNxuhcxODVak4eZVYV2XrKuerOiOiSrbjDOOWmaHPxvSjRHDbhRsACxCAjwU6HgXOdYCXKBGYkTYb3UACz1Pda7cHYtk0PZCD/RNU8NNt08OAAVEE4UHX0cQNx1BIm6n0juUpYnVcce3WZwU+EOzQ9fZ/UI4ruoIh1J1w/R3S/pOIb41LmJHaUBSndmf2wQ4WtjmSCzYAvkNozSNXCzbVTeSIGyKvNYG9wkKwE5MnBZo7lzPTMEWEdaoTDNQ1sAcv7EXiwoG8POabPYPn+VcYQrzYytSLrDri8wPR9i4A58BOF7T3CI=;ESH97pewXclBkn13MNHBNQ=="
 ---

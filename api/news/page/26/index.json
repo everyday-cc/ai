@@ -2,6 +2,145 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-05-18-sequitur-labs-joins-edge-ai-and-vision-alliance.md",
+      "title": "Sequitur Labs Joins Edge AI and Vision Alliance",
+      "excerpt": "Sequitur Labs today announced that it has joined the Edge AI and Vision Alliance, a global community of technology providers, leaders and startups dedicated to advancement in AI-powered computer vision and edge technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9371605.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9371605.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist.md",
+      "title": "‘Some people feel threatened’: face to face with Ai-Da the robot artist",
+      "excerpt": "Self-portraits by ultra-realistic android go on show at Design Museum in London",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
+      "originalUrl": "https://www.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ec5f164d023799a1e7219eb4f36cd58883a1581b/157_278_3468_2080/master/3468.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=50565e4c98a4efb26a0a18a40acfcca3",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
+      "publishedDateTime": "2021-05-18T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-baidu-extends-post-covid-recovery-with-quarterly-sales-beat.md",
+      "title": "Baidu Extends Post-Covid Recovery With Quarterly Sales Beat",
+      "excerpt": "prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. The venture, Jidu Auto, aims to spend 50 billion yuan over the next five years to develop smart-car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL2Fg2mdn_Ew/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-artificial-intelligence-ai-in-healthcare-market-outlook-2021-big-things-are-happening.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Outlook 2021: Big Things are Happening",
       "excerpt": "HTF Market Intelligence released a new research Study of 50 pages on title Artificial Intelligence AI in Healthcare Market in India 2021 2026 with in depth analysis forecast and business moves The market Study is segmented by key a region",
@@ -1028,145 +1167,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-research-launches-movenet-with-tensorflowjs-api.md",
-      "title": "Google Research launches MoveNet with TensorFlow.js API",
-      "excerpt": "Google has launched its new MoveNet model with an API for TensorFlow.js to help developers create apps that can track movements. In future updates, MoveNet should be able to track multiple people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/google-research-launches-movenet-with-tensorflowjs-api/",
-      "originalUrl": "https://www.neowin.net/news/google-research-launches-movenet-with-tensorflowjs-api/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621293350_movenet-still_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ethical-ai-is-our-responsibility.md",
-      "title": "Ethical AI Is Our Responsibility",
-      "excerpt": "Similarly, so does Responsible AI. In digital, many things can lead to ethical incidents with AI but we can distill them down to four major causes. So how do we adhere to Responsible AI? A ton of resources are available on this topic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6414197398b9485ea46c91da9ff40d67.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "publishedDateTime": "2021-05-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-researchers-call-for-bias-free-artificial-intelligence.md",
-      "title": "Researchers call for bias-free artificial intelligence",
-      "excerpt": "Clinicians and surgeons are increasingly using medical devices based on artificial intelligence. These AI devices, which rely on data-driven algorithms to inform health care decisions, presently aid in diagnosing cancers,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
-      "publishedDateTime": "2021-05-17T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

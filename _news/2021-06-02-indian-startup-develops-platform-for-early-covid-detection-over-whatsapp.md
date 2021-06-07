@@ -26,22 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "XraySetu: This AI Platform Will Accept Your X-Ray Over WhatsApp & Check If You Have COVID"
-    excerpt: "An AI-driven platform called XraySetu has been developed to identify COVID-19 positive patients even from low-resolution chest X-ray images sent over WhatsApp."
-    publishedDateTime: 2021-06-02T11:11:00Z
-    webUrl: "https://www.republicworld.com/technology-news/apps/xraysetu-this-ai-platform-will-accept-your-x-ray-over-whatsapp-and-check-if-you-have-covid.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 30
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/dgm0hdxb7ozfa3h0_1622632275.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-
 secured: "XXhX3JHA9qtw67WVsgpXD6SR59C49nlDIygOml0OEeEx33FKPzu9Vrnd5dczJpWFmha5tuKrhY2nTBWIt1wkUqlBXwOZ31NQhrvuKYEzdvEYXNaL7a/4pi+IPk220YD149x7yMSddosyTQH2ZP3fosle7RO8SEbJYOcppoGnIPVBQFYPprSGUD31nXrCmRGtfwbyJNyE1UZ7k3a/KGngCPk8W0YPv1YUx8CGm7fmjOylv/Y+SbzU0YTOzFdwLv/JqHkOaLfZIF3i5RDIxg7SnQFdI3UZ+P3+JIuekYxVR3Pci24peCc+e1/OK9qJuPaz/8lniY0Nb+tgoXgoHWowHL1LdrEJL6FGJsUN7mLmL8Bu0k7JMJOZcy2XrHXS9/wSLu9pV+ouZN297FP9sCShP/KcB1bafPzgSfrY2jMRMlohQM/wArFhF8NH2vehzH7B1nP13MsTk3S3OcDEKAr8KL31lb6ssV4v1Djj0Bd9LmrdaBTqf3UovXszYa9kZR6xJOLx+WNLlqwZgDog1GQozg==;hzh3YbuT9Nk5EGsJIBKARw=="
 ---
 

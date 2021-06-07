@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/canon-eos-r3-update/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-eos-r3-update/?amp=true"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
-    excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
-    publishedDateTime: 2021-06-02T12:21:00Z
-    webUrl: "https://www.cnbcafrica.com/2021/af-tracking-for-racing-cars-and-motorbikes-more-details-of-canons-eos-r3-revealed-a-high-speed-high-performance-mirrorless/"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 10
-    images:
-      - url: "https://cms.cnbcafrica.com/wp-content/uploads/2020/07/1200px-CNBC_Africa.svg_.png"
-        width: 1200
-        height: 1112
-        isCached: true
 
 secured: "v8kMaPgsKN8h7xxmMODsOwfNLo2cZH2U+z0W21ehjs7+4v2wi0Un9a9b01OrbGf+/XzD7xcXbT8VtuHbENSwPk25BPpwIb8M0hROu4eOdDuGsQpMmUyzU49erU1nXlT7/iUfsrKj7TTjqerWSxUCCu3Vp7IkAXAFEXegm2CGvnOolGQw0Tr2kh3R9qS4XWeOEdSrOIUPbbgqsDeVrANt8RvqEOM9jQ1r3GuoRWB37HdgAM79B3a66iNVWjAgJnzsL5OkQFNkJ4Av5hQPq2w/+NM8lsDsbxbzEDJ86qiQrPE9dJO7Drh/CNKpQn2x3qrnRaxx31EPbva/HNYBVbYpfoaTeH/wbvjWvBboipPdqK4SD+U8QhH00+4f6jQ8wkYdHxMlWf3PuW+96obcZZ0YxyKC2RFIRt5XBoCQnhRY2BCXDflnWfogJ9fiWwL1K/r4cFPwc+Keu/84sE29kgpPXJaChzZV+NQokn8C+v3TPagLe+4Mc36T6nPlfE6NfG17tQyqSeee+7ZEGxYjNGuDEw==;P4fnSZcfYN2x9T3mVHa0KQ=="
 ---

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-25-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
+      "title": "Computer Vision Is Like Investing In The Internet In The ‘90s",
+      "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/",
+      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60acceb37e888667457f4a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1079",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/amp/",
+      "publishedDateTime": "2021-05-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-south-america-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-regional-analysis-by-component-and-end-user.md",
+      "title": "South America AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Component and End-User",
+      "excerpt": "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/south-america-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-regional-analysis-by-component-and-end-user-2021-05-25?dist=bigcharts&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/south-america-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-regional-analysis-by-component-and-end-user-2021-05-25?dist=bigcharts&tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-mayhill-facial-recognition-technology-used-after-swansea-disorder.md",
       "title": "Mayhill: Facial recognition technology used after Swansea disorder",
       "excerpt": "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash.",
@@ -1219,92 +1323,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-two-in-one-wide-angle-monitoring-meets-high-resolution-capture-in-new-camera-platform.md",
-      "title": "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform",
-      "excerpt": "However, recent studies on object recognition in omnidirectional cameras show that distant objects captured in these cameras have rather poor resolution, making their identification difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes.md",
-      "title": "French scientists in Zimbabwe use facial recognition technology to ID giraffes",
-      "excerpt": "A team of French scientists in Zimbabwe’s Hwange National park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "originalUrl": "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.rfi.fr/media/display/f910e0e2-b328-11eb-8460-005056a964fe/w:1280/p:16x9/2021_05_12%20Giraffe%20populations%20are%20in%20decline%20across%20Africa-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "cdnAmpWebUrl": "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "publishedDateTime": "2021-05-12T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFI",
-        "domain": "www.rfi.fr",
-        "images": null,
         "publishers": null,
         "authors": null
       },

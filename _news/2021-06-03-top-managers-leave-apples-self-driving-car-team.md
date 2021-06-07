@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leav
 webUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video"
 type: article
 quality: 54
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple's self-driving car project might be losing gas fast as multiple top execs abandon it"
-    excerpt: "Apple reportedly wants to launch its self-driving cars under Project Titan in 2024. However, several of the company's top executives have left it recently which may really hamper such plans."
-    publishedDateTime: 2021-06-02T12:14:00Z
-    webUrl: "https://www.neowin.net/news/apples-self-driving-car-project-might-be-losing-gas-fast-as-multiple-top-execs-abandon-it/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 44
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2015/09/apple-car_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Apple Faces Exodus Of Managers From Self-Driving Unit: Report"
     excerpt: "Apple Inc.'s (NASDAQ: AAPL) ambition to develop an Apple car could be in jeopardy, as the company is reportedly losing key personnel from its self-driving unit in"
     publishedDateTime: 2021-06-02T18:58:00Z
@@ -146,20 +132,6 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2019/06/apple-car-640x336.jpg"
         width: 640
         height: 336
-        isCached: true
-  - title: "'Apple Loses Several Top Managers From Self-Driving Car Division' -Bloomberg Report"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2021-06-02T12:57:00Z
-    webUrl: "https://www.benzinga.com/news/21/06/21388269/apple-loses-several-top-managers-from-self-driving-car-division-bloomberg-report"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Apple's self-driving car division has lost 3 top managers this year"
     excerpt: "The departures from Apple's car team come as it is reportedly aiming to produce a self-driving passenger vehicle in 2024 with a game-changing battery of its own device."

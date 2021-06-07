@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-07T02:51:00Z
 originalUrl: "https://vietnamnet.vn/en/sci-tech-environment/vn-startup-uses-ai-for-surveillance-cameras-743471.html"
 webUrl: "https://vietnamnet.vn/en/sci-tech-environment/vn-startup-uses-ai-for-surveillance-cameras-743471.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://vnn-imgs-f.vgcloud.vn/2021/06/04/15/camera-ai-hanet-2.jpg"
@@ -23,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "8XuNKgqeMbJqnobaNV0KbGRAPI+JZXfy77AVSKC0vnkVv1VGIsrS9GeAUOq+07T3Cjs0BOg773X/fznppFSNF6gZ1V8xvyKqLKKzvCwdExwbxSb+0DM/tOMprTTrC3sr1TrklZMIvZz6LdrVd6xYYlZkqmaWalP26xEMO5fJA93S6bwa6Mb/+qRLgUXh1JAPF4OJbX2P7ECaSVKXrCCnqdi4JtqMfSo47kTbRPsWBnsQsUJprofeCKzOZ919zhv0oM7ewYMSG43pWlOWeoQR3PPFKVWRtzaI7JMiv2JbmbZMe9zbOfnC+kMLK4dJ1uCMH/68bXMSGXIsqDge9ayxmyeit8B7TW2qrdLgVIzjyyA=;bi+2k8C16VCgJlOqR1sSNA=="
+secured: "ijVOOyqW2hAJ/hNzLedO/7RKYMPRE1sCUrQpQ6izbUIF5hKRdZKYU9SrENIr5itXL3lda2M2bqaHvho/SaLeivDxBj7vGHLeTwLebWIxqBlwbRynxDHd7nvKLv3VsAWW4uPJeLjiwgedyQy/052O570rXRrrdXs/YQUMvipaDNm/xU1BBL5yXJ3/Ia9IF7W5/rSRV25I0twqqrLciPxMj/6TPYBuQbv1O5LoTd/XYjzLLGpMB+C7MOxj/Gh8I9KenF7jie12khKNK7Bijoz53vHj52oLFzqeEKlhnSWguVhXbOV1XsSKi3tYe+PkDN/QPoJyFo4bX7CKoEubqustle6UL4kWmpBAQ4zYVTZg8l7RqmPAgTAYYrgoGIgaCuL7S7wnMHG1Wm58RSD2AOb0CPuVss1MvXNDFoWnas5ZlgvW2i+O+VPxYfXU7qiyuJQxX/kGiktIZyA+ltyny/ZbRLF1EPY0OYlKXuIALx831UiRu+xNz6RrsZ/2kZWeb27Ca2OzpenI6TA5NrtHFdKtHw==;LYKyMBN0gamtUmaoQiYe9w=="
 ---
 

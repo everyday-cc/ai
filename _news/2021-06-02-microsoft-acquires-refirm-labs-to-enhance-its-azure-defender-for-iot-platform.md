@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 662
         isCached: true
-  - title: "Microsoft's Azure IoT platform helps make farming greener as well as smarter"
-    excerpt: "Precision agriculture brings sensors, AI, and farming together to deliver better crops with lower environmental impact. Now it's also helping to track carbon."
-    publishedDateTime: 2021-06-02T11:12:00Z
-    webUrl: "https://www.techrepublic.com/article/microsofts-azure-iot-platform-helps-make-farming-greener-as-well-as-smarter/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-azure-iot-platform-helps-make-farming-greener-as-well-as-smarter/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-azure-iot-platform-helps-make-farming-greener-as-well-as-smarter/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 101
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/02/e5ca2060-b61a-4991-a58a-df38fdcc14cc/resize/1200x/3a4b18e380749405a438cc1bf24cbc4e/tr-azure-farmbeats-diagram.jpg"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI"
     excerpt: "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI."
     publishedDateTime: 2021-06-05T15:06:00Z

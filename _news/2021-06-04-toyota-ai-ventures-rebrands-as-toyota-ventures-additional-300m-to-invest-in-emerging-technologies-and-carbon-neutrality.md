@@ -33,20 +33,6 @@ related:
         width: 625
         height: 521
         isCached: true
-  - title: "Insights from Happenings in the Fintech Landscape - 280521"
-    excerpt: "CBDCs, digital and cryptocurrency are seemingly gaining more momentum with incumbents and government institutions as the Central Bank of Bahrain, Bank ABC and J.P. Morgan recently announced a digital"
-    publishedDateTime: 2021-06-02T12:12:00Z
-    webUrl: "https://www.proshareng.com/news/Fintech/Insights-from-Happenings-in-the-Fintech-Landscape---280521/57485"
-    type: article
-    provider:
-      name: Nigeria
-      domain: proshareng.com
-    quality: 24
-    images:
-      - url: "https://www.proshareng.com/admin/upload/news/57485-proshare.jpg"
-        width: 947
-        height: 654
-        isCached: true
 
 secured: "/X6Jtg5CTqUp6ZlPpsEvkfuRJPvPvjR5bXmqw5unov6i5pyhmhIHHM2unpS50tASR4b5O11xD3R4xJS9uYs116f6zlij4OxkWoVfmap8nMnwZe+TLZ/gyXcYTyHnSglCcT5hKomWsR4QrVJ+ay6nhg+eTmsbSvhSpt0hrVXa2IpUqaCTHLsoVInc9NnfDw+HObbSYYMi8JrJSjP+XHPoBnb8aSmrLPWQF+wgh6fmVNvrdvsRmrAxBUduZ8BiEGCEvW2ejmmVMZPQB+qJV75YGxNLllfLk7An2BmLX+H0ebXJeeyiS20P+wV/c6/AmlC9IXWrcB/tWQTya4UptJexp2w04PWrRPDsAOS4kg9Lx8Q=;vhn+JeHFxs/oJSRpfHZe0Q=="
 ---
