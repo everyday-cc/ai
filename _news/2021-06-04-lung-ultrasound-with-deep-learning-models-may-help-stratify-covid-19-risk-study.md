@@ -7,7 +7,7 @@ originalUrl: "https://medicaldialogues.in/radiology/news/lung-ultrasound-with-de
 webUrl: "https://medicaldialogues.in/radiology/news/lung-ultrasound-with-deep-learning-models-may-help-stratify-covid-19-risk-study-78275"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1500
     height: 960
     isCached: true
-
-related:
-  - title: "Edge Computing AI Chips Market Exhibits a Stunning Growth by 2027 with Covid-19 Impact"
-    excerpt: "The static and dynamic elements of the companies have been combined in this Edge Computing AI Chips market report. This study report examines the competitive dynamics of markets in order to comprehend global competition."
-    publishedDateTime: 2021-06-04T01:36:00Z
-    webUrl: "https://manometcurrent.com/edge-computing-ai-chips-market-exhibits-a-stunning-growth-by-2027-with-covid-19-impact/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 46
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Monitor-Featured-Image.gif"
-        width: 1050
-        height: 600
-        isCached: true
 
 secured: "MBIM43CmBu2UfdAe5nus4W0pF4bpXdlTnLpjB/rByaWHuhlTPplYV/Drw2o2e97u0oXbOQ44ciX/LyK1OwG2ofB6eOqStiNPv8MbNJxa5303BswD27MTEH6koSUG20kQzpbRktrJugL221RN+4YncwdBqjrtCiCpQ9DQv4eKNRWIPIIAbzP63PYOCYWsdI7SBsG0dMEtmVBeLDEVRPloNcR8bkfYzUQdyEYLlLrisTghc+hn6+hr5Ab9rN3IYvbmYSd7IhhtVtvG7EjL17ODFQPWDTOy65bW8XVlNnSvDqhdiKxPr9TpGmeH9aqjADf1S3YRQ2iF4JYmYBoWqN9Exw5T0wCoyUbxuZJepdgVVdcg2IW+p0+GLuUeDasTKHH3PdNL9keYkHjTSry98y+f1TGlj78ZxeMLXuI5mIaJTaJ299zABF+4P2v8wE91Oh6s1QIuLPqWhAYgTj0JllwHSHNyHEaOzkCV4D5DFyjQQMSq0JUNAnUS1cIlPwfxQWyRofKk+zN+geitnCSxnO2a4w==;Ea7aEoNOVRbyjPzFvSNALQ=="
 ---

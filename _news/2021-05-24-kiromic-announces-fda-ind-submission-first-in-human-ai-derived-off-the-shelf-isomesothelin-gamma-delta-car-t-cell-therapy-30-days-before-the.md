@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Kiromic Announces FDA IND Submission First-In-Human, AI derived Off-The-Shelf IsoMesothelin Gamma Delta CAR T-cell Therapy, 30 Days Before the End of"
-excerpt: "Kiromic achieves key milestone for this first-in-human Phase 1 clinical trial with a target derived by Kiromic’s AI platform.HOUSTON--(BUSINESS WIRE)--$KRBP #IND--Kiromic Biopharma, Inc. (Nasdaq: KRBP),"
-publishedDateTime: 2021-05-24T11:55:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=473933"
-webUrl: "https://us.acrofan.com/detail.php?number=473933"
+title: "Kiromic Announces FDA IND Submission First-In-Human, AI derived Off-The-Shelf IsoMesothelin Gamma Delta CAR T-cell Therapy, 30 Days Before the End of the Second Quarter"
+excerpt: "Kiromic achieves key milestone for this first-in-human Phase 1 clinical trial with a target derived by Kiromic’s AI platform. HOUSTON-- ( BUSINESS WIRE )--Kiromic Biopharma, Inc. (Nasdaq: KRBP), an immuno-oncology target discovery and gene-editing company with a proprietary artificial intelligence neural network platform (Diamond AI) that is used to develop novel oncology therapeutics,"
+publishedDateTime: 2021-05-24T15:55:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210524005256/en/Kiromic-Announces-FDA-IND-Submission-First-In-Human-AI-derived-Off-The-Shelf-IsoMesothelin-Gamma-Delta-CAR-T-cell-Therapy-30-Days-Before-the-End-of-the-Second-Quarter"
+webUrl: "https://www.businesswire.com/news/home/20210524005256/en/Kiromic-Announces-FDA-IND-Submission-First-In-Human-AI-derived-Off-The-Shelf-IsoMesothelin-Gamma-Delta-CAR-T-cell-Therapy-30-Days-Before-the-End-of-the-Second-Quarter"
 type: article
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "qoc68hkcYvR7XF3l8od+GnQrTjf2iT0ChmIXyX546IQooW5B+TU2FyLE8he5L1uxQcaAc5Izwti6VlUWmknZ4I0xPCY7msAMLVU6zzSVaXfqBN2ZrkLNmzcWOhuzEiIUdy5zbZpTs/L/JXMEclvf4Es+cNOATJtdknCAQftxKgAbBklAeOLqSiHzo4TYnEOb/3yTxnxtnxmehUuiWT7Hf8gP+ZyR2UDVb32I7TrcZypm65B4d8/QV1I7/cqxEy/o71hADSvy3Hr9e3Ls6n3chVmNSE8MBWW7OYZrvLSt100BgDBRaVCy7x+M7yI4sMmdrQ8xOnXm62Ho3fydS1Xnj9c2kLqmUuuCuPMKmal1paw=;u08DXS/9PcUIRTFC15sPjQ=="
+secured: "qBDYVdqr4C+rr17ct/5paBwxZpaAyX1zfRKEuqXrLxxpMmj6Gsw8uvwRouSKtQRqUr4BpXI38B1x6HM54I3SpiyZvd45liB4Q103MsZDMImkUl7UI8Dy+WotIG5tZSEaQN3XqFOvvSBZd7MypFeaO6PHw2Uf/A2Py+FUxzdyGh2H8QzPFjM9d5OtinCwjbFgN0+32O6wYZ7rEPFmLGqf/IrEz6u3K5Ou0hVwEU9qLHGBP/ekFGbTPyvM2dkvzjw75v5TOMvXrwcusZKMGPiZpz4i6ujGVIf+tNMk/fxaJnwdQ0IaXXKg8FPipGdhLv5G3gEB9ug7BWxAG3IAD5oCf6q8lFpXH7yWWn65fefLH46kADy5pZxp78N0Zycx80udiiM/EhwSu40t2Y4mazvvFnLUsKOkZ4BNFdtGhsLtvEGltCs4j1/h7ERKHZjG96DIGExvFDahYGqHhyD1IE5f86UQz/5gc/Rhjdn8vcdmJpnWshhBfHIEqXPwrHvGze7ZQWukMPlc32HX+6FEheMBDg==;TKE6NdQS4o7loHaC0j0g7A=="
 ---
 

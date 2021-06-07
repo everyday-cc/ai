@@ -2,6 +2,234 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-05-14-generate-positivity-with-machine-learning.md",
+      "title": "Generate Positivity With Machine Learning",
+      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
+          "width": 1185,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-global-artificial-intelligence-in-healthcare-markets-report-2021.md",
+      "title": "Global Artificial Intelligence in Healthcare Markets Report 2021:",
+      "excerpt": "Global Artificial Intelligence in Healthcare Markets Report 2021: Growing Investment in AI Healthcare Start-ups & Increasing Cross-Industry Partnerships and Collaborations",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-healthcare-markets-report-2021-growing-/2021/05/14/9369645.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-healthcare-markets-report-2021-growing-/2021/05/14/9369645.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-waymos-case-against-uber-sent-by-judge-to-us-prosecutors.md",
+      "title": "Waymo's Case Against Uber Sent by Judge to US Prosecutors",
+      "excerpt": "Waymo CEO John Krafcik debuts a customized Chrysler Pacifica ... Or you’re preparing students for a future where artificial intelligence, smart machines, and digital competencies will predominate: Would you channel everyone into four-year universities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/leadership/corporate-responsibility/article/22016399/waymos-case-against-uber-sent-by-judge-to-us-prosecutors",
+      "originalUrl": "https://www.industryweek.com/leadership/corporate-responsibility/article/22016399/waymos-case-against-uber-sent-by-judge-to-us-prosecutors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2019/04/industryweek_21615_gavel_t.png?auto=format&fit=max&w=1200",
+          "width": 595,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference.md",
+      "title": "Maximize TensorFlow performance on Amazon SageMaker endpoints for real-time inference",
+      "excerpt": "Machine learning (ML) is realized in inference. The business problem you want your ML model to solve is the inferences or predictions that you want your model to generate. Deployment is the stage in which a model, after being trained, is ready to accept inference requests. In this post, we describe the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/07/2-1766.jpg",
+          "width": 800,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T14:56:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-ai-shows-exxonmobil-downplayed-its-role-in-climate-change.md",
+      "title": "AI Shows ExxonMobil Downplayed Its Role in Climate Change",
+      "excerpt": "According to a new paper, the company’s own research showed that human activity was a contributor, but public statements suggested otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/",
+      "originalUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/609c6715518969560d194728/master/pass/business_exxon-mobil_1210615224.jpg",
+          "width": 2400,
+          "height": 1591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp",
+      "publishedDateTime": "2021-05-13T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-two-in-one-wide-angle-monitoring-meets-high-resolution-capture-in-new-camera-platform.md",
       "title": "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform",
       "excerpt": "However, recent studies on object recognition in omnidirectional cameras show that distant objects captured in these cameras have rather poor resolution, making their identification difficult.",
@@ -901,222 +1129,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-deepscribe-raises-53m-to-transcribe-medical-notes-with-ai.md",
-      "title": "DeepScribe raises $5.3M to transcribe medical notes with AI",
-      "excerpt": "DeepScribe, a company developing a platform for health note transcription, has raised $5.3 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/amp/",
-      "publishedDateTime": "2021-05-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-heinrich-portman-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-transparency.md",
-      "title": "Heinrich, Portman: Artificial Intelligence Bills To Boost AI-Ready National Security Personnel, Increase Transparency",
-      "excerpt": "Senators Heinrich and Portman will be introducing the bipartisan Artificial Intelligence Capabilities and Transparency (AICT) Act. The AICT Act would implement recommendations of the National Security Commission on Artificial Intelligence’s (NSCAI) final report.",
-      "sourceUrl": null,
-      "webUrl": "https://ladailypost.com/heinrich-portman-announce-bipartisan-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-governmental-transparency/",
-      "originalUrl": "https://ladailypost.com/heinrich-portman-announce-bipartisan-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-governmental-transparency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ladailypost.com/wp-content/uploads/2020/03/2021-Chamber-Member.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Alamos Daily Post",
-        "domain": "ladailypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-quantum-machine-learning-hits-a-limit.md",
-      "title": "Quantum machine learning hits a limit",
-      "excerpt": "A new theorem from the field of quantum machine learning has poked a major hole in the accepted understanding about information scrambling.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-quantum-machine-limit.html",
-      "originalUrl": "https://phys.org/news/2021-05-quantum-machine-limit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/quantum-machine-learni.jpg",
-          "width": 700,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-quantum-machine-limit.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-quantum-machine-limit.amp",
-      "publishedDateTime": "2021-05-13T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-the-myth-of-artificial-intelligence-academicinfluencecom-features-author-and-computer-scientist-erik-larson.md",
-      "title": "The Myth of Artificial Intelligence--AcademicInfluence.com Features Author and Computer Scientist Erik Larson",
-      "excerpt": "Not so fast, says author and computer scientist Erik Larson, Ph.D. In his latest book, The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do, he notes that perhaps the replacement of human beings with artificial intelligence and \"thinking machines\" is not as imminent as we fear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/8c/b8c36c4a-4da4-5026-895f-4e587da25cd6/609d22d725b4f.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-true-influence-now-available-in-aws-data-exchange.md",
-      "title": "True Influence® Now Available in AWS Data Exchange",
-      "excerpt": "True Influence ®, the technology leader of data-driven sales and marketing solutions, today announced it is now available in AWS Data Exchange, a service that makes it easy to find, subscribe to, and use third-party data in the cloud from Amazon Web Services (AWS).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-true-influencereg-now-available-aws-data-exchange-/2021/05/13/9368660.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-true-influencereg-now-available-aws-data-exchange-/2021/05/13/9368660.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

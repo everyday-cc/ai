@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-05-artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility.md",
+      "title": "Artificial Intelligence Models For Sale, Another Step In The Spread Of AI Accessibility",
+      "excerpt": "A regular message in this column is that artificial intelligence (AI ... The models are built in a variety of AI techniques, including rules engines, xgboost, and neural networks (deep learning). “Different domains require different techniques ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
+      "publishedDateTime": "2021-05-04T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning.md",
       "title": "Can AI Help Us Manifest The Life We Want? A Discussion At The Intersection Of Mindset And Machine Learning",
       "excerpt": "For years, artificial intelligence and machine learning have been utilized in the mental health realm to help us regulate our emotions. In an article titled, “How Technology Can Enhance Behavioral Healthcare Design and Care,” the author effectively ...",

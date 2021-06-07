@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Insights from Happenings in the Fintech Landscape - 280521"
+    excerpt: "CBDCs, digital and cryptocurrency are seemingly gaining more momentum with incumbents and government institutions as the Central Bank of Bahrain, Bank ABC and J.P. Morgan recently announced a digital"
+    publishedDateTime: 2021-06-02T12:12:00Z
+    webUrl: "https://www.proshareng.com/news/Fintech/Insights-from-Happenings-in-the-Fintech-Landscape---280521/57485"
+    type: article
+    provider:
+      name: Nigeria
+      domain: proshareng.com
+    quality: 24
+    images:
+      - url: "https://www.proshareng.com/admin/upload/news/57485-proshare.jpg"
+        width: 947
+        height: 654
+        isCached: true
   - title: "Toyota AI Ventures rebrands as Toyota Ventures; additional $300M to invest in emerging technologies and carbon neutrality"
     excerpt: "Toyota’s first standalone, early-stage venture capital firm, Toyota AI Ventures, will change its name to Toyota Ventures and grow its total assets under management to more than $500 million with the addition of two $150 million early-stage funds: the Toyota Ventures Frontier Fund and the Toyota Ventures Climate Fund."
     publishedDateTime: 2021-06-04T07:02:00Z

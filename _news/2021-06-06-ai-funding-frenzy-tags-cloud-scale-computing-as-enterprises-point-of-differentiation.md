@@ -40,20 +40,6 @@ related:
         width: 1124
         height: 760
         isCached: true
-  - title: "NVIDIA leads journey to AI-Infused Industrial Edge with AI-powered technologies"
-    excerpt: "Computex is recognized as the world’s largest tech conference focused on the IT and IoT industry.  This year Computex invited Jerry Chen, head of Global Business Development for NVIDIA’s Manufacturing and Industrial Business,"
-    publishedDateTime: 2021-06-02T08:48:00Z
-    webUrl: "https://www.tech-critter.com/nvidia-leads-ai-infused-industrial-edge/"
-    type: article
-    provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 35
-    images:
-      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/06/Jerry-Chen-Keynote-2.jpg?resize=640%2C352&#038;ssl=1"
-        width: 640
-        height: 352
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Overview, Demand, and Growth | Top Companies – Intel Corporation, Nvidia Corporation, Google."
     excerpt: "The Artificial Intelligence In Healthcare Market is expected to grow at a CAGR of 7.67% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report."
     publishedDateTime: 2021-06-04T12:27:00Z

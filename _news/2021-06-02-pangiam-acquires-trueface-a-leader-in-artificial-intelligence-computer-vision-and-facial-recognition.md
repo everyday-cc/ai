@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
-excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused"
-publishedDateTime: 2021-06-02T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
+excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
+publishedDateTime: 2021-06-02T11:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
@@ -61,7 +55,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 64
+    quality: 66
     images:
       - url: "https://media.wired.com/photos/60b6ad1d41e613255aec163b/master/w_2560%2Cc_limit/Untitled-1.png"
         width: 1366
@@ -82,6 +76,6 @@ related:
         height: 421
         isCached: true
 
-secured: "WPvbuW6M1E5liAJrkxQmbewVrrA/DKYZOb+JHkph/j+ZPLkjr00AS73VX2T+XZBLhW4sGQCdJ+Ni60OrNYuZio75Y9fL/FlkHaIKG6x2IS0rYJdP/w0Oj/sxRDRuF65BBvbpf84zoF03HKWyBqwbb3+t5tuQCfybdlB8U0g9Dvw4ABXH9tQWc/1fFpEGwkmdBjr4unavPnGHAxh5Q5ciHSEoNz+hwyOzsI1KfCPbLk/wlh8FqQ8lmWak4iH/1EtSivS6eVsJL1STmp4UxZSiV0R+ns36qfJklONauFplGueTnHntIa7QRNE3TslpbDAkso3B4rbYnlnqLmIKPf8QxF2dYQmp4uxdO7NZ125voBQ=;dX78xG6z7D3vIViKYvhF/A=="
+secured: "ZXavCbrTdkNK+2UFVic34dLmcRd2gRBD0UUFXXV/Sa24rR7EFZZWEwLJi/yt2kizXGYxokMjlOEOBinVPIgDGk/up4cjL8VAiSFgx2IJVh3kD0Do2pWhUtQ+nK1JC7aaOZ4IC7pFDJvvdFABNXcu0KcFG1w0aBsNTygROhOIDlRr/rMlLje/QCOGXl46kP+T1+F4bHFzf/f3zuAznUFlmVFRndXFHeGpdl5GJijlEF9ax3tVF2TrR55RW7RvHZw+5fT982onMr4WSYa0OuDcE0jOYLnETxivBzDkWKRlkt3C6sin0bMFGRBjXPWYKWfM6fxBTLh+T3P4UqWvKCZM3sF7CHdj2Be+5VGhnS0+j1E=;JykL0IEHlKLBrwOYJlLoxQ=="
 ---
 

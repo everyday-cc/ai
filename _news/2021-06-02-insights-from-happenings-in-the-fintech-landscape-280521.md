@@ -25,48 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
-    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
-    publishedDateTime: 2021-06-02T07:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02"
+  - title: "Toyota VC arm rebrands as it expands remit to sustainable tech, digital health, fintech"
+    excerpt: "Toyota has rebranded its venture capital arm amid launching two new funds totalling $300m. Toyota AI Ventures, which was launched in 2017, has been renamed Toyota Ventures as it branches out into new areas including climate change."
+    publishedDateTime: 2021-06-04T11:14:00Z
+    webUrl: "https://www.altassets.net/market-news/firm-news/toyota-vc-arm-rebrands-as-it-expands-remit-to-sustainable-tech-digital-health-fintech.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: AltAssets
+      domain: altassets.net
+    quality: 31
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.altassets.net/wp-content/uploads/2021/05/imgpsh_fullsize_anim.png"
+        width: 625
+        height: 521
         isCached: true
-  - title: "How AI Is Transforming Fintech and Where to Find Great AI Roles"
-    excerpt: "Below is more about how chatbots have specifically transformed the fintech industry, and how and where to find great AI roles. Chatbots in the fintech industry came as long-awaited solutions to long queues at bank branches."
-    publishedDateTime: 2021-06-03T16:56:00Z
-    webUrl: "https://www.vault.com/blogs/innovate-with-influence-global-high-tech/how-ai-is-transforming-fintech-and-where-to-find-great-ai-roles"
+  - title: "Toyota AI Ventures rebrands as Toyota Ventures; additional $300M to invest in emerging technologies and carbon neutrality"
+    excerpt: "Toyota’s first standalone, early-stage venture capital firm, Toyota AI Ventures, will change its name to Toyota Ventures and grow its total assets under management to more than $500 million with the addition of two $150 million early-stage funds: the Toyota Ventures Frontier Fund and the Toyota Ventures Climate Fund."
+    publishedDateTime: 2021-06-04T07:02:00Z
+    webUrl: "https://www.greencarcongress.com/2021/06/20210604-toyotaventures.html"
     type: article
     provider:
-      name: Vault
-      domain: vault.com
-    quality: 39
-    images:
-      - url: "https://media2.vault.com/14340846/thisisengineering-raeng-64yrpkiguae-unsplash-1.jpg"
-        width: 850
-        height: 550
-        isCached: true
-  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
-    excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-06-03T12:04:00Z
-    webUrl: "https://menafn.com/1102203168/Computer-Vision-Market-Size-Revenue-Growth-Opportunities-Competitive-Analysis-Trends-and-Demand-by-2026&source=139"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2021-06/03/pr_9559_a64faf5a_image_story.jpg"
-        width: 960
-        height: 640
-        isCached: true
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 0
 
 secured: "asCVH3WNmN6QwqQLWC1Y2z1F4Kj/swXt6hyVxw2invaV9fwLToRTeOJ7g9w9/Bpi+XysIblIrdWE0TN7ZSydeDq1ESkqUr4hm2TsjUN/q76yzBkOuDdxWSKDotx67da6p3axHSpHkj9Y7dYwJ38Qt5y7fNcKy8IRZVSGAhDgTpdpyqQj8G40k5i2GyrZPPau0CzfP8zCAXi7qwKMddPNwNwVbhvAmOyBjWFGZz0ixEg98fQIY/eEfOLu4XVx1B7YOLaV1xy9GbwxBcIGCvFTphUm5Kkr01sKeXoKJuPLHDSdoH8Evl8PbAv0fp1l6ggsdEuqT0mmx8fRrqjdqxmj/Z+YvOVXpRVyR5D7/YAvdd4xcLcadXA/V20oUfOVGaY7ftRkS9hJ/ukDy5QR4mHF8MTIf/b3tMRwZrm49c5eXWczVFnjdEHFWx16iG+jJiSdbCUADq+eW0GD/zkcrs6M72eQHVFSruguVK+CYgYwbqeg+VnZbKhpea8KHINTVnP+k3QCejD3TrRlA+4DlMduNQ==;/gCjRV+8X4OMLBJht8kdxg=="
 ---

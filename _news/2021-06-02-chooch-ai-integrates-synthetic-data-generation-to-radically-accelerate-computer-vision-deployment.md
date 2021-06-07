@@ -2,17 +2,17 @@
 category: news
 title: "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment"
 excerpt: "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,"
-publishedDateTime: 2021-06-02T09:00:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment"
+publishedDateTime: 2021-06-02T14:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -38,6 +38,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "Vl3RL9EOiGRcx58qlJoCQXMmbzgxoSgkN/Aeh4d2czvpqTOZq/HTwB4QZnGOqUA6jI5bEL+MBNoJ/1gMpKYip36mZr4dmsvv1ThlVoBH+lTf0gtgaE2uenUECufXbNUjaU0CRo+ooLYyio2bbsYOgmqOwhGlJt09yVHgHf2rDCKSfuoUWrlAVbbO1OVBcSgPD4CQzclYYCxLSSxnv46NoyBCoZevnOH0PjJjyRHG4XMT3OfX5zKw5vU7g0FUSDz91RC5aJM3ycAGL8EDK6Sll9i2yFv3MvPEKB6Ae/rcLV7M6BiXDJhVIY70TY1dim9c0Ya5llKtqCYBndenDXnl9TyxWLXONfMiJL33qZ3UDmQ=;A3pjksH+ghmXRX2WDuvbYQ=="
+secured: "nv+tcG6HD/QxJoecgNoqT33j0K5P+kqNOs2zYjfM6p6A2LbuIk0CQApF9aNRQ/t9PnaG+JgNj0eT2FBkFaM29cMUMHBtB34hBKMf/8DG92F6cOONTSs7MSyRV/eFMI/SxlZL+80kpx+0whErqF6T3HQTaf+PpuKR6rqboBhH7QocmbmlUc7n7r3W/YkNNqFQzIACm6xISxmCs2oUS2zYzvo3R21M6GiB+60FSePwyZut6BN3NZ2vfjU/Ly683mz8u6onjCAxTZzhbflorQH7gtDjABZ2nrHqmICHvVhRz0ShfnnsI4NW98tsEviIIdL+zrX5Krdc9UiZj6NWpfP2nLOu2RPeUk7mevbbhhlUmNA=;T+NpCuT4MBfvqFWaE4wPlA=="
 ---
 

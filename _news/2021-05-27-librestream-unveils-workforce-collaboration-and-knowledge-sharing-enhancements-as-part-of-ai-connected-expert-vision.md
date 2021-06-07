@@ -2,14 +2,18 @@
 category: news
 title: "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision"
 excerpt: "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert vision giving industrial workers immediate access to the content,"
-publishedDateTime: 2021-05-27T12:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379360.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379360.htm"
+publishedDateTime: 2021-05-27T14:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412"
+webUrl: "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -21,6 +25,6 @@ images:
     height: 225
     isCached: true
 
-secured: "sK1L7lPRmS1+9SFjEe8kzCyTh9eZ2v+67auf5aWlNXQBh8Bt5iKV3wTTTARmAYwX/5O5Zg+y1J3jzOaBnyyug8qBgXeoVNQWoV37AwgqSj/xIUd1uPvh2QYFUGct8qnyfbUzBv9H1vjQLtu9R7sSyU+uMNZbK5JFpQaC0k53lIW1yqKnK4bswJeiMQXc3cRoHVSUxVEqvqCn4uYKi7p5BmvXZd6J2V22Y+E1ul1/D0yMzoi2pyJrBhuOK1/SxspFKY02bok8JHngsabgKv6DQEP5HG5FaAOWMQ4dd07rmpcPXqwzTaT3E1/qR3L4DCOV3VaNCTvPr6XvGV5j6FNVfcpKIFbriemsvAghobemOzM=;DsU/d+gPxaf293tX65V2dg=="
+secured: "HxelZWK5mQYBJfC3I1GeyQqynJ1BYO5J1GzBj3k/NqOBJDvP5V3tNGZ8qQuKmKuYRtwZ7Z7C1EO8yFiw19rQYr+YYenLIROpZbrO92nX2OCA91Uy+bpZJdR9HEkVMwx5YvthFQYmlox0SCyhPH632Ud1C+OviLpygbIJpoWLfdz4bm8YEsoEOU0pJPvoqhrSAcu9B79kyrBscEBhQCq000s3aG28xGImeeUyyC1P4cz5SVGXNVsIp7SCzr1qfoISFZ7yr9waml2hFFJa2BfIwEBpdpki7UBbAZuPzfyl6RUK53VzDZduJOR9HDfsR80lb7HhRmu5beNhg84LiTA9vT3ObzmensCuv3XzGEzVUZk=;9KWK7Xg+n1umlnO5/NB9dQ=="
 ---
 

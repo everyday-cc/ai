@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
-    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
-    publishedDateTime: 2021-06-02T07:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02"
+  - title: "Fintech Regulation Is Hot Topic at Pujiang Innovation Forum in Shanghai"
+    excerpt: "The rapid development of the fintech sector calls for a new set of regulatory policies that focuses on issues such as fair competition and consumer protection, according to a panel of experts and professionals invited to the fintech seminar hosted by Yicai Media Group at the 2021 Pujiang Innovation Forum yesterday."
+    publishedDateTime: 2021-06-03T07:19:00Z
+    webUrl: "https://www.yicaiglobal.com/news/fintech-regulation-is-hot-topic-at-pujiang-innovation-forum-in-shanghai"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Insights from Happenings in the Fintech Landscape - 280521"
-    excerpt: "CBDCs, digital and cryptocurrency are seemingly gaining more momentum with incumbents and government institutions as the Central Bank of Bahrain, Bank ABC and J.P. Morgan recently announced a digital"
-    publishedDateTime: 2021-06-02T12:12:00Z
-    webUrl: "https://www.proshareng.com/news/Fintech/Insights-from-Happenings-in-the-Fintech-Landscape---280521/57485"
-    type: article
-    provider:
-      name: Nigeria
-      domain: proshareng.com
-    quality: 24
-    images:
-      - url: "https://www.proshareng.com/admin/upload/news/57485-proshare.jpg"
-        width: 947
-        height: 654
-        isCached: true
-  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
-    excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-06-03T12:04:00Z
-    webUrl: "https://menafn.com/1102203168/Computer-Vision-Market-Size-Revenue-Growth-Opportunities-Competitive-Analysis-Trends-and-Demand-by-2026&source=139"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2021-06/03/pr_9559_a64faf5a_image_story.jpg"
-        width: 960
-        height: 640
+      - url: "http://img.yicaiglobal.com/cdn/news/fintech-regulation-is-hot-topic-at-pujiang-innovation-forum-in-shanghai/13845569030062080.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "MZ/QVJwaC8C30Wp+Bkx/P0OctolOPp4VigN6vCZWLqqxdK9cfTHASAPugIhtONziBQYBwgGFuO5P2lifpTuQT5AOTUctAS8ZNzmTIGoI0TVAKV3phq9ldZfdyySzGUr6JejX/ogSa+ipJuNplmtmjNzujLOgdyHwT++0AU4kyqy2rPRIlBoJI4+Lh5TBmjK/wENFHgyruOaxxXAi6fXlviOtjkeHtgJPSw/WbaGWeld+7qyBye5dkImUrgKGXJhQENM9g6vSN6dy2Fb0rJzQyKXIQkQFyOXGKFGAO2I4uIfgTq+LoCvhI1RqWvKE5TXMDZGY+qxA1aohLpMpE561RcU3hnTlGGyLtTWD8xUSYf0=;najgvxt23vPmuztPfkXy+w=="

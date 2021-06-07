@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "Mindtree has Earned the Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and delivering tailored"
-    publishedDateTime: 2021-06-02T08:01:00Z
-    webUrl: "https://www.lelezard.com/en/news-19835112.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 51
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
     publishedDateTime: 2021-06-02T15:31:00Z
