@@ -7,7 +7,7 @@ originalUrl: "https://www.jpost.com/international/ai-is-taking-over-job-hiring-b
 webUrl: "https://www.jpost.com/international/ai-is-taking-over-job-hiring-but-can-it-be-racist-analysis-670304"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can an Artificial Intelligence hiring system be biased or even racist?"
+    excerpt: "Covid has sped up the use AI software in the hiring process, as policymakers grapple with how to regulate the industry"
+    publishedDateTime: 2021-06-07T18:17:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 57
+    images:
+      - url: "https://lh3.googleusercontent.com/WaN8gH7CqEtzpGjETwm17oNWw7ZN5-Z_2ttK5R0laZNshvLfDveYGVeWsDYmKv6e1Km2yE2b64VY9N61EXjWmt3i0FO9grXGfgU=s1000"
+        width: 1000
+        height: 382
+        isCached: true
   - title: "AI is taking over job hiring, but can it be racist?"
     excerpt: "Like many job seekers around the world, Carballo’s applications are increasingly being screened by algorithms built to automatically flag attractive applicants to hiring managers. “There’s no way to apply for a job these days without being analyzed by some sort of automated system,"
     publishedDateTime: 2021-06-07T05:07:00Z

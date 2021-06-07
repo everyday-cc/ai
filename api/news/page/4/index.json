@@ -2,6 +2,247 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-03-morgan-stanley-goes-all-in-on-microsoft-azure.md",
+      "title": "Morgan Stanley goes all in on Microsoft Azure",
+      "excerpt": "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure",
+      "originalUrl": "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant.md",
+      "title": "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant",
+      "excerpt": "Facebook's AI team is moving all of its machine learning model deployment to the PyTorch framework, and standardizing on the framework for development, the company said Wednesday, during its F8 annual developer event,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "publishedDateTime": "2021-06-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-grimes-says-ai-will-give-us-communism-in-confusing-new-tiktok-video.md",
+      "title": "Grimes Says AI Will Give Us Communism in Confusing New TikTok Video",
+      "excerpt": "Grimes, the musician and romantic partner of billionaire Elon Musk, is a big believer in artificial intelligence, according to a new TikTok video she posted late Wednesday. What can AI do for humanity?",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911",
+      "originalUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/696acb23ff63a207eebfa85717e959fd.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp",
+      "publishedDateTime": "2021-06-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition.md",
+      "title": "Artificial Intelligence for conservation: Australian researchers to test koala 'facial recognition'",
+      "excerpt": "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation. The team from Griffith University is attempting to use artificial intelligence (AI) to recognise individual furry mammals when they use wildlife road crossings in Queensland state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160",
+      "originalUrl": "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/06/03/197140-untitled-design-2021-06-03t121927387.jpg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp",
+      "publishedDateTime": "2021-06-02T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-how-to-start-your-career-as-a-programmer-in-artificial-intelligence.md",
+      "title": "How to start your career as a programmer in artificial intelligence?",
+      "excerpt": "From free online courses to specialized trainings that provide the opportunity for job placement, today there are different types of learning available for you to start your career as a programmer in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373586",
+      "originalUrl": "https://www.entrepreneur.com/article/373586",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622658709-inteligencia-artificial.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373586",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373586",
+      "publishedDateTime": "2021-06-02T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-do-ai-powered-food-robots-put-human-jobs-at-risk.md",
       "title": "Do AI-powered food robots put human jobs at risk?",
       "excerpt": "Quick serve is going to the robots thanks to these new machines. Here's why humans stand a chance. Throughout the pandemic, there's been major interest in contactless, automation-driven consumer experiences in the food industry.",
@@ -540,10 +781,10 @@
     {
       "path": "_news/2021-06-02-uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace.md",
       "title": "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace",
-      "excerpt": "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition",
+      "excerpt": "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -551,13 +792,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21392407",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407",
-      "publishedDateTime": "2021-06-02T08:23:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T08:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -740,32 +981,32 @@
       "title": "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies",
       "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143",
+      "webUrl": "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T05:56:00-07:00",
+      "publishedDateTime": "2021-06-02T05:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -920,245 +1161,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-machine-learning-is-not-a-better-horse.md",
-      "title": "Machine Learning Is Not A 'Better Horse'",
-      "excerpt": "Too often, it can sound like the trucking industry views machine learning as a “better horse.” It is common to hear the idea that better, bigger data will allow the industry to better forecast prices far into the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57837b502c3222019364e8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
-      "publishedDateTime": "2021-06-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare.md",
-      "title": "Want Perfect Summer Skin? Try Proven Skincare’s AI-Based Custom Skincare",
-      "excerpt": "New skin care can be daunting. Where to start? What to buy? What will work? There are never really any guarantees. There is one brand, though, that does get as close to a guarantee as possible when it comes to skin products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b76e4c2114e78b4fba0f41%2F0x0.jpg",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/amp/",
-      "publishedDateTime": "2021-06-02T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans.md",
-      "title": "AI Challenges For The Health IT Industry: Can We Trust AI Like Humans?",
-      "excerpt": "Can we expect complete automation of medical processes in the near future, given the issues that AI systems face even in the most advanced areas of healthcare? I have touched on some of the aspects in my previous article,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b66240688fd548d87dd31b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/",
-      "publishedDateTime": "2021-06-02T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition.md",
-      "title": "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition",
-      "excerpt": "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues.md",
-      "title": "TruEra launches tool for spotting and contextualizing AI bias, other issues",
-      "excerpt": "AI startup TruEra lanched an enterprise tool for monitoring and diagnosing issues in machine learning models, including bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
-      "originalUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Monitoring-Illustration-20210601.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
-      "publishedDateTime": "2021-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

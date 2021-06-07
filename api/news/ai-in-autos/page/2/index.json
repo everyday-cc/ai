@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-at-koreamat.md",
+      "title": "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT",
+      "excerpt": "VisionNav was founded in 2016 and it is committed to applying artificial intelligence (AI), environmental perception, deep learning and servo control technologies to driverless industrial vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat",
+      "originalUrl": "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp",
+      "publishedDateTime": "2021-05-25T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-op-ed-alphabets-waymo-warns-that-describing-vehicles-as-self-driving-before-theyre-ready-can-lead-to-unsafe-driver-behavior.md",
       "title": "Op-ed: Alphabet's Waymo warns that describing vehicles as 'self-driving' before they're ready can lead to unsafe driver behavior",
       "excerpt": "Some vehicles marketed as fully self-driving actually have advanced driver-assistance systems (ADAS), which can confuse drivers, warns Waymo's safety chief.",
@@ -34,6 +77,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
+      "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
+      "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in-1030459872",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in-1030459872",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -135,49 +221,6 @@
       "provider": {
         "name": "Houston Chronicle",
         "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
-      "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
-      "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/",
-      "originalUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/amp/",
-      "publishedDateTime": "2021-05-24T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1353,49 +1396,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript.md",
-      "title": "Baidu, Inc. (BIDU) CEO Robin Li on Q1 2021 Results - Earnings Call Transcript",
-      "excerpt": "We welcome Yiping to the Baidu family and look forward to his contribution to innovate the smart EV sector. On Apollo Self Driving GAC Group joins Apollo's network of over 10 leading local and ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
-      "publishedDateTime": "2021-05-18T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

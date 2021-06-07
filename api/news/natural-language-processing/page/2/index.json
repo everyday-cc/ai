@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-23-new-olivia-rodrigo-album-sour-stakes-her-claim-to-being-the-voice-of-gen-z-raw-and-real.md",
+      "title": "New Olivia Rodrigo album 'Sour' stakes her claim to being the voice of Gen Z: Raw and real",
+      "excerpt": "Sour' succeeds largely because it feels like reading pages torn out of a diary, or spending time with a close friend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_20/3476822/210521-olivia-rodrigo-ew-438p_a020ba8b7d87be39e628a05a320d3347.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1268211",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1268211",
+      "publishedDateTime": "2021-05-22T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-understanding-transformers-the-machine-learning-model-behind-gpt-3.md",
+      "title": "Understanding Transformers, the machine learning model behind GPT-3",
+      "excerpt": "How this novel neural network architecture changes the way we analyze complex data types, and powers revolutionary models like GPT-3 and BERT.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
+      "originalUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FAI-Transformers-abstract-hed.jpg&signature=7dad3d13328b212e6fc49afed1eb2819",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-facebooks-ai-speech-recognition-no-longer-requires-human-transcriptions.md",
       "title": "Facebook’s AI Speech Recognition no longer requires human transcriptions",
       "excerpt": "Facebook's speech recognition can now learn new languages without human transcriptions, saving hours and hours of monotonous work.",
@@ -1372,92 +1468,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-ai-shows-exxonmobil-downplayed-its-role-in-climate-change.md",
-      "title": "AI Shows ExxonMobil Downplayed Its Role in Climate Change",
-      "excerpt": "According to a new paper, the company’s own research showed that human activity was a contributor, but public statements suggested otherwise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/",
-      "originalUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/609c6715518969560d194728/master/pass/business_exxon-mobil_1210615224.jpg",
-          "width": 2400,
-          "height": 1591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp",
-      "publishedDateTime": "2021-05-13T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-soniox-debuts-speech-ai-recognition-platform.md",
-      "title": "Soniox Debuts Speech AI Recognition Platform",
-      "excerpt": "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world's first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

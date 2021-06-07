@@ -2,6 +2,230 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-05-14-cruise-expects-gm-to-begin-production-of-new-driverless-vehicle-in-early-2023.md",
+      "title": "Cruise expects GM to begin production of new driverless vehicle in early 2023",
+      "excerpt": "Cruise's CEO disclosed the timing Thursday, giving the most specific time frame yet for the vehicle and commercialization of its autonomous vehicle business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319",
+          "width": 810,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "publishedDateTime": "2021-05-13T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-canadian-tech-firm-diversio-honoured-for-pioneering-work-in-ai-and-data-at-prestigious-digital-awards.md",
+      "title": "Canadian Tech Firm Diversio Honoured for Pioneering Work in AI And Data at Prestigious Digital Awards",
+      "excerpt": "Diversio is being recognized in three categories of Fast Company's 2021 World Changing Ideas Awards. As a finalist in the AI and Data category, Diversio is recognized for its work harnessing the power of data and artificial intelligence to",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19805210.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19805210.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
+      "title": "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
+      "excerpt": "Windows Virtual Desktop is a Microsoft solution that seamlessly ... consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswireindia.com/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-72975.html",
+      "originalUrl": "https://www.businesswireindia.com/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-72975.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs.md",
+      "title": "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs",
+      "excerpt": "These advanced analytics are the result of the new partnership announced in February 2021 when AWS was named the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success.md",
+      "title": "Positive Technology And The Cosmic Mission: How AI Is Helping Humans Achieve States Of High Energy And Success",
+      "excerpt": "Up until now, we have been on our own to deal with negative emotions. But there are promising indications that AI can help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d594a890b77977267fd9a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/amp/",
+      "publishedDateTime": "2021-05-13T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-intel-applied-machine-learning-to-gta-v-and-it-looks-too-real.md",
       "title": "Intel applied machine learning to GTA V, and it looks too real",
       "excerpt": "The researchers’ work centers on enhancing the realism of synthetic images – in this instance, taking Grand Theft Auto V and making it look realistic.",
@@ -901,238 +1125,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare.md",
-      "title": "The Doctor Is In: Three Predictions For The Future Of AI In Healthcare",
-      "excerpt": "They say necessity is the mother of invention — and the last year is Exhibit A. Amid the turbulence of the pandemic, we’ve seen impressive innovation across the board — but perhaps nowhere has this innovation been more pronounced than in the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c041c4c3af41613afe7d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-kpmg-unlocking-the-value-of-ai-in-industrial-manufacturing.md",
-      "title": "KPMG: Unlocking the Value of AI in Industrial Manufacturing",
-      "excerpt": "KPMG: Unlocking the Value of AI in Industrial Manufacturing Daily Story page | Is industrial manufacturing facing ‘AI-whiplash’ following its race to digitally transform amid COVID-19? KPMG’s latest report analyses this.",
-      "sourceUrl": null,
-      "webUrl": "https://manufacturingglobal.com/ai-and-automation/kpmg-unlocking-value-ai-industrial-manufacturing",
-      "originalUrl": "https://manufacturingglobal.com/ai-and-automation/kpmg-unlocking-value-ai-industrial-manufacturing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/GettyImages-1154142535.jpg?itok=9Il2d_nF",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manufacturingglobal.com",
-        "domain": "manufacturingglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-ai-powered-identity-access-management-platform-authomize-raises-16m.md",
-      "title": "AI-powered identity access management platform Authomize raises $16M",
-      "excerpt": "Cloud-based authorization startup Authomize today announced that it raised $16 million in series A funding led by Innovation Endeavors, bringing the startup’s total raised to $22 million to date. CEO and cofounder Dotan Bar Noy says that the capital will be used to support Authomize’s R&D and hiring efforts this year,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/ai-powered-identity-access-management-platform-authomize-raises-22m/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/ai-powered-identity-access-management-platform-authomize-raises-22m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/ai-powered-identity-access-management-platform-authomize-raises-22m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/ai-powered-identity-access-management-platform-authomize-raises-22m/amp/",
-      "publishedDateTime": "2021-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-rd-tax-automation-pioneer-boastai-expands-leadership-team-with-industry-heavyweights.md",
-      "title": "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights",
-      "excerpt": "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights/article_4dbdc110-68fe-5cb9-bb80-140a22c6d172.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights/article_4dbdc110-68fe-5cb9-bb80-140a22c6d172.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-driverless-buses-rolling-toward-commercial-runs.md",
-      "title": "Driverless buses rolling toward commercial runs",
-      "excerpt": "Driverless buses are currently in operation ... laser sensors and radar sensors to navigate predetermined routes. Artificial intelligence-based technologies and cameras also work together to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202105/13/WS609c7a8ea31024ad0babd8af.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202105/13/WS609c7a8ea31024ad0babd8af.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202105/13/609c7a8ea31024adbdc76cf9.jpeg",
-          "width": 474,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

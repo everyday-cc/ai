@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-al
 webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Finextra
@@ -39,6 +39,15 @@ related:
         width: 1998
         height: 1125
         isCached: true
+  - title: "Davidson startup Grocery Shopii raises $1M, partners with Microsoft"
+    excerpt: "\"We get to play in the sandbox on all different types of problems [Microsoft] is working on with existing clientele,\" said Grocery Shopii CEO and founder Katie Hotze."
+    publishedDateTime: 2021-06-07T19:27:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/news/2021/06/07/grocery-shopii-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "N0nDfitP19sOx8ehaJFq5z10u3C3VmTo13clpc+vi+D1RYEOD8NtVskG08FhZ1bvXkJAc1QA5Ejt4hoDHxfrMYPsXj4UXWM3DIlFYRtZsSU+A7mg0N4984zMlgSZ5jgjiP0HII4i7VVsBHf7Un6DlQ3e4Ji4j65ZEuRY/0nPoca8lPoMjWAxhfSzxRkkBb46kFwGJft2ofBYzLJzfR02rsVmryn4mRTgESEBoDrk3WmDPH19ZaAlwMnxUfGWnXkLj2UVFNyoohSvubVepcjTPGgiJ6fMa0CYx+7K+CoS3ffB4JkslDdpF6hKoDaECCgVrrKsIbcZZgE6nIXdrNGeZfVYIDAv1AzzP5TiUhAxah4=;/9SMrZJW0yfSbX0tUUF/+Q=="
 ---

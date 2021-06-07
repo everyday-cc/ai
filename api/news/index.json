@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-08-computer-vision-firm-grabango-raises-39m-in-new-funding.md",
+      "title": "Computer Vision Firm Grabango Raises $39M in New Funding",
+      "excerpt": "The technology that allows retail stores to offer checkout-free shopping is coming to 4 additional Giant Eagle outlets this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/Grabango-GetGo-Checkout-CloseUp_1598964895_1623092600.jpg?L1Ub1ks4_v8DcUa4pkshmYjDGsptMGr.",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "publishedDateTime": "2021-06-07T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winsight Grocery Business",
+        "domain": "winsightgrocerybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-apple-moves-siris-speech-recognition-offline-with-new-privacy-updates.md",
+      "title": "Apple moves Siri's speech recognition offline with new privacy updates",
+      "excerpt": "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. In the Mail app, Apple is adding a new feature to prevent tracking pixels from functioning. “Mail Privacy Protection” will hide users’ IP address and location details from email senders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html",
+      "originalUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-06%2Fe3749d40-c7c4-11eb-bffb-fade1bdbf2cb&thumbnail=675%2C&client=49kdj93ncb8s938hkdo&signature=b2d8bd8c9dd223c262d6290d33a3cc65d8386f9b",
+          "width": 675,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist.md",
+      "title": "Can an Artificial Intelligence hiring system be biased or even racist?",
+      "excerpt": "Covid has sped up the use AI software in the hiring process, as policymakers grapple with how to regulate the industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeslive.co.za/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/",
+      "originalUrl": "https://www.timeslive.co.za/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/WaN8gH7CqEtzpGjETwm17oNWw7ZN5-Z_2ttK5R0laZNshvLfDveYGVeWsDYmKv6e1Km2yE2b64VY9N61EXjWmt3i0FO9grXGfgU=s1000",
+          "width": 1000,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timeslive.co.za/amp/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/",
+      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/",
+      "publishedDateTime": "2021-06-07T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times LIVE",
+        "domain": "timeslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-alphabets-googl-waymo-brings-waymo-one-to-maps-app.md",
       "title": "Alphabet's (GOOGL) Waymo Brings Waymo One to Maps App",
       "excerpt": "Waymo recently teamed up with Google’s Maps,which is a testament to the aforesaid fact. The intention behind the partnership is to ensure a seamless booking experience for Waymo’s autonomous ride-hailing service called Waymo One.",
@@ -1053,153 +1190,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time.md",
-      "title": "Neuromorphic Chip: Artificial Neurons Recognize Biosignals in Real Time",
-      "excerpt": "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
-      "originalUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg",
-          "width": 777,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
-      "publishedDateTime": "2021-06-04T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-deepak-chopra-plans-to-live-forever-through-ai-heres-how.md",
-      "title": "Deepak Chopra Plans To Live Forever Through AI, Here’s How",
-      "excerpt": "Before the pandemic, meditation guru Deepak Chopra uploaded his \"consciousness\" to the AI Foundation to ensure he could talk to future generations. Virgin Galactic's Richard Branson, Twitter's Biz Stone and VC Cyan Bannister did the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6e6837ba5cf2396ba0f41%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D53%26cropY2%3D593",
-          "width": 959,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/amp/",
-      "publishedDateTime": "2021-06-04T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said.md",
-      "title": "Self-Driving Cars Could Be Decades Away, No Matter What Elon Musk Said",
-      "excerpt": "Experts aren’t sure when, if ever, we’ll have truly autonomous vehicles that can drive anywhere without help. First, AI will need to get a lot smarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-348105/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
-      "publishedDateTime": "2021-06-04T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

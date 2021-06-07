@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wionews.com/trending/artificial-intelligence-for-conserv
 cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp"
 type: article
 quality: 60
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622837168/GettyImages-1062889184.jpg"
         width: 814
         height: 458
+        isCached: true
+  - title: "Facial Recognition Market to Witness Increase in Revenues by 2025"
+    excerpt: "Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation of facial recognition software and sensors in top end smartphones of all major companies."
+    publishedDateTime: 2021-06-07T19:39:00Z
+    webUrl: "https://www.pr-inside.com/facial-recognition-market-to-witness-increase-in-revenues-by-r4833762.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 39
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
     excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"

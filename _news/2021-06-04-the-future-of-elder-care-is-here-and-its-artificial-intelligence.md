@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/elder-care-artificia
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/elder-care-artificial-intelligence-software"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and the Future for Smart Homes"
-    excerpt: "The computer revolution has changed our lives massively in the last 50 years, and it''s not looking like it will stop anytime soon. In the last few years, we''ve seen everything from self-driving cars to text messages that can read your mind."
-    publishedDateTime: 2021-06-03T20:03:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2021/06/03/449024-artificial-intelligence-the-future-smart-homes.htm"
+  - title: "The Future of AI in Law: Changing the Legal Landscape"
+    excerpt: "Artificial intelligence (AI) is one of the fastest-growing technological industries today, but what effects will it have on legal practices? In addition to the growing number of legal questions that a"
+    publishedDateTime: 2021-06-07T18:51:00Z
+    webUrl: "https://www.natlawreview.com/article/future-ai-law-changing-legal-landscape"
+    ampWebUrl: "https://www.natlawreview.com/article/future-ai-law-changing-legal-landscape?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/future-ai-law-changing-legal-landscape?amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 59
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/0856353907-smart-home-3574545_960_720.jpg"
-        width: 960
-        height: 640
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "OikuTwnNG15hrArbs9VGDeOLAEpPC8VNaOGUz6Wku5xyGITVel9Jl/FBWaE4Ojq9llKt5wk2FXuFoQxlfgyc23e5KGrIdRYpqS78/ikEd5tDy7neZxTKwiTUzT+O9uA6lhWUcQp3LBYmaXsAgvwoo3KCFonmtVQgxXo54JUIjnnLQHS2sadLf50wI0xalAoG0h24kw0hAOCxOdBil4Qu8700cQ8AG8a4zyKjY6Wp8cHciHwEhxiZmOwYDRjt+DnYDUNlwJzcX7D7KLdhAGMhOWKQU0THVlkZzLEIKP3TuK2bewl3JI/erjajkJae0Nk7tVDfRxDFj3k2Q8IisW92y+LrM/dObSPSDG1wDmhIPHvnfrUNmzVZRatfv8jgOPucIe0Ah9qJQJfRStKS0AqoJ5T4mF9eoOkbEfBxtyTR4crSZM3b8oVQthbARfkUS484jLjrThSLdyoE3BaS5WCkahonkiDaW1ri3JQ641SnSw7LEHASWxxBLmPnNh/QZyljJ1PnzgtwJ5uuwD/Hfjn5Lg==;lX83ks83ZzBaSfdGKMauEg=="

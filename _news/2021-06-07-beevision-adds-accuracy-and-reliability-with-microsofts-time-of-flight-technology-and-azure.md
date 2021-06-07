@@ -39,6 +39,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Davidson startup Grocery Shopii raises $1M, partners with Microsoft"
+    excerpt: "\"We get to play in the sandbox on all different types of problems [Microsoft] is working on with existing clientele,\" said Grocery Shopii CEO and founder Katie Hotze."
+    publishedDateTime: 2021-06-07T19:27:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/news/2021/06/07/grocery-shopii-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "0szW9CX8L0rsjX/DxAyMwu2fO0kVwtmthqjCGdQ0nOpiRkOzvxpilGGTG6CdeMhbqx7BN3ApKHP/qUlYWnrq0ahkLeHTBrECMR/SxPZx7cD9cx1/0o7OXU6KHCXoxQa8zNYuzCuTfIWeEjERLpzoZijRflPrwwFmuqhMZtNIkCddcROBhstuIe2bt+bRo8LOq2fyyfld0/OS5TTVd3KE9Yhrp9T/tv7cPLFokkvK9HzX2bkUtaqM+PPMPc7YqVpSIodCNXVGG7cxE0GW1a87BLz+RnInc5Z0I44Y56v/VXaukwESNOKNcYxN46elTIDNxmqygXXWeIrpWvhH1qhLqhN5pc11ZeqUkxCNnd3I/7M=;7a8tjkQj+8FoH94vRu2XFg=="
 ---

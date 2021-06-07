@@ -75,6 +75,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Biden admin reportedly using controversial facial recognition on migrants"
+    excerpt: "The Biden administration is embracing controversial facial recognition technology and other intrusive surveillance tools to process the backlog of thousands of migrants at the US-Mexico border,"
+    publishedDateTime: 2021-06-07T18:15:00Z
+    webUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/"
+    ampWebUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 58
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/cbp-app.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "King County ban on police use of facial recognition software spotlights local movements across US"
     excerpt: "As federal legislation on law enforcement's use of facial recognition software stalls, dozens of cities and counties are taking measures into their own hands."
     publishedDateTime: 2021-06-04T05:00:00Z
@@ -130,20 +146,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Delivering on Digital Government: Achieving the Promise of Artificial Intelligence"
-    excerpt: "In an era of rapid technological change and nearly limitless possibilities, artificial intelligence (AI) and machine learning stand out for their potential to transform our society. Private sector adoption across retail,"
-    publishedDateTime: 2021-06-03T02:22:00Z
-    webUrl: "https://www.nextgov.com/assets/delivering-digital-government-artificial-intelligence.pdf"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 33
-    images:
-      - url: "https://cdn.nextgov.com/media/screen_shot_2021-05-20_at_11.12.15_am.png"
-        width: 1022
-        height: 1328
-        isCached: true
   - title: "Human and civil rights groups call for ban on police facial recognition technology"
     excerpt: "A large coalition of advocacy groups focused on civil and human rights are pushing to ban the police from using facial recognition technology that they say could create an Orwellian surveillance state."
     publishedDateTime: 2021-06-03T21:51:00Z
@@ -193,6 +195,6 @@ related:
       domain: detroitnews.com
     quality: 17
 
-secured: "btw6Iv6gRsPlsPVMYejxqDYPpMsUzcb6MYnC2QqxOrRaMfXGJQQhu4rk1lz+3itXxdL+6bTPL2O8WLQeGbom3u1/WWSRHcbvRsz4KEgNavkrSpfKTgjicTeIrL2juKAEyO4Oa8GxvayWqSml+jCkbaEWPy69v57359/Sd1hsJrye4E/NcGDbMYaoDjxr5+TiLETupbsUjATmN9n0zzlnEVzikPTOG2CY/ZppizaHbWwlEEzkU+/4tp9SJ/A9PQKt3BBBQGmUAFBKNi6StNiwgJTVMTm1SsmvcYmiJZt3Zv51XTQGfJ0HZ+6y7giYOp8Cz1b6Xm7OsQxdcnddaMY+8cmoXDZeZk0/ysFAejcOI70=;6tp/hboJQ+AFfrdYYBD7AQ=="
+secured: "MJHeQx0bYXM/S+dGPs44H1ASHE9Mle+PvfiotqixP4G1Ki4vhCmimnuL8egTREHlM35IIqM7prp9B5lgKf8FW/tdbbQha8RGwfYstvJmDoSszonernpCLvqryAhqhGYUVPyebsicBY545tIpHnFMaRL/zUz5O9HJ02sn4mwE+eYKjLP9fvXbtgu4cLB0uhyaSKjc9Sl6Q7jx+32+8T0KmLNSMQ/L19GTcaQYN8IJ+uC8KFyveMfM5luEnVxcqImlyM9tik5B58x5JMaaLMvk8JKSj/opvr6er5hc5R4dXosPW5BS96J4MdHfsNeD78WF0ScMhABIP0/wvgK9p0UiAwANEMClHnl0gtgAn86cUhEm1B7Gzw1YrgnwgmSioIAiA78GhBT7ujmTkiFBjoBm3v4rF5qpOoLThoMDRJgfXIiXz56gWI3ixGtTcRM341DqMOBnOPqodMIB9L5clsRsGOk0ONmYiDHp75ie7gZjqX7dTsOOwk2M/OPPTJp0saF7TbypctjouUvUyW6kIE04kw==;XhVOyVSN98ZV8vpSNHlOow=="
 ---
 

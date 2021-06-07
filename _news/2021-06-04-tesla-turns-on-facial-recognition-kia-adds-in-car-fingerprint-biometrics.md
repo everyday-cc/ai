@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recog
 webUrl: "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Biometric Companies
@@ -40,6 +40,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
         width: 768
         height: 513
+        isCached: true
+  - title: "Federal US bill to ban law enforcement face biometrics ‘coming soon’"
+    excerpt: "The Facial Recognition and Biometric Technology Moratorium act will soon be reintroduced, as EPIC and the Washington Post add voices to calls for a federal ban."
+    publishedDateTime: 2021-06-07T18:57:00Z
+    webUrl: "https://www.biometricupdate.com/202106/federal-us-bill-to-ban-law-enforcement-face-biometrics-coming-soon"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
         isCached: true
 
 secured: "jPuk9EZCSIFwhg5sfytO9cV7drhVby9zMeNjHmzwaQFLvEwiBT7mAj+0FeEGpd+QWNa5ZYjQiMUHuieAHXUCf9s1Leh5Q3GxZuja1sNo52YgVtCCFtewvFvnIlG2qMK0HXwNgNNGF0T7JAQQdmdo1A3ZbHbLwyXfCB3iu3jBdK3TPl+JqszpYcIkoeLy+U8M6Cq6etk1RYpkhbGheuUroT8TZvTnIZpTxRrwJcEsR/9sErSVcciARtEZsQbUFLgSbFTT7+2iwoPkOE9HFbuLZ60R38pk24gwkjQrTA7OaWWo4oX4NFAVlGRycEApQJMsJ/vnZ5QTwJj4/0Zp4xMmtF4lRxWqjwiS1foyojBYIEkRX7Nvl7MS5h4Vq5uPlbJCoSguxuK4Dh4KYI/C99qzB7IZkNj+YzFIRRauHaZV3ksghyV2ActNDD4NPg36ofy1jn49ec193jf6X6X8fv2LucmdJaCFCnzFmNzPKJk0kphovxhs+uovZ25kIM/sPcmoqudGlmfLQm7pobXJB6SeKQ==;FIXatKocXgpx/NkHmQkEfQ=="

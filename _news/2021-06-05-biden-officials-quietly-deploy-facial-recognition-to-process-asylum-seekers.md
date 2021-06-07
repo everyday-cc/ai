@@ -73,6 +73,20 @@ related:
         width: 814
         height: 458
         isCached: true
+  - title: "Facial Recognition Market to Witness Increase in Revenues by 2025"
+    excerpt: "Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation of facial recognition software and sensors in top end smartphones of all major companies."
+    publishedDateTime: 2021-06-07T19:39:00Z
+    webUrl: "https://www.pr-inside.com/facial-recognition-market-to-witness-increase-in-revenues-by-r4833762.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 39
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
     excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
     publishedDateTime: 2021-06-06T21:45:00Z

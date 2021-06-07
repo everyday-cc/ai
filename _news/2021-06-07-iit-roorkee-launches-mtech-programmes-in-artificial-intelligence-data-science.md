@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-07T16:57:00Z
 originalUrl: "https://www.ndtv.com/education/iit-roorkee-launches-mtech-programmes-in-artificial-intelligence-data-science"
 webUrl: "https://www.ndtv.com/education/iit-roorkee-launches-mtech-programmes-in-artificial-intelligence-data-science"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cache.careers360.mobi/media/article_images/2021/6/7/iit-roorkee-1.jpeg"
@@ -57,6 +58,6 @@ related:
         height: 667
         isCached: true
 
-secured: "tIj7ukpSzdWGHreQK7XrjE1jYlyJT+xruXKDJSb2wW4z0jz/Jqg7AFAnLU2Dst18pF34IltyDoFeArQi/8+3X6ibnfbCA32RXXWXkuG6olE0SbL3x2iV1DlGe/5+3ROoUB4eaVZCpJ+7PVdJjAjMggTlezud2hNKnoN8W+fzJe3NOoifh+7XSIMJviSgVaGU9kcXXqA5xrMxbbhK2kaxWnHlYnrI1NMdxWbM4fuzDS8Swq4xj79g6HRmgcVqPLSW1TShfNahmolJqlJo3XhqjCcaM/68TbnpbyOgHtE/V2YoO9iZaVgCCzelF2FWl2zIQr3AT37at06BLTUC7hh0yhits2HBf8JC6emJNX/KCwA=;ZrdTEJHDVk1tjdgL0iDJwg=="
+secured: "bUOw96B6otre8Xngv0LIF+X05M/Z5AKVtR0G8hpKpZyhWiNcp4oxYBJOvOqu4gzp0RiFfgD3yl4DZqdV7UC4nsmI6j0972u6QAfh7lCCl0IuAvCpE5r7fH5MVnClvuvWovgFPqps4kSSMv5Bfvcp7T64TqT+hmX8JR3MbKMMAdkC4seSI77iStPyd6KEoiO+ZK94XT5xpYxbHwa52j3Asr1bA/2/mfUDoJsWRQiGZkK76kgfILeZoLSphidxzGGMbASLiNW5xay0KEZa17hVK73xeMuxVMB3iiLHqrJ87D34hDUfkbqSORHuag8zn/haeyI/vnlaM6SNVbDYs8AtoQvibYtH0Oi0TUyUY62xfBMHN+iQQb5atfDOmyi0oQ6A629fgKNKwSyUg4X/tTnwT5c91OTOfXizHpAbrCCARqYhv20/rfZYSXQWEIT5EWjyyREKzW8DRMuajjZSf1KdipIQRggiqSiQqKfFeSKIfAWp9r3rntg+gDRkk9Fk/tW1bDijLDt4PTOjJO4tGKKhig==;7FuYFFiI0Dtn3XuAK2bGQQ=="
 ---
 
