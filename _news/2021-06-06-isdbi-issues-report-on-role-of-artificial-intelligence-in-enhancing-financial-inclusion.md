@@ -23,6 +23,22 @@ images:
     height: 612
     isCached: true
 
+related:
+  - title: "IsDBI issues Report on Role of Artificial Intelligence in Enhancing Financial Inclusion"
+    excerpt: "The Islamic Development Bank Institute (IsDBI) (www.ISDB.org) has published a new report highlighting how Islamic finance and artificial intelligence can enhance financial inclusion. Entitled “Artificial Intelligence and Islamic Finance: A Catalyst for ..."
+    publishedDateTime: 2021-06-07T07:03:00Z
+    webUrl: "https://www.cnbcafrica.com/2021/isdbi-issues-report-on-role-of-artificial-intelligence-in-enhancing-financial-inclusion/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 29
+    images:
+      - url: "https://cms.cnbcafrica.com/wp-content/uploads/2020/07/1200px-CNBC_Africa.svg_.png"
+        width: 1200
+        height: 1112
+        isCached: true
+
 secured: "qVUAbEhoWuXDKQhV577Br8pkO35y56W8cDbfs1N5Zw/3tvyrr2IWABALwnSLH24haqjwGiurlL+ygdfzlUOq8mhZz8vWzyi+VpWgtKABNsoReRodQeOj0udXL8jfoTE4hci+QNDuu8wDuBCyxUs3ZbPAdNLF0UVn1pM27YbqbWyoXo/xXzAk/VkZUnUr2RV1Cv9qW5lsaVtQTOBAR5uzlXvV1A/4BW5zwKImEzWiHeU1nKyJM76czWpa5xnGXxyacnxlydMyPppwLeZzlp37zSd1+asFvIKFjAUKHCgpA7xpoGfkJcFgI4Yy+O6jL9tNGR3R63MeLvDKJ0v5djYtsX3IitQyLTq8EY4Ivu7P8ZM=;vaVVW8gNJ9oq0nIefa1Eug=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.airforce-technology.com/features/face-recognition-is-j
 webUrl: "https://www.airforce-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
 type: article
 quality: 73
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
+    excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
+    publishedDateTime: 2021-06-07T07:08:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 22
   - title: "Meicam Co., Ltd. won the first prize of the “Broadcast, TV and Network Audiovisual Artificial Intelligence Application Innovation Competition”"
     excerpt: "The State Administration of Radio Film and Television of China (SARFT) held the first “Broadcast, TV and Network Audiovisual Artificial Intelligence Application Innovation Competition (MediaAIAC)” to announce the list of winners."
     publishedDateTime: 2021-06-03T17:54:00Z

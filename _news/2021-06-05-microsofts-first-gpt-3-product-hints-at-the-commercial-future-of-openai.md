@@ -46,19 +46,19 @@ related:
         width: 1200
         height: 662
         isCached: true
-  - title: "Microsoft acquires ReFirm Labs to enhance its Azure Defender for IoT platform"
-    excerpt: "Microsoft will integrate ReFirm Labs' firmware analysis technology into the company's existing IoT security platform, offering customers an all-in-one, cloud-based security solution."
-    publishedDateTime: 2021-06-02T14:16:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-acquires-refirm-labs-to-enhance-its-azure-defender-for-iot-platform/"
+  - title: "NSW Police runs AI over evidence using Microsoft Azure"
+    excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
+    publishedDateTime: 2021-06-07T05:54:00Z
+    webUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 81
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 69
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1622654517_microsoft-refirm-labs_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
     excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"

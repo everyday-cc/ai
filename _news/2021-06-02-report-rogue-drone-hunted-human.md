@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Education and Learning Analytics Market Report 2021-2027"
-    excerpt: "The \"Education and Learning Analytics Market by Component, Deployment, Applications (Acquisition and Retention,"
-    publishedDateTime: 2021-06-03T08:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21403802/global-education-and-learning-analytics-market-report-2021-2027"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21403802"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21403802"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
   - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
     excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
     publishedDateTime: 2021-06-03T12:04:00Z

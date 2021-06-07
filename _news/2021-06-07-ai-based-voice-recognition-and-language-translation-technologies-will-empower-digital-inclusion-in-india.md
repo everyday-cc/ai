@@ -1,33 +1,24 @@
 ---
 category: news
-title: "Inside the $5 Million Competition Defining the Future of Artificial Intelligence"
-excerpt: "Time to hit pause on those dystopian, Terminator-esque visions of the future. AI for Good is here, and it’s helping us rescue victims of human trafficking, defeat depression, and end malaria. In the words of our machine friends (not overlords!"
-publishedDateTime: 2021-06-03T16:25:00Z
-originalUrl: "https://www.wired.com/sponsored/story/inside-the-dollar5-million-competition-defining-the-future-of-artificial-intelligence/"
-webUrl: "https://www.wired.com/sponsored/story/inside-the-dollar5-million-competition-defining-the-future-of-artificial-intelligence/"
+title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
+excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
+publishedDateTime: 2021-06-07T07:08:00Z
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
 type: article
-quality: 66
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India Times
+  domain: indiatimes.com
 
 topics:
-  - IBM AI
+  - Natural Language Processing
   - AI
-  - AI Ethics
-
-images:
-  - url: "https://media.wired.com/photos/60b6ad1d41e613255aec163b/master/w_2560%2Cc_limit/Untitled-1.png"
-    width: 1366
-    height: 768
-    isCached: true
 
 related:
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
@@ -58,17 +49,20 @@ related:
         width: 2121
         height: 1193
         isCached: true
-  - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
-    excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
-    publishedDateTime: 2021-06-07T07:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+  - title: "Inside the $5 Million Competition Defining the Future of Artificial Intelligence"
+    excerpt: "Time to hit pause on those dystopian, Terminator-esque visions of the future. AI for Good is here, and it’s helping us rescue victims of human trafficking, defeat depression, and end malaria. In the words of our machine friends (not overlords!"
+    publishedDateTime: 2021-06-03T16:25:00Z
+    webUrl: "https://www.wired.com/sponsored/story/inside-the-dollar5-million-competition-defining-the-future-of-artificial-intelligence/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 22
+      name: Wired
+      domain: wired.com
+    quality: 66
+    images:
+      - url: "https://media.wired.com/photos/60b6ad1d41e613255aec163b/master/w_2560%2Cc_limit/Untitled-1.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Meicam Co., Ltd. won the first prize of the “Broadcast, TV and Network Audiovisual Artificial Intelligence Application Innovation Competition”"
     excerpt: "The State Administration of Radio Film and Television of China (SARFT) held the first “Broadcast, TV and Network Audiovisual Artificial Intelligence Application Innovation Competition (MediaAIAC)” to announce the list of winners."
     publishedDateTime: 2021-06-03T17:54:00Z
@@ -84,6 +78,6 @@ related:
         height: 421
         isCached: true
 
-secured: "+BeM4oMrQKM66TjFR6klJPswIA6ACIbiAfDj+PokbV8C4VXtMu88XCEg3xd9K/Nr0/45pwhhGS0ijUa4j7CIRIDRE3+66SPII0szGXdb034q6wEzf0oi58Qrr9jUEp4qVl4EOyP3kD17qQNt7JNimevEdJfSEz0m37alf5Zr//KAV++rscSe+7sfRDsZQYE2biXu8lk6atWpQu3F9msiVuDNoDTEdQIdYUBWvUZzrMqsXc+GbrDRne+6o/ZwFyZ2EuHCCcRjmeTTwNcyCeypkdLR+PixDCjfg/R74MG1bvDp0BQHAgzCX4TbXEmMYmczW7uRDBmcJm5tEwXm3rKd8OOFC24aEB6qvEL7/+cb7PaGgtQcUiGtndX2m9jtkNW6nVv6ZVjE31VYYheW0WuzMkM5uKF+tg6AVqS/PiQI6VfjfUls+lxU32BsgApqFtH6bkHDMRnXg7SB01NFni8Y3kLyIde8UbBOnCWGist/40myaPpK7EsEQggUWbxrAYhRyyESPxs1whB19/a/lqtRQQ==;9H4Lu8zCC5indi57ggdMVA=="
+secured: "i7pI2aosdqG86p/0J/4W/kF1j+2R0DWun2xUpaJveZDgAQems4wG99X83xR01ppy2qJyXhmiJQUvRAjuIXRSVHe5OfN0SJNbiPNQ0uy7GnHoRiX4K7fQb7GUAdr5C9v9nwvOMiZ8yeaXTnecu28x3KkCAeHwki5kxU8DreA1Ty1RUqF3WaWQ5bii1vxa0HekEbnvds92aDhuwR5bFrF2uYGZltsIsGfmVpC5Yu3R4LSYXescar5IFHlQ0QHm69KObAJG6QcJG0w7EwymQ5LYc+nBSGFVpM161023aBK7WftWVpZWFCTiaw/xDNA/0DM7jxbiQCl61p4kMbJSLy8Oy2w4OnnsczObH7kxiz2htLI=;EKAspu7SKR+YYstKP5fT4w=="
 ---
 

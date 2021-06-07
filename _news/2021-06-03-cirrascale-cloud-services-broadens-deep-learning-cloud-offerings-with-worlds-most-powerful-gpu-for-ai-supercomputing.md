@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cirra
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cirrascale-cloud-services-broadens-deep-learning-cloud-offerings-with-worlds-most-powerful-gpu-for-ai/article_ab9710e0-a4c8-5315-bff6-bf45fef734c6.html"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Microsoft Azure launches new Nvidia A100-powered supercomputing instances"
-    excerpt: "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads."
-    publishedDateTime: 2021-06-02T13:29:00Z
-    webUrl: "https://www.techradar.com/uk/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 103
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "YYYwUk7UV5KbxYjJEoxK0JGohVPz6fSKpMzpIcnfb8DxX7gCht2rGHrlbay29cytevsZweYoRETZ9JZkvjg+tMBIp+eNlXYFsO7c06ZhoNSxxO1TufHYbmW6aIs8E03Ogc8YeZOJ3+B+spnrAjNYCLmkLQhQZMX37zfzE1/Xi/Q1gQ0SGeZkkPZgcVm41xn+Rng36buZJ4W4SpsZZTrs1RrCb90oLs/3+dcrN01M/+G9RtSJFA9OIIO/VDBbg30pnQ4i6Vd14k8SC1t1jqXqRu1f7xRzQJNfRQnW5+OnxoFu2yrfgjqFGidREqAQAF70klkXeTy+yFsyAURgetkbsSYSCzneEJ4JZQH/by5un8k=;e2nKCHC7CXrTy8BqV8ekdQ=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
-publishedDateTime: 2021-06-03T10:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
+title: "NSW Police runs AI over evidence using Microsoft Azure"
+excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
+publishedDateTime: 2021-06-07T05:54:00Z
+originalUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
+webUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
 type: article
-quality: 34
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: IT News For Australia Business
+  domain: itnews.com.au
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+    width: 1400
+    height: 900
+    isCached: true
 
 related:
   - title: "From low code to no code: Azure GPT-3 and Microsoft's Power Platform"
@@ -49,21 +55,16 @@ related:
         width: 696
         height: 375
         isCached: true
-  - title: "NSW Police runs AI over evidence using Microsoft Azure"
-    excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
-    publishedDateTime: 2021-06-07T05:54:00Z
-    webUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
+  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
+    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
+    publishedDateTime: 2021-06-03T10:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 69
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
-        width: 1400
-        height: 900
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
-secured: "BQ1yVRixr0vW6h333Fy0xsYhDxyE5f0w0HG4M+kC3TJfjCqDjWZ2lgEQYOVU9E5ijL8L5TkqWafDZPoaTRnAmNM8n8GshS6FDONHcMJZxj2Esc+HfA/rt/YYI/OI/Wi1TJC86RWKOG41EDZHfo5ei5pCGBLT8UhvyNWgfv5C9RDgynhYRNuMkTXzR8eAsxT7qMzs5szfosh/coWUKEWuOHBKLwynRMecgDyIMi2BFZjJxlPp7ryNAk26Bbhj/vo1Na6MzrgOQOs2xQuudpHUiZg2Ax9X8eFt3ziozc50y/P8yg0UxVEREZzgjKvcsMKtYtXV+E3cX5aKVjv/HbxFPbvh4yzEGJ0z4+owyRRq6fc=;SjEK4/uj+nJ/oXQnLH51NA=="
+secured: "YaQ0nX/EXarI+OKiOxzEc/3TDY5UThbkjbyS4lVZCFsbH6DYrN3TvmW6BnxstdRx1VIjpnyK5Tw1kJ2t/NevngNFquqlWvYmzXqzvYYnoSb+pB+BPTK/UuNuPbjmr1CMAF7jJ2nuR8P9+s09DnQevJnfnrHR7Ny09hXdfZxeZcRi7PopqDvD9QMds8zGIYC1XaJ9e14wT9huF/3vRL1S+BJsNZmWwsExUYRwXw7ZhVC3J9f6F1p7LXouSTSo/DvWJqgRB6f9uuF+aveFYmECpDHDMR6nm+ApryLsQ+zYk+LfKC7bsXqTZw7AdNaMyCiSEHDju+DJol71Plfus8wKzCBkC4PptH4i9NVncdWSXwA=;IIC8skp3nSHg+PyitpSfow=="
 ---
 

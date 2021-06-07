@@ -22,57 +22,31 @@ topics:
   - AI in Education
 
 related:
-  - title: "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the"
-    publishedDateTime: 2021-06-02T17:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02"
+  - title: "How Does AI Perform Crypto-Analytics?"
+    excerpt: "AI has also brought itself into the game of cryptocurrencies by introducing AI coins initially. Today it has also stepped Crypto-Analytics."
+    publishedDateTime: 2021-06-07T06:46:00Z
+    webUrl: "https://fossbytes.com/how-ai-perform-crypto-analytics/"
+    ampWebUrl: "https://fossbytes.com/how-ai-perform-crypto-analytics/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-ai-perform-crypto-analytics/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://fossbytes.com/wp-content/uploads/2021/06/AI-1.jpeg"
         width: 1200
-        height: 630
+        height: 725
         isCached: true
-  - title: "Report: Rogue Drone Hunted Human"
-    excerpt: "New Scientist says that there is evidence a weaponized drone went on a rogue mission last year where it hunted a human target without being instructed to do so. The publication cites a UN report and says the details suggest a Kargu-2 quadcopter was being used in fully autonomous mode during a conflict in Libya in March of last year when the device pursued a soldier that was trying to retreat."
-    publishedDateTime: 2021-06-02T15:14:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21452491/report-rogue-drone-hunted-human"
+  - title: "SucSEED bats with Str8bat - an IOT AI Solution for actionable Sports Analytics"
+    excerpt: "SucSEED bats with Str8bat; SucSEED teams up with Str8bat; SucSEED Angel Network (SAN) backs Str8bat ; Str8bat, an IoT solution, that sits on sports equipment and backed with AI, g"
+    publishedDateTime: 2021-06-03T07:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sucseed-bats-with-str8bat-an-iot-ai-solution-/2021/06/03/9382928.htm"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/MM_227_Thumb.60b79f707bda9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
-    excerpt: "According to the latest report by IMARC Group Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026, The global computer vision market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-06-03T12:04:00Z
-    webUrl: "https://menafn.com/1102203168/Computer-Vision-Market-Size-Revenue-Growth-Opportunities-Competitive-Analysis-Trends-and-Demand-by-2026&source=139"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2021-06/03/pr_9559_a64faf5a_image_story.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "Worldwide Web Hosting Services Industry to 2027 - Artificial Intelligence in Web Hosting Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The \"Web Hosting Services Market by Type, Deployment Model, Application and End User: Global Opportunity Analysis and Industry Forecast, 2020-2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-06-03T10:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210603005450/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "cZUGH1HauaiFzWhR9wj1MYAeo9PwHO6SSJ+f7wEcXCEeRDhOKBhgfCZrKJeQwNnj8JJy7ehmUTXKL6BxTarCUEg3unTEjlmnuzl1Ry1VmzNg0KhKalXwDFzGrmQhE8Mtf5KpXENoFQBdElrtUpDVvJvAvxaO8U0v2/q4q3CG6c9YLmqRzjZb5pDeLaDGSe//8XCdfjZZkm5jOWJhvC3Bn851kgi0KY7mFVcsjEml6Gn5VMjYiDUuzfkDdSNFS786JY5lcR9cgoH68FezrNFxPF7JDQSvkzhqJrSH6nrHhwKVKT9ckj0kJwmRy7nWj8FPSaYmrxa4j/W5nFc06hNbuRoLfL5S/deBR0vkD0mrMkc=;483yiQYYFaUyFOlDUihcIQ=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 600
         height: 529
         isCached: true
-  - title: "Unicorns as solution provider: From fintech and pharma to green energy"
-    excerpt: "From fintech and pharma to green energy - As the world was returning to a normal lifestyle, after the first wave of the pandemic, the ferocious"
-    publishedDateTime: 2021-06-02T13:25:00Z
-    webUrl: "https://www.siliconindia.com/news/business/unicorns-as-solution-provider-from-fintech-and-pharma-to-green-energy-nid-216210-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/4xap5h62.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "MZ/QVJwaC8C30Wp+Bkx/P0OctolOPp4VigN6vCZWLqqxdK9cfTHASAPugIhtONziBQYBwgGFuO5P2lifpTuQT5AOTUctAS8ZNzmTIGoI0TVAKV3phq9ldZfdyySzGUr6JejX/ogSa+ipJuNplmtmjNzujLOgdyHwT++0AU4kyqy2rPRIlBoJI4+Lh5TBmjK/wENFHgyruOaxxXAi6fXlviOtjkeHtgJPSw/WbaGWeld+7qyBye5dkImUrgKGXJhQENM9g6vSN6dy2Fb0rJzQyKXIQkQFyOXGKFGAO2I4uIfgTq+LoCvhI1RqWvKE5TXMDZGY+qxA1aohLpMpE561RcU3hnTlGGyLtTWD8xUSYf0=;najgvxt23vPmuztPfkXy+w=="
 ---

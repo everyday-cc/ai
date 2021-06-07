@@ -7,7 +7,7 @@ originalUrl: "https://www.evaluationengineering.com/industries/mil-aero/article/
 webUrl: "https://www.evaluationengineering.com/industries/mil-aero/article/21225206/army-advances-ai-with-research-at-umd"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Think pet, not threat with Artificial Intelligence"
-    excerpt: "Intelligent machines will play a much larger role in the future than they do now, and we’re trying to imagine that future as we’re racing toward it. Some people envision things straight out of a Black Mirror episode with terrifying killer robots,"
-    publishedDateTime: 2021-06-02T13:58:00Z
-    webUrl: "https://whyy.org/episodes/think-pet-not-threat-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: WHYY
-      domain: whyy.org
-    quality: 39
-    images:
-      - url: "https://whyy.org/wp-content/uploads/91FM/schedulelogos/1a.jpg"
-        width: 370
-        height: 370
-        isCached: true
   - title: "Army Advances AI with Research at UMD"
     excerpt: "A collaborative research agreement between the University of Maryland and DEVCOM seeks to accelerate the development of AI technology for autonomous vehicles and robots for critical missions."
     publishedDateTime: 2021-06-02T15:34:00Z

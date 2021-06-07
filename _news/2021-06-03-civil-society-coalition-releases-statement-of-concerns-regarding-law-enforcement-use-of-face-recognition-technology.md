@@ -242,20 +242,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Washington State’s Most Populous County Bans Use of Facial Recognition Technology"
-    excerpt: "King County, Washington state’s most populous county, which includes the city of Seattle and the headquarters of Amazon and Microsoft, has voted to ban the use of facial recognition technology by law enforcement and other agencies."
-    publishedDateTime: 2021-06-02T14:12:00Z
-    webUrl: "https://www.democracynow.org/2021/6/2/headlines/washington_states_most_populous_county_bans_use_of_facial_recognition_technology"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 34
-    images:
-      - url: "https://www.democracynow.org/images/headlines/87/58087/full_hd/h5-washington-state-most-populous-county-bans-use-facial-recognition-technology.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "King County Government: Facial Recognition Technology Ban Passed By King County Council"
     excerpt: "A groundbreaking proposal to ban government use of facial recognition software has been passed by the King County Council. It was approv"
     publishedDateTime: 2021-06-02T15:19:00Z
@@ -309,15 +295,6 @@ related:
         width: 1070
         height: 692
         isCached: true
-  - title: "Facial Recognition Technology Ban Passed by King County Council"
-    excerpt: "Facial recognition is consistently used to target Muslims around the world, as well as to quell our First Amendment rights to freedom of speech, religion, and association. We applaud King County for being the first multi-city county in the nation to pass ..."
-    publishedDateTime: 2021-06-02T14:16:00Z
-    webUrl: "https://kingcounty.gov/council/mainnews/2021/June/6-01-facial-recognition.aspx"
-    type: article
-    provider:
-      name: King County%2c Washington
-      domain: kingcounty.gov
-    quality: 21
   - title: "Fish facial recognition? Researchers test technology on invasive Asian carp"
     excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
     publishedDateTime: 2021-06-03T16:04:00Z
