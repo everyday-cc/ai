@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "feedzai"
   url: "https://twitter.com/feedzai"
-  followers: 2923
+  followers: 2921
 
 size: 201-500 employees
 yearFounded: 2009
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Ss2G+EZVd/LWTr/R4bW7p9aYroU+nPkb4xsgxAmpwi2PTrR83/jrIehPCSMGEEBs9bUJp2GSK1qs00IC6AOh0jWRYdYu8hlAOBZwuFdgV2DKbDI4znngVTRVQ4LrcSBbaQ2xZYKty9XwT2bmmaXtl/279QJvJ+y1CmXFUZnI2OeC1L45NeSuiB5byHzpAy+zS6NibYYVXEjZ86KZE/7loxmLACy80bbQyCplmg9sIZZXvxFRIlSPQyIVld5Hs/GTSjJs6Gg3CdpKEyQ3TrXzPyfGSdM55sJyJHprClwF9iOvCi66GLYhi0ciroIoXZQsEMwuSm0rOOGuNo+x1xaLErxd4oez+h/UoGCzs/j4AdhNXMEdqTzBHsDKikngJRfCPXW+En2/iW33tdLo4ndIzdwMlujfDUxFCnZqGL0KGeA=;XZSKXPm0Y0GjmPNzWd2uGg=="
+secured: "WULJyx/HjUjc2uaeKJAOBahBhe3xoSsg3Eeg+wueVZMACg+deY3ReHo3e1n2EealLyASOQnMbuJuqz8lTTQmZVTF4xAA5+vHWvwlWTZsK3Om/H2ojqWcjQ0D1ySfPAsSAFQP/JfsuZVEFMqrcmAcpBae2NTSy9WSTe1yjQZT7aqcm51kMqlUtwQHuAGaSKj9dmIss9xtdE4a9SuNRmRFixU/FoYHyyszSH+13A8HLBdBwhHgJ4blTrBTGM6VlyFtCfQcK2KhYe2Z70xh7yGcVcqOCMjBgqLl8SQtxa9m5ewtLcRRLu1bHAbNViWE0mO4NrNLJabw8QRP7w4fTqX8ZEF4nOGy8jJr9Yd3k5gUB1ydh3nuKObz/s84bBJUZ41I6LOdOqpqSmIwgO7Y8yXmQmlHd2hWE5Fy7DuQhSdmvj0=;dKjO138cIIJerdkhXjX58g=="
 ---
 
