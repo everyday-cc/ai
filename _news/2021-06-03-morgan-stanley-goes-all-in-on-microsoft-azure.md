@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-al
 webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Finextra
@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "BeeVision adds accuracy and reliability with Microsoft’s Time of Flight technology and Azure"
-    excerpt: "BeeVision adds accuracy and reliability with Microsoft’s Time of Flight technology and Azure Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
-    publishedDateTime: 2021-06-07T09:48:00Z
-    webUrl: "https://www.logisticsmanager.com/51134-2/"
+  - title: "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says"
+    excerpt: "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,"
+    publishedDateTime: 2021-06-07T20:25:00Z
+    webUrl: "https://www.livescience.com/orwellian-artifical-intelligence-future.html"
+    ampWebUrl: "https://www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
+    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
     type: article
     provider:
-      name: Logistics Manager
-      domain: logisticsmanager.com
-    quality: 43
+      name: Live Science
+      domain: livescience.com
+    quality: 73
     images:
-      - url: "https://www.logisticsmanager.com/wp-content/uploads/2021/06/foto191.jpeg"
-        width: 1998
-        height: 1125
+      - url: "https://cdn.mos.cms.futurecdn.net/XzcsabCGgMLoKQLgBzFk9E-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Davidson startup Grocery Shopii raises $1M, partners with Microsoft"
-    excerpt: "\"We get to play in the sandbox on all different types of problems [Microsoft] is working on with existing clientele,\" said Grocery Shopii CEO and founder Katie Hotze."
-    publishedDateTime: 2021-06-07T19:27:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/news/2021/06/07/grocery-shopii-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "N0nDfitP19sOx8ehaJFq5z10u3C3VmTo13clpc+vi+D1RYEOD8NtVskG08FhZ1bvXkJAc1QA5Ejt4hoDHxfrMYPsXj4UXWM3DIlFYRtZsSU+A7mg0N4984zMlgSZ5jgjiP0HII4i7VVsBHf7Un6DlQ3e4Ji4j65ZEuRY/0nPoca8lPoMjWAxhfSzxRkkBb46kFwGJft2ofBYzLJzfR02rsVmryn4mRTgESEBoDrk3WmDPH19ZaAlwMnxUfGWnXkLj2UVFNyoohSvubVepcjTPGgiJ6fMa0CYx+7K+CoS3ffB4JkslDdpF6hKoDaECCgVrrKsIbcZZgE6nIXdrNGeZfVYIDAv1AzzP5TiUhAxah4=;/9SMrZJW0yfSbX0tUUF/+Q=="
 ---

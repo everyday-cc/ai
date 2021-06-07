@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/mythic-chip-6.jpg?w=1200&strip=all"
         width: 1200
         height: 759
+        isCached: true
+  - title: "Mythic Redefines Edge AI by Combining Analog Processing and Flash Memory"
+    excerpt: "A seemingly unique and fruitful approach, analog processing has been the key to Mythic AI’s success. Its newest processor could be a hopeful contender in the world of edge computing."
+    publishedDateTime: 2021-06-07T20:55:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/mythic-ai-redefines-edge-ai-by-combining-analog-processing-and-flash-memory/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 38
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mythic_m1076_thumbnail.jpg"
+        width: 700
+        height: 300
         isCached: true
 
 secured: "nOrwN+Vs94ZHfWPgMu/wAkhO7H6XjL6fzrMio6OhhXt5AVxk4TKNlY+80oCqB5hJda+xUz/SwxVAzMdKrqgJNS4QCNel6DqR0rGMnr5V09q63lfZLeWRbaZ4iE3JHorRbpWdrKsqqoV349Vn3eeU1hFLFwx8CrJmK3bYuJS3z2feUVIDy4zIGOdfUzbNOekusm9zMOAiNKbOGCIDsJ0ah/xuBvaE03gH5ouFlrVup0BeBgwZes09hjSopBGR80QCRJBz5IiK/fxl0Xoi1zfvMTTXtR3bO8UExrh5zu9RXIO3+S4mwn446gBJ40dZrqpAKTON3sv81vt52eefwYspRK/OfCUW/Yp3TaVTsLkLk88=;4l/aSRX59HknfyNRHu79HQ=="

@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-07T17:05:00Z
 originalUrl: "https://www.crn.com/slide-shows/cloud/7-things-to-know-about-aws-ml-swami-sivasubramanian"
 webUrl: "https://www.crn.com/slide-shows/cloud/7-things-to-know-about-aws-ml-swami-sivasubramanian"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://www.crn.com/resources/026a-1276d0895528-1f1cd08db339-1000/swami-sivasubramanian-aws.jpg"
@@ -25,6 +26,6 @@ images:
     height: 459
     isCached: true
 
-secured: "xHIgxtLrojKarcPN5D1KMeLQX4o0SWxgfl1hN7AZClz9m4putLQLCTbyoH+Vjiu6XKgd/g/bGKr1ugEE6zeEWVhifVf1pfUVtd4g6nrdAic7pAKosMEwDue5IoTLsvghiGZytf3E6XcdbMQpoD3QZMqRpqsu9Uy40AuoGp3Tw/KpogEMwAijvw9Ble4S6U1xOPdLgDNgslMIhXa5heq8P4kTNJgZKQGdVCafIshO0/bm4aJBB+ZDYogV2A5GnmJocbGfVh5tiXk+trZafbF+IiT9dOk3PS7HZ+LttFEjj0DtmDrn+8X039bCLQu6Jxjb0vI3Ekt6Xchbkgscl1o8weXIx7wn9hDvH1HsmNCOJKE=;PxTsVfM1MIhw2KdpOMXahQ=="
+secured: "t7aT13p2td1egvyiYZncILTPhYgb5uB8ruuzddFJu1bdDF4KLp9fDuwMd2i/PfKwlF04w6Sy4gbC+RxF8n2YsYIvirFQCMKUOyMS+oKJOZTaV/0DXMyhxMHkiKS7snUCuKcJ0SF7wcYeHgx2gF4wqhGXnth+2WoBrjWWfEbqANOD/BNUjN18/iZnxxZuv/dz9zYL1BOgq/WKbOf+nqFQhev5kTRv8o40R+IXaHOzX0rAlgNzu8tb0Nuge66vi7QFBNrcwC3edDjw4MvJ9ejy6msJQ8otiDI2Vk7/NBmH2nPcNWVxWmTWWAfpVmUJsIMd4euheZLE9gWkl7HuC3+YVV+ktFaODChGiujcGUgxqAYmx2IPWeI27EiA8ntbTfuuJ6Nwvm0RFla6xSwilqgTiDJCzCPGWKvQRODu6ZkSZE6ntPeL8HNUmqxF9vnk6PgLIpfLppBym8cNCOYbGgzwGlnL2sB1twUCZw1btxO061ajpFE7JlAxc8ye71EEHBhZ8K16m80/PPIK+dNlqkdyeQ==;lnO/8sJnKG5yzQZvo7tZqw=="
 ---
 

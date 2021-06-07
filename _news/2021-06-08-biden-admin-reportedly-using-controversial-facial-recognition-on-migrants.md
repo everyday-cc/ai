@@ -118,6 +118,22 @@ related:
         width: 2440
         height: 1627
         isCached: true
+  - title: "McDonald’s faces lawsuit over its voice recognition technology"
+    excerpt: "The lawsuit says the company is violating Illinois law by not seeking customers’ approval before using collecting voiceprint biometrics."
+    publishedDateTime: 2021-06-07T20:15:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    ampWebUrl: "https://restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    cdnAmpWebUrl: "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 44
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/shutterstock_748441993_1623099281.png?mUK3d9oXpjLK488hXEOfIqjQwm3uSY0T"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
     excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."
     publishedDateTime: 2021-06-03T23:05:00Z
@@ -195,6 +211,6 @@ related:
       domain: detroitnews.com
     quality: 17
 
-secured: "JZKoqKC1nVGKgYPo9v3UPVttGOhs/+0ySOPg1k2ClrCWYP1DVHQhn2IbbHPpaCSeB3tHsxCILSc4Sc/zvzVAWY3LOKvvEv3apNyQa6ceY8VHYRKv/aZ32aKz8zzNTOBorQPfik/r9PltVB/uZru88b9gwkk7Y5lH4fQdr9MNruq3zasPPjpsAPvIsdh+oiL5sQB0byqRXLWt9qu5xvywmdyJTj5kxS5RFNQTg2zdq+cdZv91p/uluzXZ43btDEQIdpee1jOqhhIeVlfTxUCVDu+6i8gJKPQE0C+X5uOtN1wB9mhJ/k2pY0/45rn/o7P+NZrq70QPuGtyVJqSulHJON+7VG0IiDfrE3WyOXHVmrw=;s81wpVgkPnCbFuYVXv5+2w=="
+secured: "ev1ggO0gEHRL84PnDk3Xpd2WNJ0kIXmtUK/425eykX4vUqv+UP4UaRGzdvhr20rV+ZhnFzvzewYjfiHG+x+xQKndVmlgtHk37KsCRxctfUeTYmAysWn2FZUNYeI6UpfohL1P4sHAofR4qGkfCVJL/8Jfrt64wXYEgonJAD5M6SOrAqOUYaUnDDcrgfbpRPZT7uLU97ewVa8LZl46fjO7GjsGstaPvAGeE/BIk91f+l/KttH8jVgyNJ5sfdPWahFA6h4IdyNnuFvVxeTb2W5HYF5KXl/YtwacXQeEZLlHSazE03+QLTEGNI/0oZw0kOe+YASJ5HvyWtCZoxfH44pNAUGdnZKHkZWob2sIyqIMlT4szWJb7/je0Omezqw6zm6Q4CiEjYHwK7Bl+FJh7kEohPt4aAljoR4+HDo51d/fYdSht9a1BasLTzCuOZQUyty8sLnB3auksSZgP8Uldz1Zb22AHPqdTMWYY4Yq9OQMvI6sGfM9WSkSFeDkg9l/R7DALnvzA76WwIEx0zHuUj5S7w==;C/79X3tv63UqK3Rzc5MAbA=="
 ---
 

@@ -258,8 +258,8 @@
       "title": "15 Big Azure Announcements Made At Microsoft Build 2021",
       "excerpt": "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -405,10 +405,10 @@
     {
       "path": "_news/2021-05-25-aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system.md",
       "title": "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating System™",
-      "excerpt": "May 25, 2021 /PRNewswire/ -- Aera Technology today announced a collaboration with Microsoft ... data services to increase the precision and granularity of recommendations made by the Cognitive ...",
+      "excerpt": "By integrating Microsoft Azure Digital Twins with our Cognitive Operating System ... We sell different types of products and services to both investment professionals and individual investors.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210525ne88554/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210525ne88554/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -418,21 +418,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:45:00-07:00",
+      "publishedDateTime": "2021-05-25T07:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

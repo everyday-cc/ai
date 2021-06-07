@@ -60,20 +60,6 @@ related:
         width: 374
         height: 249
         isCached: true
-  - title: "Computer Vision Industry Production Capacity Estimates and Forecasts to 2027 | Industry Size, Current Trend and Future Demands"
-    excerpt: "Market Scenario: <br /> The global market for Computer Vision Industry is expected to surpass a valuation of USD 48,300 Mn by 2023. It stood at over USD 9,200 Mn in 2017. <br /> The market is projected to expand amid rising applications of augmented and virtual reality."
-    publishedDateTime: 2021-06-03T03:55:00Z
-    webUrl: "https://menafn.com/1102201197/Computer-Vision-Industry-Production-Capacity-Estimates-and-Forecasts-to-2027-Industry-Size-Current-Trend-and-Future-Demands&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 11
-    images:
-      - url: "https://menafn.com/updates/pr/2021-06/02/pr_12202_41aa052b_image_story.jpg"
-        width: 375
-        height: 530
-        isCached: true
 
 secured: "M8CS0Na2IKXz3W6r2l/D2OTQ/l7IJsfyaRgvGYGhYcj+5+RsR5E/Pwzjp67u/HOpiiaeqpk37kSzbl7Uv9iuHFvVd5xHYyyWMBV+tPtJpIbthtDIgXs9H/LGSZkm4R/+tAh7rhTBcORXP8bOxXsVFTj+XcfWWokhW8eyUyX03idXRuG+mwE0klqbULRvCvwZyovTLzQCkXrIOauKHITZD542fPouVIURvXeZRTUkNYvAp9HOeCK4bcXkYFFCtt+Xj0iTCGrCbYwnLUanWfh70c9FL9KnQLFuQc0pckP+mc7rknP12fIHL/NwQsOtkJCORWIpVGKpsJy/DWZPJYE7IXAwayFZl1xIQpuz7AMRL8NmIaISP76sJhlGJIu1ujlIriMpL4flyVcEYY8TDdIa1Bd9zR73Lpsn566vbP+6IlvpuR5UaEqGNADlZemzo4cCp3mEB0qFj1d3SfkLoNGSmZwxl6Ytk4qA2wwSYPingQQZtlqEdLFI/7uY55xmHTQtQoygJbWjvKjS7XmRUGiQ+Q==;I4X5GhZrP/Tzfcaf4miwNw=="
 ---

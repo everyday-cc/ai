@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/asus-rog-strix-g15-stri
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/asus-rog-strix-g15-strix-g17-advantage-edition-launched-with-amd-ryzen-5900hx-cpu-and-radeon-rx-6800m-gpu-6983671.html/amp"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 770
     height: 431
     isCached: true
-
-related:
-  - title: "Asus launches ROG Strix G17, G15 Advantage Edition gaming laptops with AMD's latest GPU"
-    excerpt: "Asus has launched two new gaming laptops that are the first one's to feature AMD's latest high-end GPU and CPU"
-    publishedDateTime: 2021-06-03T04:41:00Z
-    webUrl: "https://www.themobileindian.com/news/asus-launches-rog-strix-g17-g15-advantage-edition-gaming-laptops-with-amds-latest-gpu-36050"
-    ampWebUrl: "https://www.themobileindian.com/news/lite/asus-launches-rog-strix-g17-g15-advantage-edition-gaming-laptops-with-amds-latest-gpu-36050"
-    cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/asus-launches-rog-strix-g17-g15-advantage-edition-gaming-laptops-with-amds-latest-gpu-36050"
-    type: article
-    provider:
-      name: Mobile
-      domain: themobileindian.com
-    quality: 51
-    images:
-      - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/06/36050/Strix-G17-1_425_735.jpg"
-        width: 735
-        height: 425
-        isCached: true
 
 secured: "SmuD/wyKWn8vdz24mkmsItih7XvXcXBGAxLfoG6SuVjF55X/QB2h8iMB4IkMuwFo7UjAdN3SWfiIrO33ULaOVYk1Jz+q3V4iSVq7SLAVqFg+SqeBOE/W08tTzbQUbMG2EY8eO/u5L8wWhlPGpJt+ml29zj68vAIO5WRqDp1G8PHw1O0HCAr17u4awAZFb32ZG1l43zytcwkUZFnkIt6LfhSeFoNiaw23EQ7cfK7ex0BQzwrN6woXuSa1CmDav4+1nnnx+aDiP6PiZq90rjbzVDjUywRh6zSW79vhOGaMK0lL2zkeFNWEPh92OrFzb6orUe299cxhCbAtD4u2s7ZK53Phu/f5Xypu24lpaZFoDnvBp1wi7RJj0ZZPlK12NeQioa9uWPirWqHbJ4aVT2jZGMCArNZd8OdA5xacWyOAYu1d7psTDkPYw//Q8UEw2TrkfXym9mRfZtGa+XXffMg1LhNTyz1RM3HpCJayqgtZPdHpkUJk7R08G0JqaAYGVT+RxhKs17vWPMtpZTRC0UkGEQ==;xc6hZvDxqYCYRvAv9FmuUQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tec
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -121,6 +121,22 @@ related:
       - url: "https://retailtouchpoints.com/wp-content/uploads/2020/06/voice-commerce-1.jpg"
         width: 2440
         height: 1627
+        isCached: true
+  - title: "McDonald’s faces lawsuit over its voice recognition technology"
+    excerpt: "The lawsuit says the company is violating Illinois law by not seeking customers’ approval before using collecting voiceprint biometrics."
+    publishedDateTime: 2021-06-07T20:15:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    ampWebUrl: "https://restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    cdnAmpWebUrl: "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 44
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/shutterstock_748441993_1623099281.png?mUK3d9oXpjLK488hXEOfIqjQwm3uSY0T"
+        width: 400
+        height: 210
         isCached: true
   - title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
     excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."

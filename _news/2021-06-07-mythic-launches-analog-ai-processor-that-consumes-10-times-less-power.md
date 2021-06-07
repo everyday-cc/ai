@@ -47,6 +47,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Mythic Redefines Edge AI by Combining Analog Processing and Flash Memory"
+    excerpt: "A seemingly unique and fruitful approach, analog processing has been the key to Mythic AI’s success. Its newest processor could be a hopeful contender in the world of edge computing."
+    publishedDateTime: 2021-06-07T20:55:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/mythic-ai-redefines-edge-ai-by-combining-analog-processing-and-flash-memory/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 38
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mythic_m1076_thumbnail.jpg"
+        width: 700
+        height: 300
+        isCached: true
 
 secured: "Es8FQGqomNDeutO1FBmMjd6IB+MSjgmNtXWpszyyi8R1Mmi/pbmq6PbRxzSbQEwQr80sOego4b+vLjktg2tBj3jmQ3oCwItixAtdfsYp7jnaVSwzPUrSQy7ZIPppJzuMMWy+YdUXSnZNyUkm5YOLodYzsuhCNHlnecQbV7roA0VVvS3CK3+cjeEZ7McpiezJpd7HQYgqVBlLkgshhc/I9qySCO2PuND0gP0+i/os6WDaPjy1hkA663X4+Axmg8JK5P0pQJMV4lZQvGfMxjnH1ZVxy8WCfgkjA8WiBsM8Xdgw5oK1cRv12wzbMC7b4sxrPjGCBSK7Wj/zCMmiAzG3ac2FNdDEWwyjMH311b8Fj1p1U994bJS+0TXrNQ9kujUUp2bVhTeBPEQHYjFdXKKfuohoDHNobd1ghC6HBMcfehPtipOYmdNyOCDsl3j2khs5jOgFZ1IiK9wfqLjBRvGAQaLqV/g+xJGT/EFUNkUc+Mp3kClqWJmg+gl35uvMMjAdcR0tpbhDOH/ZUjELpOjjbg==;soBL5FgJNvg1+NeuhYDuFQ=="
 ---

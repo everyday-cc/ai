@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating System™"
-excerpt: "May 25, 2021 /PRNewswire/ -- Aera Technology today announced a collaboration with Microsoft ... data services to increase the precision and granularity of recommendations made by the Cognitive ..."
-publishedDateTime: 2021-05-25T14:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317"
-webUrl: "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317"
+excerpt: "By integrating Microsoft Azure Digital Twins with our Cognitive Operating System ... We sell different types of products and services to both investment professionals and individual investors."
+publishedDateTime: 2021-05-25T14:37:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210525ne88554/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210525ne88554/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "DvGJsvnJfyQeYmSY6yDluqcCoIBQp/CTljibktpjP2QAafjt1YQw2mYSHq3fYVpYtS6Zsk5tcD/S7x9hOaVSzTWAcfogZKL+6gKsLOft2KH3rDh2MbXQcrBF2M40OKsLfI1aBXESQYdnpnP/TI12j/DYOwGKhYPyM70m690ZsxFDBgtuKTxVOmN+KpWQegoeQQFfVkjhAcQk3wfQ7FDcurpX1ob0hpytQyaCsk8ewI1Rra/rn8az7zzpraR440fleO4azQ8VEz6jI09acJOGCrAwe+Nxog16wreuxrMFohTBa4a1910hTapq7QOKl3XTPHBVIpHsg9ghfgyZ8Rc64lU4DTG3lux8eHk5VeqUj9U=;bN1QXzX1ptG3fxn//5eDzQ=="
+secured: "0ucM9XMBUcXouFBpI+B9rOyws5adgNrElZYfrzRMleVvCAw5Waj5HOcGzwrSw1WC/1tdALiI6kXR1CGyLaI5Hpi8otu4JIGifDNX1PiK9txm/QqYQYkshxFcr6lmxFuGdHtrysfdL79xE3m5BGYl83qw6q5HDHp1SkKJtRXYyzDahMqarmrAZT02+kAv6mYZhoC2MhC8Sx0TmizxybV/0/TRfRiRIc7L44QZA7HoQeurHAlwnJ89nIz94weCjRSGAkAwBshZQb881WueUZ2Je84hMZTBJbIbTMiiuzNKXDdUUMMuN0yZNCJAdomfijBlNXYTIoEblYXPlQeP/7/j+pGNhMxUWdCnVjUIH7rkBw8=;lGyE85M3J0cfBzAycgeIQw=="
 ---
 

@@ -1,0 +1,49 @@
+---
+category: news
+title: "Human-in-the-loop review of model explanations with Amazon SageMaker Clarify and Amazon A2I"
+excerpt: "Domain experts are increasingly using machine learning (ML) to make faster decisions that lead to better customer outcomes across industries including healthcare, financial services, and many more. ML can provide higher accuracy at lower cost, whereas expert oversight can ensure validation and continuous"
+publishedDateTime: 2021-06-07T20:05:59Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-review-of-model-explanations-with-amazon-sagemaker-clarify-and-amazon-a2i/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-review-of-model-explanations-with-amazon-sagemaker-clarify-and-amazon-a2i/"
+type: article
+quality: 79
+heat: -1
+published: false
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/24/1-2119-Architecture-1.jpg"
+    width: 801
+    height: 522
+    isCached: true
+
+related:
+  - title: "Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker"
+    excerpt: "DICOM (Digital Imaging and Communications in Medicine) is an image format that contains visualizations of X-Rays and MRIs as well as any associated metadata. DICOM is the standard for medical professionals and healthcare researchers for visualizing and interpreting X-Rays and MRIs. The purpose of this"
+    publishedDateTime: 2021-06-04T20:48:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 112
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/1-1247-Architecutre_v2.jpg"
+        width: 800
+        height: 541
+        isCached: true
+
+secured: "+TUdAqul60ey+jzud9X3qCO1g1d68btqn8n7Ve16iNQs4to0AFfXB9hTiUi3XsfaXotNg4IMWFAYs/no95fkIxkjXI5GvSiIvh1iAz6qiL4pvZ14bY7vTc0CCOaDIkYyZIkBBikIEFLpfrWR5AmGDDZ5o+JcA1zTaHBHsw1trauos9POpSnAQKSBVwNZ8JeCFbcXjnOoZF8VT/yf+hOQ8SM2NRgx5pBC0y3HTqLAbqyzrfdstouFOpVKsLThp6K21NYYw+68WzqTqxwUozd16fRRok8nPqYsm0footDyEmfZnA8AZhVG8Pv+1blzLE+jHcVeIA3eQJDaxDWtLtoLTHUQt5sidqNhvpOxg3joisI=;WgPZBFuN144vrL02iiR4Gg=="
+---
+

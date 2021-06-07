@@ -1,22 +1,28 @@
 ---
 category: news
 title: "QIMA Acquires Stake in London-based Supply Chain Resiliency Startup Kavida.ai"
-excerpt: "QIMA, the leading provider of quality control and supply chain compliance solutions, announces it has invested in Kavida.ai, a London-based"
-publishedDateTime: 2021-06-07T14:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-qima-acquires-stake-london-based-supply-cha-resiliency-/2021/06/07/9385100.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-qima-acquires-stake-london-based-supply-cha-resiliency-/2021/06/07/9385100.htm"
+excerpt: "QIMA, the leading provider of quality control and supply chain compliance solutions, announces it has invested in Kavida.ai, a"
+publishedDateTime: 2021-06-07T14:16:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/qima-acquires-stake-in-london-based-supply-chain-resiliency-startup-kavidaai-301306868.html"
+webUrl: "https://www.prnewswire.com/news-releases/qima-acquires-stake-in-london-based-supply-chain-resiliency-startup-kavidaai-301306868.html"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "yMe3VwD+g8ty+ObKjpciA3hc+B5wcS+PY5bJeBotI6Ilse8BZ8d29eNLzLlYw87HRtwdYKgxVGw3K6CZxKKAzLQ6gK6lrJeX+4oL0TBfWAenLbDdSRQOBoGr2MwTXTkqo5olE2m2ZDAxOfD22lvk5DBZ9yZi1LemV5gGZ7CQTHTi/2WFnw0N94q4RGStIruz84AxvDXJ82Y2uv0l+P01tECI1eW3PsauvUMhoG5lNPq4owCb0jRDdJlRvF29G85kRQbbnypA4g4pzzchuxoMYOW2k9qpRHkDj3F2NdRRrY4d7pT9pmx3Fq6SJb5BZRD+Yndv9q/kr0D6nfHwXMTzaIyjrQPZnN3webziPU13iag=;s866qXXVVzC7Sm06xZh0fA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "8UrLz2lPIh7dcm3vrk7+0ouF6kWZ/+IucFGYdeWMWvDEyijgFQWXAZChcYzYVDvSkorssYFIjmtCpTa8dXcEp495MAQnalAurhFyuCIfZgh46DmA/dyJSJcYzHBv+byUE4cjkL9b+3mq5iEdlQj5NwesJuLPC/Cq1f7ZO66G95nqOXeJavNgQ+F2fHIpFtXkuM0NGrux3ls6gl4J7ELcbn6rjwxPjCqDMlF4mm4LpOXHLIr3I+tPl9Av4c8ps41Y0tFwCibx+tEG2EuHVrRwLb9ewgwMlrtpkYF1nILLVaQWGuHL2GugmYle9E2u/qNhQJHcZ74ipXKdnoD1GJO6cBPlwEu1d79vX3+ygwu1bJE=;20/avgYZdi3AjvCh4uIpnQ=="
 ---
 

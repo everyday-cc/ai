@@ -7,7 +7,7 @@ originalUrl: "https://www.logisticsmanager.com/51134-2/"
 webUrl: "https://www.logisticsmanager.com/51134-2/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Morgan Stanley goes all in on Microsoft Azure"
-    excerpt: "Morgan Stanley and Microsoft Corp. on Wednesday announced a strategic cloud partnership aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the financial services industry."
-    publishedDateTime: 2021-06-03T10:20:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87923/morgan-stanley-goes-all-in-on-microsoft-azure"
+  - title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
+    excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
+    publishedDateTime: 2021-06-04T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Davidson startup Grocery Shopii raises $1M, partners with Microsoft"
-    excerpt: "\"We get to play in the sandbox on all different types of problems [Microsoft] is working on with existing clientele,\" said Grocery Shopii CEO and founder Katie Hotze."
-    publishedDateTime: 2021-06-07T19:27:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/news/2021/06/07/grocery-shopii-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "0szW9CX8L0rsjX/DxAyMwu2fO0kVwtmthqjCGdQ0nOpiRkOzvxpilGGTG6CdeMhbqx7BN3ApKHP/qUlYWnrq0ahkLeHTBrECMR/SxPZx7cD9cx1/0o7OXU6KHCXoxQa8zNYuzCuTfIWeEjERLpzoZijRflPrwwFmuqhMZtNIkCddcROBhstuIe2bt+bRo8LOq2fyyfld0/OS5TTVd3KE9Yhrp9T/tv7cPLFokkvK9HzX2bkUtaqM+PPMPc7YqVpSIodCNXVGG7cxE0GW1a87BLz+RnInc5Z0I44Y56v/VXaukwESNOKNcYxN46elTIDNxmqygXXWeIrpWvhH1qhLqhN5pc11ZeqUkxCNnd3I/7M=;7a8tjkQj+8FoH94vRu2XFg=="
 ---
