@@ -1,27 +1,27 @@
 ---
 category: news
-title: "How The Indian FinTech Is Using AI"
-excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
-publishedDateTime: 2021-06-06T05:30:00Z
-originalUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
-webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
+title: "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology"
+excerpt: "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies"
+publishedDateTime: 2021-06-04T14:35:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234"
 type: article
-quality: 39
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: KMWorld Magazine
+  domain: kmworld.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
-    width: 1600
-    height: 800
+  - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+    width: 772
+    height: 594
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology"
-    excerpt: "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies"
-    publishedDateTime: 2021-06-04T14:35:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234"
+  - title: "How The Indian FinTech Is Using AI"
+    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
+    publishedDateTime: 2021-06-06T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 27
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
+        width: 1600
+        height: 800
         isCached: true
 
-secured: "p6//QPr9Jxm5/5Jd2tJWUgU1xCc1zdaAmUbn1EhLEQcxAt25PGm0uxIfOOT7sMi2y1L0vWOHX/TTlhIZ8amdwCVLnVFxU0Yb4b8t0hJYvLa5guxjSeGTULVGj1FGKervGBc7AxM2icnZS0tHe1azB38OZbQZ/PK6xYt1d8YreDHtqECWSen/kGehBNauUEDU6/F5qOp/IBDJzX18ZejxfL20CbMRMH31fg4bUCGWjwpsYeJ4zQX+FrFobattevKm776nQmD6jM9ujOI8oDqRWsiibxub9UonGf5geipxxX7N70T4M+wCNfIM8PxvKGlVDQYkG9GiudtD/oM3uZRvnjYnUaqvl0BTkGyz1srS1jk=;/QxARktXMtk7Z9GaJBL34w=="
+secured: "cnGpqmdHorc6KnKIqaW7WD060pkEksWIbgueKtkagCiPS48LITxWz5k5qjpBctgaCAUnfGnV2u8Zqr083lAzJfSQQ/oNJYjua0vdknpthKMi4jNzrTOfNEjk9yeb8nZczp5ZLb3xObMVeYdTjSkB3texnTFsRs8JagKu1SrihxY5UKlgjXKtF9rsoESmjfUeF5xEGAPLpznmPkI7qGfryA0Rg7XdIL3KigJAXjFrzzxuBEJmBE4KxoFMuzESSjiiybkMFO67AaxWotsNZoH3FL1r1Gl9PkkYlc5xESxy3RqBdAiXJ/fLEsVI2KlBQU4e01n7oeLZGa7PBLyrIobs8R3u+s5FzkMjfMdNQJtyI9E=;CER/D61BxekLb3DAn/IUug=="
 ---
 

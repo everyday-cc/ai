@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/karnataka/nit-k-to-introduce-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
         width: 1600
         height: 800
+        isCached: true
+  - title: "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology"
+    excerpt: "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies"
+    publishedDateTime: 2021-06-04T14:35:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 27
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
         isCached: true
 
 secured: "anSGvkAhd6CerhvvhcH7VwNSQe+PVCGeRfMjiHc5Z3aZl5QsIxMk8DkYtSIUin5/wEPk5ZG9Z0VxeWzAIfdT8OFw8GWixtNcW3GyLQ7N5bu7uCj45thEO/lPLEdm83+DtPAb0+uVIZ0lUTGRs7iuLeqbLgsrnHFZl/lZdhvVdseqRF57otdAEVZEjSP2Nr1mvKD/LuQcMea7n2xZ23/RtemcUbBS6f+mHqvMFdO8fk70zIs7x7d0dKu/oBXjGSRvCiMwMuyiP4QF2uKIJdFq6m0G0MVrSbWcfcQ0C2dNApM2aaIBWglmtbIFPYvQuFHZaFOZZPM0J3n28iPhrttSAfxbQPBotdFyY11xtrk/wlQ=;eAlCQYA9p9lV7oF4/tvmqg=="

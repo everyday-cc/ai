@@ -1,28 +1,29 @@
 ---
 category: news
-title: "'Good feeling': Ai Weiwei picks Portugal for new show, home"
-excerpt: "Dissident Chinese artist Ai Weiwei is putting on the biggest show of his career, and he is doing it in a place he’s fallen in love with: Portugal"
+title: "‘Good feeling’: Ai Weiwei picks Portugal for new show, home"
+excerpt: "Dissident Chinese artist Ai Weiwei is putting on the biggest show of his career, and he is doing it in a place he’s fallen in love with: Portugal. The world-renowned visual"
 publishedDateTime: 2021-06-03T14:51:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/good-feeling-ai-weiwei-picks-portugal-show-home-78065115"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/good-feeling-ai-weiwei-picks-portugal-show-home-78065115"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/good-feeling-ai-weiwei-picks-portugal-show-home-78065115"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/good-feeling-ai-weiwei-picks-portugal-show-home-78065115"
+originalUrl: "https://www.rochesterfirst.com/entertainment-news/good-feeling-ai-weiwei-picks-portugal-for-new-show-home/"
+webUrl: "https://www.rochesterfirst.com/entertainment-news/good-feeling-ai-weiwei-picks-portugal-for-new-show-home/"
+ampWebUrl: "https://www.rochesterfirst.com/entertainment-news/good-feeling-ai-weiwei-picks-portugal-for-new-show-home/amp/"
+cdnAmpWebUrl: "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/entertainment-news/good-feeling-ai-weiwei-picks-portugal-for-new-show-home/amp/"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WROC-TV
+  domain: rochesterfirst.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_625ddfad963e47f1ab9df53d33acb1f2_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2021/06/5919c2c282df4c00a5dc18e1d97f2e63.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -42,7 +43,21 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "'Good feeling': Ai Weiwei picks Portugal for new show, home"
+    excerpt: "Chinese artist Ai Weiwei is putting on the biggest show of his career in a place he’s fallen in love with: Portugal"
+    publishedDateTime: 2021-06-07T03:00:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/culture/2021/06/07/039good-feeling039-ai-weiwei-picks-portugal-for-new-show-home"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/06/07/1175175.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
-secured: "5iylB5C7YDYx4NGcwWwH+J8/B0mc8qaqz4FFF5ePGb8shs4rDus8jW3BYQrPk2xMFjYw60juy+SBl2jO+SC/Zc+N2r0lXyy/++fHPPGkqKSBBeG3pS7cnzJ3uomjPB9Ki3qYbAdkmok8EORHA2h05HoUvymyfFsSREkD2x+pu88zQrTsXMk3RcecMrS/ooQXNYF8UexZSwXS6j4AB3vh6ciFDLTscdUByjhyo7ZNxMZ6XKtZJGHvChkBdr6R5NNM2/0qRKDQQ3MnxHj+iX49j/QcsRjJM4529I4EpEA3wt4xsVGsu143JKbxOjXqbbJcbMlxHo6LOzmlFEY6qz6AT9uaDkZvKtCKIIHImMOcXOZxKZtBysEIxXbObiOj/Acu7UjceRWpstFIil2qjcDfaQl5cUYXMw4/rJTPNVMvHoCXKAapp8/v8arECdWvz8jvgCYQ36nO9bxAyuYW29LAP0owunCaQ3K5PiyJ8ZKj9vQUSTFOM4pHC330lx6htVS5UaDIHY476IEquJOn6rsPYA==;7B0u3naTuUuqZEHrG+s91Q=="
+secured: "jsYmxqEBaa6+W0bqjgqeiHFTNvTYzqqmifmD2qz0vUVVdqnlMIofw6UMXRZ9V3TbUi81B0i5o+69ktK0rboVGVi7xMf949YVAF0EPcrTpwhzQcc+tQpPVnCt0X99vU+DPTjybU9IGguW0SWx3mOf5eelwryIuSGHq5sa3QfqkhYPZunF14ZZxe8xlkPel3LhQQgeKF5idGOCQEYTAAZ/VVeOn8BXOnWQ1Y4U1oEPMCpyplml2s6KvD/CAKJ58IKNr6lJENdt0sMrq4vZN7AFbP9QGTauGPJPnRHwwpQg9Qi2B1z0cDpFzIaNc11JR8JpeXZ6TCscNkCzQrk50dMAfDZgqTniABTB9ICCKM/wH2c=;okS5uy43ooAluSqoN99S3Q=="
 ---
 

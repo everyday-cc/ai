@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-01-artificial-intelligence-social-media-and-the-future-of-investing.md",
+      "title": "Artificial Intelligence, Social Media, and the Future of Investing",
+      "excerpt": "Whether influenced by one or many, the result is clear: social media can drive today’s markets. Such incidents, combined with their capriciousness and unpredictability, have led to pushback from the financial establishment and calls for greater oversight of social media practices and businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/",
+      "originalUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/06/SM-AI-Algorithms-scaled.jpg",
+          "width": 1600,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-social-media-future-of-investing/amp/",
+      "publishedDateTime": "2021-06-01T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-instacart-bets-on-robots-to-shrink-ranks-of-500000-gig-shoppers.md",
       "title": "Instacart Bets on Robots to Shrink Ranks of 500,000 Gig Shoppers",
       "excerpt": "Automating much of its operations could help the company lower prices and appeal to a mass market. But Instacart needs industry buy-in.",
@@ -336,6 +378,41 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-deep-learning-suppliers-strategic-positioning-and-benchmark-report-2021-google-ibm-intel-micron-technology-microsoft-sensory-inc-nvidia.md",
+      "title": "Deep Learning Suppliers Strategic Positioning and Benchmark Report 2021: Google, IBM, Intel, Micron Technology, Microsoft, Sensory Inc., Nvidia, and Samsung ...",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. This report offers a full competitive analysis from target markets to product mapping ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210601005409/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210601005409/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1066,92 +1143,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-still-waiting-on-your-ps5-and-ipad-to-ship-blame-the-global-chip-shortage.md",
-      "title": "Still waiting on your PS5 and iPad to ship? Blame the global chip shortage",
-      "excerpt": "Global chip shortage is afffecting industries ranging from smartphone manufacturing to auto companies, so expect delivery delays on your gadget orders.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/chip-shortage-iphone-cars-gadets-analysis",
-      "originalUrl": "https://thenextweb.com/news/chip-shortage-iphone-cars-gadets-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fjeremy-zero-wl8hZoJBSU8-unsplash-e1622445256780.jpg&signature=fedcf2414598b37b9548b34ded480c67",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-dawinks-korean-fintech-company-becoming-the-flagbearer-of-digital-foreign-remittance-atm-and-pos-in-the-world.md",
-      "title": "DAWINKS: Korean Fintech Company becoming the flagbearer of Digital Foreign Remittance, ATM, and POS in the world",
-      "excerpt": "When the world is witnessing the peak of digitization in times of pandemic, DAWINKS has been successful in shaking up fintech technology. For the past 16 years, the company has already established a significant market for its KYC and adult authentication service based on its patented technology for detecting ID cards and passport-related frauds/forgery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-dawinks-korean-fintech-company-becoming-flagbearer-digital-foreign-/2021/05/31/9380566.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-dawinks-korean-fintech-company-becoming-flagbearer-digital-foreign-/2021/05/31/9380566.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

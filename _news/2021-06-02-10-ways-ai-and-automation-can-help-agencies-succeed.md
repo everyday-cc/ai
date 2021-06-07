@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Speech Rights and Artificial Intelligence"
+    excerpt: "Today we are seeing the phenomenon of 'machine speech' enhanced by the development of sophisticated artificial intelligence. Ronald K. L. Collins and David M. Skover argue that the First Amendment must provide defenses and justifications for covering and protecting robotic expression."
+    publishedDateTime: 2021-06-06T11:06:00Z
+    webUrl: "https://www.cambridge.org/it/academic/subjects/law/constitutional-and-administrative-law/robotica-speech-rights-and-artificial-intelligence?format=PB&isbn=9781108448710"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 21
 
 secured: "HAy8S9UrV6UyrP6AMTucJt6jaRIkBtnbBfboU27DzXZYAWuSeuGuUO2bkrXzMQHvBXz+2IQ79Z77Z5i/cV8mU6Zv5mwoNJD+Vobpdx281HfLQR7zVb/xfN7bjTDOybrz2h3iJhm32lhV7SWCn702S0tljZF6xIn2AwOOn4A6BRFD49RT8pGnj2aCs3UsYDiJVHXSLapeTMzWfg94Yg39RRDc0DBskZmh6WIOb51Rq6aCEBaVQ5c4UD2PV+YdhB9KhTwB//ZXEZRMZyCibiRtC/Sfgd1IaV5BjLbSOh9CCoYVr4A0EViKOutgs6riIlJrkZYBt3NWEKe3Odwsk7Dzaw4ztY7XIZki9hSJ4QQEViuif5Iww90Yo1g4IyoQEIXdXpaOMnC55C/tOJgGHgrFpIM0faS1MjSJ5F3/3ErvZhwX5tES0dbSsUJe37P7/gakF20jxa2gpBBwACSyEqzcYJWjgHbW9UteOGFy9uFEKk5dvb9eLDAU4XtYPABFvTmaXDKRkNwXh3nOYmnH2SQJAg==;5EVP66d/y5AlEphR29zFBQ=="
 ---

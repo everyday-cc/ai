@@ -25,45 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Catching up on Build 2021: AI and Arm"
-    excerpt: "What were the key announcements at Build this year? I’ve already looked at the Azure data platform updates, so it’s worth a quick dive into what I think are the most important pieces of news for anyone building applications on Microsoft platforms,"
-    publishedDateTime: 2021-06-02T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html"
-    ampWebUrl: "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html"
+  - title: "Accelerating AI at the speed of light"
+    excerpt: "MIT alumnus Yichen Shen PhD '16 is the CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence."
+    publishedDateTime: 2021-06-02T19:25:00Z
+    webUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 69
     images:
-      - url: "https://images.idgesg.net/images/article/2019/02/programmer_graduate_certification_megaphone_announcement_bull-horn-100787980-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://news.mit.edu/sites/default/files/images/202105/yichen-shen.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Online translation in 2021: AI vs humans"
-    excerpt: "The simple existence of both human and AI translation doesn’t make them enemies. Vice versa, it’s great if you combine these types to get the best from each of them."
-    publishedDateTime: 2021-06-03T13:46:00Z
-    webUrl: "https://knowtechie.com/online-translation-in-2021-ai-vs-humans/"
+  - title: "AI still sucks at moderating hate speech"
+    excerpt: "For all of the recent advances in language AI technology, it still struggles with one of the most basic applications. In a new study, scientists tested four of the best AI systems for detecting hate speech and found that all of them struggled in different ways to distinguish toxic and innocuous sentences."
+    publishedDateTime: 2021-06-04T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/"
+    ampWebUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/03/google-translate-transcribe-feature-3-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/bananaflage-b.jpg?w=3000"
+        width: 3000
+        height: 1993
         isCached: true
-  - title: "Speech Rights and Artificial Intelligence"
-    excerpt: "Today we are seeing the phenomenon of 'machine speech' enhanced by the development of sophisticated artificial intelligence. Ronald K. L. Collins and David M. Skover argue that the First Amendment must provide defenses and justifications for covering and protecting robotic expression."
-    publishedDateTime: 2021-06-06T11:06:00Z
-    webUrl: "https://www.cambridge.org/it/academic/subjects/law/constitutional-and-administrative-law/robotica-speech-rights-and-artificial-intelligence?format=PB&isbn=9781108448710"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 21
 
 secured: "dcTC6JvFEzD7JJ7fu1/gkmJemgAPIG6zxmUtdlj4DvJ/6rl6FWwuFNwEdcEaLij0mikCfq+i6O9DNBs7dcifYHU6Bjr38UblXd7lVrwv+vbJ89tpwbbi9l3rxPc5zJdNvh6qdNiBkpz3OeSFI3E0TZegjgc7KToqK6HAc2KbH5MSMKP5L1+8NI+XOHq1rQoo0mUst32DN95NYm7nG3TC31Ozb+r6YUMhfLbla22VQcfTXAxCK7xOsBPnThrOIrJfaUuoAFfUrXEOJmp8/ixaGxTS5kizw8Enpu6wOS8ciAIGdIVlhb1gxEP3pBRJ6hiOipP4HRJb+MSL1D1M2mATSabGk5NyZdfDaxjm55TUvuhIf7p6GFvu8tLoGZ9nrr3od/c77sGZm9qeTAMcvOtHsNPSYd0xzZAVaaFL8QF21ZOd8ps4rWKPByQqK8E+8jqs6k4yp3Fwdh9OER4ii60L2EzBLYa2q+CJyzE5dhCBuDdwqw3wxzNJ93AK8d2GF/8z1T3/2bDEZKP32oKa5wZhyQ==;YsV16tgf378Xkd1YhAND7w=="
 ---

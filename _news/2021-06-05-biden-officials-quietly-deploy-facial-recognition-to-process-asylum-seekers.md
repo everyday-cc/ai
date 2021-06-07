@@ -112,17 +112,6 @@ related:
       name: Denton Record-Chronicle
       domain: dentonrc.com
     quality: 19
-  - title: "Arab Council of Australia continues calls for federal recognition of Armenian Genocide"
-    excerpt: "ARMENPRESS. Following the 106th Anniversary of the Armenian Genocide and Prime Minister Scott Morrison's statement falling short of accurately characterizing the events of 1915, the Arab Council of Australia has joined a growing number of community organizations in calling for the Federal Government to recognize the Armenian,"
-    publishedDateTime: 2021-06-02T09:31:00Z
-    webUrl: "https://armenpress.am/eng/news/1054146.html"
-    ampWebUrl: "https://armenpress.am/eng/amp/1054146"
-    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1054146"
-    type: article
-    provider:
-      name: Armenpress
-      domain: armenpress.am
-    quality: 16
 
 secured: "f0qV8wb/DPOLVJOvHsDMUpJUSvtgyGsIPzz73OLjbRUHwRVVAN9FC8kUMw11fcTqXHXN5LeOrZ1xDQCzAYosya1gIgcFhfGYpgXyNg5NkJPxclzQ/iGtitmTEORXrakP1REip4O+UeM4w8sWLTBWvYHzrSCA3IrggLx0M4bJAmFYcPC9ZOYiCgVXVAl8VCNMWjZYrUNjNd7hahvqGsTOM6mIZVLBJpxXdndEeuxpLyaYeFIY6+MFK6fjQk7RMm+fCF5bjOoxBHtHFF3zRhVGv8/DHe9JC2yEHeqZm2+zCaDPEX9SzWgEKbUligl9bUVbH7RcjmSD8xJZJMIlCCqHYO5cRtPUAvknevsvSWuDN/zZ3P9TuSXASeZwnfL4+MLm5PBOXQS99udEmjH1i/axxZ2vIV7+Sn4PjtORjUVdMqax2SiPh9Qoco6N93hbbFWwb3CpmygU6HmCAKGKnL7SuFopcurFtGZ6FgSHwj7/J3I47Qi8iJ85oRY3Oem7FkWoPMqOIF8UdfjZCkJdWjDfSQ==;k2LSOIBNoTS4mFnNOLK8vQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-edgecortix-collaborates-with-caden
 webUrl: "https://www.tmcnet.com/usubmit/-edgecortix-collaborates-with-cadence-accelerate-ai-chip-design-/2021/06/02/9382558.htm"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "EdgeCortix Collaborates With Cadence To Accelerate AI Chip Design"
-    excerpt: "Cadence today announced that EdgeCortix, Inc has deployed multiple Cadence tools to accelerate the design and verification of its edge AI chips."
-    publishedDateTime: 2021-06-02T18:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210602005272/en/EdgeCortix-Collaborates-With-Cadence-To-Accelerate-AI-Chip-Design/?feedref=JjAwJuNHiystnCoBq_hl-cFcUWvK4NSyDWO6DSHmLQqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu6AeRucmCP4ZHknI_zC0f97"
+  - title: "TruEra launches TruEra Monitoring to accurately debug AI in production"
+    excerpt: "TruEra Inc., an artificial intelligence quality solutions and explainability specialist company, today announced the launch of TruEra Monitoring, the first highly accurate debugging solution for monitoring machine learning models in production."
+    publishedDateTime: 2021-06-02T16:13:00Z
+    webUrl: "https://siliconangle.com/2021/06/02/truera-launches-truera-monitoring-accurately-debug-ai-production/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/web-4687387_1920-geralt-pixabay.jpeg"
+        width: 1920
+        height: 1077
+        isCached: true
   - title: "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment"
     excerpt: "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,"
     publishedDateTime: 2021-06-02T14:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chooch-ai-integrates-synthetic-data-generation-radically-accelerate-/2021/06/02/9382468.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm"
     type: article
     provider:
       name: TMCnet

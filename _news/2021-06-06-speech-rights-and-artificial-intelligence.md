@@ -20,48 +20,34 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Catching up on Build 2021: AI and Arm"
-    excerpt: "What were the key announcements at Build this year? I’ve already looked at the Azure data platform updates, so it’s worth a quick dive into what I think are the most important pieces of news for anyone building applications on Microsoft platforms,"
-    publishedDateTime: 2021-06-02T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html"
-    ampWebUrl: "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html"
+  - title: "10 Ways AI And Automation Can Help Agencies Succeed"
+    excerpt: "Artificial intelligence and automation have transformed the way people do business and show no sign of slowing down. Smart agencies are seeking new ways to leverage both."
+    publishedDateTime: 2021-06-02T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2019/02/programmer_graduate_certification_megaphone_announcement_bull-horn-100787980-large.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b69b04d65af80e8d7dd319%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 580
         isCached: true
-  - title: "Mastering artificial intelligence and machine learning"
-    excerpt: "Control Engineering - Just a few decades ago, artificial intelligence (AI) was the stuff of science fiction, but has since become part of our daily lives. In manufacturing, it"
-    publishedDateTime: 2021-06-06T09:02:00Z
-    webUrl: "https://www.controleng.com/articles/mastering-artificial-intelligence-and-machine-learning/"
+  - title: "Automation, AI keys to rubber industry's future success"
+    excerpt: "And while the pace of technological advancement—and the adoption of the technology throughout the rubber industry—can feel overwhelming, LabsCubed CEO Khaled Boqaileh contends it doesn't have to be. In a presentation given during the virtual Rubber in Automotive Conference hosted June 1-3 by Rubber & Plastics News,"
+    publishedDateTime: 2021-06-04T12:00:00Z
+    webUrl: "https://www.rubbernews.com/news/automation-ai-keys-rubber-industrys-future-success"
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 54
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/06/CTL2106_WEB_IMG_xAI-Fraunhofer-IPA.jpeg"
-        width: 645
-        height: 350
-        isCached: true
-  - title: "Online translation in 2021: AI vs humans"
-    excerpt: "The simple existence of both human and AI translation doesn’t make them enemies. Vice versa, it’s great if you combine these types to get the best from each of them."
-    publishedDateTime: 2021-06-03T13:46:00Z
-    webUrl: "https://knowtechie.com/online-translation-in-2021-ai-vs-humans/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
+      name: Rubber and Plastics News
+      domain: rubbernews.com
     quality: 39
     images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/03/google-translate-transcribe-feature-3-1000x600.jpg"
-        width: 1000
+      - url: "https://www.rubbernews.com/s3/files/styles/800x600/public/Industry%204.0-main_i.jpg"
+        width: 800
         height: 600
         isCached: true
 

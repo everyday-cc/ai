@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/canon-eos-r3-update/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-eos-r3-update/?amp=true"
 type: article
 quality: 74
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canon EOS R3 will shoot RAW at 30fps, RAW footage internally"
-    excerpt: "Auto Focus (AF) tracking for motorsports including racing cars and motorbikes and the ability to record oversampled 4K video are two of the features of the EOS R3 now revealed by Canon. As the company did before with another R family camera,"
-    publishedDateTime: 2021-06-02T09:05:00Z
-    webUrl: "https://www.provideocoalition.com/canon-eos-r3-will-shoot-raw-at-30fps-raw-footage-internally/"
-    ampWebUrl: "https://www.provideocoalition.com/canon-eos-r3-will-shoot-raw-at-30fps-raw-footage-internally/amp/"
-    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/canon-eos-r3-will-shoot-raw-at-30fps-raw-footage-internally/amp/"
-    type: article
-    provider:
-      name: provideocoalition.com
-      domain: provideocoalition.com
-    quality: 44
-    images:
-      - url: "https://www.provideocoalition.com/wp-content/uploads/canoneosr3002.jpg"
-        width: 1420
-        height: 946
-        isCached: true
-  - title: "Canon EOS R3 - What We Know So Far"
-    excerpt: "More information on the new Canon EOS R3 has been released by Canon. Here's some new information on this flagship camera."
-    publishedDateTime: 2021-06-02T10:37:00Z
-    webUrl: "https://www.ephotozine.com/article/canon-eos-r3---what-we-know-so-far-35465"
-    type: article
-    provider:
-      name: ePHOTOzine
-      domain: ephotozine.com
-    quality: 24
-    images:
-      - url: "https://www.ephotozine.com/articles/more-details-on-the-canon-eos-r3-announced-35465/images/xlg_eos-r3-rear_gallery_1622628306.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "AF tracking for racing cars and motorbikes – more details of Canon’s EOS R3 revealed – a high-speed, high-performance mirrorless"
     excerpt: "Following Canon Inc.’s ( initial development announcement of the EOS R3 ( – its latest high-performance, high-speed professional mirrorless camera – more details have been revealed today confirming it marks a new era for sports,"
     publishedDateTime: 2021-06-02T12:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wionews.com/trending/artificial-intelligence-for-conserv
 cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp"
 type: article
 quality: 60
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -112,17 +112,6 @@ related:
       name: Denton Record-Chronicle
       domain: dentonrc.com
     quality: 19
-  - title: "Arab Council of Australia continues calls for federal recognition of Armenian Genocide"
-    excerpt: "ARMENPRESS. Following the 106th Anniversary of the Armenian Genocide and Prime Minister Scott Morrison's statement falling short of accurately characterizing the events of 1915, the Arab Council of Australia has joined a growing number of community organizations in calling for the Federal Government to recognize the Armenian,"
-    publishedDateTime: 2021-06-02T09:31:00Z
-    webUrl: "https://armenpress.am/eng/news/1054146.html"
-    ampWebUrl: "https://armenpress.am/eng/amp/1054146"
-    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1054146"
-    type: article
-    provider:
-      name: Armenpress
-      domain: armenpress.am
-    quality: 16
 
 secured: "N1LqGZnicaVvq7tFXbzLobH9Tf8/bNHwys9E/7M1nrqNiRO7vpk+UsVP3xql2h9vdAExGHh+3YBZOiDBmrVw7xRDHkeyChnezIxxqRDVerBrFRFxTJKSpQZGDdmU5sGVgiYSKK93lQ69QyS2h6qyyS81QRGeUNR+8lvlxTl2IrW2oHl4WJsoR6mm6Wto2JieDvjM73Zx1Se4aW02gYjt2znINY6iyoeu3JllrYMPSe646NxrV/S2jFSRjyNzHBtlyhYmtrSwUgx2fk1gpyKyYhYVFE564MPqex1fyhuzUhoCwurR5eWQnOGEbD+4UPDF5Q6S/TeZUsq0NcTYkQmlvOMVwUiY+Tn1SUt40SERwsA=;Oqm/SkBtf+uF30BMSBCkfg=="
 ---

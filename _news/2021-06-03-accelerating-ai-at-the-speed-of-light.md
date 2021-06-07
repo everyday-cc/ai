@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-lig
 webUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/bananaflage-b.jpg?w=3000"
         width: 3000
         height: 1993
+        isCached: true
+  - title: "Mastering artificial intelligence and machine learning"
+    excerpt: "Control Engineering - Just a few decades ago, artificial intelligence (AI) was the stuff of science fiction, but has since become part of our daily lives. In manufacturing, it"
+    publishedDateTime: 2021-06-06T09:02:00Z
+    webUrl: "https://www.controleng.com/articles/mastering-artificial-intelligence-and-machine-learning/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 54
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/06/CTL2106_WEB_IMG_xAI-Fraunhofer-IPA.jpeg"
+        width: 645
+        height: 350
         isCached: true
 
 secured: "r0S96nfn/3E0256xNMA3uZCd1JQ1sBrUeiFDFGddk+2earQWjjRPy+JQ0Bu3v270Ambz/VvgikAHfAp0jpqtrwz2pUqIlCdLycQ99plKtRBn6FF2ysd2QEXw0WM8YkpHNSuwPG3HogPi15VywCkxeShFADrhEKELF/VZKd5RB+OH2naUQMJ9Q8xH9XzxgPqFYnFPBq2qVr8E/6yHwNKZlfvkaFvOkiWitllXUEln1cDM5aYs2aMzuYchi7JXQUbIubclaOCYRogwT/eJ4F0wEyRJyxVqIAo7+s9VA0GHwRdt5JOdBGPu8n4ujT9MUhjXfXqqdgLeSBbwvmbvK4sLXEtVyQR9TTLS/HAfmbeVTidGBaYr6vF4PEeLYqV9ldWb5Sbr9zzZqv2R/Tt3win2H5uguByp9KNZCyVYKA8ZjncvxKysHsZbIvCtyBMRD/nTuTUcpZdgUkabFOP8DAcX6qVMPJnra0LglpljELumdwBEUcMCcHXyXnM0m7LbbVeF6bZhyycJ3rj8o25yZJWbYA==;Bf+l+ENwTr0e++7fK6jZeQ=="

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 580
         isCached: true
+  - title: "Speech Rights and Artificial Intelligence"
+    excerpt: "Today we are seeing the phenomenon of 'machine speech' enhanced by the development of sophisticated artificial intelligence. Ronald K. L. Collins and David M. Skover argue that the First Amendment must provide defenses and justifications for covering and protecting robotic expression."
+    publishedDateTime: 2021-06-06T11:06:00Z
+    webUrl: "https://www.cambridge.org/it/academic/subjects/law/constitutional-and-administrative-law/robotica-speech-rights-and-artificial-intelligence?format=PB&isbn=9781108448710"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 21
 
 secured: "IiAm1O7F3BRGqWR5/nCQZrh29IB3xMHAuqjJGL5qTv8RGnAqML5Bw2BvY3ujAusXBxdOGgq7H4rXsGMBpqWuGpw65wTU7dulpVQYhTv3s9Bxx1mgP8jTo1OpTq+BmUXO3A5S/1sg+7PKLxrieFvgmg7+oA9VjASrT3L9biNrJNRkA1RZu11Nii7vSQbhfCqpzbH3ok3o3+QfCPap8qaqtEpCQsK+c6HnYl9MFmBL9BqrEPxJcO+DS+Ou1sv2h4+wPgVZ+kHfkDGAFAcfjS6XuLoj+cvZaT72ZzixGK1hSGIurcLN9nIBvfH5rHltTvhx0rFe0lH0NaQ+Wf0HDn1QKdaCWeloxJP9SK+jr4VK2J4=;Wfuz2JnAZkbDmOPfGgHpwQ=="
 ---

@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA pivots to AI for enterprises"
-    excerpt: "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products."
-    publishedDateTime: 2021-06-02T09:52:00Z
-    webUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises"
-    ampWebUrl: "https://diginomica.com/nvidia-pivots-ai-enterprises?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp"
+  - title: "AI funding frenzy tags cloud-scale as the point of differentiation"
+    excerpt: "Data is at the core of today’s digital revolution, but its refinement processes have become points of differentiation for enterprises. As companies convert raw data into actionable insights, artificial intelligence signals a burgeoning ecosystem of management models."
+    publishedDateTime: 2021-06-03T20:21:00Z
+    webUrl: "https://siliconangle.com/2021/06/03/ai-funding-frenzy-tags-cloud-scale-point-differentiation-awsshowcase2q21/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 63
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png"
-        width: 1124
-        height: 760
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Overview, Demand, and Growth | Top Companies – Intel Corporation, Nvidia Corporation, Google."
-    excerpt: "The Artificial Intelligence In Healthcare Market is expected to grow at a CAGR of 7.67% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report."
-    publishedDateTime: 2021-06-04T12:27:00Z
-    webUrl: "https://ksusentinel.com/2021/06/04/artificial-intelligence-in-healthcare-market-overview-demand-and-growth-top-companies-intel-corporation-nvidia-corporation-google/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Key-Questions-Answered-in-Report-1-1.jpg"
-        width: 573
-        height: 595
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/AI-thumbs-funding-market-up-rise-arrow-growth.jpg"
+        width: 5760
+        height: 3152
         isCached: true
 
 secured: "gb/USBgy7GQzTtxIInztRjjZqlns5Kb9itJFls4f+aPHjZ6FQOJxIIGfuse0QQCaOJJ+S67s/JP6VBZE3VsCUZ2VYiwzZKxzdyw8lkhL/rYcuD/qG4u+dnPAlIdJQRNQ6aJda6+9HC2qxyG3iTuN1o98xi/fv2sJoX/sNQXIU7SBB4zOqr1sE6A9A9UWpt5LoEVwEQVVHtrVBK9xNo8AIJa1TY67P5qdnBxw+6wKE767hDaiWcCk041pZdcJYVzUXQU2VVu40wGZYYnFS/uRDiwMG/z0++k2FQYVxb1W/O/XOuMC7U57D4PTo4GT8BJIRkc4SPCUOgtnFTUkBIce8EKbXLOg7LH9c8SEQDlHWKc=;uc4Q7lnggV9yhU8Tsqm1ww=="

@@ -111,17 +111,6 @@ related:
         width: 899
         height: 599
         isCached: true
-  - title: "Arab Council of Australia continues calls for federal recognition of Armenian Genocide"
-    excerpt: "ARMENPRESS. Following the 106th Anniversary of the Armenian Genocide and Prime Minister Scott Morrison's statement falling short of accurately characterizing the events of 1915, the Arab Council of Australia has joined a growing number of community organizations in calling for the Federal Government to recognize the Armenian,"
-    publishedDateTime: 2021-06-02T09:31:00Z
-    webUrl: "https://armenpress.am/eng/news/1054146.html"
-    ampWebUrl: "https://armenpress.am/eng/amp/1054146"
-    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1054146"
-    type: article
-    provider:
-      name: Armenpress
-      domain: armenpress.am
-    quality: 16
 
 secured: "YM2B0LKLzMluR6gQjzLoyfvycDvgmyCuMt833pHjZr/zRyPLU1WNjXTgJ0vcBUSuw14E8GzSO0jTvYml7Ktu8B2vSLOyUYZCpkzme39xpKClCpF85QoaObPQEnbGk+Ux5xgsYSdvIUTfVuau4bd5TQUZS/uEaff4GcLssTpXGfKmj6786/IoViz+EL7C6AKujM8XDFFmxRH6b28AR6aMGKJMcoFbDTypRahF3VAyhRQcEnRa88C6YX9Y2pLrU/AVqdi0FtOQGFVdn7xkNBJ4Cf4KHiprulRQCq0uXVwjrC1/spf8e1gjrvO5XzNfw8PUCYBcLLa2zx7ku/JUW1TuX3npcxnWzYdatQDzT0LzCZ0=;P95GYXGNqX6c6POoPPoJqA=="
 ---

@@ -38,14 +38,16 @@ related:
         height: 512
         isCached: true
   - title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
-    publishedDateTime: 2021-06-02T15:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
+    publishedDateTime: 2021-06-02T15:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21392407"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
 
 secured: "luA42/A+YxiTmbT0xi/Cr/fSUZk6ikStouD/FTOzvXp1EQ3rXrnRbb1ca14qUaKT7oFC7GeJAD4DDxgQFqQAzVLIZr5Kq4qltuZ0mcP/H2WpcTLemcZBaXjKeFU/nj3GF9wF7mM+vwNG33DkTvYo4wdz2hTDnHc+APy32NGpA2Eh/87CxcWR8m6kFbSp2b1tS5UPLQOF5nAR33xGWe+O3+PUEEhduC1Hv1hE4B4fm3087b079dYjilzEpcq50IhKXg3AAI3cS1BXRgwoh0PuEqhkL+ukJgqy7US1CC/nUx2WFE2NlHS/+SoaXrn+VCibRDV3X2O1TZ3OUQ1HGWI+mP3BgCzexWujtwbh7GiEmLI=;aW56ebzuCbN7k3ieDQ59Fw=="
 ---
