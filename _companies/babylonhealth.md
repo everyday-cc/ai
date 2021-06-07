@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "babylonhealth"
   url: "https://twitter.com/babylonhealth"
-  followers: 12760
+  followers: 12761
 
 size: 1,001-5,000 employees
 yearFounded: 2013
