@@ -71,20 +71,6 @@ related:
         width: 2121
         height: 1193
         isCached: true
-  - title: "Accelerating AI at the speed of light"
-    excerpt: "MIT alumnus Yichen Shen PhD '16 is the CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence."
-    publishedDateTime: 2021-06-02T19:25:00Z
-    webUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202105/yichen-shen.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Inside the $5 Million Competition Defining the Future of Artificial Intelligence"
     excerpt: "Time to hit pause on those dystopian, Terminator-esque visions of the future. AI for Good is here, and it’s helping us rescue victims of human trafficking, defeat depression, and end malaria. In the words of our machine friends (not overlords!"
     publishedDateTime: 2021-06-03T16:25:00Z

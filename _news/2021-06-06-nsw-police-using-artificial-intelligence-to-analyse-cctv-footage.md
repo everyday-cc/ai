@@ -40,7 +40,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 89
+    quality: 91
     images:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623057900/NSW_Police_Insights_Microsoft.jpg"
         width: 1260

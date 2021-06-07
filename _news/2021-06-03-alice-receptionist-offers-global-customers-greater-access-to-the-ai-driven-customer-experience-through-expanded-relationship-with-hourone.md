@@ -49,6 +49,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use"
+    excerpt: "AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI ® Ex Machina, its no-code solution that anyone can use to generate actionable enterprise AI insights, has seen significant growth in its first full quarter of release."
+    publishedDateTime: 2021-06-07T13:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-c3-ai-ex-machina-customers-experience-success-/2021/06/07/9384995.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "jzkSD64sexLUQgHCIT1LheLU1eJvlnxztkVHGcVj/1Ui0EzOStuL0QAna5tld2qMR/w3MVv66Wyi6EuJbfWwFO1Q6/yxHVwxSWeASfxyD9BxmIqW6er8fUFGtHTeLhafsnPfhyENOMDxa/3vFex9pZppLl3jC+WrFzs7gx0DVOQstP9WNrCC+N0Wp+WaiCaMuTJsttVBAqyb4VrmBUQdhRKxb3YIhdMD1HwkOopP71Mn1h7/m2I6ByEZgbfA/4BEU/4u1CjR5/bI8Kz+7GYxv/zGPsuEfbiHKWBGQoFNoMcM3jV1SPRcJroRQ4Q0sGHFAAc6Qh0oMSJuRR+z8xAZ5ReGYuXL9encrEyvQGJTvPc=;DIkhR0MYHKuvWB3tlechRw=="
 ---

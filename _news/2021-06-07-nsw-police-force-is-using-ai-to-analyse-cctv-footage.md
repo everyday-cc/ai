@@ -8,8 +8,8 @@ webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/ns
 ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623057900/NSW_Police_Insights_Microsoft.jpg"
@@ -48,6 +49,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "f1Six9Fni2N8S5wbSZl6F2DihrNqnN+YQlUzt2jCykL763T4e55Y69tENdObtRepjOs6pjXIS2SC4+mgIeiei5F58g+umseH0BHvrQHjL+NS4EkxD4yxH4PUDlcoqEIaL2UKGJtZFw1NFRj6lc6Q2aRC2B7RB6wlj6cZct2C2Jn5a1b5tGuq8JI0ocs9y+yDw0XrI1MIsxo+hNV8NjxPzmM+DH84UPHYjkLAJHGXGsbZCyIuxTaQ8f5DPWQJDuJOYbeFigjtSPrXTSf+SBKsHI39Y2EDCMfFkJMnOUW7Z4cUvqCC6Q/WytXQS+W6yOQtYhhoazgquviMSits4hiiKX5E2kcb0uUlxrpkiGUI8TQ=;ADcgtr6YYs9n/xTdf/Fw1Q=="
+secured: "E+vEVG2uxIo/spEAAOkiDmqAcv/kJ2msnzp/lxVl3zb4IiqBAPmWc97L69jwF3R9OJg9wgOqhMMyslZYGs9EkA1ZBJm7RCboUNDMRJTIHysiTEbxwbGmAuOopj/XKtevTtadm4y2J1Elhig0m8fNxQNfKk0rBE0beiU+C1Xaz4lFlvptg+4E6UHPwVt9kRwpi9Ji+oijX4kv+/pSeIcoXJFtOfrBPd3f6QLvyFFSUiM4W5ev7SnusEQI9MrgSRaS2DZksAz0VQanO3EVVfQG2WjeneKBdmyR+m7xRecPwZJ7R2n5Yeb2bP0msAOVzYurTaQ1IKn35MN7+80vIb4jPd2fx65vxlJTV3CxXEjLdHKN3hbiHk8fo9WfAZjITJjuKWNjQm6rlQ6S1ybpQHIZZ7y3jzrD9/JknxW15Vpi+5woH/ddSqhxRZPrmRboGfd1z/ws2guKZe2PGwAvqBfGTIxTj+TffAK5uttL6YwKGV07ShGekYgNgsIqy11Sr/J6cMXYBEGrvdBa7CcdxGNJ4A==;kbUkx74aq9IUGQwp7hfEyA=="
 ---
 

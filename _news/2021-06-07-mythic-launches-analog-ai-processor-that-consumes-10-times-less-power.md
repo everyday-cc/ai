@@ -1,0 +1,53 @@
+---
+category: news
+title: "Mythic launches analog AI processor that consumes 10 times less power"
+excerpt: "Analog AI processor company Mythic launched its M1076 Analog Matrix Processor today to provide low-power AI processing."
+publishedDateTime: 2021-06-07T13:00:00Z
+originalUrl: "https://venturebeat.com/2021/06/07/mythic-launches-analog-ai-processor-that-consumes-10-times-less-power/"
+webUrl: "https://venturebeat.com/2021/06/07/mythic-launches-analog-ai-processor-that-consumes-10-times-less-power/"
+ampWebUrl: "https://venturebeat.com/2021/06/07/mythic-launches-analog-ai-processor-that-consumes-10-times-less-power/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/07/mythic-launches-analog-ai-processor-that-consumes-10-times-less-power/amp/"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/05/mythic-chip-6.jpg?w=1200&strip=all"
+    width: 1200
+    height: 759
+    isCached: true
+
+related:
+  - title: "Mythic Launches Industry First Analog AI Chip"
+    excerpt: "Some cutting-edge AI chip developers including Intel and IBM are researching an entirely new approach: in-memory analog computation. Mythic is ready to ship it."
+    publishedDateTime: 2021-06-07T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5db071e5a210800006f04019%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D130%26cropY1%3D0%26cropY2%3D130"
+        width: 400
+        height: 400
+        isCached: true
+
+secured: "jU/1eClrWa32V0j0aFWHjvSghymvLMua/5/HHxf4pP3aP+mCRkxhJ47vivyCwqngeUtng6au9lTyYkidPDeBUXpR7RjE2ANxTOA36hCETu+UWWnQJo5l+kYNCjX+AwPOD8fLMSugCViA17bKA3J0313R+R3GQ3UBXkZ4TP6SihVlFlaMs8XJRNulVzQanbOHpMoU1xNg38l8B+pPlTYpGoKBjjs7ZbNBuvn+L5Ji1iYMUqbdSNlIzY9G5L4r0ihRsGjWBAshfHnwhIWzm2cEP7t8Xtao7UBnjJP1Gl1aW1cvVhinwCRv3bPkBRsDhbbWk2/6txffOHyoRrW1UW+qIXfT6SOB2UZcM1YlLeTJn2U=;7Ee3K3+PEfE2kKn7t+ioWg=="
+---
+

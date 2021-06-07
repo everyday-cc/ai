@@ -58,20 +58,6 @@ related:
         width: 1600
         height: 1069
         isCached: true
-  - title: "Facebook goes all in on PyTorch at F8 Refresh"
-    excerpt: "Facebook announced it is making PyTorch its default framework for artificial intelligence and machine learning models at F8 Refresh"
-    publishedDateTime: 2021-06-02T20:14:00Z
-    webUrl: "https://sdtimes.com/ai/facebook-goes-all-in-on-pytorch-at-f8-refresh/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/06/188312344_815031316108839_2321062690728749306_n.png"
-        width: 1000
-        height: 653
-        isCached: true
 
 secured: "qKH0h7jtrnYVezDlPExRfni+9LnhKDALKb6973brLysHWgtQ98W6HU0Y7fxGXsrcr8qv47zmE4uKDP2esAHwGtURRCxaud1+l8n7oOkG6BeO7UBtpBmBAQfvrDRGEk33SchSJ8d9zRZD5rOCDLZmeSUr6GrM09hYg78Y+2pzdfj3OWwaX8lOGkcXtGXbWsqLrfkCDPEO+CIuFjSm1cmuVjdNfDlhokLjflq/k+dA2p2KP8mZsJZLgT6qZG71IaDcxUU4wLShWfr48rxxfgqoIq8rEhKEBTd/9mdOJ76F3ND3YrGLq09jLcu+vDwT7cZUV3lskEoK6eRYCCjElSbWulKRhQLKIShZahuR6UK9HTsRtGLHnW8ZknCKC7xw2Gb7tFkcfEoPepW72b1FAjwKVuoW7ZeIP+4WuQpcya5eeygyZU19fNgoMyUIZpSvb8MCWufTyNpdAbnJCDzmlt5bo1h/XC41I5J5NEWmEJN0pSa/MOHouMq/mX1CQx2wXtKZlyK/I4A/E67Kx8UewOZ/VQ==;7w57nXw07kHJ8r3ySRxVCg=="
 ---

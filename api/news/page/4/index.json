@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-03-aws-deeplearningai-partner-on-data-science-specialization.md",
+      "title": "AWS, DeepLearning.AI Partner On Data Science Specialization",
+      "excerpt": "Amazon Web Services and DeepLearning.AI have developed a new Data Science Specialization to help data professionals master machine learning essentials and deploy data science projects at scale in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/aws-deeplearning-ai-partner-on-data-science-specialization",
+      "originalUrl": "https://www.crn.com/news/cloud/aws-deeplearning-ai-partner-on-data-science-specialization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/img/CRN_stacked_1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-the-ibm-research-ai-hardware-center-an-update.md",
+      "title": "The IBM Research AI Hardware Center: An Update",
+      "excerpt": "Celebrating its two-year anniversary, the Center announces innovative AI acceleration technologies along with nearly tripling its cadre of memberships. The IBM Research AI Hardware Center is the nexus",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60abe0b98e463609ef56ead6%2F0x0.png",
+          "width": 696,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/amp/",
+      "publishedDateTime": "2021-06-02T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-interact-with-an-amazon-lex-v2-bot-with-the-aws-cli-aws-sdk-for-python-boto3-and-aws-sdk-for-dotnet.md",
+      "title": "Interact with an Amazon Lex V2 bot with the AWS CLI, AWS SDK for Python (Boto3), and AWS SDK for DotNet",
+      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 console and APIs make it easier to build, deploy, and manage bots. The Amazon Lex V2 console and APIs provide a simple information architecture in which the bot intents and slot types are scoped",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interact-with-an-amazon-lex2v2-bot-with-the-aws-cli-aws-sdk-for-python-and-aws-sdk-dotnet/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/interact-with-an-amazon-lex2v2-bot-with-the-aws-cli-aws-sdk-for-python-and-aws-sdk-dotnet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/1-2920-Chat.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T13:32:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-heres-why-the-us-continues-to-beat-china-in-the-ai-race.md",
       "title": "Here’s why the US continues to beat China in the AI race",
       "excerpt": "China's meteoric rise to prominence in the global AI race has been surprising, but there's little reason for the US to fear losing the top spot.",
@@ -499,31 +645,22 @@
       "title": "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies",
       "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382200.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T05:41:00-07:00",
+      "publishedDateTime": "2021-06-02T05:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1024,147 +1161,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
-      "title": "NVIDIA pivots to AI for enterprises",
-      "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
-      "originalUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png",
-          "width": 1124,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp",
-      "publishedDateTime": "2021-06-02T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp.md",
-      "title": "AI-driven platform to facilitate early Covid intervention over WhatsApp",
-      "excerpt": "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308",
-      "originalUrl": "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1701412699.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308",
-      "publishedDateTime": "2021-06-02T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-few-shot-learning.md",
-      "title": "Amazon AWS Machine Learning Summit keynote kicks off with ‘few-shot learning’",
-      "excerpt": "Amazon AWS's AI and machine learning executives Swami Sivasubramanian and Bratin Saha lead the morning keynote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
-          "width": 1782,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
-      "publishedDateTime": "2021-06-02T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

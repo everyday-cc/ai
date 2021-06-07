@@ -41,6 +41,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use"
+    excerpt: "AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI ® Ex Machina, its no-code solution that anyone can use to generate actionable enterprise AI insights, has seen significant growth in its first full quarter of release."
+    publishedDateTime: 2021-06-07T13:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-c3-ai-ex-machina-customers-experience-success-/2021/06/07/9384995.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
   - title: "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne"
     excerpt: "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor management technology by WinTech, LLC, has expanded their relationship to enable an instant offering in multiple languages,"
     publishedDateTime: 2021-06-03T12:09:00Z

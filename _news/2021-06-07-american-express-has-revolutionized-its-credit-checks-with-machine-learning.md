@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/american-express-has-revolutionized-its-credit-c
 ampWebUrl: "https://diginomica.com/american-express-has-revolutionized-its-credit-checks-machine-learning?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/american-express-has-revolutionized-its-credit-checks-machine-learning?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "http://diginomica.com/sites/default/files/images/2021-06/36645210-F1E8-4483-A61B-BE584EED32E8.png"

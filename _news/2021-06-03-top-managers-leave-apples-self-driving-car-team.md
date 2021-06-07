@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leav
 webUrl: "https://www.bloomberg.com/news/videos/2021-06-03/top-managers-leave-apple-s-self-driving-car-team-video"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Apple's self-driving car division has lost 3 top managers this year"
-    excerpt: "The departures from Apple's car team come as it is reportedly aiming to produce a self-driving passenger vehicle in 2024 with a game-changing battery of its own device."
-    publishedDateTime: 2021-06-02T19:30:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/02/apple-self-driving-car-unit-loses-3-top-managers.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "vlHxcM4PUMoIXVxCPKa7cHLPMdcKLhyytKXQA0DcE3tT4H7h5v2vTZrO7erLzWli3PSsya6Gn3C/GVS+qfOt7O9xeue0dhv8+jQWri6qRPQgtR6k2WcICCDUSQ3WKnuxQmjuebnVIaFnNXeNtqUx3tD/yRuduUPaB8ox819bfgKCb0EVG+0FoztfcvqXVuVzIJ1E0yKcRVVu/xmW/NvEfNX/DD8zvvCqR5d0FqVtXYCuhOhzvUjdPB3UpNwVVpbOw2y57EvLSiBb/7pdkCj4/efdAOy0QyqpMBatP4z6LyJ2Ujpms3zncjCwLJK9Ff3jy2VjbFMrT/xoyjAhmNY9CTyH+fQ8dXS38+YW/CeVm+gko24cMs6wUM/CvFc6x1z7mySSdHVb0W14b7pVkKqvrKEIYGY/tFmKtz5Ls0kVP1a7uOPdpI1pfSWLxp3k45o/uCs/q4b8vMOq4rFnA08n/xGtWKCXCzlmwIOe5S4mWKP7PTgW58xPeZUj9Nn232sWmhxUygjMfSQt57jVELcdeQ==;g7jaNOus0s064AM+lc8qLg=="
 ---

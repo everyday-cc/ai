@@ -121,20 +121,6 @@ related:
         width: 2440
         height: 1627
         isCached: true
-  - title: "Facial Recognition for Fish May Help Environmental Challenge"
-    excerpt: "Illinois researchers are prepping a test of a system to get Asian carp out of waterways while also helping native fish travel by working with Whooshh Innovations, a company known for the fish tube, or salmon cannon."
-    publishedDateTime: 2021-06-02T19:38:00Z
-    webUrl: "https://www.govtech.com/products/facial-recognition-for-fish-may-help-environmental-challenge"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/e61ab23/2147483647/strip/true/crop/770x374+0+69/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F21%2F97%2Fd00f65636598110cc7631c7c7736%2Ffish.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
     excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."
     publishedDateTime: 2021-06-03T23:05:00Z

@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-05-ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap.md",
+      "title": "AI Weekly: China’s massive multimodal model highlights AI research gap",
+      "excerpt": "China's massive new AI model, which can ostensibly understand multiple modes of media, highlights the growing AI research gap between nations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/",
+      "originalUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/amp/",
+      "publishedDateTime": "2021-06-04T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-if-all-models-are-wrong-why-do-we-give-them-so-much-power.md",
+      "title": "If ‘All Models Are Wrong,’ Why Do We Give Them So Much Power?",
+      "excerpt": "I’m Ezra Klein and this is “The Ezra Klein Show.” [MUSIC PLAYING] So before we get started, a bit of housekeeping, promotional kind of thing. There is a sub-Reddit, a page on Reddit for this show. I’m not involved in it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/04/opinion/04eks-christian-image/04eks-christian-image-facebookJumbo.jpg",
+          "width": 902,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html",
+      "publishedDateTime": "2021-06-04T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-build-an-automatic-inventory-solution-with-public-datasets-and-amazon-rekognition-custom-labels.md",
+      "title": "Build an Automatic Inventory Solution with public datasets and Amazon Rekognition Custom Labels",
+      "excerpt": "Inventorying store items is a general demand for retail stores and supermarkets. This is usually performed manually by counting items and visually checking the correct placement. Tracking changes in inventory helps business owners evaluate performance of each product, validate correct placement, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/5-1361-Soda.jpg",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T10:24:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-how-ai-can-simplify-streamline-and-enhance-supply-chain-operations.md",
       "title": "How AI can simplify, streamline, and enhance supply chain operations",
       "excerpt": "The shift to advanced automation and AI was already underway as IT teams streamline and enhance their supply chain processes and operations.",
@@ -404,7 +561,7 @@
       "originalUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -1102,151 +1259,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
-      "title": "Biden’s AI czar focuses on societal risks, preventing harm",
-      "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
-      "originalUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280",
-          "width": 1280,
-          "height": 1130,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/",
-      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/",
-      "publishedDateTime": "2021-06-03T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAV-TV",
-        "domain": "wsav.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-artificial-intelligence-identifies-advanced-micro-devices-among-todays-top-buys.md",
-      "title": "Artificial Intelligence Identifies Advanced Micro Devices Among Today’s Top Buys",
-      "excerpt": "The Dow Jones dropped 160 points, the S&P 500 declined 0.6%, and the Nasdaq fell 0.8%. Find opportunities with today's Top Buys from Q.ai's deep learning algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/06/03/artificial-intelligence-identifies-advanced-micro-devices-among-todays-top-buys/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/06/03/artificial-intelligence-identifies-advanced-micro-devices-among-todays-top-buys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607993ac5a93ade13c7d5d77%2F0x0.jpg",
-          "width": 1200,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/06/03/artificial-intelligence-identifies-advanced-micro-devices-among-todays-top-buys/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/06/03/artificial-intelligence-identifies-advanced-micro-devices-among-todays-top-buys/amp/",
-      "publishedDateTime": "2021-06-03T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deepgram-beefs-up-conversational-ai-engagement-with-new-apis.md",
-      "title": "Deepgram beefs up conversational AI engagement with new APIs",
-      "excerpt": "Deepgram adds real-time capabilties to conversational AI platform to extend the number of potential use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/",
-      "originalUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Deepgram2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/",
-      "publishedDateTime": "2021-06-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,255 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-27-databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh.md",
+      "title": "Databricks unifies data science and engineering with a federated data mesh",
+      "excerpt": "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
+      "title": "Databricks ups AI ante with new AutoML engine and feature store",
+      "excerpt": "For the developer crowd as well as sophisticated business users, Databricks is introducing an AutoML (automated machine learning) engine; for data scientists, the company is adding a feature store.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-baidu-debuts-updated-ai-framework-and-rd-initiative.md",
+      "title": "Baidu debuts updated AI framework and R&D initiative",
+      "excerpt": "At its Wave Summit deep learning conference, Baidu announced updates to its PaddlePaddle machine learning framework and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/amp/",
+      "publishedDateTime": "2021-05-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms.md",
+      "title": "AI Ethics Teams Bulk Up in Size, Influence at Tech Firms",
+      "excerpt": "Artificial intelligence ethics teams are playing a greater role at tech companies and helping them deal with bias and fairness issues that have cropped up at companies such as Twitter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms-11622113202",
+      "originalUrl": "https://www.wsj.com/articles/ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms-11622113202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-344629/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-so-what-will-biden-tax-hikes-mean-for-investors-anyway.md",
+      "title": "So What Will Biden Tax Hikes Mean For Investors, Anyway?",
+      "excerpt": "If federal levies are going up, the trick is to gauge what the impact will be on investments. Here are some ideas.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/what-does-orwellian-mean-anyway-87404",
+      "originalUrl": "https://www.forbes.com/sites/lawrencelight/2021/05/27/so-what-will-biden-tax-hikes-mean-for-investors-anyway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/195614/original/file-20171121-6051-rgxhn5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/what-does-orwellian-mean-anyway-87404",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/what-does-orwellian-mean-anyway-87404",
+      "publishedDateTime": "2021-05-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision.md",
       "title": "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision",
       "excerpt": "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert vision giving industrial workers immediate access to the content,",
@@ -903,247 +1152,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
-      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "originalUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F01%252F08%252F6e%252Fcde31ac0debc4a54974622afc46c4242.e83a8.png%252F1200x630.png?signature=dW04es9FGsB6uLNoFow3pv8shcY=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
-      "publishedDateTime": "2021-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-rsa-conference-startup-competition-showcases-next-gen-cybersecurity.md",
-      "title": "RSA Conference Startup Competition Showcases Next Gen Cybersecurity",
-      "excerpt": "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/",
-      "originalUrl": "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lemonade-jk-jk-we-dont-use-facial-recognition-to-reject-your-insurance-claims.md",
-      "title": "Lemonade: JK, JK, We Don't Use Facial Recognition to Reject Your Insurance Claims",
-      "excerpt": "The insurance startup is walking back tweets saying its AI-trained facial recognition could detect fraudulent claims.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
-      "originalUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5fec531d86029d32932e6fe7e266d001.png",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
-      "publishedDateTime": "2021-05-26T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-bezos-final-shareholder-meeting-as-ceo-looks-to-amazons-future.md",
-      "title": "Bezos' final shareholder meeting as CEO looks to Amazon's future",
-      "excerpt": "such as Ring and Amazon Rekognition, disproportionately harm or discriminate against people of color. Bezos told shareholders that the company has reduced workplace stress injuries by 32 percent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/bezos-final-shareholder-meeting-ceo-looks-amazon-s-future-n1268672",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/bezos-final-shareholder-meeting-ceo-looks-amazon-s-future-n1268672",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3477930/210526-amazon-mb-1817.jpg",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268672",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268672",
-      "publishedDateTime": "2021-05-26T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination.md",
-      "title": "Insurance Unicorn Lemonade Backtracks Comments About Its AI After Accusations Of Discrimination",
-      "excerpt": "AI-powered insurance unicorn Lemonade attempted damage control Wednesday and deleted a series of Tweets after the messages led social media users to question if the company’s artificial intelligence software assesses users’ physical attributes and body language to auto-deny claims submitted through user videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/",
-      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea8841402f568aeb6d331%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2568%26cropY1%3D266%26cropY2%3D1711",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/amp/",
-      "publishedDateTime": "2021-05-26T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

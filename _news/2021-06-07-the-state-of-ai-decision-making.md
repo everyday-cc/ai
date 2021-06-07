@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg"
         width: 2121
         height: 1193
-        isCached: true
-  - title: "Accelerating AI at the speed of light"
-    excerpt: "MIT alumnus Yichen Shen PhD '16 is the CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence."
-    publishedDateTime: 2021-06-02T19:25:00Z
-    webUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202105/yichen-shen.jpg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
     excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
@@ -160,6 +146,6 @@ related:
         height: 366
         isCached: true
 
-secured: "LC24coZCbGjIHLxkoADb+bQasSvCdiRwNPIMvawVjZAFFOO8sDI2JoD823Hld2IRPgCOVps9Rkh29wQ4qNKGkddjBRUJgSAAG3UNY3G0wh/gH2JVGGzSbsBlq5xh3idZWDPdC+SRTo22A1HfiBHtXkSreF7oKqszznHYi3z/2qMHVxnhVhxqxAx5GxolOKL63umxMvCmIMfPfs1srFE/MCQNDci007mDltx6AkcF6ByJ5MWdh7s/2X9VV934Ou0tqnHL7foC/UtOlaX90naqXTshkLiw4ZcSLyTUX7Qaqpv7wE6DxyFyGTcvD41WAFeqPnnsqETRbdJsPGQ48p8Ky2IPm6oQLBUj9Kby8h7hyXo=;GS8PhE0CzTichE/zaRE/hw=="
+secured: "wKNYPj9+GjMCCM30Xr768WTvLbzE6dY4dwujjGpsXUigDnz3tpVyZBw4VEZYoHzqdSjy0aJo+xXvTeUov0HX/vrs1a33hQ7vZdLs+v5c2BKnY47OYztxux33YHc9m3kIzBA7DM0TTb6dBzmMD/Fqy4YOnPpIh10MCS1MzWaK3O5qAjzMfdil5WSxeKWQTKYWQvzhJIBDuf/DMnu3x0MpXKRJ0zkGM/CPieK6YtZPBu3ALgbVXHGDwb5Y3CIF6gDvQWFu5URnEIgcZEAuxB+Y5H2QQnpSuJhSSfjQjmlr5mKahdMddrSLvdMqgc8q+EsZNzPjdyFyvOl9LfjsN+Tv0J+HGYOn1s3kwvPzRZpJGJ2XhauOXaPalUjFMu+7nY8/wW20jLSXjfZ28juEf9S9AUWQ9AfP04sXB9TfOL+tWsBTKDIuLhmxHeEGGz8ZEw4uZ10xMxLWtEyBC3CUYusm2I5S/ZHQLlgLoFA7LPrgfSE9I7qrJIh0JbZ0vyCLIR44qcg3RxCOa5vbeWRgJx8NuQ==;KvtgEK7q9aUVZY3BJNB/gw=="
 ---
 

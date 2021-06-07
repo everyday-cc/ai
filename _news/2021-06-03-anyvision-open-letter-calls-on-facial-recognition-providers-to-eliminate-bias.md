@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
+    excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
+    publishedDateTime: 2021-06-07T12:34:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 9
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AnyVision to NIST: \"AI companies must purge demographic bias from their algorithms and be transparent about their methodology\""
     excerpt: "AnyVision is the first known entity from within the AI industry to address the initiative and respond to NIST in an open letter entitled: \"Purging Demographic Bias While Increasing Transparency in Facial Recognition."
     publishedDateTime: 2021-06-03T10:05:00Z

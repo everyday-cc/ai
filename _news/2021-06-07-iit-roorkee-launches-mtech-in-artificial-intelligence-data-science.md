@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-roorkee-launche
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "IIT-Roorkee launches two new MTech programmes in Artificial Intelligence and Data Science"
+    excerpt: "The institute has launched the Centre for Artificial Intelligence and Data Science (CAIDS) and two MTech programmes will be offered from the academic session 2021-22."
+    publishedDateTime: 2021-06-07T12:49:00Z
+    webUrl: "https://indianexpress.com/article/education/iit-roorkee-launches-two-new-mtech-programmes-in-artificial-intelligence-and-data-science-7348035/"
+    ampWebUrl: "https://indianexpress.com/article/education/iit-roorkee-launches-two-new-mtech-programmes-in-artificial-intelligence-and-data-science-7348035/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-roorkee-launches-two-new-mtech-programmes-in-artificial-intelligence-and-data-science-7348035/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 50
+    images:
+      - url: "https://images.indianexpress.com/2021/01/IITRoorkee.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "lRMR7xfkXq5YEnWF93FGD4ctDzzr+0bsr4902kdwxLOB81XetVl9aMYstBm7pFyUW8PzTo4VrCzLdOm+xnJFPbnJQ+YVZiHlbpmQhF1VICYItXyFsCSSvUV9h2OTa7wIvaEH65bpuleIJ9DT+0g33OWEZSp1VPCGBVaXfF8R6cbCMKXII4LCTPaQLjqHcVG6Ogh5h8BcO2mMkt+ph07t+SRQxBT7zSxLkAo8B1IGjBYSIb4uSRk3vXyZ8nndOcML1qtO4K+4JWs+bdwCJTGZeUhfmuiVrCEgKnWaVMZRaiyy0QTywS8+b3B/1pSroh3V7Jpirhd70TzA9Ie5LWS8mvymrsT8BkAW3o6jvaFrdkA=;i4zw6o+yWAihNm4a4mGCxw=="
 ---

@@ -60,20 +60,6 @@ related:
         width: 2121
         height: 1193
         isCached: true
-  - title: "Accelerating AI at the speed of light"
-    excerpt: "MIT alumnus Yichen Shen PhD '16 is the CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence."
-    publishedDateTime: 2021-06-02T19:25:00Z
-    webUrl: "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202105/yichen-shen.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
     excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
     publishedDateTime: 2021-06-03T16:59:00Z

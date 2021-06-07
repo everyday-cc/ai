@@ -47,20 +47,6 @@ related:
         width: 1600
         height: 1069
         isCached: true
-  - title: "Facebook goes all in on PyTorch at F8 Refresh"
-    excerpt: "Facebook announced it is making PyTorch its default framework for artificial intelligence and machine learning models at F8 Refresh"
-    publishedDateTime: 2021-06-02T20:14:00Z
-    webUrl: "https://sdtimes.com/ai/facebook-goes-all-in-on-pytorch-at-f8-refresh/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/06/188312344_815031316108839_2321062690728749306_n.png"
-        width: 1000
-        height: 653
-        isCached: true
   - title: "Inside PyTouch, Facebook’s ML Library For Touch Processing"
     excerpt: "Facebook has evaluated the performance of machine learning models on vision-based tactile sensors like DIGIT, OmniTact and GelSight."
     publishedDateTime: 2021-06-03T10:30:00Z

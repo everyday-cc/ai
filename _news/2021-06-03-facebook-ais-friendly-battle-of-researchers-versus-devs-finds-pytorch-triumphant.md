@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ais-friendly-battl
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg"
         width: 1600
         height: 1069
-        isCached: true
-  - title: "Facebook goes all in on PyTorch at F8 Refresh"
-    excerpt: "Facebook announced it is making PyTorch its default framework for artificial intelligence and machine learning models at F8 Refresh"
-    publishedDateTime: 2021-06-02T20:14:00Z
-    webUrl: "https://sdtimes.com/ai/facebook-goes-all-in-on-pytorch-at-f8-refresh/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/06/188312344_815031316108839_2321062690728749306_n.png"
-        width: 1000
-        height: 653
         isCached: true
   - title: "Inside PyTouch, Facebook’s ML Library For Touch Processing"
     excerpt: "Facebook has evaluated the performance of machine learning models on vision-based tactile sensors like DIGIT, OmniTact and GelSight."

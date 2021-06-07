@@ -125,20 +125,6 @@ related:
         width: 2440
         height: 1627
         isCached: true
-  - title: "Facial Recognition for Fish May Help Environmental Challenge"
-    excerpt: "Illinois researchers are prepping a test of a system to get Asian carp out of waterways while also helping native fish travel by working with Whooshh Innovations, a company known for the fish tube, or salmon cannon."
-    publishedDateTime: 2021-06-02T19:38:00Z
-    webUrl: "https://www.govtech.com/products/facial-recognition-for-fish-may-help-environmental-challenge"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/e61ab23/2147483647/strip/true/crop/770x374+0+69/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F21%2F97%2Fd00f65636598110cc7631c7c7736%2Ffish.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
     excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."
     publishedDateTime: 2021-06-03T23:05:00Z
@@ -230,6 +216,6 @@ related:
       domain: detroitnews.com
     quality: 17
 
-secured: "C7WXbtQa1OOhBAo1bTsV3dPgwBAdxC2j7bTc9vtEyT/bnw3jglNFMueAQmZnsHdat5c+xLz5Ij9wX2ItqWkuI4eOLHr04dnU/W/thR0QmFXjxOeGzUeHTz7anqPY4DExz/skojqyL9AGZ+J3oLRZ0kJa/GnYlwEHyZUKnBoWFDbpfvEuVeYlpE2u86S7VEAN5MxBUarxaOL+iRZeWY/0ytCtDfr04IbO94yirtW5JObo6TSEjowePfFiu9hY6DRNWubyutKnWTCLSc3S10DOBg4h4LAqTpDTbJv0Lngylx0wgjdRyBSLgpbqBfCzjIfDQDjy+cnMPfNqPGDHkA507Skq+RLHedI1geHn1qrY0FY=;+SwJqb6oZ8xP03vfrOGzQQ=="
+secured: "u9df4uwsPTW8zV8v5i4lYKcMwYxH7CO7hlhURHgFPQug8TgyuZAWpBHweyLbtEOekDh0gaY+m8ej/JDd+B2rFm0ctaCUXWLl9n5xwgnuuglDviOgF1PHJGjcAbNmaFhSFrq9c9aflpwjdEkHiENUsnEEHsRebwx/KjLkem2Nkjf0ezzChOaTPkxyhEc8TSastPUz2djOd1wf0+1tUph4p/q1aJbqMjFE03KDWdq/qxscHGebYAy2btS6CscgTMFIdvokocOYJ9pRUbEXblL1KHPY0d1ra/c/5K4zGnmtVFbExmFJijX95zU+YWXVIXmA41NPU+yqgC92pzgetgf2lmplouRjYL4Sk86n7KXmafvm/bk+mVTXS1h03o87ALULsNgqavohW4dAaTanI+HqhOtU67Utjq7+cMgaq5nXhl4SuaDhNg1a5uI9LdL5zCaB1N41fD/aIwVJIZtiI/f52f/Fg0LeC1hCnlzG+YOZzh9vFGHhh3Q/Fi5KKlJrHq7z+Q6ccC0EKvp//Ra40Fqpxg==;C3OGeFx/AeZQV6mWDT9q1g=="
 ---
 

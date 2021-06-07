@@ -55,15 +55,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Apple's self-driving car division has lost 3 top managers this year"
-    excerpt: "The departures from Apple's car team come as it is reportedly aiming to produce a self-driving passenger vehicle in 2024 with a game-changing battery of its own device."
-    publishedDateTime: 2021-06-02T19:30:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/02/apple-self-driving-car-unit-loses-3-top-managers.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "I8SzobE8L4f7jandYzlvhMZ3uqKTZYS+N1NB/Fm50x8OOwy/+IaOUnWo4DlvW2Ar2t/oiIBmNAVaKUqRJth4OeMYjPPfN4e2J6cYc9yJAs+VtUbOOojumt2cLKKDf9yiqGQhJ1pawV7UdFoNOIdZnn93dvwqEm7ZUExgWdbS7y9SPCIRPp2qFtJdUAtedV/qWygNhCDZ9K9XE8yikdGgSwcqfRSk7It3sJeROOUBDXR5KC3amnqn7hmmaCVwS3pioy3LBmLOHrx0itTz/94tzUHgxz3kVo2tCvOUjJltHA2MjII4fVl0YeBDyC54Xx68l/HgJtsAcRzapt9o4LbMeMM64yjeS31Tpkrtq8ocjT6qIplfGzTh1/7hOcM1oDPBJiCSjd6yeBNlukimaMahDQQVltoh9+3YIIDugzLNEA4te8T1DpKqWJ5he4gVCuJL2nXdI0eZE+6FOZ2WxS2PAn+p/vKl5nunbxGCXrAH+WF3uMohbLyL3OxObOfL11PvzOrYQVbyW2ABQwioQPqv/Q==;vbrt7hnMdWvrbTm9lR4XLg=="
 ---
