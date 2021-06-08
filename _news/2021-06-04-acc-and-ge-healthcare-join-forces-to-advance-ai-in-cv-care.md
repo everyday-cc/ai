@@ -7,7 +7,7 @@ originalUrl: "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26
 webUrl: "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "CareDx Advances Artificial Intelligence in Transplantation"
+    excerpt: "Together, CareDx and OrganX will develop advanced analytics that integrate AlloSure, the first transplant specific dd-cfDNA assay, with large transplant databases to provide clinical data solutions. This partnership delivers the next level of innovation beyond multi-modality by incorporating a variety of clinical inputs to create a universal composite scoring system."
+    publishedDateTime: 2021-06-03T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/caredx-advances-artificial-intelligence-in-transplantation-1030492964"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "GE Healthcare, American College of Cardiology partner to advance digital technology in cardiac care"
     excerpt: "Healthcare supply and service company GE Healthcare is partnering with the American College of Cardiology to advance artificial intelligence and digital technology in cardiac care. GE Healthcare will participate in ACC's Applied Health Innovation Consortium,"
     publishedDateTime: 2021-06-04T16:14:00Z

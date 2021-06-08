@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Watch: Robot can mimic human facial expressions"
-    excerpt: "Facial expressions play a huge role in building trust for humans. With the rapidly increasing use of robots to interact with humans, robots need to become more expressive and facially realistic to build trust."
-    publishedDateTime: 2021-06-03T14:41:00Z
-    webUrl: "https://insights.globalspec.com/article/16701/watch-robot-can-mimic-human-facial-expressions"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
-
 secured: "9s9EYamac/39f6TPFe1Kwo5mtEAiF3WIS2vb59e8JKrLhs4I1rvhXONzZ/bZzy9o1eTU6TS3o0vfIrDTspTEGiNEu25TyQkSfxPpjyJ6+kzbKQc42V/43whIQuSNYtBE9J+GHAtkQuqAruq75AX/cuJ5CLS+gH986mVZ7WNVdP5h+oRGSE1qps3u7w6P2Un7xQk7O2pfa1B5UWw3l2X/IF2v/Vx91RMCQo+WRr36LSxDj8zKvi39mY+ZzrByvdPF5F2UKcsA8GMwLu2sgo4kKE0C2XU3M7Xt1F6+yo8RdEv0DL2wmgAzQhz3cPJT5Du+L1zkOn7MEkt6Vg9w5SUrKcZWjPJWUrQ8aWyzihaQqdFzN7td49Hj7RrpRQ/ffJKwFB7KBov+EolXLRR90R7kRBOuLY3oJZj9OHAYxdUBxw3y9sJ3eSC1MRzmhFKMvM2DZCPQAH2OXnawKNdF3Wg8QUI+Xbk6mIl/mTPP/ds2hckSZuBuRMtLVlj1Xo5YvFEFrwcz/J5a01wYyI6h+XBDIw==;fahUqF4GeXPhZ9OJNr7gbA=="
 ---
 

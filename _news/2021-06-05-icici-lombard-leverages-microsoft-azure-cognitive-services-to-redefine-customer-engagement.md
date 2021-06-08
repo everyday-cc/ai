@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cogn
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "ICICI Lombard redefines customer engagement with Azure AI and Azure Speech services"
-    excerpt: "ICICI Lombard, India’s one of the leading private sector general insurance company, has transformed its customer engagement using Microsoft Azure Cognitive Services."
-    publishedDateTime: 2021-06-03T13:27:00Z
-    webUrl: "https://uniindia.com/icici-lombard-redefines-customer-engagement-with-azure-ai-and-azure-speech-services/east/news/2412170.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 30
 
 secured: "OtRpqrv9Ep6Vh3gO4EQyiSBMOKe9Hw21k88pm7HTuHGsHKEYDhJuH5a0ZQsRJSTsljyzx1nZSvKA4/nwbC9iGm2v6EuIAoAT1iZMt0LB6Ev71257vNwFN2csGnfx6fAXdbE2eiZJPIfJHtW7CY9Cu14+vin3kRlVhKCT9UExJLCZnKSa6XdKvuPoZjGSf2uB9ulKthkg1/PBR1Ff8YDslk97YazYKM9MXm5RAhlK2xaiyCP8b+avuhozf8LUWBc4+8mUSGRUdOT2amNx+irlPRaF2PrLQDpFf9nXmAJ+JzMi68hITVMbIYijN2YixhLYbl5a8a1UE+j3PGZ8mb3Kzh183jDVCdPn+sVGz71+ZThgu0LWu2ua0cMsj3/zPHL5LzUT6041KruVhpWIYKKb+PSb6O08oCi91P7BioMgv4G4JK2DFyglatb7WYHfofOlEi1RQg1Qtf5jCAx/+MEuZYwcweatSKU6mQrhawT76P3U3wlCsb+u1NlfiJMgXdh75x6W9hcKxkIPKlKEGpXW8g==;1Yichru+wb8jG/OVc8yXaw=="
 ---

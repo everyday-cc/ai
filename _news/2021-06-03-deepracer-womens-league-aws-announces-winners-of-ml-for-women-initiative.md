@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/deepracer-womens-league-aws-announces-winner
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.crn.in/wp-content/uploads/2019/06/17104829/trophy_820.jpg"
         width: 696
         height: 465
-        isCached: true
-  - title: "AWS announces winners of first DeepRacer Women's League in India"
-    excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ..."
-    publishedDateTime: 2021-06-03T15:00:00Z
-    webUrl: "https://menafn.com/1102206361/AWS-announces-winners-of-first-DeepRacer-Womens-League-in-India"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 71
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "AWS announces winners of first DeepRacer Women's League in India"
     excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ..."

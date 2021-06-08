@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-05-20-amazon-halts-polices-use-of-facial-recognition-software-reuters.md",
+      "title": "Amazon Halts Police's Use Of Facial Recognition Software: Reuters",
+      "excerpt": "Amazon.com Inc (NASDAQ: AMZN) indefinitely extended the halt since June 2020 on the police use of its facial recognition software, Reuters reports. The nationwide backlash against police brutality towards non-Whites intensified by the murder of African-American George Floyd by a white policeman led to the initial halt.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-halts-police-s-use-of-facial-recognition-software-reuters-1030447675",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-halts-police-s-use-of-facial-recognition-software-reuters-1030447675",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_394.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent.md",
       "title": "Artificial Intelligence And Automation’s Paradox: More Human Talent Needed To Reduce Need For Human Talent",
       "excerpt": "Impending post-Covid boom in AI, algorithm and automation jobs means more talent shortages -- and re-inventing careers.",
@@ -1145,58 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-a-current-googler-shared-his-account-of-the-firms-ethical-ai-team-turmoil-timnit-was-blackballed.md",
-      "title": "A current Googler shared his account of the firm's ethical AI team turmoil: 'Timnit was blackballed'",
-      "excerpt": "Blake Lemoine said there was \"barely a hint of ethical concerns\" around Google's AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-insider-shares-firsthand-account-of-ethical-ai-team-fiasco-2021-5",
-      "originalUrl": "https://www.businessinsider.com/google-insider-shares-firsthand-account-of-ethical-ai-team-fiasco-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

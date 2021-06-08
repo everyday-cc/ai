@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/"
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1000
     height: 562
     isCached: true
-
-related:
-  - title: "GIGABYTE Offers More NVIDIA-Certified GPU Servers"
-    excerpt: "GIGABYTE Technology, (TWSE: 2376), a maker of high-performance servers and workstations, today announced additional GIGABYTE servers that have been added to the growing list of NVIDIA-Certified Systems."
-    publishedDateTime: 2021-06-03T14:37:00Z
-    webUrl: "https://insidehpc.com/2021/06/gigabyte-offers-more-nvidia-certified-gpu-servers/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "YtDvU9HktSS5nfmvmquIrDe7zAPbJHOo3YCki/AfCencGXSKXMA7EsnaYI66HJ2ehtEf+hbUztdPT1Ose5VNraj9qdV26DwHGltggHWIZtKFdPw28eRZZDN0KrZXh5Jr+aYPBpJIKSx7JtLaW+wVhHsQjUkPLHoXTSCWWPsPQ2K6PvPu0UiCPz+P73uomyCiR7BqnrbKhYmpRxUfW64RaoH+d+GHqa8aIgrYjgZ4lWTcIRLg5UPQqMO2sbPzgA8e9cNm7x0ts8BOHWF+yUMvJFM/wKcUdh+sSL9gP1LFlygx5n00CaLZi3T+jpwmQePRpw4qTl9qfeftTZBpk6KxX7QPPoEZ6kQd6aHdHHlSc5Y=;EbzXgotnLMhrCiFpy3ZeCg=="
 ---

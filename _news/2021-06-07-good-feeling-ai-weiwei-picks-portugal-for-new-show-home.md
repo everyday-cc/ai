@@ -40,22 +40,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "‘Good feeling’: Ai Weiwei picks Portugal for new show, home"
-    excerpt: "Dissident Chinese artist Ai Weiwei is putting on the biggest show of his career, and he is doing it in a place he’s fallen in love with: Portugal. The world-renowned visual"
-    publishedDateTime: 2021-06-03T14:51:00Z
-    webUrl: "https://www.rochesterfirst.com/entertainment-news/good-feeling-ai-weiwei-picks-portugal-for-new-show-home/"
-    ampWebUrl: "https://www.rochesterfirst.com/entertainment-news/good-feeling-ai-weiwei-picks-portugal-for-new-show-home/amp/"
-    cdnAmpWebUrl: "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/entertainment-news/good-feeling-ai-weiwei-picks-portugal-for-new-show-home/amp/"
-    type: article
-    provider:
-      name: WROC-TV
-      domain: rochesterfirst.com
-    quality: 59
-    images:
-      - url: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2021/06/5919c2c282df4c00a5dc18e1d97f2e63.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "'Good feeling': Ai Weiwei picks Portugal for new show, home"
     excerpt: "Dissident Chinese artist Ai Weiwei is putting on the biggest show of his career, and he is doing it in a place he’s fallen in love with: Portugal. The world-renowned visual artist’s new exhibition, “Rapture,"
     publishedDateTime: 2021-06-03T18:51:00Z

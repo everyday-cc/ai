@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Temenos' explainable AI offering for SMB decision-making rolls out globallyv"
-    excerpt: "Temenos will roll out globally the explainable AI (XAI) product Temenos Virtual COO—letting banks use the technology for complex operations."
-    publishedDateTime: 2021-06-03T13:44:00Z
-    webUrl: "https://www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/temenos-rolls-out-globally-explainable-ai-product-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/60b8dbbebee0fc0019d5b125?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
     excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
     publishedDateTime: 2021-06-04T08:37:00Z

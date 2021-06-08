@@ -23,47 +23,48 @@ topics:
   - AI
 
 related:
-  - title: "Automating Care: about our new series on the rise of AI in caregiving"
-    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
-    publishedDateTime: 2021-06-03T14:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+  - title: "ACC and GE Healthcare Join Forces to Advance AI in CV Care"
+    excerpt: "The ACC and GE Healthcare are collaborating through support of and participation in ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes."
+    publishedDateTime: 2021-06-03T18:50:00Z
+    webUrl: "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: American College of Cardiology
+      domain: acc.org
+    quality: 54
     images:
-      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
+      - url: "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg"
         width: 600
-        height: 360
+        height: 314
         isCached: true
-  - title: "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars"
-    excerpt: "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars."
-    publishedDateTime: 2021-06-03T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/"
+  - title: "GE Healthcare signs cardiac AI deal with ACC"
+    excerpt: "GE Healthcare is teaming up with the American College of Cardiology (ACC) to help build a roadmap for the use of artificial intelligence (AI) and digital technology in cardiology."
+    publishedDateTime: 2021-06-03T18:09:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132568"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000"
-        width: 1200
-        height: 675
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2020_01_29_18_12_5932_GE_RSNA_2019_400.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "GE Healthcare and the American College of Cardiology Join Forces to Advance AI in Cardiac Care"
-    excerpt: "GE Healthcare is collaborating with the American College of Cardiology (ACC) through support of and participation in the ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes."
-    publishedDateTime: 2021-06-03T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-the-american-college-cardiology-jo-forces-/2021/06/03/9383450.htm"
+  - title: "GE Healthcare, American College of Cardiology partner to advance digital technology in cardiac care"
+    excerpt: "Healthcare supply and service company GE Healthcare is partnering with the American College of Cardiology to advance artificial intelligence and digital technology in cardiac care. GE Healthcare will participate in ACC's Applied Health Innovation Consortium,"
+    publishedDateTime: 2021-06-04T16:14:00Z
+    webUrl: "https://www.beckersasc.com/cardiology/ge-healthcare-american-college-of-cardiology-partner-to-advance-digital-technology-in-cardiac-care.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 25
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-mobile-logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "rEiLCQ3S6MXm7NLNEAhf3JcHMz+33zAKRlsEkMj0irLjCg9vyIT0UtsvEwLh2gG0JVyDWB4vOhdpkRqIonDwy6ECfBr/b83yacbd/YFshf7dnTRoQzsrBLaK7gQ8apyMt4Ni7JqkqQ3HtYI6Y2QHS9vob4mv/ROyctQXWatNN2OTqI6IpAmWVMFmJjYk3UpdV5urIZBb4ca0xwvALeXxXMQZzz/TwMI8uyb8DUSwDGJsG+23ftgNNcVCN4R9mss3LOLnustsTuqMHXYi4Mz2VGshszAyU6Idqx8eYy4IQJ5sUIiqBu4PG+cP1lIbWoA+CAf2oqkEzC/z5Ih1tDj7G4MbShq9Twbjv/fQj0tMwC0=;swDLl5qmhvBYBn6PX1f6Dg=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "CareDx Advances Artificial Intelligence in Transplantation"
+    excerpt: "Together, CareDx and OrganX will develop advanced analytics that integrate AlloSure, the first transplant specific dd-cfDNA assay, with large transplant databases to provide clinical data solutions. This partnership delivers the next level of innovation beyond multi-modality by incorporating a variety of clinical inputs to create a universal composite scoring system."
+    publishedDateTime: 2021-06-03T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/caredx-advances-artificial-intelligence-in-transplantation-1030492964"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "eTZeygWVgsiU+ju243bTru9Jz4pmkHI/bUvxq5O85fqxHnXdxjTa8JUZAHCHE88f6yDqIPuisX+hKtVmHHhgDb+pfvq8bhf5YHPghMl7Legz1tip7Vi3uPMelQUXGKb52++sstO8ys8g+zbNkoM95QmXqwxKHuuDinpoQGIFNxaqYs2wX5vRBLx2C89COutwfKZnN59UN/OQKTuU8RU/M1LHQmzM/Z0QaLDY2w0drH89OTYW+suFjoK6vySaKq75eUebcHWsnvNiuzoQJpWYLyTi2RIBUde3wXtfdG5t7OZU1BzMG3lnUFdwzk4hfrH3YG/5xDgxd5cPtn2tpGEpUPjskOw1aKRMSrMPddsLaSw=;6gZb1I4nfMj5T0uDuafRZQ=="
 ---

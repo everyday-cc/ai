@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: Forbes
@@ -31,40 +31,50 @@ images:
     isCached: true
 
 related:
-  - title: "Automating Care: about our new series on the rise of AI in caregiving"
-    excerpt: "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need"
-    publishedDateTime: 2021-06-03T14:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us"
+  - title: "Harrowing Tales Of Teenage Drivers In Everyday Traffic Amidst Adult Drivers And Those Emerging Self-Driving Cars"
+    excerpt: "Teenage drivers are unfortunately at high risk of getting into car crashes, and the question arises as to how teens will react when amidst self-driving cars."
+    publishedDateTime: 2021-06-07T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 53
     images:
-      - url: "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03"
-        width: 600
-        height: 360
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60485de17a0f96e2ce4c2d96%2F0x0.jpg%3FcropX1%3D26%26cropX2%3D922%26cropY1%3D44%26cropY2%3D547"
+        width: 896
+        height: 503
         isCached: true
-  - title: "CareDx Advances Artificial Intelligence in Transplantation"
-    excerpt: "Together, CareDx and OrganX will develop advanced analytics that integrate AlloSure, the first transplant specific dd-cfDNA assay, with large transplant databases to provide clinical data solutions. This partnership delivers the next level of innovation beyond multi-modality by incorporating a variety of clinical inputs to create a universal composite scoring system."
-    publishedDateTime: 2021-06-03T20:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/caredx-advances-artificial-intelligence-in-transplantation-1030492964"
+  - title: "Cruise driverless cars are now allowed to carry passengers in California"
+    excerpt: "Cruise is the first to be granted permission by California to offer rides in fully driverless cars on the state's roads."
+    publishedDateTime: 2021-06-07T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132494_cruise-driverless-cars-are-now-allowed-to-carry-passengers-in-california"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "GE Healthcare and the American College of Cardiology Join Forces to Advance AI in Cardiac Care"
-    excerpt: "GE Healthcare is collaborating with the American College of Cardiology (ACC) through support of and participation in the ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes."
-    publishedDateTime: 2021-06-03T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-the-american-college-cardiology-jo-forces-/2021/06/03/9383450.htm"
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 38
+    images:
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100794575_h.jpg"
+        width: 1920
+        height: 991
+        isCached: true
+  - title: "Is Law Enforcement Ready for Self-Driving Cars?"
+    excerpt: "Not by a country mile, says a panel convened by the National Institute of Justice, which recently published a list of 33 issues that need to be addressed in order for autonomous cars and traditional vehicles to coexist safely on U."
+    publishedDateTime: 2021-06-07T12:01:00Z
+    webUrl: "https://thecrimereport.org/2021/06/07/1333055/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 24
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2021/06/driverlesscar2-PSYGMON7-e1623034591923.jpg"
+        width: 720
+        height: 389
+        isCached: true
 
 secured: "auHnSlArc/WMlWDZ4PcOAuPIfw5IowIu93swPGAxb6q/AybccLET8Q6WXFbiVS4dGX/r9G8S9K2WxuQ7rphk7k6BkPxTYUruJTjC11KFH+5IJMdOsmQUyazKbwE7kUdak5//ODCJnCYqn3dCVCDZ7VE4PePuL7FuxhYTGx0KAIyj0sM3JfWyBEYDf5kfFaxKXmwcf5nuZlub7+2LFyxPv+YeJkv5WiNYo0RR2mFNsYdefxL8XJ7W8oiwtRqBPyQq+VPl0EVZ6pNEhhjWbd3n0TPN5txRrhB5crLhMs5fc/8wdI7ditHSx+1bfONsMAx0hCtksmm8HgSaQdOfFkKRhTQB51BGWq41NH0eD6b7uKhbKzpxf/lwGi630XZPb6YbAWZxhp7aXJ6VhcmyF0fuRxZ22PNkpsk8JZINimC4220g8Qz7Hlk4FkdzSFwZ5nvwMdAczaHFrRc3wIrR4fL/cP04jkZ055LFRCLD+RMthP6VjB0d6GVj9MJ3T03Oc1FIqbbkRLimJR5JliwRzxjL2A==;BVKYz+a46PccBPXPf86CjA=="
 ---

@@ -2,6 +2,59 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-05-12-ibm-project-codenet-to-teach-ai-how-to-code.md",
+      "title": "IBM Project CodeNet to teach AI how to code",
+      "excerpt": "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png",
+          "width": 1654,
+          "height": 932,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
       "title": "Machine learning & Artificial intelligence to Gain traction!",
       "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
@@ -1131,48 +1184,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ai-methods-predict-covid-19-patient-outcomes-using-routine-clinical-data-from-icus.md",
-      "title": "AI methods predict COVID-19 patient outcomes using routine clinical data from ICUs",
-      "excerpt": "The investigators used machine learning to predict which patients might get worse and not respond positively to being turned onto their front in intensive care units (ICUs) - a technique known as proning that is commonly used in this setting to improve oxygenation of the lungs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
-      "publishedDateTime": "2021-05-11T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

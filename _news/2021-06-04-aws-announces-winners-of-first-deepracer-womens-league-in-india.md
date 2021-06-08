@@ -52,20 +52,6 @@ related:
         width: 696
         height: 465
         isCached: true
-  - title: "AWS announces winners of first DeepRacer Women's League in India"
-    excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ..."
-    publishedDateTime: 2021-06-03T15:00:00Z
-    webUrl: "https://menafn.com/1102206361/AWS-announces-winners-of-first-DeepRacer-Womens-League-in-India"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 71
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "S82jmqQuERKk1alKTC0b02LZuPbk/m+uewAhpZvdihDQ7WlJ2HRvsrVxydhiSPM4clDexBKH97SQQUoFwhgZnWInxdhLiwDOepAeIjTRxSKw3J5ppg+FaRDPnJUmsHYhIhwjCs/KYGbRDIiRfJT67BTdyjIzg4bFUn+SVscT8AAAIt6Y3vjyvXgIbVV741F1xMPr+7nJGAYuz3B2+7A1P44lb4jbxPkyiDoWUh0vpZh51/Vt2RBahfEqmeFck2/QLm0wYvizPYOqskfmvVGuvvp7kxHYbRjY8NuGQmySQVeirsHFQyTSupFw11PmPfFS8MQX6u+K4kr7BK/iwyfNXMimD7QYcp20hGiqrjAlD9A=;zTxOZSZtqf6lOPzlRFI/bA=="
 ---

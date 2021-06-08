@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australian researchers to test koala ‘facial recognition’"
-    excerpt: "Australian researchers are launching a koala “facial recognition” study that aims to better monitor the marsupials’ behavior and ultimately aid in their"
-    publishedDateTime: 2021-06-03T13:50:00Z
-    webUrl: "https://english.alarabiya.net/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
-    ampWebUrl: "https://english.alarabiya.net/amp/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/world/2021/06/03/Australian-researchers-to-test-koala-facial-recognition-"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 59
-    images:
-      - url: "https://vid.alarabiya.net/images/2013/01/25/b86c8598-3fe4-4dae-abf3-c1113e612197/b86c8598-3fe4-4dae-abf3-c1113e612197_16x9_600x338.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Biden admin reportedly using controversial facial recognition on migrants"
     excerpt: "The Biden administration is embracing controversial facial recognition technology and other intrusive surveillance tools to process the backlog of thousands of migrants at the US-Mexico border,"
     publishedDateTime: 2021-06-07T18:15:00Z

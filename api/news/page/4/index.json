@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-03-dont-end-up-on-this-artificial-intelligence-hall-of-shame.md",
+      "title": "Don't End Up on This Artificial Intelligence Hall of Shame",
+      "excerpt": "A list of incidents that caused, or nearly caused, harm aims to prompt developers to think more carefully about the tech they create.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-hall-shame/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-hall-shame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60b81e8c84acd39aeb65550a/master/pass/Business-When-AI-Goes-Wrong-905331506.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-hall-shame/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-hall-shame/amp",
+      "publishedDateTime": "2021-06-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history.md",
       "title": "Why AI Powered Creative Is The Most Important Change In Advertising Development History",
       "excerpt": "AI powered creative takes the guesswork out of advertising development. Brands can test infinite combinations of advertising copy, visuals, music and calls to action at the micro-targeting level.",
@@ -1155,40 +1206,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment.md",
-      "title": "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment",
-      "excerpt": "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

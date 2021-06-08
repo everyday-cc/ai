@@ -20,21 +20,21 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "As AI develops, so does the debate over profits and ethics"
-    excerpt: "But what remains unknowable are the benefits that may be lost to society by not fully using AI in responsible ways. We understandably recoil at the possibility of technology companies gaining privileged access to confidential medical records."
-    publishedDateTime: 2021-06-03T14:12:00Z
-    webUrl: "https://www.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4"
-    ampWebUrl: "https://amp.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/d1990d60-082e-422c-9753-23ed395a58e4"
+  - title: "AI still sucks at moderating hate speech"
+    excerpt: "For all of the recent advances in language AI technology, it still struggles with one of the most basic applications. In a new study, scientists tested four of the best AI systems for detecting hate speech and found that all of them struggled in different ways to distinguish toxic and innocuous sentences."
+    publishedDateTime: 2021-06-04T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/"
+    ampWebUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3b33e271-7459-43f6-b05d-91bca84eacd6.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/bananaflage-b.jpg?w=3000"
+        width: 3000
+        height: 1993
         isCached: true
 
 secured: "LFacLgJiSKh31QB4jbnogmGJ0D7Eddop/qxZC6Kvu5VMUyDeD3TwvsQ4eefwCc5/eG/fLRtuFEp0Mw8sZp0ENQSxDHqm462B7SIt4Z/Oat5j2iQB8zPVPNIgsMggdJz/zja3iehDboLDV9alGWxxJht+BCZ/Sri3lybEYqy05qWNXcjfQG3sdgz985ad/N/Ghv8tP2lO1jSOJ2WRqZs9GQMD8QW/1FJT2aHEj+MTx1WcJE9tZqD6tGJANOD1+g5XvWSmk93dVwwflgr+qlYMivu/T7eAv3gewM6acEpjZp5O5Czrk/VsJipmgaN8EpqLAwvKyx5ngyhyGHRR8ROBqOUWVcVHreFp0sJzcWivAe0=;wmNKQ/HjptVHR438QsBK/Q=="
