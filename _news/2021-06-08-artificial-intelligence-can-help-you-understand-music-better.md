@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Artificial intelligence can help you understand music better"
-excerpt: "Algorithms and technology have so far helped listeners to more of the same music. Now, UiO researchers are working on new technology that can get people interested in a greater musical variety."
-publishedDateTime: 2021-06-08T08:47:00Z
-originalUrl: "https://www.uio.no/ritmo/english/news-and-events/news/2021/artificial-intelligence-can-help-you-understand"
-webUrl: "https://www.uio.no/ritmo/english/news-and-events/news/2021/artificial-intelligence-can-help-you-understand"
+excerpt: "Algorithms and technology have so far helped listeners to more of the same music. Now, UiO researchers are working on new technology that can get people interested in a greater musical variety."
+publishedDateTime: 2021-06-08T12:46:00Z
+originalUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-music.html"
+webUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-music.html"
+ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-music.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-music.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: University of Oslo
-  domain: www.uio.no
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.uio.no/ritmo/english/news-and-events/news/2021/mubariz-mehdizadeh-unsplash_1000jpg.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-10.jpg"
     width: 1000
     height: 562
     isCached: true
 
-secured: "bG3SIBTWj4ZSL+6bTLMFlHXxy/HyT4qjB5CUFnNY2bp0y2jEhQfQdL9tiy7vmCGR/sOYwIUDAYYtypi3LjA7eG9BMh2b75SzZ3In6Rs0rZO2vZcrkSqfS5P6pIJixrf4pnYR0uqd8LFiiAA38OsYVjUOmz0L9lwljVAwPIL59C9VhZ+CmsGK3ntjqQHHIaZKPhx7MSRy51E4dwPY+Rlz9klZ7Brcb8vT8bPxbOXQcDdapQQcKt6snUQ1sz8foBnR10BQSUA3HlUq+RofLFw+Tw6KCSDZz6JF3QFcKwHmuSKuGUlHRhaHSIlcGoBA/8lecm8N+kz7jc2TGrMvmUe6AmBjl8iywWFBgXIjzWVBerY=;UO5waujz1067VcrkKU9xpw=="
+secured: "rNHP0n5IaGRpJd2dkcehQFzGGg3DTiwtq9fAySAW8Kfondf+8PY1S8zDmgDY2WifXoUVwmvDzuJFQjapstW1E1Gvq+0X2WmcFVf3KKm5+J4dEfOJvjG0bMH1qyJLlMHui+L5ji+XaGdyou8sjhBdRaT+BR++Lym5w763OAGti++jCMyQlFwezADjoReNFRfgpOxDokftP+Jgm5KMmaEkyRPY0TqKxYE5667eTUVe/4AozJqasLw7u1pyNdY9WDKbUeNZiybol8yJh+Z7B6qWZSGhm8K5Q0gtDDFEGaG9SWGmOMaccLhePPPLLAV51T+j+sZHD6dZwepgFWOqQfcHIzsEMGH7bJ8hmsECHikdNXY=;RyYpjHUVUCzjS5Nm4vf8AQ=="
 ---
 

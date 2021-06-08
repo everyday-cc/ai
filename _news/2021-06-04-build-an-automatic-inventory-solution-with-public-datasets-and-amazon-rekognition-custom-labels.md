@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-i
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/"
 type: article
 quality: 94
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 700
     height: 525
     isCached: true
-
-related:
-  - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
-    excerpt: "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions."
-    publishedDateTime: 2021-06-07T12:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9384888.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "cBKx6OcLWhLIOYII8uoUBHl1QjC4pHVrdBzKNCucN3ROjkyIrr5M5vCXnL1uVR/tTqOncktYtpLIN8Jbyrg/P0Dm9obbQbw1EvJXl9XH9AmHYZyX2fm4rSSjLaJRFmzpdFBWmwbqxJYcIGcTEbrcxBtrAQ5nQcVg7C/2RbDZh3mD4dXU4sVt5/wRtWSWJYqfkuDKoKAqcr9ITku9FVKvUQnPHUrlQmXQgMALXQW2TFVhq1l5E34zUz7iPnTKZFVNI90JhpicThazLt2hU149ANBRSiBFwG2CosOkAYWGovhSuHyjLhag50jzcYtLwYobBgkALkOrTf+oHLXltJ7E2+bSWoDviXLmjXUNeiSk9V0=;BOPjlBWqNnhQz96qEV1/gg=="
 ---

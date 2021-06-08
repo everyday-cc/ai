@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-08T10:47:00Z
 originalUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
 webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
@@ -56,6 +57,6 @@ related:
         height: 270
         isCached: true
 
-secured: "QGbWqbR1Hby4/Y8j3GQioseA8QjEZwQE2Y/mODSYCda9baOmK2GlX/d0eO2SE4IqwKDCSXvwPnQ+54EghpG04rGmlDBhuJXMzgqTbKnufP5y6PuzWyz15VUL3qu4SttNHY8p72nGePkk0qKdaTGnMdd0//CHuzAQOSQw3w/J1nqnPELGQ7Sdi7CUTzB31nZa9Us/9+9qlzxZlxtNJBdAmFN8t3g/Z/tL4ctgAkTsjZrsKuQ7CKrAHizvZ6aIyuLzz5wFbX0kkPqRwJNGtkNSmHcH+PjtIpoBsen17Ed2cfiLNjFOj29ebTpNi5CQV1FfkwXP15HrofgOQqR4nochvXu3HIKMe2URux7Esqu67kw=;AXfvJxXsjMM6pGHznaMQCQ=="
+secured: "xJPf1wGDaucRi3/JInWHiNrGw/HMEgSNHMWFSbtbpf0i0BEF2ypZ7ejXlIM6rAiLuyxXioE+JrW3wooctKAzLUiWTEd7tBFpy0iDXWsdXw3g1Me5WldKLkejbX8/O0MnuVTLaLVjxYOpFuMZHVq0b8eUbtKYi2FTEuTXYN9UD0q2TNk7q+cBewpGEzdxwD3VT30u8cBbQF6gbMgZu8xjjlc0JWs2mdulgno6AfV/H5lr9xDWDn7IM1st/nPIeZpJX79SnQPP1F7iqyRC8/MGGq6p376VQuNOLYeFsUB95FL7YLj0lCrRNlOP84jyH6BPAPBb2JHTU2xL+o8bV7yllEdoZH2v+rEJLFKF1ELvLFPrPZ+Dz0Y9T6pVHk3m25VpWsARhqD4MKPfo+eYJa2kFU5jkNbjXbxKo4IlHnhD/piuvBLOjc6E+HeigEncNTmMq+9Z9QajZSNHoyVZ893rYM/0OfAAdTRmDSoWXuWgR2WkdIi2CThe/AwixtFQ/reuFR3wKI41D4Ruyv2MKSjZ7A==;ZSQTNKBQx337odt7tonumg=="
 ---
 

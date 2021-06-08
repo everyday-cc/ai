@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/home/news/21485499/bidens-ai-czar-fo
 webUrl: "https://www.manufacturing.net/home/news/21485499/bidens-ai-czar-focuses-on-societal-risks-preventing-harm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's AI czar focuses on societal risks, preventing harm"
-    excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pulling barnacles off a ship."
-    publishedDateTime: 2021-06-03T20:11:00Z
-    webUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-    ampWebUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/4KQI2JAAWJBB5AL6RC627ULDHA.jpg"
-        width: 2000
-        height: 1765
-        isCached: true
   - title: "Biden’s AI czar focuses on societal risks, preventing harm"
     excerpt: "Computer scientist Lynne Parker's job is getting the U.S. government working together — alongside businesses, research universities and international allies — as director of a new national initiative on artificial intelligence."
     publishedDateTime: 2021-06-04T21:19:00Z

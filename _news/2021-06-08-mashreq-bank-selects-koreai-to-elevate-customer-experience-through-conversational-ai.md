@@ -49,6 +49,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "RPA Labs Introduces the Future of Customer Experience for the Shipping Industry"
+    excerpt: "Today RPA Labs announced the release of RPA Engage, the premier logistics conversation AI (artificial intelligence) that enhances customer experiences by automating interactions with customers, vendors,"
+    publishedDateTime: 2021-06-08T13:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rpa-labs-introduces-the-future-of-customer-experience-for-the-shipping-industry-1030503455"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use"
     excerpt: "AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI ® Ex Machina, its no-code solution that anyone can use to generate actionable enterprise AI insights, has seen significant growth in its first full quarter of release."
     publishedDateTime: 2021-06-07T13:16:00Z

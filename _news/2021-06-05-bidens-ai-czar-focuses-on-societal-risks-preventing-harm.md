@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Biden's AI czar focuses on societal risks, preventing harm"
-    excerpt: "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pulling barnacles off a ship."
-    publishedDateTime: 2021-06-03T20:11:00Z
-    webUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-    ampWebUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/4KQI2JAAWJBB5AL6RC627ULDHA.jpg"
-        width: 2000
-        height: 1765
-        isCached: true
   - title: "White House AI Czar Focuses on Societal Risks, Preventing Harm"
     excerpt: "A computer scientist and pioneering roboticist, Lynne Parker now confronts the promise and risks of artificial intelligence."
     publishedDateTime: 2021-06-04T14:56:00Z

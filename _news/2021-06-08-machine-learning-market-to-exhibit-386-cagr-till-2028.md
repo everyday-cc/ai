@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-08T10:14:00Z
 originalUrl: "https://menafn.com/1102230330/Machine-Learning-Market-to-Exhibit-386-CAGR-till-2028"
 webUrl: "https://menafn.com/1102230330/Machine-Learning-Market-to-Exhibit-386-CAGR-till-2028"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?557876"

@@ -41,6 +41,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "RPA Labs Introduces the Future of Customer Experience for the Shipping Industry"
+    excerpt: "Today RPA Labs announced the release of RPA Engage, the premier logistics conversation AI (artificial intelligence) that enhances customer experiences by automating interactions with customers, vendors,"
+    publishedDateTime: 2021-06-08T13:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rpa-labs-introduces-the-future-of-customer-experience-for-the-shipping-industry-1030503455"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Mashreq Bank selects Kore.ai to Elevate Customer Experience through Conversational AI"
     excerpt: "Kore.ai, a top conversational AI software company, today announced its partnership with Mashreq Bank, one of the leading financial institutions in the UAE, to enhance digital engagement and support for customers through conversational AI."
     publishedDateTime: 2021-06-08T07:00:00Z

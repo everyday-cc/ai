@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.nsf.gov/news/mmg/media/images/lake_charles_f.jpg"
         width: 350
         height: 220
-        isCached: true
-  - title: "Insurance to Mitigate the Risk of AI Systems Coming into View"
-    excerpt: "AI insurance and revamped cyber security insurance aims to mitigate the risk of deploying AI systems for high risk decision-making."
-    publishedDateTime: 2021-06-03T20:41:00Z
-    webUrl: "https://www.aitrends.com/ai-and-business-strategy/insurance-to-mitigate-the-risk-of-ai-systems-coming-into-view/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-4AIInsurance-2.jpeg"
-        width: 550
-        height: 366
         isCached: true
   - title: "Massive Slate of iRacing AI Updates Set for 2021 Season 3"
     excerpt: "Racing’s ever-expanding slate of AI content continues to grow for the upcoming 2021 Season 3 build, set for release on Wednesday. Multiple cars and nearly 30 track layouts will be making their debut with our virtual racers,"

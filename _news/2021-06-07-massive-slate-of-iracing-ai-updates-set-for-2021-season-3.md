@@ -82,20 +82,6 @@ related:
         width: 350
         height: 220
         isCached: true
-  - title: "Insurance to Mitigate the Risk of AI Systems Coming into View"
-    excerpt: "AI insurance and revamped cyber security insurance aims to mitigate the risk of deploying AI systems for high risk decision-making."
-    publishedDateTime: 2021-06-03T20:41:00Z
-    webUrl: "https://www.aitrends.com/ai-and-business-strategy/insurance-to-mitigate-the-risk-of-ai-systems-coming-into-view/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-4AIInsurance-2.jpeg"
-        width: 550
-        height: 366
-        isCached: true
 
 secured: "HvTbqWwdZj8df9sCoNzgV/GNxrPQkNmY6KCPr5DH47d9+bNqjRpCuZPqbbTmYwpz5vl8n6EAs/JBePUYDja7wpY6xDV22G3FvZNnKCxemZAuwfT04ls8YfwZCt1fLOnYDcLQU31qb6rfjsn2thQCsfUmz7juqxlOWkAv+lCn46+LxS7p5eyFIhlitDjqNbeUT6jjg1X1j0bGLDT/b+X5w6iZHdusuM6C1FFUKcHptcf0T+tt2HvDW71HxWK9PO4h9ifi9YbxbV/uJnm/GGaHtpCNwoNY4ZnCMV+IQyz1LD0hElh5QUjZlIE824ExWdaeVr2o31tF0RNMTPf4ix/KHjTolmmmg1IwJ3PS97hD5AIOUFUix04UrOqqN6SG64RtXR5FA2CLTcE6dZqsZATs2fV9TVGdLpHnMAx+00PDLAv+Z5y75oLTi6KRIpBUkuUVHctIxTHWZk+75zI+KVbRM9opTVhDz8inUMK2W5TPKYSY1SBLWKLq0ZSnIS0FOIxYsUi8wsxI5ITxX1IY+dpDeQ==;j+iWPpIO5HOEgS0SyJvlqw=="
 ---

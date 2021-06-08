@@ -1,31 +1,30 @@
 ---
 category: news
-title: "7 Things to Know About AWS ML: Swami Sivasubramanian"
-excerpt: "Swami Sivasubramanian, vice president of artificial intelligence and machine learning at Amazon Web Services, gives a rundown of AWS’ ML technologies and challenges"
-publishedDateTime: 2021-06-07T17:05:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/7-things-to-know-about-aws-ml-swami-sivasubramanian"
-webUrl: "https://www.crn.com/slide-shows/cloud/7-things-to-know-about-aws-ml-swami-sivasubramanian"
+title: "7 things to know about AWS ML: Swami Sivasubramanian"
+excerpt: "Machine learning is one of the most transformative technologies of this generation, but the tech community only is “scratching the surface” when it comes to what’s possible, according to Amazon Web Services artificial intelligence and machine learning vice president Swami Sivasubramanian."
+publishedDateTime: 2021-06-07T19:35:00Z
+originalUrl: "https://www.crn.com.au/news/7-things-to-know-about-aws-ml-swami-sivasubramanian-565608"
+webUrl: "https://www.crn.com.au/news/7-things-to-know-about-aws-ml-swami-sivasubramanian-565608"
 type: article
-quality: 58
-heat: 58
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
-  - Google AI
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 images:
-  - url: "https://www.crn.com/resources/026a-1276d0895528-1f1cd08db339-1000/swami-sivasubramanian-aws.jpg"
+  - url: "https://i.nextmedia.com.au/News/swami-sivasubramanian-aws.jpeg"
     width: 610
     height: 459
     isCached: true
 
-secured: "dUQUb0p2PzTmziWVmaPX2qLfW46My6Ak+AtaSR07/JbSlVX4r7bxGAB+2d2NPU153/fPgkh5Nu+1Jfe3hFnu0u/wGA+RwGBDw3Rj1b0LDubTYMJIDRbXypYoKbL/3IuO2X1+OPkhBi9IBLyJYZ2nyBF60XvlCEpYMLFtcnJ1rIF5/0B4DPiQih5bbotpaf4/J+JnVAWx+sYvO81pZHG3B3RYYArsjgkpthHpzScJhOETA7b8gGtCl0ZzcHm53x2MLGMkJYnoR9tISQlVYC6RJ6xlo3tteePQfL4p5ke6SRAJffmuXhuoDlhu7F26sJ3QOdMql08SQARoZIBk8BgWQ4A2fUs+D2qhFEgnaSpHUGg=;hJXiQ9qVKUWlTiTJre4Mow=="
+secured: "pHwD1s9cD9lkt+QxXSmWYQxqDzz0gg1Vi5Wel63izTpQTpgeQ6haAYNuK0NCdZYNZejl702cDGNur/xAtFo8DcmS1VEHtxmTlx9vU/ALsleWdR3yDSBcBezGutb5FvQS8aegTJ9uIo7egXB+iMr8xs91e6Tz+GaS5aDUojkiDDoCQ/T2P5ebcBbAfOBU4OeAfsE0PeacbSOoV99hds8KJtMR5aXs7syXjcFgQCzy03sDclIkTiVu9a81D+gUUfOpsIcm+ONKHnLxmhGgETiyZGONqo9JqsDmoTvkyiJqeoi+PGPwwSJKc4RlOpVXY2lYQSl998T3yesojxmxgjX6NkuVmw74LjrrQamEaROcQJE=;kIEKFri1H5E9p1Gwbdg4Ug=="
 ---
 

@@ -1,20 +1,25 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
-excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-05-27T12:59:00Z
-originalUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
-webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com"
+excerpt: "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2021-05-27T16:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210527005561/en/"
+webUrl: "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "H054AeHjtGT1A4ikikuXzKVRcnCEsmgbnagaGsmwQ+3OVuC7xvsnzxNSnfOoV2HLYLBl6WpVaYIZf3hXWZRTb7S0TGmA5RLCt5WhDmZ71Y7QzOXnjQMAF6o01445lmkMJRGip81hzqLgT/X7ze5zk0Xw+ysf2JL1layX/8iF2VVKyQwPRnriyiqnYCMZ8N50LGG1AL4iV5kjY5fmfirB0bWt2pr5Hk/JuUQcy/85oBaXQHjSvQAasMR+wrqxP9shsMCAx97PLUJfc3QAsrNGjoIz8Ds2sXBwgkWENp4msa66QXw22F7Jl/E4ipfSQ98PXD4fj4aKYD9i9zZVbzw7+aQc33RAKxo1q1HMKSmd8KM=;szgonga8TBIMtekXez0ong=="
+images:
+  - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-artificial-intelligence-market.png"
+    width: 600
+    height: 300
+    isCached: true
+
+secured: "0fCDv2HZF3CevPExeq7+Ig4SJmvX1lOxgBTTV8t5CGMq9IYtveBd/xieCtq0criY80uHNPNcraEAwl+ydPrn6ayEe4SfICbwdYplRWc3JblBVvVYzuUiTbLQagvs7+lQ94TwNMoZGQG/y9pwY8xIUaPJxg7INIm3iQmtTaei3Nac5NZDsRYV7agkBzMtgrPSgmNopKNcDqzr0FBmYXgfGwWNvE4lBz6E4rzhQfPK6OSTIju62SFXxe/Ln7mGqekuem4aFChzw9TAH0pyPJgQzfWg3YBJUy/w39j6tyPoof0AhCtzn/ZZazUWIxuvGglIRPqStZEYGgV3pVDs1sUJ3ooX6EURmx2MICckXI4Yk8g=;yVKh+yzxQx7Kf594kX8iaQ=="
 ---
 

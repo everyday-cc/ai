@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Study shows AI-generated fake reports even fool experts"
+    excerpt: "If you use such social media websites as Facebook and Twitter, you may have come across posts flagged with warnings about misinformation. So far, most misinformation—flagged and unflagged—has been aimed at the general public."
+    publishedDateTime: 2021-06-08T12:50:00Z
+    webUrl: "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-ai-generated-fake-experts.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-generated-fake-experts.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg"
+        width: 1920
+        height: 1920
+        isCached: true
   - title: "Study shows AI-generated fake reports fool experts"
     excerpt: "If widely used, these AIs could hinder efforts to defend against cyberattacks -- and could set off an AI arms race between misinformation generators and detectors."
     publishedDateTime: 2021-06-07T14:56:00Z

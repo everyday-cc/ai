@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Building a foundational map of humanity using machine learning"
-excerpt: "Geospatial data and analytics company Fraym announced a Series B financing to further scale their AI/ML software for mapping humanity. Fraym"
-publishedDateTime: 2021-06-08T10:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/building-a-foundational-map-of-humanity-using-machine-learning-301307079.html"
-webUrl: "https://www.prnewswire.com/news-releases/building-a-foundational-map-of-humanity-using-machine-learning-301307079.html"
+excerpt: "Geospatial data and analytics company Fraym announced a Series B financing to further scale their AI/ML software for mapping humanity. Fraym is the preeminent global provider of geospatial data for understanding population dynamics."
+publishedDateTime: 2021-06-08T12:27:00Z
+originalUrl: "https://menafn.com/1102231030/Building-a-foundational-map-of-humanity-using-machine-learning"
+webUrl: "https://menafn.com/1102231030/Building-a-foundational-map-of-humanity-using-machine-learning"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?56317"
+    width: 397
+    height: 250
     isCached: true
 
-secured: "KIcJoCbasK8jcwlNQFLCYnEAQYWKDkBFlsKc5a62Yhpw4dT29VRD5Si/J2iOmk73yJK0nPbmTPdineZSz08c3ApK4+VPU2XJEL+Z2GA2YnA2azCSvQVcQ1w4bE0Vwo6+KRtrXZDjL6hyg8EQoFjoj4VxQWLru8A3iBb6Y4I2KqFIm5R8fQzsuCC4EkIAXJtb99AvCWQPc385VZ6q2MFq5FOW8epFpJXQ/1QoO6XRosQrkuUOGPAcpic+a5Kbyxnijy1iCmOwEkx1YxSPh6tRaKf1yJP7mRMYNIZaDI2w/2gT5ZFwyMZUUMY5y8Ja5/hKT089jBojdt8lhOxxKCyKItRAHIi6n4ZZmzdCyqDV8go=;mJ1/PuMmpBbPo5i5IKxT7A=="
+secured: "BJwmQAHy8pwXZVd820mvHwbsw3UQOUsYMmbNTynj70hEvxMUwmo+NQh7DbTGYFw8B8joZ7GNkjiaS8npboQUISg95kWhkY1VrX2Chsij6O3XjQJuiXZBKOFNtMqbEWszE/pyFlc8aF7W1/odv06srE/EI26+Y5INLbBqjHVLLXasF7xkOSjQH+2mAlsHp1VK4TITFHhQPOw6ymaGhgOEHpxREm1g59sbr5fQnbMIm7ZILsQPgqOv1VRFlB4H9pzODeSmGtVkpa7ZUaCcrGdAn0BiDzQlbhv8HHvrphtJnUpPKuMaXA5MNtiMhFbO2lU5KvKC7ESqSNGdhKqV66mYQ+qGWWVuggK966W9Lz1pC1M=;HuPFipAQIR6/EbAHUrXTdA=="
 ---
 

@@ -49,7 +49,7 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
         width: 620

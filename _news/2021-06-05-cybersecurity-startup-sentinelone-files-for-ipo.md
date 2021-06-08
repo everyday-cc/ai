@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 706
         isCached: true
+  - title: "Horizon3.ai Raises $8.5M to Disrupt the Cybersecurity Assessments Market"
+    excerpt: "Horizon3.ai, a cybersecurity startup focused on automated penetration testing-as-a-service (APTaaS™), today announced $8.5M in funding. Co-founded by former Splunk CTO, Snehal Antani, and Anthony Pillitiere,"
+    publishedDateTime: 2021-06-08T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9386087.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1527715/Horizon3_Logo.jpg"
+        width: 400
+        height: 348
+        isCached: true
 
 secured: "d15Ia3KqOGuFlmjZzLn3KcJS4rR51xJ4MsM6ta8+N2dmhNFSlcDDPi1cPj73BdmMeZxqzp5uE+IhX84u26BFx4h9zfUFhR1bn7IowDsfJAbuk4/yRnVPbLyal0GvsT83UCbhgWdWhDurHGkkBulsBa2xlFmQGJsu7r+CDMRorvogZBwi02Ha2Ru8wTLvXUtGw9zsThjyMPFbkSlp0L+qF1fgGw4VUbnGX57l8cnx5MOMCwyEnDKB1zJO1xhVGnr8YqG/MfSxGQBbr5eCAzN471JKdbSysWv8M5wfxPcIMbKoqtjb8JWnGT3qBE23BZP8kwykoUpBqBz7tYGPykDPq6LHud9RY28is2XksByfwpQ=;JXk4kxSKHi4FE02arIQbqw=="
 ---

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "UPMC spins off AI company that analyzes EHR data"
-    excerpt: "The University of Pittsburgh Medical Center on Thursday launched Realyze Intelligence, an artificial-intelligence company that analyzes electronic health record data. Realyze Intelligence's tools use natural language processing and other types of AI to analyze clinical notes and data held in patients' health records,"
-    publishedDateTime: 2021-06-03T20:06:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/upmc-spins-ai-company-analyzes-ehr-data"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/UPMC_AP_fullsize_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AI modeling can combat churn"
     excerpt: "At a cost of more than $300 to acquire a new customer2, and FIs losing 10-15% annually of gross revenues to attrition3, FIs must slam the door on attrition. Research shows that by employing artificial intelligence powered predictive analytics and arming relationship managers with data-driven insights and enablers,"
     publishedDateTime: 2021-06-08T08:00:00Z
