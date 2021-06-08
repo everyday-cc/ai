@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Calls mount for ethical approach to facial recognition"
+    excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
+    publishedDateTime: 2021-06-08T11:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 76
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
+        width: 1000
+        height: 608
+        isCached: true
   - title: "King County ban on police use of facial recognition software spotlights local movements across US"
     excerpt: "As federal legislation on law enforcement's use of facial recognition software stalls, dozens of cities and counties are taking measures into their own hands."
     publishedDateTime: 2021-06-04T05:00:00Z
@@ -129,6 +145,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Hyderabad_AIM.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Asset managers unite to urge human rights focus on facial recognition tech"
+    excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
+    publishedDateTime: 2021-06-08T11:11:00Z
+    webUrl: "https://www.investmentweek.co.uk/news/4032513/asset-managers-unite-urge-human-rights-focus-facial-recognition-tech"
+    type: article
+    provider:
+      name: Investment Week
+      domain: investmentweek.co.uk
+    quality: 37
+    images:
+      - url: "https://www.investmentweek.co.uk/api/v1/wps/e821d2e/c7490c93-5e13-44e6-adfd-4addff378bbf/13/Facial-Recognition-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
   - title: "Human and civil rights groups call for ban on police facial recognition technology"
     excerpt: "A large coalition of advocacy groups focused on civil and human rights are pushing to ban the police from using facial recognition technology that they say could create an Orwellian surveillance state."

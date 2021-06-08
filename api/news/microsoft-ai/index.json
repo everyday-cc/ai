@@ -117,7 +117,7 @@
       "originalUrl": "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -297,6 +297,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-nfl-pledges-to-halt-race-norming-review-black-claims.md",
+      "title": "NFL pledges to halt ‘race-norming,’ review Black claims",
+      "excerpt": "PHILADELPHIA (AP) — The NFL on Wednesday pledged to halt the use of “race-norming” — which assumed Black players started out with lower cognitive ... from wire services such as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
+      "originalUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1372,49 +1406,6 @@
         "AI",
         "AI in Sales",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-microsoft-corporations-msft-management-presents-at-jpmorgan-49th-annual-global-technology-media-and-communications-conference-transcript.md",
-      "title": "Microsoft Corporation's (MSFT) Management Presents at JPMorgan 49th Annual Global Technology, Media and Communications Conference (Transcript)",
-      "excerpt": "JPMorgan 49th Annual Global Technology, Media and Communications Conference May 25, 2021, 02:10 PM ET Company Participants Alysa Taylor - Corporate",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4431268-microsoft-corporations-msft-management-presents-jpmorgan-49th-annual-global-technology-media",
-      "originalUrl": "https://seekingalpha.com/article/4431268-microsoft-corporations-msft-management-presents-jpmorgan-49th-annual-global-technology-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4431268-microsoft-corporations-msft-management-presents-jpmorgan-49th-annual-global-technology-media",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4431268-microsoft-corporations-msft-management-presents-jpmorgan-49th-annual-global-technology-media",
-      "publishedDateTime": "2021-05-25T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

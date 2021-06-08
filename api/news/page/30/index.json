@@ -2,6 +2,289 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-05-16-new-medical-image-fusion-method-draws-on-deep-learning-to-improve-patient-outcomes.md",
+      "title": "New medical image fusion method draws on deep learning to improve patient outcomes",
+      "excerpt": "Researchers at the College of Data Science Software Engineering at China's Qingdao University, have developed a new 'multi-modal' image fusion method based on supervised deep learning that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/kccl-nmi051621.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/kccl-nmi051621.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/265068_web.jpg",
+          "width": 720,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-software-engineer-ai-computer-vision.md",
+      "title": "Software Engineer (AI Computer Vision)",
+      "excerpt": "Develop AI computer vision modules for machine automation and visual inspection Develop software GUI using C#/C++ Assist in Research & Development of image processing using cloud computing (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://tweakers.net/carriere/it-banen/251998/software-engineer-ai-computer-vision-maastricht-en-hr-solutions",
+      "originalUrl": "https://tweakers.net/carriere/it-banen/251998/software-engineer-ai-computer-vision-maastricht-en-hr-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tweakers",
+        "domain": "tweakers.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai.md",
+      "title": "What the vaccine rollout can teach us about big data and AI",
+      "excerpt": "When it comes to being data driven and innovative with AI, there are 4 lessons enterprises can learn from the vaccine rollout.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1152335789.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/amp/",
+      "publishedDateTime": "2021-05-15T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys.md",
+      "title": "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys",
+      "excerpt": "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c5723ab0607039e88dea8%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D2621%26cropY1%3D126%26cropY2%3D1575",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
+      "publishedDateTime": "2021-05-15T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about.md",
+      "title": "GPT-3’s free alternative GPT-Neo is something to be excited about",
+      "excerpt": "GPT-Neo performs on par with GPT-3 on several key benchmarks, but unlike GPT-3, it's open to anyone who wants to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
+      "originalUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1053437844.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/",
+      "publishedDateTime": "2021-05-15T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-european-ai-needs-strategic-leadership-not-overregulation.md",
+      "title": "European AI needs strategic leadership, not overregulation",
+      "excerpt": "Proposed EU regulations could cripple AI development in the EU while China and the U.S. leap forward and lead to complete chaos when regulations in various EU bodies start contradicting.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/",
+      "originalUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211364640.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/",
+      "publishedDateTime": "2021-05-15T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-top-artificial-intelligence-job-openings-to-watch-out-for-this-week.md",
       "title": "Top Artificial Intelligence Job Openings to Watch Out for This Week",
       "excerpt": "Artificial Intelligence job prospects have grown in recent years as industry demand has increased. Here is a list of 10 Artificial Intelligence job openings for this week.",
@@ -868,308 +1151,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts.md",
-      "title": "One Drop Receives CE Mark For AI-Powered Blood Glucose Forecasts",
-      "excerpt": "One Drop, a leader in precision health solutions for people living with chronic conditions, today announced it has achieved the Conformité Européenne (CE) Mark for its Blood Glucose Prediction Analysis Engine to accurately forecast glucose levels up to eight hours in advance for people living with prediabetes,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts-1030430512",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts-1030430512",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/837526/One_Drop___Automated_Decision_Support.jpg",
-          "width": 400,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-facebook-has-trained-an-ai-to-treat-irrelevant-data-like-spoiled-milk.md",
-      "title": "Facebook has trained an AI to treat irrelevant data like spoiled milk",
-      "excerpt": "Facebook researchers hope to help future ... Though still in the early stages of research, “As a next step in our research toward more humanlike AI systems, we're studying how to incorporate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/fb-trained-ai-to-treat-irrelevant-data-like-spoiled-milk-130038110.html",
-      "originalUrl": "https://www.engadget.com/fb-trained-ai-to-treat-irrelevant-data-like-spoiled-milk-130038110.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/6d490490-b44f-11eb-bcfe-f2faf631cdf8",
-          "width": 5234,
-          "height": 3489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-facebook-aims-to-help-ai-models-forget-with-expire-span.md",
-      "title": "Facebook aims to help AI models forget with Expire-Span",
-      "excerpt": "Benefits and risks of artificial intelligence Expire-Scan is still in the research phase and focuses on past experience memories. Facebook said it will study how to incorporate more memories into neural networks to better replicate the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/12/38de8040-e46d-4d0e-a6ac-3d03e3591991/expire-span-before-after.gif",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
-      "publishedDateTime": "2021-05-14T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-facebooks-new-technique-helps-ai-systems-forget-irrelevant-information.md",
-      "title": "Facebook’s new technique helps AI systems forget irrelevant information",
-      "excerpt": "Facebook claims to have developed a technique that enables AI models to forget irrelevant information while retaining relevant data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
-      "originalUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/",
-      "publishedDateTime": "2021-05-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths.md",
-      "title": "AI under the sea: Autonomous robot to collect data from new depths",
-      "excerpt": "Terradepth CEO talks about a project to map out and collect data from all the oceans of the world. The company uses artificial intelligence and machine learning to gather and make sense of the data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/13/59c46818-1c37-4b71-ae79-2c8f9c294981/resize/350x/d3bedfd4616337fc874fdbd3fb2f3e33/terradepth-joe-judson-lake-test.jpg",
-          "width": 350,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
-      "publishedDateTime": "2021-05-14T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-top-5-most-controversial-scandals-in-ai-and-big-data.md",
-      "title": "Top 5 Most Controversial Scandals in AI and Big Data",
-      "excerpt": "Hi-tech companies, who invest huge funds on managing and examining real-time data explosion, have experienced the most scandalous controversies in the history of AI and Big Data, which take years to s",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-5-most-controversial-scandals-in-ai-and-big-data/",
-      "originalUrl": "https://www.analyticsinsight.net/top-5-most-controversial-scandals-in-ai-and-big-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Top-5-Most-Controversial-Scandals-in-AI-and-Big-Data.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,212 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-04-ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem.md",
+      "title": "IBM CodeNet: Artificial Intelligence That Can Program Computers And Solve A $100 Billion Legacy Code Problem",
+      "excerpt": "Goodson dives deeper as for the past two and a half years, Dr. Puri and a team from IBM Research and the MIT-IBM Watson AI Lab have worked on a massive code-intensive AI for Code project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ba36078cd17d882673b8fc%2F0x0.jpg",
+          "width": 1199,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/amp/",
+      "publishedDateTime": "2021-06-04T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-ai-cybersecurity-provider-sentinelone-files-for-100m-ipo.md",
+      "title": "AI cybersecurity provider SentinelOne files for $100M IPO",
+      "excerpt": "SentinelOne, a late-stage security startup that helps organizations secure their data using AI and machine learning, has filed for an IPO on the New York Stock Exchange (NYSE). In an S-1 filing on Thursday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/",
+      "originalUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1174418589-1.jpg?w=1024",
+          "width": 1024,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/",
+      "publishedDateTime": "2021-06-04T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-how-ai-is-addressing-the-enterprise-email-overload-problem.md",
+      "title": "How AI Is Addressing The Enterprise Email Overload Problem",
+      "excerpt": "AI-powered technology is helping businesses deal with their cluttered inboxes and better manage customer expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a0c158094e05a83b59beb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
+      "publishedDateTime": "2021-06-04T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf.md",
+      "title": "Indonesian healthcare startup Prixa raises $3M led by MDI and TPTF",
+      "excerpt": "Indonesian healthcare startup Prixa has raised $3 million led by MDI Ventures and the Trans-Pacific Technology Fund (TPTF), with participation from returning investors including Siloam Hospitals Group.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/",
+      "originalUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1163656222.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/amp/",
+      "publishedDateTime": "2021-06-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-local-governments-are-going-to-war-with-facial-recognition-technology.md",
       "title": "Local governments are going to war with facial recognition technology",
       "excerpt": "Local governments, including King county in Washington state, are passing laws to curb the use of facial recognition technology by law enforcement.",
@@ -10,7 +216,7 @@
       "originalUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1022,206 +1228,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
-      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
-      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
-          "width": 625,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "publishedDateTime": "2021-06-03T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars.md",
-      "title": "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars",
-      "excerpt": "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-06-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-realtime-robotics-raises-a-31m-series-a.md",
-      "title": "Realtime Robotics raises a $31M Series A",
-      "excerpt": "Boston-based Realtime Robotics this morning announced a $31.4 million round The funding is part of the $11.7 million Series A the company announced all the way back in late 2019. Investors include HAHN Automation,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/RTR_Siemens-Connected.jpg?w=1024",
-          "width": 1024,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/amp/",
-      "publishedDateTime": "2021-06-03T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-automating-care-about-our-new-series-on-the-rise-of-ai-in-caregiving.md",
-      "title": "Automating Care: about our new series on the rise of AI in caregiving",
-      "excerpt": "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us",
-      "publishedDateTime": "2021-06-03T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

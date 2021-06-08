@@ -25,48 +25,87 @@ images:
     isCached: true
 
 related:
-  - title: "How fintech is fighting R&D attrition in Canada"
-    excerpt: "One downturn stands out like a sore thumb in the Organization for Economic Co-operation and Development’s recent assessment of Canadian tax relief for research and development: From 2014 to 2018, the number of recipients of research-and-development tax relief fell by nearly 25 per cent,"
-    publishedDateTime: 2021-06-04T20:43:00Z
-    webUrl: "https://ipolitics.ca/2021/06/04/how-fintech-is-fighting-rd-attrition-in-canada/"
+  - title: "The Future Of Insurance: Fintech 50 2021"
+    excerpt: "The insurtech companies featured on the 2021 Forbes Fintech 50 are innovating in a space that has been associated with antiquated processes and practices. These companies are bringing the age old concept of insurance to a constantly changing world."
+    publishedDateTime: 2021-06-08T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/"
     type: article
     provider:
-      name: iPolitics
-      domain: ipolitics.ca
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://ipolitics.ca/wp-content/uploads/2021/05/DSCF3065-scaled.jpg"
-        width: 2560
-        height: 1443
-        isCached: true
-  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
-    excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
-    publishedDateTime: 2021-06-04T19:02:00Z
-    webUrl: "https://www.pr-inside.com/ncfa-successfully-concludes-canada-s-leading-fintech-and-financing-r4833550.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 24
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8f37238664aae477dd319%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2983%26cropY1%3D160%26cropY2%3D1838"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing Conference FFCON21: Breaking Barriers"
-    excerpt: "Congratulations to the 2021 Fintech Draft Pitching Competition winners Agryo and Copia Wealth Studios TORONTO, ON / ACCESSWIRE / June 4, 2021 – The National Crowdfunding & Fintech Association of Canada (NCFA),"
-    publishedDateTime: 2021-06-04T19:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ncfa-successfully-concludes-canadas-leading-fintech-and-financing-conference-ffcon21-breaking-barriers"
+  - title: "The 11 Biggest Fintech Companies In America 2021"
+    excerpt: "With investment and valuations soaring, a Forbes Fintech 50 member had to be worth $5 billion to make our top list."
+    publishedDateTime: 2021-06-08T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
+      name: Forbes
+      domain: forbes.com
+    quality: 54
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/04/fb_image-1013-600x337.jpeg"
-        width: 600
-        height: 337
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b7e9dda2eeaef9ad7dd31b%2F0x0.jpg%3FcropX1%3D620%26cropX2%3D3627%26cropY1%3D263%26cropY2%3D1673"
+        width: 1200
+        height: 563
         isCached: true
+  - title: "For FinTech – the ‘new normal’ in finance"
+    excerpt: "FinTech has risen to challenges posed by Covid-19 by delivering digital, secure, seamless user experiences. The way people manage their finances has dramatically changed with the convenience of FinTech technologies."
+    publishedDateTime: 2021-06-04T06:07:00Z
+    webUrl: "https://www.malaysiakini.com/advertorial/577567"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 39
+    images:
+      - url: "https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/06/f6f548a7b30cdbd5fec09bc0fd19dfd0.jpg"
+        width: 3120
+        height: 2080
+        isCached: true
+  - title: "How The Indian FinTech Is Using AI"
+    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
+    publishedDateTime: 2021-06-06T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
+        width: 1600
+        height: 800
+        isCached: true
+  - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
+    excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"
+    publishedDateTime: 2021-06-07T11:25:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-10-upcoming-fintech-webinars-and-virtual-events-in-dach-to-attend/45836/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Upcoming-Fintech-Webinars-and-Virtual-Events-in-DACH-.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
+  - title: "Commercial Finance Fintech and Business Lender join forces to give Australian Small Businesses a fighting chance"
+    excerpt: "The funding gap in small and medium business (SMB) lending in Australia is estimated at more than $90 billion. It was reported in late 2020 that the major banks are rejecting more than a quarter of SMB loan applications,"
+    publishedDateTime: 2021-06-07T01:07:00Z
+    webUrl: "https://prwire.com.au/pr/96967/commercial-finance-fintech-and-business-lender-join-forces-to-give-australian-small-businesses-a-fighting-chance-1"
+    type: article
+    provider:
+      name: PRWire
+      domain: prwire.com.au
+    quality: 0
 
 secured: "9kBo6AkC5jmIFbrmiFO/Yu6MTB3bWN36anx6U/eMSIzSnpPVrxpdz2zsi195YcoNMxShYXLe5YU0nX5lf2vHczI2PF+c8GewSobRdRgZlQxBp9ybuLNrIVNLkk+XJ1MTeXjg6nnqbPauFNz7fy1i3sC7dLZXJLymDoT9mUD1rbEOJhvW33FP+PktSBpSvmavW1zk7z2VGnA2Nq/yTQVgILzDUKpOatEA2wN8DI+ijEl8jgGTT5tks4RotPGPJ8+e589t3tV2CPI3Vl6BRyC2Io5QxxQMvA+9z01kL7UsHN5GNQZiCTeP/u8ZbGoNxZbOqVOARw6HrZDr9f3JB5ZDyR98i3xIteZJeIuTDnS8dGo=;MvLmNhFYJKZ2qu/fqjhIDQ=="
 ---

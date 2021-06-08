@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.htm
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Good feeling': Ai Weiwei picks Portugal for new show, home"
-    excerpt: "Dissident Chinese artist Ai Weiwei is putting on the biggest show of his career, and he is doing it in a place he’s fallen in love with: Portugal. The world-renowned visual artist’s new exhibition, “Rapture,"
-    publishedDateTime: 2021-06-03T18:51:00Z
-    webUrl: "https://www.chron.com/entertainment/article/Good-feeling-Ai-Weiwei-picks-Portugal-for-new-16222135.php"
-    ampWebUrl: "https://www.chron.com/entertainment/amp/Good-feeling-Ai-Weiwei-picks-Portugal-for-new-16222135.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/Good-feeling-Ai-Weiwei-picks-Portugal-for-new-16222135.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "'Good feeling': Ai Weiwei picks Portugal for new show, home"
     excerpt: "Chinese artist Ai Weiwei is putting on the biggest show of his career in a place he’s fallen in love with: Portugal"
     publishedDateTime: 2021-06-07T03:00:00Z

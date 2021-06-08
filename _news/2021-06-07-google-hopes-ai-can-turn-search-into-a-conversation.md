@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wired.com/story/google-hopes-ai-turn-search-conversation
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-hopes-ai-turn-search-conversation/amp"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Following e-cigarette conversations on Twitter using artificial intelligence"
-    excerpt: "The advertising of nicotine products is highly restricted, but social media allows a way for these products to be marketed to young people. What's more, e-cigarette flavorings make them particularly appealing to teenagers and young adults."
-    publishedDateTime: 2021-06-04T10:59:00Z
-    webUrl: "https://techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-e-cigarette-conversations-twitter-artificial-intelligence.amp"
+  - title: "How Utilities Can Use Data And AI To Turn Every Interaction Into A Marketing Opportunity"
+    excerpt: "Utilities often collect an enormous amount of customer data that can be extremely valuable for segmenting, targeting and engaging with different audiences. The next step is to use this data to enhance marketing automation and break down the silos between departments."
+    publishedDateTime: 2021-06-08T11:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 95
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ecigarette.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c716b9a3e6cd67f92c711%2F0x0.jpg"
+        width: 1199
+        height: 800
         isCached: true
 
 secured: "NBKzfNRz/UKzuZvod47OMZ3c6cX/CyQb1EW/tWhksmONQDsfBupmD/PoUnkx5VoGRu4ttTYnnXgY1IM5jj2bJzAnj1UrvUJPheBgTUW4yZEQ5Dlk6rBhJWKvA3m5tp8Y5uJHYEwKOYvUMZfPCcmVYjLR5pl2rhLNX38uu9f9omb8KVhgYm/5Hxm0Xbz0STKCEAecfEu8kKje52WN49UJbrIGISX/+VceoVBJByJ+ilDXr6sLHyNuHX279gz0cFuHGMlwgcHyY5xXY+jqTyeS/JCuAb0WI+cWnjPV7kh5U31ABXa1vUEv+UQwgM7+76QwOQpAuH3pU5R8tgpSekYj8Km+mHJggz2xs62AYlrBkq+QdfVW1azOD44o0xjBwI7mqJUvxSSDn7s69P41DlDWyDvbN7pViulhsok68Rfl8CpDlZlE3b7Y3wFATSrgtETOkAy5XZqrNqgCsfOOhrAqhSB/GuO6dOzFUvcadkeU0bvmMabmWW4osQMpEzpbUetA76N3JY2+KjtdSCcgttnz1w==;ZX1EZ34BgU8bNuQhzwcNpw=="

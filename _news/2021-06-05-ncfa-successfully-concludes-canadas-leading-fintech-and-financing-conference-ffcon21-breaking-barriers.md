@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Why fintech is changing the mortgage industry for good – Boyd"
-    excerpt: "It now seems impossible to consider paying an online vendor without using PayPal, or checking our bank balance without using an app. Fintech has empowered people on the hunt for a new loan, a new car insurance policy,"
-    publishedDateTime: 2021-06-07T13:36:00Z
-    webUrl: "https://www.mortgagesolutions.co.uk/better-business/2021/06/07/why-fintech-is-changing-the-mortgage-industry-for-good-dashly/"
-    type: article
-    provider:
-      name: mortgagesolutions.co.uk
-      domain: mortgagesolutions.co.uk
-    quality: 24
-    images:
-      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2021/06/RossBoyd_social_watermark-764x399.jpg"
-        width: 764
-        height: 399
-        isCached: true
 
 secured: "hcUpvmDyjl8YPXoC+mlavv10nkqcB9O9eA2P+eujMlBi8Qn2Wehg9fzuynR3evrv0veh/RTUrBBB678mM91CeK2Of9FL1WqR+DcVmqztx5YXT1KAWKWbNL3haiPgKIPodunBQCVmJ8AwPvJNm3E+TC8ta9+9T3cp0Kv/00oKDxiOlOZLY+nFlMiYlQZyrDP9KGtwbmrwpE621/agNTip5VrnJjwTvKsBS1j9Xlt7LmUX9Lf6kjABy+4fv29dBqR/ajsVkm/FY2mA+B/Xlf+2H3OBSRjyY9bxZVzRJSjixD2fJMB/vRP8EiGHMj5j2FN4raT6WAfMJyxPcDeTY9+/MTBKsQAWZemOGfYKzG0lMcs=;igW5HGtzv+3uVKWnUeOfbA=="
 ---

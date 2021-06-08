@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-06-artificial-intelligence-coronal-holes-
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-artificial-intelligence-coronal-holes-automate.amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI automated our space weather predictions with just one simple trick"
+    excerpt: "Researchers have trained artificial intelligence to reliably predict space weather caused by our Sun by looking at coronal holes."
+    publishedDateTime: 2021-06-08T10:04:00Z
+    webUrl: "https://www.tweaktown.com/news/79860/ai-automated-our-space-weather-predictions-with-just-one-simple-trick/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79860/ai-automated-our-space-weather-predictions-with-just-one-simple-trick/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79860/ai-automated-our-space-weather-predictions-with-just-one-simple-trick/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/9/79860_02_ai-automated-our-space-weather-predictions-with-just-one-simple-trick.jpg"
+        width: 620
+        height: 422
+        isCached: true
   - title: "Holes in the solar atmosphere: Artificial intelligence spots coronal holes to automate space weather"
     excerpt: "Scientists have developed a new neural network capable of detecting coronal holes based on data from space observations. The new application opens up opportunities for improving the accuracy of space weather forecasting and provides valuable information for studying solar cycles."
     publishedDateTime: 2021-06-07T04:00:00Z

@@ -69,20 +69,6 @@ related:
         width: 645
         height: 350
         isCached: true
-  - title: "Can Artificial Intelligence Explain How Simple Organisms Make Decisions?"
-    excerpt: "Physicists use artificial intelligence (AI) machine learning to model chemotaxis in single-cell organisms. How do living organisms that lack a brain or nerve cells make decisions? In a new study published in May 2021 in the Proceedings of the National Academy of Sciences of the United States of America (PNAS),"
-    publishedDateTime: 2021-06-03T18:50:00Z
-    webUrl: "https://www.bbntimes.com/science/can-artificial-intelligence-explain-how-simple-organisms-make-decisions"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 53
-    images:
-      - url: "https://www.bbntimes.com/images/articles/society/AI_Organism.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Insurance to Mitigate the Risk of AI Systems Coming into View"
     excerpt: "AI insurance and revamped cyber security insurance aims to mitigate the risk of deploying AI systems for high risk decision-making."
     publishedDateTime: 2021-06-03T20:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/21423204"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21423204"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "How The Indian FinTech Is Using AI"
-    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
-    publishedDateTime: 2021-06-06T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
-        width: 1600
-        height: 800
-        isCached: true
 
 secured: "clTVxzHBlHzkGZDIBh57/Flx/4RQEB1cZ+WigA1hJehSZDdzOKNdGr8OXCFPnZ00mhEyd+S5N3cDhqa/FTW3sSfpTiQZS4UVjk9HJJ6ILGLHOdSkYVX3IcoTIkgeEDdlH6Cxbc26u7R0M9n3xXq4mOZEdVJ1qzP/gkfiepL+1Q8cfoSWS7EVeom7u2nadf6sBqnykTkBjkojEQ78IWtrCSfuy68KRl3Ssj2NEYqe/kGmwkFJ0kHIZzo/cXMhEDTsp6QnNVAhuZHCkzeKklmZRLHUvl2BAboTvt2FaVPEAznbtgnlkzd06es5ivPLuA24swTfRCPSfyGHeOg1gnVIrVdoKQvE29iZhfgA6nSUifYkClFL6ga6KZtPMLz01rGF2faeODxx5ocDteWngU0spSqgO610BMTXSW96oipjD+TgPavqeC8frtu8dYIOVWy5uuBFSPfVL96RxmeJu17kfGJr9dyRWttvn0D9K1IsSFJ2suTfYOhZ3k79/DsBNHLDxHi7DxkQ0GFJNuwCuYznLQ==;3s9xKZQJ2bKvRSpevTiUQg=="
 ---

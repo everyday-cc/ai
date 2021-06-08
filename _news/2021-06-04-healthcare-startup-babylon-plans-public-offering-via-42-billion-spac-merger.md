@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/healthcare/2021/healthcare-startup-babylon-pl
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/healthcare-startup-babylon-plans-public-offering-via-4-2-billion-spac-merger/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "AI-Health App Babylon Plans $4.2 Billion SPAC—And Push Into U.S."
-    excerpt: "The growing market for virtual healthcare is heating up with telehealth app Babylon announcing Thursday that it is going public by merging with a special purpose acquisition company, or SPAC, that values the company at $4."
-    publishedDateTime: 2021-06-03T17:52:00Z
-    webUrl: "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/"
-    ampWebUrl: "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b915bf2d94bf703b936962%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1646%26cropY1%3D46%26cropY2%3D971"
-        width: 1199
-        height: 674
-        isCached: true
 
 secured: "+iWS/YSUZ858x2imDfTLprUiiHYO3x4VzAG7Ns8lemmuG65a+CEaI8T5befqqk9jB95/j4GsCTWbDtW2KZr8TrA2bgWM/fQ181KhzziNqKqRQAadpRQ/7736UEd8fP9yIC8qL4fuw1NWyfA+L4rALV0uxXdwv0/J58SN7Xvfj1AFEHRUc4cABuDGpRn/P1uvO+w9cmK6oyBMAFqbPIFvtc/IiBD2nZ+shMvsFbUubtM0hBhV6RtNnreHyK4VFWZCTZgO/aYJolMxS4zLCUA+Y8IzcgyzxQLIigsSgp0W6hCmnf9vtKHOJEcxxHOTbIimXIv09NrTRyAt+j45z657hzwiMY22apldK33XeUapAEnTI4BnMkD6IKlNfnF2mGmHpph7ykIa0S/ALYErU/Vf5bRnt32l37YcbefLPEPLe3u4NsdFoIT0PynPZQ+g4xX9CIuaGciiCNtFxaMsDDTrDJJs/qgG3ynxgZTDzYXwAk0RRj+snu4RBISxsSZkj6J2dl5fS8W1eZ+JfEButW+9FQ==;Ln8uis0PUr6lrj5G/01/tg=="
 ---

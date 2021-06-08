@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-c
 webUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/XzcsabCGgMLoKQLgBzFk9E-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Microsoft claims AI is neither artificial or intelligent"
+    excerpt: "The Vole nose Microsoft researcher Kate Crawford has told the Guardian that AI as we know it is neither artificial or intelligent. Crawford knows her brains she studies the social and political implications of artificial intelligence,"
+    publishedDateTime: 2021-06-08T10:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
+        width: 620
+        height: 467
         isCached: true
 
 secured: "7TFVka+WzTNgAOCJmLjCbHFgCFASMM2VxXmPCbJJPBZiVt34eDHfB3Osw8GD5ji5hihwOJrDqP7swZQO8zt+C6oZlVTpigv8XwO68Bi5ryArB+ODazJE36IkYsFpMMu8UbDnhdN+MY/hsB4zSRnoMNQnBSK5hNUmTSHxvfTnGZqgC3gy4louNINJF4fzPg8Yk+xMDnNOspY159s0TD8mVFUrrjc4wf7TljFg6vh0kBR798uXShvPLZdmk9gZZL5Jx0nrMX8+ol/Y3o6TxoUS3Fon6a4V6HRh1BR8Xf+f7c2qcXnacDc+RNxHMyOVQvVghFV0I3x9TYPtPJ+5ORnm45lM7TM/So3ikSQBNe4iJazv9Dw25ED0FoBiffCl56xupFRGwm1dTOAsfON2nkiBhA7H6nPwVaD8k4PJ+tRm8eOOaZSfP3t+V5xopjmuIBu8cll3N/UGzFlasIqhNsxpPSjdEeayu1P4nG3nrXqgbTV6MuNlF+PkupdnK/4ZGHCJUlXZF4bIXAuJyDsw3Of1pg==;CV4b24kYl49l7KJx0IS1sw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/06/CTL2106_WEB_IMG_xAI-Fraunhofer-IPA.jpeg"
         width: 645
         height: 350
-        isCached: true
-  - title: "Can Artificial Intelligence Explain How Simple Organisms Make Decisions?"
-    excerpt: "Physicists use artificial intelligence (AI) machine learning to model chemotaxis in single-cell organisms. How do living organisms that lack a brain or nerve cells make decisions? In a new study published in May 2021 in the Proceedings of the National Academy of Sciences of the United States of America (PNAS),"
-    publishedDateTime: 2021-06-03T18:50:00Z
-    webUrl: "https://www.bbntimes.com/science/can-artificial-intelligence-explain-how-simple-organisms-make-decisions"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 53
-    images:
-      - url: "https://www.bbntimes.com/images/articles/society/AI_Organism.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "Envisioning safer cities with artificial intelligence"
     excerpt: "Over the past several decades, artificial intelligence has advanced tremendously, and today it promises new opportunities for more accurate healthcare, enhanced national security and more effective education,"

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-07-google-hopes-ai-can-turn-search-into-a-conversation.md",
-      "title": "Google Hopes AI Can Turn Search Into a Conversation",
-      "excerpt": "The tech giant wants its core product to infer meaning from human language, answer multipart questions—and look more like Google Assistant sounds.",
+      "path": "_news/2021-06-08-ai-automated-our-space-weather-predictions-with-just-one-simple-trick.md",
+      "title": "AI automated our space weather predictions with just one simple trick",
+      "excerpt": "Researchers have trained artificial intelligence to reliably predict space weather caused by our Sun by looking at coronal holes.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/",
-      "originalUrl": "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/",
+      "webUrl": "https://www.tweaktown.com/news/79860/ai-automated-our-space-weather-predictions-with-just-one-simple-trick/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/79860/ai-automated-our-space-weather-predictions-with-just-one-simple-trick/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/60bab4f6eaa210b2096c93ec/master/pass/Business-Rethinking-Google-Search-1230724581.jpg",
-          "width": 2400,
-          "height": 1600,
+          "url": "https://static.tweaktown.com/news/7/9/79860_02_ai-automated-our-space-weather-predictions-with-just-one-simple-trick.jpg",
+          "width": 620,
+          "height": 422,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-hopes-ai-turn-search-conversation/amp",
-      "publishedDateTime": "2021-06-07T08:51:00-07:00",
+      "ampWebUrl": "https://www.tweaktown.com/news/79860/ai-automated-our-space-weather-predictions-with-just-one-simple-trick/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79860/ai-automated-our-space-weather-predictions-with-just-one-simple-trick/amp.html",
+      "publishedDateTime": "2021-06-08T03:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "AI"
       ]
     },
     {

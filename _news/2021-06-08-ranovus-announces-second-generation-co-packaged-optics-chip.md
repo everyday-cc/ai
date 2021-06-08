@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/electronics-news/ranovus-announce
 webUrl: "https://www.newelectronics.co.uk/electronics-news/ranovus-announces-second-generation-co-packaged-optics-chip/237849/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Enzolytics Announces A Comprehensive Therapeutic Protocol For Production Of Monoclonal Antibodies To Address Ongoing And Future Pandemics"
-    excerpt: "COLLEGE STATION, TX / ACCESSWIRE / June 7, 2021 / Enzolytics, Inc. (OTC PINK:ENZC) ( has announced a coherent protocol that it intends to execute to meet the Company’s objective of producing a therapeutic cure for HIV as well as a planned protocol to address existing and future pandemics."
-    publishedDateTime: 2021-06-07T15:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/enzolytics-announces-a-comprehensive-therapeutic-protocol-for-production-of-monoclonal-antibodies-to-address-ongoing-and-future-pandemics"
+  - title: "Innovative Co-Packaged Optics Chip For Hyperscale Data Centres"
+    excerpt: "At the optical networking event OFC 2021 in San Francisco this week, Ranovus has revealed the next step in reducing power consumption and overall costs for hyperscale data centre operations with the introduction of the Odin Analog-Drive CPO 2."
+    publishedDateTime: 2021-06-08T10:17:00Z
+    webUrl: "https://compoundsemiconductor.net/article/113322/Innovative_Co-Packaged_Optics_Chip_for_Hyperscale_Data_centres_"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
+      name: Compoundsemiconductor.net
+      domain: compoundsemiconductor.net
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/4e54786b22ddb15d1478470c189c93b7037ea126-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=shutterstock_1885800784.jpg"
+        width: 655
+        height: 300
         isCached: true
   - title: "Ranovus Announces Single Chip Odin™ Analog-Drive for Its Second-Generation \"Co-Packaged Optics\" in Hyperscale Data Centers"
     excerpt: "Ranovus Inc. (\"RANOVUS\") today announced at OFC 2021, the leading optical networking event in North America, the next step in reducing power consumption and overall costs for hyperscale data center operations with the introduction of the Odin™ Analog-Drive CPO 2."

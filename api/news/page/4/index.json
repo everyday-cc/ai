@@ -2,6 +2,206 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
+      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
+      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
+      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
+          "width": 625,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
+      "publishedDateTime": "2021-06-03T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars.md",
+      "title": "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars",
+      "excerpt": "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-realtime-robotics-raises-a-31m-series-a.md",
+      "title": "Realtime Robotics raises a $31M Series A",
+      "excerpt": "Boston-based Realtime Robotics this morning announced a $31.4 million round The funding is part of the $11.7 million Series A the company announced all the way back in late 2019. Investors include HAHN Automation,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/RTR_Siemens-Connected.jpg?w=1024",
+          "width": 1024,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/amp/",
+      "publishedDateTime": "2021-06-03T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-automating-care-about-our-new-series-on-the-rise-of-ai-in-caregiving.md",
+      "title": "Automating Care: about our new series on the rise of AI in caregiving",
+      "excerpt": "A new series from Guardian US aims to scrutinize this monumental shift in the way society cares for those in need",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/67580a87504fd0f79989c0e3133b6064cc2e1bc7/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ced6b24185dfc830b028fb1d6fa66d03",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/automating-care-about-new-series-guardian-us",
+      "publishedDateTime": "2021-06-03T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-as-ai-develops-so-does-the-debate-over-profits-and-ethics.md",
       "title": "As AI develops, so does the debate over profits and ethics",
       "excerpt": "But what remains unknowable are the benefits that may be lost to society by not fully using AI in responsible ways. We understandably recoil at the possibility of technology companies gaining privileged access to confidential medical records.",
@@ -1033,198 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-tesla-ai-process-driving-images-10x-faster-than-humans.md",
-      "title": "Tesla AI Process Driving Images 10X Faster Than Humans",
-      "excerpt": "Andrej Karpathy, Director of artificial intelligence and Autopilot Vision at Tesla, says that the cameras and AI used by Tesla can process visual driving data",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2017/12/7180bfad19f2195c59f8a445e080234a.jpeg",
-          "width": 1600,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
-      "publishedDateTime": "2021-06-02T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-google-says-its-committed-to-ethical-ai-research-its-ethical-ai-team-isnt-so-sure.md",
-      "title": "Google says it’s committed to ethical AI research. Its ethical AI team isn’t so sure.",
-      "excerpt": "Six months after Timnit Gebru left, Google’s ethical artificial intelligence team is still in a state of upheaval.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
-      "originalUrl": "https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/y960q0iNBhEWVM3TFwGw1iv33cQ=/0x0:5760x3840/1400x1050/filters:focal(2544x1025:3464x1945):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69380047/1028811892.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
-      "publishedDateTime": "2021-06-02T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study.md",
-      "title": "Machine learning could help with early diagnosis of pancreatic cancer – study",
-      "excerpt": "Scientists developed an algorithm that distinguished between patients who went on to develop pancreatic cancer and those who did not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/K6Y5WP32JE87E9UUDSCM.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "publishedDateTime": "2021-06-02T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027.md",
-      "title": "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027",
-      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

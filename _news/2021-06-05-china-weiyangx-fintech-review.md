@@ -26,36 +26,6 @@ images:
     height: 528
     isCached: true
 
-related:
-  - title: "For FinTech – the ‘new normal’ in finance"
-    excerpt: "FinTech has risen to challenges posed by Covid-19 by delivering digital, secure, seamless user experiences. The way people manage their finances has dramatically changed with the convenience of FinTech technologies."
-    publishedDateTime: 2021-06-04T06:07:00Z
-    webUrl: "https://www.malaysiakini.com/advertorial/577567"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 39
-    images:
-      - url: "https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/06/f6f548a7b30cdbd5fec09bc0fd19dfd0.jpg"
-        width: 3120
-        height: 2080
-        isCached: true
-  - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
-    excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"
-    publishedDateTime: 2021-06-07T11:25:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-10-upcoming-fintech-webinars-and-virtual-events-in-dach-to-attend/45836/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Upcoming-Fintech-Webinars-and-Virtual-Events-in-DACH-.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
-
 secured: "qe2OfMyYkfahgPMfwzU5phLyP6kSeTAFK259yfWfxnpUGLT+uqubFYP+PXWjgOMP1hpe9QPwSlgg4vkLFYkvN0rYgOyHAPQFBjFhr4Aw6VBgePuH6CCIll/BqURBOYdvRn34ojTC6EAlddg4Usx0NCVAeWEMTJ+f2D4HQ1MMi5yzSKBsvhZ+zpJa3Mbo9wDf7R6965Y/PauFjxXDqwZxfdEuT/0mn+d5e55YJqWo2SlD1nVX+tjDgJbVY9CcCMcHZGjgEFTSmyVQtlReQoEmpvMYW7qdAdAkXW1bfNnTseXf/lMqgubOKQkPDuTuldSLJs4JgNMAgqS4VFqFt7Z3jlZWAR1ZJ0QLnKNKG7G/PtKpVBKkccQA6efYJyNwax9XtxQsfGF2fCOhDC2FHiJLkidqkruDyeEd07jJzrxA58Xpj0K4uqIEc8XojzRLTpLBz2Lz7VIouoi3B3CKfsGxkQSTVlNzrDFJzLCRlvp5aud7ZtSynMThV0/C69UZasHI7C77/pkBLcLtTArE9o5Jcw==;F+HHK3ZT89o2mmwwcVrapA=="
 ---
 

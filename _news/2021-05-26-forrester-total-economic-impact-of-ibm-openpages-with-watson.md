@@ -19,6 +19,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "jZK8FsoETPLvwSnkIxnGjiWWkHY4xZvk2xI4JpnQyx+h9yiG3aGSeJ0UA6jFcZcd/IhbLUPJwhSHVjPauDJ7SBB+XRQ3uw6xWUKj1MRFTp7WoDoAodN67w/Ym6HegwLiALFikmPw93vYSkLQMTSVFHLqUqbvyPEresJWfpkmdTrG3Hems8OFqZJ4n2fYmOH4NdDXOiflQQqK9gv0UkVSxicdJq5kiz34xnZmlM9/8M+87YLfuBZ58yOLhHvBn7lVJJ20N85eUgSfoS/Ms+OeLjgaIPAlnPirJEkXcvIFlnLjTv/0y5WnCU8m4wRp50vrnCJZuI72q100wjsXRgTyxdY+vbvxKMXYmaU0FzjmLN8=;C2gafskgPUsifZw5IR/6JQ=="
+images:
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+    width: 300
+    height: 300
+    isCached: true
+
+secured: "C8Ge87fhiOXEK565yAO+1Ka9F3LMBdTcszV5iZevw8ORYBJM67C2HSyjVa1cpw8z2eQ64CVXyec6O2Ubm81CYHqCMHjEHOKkn+MGnprFP9XUd6PxXfoETB00SnZp64pWTtRK+fAY/iHAuuyPnl9WibZ3/nhaeGVhUAPEdFifCxtRXHfKdVVCUYHndnOlQot+4yYQyB1Bs8t0uT9KR31WxL9MQq/TuUGQaG+o7ccigTochgvdzFkysZQH207t3ddkNd3zJBNeqtRyWoX0Pv37QOuSK9786hJC6rGe8yxqZBdKHRHlzQucYtiJ8Vx6Vsdc7e1UTCOq13Qm880SoP5uaMq1oAQ+9MHw8GKrDmya3tI=;vE9hERRGqNk+h3km7HWfOQ=="
 ---
 
