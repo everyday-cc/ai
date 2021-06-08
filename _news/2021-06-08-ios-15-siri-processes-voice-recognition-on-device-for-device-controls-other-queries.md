@@ -41,6 +41,22 @@ related:
         width: 675
         height: 466
         isCached: true
+  - title: "Voiceitt launches speech recognition app for people with disabilities"
+    excerpt: "Assistive tech helps people with non-standard speech talk via smart devices; 'Everyone deserves to be able to express themselves and be understood,” says company's CEO"
+    publishedDateTime: 2021-06-08T16:05:00Z
+    webUrl: "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/"
+    ampWebUrl: "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 59
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2021/06/voiceitt-danny-300x480.jpeg"
+        width: 300
+        height: 480
+        isCached: true
 
 secured: "tbS/rjDoJEG5A8orN439p8xk1TjIGqIw9LtNhwEKCtzvmpMZ4lGUowsVDSVUFzFVWmNDvzPzBx6shD1eiRhljE99ztJ4rv84EciHLRNKhA6qloY5nzrbDzWjh9ItF2WgnJhHmTyZ3VnDyc/SBksFxWb93oeaWTVmPZcV1+FKdiqSAa4V7zR/xDLU74lEqanl9ua8AP6+tV8Fopr/vPBTm72zeyFAimtfsPLScb+q2N7I+wODyvQQayMFFVzI4ZMQ0IQ1CtbZMVdq5FUYbkWwbKObuy7smoHUankqNzgCp2oYsA0DcQcVZglDz1RIaB5BI4JCBzXFLWimBurSoAfPkANTE/oZAZdFFlNbjIW7kei4SM63pITp4JJnlG7KJsRud2LZPxSUgNKG/cl8o+VxOr3KN9yOftjxlomEL3d0m8oe/3qknb9ptaLzy0p9mgEKM8fXJz3l28ALT6FmUKy0QhlHsLAzgUKW9PJAe+dAxx1lWiqAptXp1QL8a84HL1ALUWS/QldnLDJp7LUBOxGtcg==;nZeOI53sAl7Fr7REXMQZdg=="
 ---

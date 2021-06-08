@@ -38,6 +38,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Mythic launches power-sipping AI chip"
+    excerpt: "Semiconductor startup Mythic has launched an artificial intelligence (AI) processor that it says will deliver the computing capabilities of a GPU for a tenth of the power. The M1076 Mythic AMP chip targets edge computing AI applications with power and footprint limitations."
+    publishedDateTime: 2021-06-08T17:44:00Z
+    webUrl: "https://www.itpro.co.uk/hardware/359812/mythic-launches-power-sipping-ai-chip"
+    ampWebUrl: "https://www.itpro.co.uk/hardware/359812/mythic-launches-power-sipping-ai-chip?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/359812/mythic-launches-power-sipping-ai-chip?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623172737/itpro/M1076-v2.png"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Mythic launches analog AI processor that consumes 10 times less power"
     excerpt: "Analog AI processor company Mythic launched its M1076 Analog Matrix Processor today to provide low-power AI processing."
     publishedDateTime: 2021-06-07T13:00:00Z

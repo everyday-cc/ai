@@ -61,6 +61,20 @@ related:
         width: 789
         height: 526
         isCached: true
+  - title: "Autonomous Driving Startup Raises $83.5 Million, It is Run by Former Uber CSO"
+    excerpt: "The self-driving vehicle market is getting kind of crowded, with new companies emerging every day, trying to make autonomous driving technology a reality in every corner of the world. Now a former Uber CSO (Chief Scientist Officer) launches her own self-driving company in Canada."
+    publishedDateTime: 2021-06-08T15:04:00Z
+    webUrl: "https://www.autoevolution.com/news/autonomous-driving-startup-raises-835-million-it-is-run-by-former-uber-cso-162834.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 34
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/autonomous-driving-startup-raises-835-million-it-is-run-by-former-uber-cso-162834-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Self-driving startup targets longhaul trucking"
     excerpt: "Waabi, founded by artificial intelligence pioneer Raquel Urtasun, Tuesday launched out of stealth to build the next generation of self-driving technology."
     publishedDateTime: 2021-06-08T14:39:00Z

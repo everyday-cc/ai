@@ -3,10 +3,10 @@ category: news
 title: "TDRA welcomes AWS's decision to open data centers in the UAE"
 excerpt: "This step timing has great implications as the UAE prepares for its next fifty and developing a digital future that enhances the UAE global position as a hub for attracting investments and partnerships."
 publishedDateTime: 2021-05-26T14:11:00Z
-originalUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/"
-webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/"
-ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210526141121/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210526141121/"
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 427
     isCached: true
 
-secured: "DUlBmNeeUrUf1NDjh8xHv7yjKzAOxAro63r5qfuT4NfNBxfWawnmjivDpGxomi0ifiuFBic8ZIwX6nB8EPsylOlVkxxjxXjQEwWssMs5qxLxp/4rqC4s9ZcBHGqHzjObSOwiwU/QsOtL/CZROBR/Tq5ws93DcMB1Ulwod7Pq0L7r0EVUJTlpYEclmoT/GNZCaOlkIrnyGRRl47G+l6nIOSknyEU7LGHrbhOWt2Bg5awj0sKNuhA64SxiS1IGDg1M9rghEvAbyMk5W5OdaMQgjQIkHJ1g/8eGsYodg/k3CnlKCBKe+gcQUE0nQ7M1mvm4ccU+Kw6tVQrB53brZC1896kim/5AkiLoRJyIyEHlsThwotCeeJJ0z741dv9OxPCYLwwYRD4ms/WF7NARzUN8fURyYTbtKFFCoVr8BqDKiXNePkOBrG6kl61yFyLPGao6ZbF701htznt5WFEm3EfMQ2QESS48SFSf+Ja0ogcs5HcnSMB308cSkXRrEFAOJN0pIGi1Yi6d/pgLiUka4KRr3A==;W/xAHgMbJ6mnmEZeRoRSHA=="
+secured: "n5eJGgC7fi7V2cGmqvRjt0bciOM4v8EBSa06G6EEyu4wWMq1XPKVHNXE+7Rl/Ou64jdzWXAHQySXrim8mqxVCiIk35ApywD07tw2koUfg0DKXisPZWzfWR14elBH92veT8eRvS12qyQBlLc/lJlKP9pnrF4HhYxgxL1+fAdMEKIp6igZY0afTcp78bkmkMVBIxMrz3/NE5BQH9X6VXKJ08PQZUQ1aIOVyNf5GmCyfOnBZQdDcrNKBTV+CwenTSwgi5onmbuSe4m9Jsg5/dWpjXKDnjyMn0z0XKpxOrh4LbNyxVNPjs8/Ob4hGO73s+bESrZBAVSzc9zW4kaXOEPpEIsseGl2V6YsYVee+tyh40g=;Q3zCtSHmWG0NyJLxV+tODQ=="
 ---
 

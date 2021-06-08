@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/ios-15-siri-on-device-app-privacy-1815255
 webUrl: "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html?src=rss_b2c"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Voiceitt launches speech recognition app for people with disabilities"
+    excerpt: "Assistive tech helps people with non-standard speech talk via smart devices; 'Everyone deserves to be able to express themselves and be understood,” says company's CEO"
+    publishedDateTime: 2021-06-08T16:05:00Z
+    webUrl: "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/"
+    ampWebUrl: "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 59
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2021/06/voiceitt-danny-300x480.jpeg"
+        width: 300
+        height: 480
+        isCached: true
   - title: "iOS 15 Siri processes voice recognition on-device for device controls, other queries"
     excerpt: "Thanks to advancements in machine learning, starting in iOS 15, Siri will now be able to respond to users' requests even without internet access."
     publishedDateTime: 2021-06-07T18:09:00Z

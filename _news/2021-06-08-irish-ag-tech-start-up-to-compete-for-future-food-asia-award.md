@@ -41,6 +41,20 @@ related:
         width: 642
         height: 361
         isCached: true
+  - title: "Poultry robot named a 2021 Future Foods Asia Award finalist"
+    excerpt: "Iamus Technologies, an Irish start-up that designed a welfare monitoring robot that combines artificial intelligence and automation, has been named as a finalist for the 2021 Future Food Asia Award."
+    publishedDateTime: 2021-06-08T16:47:00Z
+    webUrl: "https://www.wattagnet.com/articles/42977-poultry-robot-named-a-2021-future-foods-asia-award-finalist"
+    type: article
+    provider:
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 39
+    images:
+      - url: "https://www.wattagnet.com/ext/resources/2021/06/08/Iamus-technologies-robot.jpg?height=635&t=1623170703&width=1200"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Irish AgTech startup to compete in 2021 Future Food Asia Award"
     excerpt: "Iamus Technologies, an artificial intelligence (AI) and robotics start-up headquartered at NovaUCD, has been named as a finalist for the 2021 Future Food Asia Award. The company is among 10 start-ups from around the world,"
     publishedDateTime: 2021-06-08T09:05:00Z

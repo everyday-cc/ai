@@ -132,20 +132,6 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "Cities Are Weighing The Dangers And Benefits Of Facial Recognition"
-    excerpt: "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell."
-    publishedDateTime: 2021-06-03T23:05:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1003020341"
-    type: article
-    provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 39
-    images:
-      - url: "https://www.capradio.org/images/share/placeholder.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Investors pledge to address human rights in facial recognition technology"
     excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
     publishedDateTime: 2021-06-08T14:19:00Z

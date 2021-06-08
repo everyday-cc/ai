@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM Releases AI Toolkit for Deep Learning Uncertainties"
+    excerpt: "Deep learning is smart and it knows it. It loves to show off its ability to connect dots no one else can see, to be the smartest in the room. But that’s when deep learning can go wrong – when it thinks it knows everything."
+    publishedDateTime: 2021-06-08T16:23:00Z
+    webUrl: "https://insidehpc.com/2021/06/ibm-releases-ai-toolkit-for-deep-learning-uncertainties/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
 
 secured: "foDfRliT02/tK0KakK5KlGp31g4DYGp3r73KkTqO/zHu5fihoTISLI7k5InWamv8Z/jdQQ5V20MfeQgmRc2Qrn1zlXqU6e9J/BDkoj1J9OtCW1ov6u66oPbhsrVKyKm+K8qOCPA++jfQEXKJ6nWW1a1on0dlDju0cGjWNTw6YTkX9I6ueE0QTvhwAxpthQfkaUXTMIN7P61T7AjuEBoFjShASL+UOnOLS3NAP0bWwLHwub+35A0NBcyCb0u18WKr/TKLeQ+vRldv972eE2eOj/CuxFqG+T0UeOOIeCI4sS+AdH4rcEYrtfb8qYk/r3KbbtI9ykrD7MfYNczKy+6++FNnYhSdk0jfdUg4X/HxqUU=;+SdbxFUow+yDhPYlpRfzuA=="
 ---

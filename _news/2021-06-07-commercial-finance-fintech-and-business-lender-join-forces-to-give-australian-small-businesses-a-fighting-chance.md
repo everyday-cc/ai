@@ -121,6 +121,20 @@ related:
         width: 764
         height: 399
         isCached: true
+  - title: "CRE fintech startup Blooma nabs $15M in funding"
+    excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures led the Series A, with participation from existing investor Nyca Partners,"
+    publishedDateTime: 2021-06-08T15:03:00Z
+    webUrl: "https://therealdeal.com/national/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 24
+    images:
+      - url: "https://therealdeal.com/national/wp-content/uploads/2021/06/crosspost-20210608022045.jpg"
+        width: 690
+        height: 493
+        isCached: true
 
 secured: "VNc60ZA5gWr3UgT/TPVIvyVr73KLKSh8EDHZlBh6sZ+qhtflvmtY5ghdPjxzgyjZu4C9AYQNw//XLReJ427zYB/0RfduElMipokKFbHYQUgrfQw7PgpgzXB2ZnwVLkfwkstprwoDVLBFHnhQv5AWmRb2RLvbGUGiJ+rpfqTm99FsJzL7aCBY/J5NRWmypPyFuumY+SRREofSc4UoSUjhmLSWsRukOynxSxAvKz8g0vhJzeEufAudlKH7vBHZH1706mdjI+UbnVUOLMHSkFfNzL1OJLzM62TQQS5dFNXU5u8YRVvuqKEoaYka31ZSw5Qfs5jEzlGWk4GmT+4/a8fqFZ5L3w4uMRUdg+vxXeV0pFY=;LdFcQsG0/YvY++iH5NJzqw=="
 ---

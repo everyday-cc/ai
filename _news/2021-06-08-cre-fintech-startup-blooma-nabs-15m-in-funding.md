@@ -1,10 +1,10 @@
 ---
 category: news
 title: "CRE fintech startup Blooma nabs $15M in funding"
-excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures and existing investor Nyca Partners led the Series A, Blooma announced Tuesday."
-publishedDateTime: 2021-06-08T14:30:00Z
-originalUrl: "https://therealdeal.com/tristate/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
-webUrl: "https://therealdeal.com/tristate/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures led the Series A, with participation from existing investor Nyca Partners,"
+publishedDateTime: 2021-06-08T15:03:00Z
+originalUrl: "https://therealdeal.com/national/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+webUrl: "https://therealdeal.com/national/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
 type: article
 quality: 24
 heat: -1
@@ -19,43 +19,124 @@ topics:
   - AI
 
 images:
-  - url: "https://therealdeal.com/tristate/wp-content/uploads/2021/06/crosspost-20210608022059.jpg"
+  - url: "https://therealdeal.com/national/wp-content/uploads/2021/06/crosspost-20210608022045.jpg"
     width: 690
     height: 493
     isCached: true
 
 related:
-  - title: "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network"
-    excerpt: "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect"
-    publishedDateTime: 2021-06-04T06:15:00Z
-    webUrl: "https://www.entrepreneur.com/article/373682"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/373682"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682"
+  - title: "The Future Of Insurance: Fintech 50 2021"
+    excerpt: "The insurtech companies featured on the 2021 Forbes Fintech 50 are innovating in a space that has been associated with antiquated processes and practices. These companies are bringing the age old concept of insurance to a constantly changing world."
+    publishedDateTime: 2021-06-08T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8f37238664aae477dd319%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2983%26cropY1%3D160%26cropY2%3D1838"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Report lays out seven technologies key to fintech development"
-    excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
-    publishedDateTime: 2021-06-07T13:20:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202106/07/WS60be1d1fa31024ad0bac4249.html"
+  - title: "The Future Of Wall Street: Fintech 50 2021"
+    excerpt: "The firm is one of the honorees on the Forbes’ 2021 Fintech 50 List, our ranking of the most promising private financial technology companies. Across finance, listmakers are revolutionizing the way people spend,"
+    publishedDateTime: 2021-06-08T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b91b7330062e83c8f4391e%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "The 11 Biggest Fintech Companies In America 2021"
+    excerpt: "With investment and valuations soaring, a Forbes Fintech 50 member had to be worth $5 billion to make our top list."
+    publishedDateTime: 2021-06-08T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b7e9dda2eeaef9ad7dd31b%2F0x0.jpg%3FcropX1%3D620%26cropX2%3D3627%26cropY1%3D263%26cropY2%3D1673"
+        width: 1200
+        height: 563
+        isCached: true
+  - title: "For FinTech – the ‘new normal’ in finance"
+    excerpt: "FinTech has risen to challenges posed by Covid-19 by delivering digital, secure, seamless user experiences. The way people manage their finances has dramatically changed with the convenience of FinTech technologies."
+    publishedDateTime: 2021-06-04T06:07:00Z
+    webUrl: "https://www.malaysiakini.com/advertorial/577567"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 39
+    images:
+      - url: "https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/06/f6f548a7b30cdbd5fec09bc0fd19dfd0.jpg"
+        width: 3120
+        height: 2080
+        isCached: true
+  - title: "How The Indian FinTech Is Using AI"
+    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
+    publishedDateTime: 2021-06-06T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
+        width: 1600
+        height: 800
+        isCached: true
+  - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
+    excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"
+    publishedDateTime: 2021-06-07T11:25:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-10-upcoming-fintech-webinars-and-virtual-events-in-dach-to-attend/45836/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
     quality: 24
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202106/07/60be1d1fa31024adbdcc988e.jpeg"
-        width: 678
-        height: 452
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Upcoming-Fintech-Webinars-and-Virtual-Events-in-DACH-.jpg"
+        width: 2048
+        height: 1136
         isCached: true
+  - title: "Why fintech is changing the mortgage industry for good – Boyd"
+    excerpt: "It now seems impossible to consider paying an online vendor without using PayPal, or checking our bank balance without using an app. Fintech has empowered people on the hunt for a new loan, a new car insurance policy,"
+    publishedDateTime: 2021-06-07T13:36:00Z
+    webUrl: "https://www.mortgagesolutions.co.uk/better-business/2021/06/07/why-fintech-is-changing-the-mortgage-industry-for-good-dashly/"
+    type: article
+    provider:
+      name: mortgagesolutions.co.uk
+      domain: mortgagesolutions.co.uk
+    quality: 24
+    images:
+      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2021/06/RossBoyd_social_watermark-764x399.jpg"
+        width: 764
+        height: 399
+        isCached: true
+  - title: "Commercial Finance Fintech and Business Lender join forces to give Australian Small Businesses a fighting chance"
+    excerpt: "The funding gap in small and medium business (SMB) lending in Australia is estimated at more than $90 billion. It was reported in late 2020 that the major banks are rejecting more than a quarter of SMB loan applications,"
+    publishedDateTime: 2021-06-07T01:07:00Z
+    webUrl: "https://prwire.com.au/pr/96967/commercial-finance-fintech-and-business-lender-join-forces-to-give-australian-small-businesses-a-fighting-chance-1"
+    type: article
+    provider:
+      name: PRWire
+      domain: prwire.com.au
+    quality: 0
 
-secured: "y8oyb3O72BluhDtytx91kjqSQHd7ugIJzOpARI4sRXuIHFsw1Zdh8GRUXTJCPylrVLvC61B5qSEbDSGQ7HPDUQlRrpXH2sAUAGKxs2APmGwKsfPhzrZD4dXy9v77CHycxTEOgaUnI5Xss1o9eYjkVE/gFUi9Cy8WKdZIxiBQ5A1L7N8y6ymWU5Bzkdy5AYhHSOr29I0B48X8R64++ZJmmiV+EfVB+hL6UdDx9J+7LwHTAmEZJYw8zOShg3vsgVjXIqx/UDBoEZfDdhmsQYzqqpF494ZlwpC17iEQrWyOeZEfERy9Aqa56lz6l/FsoPDdJiOPjvF9eRbo7XYLQqzWtSWKoXBOItjt2eEeM55P8DM=;wy6ZTmOnhqRy+pCYkCVPAQ=="
+secured: "GbHnZnzWtjTV2Y8pyCFXEwbYA0I0GeGO3zWUU9Aw1R0q9PqpD5uZ8abQSSurh+d1FtJ5ArkySfhUGCqOhK2HvmIZGATWTQVEeSeTjGYHGyBhxBeDcR44RXGWqYf3FeyAe1S7wmrY7MfA9ijLDoKpg551NE+Xo4jWhtQDdqsrAIvimLE5h/26hhaDhIuETk6qZiq3jT0FTmSysq5vu0WwtRCyuDWAv4rKL4dCJJAFj9cvQNEQBRsK4fPJQNheVTz5fsHydPfWSGebTN3bVQ2iQPXDhAkrwYRa4I53l1SB98TxdzeI3uZVGvm3lbaaLYNtNW8AYK13wObTduRDKUD2d3jvdVmWDnvpYg5bt4tCRW4=;FQRX2ED4N1yL+LAChYrK1g=="
 ---
 
