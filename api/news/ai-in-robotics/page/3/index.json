@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-21-getting-started-with-geometric-algebra-for-robotics-computer-vision-and-more.md",
+      "title": "Getting Started With Geometric Algebra For Robotics, Computer Vision And More",
+      "excerpt": "[Hugo Hadfield] wrote to let us know about an intriguing series of talks that took place in February of this year at GAME2020, on the many applications of geometric algebra. The video playlist of ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/10/06/getting-started-with-geometric-algebra-for-robotics-computer-vision-and-more/",
+      "originalUrl": "https://hackaday.com/2020/10/06/getting-started-with-geometric-algebra-for-robotics-computer-vision-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/09/geometric_algebra_ik_robotics.jpg",
+          "width": 1893,
+          "height": 1304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm.md",
+      "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
+      "excerpt": "The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device, a team reports Thursday in the journal Science. Previous versions of the arm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/",
+      "originalUrl": "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.scpr.org/i/aae9139b88dad894336a1ed40d4911f8/233444-full.jpg",
+          "width": 1024,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPCC",
+        "domain": "scpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-scientists-bring-the-sense-of-touch-to-a-robotic-arm.md",
       "title": "Scientists Bring The Sense Of Touch To A Robotic Arm",
       "excerpt": "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of... A robotic arm with a sense of touch has allowed a ...",
@@ -1310,102 +1397,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-how-could-conversational-ai-shape-our-language-particularly-in-business.md",
-      "title": "How Could Conversational AI Shape Our Language, Particularly In Business",
-      "excerpt": "Chatbots, personal assistants and voice skills are so popular that I've seen them start to influence our language norms and practice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/",
-      "publishedDateTime": "2021-05-12T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-jumping-robot-looks-like-a-product-of-doctor-wily.md",
-      "title": "Jumping Robot Looks Like A Product Of Doctor Wily",
-      "excerpt": "We love it when footage of a robot prompts a “holy crap” response from us. This little guy, a product of the Chiba Institute of Technology, uses four rods as a suspension system for jumping.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2010/06/25/jumping-robot-looks-like-a-product-of-doctor-wily/",
-      "originalUrl": "https://hackaday.com/2010/06/25/jumping-robot-looks-like-a-product-of-doctor-wily/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.youtube.com/vi/QBYT2PeLxUk/0.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

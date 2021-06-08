@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tec
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 179
 published: true
 
 provider:
@@ -159,29 +159,6 @@ related:
         width: 1070
         height: 692
         isCached: true
-  - title: "Civil Society Coalition Releases Statement of Concerns Regarding Law Enforcement Use of Face Recognition Technology"
-    excerpt: "Civil society coalition statement highlighting six major civil rights concerns regarding law enforcement use of face recognition technology."
-    publishedDateTime: 2021-06-03T15:24:00Z
-    webUrl: "https://www.newamerica.org/oti/press-releases/civil-society-coalition-releases-statement-of-concerns-regarding-law-enforcement-use-of-face-recognition-technology/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
-    quality: 19
-    images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_1783490738.2e16d0ba.fill-1200x630.jpg"
-        width: 1000
-        height: 525
-        isCached: true
-  - title: "Fish facial recognition? Researchers test technology on invasive Asian carp"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-03T16:04:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/science/2021/06/03/fish-facial-recognition-researchers-test-technology-invasive-asian-carp/7524225002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 17
 
 secured: "dFjTvin8PEUXi6oAZ31nxInuiZM0moWEal38QmvDtg80vFmHF+9aTJUQcJXGua6Pdh0K8uGU+TEQuwTe0rrJooVb/nle5nA9AI+BshrwXtcODTAW0SU3BKbicJpHa3ixaGP2CoXr9cxJkysormrweuwYbhaeaS3RHQEKYte0o0crYJ2XWqMABkzpVdGhJyg0E1k2ynYGAIkRCmAQE+33E24lIm9uftOxaeReTbmJwKH2AcqX0PnwxgLcfX1IYNyTd/ugQ3TbX/Xo0toiRarqurHtjFlxM9rZqcaROwRxApr+TD8K3ST2w/OfUTt7KWr2hLn94FL5wm5fWDMr7VMcyGvTgywmNLWSb8Sgn8TLUx9gU8U03r/E003/8MuuErcEmyAWu+NyI9wHZ22rYkTrQT4aTkLvTNLX6qtbMwl112VWjtITJaDB4ddLXHNsQxcCnMnXbyeTWJZk+KmtXoLhHdx/2PcMP9AlXSyyGRfaZFH76Y+bqoboQmAzE0OsaN02l4+5HuNdBByCGFnp62RHdA==;f7sI1zCaKIWmTtLkc2+UEA=="
 ---

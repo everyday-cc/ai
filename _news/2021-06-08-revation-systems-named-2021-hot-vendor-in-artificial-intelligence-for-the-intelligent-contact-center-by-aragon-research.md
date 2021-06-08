@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Revation Systems Named 2021 ‘Hot Vendor’ in Artificial Intelligence for the Intelligent Contact Center by Aragon Research"

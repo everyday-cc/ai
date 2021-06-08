@@ -2,9 +2,9 @@
 category: news
 title: "Natural Language Works with More Than IVRs"
 excerpt: "The first attempts at computer-based natural language understanding (NLU) predate the debut of the personal computer, and just like the PC, NLU technology has advanced tremendously in the decades since."
-publishedDateTime: 2021-06-01T14:05:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/Editorial/Magazine-Features/Natural-Language-Works-with-More-Than-IVRs-147141.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/Editorial/Magazine-Features/Natural-Language-Works-with-More-Than-IVRs-147141.aspx"
+publishedDateTime: 2021-06-01T04:00:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147141"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147141"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "F46Ow/H/+3c6nLIIaGFkcKTpJNUMSO014lTB4RgmH6S3gPzWVwOix3e09hO0KlBX5SqSVTqnVzwZ1fPPjbockLj00BYqeqj4DWvQ0e/JIE09TGXScgZEOcgazTj6WDjip+KJL0HCG5p28WSTU8SjcxJY6zWe/LgT9JY7Q5iwhcpEccJAQarkP4J+Cc7fkfsUrSq/S+BNzt2eBcyDDemPLEvzDnN7M4d9jzX9tnvj0DkCO8x5rlupdlGYbdHk7PDO/LpE4H4yXs5JW6dE7Ib/hUFnnr0EWaPLEI04MA5na3H8Q471dKru03WlHj95AVmuYjhdS0+ChGd93rIECKNoS7sya2GhoEMSZlGAYmvi64g=;0Z4i1QQlj5fb8pImKIA0Jw=="
+secured: "xkYIUCOJZgNHJ9gmQeg93r5T1U0bjrjuhGsX+z1sCHCYxiLaEnEiZmOxkdAZRfQ2IANK9EEIxQD+3k8a+g8RYwjH84i+2HHXqMtZxtEoefCsZjWFy//2Z+o/bRNbt19hxIMF6K7+M25DsBl3iRq0uOIWz1O0nVpsXh/0P5OSO7Z0pV2QqSog2InbDJwjU4kIzyRl5W6EGvwgsYfqODrUB2XbbCT3GtJ/ovNLzCli9+Si6Ogk9Hjh60a9gc58Fl4KsVD6BZh2XB5qHjlNVhmnDGbZHCejj8XvSB9t0GUAL2newFuOwTFQ571ZTiBj5M1wnP8m9c4O0wFO9CzPtv0Acn4MP3alJqqy06/yRr7Rp0A=;Y/8zpJV5+ypPT18eLA107A=="
 ---
 

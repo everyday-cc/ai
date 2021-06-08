@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/06/04/artificial-intelligence-in-heal
 webUrl: "https://ksusentinel.com/2021/06/04/artificial-intelligence-in-healthcare-market-overview-demand-and-growth-top-companies-intel-corporation-nvidia-corporation-google/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 573
     height: 595
     isCached: true
+
+related:
+  - title: "2021 (AI) Artificial Intelligence in Fintech Market By Major Company Profiles - Amazon, Intel, Google, Salesforce"
+    excerpt: "Whipsmartmi com offers one of the latest report from its research database The research is about Global Ai in Fintech Market is projected to grow up to USD 7 91 billion by 2027 growing at a CAGR of 29 74"
+    publishedDateTime: 2021-06-08T08:54:00Z
+    webUrl: "https://www.openpr.com/news/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
+    ampWebUrl: "https://www.openpr.com/amp/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
 
 secured: "wCUwZqaSPuWzpMq6ObjtK1kYBOIW/Ksk9hAVLgDUNXsgQ10AB7el8yFmCM5LSe9dHhlXZRRrDXjvKM5Y1tDUPmV4vrTdcFYywWA9fTJ9zFGDzFz5ShBYxD0BBueZmofNk0k1gamuE7cwurvCo5BC3WWM6YNdZfca+sT0/jzooWNOyoCTJnc2KeLDNa0C+R20zZt2yK3kbrAAwSzjtkBXY0j7qIlECUjPhX6nv3bKLaUlFR+p4tGpDi52ylGmQHRVr5DSSRDseBEcwrKJLnlBtRt3dhOCBVscEE6Hl577MPesxhJ98thHsgFNJIKlJvNNPrUU+OpLYo7F5/tHwXE0lJ4JmYbff+c1Dxw/Me5sVWsEW8VxRhfpkCQLuUeqA3SPo2JItLfGwFQUS8HAb9r+tT9LbbvMRASaIjUJgX7ptT+rwat9v6PvenAv1GFf1/JtpKi1ZO2H0cV52UsFSEAanSm9jFYlhrTo3fx1mMMmkpSrFJukYg09+42reYN7QzwLnvelEHCSiw+vCtwceGDDtw==;pwRYB/uZ+fmd0wDLG+l0FQ=="
 ---

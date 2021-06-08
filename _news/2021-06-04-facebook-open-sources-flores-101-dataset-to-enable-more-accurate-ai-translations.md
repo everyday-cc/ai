@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-04T15:46:00Z
 originalUrl: "https://siliconangle.com/2021/06/04/facebook-open-sources-flores-101-dataset-enable-accurate-ai-translations/"
 webUrl: "https://siliconangle.com/2021/06/04/facebook-open-sources-flores-101-dataset-enable-accurate-ai-translations/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/facebook-2.png"

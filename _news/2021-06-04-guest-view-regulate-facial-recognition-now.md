@@ -65,20 +65,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "AnyVision open letter calls on facial recognition providers to eliminate bias"
-    excerpt: "Companies developing biometrics and artificial intelligence algorithms must rid their systems of demographic bias and make their methodology transparent."
-    publishedDateTime: 2021-06-03T15:28:00Z
-    webUrl: "https://www.biometricupdate.com/202106/anyvision-open-letter-calls-on-facial-recognition-providers-to-eliminate-bias"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
 
 secured: "YM2B0LKLzMluR6gQjzLoyfvycDvgmyCuMt833pHjZr/zRyPLU1WNjXTgJ0vcBUSuw14E8GzSO0jTvYml7Ktu8B2vSLOyUYZCpkzme39xpKClCpF85QoaObPQEnbGk+Ux5xgsYSdvIUTfVuau4bd5TQUZS/uEaff4GcLssTpXGfKmj6786/IoViz+EL7C6AKujM8XDFFmxRH6b28AR6aMGKJMcoFbDTypRahF3VAyhRQcEnRa88C6YX9Y2pLrU/AVqdi0FtOQGFVdn7xkNBJ4Cf4KHiprulRQCq0uXVwjrC1/spf8e1gjrvO5XzNfw8PUCYBcLLa2zx7ku/JUW1TuX3npcxnWzYdatQDzT0LzCZ0=;P95GYXGNqX6c6POoPPoJqA=="
 ---

@@ -2,6 +2,148 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-26-one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void.md",
+      "title": "One year after Amazon, Microsoft and IBM ended facial recognition sales to police, smaller players fill void",
+      "excerpt": "Dozens of smaller facial recognition companies have taken over for Amazon, IBM and Microsoft in providing police departments with tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
+      "originalUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
+      "publishedDateTime": "2021-05-25T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-abu-dhabi-boosts-digital-economy-capabilities-with-upcoming-aws-region.md",
+      "title": "Abu Dhabi Boosts Digital Economy Capabilities with Upcoming AWS Region",
+      "excerpt": "Abu Dhabi’s digital economy will be boosted through the launch of Amazon Web Services’ (AWS) cloud infrastructure region in the UAE, as part of the Abu",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
+      "originalUrl": "https://www.albawaba.com/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-05/Photo%20of%20H.E.%20Dr.%20Tariq%20Bin%20Hendi%2C%20Director%20General%2C%20ADIO.jpg?itok=j6eX-2hN",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
+      "publishedDateTime": "2021-05-25T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker.md",
+      "title": "How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker",
+      "excerpt": "In this post, we present the results of a model serving experiment made by Contentsquare scientists with an innovative DL model trained to analyze HTML documents. We show how the Amazon SageMaker TensorFlow Serving solution helped Contentsquare address several serving challenges. Contentsquare’s challenge",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-SageMaker-TensorFlow-endpoint-option.jpg",
+          "width": 700,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T18:21:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-artistic-humanoid-robot-creates-unsettling-self-portraits-selling-for-big-money.md",
       "title": "Artistic humanoid robot creates unsettling self portraits selling for big money",
       "excerpt": "One of humankind's most admirable pursuits is its instinctive desire to produce works of art in myriad mediums that inspire, entertain, and challenge our notions of who we are as a species.",
@@ -1033,134 +1175,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system.md",
-      "title": "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating System™",
-      "excerpt": "By integrating Microsoft Azure Digital Twins with our Cognitive Operating System ... We sell different types of products and services to both investment professionals and individual investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210525ne88554/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210525ne88554/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ai-powered-financial-research-platform-sentieo-nabs-20m.md",
-      "title": "AI-powered financial research platform Sentieo nabs $20M",
-      "excerpt": "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/",
-      "originalUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/investor-e1621954392410.jpg?fit=800%2C400&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/",
-      "publishedDateTime": "2021-05-25T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ai-knows-when-youre-being-sarcastic-on-twitter.md",
-      "title": "AI knows when you're being sarcastic on Twitter",
-      "excerpt": "The future is hurtling toward us, and with each passing day AI is getting smarter. We've seen AI that will play your games for you, and if you're using a 30-series Nvidia GPU, you've probably utilised the company's DLSS supersampling AI tech to upscale your game resolutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/au/ai-raps-and-detects-sarcasm/",
-      "originalUrl": "https://www.pcgamer.com/au/ai-raps-and-detects-sarcasm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/x8mqnto4oFGqCtNG5wBrGU-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/au/amp/ai-raps-and-detects-sarcasm/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/ai-raps-and-detects-sarcasm/",
-      "publishedDateTime": "2021-05-25T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

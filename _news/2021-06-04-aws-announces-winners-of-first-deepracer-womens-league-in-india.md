@@ -20,22 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "DeepRacer Women’s League: AWS announces winners of ML for women initiative"
-    excerpt: "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league."
-    publishedDateTime: 2021-06-03T15:37:00Z
-    webUrl: "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/"
-    ampWebUrl: "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 106
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg"
-        width: 625
-        height: 294
-        isCached: true
   - title: "AWS announces winners of the AWS DeepRacer Women’s League in India"
     excerpt: "Read Article Artificial intelligence (AI) and machine learning (ML) are innovative technologies that are unlocking opportunities and helping solve some of our most difficult challenges. But to date in India,"
     publishedDateTime: 2021-06-04T06:03:00Z

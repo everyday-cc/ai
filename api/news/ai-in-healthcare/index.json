@@ -502,8 +502,8 @@
       "title": "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc.",
       "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317",
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -513,21 +513,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T00:44:00-07:00",
+      "publishedDateTime": "2021-06-01T00:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -536,8 +527,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -791,11 +783,11 @@
     },
     {
       "path": "_news/2021-05-27-global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets.",
+      "title": "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com",
+      "excerpt": "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210527005561/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210527005561/en/",
+      "webUrl": "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -805,11 +797,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T09:59:00-07:00",
+      "publishedDateTime": "2021-05-27T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null

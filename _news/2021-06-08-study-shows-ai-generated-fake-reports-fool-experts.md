@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-08T03:24:00Z
 originalUrl: "https://www.snopes.com/news/2021/06/07/study-shows-ai-generated-fake-reports-fool-experts/"
 webUrl: "https://www.snopes.com/news/2021/06/07/study-shows-ai-generated-fake-reports-fool-experts/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.snopes.com/tachyon/2021/06/getty_robothands.jpg"
@@ -39,6 +40,6 @@ related:
         height: 368
         isCached: true
 
-secured: "6xledbFUW4ZkHDFnwGk9jD3aCE3rYGbW24ig8BdvsKjEFfa/p9Sf2RpkV4N7NSmygtYDdMnXL17NRr4wXh12ELz+ef7wunMrdn1BOrhf9tA0tKpSOKZ7adz+AnRLXeghkDQx9EPeUXuqy45Kgo9ofQzfUT//pm/oKPNZeY1ZkJ/1HsnoH2hhfs1pI5NLaQmm3I2QCylNe9Z3Nz2QbJ0dZtrvPnAg3IIGDjPZqhsbeG038keGugLwEJuvCOl4Tt3osh0UUGRP+O4LfP3kEOVmIRV3qpe0v1kjx2ttDD3Qh4uIzHdsdsexxMCjvTjijonJNZzsr1xis1bD1Y7yttLWAuSN6SvPOTM4ddeQTnPB1HM=;XFZJ8q6+zxc+z6ORrdahpQ=="
+secured: "rryz7dFgzS93WmYQxdEjrm2dVPeboWiqr/MfljI3sB5lA72sjixcE7zhSN3RzK6H8kGPn24/jq0oj5SloVY3X8IrPEzK7YbtZ1+/wGAzLy5OgDrLMdMwM10OriDakDdCdtNcHPVj+VMdoNLzEhUEJ9xC62/LM0YG8Ce9oYrbNBLG6wy6Ml5ASgmYhfHBefGDiECOgOjNrggHaq1xv2xoSH/LDkUi4lVglQzgSMn9goSVOhfrDah+RSvwm34i55a1mB74WVaU3/LAF1oAziLfhqcSpbzv3o9jHa4Kdw/gpYCHIkqZK4BgdkxPvbuDdrnySP0xGWz8VUL/0ys+B+pGv2tUC6PpJfA9zH+KB7GD4lYzOJ2kwkaLe5Mb1jGUMceYCbsbdo1KQ0z1VCOnnAg7CE2hHHjWnjnd3I/B3ffnp2o8Flor4uUzxGm50qDOETcATjRaHXyxt0vPAtWdWHS9PAGam45pRZ5h4nNBH12UJYjILq4p/PLOgSEHzWar/a6q6oUeAO0llPi7z2jrEafACA==;LDb8X665ZM6xSuqjlbgxow=="
 ---
 

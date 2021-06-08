@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-08-why-the-dream-of-truly-driverless-cars-is-slowly-dying.md",
+      "title": "Why the dream of truly driverless cars is slowly dying",
+      "excerpt": "If you're waiting around to buy your own completely driverless car, you may be waiting a lot longer than everyone originally thought.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
+      "originalUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fteslafsd.jpg&signature=2171b81204e7dccf351a1f495ead2e6b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-alphabets-googl-waymo-brings-waymo-one-to-maps-app.md",
       "title": "Alphabet's (GOOGL) Waymo Brings Waymo One to Maps App",
       "excerpt": "Waymo recently teamed up with Google’s Maps,which is a testament to the aforesaid fact. The intention behind the partnership is to ensure a seamless booking experience for Waymo’s autonomous ride-hailing service called Waymo One.",
@@ -87,7 +139,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -267,6 +319,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-aws-announces-winners-of-the-aws-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of the AWS DeepRacer Women’s League in India",
+      "excerpt": "Read Article Artificial intelligence (AI) and machine learning (ML) are innovative technologies that are unlocking opportunities and helping solve some of our most difficult challenges. But to date in India,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "originalUrl": "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.crn.in/wp-content/uploads/2019/06/17104829/trophy_820.jpg",
+          "width": 696,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "cdnAmpWebUrl": "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "publishedDateTime": "2021-06-03T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "www.crn.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1285,110 +1381,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-apple-seeks-to-bite-into-self-driving-electric-vehicle-market.md",
-      "title": "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market",
-      "excerpt": "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
-      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae53b5af931c3c2f08b5b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
-      "publishedDateTime": "2021-05-26T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-and-fsd-subscription-once-again.md",
-      "title": "Elon Musk updates Tesla Full Self-Driving Beta v9 timeline and FSD Subscription once again",
-      "excerpt": "Elon Musk has again updated the timeline for Tesla releasing its highly-anticipated Full Self-Driving Beta v9 software update and FSD Subscription. Here’s the long history of Tesla’s FSD v9 and FSD Subscription timelines: Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/",
-      "originalUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/",
-      "publishedDateTime": "2021-05-26T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

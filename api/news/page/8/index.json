@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-31-future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials.md",
+      "title": "Future of chip making to lean heavily on AI for spotting defects, says Applied Materials",
+      "excerpt": "For the first time, a machine learning program will tell a scanning electron microscope where to look closer for defects in a silicon wafer",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
+      "originalUrl": "https://www.zdnet.com/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/31/dba100ab-4cc9-444c-beec-c9de99f3a1e4/applied-materials-extractai-slide-12-2021.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
+      "publishedDateTime": "2021-05-31T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-fe-xcelerate-2021-attracts-international-fintech-startups-looking-to-grow-to-the-next-level.md",
+      "title": "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level",
+      "excerpt": "In partnership with Southeast Asian early-stage venture capital firm Expara, FE Credit – the largest consumer finance company in Vietnam, launched FE XCELERATE 2021 in May with the intention of bringing international fintech companies a pack of opportunities to scale up their business in Vietnam,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/31/9380629.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/31/9380629.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-145.md",
+      "title": "Healthcare Chatbots Market Expected to Grow at a CAGR of 14.5%",
+      "excerpt": "Global healthcare chatbots market was valued at 116 9 million in 2018 and is expected to reach 345 3 million by 2026 registering a CAGR of 14 5 from 2019 to 2026 Healthcare chatbots are user interface which are employed",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "originalUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U531636275_g.jpg",
+          "width": 790,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "publishedDateTime": "2021-05-31T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-service-robotics-market-2021-global-industry-growth-size-share-demand-trends-and-forecasts-to-2028.md",
       "title": "Service Robotics Market 2021: Global Industry Growth, Size, Share, Demand, Trends and Forecasts to 2028",
       "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
@@ -1034,152 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-on-thinking-machines-machine-learning-and-how-ai-took-over-statistics.md",
-      "title": "On Thinking Machines, Machine Learning, And How AI Took Over Statistics",
-      "excerpt": "In the sixty years since Arthur Samuel first published his seminal machine learning work, artificial intelligence has advanced from being not as smart as a flatworm to having less common sense than a house cat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b13f395e70ff270e5f6bc0%2F0x0.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/",
-      "publishedDateTime": "2021-05-28T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn.md",
-      "title": "Anthropic is the new AI research outfit from OpenAI’s Dario Amodei, and it has $124M to burn",
-      "excerpt": "As AI has grown from a menagerie of research projects to include a handful of titanic, industry-powering models like GPT-3, there is a need for the sector to evolve — or so thinks Dario Amodei, former VP of research at OpenAI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/",
-      "originalUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/amp/",
-      "publishedDateTime": "2021-05-28T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-india-will-see-breakthrough-application-of-ai.md",
-      "title": "India will see breakthrough application of AI",
-      "excerpt": "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
-      "publishedDateTime": "2021-05-28T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

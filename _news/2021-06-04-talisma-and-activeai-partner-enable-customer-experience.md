@@ -41,6 +41,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Mashreq Bank selects Kore.ai to Elevate Customer Experience through Conversational AI"
+    excerpt: "Kore.ai, a top conversational AI software company, today announced its partnership with Mashreq Bank, one of the leading financial institutions in the UAE, to enhance digital engagement and support for customers through conversational AI."
+    publishedDateTime: 2021-06-08T07:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210608005075/en/Mashreq-Bank-selects-Kore.ai-to-Elevate-Customer-Experience-through-Conversational-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
   - title: "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use"
     excerpt: "AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI ® Ex Machina, its no-code solution that anyone can use to generate actionable enterprise AI insights, has seen significant growth in its first full quarter of release."
     publishedDateTime: 2021-06-07T13:16:00Z

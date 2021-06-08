@@ -155,29 +155,6 @@ related:
         width: 1070
         height: 692
         isCached: true
-  - title: "Civil Society Coalition Releases Statement of Concerns Regarding Law Enforcement Use of Face Recognition Technology"
-    excerpt: "Civil society coalition statement highlighting six major civil rights concerns regarding law enforcement use of face recognition technology."
-    publishedDateTime: 2021-06-03T15:24:00Z
-    webUrl: "https://www.newamerica.org/oti/press-releases/civil-society-coalition-releases-statement-of-concerns-regarding-law-enforcement-use-of-face-recognition-technology/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
-    quality: 19
-    images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_1783490738.2e16d0ba.fill-1200x630.jpg"
-        width: 1000
-        height: 525
-        isCached: true
-  - title: "Fish facial recognition? Researchers test technology on invasive Asian carp"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-03T16:04:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/science/2021/06/03/fish-facial-recognition-researchers-test-technology-invasive-asian-carp/7524225002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 17
 
 secured: "8B4KXef9IOsCzuVJ3QMbLQ7mCH3Pji6yc5I4BULwp6C1IFaiYFPBtZsfT97hnykNIxikFse0zgRmp8f7QrYkfdI9na3yZjaa13rTABTy1eZb5i8xmfSprrDTyygo8UUsEZJod0Tsfk0p8MQXcT/y0TXKrdTJ3yYkE0EYxxjsFWDZjF4JTE7nBzDMpp1o0XHkCfqpplE4veWSqeZ6kkOzLwL063DhsXfhoyR+rs7geyoxo5YhkaP8fhjT3zVAxsb161MJh/u8updcrRFWHA/KiI8kLQZnyxhYZXThoPGfA4kC4OrHodzU1TIlJnzYVEExliJyWZtXm94mXY9ju14aTnyU+tRllGeMaVkPNKq6U/w=;+vfCWxUUbEuG4k775GNunA=="
 ---

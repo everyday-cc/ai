@@ -47,6 +47,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "My Pick for the AI Gaming Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There are plenty of ways that artificial intelligence (AI) is revolutionizing"
+    publishedDateTime: 2021-06-08T04:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/my-pick-for-the-ai-gaming-industry-1030501888"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Mythic Redefines Edge AI by Combining Analog Processing and Flash Memory"
     excerpt: "A seemingly unique and fruitful approach, analog processing has been the key to Mythic AI’s success. Its newest processor could be a hopeful contender in the world of edge computing."
     publishedDateTime: 2021-06-07T20:55:00Z

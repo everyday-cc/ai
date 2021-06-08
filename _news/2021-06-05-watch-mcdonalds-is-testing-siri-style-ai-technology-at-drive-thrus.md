@@ -9,8 +9,8 @@ ampWebUrl: "https://bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thr
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: BGR
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "McDonald's is testing voice recognition software in Chicago for drive-thru orders"
-    excerpt: "McDonald's is testing AI systems at 10 locations in Chicago. The technology is taking orders at the drive-thru with 85% accuracy. The company also plans to add robotic fryers in the kitchen."
-    publishedDateTime: 2021-06-03T15:08:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9648437/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9648437/amp/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9648437/amp/McDonalds-testing-voice-recognition-software-Chicago-drive-orders.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 39
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/06/03/14/43790581-0-image-a-11_1622727734817.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "McDonald’s Is Testing Automated Voice Ordering at Drive-Thrus"
     excerpt: "The fast-food chain says the system can handle about 80 percent of orders, after a trial at about ten Chicago locations."
     publishedDateTime: 2021-06-04T16:27:00Z

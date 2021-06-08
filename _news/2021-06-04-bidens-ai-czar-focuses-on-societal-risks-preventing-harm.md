@@ -9,8 +9,8 @@ ampWebUrl: "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar
 cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Click Orlando
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s AI czar focuses on societal risks, preventing harm"
-    excerpt: "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling"
-    publishedDateTime: 2021-06-03T16:14:00Z
-    webUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/"
-    ampWebUrl: "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/"
-    type: article
-    provider:
-      name: WSAV-TV
-      domain: wsav.com
-    quality: 59
-    images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280"
-        width: 1280
-        height: 1130
-        isCached: true
-  - title: "Study: AI faster, better at predicting successful radiation treatment"
-    excerpt: "In another win for the robots, artificial intelligence is putting on a lab coat to outdo doctors in radiation therapy treatment."
-    publishedDateTime: 2021-06-03T19:45:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/03/science-University-of-Toronto-Artificial-Intelligence/1061622739992/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1061622739992/2021/1/81fb8d912bcb9af1dbe5cf47a91b10d1/v1.5/Study-AI-faster-better-at-predicting-successful-radiation-treatment.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "White House AI Czar Focuses on Societal Risks, Preventing Harm"
     excerpt: "A computer scientist and pioneering roboticist, Lynne Parker now confronts the promise and risks of artificial intelligence."
     publishedDateTime: 2021-06-04T14:56:00Z

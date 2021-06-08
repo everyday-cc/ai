@@ -155,29 +155,6 @@ related:
         width: 1070
         height: 692
         isCached: true
-  - title: "Civil Society Coalition Releases Statement of Concerns Regarding Law Enforcement Use of Face Recognition Technology"
-    excerpt: "Civil society coalition statement highlighting six major civil rights concerns regarding law enforcement use of face recognition technology."
-    publishedDateTime: 2021-06-03T15:24:00Z
-    webUrl: "https://www.newamerica.org/oti/press-releases/civil-society-coalition-releases-statement-of-concerns-regarding-law-enforcement-use-of-face-recognition-technology/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
-    quality: 19
-    images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_1783490738.2e16d0ba.fill-1200x630.jpg"
-        width: 1000
-        height: 525
-        isCached: true
-  - title: "Fish facial recognition? Researchers test technology on invasive Asian carp"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-03T16:04:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/science/2021/06/03/fish-facial-recognition-researchers-test-technology-invasive-asian-carp/7524225002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 17
 
 secured: "u9df4uwsPTW8zV8v5i4lYKcMwYxH7CO7hlhURHgFPQug8TgyuZAWpBHweyLbtEOekDh0gaY+m8ej/JDd+B2rFm0ctaCUXWLl9n5xwgnuuglDviOgF1PHJGjcAbNmaFhSFrq9c9aflpwjdEkHiENUsnEEHsRebwx/KjLkem2Nkjf0ezzChOaTPkxyhEc8TSastPUz2djOd1wf0+1tUph4p/q1aJbqMjFE03KDWdq/qxscHGebYAy2btS6CscgTMFIdvokocOYJ9pRUbEXblL1KHPY0d1ra/c/5K4zGnmtVFbExmFJijX95zU+YWXVIXmA41NPU+yqgC92pzgetgf2lmplouRjYL4Sk86n7KXmafvm/bk+mVTXS1h03o87ALULsNgqavohW4dAaTanI+HqhOtU67Utjq7+cMgaq5nXhl4SuaDhNg1a5uI9LdL5zCaB1N41fD/aIwVJIZtiI/f52f/Fg0LeC1hCnlzG+YOZzh9vFGHhh3Q/Fi5KKlJrHq7z+Q6ccC0EKvp//Ra40Fqpxg==;C3OGeFx/AeZQV6mWDT9q1g=="
 ---

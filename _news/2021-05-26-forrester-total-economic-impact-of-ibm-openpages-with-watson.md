@@ -19,12 +19,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-    width: 300
-    height: 300
-    isCached: true
-
-secured: "VD2vpBzQ1p0sJRb5A5d85NJ3x/3N0S1ANoJL7XnhGna3Ry0FjE5qjKgFVD6BO5+68PdtkrmxFd3i2JwcpQ3Wfxe7VerBml6mNu/n5HSR0sOHzkF7MRoq857jR+qnr289XV1Fsy/bif9njMnWdrASAfa7NRrIFa8oT8bCMvR6QlLF6btZQcZLDxnwZmsiqMnTEE60fW6DdtfrFpk2SEnAaujcUzqn2MvVDJI7h7YH+j7Gxa2kJ6MlWOeQaDgyMOqzCxSr2NtC3tZVCr6Ruk5M7WRwwGIMe79H76Rs2+6eaQC1lFeRvgwXaqBNlAeDWetMWTuNdmqodkdOYLAtBXZzqfGkT+wGlhu2yNQXGlTVl44=;jVuB7w/7lXI48lSezZf0Ew=="
+secured: "jZK8FsoETPLvwSnkIxnGjiWWkHY4xZvk2xI4JpnQyx+h9yiG3aGSeJ0UA6jFcZcd/IhbLUPJwhSHVjPauDJ7SBB+XRQ3uw6xWUKj1MRFTp7WoDoAodN67w/Ym6HegwLiALFikmPw93vYSkLQMTSVFHLqUqbvyPEresJWfpkmdTrG3Hems8OFqZJ4n2fYmOH4NdDXOiflQQqK9gv0UkVSxicdJq5kiz34xnZmlM9/8M+87YLfuBZ58yOLhHvBn7lVJJ20N85eUgSfoS/Ms+OeLjgaIPAlnPirJEkXcvIFlnLjTv/0y5WnCU8m4wRp50vrnCJZuI72q100wjsXRgTyxdY+vbvxKMXYmaU0FzjmLN8=;C2gafskgPUsifZw5IR/6JQ=="
 ---
 

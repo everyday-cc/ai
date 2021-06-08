@@ -115,7 +115,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -157,6 +157,50 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-aws-announces-winners-of-the-aws-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of the AWS DeepRacer Women’s League in India",
+      "excerpt": "Read Article Artificial intelligence (AI) and machine learning (ML) are innovative technologies that are unlocking opportunities and helping solve some of our most difficult challenges. But to date in India,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "originalUrl": "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.crn.in/wp-content/uploads/2019/06/17104829/trophy_820.jpg",
+          "width": 696,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "cdnAmpWebUrl": "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "publishedDateTime": "2021-06-03T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "www.crn.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1039,6 +1083,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
+      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
+      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning.md",
       "title": "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning",
       "excerpt": "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,",
@@ -1071,49 +1149,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
-      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
-      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-301299487.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-301299487.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -1406,58 +1441,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
-      "title": "Best practices in customer service automation",
-      "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T15:48:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

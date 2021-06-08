@@ -41,20 +41,6 @@ related:
         width: 600
         height: 529
         isCached: true
-  - title: "How AI Is Transforming Fintech and Where to Find Great AI Roles"
-    excerpt: "Below is more about how chatbots have specifically transformed the fintech industry, and how and where to find great AI roles. Chatbots in the fintech industry came as long-awaited solutions to long queues at bank branches."
-    publishedDateTime: 2021-06-03T16:56:00Z
-    webUrl: "https://www.vault.com/blogs/innovate-with-influence-global-high-tech/how-ai-is-transforming-fintech-and-where-to-find-great-ai-roles"
-    type: article
-    provider:
-      name: Vault
-      domain: vault.com
-    quality: 39
-    images:
-      - url: "https://media2.vault.com/14340846/thisisengineering-raeng-64yrpkiguae-unsplash-1.jpg"
-        width: 850
-        height: 550
-        isCached: true
 
 secured: "deWm9wxvvJbRYE4onGwSnFxQd0bY7lHgP1rS7Kt7HSKw6xUKB1AaQ+hnYOU76V+OXUPh6eRCISodq1y4VfU3Axh7RO9bbGflwG2ukhtFbHDdFbGxgzNuGIJy+2ahQElmO94KnCYu6E426eV0WYJ2SZgTMs1rxBMzD1rt0RXTQQjHJ8Eds3wApDAKMZ1MSjQ8a/7Cj6ubrxVbd2OyHic+FX8teuRME0VMyGe6J8rK8KIad68pngXYgQ7QIcqd+4oieXqJER6F5Q1fhcw4pJrcU1yZ/a8UilN6Z8NmkYLcJlY6W9EBS71/YgNpmYSY+zDkn1vRUI+GYs8w9kAKSUL5IRtBD6G9U7b6dI1d+bqPMUk=;9SDvbTG6e7J3rFM1movsHA=="
 ---

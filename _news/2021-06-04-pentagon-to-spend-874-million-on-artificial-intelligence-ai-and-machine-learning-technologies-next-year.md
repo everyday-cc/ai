@@ -7,7 +7,7 @@ originalUrl: "https://www.militaryaerospace.com/computers/article/14204595/artif
 webUrl: "https://www.militaryaerospace.com/computers/article/14204595/artificial-intelligence-ai-dod-budget-machine-learning"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Military experts warn that Pentagon leaders may be buying too much into artificial intelligence (AI) hype"
+    excerpt: "The Pentagon no longer is viewing AI in narrow, project-specific terms; it’s going all-in on AI as a method to revolutionize the way we fight wars."
+    publishedDateTime: 2021-06-08T08:30:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14204740/artificial-intelligence-ai-hype-pentagon"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 17
 
 secured: "KZXEwnayWw7p/4YsxUfN8omSyScJqA3h/ilZ6lseTLzy9fo9gtNPT7TiTZPsodULYg0KASTuUhlcna3oqxshF1g1UAYd3mglymrnLKqROI9vKGgZmf3UpD8cjKpS17BW8OcTEC7+SOa9CoKfwZlt9ffaimvAqiPBlv1yEYuDXsSng6mrtePjITrFtKlZOl5aKitcNa7oRNVxwXESXDxA2FfHMqi0HOCwxRyENoXUhy2V4AAEkoZmz/8aCxj9pTU+3k3p5x2bVYOIeo8H8bYxRlICmgQbNzHi30NV+Rarsq0cA6CHeXUfO2cPOugb7ns8Q1W2FnYaqF3X64pSoKk3vKnIya8pvQJPMIg2BBXqgvg=;slbQWkjy7zQj3eXp5ZTpCA=="
 ---

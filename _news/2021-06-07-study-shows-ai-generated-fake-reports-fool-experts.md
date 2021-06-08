@@ -33,7 +33,7 @@ related:
     provider:
       name: Snopes.com
       domain: snopes.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.snopes.com/tachyon/2021/06/getty_robothands.jpg"
         width: 1200

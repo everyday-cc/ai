@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
-    excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
-    publishedDateTime: 2021-06-03T16:59:00Z
-    webUrl: "https://www.mining-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 69
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg"
-        width: 2121
-        height: 1193
-        isCached: true
-  - title: "Inside the $5 Million Competition Defining the Future of Artificial Intelligence"
-    excerpt: "Time to hit pause on those dystopian, Terminator-esque visions of the future. AI for Good is here, and it’s helping us rescue victims of human trafficking, defeat depression, and end malaria. In the words of our machine friends (not overlords!"
-    publishedDateTime: 2021-06-03T16:25:00Z
-    webUrl: "https://www.wired.com/sponsored/story/inside-the-dollar5-million-competition-defining-the-future-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 66
-    images:
-      - url: "https://media.wired.com/photos/60b6ad1d41e613255aec163b/master/w_2560%2Cc_limit/Untitled-1.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Mastering artificial intelligence and machine learning"
     excerpt: "Control Engineering - Just a few decades ago, artificial intelligence (AI) was the stuff of science fiction, but has since become part of our daily lives. In manufacturing, it"
     publishedDateTime: 2021-06-06T09:02:00Z
