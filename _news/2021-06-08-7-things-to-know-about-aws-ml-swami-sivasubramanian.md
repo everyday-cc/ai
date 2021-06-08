@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/7-things-to-know-about-aws-ml-swami-si
 webUrl: "https://www.crn.com.au/news/7-things-to-know-about-aws-ml-swami-sivasubramanian-565608"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 459
     isCached: true
 
-secured: "y82YYEe6gWpdHMIUDth0HinVwaUzRuBiyFkxM1QyisqZhZ8kGEFM6TxScHMzRVnH6xIuoGfByCZsekpsHAxYcU6N9HuADMIGXo0vw5g0sMCG1AQaT+sDs7WUk7+h+Cj18jZCFtZMTMbm+klXCAv24YyiYcAX4SyUkMop0JS7nllquc8qzvlxz3NOAK5UioFm101Vxvsfus6/ZiJFRw2I1c4XOoYf2qgaIqbrwY7zXCtQ6F5Ah6LNLFRGgFArH/AfDM8vVOYv4HQk0rWtPWBpEAecm5XH2vwdxnN/AAzNyeCngSDuYltNZnQW/gFL+82seMApAqqdy7Wlw/hXeZfC0INXFtKa0W3jrnJtuia8csU=;2m3YM8g4G7eRPEHxVce4Pg=="
+related:
+  - title: "7 Things to Know About AWS ML: Swami Sivasubramanian"
+    excerpt: "Swami Sivasubramanian, vice president of artificial intelligence and machine learning at Amazon Web Services, gives a rundown of AWS’ ML technologies and challenges"
+    publishedDateTime: 2021-06-07T02:05:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/7-things-to-know-about-aws-ml-swami-sivasubramanian"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/026a-1276d0895528-1f1cd08db339-1000/swami-sivasubramanian-aws.jpg"
+        width: 610
+        height: 459
+        isCached: true
+
+secured: "eTDr8KnYzDUNrmvpD463psGmazv+vh/v4K5Jn4/+P9GMW+RhcxBf8Mlv/MbmOdb5DSKCZht4SjbZNTaowUzu0J4yeVElWN9OWA+oU82Q8AuZngWb3a+LY4baVemy0l7fCCio5coIyQTYu2P8rUirFoVpvjvOwAm1n60XD3HW3ufJN0kSLRX7y+RX4VHX7iV5GlC3KOvSCXhSFRZ5ROSIBvrHqblip480q2QTcSCStVhIbTCbe63CT8IosyBh3H+GFwQ36CqA8Uxip7kQ8iQvZex+dhd4Njzhi9jGI0ALrR0hS3bgUBThqGlgJi7j/raxJ3pV44buNkAMMJPXeVefPlJWKKdKTiZEtbvITMOJX2CSjmHihaFzq6ptUpIkaK0W5M/c8sLEJaaCVw2Vm6+oN0guWLrEtpBZaEJ5epVXveszw5tC+pl0y4W4EqiWSYCp9xnxvRQXPK1NsYbJApS0v5BYJv0e/lIXJcDj/WuHajt53wLc1Q7DNsSUEjmVl0W/DStYzcIgTVmPjrr//o8Atw==;ttWxlENswBk0XXVX6DESog=="
 ---
 

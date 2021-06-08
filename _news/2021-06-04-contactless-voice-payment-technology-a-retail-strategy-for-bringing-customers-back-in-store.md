@@ -75,17 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "King County ban on police use of facial recognition software spotlights local movements across US"
-    excerpt: "As federal legislation on law enforcement's use of facial recognition software stalls, dozens of cities and counties are taking measures into their own hands."
-    publishedDateTime: 2021-06-04T05:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 56
   - title: "Facial recognition for fish? Researchers test technology to stop invasive species"
     excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
     publishedDateTime: 2021-06-07T16:30:00Z

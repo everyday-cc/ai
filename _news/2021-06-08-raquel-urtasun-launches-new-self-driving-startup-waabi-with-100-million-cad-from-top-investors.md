@@ -85,6 +85,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "U of T’s Raquel Urtasun raises $100 million for self-driving startup Waabi: reports"
+    excerpt: "The University of Toronto’s Raquel Urtasun, a leading global expert in machine learning and computer vision, has raised more than CAN$100 million (US$83.5 million) for her new self-driving technology startup Waabi,"
+    publishedDateTime: 2021-06-08T21:46:00Z
+    webUrl: "https://www.utoronto.ca/news/u-t-s-raquel-urtasun-raises-100-million-self-driving-startup-waabi-reports"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 33
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/GettyImages-481476986.jpg?169637"
+        width: 1140
+        height: 760
+        isCached: true
   - title: "Self-driving startup targets longhaul trucking"
     excerpt: "Waabi, founded by artificial intelligence pioneer Raquel Urtasun, Tuesday launched out of stealth to build the next generation of self-driving technology."
     publishedDateTime: 2021-06-08T14:39:00Z

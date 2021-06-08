@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxfor
 webUrl: "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/uploads/2017/01/terminator2.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves"
+    excerpt: "Multi-horizon forecast models using statistical analysis have been around for years now, channeling market variables into predictions about how a stock will move over different ti"
+    publishedDateTime: 2021-06-08T21:24:00Z
+    webUrl: "https://www.bloombergquint.com/markets/man-group-oxford-quants-say-their-ai-can-predict-stock-moves"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ClA/Ks/F2QyodXJ2veEG20egfzP4NK4DL0ptHYVPN+r3YFxh/0LWHD2Xl7JdImiSbbvA0C7qxzvLgVOMYkXXhKL0BJJv9WSeTdDQYJ7i7QUYhhAq1x7FJePU8z7XlC7h/7XkQ6EH/e2mNjS5wfBCNsIGEs6Kn3oYXwKB7oY1Qk/INa5OuMLefgoTf5f4gfEaWkGYVgJopU2QA46tYzYt1BM8xzrj4D4v7bmOv8U8AhmWQT6Xqykgbmae21XFkNEZm68CiIqoANpAfcLXQ5IZlLAZiUgHbjCho3jw8pVsYlflSOh2sxfP4x434EKsCyNDCtBsFSAXL1vngYSYqeF+q7oMIGuOrmr/0B39mKLYOww=;gWNZeDCojSq6rg2QTXWN8Q=="

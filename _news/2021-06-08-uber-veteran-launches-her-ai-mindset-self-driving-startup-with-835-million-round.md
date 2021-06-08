@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/06/08/uber-veteran-lau
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/06/08/uber-veteran-launches-her-ai-mindset-self-driving-startup-with-835-million-round/amp/"
 type: article
 quality: 82
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/autonomous-driving-startup-raises-835-million-it-is-run-by-former-uber-cso-162834-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "U of T’s Raquel Urtasun raises $100 million for self-driving startup Waabi: reports"
+    excerpt: "The University of Toronto’s Raquel Urtasun, a leading global expert in machine learning and computer vision, has raised more than CAN$100 million (US$83.5 million) for her new self-driving technology startup Waabi,"
+    publishedDateTime: 2021-06-08T21:46:00Z
+    webUrl: "https://www.utoronto.ca/news/u-t-s-raquel-urtasun-raises-100-million-self-driving-startup-waabi-reports"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 33
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/GettyImages-481476986.jpg?169637"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Self-driving startup targets longhaul trucking"
     excerpt: "Waabi, founded by artificial intelligence pioneer Raquel Urtasun, Tuesday launched out of stealth to build the next generation of self-driving technology."
@@ -143,6 +157,6 @@ related:
         height: 700
         isCached: true
 
-secured: "RYaJviM9x6HzuUjFXaa129TU6Go0EFFtzjYoHaXQfG83VcR8K8lly2qvwNC1CMtwjWgo9aoBSrldVVSW9vDQHRIlBfzx6N0CQotFex+xPmW5Y2fejgQzZzIHb4r5Nw328cP+304gFkcvQOrj4XQ0Jk9oBrgjqnRRXY9UKpPO+RhVAbpNJCilc5w7UtvEffTChAdG2eQbyITy4gcgSahcNODXs/40VzFD0tmrs9aaxNL5MN+Hm/yyVi6GzZjaP+UgBofaI/iaEYPdP+NvGvcV4T3RT2N7ZeQ568cbSCG4ed4mXj5jaBZavaVwcawZZkx4WiPzsCgg6j0LT6pX/b8ta8jCGtenXtFprZ4zjgiSk8w=;0Q8nW+VuN/Y9j9puuih5Ug=="
+secured: "ySWjF1uRHSrf32ZFJ4qcL5++7m+gJykWMGGf3bhgH5kHxO9EaHig1BP/kfVLUQLslqo/K5wO89uZuw4L9QKVA+d3wn3L3vHVIZdYrIcsx5fWWQRQnWbQXo64vjNtNRPMsgCDhfZPbXl99f427j+dqTYFSoy0xMfgU0jDUERB3Ploihp2E379UdxF9R8detRROqKrBcvnlD5NIYsetlXTDt3qmxoDCC8Qey9zr+litGe8QT0lGtuPdiICD7hhcBcYYPsEQB81f7EgvujhqWxcNBVfeoMiORtEXHBELnHHqyPdLe5963wmaU1P6LyeAywOURjMDZAsGPtFccdCrbKyEnkA4QG3F5csJ2C/2MKNs00gFzcmXe/CgNsGFfClqBmD6Hjl/YquKCPn3fotTuqN/kglb1cYWek2NFno4ARue6m/xh2Yf01DCJV1yaNYLSVFdtAWeWbdRMeSrxZ9bTgYNykATSFv7qWOfCkLrCHA5AsvaQDNimq7VeCMAKMxlaxrneAubnQf4N66NA/xEBfaHg==;IQWfpDP7YR8u1YGyquNqbQ=="
 ---
 

@@ -70,20 +70,6 @@ related:
         width: 400
         height: 309
         isCached: true
-  - title: "Lung ultrasound with deep learning models may help stratify COVID-19 risk: Study"
-    excerpt: "Italy: Deep-learning (DL) models can be used to automatically stratify patients on lung ultrasound(LUS) as having an either low or high risk of clinical worsening in COVID-19 patients, according"
-    publishedDateTime: 2021-06-04T03:30:00Z
-    webUrl: "https://medicaldialogues.in/radiology/news/lung-ultrasound-with-deep-learning-models-may-help-stratify-covid-19-risk-study-78275"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 34
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2021/03/19/150455-lung-ultrasound.jpg"
-        width: 1500
-        height: 960
-        isCached: true
 
 secured: "53RAsnJpT9Ralwf0DheM5pBDYt+10edMp2mCM23v7/fxTrCXxrNTnD77XQGRmYEXO3fg0D6XJZCRw4i8G1MaXg8pUVP69aCjlnToPwoZRB53QKtMQW+DjiBYlfvu9Z7l1gEir/VoudeHcw40m4aDkbjUmw6OSmRJbmnDXPrrZofAb5iYRcdqX0g/qhke43Q6zVN83MDP0NkO5XScopSVJMyUjJzmsfujmY/yzU/lO1KCFT0rD9DbsQ0xAjMTR0Ot5oRDvKwO2xIUGDGAjR9NjAL8T/4oQ61ttUCzGq5gMTGVFsepFcvxczkQRPbJcpEt1UPteTbsN8n694FRtS89fuyN0gyrHR9v9UosmtDKrVY=;PGHQgdFlITxrxD+MemrIfw=="
 ---

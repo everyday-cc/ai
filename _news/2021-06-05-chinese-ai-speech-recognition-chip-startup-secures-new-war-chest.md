@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-rec
 webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "AI-powered transaction monitoring start-up Sentinels raises further £4.9million"
-    excerpt: "Dutch artificial intelligence company Sentinels has raised £4.9 million (€5.7 million) in a seed funding round, led by INKEF Capital, complemented by strategic angel investors and industry leaders – including several members of the early Adyen team."
-    publishedDateTime: 2021-06-04T06:42:00Z
-    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/ai-powered-transaction-monitoring-start-up-sentinels-raises-further-49million/"
-    type: article
-    provider:
-      name: angelnews.co.uk
-      domain: angelnews.co.uk
-    quality: 33
-    images:
-      - url: "https://www.angelnews.co.uk/an2017/images/SentinelsAl_joostA.png"
-        width: 920
-        height: 700
-        isCached: true
 
 secured: "Aw7/8/pWnf9l8WZ6m4vccVTIk3IV5GAEaMyDkUp/7QCLnIBdT4xXDkVgWpGTkq4iIz2ZJC4RCH3TzlGSVqwRMDp1JByq35D4GyIZ4eVS8W1hxWk0L6bIYqY0qZZxDs1vJ84bPWMJofXuXL0haLx8yzWKCsW44wlN92M+SQXLkfJTT7gQcXljsfMJEhTYXPtdvQ1ZU2MogLF3hGWQnlgt3zIh4VhcRQX75Vujb6B/mAXwGuQ8zwIt0RxHlqXic5aVIs8warL1gQ3QI5f5tP4adzEuILvVau9C25J3brh1M/d56o3uBJixChrTFh4AIqOK+E9KU8F3b5CC8OK2s0sfgoKwDJEIA/F2mXc8WEIi4M+vrtI+/wgQjrfOpxHsFrvKDHW1JqeOT7P+AlUAxl9a0KA0sTTqo/LmJG4rTB9EkNTygWGY9cvB1NJrfIadvYLZgeqv75NdzlrhZLJX5Z20B/k5tKYMTq8G43gzY9iHg9TQstQ4ItTyKOqRbgblbCisr8fTqkyXdRRBI+QbojVm/Q==;sWolmq6odlshI7ZlMAnYGg=="
 ---

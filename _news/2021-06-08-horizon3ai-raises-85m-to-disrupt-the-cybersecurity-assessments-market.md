@@ -86,6 +86,20 @@ related:
         width: 924
         height: 522
         isCached: true
+  - title: "Horizon3.ai Raises $8.5M to Disrupt the Cybersecurity Assessments Market"
+    excerpt: "Former Splunk CTO Teams Up with Former U.S. Special Operations Cyber Operator to Deliver Automated Penetration Testing-as-a-Service"
+    publishedDateTime: 2021-06-08T21:44:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/horizon3ai-raises-$85m-to-disrupt-the-cybersecurity-assessments-market/d/d-id/1341241"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 36
+    images:
+      - url: "https://img.deusm.com/darkreading/DR_toon_winner_may2021.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "P9yo8XIyuoTOID1ugx2t8FKMUGrDO6GQAznf/DeK5Qnb3ikNMHOy6qjwCOUYdcaObxfFdL+d5wT1jeuQkjqGw7ZaGvrGv4/lcaR3/ZQYHICzToJFpswC2TMAEoSgrB1V32lI4hsKjCau99qu+bLD836lVAthYA/vK6pgWbeYesmylP8qIvhWRJQPiwG0lz+MJGKreXJxGlJNQV23Qk7bA8Q4+MTra4WlaiSbgR5Gq5qBjhcz+vSEFOh3XvBBJbb6UHACc5r9StBLSbhh377NPSgXhMl1dZ8uJUFiE1KeBMfhA26aQ83PdFJwLAkXlgAJVNHLDzZx8Y3aH8Ov8E8JnAqFoUBt3gz3d2YoCABHzj2xCP4Ofj1mKUXShnNlr7oYXDnK7Llj4WUTcM0Qpeud91H9QMM+iY4kop/WE2djHJZ4ko+WFOYXq4+xYNVUMn0klsQcSODOu77uoiP7XG/CvSoMfPSwYbzqdNj8l85b2n8pyRY/LNNFCuq1SitWvItG5ROyKSQPTUiVLAcXXI155A==;xFNEMYAuFQsIp+fy+ffu/g=="
 ---

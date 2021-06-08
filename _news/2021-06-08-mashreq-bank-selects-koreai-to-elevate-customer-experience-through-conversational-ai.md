@@ -33,22 +33,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Talisma and Active.Ai, partner to enable improved customer experience in BFSI using Conversation AI enabled Chatbot"
-    excerpt: "Talisma Corporation Pvt. Ltd., a leading provider of customer experience solutions, today announced that it has partnered with"
-    publishedDateTime: 2021-06-04T03:34:00Z
-    webUrl: "https://theprint.in/ani-press-releases/talisma-and-active-ai-partner-to-enable-improved-customer-experience-in-bfsi-using-conversation-ai-enabled-chatbot/671584/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/talisma-and-active-ai-partner-to-enable-improved-customer-experience-in-bfsi-using-conversation-ai-enabled-chatbot/671584/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/talisma-and-active-ai-partner-to-enable-improved-customer-experience-in-bfsi-using-conversation-ai-enabled-chatbot/671584/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 37
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2021/06/talisma-and-active-ai-partner-to-enable-improved-customer-experience-in-bfsi-using-conversation-ai-enabled-chatbot.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "RPA Labs Introduces the Future of Customer Experience for the Shipping Industry"
     excerpt: "Today RPA Labs announced the release of RPA Engage, the premier logistics conversation AI (artificial intelligence) that enhances customer experiences by automating interactions with customers, vendors,"
     publishedDateTime: 2021-06-08T13:03:00Z

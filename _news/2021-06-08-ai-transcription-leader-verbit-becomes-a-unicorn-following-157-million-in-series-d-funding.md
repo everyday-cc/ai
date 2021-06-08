@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-transcription-l
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-transcription-leader-verbit-becomes-a-unicorn-following-157-million-in-series-d-funding-1030504186"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,49 @@ topics:
   - AI
 
 related:
-  - title: "DOE announces $1 million in funding for privacy-preserving artificial intelligence research"
-    excerpt: "WASHINGTON, D.C. - Today, the U.S. Department of Energy (DOE) announced $1 million for collaborations in privacy-preserving artificial intelligence research. The aim of this funding is to bring together researchers from the DOE National Laboratories and the National Institutes of Health (NIH) to jointly develop new flagship datasets and privacy-preserving methods and algorithms to improve healthcare."
-    publishedDateTime: 2021-06-07T20:00:00Z
-    webUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
+  - title: "AI-powered transcription startup Verbit raises $157M"
+    excerpt: "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation."
+    publishedDateTime: 2021-06-08T21:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/"
+    ampWebUrl: "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
-        width: 300
-        height: 250
+      - url: "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Israeli AI Transcription Startup Verbit Raises $157M At Over $1B Valuation"
+    excerpt: "The funding will be used to improve and develop Verbit’s products, support R&D, and help prepare Verbit for a public offering."
+    publishedDateTime: 2021-06-08T21:33:00Z
+    webUrl: "https://nocamels.com/2021/06/verbit-transcription-series-d-startup/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 35
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/11/tom.png"
+        width: 1197
+        height: 553
+        isCached: true
+  - title: "AI-powered transaction monitoring start-up Sentinels raises further £4.9million"
+    excerpt: "Dutch artificial intelligence company Sentinels has raised £4.9 million (€5.7 million) in a seed funding round, led by INKEF Capital, complemented by strategic angel investors and industry leaders – including several members of the early Adyen team."
+    publishedDateTime: 2021-06-04T06:42:00Z
+    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/ai-powered-transaction-monitoring-start-up-sentinels-raises-further-49million/"
+    type: article
+    provider:
+      name: angelnews.co.uk
+      domain: angelnews.co.uk
+    quality: 33
+    images:
+      - url: "https://www.angelnews.co.uk/an2017/images/SentinelsAl_joostA.png"
+        width: 920
+        height: 700
         isCached: true
 
 secured: "R1+kHpXs/Cyle5cJcOfhw1x0Tcv4w9FAovox3GSPXSV6S4+ISRRaUhNPLg1G5LE9ClssmjrlOhEGwkNCWiy5+LgdnuW4PrJbk5hSlv1RytiUdJb3Wi13fq81q/YeQv9AnRV8qGkWhMxukeE5wSxd02Bejn0tmLtLYz54srsb3eakxJwOMGF3hoDI8BXYVSFnTWIRiIHMM2q/Ggj+eluB4gj5U8XhEkp8gCnvJpO/6QBTxQNaEOJa0auQBacHLKwCfmxaqCxsQhj/34vmARyuqIBVVQaJtOYW2Mm3R4d//6V6ir/VE+aPm7o55/ssb4bR1hSPTkPtFeICaQ8lZYi5rAtcGSm2YHQJE9IJfOrt7ZLkD/Xg4UltJ66RF0iyTC94ZhwMi7wHPUOSKYj7XaHtMG3z4nAsB4sTL4WtCd1J/qxst57gFgYNTmoPHZmlSFFhoEZYuPuIXT3gNdyn+K44RvPkP3HE5f0en03aNCZKp25Dt4KqXZJOLpm0YvLN8VTnCCyz4eUg9o0hxB4LlEKSaQ==;x2wO9EdPsEcg6PvfPwe/kQ=="

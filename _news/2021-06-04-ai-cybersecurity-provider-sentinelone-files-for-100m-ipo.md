@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1527715/Horizon3_Logo.jpg"
         width: 400
         height: 348
+        isCached: true
+  - title: "Horizon3.ai Raises $8.5M to Disrupt the Cybersecurity Assessments Market"
+    excerpt: "Former Splunk CTO Teams Up with Former U.S. Special Operations Cyber Operator to Deliver Automated Penetration Testing-as-a-Service"
+    publishedDateTime: 2021-06-08T21:44:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/horizon3ai-raises-$85m-to-disrupt-the-cybersecurity-assessments-market/d/d-id/1341241"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 36
+    images:
+      - url: "https://img.deusm.com/darkreading/DR_toon_winner_may2021.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "1v8ZBEbNkIypR98mhGExf5+bSzR7asiam15Bx//NJHAhp1TvD63mjcx3UMRB//Ik/ePGY8gbs3y8kqJ6i70tnio+8hh6ysaaPQEfODcgT1aOnvP58OVb6mPtwS/T+65TgBtToeK+fsa+oTXh01jADHJmNKBNoGorr6CvFbiL2pyjEiQL4zO7g0IssVBeDCK2HselujHSoSlrFGNK7YsfkVEmHHhQRoPpMIPdW1Vi2tQFCDA60K6x5Zi+mamHLC/4MtH00mGf6PmuSgJr8ZgpuI7vU+jiSy17YO/t/NYXsDClDVoLcAwOnfsaMg9DFOK/3vNdYYCz8NxoS6k8C7PYET3+Bsnt9WUu4DXWGEQvJK79PVWInriQqk8dbDmxhtHo82o9sEgUs9x9CsnPpsY8xdLVs5N9FANaIWUnXowjWntLuwZbZAcfsK+KhR5oEYywSmjBzqjGEjPtUH/i3oqWhzXBfOklC3XlYV5i+d5N1ytzLi0iyc+yWuq4mEHNZx8ymIqy+KtIXn2YA4+8D/sB4w==;UWg0HpEvRzAixRBoNUz5mw=="

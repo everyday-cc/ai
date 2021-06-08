@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-08T17:01:00Z
 originalUrl: "https://www.tmcnet.com/topics/articles/2021/06/08/449072-5-ai-apps-that-improve-our-daily-lives.htm"
 webUrl: "https://www.tmcnet.com/topics/articles/2021/06/08/449072-5-ai-apps-that-improve-our-daily-lives.htm"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - AI in Healthcare
 
 images:
   - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/9902750213-artificial-intelligence-2167835_960_720.jpg"

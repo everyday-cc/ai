@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COV
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1527606/CoreTrust_Robot_2_3.jpg"
         width: 400
         height: 309
-        isCached: true
-  - title: "Lung ultrasound with deep learning models may help stratify COVID-19 risk: Study"
-    excerpt: "Italy: Deep-learning (DL) models can be used to automatically stratify patients on lung ultrasound(LUS) as having an either low or high risk of clinical worsening in COVID-19 patients, according"
-    publishedDateTime: 2021-06-04T03:30:00Z
-    webUrl: "https://medicaldialogues.in/radiology/news/lung-ultrasound-with-deep-learning-models-may-help-stratify-covid-19-risk-study-78275"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 34
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2021/03/19/150455-lung-ultrasound.jpg"
-        width: 1500
-        height: 960
         isCached: true
   - title: "Artificial intelligence ‘may be able to calculate Covid-19 variant death risk’"
     excerpt: "By simply adding in one extra step to the routine care of people admitted to hospital with Covid-19 who already have a CT scan, we can now detect patients at high risk of life-thr"

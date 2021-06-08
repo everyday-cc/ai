@@ -41,31 +41,6 @@ related:
         width: 1320
         height: 880
         isCached: true
-  - title: "Investigation reveals NYPD may use more facial recognition cameras in neighborhoods of color"
-    excerpt: "Cameras are always watching, so there’s nothing private for New Yorkers going out in public. But the NYPD’s facial recognition technology takes being on camera a step"
-    publishedDateTime: 2021-06-04T03:19:00Z
-    webUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/"
-    ampWebUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
-    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
-    type: article
-    provider:
-      name: WPIX
-      domain: pix11.com
-    quality: 48
-    images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/06/AP21048630206426.jpg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Guest view: Regulate facial recognition now"
-    excerpt: "This editorial first appeared in The Washington Post. Guest editorials don’t necessarily reflect the Denton Record-Chronicle’s opinions."
-    publishedDateTime: 2021-06-04T04:45:00Z
-    webUrl: "https://dentonrc.com/opinion/guest-view-regulate-facial-recognition-now/article_a3d3c4f2-e52e-51c8-b6c0-b2a897114b46.html"
-    type: article
-    provider:
-      name: Denton Record-Chronicle
-      domain: dentonrc.com
-    quality: 19
 
 secured: "CD31BUsGxZimfxXXlcG4+dhKBJ2mjPztQygNee8h3UlWOh82kq1BR/6EASf4zac4dTCxrns6ZjeOJuTJAYx81Cc/G3empxtP++C2v9PYj2rvE6l/SJmqr3U9iL9kDWYr1CQ6uZq6biCg7ynVM2NtX3ULWgJg7lh92s9D5NsV8VjX+zCb82vmAX7FlkvZYxS24Coo6s3tVD7o6dN8w4wZddGY5QTiaMnx7955hN9ZVMvy8oasMhM0x3JdxT+YuyA7KxkduRdB/aSVlfXO4M1UULft4ODpxERNGpT+pI6Dc9n8iFzl5yJtN2FaNCMZlxKN5hBPAST10mOnBLcJbS/w4C3/EV90vB6uefmbVxvgc00=;z/yfaHuKA2CfocvatHCzZA=="
 ---

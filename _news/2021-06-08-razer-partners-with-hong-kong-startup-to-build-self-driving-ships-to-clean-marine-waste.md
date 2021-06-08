@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/tata-digital-pour-75m-ex-flipkart-execs
 webUrl: "https://www.techinasia.com/tata-digital-pour-75m-ex-flipkart-execs-fitness-startup/next"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -21,19 +21,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Razer sets its sights on saving the seven seas with smart robots"
-    excerpt: "ClearBot is a Hong Kong-based startup that, with Razer's help ... \"The newly designed and fully automated robot is armed with cutting-edge AI and machine learning capabilities that can detect marine plastics within two meters in rough waters."
-    publishedDateTime: 2021-06-08T06:00:00Z
-    webUrl: "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/"
-    ampWebUrl: "https://www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 39
 
 secured: "Y1KsYm9xky4I/xmGlK3IUTVEY7VOCmVS5Q3iqpC3H0TtQ8ezMipzhkbKcJt5hGM8+LEY/myUDA7Y62fDqH77a0rHN1Rxgs/yK2FEh+DWOZzTQMIHu0L+ofzJOjjYItwk1lLUu6valTH06Ux5mugHiT21Sy6xXOfugf4Ef3PtlrLFKC4oYkyi1ICFaDX0xfphkkAEX41iTnzCL7VoQuJKIMSt+NmceqAbz73skFcY+aSPt2usv4SDh7o39iKvUQ6FhyVTUm60BtwDLkbBNxH9huW6+mTh3Z3/xfNKPf5t897hMTKqJv5XJF/bFXu6kZaf7HABqdiZSszZfq0S9VDzaQZF26knI6xZPJ2QOE1rb7w=;yyKA1cJrURvqcWSFW/Uk0w=="
 ---

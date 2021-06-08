@@ -7,7 +7,7 @@ originalUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
 webUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Transcription Leader Verbit Becomes a Unicorn Following $157 Million in Series D Funding"
-    excerpt: "Verbit, the world's largest AI-powered transcription and captioning platform, today announced it has secured $157 million in Series D fundin"
-    publishedDateTime: 2021-06-08T14:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-transcription-leader-verbit-becomes-a-unicorn-following-157-million-in-series-d-funding-1030504186"
+  - title: "Department of Energy Announces $1 Million in Collaborative Funding for Privacy-Preserving Artificial Intelligence Research"
+    excerpt: "DOE National Laboratory researchers will partner with flagship dataset developers from the National Institutes of Health Bridge2AI community"
+    publishedDateTime: 2021-06-07T22:12:00Z
+    webUrl: "https://www.energy.gov/science/articles/department-energy-announces-1-million-collaborative-funding-privacy-preserving"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: Energy Department
+      domain: energy.gov
+    quality: 0
 
 secured: "wfZFfdMe5pPd6H0HtxO3/GFAvS41LJqLqYBKgLkSDpYvNpiDC0DX/5OZ6f5pl03SYFXo60gdDMbshE4zZcCInyydcO35iIbTnKmQw2/xf90c8hresaiYHp/VbSd2lFrS0eVCjqP3A9Ct7htaTGipLB3AS7223La9u2sqZCoPHmSLdgmVmajEuoPbL+pYy235BHYk0EuKI5Qq8FcCmP31i3n6KHiNOCjZN1Hsmh8tbed7dn/LpbyIhFrZt2C6fHb3PHtI7PO4MDHE8mYaPtnyQfT6QQTWhA0/tW8zXi6flt/obJl1nKeZ0wREzRcvNTsheh8teNB6m2BANBqEued/+hlAVSr1kPpeky/CJ/AzNm8=;8IZqQSHIKJeJ+WI45MPT1Q=="
 ---

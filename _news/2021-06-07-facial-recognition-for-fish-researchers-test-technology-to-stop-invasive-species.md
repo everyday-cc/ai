@@ -75,17 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "King County ban on police use of facial recognition software spotlights local movements across US"
-    excerpt: "As federal legislation on law enforcement's use of facial recognition software stalls, dozens of cities and counties are taking measures into their own hands."
-    publishedDateTime: 2021-06-04T05:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/king-county-ban-on-police-use-of-facial-recognition-software-spotlights-local-movements-across-us/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 56
   - title: "Contactless Voice Payment Technology: A Retail Strategy for Bringing Customers Back In-Store"
     excerpt: "Voice recognition technology has moved beyond the realm of checking the weather and playing music. Pandemic-fueled digital commerce is rapidly increasing the use of voice recognition technology. In particular,"
     publishedDateTime: 2021-06-04T12:37:00Z

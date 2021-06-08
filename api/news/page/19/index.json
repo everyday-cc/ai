@@ -2,6 +2,101 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-05-24-ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software.md",
+      "title": "IBM’s Project CodeNet will test how far you can push AI to write software",
+      "excerpt": "IBM’s AI group released CodeNet, a 14-million-sample dataset for training machine learning models to help software developers be productive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "originalUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/05/Project-CodeNet-diversity.jpg",
+          "width": 1920,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "publishedDateTime": "2021-05-23T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa.md",
+      "title": "Leading Autonomous Cyber AI Powerhouse Darktrace Joins World Cyber Security Summit -Africa",
+      "excerpt": "The first company to apply AI to the challenge of cyber security, Darktrace, will feature at Trescon's virtual edition of the World Cyber Security Summit on May 24 2021. With a special focus on Africa,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
+      "originalUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/May2021/asiaone_default.jpg?itok=ePYeHevC",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
+      "publishedDateTime": "2021-05-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-brain-controlled-robotic-arm-gives-paralysed-man-sense-of-touch.md",
       "title": "Brain-controlled robotic arm gives paralysed man sense of touch",
       "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
@@ -1079,101 +1174,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen.md",
-      "title": "You’ll Soon be Able to Use Your Apple Watch Without Touching the Screen",
-      "excerpt": "Companies like Apple and Spotify are making it easier for people with disabilities to use their products. Accessibility advocates hope more follow suit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
-      "originalUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342069?width=620&size=custom_495x278",
-          "width": 495,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
-      "publishedDateTime": "2021-05-21T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-computer-vision-developer-stradvision-to-showcase-its-most-advanced-perception-camera-for-autonomous-driving-adas-at-auto-tech-2021.md",
-      "title": "Computer Vision Developer StradVision to Showcase its Most Advanced Perception Camera for Autonomous Driving & ADAS at Auto Tech 2021",
-      "excerpt": "StradVision, a pioneer in AI-based vision processing technology for autonomous vehicles and automotive ADAS systems, will showcase the latest features of its camera perception software named “SVNet” during The China Guangzhou International Automotive Technology Expo 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
-      "originalUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202105/21/l_60a838a13e331.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -32,14 +32,19 @@ images:
 
 related:
   - title: "Gideon Brothers raises $31 Million Series A to expand its portfolio of AI & 3D Vision Autonomous Mobile Robots"
-    excerpt: "Gideon Brothers, a robotics and AI solutions company, today announced it has raised a $31 million Series A investment to accelerate the development and commercialization of its AI & 3D vision-based autonomous mobile robots (AMRs)."
-    publishedDateTime: 2021-06-08T14:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gideon-brothers-raises-31-million-series-to-expand-/2021/06/08/9386233.htm"
+    excerpt: "Gideon Brothers, a robotics and AI solutions company, today announced it has raised a $31 million Series A investment to accelerate"
+    publishedDateTime: 2021-06-08T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai--3d-vision-autonomous-mobile-robots-301307461.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "E/FYhAUP5VChdGfMY8225eGhm41sVfXmrPiXpuy8Q1gauo0o3/mHTZsqHowsK0WDVxTogrLjJxKJNjllzfnYEt2ePYaRrV4/LdNB/49hCkzU4W8z8Sj0WVvHv445WljuRi6wSWBC3ycbH2GiTSaSmTRINZl5DyOfaLCa2a4l6GAXA8LI5bmvMVdwKvP4hZB2vIDQ7bYOsErH6P7vqzg2/K2vaYwKDHaRHb9Jah1uAeWinQf2T1FtZe7r295QiDapt3vIY1X86TROTlmhp35LeIQ0WcTvlxipQ2uRVRmjF+U1WQSHnO1/+IDFJS+IVC5NSARUwl96Vc9TneQf891tuvBb5Br7FkmwpB6HIndeKDjXWrh8a9KXOHTnf9MmytR8zlZ84Fdk7Dg+HTVRK2+usRcFMhDCr6YcvOlnnMsr+vUYrYAoH8rOwAz9OSJHdvP/USz8778Mxb1qnZIXYE1L0kOYguVKgmS48pCZAIgDOOBqOGc6lx21j40L3lk+GwtBSiUXinq/8on/rtr8hGuyQQ==;MJim86C+ULdsnN57oFYNpw=="
 ---
