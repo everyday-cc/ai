@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-tool-dia
 ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-tool-diagnosis-cardiovascular.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-tool-diagnosis-cardiovascular.amp"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/new-artificial-intelli.jpg"
@@ -42,6 +43,6 @@ related:
         height: 217
         isCached: true
 
-secured: "7YGgun02ZOHaxAPWc8dw/01Em4VYkUwwdapIsFY9drE5bR1DbhWiYkXN7LA7xDgJF/xi/QEB+GsWbONRutJb0Xq7zmLSmuaCkQ5OrYqEoCExg+C1+gUQ569Jlg4IGZ/WPkG0MRWm0kvrxL2oztC0aD0HKtHLm9AyrMoc4ZpIPBKVMPXDhS5gLiK6V9yBZKMhpE640xVcx+DnYU7fZNyaoonPiR+I/32xck8eVczoXuevvSj1vYTPFLQy/xlhI1ywtTaXSe2ufst0gslMy7ieU6IPYTxfuz/MmCGv3mOQ4JAsbXBvsIHu5UOlIlR+Y+4jh3c5TdRCVYXJiVOODaG9WAyv14SLbF+XrXeYvUoUiAw=;iT+3zKdvm06lfPQOqvAFfQ=="
+secured: "Zpgr91CRJIRbstBSyN73ojJQFWrwLHSEuH9bY7X2gr5H+/Xn1S7K69lY3xIFtXiDpEreZwUlIW7zxwkCkMsPQGn/+HeadoyL/C2DBWDZsTXKkRhFf3jBFsjp3xm7OL++gj+ZB3u2HdZbgjyj2JaqoQcnWb51nyaTJGWPIVrhwPiCnEsEebxbUbwqcZgM07HK7rB8+h0/ks7X5MhfiZXkAqQI3NiBCfXB5IYm0xPEirzl4xDP4W/YLc/QzIr1cOhWahxefLWKDt7qSeovQhDNAil54TAXG4rTyxEHnOpg7D+SfZx4RjqlDWCexC8VeCatYoZNWMoDwsNso+3GfysTyaUE1aUalJx65tthfzs4TShXm1eUD8NgTyy+vRDzzGcO/Q/aAT6WwP7CRfHpzPFcTtgFIm2FiE6GrBuylXDVEpBF5uHhyz54AGYf9+TI0EAKXKsaMdFDYhfBbSrsI13eJjHuwNzrK4Geqjz7TchDmDJN5I2+atU+4Xgvf50OMfkvVF1LMrUAf51OpN9MgUb2Ww==;VCcu5sx2JmOzaemEUDdYKA=="
 ---
 

@@ -47,7 +47,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 68
+    quality: 70
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/Raquel_Urtasun_Portrait_horizontal-copy.jpg?w=1024"
         width: 1024
@@ -67,19 +67,33 @@ related:
         width: 789
         height: 526
         isCached: true
-  - title: "Raquel Urtasun starts Toronto self-driving company Waabi, after leaving Uber"
-    excerpt: "After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car venture, selling it to Silicon Valley . . ."
-    publishedDateTime: 2021-06-08T10:00:00Z
-    webUrl: "https://www.timescolonist.com/raquel-urtasun-starts-toronto-self-driving-company-waabi-after-leaving-uber-1.24328003"
+  - title: "Self-driving startup targets longhaul trucking"
+    excerpt: "Waabi, founded by artificial intelligence pioneer Raquel Urtasun, Tuesday launched out of stealth to build the next generation of self-driving technology."
+    publishedDateTime: 2021-06-08T14:39:00Z
+    webUrl: "https://www.trucknews.com/technology/self-driving-startup-targets-longhaul-trucking/1003151573/"
     type: article
     provider:
-      name: Times Colonist
-      domain: timescolonist.com
+      name: Truck News
+      domain: trucknews.com
+    quality: 24
+    images:
+      - url: "https://www.trucknews.com/wp-content/uploads/2021/06/waabi-2.jpg"
+        width: 280
+        height: 210
+        isCached: true
+  - title: "Raquel Urtasun starts Toronto self-driving company Waabi, after leaving Uber"
+    excerpt: "After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car venture, selling it to Silicon Valley startup Aurora."
+    publishedDateTime: 2021-06-08T14:05:00Z
+    webUrl: "https://www.castanet.net/news/Business/336299/Raquel-Urtasun-starts-Toronto-self-driving-company-Waabi-after-leaving-Uber"
+    type: article
+    provider:
+      name: Castanet
+      domain: castanet.net
     quality: 21
     images:
-      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24328004.1623150483!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/20210607190624-315d6e148abe48a59a63b714c8aa2d5ab239441a9a0eea2e87b375bc1f2edc8b-jpg.jpg"
-        width: 560
-        height: 292
+      - url: "https://www.castanet.net/content/2021/6/20210607190624-315d6e148abe48a59a63b714c8aa2d5ab239441a9a0eea2e87b375bc1f2edc8b_p3534947.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "U of T AI research star Raquel Urtasun raises US$83.5-million for self-driving startup four months after leaving Uber"
     excerpt: "One of the world’s leading autonomous vehicle researchers, University of Toronto computer science professor Raquel Urtasun, has raised US$83.5-million for her three-month-old self-driving technology startup,"

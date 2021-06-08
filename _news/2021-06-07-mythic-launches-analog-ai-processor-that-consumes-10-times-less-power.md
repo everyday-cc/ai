@@ -47,6 +47,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Why is Artificial Intelligence the fastest growing industry?"
+    excerpt: "In recent years, Artificial Intelligence has become the industry with the highest growth in the world and, consequently, it has transformed our way of living, producing and relating."
+    publishedDateTime: 2021-06-08T13:59:00Z
+    webUrl: "https://www.entrepreneur.com/article/373983"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/373983"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373983"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1623160707-inteligencia-artificial.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "My Pick for the AI Gaming Industry"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There are plenty of ways that artificial intelligence (AI) is revolutionizing"
     publishedDateTime: 2021-06-08T04:25:00Z

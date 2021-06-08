@@ -57,20 +57,6 @@ related:
         width: 645
         height: 350
         isCached: true
-  - title: "Envisioning safer cities with artificial intelligence"
-    excerpt: "Over the past several decades, artificial intelligence has advanced tremendously, and today it promises new opportunities for more accurate healthcare, enhanced national security and more effective education,"
-    publishedDateTime: 2021-06-03T22:09:00Z
-    webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?org=NSF&cntn_id=302812&preview=false"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 39
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/lake_charles_f.jpg"
-        width: 350
-        height: 220
-        isCached: true
   - title: "Massive Slate of iRacing AI Updates Set for 2021 Season 3"
     excerpt: "Racing’s ever-expanding slate of AI content continues to grow for the upcoming 2021 Season 3 build, set for release on Wednesday. Multiple cars and nearly 30 track layouts will be making their debut with our virtual racers,"
     publishedDateTime: 2021-06-07T15:25:00Z

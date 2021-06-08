@@ -2,6 +2,184 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-05-07-states-push-back-against-use-of-facial-recognition-technology-by-police.md",
+      "title": "States push back against use of facial recognition technology by police",
+      "excerpt": "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "originalUrl": "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop",
+          "width": 640,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "cdnAmpWebUrl": "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "publishedDateTime": "2021-05-06T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mahoningmatters",
+        "domain": "mahoningmatters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-the-federal-government-gets-a-central-ai-website-in-aigov.md",
+      "title": "The federal government gets a central AI website in AI.gov",
+      "excerpt": "The National Artificial Intelligence Initiative Office compiled all government activities advancing the effort on a single website launched Wednesday. AI.gov features recent AI reports and news across agencies;",
+      "sourceUrl": null,
+      "webUrl": "https://www.ai.gov/",
+      "originalUrl": "https://www.fedscoop.com/naiio-launches-ai-website/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ai.gov/wp-content/uploads/2021/02/National-AI-Office-Seal.png",
+          "width": 4092,
+          "height": 4092,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month.md",
+      "title": "Artificial Intelligence Identifies Netflix And Facebook Among Top Stocks For The Month",
+      "excerpt": "Q.ai's AI systems have picked Top Tech Stocks, Top Consumer Stocks, Top Quality Value Stocks, Top Growth Stocks, and Top Dividend Stocks to help investors make the most of this month's markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60942fe187880209a11c4392%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/",
+      "publishedDateTime": "2021-05-06T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre.md",
+      "title": "Industry should start working on AI, M2M, data science seriously : Dhotre",
+      "excerpt": "The government is keen on utilising latest technologies like artificial intelligence (AI), machine-to-machine communications and data science, and industry should start working on them seriously for achieving the goal of Aatmanirbhar Bharat,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375.html",
+      "originalUrl": "https://www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/05/06/1600x900/_2374e1ca-ccf3-11ea-a892-bc0febb83d85_1620324427702.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375-amp.html",
+      "publishedDateTime": "2021-05-06T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-expressable-raises-45m-from-lerer-hippeau-and-nextview-to-transform-speech-therapy-care.md",
       "title": "Expressable Raises $4.5M from Lerer Hippeau and NextView to Transform Speech Therapy Care",
       "excerpt": "Expressable, a leading speech therapy solution that combines 1-on-1 teletherapy with its proprietary education platform, is pleased to announce the close of its seed round totaling $4,500,000. The funding was co-led by Lerer Hippeau and",
@@ -983,170 +1161,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-tackling-the-new-frontier-of-fraud-with-machine-learning.md",
-      "title": "Tackling the new frontier of fraud with machine learning",
-      "excerpt": "Register for our latest webinar with Sift on Thursday 24 June 2021 at 15:00 BST as industry experts discuss tackling the new frontier of fraud with machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
-      "originalUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/sift-event.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage.md",
-      "title": "Tesla, Apple Supplier Delta To Pour $7M In AI Semiconductor Startup Amid Chip Shortage",
-      "excerpt": "Tesla Inc (NASDAQ: TSLA) and Apple Inc (NASDAQ: AAPL) power components supplier Delta Electronics is backing Kneron, an artificial intelligence startup that",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
-      "originalUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/8615ceba8e07821a.jpeg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20981899",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20981899",
-      "publishedDateTime": "2021-05-06T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-gm-reports-strong-first-quarter-2021-results.md",
-      "title": "GM Reports Strong First-Quarter 2021 Results",
-      "excerpt": "General Motors Co. (NYSE: GM) today reported first-quarter earnings driven by strong price and mix performance in North America, strong credit and resid",
-      "sourceUrl": null,
-      "webUrl": "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results",
-      "originalUrl": "https://www.albawaba.com/business/pr/gm-reports-strong-first-quarter-2021-results-1426280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investor.gm.com/sites/g/files/knoqqb60441/themes/site/nir_pid2306/dist/new-images/GM-logo-2021.png",
-          "width": 555,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-vectra-cognito-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Vectra Cognito now available in the Microsoft Azure Marketplace",
-      "excerpt": "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

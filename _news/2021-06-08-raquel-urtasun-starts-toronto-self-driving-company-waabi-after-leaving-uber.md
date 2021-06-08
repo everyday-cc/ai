@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Raquel Urtasun starts Toronto self-driving company Waabi, after leaving Uber"
-excerpt: "After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car venture, selling it to Silicon Valley . . ."
-publishedDateTime: 2021-06-08T10:00:00Z
-originalUrl: "https://www.timescolonist.com/raquel-urtasun-starts-toronto-self-driving-company-waabi-after-leaving-uber-1.24328003"
-webUrl: "https://www.timescolonist.com/raquel-urtasun-starts-toronto-self-driving-company-waabi-after-leaving-uber-1.24328003"
+excerpt: "After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car venture, selling it to Silicon Valley startup Aurora."
+publishedDateTime: 2021-06-08T14:05:00Z
+originalUrl: "https://www.castanet.net/news/Business/336299/Raquel-Urtasun-starts-Toronto-self-driving-company-Waabi-after-leaving-Uber"
+webUrl: "https://www.castanet.net/news/Business/336299/Raquel-Urtasun-starts-Toronto-self-driving-company-Waabi-after-leaving-Uber"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Times Colonist
-  domain: timescolonist.com
+  name: Castanet
+  domain: castanet.net
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.glaciermedia.ca/polopoly_fs/1.24328004.1623150483!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/20210607190624-315d6e148abe48a59a63b714c8aa2d5ab239441a9a0eea2e87b375bc1f2edc8b-jpg.jpg"
-    width: 560
-    height: 292
+  - url: "https://www.castanet.net/content/2021/6/20210607190624-315d6e148abe48a59a63b714c8aa2d5ab239441a9a0eea2e87b375bc1f2edc8b_p3534947.jpg"
+    width: 640
+    height: 427
     isCached: true
 
 related:
@@ -51,7 +51,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 68
+    quality: 70
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/Raquel_Urtasun_Portrait_horizontal-copy.jpg?w=1024"
         width: 1024
@@ -70,6 +70,20 @@ related:
       - url: "https://images2.markets.businessinsider.com/5cacb9f277584e5b73251c8a?format=jpeg"
         width: 789
         height: 526
+        isCached: true
+  - title: "Self-driving startup targets longhaul trucking"
+    excerpt: "Waabi, founded by artificial intelligence pioneer Raquel Urtasun, Tuesday launched out of stealth to build the next generation of self-driving technology."
+    publishedDateTime: 2021-06-08T14:39:00Z
+    webUrl: "https://www.trucknews.com/technology/self-driving-startup-targets-longhaul-trucking/1003151573/"
+    type: article
+    provider:
+      name: Truck News
+      domain: trucknews.com
+    quality: 24
+    images:
+      - url: "https://www.trucknews.com/wp-content/uploads/2021/06/waabi-2.jpg"
+        width: 280
+        height: 210
         isCached: true
   - title: "Woman starts Toronto self-driving company Waabi, after leaving Uber"
     excerpt: "\"There is a need for new technology and I have a very clear vision of what that technology is,\" Raquel Urtasun said."
@@ -111,6 +125,6 @@ related:
         height: 700
         isCached: true
 
-secured: "zf2jiPWpJkuMhTBaVyvLqbOAFyfVkf3zIW2DkRREt/LNJkrAB2LPMefLEofp8s3Ay3/fOvPrjyFs7u7ykQZzOKE3rQ4/6iE246ePHvzjHdUseYVeL9rP10TiOrg6lOH2Df2Bs+Z5Cfe967TUs0kHWJab5qx6sveYSSFUcKn7rhD3wrR00d9xazFN0JKmQKYrdCRIhjizAI9zmCZS9KHgmyZOIkAFLWA3VSueFzALGPvw8i75bm/MuDPWONoOvjnGUuuBNphxdPLxsUW8TanTwsoJQ4ejbaWP+62oNTnHw93c7KIT4r6A0SB9/cJGGqLNvhID7FIvONcSGpGr8gsjEWcZI1wWzsoNSTZ5DLJOCmuqnPgE1zz4hg6nuU6/N5PySvT6ztg9LkppTcfirUnEXtlH9P2R6AYHRoF++4smF39+KQ8Yfh0HNppbtjWG3XYv/jxqHt3rIDrNnDkHPRhgaWo4ZP6VmMDdpqD41wkm4YwouVAKRrhlk/NYcd8k3P2JHZDoF4GUe7A778m3/SZgIQ==;Q1T7O8eBUMUw2b/5I09zXQ=="
+secured: "q8zkjEdIp36+0bB+4278pTcRFx4rdSogXEO+2Dhf8959NJDdJUZxhjOV95a/YbhHTXsLyEDmGrNkSQ1XaRoq9hsw/t5Q0cQWdCHWiyLYIAWV8KGZ7RrduGKiDp+5HZBSmDQIqDhK73lZPS8Vg8Gtol0URXmo/WdelT5uVpLUZLYSFKPwzqz3+T9g2nEeFU4kh27Qp43+lcFRksPN0OC50GG3KDcffpgLSP2PWCKqQRSv4/ElRS5Em7acbQr4BGcRQ1ThlMbzAaEmcWBiMee2Zm7g5rNcmR7Z0kHJozXRy9VHYytFFhvl3qymy7Yzso+VApRplefQszjKuu4LFsgr/fHN9DuH/VLZ53hM1Kk+TuI=;lcwDCiva/RIy10zS+8q5jw=="
 ---
 

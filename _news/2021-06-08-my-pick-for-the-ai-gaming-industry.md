@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 759
         isCached: true
+  - title: "Why is Artificial Intelligence the fastest growing industry?"
+    excerpt: "In recent years, Artificial Intelligence has become the industry with the highest growth in the world and, consequently, it has transformed our way of living, producing and relating."
+    publishedDateTime: 2021-06-08T13:59:00Z
+    webUrl: "https://www.entrepreneur.com/article/373983"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/373983"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373983"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1623160707-inteligencia-artificial.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Mythic Redefines Edge AI by Combining Analog Processing and Flash Memory"
     excerpt: "A seemingly unique and fruitful approach, analog processing has been the key to Mythic AI’s success. Its newest processor could be a hopeful contender in the world of edge computing."
     publishedDateTime: 2021-06-07T20:55:00Z

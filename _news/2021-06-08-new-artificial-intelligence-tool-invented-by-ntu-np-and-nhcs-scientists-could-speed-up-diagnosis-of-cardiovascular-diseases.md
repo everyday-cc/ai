@@ -35,7 +35,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/new-artificial-intelli.jpg"
         width: 979

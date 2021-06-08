@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Early endeavors on the path to reliable quantum machine learning"
-excerpt: "The future quantum computers should be capable of super-fast and reliable computation. Today, this is still a major challenge. Now, computer scientists led by ETH Zurich conduct an early exploration for reliable quantum machine learning."
-publishedDateTime: 2021-06-08T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-06/ez-eeo060721.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-06/ez-eeo060721.php"
+excerpt: "Anyone who collects mushrooms knows that it is better to keep the poisonous and the non-poisonous ones apart. In such \"classification problems,\" which require distinguishing certain objects from one another and to assign the objects we are looking for to certain classes by means of characteristics,"
+publishedDateTime: 2021-06-08T14:24:00Z
+originalUrl: "https://phys.org/news/2021-06-early-endeavors-path-reliable-quantum.html"
+webUrl: "https://phys.org/news/2021-06-early-endeavors-path-reliable-quantum.html"
+ampWebUrl: "https://phys.org/news/2021-06-early-endeavors-path-reliable-quantum.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-early-endeavors-path-reliable-quantum.amp"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/early-endeavors-on-the.jpg"
+    width: 930
+    height: 465
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 333
         isCached: true
 
-secured: "9i/OkkuESmcM0dNfY7sWelDGDItRMlVaiXqGwgIORJKuiAxN2g1af+vV0deFAF1NOZ4oiCnqZHo96B/bCILv8EaACwUduQZ7Tl1wlMN+ZJwZASxF6Zczi/SNMDabFO/fDikLI/tkehRhb4uJ4gH5beJCWD+OkdRAHdklTr9olI61CX/gH/cYawtuYytO1AEOOecGavpG5Gv/+bkPzdGh8OVPzk5cfOBgOxi59CCwuyCC3DxQcahIRzUB91g9ubC+ioVEMUIFRdr1kcdPoxMGtFLrVvfhlq/wW/iBtFwRiqwD75seHdxQNXCxJxYahyz1IPinmwQjkuAxlpY2kTXO7ad+czxh/Yg2lQvdOX9kQFI=;Rpx7D4YdpdZoae3JrY/qQQ=="
+secured: "xAMhLv7TsT+awGSlzCm03azmOpV0RUSXCKfoWyfDm6J7QOLsLIzD91NavAjlWNg6+EG8FinKSon4mwYzS8WkbgLd3w6TW4j1FqVuS6yFrApbJfZhes83iVhuY9o330E2va+Z6/1Ne+EtxewrlNNDWMIYvlVjk90SACGFNn+8fZ4hLKTv74JPpxnAJ53g892pp8/GUnUUggpx6WzAkGmoBEOmXmtfKh477Dvu1VDgjJIy1c0wE6qWobiJ+7s7y4DFpPGJqX3R8ycISWpg2aaM21AjgNMregmX+6dQ1DW9EAxy6ZvBUD0krmH1vQFo7bQP1Aj/rk36Dguisx7GKgxAv9YR69xB/mmovg5j7Vh6pmQ=;BPULGfRCgwzlSvKxygu+1g=="
 ---
 

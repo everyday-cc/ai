@@ -160,6 +160,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Investors pledge to address human rights in facial recognition technology"
+    excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
+    publishedDateTime: 2021-06-08T14:19:00Z
+    webUrl: "https://www.pionline.com/esg/investors-pledge-address-human-rights-facial-recognition-technology"
+    type: article
+    provider:
+      name: Pensions&Investments
+      domain: pionline.com
+    quality: 38
+    images:
+      - url: "https://s3-prod.pionline.com/s3fs-public/styles/800x600/public/Facial-recognition-tech-main_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Asset managers unite to urge human rights focus on facial recognition tech"
     excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
     publishedDateTime: 2021-06-08T11:11:00Z
@@ -174,17 +188,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Human and civil rights groups call for ban on police facial recognition technology"
-    excerpt: "A large coalition of advocacy groups focused on civil and human rights are pushing to ban the police from using facial recognition technology that they say could create an Orwellian surveillance state."
-    publishedDateTime: 2021-06-03T21:51:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/human-civil-rights-groups-call-ban-police-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 33
 
 secured: "GfgQJbyLFMd20DTtJ/rnf8YLMwAMx23bDR9TGbfUXuph4B+qf3CzBq+OXaXPuksAKIWr+qLkZl6AcYwVev89JMWC0Odr1kdF2h2KCDPS8WMOuwZEZOjDMiOoQdCyO6KiR+v5Zlbvj7dToHmTmaESXKlpzOsIjDwZEFKuEySaR6q8bERrSfunx6wQ85mX+s3LaMppz7DsCt7em8Vf/r4pF57pKpQ2y/ZQKRdJfSmJ1XpJ6dEkvgRGeoxtizu+QaU0bgnIk13o6OYBtpRBMNt3o2Td1e07dECyu1+swmyWVNaovHl3YqJoY3enFO3/03+H/YMES5pXa6vMLWtx3hL7Nu8Z5eQwAKhXHY5btRSqQtE4jYQWGBBHVNPADs6FFkDZNNFvgTes1ERKP8MrwkRPcSaDhTTLJ5Y0FWcM1v26GKPdleFDHjp2ghxeX78U+gtdTLG7BybiRNUo1mmV9bzbQvSgX/s4cp7FkI3QaKsvu9CpbGoYCHSf5JVwLnEGAynC6uyyKHiwBcY3Jo9o/U/Y2A==;G0MQesjSOk9Rhkx8b1ApFQ=="
 ---

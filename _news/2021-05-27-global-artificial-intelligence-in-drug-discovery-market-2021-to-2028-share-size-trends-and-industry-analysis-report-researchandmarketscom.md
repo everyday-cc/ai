@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-artificial-intelligence-market.png"
@@ -20,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "0fCDv2HZF3CevPExeq7+Ig4SJmvX1lOxgBTTV8t5CGMq9IYtveBd/xieCtq0criY80uHNPNcraEAwl+ydPrn6ayEe4SfICbwdYplRWc3JblBVvVYzuUiTbLQagvs7+lQ94TwNMoZGQG/y9pwY8xIUaPJxg7INIm3iQmtTaei3Nac5NZDsRYV7agkBzMtgrPSgmNopKNcDqzr0FBmYXgfGwWNvE4lBz6E4rzhQfPK6OSTIju62SFXxe/Ln7mGqekuem4aFChzw9TAH0pyPJgQzfWg3YBJUy/w39j6tyPoof0AhCtzn/ZZazUWIxuvGglIRPqStZEYGgV3pVDs1sUJ3ooX6EURmx2MICckXI4Yk8g=;yVKh+yzxQx7Kf594kX8iaQ=="
+secured: "b81vgfFg1mVX/6A8eJfyZE4sFkiLIzIiNvKTHFJxf9MFNoGMutZjI5zOrRhp1vRVFOpuk6tm/B4rHg4xvH18UDJ2gr+xwlRjS9JQEp76Ew+USjjxKv5m1UdHBR2ONZ0svWu2GtfX30+KK61iJdR08dyb1qNgGGlumwslZkRazAonHNkzrQrBDo5DmdSdS1aDK7MXXHbdt78iNikrQzqWk44/7FLesves+l91tGnLA5mDIgqkGa6sdn/VLvIm8CCLYJz0FGECOvNHHSuuzF/4JgsNq0Q6UU1yXjyVJUrmLF+BOw5yYF9yigprzSXta3DVbEnArXyVfVByGTYRXpZwcHlnqEtqMc/S1rgoFemvJMJ3TnN82eig6Z1218hGI70a;arRzpV1Ys90RzOLHc8fE9Q=="
 ---
 
