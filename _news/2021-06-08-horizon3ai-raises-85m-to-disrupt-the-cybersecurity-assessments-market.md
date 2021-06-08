@@ -72,6 +72,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "AI-powered cybersecurity provider ExtraHop to be acquired for $900M"
+    excerpt: "Bain Capital Private Equity and Crosspoint are spending $900 million to acquire ExtraHop Networks Inc., a software company that uses hundreds of machine learning models deployed side-by-side to find threats lurking in enterprises’ cloud environments."
+    publishedDateTime: 2021-06-08T19:15:00Z
+    webUrl: "https://siliconangle.com/2021/06/08/ai-powered-cybersecurity-provider-extrahop-acquired-900m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/extrahop.png"
+        width: 924
+        height: 522
+        isCached: true
 
 secured: "P9yo8XIyuoTOID1ugx2t8FKMUGrDO6GQAznf/DeK5Qnb3ikNMHOy6qjwCOUYdcaObxfFdL+d5wT1jeuQkjqGw7ZaGvrGv4/lcaR3/ZQYHICzToJFpswC2TMAEoSgrB1V32lI4hsKjCau99qu+bLD836lVAthYA/vK6pgWbeYesmylP8qIvhWRJQPiwG0lz+MJGKreXJxGlJNQV23Qk7bA8Q4+MTra4WlaiSbgR5Gq5qBjhcz+vSEFOh3XvBBJbb6UHACc5r9StBLSbhh377NPSgXhMl1dZ8uJUFiE1KeBMfhA26aQ83PdFJwLAkXlgAJVNHLDzZx8Y3aH8Ov8E8JnAqFoUBt3gz3d2YoCABHzj2xCP4Ofj1mKUXShnNlr7oYXDnK7Llj4WUTcM0Qpeud91H9QMM+iY4kop/WE2djHJZ4ko+WFOYXq4+xYNVUMn0klsQcSODOu77uoiP7XG/CvSoMfPSwYbzqdNj8l85b2n8pyRY/LNNFCuq1SitWvItG5ROyKSQPTUiVLAcXXI155A==;xFNEMYAuFQsIp+fy+ffu/g=="
 ---

@@ -24,6 +24,19 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Sports Market to Witness Remarkable Growth by 2025 | 24]7.ai, Advanced Micro Devices, Amazon"
+    excerpt: "Artificial intelligence technology in the sports industry used to strategize train advertise and many more applications It can be used for tracking player performance and helps to improve the health of the player by suggestions on the injury It is"
+    publishedDateTime: 2021-06-08T18:40:00Z
+    webUrl: "https://www.openpr.com/news/2300945/artificial-intelligence-in-sports-market-to-witness-remarkable"
+    ampWebUrl: "https://www.openpr.com/amp/2300945/artificial-intelligence-in-sports-market-to-witness-remarkable"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2300945/artificial-intelligence-in-sports-market-to-witness-remarkable"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
+
 secured: "20kkrbVL7mt1RxW8kDrypwZc7VADZeGlRc4fPWrZ2RuOyyQtIT/mQ6Ky2ooROKZuGDggsLABUFofp4giLoDkXzN8WV/j7lVOkCZhSJGwVVuVvX+zJUdjV4v/WXF//rzhhai0W4hp1MqnBwk5zG59iRLQX6carPaaa3kEiC2c98xU4+WxoIRixyPusS8NKWyOmeWQS5aMcIyq4KYwXrrbdlp4edaUQTCFwsb1HncyOFQM1tpkKgdbPeXfaTIuL7NO4jqz66U26LQmX3GXLjsz5BiejuC5wwRWvkKi48ccUqYdMANuIgzrpblY/Sp5iLV+aDFJiVLZRL17LoAJE1KAm5bS/q8bxkPeMxbIrRpSeAw=;5f4ilei2/43kSlVFm+HOSA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edge Computing AI Chips Market Exhibits a Stunning Growth by 2027 with Covid-19 Impact"
-    excerpt: "The static and dynamic elements of the companies have been combined in this Edge Computing AI Chips market report. This study report examines the competitive dynamics of markets in order to comprehend global competition."
-    publishedDateTime: 2021-06-04T01:36:00Z
-    webUrl: "https://manometcurrent.com/edge-computing-ai-chips-market-exhibits-a-stunning-growth-by-2027-with-covid-19-impact/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 46
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Monitor-Featured-Image.gif"
-        width: 1050
-        height: 600
-        isCached: true
   - title: "AI in Healthcare Market Growth Set To Surge Significantly During 2021 To 2031 | Keyplayers-Nuance Communications, Inc., DeepMind Technologies Limited"
     excerpt: "The most recent research report on AI in Healthcare Market 2021 published by insightSLICE begins with the market description, official report, segmentation, and classification. The report offers a comprehensive analysis of the market so that perusers can be guided on future opportunities and high-profit ranges within the industry."
     publishedDateTime: 2021-06-07T14:10:00Z

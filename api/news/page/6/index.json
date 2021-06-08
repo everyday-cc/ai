@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-03-deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027.md",
+      "title": "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027",
+      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-aws-deeplearningai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization.md",
+      "title": "AWS, DeepLearning.ai aim to bridge scaling gap with machine learning models via Coursera specialization",
+      "excerpt": "Primers: What is AI? | What is machine learning? | What is deep learning? | What is artificial general intelligence? In an interview with Ng and Saha, we touched on a few notable points ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "publishedDateTime": "2021-06-02T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-mlops-startup-iterativeai-nabs-20m.md",
+      "title": "MLOps startup Iterative.ai nabs $20M",
+      "excerpt": "Iterative.ai, an MLOps platform that maintains a number of open source data management projects, raised $20 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/",
+      "originalUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/amp/",
+      "publishedDateTime": "2021-06-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-ibm-ai-tool-reduces-monotonous-work-tasks.md",
       "title": "IBM AI Tool Reduces Monotonous Work Tasks",
       "excerpt": "Watson Orchestrate is designed to drive adoption of IBM’s hybrid cloud and AI solutions. Looking back, IBM was the first vendor to roll out a commercial AI product with Watson, but since then, it’s lost that leadership position to AWS, Google, Microsoft, and almost everyone else.",
@@ -109,6 +256,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-futurework-podcast-a-driverless-transport-future.md",
+      "title": "FutureWork podcast: A driverless transport future?",
+      "excerpt": "said the tens of thousands of people employed in driving jobs in Scotland shouldn't worry about being replaced by robots and artificial intelligence any time soon. \"There's still some way to go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
+      "originalUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scotsman.com/webimg/b25lY21zOmEyY2ZmYzkzLWNiYjctNDBjYi1hM2Y4LWM5MjVjNTg2MTQ1ZTowN2E3OGUyOC04NjY3LTQ1MGMtOWUzOS0yMjMyNDBmNGE0OWY=.jpg?width=2048&enable=upscale",
+          "width": 2048,
+          "height": 1364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -955,206 +1145,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report.md",
-      "title": "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report",
-      "excerpt": "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-artificial-intelligence-chipsets-market-size-share-global-industry-report-2027.md",
-      "title": "Artificial Intelligence (Chipsets) Market Size, Share | Global Industry Report, 2027",
-      "excerpt": "Market Opportunities, Size, Share, Emerging Trends, Technological Innovation, Forecasts & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \" Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates.md",
-      "title": "Microsoft turns attention to multi-cloud and AI with Azure updates",
-      "excerpt": "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
-      "originalUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/",
-      "publishedDateTime": "2021-06-01T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ai-prompts-a-scramble-for-healthcare-data.md",
-      "title": "AI prompts a scramble for healthcare data",
-      "excerpt": "Covid-19 has opened the eyes of the healthcare world to the promise of artificial intelligence. Two years ago, AI applications were largely seen as demonstration projects and start-up dreams. There were “nice to have” experiments in triaging mammograms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
-      "originalUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce9e9331-316e-4c4c-a6a1-a1d8f77ec840.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
-      "publishedDateTime": "2021-06-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

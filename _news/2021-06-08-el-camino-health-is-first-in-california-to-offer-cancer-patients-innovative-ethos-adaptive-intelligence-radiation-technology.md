@@ -1,29 +1,29 @@
 ---
 category: news
 title: "El Camino Health is First in California to Offer Cancer Patients Innovative Ethos™ Adaptive Intelligence™ Radiation Technology"
-excerpt: "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients an innovative adaptive radiation therapy called Ethos™. The advanced radiation oncology technology,"
+excerpt: "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients"
 publishedDateTime: 2021-06-08T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence/article_72ca2720-f125-513e-9b8d-b90cfe96ac3e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence/article_72ca2720-f125-513e-9b8d-b90cfe96ac3e.html"
+originalUrl: "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html"
+webUrl: "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "RWPSwMKknSfo8WJXWB+leJIQyaxJsypX4sWlc5mimpexBi0oU4Sf0WlcX7NiVuu6iApfEZVU3WSUCHiQEBJy9NWZBlG1ptqF0u9GcgU82kY8wJP65CollcIGmxfxAOqCclgvl52OGZ6cQ3WTx+Xy8K9vyxScSrXQT1TENJ6lah499ij0I5CipyaJvsfGU5dm7xNDIpvWPIBV5oyaZWR0mbYPp07Yxj2tF+bLGhr2Aj0VdCNJpPlxqCSw6IPjil7My662U+BHzUxehJtFOHU+5UEYtdkjZt9W33RH3l5fwq2jYqcqkgzwJcoGw477hLGneDyqrxlNDpakFCJdvCHy8GUP9NY5+X6JJa2hdvOFmrQ=;dfluRObqH9EnfPpUK+RZVw=="
+secured: "LllPIzV+8PINy6+3cLz3V1O/yb52qz5Cy0yHZgUUVy0YlYpRlKonqQV8sAmzU2pMdj1LcJ7JB5dKBSH/d4crbVp6yYQ76QK820N22jbYOxYXk10uYJRVB8/DCnC74PN8Nj63yFDza1lfY9FjG9uvyeDs5q1H0fS5/G8eJXrfoofB6QXqUKW6k9nLMMMZVu7v7fYZYaoMtItvU8JSzx87liRIS5YqM2/ReTaWTWzsrRWlSgmAuLYgzJKPr9QuiEJN3+pWxMdnh2M4SIpEYf6tOVhHIjVclhkavCOSqhIftjW84V+r8SNFH3NPwz5fGYmvGrychnNUSeTZjpq5S5YY4MUzKJLPxfH0wFXl0QJ/6e4=;18c3lExAmlgOJmYHB361QQ=="
 ---
 

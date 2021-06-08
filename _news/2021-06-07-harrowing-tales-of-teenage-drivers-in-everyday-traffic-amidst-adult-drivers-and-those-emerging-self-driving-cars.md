@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/amp/"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 896
     height: 503
     isCached: true
+
+related:
+  - title: "How Graze Mowing’s self-driving mower is disrupting the $100 billion commercial landscaping industry"
+    excerpt: "Listen to this article Although the U.S. commercial landscaping industry is worth $100 billion, it’s trapped in dire financial straits. Its outdated equipment depends on manual labor, whose high turnover results in rising staffing costs."
+    publishedDateTime: 2021-06-08T19:33:00Z
+    webUrl: "https://www.therobotreport.com/how-graze-mowings-self-driving-mower-is-disrupting-the-100-billion-commercial-landscaping-industry/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 39
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/06/graze-sponsored-featured-image-june2021.jpg"
+        width: 770
+        height: 500
+        isCached: true
 
 secured: "9729PZn6+lOk1U3X1+LhyFGkpU5W8N+tceZWRLvZarWfbn2JxPpEkCvG7mC8E6Q8wyIMpHoU51EjtXTZrcfsX0UHio+X3oAMGIXFOVBI7FvGGo2idXD3Ak4MetJcXZK+2wD0InGYefEuDPlkpjrh2GEo2bIu0xF5sIx0/M3/T+UCBlFLaTVau3lnQlCw1/T2/I+bNTjRaUFVQ55u5XKMLeRxr2qqEXSJSE6M9vR4lbegPLNMcFrbOsBntCm23mqOQdIZSjlObsb6AJJiB2yYwiCRj9XYBWFO2obVAAE+77ybk2Ww06JeoLoLsxHktZhmI3q034ZZ/OdpzhGXTsSLX1FLt5RfD3URfymTeJ3IDqc=;t2XM3nO0V0KMb41rFOO1/Q=="
 ---

@@ -2,6 +2,180 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-04-30-self-driving-cars-can-they-be-brought-onto-the-roads-safely.md",
+      "title": "Self-Driving Cars: Can They Be Brought onto the Roads Safely?",
+      "excerpt": "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html",
+      "originalUrl": "https://www.cioreview.com/news/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/705x485_25LoCW0x.jpg",
+          "width": 705,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-samsung-launches-jet-bot-ai-robot-vacuum-cleaner.md",
+      "title": "Samsung Launches Jet Bot AI Robot Vacuum Cleaner",
+      "excerpt": "Samsung unveiled its AI-powered Bespoke Jet Bot Robot Vacuum cleaner in Korea. Building upon the design of currently available",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
+      "originalUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2021/04/608bcadab1525.png",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
+      "publishedDateTime": "2021-04-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may.md",
+      "title": "Baidu to Roll Out Driverless Robotaxis in Beijing in May",
+      "excerpt": "Baidu will launch a paid robotaxi service in Beijing on Saturday, allowing users to book rides in vehicles without a driver behind the wheel, as the tech giant seeks to become one of China’s first companies to make money from self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-04-30/1619778592746922_560_373.jpg",
+          "width": 560,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand.md",
+      "title": "Global Artificial Intelligence (AI) Robots Market Industries Significant Growth Analysis and Future Sales Demand",
+      "excerpt": "Global Artificial Intelligence 40AI41 Robots Market Industries Significant Growth Analysis and Future Sales Demand",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/269119027/global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand",
+      "originalUrl": "https://www.bignewsnetwork.com/news/269119027/global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1619495378541.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-autoggn-a-gene-graph-network-automl-tool-for-multi-omics-research.md",
       "title": "AutoGGN: A Gene Graph Network AutoML Tool for Multi-Omics Research",
       "excerpt": "Here, we proposed a new multimodal method called AutoGGN to aggregate multi-omics data and molecular interaction networks based on graph convolutional neural networks. We evaluated AutoGGN using two different tasks: cancer type classification and single-cell stage classification.",
@@ -1014,137 +1188,7 @@
         "Computer Vision",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-04-30-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript.md",
-      "title": "Nokia Corporation (NOK) CEO Pekka Lundmark on Q1 2021 Results - Earnings Call Transcript",
-      "excerpt": "Q1 2021 Earnings Conference Call April 29, 2021 08:00 AM ET Company Participants Matt Shimao - Head of Investor Relations Pekka Lundmark - President &",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
-      "publishedDateTime": "2021-04-29T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-plus-one-robotics-raised-33m-from-investors.md",
-      "title": "Plus One Robotics raised $33M from investors",
-      "excerpt": "The funding round is the latest win for Plus One Robotics after strong growth throughout 2020. This year, it doubled the size of its Port San Antonio facilities. The funding will help the 44-employee company expand its operations in the United States and Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "originalUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/63/26/20919720/5/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "publishedDateTime": "2021-04-29T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-china-publishes-draft-security-standard-on-facial-recognition.md",
-      "title": "China Publishes Draft Security Standard on Facial Recognition",
-      "excerpt": "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
-      "originalUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
-      "publishedDateTime": "2021-04-29T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 52
 }

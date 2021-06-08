@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-a
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/"
 type: article
-quality: 106
-heat: 106
+quality: 108
+heat: 108
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609be739b8030e51b55f606a%2F0x0.png"

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Gideon Brothers raises $31 Million Series A to expand its portfolio of AI & 3D Vision Autonomous Mobile Robots"
-excerpt: "Gideon Brothers, a robotics and AI solutions company, today announced it has raised a $31 million Series A investment to accelerate"
-publishedDateTime: 2021-06-08T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai--3d-vision-autonomous-mobile-robots-301307461.html"
-webUrl: "https://www.prnewswire.com/news-releases/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai--3d-vision-autonomous-mobile-robots-301307461.html"
+excerpt: "Gideon Brothers, a robotics and AI solutions company, today announced it has raised a $31 million Series A investment to accelerate the development and commercialization of its AI & 3D vision-based autonomous mobile robots (AMRs)."
+publishedDateTime: 2021-06-08T14:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-gideon-brothers-raises-31-million-series-to-expand-/2021/06/08/9386233.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-gideon-brothers-raises-31-million-series-to-expand-/2021/06/08/9386233.htm"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Croatia’s Gideon Brothers raises $31M for its 3D vision-enabled autonomous warehouse robots"
@@ -42,6 +36,6 @@ related:
         height: 400
         isCached: true
 
-secured: "KFegAZA7kJfEcgqJgvG9JxlKuNvyJ/yP1fu5SZFSUiSoSypvicZVkUMZl0ft0Dzus6TBN0mRcb97l50WnGYXP/acCCXjDLu9ZZNElB8BgV27wakos/lVKOZCPhhnNqKcpKYp64OKshcC+EAnY6gDoXsdzVwj2NeCKy16Yr14Z3CHxM+W0i58e0PME9Q0fwrNVlRz3vI1r+GlFsuHdXg1Rz051QAXUNkjSeDIsFZrvs3tBiukkjwfvqzVpTdAnJy6bnJABVLGg9Cxn/KIB6ZFQzNqri+IiYX/PVJolPp89Oc7grKP3jq1cGDxThr2/ARLi+eeigwiwt710bXY9gSrs083a48r4x6R2Jt6thvrbIU=;j5s4ExmRV5ypbhmMC3NzrQ=="
+secured: "tWX9XUrzf4kKMpzlLS9QvMLMGciJLpmWU+gP89LiZeXjfyS5goRzsLU2/RMnt2eumDz+lpcs5MXB2a18o6G2hf5YrGqXbmikd61y7Es0D+EQhLToZ/4RjsGRKd/do5/c3ueMwt+uQNuldQR+a1fyeQH6tIZkg8WEdtA+PYDLWBllZSirqlfbNqfA5nEyV8TkXGLsH6bSbGRv3dcNiTcEP6VUHTH6azP+Gfa3na5ZVqkzccRfnUPmsSvIHYiN+BQwnALInZ0TpSjGtDxswxVHzNpAqsXT7WP4+wrBfGOXEq9+nq1gscjQyP3R4uPD3I6tJ+N29xRNqTQpI48RnPV6HpVq4AE+6eGD7hr0+/3Q4KQ=;qDUgI77XYdeHz//635HtLg=="
 ---
 

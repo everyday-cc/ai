@@ -803,6 +803,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-futurework-podcast-a-driverless-transport-future.md",
+      "title": "FutureWork podcast: A driverless transport future?",
+      "excerpt": "said the tens of thousands of people employed in driving jobs in Scotland shouldn't worry about being replaced by robots and artificial intelligence any time soon. \"There's still some way to go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
+      "originalUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scotsman.com/webimg/b25lY21zOmEyY2ZmYzkzLWNiYjctNDBjYi1hM2Y4LWM5MjVjNTg2MTQ1ZTowN2E3OGUyOC04NjY3LTQ1MGMtOWUzOS0yMjMyNDBmNGE0OWY=.jpg?width=2048&enable=upscale",
+          "width": 2048,
+          "height": 1364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-five-industries-reaping-the-benefits-of-artificial-intelligence.md",
       "title": "Five Industries Reaping The Benefits Of Artificial Intelligence",
       "excerpt": "AI (artificial intelligence) offers numerous opportunities ... It's not science fiction anymore; the driverless experience is a reality now. According to recent reports, it’s expected that ...",
@@ -1365,49 +1408,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-driverless-cars-hitting-streets-of-fremont-milpitas-irvine.md",
-      "title": "Driverless cars hitting streets of Fremont, Milpitas, Irvine",
-      "excerpt": "The company, which was founded in Fremont in 2016 by James Peng and Tiancheng Lou, both formerly of Baidu and Google, has been testing cars equipped with its self-driving technology suite since 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
-      "originalUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&h=452",
-          "width": 680,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
-      "publishedDateTime": "2021-05-26T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-14-cruise-expects-gm-to-begin-production-of-new-driverless-vehicle-in-early-2023.md",
+      "title": "Cruise expects GM to begin production of new driverless vehicle in early 2023",
+      "excerpt": "Cruise's CEO disclosed the timing Thursday, giving the most specific time frame yet for the vehicle and commercialization of its autonomous vehicle business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319",
+          "width": 810,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "publishedDateTime": "2021-05-13T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-canadian-tech-firm-diversio-honoured-for-pioneering-work-in-ai-and-data-at-prestigious-digital-awards.md",
       "title": "Canadian Tech Firm Diversio Honoured for Pioneering Work in AI And Data at Prestigious Digital Awards",
       "excerpt": "Diversio is being recognized in three categories of Fast Company's 2021 World Changing Ideas Awards. As a finalist in the AI and Data category, Diversio is recognized for its work harnessing the power of data and artificial intelligence to",
@@ -1334,58 +1386,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-tesla-refutes-elon-musks-timeline-on-full-self-driving.md",
-      "title": "Tesla refutes Elon Musk’s timeline on ‘full self-driving’",
-      "excerpt": "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
-      "originalUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
-      "publishedDateTime": "2021-05-07T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

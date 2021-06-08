@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-08-video-chat-apps-tout-inclusive-ai-features.md",
+      "title": "Video chat apps tout ‘inclusive’ AI features",
+      "excerpt": "Video conferencing services such as Google and Cisco are increasingly relying on AI to improve the chat user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
+      "originalUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1224957012.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
+      "publishedDateTime": "2021-06-07T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-using-ai-to-fight-covid-19.md",
+      "title": "Using AI to fight COVID-19",
+      "excerpt": "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/6/3456e.jpg",
+          "width": 1736,
+          "height": 889,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx",
+      "publishedDateTime": "2021-06-07T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-europes-ai-rules-open-door-to-mass-use-of-facial-recognition-critics-warn.md",
       "title": "Europe’s AI rules open door to mass use of facial recognition, critics warn",
       "excerpt": "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders.",
@@ -410,6 +503,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-visionet-launches-docvuai-intelligent-document-processing-platform-for-mortgages-and-beyond.md",
+      "title": "Visionet launches DocVu.AI - Intelligent Document Processing Platform for Mortgages and Beyond",
+      "excerpt": "Visionet Systems, Inc., a leading provider of digital solutions to the Banking and Financial Services industry, announced today the launch of DocVu.AI – an AI-driven Intelligent Document Processing (IDP) platform.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/visionet-launches-docvu-ai-intelligent-document-processing-platform-for-mortgages-and-beyond-1030500317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionet-launches-docvu-ai-intelligent-document-processing-platform-for-mortgages-and-beyond-1030500317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1526265/vsi_logo_Logo.jpg",
+          "width": 400,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1020,7 +1164,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1060,155 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-elon-musk-hails-israeli-startup-as-the-robot-future.md",
-      "title": "Elon Musk hails Israeli startup as the ‘robot future’",
-      "excerpt": "Fast-growing BionicHIVE transforms warehouses into automated hubs, with robots scaling shelves to retrieve and distribute packages",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/",
-      "originalUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/06/BionicHIVE-1-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/",
-      "publishedDateTime": "2021-06-06T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-the-rush-to-commercialize-ai-is-creating-major-security-risks.md",
-      "title": "The rush to commercialize AI is creating major security risks",
-      "excerpt": "Researchers from the University of Maryland presented an attack technique meant to slow down deep learning models that have been optimized for fast and sensitive operations.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
-      "originalUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-Security-hed-shutterstock_1740944516.jpg&signature=47e30a1c370659443e3ae86f0a64fd63",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent.md",
-      "title": "Microsoft’s Kate Crawford: ‘AI is neither artificial nor intelligent’",
-      "excerpt": "The AI researcher on how natural resources and human labour drive machine learning and the regressive stereotypes that are baked into its algorithms",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "originalUrl": "https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0a2237e46f5eb91b40f9dcd41a92d8e16b5c2406/0_248_6679_4008/master/6679.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8089cb1e6c147a9cc02432013cc6f397",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "publishedDateTime": "2021-06-06T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Ethics",
-        "Computer Vision"
       ]
     }
   ],

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 706
         isCached: true
+  - title: "AI-powered cybersecurity provider ExtraHop to be acquired for $900M"
+    excerpt: "Bain Capital Private Equity and Crosspoint are spending $900 million to acquire ExtraHop Networks Inc., a software company that uses hundreds of machine learning models deployed side-by-side to find threats lurking in enterprises’ cloud environments."
+    publishedDateTime: 2021-06-08T19:15:00Z
+    webUrl: "https://siliconangle.com/2021/06/08/ai-powered-cybersecurity-provider-extrahop-acquired-900m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/extrahop.png"
+        width: 924
+        height: 522
+        isCached: true
   - title: "Horizon3.ai Raises $8.5M to Disrupt the Cybersecurity Assessments Market"
     excerpt: "Horizon3.ai, a cybersecurity startup focused on automated penetration testing-as-a-service (APTaaS™), today announced $8.5M in funding. Co-founded by former Splunk CTO, Snehal Antani, and Anthony Pillitiere,"
     publishedDateTime: 2021-06-08T13:10:00Z

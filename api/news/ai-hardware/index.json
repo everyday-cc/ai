@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-this-new-analog-ai-processor-consumes-10-times-less-power-than-before.md",
+      "title": "This New Analog AI Processor Consumes 10 Times Less Power Than Before",
+      "excerpt": "Advertisement The ideal processing chip would consume less power, would be cheap, whilst having better performance. Well, this ideal might just become a reality as AI processor company Mythic has just launched their new M1076 Analog Matrix Processor to provide a low-power AI processing solution.",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/",
+      "originalUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/06/mythic-main.jpg",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/amp/",
+      "publishedDateTime": "2021-06-08T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-who-won-the-latest-ai-drag-race-aws-or-nvidia.md",
       "title": "Who Won The Latest AI Drag Race? AWS Or NVIDIA?",
       "excerpt": "There is a quiet drama simmering over AI chip benchmarks. This isn’t the first time, and will certainly not be the last. Keeps me busy. This time, it is between Amazon Web Services (AWS) and NVIDIA. It is always NVIDIA.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -51,7 +94,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Google AI"
       ]
     },
     {
@@ -1369,58 +1413,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-leakers-reveal-what-to-expect-from-pixel-6-6-pro-display-whitechapel-chip.md",
-      "title": "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip",
-      "excerpt": "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "originalUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "publishedDateTime": "2021-05-24T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

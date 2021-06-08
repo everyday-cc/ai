@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-08-who-won-the-latest-ai-drag-race-aws-or-nvidia.md",
+      "title": "Who Won The Latest AI Drag Race? AWS Or NVIDIA?",
+      "excerpt": "There is a quiet drama simmering over AI chip benchmarks. This isn’t the first time, and will certainly not be the last. Keeps me busy. This time, it is between Amazon Web Services (AWS) and NVIDIA. It is always NVIDIA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609be739b8030e51b55f606a%2F0x0.png",
+          "width": 627,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/",
+      "publishedDateTime": "2021-06-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-deepmind-ai-taught-digital-people-to-play-football-from-scratch.md",
       "title": "DeepMind AI taught digital people to play football from scratch",
       "excerpt": "AI taught digital players who start out able to only make random movements how to run, dribble a football, kick it into the goal and work as a team",
@@ -1406,58 +1460,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-io-2021-being-helpful-in-moments-that-matter.md",
-      "title": "Google I/O 2021: Being helpful in moments that matter",
-      "excerpt": "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/developers/io21-helpful-google/",
-      "originalUrl": "https://blog.google/technology/developers/io21-helpful-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
-      "publishedDateTime": "2021-05-18T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

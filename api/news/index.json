@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-this-new-analog-ai-processor-consumes-10-times-less-power-than-before.md",
+      "title": "This New Analog AI Processor Consumes 10 Times Less Power Than Before",
+      "excerpt": "Advertisement The ideal processing chip would consume less power, would be cheap, whilst having better performance. Well, this ideal might just become a reality as AI processor company Mythic has just launched their new M1076 Analog Matrix Processor to provide a low-power AI processing solution.",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/",
+      "originalUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/06/mythic-main.jpg",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/amp/",
+      "publishedDateTime": "2021-06-08T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-how-worktango-solves-the-annual-employee-engagement-survey-facade.md",
+      "title": "How WorkTango Solves The Annual Employee Engagement Survey Facade",
+      "excerpt": "WorkTango disrupts the employee engagement landscape, enabling companies to give their employees a voice and collect authentic feedback for any purpose at any time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/",
+      "originalUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfba541572bd236dab4850%2F0x0.jpg",
+          "width": 1199,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/amp/",
+      "publishedDateTime": "2021-06-08T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-six-of-the-smartest-applications-of-artificial-intelligence-in-business.md",
       "title": "Six Of The Smartest Applications Of Artificial Intelligence In Business",
       "excerpt": "Businesses that want to figure out how to best leverage artificial intelligence can experiment with unique ways of using it. Through trial and error, a company can track its results with AI initiatives and find out what works best for its specific needs.",
@@ -113,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -154,7 +249,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Google AI"
       ]
     },
     {
@@ -1155,99 +1251,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-video-chat-apps-tout-inclusive-ai-features.md",
-      "title": "Video chat apps tout ‘inclusive’ AI features",
-      "excerpt": "Video conferencing services such as Google and Cisco are increasingly relying on AI to improve the chat user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1224957012.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
-      "publishedDateTime": "2021-06-07T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-using-ai-to-fight-covid-19.md",
-      "title": "Using AI to fight COVID-19",
-      "excerpt": "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/6/3456e.jpg",
-          "width": 1736,
-          "height": 889,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2021-06-07T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

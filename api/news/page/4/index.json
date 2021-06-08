@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-04-a-simple-model-of-the-brain-provides-new-directions-for-ai-research.md",
+      "title": "A simple model of the brain provides new directions for AI research",
+      "excerpt": "Research on how human brains process language can help create algorithms that are robust enough to understand and engage in conversations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/a-simple-model-of-the-brain-provides-new-directions-for-ai-research/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/a-simple-model-of-the-brain-provides-new-directions-for-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/brain-neuron-assemblies-e1622194218984.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/a-simple-model-of-the-brain-provides-new-directions-for-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/a-simple-model-of-the-brain-provides-new-directions-for-ai-research/amp/",
+      "publishedDateTime": "2021-06-03T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-fintech-startup-s-ancial-technologies-raises-14-mn-in-pre-series-a-round-led-by-jito-angel-network.md",
+      "title": "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network",
+      "excerpt": "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373682",
+      "originalUrl": "https://www.entrepreneur.com/article/373682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373682",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682",
+      "publishedDateTime": "2021-06-03T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-aws-announces-winners-of-the-aws-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of the AWS DeepRacer Women’s League in India",
+      "excerpt": "Read Article Artificial intelligence (AI) and machine learning (ML) are innovative technologies that are unlocking opportunities and helping solve some of our most difficult challenges. But to date in India,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "originalUrl": "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.crn.in/wp-content/uploads/2019/06/17104829/trophy_820.jpg",
+          "width": 696,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "cdnAmpWebUrl": "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "publishedDateTime": "2021-06-03T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "www.crn.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model.md",
       "title": "China outstrips GPT-3 with even more ambitious AI language model",
       "excerpt": "A Chinese AI institute has unveiled a new natural language processing ( NLP) model that is even more sophisticated than those created by both Google and OpenAI. The WuDao 2.0 model was created by the Beijing Academy of Artificial Intelligence (BAAI) and developed with the help of over 100 scientists from multiple organizations.",
@@ -1080,161 +1228,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code.md",
-      "title": "Researchers open-source benchmarks measuring quality of AI-generated code",
-      "excerpt": "And as computers become ubiquitous, the demand for quality code draws an ever-growing number of aspiring programmers to the profession. After years of study to become proficient at coding, experts learn to convert abstracts into concrete,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/",
-      "originalUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/amp/",
-      "publishedDateTime": "2021-06-03T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements.md",
-      "title": "Retailers: Leverage AI For A Greener Planet And Greener Financial Statements",
-      "excerpt": "Optimizing a retail supply chain for efficiency and reduction of waste requires careful planning and consideration, and machine learning and predictive analytics technology have changed the rules of the game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b79fee579fd2ad8f4c9ae8%2F0x0.jpg",
-          "width": 1200,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/amp/",
-      "publishedDateTime": "2021-06-03T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-dont-end-up-on-this-artificial-intelligence-hall-of-shame.md",
-      "title": "Don't End Up on This Artificial Intelligence Hall of Shame",
-      "excerpt": "A list of incidents that caused, or nearly caused, harm aims to prompt developers to think more carefully about the tech they create.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-hall-shame/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-hall-shame/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60b81e8c84acd39aeb65550a/master/pass/Business-When-AI-Goes-Wrong-905331506.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-hall-shame/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-hall-shame/amp",
-      "publishedDateTime": "2021-06-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -24,19 +24,6 @@ images:
     height: 432
     isCached: true
 
-related:
-  - title: "There are over 15,000 cameras in New York that police can use for facial recognition, study finds"
-    excerpt: "Amnesty International found that the NYPD can use more than 15,000 cameras with facial recognition as part of its 'Ban the Scan' campaign."
-    publishedDateTime: 2021-06-04T02:11:00Z
-    webUrl: "https://www.dailydot.com/debug/amnesty-international-nypd-facial-recognition-ban-the-scan/"
-    ampWebUrl: "https://www.dailydot.com/debug/amnesty-international-nypd-facial-recognition-ban-the-scan/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amnesty-international-nypd-facial-recognition-ban-the-scan/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 26
-
 secured: "23prC/v7EMwEnwVisBJXKvmMxCqU0QPgpxRQMvA4zdXi+rcAob/vqn+ZMr8pzV4AIdC/fJ5n9D7k66phqNPgzW28RQ7AHiwDrHkYPR7vqJuygtAgYbvS02XjGCVFTEFX6ovmkznkooCUOy50fP1ICi1PQzbIm8xuE7kTFf380zPbjehra7V16zQA/rXSCJH2Nbhh8u079tGX/whP54+pqnSy7aAUpp797jHSTlFUeZEE+F1peCGb/lleVslqd3d2cD34I1LcZUbIunlz/CKmqliq33xIALt4iRVm3NDejQNssk9smV9+9qXz9ZcoVmjDdrj4BZgWKQprMU5TaHQrJu8xM5XjUk9+maVRFPvaarXmtbj45Lc/7wTPjBr/sJG70odMOsTJUzJ18B9l0iL6B5bA5QOaFomoaodoVlrwFFI5k17YoaMov+Z33OK6nrOawCk5xaNru2N1RBIM/KTDBhSbqn3gtHdAHP9eHvkHiVr0hLIcwsYrUffIx8yXDSytg1mF4ZCvHPM1tmm2oTTqkg==;PEt3esKJj1iH8wWQxjNq1A=="
 ---
 
