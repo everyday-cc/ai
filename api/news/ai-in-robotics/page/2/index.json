@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-28-retailers-ariat-decathlon-latest-to-adopt-exotec-robotics.md",
+      "title": "Retailers Ariat, Decathlon latest to adopt Exotec robotics",
+      "excerpt": "Warehouse robotics firm Exotec announced footwear retailer Ariat and the world’s largest sporting goods retailer Decathlon will deploy its Skypod warehouse robotics system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "originalUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/Exotec_1.jpg",
+          "width": 2080,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "publishedDateTime": "2021-05-28T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-robots-drones-and-ai-the-new-technology-making-waves-in-wash.md",
       "title": "Robots, drones, and AI: The new technology making waves in WASH",
       "excerpt": "From sanitizing open-air markets to identifying leaky pipes, robots and AI are increasingly found in the WASH space. Devex looks at the potential positives and pitfalls of engaging a \"robo-WASH\" workforce.",
@@ -1277,64 +1320,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-scientists-bring-the-sense-of-touch-to-a-robotic-arm.md",
-      "title": "Scientists Bring The Sense Of Touch To A Robotic Arm",
-      "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamc.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
-      "originalUrl": "https://www.wamc.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg",
-          "width": 800,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAMC",
-        "domain": "wamc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-21-a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm.md",
       "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
-      "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
+      "excerpt": "The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device, a team reports Thursday in the journal Science. Previous versions of the arm ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
-      "originalUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
+      "webUrl": "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/",
+      "originalUrl": "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg",
-          "width": 800,
-          "height": 498,
+          "url": "https://a.scpr.org/i/aae9139b88dad894336a1ed40d4911f8/233444-full.jpg",
+          "width": 1024,
+          "height": 637,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1344,11 +1344,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T14:27:00-07:00",
+      "publishedDateTime": "2021-05-20T15:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WSHU news",
-        "domain": "wshu.org",
+        "name": "KPCC",
+        "domain": "scpr.org",
         "images": null,
         "publishers": null,
         "authors": null

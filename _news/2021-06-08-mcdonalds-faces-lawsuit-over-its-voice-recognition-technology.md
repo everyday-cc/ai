@@ -8,7 +8,7 @@ webUrl: "https://www.restaurantbusinessonline.com/technology/mcdonalds-faces-law
 ampWebUrl: "https://restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
 cdnAmpWebUrl: "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/shutterstock_748441993_1623099281.png?mUK3d9oXpjLK488hXEOfIqjQwm3uSY0T"
@@ -211,6 +212,6 @@ related:
       domain: detroitnews.com
     quality: 17
 
-secured: "baZ8yc5AfLoyalBhRNGcOofHUhyIl8BNvCNUTzVLgFTnv4sjbf6Xvfv9+yJ+yUFOVl2ZUcnTXEmzOQo7dXMUbIpVQ7Z7fxdyO50q8hxanmLLuwARiWY1fKhW2dLfUPMKCitoJKGoV5I/ku7QESEDR46sYkcHbpzpTHHQy4IZs4ZT89DFLQg1GUlnHI7f04g/vFwzmm/ft4V2RNAqrzGWg/It28KftXYs7MUySh+LUNMn8a6ivNTuJKgktKhwPc+Y9TeoM8xg7uCiyQ5gv0hUwpsSPOgrY5zCkfZb8WlamzR46q+0utLepest01dnimuv1dUtFzI0qL4dPEW1x256T44LJ5lD8C3F/Lao3PvQ2ZE=;RQVIkRsuYmVw6o42frJG2w=="
+secured: "8h3F9YrXN3XxT38r/Hf4a/CsJypG9J+3GmzL3LbWQPqVS2QeWVt7LaX6VPRYTrQPZrgb9l/M9NPkEriU9qEGWYihwDDg5Hdh9rV03jn9dnODwkvook3AlaKd5BQapz+IxDhsaMNrI+NIh0pMZDQL8vR5NFuCJVGskDA8Uc4/hMG5qFWK9fNhfSyeDrMsYBre7P6FZ38PLbGJ9oaZQM5p9GUw48J/3x6JPluSsax5kFpLYsKfPvQzShDtdXNuRdqctHhmyJne6Bq9Qx78XqiQWmDeO4Ug009PifoI8Jqcgwnklk0Q0nDtV6ej/j+yIv9moCJZuSSi4Vv+Gp7bx1zM2NIPqsyF/THyr/zTJ3CY9buKdKy7jOxkiKMMItRExBJ0lSimKnvi30BRzFB5iONb3P6+mLSlFrsp3DPyQ7K/vi9lTcfwgjOlTHgaKiJDjhfpQsmGOQYPObfEvdAr2cB4NHPATlQQlO6Jrp1Kio3nTcfDL0D0MYxbLKnngEvD5ZaT37oqlo/6Yvj+RhDOYXda0w==;nBe7dMdrK5I0J1m/wzazQg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-rec
 webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese facial recognition deployments in India, Europe prompt warnings"
+    excerpt: "The Internet Freedom Foundation argues that Chinese facial recognition technologies have been developed in an unfair or inaccurate way."
+    publishedDateTime: 2021-06-07T22:10:00Z
+    webUrl: "https://www.biometricupdate.com/202106/chinese-facial-recognition-deployments-in-india-europe-prompt-warnings"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "AI-powered transaction monitoring start-up Sentinels raises further £4.9million"
     excerpt: "Dutch artificial intelligence company Sentinels has raised £4.9 million (€5.7 million) in a seed funding round, led by INKEF Capital, complemented by strategic angel investors and industry leaders – including several members of the early Adyen team."
     publishedDateTime: 2021-06-04T06:42:00Z

@@ -142,7 +142,7 @@ related:
     provider:
       name: Restaurant Business
       domain: restaurantbusinessonline.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/shutterstock_748441993_1623099281.png?mUK3d9oXpjLK488hXEOfIqjQwm3uSY0T"
         width: 400

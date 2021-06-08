@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-m
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model"
 type: article
 quality: 189
-heat: 191
+heat: 190
 published: true
 
 provider:

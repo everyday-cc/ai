@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Start Your Morning With Ai Weiwei"
+    excerpt: "The latest is the Chinese artist and activist Ai Weiwei, who has splashed the ceramic cups and saucers with color and gilding. The designs were inspired by the “Colored Vases” project he began in 2006."
+    publishedDateTime: 2021-06-07T22:25:00Z
+    webUrl: "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 87
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/09/dining/07Burner-cup/07Burner-cup-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "‘Good feeling’: Ai Weiwei picks Portugal for new show, home"
     excerpt: "Dissident Chinese artist Ai Weiwei is putting on the biggest show of his career, and he is doing it in a place he’s fallen in love with: Portugal. The world-renowned visual"
     publishedDateTime: 2021-06-03T14:51:00Z

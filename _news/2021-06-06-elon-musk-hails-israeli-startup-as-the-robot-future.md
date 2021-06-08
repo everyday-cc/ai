@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-star
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

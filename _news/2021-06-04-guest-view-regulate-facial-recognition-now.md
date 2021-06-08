@@ -19,95 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence for conservation: Australian researchers to test koala 'facial recognition'"
-    excerpt: "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation. The team from Griffith University is attempting to use artificial intelligence (AI) to recognise individual furry mammals when they use wildlife road crossings in Queensland state."
-    publishedDateTime: 2021-06-03T06:43:00Z
-    webUrl: "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160"
-    ampWebUrl: "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp"
+  - title: "EU Privacy Groups File Complaint, Assert Clearview AI Facial Recognition Software Violates Data Protection Laws"
+    excerpt: "Clearview AI's controversial facial recognition software is facing legal complaints in the EU challenging the troubled company on the basis of violating data protection laws by 'scraping' websites.”"
+    publishedDateTime: 2021-06-03T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws/amp/"
     type: article
     provider:
-      name: WION
-      domain: wionews.com
-    quality: 60
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 54
     images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/06/03/197140-untitled-design-2021-06-03t121927387.jpg"
-        width: 918
-        height: 506
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/06/eu-privacy-groups-file-complaint-assert-clearview-ai-facial-recognition-software-violates-data-protection-laws_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
-  - title: "Investigation reveals NYPD may use more facial recognition cameras in neighborhoods of color"
-    excerpt: "Cameras are always watching, so there’s nothing private for New Yorkers going out in public. But the NYPD’s facial recognition technology takes being on camera a step"
-    publishedDateTime: 2021-06-04T03:19:00Z
-    webUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/"
-    ampWebUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
-    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+  - title: "Will Voice Recognition Tech Be the Target of a New Wave of BIPA Complaints?"
+    excerpt: "A group of McDonald’s customers claim that the food service chain’s drive-thru technology violates Illinois’ biometric privacy law. If they can prove that the company is using voice recognition to identify repeat customers,"
+    publishedDateTime: 2021-06-03T19:21:00Z
+    webUrl: "https://www.law.com/therecorder/2021/06/03/will-voice-recognition-tech-be-the-target-of-a-new-wave-of-bipa-complaints/"
     type: article
     provider:
-      name: WPIX
-      domain: pix11.com
-    quality: 48
-    images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/06/AP21048630206426.jpg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "The Biden administration's new facial recognition app for asylum seekers sets off alarm bells"
-    excerpt: "The Biden administration recently rolled out a new app that uses facial recognition and geolocation technology to gather and store data about asylum seekers before they even enter the U.S., the Los Angeles Times reported Friday."
-    publishedDateTime: 2021-06-04T19:51:00Z
-    webUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets"
-    ampWebUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
-    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 48
-    images:
-      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622837168/GettyImages-1062889184.jpg"
-        width: 814
-        height: 458
-        isCached: true
-  - title: "Facial Recognition Market to Witness Increase in Revenues by 2025"
-    excerpt: "Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation of facial recognition software and sensors in top end smartphones of all major companies."
-    publishedDateTime: 2021-06-07T19:39:00Z
-    webUrl: "https://www.pr-inside.com/facial-recognition-market-to-witness-increase-in-revenues-by-r4833762.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 39
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
-    excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
-    publishedDateTime: 2021-06-04T23:34:00Z
-    webUrl: "https://kvia.com/news/border/2021/06/04/biden-officials-quietly-deploy-facial-recognition-to-process-asylum-seekers/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
+      name: Law
+      domain: law.com
     quality: 37
     images:
-      - url: "https://kvia.b-cdn.net/2020/04/hypatia-h_975fbaaa11f7415e7c3bc311df1a7fde-h_69d00cdd749b7dab664bc4702b02acbd-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
-    publishedDateTime: 2021-06-06T21:45:00Z
-    webUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 22
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/06/0607_met_-SCI-FISH-RECOGNITION-TB.jpg"
-        width: 899
-        height: 599
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2021/06/McDonalds-Restaurant-09-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "YM2B0LKLzMluR6gQjzLoyfvycDvgmyCuMt833pHjZr/zRyPLU1WNjXTgJ0vcBUSuw14E8GzSO0jTvYml7Ktu8B2vSLOyUYZCpkzme39xpKClCpF85QoaObPQEnbGk+Ux5xgsYSdvIUTfVuau4bd5TQUZS/uEaff4GcLssTpXGfKmj6786/IoViz+EL7C6AKujM8XDFFmxRH6b28AR6aMGKJMcoFbDTypRahF3VAyhRQcEnRa88C6YX9Y2pLrU/AVqdi0FtOQGFVdn7xkNBJ4Cf4KHiprulRQCq0uXVwjrC1/spf8e1gjrvO5XzNfw8PUCYBcLLa2zx7ku/JUW1TuX3npcxnWzYdatQDzT0LzCZ0=;P95GYXGNqX6c6POoPPoJqA=="

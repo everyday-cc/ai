@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Mythic Expands Product Lineup with New Scalable, Power-Efficient Analog Matrix Processor for Edge AI Applications"
-excerpt: "Mythic, the pioneering analog AI processor company with breakthrough analog compute-in-memory technology, today introduced its new M1076 Analog Matrix Processor (Mythic AMP™) which delivers best-in-class performance,"
-publishedDateTime: 2021-06-07T13:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9384978.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9384978.htm"
+excerpt: "Mythic, the pioneering analog AI processor company with breakthrough analog compute-in-memory technology, today introduced its new M1076"
+publishedDateTime: 2021-06-07T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mythic-expands-product-lineup-with-new-scalable-power-efficient-analog-matrix-processor-for-edge-ai-applications-301306344.html"
+webUrl: "https://www.prnewswire.com/news-releases/mythic-expands-product-lineup-with-new-scalable-power-efficient-analog-matrix-processor-for-edge-ai-applications-301306344.html"
 type: article
-quality: 0
-heat: 0
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "1/5IDPzY86WXWudkesHhTm5TviKY0SFVlkfHL5xVVYuxhCHWUPdMM00r1NLL2ynVNgivblKE5txFFppp2Cu5LkJIvEgCY813AsFoKBQ+D3kGZwhx3Y8iwwk5yf/DyT2xa+Wzkgzf1eBjd8FmTcQsgug8+QVE46lQvC2RNai8kNYQomj5Hq+G3TPALOzv17Ng70Ugt8ixdIX8oHzXbIbMHgFEHgGLnXiEtXy9TvNRdIyf8NHkgwnkt3EZaL2lN8N/YG5qFycBtPg/0n9l+RWXGjbvgLPY6X13NnjiLEYEaojEQR7JbJUpzxK1pJTEnYABjsA3oY60ihH9s6ZNPgD7uxdqQUWMxCXk9wJ+llsg+PM=;Qjmkq6qNaMmu9FezrIwKmQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/901376/Mythic_Logo.jpg?p=facebook"
+    width: 1437
+    height: 754
+    isCached: true
+
+secured: "sHAoOmkS9/2k7ddumj7jH1d28iR/axeW6B6F1JTFJ5hdYpJzIItY5V5viPCoWGTsHEsCDXmvIao1TFc6pIXxSDS3OJaOqACVC3WMvBVS19OvbxPWzY6aFw5PmIO3veSBV1zjY9Z1pi5c2Bq3w24NLs0oJ3b7lJi5Znn2Rf8objdlWww7TN0l1U2C3vw9QeK6Gqutvz3s/2BIm+sD23xdClgBVQC5QupCUaP5x5oDqQCs5/p9rRZGXPShffMcvcnjLZ+VzZLOq6zFmFnAyF4BTbMvGrD6agQKXGd3k6NvQ6lRyG4l6i7ohIF3FiKvieYHRIKZ5Il0T3KrsWXJT+N9e03XQA27gbyHLMQnbCXjXDc=;exTdpwD7pXrohXWj3D8Nsw=="
 ---
 

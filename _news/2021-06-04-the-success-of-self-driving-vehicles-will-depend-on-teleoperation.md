@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/03/the-success-of-self-driving-vehic
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
