@@ -46,6 +46,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "NSW Police runs AI over evidence using Microsoft Azure"
+    excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
+    publishedDateTime: 2021-06-07T05:54:00Z
+    webUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 69
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "ikO5join8La4igy5/iDK3PLJqgV/zJo4NroYhYrrTLXE5T0cfKuahmAKrv9MyxYllCqhalrodph/nvOr5EnvlEDO5uKpZVWSd39pJ6m8Po5dJjbqrke2Kq6w3uK9EwH0lfu6sr9iIBqCewkpaRGouti3aK3l8Op0GOP6tPjc4sB3vQXaVdgm6UTkSVATWrv0vjo3edhAJOyDTgQ9kGHUHyDQEaZD1hJwhrQ4VP+mmtqWkirSseKVKC0T385bgrHMQf4zePDyk82GFoCTCnOr8Dz94s+OozmpmS7+zbMx9igrpmVdPOPhKF5rCj/TITKWnaQPiAYQ3/RhBuik1KVwBlLs81m8EcYRwc5cIxSqu74=;XfItXnZgFairu11rPO8gIQ=="
 ---

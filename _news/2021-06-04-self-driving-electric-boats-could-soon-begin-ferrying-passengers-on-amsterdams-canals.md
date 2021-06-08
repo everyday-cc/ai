@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals"
-    excerpt: "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads."
-    publishedDateTime: 2021-06-03T11:50:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-814506,msid-83198867/developers-say-they-still-need-two-to-four-years-to-perfect-the-self-steering-technology-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "self driving electric 'roboats' to begin trials on amsterdam canals"
     excerpt: "(AMS) and MIT senseable city lab, is moving one step closer to being fully operational. in april 2021, a new slewing crane was erected at marineterrein amsterdam, allowing a full-scale roboat prototype to be launched and tested on the water."
     publishedDateTime: 2021-06-03T16:01:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://www.designboom.com/wp-content/uploads/2021/06/self-driving-electric-roboats-to-begin-trials-on-amsterdam-canals-designboom-1200.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Self-Driving Electric Boats Set to be Trialled in Amsterdam"
-    excerpt: "Amsterdam is set to play host to the testing of a new fleet of self-driving electric boats dubbed: Roboats. Designed and created by the Amsterdam Institute for Advanced Metropolitan Solutions and the Massachusetts Institute of Technology,"
-    publishedDateTime: 2021-06-03T12:28:00Z
-    webUrl: "https://hypebeast.com/2021/6/electric-self-driving-boat-roboat-amsterdam-trial-news"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Felectric-self-driving-boat-roboat-amsterdam-trial-news-TW2.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
 
 secured: "W3dDemrWuLWRhNgnzN1bnZ95wPzyaouzQhypr7zL822p9Dhq1E4651ktIHqVPrV8YRL98GmT20jnB30RLBIMC6qRmdYU/BdgH7YXsbtQft+ltBAi/V6ZzGhn8A1nDQsvF9O+NXk7HJOl3DOCNAAyVd2ILFxVoRud7xEHDk2aQxkTGmMifMd85dSwNDDHdzsS96y75MqMtBVQepR9rpEfiLr3mxoVbRVcMt93Hi0R5CITN2UEi+WoG+vym+khfIJitTmkOkmJMX0TWVoWRMmbIjP3BI0L4W8u+iR7Q7oiwNXFRgQXd7h1iqp5R0KxkpsocTbNCCLMgVg9C1jDw19tAoYi0/SHRsBl62OezfyXDFICURoqUeiwzxJM8bUi0bxrcAjmwOarQ39+x1F4fuqVqm52sk+X5hzxpDhUC2XGeiyRUoNasqTy6mgUSlir6Mc9Whcfb7Z25g/xa3IHcZ3/hJAr4kUUWJ2YLOtoR7LUujo0ncbGTIvuMewstHO+HlFJNDwmgCz1vdHdI1ztWzBoqw==;Ivz+DnpOBmbzTpFTgR3SrA=="

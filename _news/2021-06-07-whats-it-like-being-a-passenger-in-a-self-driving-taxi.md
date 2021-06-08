@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/passenger-driverless-self-driving-taxi
 webUrl: "https://thenextweb.com/news/passenger-driverless-self-driving-taxi-waymo"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Cruise can now ferry passengers in self-driving vehicles"
+    excerpt: "Cruise has won approval to participate in California's first pilot programme to provide driverless transportation services."
+    publishedDateTime: 2021-06-08T04:48:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/06/08/cruise-can-now-ferry-passengers-in-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "X38r6qEcgpylTiQQZKufKy+BSNHa0lBfCNY4B44mA4c1sgmQZO7I7XXSFZMsjtUH10jV9RIYr5819b42EwPWj5+vJHxpoSoIB95aNWD5KG+MnhwkObQpcdB+slXg3WCwVEJnQH/I3yP/FF4shwDFI5UX7jVYUkypjh50XstCmSBlmp7TCY5A2cUKI42bl9vyy1sxGwbV8ymhl+z7mgZ5wp+JGvjGGn1FBSR3WF8olmqkq1/soiCu8y8SOlnh9sbV+/S9AYXlJ3MUE7d4JMl64C0pHEhuj5ORq60xfwG5hv/CwwRs3jIguj6KQFtdUYqJspLQ4pYL6HiROen5IvnD+b4tDNB9CYleKyaiP9H9SK4VAcHoJf2vsF4lS7fcjAJiTeRgbFXnTtnn6kDB+jfgUfTv7Hz3nng7iISyNMcOKqxnGofq1g+mp5AUlvLI0M00MAQupmk9OxlyOVVWzt5JQcua/y1KfqI7UC9+7k9RtlTQBFC1SxYHOA6Aykj2G/gO60qScFyhpdn1ZVfESUsTuA==;TBbAKsp25FmVrDdISl0BNQ=="
 ---

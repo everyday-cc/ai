@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Study shows AI-generated fake reports fool experts"
-    excerpt: "Takeaways · AIs can generate fake reports that are convincing enough to trick cybersecurity experts. · If widely used, these AIs could hinder efforts to defend against cyberattacks. ·"
-    publishedDateTime: 2021-06-07T23:49:00Z
-    webUrl: "https://www.econotimes.com/Study-shows-AI-generated-fake-reports-fool-experts-1610233"
+  - title: "Study Shows AI-Generated Fake Reports Fool Experts"
+    excerpt: "AIs can generate fake reports that are convincing enough to trick cybersecurity experts. · If widely used, these AIs could hinder efforts to defend against cyberattacks. · These systems could set off an AI arms race between misinformation generators and detectors."
+    publishedDateTime: 2021-06-08T03:24:00Z
+    webUrl: "https://www.snopes.com/news/2021/06/07/study-shows-ai-generated-fake-reports-fool-experts/"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
+      name: Snopes.com
+      domain: snopes.com
+    quality: 37
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/202106076395f81311b04d64b_th_1024x0.jpg"
-        width: 799
-        height: 402
+      - url: "https://www.snopes.com/tachyon/2021/06/getty_robothands.jpg"
+        width: 1200
+        height: 771
         isCached: true
 
 secured: "peiyhgICyOHTKjMwzvM7owDTxxyrT7AdK5c+7JeD2EtDTEtfshH44XSNlWzNCbyVlY0WJHUuBy5lGhRUvje7QYiH69MTKOQ6b3pAOTqSmG+WXuv2bmfRMZ5uVipWiDQpzBejqIwOSFSZ4mAJYnoUx9wN8UKknJPBjy00i3kc86+7a60kvlOLSoFFfSmpGsyp5L89YyagTaMV+CtuBbY9tYeVHI0XnVD88d5vmis5WLpqZfJzbiH6tjynCt6Ied3iGVKGVD7LzhuYmSrOrjrJLWC+fA9daRIUx4N+aL1FhZF70FNNMT8zhuFY3xhIvYX/s5wBR3Oll2U2SvgUOqcScgP00vtlyeeJFiMtKAL7Z8ImBbfzWiZdSZwOgDtcnTOYHmJCG/8WUAeMHDh8nnvzOUuJ6aVSGkyXsMTPaX9vEeC0ZXfyzs8nN5nNWi4MBc2qZdXNrFt/3FBnbHq9Ln2unUs7oNtdRAfB1f9GhzKURjSD1P40f+0gw9piCg4MtwZKhUQ7NC7LBv6RH9KNjuklAQ==;KlXJ4kUHQHMf/bXJYF0Nyg=="

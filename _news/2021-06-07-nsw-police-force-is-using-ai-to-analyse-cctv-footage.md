@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2019/05/29/50536481-eb5c-4cdf-b1bc-2484cc6e8530/istock-962263142.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "NSW Police runs AI over evidence using Microsoft Azure"
+    excerpt: "NSW Police has “infused” its insights platform with Microsoft Azure-based artificial intelligence and machine learning services to fast-track video and audio evidence analysis. Microsoft recently worked with Australia’s largest policing agency to containerise cognitive processing for the core investigation platform in Azure and feed the results back."
+    publishedDateTime: 2021-06-07T05:54:00Z
+    webUrl: "https://www.itnews.com.au/news/nsw-police-runs-ai-over-evidence-using-microsoft-azure-565596"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 69
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+        width: 1400
+        height: 900
         isCached: true
 
 secured: "E+vEVG2uxIo/spEAAOkiDmqAcv/kJ2msnzp/lxVl3zb4IiqBAPmWc97L69jwF3R9OJg9wgOqhMMyslZYGs9EkA1ZBJm7RCboUNDMRJTIHysiTEbxwbGmAuOopj/XKtevTtadm4y2J1Elhig0m8fNxQNfKk0rBE0beiU+C1Xaz4lFlvptg+4E6UHPwVt9kRwpi9Ji+oijX4kv+/pSeIcoXJFtOfrBPd3f6QLvyFFSUiM4W5ev7SnusEQI9MrgSRaS2DZksAz0VQanO3EVVfQG2WjeneKBdmyR+m7xRecPwZJ7R2n5Yeb2bP0msAOVzYurTaQ1IKn35MN7+80vIb4jPd2fx65vxlJTV3CxXEjLdHKN3hbiHk8fo9WfAZjITJjuKWNjQm6rlQ6S1ybpQHIZZ7y3jzrD9/JknxW15Vpi+5woH/ddSqhxRZPrmRboGfd1z/ws2guKZe2PGwAvqBfGTIxTj+TffAK5uttL6YwKGV07ShGekYgNgsIqy11Sr/J6cMXYBEGrvdBa7CcdxGNJ4A==;kbUkx74aq9IUGQwp7hfEyA=="

@@ -25,35 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "From low code to no code: Azure GPT-3 and Microsoft's Power Platform"
-    excerpt: "Microsoft is turning low code into 'don't write code' by taking a description of what you want to do and writing code snippets for you."
-    publishedDateTime: 2021-06-03T11:59:00Z
-    webUrl: "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/"
+  - title: "NSW Police Force is using AI to analyse CCTV footage"
+    excerpt: "Police Force is using artificial intelligence (AI) and machine learning to speed up investigations by automating manual tasks. The force's AI-infused platform, called Insights, gives police access to a wide array of critical information and automates many tasks such as transcribing recordings of audio interviews or poring through petabytes of CCTV footage."
+    publishedDateTime: 2021-06-07T09:18:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 91
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/03/5d7d019c-5b4d-4245-9a63-f4cdbf62dbd9/resize/1200x/9d2746c963e4d8f0c0f1939984e26709/tr-dax-smart-narrative.jpg"
-        width: 1200
-        height: 662
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623057900/NSW_Police_Insights_Microsoft.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI"
-    excerpt: "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI."
-    publishedDateTime: 2021-06-05T15:06:00Z
-    webUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
+  - title: "NSW Police using artificial intelligence to analyse CCTV footage"
+    excerpt: "The NSW Police Force has claimed using artificial intelligence and machine learning helped it analyse 14,000 pieces of CCTV as part of a murder and assault investigation faster than using previous techniques."
+    publishedDateTime: 2021-06-06T05:50:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/nsw-police-using-artificial-intelligence-to-analyse-cctv-footage/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/nsw-police-using-artificial-intelligence-to-analyse-cctv-footage/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/nsw-police-using-artificial-intelligence-to-analyse-cctv-footage/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 85
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/06/GPT-3-code-generation.gif"
-        width: 696
-        height: 375
+      - url: "https://www.zdnet.com/a/hub/i/2019/05/29/50536481-eb5c-4cdf-b1bc-2484cc6e8530/istock-962263142.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "Zcrwy1WzglxkpYOaqY3LLk18Bz9por78XrWZjr6zJpVi7H4kXWwWMxvkuh+HxKt16zA//gz5acd726TQ3+2gy8q1t5ZQTbWV+h168TJHteS5B0F8+KvkgHByry/9lXAcH9tg6uIICSskhAoJoiH2+sQf00c/zFZt1FahOQc9ilINjnuJi8kPvt0Gr12aahGPcrqCPUy8MF3Bd2jVTWwiX3nL1A5DZ/Syw7b6ZMKstEr3LlHgHT7x0fgT5vN+1s7kzLXQdn2nRahckks4tK5Y48ypn6G8BMYnsy6pC15+f/XjysFwy5jahymH4BnfLqaZ4Lp3QwHgCKK6MXn0qPBK4ukq2mxjFW6AaDyGoeXJd7/tGTuG0n97/F0MS/DDIwV8oEnlan7mfN5fBzavSDSGkeVnDibSMfIVkKD+mNqmbjuZedzID6aBQA0/iyxPcMC3zDKlaW5wgQ+mdEp6iG9X1rVCgCveWmHsz0ab1GLfdeXwaKXvLlrP6EsUn5GR3w/0NPbSeQVsZfN+E1zB2+KdXA==;1A4CACPl3wP7wdN4BP/j3w=="

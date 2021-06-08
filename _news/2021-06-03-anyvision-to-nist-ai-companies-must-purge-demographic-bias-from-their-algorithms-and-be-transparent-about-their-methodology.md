@@ -1,23 +1,23 @@
 ---
 category: news
 title: "AnyVision to NIST: \"AI companies must purge demographic bias from their algorithms and be transparent about their methodology\""
-excerpt: "AnyVision is the first known entity from within the AI industry to address the initiative and respond to NIST in an open letter entitled: \"Purging Demographic Bias While Increasing Transparency in Facial Recognition."
-publishedDateTime: 2021-06-03T10:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383005.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383005.htm"
+excerpt: "This press release is announcing AnyVision's open letter to NIST to encourage guidance around the use of responsible facial recognition technology."
+publishedDateTime: 2021-06-03T14:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210603005335/en/AnyVision-to-NIST-AI-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology"
+webUrl: "https://www.businesswire.com/news/home/20210603005335/en/AnyVision-to-NIST-AI-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "h2dd5Gv8izP/LJMP8TexQJ5Yos7oq1/+avWBq2jl6KfEBE0PdfpwBEzzK8/pKt5ngXpObBKbR1kCk7rZqQXQbwmHfYIkuSJNks1mehqcM0SRArEC7AujhTn0Wn3LQZp5CvI2LQ1oKRssEP4gZkFQvmoZ+vyc9DknVLQ59t3HPdxJTAYZt9UwI3kahduELtOKtJMBUCE8+C8vcDpi8cenY+zeZRXZ6XwgykAxFASLVEGRtZH3VpxWXDYfy3miienabgCBPlXAkOMdUrsxNrP51q2YLeTeogwJDfMAzNDDApXtnd3rt0n5FNdMBLchMRX0Tb5vTUFhCrHVotw7amkh55odunZx3pI8YIGMoaJw4zw=;i/YBEppNW86RnCCaMD6VJw=="
+secured: "XTgdbPM+H0meQ3WD8ATlOQeVbmGDb1dilw2dhEPN3japy2IyEZFHFvUQ8JaHaawnxOf4aSyrGniB4PbKJUxaBFNK6ybBBOX0Qud6Kzg7L4z9SCMn1RMg9GKXXr8/ebUAhBXYCfBkyXw7hZ5Ezkn4IbaLae8E64O8nzbYa+ijFd1G/q/wX6zE86DL0vgyCd1iosGAUTSU7xDTUqykzbGiY9wOV/rCggprnp8cM4ExC+2+gir6gczROuxYKk1+p/8JitoLyGWmXOT3EsdX6Su0KiJF70dBMNn7pXFZr3nv9i8rYEwwFhKgL7Q1wDPvdxmjq1nigq/NTziSaz5g+hKNvGkS8XFR1jKyqThi3zZ8ndY=;f8+XEzXXp3aJsvk9E/BgcQ=="
 ---
 

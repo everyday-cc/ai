@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-regression-mod
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "Amazon Launches Redshift ML To Train Models Using SQL"
-    excerpt: "Amazon recently announced the general availability of Redshift ML. It allows data scientists and developers to use SQL commands in Amazon Redshift data warehouses to create, train, and apply machine learning models."
-    publishedDateTime: 2021-06-03T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/amazon-launches-redshift-ml-to-train-models-using-sql/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/amazon-redshift.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "hv7A9WaMvEE39XhpZlhRuSFPznb/JVnGs+oBmxYGrkdYO5u9WQ7kr2HH7ZJlMkiRNUuNrkw5qLcChzjL/k2K92xHZ6JRdndV+Tz/a/xrPrWkY8nGVCmYuLhHXkmVCaZ7/PZkZO5rFsrYpaza//A8aPX4GYXMDDced0dxa4/sn3STIzeoGuunQNA+OxHTTsvqASlAkMx81fwXumM46YcfgtDsPDV5lJW19Kii3shwAfLqL65cFQsp4M4LlsY//ZsXdMYCuGg9+bvCJ8oImtDjxvH2NWM6aeyJlqLq/is504Ivqpo/x/ySwsfjeefL2npXo04aLSU2STYKgFl1ZamQDcGiqqJpCPP6G9Zp2tAdDM4=;lnVjbppXd4m/fXMpNxsaKg=="
 ---

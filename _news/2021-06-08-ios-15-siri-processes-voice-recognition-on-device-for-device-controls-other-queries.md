@@ -30,7 +30,7 @@ related:
   - title: "Apple moves Siri's speech recognition offline with new privacy updates"
     excerpt: "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. In the Mail app, Apple is adding a new feature to prevent tracking pixels from functioning. “Mail Privacy Protection” will hide users’ IP address and location details from email senders."
     publishedDateTime: 2021-06-07T18:47:00Z
-    webUrl: "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html"
+    webUrl: "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html?src=rss_b2c"
     type: article
     provider:
       name: Engadget

@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2021/06/176324-fintech-ai-data-science
 ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176324-fintech-ai-data-science-startups-investor-planet-n-receives-investment-from-pakistan-kuwait-investment-co/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176324-fintech-ai-data-science-startups-investor-planet-n-receives-investment-from-pakistan-kuwait-investment-co/amp/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Minar-e-Pakistan-Lahore-Pakistan-hussain-ibrahim-unsplash-300x239.jpg"
@@ -25,6 +26,6 @@ images:
     height: 239
     isCached: true
 
-secured: "Wj2OPlVxFi3HdkHDc1zDwzTJjsL/9gbeXWVLoDYe/X3+2+e/Q4QzZI4BhfxIHgAFAV0VqDuB/4jjpXSd7qUDAkDOlh1IU0yKh+55lh19OJVAwMVgyUeFDFG9+pOxHxPEL1/M31J0wJb4ro37yj+xjezXHCb2O+92yk4awhrZK44teGgd9sZzzfDfc3eqb/JXzXJcgsd4clakKkWKnijJv9Q+R4FuTpUnn8ZvdDWwKpmMIVhFitGuXP1LUHABndh3bfYczHTBKjoCOr5kT0Pwkf57A3Ris5mZq4eofUlU2jUWylLME7XVWVX3+1cWRAZQSsviUpIVmi2F9Z5a9i2G2uLmuNnRLNzaO1hRfvIp4qU=;YCj8vU0rUzIzmehSvOcLgg=="
+secured: "UM/j/aNsrKiaxiMeQL7/1+6HrEKEjaj5hk0/h6WPVZoBV0d9MMSLe8cYkQ5x1njpGjbxGrUFhgQwmMa4V7o8Uq8sYZgrlihRuXuxDOa+8B5Q5DA9sslc/eFJRFSHVwMVzoX94peUV/SLznhObgwBGycr5ja5A+62zG2Or+gxNgHxD1LgPZ7qFPkeEG9HAcYueqfB0eYTXjuGi/m55295g1qJsxVSCj6HuLGyepLYgen62h4a0AUxZCB7KnhAwR1WvZw9M3bv25fTalfEgYX7hbBthBnSS3nVPi9Soja8pVwhKN+jLYEfLefzU/uLWszDRgsL0K8W5eRBoKeqwNSaURH4hxnYar0tiVxMBwChgpI0sXauR5D4+1HUy/YewGIvwk+1aJgxjhdzZ+16Et0Igu40cGrAv2XO4v3YoqDG1EoR4Ibm15om0x92OWR4QS+e8mRc8MV4u8Z3vv5VfwEVKvoitJjnqu2iSMdnNOnnwN0gSqUMi4Q6ygbY0ob/WjwrpvyrjTIO1VyXECVvLs4V9w==;plduMTOscw2WsdpfbNOJjg=="
 ---
 

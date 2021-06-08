@@ -1,0 +1,30 @@
+---
+category: news
+title: "Nato allies need to speed up AI defence co-operation"
+excerpt: "As Russia intensifies cyber hostilities and China weaponises artificial intelligence, joining forces in the field of high-tech warfare will feature high on the list of topics discussed by Nato allies at a summit next week."
+publishedDateTime: 2021-06-08T04:00:00Z
+originalUrl: "https://www.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e"
+webUrl: "https://www.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e"
+ampWebUrl: "https://amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e"
+type: article
+quality: 57
+heat: 57
+published: false
+
+provider:
+  name: The Financial Times
+  domain: ft.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F273bcfd2-ad78-4020-9426-e44dae599de6.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
+    isCached: true
+
+secured: "FsvWn3DFtXGLnJS9+b16jm2a+SxxYaZKFOIaiCSNEqbJTpviMbbE4REKWKrasEJdYGTems8BKdZRXikTVSsIr8grt+M/Lz9nWb10RqgZGMrm85kzvXs33HyjevN5GeFfFlLjVvJZfWiwzoo6dvcNNjqvtRTGDqmyztTjI9qmljtsE5Ffp2k3RdlwFx22EcwY69R/lz6CFmtYRAB7pNU5k+IGy4fjo9viQUCoft0/fzt3b927TTP7kUgdrfSZC2jzMmx6gtPfKZ5HZjx9FA7UZfaLLXvXwVIIj/deflQrCzrKKfpVwGBfTDlOr1aauNcoHr80vLTOHgCRRJHo03+jhJlEdZERHiVHQVY7mGQe+JM=;DtFQoXiEWvC0uFobQgXTyw=="
+---
+
