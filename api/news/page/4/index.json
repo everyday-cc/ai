@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-03-nit-k-to-introduce-btech-in-artificial-intelligence.md",
+      "title": "NIT-K to introduce B.Tech in Artificial Intelligence",
+      "excerpt": "The Department of Information Technology, National Institute of Technology Karnataka (NIT-K), Surathkal, has decided to start a new four-year B.Tech. course in Artificial Intelligence from the academi",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece/amp/",
+      "publishedDateTime": "2021-06-03T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals.md",
       "title": "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals",
       "excerpt": "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads.",
@@ -1130,49 +1173,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-dhl-extends-warehouse-automation-partnership-with-locus-robotics.md",
-      "title": "DHL extends warehouse automation partnership with Locus Robotics",
-      "excerpt": "Robotic process automation is no longer a science experiment. This technology is no longer about figuring out what works. The time to consider whether to automate your warehouses has passed.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics",
-      "originalUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/06/DHL-locus.png",
-          "width": 1144,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics/amp",
-      "publishedDateTime": "2021-06-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

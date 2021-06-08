@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aussie researchers to test koala 'facial recognition'"
-    excerpt: "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation."
-    publishedDateTime: 2021-06-03T07:50:00Z
-    webUrl: "https://phys.org/news/2021-06-aussie-koala-facial-recognition.html"
-    ampWebUrl: "https://phys.org/news/2021-06-aussie-koala-facial-recognition.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-aussie-koala-facial-recognition.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/a-team-from-griffith-u.jpg"
-        width: 1024
-        height: 705
-        isCached: true
   - title: "Australian researchers to test koala ‘facial recognition’"
     excerpt: "Australian researchers are launching a koala “facial recognition” study that aims to better monitor the marsupials’ behavior and ultimately aid in their"
     publishedDateTime: 2021-06-03T13:50:00Z

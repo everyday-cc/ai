@@ -2,6 +2,111 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-05-01-generate-immersive-visuals-for-your-music-with-syqels-ai-powered-software.md",
+      "title": "Generate immersive visuals for your music with SYQEL’s AI-powered software",
+      "excerpt": "The SYQEL Lite Plan gives users lifetime access to intuitive software that provides a massive library of visuals to accompany your music during playback..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/syqel-lite-plan-145505393.html",
+      "originalUrl": "https://www.engadget.com/syqel-lite-plan-145505393.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/a464a5d0-a91c-11eb-afff-7d91c1665797",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-01T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-how-intel-is-leveraging-ai-to-drive-sales.md",
+      "title": "How Intel is leveraging AI to drive sales",
+      "excerpt": "Intel is adopting AI internally to bolster its sales and marketing efforts, including through the use of natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/",
+      "originalUrl": "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/amp/",
+      "publishedDateTime": "2021-05-01T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-ai-in-fintech-market-may-see-a-big-move-major-giants-microsoft-google-ibm.md",
       "title": "AI in Fintech Market May See a Big Move | Major Giants Microsoft, Google, IBM",
       "excerpt": "Stay up-to-date and exploit latest trends of AI in Fintech Market with latest edition released by AMA. AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Global AI in Fintech industry with an attention on the Global market.",
@@ -1072,102 +1177,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-elon-musk-shares-painfully-obvious-idea-about-the-difficulty-of-self-driving-cars.md",
-      "title": "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars",
-      "excerpt": "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
-      "originalUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/22f3a11838a74d9511c1a95958c0284f.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp",
-      "publishedDateTime": "2021-04-30T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio.md",
-      "title": "Speech Recognition Market including top key players Nuance, Microsoft, Agnitio",
-      "excerpt": "The study provides company profiling, product picture and specifications, sales, market share and contact information of key manufacturers of Speech Recognition Market, some of them listed here are Nuance,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/30/speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio/",
-      "originalUrl": "https://ksusentinel.com/2021/04/30/speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Speech-Recognition-Market.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

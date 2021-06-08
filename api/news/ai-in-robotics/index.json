@@ -244,49 +244,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-03-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
-      "title": "Biden's AI czar focuses on societal risks, preventing harm",
-      "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling barn",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html",
-      "originalUrl": "https://www.stltoday.com/article_61085859-cd73-5d55-b91d-f200d72ed841.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/de/ddeadffc-60cb-5293-a8fb-250188b30c3f/60b904dd63fa4.image.jpg?resize=1024%2C904",
-          "width": 1024,
-          "height": 904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/article_61085859-cd73-5d55-b91d-f200d72ed841.amp.html",
-      "publishedDateTime": "2021-06-03T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-realtime-robotics-raises-a-31m-series-a.md",
       "title": "Realtime Robotics raises a $31M Series A",
       "excerpt": "Boston-based Realtime Robotics this morning announced a $31.4 million round The funding is part of the $11.7 million Series A the company announced all the way back in late 2019. Investors include HAHN Automation,",
@@ -1431,6 +1388,49 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-retailers-ariat-decathlon-latest-to-adopt-exotec-robotics.md",
+      "title": "Retailers Ariat, Decathlon latest to adopt Exotec robotics",
+      "excerpt": "Warehouse robotics firm Exotec announced footwear retailer Ariat and the world’s largest sporting goods retailer Decathlon will deploy its Skypod warehouse robotics system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "originalUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/Exotec_1.jpg",
+          "width": 2080,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "publishedDateTime": "2021-05-28T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

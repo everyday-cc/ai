@@ -41,20 +41,6 @@ related:
         width: 600
         height: 528
         isCached: true
-  - title: "5 Hottest Trends Ruling The Fintech Sector In 2021"
-    excerpt: "Halfway into 2021, we have already witnessed how technology has helped the fintech sector evolve. The hottest technologies like AI"
-    publishedDateTime: 2021-06-03T16:07:00Z
-    webUrl: "https://www.valuewalk.com/5-hottest-trends-ruling-fintech-sector-2021/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 24
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
-        width: 1280
-        height: 856
-        isCached: true
   - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
     excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"
     publishedDateTime: 2021-06-07T11:25:00Z

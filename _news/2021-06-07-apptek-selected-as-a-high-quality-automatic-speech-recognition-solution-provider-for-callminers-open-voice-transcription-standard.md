@@ -1,42 +1,39 @@
 ---
 category: news
 title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
-excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
-publishedDateTime: 2021-06-07T12:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
+excerpt: "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions."
+publishedDateTime: 2021-06-07T12:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9384888.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9384888.htm"
 type: article
-quality: 9
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
 related:
-  - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
-    excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
-    publishedDateTime: 2021-06-07T07:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+  - title: "Build an Automatic Inventory Solution with public datasets and Amazon Rekognition Custom Labels"
+    excerpt: "Inventorying store items is a general demand for retail stores and supermarkets. This is usually performed manually by counting items and visually checking the correct placement. Tracking changes in inventory helps business owners evaluate performance of each product, validate correct placement, and"
+    publishedDateTime: 2021-06-04T17:24:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 22
+      name: AWS
+      domain: aws.amazon.com
+    quality: 94
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/5-1361-Soda.jpg"
+        width: 700
+        height: 525
+        isCached: true
 
-secured: "ixIGFp3e9Ul4og2OOvkfVYlNKwoA4vf01/t9Ar6qMOu7CfNRQBlnmaJSIse2W3k8CttigRrw4w6TMX8HeaphNXOAulRT7ILEwM/lvIodVcS3jqwAy/F8SCbFKRrgeZR8/i4WOFKoIIxKaHP1i7kkX2hm3Hs42NaHrNwQPfZuN1CpO3oWuNu8oECuO4dmnZ3kRyvvuYigmqKKSoRVla4Ay0TS3HArzBrUNIbL3y3neBxrBTEXmh55vC4FKhD8bk4uH0Aop4iBSyqJvLnYUIuHgTaM4We7yOkb/tYziUBuO9rsPclyLBGVYMGztoj966Fxtwqhqavkj4t0L6iBlh07QZrFegfGoYln5wgzec6x17M=;n63AOiccyYtsSJ2pbBg4WA=="
+secured: "xAaNmD6x7c02j4xNe/R7VQLBLCYzCUSi8UKRHBHXIX9x3fvXUv0BL+zn70/VqHx3qEd7CJYusP9Xfjk/K145A6ZxcR50J56pFo458uQGUPuqfAYWjasN91tUZgDubAA4xle7gVtqQklKdHBM3KQA0C6CY4awFOMk2ZoQALCSeSkezXpzFi40rbsJ8MUJ+pTZzvV/99Vj/j/wVN2tREyPZJSumvw+J+f4/ma6ntlmUAKb5lepD+xR52nx4oZYbXR84mND1hg1fstWyRbIAaD8rsqz0PY8b5QCk1BOKe2qTI25Ew25NUd1+sBb3XDzDNt+Tr71OaWvuevbyHi7l4EcLphGnUXVR59tDV5smY2Cz+Q=;ib6rTs+SnrUOpyy1bMncLg=="
 ---
 

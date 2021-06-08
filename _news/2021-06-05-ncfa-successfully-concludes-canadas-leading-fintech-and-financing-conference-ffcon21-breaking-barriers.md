@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How fintech is fighting R&D attrition in Canada"
+    excerpt: "One downturn stands out like a sore thumb in the Organization for Economic Co-operation and Development’s recent assessment of Canadian tax relief for research and development: From 2014 to 2018, the number of recipients of research-and-development tax relief fell by nearly 25 per cent,"
+    publishedDateTime: 2021-06-04T20:43:00Z
+    webUrl: "https://ipolitics.ca/2021/06/04/how-fintech-is-fighting-rd-attrition-in-canada/"
+    type: article
+    provider:
+      name: iPolitics
+      domain: ipolitics.ca
+    quality: 24
+    images:
+      - url: "https://ipolitics.ca/wp-content/uploads/2021/05/DSCF3065-scaled.jpg"
+        width: 2560
+        height: 1443
+        isCached: true
   - title: "NCFA Successfully Concludes Canada’s Leading Fintech and Financing ..."
     excerpt: "TORONTO, ON / ACCESSWIRE / June 4, 2021 - The National Crowdfunding & Fintech Association of Canada (NCFA), the non-profit cross-body organization that promotes and supports fintech and funding throughout Canada,"
     publishedDateTime: 2021-06-04T19:02:00Z
@@ -39,15 +53,20 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Commercial Finance Fintech and Business Lender join forces to give Australian Small Businesses a fighting chance"
-    excerpt: "The funding gap in small and medium business (SMB) lending in Australia is estimated at more than $90 billion. It was reported in late 2020 that the major banks are rejecting more than a quarter of SMB loan applications,"
-    publishedDateTime: 2021-06-07T01:07:00Z
-    webUrl: "https://prwire.com.au/pr/96967/commercial-finance-fintech-and-business-lender-join-forces-to-give-australian-small-businesses-a-fighting-chance-1"
+  - title: "Why fintech is changing the mortgage industry for good – Boyd"
+    excerpt: "It now seems impossible to consider paying an online vendor without using PayPal, or checking our bank balance without using an app. Fintech has empowered people on the hunt for a new loan, a new car insurance policy,"
+    publishedDateTime: 2021-06-07T13:36:00Z
+    webUrl: "https://www.mortgagesolutions.co.uk/better-business/2021/06/07/why-fintech-is-changing-the-mortgage-industry-for-good-dashly/"
     type: article
     provider:
-      name: PRWire
-      domain: prwire.com.au
-    quality: 0
+      name: mortgagesolutions.co.uk
+      domain: mortgagesolutions.co.uk
+    quality: 24
+    images:
+      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2021/06/RossBoyd_social_watermark-764x399.jpg"
+        width: 764
+        height: 399
+        isCached: true
 
 secured: "hcUpvmDyjl8YPXoC+mlavv10nkqcB9O9eA2P+eujMlBi8Qn2Wehg9fzuynR3evrv0veh/RTUrBBB678mM91CeK2Of9FL1WqR+DcVmqztx5YXT1KAWKWbNL3haiPgKIPodunBQCVmJ8AwPvJNm3E+TC8ta9+9T3cp0Kv/00oKDxiOlOZLY+nFlMiYlQZyrDP9KGtwbmrwpE621/agNTip5VrnJjwTvKsBS1j9Xlt7LmUX9Lf6kjABy+4fv29dBqR/ajsVkm/FY2mA+B/Xlf+2H3OBSRjyY9bxZVzRJSjixD2fJMB/vRP8EiGHMj5j2FN4raT6WAfMJyxPcDeTY9+/MTBKsQAWZemOGfYKzG0lMcs=;igW5HGtzv+3uVKWnUeOfbA=="
 ---

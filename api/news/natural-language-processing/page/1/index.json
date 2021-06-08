@@ -598,6 +598,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-01-natural-language-works-with-more-than-ivrs.md",
+      "title": "Natural Language Works with More Than IVRs",
+      "excerpt": "The first attempts at computer-based natural language understanding (NLU) predate the debut of the personal computer, and just like the PC, NLU technology has advanced tremendously in the decades since.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147141",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/138299-2021_06_feature_coverstory_NatLang-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-why-natural-language-processing-is-ais-jewel-in-the-crown.md",
       "title": "Why natural language processing is AI’s jewel in the crown",
       "excerpt": "As we enter the intelligent era, smart devices and data volumes will skyrocket, as will the demand for human-computer interaction through speech and language - that's why it will be a US$16 billion market by 2021.",
@@ -1370,58 +1413,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software.md",
-      "title": "IBM’s Project CodeNet will test how far you can push AI to write software",
-      "excerpt": "IBM’s AI group released CodeNet, a 14-million-sample dataset for training machine learning models to help software developers be productive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
-      "originalUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/05/Project-CodeNet-diversity.jpg",
-          "width": 1920,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
-      "publishedDateTime": "2021-05-23T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

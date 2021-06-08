@@ -370,6 +370,57 @@
       ]
     },
     {
+      "path": "_news/2021-06-07-google-hopes-ai-can-turn-search-into-a-conversation.md",
+      "title": "Google Hopes AI Can Turn Search Into a Conversation",
+      "excerpt": "The tech giant wants its core product to infer meaning from human language, answer multipart questions—and look more like Google Assistant sounds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/",
+      "originalUrl": "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60bab4f6eaa210b2096c93ec/master/pass/Business-Rethinking-Google-Search-1230724581.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-hopes-ai-turn-search-conversation/amp",
+      "publishedDateTime": "2021-06-07T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-from-inclusion-to-influence-how-to-build-an-ethical-ai-organization.md",
       "title": "From Inclusion To Influence: How To Build An Ethical AI Organization",
       "excerpt": "Ethical AI issues don’t come in large forms, they start with minor algorithm errors and grow into the decision-making process, which is why organizations should be well prepared with AI ethical framework.",
@@ -811,48 +862,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-07-how-does-ai-perform-crypto-analytics.md",
-      "title": "How Does AI Perform Crypto-Analytics?",
-      "excerpt": "AI has also brought itself into the game of cryptocurrencies by introducing AI coins initially. Today it has also stepped Crypto-Analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/how-ai-perform-crypto-analytics/",
-      "originalUrl": "https://fossbytes.com/how-ai-perform-crypto-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/06/AI-1.jpeg",
-          "width": 1200,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/how-ai-perform-crypto-analytics/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-ai-perform-crypto-analytics/amp/",
-      "publishedDateTime": "2021-06-06T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-07-machine-learning-at-the-edge-tinyml-is-getting-big.md",
       "title": "Machine learning at the edge: TinyML is getting big",
       "excerpt": "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,",
@@ -955,6 +964,58 @@
         "Machine Learning",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
+      "title": "2 Leading Tech Stocks to Buy in 2021",
+      "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F629373%2Fgrowth-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "publishedDateTime": "2021-06-06T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1155,57 +1216,6 @@
         "Microsoft AI",
         "AI Ethics",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data.md",
-      "title": "Streamlytics aims to reduce AI bias by helping users sell their data",
-      "excerpt": "Streamlytics founder Angela Benton discusses her Clture app and why she believes \"democratizing\" data can help reduce AI bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/",
-      "originalUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/personal_data-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/amp/",
-      "publishedDateTime": "2021-06-05T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

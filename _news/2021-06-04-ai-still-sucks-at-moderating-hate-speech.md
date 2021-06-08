@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-m
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 3000
     height: 1993
     isCached: true
-
-related:
-  - title: "How VSpeech.ai’s ML Model Understands Mixed Language Inputs Accurately"
-    excerpt: "Vspeech.ai runs on its own proprietary machine learning tools. The technology includes domain-based neural networks, generative adversarial networks and TensorFlow-based AI tools. The language models consist of classifiers and N-gram stacks. The tech stack ..."
-    publishedDateTime: 2021-06-03T07:29:00Z
-    webUrl: "https://analyticsindiamag.com/how-vspeech-ais-ml-model-understands-mixed-language-inputs-accurately/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/vspeech.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Lbgh4iKFcR4cFBR8UqtXoBz7o+JHP505oLYwzz2/n4WlE2HviD2lGiH1JujP6LowhhDboFqK0EU1c4wSTpdUSAyk7LRIIAUq+OZPnN6GwwGq90sP3fAuL5w1i/XoyjquDLOYsMlP6FAALDn7QJ48x0h5PiUvLYiFWglpARVkBAM8+1K3dH85r/mzEEBjXHuL9xg73ja3Gwz8DsnMaCqqNukkfNgugOLAl84lQ7NFcOJYBrVJZPATYKT0zwU9FqtOIlS9XwTdLuVPI+KTiGh8GZG362r+JWhlgg1WhCm2rVajgnzVE++cBvC2+TPjiNOLYA3QP37I6qvChYxV+RMZS5pDpUoViqHR7UFWtd8Zu06s3AkMYCoIfflY4t3+CIUMrTZfd+JFvGNOCR9Ks73OhDu52dIaCjjfrI+IPnWK+lv8YVha/7nWkhAe1nR/voCu2tfkKorAFZhgix4AHUjcaYzPgxXyaEKKjcfJGgrlqPMmYJAmmYUXToGQis3acuoqLLBMa2GTjSGWR6aFyUFtuA==;6BUocG2L7Sc9Di7/hq3aQQ=="
 ---

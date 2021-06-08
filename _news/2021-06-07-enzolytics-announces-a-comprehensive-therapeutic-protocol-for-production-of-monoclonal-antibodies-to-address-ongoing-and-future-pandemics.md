@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Relogix Announces Collaboration with Dr. Graham Wills, Predictive Analytics and Machine Learning Expert, To Better Predict Office Space Needs"
-    excerpt: "PRNewswire/ - Relogix and Dr. Graham Wills, (PhD, Statistics) a pioneer in the field of Predictive Analytics and"
-    publishedDateTime: 2021-06-03T14:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/relogix-announces-collaboration-with-dr-graham-wills-predictive-analytics-and-machine-learning-expert-to-better-predict-office-space-needs-1030492056"
+  - title: "Ranovus announces second-generation “co-packaged optics” chip"
+    excerpt: "Ranovus has announced the introduction of the Odin Analog-Drive CPO 2.0 architecture, described by the company as the next step in reducing power consumption and overall costs for hyperscale data centre operation."
+    publishedDateTime: 2021-06-08T00:03:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/ranovus-announces-second-generation-co-packaged-optics-chip/237849/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1524661/Relogix_Inc__Relogix_Announces_Collaboration_with_Dr__Graham_Wil.jpg"
-        width: 400
-        height: 353
+      - url: "https://www.newelectronics.co.uk/article-images/237849/rano.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
         isCached: true
+  - title: "Ranovus Announces Single Chip Odin™ Analog-Drive for Its Second-Generation \"Co-Packaged Optics\" in Hyperscale Data Centers"
+    excerpt: "Ranovus Inc. (\"RANOVUS\") today announced at OFC 2021, the leading optical networking event in North America, the next step in reducing power consumption and overall costs for hyperscale data center operations with the introduction of the Odin™ Analog-Drive CPO 2."
+    publishedDateTime: 2021-06-07T16:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385205.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "NprYPevXKfzPQ2pcfhobUkfZtrsXxalC5NLX+XdBpg3FGNy+gOrOb2SeVpX8ndR6FivSDYRdcSECkRdEmhZebb+ygUj9i/H7Fwzn+yANCfGEnO/OvYgMM7Axv3nv4m8Ohzv6NZZCI0Qx+CjIT6phYeph7iKMJPoLO5R/rQrahzX47PukW1bp062lCynZ2wVzMNqHaU0j9BV1F/imTKiOhuXV5onlF1CnCrtWGaPqibTKcp04efTUJaeCHIkAHHnMUyFZHws6IBf/d2ePUfwYPN9ijRgn8DFTKg0i5V5YfAanlSfuxy490URvd0wZlb/U3xkJf/r7Xvu8o1t2TS2giI3n/Io3Y5XFXfbxk6u9FBE=;wsSlgY6mberijwAiKN/QIg=="
 ---

@@ -2,6 +2,101 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-05-12-a-closer-look-at-ibm-autosql.md",
+      "title": "A closer look at IBM AutoSQL",
+      "excerpt": "IBM is filling out its Cloud Pak for Data hybrid analytics platform with new capabilities reaching out to the data lake and laying the groundwork for governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-closer-look-at-ibm-autosql/",
+      "originalUrl": "https://www.zdnet.com/article/a-closer-look-at-ibm-autosql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/12/768245f4-982e-432a-9b74-11cd5d17cee1/x-fabric-galaxy.jpg",
+          "width": 2999,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-closer-look-at-ibm-autosql/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-ibm-autosql/",
+      "publishedDateTime": "2021-05-11T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-grant-awarded-to-develop-artificial-intelligence-to-improve-stroke-screening-and-treatment.md",
+      "title": "Grant awarded to develop artificial intelligence to improve stroke screening and treatment",
+      "excerpt": "New artificial intelligence technology that uses a common CT angiography (CTA) as opposed to the more advanced imaging normally required to help identify patients who could benefit from endovascular stroke therapy (EST) is being developed at UTHealth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoth-gat051221.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoth-gat051221.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/264837_web.jpg",
+          "width": 600,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-ai-analog-chip-startup-mythic-raises-70-million.md",
       "title": "AI analog chip startup Mythic raises $70 Million",
       "excerpt": "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7..",
@@ -1067,112 +1162,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-the-washington-post-launches-audio-articles-voiced-by-amazon-polly.md",
-      "title": "The Washington Post Launches Audio Articles Voiced by Amazon Polly ",
-      "excerpt": "AWS is excited to announce that The Washington Post is integrating Amazon Polly to provide their readers with audio access to stories across The Post’s entire spectrum of web and mobile platforms, starting with technology stories. Amazon Polly&nbsp;is a service that turns&nbsp;text&nbsp;into lifelike&nbsp;speech,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/the-washington-post-website-launches-audio-articles-voiced-by-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/the-washington-post-website-launches-audio-articles-voiced-by-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T09:50:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-your-face-voice-and-fingerprints-could-defend-you-against-banking-scams.md",
-      "title": "Your face, voice, and fingerprints could defend you against banking scams",
-      "excerpt": "Daphné Leprince-Ringuet tells Karen Roby that HSBC says that it prevented hundreds of millions of dollars from falling prey to hackers, simply thanks to voice recognition technology. Read more:",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
-      "originalUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/11/8104b7ae-9d38-43cb-8ac5-84137f5d6e35/thumbnail/770x578/be84cecb7e419c7da08de55941d1cefc/20210510-daphne-karen-bio.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

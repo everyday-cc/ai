@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-05-streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data.md",
+      "title": "Streamlytics aims to reduce AI bias by helping users sell their data",
+      "excerpt": "Streamlytics founder Angela Benton discusses her Clture app and why she believes \"democratizing\" data can help reduce AI bias.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/",
+      "originalUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/personal_data-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/amp/",
+      "publishedDateTime": "2021-06-05T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-watch-mcdonalds-is-testing-siri-style-ai-technology-at-drive-thrus.md",
       "title": "Watch: McDonald’s is testing Siri-style AI technology at drive-thrus",
       "excerpt": "Welcome to McDonald’s,” the Siri-like voice says, greeting a customer in the drive-thru. “We’re currently serving a limited menu, so please review the menu before",
@@ -599,7 +650,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1046,7 +1097,7 @@
       "originalUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1232,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-fintech-startup-s-ancial-technologies-raises-14-mn-in-pre-series-a-round-led-by-jito-angel-network.md",
-      "title": "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network",
-      "excerpt": "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373682",
-      "originalUrl": "https://www.entrepreneur.com/article/373682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373682",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682",
-      "publishedDateTime": "2021-06-03T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

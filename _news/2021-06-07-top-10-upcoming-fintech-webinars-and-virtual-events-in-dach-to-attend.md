@@ -55,20 +55,6 @@ related:
         width: 3120
         height: 2080
         isCached: true
-  - title: "5 Hottest Trends Ruling The Fintech Sector In 2021"
-    excerpt: "Halfway into 2021, we have already witnessed how technology has helped the fintech sector evolve. The hottest technologies like AI"
-    publishedDateTime: 2021-06-03T16:07:00Z
-    webUrl: "https://www.valuewalk.com/5-hottest-trends-ruling-fintech-sector-2021/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 24
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2020/09/Investors_1599846214.jpg"
-        width: 1280
-        height: 856
-        isCached: true
 
 secured: "+FOyu8C18Wu0XRl/m6jnhhw/L1cc4jiGsPeF8dLvEby5Iotb8dbC3D2QyHK3Gpv3jQfgwGF01tcpMt8yO3eOUwb/7yK39UwZVZwkEgt8JA+rjN0DKzy0gtxW2SOgXlfYlyGNe90aIAQTVP/39/W223FTF6EafsBqVga7uU1P1g+gsv4w87ShHCgyMeGDApeIJrugtt5gTQ6FFYZC6DQrTL/SMeUEhCeAp1RM0o/MGg8/xvcl4lM7x49xOXHseFNveod8JQxd8dmjqhzkrEVNHF3WaaI+rARjQiLB53EomXBn/hz3klFJTqLs44XAD9yTSjFW7XKyHxLsz6DAOH0cJJdzG4Sz972n8lXxKi0y5UjpXBtnnkaszyLcfiryPGYqTDHeUS8Nmjy41yU3abCVdKxs2QSXevpi5nVEjiQIyGPmymIigk3qYsQAOQ3zNMlmD7fy5AyupVzRnLdLSnRdn7paGjiuZ68+Aah/fsuxBEtP4MXbbJPAZ7G30JSQOoO4WEWvYG95HPAHVzPdYS+LSg==;WmO8Yq73NImM5A/la7g6lA=="
 ---

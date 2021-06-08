@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-26-paralyzed-teen-to-kick-world-cups-first-ball-with-mind-controlled-exoskeleton.md",
+      "title": "Paralyzed teen to kick World Cup's first ball with mind-controlled exoskeleton",
+      "excerpt": "Take a peek after the break to see the video in question, which also offers a fascinating look into how advances in robotics and 3D printing can improve people's lives. Which is a hell of a lot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2014-05-26-paralyzed-teen-world-cup.html",
+      "originalUrl": "https://www.engadget.com/2014-05-26-paralyzed-teen-world-cup.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/MN51iKz1CFTEo8OnBvrlrQ--~B/aD0zNTQ7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/8c57a29ca531e6664d28f6fb1f03aa1b/200159237/fifa-2014-mind-controlled-exoskeleton.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-brainchip-highlights-its-akida-neural-processor-at-ai-field-day-2.md",
+      "title": "BrainChip Highlights Its Akida Neural Processor at AI Field Day 2",
+      "excerpt": "AI Field Day is the latest entry into the long-running series of Tech Field Day events presented by Gestalt IT. BrainChip will discuss recent developments about its Akida event domain neural processor SoC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/25/9377741.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/25/9377741.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note.md",
       "title": "The Oral Extended Release Tablets Market To Grow On A Quintessential Note",
       "excerpt": "The Oral Extended Release Tablets Market report by Persistence Market Research emphasizes on the inflow of artificial intelligence therein and also the medications (pharmaceuticals) to be rendered. Precise diagnostics leads to precise rendition of drugs.",
@@ -622,8 +708,8 @@
       "title": "15 Big Azure Announcements Made At Microsoft Build 2021",
       "excerpt": "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -769,10 +855,10 @@
     {
       "path": "_news/2021-05-25-aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system.md",
       "title": "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating System™",
-      "excerpt": "By integrating Microsoft Azure Digital Twins with our Cognitive Operating System ... We sell different types of products and services to both investment professionals and individual investors.",
+      "excerpt": "May 25, 2021 /PRNewswire/ -- Aera Technology today announced a collaboration with Microsoft ... data services to increase the precision and granularity of recommendations made by the Cognitive ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210525ne88554/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210525ne88554/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -782,12 +868,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:37:00-07:00",
+      "publishedDateTime": "2021-05-25T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1073,94 +1168,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-pixel-6-leak-reveals-64-inch-120hz-display-5000-mah-battery-and-whitechapel-with-focus-on-ai-and-ml.md",
-      "title": "Pixel 6 Leak Reveals 6.4-Inch 120Hz Display, 5,000 mAh Battery and Whitechapel with Focus On AI and ML",
-      "excerpt": "Recently we saw a Pixel 6 render with the redesigned back panel and a dual-color treatment. Like Apple, Google is expected to switch to their in-house",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/",
-      "originalUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.androidbeat.com/wp-content/uploads/2021/05/pixel-6-pro-feature-1024x665.jpg",
-          "width": 1024,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/",
-      "cdnAmpWebUrl": "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/",
-      "publishedDateTime": "2021-05-25T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "androidbeat.com",
-        "domain": "androidbeat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-microsofts-zero-infinity-library-trains-32-trillion-parameter-ai-model.md",
-      "title": "Microsoft's ZeRO-Infinity Library Trains 32 Trillion Parameter AI Model",
-      "excerpt": "Microsoft recently open-sourced ZeRO Infinity, an addition to their open-source DeepSpeed AI training library that optimizes memory use for training very large deep-learning models. Using ZeRO-Infinity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
-      "originalUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/05/microsoft-zero-infinity/en/headerimage/microsoft-zero-infinity-header-1621783123438.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
