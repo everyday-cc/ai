@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "8 AI Startups That Raised Funds In 2021"
-    excerpt: "Indian Government has launched a Startup India Seed Fund Scheme with a corpus of 945 crore rupees to provide seed funding to qualified startups through eligible incubators across India in the next four years."
-    publishedDateTime: 2021-06-03T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/8-ai-startups-that-raised-funds-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Startup-funding-2021.jpg"
-        width: 1600
-        height: 1131
-        isCached: true
   - title: "Startup Street: Here's an AI based solution to reduce air pollution"
     excerpt: "Ahead of World Environment Day, watch Startup Street speak to a Bangalore based disruptive clean-tech company Devic Earth, on their flagship air pollution control product 'pure skies', and the impact it created through the technology."
     publishedDateTime: 2021-06-04T16:55:00Z

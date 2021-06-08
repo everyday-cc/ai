@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Grimes Says AI Will Give Us Communism in Confusing New TikTok Video"
-    excerpt: "Grimes, the musician and romantic partner of billionaire Elon Musk, is a big believer in artificial intelligence, according to a new TikTok video she posted late Wednesday. What can AI do for humanity?"
-    publishedDateTime: 2021-06-03T10:00:00Z
-    webUrl: "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911"
-    ampWebUrl: "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/696acb23ff63a207eebfa85717e959fd.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Grimes goes on TikTok rant claiming that artificial intelligence is the key to communist future"
     excerpt: "Grimes posted her bubbly, enthusiastic rant on Wednesday and left viewers baffled as she described how A.I. could lead to a world where nobody has to work and everyone lives in comfort."
     publishedDateTime: 2021-06-03T23:17:00Z
@@ -55,22 +39,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/06/03/23/43808123-0-image-a-9_1622758056107.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Artificial intelligence could lead to communism says music star and Elon Musk girlfriend Grimes in viral video"
-    excerpt: "The singer later commented that her video was a joke. \"AI is actually the fastest path to communism,” said Grimes in the video. AI could automate farming, providing food while no one has to work, she said."
-    publishedDateTime: 2021-06-04T21:41:00Z
-    webUrl: "https://thehill.com/changing-america/respect/poverty/556947-artificial-intelligence-could-lead-to-communism-says-music"
-    ampWebUrl: "https://thehill.com/changing-america/respect/poverty/556947-artificial-intelligence-could-lead-to-communism-says-music?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/poverty/556947-artificial-intelligence-could-lead-to-communism-says-music?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 37
-    images:
-      - url: "https://thehill.com/sites/default/files/ca._grime_gettyimages-958397822.jpg"
-        width: 1440
-        height: 880
         isCached: true
 
 secured: "4RzgrkV/lANOZwPTEA8Ysc1iqBt2xte0MC4cqkme602k2SeVnNNUhMFeXHRiyk7t4cAOydUFB1gDzDzDY990vKM5XDzoZegtUn+rk4I5JvHar1EGL7Ij7wZWQcYChC2jGeal3ewTBANTy8QZhPGU//WVIqJjpaRvgczjoshvqyhcc1upWKlW8BL8XFdsx61RW19IjN3CQnAgyrgVY4zTnjIsuJZXD17AQ96qSH8VltMjrOUw/v8Cyd46p5QUcogmm7CzH/Pmsg8MUGm5Zc10x7Qi6jsGOloSdVg8sgFlIosENhdD0f2L+TnAPm3GApZE57zc7i9rCAeLk19fCPFkhPNz026wRJpzlomh7+oZsQ0=;mN032WKcYYrOU2DcDGyhEQ=="

@@ -53,15 +53,6 @@ related:
         width: 374
         height: 249
         isCached: true
-  - title: "Worldwide Web Hosting Services Industry to 2027 - Artificial Intelligence in Web Hosting Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The \"Web Hosting Services Market by Type, Deployment Model, Application and End User: Global Opportunity Analysis and Industry Forecast, 2020-2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-06-03T10:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210603005450/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "t4/U2SE3uqEe2qo0xfTgJqFFALtoatSlCm5kT5KE7bCKDbeBEUrBR7eNl12hVf60ckKJT1AWHBhYdx8sFm2JdlzdTP1VeUK8GCMeX/31oElStVHdNriAtyLtOVqlQ9DQ/7P92mYS17Dv19heDTNdw8V+uZsgqvLVKAbyGHGsm58VuFKJMfz6aOk35o8NELk2sikD01Z4yd/hOkcKfm1VyMEpB2xXLvkewCzk5j/nfqvuAyAqJpMjmT/t9pqpyJVp8EkBTQh+xhMLAGZDwJZFpsK8LJJpdUvBO7ODA1NXUvX6jNYsDrsEMG1D4s1sSL/QRwktPXVE7RqVQ/scnunaLjmFnoS4/sCZhIAX9qTElRE=;iUtpSpl1Yjq6LjZ35lhJyA=="
 ---

@@ -25,52 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "The Biden administration's new facial recognition app for asylum seekers sets off alarm bells"
-    excerpt: "The Biden administration recently rolled out a new app that uses facial recognition and geolocation technology to gather and store data about asylum seekers before they even enter the U.S., the Los Angeles Times reported Friday."
-    publishedDateTime: 2021-06-04T19:51:00Z
-    webUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets"
-    ampWebUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
-    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
+  - title: "Europe’s AI rules open door to mass use of facial recognition, critics warn"
+    excerpt: "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders."
+    publishedDateTime: 2021-06-08T02:37:00Z
+    webUrl: "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/"
+    ampWebUrl: "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
+      name: POLITICO
+      domain: politico.eu
+    quality: 72
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg"
+        width: 1320
+        height: 880
+        isCached: true
+  - title: "Investigation reveals NYPD may use more facial recognition cameras in neighborhoods of color"
+    excerpt: "Cameras are always watching, so there’s nothing private for New Yorkers going out in public. But the NYPD’s facial recognition technology takes being on camera a step"
+    publishedDateTime: 2021-06-04T03:19:00Z
+    webUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/"
+    ampWebUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+    type: article
+    provider:
+      name: WPIX
+      domain: pix11.com
     quality: 48
     images:
-      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622837168/GettyImages-1062889184.jpg"
-        width: 814
-        height: 458
+      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/06/AP21048630206426.jpg?w=1280"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
-    excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
-    publishedDateTime: 2021-06-04T23:34:00Z
-    webUrl: "https://kvia.com/news/border/2021/06/04/biden-officials-quietly-deploy-facial-recognition-to-process-asylum-seekers/"
+  - title: "Chinese facial recognition deployments in India, Europe prompt warnings"
+    excerpt: "The Internet Freedom Foundation argues that Chinese facial recognition technologies have been developed in an unfair or inaccurate way."
+    publishedDateTime: 2021-06-07T22:10:00Z
+    webUrl: "https://www.biometricupdate.com/202106/chinese-facial-recognition-deployments-in-india-europe-prompt-warnings"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 37
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
     images:
-      - url: "https://kvia.b-cdn.net/2020/04/hypatia-h_975fbaaa11f7415e7c3bc311df1a7fde-h_69d00cdd749b7dab664bc4702b02acbd-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
         isCached: true
-  - title: "Biden deploys controversial facial-recognition app to track asylum seekers as part of 'smart border' strategy - but privacy advocates cry foul and migrant crisis continues unabated"
-    excerpt: "Asylum seekers in the United States are being encouraged to submit biographic and biometric information to the CBP One app to allow border patrol officials to verify their identity."
-    publishedDateTime: 2021-06-05T14:56:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9655025/Biden-deploys-controversial-facial-recognition-app-track-asylum-seekers.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9655025/amp/Biden-deploys-controversial-facial-recognition-app-track-asylum-seekers.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9655025/amp/Biden-deploys-controversial-facial-recognition-app-track-asylum-seekers.html"
+  - title: "Guest view: Regulate facial recognition now"
+    excerpt: "This editorial first appeared in The Washington Post. Guest editorials don’t necessarily reflect the Denton Record-Chronicle’s opinions."
+    publishedDateTime: 2021-06-04T04:45:00Z
+    webUrl: "https://dentonrc.com/opinion/guest-view-regulate-facial-recognition-now/article_a3d3c4f2-e52e-51c8-b6c0-b2a897114b46.html"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/06/05/14/43864419-0-image-a-2_1622898218342.jpg"
-        width: 636
-        height: 382
-        isCached: true
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 19
 
 secured: "tgulcm9FYStnz5Q5n8F4FmuLgpbki3lv+lWjeB1115r4x8lZbe/CzUpITViaJVjaoXDy4FrBXQznzguh6AYXwNXg9rXDOY+bVdhd8EdeTpg1UX/rhmP6dJoK4GkvbZvnEDRRhEFM81tMvoKgEm+n8Hrg+JYH8N1Piv/XZhenmUA8QbQY7ZFQoN/VRwGf8GXaryquNbLkB2JJXBT8XJt2lbIwuVDxXD7PmALr1ofxtZCRZ0K8DdOQ5vRuusea9w/FwpRFhXiFLTGNgZsqVUJF9rE6mxoCRPYlErn+n3zK7qjYW9DbDN0/LSd/UtfafPgDj/QFYUS5jeGmNTsWQIoCAq/UDtkgHMxirVNBeruvgtiolfmeEV7seanR4SAW0P/lArNpswlBX2Xz4d8tIPmIras8OdGemPgzVv9RMQp1vq6H4O/tFF62vg2UAQe6MHfV1HghUmwhu2LW9WBHmvSQSHhYo/CTT4vuww1R3b0b144mafkIRVgEYRGh3JNYJujUo7eYLLCbsRNz/9hrRtDtaQ==;/+1+fRaGC64saIMrRVkCZA=="
 ---

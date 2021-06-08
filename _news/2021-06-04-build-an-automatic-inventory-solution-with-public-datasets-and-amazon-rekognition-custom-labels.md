@@ -33,7 +33,7 @@ related:
   - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
     excerpt: "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions."
     publishedDateTime: 2021-06-07T12:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9384888.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-apptek-selected-as-high-quality-automatic-speech-recognition-/2021/06/07/9384888.htm"
     type: article
     provider:
       name: TMCnet

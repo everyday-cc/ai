@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "8 AI Startups That Raised Funds In 2021"
-    excerpt: "Indian Government has launched a Startup India Seed Fund Scheme with a corpus of 945 crore rupees to provide seed funding to qualified startups through eligible incubators across India in the next four years."
-    publishedDateTime: 2021-06-03T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/8-ai-startups-that-raised-funds-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Startup-funding-2021.jpg"
-        width: 1600
-        height: 1131
-        isCached: true
   - title: "How to use artificial intelligence to revolutionise productivity"
     excerpt: "The technological movement of artificial intelligence (AI) has been steadily growing in momentum, and has inspired top executives to greenlight special initiatives to develop new concepts to improve their productivity and competitive edge. “AI ..."
     publishedDateTime: 2021-06-07T05:11:00Z

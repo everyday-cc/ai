@@ -41,6 +41,20 @@ related:
         width: 600
         height: 529
         isCached: true
+  - title: "How fintech can be a force for good and create a more sustainable planet"
+    excerpt: "In the past 12 months, fintech has enabled greater access to financial services. As providers of financial services, we are at a significant positional advantage – that of staying ahead of the curve of a structurally beneficial future market populated by the next generation of global citizens and consumers of financial services."
+    publishedDateTime: 2021-06-08T02:00:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/how-fintech-can-be-a-force-for-good-and-create-a-more-sustainable-planet.html/6039/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 38
+    images:
+      - url: "https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/bigstock-Woman-Use-Gadget-Mobile-Smartp-410200180.jpg"
+        width: 530
+        height: 360
+        isCached: true
 
 secured: "MZ/QVJwaC8C30Wp+Bkx/P0OctolOPp4VigN6vCZWLqqxdK9cfTHASAPugIhtONziBQYBwgGFuO5P2lifpTuQT5AOTUctAS8ZNzmTIGoI0TVAKV3phq9ldZfdyySzGUr6JejX/ogSa+ipJuNplmtmjNzujLOgdyHwT++0AU4kyqy2rPRIlBoJI4+Lh5TBmjK/wENFHgyruOaxxXAi6fXlviOtjkeHtgJPSw/WbaGWeld+7qyBye5dkImUrgKGXJhQENM9g6vSN6dy2Fb0rJzQyKXIQkQFyOXGKFGAO2I4uIfgTq+LoCvhI1RqWvKE5TXMDZGY+qxA1aohLpMpE561RcU3hnTlGGyLtTWD8xUSYf0=;najgvxt23vPmuztPfkXy+w=="
 ---

@@ -25,34 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI speech recognition chip startup secures new war chest"
-    excerpt: "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,"
-    publishedDateTime: 2021-06-05T04:48:00Z
-    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest"
+  - title: "Europe’s AI rules open door to mass use of facial recognition, critics warn"
+    excerpt: "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders."
+    publishedDateTime: 2021-06-08T02:37:00Z
+    webUrl: "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/"
+    ampWebUrl: "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 71
+      name: POLITICO
+      domain: politico.eu
+    quality: 72
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F9%252F0%252F34550907-3-eng-GB%252FCropped-1622689933%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%25AEAI%25E3%2583%2581%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2583%25A2%25E3%2582%25B7%25E3%2582%2599%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+      - url: "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg"
+        width: 1320
+        height: 880
+        isCached: true
+  - title: "Investigation reveals NYPD may use more facial recognition cameras in neighborhoods of color"
+    excerpt: "Cameras are always watching, so there’s nothing private for New Yorkers going out in public. But the NYPD’s facial recognition technology takes being on camera a step"
+    publishedDateTime: 2021-06-04T03:19:00Z
+    webUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/"
+    ampWebUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+    type: article
+    provider:
+      name: WPIX
+      domain: pix11.com
+    quality: 48
+    images:
+      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/06/AP21048630206426.jpg?w=1280"
         width: 1024
-        height: 512
+        height: 683
         isCached: true
-  - title: "AI-powered transaction monitoring start-up Sentinels raises further £4.9million"
-    excerpt: "Dutch artificial intelligence company Sentinels has raised £4.9 million (€5.7 million) in a seed funding round, led by INKEF Capital, complemented by strategic angel investors and industry leaders – including several members of the early Adyen team."
-    publishedDateTime: 2021-06-04T06:42:00Z
-    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/ai-powered-transaction-monitoring-start-up-sentinels-raises-further-49million/"
+  - title: "AnyVision open letter calls on facial recognition providers to eliminate bias"
+    excerpt: "Companies developing biometrics and artificial intelligence algorithms must rid their systems of demographic bias and make their methodology transparent."
+    publishedDateTime: 2021-06-03T15:28:00Z
+    webUrl: "https://www.biometricupdate.com/202106/anyvision-open-letter-calls-on-facial-recognition-providers-to-eliminate-bias"
     type: article
     provider:
-      name: angelnews.co.uk
-      domain: angelnews.co.uk
-    quality: 33
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://www.angelnews.co.uk/an2017/images/SentinelsAl_joostA.png"
-        width: 920
-        height: 700
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
+  - title: "Guest view: Regulate facial recognition now"
+    excerpt: "This editorial first appeared in The Washington Post. Guest editorials don’t necessarily reflect the Denton Record-Chronicle’s opinions."
+    publishedDateTime: 2021-06-04T04:45:00Z
+    webUrl: "https://dentonrc.com/opinion/guest-view-regulate-facial-recognition-now/article_a3d3c4f2-e52e-51c8-b6c0-b2a897114b46.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 19
 
 secured: "CD31BUsGxZimfxXXlcG4+dhKBJ2mjPztQygNee8h3UlWOh82kq1BR/6EASf4zac4dTCxrns6ZjeOJuTJAYx81Cc/G3empxtP++C2v9PYj2rvE6l/SJmqr3U9iL9kDWYr1CQ6uZq6biCg7ynVM2NtX3ULWgJg7lh92s9D5NsV8VjX+zCb82vmAX7FlkvZYxS24Coo6s3tVD7o6dN8w4wZddGY5QTiaMnx7955hN9ZVMvy8oasMhM0x3JdxT+YuyA7KxkduRdB/aSVlfXO4M1UULft4ODpxERNGpT+pI6Dc9n8iFzl5yJtN2FaNCMZlxKN5hBPAST10mOnBLcJbS/w4C3/EV90vB6uefmbVxvgc00=;z/yfaHuKA2CfocvatHCzZA=="
 ---

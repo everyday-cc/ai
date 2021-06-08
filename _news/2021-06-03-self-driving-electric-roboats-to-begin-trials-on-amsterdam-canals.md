@@ -41,22 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Roboats: Amsterdam to trial self-driving electric boats"
-    excerpt: "Four-metre-long vessels will carry out tasks such as collecting rubbish and transporting passengers"
-    publishedDateTime: 2021-06-03T09:04:00Z
-    webUrl: "https://www.theguardian.com/world/2021/jun/03/roboats-amsterdam-to-trial-self-driving-electric-boats"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/03/roboats-amsterdam-to-trial-self-driving-electric-boats"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/03/roboats-amsterdam-to-trial-self-driving-electric-boats"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/4cb4ec93d0a0ebc42c146f8c300c77f7fdcd5ade/0_288_6240_3744/master/6240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aca7bb403a7730fe41b0df25d5f3cdeb"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Self-driving electric boats could soon begin ferrying passengers on Amsterdam's canals"
     excerpt: "The 13ft-long 'Roboat' vessels travel at about 4mph (3.5 knots) and can run for 12-24 hours depending on the battery type and cargo load. They are being tested on Amsterdam's waterways."
     publishedDateTime: 2021-06-03T18:25:00Z

@@ -21,35 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Investigation reveals NYPD may use more facial recognition cameras in neighborhoods of color"
-    excerpt: "Cameras are always watching, so there’s nothing private for New Yorkers going out in public. But the NYPD’s facial recognition technology takes being on camera a step"
-    publishedDateTime: 2021-06-04T03:19:00Z
-    webUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/"
-    ampWebUrl: "https://pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
-    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/investigation-reveals-nypd-may-use-more-facial-recognition-cameras-in-neighborhoods-of-color/amp/"
+  - title: "New York Surveillance City: 15K cameras can feed facial recognition systems"
+    excerpt: "Civil rights groups are calling for bans on some of the biometric surveillance practices which they allege discriminate against certain groups."
+    publishedDateTime: 2021-06-04T15:34:00Z
+    webUrl: "https://www.biometricupdate.com/202106/new-york-surveillance-city-15k-cameras-can-feed-facial-recognition-systems"
     type: article
     provider:
-      name: WPIX
-      domain: pix11.com
-    quality: 48
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/06/AP21048630206426.jpg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Facial Recognition Market to Witness Increase in Revenues by 2025"
-    excerpt: "Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation of facial recognition software and sensors in top end smartphones of all major companies."
-    publishedDateTime: 2021-06-07T19:39:00Z
-    webUrl: "https://www.pr-inside.com/facial-recognition-market-to-witness-increase-in-revenues-by-r4833762.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 39
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
         isCached: true
 
 secured: "wrnyVnnUaHKEWWdGC7+pVICfXMMZdMvXu58mOg3PgebPcN29Ot6KHW41XB/FvexJ+YhEChaQbg3rOOO8+FSxrZOzuiHPk5Qe0P85rxZVWLERjfenR1GjycT4aS3YYKheRKNoxkuAnhnlm4ldS2SKOqPbRmO6d2EZ7p1A774YeZKDF7bytKGX1mYADgf/aJdF+PruwWIGXOFt2uYnc5PsdzFCql03FddaSNc0aZ0gzzIJD158MatBg5LLv1lrQAjarrWivpp2TzBXQyfzni8JNKQ6OTgxs0N8kTR6d6qfguYvP8NsQenEpN+1FM1u6RGCs1HNMhyI5sta8T1Ndcy4baiyk7M76V/4VH8T86T+RTk=;92vbJapYtFR+iFQr9+RuZw=="

@@ -33,7 +33,7 @@ related:
     provider:
       name: EconoTimes
       domain: econotimes.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://s1.econotimes.com/assets/uploads/202106076395f81311b04d64b_th_1024x0.jpg"
         width: 799

@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/"
 ampWebUrl: "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-hopes-ai-turn-search-conversation/amp"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/60bab4f6eaa210b2096c93ec/master/pass/Business-Rethinking-Google-Search-1230724581.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/from-low-code-to-no-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "iManage Adopts Microsoft Azure as Global Cloud Platform"
-    excerpt: "CHICAGO, June 03, 2021 (GLOBE NEWSWIRE) -- iManage the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,"
-    publishedDateTime: 2021-06-03T10:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-imanage-adopts-microsoft-azure-as-global-cloud-platform-/2021/06/03/9382990.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "NQywDaJc9oedWFDpiSnq6REgq3BBEXTQYrYIXNI/qMXClBMB2et3eqJfaTmuKkfuK+LZvvkdgHJTEWOxpTWhh8b9/dxNRgQTCCQDme6lSktsjid/uICoyGru/P6sQ1a9zX054p294rQUUjqEPlR+PtkcRD/56Ksgs0nxIjzDeoWDY73uuh0pfDAGpnnXW8j5U/UPB+hecsuHTpNPHrrzhiopJyGS/5rdRtz53BTTHTtfYEwzdJxewEuhzmr+E/7NRPwQ3G9MdTG0720hY2jnSdRZ/tFjhcLwImcGgOsu+T9x5iZkglRURgdrNH7zfn+MqUWlh5BhBq/G9w73Y3xh4v+pBcWxuMjoVZ+bqmfYx0GtBVJTR9+nK8/X6/mVXszi27V578ArB+ihrFI8sf18lIt15dEf3z5FqTHXsQpf+m6TXUyYreDYD1hQo8lD7lGDMrA56jT6Jf4qynCFPN/+FElSvEFNMiaRXSG99G/J/ELZlvFGwSVGOItFFlGJAQQZPui7P7ODSYYDQt3S30cuoA==;UFdffn9/w+rEcClK2MPqVg=="
 ---
