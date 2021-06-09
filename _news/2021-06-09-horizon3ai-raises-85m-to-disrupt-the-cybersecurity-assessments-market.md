@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 706
         isCached: true
-  - title: "Cybersecurity Startup SentinelOne Files For IPO"
-    excerpt: "In the filing, the cybersecurity company disclosed that it had $130.825 million in annualized recurring revenue (ARR) as of January 31, 2021, up from $66.764 million as of January 31, 2020. The company said ARR represents “the annualized revenue run rate of our subscription contracts at the end of a reporting period,"
-    publishedDateTime: 2021-06-04T21:21:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/cybersecurity-startup-sentinelone-files-for-ipo/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/cybersecurity-startup-sentinelone-files-for-ipo/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/cybersecurity-startup-sentinelone-files-for-ipo/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/ipo-investments-cybersecurity-startups-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "AI-powered cybersecurity provider ExtraHop to be acquired for $900M"
     excerpt: "Bain Capital Private Equity and Crosspoint are spending $900 million to acquire ExtraHop Networks Inc., a software company that uses hundreds of machine learning models deployed side-by-side to find threats lurking in enterprises’ cloud environments."
     publishedDateTime: 2021-06-08T19:15:00Z

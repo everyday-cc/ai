@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/amp/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "The Four Biggest And Most Baffling Congressional Issues When It Comes To Regulating AI Self-Driving Cars"
+    excerpt: "A close look at four key controversial Congressional issues on regulating AI self-driving cars, and what those issues portend for our future and the driverless emergence."
+    publishedDateTime: 2021-06-09T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfc66f289142720b864b3a%2F0x0.jpg%3FcropX1%3D226%26cropX2%3D3673%26cropY1%3D301%26cropY2%3D2599"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI modeling can combat churn"
+    excerpt: "At a cost of more than $300 to acquire a new customer2, and FIs losing 10-15% annually of gross revenues to attrition3, FIs must slam the door on attrition. Research shows that by employing artificial intelligence powered predictive analytics and arming relationship managers with data-driven insights and enablers,"
+    publishedDateTime: 2021-06-08T08:00:00Z
+    webUrl: "https://www.cuinsight.com/ai-modeling-can-combat-churn.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 39
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/06/Attrition-Chart.png"
+        width: 406
+        height: 327
+        isCached: true
   - title: "How Graze Mowing’s self-driving mower is disrupting the $100 billion commercial landscaping industry"
     excerpt: "Listen to this article Although the U.S. commercial landscaping industry is worth $100 billion, it’s trapped in dire financial straits. Its outdated equipment depends on manual labor, whose high turnover results in rising staffing costs."
     publishedDateTime: 2021-06-08T19:33:00Z

@@ -40,18 +40,20 @@ related:
         height: 427
         isCached: true
   - title: "Meet Grace, the healthcare robot COVID-19 created"
-    excerpt: "Dressed in a nurse's uniform, Grace uses artificial intelligence to diagnose a patient and can speak English, Mandarin and Cantonese"
-    publishedDateTime: 2021-06-09T02:46:00Z
-    webUrl: "https://news.trust.org/item/20210609033648-cuk4u"
+    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the"
+    publishedDateTime: 2021-06-09T14:49:00Z
+    webUrl: "https://nypost.com/2021/06/09/meet-grace-the-healthcare-robot-covid-19-created/"
+    ampWebUrl: "https://nypost.com/2021/06/09/meet-grace-the-healthcare-robot-covid-19-created/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/meet-grace-the-healthcare-robot-covid-19-created/amp/"
     type: article
     provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 56
+      name: New York Post
+      domain: nypost.com
+    quality: 76
     images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/bc1baf39-291b-4058-8cc3-1e0f206db1e1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/grace-healthcare-robot-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Y1KsYm9xky4I/xmGlK3IUTVEY7VOCmVS5Q3iqpC3H0TtQ8ezMipzhkbKcJt5hGM8+LEY/myUDA7Y62fDqH77a0rHN1Rxgs/yK2FEh+DWOZzTQMIHu0L+ofzJOjjYItwk1lLUu6valTH06Ux5mugHiT21Sy6xXOfugf4Ef3PtlrLFKC4oYkyi1ICFaDX0xfphkkAEX41iTnzCL7VoQuJKIMSt+NmceqAbz73skFcY+aSPt2usv4SDh7o39iKvUQ6FhyVTUm60BtwDLkbBNxH9huW6+mTh3Z3/xfNKPf5t897hMTKqJv5XJF/bFXu6kZaf7HABqdiZSszZfq0S9VDzaQZF26knI6xZPJ2QOE1rb7w=;yyKA1cJrURvqcWSFW/Uk0w=="

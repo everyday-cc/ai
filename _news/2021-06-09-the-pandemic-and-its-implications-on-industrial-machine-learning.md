@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "wzRiC4hsSjEbE6ikYK2D5wv3QtylaYzUQh8aj6aZz/I6rF9jQqGSVbLS/V5sC8TUjCaJ4CNjAAifKfWMVgbV9QD7aej8mKPwS5qxkxrEZgz6kYW7NfgIh+Li+SUwFsxhuCiHUF4AeZY8x/X+8jf5yAEX/BJBz6i7uwyXze52hYDW99pCE27B/OXK/Rai75i6phkRdmbsAqSMpHrYvbCCJbVkAnTuevPBhSvw/sDhg29bpvlqLMpzW7vLeni23Ta4XeEE2gzZd9NUmBDFyu/NnQy2Z8vD7MU5SV9IPd0ZPgQNh3x5CqkkiZzri608ZKt5dSe+TolZbjosZu7FU4XPd6u/JAz1K01Pnj6YB38m7iM=;+mHHoXPerNdWD/PGCXhQBw=="
+secured: "LKjXOxx5mHmPw799TxYEr+OquBjkP8h+fSNcsKXoeUsYygum6WTnHWL+wA/YOjBI8mOyJG4oaM1OBHV/FD2flt19kS6VXNuxxwfjNOF/hjw81f+QKJLcWYxOKcj7PhWcZhPzye4LDlhuxP2YKLsIH50MHLzSEJ3SEu5L/8NKoOD7jVlBo1S2QzDvZNsBbPzux1A8DR8EdzdMaolA/jwpIE3dip+CWlndUDSHcGCmnnEM5unb+McMRyWfMRvwrpDtYDCYTCnfEPio9VZomeM59D5RUKAJt96dNCZPI/bscxSUwbd+OZYUfSkLwZ+oUHKTVrZBspYZxHi0mNRcnQ+f9LBLTLQRxYspmZcdyWzeVl3QprOKTAg8BzBoviPMQpfyJucSef8YYot/fBBM04iHZuOxtPMWR76xtoRWeZmgxip3ZMlb5FUzUH0HYJj+/6Wm6owktbWli2q9elIPxbHqaltobGGssihi5Qok43ZgM3Z8lRba03afWsTrBC3C6qfwg859PwYFYHYQV7XEhJpKwA==;JrgY5pCjPWFXt7TJ5sERiA=="
 ---
 

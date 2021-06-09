@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Meet Grace, the healthcare robot COVID-19 created"
-excerpt: "Dressed in a nurse's uniform, Grace uses artificial intelligence to diagnose a patient and can speak English, Mandarin and Cantonese"
-publishedDateTime: 2021-06-09T02:46:00Z
-originalUrl: "https://news.trust.org/item/20210609033648-cuk4u"
-webUrl: "https://news.trust.org/item/20210609033648-cuk4u"
+excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the"
+publishedDateTime: 2021-06-09T14:49:00Z
+originalUrl: "https://nypost.com/2021/06/09/meet-grace-the-healthcare-robot-covid-19-created/"
+webUrl: "https://nypost.com/2021/06/09/meet-grace-the-healthcare-robot-covid-19-created/"
+ampWebUrl: "https://nypost.com/2021/06/09/meet-grace-the-healthcare-robot-covid-19-created/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/meet-grace-the-healthcare-robot-covid-19-created/amp/"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: New York Post
+  domain: nypost.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Robotics
+  - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/bc1baf39-291b-4058-8cc3-1e0f206db1e1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-    width: 1100
-    height: 733
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/grace-healthcare-robot-01.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -52,6 +54,6 @@ related:
       domain: techinasia.com
     quality: 26
 
-secured: "RM+4/PTbz3bHFzyo8gcnbM9rvbv2GzyMORpmdNA8M3hfMJ40SoO80RGEU+gfFRR7Gp8SnL/roGMLIsLPgVhop8NU7DyuYY/uFwc08LHJxZcicYwgU0OiluYbvd/BABe2dkH+KHsBW7gp7OmgB2uKQMju/Og7RMuIwYtXwopFOHIbIr0vZgUJMzvKDAEDzfD5jVB9IVui8pyKxtB5MBdO9KbPtG8fGmsXsIGvFpcQnbdXY8UG3VfR6EXrK7bqxqr0l/hXPkmyOHQxO0gY9aDXH9ouUCs/8TBeeazTJbnSCvf64RLPBT+kH9V4naC7BDVQ3EjPKGzl7Mrs6rp/RNphTkVVXE8hGbVY4L9wehWmlHntRUkFFcN5O5/okP9sV6E89tOixtCPutOABJ2rsucUPW7lEdupiOnZmnEJ8/T14ZiCGBWH2Grt6bVp0UbdCZ4dGXbX5oE9ep/800AUXCU3JQBWqAicruaK94tzBTW1hAfvU2o7WYgHDSe1xi4EiLJKQyEJE0NRckUVl0zP6tbEDg==;T63hfTMe7ZTvUiZ2N40YcA=="
+secured: "NSpgnCkYkP5yUCwc765wxbzmv81GgfdUT9ZsKBfXR8bOTxseiA3Hh9GIkS5RtI4uRJUaSdcjuFmg6W4/pVrtOf/N9e6To81Q+fRmbXHqfpGY2F5oZO84KkoOJ7apJOyLffv8VtCAS4KvAjqF0lxZLwmPywy4YjOIyOiLFxFt67e46Nee08ZKrZ61iwmM1evfmsbUCx0f+o6iNmFXn/Hbl9sAs1D5nK6euWU4Yqo60br0W3P5H7HTRVtdr5bpSmoX/CJIbfTKd3YI6/w+gi6NUsTOSpe5OxrMhdL5VVU0JtYVmtQjjIqYiI+HWYcMhdtE1BPyRIyeIL7wU/xBtad9bMchjXc80UBCadxlI2XQ3bY=;bHeJqnzzpbFNssdajgz2pw=="
 ---
 

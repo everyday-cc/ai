@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Four Biggest And Most Baffling Congressional Issues When It Comes To Regulating AI Self-Driving Cars"
+    excerpt: "A close look at four key controversial Congressional issues on regulating AI self-driving cars, and what those issues portend for our future and the driverless emergence."
+    publishedDateTime: 2021-06-09T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfc66f289142720b864b3a%2F0x0.jpg%3FcropX1%3D226%26cropX2%3D3673%26cropY1%3D301%26cropY2%3D2599"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harrowing Tales Of Teenage Drivers In Everyday Traffic Amidst Adult Drivers And Those Emerging Self-Driving Cars"
     excerpt: "Teenage drivers are unfortunately at high risk of getting into car crashes, and the question arises as to how teens will react when amidst self-driving cars."
     publishedDateTime: 2021-06-07T15:30:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60485de17a0f96e2ce4c2d96%2F0x0.jpg%3FcropX1%3D26%26cropX2%3D922%26cropY1%3D44%26cropY2%3D547"
         width: 896
         height: 503
+        isCached: true
+  - title: "AI modeling can combat churn"
+    excerpt: "At a cost of more than $300 to acquire a new customer2, and FIs losing 10-15% annually of gross revenues to attrition3, FIs must slam the door on attrition. Research shows that by employing artificial intelligence powered predictive analytics and arming relationship managers with data-driven insights and enablers,"
+    publishedDateTime: 2021-06-08T08:00:00Z
+    webUrl: "https://www.cuinsight.com/ai-modeling-can-combat-churn.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 39
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/06/Attrition-Chart.png"
+        width: 406
+        height: 327
         isCached: true
 
 secured: "xN8jnlOaDD9kcnwy4LhEpdmrHbzZSNpFkFuRD6o6TgPJwmVDTt6wXuv5aY1lB8wzd6Sr1UCQSkmivz88BgOSvXxCcFN+0tMwpndOfH2FMO5Zsrwrz8GnJHq75QDkLh42FxjowBO51CTJCJbooTZCOppqAuqYl8AY3Y100dVnZ2oLzCVZs/5u0tCaFfzmwYe8wMIEO6V6229CN+HbZWGqleGRFi3TXAlcLRGCB0W7+E4DqJo3uPT83T2GQVfnOLAoD/Pd/9XwTMbbDhvj/e8kMmBdg0zlkpZCfRqdAZxFiJyq6OwSPrmhmCxgTYKY70XgIRBhXrmhCS/2818quHClStmbES0tFc95qpgw/I02ex4=;0lP+upI3gyT0ZHHWj5vPFQ=="

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Mastering artificial intelligence and machine learning"
-    excerpt: "Control Engineering - Just a few decades ago, artificial intelligence (AI) was the stuff of science fiction, but has since become part of our daily lives. In manufacturing, it"
-    publishedDateTime: 2021-06-06T09:02:00Z
-    webUrl: "https://www.controleng.com/articles/mastering-artificial-intelligence-and-machine-learning/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 54
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/06/CTL2106_WEB_IMG_xAI-Fraunhofer-IPA.jpeg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "HvTbqWwdZj8df9sCoNzgV/GNxrPQkNmY6KCPr5DH47d9+bNqjRpCuZPqbbTmYwpz5vl8n6EAs/JBePUYDja7wpY6xDV22G3FvZNnKCxemZAuwfT04ls8YfwZCt1fLOnYDcLQU31qb6rfjsn2thQCsfUmz7juqxlOWkAv+lCn46+LxS7p5eyFIhlitDjqNbeUT6jjg1X1j0bGLDT/b+X5w6iZHdusuM6C1FFUKcHptcf0T+tt2HvDW71HxWK9PO4h9ifi9YbxbV/uJnm/GGaHtpCNwoNY4ZnCMV+IQyz1LD0hElh5QUjZlIE824ExWdaeVr2o31tF0RNMTPf4ix/KHjTolmmmg1IwJ3PS97hD5AIOUFUix04UrOqqN6SG64RtXR5FA2CLTcE6dZqsZATs2fV9TVGdLpHnMAx+00PDLAv+Z5y75oLTi6KRIpBUkuUVHctIxTHWZk+75zI+KVbRM9opTVhDz8inUMK2W5TPKYSY1SBLWKLq0ZSnIS0FOIxYsUi8wsxI5ITxX1IY+dpDeQ==;j+iWPpIO5HOEgS0SyJvlqw=="
 ---

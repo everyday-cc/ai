@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-gr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bf6bd2a0-c89c-11eb-aeab-eddcf4a62c67"
         width: 2400
         height: 1260
+        isCached: true
+  - title: "Facebook Planning To Create An AI To Beat NetHack"
+    excerpt: "Facebook wants to develop an AI (artificial intelligence) that is capable of beating the hardest game in the world. The social media giant wants to leave"
+    publishedDateTime: 2021-06-09T15:44:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "7W12M+9p8yi5SXQnyhiNPA7kENvRsoPZc0s0XlzmrZ2BBayPozUZrH2ekNWx+Dz1giQD5/Vu5I+ZL1rxCUi8GFvGi5ZQG/dj7FQ2svLWiFUAyv3uGkC6NKa82SmK+VQmmxAxvSyrVKY7M8tzmq+571cm+9pmT9BZPiPAWgkdruKFFxboDQoLByUvSxDhVrG+MqSsZAoPjoh7VOODs3stXhZFmR7YkUnuLV+MsvvwR7/eID3MoxUVaqeGLbOQAVkNGsvRTaDsO4uRrn06PK4gv2i7YQJi67RwozRsi000Xu71L1w62VItjdAn5tgGxhypHdViAB79dLDzBgUvzavNv+p8WyZq1aA3UDMYc+jnNlimgNEUcUwXWDQE5DvqBJEk7IvQV92jS0dEF11GtpxYianGKxqhAhKVHdSxBofw5U81pggHekAC1KhqYa8ayPUZ5122hFXWAg44CaN48G/OH/4Qy2R7biA3rV9ObIoV1KSFys2vzk4MyZCFafO58bX31PUKJ8SMURsrNzQOK3Ek7w==;YtJz7GuIUZHUW13BJgkuzA=="

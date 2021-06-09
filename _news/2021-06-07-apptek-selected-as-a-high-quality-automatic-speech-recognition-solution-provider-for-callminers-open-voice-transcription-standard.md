@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments"
-    excerpt: "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on"
-    publishedDateTime: 2021-06-08T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments-301307887.html"
+  - title: "Voice Recognition Expands Across Healthcare and Transportation"
+    excerpt: "Voice recognition has gained momentum across key application areas like digital banking, automotive control, healthcare, and consumer electronics."
+    publishedDateTime: 2021-06-09T14:22:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21166549/global-market-insights-voice-recognition-expands-across-healthcare-and-transportation"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 41
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/Voice_recognition_promo.60c0c0cb43e4c.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Get up and go with connected transportation"
+    excerpt: "The future of transportation isn't just connected driverless cars. Hyperloop and other innovations will make getting from A to B easier, faster and cheaper than ever."
+    publishedDateTime: 2021-06-07T08:48:00Z
+    webUrl: "https://www.huawei.com/au/technology-insights/publications/winwin/plus-intelligence/get-up-and-go-connected-transportation"
+    type: article
+    provider:
+      name: Huawei
+      domain: huawei.com
+    quality: 24
+    images:
+      - url: "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/se5/07-03.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "meCCdCg6gQP2nZmiNItAy1LluBRhaCGWxbtQ5wv7NQrTwdXOuBPffDVOl3AeA9YCd/pWDss63BmQjz9nIeQKff5SxE6LIt69xcoTXn2Ollx7xmGjuMDecHojjj6bdiTeC+QzARUhwlbfGvDKd3Fh/7eJSM8qnr0EQqqDlvmt3qPhQk7ZQIRm7KuJgNuPwtMPq6Wo69UeW7K8RYa+eD6QRP3YAI3KIqYpPMkjRH1RbrKs8y/48/Z62yvQAc+nW/jQqhxwvoJaSpBBqvb9ecZ1kpV+avqFFoTlc7w9I7rZ2js74ZJGYMzVFUtYLytStv7SM+qC+4FYYza39hNp9DcY4TMyEZEtWWNZ63h4b8JySEw=;3Q5HhToc6ALmly3tvUFyDA=="

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://www.genengnews.com/wp-content/uploads/2021/05/May18_2021_pixabay_lung.jpeg"

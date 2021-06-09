@@ -1,29 +1,23 @@
 ---
 category: news
 title: "AppTek Named Among Pure-Play Vendors Targeting Best of Breed Intelligence in New Now Tech Report for Conversational Intelligence"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today"
-publishedDateTime: 2021-06-09T12:47:00Z
-originalUrl: "https://www.lelezard.com/en/news-19847777.html"
-webUrl: "https://www.lelezard.com/en/news-19847777.html"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced its inclusion in Forrester's Now Tech: Conversational Intelligence,"
+publishedDateTime: 2021-06-09T12:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/09/9387022.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/09/9387022.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "QgnsgFP30oyVtyk4HWql4kOB2sfMyy4WpiJu48iMW4roUqWoZPfHr3QdDBnS7y6fCi2YohXT8jJh+zkdyLWgcnYf+HhbxKKSm454xGHGJiHa+pQe9gHSokM8CKAsHBcCD3WGRjXAzzAQi5hCvhUtUnySvlTyW9BjPZDCjTaE8D0VL5jlrg+QOXAnmS8ItbVSFZblBhVkRJjJDhYab3x8Jtwaf2GK2EJL9z3e8QNiUclhwCBvpK1KmREkNtE8uHnb3UyZufl+yuFc78db8GqN+qqMQLB1ulJlLiROa4z7wwl+ECIB2GJWeAsAeGTXoG+hahj2rrmHNNvk0n/HLzrRwNLV5Tz/HyN79tge1fiRjC0=;fLOiCfCHBL1+hXyJ8w893Q=="
+secured: "DcyhkKcO7o8cLdOdQxwFx0zzniiqwaK57TEy7Um3nSavYA+oLH3x09CMoZtUbtxJa2kE945EtX/ogxb8m+bmDuvZZbLVmzYsBleWAUxl454JGhYc/9NqjSON3fNkxhzXkWF9n8FfVmH+O2okePo38MxItE0lOStqwz/HhVa46EGLLbwHG/73PyhWwoSIf7YoqbU2eL7TZ0ks5w1OMudP/hSkpaP3H7PwdsOV1hAoZBTgmMWeo67DV8E+OU1/KVQitN1LGYbfngj0z8+a6atF+JVBQ0bESw2Q32LWnKnulhsQtPa5HsPGbgX+P/bN17faSTeu2wavKOE/TzejudvKkVLm+8SUsd4xdcflDrzP4GM=;GmzaC/BpEFcUTJpRSGB3wg=="
 ---
 
