@@ -2,6 +2,195 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-05-23-deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google.md",
+      "title": "DeepMind lost a yearlong bid of asking more independence from Google",
+      "excerpt": "Tension and conflicts between Google and its AI brain firm, DeepMind, are always fascinating and exciting to watch. Talking about both these companies' histor",
+      "sourceUrl": null,
+      "webUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
+      "originalUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg",
+          "width": 741,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
+      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
+      "publishedDateTime": "2021-05-22T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Micky",
+        "domain": "micky.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-new-olivia-rodrigo-album-sour-stakes-her-claim-to-being-the-voice-of-gen-z-raw-and-real.md",
+      "title": "New Olivia Rodrigo album 'Sour' stakes her claim to being the voice of Gen Z: Raw and real",
+      "excerpt": "Sour' succeeds largely because it feels like reading pages torn out of a diary, or spending time with a close friend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_20/3476822/210521-olivia-rodrigo-ew-438p_a020ba8b7d87be39e628a05a320d3347.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1268211",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1268211",
+      "publishedDateTime": "2021-05-22T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-whats-next-machine-learning-at-scale-through-unified-modeling.md",
+      "title": "What’s next: Machine learning at scale through unified modeling",
+      "excerpt": "Here's how to create a single model, rather than a set of related but separate models, to power a process or product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
+      "originalUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1281172753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
+      "publishedDateTime": "2021-05-22T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-pinterests-use-of-ai-drives-growth.md",
+      "title": "Pinterest’s Use of AI Drives Growth",
+      "excerpt": "Using neural networks, the site is able to find images—and ads—that will catch the consumer’s eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
+      "originalUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342074/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
+      "publishedDateTime": "2021-05-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-which-market-holds-the-maximum-share-of-the-deep-learning-industry.md",
       "title": "Which market holds the maximum share of the Deep Learning industry?",
       "excerpt": "Latest research on Deep Learning developing at a faster rate due to the current modernization and people’s limitless needs. And this trend is predicted to continue from 2021 to 2027. The Deep Learning towards altering its product profile by bringing about alterations in the production techniques,",
@@ -977,214 +1166,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-robotics-hub-carnegie-mellon-lands-150-million-grant.md",
-      "title": "Robotics Hub Carnegie Mellon Lands $150 Million Grant",
-      "excerpt": "The university will use half of the grant to expand research and staff for its advanced manufacturing program and to build a new center focused on robotics innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "originalUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342134/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "publishedDateTime": "2021-05-21T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges.md",
-      "title": "AI Weekly: NIST’s proposal to evaluate trust in AI models faces significant challenges",
-      "excerpt": "NIST proposed a model for evaluating user trust in AI systems. Many challenges stand in the way of its success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/",
-      "publishedDateTime": "2021-05-21T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-google-announces-new-ai-app-to-diagnose-skin-conditions.md",
-      "title": "Google Announces New AI App To Diagnose Skin Conditions",
-      "excerpt": "Google announced the arrival of a new AI app to help diagnose skin conditions. It plans to launch it in Europe later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/",
-      "originalUrl": "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8071bf22d91c8f0a1d723%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/",
-      "publishedDateTime": "2021-05-21T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate.md",
-      "title": "Implement live customer service chat with two-way translation, using Amazon Connect and Amazon Translate",
-      "excerpt": "Many businesses support customers across multiple countries and ethnic communities, and therefore need to provide customer service in a wide variety of local languages. It’s hard to consistently staff contact centers with agents with different language proficiencies. During periods of high call volumes,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/8_v2.jpg",
-          "width": 550,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T12:17:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

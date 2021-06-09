@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 104
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
         width: 1200
@@ -70,6 +70,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01558-y/d41586-021-01558-y_19235132.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Computers designing themselves: AI could speed up computer chip design"
+    excerpt: "AI could speed up computer chip design Artificial intelligence (AI) could be used to design computer chips more efficiently than human engineers, according to researchers at Google who created a ‘floorplanning’ program to help with chip design."
+    publishedDateTime: 2021-06-09T17:37:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=674146"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 54
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0009/674172/chris-ried-bN5XdU-bap4-unsplash.jpg"
+        width: 6016
+        height: 4016
         isCached: true
   - title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
     excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."

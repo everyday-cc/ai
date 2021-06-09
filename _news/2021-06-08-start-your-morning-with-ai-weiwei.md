@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.htm
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ai Weiwei’s Rohingya — portrait of the world’s largest refugee camp"
+    excerpt: "In 2020, the Chinese dissident artist and film-maker Ai Weiwei released two documentaries illicitly shot in his home country. Coronation mapped the Wuhan outbreak of Covid-19. Cockroach rewound to the pro-democracy protests of Hong Kong."
+    publishedDateTime: 2021-06-09T16:00:00Z
+    webUrl: "https://www.ft.com/content/36a30df0-6410-4443-9010-625ebd8d6788"
+    ampWebUrl: "https://amp.ft.com/content/36a30df0-6410-4443-9010-625ebd8d6788"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/36a30df0-6410-4443-9010-625ebd8d6788"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ef6931f-9f0a-41b9-b0fe-e34a2c70453b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "'Good feeling': Ai Weiwei picks Portugal for new show, home"
     excerpt: "Chinese artist Ai Weiwei is putting on the biggest show of his career in a place he’s fallen in love with: Portugal"
     publishedDateTime: 2021-06-07T03:00:00Z

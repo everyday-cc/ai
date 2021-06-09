@@ -40,6 +40,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Ai Weiwei’s Rohingya — portrait of the world’s largest refugee camp"
+    excerpt: "In 2020, the Chinese dissident artist and film-maker Ai Weiwei released two documentaries illicitly shot in his home country. Coronation mapped the Wuhan outbreak of Covid-19. Cockroach rewound to the pro-democracy protests of Hong Kong."
+    publishedDateTime: 2021-06-09T16:00:00Z
+    webUrl: "https://www.ft.com/content/36a30df0-6410-4443-9010-625ebd8d6788"
+    ampWebUrl: "https://amp.ft.com/content/36a30df0-6410-4443-9010-625ebd8d6788"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/36a30df0-6410-4443-9010-625ebd8d6788"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ef6931f-9f0a-41b9-b0fe-e34a2c70453b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "Fbgicc6FIWAgyO9qHuLdlZZK9ukWsTtEofI5nZUVwSp+vEXGbcQ9NlFqENxB3Jk5+eA/lhKKX0VIbzHAeB6cbitQJMD8bGKKBfMtWLpyB974ok6/OeSxOUd9QqJ57JiE3ZAoZ67K00eiR567mXYmrkqar/qxHZa/fB8L5Z66tE05ngrJyPbKlX0Ln+NOo1BdXdQmR7t4mefaQEh67E+K7h4qeZSWI0wUWWZ9+XuMoi4i4iRAfWNdF/Pp2YOqvaLEqIY9vYWJdmm6eHlDBcd73M2M0OyYQHFLMwaUxZ26gix1SV4D6xkJ06Ex413X9YIsF693ihudpUZ9nQPZC1O5rsqCDsqt8h8I2AoSXo2yRmY=;qFWbqQMsxi7do3ASqVs/rQ=="
 ---

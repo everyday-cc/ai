@@ -71,6 +71,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Breakthrough Technology Simulates Human Eyes’ Vision for Self-Driving Cars"
+    excerpt: "LiDAR sensors are the current solution for making sure that self-driving cars have a safe and accurate perception, but what if something even better and more cost-effective could be out there? This is what recent studies are trying to find out,"
+    publishedDateTime: 2021-06-09T15:22:00Z
+    webUrl: "https://www.autoevolution.com/news/breakthrough-technology-simulates-human-eyes-vision-for-self-driving-cars-162914.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/breakthrough-technology-simulates-human-eyes-vision-for-self-driving-cars-162914-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "UlfP/um+J4ewoHTK1Q+ItbzXQ+vipOWJr3EMPpBt7F9jhTuZVWPViBnBUdd/qbdHLjfp/Z8Pq0jhbX0981QkWQh4qW7qM/+KB08KOlMS+/WZAmLMFxJ1OJJI/AVWaNMgaTbFuid1HJu1M+dZoMqdh6RY6aMjJ235XLn6zBFFPqQDqXER7jLI14iu9uws1/jDsUak9udzFpp9S4sXyRvzzEKYAYhOVhgtlhGT6XOOUZGfE1NlA2XdT3ALZTDeESW54J702Mrqayxr5akWrm0jrHoqrSmq7HwQuyXnGONJZkHfe6faN3zD4+TqmAMX/Z8gjVyPGEXrOA3G3jj3Xzw0CdZ6r5B4VNfjJ2XcHo6Qo8M=;hsQoZ97XN0uoOjhmxOI6mA=="
 ---

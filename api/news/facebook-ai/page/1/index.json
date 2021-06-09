@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-09-how-wearable-ai-could-help-you-recover-from-covid.md",
-      "title": "How wearable AI could help you recover from covid",
-      "excerpt": "A Chicago-based pilot program is testing a body sensor that monitors covid patients remotely. Angela Mitchell still remembers the night she nearly died. It was almost one year ago in July. Mitchell—who turns 60 this June—tested positive for covid-19 at her job as a pharmacy technician at the University of Illinois Hospital in Chicago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/",
-      "originalUrl": "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1277116422.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/",
-      "publishedDateTime": "2021-06-09T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-08-ibm-releases-ai-model-toolkit-to-help-developers-measure-uncertainty.md",
       "title": "IBM releases AI model toolkit to help developers measure uncertainty",
       "excerpt": "IBM has released a toolkit designed to help developers measure uncertainty in an AI and machine learning model.",
@@ -1458,6 +1415,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-the-4-fallacies-of-artificial-intelligence.md",
+      "title": "The 4 Fallacies of Artificial Intelligence",
+      "excerpt": "Artificial intelligence researchers are kidding themselves that human-level performance is within reach, argues one leading thinker. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
+      "originalUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

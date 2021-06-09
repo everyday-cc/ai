@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-09-iit-mandi-offers-online-course-on-deep-learning-for-working-professionals.md",
+      "title": "IIT Mandi Offers Online Course on Deep Learning for Working Professionals",
+      "excerpt": "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/",
+      "originalUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/",
+      "publishedDateTime": "2021-06-08T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-this-new-analog-ai-processor-consumes-10-times-less-power-than-before.md",
+      "title": "This New Analog AI Processor Consumes 10 Times Less Power Than Before",
+      "excerpt": "Advertisement The ideal processing chip would consume less power, would be cheap, whilst having better performance. Well, this ideal might just become a reality as AI processor company Mythic has just launched their new M1076 Analog Matrix Processor to provide a low-power AI processing solution.",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/",
+      "originalUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/06/mythic-main.jpg",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/amp/",
+      "publishedDateTime": "2021-06-08T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-how-worktango-solves-the-annual-employee-engagement-survey-facade.md",
+      "title": "How WorkTango Solves The Annual Employee Engagement Survey Facade",
+      "excerpt": "WorkTango disrupts the employee engagement landscape, enabling companies to give their employees a voice and collect authentic feedback for any purpose at any time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/",
+      "originalUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfba541572bd236dab4850%2F0x0.jpg",
+          "width": 1199,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/amp/",
+      "publishedDateTime": "2021-06-08T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-artificial-intelligence-enhances-efficacy-of-sleep-disorder-treatments.md",
       "title": "Artificial intelligence enhances efficacy of sleep disorder treatments",
       "excerpt": "Difficulty sleeping, sleep apnea and narcolepsy are among a range of sleep disorders that thousands of Danes suffer from. Furthermore, it is estimated that sleep apnea is undiagnosed in as many as 200,",
@@ -812,7 +950,7 @@
       "originalUrl": "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -995,21 +1133,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-08-the-future-of-insurance-fintech-50-2021.md",
-      "title": "The Future Of Insurance: Fintech 50 2021",
-      "excerpt": "The insurtech companies featured on the 2021 Forbes Fintech 50 are innovating in a space that has been associated with antiquated processes and practices. These companies are bringing the age old concept of insurance to a constantly changing world.",
+      "path": "_news/2021-06-08-the-future-of-wall-street-fintech-50-2021.md",
+      "title": "The Future Of Wall Street: Fintech 50 2021",
+      "excerpt": "The firm is one of the honorees on the Forbes’ 2021 Fintech 50 List, our ranking of the most promising private financial technology companies. Across finance, listmakers are revolutionizing the way people spend,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/",
-      "originalUrl": "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/",
+      "webUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/",
+      "originalUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8f37238664aae477dd319%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2983%26cropY1%3D160%26cropY2%3D1838",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b91b7330062e83c8f4391e%2F0x0.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 801,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1017,8 +1155,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/",
+      "ampWebUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/",
       "publishedDateTime": "2021-06-08T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1095,161 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-man-group-oxford-quants-say-their-ai-can-predict-stock-moves.md",
-      "title": "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves",
-      "excerpt": "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-why-the-dream-of-truly-driverless-cars-is-slowly-dying.md",
-      "title": "Why the dream of truly driverless cars is slowly dying",
-      "excerpt": "If you're waiting around to buy your own completely driverless car, you may be waiting a lot longer than everyone originally thought.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
-      "originalUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fteslafsd.jpg&signature=2171b81204e7dccf351a1f495ead2e6b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-meet-civo-the-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service.md",
-      "title": "Meet Civo - The Cloud Native Infrastructure Services Startup Offering Kubernetes As A Service",
-      "excerpt": "If you are a cloud native developer looking for a blazingly fast, affordable Kubernetes service, check out Civo. You won’t be disappointed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bf0037864935013541e2eb%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/amp/",
-      "publishedDateTime": "2021-06-07T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

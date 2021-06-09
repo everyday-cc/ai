@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Insurance: Fintech 50 2021"
-    excerpt: "The insurtech companies featured on the 2021 Forbes Fintech 50 are innovating in a space that has been associated with antiquated processes and practices. These companies are bringing the age old concept of insurance to a constantly changing world."
-    publishedDateTime: 2021-06-08T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8f37238664aae477dd319%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2983%26cropY1%3D160%26cropY2%3D1838"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Future Of Wall Street: Fintech 50 2021"
     excerpt: "The firm is one of the honorees on the Forbes’ 2021 Fintech 50 List, our ranking of the most promising private financial technology companies. Across finance, listmakers are revolutionizing the way people spend,"
     publishedDateTime: 2021-06-08T10:00:00Z
@@ -62,18 +46,18 @@ related:
         height: 801
         isCached: true
   - title: "CRE fintech startup Blooma nabs $15M in funding"
-    excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures and existing investor Nyca Partners led the Series A, Blooma announced Tuesday."
-    publishedDateTime: 2021-06-08T14:30:00Z
-    webUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
-    ampWebUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
-    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
+    excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures led the Series A, with participation from existing investor Nyca Partners,"
+    publishedDateTime: 2021-06-08T15:03:00Z
+    webUrl: "https://therealdeal.com/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+    ampWebUrl: "https://therealdeal.com/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
     type: article
     provider:
       name: The Real Deal
       domain: therealdeal.com
     quality: 44
     images:
-      - url: "https://therealdeal.com/la/wp-content/uploads/2021/06/crosspost-20210608022016.jpg"
+      - url: "https://therealdeal.com/wp-content/uploads/2021/06/ft-CRE-fintech-startup-Blooma-nabs-15M-in-funding.jpg"
         width: 690
         height: 493
         isCached: true
@@ -133,15 +117,6 @@ related:
         width: 764
         height: 399
         isCached: true
-  - title: "Commercial Finance Fintech and Business Lender join forces to give Australian Small Businesses a fighting chance"
-    excerpt: "The funding gap in small and medium business (SMB) lending in Australia is estimated at more than $90 billion. It was reported in late 2020 that the major banks are rejecting more than a quarter of SMB loan applications,"
-    publishedDateTime: 2021-06-07T01:07:00Z
-    webUrl: "https://prwire.com.au/pr/96967/commercial-finance-fintech-and-business-lender-join-forces-to-give-australian-small-businesses-a-fighting-chance-1"
-    type: article
-    provider:
-      name: PRWire
-      domain: prwire.com.au
-    quality: 0
 
 secured: "wryxuDSpWN1mMWOLPf0QLEmhXO86JAf+IN3WTGuCdBJY2CpTRVzrP6LUCGxo2r4EgPhzt9UiSQE99Z34HnbBqriIK5UzBKIuPEOqVEZkV0qU5xEyRMIvwGQKixrKd/XL21Zul6XiG5iU6AjZ8Gu9MR4THIrB27QvLtx1Uw3BfE2fKKL/IKt56X1t7fQGP4osVDn07R/ce6xdVm1xclgtAhYu4fl62/UWfw65yKP5hjim37X+Nn+F8cnQius3iH6sAKpdt0U5YDi9j9iABwlxQdlzQmFNZAOa8eRJGHzwEWOpjXYhrdf3LDUIifHB8ODny590HCuHWvmiq4Gf4BUtIvGtuG5/S2miVrZ6lvVaDAs=;i8XuIPH0XiOsdiwhvZ4lzQ=="
 ---

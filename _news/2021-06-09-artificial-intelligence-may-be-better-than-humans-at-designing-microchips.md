@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 104
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
         width: 1200
@@ -84,6 +84,20 @@ related:
         width: 645
         height: 350
         isCached: true
+  - title: "Computers designing themselves: AI could speed up computer chip design"
+    excerpt: "AI could speed up computer chip design Artificial intelligence (AI) could be used to design computer chips more efficiently than human engineers, according to researchers at Google who created a ‘floorplanning’ program to help with chip design."
+    publishedDateTime: 2021-06-09T17:37:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=674146"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 54
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0009/674172/chris-ried-bN5XdU-bap4-unsplash.jpg"
+        width: 6016
+        height: 4016
+        isCached: true
   - title: "Accelerating EV Design with Neural Concept’s Deep Learning Based Prototyping"
     excerpt: "Neural Concept, based in Lausanne, Switzerland, was founded in 2018 by Dr. Pierre Baque. Today, it employs 18 people whose expertise in computer vision and 3D geometry looks to reduce the time required for the likes of Airbus,"
     publishedDateTime: 2021-06-08T15:04:00Z
@@ -94,6 +108,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "0mTnYLRJq65xX1vwU8qsX6hXNYAG/1Sc+XLpaE4L7L942qma/TngfNVw5+ZK+i/O/EMZxNMrViMXtlGc6QlvhDU2lr/ohNuQcPvQqp65tNtuQzT9YqkHH/M/TfRHVH2RRCyLKSZDL6CTZmCfL5Pnk1X6LF7ZFZBbhgbW8EKFdzbtkmhAMmFW6PkOXqLs1bAG0++09zmwK7Vus3pWld8kF7kohnDSl2nkyvKimtEi8a0s9Wwxlqoji98PWyN07APPfl/LNnvb/MHS0zDP0TuG6BzRi61Wjg9m9dB33hGiHcHATyNWHJzMpiLk9t1DwLrYZ9eh3mtvGG18l6/Xmu9Lr2+7jmI6UhmzuNpFfHH/IFI=;o43uI9ZnRY78dyGFoXZWYw=="
+secured: "B7IU4f2owooO6hjWKZlKeg6tsJ58C53J7IJ8DWJRJv/KOyxPaLILFwOzGpd87cVsle370S/fySsDP7tQkkmrDeFSTPHz7qDw6NL98AUUSI4MNmw2Zd9nHXWhIxUPoMaGfIke2WJhbkmeUc5tRpE+12xYxIJCcyfbzQK0snOEXGUM2zyaJ5PS66jAmqvjHQxHm99H4dqmwLPh401r3JeXSoAeOitOT2a3kpG4406wBUTcfYi8L1NisFcDCv8jT6GwMyCCZpaD27sQfz0K33lO17EqSYtu4+jM+6fq/bc0rDPHQ04gYqrABapNa+fShoio9rvLcG8pzxeBBTEf/Lw3kWoFZDMsIl3u72imevJJ6oENU/o/Bw/DCNUcmMm1M2xKFsnRxkdxj1ESo/eqwYTHf3yS4g1SR2fn/qxNq+R6CygARBllEs38byME13+qgIg7u/0X+rGJlyHDeV3Avp29WTZoqvEhp13zKLyTPFw02m3iKjhmQyC7/085Zl0UYDT/DhaUEggtzWeuYOdV8lsdoQ==;26uZXqwbvb+tKHs5l8/uKQ=="
 ---
 

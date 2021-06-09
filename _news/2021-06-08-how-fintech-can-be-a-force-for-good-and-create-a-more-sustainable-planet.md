@@ -24,6 +24,17 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Commercial Finance Fintech and Business Lender join forces to give Australian Small Businesses a fighting chance"
+    excerpt: "The funding gap in small and medium business (SMB) lending in Australia is estimated at more than $90 billion. It was reported in late 2020 that the major banks are rejecting more than a quarter of SMB loan applications,"
+    publishedDateTime: 2021-06-07T01:07:00Z
+    webUrl: "https://prwire.com.au/pr/96967/commercial-finance-fintech-and-business-lender-join-forces-to-give-australian-small-businesses-a-fighting-chance-1"
+    type: article
+    provider:
+      name: PRWire
+      domain: prwire.com.au
+    quality: 0
+
 secured: "deWm9wxvvJbRYE4onGwSnFxQd0bY7lHgP1rS7Kt7HSKw6xUKB1AaQ+hnYOU76V+OXUPh6eRCISodq1y4VfU3Axh7RO9bbGflwG2ukhtFbHDdFbGxgzNuGIJy+2ahQElmO94KnCYu6E426eV0WYJ2SZgTMs1rxBMzD1rt0RXTQQjHJ8Eds3wApDAKMZ1MSjQ8a/7Cj6ubrxVbd2OyHic+FX8teuRME0VMyGe6J8rK8KIad68pngXYgQ7QIcqd+4oieXqJER6F5Q1fhcw4pJrcU1yZ/a8UilN6Z8NmkYLcJlY6W9EBS71/YgNpmYSY+zDkn1vRUI+GYs8w9kAKSUL5IRtBD6G9U7b6dI1d+bqPMUk=;9SDvbTG6e7J3rFM1movsHA=="
 ---
 

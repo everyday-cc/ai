@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Insurance: Fintech 50 2021"
-    excerpt: "The insurtech companies featured on the 2021 Forbes Fintech 50 are innovating in a space that has been associated with antiquated processes and practices. These companies are bringing the age old concept of insurance to a constantly changing world."
-    publishedDateTime: 2021-06-08T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8f37238664aae477dd319%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2983%26cropY1%3D160%26cropY2%3D1838"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The 11 Biggest Fintech Companies In America 2021"
     excerpt: "With investment and valuations soaring, a Forbes Fintech 50 member had to be worth $5 billion to make our top list."
     publishedDateTime: 2021-06-08T10:00:00Z
@@ -62,18 +46,18 @@ related:
         height: 563
         isCached: true
   - title: "CRE fintech startup Blooma nabs $15M in funding"
-    excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures and existing investor Nyca Partners led the Series A, Blooma announced Tuesday."
-    publishedDateTime: 2021-06-08T14:30:00Z
-    webUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
-    ampWebUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
-    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
+    excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures led the Series A, with participation from existing investor Nyca Partners,"
+    publishedDateTime: 2021-06-08T15:03:00Z
+    webUrl: "https://therealdeal.com/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+    ampWebUrl: "https://therealdeal.com/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
     type: article
     provider:
       name: The Real Deal
       domain: therealdeal.com
     quality: 44
     images:
-      - url: "https://therealdeal.com/la/wp-content/uploads/2021/06/crosspost-20210608022016.jpg"
+      - url: "https://therealdeal.com/wp-content/uploads/2021/06/ft-CRE-fintech-startup-Blooma-nabs-15M-in-funding.jpg"
         width: 690
         height: 493
         isCached: true
@@ -133,15 +117,6 @@ related:
         width: 764
         height: 399
         isCached: true
-  - title: "Commercial Finance Fintech and Business Lender join forces to give Australian Small Businesses a fighting chance"
-    excerpt: "The funding gap in small and medium business (SMB) lending in Australia is estimated at more than $90 billion. It was reported in late 2020 that the major banks are rejecting more than a quarter of SMB loan applications,"
-    publishedDateTime: 2021-06-07T01:07:00Z
-    webUrl: "https://prwire.com.au/pr/96967/commercial-finance-fintech-and-business-lender-join-forces-to-give-australian-small-businesses-a-fighting-chance-1"
-    type: article
-    provider:
-      name: PRWire
-      domain: prwire.com.au
-    quality: 0
 
 secured: "d8ZtGUv6+IyCmRp56/Y9sCr4+V6PFW2WNt86aGuwQ5FWtc3sZjIGHrzxLsV5oBhYCotVHi7Kq+ZmB7BJawS4T4Sy+brq9ZiaBJoRnaBvWYF3jSj8O7VQll57e22DTuyGrY0bHpXzzUbDfhRDg7a7HdQuphppRimT35fLX4aC8UAcN9IZ/EAtSla31qCMHT7H9dGVFjuHn2vQJDCAD7pys9tOkM4ONYgBoE0Ems1sD+x6ipZQ3UKHMgYT+zu8/l0XCQN1aVbGY/pVoJ7PzyoH1pZ5CV7NPHQEhIUf1xjQXQ/m4pgAM5Vbx4RcTclR8MINVvAiIifD9PwPng1kYJK4TsLFSqLT9rIF3vunrxg5GC/pX5yv+eBg17xurh/PqLH6Qgj6MYOMxFRWFq3zsYqduf5zzvqdj6f7CuMbrgOqF2x26CLoSFWS5w7ejOSwkRwWpBzY7D/CpipT59N2rxwuSXNZ6lVL0M6+ZJ8TGE4dI0GUfKF8r83U/5ekaod51TUTEQeUY4cqN+FZlMHvbHQMmw==;VduufJbmGZbhHHYhDiizWw=="
 ---

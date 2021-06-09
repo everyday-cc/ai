@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
-    excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
-    publishedDateTime: 2021-06-04T23:34:00Z
-    webUrl: "https://kvia.com/news/border/2021/06/04/biden-officials-quietly-deploy-facial-recognition-to-process-asylum-seekers/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 37
-    images:
-      - url: "https://kvia.b-cdn.net/2020/04/hypatia-h_975fbaaa11f7415e7c3bc311df1a7fde-h_69d00cdd749b7dab664bc4702b02acbd-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Asset managers unite to urge human rights focus on facial recognition tech"
     excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
     publishedDateTime: 2021-06-08T11:11:00Z

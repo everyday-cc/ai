@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-08-man-group-oxford-quants-say-their-ai-can-predict-stock-moves.md",
+      "title": "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves",
+      "excerpt": "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-why-the-dream-of-truly-driverless-cars-is-slowly-dying.md",
+      "title": "Why the dream of truly driverless cars is slowly dying",
+      "excerpt": "If you're waiting around to buy your own completely driverless car, you may be waiting a lot longer than everyone originally thought.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
+      "originalUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fteslafsd.jpg&signature=2171b81204e7dccf351a1f495ead2e6b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-meet-civo-the-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service.md",
+      "title": "Meet Civo - The Cloud Native Infrastructure Services Startup Offering Kubernetes As A Service",
+      "excerpt": "If you are a cloud native developer looking for a blazingly fast, affordable Kubernetes service, check out Civo. You won’t be disappointed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bf0037864935013541e2eb%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/amp/",
+      "publishedDateTime": "2021-06-07T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-video-chat-apps-tout-inclusive-ai-features.md",
       "title": "Video chat apps tout ‘inclusive’ AI features",
       "excerpt": "Video conferencing services such as Google and Cisco are increasingly relying on AI to improve the chat user experience.",
@@ -199,7 +354,7 @@
       "originalUrl": "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -367,6 +522,57 @@
         "name": "Times LIVE",
         "domain": "timeslive.co.za",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-global-ai-market-predicted-to-reach-nearly-1-trillion-by-2028.md",
+      "title": "Global AI market predicted to reach nearly $1 trillion by 2028",
+      "excerpt": "The latest and greatest from the world's financial think-tanks brings good news for AI investors. The market appears to be trending towards $1 trillion.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/global-ai-market-predicted-1-trillion-2028",
+      "originalUrl": "https://thenextweb.com/news/global-ai-market-predicted-1-trillion-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Faimoney.jpg&signature=4a4ffe3c48818e233110dbd705d55186",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1006,214 +1212,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-machine-learning-at-the-edge-tinyml-is-getting-big.md",
-      "title": "Machine learning at the edge: TinyML is getting big",
-      "excerpt": "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
-      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/07/8c750b40-7b33-44e4-b928-10e4b45291bc/tinyml.jpg",
-          "width": 1031,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
-      "publishedDateTime": "2021-06-06T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-machine-learning-security-needs-new-perspectives-and-incentives.md",
-      "title": "Machine learning security needs new perspectives and incentives",
-      "excerpt": "The DeepSloth attack technique targets adaptive deep neural networks and is optimized for fast and sensitive operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
-      "originalUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2021/06/early-exit-architecture-examples.jpg",
-          "width": 884,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
-      "publishedDateTime": "2021-06-06T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
-      "title": "2 Leading Tech Stocks to Buy in 2021",
-      "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F629373%2Fgrowth-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "publishedDateTime": "2021-06-06T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
-      "title": "Artificial Intelligence Market is slated to grow rapidly in the coming years",
-      "excerpt": "This research service provides a strategic analysis of the Artificial Intelligence Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-t
 ampWebUrl: "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/"
 type: article
-quality: 102
-heat: 152
+quality: 104
+heat: 164
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
@@ -75,6 +76,20 @@ related:
         width: 645
         height: 350
         isCached: true
+  - title: "Computers designing themselves: AI could speed up computer chip design"
+    excerpt: "AI could speed up computer chip design Artificial intelligence (AI) could be used to design computer chips more efficiently than human engineers, according to researchers at Google who created a ‘floorplanning’ program to help with chip design."
+    publishedDateTime: 2021-06-09T17:37:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=674146"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 54
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0009/674172/chris-ried-bN5XdU-bap4-unsplash.jpg"
+        width: 6016
+        height: 4016
+        isCached: true
   - title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
     excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."
     publishedDateTime: 2021-06-09T15:01:00Z
@@ -99,6 +114,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "j7hZENaAogGV4ltTTHuzs9rLBi/eBddf6xbP++jZxznw5HWhIfwdSt9VumDwtxf533T6fa2FrEE+goPjN0qr0gKB1pvkZANPh/hwzq302rLHUqkNVILIsqzEKN8+2jpcAFq0jELg0r2OK/+fzqKrnbiffzqWAxlcUjvuSg5wtAS9qAUNh+lKJK+Uzlmy/iw1RqdCksg6ojBXiLnXgwATfb1oplmR/AEI0Y3Pe3h9U+OKP60vPeSK29BsJw7za4JYULLzuPSnLGIMc1UgBCFhFbT8zJdhFAXs5Gz3WJ2nN8QsMTFV+dpGxGzLDJvuikSl4bcmKT5M8VBLzgAitrnXcLqW3iP+vng6JENpsd1SkFs=;ulZ5mVyCzsjEqRHaqcWqCw=="
+secured: "OsQe86OboXRgOnPkuhBbgoF5PdWSMc8I9tURaJWtkt5N05rLRzGVJOX9YUYJFl06NHCiOZJpfaMpUQiJl9NZ3eOcDc6Xr7IjB1KWblnZ7OrXSmV8lhtfD2gta5ZbCZMXkSe0uxcoFB3BQLqslZfcccmVESC7t5EXuxxoOMQPM+h6pmSz3lH/ElZfg2lXJCoXcyXoUZX6SoqSiWQVHy0Wcb2Ux0k/+k5EJZA7FcY+BWvV5H/fjFNsDdIpOmKCfiTi1eIKm75CcrALk20KKXwvJEkHFvDJhiRsOU3eXOyopqss6+iyYjVbkn2sar+UJO4hRlZK80INrzciHl3fDxOAcTaG+rktrCMdK1ib5iEQgMfNa670wY+QUdGEWJ4OjPvF2OV3JTL4PSK5kj80/emiZfbpuXNhxsucKvRaq4ECu6t6ztEtOt1Z6MICTXc6YSLzClgujqNgYjuzJsA0STOEGRyl0FvI5WpdbALwmpJlFUpN4n+Cr1tRZR2w7SIV1B0T2gOdUqFqsYjcybokPEdx8Q==;DFL53Rmn69wIdI356E8D+w=="
 ---
 

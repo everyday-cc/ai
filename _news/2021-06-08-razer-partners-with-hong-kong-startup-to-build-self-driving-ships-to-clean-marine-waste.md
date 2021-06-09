@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meet Grace, the healthcare robot COVID-19 created"
+    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
+    publishedDateTime: 2021-06-09T17:33:00Z
+    webUrl: "https://www.metro.us/meet-grace-the-healthcare/"
+    ampWebUrl: "https://www.metro.us/meet-grace-the-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 76
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Y1KsYm9xky4I/xmGlK3IUTVEY7VOCmVS5Q3iqpC3H0TtQ8ezMipzhkbKcJt5hGM8+LEY/myUDA7Y62fDqH77a0rHN1Rxgs/yK2FEh+DWOZzTQMIHu0L+ofzJOjjYItwk1lLUu6valTH06Ux5mugHiT21Sy6xXOfugf4Ef3PtlrLFKC4oYkyi1ICFaDX0xfphkkAEX41iTnzCL7VoQuJKIMSt+NmceqAbz73skFcY+aSPt2usv4SDh7o39iKvUQ6FhyVTUm60BtwDLkbBNxH9huW6+mTh3Z3/xfNKPf5t897hMTKqJv5XJF/bFXu6kZaf7HABqdiZSszZfq0S9VDzaQZF26knI6xZPJ2QOE1rb7w=;yyKA1cJrURvqcWSFW/Uk0w=="
 ---

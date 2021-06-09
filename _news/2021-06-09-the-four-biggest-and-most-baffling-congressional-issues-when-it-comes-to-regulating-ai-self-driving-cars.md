@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -75,7 +75,21 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Breakthrough Technology Simulates Human Eyes’ Vision for Self-Driving Cars"
+    excerpt: "LiDAR sensors are the current solution for making sure that self-driving cars have a safe and accurate perception, but what if something even better and more cost-effective could be out there? This is what recent studies are trying to find out,"
+    publishedDateTime: 2021-06-09T15:22:00Z
+    webUrl: "https://www.autoevolution.com/news/breakthrough-technology-simulates-human-eyes-vision-for-self-driving-cars-162914.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/breakthrough-technology-simulates-human-eyes-vision-for-self-driving-cars-162914-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
-secured: "YKymQAVK+iwWWmTlrGqYK4bHKGXSkjLFkfZhGIJz/oHPZreJoQozhFAQEBDXEf7bTx4M7/BS/HXFuFFg2yEN08CqdYPGaZeKZpqWXdW5c7R9z24X1JLfIlqedj5nYYrqdJbtJ97MHw66hpPIyhIA33n73cUdPFFxOYP8WtAu8nTfHKZiutUsUXy8L3mD3gxNqZpT3cpJaI3YmanqkCVmTM54VCv5txRU8Fn7dLBoU0EzzpU/B9IqjsmB5IoWogLUAZLgXRrmlEqCuSz7PWl5g+b5wl34FFBGQdwKr/P+QoWaaBN0E3SfkIa+zj6sRTk5+8fJx7rSz0ioipl/gSDWszhagobiIdCHIQZtWYf88sc=;ZCqIZvdiQPieHJBJlYRR0w=="
+secured: "rfXDu/TgpH0k3LogZCmt9mbTojrK635QlFXKI4zEqULc0eLfTy5mwj/tAIDc3LAfzbA4lozVEbA+SmvFKBqa9h0URm4KB+kXcKy8QADFTmQcptrHTzwOX6JPt2V9XW1kRLS1V3EDd8S6FUQJAuAL3DQbW+d0BkE83UC+/hfZDW1ZzWW0e29sx+ZBIR2Z3kqVbv1/7Hmt+pfCCKgVbe4A6Edo0YtaRjvPeaWcFxUwG4ltKciFo6TiHBwjFwDCJSpDeQIknk5h5VyAsw2u9VyEcvFGZR/eUZjP8MeWJl0WIWYJWRgZyk9Jwqv6kS0caam9CVYM4oD09/O40b77ZAm4WHoBleoI1faNUnVUJ7SDdHtfQZL/ji9+a4SBObNA+JtoA2ZUKeaVRmaaZQWLfMGzuthQakkfvQVB+DPvF6yc9DJbkdJfzknvmTGG+4aoDvhh2+GLQinpmvUOWQXdZuibtFqqkX9p5ITeB1iHQ8st2cRo5bIEr66dWxZ8/ZV8Kr39AFI5Gd26RofxVH0noRFoYQ==;UujVYatbDsJ5eb62WM9i7A=="
 ---
 

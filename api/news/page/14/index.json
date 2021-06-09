@@ -2,6 +2,170 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-27-clearview-ai-hit-with-legal-complaints-in-5-countries-accused-of-facial-recognition-abuse.md",
+      "title": "'Clearview AI' Hit With Legal Complaints In 5 Countries, Accused of Facial Recognition Abuse",
+      "excerpt": "Clearview AI, the American maker of a controversial facial recognition tool used mostly by police, is facing a downpour of legal complaints across Europe as of Thursday, alleging scopious privacy violations,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
+      "originalUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/75b12be5ae0c734da6fbdfb994b5c987.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp",
+      "publishedDateTime": "2021-05-27T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge.md",
+      "title": "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge",
+      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award.md",
+      "title": "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award",
+      "excerpt": "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-eyeon-eye-tracking-device-wins-2021-edge-ai-/2021/05/27/9379175.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-eyeon-eye-tracking-device-wins-2021-edge-ai-/2021/05/27/9379175.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-udacity-aws-to-offer-free-courses-in-machine-learning.md",
+      "title": "Udacity, AWS to Offer Free Courses in Machine Learning",
+      "excerpt": "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "originalUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/05/1622109948_scholarships-online-free-courses.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "publishedDateTime": "2021-05-27T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams.md",
       "title": "Lead Semantics Selects Fluree for TextDistil, a Secure Natural Language Processing Pipeline for Enterprise Data Management Teams",
       "excerpt": "Fluree and Lead Semantics, two North Carolina technology companies, announce TextDistil for enterprise data teams building data fabrics and knowledge graphs TextDistil’s rules-powered neural language pipeline,",
@@ -962,196 +1126,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-more-efficient-lidar-sensing-for-self-driving-cars.md",
-      "title": "More Efficient LiDAR Sensing for Self-Driving Cars",
-      "excerpt": "A new machine learning system for driverless cars uses an end-to-end mapless driving framework that taps raw Light Detection and Ranging (LiDAR) data for autonomous navigation.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/252891-more-efficient-lidar-sensing-for-self-driving-cars/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/252891-more-efficient-lidar-sensing-for-self-driving-cars/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare.md",
-      "title": "Pandemic Shines Spotlight On Big Data And AI In Life Sciences And Healthcare",
-      "excerpt": "Healthcare and life science firms are becoming more aggressive, more optimistic, and more successful in achieving data-driven business outcomes that their peers in other industries in the wake of the worldwide COVID pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae87f76fcb859005f94d8c%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/",
-      "publishedDateTime": "2021-05-26T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-openai-launches-100-million-startup-funded-with-backing-from-microsoft.md",
-      "title": "OpenAI launches $100 million startup funded with backing from Microsoft",
-      "excerpt": "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
-      "originalUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/",
-      "publishedDateTime": "2021-05-26T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon.md",
-      "title": "Lockheed Martin And GM Planning Self-Driving Rovers For NASA's Return To The Moon",
-      "excerpt": "General Motors and aerospace giant Lockheed Martin are teaming up to develop new lunar vehicles that astronauts will use on NASA's upcoming missions to the Moon, the companies announced Wednesday, as the two push to join Elon Musk's SpaceX as industry partners to bring humans back to the Moon in the next few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/",
-      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8099f86d9bca57b5b640%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2697%26cropY1%3D0%26cropY2%3D1518",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/",
-      "publishedDateTime": "2021-05-26T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

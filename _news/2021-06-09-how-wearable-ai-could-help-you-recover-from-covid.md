@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Cloud: COVID-19 accelerates AI use by manufacturers"
+    excerpt: "According to new research from Google Cloud, manufacturers around the globe have accelerated their use of digital technologies due to the COVID-19 pandemic. Of the 1,154 senior manufacturing executives polled for the report,"
+    publishedDateTime: 2021-06-09T16:55:00Z
+    webUrl: "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/09/2f2eef0d-bb1e-4a07-979d-c608766920f6/resize/1200x/a93862840fbc4e067f58b28c7af79464/google-cloud.jpg"
+        width: 1200
+        height: 706
+        isCached: true
   - title: "Using AI to fight COVID-19"
     excerpt: "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis."
     publishedDateTime: 2021-06-08T03:23:00Z
@@ -43,22 +59,6 @@ related:
         width: 1736
         height: 889
         isCached: true
-  - title: "AI School of India launches AI Covid Warrior Contest for school students from classes 3 to 12"
-    excerpt: "With the AI Covid Warrior contest, school students can brainstorm ways in which they can create their own innovative ideas using artificial intelligence"
-    publishedDateTime: 2021-06-07T06:02:00Z
-    webUrl: "https://www.dqindia.com/ai-school-india-launches-ai-covid-warrior-contest-combat-covid/"
-    ampWebUrl: "https://www.dqindia.com/ai-school-india-launches-ai-covid-warrior-contest-combat-covid/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-school-india-launches-ai-covid-warrior-contest-combat-covid/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 46
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/09/FD76DF23-0AC9-4A24-8A28-15802D9EC9A2.jpeg"
-        width: 611
-        height: 407
-        isCached: true
   - title: "It's Safe To Return To The Office: Coretrust Deploys First AI COVID-19 Disinfecting Robots At Properties Plus Other Anti-COVID Tech"
     excerpt: "Coretrust Capital Partners has unveiled ADIBOT UV-C Disinfecting Robots that disinfect air and surfaces against COVID-19 and other harmful airborne pathogens as the centerpiece of multiple anti-COVID technologies at its office properties,"
     publishedDateTime: 2021-06-07T19:34:00Z
@@ -72,34 +72,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1527606/CoreTrust_Robot_2_3.jpg"
         width: 400
         height: 309
-        isCached: true
-  - title: "Artificial intelligence ‘may be able to calculate Covid-19 variant death risk’"
-    excerpt: "By simply adding in one extra step to the routine care of people admitted to hospital with Covid-19 who already have a CT scan, we can now detect patients at high risk of life-thr"
-    publishedDateTime: 2021-06-07T23:01:00Z
-    webUrl: "https://www.standard.co.uk/news/uk/artificial-intelligence-british-heart-foundation-university-of-oxford-ct-scan-kent-b939280.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 33
-    images:
-      - url: "https://static.standard.co.uk/2021/06/08/00/e99b549641a7660e642dfc2bcc2b1a3fY29udGVudHNlYXJjaGFwaSwxNjIzMTYzOTA3-2.51260731.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Autonomous vehicle makers help fight COVID-19 in Guangzhou"
-    excerpt: "Volunteers in Guangzhou, Guangdong Province, helps load anti-virus material on WeRide's autonomous minibus on June 5. Photo: Courtesy of WeRide . Chinese autonomous vehicle makers"
-    publishedDateTime: 2021-06-07T02:48:00Z
-    webUrl: "https://www.globaltimes.cn/page/202106/1225556.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-07/85cabd0d-1872-4c3b-ad60-ee9e91e4f466.jpeg"
-        width: 800
-        height: 480
         isCached: true
 
 secured: "krpzkHiG6g73stdaKFpYkD998fcvdgY2+/DKpGqFD3T03UT4ncCqLGKMoDeTGQBpPJeK+iWBu/3W4KiLnC1//ji67MiEjZI46kILPkS0ZlHCDkZA93Ul31uddipI+WNph1YYfq8OEx4ypKzVUD7LXYn2rLOpguKPjqruuiJI09OCFAVOrUkPUfjF/FL+5HV40UU31FVxaRuwAFB6MEQQvYUMUYlM+dvbH3z1aonjyEeyNmkML7ni8IvHGrJHDeEIXt9UijGnBsWH6618OVttA1kTdMp/yrAJ2flPDqpz+ORZPSkdCUm7x389l2nbZYbrybLTpDFbWNQo4ZDFIVBITpd85JuIr6L1SBtlC6axebSfg8TAHMqM8DT05yJo1HJLDCM3eDmZp5DSSx0w9/T480qu3DRG8J8q9vUXGYZT16x6y8opO8riVrIWk+TmRnocDt+ONgiQyOiO+zT6OxbycUqnuv4Ty73DPqtizoU9RTeaiLu4arpd5AIwFwMlSbQrKYjlCPfG0E4qbUmI1Zu6Pg==;jGnRa8yk9avsxN2hRbmQgA=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-10-eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance.md",
+      "title": "EleutherAI claims new NLP model approaches GPT-3-level performance",
+      "excerpt": "EleutherAI, a group of data scientists working to open source AI research, have released a language model that achieves leading performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/amp/",
+      "publishedDateTime": "2021-06-09T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-salesforces-ai-surfaces-relationships-to-drive-sales.md",
       "title": "Salesforce’s AI surfaces relationships to drive sales",
       "excerpt": "Salesforce's new tool, Einstein Relationship Insights, finds relationships between customers, prospects, and companies",
@@ -1393,51 +1445,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-natural-language-processing-for-healthcare-and-life-sciences-market-investment-analysis-microsoft-google-ibm.md",
-      "title": "Natural Language Processing For Healthcare And Life Sciences Market Investment Analysis | Microsoft, Google, IBM",
-      "excerpt": "A new business intelligence report released by JCMR with Global Natural Language Processing For Healthcare And Life Sciences Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/26/natural-language-processing-for-healthcare-and-life-sciences-market-investment-analysis-microsoft-google-ibm/",
-      "originalUrl": "https://ksusentinel.com/2021/05/26/natural-language-processing-for-healthcare-and-life-sciences-market-investment-analysis-microsoft-google-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Natural-Language-Processing-For-Healthcare-And-Life-Sciences-Market-780x470.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

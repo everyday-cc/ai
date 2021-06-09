@@ -9,8 +9,8 @@ ampWebUrl: "https://www.phoneworld.com.pk/50bn-is-approved-for-computer-chip-and
 cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/50bn-is-approved-for-computer-chip-and-ai-technology-by-us-senate/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: phoneworld.com.pk
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "US Passes $250 Technology Bill for Chips, AI and Robotics"
+    excerpt: "The US passed the U.S. Innovation and Competition Act, a $250 billion bill promoting US semiconductors, AI, robotics and technology."
+    publishedDateTime: 2021-06-09T16:31:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 106
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2018/08/chinaindiausa.jpeg"
+        width: 602
+        height: 334
+        isCached: true
   - title: "US Senate approves $50bn boost for computer chip and AI technology to counter China"
     excerpt: "Legislation shows deeply divided parties are largely united on confronting China in the ‘race for technologies of the future’"
     publishedDateTime: 2021-06-08T23:10:00Z

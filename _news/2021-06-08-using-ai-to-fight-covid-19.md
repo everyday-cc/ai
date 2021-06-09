@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Cloud: COVID-19 accelerates AI use by manufacturers"
+    excerpt: "According to new research from Google Cloud, manufacturers around the globe have accelerated their use of digital technologies due to the COVID-19 pandemic. Of the 1,154 senior manufacturing executives polled for the report,"
+    publishedDateTime: 2021-06-09T16:55:00Z
+    webUrl: "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/09/2f2eef0d-bb1e-4a07-979d-c608766920f6/resize/1200x/a93862840fbc4e067f58b28c7af79464/google-cloud.jpg"
+        width: 1200
+        height: 706
+        isCached: true
   - title: "How wearable AI could help you recover from covid"
     excerpt: "A Chicago-based pilot program is testing a body sensor that monitors covid patients remotely. Angela Mitchell still remembers the night she nearly died. It was almost one year ago in July. Mitchell—who turns 60 this June—tested positive for covid-19 at her job as a pharmacy technician at the University of Illinois Hospital in Chicago."
     publishedDateTime: 2021-06-09T10:00:00Z
@@ -42,22 +58,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "AI School of India launches AI Covid Warrior Contest for school students from classes 3 to 12"
-    excerpt: "With the AI Covid Warrior contest, school students can brainstorm ways in which they can create their own innovative ideas using artificial intelligence"
-    publishedDateTime: 2021-06-07T06:02:00Z
-    webUrl: "https://www.dqindia.com/ai-school-india-launches-ai-covid-warrior-contest-combat-covid/"
-    ampWebUrl: "https://www.dqindia.com/ai-school-india-launches-ai-covid-warrior-contest-combat-covid/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-school-india-launches-ai-covid-warrior-contest-combat-covid/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 46
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/09/FD76DF23-0AC9-4A24-8A28-15802D9EC9A2.jpeg"
-        width: 611
-        height: 407
-        isCached: true
   - title: "It's Safe To Return To The Office: Coretrust Deploys First AI COVID-19 Disinfecting Robots At Properties Plus Other Anti-COVID Tech"
     excerpt: "Coretrust Capital Partners has unveiled ADIBOT UV-C Disinfecting Robots that disinfect air and surfaces against COVID-19 and other harmful airborne pathogens as the centerpiece of multiple anti-COVID technologies at its office properties,"
     publishedDateTime: 2021-06-07T19:34:00Z
@@ -71,34 +71,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1527606/CoreTrust_Robot_2_3.jpg"
         width: 400
         height: 309
-        isCached: true
-  - title: "Artificial intelligence ‘may be able to calculate Covid-19 variant death risk’"
-    excerpt: "By simply adding in one extra step to the routine care of people admitted to hospital with Covid-19 who already have a CT scan, we can now detect patients at high risk of life-thr"
-    publishedDateTime: 2021-06-07T23:01:00Z
-    webUrl: "https://www.standard.co.uk/news/uk/artificial-intelligence-british-heart-foundation-university-of-oxford-ct-scan-kent-b939280.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 33
-    images:
-      - url: "https://static.standard.co.uk/2021/06/08/00/e99b549641a7660e642dfc2bcc2b1a3fY29udGVudHNlYXJjaGFwaSwxNjIzMTYzOTA3-2.51260731.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Autonomous vehicle makers help fight COVID-19 in Guangzhou"
-    excerpt: "Volunteers in Guangzhou, Guangdong Province, helps load anti-virus material on WeRide's autonomous minibus on June 5. Photo: Courtesy of WeRide . Chinese autonomous vehicle makers"
-    publishedDateTime: 2021-06-07T02:48:00Z
-    webUrl: "https://www.globaltimes.cn/page/202106/1225556.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-07/85cabd0d-1872-4c3b-ad60-ee9e91e4f466.jpeg"
-        width: 800
-        height: 480
         isCached: true
 
 secured: "VOvie/139yQoUG4mRciEA063gUBRQl25NkKMMJhdNDF7m8TQB50VZzyjXyCTUq+xwvwAG7QQXWK7Nf+EVxYVjmXy0miJ4vI12+tsLSFui4C+CLXlawqqeFPAqiQsyHg1pSPwvHcnwxTzk0VaTDlwNAObz+rbAwOxm2wbCTtKOclUd2idNN7LB7Gq/PKji9fAc8EQHruJyN9Esv3I2IzpIX/kpmvC5xukHnG80pqJTkW/WJwkXm2BESg1Gygg3Ud1PZtgxg4CpXLM0BlXrgq6L35qa3LCD6jKG03CIiOPWdRG3vI98QtYR+GPnwnHItevFtMdyUURNsCHT61Sb4tkcPhzFrtphH4aRUkHVnSMJzhjo429unt8MZ22tShBagqs9ZXG1yD8C5wK7C8zHG9YYrLX0CfPqyo+ePBSyQIJ80ssdSqxBvCujMIbwPTU/2aJLw6bFEWqz5HiOOGQNmzqLELPoFhGag8p49/pSv7IW6+1pvzVBaekapjkfr7aOdWqWRcluI2h5GBdEt5gGyV4Bw==;aTXBWgrYHXIfOCkwPNlonA=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-10-the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy.md",
+      "title": "The future of AI in finance is here: Reducing the cost of accuracy",
+      "excerpt": "Finance professionals are no longer willing to endure painstaking manual reviews and the threat of inaccurate data in forecasts and plans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1169108502.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/",
+      "publishedDateTime": "2021-06-09T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-the-pandemic-and-its-implications-on-industrial-machine-learning.md",
       "title": "The Pandemic And Its Implications On Industrial Machine Learning",
       "excerpt": "For a moment, let’s set aside the abject tragedy of the Covid-19 pandemic and the demoralizing conditions through which the world continues to persevere. Instead, let’s examine the state of affairs from a dispassionate and scientific position.",
@@ -55,21 +107,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-08-the-future-of-insurance-fintech-50-2021.md",
-      "title": "The Future Of Insurance: Fintech 50 2021",
-      "excerpt": "The insurtech companies featured on the 2021 Forbes Fintech 50 are innovating in a space that has been associated with antiquated processes and practices. These companies are bringing the age old concept of insurance to a constantly changing world.",
+      "path": "_news/2021-06-08-the-future-of-wall-street-fintech-50-2021.md",
+      "title": "The Future Of Wall Street: Fintech 50 2021",
+      "excerpt": "The firm is one of the honorees on the Forbes’ 2021 Fintech 50 List, our ranking of the most promising private financial technology companies. Across finance, listmakers are revolutionizing the way people spend,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/",
-      "originalUrl": "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/",
+      "webUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/",
+      "originalUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8f37238664aae477dd319%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2983%26cropY1%3D160%26cropY2%3D1838",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b91b7330062e83c8f4391e%2F0x0.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 801,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,8 +129,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonbisnoff/2021/06/08/the-future-of-insurance-fintech-50-2021/amp/",
+      "ampWebUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/",
       "publishedDateTime": "2021-06-08T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1311,49 +1363,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services.md",
-      "title": "US Federal Regulators Add Time to Comment Period on AI and Financial Services",
-      "excerpt": "As was reported last March, five federal regulatory agencies joined in a consultation pertaining to the usage of artificial intelligence (AI) and machine learning (ML) within financial institutions. The Federal Reserve Board,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence-600x784.jpg",
-          "width": 600,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
-      "publishedDateTime": "2021-05-17T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

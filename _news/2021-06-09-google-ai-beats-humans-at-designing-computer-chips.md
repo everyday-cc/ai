@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 104
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
         width: 1200
@@ -72,6 +72,20 @@ related:
         width: 645
         height: 350
         isCached: true
+  - title: "Computers designing themselves: AI could speed up computer chip design"
+    excerpt: "AI could speed up computer chip design Artificial intelligence (AI) could be used to design computer chips more efficiently than human engineers, according to researchers at Google who created a ‘floorplanning’ program to help with chip design."
+    publishedDateTime: 2021-06-09T17:37:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=674146"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 54
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0009/674172/chris-ried-bN5XdU-bap4-unsplash.jpg"
+        width: 6016
+        height: 4016
+        isCached: true
   - title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
     excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."
     publishedDateTime: 2021-06-09T15:01:00Z
@@ -96,6 +110,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "+9Ab757yR0msExuTawsAdt5GoCqAGknlvqTWd6PVtW7jUBfSb+eYCOm6qCeleqlvSwcsseCOUjsnKisO0tG2J377QkzaA6iiUzw8F5RdmhypwtRH4Yf6+EcjlBHYQr/buMVMHSRQNIaJ28uNYi65/BcCkd7CgWQlpYYLgCVu3PAUePOvLYU33qC02nDQv+UTMZip7SNnV02rBOgiafDjaq8/SDWQ7KLgIusAvu58hzsU1kBnnn0R2HskGeizdcnCil+WnE6OWuCIOrijdRDcwEJW3Ibt0OI5nGqG5EW2kqIkqRY3mfwEpncmJTgvgA6jzQNKgyHsfcpYlFeORDKRtxDkTxpjlzWfJ5S0/0cucmQ=;65Tm3Lhor0/g0Nu61aLl0A=="
+secured: "7KJstw2Vc0IpAQ58puAQM337BjKwlBC/HNpgHI3Oke4HSSq6F8bbZsGKeDnrjuXFoKoYmnIjInPbA9B6Og0h7IXgJwqun7WlEyr9H+Fz6QuNLWSFQxeAe9HOvC6PbVM/2oaZRzTr8iVaFzsHcoXbpKJz3BXaNfpL/d5/cny76hFlmwZ4+HXRkYRDhP3GG+jj6l39cLQfEsHGr32WhBmLxH7jiMF8t8RFB0G89m461wAkWUhjmq8qYkG6HOjrxQIHTobuqkAFgxhXZ3sjaN2iLyIERBCIDMJz7lvEfxh4D3aSkw024A4osQNVWtXJUE0V0bq21n+3xmIuknbmJrHaVyondWQ2Bg22Jf4BC5hF3JXTe9dxqsU+/qk3iOSt1F91ArXLq3yqx0FYWH/FEbglLwL0foYW26lZP53/iwZoBkAh6EjM1yImVbSGWdsTP0Z6JQ9wdheH8C5jb3MK0uxJSEVj6KrlO9WolKuJul1sku6SuAbQ/Gq2iLYP/JcmxsSdCeduPsdKIC0929QTyg4Hhw==;7C1VX8Tga00919sfsbz6qA=="
 ---
 
