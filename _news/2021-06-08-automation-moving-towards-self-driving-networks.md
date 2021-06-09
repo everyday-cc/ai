@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 579
         isCached: true
+  - title: "The conspiracy keeping self-driving cars off our streets"
+    excerpt: "They were meant to be here by now. We’ve all heard about the self-driving scenario where the autonomous car drops mum and dad at work, swings back to get the kids for school, and then parks up while it waits for the afternoon summons."
+    publishedDateTime: 2021-06-09T03:19:00Z
+    webUrl: "https://www.drive.com.au/caradvice/the-conspiracy-keeping-self-driving-cars-off-our-streets/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/jxgpjsyxxbtlzflrfuny"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "vbrvriPUNKS7pe3lUzT/iXb5UlcLAe6+wYibbficyAe9h87kCcAsUg00HDntshGdnHE9JR4LC/+QlVxgcxnOGmI8hPYkZV5QaQWsD+k66AZIJ0T/OBy8bV+IJIHWcLWeS+QVg1mHMzhrhF+6BnmYQmo6fNzEb5bCFTKXXTfVmLYRWviRwdI6UINp1XXSLc3WbBYLRiRprHSJ6jdL367LUCTHdJxoRcNuFdacP+AXaQAfutYBE/El/KGddHwKbVcAhwfxNI8Ta2swK4Jok6rKR5BFZb79wiAX1SPO1CgU/QoPK6kFMuc5SleztPnSRHuERabCsj11pHjaiEYyIt8OzJhEAH0J56QZ3VPFm3dVMx4=;Rc9USy16mGqU8aepc7JSIg=="
 ---

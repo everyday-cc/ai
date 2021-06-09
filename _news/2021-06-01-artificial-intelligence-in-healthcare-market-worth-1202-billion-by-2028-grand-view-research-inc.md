@@ -2,23 +2,19 @@
 category: news
 title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
 excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
-publishedDateTime: 2021-06-01T07:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317"
+publishedDateTime: 2021-06-01T07:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "JYjKNI4x0I+M2TOtouYcGZapZUuWw4ieDafR6wpYaeGBQh187FMZWEVoQt9NY7oNAu8V2n/AV2GYvo6vPsMOgYRSQt5vbCzywPnIkor709VfAZs/j5qnijmMjR3e5/B4tuwG0x+mviLiqHfW/btMurX2y4E+idyi/9O7izhWGLlAtHFJTk4QAbH+WB4gatAMjrYWVoC4B10yLosfJdNAYSDJqAju3O3MdI8jKXXdowguxN6Ynp9lKw8c8dd9dgDuRfyD+iV8xtL1av4+VMU4QuFyWva/51u4esE/As7iZwdMuD3gzGeOQOW0KteQeTdzAX9slILHwpOs2/dP3I/KJ/4f7zgfd2JkFAHoauGlr4E=;pJbcfKEPVR9iha9QsbItvA=="
+secured: "VfbtjVWWf+FzHC7tdOSm3igVSuVCrLSk7a2QxzQNdApP4nzXllaW7VZToPh0TU2JCKUPKiLpgr0/ysDlBQQyoC36CFyrYNol/pb1YNjnvt+XUJLoCgqKxDn/tOMEId9NWyd4t+xFxl6ik+j0CqaV0TeMpUhWfhyZ75Q5HV35fwY1jvWqIOhWvNfhRoSpQBbiVXHghp7cKJZfBDtgKCmqUl1wBFrol+bGMk3sFGKLf2yk54qtURdFF1WFU4lqsL3pae+uCruJl5wRQZA3SQwpYKntmpRYoWldiOg3WgZHconYtF7hxj3X2hqB+K4jo6G/IoCeDBbV+oN/Z2A9oItWOuBbQ0VZW+iFlpN5XdnftjY=;UujQRN3TO1664QUKQ6lxKA=="
 ---
 

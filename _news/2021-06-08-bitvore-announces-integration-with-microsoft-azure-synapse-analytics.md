@@ -3,8 +3,8 @@ category: news
 title: "Bitvore Announces Integration With Microsoft Azure Synapse Analytics"
 excerpt: "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications."
 publishedDateTime: 2021-06-08T12:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385938.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385938.htm"
 type: article
 quality: 34
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "gXVOmUTevtdD79E7dMrHTS0/NNkc6ZP+HuhDjDnz2Q2fzIrINIFvgq7XLuXzgNK+BgQh6A6fxgxDGAN6QvZG9hROCrQrBCaCfPHA8CoE0irheECNXUJNzr+jG7lRfQSfKz6gRAJIXejuCxe63WaKtMOKLMaLw6vOx8YzzGm8CWYEJbuXWU1iPqtNsb7Ls1iUgq9jXh9GOgr1nyz7bQcjD/nxz5PJMIGaVGucsUd/h40ceor5ejU/WBLja4jEDM4Lc3R+sznxW/po3CsfJ8n9ZC7H+3Inf7jpixCWBY8Ee1bBl1oETOEELg5j30ZBd7tvACp458wq9sCbPyc3h6kpSUjO/K4qCbWCDr35Hsr/hbk=;EY/gWGWQzVjnSSj3iKKRXg=="
+secured: "j7awa/KR5l/bR51I2Wf6Nmk7yRNfyq5KkB2X654gufl+08gu4CxQ4k9ZOg1nsIVeSo2m49cIw0k7AgMW+h256kZsKXBeg8n8cDzza++qEwQXYyxB7S3UdBZCfP5tfTdTwY/DPmHYHSCUfmg5r9ey09jb/TmcacyeCF89dyKA1J7JZl6tq4bXKP08i31EeXhP2kUPz7zJ7sBfFdPvkPK+Lp8p7ixoUtJi4IHI8kO78IEM6w8fckh1fk8i2UcOG43XRA5FjNwtG/P0hTcskvuQ0UStWqRTP2RviljZHkjRrGmxd9HPv/iIxAPjSpwlfBY8129s+BHNjDRG7TmW79p1SZDCl3HfpASGKC+Z/ZHCrPs=;Vn7Lab6oG+MABDNZmbGShA=="
 ---
 

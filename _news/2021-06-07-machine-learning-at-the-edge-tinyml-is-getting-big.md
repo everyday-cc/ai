@@ -3,10 +3,10 @@ category: news
 title: "Machine learning at the edge: TinyML is getting big"
 excerpt: "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,"
 publishedDateTime: 2021-06-07T06:30:00Z
-originalUrl: "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
-webUrl: "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+originalUrl: "https://www.zdnet.com/index.php/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+webUrl: "https://www.zdnet.com/index.php/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
 type: article
 quality: 104
 heat: 104
@@ -25,11 +25,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/06/07/bd8dbd47-f2d1-4ad1-a0dc-c088a5c712d7/tinymlopportunity.png"
-    width: 1185
-    height: 659
+  - url: "https://www.zdnet.com/a/hub/i/2021/06/07/8c750b40-7b33-44e4-b928-10e4b45291bc/tinyml.jpg"
+    width: 1031
+    height: 657
     isCached: true
 
-secured: "ESNfuO+pgG5qBs1uDjOW16IXeAs4zOjYls+gFGzTCccASmaOJBWtcXTDT4SZW2QDMDaLT5NfYqW0cJMZDT32Wh/5nmnRqdO7g3o/5Xa7XBfrLrL1OjKCVwLFTD8rD3Nyi1EawWWo1B+irGhjryG+pr3m/z5nrqLmjw8ztZomwIJuAKzTwnKNrkx69BFDf2R8yhy0yR9zgST9ChVsJ8lLzzJpdlPywgAu3xmKoNF0ax0x9Rb3Gcsl00JUEBeV7LhJz02XqqieHxP5DIOhErrhUTcWLMr/0sktmnDW0HpKKzatGIs7XiMW1TBgjSQdP40MQxaZgNX8RO94fmk9Pgu/MXWArJSoa0bISuTuGYX+CidigBV5iXcC5/BNdN0qbAmp1PLBU7+8TLIR9+Oy+s6iAzWXmWFhuUTM49N7B15Z6GPa7Vqsxw0ElOgE1EXZspXKB30BJgE2AuLs+VNDNW+elmUiK4V+ZE4KYAK/3SMx64mkb28pz2wQcKCPjlKPN/wo+wXMg6uG8M3b1vODd5EZeA==;Xd2DSdyHKihNIHBkZVv+ZQ=="
+secured: "AvdDHh3nX499EaKWPh54tvlmznQfcFB2h+vTWJVfjDuuE0JIJDTA+R7nGH+hh8ilvDlcAmWqXdn4mb33vEFuqRBSZBFrdk2ebV/8O/JyOEMpHVmvUzMClqxwuF31mPazoRt9lN1EjtY4TLxydqQcwhOFRq+Q1lw6QlmIZ4l1Ky/cJHLjIE3xPfdY9hxA8fZOSmcnJ13tWTKgwt1QH2VEYxYmYK16QP3Pw4R5UrTryGQCPu40MyesvBGBHwCciz9FzSfQHxPHGkC9Rm3rOHYep7UJ19G50P1ifXZSEjMGsMWRtHtTwrKkEY2svCnpcoMUotgrBja0KOg1W5e8P/5IKI6/p+UnTlRVwqOl8pv4BXE=;lqBiF/5SldN/d7HDjwblUw=="
 ---
 
