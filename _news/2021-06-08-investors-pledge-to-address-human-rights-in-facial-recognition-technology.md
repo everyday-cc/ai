@@ -135,6 +135,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facial Recognition Tech Talks continue"
+    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
+    publishedDateTime: 2021-06-08T22:00:00Z
+    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
+    type: article
+    provider:
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Asset managers unite to urge human rights focus on facial recognition tech"
     excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
     publishedDateTime: 2021-06-08T11:11:00Z

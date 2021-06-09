@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
-    excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
-    publishedDateTime: 2021-06-04T08:37:00Z
-    webUrl: "https://www.airforce-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 73
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg"
-        width: 2121
-        height: 1193
-        isCached: true
   - title: "Massive Slate of iRacing AI Updates Set for 2021 Season 3"
     excerpt: "Racing’s ever-expanding slate of AI content continues to grow for the upcoming 2021 Season 3 build, set for release on Wednesday. Multiple cars and nearly 30 track layouts will be making their debut with our virtual racers,"
     publishedDateTime: 2021-06-07T15:25:00Z

@@ -21,33 +21,30 @@ topics:
   - AI
 
 related:
-  - title: "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments"
-    excerpt: "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on"
-    publishedDateTime: 2021-06-08T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments-301307887.html"
+  - title: "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out"
+    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years."
+    publishedDateTime: 2021-06-09T00:00:00Z
+    webUrl: "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL5N2NK4XL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2NK4XL"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
-    excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
-    publishedDateTime: 2021-06-07T12:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+  - title: "(Weekly Roundup) Top AI, Data Science, Analytics Appointments In India"
+    excerpt: "A round-up of the recent appointments across various tech leadership roles in India. Earlier this week, Bengaluru-based analytics company Course5 Intelligence announced leadership changes across its business verticals."
+    publishedDateTime: 2021-06-06T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/weekly-roundup-top-ai-data-science-analytics-appointments-in-india/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/analytics-appointment.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "i7pI2aosdqG86p/0J/4W/kF1j+2R0DWun2xUpaJveZDgAQems4wG99X83xR01ppy2qJyXhmiJQUvRAjuIXRSVHe5OfN0SJNbiPNQ0uy7GnHoRiX4K7fQb7GUAdr5C9v9nwvOMiZ8yeaXTnecu28x3KkCAeHwki5kxU8DreA1Ty1RUqF3WaWQ5bii1vxa0HekEbnvds92aDhuwR5bFrF2uYGZltsIsGfmVpC5Yu3R4LSYXescar5IFHlQ0QHm69KObAJG6QcJG0w7EwymQ5LYc+nBSGFVpM161023aBK7WftWVpZWFCTiaw/xDNA/0DM7jxbiQCl61p4kMbJSLy8Oy2w4OnnsczObH7kxiz2htLI=;EKAspu7SKR+YYstKP5fT4w=="

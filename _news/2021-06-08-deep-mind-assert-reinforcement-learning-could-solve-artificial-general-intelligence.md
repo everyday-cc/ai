@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/06/deep-mind-assert-reinforcement
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/deep-mind-assert-reinforcement-learning-could-solve-artificial-general-intelligence.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,34 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Reinforcement Learning Comes To Android Phones"
-    excerpt: "AndroidEnv has a universal touchscreen interface that enables the empirical evaluation of general purpose RL algorithms."
-    publishedDateTime: 2021-06-04T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/reinforcement-learning-comes-to-android-phones/"
+  - title: "Artificial General Intelligence Limitations"
+    excerpt: "Ray Kurzweil wrote the Singularity is Near in 2005 and he described the near inevitability of the creation of super intelligence and a Technological"
+    publishedDateTime: 2021-06-08T23:56:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/06/artificial-general-intelligence-limitations.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/06/artificial-general-intelligence-limitations.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/artificial-general-intelligence-limitations.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 44
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/reinforcment-learning-android.gif"
-        width: 800
-        height: 450
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/05/image1-1.png"
+        width: 626
+        height: 352
         isCached: true
-  - title: "The search for artificial general intelligence (AGI)"
-    excerpt: "In the search for artificial general intelligence (AGI), today’s crop of AI applications shows very little aptitude in many things that any three-year-old can"
-    publishedDateTime: 2021-06-04T07:51:00Z
-    webUrl: "https://dataconomy.com/2021/06/search-for-artificial-general-intelligence-agi/"
+  - title: "BST Global Presents \"The Journey to Project Intelligence\""
+    excerpt: "BST Global, an enterprise ERP solution provider that serves architecture, engineering and consultancy firms around world, presented the company's vision for the ERP experience of the future during a live event titled \"The Journey to Project Intelligence."
+    publishedDateTime: 2021-06-08T09:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bst-global-presents-journey-project-intelligence-/2021/06/08/9385521.htm"
     type: article
     provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 24
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/06/search-for-artificial-general-intelligence-agi.jpg"
-        width: 1920
-        height: 640
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "Sk4UO3/QIs98x8wwRBdaeQ39Sm0Wp+nYPBUVvPOtmxYclnzwD2fiEeB44EYTffpqz7REBP/Xxk+CzRZQ9RJHuwwmtwrabGsd/tJqP4EI/cD255G4PgyIYUt1J/hTIa+Y1TJ2H2eF/BlpWBoRiwcYENLakvDWSa3bq8zht8Yrk9pAUzJk9g/wTJYHlEjZLSBmJ6d9oRsKt9ROso156Fs1hdPxLBmUECSRTKIHUCUBneeuqGi1qgIw9vgFkzGJPNz91VsiAug2rZRVIFRpJ72PhwO1fqCXCSLvwfnGaoin5aEufZ7Wb4PlJUAXli7Z+f2BfhIHvgq125bhrDEDHnrAVY58CK0cNQSEKrQMcBsDQgA=;SoHZ7ANSLzdKN1ruhnlmgA=="
 ---

@@ -135,6 +135,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facial Recognition Tech Talks continue"
+    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
+    publishedDateTime: 2021-06-08T22:00:00Z
+    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
+    type: article
+    provider:
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Investors pledge to address human rights in facial recognition technology"
     excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
     publishedDateTime: 2021-06-08T14:19:00Z

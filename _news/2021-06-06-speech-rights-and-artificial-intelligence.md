@@ -20,21 +20,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "AI still sucks at moderating hate speech"
-    excerpt: "For all of the recent advances in language AI technology, it still struggles with one of the most basic applications. In a new study, scientists tested four of the best AI systems for detecting hate speech and found that all of them struggled in different ways to distinguish toxic and innocuous sentences."
-    publishedDateTime: 2021-06-04T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/"
-    ampWebUrl: "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/amp/"
+  - title: "3 Ways Revenue Cycles Are Using AI Right Now"
+    excerpt: "YiDing Yu, MD, chief medical officer at Olive, provides an overview of how AI is successfully being used in the revenue cycle."
+    publishedDateTime: 2021-06-08T14:29:00Z
+    webUrl: "https://www.healthleadersmedia.com/revenue-cycle/3-ways-revenue-cycles-are-using-ai-right-now"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/bananaflage-b.jpg?w=3000"
-        width: 3000
-        height: 1993
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/shutterstock_1040657359%20%281%29.jpg"
+        width: 1920
+        height: 844
         isCached: true
 
 secured: "LFacLgJiSKh31QB4jbnogmGJ0D7Eddop/qxZC6Kvu5VMUyDeD3TwvsQ4eefwCc5/eG/fLRtuFEp0Mw8sZp0ENQSxDHqm462B7SIt4Z/Oat5j2iQB8zPVPNIgsMggdJz/zja3iehDboLDV9alGWxxJht+BCZ/Sri3lybEYqy05qWNXcjfQG3sdgz985ad/N/Ghv8tP2lO1jSOJ2WRqZs9GQMD8QW/1FJT2aHEj+MTx1WcJE9tZqD6tGJANOD1+g5XvWSmk93dVwwflgr+qlYMivu/T7eAv3gewM6acEpjZp5O5Czrk/VsJipmgaN8EpqLAwvKyx5ngyhyGHRR8ROBqOUWVcVHreFp0sJzcWivAe0=;wmNKQ/HjptVHR438QsBK/Q=="

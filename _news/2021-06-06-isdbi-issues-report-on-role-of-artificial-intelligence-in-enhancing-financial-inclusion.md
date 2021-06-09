@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 1112
         isCached: true
+  - title: "IsDBIIssues Report on Role of Artificial Intelligence in Enhancing Financial Inclusion"
+    excerpt: "Trend: The Islamic Development Bank Institute (IsDBI) haspublished anew report highlightinghow Islamic finance and artificial intelligence canenhance financial inclusion. Entitled ''Artificial Intelligence and Islamic Finance: A Catalyst for Financial Inclusion'',"
+    publishedDateTime: 2021-06-09T00:35:00Z
+    webUrl: "https://menafn.com/1102233514/IsDBIIssues-Report-on-Role-of-Artificial-Intelligence-in-Enhancing-Financial-Inclusion"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/08/TNA_00defimage_story.jpg"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "qVUAbEhoWuXDKQhV577Br8pkO35y56W8cDbfs1N5Zw/3tvyrr2IWABALwnSLH24haqjwGiurlL+ygdfzlUOq8mhZz8vWzyi+VpWgtKABNsoReRodQeOj0udXL8jfoTE4hci+QNDuu8wDuBCyxUs3ZbPAdNLF0UVn1pM27YbqbWyoXo/xXzAk/VkZUnUr2RV1Cv9qW5lsaVtQTOBAR5uzlXvV1A/4BW5zwKImEzWiHeU1nKyJM76czWpa5xnGXxyacnxlydMyPppwLeZzlp37zSd1+asFvIKFjAUKHCgpA7xpoGfkJcFgI4Yy+O6jL9tNGR3R63MeLvDKJ0v5djYtsX3IitQyLTq8EY4Ivu7P8ZM=;vaVVW8gNJ9oq0nIefa1Eug=="
 ---

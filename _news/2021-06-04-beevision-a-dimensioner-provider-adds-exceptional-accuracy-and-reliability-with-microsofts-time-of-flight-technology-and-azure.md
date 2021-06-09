@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimens
 webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -21,31 +21,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "BeeVision adds accuracy and reliability with Microsoft’s Time of Flight technology and Azure"
-    excerpt: "BeeVision adds accuracy and reliability with Microsoft’s Time of Flight technology and Azure Companies in manufacturing, retail, logistics, warehousing, transportation, and other industries, constantly need to determine logistic charges and increase warehouse and vehicle efficiency."
-    publishedDateTime: 2021-06-07T09:48:00Z
-    webUrl: "https://www.logisticsmanager.com/51134-2/"
-    type: article
-    provider:
-      name: Logistics Manager
-      domain: logisticsmanager.com
-    quality: 43
-    images:
-      - url: "https://www.logisticsmanager.com/wp-content/uploads/2021/06/foto191.jpeg"
-        width: 1998
-        height: 1125
-        isCached: true
-  - title: "Bitvore Announces Integration With Microsoft Azure Synapse Analytics"
-    excerpt: "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications."
-    publishedDateTime: 2021-06-08T12:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "jP+npApxGt6WnFAEnScq4MW4wH7iqvbUeHxCBxmrhn9eX+GyhE29iwXgA4K7bQKU9g8p4Q6cVzCFPXow3VM1RJNO/QSx8uwi9pmWkyx0NUC/UN27wp0cX96SwLXHOuuOMsZumBebLPTY3he6NBYbLVSBQeG6+rQ8AcRpInZWgjLM3jAP+f0Z6YmbXI9ihKUaf3VNjjVeXXCqJA7umRKfAZ/FQVu2RykDYYc5mwVG1CqfUyntFRDSLT5OW92CWUy9PMz/6Cu+516r/BFnomBywci4kqTiT8uY237V5BARtSinwBRSDfvP3JK+EcAv8sTkLECWHg0YJjgmmQDRExJhLjY7x8jDZtHwWVRqQlhzSfEyAnTerPm1bOxNJkyGp/dnYMkCogTghEAjaNDHDpERLGP8ncNpm+5IUHqU5U58x38kwWNZjDTPEvsd447ODLhxB4AnanciTFdQ1+txSXoRu7K/WrZhEUp2RDeJhQcNRtTEQRKeTH7IvVp2EHYSNMx70JPwCBoa5cOiqFOqC4idlg==;1AdCCxnypIM5QHfgUgNxQQ=="
 ---

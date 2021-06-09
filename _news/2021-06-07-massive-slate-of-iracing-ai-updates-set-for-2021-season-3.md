@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Face recognition is just the tip of the AI Computer Vision iceberg"
-    excerpt: "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,"
-    publishedDateTime: 2021-06-04T08:37:00Z
-    webUrl: "https://www.airforce-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 73
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg"
-        width: 2121
-        height: 1193
-        isCached: true
   - title: "Mastering artificial intelligence and machine learning"
     excerpt: "Control Engineering - Just a few decades ago, artificial intelligence (AI) was the stuff of science fiction, but has since become part of our daily lives. In manufacturing, it"
     publishedDateTime: 2021-06-06T09:02:00Z
