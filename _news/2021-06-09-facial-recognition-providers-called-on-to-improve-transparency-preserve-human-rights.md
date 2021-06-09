@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-09T00:13:00Z
 originalUrl: "https://www.biometricupdate.com/202106/facial-recognition-providers-called-on-to-improve-transparency-preserve-human-rights"
 webUrl: "https://www.biometricupdate.com/202106/facial-recognition-providers-called-on-to-improve-transparency-preserve-human-rights"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
@@ -24,6 +25,146 @@ images:
     height: 260
     isCached: true
 
-secured: "k5TCdDHNmG0Jvue4TLshL9gzVqy4PL8H13mMJc3F8xQCTBcNlPKCTCEoLvPP4XMexfVyjHnKRy2oW19NblMDLfmasTn5RWVPmzgLLfUeNmEuCcqkjXeDDDSdcYwNYvT7np89p6yFbMaZ+dj4CVDer44bkfpmC7SKek+6PoaCYT0SS13uucXir3c0yFgzdGHFW4A9zPNt5wxSILNizjt85U5oXJqTRtaWJgkVaz27Zg6KtFQHvzK6SuwgOMz/72zSiQZbY+UT6WmG58fJt4bp3rUSSbgWS7eW+sEo6JvL/PVQf1LP1cAzax4X2yglGlHLS5afQznN+qh31v9+L6lLdbZS7X7YDJpA2V31AwUjsxs=;Aord5L3WCmo7juYkFPlSmw=="
+related:
+  - title: "Calls mount for ethical approach to facial recognition"
+    excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
+    publishedDateTime: 2021-06-08T11:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 76
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
+        width: 1000
+        height: 608
+        isCached: true
+  - title: "Not even wildlife can go undetected: Australia trains AI road cameras for KOALA ‘facial recognition’"
+    excerpt: "Researchers at an Australian university have been granted thousands of dollars from the government to work on AI-based devices that would help identify individual koalas crossing the roads in the country."
+    publishedDateTime: 2021-06-08T22:54:00Z
+    webUrl: "https://www.rt.com/news/525578-koala-facial-recognition-ai/"
+    ampWebUrl: "https://www.rt.com/news/525578-koala-facial-recognition-ai/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/525578-koala-facial-recognition-ai/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 59
+    images:
+      - url: "https://cdni.rt.com/files/2021.06/xxl/60b8f3cc2030270db84e5e21.jpg"
+        width: 1240
+        height: 697
+        isCached: true
+  - title: "Biden admin reportedly using controversial facial recognition on migrants"
+    excerpt: "The Biden administration is embracing controversial facial recognition technology and other intrusive surveillance tools to process the backlog of thousands of migrants at the US-Mexico border,"
+    publishedDateTime: 2021-06-07T18:15:00Z
+    webUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/"
+    ampWebUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 58
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/cbp-app.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial recognition meant to stop unemployment fraud is blocking legitimate applicants"
+    excerpt: "Florida hired ID.me — a company that uses facial recognition as a tool to verify people are who they say they are — to help with unemployment fraud. But bias within facial recognition could create new barriers to unemployment benefits."
+    publishedDateTime: 2021-06-07T09:27:00Z
+    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants"
+    ampWebUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants?_amp=true"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 52
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/105/45bf940c346f431c9be273b8942ab6eb/105d6bfea87142d3a862f8d9d45613a4/poster_67be6c1012ab4278a9c76e09388b192e.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Biden administration's new facial recognition app for asylum seekers sets off alarm bells"
+    excerpt: "The Biden administration recently rolled out a new app that uses facial recognition and geolocation technology to gather and store data about asylum seekers before they even enter the U.S., the Los Angeles Times reported Friday."
+    publishedDateTime: 2021-06-04T19:51:00Z
+    webUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets"
+    ampWebUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 48
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622837168/GettyImages-1062889184.jpg"
+        width: 814
+        height: 458
+        isCached: true
+  - title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
+    excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."
+    publishedDateTime: 2021-06-09T02:53:00Z
+    webUrl: "https://www.abc.net.au/news/2021-06-09/koala-facial-recognition-artificial-intelligence/100200504"
+    ampWebUrl: "https://amp.abc.net.au/article/100200504"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100200504"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 43
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/3671dceadbbfdac5e71c6927e19d611b?impolicy=wcms_crop_resize&cropH=429&cropW=643&xPos=0&yPos=63&width=862&height=575"
+        width: 643
+        height: 429
+        isCached: true
+  - title: "Facial Recognition Tech Talks continue"
+    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
+    publishedDateTime: 2021-06-08T22:00:00Z
+    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
+    type: article
+    provider:
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
+    excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
+    publishedDateTime: 2021-06-04T23:34:00Z
+    webUrl: "https://kvia.com/news/border/2021/06/04/biden-officials-quietly-deploy-facial-recognition-to-process-asylum-seekers/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 37
+    images:
+      - url: "https://kvia.b-cdn.net/2020/04/hypatia-h_975fbaaa11f7415e7c3bc311df1a7fde-h_69d00cdd749b7dab664bc4702b02acbd-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Asset managers unite to urge human rights focus on facial recognition tech"
+    excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
+    publishedDateTime: 2021-06-08T11:11:00Z
+    webUrl: "https://www.investmentweek.co.uk/news/4032513/asset-managers-unite-urge-human-rights-focus-facial-recognition-tech"
+    type: article
+    provider:
+      name: Investment Week
+      domain: investmentweek.co.uk
+    quality: 37
+    images:
+      - url: "https://www.investmentweek.co.uk/api/v1/wps/e821d2e/c7490c93-5e13-44e6-adfd-4addff378bbf/13/Facial-Recognition-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+
+secured: "hTj7mvun5LU7AFZlL6O4c69OLsdzXs3efvrmA95qXsPBGLKdQZ2RI8Dx3znv0sYIleXEkXRAJ5fSUhasVfFg/YKigVeNLvpdmCsXJSsAceEEK6of6DUudPhFlQShPC+WAcfMIudjZA611BtN4wrWEXJv9lQAgP7YYFnE1/w7jCMlCRaZ+4mCa0gOQ/Ju/Q5bgXldjp+BVygMGPiPuXygNiXwwAa2W8D2T/nWsyr7oP0Jn8h10qWEkgOQk1FOzffRMwFkDTiA0TKc3gVpbyIh9AbtRAw30+/17A2ekaX2RdZZtkOAGZDRBrwoyTwGhLQQiJYlfE2QrRxCe0f6QnvawwR+GhJ6gBEuPuXDpTPkc2v2LyDmT7k7hYzTX2uJWVPXflpzM+DWb9BNlSXi9IHrNERvoXlbIrOmhq8Agc+fr7vhskhC9zygxsQG6G/MaBmdVwucmqOozgKbIi0O1vKaEJN92D+87B1niZP8pCwvKuObuXYJwT9+Nwc2Yj9iniEQ+SXd+7YrkPqULwTYPo73lw==;s43CXl1EfQgJznA2aAD3Jg=="
 ---
 

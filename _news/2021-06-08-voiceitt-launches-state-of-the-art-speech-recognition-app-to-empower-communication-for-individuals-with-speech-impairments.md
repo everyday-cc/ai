@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
+    excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
+    publishedDateTime: 2021-06-07T07:08:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 22
   - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
     excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
     publishedDateTime: 2021-06-07T12:34:00Z

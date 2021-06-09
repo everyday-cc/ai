@@ -2,6 +2,48 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-05-06-gm-reports-strong-first-quarter-2021-results.md",
+      "title": "GM Reports Strong First-Quarter 2021 Results",
+      "excerpt": "General Motors Co. (NYSE: GM) today reported first-quarter earnings driven by strong price and mix performance in North America, strong credit and resid",
+      "sourceUrl": null,
+      "webUrl": "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results",
+      "originalUrl": "https://www.albawaba.com/business/pr/gm-reports-strong-first-quarter-2021-results-1426280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investor.gm.com/sites/g/files/knoqqb60441/themes/site/nir_pid2306/dist/new-images/GM-logo-2021.png",
+          "width": 555,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-vectra-cognito-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Vectra Cognito now available in the Microsoft Azure Marketplace",
       "excerpt": "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d",
@@ -1129,58 +1171,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-text-analytics-market-share-trends-growth-outlook-with-company-analysis-and-forecast-to-2027.md",
-      "title": "Text Analytics Market Share, Trends, Growth Outlook with Company Analysis and Forecast to 2027",
-      "excerpt": "Selbyville, Delaware, The research report provides an in-depth analysis of the growth factor, major trends, and opportunities that may influence the growth of the Text Analytics Market in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/text-analytics-market-share-trends-growth-outlook-with-company-analysis-and-forecast-to-2027-2021-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/text-analytics-market-share-trends-growth-outlook-with-company-analysis-and-forecast-to-2027-2021-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

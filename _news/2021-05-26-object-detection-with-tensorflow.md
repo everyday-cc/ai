@@ -15,6 +15,7 @@ topics:
   - Google AI
   - AI
   - TensorFlow
+  - Computer Vision
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2018/07/main3.png"

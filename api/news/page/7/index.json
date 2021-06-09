@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-02-truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues.md",
+      "title": "TruEra launches tool for spotting and contextualizing AI bias, other issues",
+      "excerpt": "AI startup TruEra lanched an enterprise tool for monitoring and diagnosing issues in machine learning models, including bias.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
+      "originalUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Monitoring-Illustration-20210601.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
+      "publishedDateTime": "2021-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-uks-ai-startup-scene-has-grown-600-percent-over-past-decade.md",
       "title": "UK's AI startup scene has grown 600 percent over past decade",
       "excerpt": "The country's £32.76 billion AI sector brought in £2.41 billion worth of investment in 2020 alone, according to Tech Nation",
@@ -593,49 +644,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/anpi/250000",
-      "originalUrl": "https://www.ryt9.com/en/anpi/250000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg",
-          "width": 800,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-02-conversational-ai-startup-cognigy-nabs-44m.md",
       "title": "Conversational AI startup Cognigy nabs $44M",
       "excerpt": "Cognigy, a platform for designing conversational, AI-powered experiences, raised $44 million in fresh capital.",
@@ -1138,6 +1146,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "originalUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly.md",
       "title": "What You Should Do If You See An AI Self-Driving Car Behaving Badly",
       "excerpt": "Make sure you are prepared to take appropriate action if you are driving and come upon an AI self-driving car that is behaving badly. Here are some important insider tips and suggestions for you.",
@@ -1187,49 +1229,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-humanoid-robot-aims-to-read-and-react-to-human-emotion.md",
-      "title": "Humanoid robot aims to read and react to human emotion",
-      "excerpt": "Researchers from Pisa University in Italy hope that one day Abel will be able to become a home help for people with autism and Alzheimer’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
-      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wane.com/wp-content/uploads/sites/21/2021/06/Humanoid-robot-photo.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
-      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
-      "publishedDateTime": "2021-06-01T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

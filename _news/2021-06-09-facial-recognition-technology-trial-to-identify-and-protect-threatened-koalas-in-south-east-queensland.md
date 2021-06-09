@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Facial Recognition Tech Talks continue"
-excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
-publishedDateTime: 2021-06-08T22:00:00Z
-originalUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
-webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
+title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
+excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."
+publishedDateTime: 2021-06-09T02:53:00Z
+originalUrl: "https://www.abc.net.au/news/2021-06-09/koala-facial-recognition-artificial-intelligence/100200504"
+webUrl: "https://www.abc.net.au/news/2021-06-09/koala-facial-recognition-artificial-intelligence/100200504"
+ampWebUrl: "https://amp.abc.net.au/article/100200504"
+cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100200504"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: wmar2news
-  domain: wmar2news.com
+  name: Australian Broadcasting Corporation
+  domain: abc.net.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
-    width: 1200
-    height: 630
+  - url: "https://live-production.wcms.abc-cdn.net.au/3671dceadbbfdac5e71c6927e19d611b?impolicy=wcms_crop_resize&cropH=429&cropW=643&xPos=0&yPos=63&width=862&height=575"
+    width: 643
+    height: 429
     isCached: true
 
 related:
@@ -105,21 +107,19 @@ related:
         width: 814
         height: 458
         isCached: true
-  - title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
-    excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."
-    publishedDateTime: 2021-06-09T02:53:00Z
-    webUrl: "https://www.abc.net.au/news/2021-06-09/koala-facial-recognition-artificial-intelligence/100200504"
-    ampWebUrl: "https://amp.abc.net.au/article/100200504"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100200504"
+  - title: "Facial Recognition Tech Talks continue"
+    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
+    publishedDateTime: 2021-06-08T22:00:00Z
+    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 43
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 39
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/3671dceadbbfdac5e71c6927e19d611b?impolicy=wcms_crop_resize&cropH=429&cropW=643&xPos=0&yPos=63&width=862&height=575"
-        width: 643
-        height: 429
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
     excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
@@ -164,6 +164,6 @@ related:
         height: 260
         isCached: true
 
-secured: "hNS045Pdtz1rfEbr/57YW9olBKXKXtLWm91mLWsl/xcmVnNTHAV3ta/9gdgwkKfTHFSpqKMSFzSQPeIb87dkQosxydr+V++DHDB1g0sd7z4Huui4gWDgdQg/acpSgMQpcNMXl07LBtb879us9x6ZgntEm74NR9u3Sw5cClwU7/7cgWHytI0eGNfyrBgUq3uKrZmKK8DVjLvylgP+X3P5Pltc+fGtAHstXZ92vh8/Ul+grY+RO5OH+Dz8murZm3fhQMHeAE4bOjaC8g7/KaqAzYSIY/rgIooMcEUwREsMOLs+iK5tdfzvFArY704ec+hQDRoFq3o2Y1c8nyjk6xPZKp1QSajg93zLWAXm5Tk0+SdTfhir5wWdXq1ZzKDQro3P8yx8RHvnFjEBZ6MVNFgAwi12GeT4cEFoiW/jKlMY34d6Kz64jLWjtW52kD2cDVSA1WnXUsUsOd9VdgDlzE032xZWnid7L1KQujK1aQ5NhjhtGj8zEs6E3S9PjHP3e1iXPO+icLNAonf9CZ+ejsaG1A==;44T5zn7dF1K54voXot7ipA=="
+secured: "xILMhz0SdOILh/ruAVTzTneCaFS71fGKP8fGAPvcD/RF6/3WB2bqQH1C4Nx29vzmDtk8phHMAa8uHYmwnw02w8HIxYjyX40sdQh0V66hHaqc1S2xUB9152dDjs4G7wDMWcyy6gvxmLd+DlOIvTpEwi0GDrLgwG0j4WJ14Ns6ZZTN+xBDRdZGN9CLtZnnQLXjriiGeoVHG+BW5wRUfuNQ77P6Iqyy8FfLR8FoOcj4+akChFGY04g9Mc94cbE/l4iSSMheH0tSqW1l10RWSUCt0VB6Vfh1kT/a3KFSne1BaKo9uTk1vA5lFio32pKIKEzVHbyVXENMWdXZ5wSsTQC/MhYfzUdpiRDH6zF/qWjrNZ4=;cL0YW5e6n/gXS8IlYCvMbw=="
 ---
 

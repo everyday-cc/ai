@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Local governments are going to war with facial recognition technology"
-    excerpt: "Local governments, including King county in Washington state, are passing laws to curb the use of facial recognition technology by law enforcement."
-    publishedDateTime: 2021-06-04T10:00:00Z
-    webUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/"
-    ampWebUrl: "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 89
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2021/06/2021-01-20T153652Z_1_LYNXMPEH0J13Z_RTROPTP_4_CHINA-SECURITY-e1622773726474.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Calls mount for ethical approach to facial recognition"
     excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
     publishedDateTime: 2021-06-08T11:53:00Z
@@ -56,6 +40,22 @@ related:
       - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
         width: 1000
         height: 608
+        isCached: true
+  - title: "Not even wildlife can go undetected: Australia trains AI road cameras for KOALA ‘facial recognition’"
+    excerpt: "Researchers at an Australian university have been granted thousands of dollars from the government to work on AI-based devices that would help identify individual koalas crossing the roads in the country."
+    publishedDateTime: 2021-06-08T22:54:00Z
+    webUrl: "https://www.rt.com/news/525578-koala-facial-recognition-ai/"
+    ampWebUrl: "https://www.rt.com/news/525578-koala-facial-recognition-ai/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/525578-koala-facial-recognition-ai/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 59
+    images:
+      - url: "https://cdni.rt.com/files/2021.06/xxl/60b8f3cc2030270db84e5e21.jpg"
+        width: 1240
+        height: 697
         isCached: true
   - title: "Biden admin reportedly using controversial facial recognition on migrants"
     excerpt: "The Biden administration is embracing controversial facial recognition technology and other intrusive surveillance tools to process the backlog of thousands of migrants at the US-Mexico border,"
@@ -73,67 +73,53 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition for fish? Researchers test technology to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-07T16:30:00Z
-    webUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.html"
-    ampWebUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
+  - title: "Facial recognition meant to stop unemployment fraud is blocking legitimate applicants"
+    excerpt: "Florida hired ID.me — a company that uses facial recognition as a tool to verify people are who they say they are — to help with unemployment fraud. But bias within facial recognition could create new barriers to unemployment benefits."
+    publishedDateTime: 2021-06-07T09:27:00Z
+    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants"
+    ampWebUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants?_amp=true"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 52
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/asiancarp.jpg"
-        width: 1920
-        height: 1440
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/105/45bf940c346f431c9be273b8942ab6eb/105d6bfea87142d3a862f8d9d45613a4/poster_67be6c1012ab4278a9c76e09388b192e.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Contactless Voice Payment Technology: A Retail Strategy for Bringing Customers Back In-Store"
-    excerpt: "Voice recognition technology has moved beyond the realm of checking the weather and playing music. Pandemic-fueled digital commerce is rapidly increasing the use of voice recognition technology. In particular,"
-    publishedDateTime: 2021-06-04T12:37:00Z
-    webUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store"
-    ampWebUrl: "https://retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/digital-commerce/contactless-voice-payment-technology-a-retail-strategy-for-bringing-customers-back-in-store/amp"
+  - title: "The Biden administration's new facial recognition app for asylum seekers sets off alarm bells"
+    excerpt: "The Biden administration recently rolled out a new app that uses facial recognition and geolocation technology to gather and store data about asylum seekers before they even enter the U.S., the Los Angeles Times reported Friday."
+    publishedDateTime: 2021-06-04T19:51:00Z
+    webUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets"
+    ampWebUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
+      name: THE WEEK
+      domain: theweek.com
     quality: 48
     images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/06/voice-commerce-1.jpg"
-        width: 2440
-        height: 1627
+      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622837168/GettyImages-1062889184.jpg"
+        width: 814
+        height: 458
         isCached: true
-  - title: "McDonald’s faces lawsuit over its voice recognition technology"
-    excerpt: "The lawsuit says the company is violating Illinois law by not seeking customers’ approval before using collecting voiceprint biometrics."
-    publishedDateTime: 2021-06-07T20:15:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
-    ampWebUrl: "https://restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
-    cdnAmpWebUrl: "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+  - title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
+    excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."
+    publishedDateTime: 2021-06-09T02:53:00Z
+    webUrl: "https://www.abc.net.au/news/2021-06-09/koala-facial-recognition-artificial-intelligence/100200504"
+    ampWebUrl: "https://amp.abc.net.au/article/100200504"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100200504"
     type: article
     provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 46
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 43
     images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/shutterstock_748441993_1623099281.png?mUK3d9oXpjLK488hXEOfIqjQwm3uSY0T"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Hyderabad Man Bears The Brunt Of Facial Recognition Technology"
-    excerpt: "The Internet Freedom Foundation said the random collection of citizens’ photographs could be linked to a database building exercise for FRT"
-    publishedDateTime: 2021-06-07T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/hyderabad-man-bears-the-brunt-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Hyderabad_AIM.jpg"
-        width: 1600
-        height: 900
+      - url: "https://live-production.wcms.abc-cdn.net.au/3671dceadbbfdac5e71c6927e19d611b?impolicy=wcms_crop_resize&cropH=429&cropW=643&xPos=0&yPos=63&width=862&height=575"
+        width: 643
+        height: 429
         isCached: true
   - title: "Facial Recognition Tech Talks continue"
     excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
@@ -149,33 +135,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Investors pledge to address human rights in facial recognition technology"
-    excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
-    publishedDateTime: 2021-06-08T14:19:00Z
-    webUrl: "https://www.pionline.com/esg/investors-pledge-address-human-rights-facial-recognition-technology"
+  - title: "Biden officials quietly deploy facial recognition to process asylum seekers"
+    excerpt: "Facing a backup of tens of thousands of migrants stranded at the U.S.-Mexico border, the Biden administration is betting on a technological fix: a mobile app. In recent weeks, U.S. border officials have taken an unprecedented step,"
+    publishedDateTime: 2021-06-04T23:34:00Z
+    webUrl: "https://kvia.com/news/border/2021/06/04/biden-officials-quietly-deploy-facial-recognition-to-process-asylum-seekers/"
     type: article
     provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 38
+      name: KVIA
+      domain: kvia.com
+    quality: 37
     images:
-      - url: "https://s3-prod.pionline.com/s3fs-public/styles/800x600/public/Facial-recognition-tech-main_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://kvia.b-cdn.net/2020/04/hypatia-h_975fbaaa11f7415e7c3bc311df1a7fde-h_69d00cdd749b7dab664bc4702b02acbd-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-06T05:32:00Z
-    webUrl: "https://www.newstribune.com/news/national/story/2021/jun/06/researchers-test-facial-recognition-technology-on-asian-carp-in-battle-to-stop-invasive-species/873946/"
+  - title: "Facial recognition providers called on to improve transparency, preserve human rights"
+    excerpt: "50 global institutional investors ask the biometrics industry to address the risks to both human rights and investor returns posed by facial recognition."
+    publishedDateTime: 2021-06-09T00:13:00Z
+    webUrl: "https://www.biometricupdate.com/202106/facial-recognition-providers-called-on-to-improve-transparency-preserve-human-rights"
     type: article
     provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 27
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
     images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/06/05/198553199_US-NEWS-SCI-FISH-RECOGNITION-2-TB469339106_t1070_h56768f7a4faa13a13e81741ca2b1659d6b3d18e5.jpg"
-        width: 1070
-        height: 692
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "ozk3CBDIpIvpm4Ai00rpEj5d4V///YnLyOemKSycswAAzUcE8nGSuhRtSHRnRFYEmLsPV0WIlyE76U33BdioFbpK5+fk/Vrlz8yPQTZCmuXX7hJUEsBN06kPfL0M0/FT+kXjN2gvE2nLr9ewKgqZghToi04nzbV5D5pQ7ECUKRjrLrX2wiNVR42Q68DjVzpDl6qe41BY1Bp/xlCilD6ooM+R1qL4vsxTmmR251urU+DGfqyP/ZTBZmO/t3YrywPvfMU/8NcjGSbO+mWTQzTp6nzDcHzd5dYw6kewXnYEdUZk7af6cYLv+LK/ZKmlFOPV+8no3xJVz/7FWJb0lesQ1hE81bUNlf1PdgfnqMGEaIhMP2ht835Ud+WIDnc9ljV8ZalnnUF/6SmNt2Oypuq3+kOV5r8nCWC9VkmB3SuJwpD5fmg+fe5APzPpdfojP3y3HPwcH1xzqdS4nWS40V6fE9FD+bgzNNAORS0Y7s0bZ6zFk4MxybTbxb45R86XNdgPdHcDlPATy3kuGrHMaR+StQ==;XUaNQ9yh3rHzkfQbs2TtIg=="

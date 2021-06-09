@@ -41,6 +41,22 @@ related:
         width: 2592
         height: 1572
         isCached: true
+  - title: "McDonald’s faces lawsuit over its voice recognition technology"
+    excerpt: "The lawsuit says the company is violating Illinois law by not seeking customers’ approval before using collecting voiceprint biometrics."
+    publishedDateTime: 2021-06-07T20:15:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    ampWebUrl: "https://restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    cdnAmpWebUrl: "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 46
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/shutterstock_748441993_1623099281.png?mUK3d9oXpjLK488hXEOfIqjQwm3uSY0T"
+        width: 400
+        height: 210
+        isCached: true
 
 secured: "iRxwPR4oxYgbB0PMj9figHbHwgKMaQDiSjFiP9KZPJzM/XJtfGx/T9AzdXcq+y1UDfbMcLpoMwgUbC3xgL6byKTzhtSJQDFpWW/OBLYl5RdkIT/59H04jqIC/EcDD4D5Msx0vGSGC8Jw2dSanqk8b5Yf0xgCmlIasnJzX85nWvpA/CTLNqA2Gdv98mFOrFm9orTiOqg8N065vwOWkMsGCIBmt8o7dHarrdFQiHsPQqmlk2i05NzLmr7Gdjc1jbygwpPkQf+8PYGIMs84I3Y6tV2WugOmyrwtTIHoXS98VLuXTMfKkX6PRsvk93I1RTiMpzJAT3R+ZMJ8CJo3/p6KByYXDbl3fI9S8455L9b8hx8=;dsY9Lxp7NkNLEADhwCPP3A=="
 ---

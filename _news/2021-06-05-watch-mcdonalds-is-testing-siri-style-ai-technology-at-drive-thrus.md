@@ -9,8 +9,8 @@ ampWebUrl: "https://bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thr
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BGR
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "McDonald’s faces lawsuit over its voice recognition technology"
+    excerpt: "The lawsuit says the company is violating Illinois law by not seeking customers’ approval before using collecting voiceprint biometrics."
+    publishedDateTime: 2021-06-07T20:15:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    ampWebUrl: "https://restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    cdnAmpWebUrl: "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/mcdonalds-faces-lawsuit-over-its-voice-recognition-technology"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 46
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/shutterstock_748441993_1623099281.png?mUK3d9oXpjLK488hXEOfIqjQwm3uSY0T"
+        width: 400
+        height: 210
+        isCached: true
   - title: "McDonald’s Is Testing Automated Voice Ordering at Drive-Thrus"
     excerpt: "The fast-food chain says the system can handle about 80 percent of orders, after a trial at about ten Chicago locations."
     publishedDateTime: 2021-06-04T16:27:00Z

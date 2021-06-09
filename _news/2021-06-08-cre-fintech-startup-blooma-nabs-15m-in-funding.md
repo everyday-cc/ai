@@ -1,12 +1,14 @@
 ---
 category: news
 title: "CRE fintech startup Blooma nabs $15M in funding"
-excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures led the Series A, with participation from existing investor Nyca Partners,"
-publishedDateTime: 2021-06-08T15:03:00Z
-originalUrl: "https://therealdeal.com/national/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
-webUrl: "https://therealdeal.com/national/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures and existing investor Nyca Partners led the Series A, Blooma announced Tuesday."
+publishedDateTime: 2021-06-08T14:30:00Z
+originalUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+webUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+ampWebUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
+cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
@@ -19,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://therealdeal.com/national/wp-content/uploads/2021/06/crosspost-20210608022045.jpg"
+  - url: "https://therealdeal.com/la/wp-content/uploads/2021/06/crosspost-20210608022016.jpg"
     width: 690
     height: 493
     isCached: true
@@ -137,6 +139,6 @@ related:
       domain: prwire.com.au
     quality: 0
 
-secured: "a11C42m/gUp7l6cPVdVdJ1YqOSCL3k1EqgJL+lZJzkqO2lBv0RTP30Ac7IAfhMVP6CTkjokOmx8x7BjSJzSgDcEazyEo6VgJXnJFfricQw2tRM/Pax/e1oTIZuEX7Z/jYKcHAJGi3yspYGi+jP7OkjrH4TP0ih39U1rDPEXCj629/akE0fbVLQJ93FrwOvGsJmyHQstM6MRA0RWEv64+SZtuvhUEHDaCT9MFm4MWtJeUM79fOPFa84gLHKxV5JTsqtpH1gz6Q4f7IdvRB7FU6m3rzJYSTK6+snz2Ri4dFDUKCpDnCXLkV7rEWNx30XrMQZo6HQAh5fq0KZu2O3VC4y0nwzFvqSkzFlgcPt/VZaYlUlgCpHvfy8bplXk9ktDNQhNTK+6m+s63R7OYHmg2f+38JIMhaSpyEKk20ajUP8EOwsBH/5r02Qdg6HMH2BuxHQHH83UWD3/od0qpOW8lAuT/jl6wa0MM890oKwh3suwJRyJm9m542kF7wak+3+AVlGRQvShCD+bi2lcosnx+9A==;B7ICnYE+IIwh4YbxSxZxPQ=="
+secured: "TY27W+7YgfPHHSG19dg2mJZd5N+ngT4YBAJyK/UcxLy/RkpmN40qKyaTR682OUtC+LBiw5waWsTSj8WVwpfucNXuclUsbCw2mA6iHgCBmVTv/t+JoCmt8SvD4qAODFNx7VuLN4wzNzbTJYUvJNQcvPLlDETyGUrCp1kgOG5AGtI7Jp26eu48wFKoyaMKxyLtJWd+0Yu8DSQlpZ7yxYt2pkmc9PsgxvMPhFL81lh2gwLjHq5mYS4amwN0kqJHK73Pik8Rub/VkfYycOrIkmpk4om0FY+2lbl4REtI+iFwYL5JSkfTKg6Pj12AxlKwPx0Kom96AwfeWCxoGUHw7GffqsO7ZKeSYW7Hx3YFipW/G7I=;wl+prF7JqVZA8+O38KZ7/g=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-05-19-everything-google-announced-today-android-ai-holograms.md",
+      "title": "Everything Google Announced Today: Android, AI, Holograms",
+      "excerpt": "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-io-2021-highlights",
+      "originalUrl": "https://www.wired.com/story/google-io-2021-highlights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-io-2021-highlights/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp",
+      "publishedDateTime": "2021-05-18T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-watch-singing-ai-blobs-rock-the-house-with-tune-yards-at-google-io.md",
       "title": "Watch singing AI blobs rock the house with Tune-Yards at Google I/O",
       "excerpt": "The blobs are back in town. Google opened its I/O developer conference Tuesday with a performance that felt genuinely innovative, and actually fun, from the avant-garde vocal and electronica artist Tune-Yards — and Google's own Blob Opera.",
@@ -1155,57 +1207,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-how-to-attract-better-talent-14-useful-tips-for-startup-founders.md",
-      "title": "How To Attract Better Talent: 14 Useful Tips For Startup Founders",
-      "excerpt": "Making the opportunities a startup provides more alluring to highly skilled professionals than other, potentially more lucrative positions is challenging. Larger, well-established companies usually offer better compensation in terms of both pay and perks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/05/18/how-to-attract-better-talent-14-useful-tips-for-startup-founders/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/05/18/how-to-attract-better-talent-14-useful-tips-for-startup-founders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a3ef2f7e492102e69aee55%2F0x0.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/05/18/how-to-attract-better-talent-14-useful-tips-for-startup-founders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/05/18/how-to-attract-better-talent-14-useful-tips-for-startup-founders/amp/",
-      "publishedDateTime": "2021-05-18T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

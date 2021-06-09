@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-26-dumbed-down-ai-rhetoric-harms-everyone.md",
+      "title": "Dumbed Down AI Rhetoric Harms Everyone",
+      "excerpt": "By ignorance or malice, policymakers use sweeping platitudes to regulate artificial intelligence, which may prosecute citizens more than protect them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/",
+      "originalUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60ad87830744ea4218d0e6c1/master/pass/ideas-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/amp",
+      "publishedDateTime": "2021-05-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa.md",
       "title": "GM and Lockheed Martin are making a self-driving Moon buggy for NASA",
       "excerpt": "NASA’s astronauts need a new Moon ride, and GM and Lockheed Martin are aiming to hand them the keys to not just one but a whole fresh generation of lunar vehicles. The Lunar Terrain Vehicle,",
@@ -805,8 +856,8 @@
       "title": "Run:AI named as a 2021 Gartner \"Cool Vendor\"",
       "excerpt": "AI, creator of a cloud-native compute management platform for the AI era, announced today that it has been named a Cool Vendor in Enterprise AI Operationalization and Engineering by leading research and advisory company Gartner.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-runai-named-as-2021-gartner-cool-vendor-/2021/05/26/9378502.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-runai-named-as-2021-gartner-cool-vendor-/2021/05/26/9378502.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/26/9378502.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/26/9378502.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1073,49 +1124,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia.md",
-      "title": "SK partnership brings Kodiak Robotics’ autonomous technology to Asia",
-      "excerpt": "Kodiak Robotics strikes a partnership with South Korea’s SK conglomerate to move its autonomous trucking software to Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia",
-      "originalUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/052621-Kodiak-SK.jpg",
-          "width": 595,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp",
-      "publishedDateTime": "2021-05-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
