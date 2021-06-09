@@ -9,8 +9,8 @@ ampWebUrl: "https://bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thr
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/mcdonalds-order-ai-technology-used-in-drive-thru-test-project-5929554/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: BGR
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/shutterstock_748441993_1623099281.png?mUK3d9oXpjLK488hXEOfIqjQwm3uSY0T"
         width: 400
         height: 210
-        isCached: true
-  - title: "McDonald’s Is Testing Automated Voice Ordering at Drive-Thrus"
-    excerpt: "The fast-food chain says the system can handle about 80 percent of orders, after a trial at about ten Chicago locations."
-    publishedDateTime: 2021-06-04T16:27:00Z
-    webUrl: "https://www.foodandwine.com/news/mcdonalds-automated-voice-ordering-drive-thru"
-    type: article
-    provider:
-      name: Food & Wine
-      domain: foodandwine.com
-    quality: 24
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2021%2F06%2F04%2Fmcdonalds-automated-drive-thru-FT-BLOG0621.jpg"
-        width: 2000
-        height: 999
         isCached: true
 
 secured: "Zs3g4s2p9ia5s2e3VpZkStmCTlYE/x4pvs+eHydp2AFTwN9J98maARuTME3ZDmaewlwJXvF60stXqUJZDjhTHAFmHXRCj36FkKH2x3LX35D25WQkdUfJAJw7QX97nPZL4X7wjIlWS2gdEIra7k3uMdSKb8zh6H6+ufoip95FV9r9ehArXhHVdWrtUiKdQvt0yOAlc/8pqPTT1AhfExL5B/ODdsqusDWOLLLi4YyUnacrSVskW+ftZ7JL8nLQL+cxhGTDm0hz/AqwF7OJc4juERm6Ys4JfUQo3ZpLgac7KO/RcjtkdTQuoWn2TWav3Dt01UbDX8TrubJAdkQZLL7hdUiuqHXdENHbZQz0Tqz/tLnHqFw9eEeZ6vqgeQkqazhT43UqvnEHR/QSWYAU/v1xvDE1wWYwG89+41WjwPX8mc4rWFUk9VGs0OpUmMuUg2JaNzH30rceb92vJImL8U1wuS7EczGtjjcaK57cnEdApgiIbs5fgGtwOu7q8FKsmCiKOp7JH6dTujIa6Y4gGkAlsg==;90EYnI60WF2D1qwKy8ZAFA=="

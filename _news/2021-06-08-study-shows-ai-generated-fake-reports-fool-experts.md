@@ -55,6 +55,20 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "Study shows AI-generated fake reports fool experts"
+    excerpt: "Takeaways   ·  AIs can generate fake reports that are convincing enough to trick cybersecurity experts.   ·  If widely used, these AIs could hinder efforts to defend against cyberattacks.   ·  These s"
+    publishedDateTime: 2021-06-09T08:11:00Z
+    webUrl: "https://menafn.com/1102229060/Study-shows-AI-generated-fake-reports-fool-experts"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/07/TC_0b45ddec-6image_story.jpg"
+        width: 1750
+        height: 1125
+        isCached: true
 
 secured: "rryz7dFgzS93WmYQxdEjrm2dVPeboWiqr/MfljI3sB5lA72sjixcE7zhSN3RzK6H8kGPn24/jq0oj5SloVY3X8IrPEzK7YbtZ1+/wGAzLy5OgDrLMdMwM10OriDakDdCdtNcHPVj+VMdoNLzEhUEJ9xC62/LM0YG8Ce9oYrbNBLG6wy6Ml5ASgmYhfHBefGDiECOgOjNrggHaq1xv2xoSH/LDkUi4lVglQzgSMn9goSVOhfrDah+RSvwm34i55a1mB74WVaU3/LAF1oAziLfhqcSpbzv3o9jHa4Kdw/gpYCHIkqZK4BgdkxPvbuDdrnySP0xGWz8VUL/0ys+B+pGv2tUC6PpJfA9zH+KB7GD4lYzOJ2kwkaLe5Mb1jGUMceYCbsbdo1KQ0z1VCOnnAg7CE2hHHjWnjnd3I/B3ffnp2o8Flor4uUzxGm50qDOETcATjRaHXyxt0vPAtWdWHS9PAGam45pRZ5h4nNBH12UJYjILq4p/PLOgSEHzWar/a6q6oUeAO0llPi7z2jrEafACA==;LDb8X665ZM6xSuqjlbgxow=="
 ---

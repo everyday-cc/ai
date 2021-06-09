@@ -1,27 +1,27 @@
 ---
 category: news
 title: "As AI-based loan apps boom in India, some borrowers miss out"
-excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years."
-publishedDateTime: 2021-06-09T06:33:00Z
-originalUrl: "https://www.bworldonline.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out/"
-webUrl: "https://www.bworldonline.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out/"
+excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
+publishedDateTime: 2021-06-09T09:48:00Z
+originalUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
+webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: BusinessWorld
-  domain: bworldonline.com
+  name: VCCircle
+  domain: vccircle.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.bworldonline.com/wp-content/uploads/2021/06/mobile-phone-1-scaled-e1623223971855.jpg"
-    width: 675
-    height: 450
+  - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
+    width: 810
+    height: 506
     isCached: true
 
 related:
@@ -66,7 +66,16 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 22
+  - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
+    excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
+    publishedDateTime: 2021-06-09T09:09:00Z
+    webUrl: "https://www.analyticsinsight.net/the-sexiest-artificial-intelligence-designations-in-india-of-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 17
 
-secured: "xX1m0ooD2K6P0PdhWhFm4FpjErkG129Fvp4wWUN9aP6p1yX3JZthDADUXOxDausfElmP2IqEwEe+bQ4bp2r/WBui3ehYzZA4SqO3m1f/MF6DL3+sdzEl5xPICk0NA5We4yWXcCz28VIhY5/T2IcTEK1HqfYsPMrY7wYhKjVmy5jy7SsMw3/ngD2cHPACQMSOraYUHCqgPE59fAQG3czfLUb1UqWWaRL857sDOJKWER8V4CRwMKprUVSC+TCxiJQvhbejzXAvUfy2TboZ8eqyHzbB3m4C7c+75tJwVlgLGoTzARFeELKBbtJ00NcUKB7ASjEsWpTqUHaWiGBmhvYQLmplPhV6cqESpnt2K8F6it0=;YImQOgrljXIvVDEiqSzEVA=="
+secured: "uJLK8PFAEMfCtDUboDjjQVP34LDnznHC3Dio7VG80o1o2sPFD37w650fZAXPdz0hvj+DnAP8+R1EWdusVNMR33fhvyXNhbRTI49pU+cme3AJY3tgKTIPAtBqrzprZa7NHaE8o9F52ejJu76ReNxXVyeoD9JhAk+J+oGlgFvmd1j1J2dmNHArx5UjZ+brC2TfHUAp3wunmW2YNyxk8r1ryhFuiqs2T4XaJ4AQweCLIzEaW+KA6gna/MhekQsdjfygTENuq1Iho4o6+qYG8FoLq4bM176WS6vBLasHuRFfysWY/HpVJeLJzP7+DD24DqQ4pux9tKywStC7qIRhBuIB+nhDSm/Yi9lmmb0px9XqeGY=;M7djjjanIxHyb+Zq0uHyxw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
   - title: "Croatia’s Gideon Brothers raises $31mn for AI and 3D vision-based autonomous mobile robots"
     excerpt: "Croatian artifical intelligence (AI) startup Gideon Brothers said it has raised $31mn Series A investment in a round led by Koch Disruptive"
     publishedDateTime: 2021-06-08T20:37:00Z
-    webUrl: "https://intellinews.com/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
+    webUrl: "https://intellinews.com/index.php/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
     type: article
     provider:
       name: Business New Europe
@@ -45,6 +45,15 @@ related:
         width: 900
         height: 510
         isCached: true
+  - title: "Gideon Brothers raises $31 Million Series A to expand its portfolio of AI & 3D Vision Autonomous Mobile Robots"
+    excerpt: "The Investment Led By Koch Disruptive Technologies Will Help Gideon Brothers Expand Its Portfolio Of Intelligent, Flexible Mobile Robots To"
+    publishedDateTime: 2021-06-09T08:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai-3d-vision-autonomous-mobile-robots-1030506428"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Gideon Brothers raises $31 Million Series A to expand its portfolio of AI & 3D Vision Autonomous Mobile Robots"
     excerpt: "Gideon Brothers, a robotics and AI solutions company, today announced it has raised a $31 million Series A investment to accelerate"
     publishedDateTime: 2021-06-08T14:00:00Z

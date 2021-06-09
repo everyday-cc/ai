@@ -44,20 +44,6 @@ related:
         width: 2592
         height: 1572
         isCached: true
-  - title: "McDonald’s Is Testing Automated Voice Ordering at Drive-Thrus"
-    excerpt: "The fast-food chain says the system can handle about 80 percent of orders, after a trial at about ten Chicago locations."
-    publishedDateTime: 2021-06-04T16:27:00Z
-    webUrl: "https://www.foodandwine.com/news/mcdonalds-automated-voice-ordering-drive-thru"
-    type: article
-    provider:
-      name: Food & Wine
-      domain: foodandwine.com
-    quality: 24
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2021%2F06%2F04%2Fmcdonalds-automated-drive-thru-FT-BLOG0621.jpg"
-        width: 2000
-        height: 999
-        isCached: true
 
 secured: "8h3F9YrXN3XxT38r/Hf4a/CsJypG9J+3GmzL3LbWQPqVS2QeWVt7LaX6VPRYTrQPZrgb9l/M9NPkEriU9qEGWYihwDDg5Hdh9rV03jn9dnODwkvook3AlaKd5BQapz+IxDhsaMNrI+NIh0pMZDQL8vR5NFuCJVGskDA8Uc4/hMG5qFWK9fNhfSyeDrMsYBre7P6FZ38PLbGJ9oaZQM5p9GUw48J/3x6JPluSsax5kFpLYsKfPvQzShDtdXNuRdqctHhmyJne6Bq9Qx78XqiQWmDeO4Ug009PifoI8Jqcgwnklk0Q0nDtV6ej/j+yIv9moCJZuSSi4Vv+Gp7bx1zM2NIPqsyF/THyr/zTJ3CY9buKdKy7jOxkiKMMItRExBJ0lSimKnvi30BRzFB5iONb3P6+mLSlFrsp3DPyQ7K/vi9lTcfwgjOlTHgaKiJDjhfpQsmGOQYPObfEvdAr2cB4NHPATlQQlO6Jrp1Kio3nTcfDL0D0MYxbLKnngEvD5ZaT37oqlo/6Yvj+RhDOYXda0w==;nBe7dMdrK5I0J1m/wzazQg=="
 ---

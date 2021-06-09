@@ -3,8 +3,8 @@ category: news
 title: "Croatia’s Gideon Brothers raises $31mn for AI and 3D vision-based autonomous mobile robots"
 excerpt: "Croatian artifical intelligence (AI) startup Gideon Brothers said it has raised $31mn Series A investment in a round led by Koch Disruptive"
 publishedDateTime: 2021-06-08T20:37:00Z
-originalUrl: "https://intellinews.com/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
-webUrl: "https://intellinews.com/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
+originalUrl: "https://intellinews.com/index.php/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
+webUrl: "https://intellinews.com/index.php/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
 type: article
 quality: 44
 heat: -1
@@ -42,6 +42,15 @@ related:
         height: 400
         isCached: true
   - title: "Gideon Brothers raises $31 Million Series A to expand its portfolio of AI & 3D Vision Autonomous Mobile Robots"
+    excerpt: "The Investment Led By Koch Disruptive Technologies Will Help Gideon Brothers Expand Its Portfolio Of Intelligent, Flexible Mobile Robots To"
+    publishedDateTime: 2021-06-09T08:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai-3d-vision-autonomous-mobile-robots-1030506428"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+  - title: "Gideon Brothers raises $31 Million Series A to expand its portfolio of AI & 3D Vision Autonomous Mobile Robots"
     excerpt: "Gideon Brothers, a robotics and AI solutions company, today announced it has raised a $31 million Series A investment to accelerate"
     publishedDateTime: 2021-06-08T14:00:00Z
     webUrl: "https://www.prnewswire.com/news-releases/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai--3d-vision-autonomous-mobile-robots-301307461.html"
@@ -56,6 +65,6 @@ related:
         height: 315
         isCached: true
 
-secured: "3SLkd1ctjeN2w8u1QMPYGZwxKLuA5otDuZGKYnKDmOqU+uNKQPOvYtaZneevuFHTP+CuJ7u4vFrt8IZ8c+pu3HGH+ARo/K2iZwebo+dG+jZSf5hdD5xAKlT6wlxVdTjmv30XIziRp5YXvtGpsx56jP8g3FRTRPouhrcJoGm0e6QTM04GQ79JBQBCgAkMS/Eh2Ywjk0FuSCLL2nZeeFqDERlKLA04Om4lL03j84IfOzem2CEzrmzzbcw0t3ajqE5srqFRXmMhaFCSb0mlO9OqvWCFVmELdkl0m+ada5dJVrMlnodWxJpsp/BITiWz0u3o1tb/VN+IV0juZgJL+DuSZdIWSH+6QVtrZGcBWhgE5WI=;JTkcvRK5JkCbJNZyPFe7PQ=="
+secured: "p3sIDDU7kInQa8iLNg+32XpnzW9o2uvIkgBuhdTvqP9/FG7Zvzy3V9Dp8NqFVubDvBBwBiNnBt3++ifGv0Rm/GAO61W/xo6qPS1mfljCYN+3U66l23/YbhB0ZDibNp5qOfO6e8mmWPazZnIMORa8gsuqCT7dDThNC08IVlzjFzncHp2RQvZzaZBwVGjktf8Bu2TMULRNIFZBYWUZdkQj80AFPKJo/y2OB+nMvi0i5ZigYz9/In7yCg5s2GXiol7m1/ZPWlQCIV79dMNHf7Pfkb0k9zRsjQ+2FtrUUE5t0oL3GiS1lO7tXmFKTL5md7ITLSCHkriH1I7NyVeEj3w1hFnIbXIkYRcIqxleKJpOu9I=;1kuGxMqSWwSlaBqse671zA=="
 ---
 

@@ -42,18 +42,18 @@ related:
         height: 580
         isCached: true
   - title: "As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years."
-    publishedDateTime: 2021-06-09T06:33:00Z
-    webUrl: "https://www.bworldonline.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out/"
+    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
+    publishedDateTime: 2021-06-09T09:48:00Z
+    webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
     type: article
     provider:
-      name: BusinessWorld
-      domain: bworldonline.com
+      name: VCCircle
+      domain: vccircle.com
     quality: 39
     images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/06/mobile-phone-1-scaled-e1623223971855.jpg"
-        width: 675
-        height: 450
+      - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
+        width: 810
+        height: 506
         isCached: true
   - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
     excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
@@ -66,7 +66,16 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 22
+  - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
+    excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
+    publishedDateTime: 2021-06-09T09:09:00Z
+    webUrl: "https://www.analyticsinsight.net/the-sexiest-artificial-intelligence-designations-in-india-of-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 17
 
-secured: "SoD3ctK4+MGFvuvGqrjUR5g/dhtxBvDY6xSOTEQgIQgBoBF8UIXA98xsb4SNGgpVwmhTTvSNNoPtbyB6QDO4zUwIMswlG9zBtUT8chGfG3W8OX5UmOlgms9g6critV9Y6XiFDz2zrQC5PCKqG5kCIILS+6Avb9nxyR10W2ra7gJiilCDwq1wC96IiS8oRMHf7UbrImEAIZNVlZIOezq60l7a48HPmR2HC3d31kM59/6hKY1UwQ6Fw4vtmx3kMDAULlPxzjhsI4+K5K3gvYgpZru2tc83BhvOcHPIJ5NWsTZeRk7HtCUJwzZAZUdtXuqyd+6y8UStsokf8JRDnGnxlVLh6dn/xzFjdWeT3mUCz2A=;laemVii6z/lAIil+DRBQig=="
+secured: "y11ACn8FENWg0BFNFR5nbKa5VikPzWW6hOVkgmQakWilJGvHm738+1gRShLyitq9Ofki/sB7ncV94fB/0Zjaf6jldbWxYgZm8PGox2Z5isSdHO/e4SjkoGBgP3KOhh1vyQbGstvi1wpwYCuTbu8zZ4IibqB58QjlJ5MJczI176J/wAqRUw8fb3grJkLzglhmBMhscVK6A3nuIRQymLQcfwbzGlhDk5+5FAY2V5NyACTI0rjnLi3+cc+VajLhAe8THEas3bOZy/agtAFyZgIHxrYBOGoiuruQljEzcO1QR1T35wY339YJkr+ZB1j4DZM78yHSIm3VrAAPdya3QQD5Bcjy3eEhiPvoIyi/MmPc1Rwle/qzqXBROnAnLk/zZWpu5yohzbsiKWVo1wdT5YjgQNVI5QoYBg+MZ/Zc7fnP5nO4u+aOtRW8x4XEpoDdSOFR7wQi41tCOgUTYCKbl7f9EfcMG8fFUtLkr+8YAtz8tdZQRtyVEZo7mcC/byIUiri8iP5ydUFjeSLXi3T3QACZkQ==;hhZNtSWgJa62TMrFHsRgWw=="
 ---
 

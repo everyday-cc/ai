@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3621022/3-ai-startups-revolutioniz
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Street: Here's an AI based solution to reduce air pollution"
-    excerpt: "Ahead of World Environment Day, watch Startup Street speak to a Bangalore based disruptive clean-tech company Devic Earth, on their flagship air pollution control product 'pure skies', and the impact it created through the technology."
-    publishedDateTime: 2021-06-04T16:55:00Z
-    webUrl: "https://www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm"
-    ampWebUrl: "https://www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 37
   - title: "How to use artificial intelligence to revolutionise productivity"
     excerpt: "The technological movement of artificial intelligence (AI) has been steadily growing in momentum, and has inspired top executives to greenlight special initiatives to develop new concepts to improve their productivity and competitive edge. “AI ..."
     publishedDateTime: 2021-06-07T05:11:00Z

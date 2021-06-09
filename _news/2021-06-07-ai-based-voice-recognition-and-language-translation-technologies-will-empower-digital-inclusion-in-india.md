@@ -52,19 +52,28 @@ related:
         height: 733
         isCached: true
   - title: "As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years."
-    publishedDateTime: 2021-06-09T06:33:00Z
-    webUrl: "https://www.bworldonline.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out/"
+    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
+    publishedDateTime: 2021-06-09T09:48:00Z
+    webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
     type: article
     provider:
-      name: BusinessWorld
-      domain: bworldonline.com
+      name: VCCircle
+      domain: vccircle.com
     quality: 39
     images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/06/mobile-phone-1-scaled-e1623223971855.jpg"
-        width: 675
-        height: 450
+      - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
+        width: 810
+        height: 506
         isCached: true
+  - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
+    excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
+    publishedDateTime: 2021-06-09T09:09:00Z
+    webUrl: "https://www.analyticsinsight.net/the-sexiest-artificial-intelligence-designations-in-india-of-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 17
 
 secured: "i7pI2aosdqG86p/0J/4W/kF1j+2R0DWun2xUpaJveZDgAQems4wG99X83xR01ppy2qJyXhmiJQUvRAjuIXRSVHe5OfN0SJNbiPNQ0uy7GnHoRiX4K7fQb7GUAdr5C9v9nwvOMiZ8yeaXTnecu28x3KkCAeHwki5kxU8DreA1Ty1RUqF3WaWQ5bii1vxa0HekEbnvds92aDhuwR5bFrF2uYGZltsIsGfmVpC5Yu3R4LSYXescar5IFHlQ0QHm69KObAJG6QcJG0w7EwymQ5LYc+nBSGFVpM161023aBK7WftWVpZWFCTiaw/xDNA/0DM7jxbiQCl61p4kMbJSLy8Oy2w4OnnsczObH7kxiz2htLI=;EKAspu7SKR+YYstKP5fT4w=="
 ---

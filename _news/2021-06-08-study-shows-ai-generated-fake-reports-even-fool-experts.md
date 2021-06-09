@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-06-ai-generated-fake-experts.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-generated-fake-experts.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.snopes.com/tachyon/2021/06/getty_robothands.jpg"
         width: 1200
         height: 771
+        isCached: true
+  - title: "Study shows AI-generated fake reports fool experts"
+    excerpt: "Takeaways   ·  AIs can generate fake reports that are convincing enough to trick cybersecurity experts.   ·  If widely used, these AIs could hinder efforts to defend against cyberattacks.   ·  These s"
+    publishedDateTime: 2021-06-09T08:11:00Z
+    webUrl: "https://menafn.com/1102229060/Study-shows-AI-generated-fake-reports-fool-experts"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/07/TC_0b45ddec-6image_story.jpg"
+        width: 1750
+        height: 1125
         isCached: true
 
 secured: "wDfXhcFjDviGjjpuKfxykmDpSsRMgOjm618bOtfKjrb5x6UjciKePI6k3a0QVrfcuygtw+Wu/k8A1MNPG0ifX6NujEZFtkrugzt1RCwUqDXSBngz9Dnw3Q2s3QOcg9EUsbJkQvXHFC5umStpzZFAwkrIZurWXZ0HOlzaFv2C3FeZ15i+Qrf+T97VS6phtf1BwMqGIh4pdKWilL84aXswmpKgmaf5dXWxPCPTl2+YefVp6xpbTEEMBxBPVQ95D+BH22OYx62rNitGIgH50LA0tXtWGkEmPUkIwkzuaBnLop5vzwB6OLidhm9IOQomIvW9F4XMvUPueGjMGL6kP3b9oKhQxOjKirkD9Mzz+gPPF4vjDcol4AT1aUpn1TORWFQGFqmLOZ7g+cl9OBYzsUke6L2zPlUy8sRCRDunE6Z/WAtSYI/EXzgh2q4YRMKoApAlcdovF47YbD7mU4v+Iazoj9mKIzsE+owTmVhZg2eRc/WWiDgj5bnRErhrUWMttBDysma19bvU97B/djGsbPyB/g==;oerj8Zlm7p+ZyjNErOIgKA=="

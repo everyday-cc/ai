@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/as-artificial-int
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -41,18 +41,18 @@ related:
         height: 733
         isCached: true
   - title: "As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years."
-    publishedDateTime: 2021-06-09T06:33:00Z
-    webUrl: "https://www.bworldonline.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out/"
+    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
+    publishedDateTime: 2021-06-09T09:48:00Z
+    webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
     type: article
     provider:
-      name: BusinessWorld
-      domain: bworldonline.com
+      name: VCCircle
+      domain: vccircle.com
     quality: 39
     images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/06/mobile-phone-1-scaled-e1623223971855.jpg"
-        width: 675
-        height: 450
+      - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
+        width: 810
+        height: 506
         isCached: true
   - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
     excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
@@ -65,6 +65,15 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 22
+  - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
+    excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
+    publishedDateTime: 2021-06-09T09:09:00Z
+    webUrl: "https://www.analyticsinsight.net/the-sexiest-artificial-intelligence-designations-in-india-of-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 17
 
 secured: "+YT6LspQh/NToAxcGOVaxz5AD2y7sCMBnPh4psn1w76uT0igY0ijpCZI0zTwOPA7DDqA1B98WQxvuM89dIn6jrUBHdF1ssX9kcCjqXwkGMJbvrMpRDAUDAWeeJtFAcfgYKIFsUcg6G/zhqWaU8EzJljHJXukUKxS/sBN9mTYSiMNBVTcXjp1FP6T69reHvodxxTpq7yEjpy3sSz6akFVcUExObH9sV8s9nCuPpdZQHrrShgTSSj0WAFb1IciRWfEK73oX+mZr8si7fQ7xafjAXD5jp7Y9I4Tzc8RlwTE51Q+HvSctaJFS1/CjR+zHAzkz+loxiWXHzZCVotQbVBa2pzFzkHlySIA/SqYyDBPv0w=;Ve6CdiBrU6GXQKfPY9eRZw=="
 ---

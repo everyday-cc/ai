@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media.wired.com/photos/60bab4f6eaa210b2096c93ec/master/pass/Business-Rethinking-Google-Search-1230724581.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Artificial Intelligence System Market Emerging Growth Analysis, Future Demand and Business Opportunities 2027"
+    excerpt: "The global Artificial Intelligence System market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
+    publishedDateTime: 2021-06-09T06:40:00Z
+    webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-system-market-emerging-growth-analysis-future-demand-and-business-opportunities-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
+        width: 896
+        height: 411
         isCached: true
 
 secured: "vrfjoGhDYVCQuGLAvNHPM1fm103vW1K7E5R/7h/zVbKpn/V+bM7nErS6luPgCJ8TyZgkYwiIaauE3D5RVE2WEmhKXPFFuvAQCrSf2Lz6IDhDyrfG6cp5obaeyCe5GfsOWPOa+jYdAN6tIfiCTs8K3jtpmiVMi08etcbuK8MXq1rRzHV5Ia7M7slKoHHbHKFDz30lEgn9XqN3CXYkmuCRzHtub9TQr9PKBSkJ8FtpyOq4Gg6fBFGci+c2gExM4UxJSYRHARHEKVWZ1sAZ6bi4+zlHqsf8s061K3jqQoX0pmtsh0los1dSmxvNhUVGx2dJAYfu6SlOJDx0dXpERY/cQ0ClOmgzDrSlMNgh5Zdw2sXBimKrnZByZiD8LZpjsoqrdYfQFNc4LCqUWnl1TPe/o9GteBvx07ytp8O7NaoKn90/0T6xYJBRItZuHpwtrqq8mfwYzcPeBOiQPY1izHcT4lMkeIL0DHS/jgckzb0VJ0Oz3vvJ3Geb4RZXyP18gul/xVfZplNFAACVvcFZ1EEvqg==;V5es9IaZvx2DM1p5SoEWEg=="

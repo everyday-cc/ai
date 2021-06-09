@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Startup Street: Here's an AI based solution to reduce air pollution"
-    excerpt: "Ahead of World Environment Day, watch Startup Street speak to a Bangalore based disruptive clean-tech company Devic Earth, on their flagship air pollution control product 'pure skies', and the impact it created through the technology."
-    publishedDateTime: 2021-06-04T16:55:00Z
-    webUrl: "https://www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm"
-    ampWebUrl: "https://www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/videos/startup/startup-street-heres-an-ai-based-solution-to-reduce-air-pollution-9548601.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 37
 
 secured: "fdDt9LfxsBArCJWzl9Ut+rXV05OzfJztptO7VBBaOpqjtFZG/xMKexIKrWdHKYwc79fqRKoQWaSRA5BHaZ80BKNjqCmqNahc+x5wHTV51SU23VnYIAoYyhJGSDSCFBJfYeFLHhUxgd2dtA0K4+uMzYOA6bfWFgcwBX+EWraL7wnCKMK/5vavr2h733Oh3yeFsf2MKjQpeclD9UDItPuDizqu3W3ujVg8G3xobtj3c+5NeR0G2q0XQGFoGNrxadqGdv534PvtCA2KPJeYRQoR6sEPuo76uj8m1nJFxnfCse6929HINLcqEeD24Aw3pT8bg28gwGq9+88kJIa0xXl+F4+vE9uTSLQ0azqo+JTK9AI=;kxVzYIcp31VPqex6VRFQOw=="
 ---

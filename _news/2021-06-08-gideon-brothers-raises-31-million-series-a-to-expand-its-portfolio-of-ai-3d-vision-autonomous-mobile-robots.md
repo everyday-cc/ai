@@ -44,7 +44,7 @@ related:
   - title: "Croatia’s Gideon Brothers raises $31mn for AI and 3D vision-based autonomous mobile robots"
     excerpt: "Croatian artifical intelligence (AI) startup Gideon Brothers said it has raised $31mn Series A investment in a round led by Koch Disruptive"
     publishedDateTime: 2021-06-08T20:37:00Z
-    webUrl: "https://intellinews.com/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
+    webUrl: "https://intellinews.com/index.php/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
     type: article
     provider:
       name: Business New Europe
@@ -55,6 +55,15 @@ related:
         width: 900
         height: 510
         isCached: true
+  - title: "Gideon Brothers raises $31 Million Series A to expand its portfolio of AI & 3D Vision Autonomous Mobile Robots"
+    excerpt: "The Investment Led By Koch Disruptive Technologies Will Help Gideon Brothers Expand Its Portfolio Of Intelligent, Flexible Mobile Robots To"
+    publishedDateTime: 2021-06-09T08:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai-3d-vision-autonomous-mobile-robots-1030506428"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "G4bdIhX8C1aP4t12oLJ7uOJ4RUGEoPit4mKua4BS5odOf37gqnjuQZ5/n7lioeDKrByeiI7AC3FOowuLx2TnCMj/lG1U2/9R/AYG1vVR52TyH7GV803RSVwiS2msQe0ZqpSB7hrdp3RI3sM9Vrs62OSSwNoeyXqeavJfXP10k37whQaPbdzooRCVX1pxHJO+ZCUzdsZdGFUVsXnuwXG5MML4ykS8O/4u2MukEPTFBDgn44IgRYjpkXmyXjxsEkKkW8DE/LovXsFXI9iPepMPZ43WRYUokuFs1ONVp47NcvVame2+K6ktzF1UPRCDCjBXDErprP0sy2n8qnNzCBayLsWn8GxLh122Ib5QIxkNkps=;MdAXW+IbEpICIXhYcTnXbg=="
 ---
