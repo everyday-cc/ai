@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-c
 webUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
 type: article
 quality: 85
-heat: 105
+heat: 106
 published: true
 
 provider:

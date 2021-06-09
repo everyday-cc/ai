@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/21/06/07/ios-15-siri-processes-voi
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/06/07/ios-15-siri-processes-voice-recognition-on-device-for-device-controls-other-queries/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Apple moves Siri's speech recognition offline with new privacy updates"
-    excerpt: "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. In the Mail app, Apple is adding a new feature to prevent tracking pixels from functioning. “Mail Privacy Protection” will hide users’ IP address and location details from email senders."
-    publishedDateTime: 2021-06-07T18:47:00Z
-    webUrl: "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html?src=rss_b2c"
+  - title: "How audio edge processors enable voice integration in IoT devices"
+    excerpt: "Dedicated audio edge processors with a focus on audio fidelity and with machine learning optimized cores are the key to providing IoT devices with voice user interfaces without the need for a high bandwidth internet connection."
+    publishedDateTime: 2021-06-08T13:19:00Z
+    webUrl: "https://www.embedded.com/how-audio-edge-processors-enable-voice-integration-in-iot-devices/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
+      name: Embedded
+      domain: embedded.com
+    quality: 24
     images:
-      - url: "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-06%2Fe3749d40-c7c4-11eb-bffb-fade1bdbf2cb&thumbnail=675%2C&client=49kdj93ncb8s938hkdo&signature=b2d8bd8c9dd223c262d6290d33a3cc65d8386f9b"
-        width: 675
-        height: 466
-        isCached: true
-  - title: "Voiceitt launches speech recognition app for people with disabilities"
-    excerpt: "Assistive tech helps people with non-standard speech talk via smart devices; 'Everyone deserves to be able to express themselves and be understood,” says company's CEO"
-    publishedDateTime: 2021-06-08T16:05:00Z
-    webUrl: "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/"
-    ampWebUrl: "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 59
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2021/06/voiceitt-danny-300x480.jpeg"
-        width: 300
-        height: 480
+      - url: "https://www.embedded.com/wp-content/uploads/2021/06/iOttie.jpg"
+        width: 956
+        height: 497
         isCached: true
 
 secured: "tbS/rjDoJEG5A8orN439p8xk1TjIGqIw9LtNhwEKCtzvmpMZ4lGUowsVDSVUFzFVWmNDvzPzBx6shD1eiRhljE99ztJ4rv84EciHLRNKhA6qloY5nzrbDzWjh9ItF2WgnJhHmTyZ3VnDyc/SBksFxWb93oeaWTVmPZcV1+FKdiqSAa4V7zR/xDLU74lEqanl9ua8AP6+tV8Fopr/vPBTm72zeyFAimtfsPLScb+q2N7I+wODyvQQayMFFVzI4ZMQ0IQ1CtbZMVdq5FUYbkWwbKObuy7smoHUankqNzgCp2oYsA0DcQcVZglDz1RIaB5BI4JCBzXFLWimBurSoAfPkANTE/oZAZdFFlNbjIW7kei4SM63pITp4JJnlG7KJsRud2LZPxSUgNKG/cl8o+VxOr3KN9yOftjxlomEL3d0m8oe/3qknb9ptaLzy0p9mgEKM8fXJz3l28ALT6FmUKy0QhlHsLAzgUKW9PJAe+dAxx1lWiqAptXp1QL8a84HL1ALUWS/QldnLDJp7LUBOxGtcg==;nZeOI53sAl7Fr7REXMQZdg=="

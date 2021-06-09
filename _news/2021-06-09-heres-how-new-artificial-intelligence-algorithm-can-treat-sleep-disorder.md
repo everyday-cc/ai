@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/heres-how-new-artifi
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder-101623214912444-amp.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,27 +27,36 @@ images:
 
 related:
   - title: "Artificial intelligence enhances efficacy of sleep disorder treatments"
-    excerpt: "An algorithm based on 20,000 nights of sleep that can improve the diagnosis, treatment and our overall understanding of sleep disorders has been developed."
-    publishedDateTime: 2021-06-09T00:54:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/06/210608113257.htm"
+    excerpt: "Difficulty sleeping, sleep apnea and narcolepsy are among a range of sleep disorders that thousands of Danes suffer from. Furthermore, it is estimated that sleep apnea is undiagnosed in as many as 200,"
+    publishedDateTime: 2021-06-08T17:19:00Z
+    webUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "Killer algorithms: how to keep military AI under human control"
-    excerpt: "Although types of automated weapons have existed for hundreds of years - with anti-personnel mines being the earliest example - the development of"
-    publishedDateTime: 2021-06-08T06:50:00Z
-    webUrl: "https://www.miragenews.com/killer-algorithms-how-to-keep-military-ai-under-573630/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://www.uva.nl/binaries/_ht_1623058342393/small/content/gallery/faculteiten-en-diensten/uva-bureau-communicatie/nieuws/2021/pexels-pixabay-76964-jet-fighter.jpg"
-        width: 457
-        height: 302
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/9-sleep.jpg"
+        width: 1920
+        height: 1279
+        isCached: true
+  - title: "Can Artificial Intelligence Fix Your Sleep Disorder?"
+    excerpt: "The University of Copenhagen with the Danish Center developed an algorithm on Artificial Intelligence for Sleep Disorder Diagnosis."
+    publishedDateTime: 2021-06-09T07:24:00Z
+    webUrl: "https://fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/"
+    ampWebUrl: "https://fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/06/technology-eye-artificial-intelligence-4024486.jpg"
+        width: 1280
+        height: 800
         isCached: true
 
 secured: "/8MSKwMHPlISPcpDe3ECXDH8wCcQadDXIqYVFL1iJGYgw7UJRAZdvVFJmewCfoY/o6DcnDQz6PE0cMkb6ZjscdiOfuOMtIukPUSbWzvDyoj4TScWEWvWjkRbz9ztAK/figcXkUHlEhpivMaHxyW03ZdBpLC/Qvniw4vtsd8HoOT3T7uog1b8srTDwE65AE+vxiLd8E74pSMHuOeykFyh2KW7hW4c61YK1b/y70FFijQTLc92jPSMmVccPa8EerIGmaOQudVRfgQ0rJc6l7CehQopc4ugm88WU06PwCqaasFydZKJnn6FgbeApLYo5/VhxgUnI2HlwBJ4JSiMAfTo4gP8bn5Sgs0vmKchS6z/8Mk=;MrdrUK+mn5iujE2J1NEytA=="

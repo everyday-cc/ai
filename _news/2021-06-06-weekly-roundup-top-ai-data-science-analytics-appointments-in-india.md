@@ -25,17 +25,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "Digital lending in India seen reaching $1 trillion in 2023 * Credit algorithms hinder women, the poor, analysts say * Central bank draws up rules for fast-growing sector June 9 (Thomson Reuters Foundation) - As the founder of a consumer rights non-profit in India,"
-    publishedDateTime: 2021-06-08T23:00:00Z
-    webUrl: "https://news.trust.org/item/20210608235042-nbooa"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 19
-
 secured: "Z3zsFLYPxFBiULLuYjyorEDS2aKnwgFiTB6ThF489oMI194UU5FKgZKxsJ1o+wunzfpXxZWEWcxm6vOfR4LqK8XKlcv2jYueA7zNHuEilqTYQE3Ms7TCaI9P+UlZE274hxQa1zSeuorAdWeIk20Zvq2Tl+Qov117Awi6uj5HMo/DI3HvBSI1QCSCfehhcLvjtPg2L05nU82x4wOFl30VsuuOdcaAzQarzkFz9eBuy3YNfKoT/ZgTy1aEbI9pEdt1sNsvQTOUV32NilSKIsZITQkR8XclvLjHaf3YVlGswyIPQOSFS6Y4sCd7JluPcDHdU3ubs4wVO9+S4wc6lyMOSEQUSC04F9JLbw7vFcJ0YFV5GzBH6mzMJ90kz6CnC9Nxacarvg0PUJYcYBgMkr1bedtKL9wJovDsZ5pc+Ov2msJi0yn6R8PlRaU1bOkNn/CDqLw8Keg7HvfRUx9nuQfP1pRCJokPVqC31/nAOwhfaq/y9nXRvrW0Mfw3ev3g9MV9HDQxR4cou382CMwexTXX8w==;JQYKZ6KGOAEemD8NfMgbSA=="
 ---
 

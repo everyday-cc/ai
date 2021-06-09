@@ -117,7 +117,7 @@
       "originalUrl": "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -536,19 +536,19 @@
     {
       "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to Dataiku, giving companies large and small an easy way to leverage the power of AI Dataiku, one of the world's leading AI and machine learning platforms,",
+      "excerpt": "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft",
       "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/anpi/250000",
-      "originalUrl": "https://www.ryt9.com/en/anpi/250000",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ryt9.com/img/files/20210602/iqf2bdffa31177d874007edbcc52c3a0ab.jpg",
-          "width": 800,
-          "height": 338,
+          "url": "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -558,11 +558,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T19:40:00-07:00",
+      "publishedDateTime": "2021-06-01T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

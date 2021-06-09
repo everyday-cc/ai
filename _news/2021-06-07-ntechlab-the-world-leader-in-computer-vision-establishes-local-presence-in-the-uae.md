@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210607143841/
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210607143841/"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 450
     height: 527
     isCached: true
-
-related:
-  - title: "NtechLab’s face recognition algorithm tops global ranking"
-    excerpt: "Biometric technologies multinational NtechLab has said that it has topped the Face Recognition Vendor Test (FRVT) undertaken by the National Institute"
-    publishedDateTime: 2021-06-04T13:15:00Z
-    webUrl: "https://www.thestatesman.com/technology/ntechlabs-face-recognition-algorithm-tops-global-ranking-1502970902.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/ntechlabs-face-recognition-algorithm-tops-global-ranking-1502970902.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ntechlabs-face-recognition-algorithm-tops-global-ranking-1502970902.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/06/facial-recognition-istock-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "qSJc1p2WMalaRB7b1VvXU6s2KsE18FdB3GTNbABkMWNoErgetDBp1VGKMnE0r4xdQiwM9IPHMDEHX5Sm8bJsSDOG+I0CCkG8Vc2SBiTMCCNHo0/slVsKOYnPoX+RQ9/1ZlqbRC+ma7FPaHNVFDO+biIPHq6pHyG2AXILJcJhgzBE2+8l54ngmH4QrdJOqPT5ZW96APK45oePPqysJQqHIMVXoaVKJwK7LOKBRw+oJ9QJAaUhqb/p2n3K6ilmEsvm8ITcFZ7t/fTdDpy9ETmOWTe/UHQ5XjuM+d4OLIAvHCsSwH06pWLKj7tKPKgpoYNmWOC4XYbjjZO0kDqZ8puV3F/8/EhTEEYiYgmSmApkO0uHRQlfJQpxWtuhdfWaE2njM64Xokr2QPMv389KUuzK56x74VNkz3CspbryfEC3m82KJi+2hRLnXS7EuB1rvYHPTRhGDQaw0ddRyse9XgCPcJERkaF+tuFktTAkL8ExBP7z1ifm4e7UMr0tgkTKTlJztmjObKB8sidaOg8Ors8WSQ==;QS09ji+gZZFXUJYhd9Zyng=="
 ---

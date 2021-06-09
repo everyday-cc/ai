@@ -1,27 +1,47 @@
 ---
 category: news
 title: "Artificial intelligence enhances efficacy of sleep disorder treatments"
-excerpt: "An algorithm based on 20,000 nights of sleep that can improve the diagnosis, treatment and our overall understanding of sleep disorders has been developed."
-publishedDateTime: 2021-06-09T00:54:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/06/210608113257.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/06/210608113257.htm"
+excerpt: "Difficulty sleeping, sleep apnea and narcolepsy are among a range of sleep disorders that thousands of Danes suffer from. Furthermore, it is estimated that sleep apnea is undiagnosed in as many as 200,"
+publishedDateTime: 2021-06-08T17:19:00Z
+originalUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html"
+webUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/9-sleep.jpg"
+    width: 1920
+    height: 1279
+    isCached: true
+
 related:
+  - title: "Can Artificial Intelligence Fix Your Sleep Disorder?"
+    excerpt: "The University of Copenhagen with the Danish Center developed an algorithm on Artificial Intelligence for Sleep Disorder Diagnosis."
+    publishedDateTime: 2021-06-09T07:24:00Z
+    webUrl: "https://fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/"
+    ampWebUrl: "https://fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/06/technology-eye-artificial-intelligence-4024486.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Here's how new artificial intelligence algorithm can treat sleep disorder"
     excerpt: "A new breakthrough study develops artificial intelligence algorithm that will serve to help doctors and researchers around the world to learn more about sleep disorders in the future and help treat difficulty in sleeping,"
     publishedDateTime: 2021-06-09T05:08:00Z
@@ -38,21 +58,7 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Killer algorithms: how to keep military AI under human control"
-    excerpt: "Although types of automated weapons have existed for hundreds of years - with anti-personnel mines being the earliest example - the development of"
-    publishedDateTime: 2021-06-08T06:50:00Z
-    webUrl: "https://www.miragenews.com/killer-algorithms-how-to-keep-military-ai-under-573630/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.uva.nl/binaries/_ht_1623058342393/small/content/gallery/faculteiten-en-diensten/uva-bureau-communicatie/nieuws/2021/pexels-pixabay-76964-jet-fighter.jpg"
-        width: 457
-        height: 302
-        isCached: true
 
-secured: "nR7orKTnMW1cJwbNImPQdq7pQJK468FzGAtQUO+lW4XK1EUHVYhJZGWr0FfkOLnsZayn3fPjZHBKQ74qljjlKTrQ9iq/zzfa2UDLkld0ognMqM5YTTc0DfTx4nSNSxMetkgIPw6vG+A8DW7PE0BAbYkd066hrA+Ki/gh+bi3zMQYVapF+lF9EPzy/hBeYcWMUxOzCS1ofPJKw2O4Vf1dPKN0DisM3bnC+kJC7744odVfp2qmWKxXelcYohH44pbjfEy/qslt1ghO1ve+1cqs6R39LksElIO56xJN8ZorhYxEibkGp7UzTWE/q0644SlGwG4F0nLRjPI+0Keo76KVMvD89gNrvo+S/yRxP2b/qWU=;vo6jxNRfkSk6uJ/7ddgOEA=="
+secured: "voMpovxmapwQS/JS3yOOlJjE1DqPFpJ79Y6Kd7YoseeNcBR8tLbGrybj/ZWwOGJUzX3T7xv+gUnR0j89m3jTdlFQdVMDmMw5zakCgOy/3yf8U01NEZz5Exr8o86PWEJ0VuyYM/QD/c+dGl5L4vo+RzZOtkFmf/EyezucDNTxLaD/9OoBhqgDYns9ZCXy88G2p6iu48F8fmTWBNTWh3AFsuPYzp+gudLH1sC6GfZJbxbHD2J2TQp10zU5Gx0L7kwkEBIUA8aKWwg8y17cnZuvC6npui/TQF60FVPYWE/927Rx5uJdVoHC7OtE9m0rpUiFlipGaKUjzWLDKiVBuoec9tb2SnWNj08kVSEyvuxySaA=;SY65iiQvbYgAr1NDps32xg=="
 ---
 

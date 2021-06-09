@@ -2,6 +2,145 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-28-baltimore-could-enact-nations-strictest-facial-recognition-ban.md",
+      "title": "Baltimore could enact nation's strictest facial recognition ban",
+      "excerpt": "The Baltimore City Council Public Safety and Government Operations Committee on Wednesday passed an ordinance that would not only ban law enforcement and other agencies from purchasing and using facial recognition systems but would even bar the use of such technology by private citizens in the city.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban",
+      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Detection_And_Recognition_380721568.60b10b5b785a3.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-retailers-ariat-decathlon-latest-to-adopt-exotec-robotics.md",
+      "title": "Retailers Ariat, Decathlon latest to adopt Exotec robotics",
+      "excerpt": "Warehouse robotics firm Exotec announced footwear retailer Ariat and the world’s largest sporting goods retailer Decathlon will deploy its Skypod warehouse robotics system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "originalUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/Exotec_1.jpg",
+          "width": 2080,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "publishedDateTime": "2021-05-28T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science",
+      "excerpt": "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-a-new-frontier-of-ai-and-deep-learning-capabilities.md",
       "title": "A New Frontier of AI and Deep Learning Capabilities",
       "excerpt": "Thanks to robust HPC systems, compute capacity and data handling are powerful and affordable enough that many organizations are beginning to invest in a new frontier of AI and deep learning capabilities. HPC solutions coupled with advanced data ...",
@@ -1032,162 +1171,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-russias-sberbank-unit-unveils-self-driving-vehicle-flip.md",
-      "title": "Russia's Sberbank unit unveils self-driving vehicle FLIP",
-      "excerpt": "SberAutoTech, a subsidiary of Russia's largest lender Sberbank, has developed a fully self-driving vehicle, FLIP, which the company on Thursday described as a \"taxi of the future\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/russia-sberbank-autonomous/russias-sberbank-unit-unveils-self-driving-vehicle-flip-idUSL5N2ND6FC",
-      "originalUrl": "https://www.reuters.com/article/russia-sberbank-autonomous/russias-sberbank-unit-unveils-self-driving-vehicle-flip-idUSL5N2ND6FC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563651392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q18N",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2ND6FC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2ND6FC",
-      "publishedDateTime": "2021-05-27T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-how-ai-and-machine-learning-help-fight-the-covid-19-battle.md",
-      "title": "How AI and machine learning help fight the COVID-19 battle",
-      "excerpt": "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
-      "originalUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
-      "publishedDateTime": "2021-05-27T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-new-degree-in-computer-vision-launches-as-artificial-intelligence-expands.md",
-      "title": "New Degree in Computer Vision Launches as Artificial Intelligence Expands",
-      "excerpt": "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

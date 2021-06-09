@@ -3,10 +3,10 @@ category: news
 title: "Machine learning at the edge: TinyML is getting big"
 excerpt: "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,"
 publishedDateTime: 2021-06-07T06:30:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
-webUrl: "https://www.zdnet.com/index.php/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+originalUrl: "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+webUrl: "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
 type: article
 quality: 104
 heat: 104
@@ -30,6 +30,6 @@ images:
     height: 657
     isCached: true
 
-secured: "AvdDHh3nX499EaKWPh54tvlmznQfcFB2h+vTWJVfjDuuE0JIJDTA+R7nGH+hh8ilvDlcAmWqXdn4mb33vEFuqRBSZBFrdk2ebV/8O/JyOEMpHVmvUzMClqxwuF31mPazoRt9lN1EjtY4TLxydqQcwhOFRq+Q1lw6QlmIZ4l1Ky/cJHLjIE3xPfdY9hxA8fZOSmcnJ13tWTKgwt1QH2VEYxYmYK16QP3Pw4R5UrTryGQCPu40MyesvBGBHwCciz9FzSfQHxPHGkC9Rm3rOHYep7UJ19G50P1ifXZSEjMGsMWRtHtTwrKkEY2svCnpcoMUotgrBja0KOg1W5e8P/5IKI6/p+UnTlRVwqOl8pv4BXE=;lqBiF/5SldN/d7HDjwblUw=="
+secured: "XqmuYFLfiiMD6y6crH45b3YcaKoQ+kzdZ6zRbqNrncvjGo4e8yKpTTID9MOFnC+GJjnM7zjrrN5hl9PrjCUZYMQOK0/kY7hAXM1H6gVbx0f0yH1IMmVETCl+3tKkuzqr1GUJ6cRSr2ujfu6f88BPmzgu8LXvSibKonJVDrkTcMqh5ZuR+hoCMB/H6cuI3B4Rqi8NeqMTTZZR5KkNfyVfqc9p1AfYtyEYGLCjayLkRRp2ipjMIlbPiwbHhqvfFthNWRVDpCeC2S5dMXPC73Y0ER035q0xHeeF3DwYKA42TAF/owv9p+9JGdbM2jBtheHjHk8kWdFw73hARDAgACQUJI7bIOqoxMfLEoBlEZQZ0oY=;ytpA7AmZAuUh+UDbil4gFw=="
 ---
 

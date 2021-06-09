@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Gideon Brothers raises $31 Million Series A to expand its portfolio of AI & 3D Vision Autonomous Mobile Robots"
-excerpt: "Gideon Brothers, a robotics and AI solutions company, today announced it has raised a $31 million Series A investment to accelerate the development and commercialization of its AI & 3D vision-based autonomous mobile robots (AMRs)."
-publishedDateTime: 2021-06-08T14:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gideon-brothers-raises-31-million-series-to-expand-/2021/06/08/9386233.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gideon-brothers-raises-31-million-series-to-expand-/2021/06/08/9386233.htm"
+excerpt: "Gideon Brothers, a robotics and AI solutions company, today announced it has raised a $31 million Series A investment to accelerate"
+publishedDateTime: 2021-06-08T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai--3d-vision-autonomous-mobile-robots-301307461.html"
+webUrl: "https://www.prnewswire.com/news-releases/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai--3d-vision-autonomous-mobile-robots-301307461.html"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Croatia’s Gideon Brothers raises $31M for its 3D vision-enabled autonomous warehouse robots"
@@ -35,7 +41,21 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Croatia’s Gideon Brothers raises $31mn for AI and 3D vision-based autonomous mobile robots"
+    excerpt: "Croatian artifical intelligence (AI) startup Gideon Brothers said it has raised $31mn Series A investment in a round led by Koch Disruptive"
+    publishedDateTime: 2021-06-08T20:37:00Z
+    webUrl: "https://intellinews.com/croatia-s-gideon-brothers-raises-31mn-for-ai-and-3d-vision-based-autonomous-mobile-robots-212673/"
+    type: article
+    provider:
+      name: Business New Europe
+      domain: intellinews.com
+    quality: 44
+    images:
+      - url: "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneCompanies-Croatia-Gideon_Brothers_Autonomous_Mobile_Robots_1-1-2800x0-c-default_Cropped.jpg"
+        width: 900
+        height: 510
+        isCached: true
 
-secured: "Yb9beQJeWXjL2yCHS4kV80HAM2yeIsqjmoU9Y4rsFDP3PYLqMXvNBYBpkYWMNd2YZLcLry7n2Em/m9ESnY6CyvIYWvI53Qh8r/YLk+yeQHdKJCvtgLm+E9hTD87IIh42GC6sRyT6ngGAckUhzRKUV6y/AKt96k5dQOgMRD0BP1qlcp3Xsaixg2ng0YnBB1pfD5VNHcNSF7Gm1VTgDS0O0g2CtAcpHexr0J3g0MTwdKhK385FwmLgj/1Wxbm2OlaolUOckotszeZ/IZSLabZAlmILcrzB+RMYFjmXoqTD4zzq+hY73wmimjzHVQVYB1Uh/CbkY289lRS+KyqX8AfhRrnVRw22oZAqnFKF3ByIzkI=;54BNk4xseCr5v3pEo1YDog=="
+secured: "G4bdIhX8C1aP4t12oLJ7uOJ4RUGEoPit4mKua4BS5odOf37gqnjuQZ5/n7lioeDKrByeiI7AC3FOowuLx2TnCMj/lG1U2/9R/AYG1vVR52TyH7GV803RSVwiS2msQe0ZqpSB7hrdp3RI3sM9Vrs62OSSwNoeyXqeavJfXP10k37whQaPbdzooRCVX1pxHJO+ZCUzdsZdGFUVsXnuwXG5MML4ykS8O/4u2MukEPTFBDgn44IgRYjpkXmyXjxsEkKkW8DE/LovXsFXI9iPepMPZ43WRYUokuFs1ONVp47NcvVame2+K6ktzF1UPRCDCjBXDErprP0sy2n8qnNzCBayLsWn8GxLh122Ib5QIxkNkps=;MdAXW+IbEpICIXhYcTnXbg=="
 ---
 

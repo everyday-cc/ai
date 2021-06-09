@@ -24,22 +24,6 @@ images:
     height: 431
     isCached: true
 
-related:
-  - title: "‘Robot swarms’ could one day build underground shelters for humans on Mars"
-    excerpt: "Autonomous, cooperative robots could one day tunnel underground Mars to create shelters for humans using novel 3D-printing techniques."
-    publishedDateTime: 2021-06-04T14:00:00Z
-    webUrl: "https://www.popsci.com/space/robots-build-human-settlements-mars/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 37
-    images:
-      - url: "https://www.popsci.com/app/uploads/2021/06/03/Zebro-Climbing-mars-robot-swarm.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "G0n5AccFUeEGh9DNgoHRil0wwRBZz6PPLMocglffzjtRPqKn++coHq4hAjz0AShxMeydQgIVbaT6auoDep/6G1jPzGPvzkpqdwtDyBEiPqesPkP+12KZWq5ebx1SK+OGKxpf3/0OpjyDhLh7J7IG/39qYhYUcrHMdlDcZkPV2SLEfU8P7K1OB1X6IEW/FND455kJv/+TRyf//Tx+Dl6pglfzlxhgAKaa3wu1rdDVfd5ar2iplmKQVj8b39H859754BpGbNO2HtFLHrxsLiXFNJDFaG65BYGR5o/AOhXm2PZOjn1cvNVw+8YYE2jiZLDSxIm/IVZGz1HO0JV9NAhwBk/39NbdkZPALLhAf5cwEu2rqd4zpuDPMqXKszSaH2Opkj+RxcnFeowVnyPnUDUuZA9N6pYOUbkxGXds+WWhpYyfeo9ivu5b2ASTZy3egVlRVTEEUn6zP/L6Y81rXIRiNYyginQ1laa8ADnYX67456qeGFRcnx/M8OtxoGpPqXgSuz3xnzG1eVrcawOkKIXTqQ==;A6uITqR+nlyeHSKFZAiLTA=="
 ---
 

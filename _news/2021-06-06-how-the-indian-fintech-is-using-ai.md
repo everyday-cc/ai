@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "CRE fintech startup Blooma nabs $15M in funding"
+    excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures and existing investor Nyca Partners led the Series A, Blooma announced Tuesday."
+    publishedDateTime: 2021-06-08T14:30:00Z
+    webUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
+    ampWebUrl: "https://therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/la/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 44
+    images:
+      - url: "https://therealdeal.com/la/wp-content/uploads/2021/06/crosspost-20210608022016.jpg"
+        width: 690
+        height: 493
+        isCached: true
   - title: "Report lays out seven technologies key to fintech development"
     excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
     publishedDateTime: 2021-06-07T13:20:00Z
@@ -112,20 +128,6 @@ related:
       - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2021/06/RossBoyd_social_watermark-764x399.jpg"
         width: 764
         height: 399
-        isCached: true
-  - title: "CRE fintech startup Blooma nabs $15M in funding"
-    excerpt: "Blooma, a startup that wants to speed up commercial real estate lending by using AI, closed on a $15 million funding round. Canapi Ventures led the Series A, with participation from existing investor Nyca Partners,"
-    publishedDateTime: 2021-06-08T15:03:00Z
-    webUrl: "https://therealdeal.com/national/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/"
-    type: article
-    provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 24
-    images:
-      - url: "https://therealdeal.com/national/wp-content/uploads/2021/06/crosspost-20210608022045.jpg"
-        width: 690
-        height: 493
         isCached: true
   - title: "Commercial Finance Fintech and Business Lender join forces to give Australian Small Businesses a fighting chance"
     excerpt: "The funding gap in small and medium business (SMB) lending in Australia is estimated at more than $90 billion. It was reported in late 2020 that the major banks are rejecting more than a quarter of SMB loan applications,"

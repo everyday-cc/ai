@@ -275,6 +275,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-neural-network-knows-when-cat-wants-to-go-outside.md",
+      "title": "Neural Network Knows When Cat Wants To Go Outside",
+      "excerpt": "A Python script regularly captures images and passes them to a TensorFlow neural network for object recognition. The TensorFlow network returns object type and positions to the Python script.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
+      "originalUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/12/0800.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-object-detection-with-tensorflow.md",
       "title": "Object Detection, With TensorFlow",
       "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
@@ -1323,58 +1367,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-amazon-again-denies-police-use-of-facial-recognition-software-rekognition.md",
-      "title": "Amazon again denies police use of facial recognition software Rekognition",
-      "excerpt": "Amazon, which one year ago barred police from using its facial recognition software, is extending that moratorium indefinitely. The extension of the ban on police use of Amazon'",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/",
-      "originalUrl": "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 538,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/05/spheresmay2019-630x450.jpg",
-          "width": 630,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/",
-      "publishedDateTime": "2021-05-18T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

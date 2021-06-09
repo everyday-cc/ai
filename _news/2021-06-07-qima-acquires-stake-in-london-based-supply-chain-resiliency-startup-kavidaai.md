@@ -32,6 +32,20 @@ related:
         width: 440
         height: 293
         isCached: true
+  - title: "London startup Kavida.ai secures £300k capital"
+    excerpt: "Kavida.ai – a supply chain resiliency startup, founded in 2020, has secured £300,000 ($425,000) in pre seed capital from strategic investors. The company provides enterprises with decision intelligence tools to prevent and mitigate supply chain disruptions in a range of sectors including apparel,"
+    publishedDateTime: 2021-06-09T06:39:00Z
+    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/london-startup-kavidaai-secures-300k-capital/"
+    type: article
+    provider:
+      name: angelnews.co.uk
+      domain: angelnews.co.uk
+    quality: 37
+    images:
+      - url: "https://www.angelnews.co.uk/an2017/images/Anam_Rahman.png"
+        width: 920
+        height: 700
+        isCached: true
 
 secured: "X1SUIqfXG5l/IZvy8Dem9a/L0WF+L8fldyCGAT2pnM2kBi5OGt+uFPVAf54hAODz6Gq+b9eaANF0eO/yumsTTHjEang2zzYOrtA/K/3YFJFsLWvNVfv7hbYV3Q2o7KxQVg1+W4SGQ2VJvoT38Z/2eNdIRxS6kdHBe/90jCAOTuPegW/xmxs4cJ6i7pTUf/BiBGFaap8IKoYig58R6++pZHGuc3lKPiTvEEUR7/9FZ0eh9SNtjr1tAfyqSNnaEIoascodYQcItdKrgvmLfycLoOrW5TP9LiuTfvc8QbmIr6GV7LhHqH/79gLAzBqi2D0XEMLY34DiiKNbIYXy3fhRP6FRocYCplOBy8kEOVDWOBo=;Aua+/1rgBoHSCvJMd6cP2A=="
 ---

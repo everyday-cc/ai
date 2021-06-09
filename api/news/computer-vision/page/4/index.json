@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-06-facial-recognition-as-a-legislative-issue.md",
+      "title": "Facial Recognition as a Legislative Issue",
+      "excerpt": "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/virginia/reston/facial-recognition-legislative-issue",
+      "originalUrl": "https://patch.com/virginia/reston/facial-recognition-legislative-issue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue",
+      "publishedDateTime": "2021-05-05T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-states-push-back-against-use-of-facial-recognition-by-police.md",
       "title": "States push back against use of facial recognition by police",
       "excerpt": "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button.",

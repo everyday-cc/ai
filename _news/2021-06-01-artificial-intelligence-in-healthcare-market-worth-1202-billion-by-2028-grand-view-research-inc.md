@@ -12,9 +12,10 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
+  - AI in Healthcare
 
-secured: "VfbtjVWWf+FzHC7tdOSm3igVSuVCrLSk7a2QxzQNdApP4nzXllaW7VZToPh0TU2JCKUPKiLpgr0/ysDlBQQyoC36CFyrYNol/pb1YNjnvt+XUJLoCgqKxDn/tOMEId9NWyd4t+xFxl6ik+j0CqaV0TeMpUhWfhyZ75Q5HV35fwY1jvWqIOhWvNfhRoSpQBbiVXHghp7cKJZfBDtgKCmqUl1wBFrol+bGMk3sFGKLf2yk54qtURdFF1WFU4lqsL3pae+uCruJl5wRQZA3SQwpYKntmpRYoWldiOg3WgZHconYtF7hxj3X2hqB+K4jo6G/IoCeDBbV+oN/Z2A9oItWOuBbQ0VZW+iFlpN5XdnftjY=;UujQRN3TO1664QUKQ6lxKA=="
+secured: "yX0R8Zg8Bdh/cUS+XCNkj84ZJuTFX9wD9vR+y+j8bn3tIRuS1mqv99gH3K/V5S3vAWFaBilSvP32Y9PQvGMP3kqCu60AH8GvmV1Avo4sAzFeRUJAjAcKqkF7D+YyqCP5JrUfaYcXZ/Q8qibV6jIxyLI4wIA3rWm0KrjvLNpTUHlXkY97oCrSQsIQ4G9ffMN+T5TANDb7I+nryH3yTNMGMmMVB9I4odLYAmK2IGTffpKsE2HeAo29I0CkVpIh0mREtoYtvVCPyq5tT/YJy6omCSu3v0am1GMC/l0i7KuVwMMKuQLQd2OJ4Yt/EVLt76KgqqmphNuBvO20oU8C9ZJtdp9ZVW+cQWDKdkFrC8FoB48=;peUzvOoiYDg9tgV7MksHCg=="
 ---
 

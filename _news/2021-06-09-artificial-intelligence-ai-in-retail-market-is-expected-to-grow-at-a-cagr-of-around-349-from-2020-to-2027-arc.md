@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial intelligence in sports is expected to grow at a CAGR of around 32.8% from 2020 to 2027 | ARC"
+    excerpt: "The market for artificial intelligence in sports is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and expected to reach the market value of around US$ 3,555.9 Mn by 2027. The global Artificial Intelligence in Sports Market research report is inclusive of detailed and productive qualitative and quantitative information,"
+    publishedDateTime: 2021-06-09T04:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-is-expected-to-grow-at-a-cagr-of-around-328-from-2020-to-2027-arc-2021-06-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AJgVX6eYDXBl1zW9wAPHHU7U7OfBsAnuWSr1jSHqwWkaUn0zIOPVqn0Gz+RHjJtPe8P0j/vvqSRg9PxvMiakTZkkEk7Jvp54Wb33Gz32Aty+2y2nC1gGnCNhio73+DxdPiiSUNYMAn7Q1sVgu5YBU2gleYye5yzcL5nPw1ajdNaDSP6Mk6tPfzeKmVaCdUcwTz/58YrojY/lTb4StGpVtt23GhP1BBOGIyeBb1j9UdPeDq5x7kUELwQ/5UzjXUxsiFWtFaeYIF4ymNHI1zCkZaSaKHDCEhNNs0yRkxKYtIPpZeJsc/NNDYeo/lrekmkfCSAZccP2pvtMhH3LqtD6Z0093GXR4gzXQls3aTyraPY=;rEGaYH7kvRDDCXkYwqxY8g=="
 ---

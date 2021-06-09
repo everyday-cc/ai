@@ -108,19 +108,19 @@
     {
       "path": "_news/2021-06-08-apple-moves-siris-speech-recognition-offline-with-new-privacy-updates.md",
       "title": "Apple moves Siri's speech recognition offline with new privacy updates",
-      "excerpt": "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. In the Mail app, Apple is adding a new feature to prevent tracking pixels from functioning. “Mail Privacy Protection” will hide users’ IP address and location details from email senders.",
+      "excerpt": "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. For Siri, processing audio locally will alleviate some of the privacy concerns associated with audio recordings.",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html?src=rss_b2c",
-      "originalUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html?src=rss_b2c",
+      "webUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html",
+      "originalUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-06%2Fe3749d40-c7c4-11eb-bffb-fade1bdbf2cb&thumbnail=675%2C&client=49kdj93ncb8s938hkdo&signature=b2d8bd8c9dd223c262d6290d33a3cc65d8386f9b",
-          "width": 675,
-          "height": 466,
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bafadb70-c7c1-11eb-bd2f-9e1d51125afc",
+          "width": 2400,
+          "height": 2000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -218,7 +218,7 @@
       "originalUrl": "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 106,
       "tags": null,
       "images": [
         {

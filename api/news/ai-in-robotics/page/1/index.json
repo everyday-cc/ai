@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-meet-grace-the-healthcare-robot-covid-19-created.md",
+      "title": "Meet Grace, the healthcare robot COVID-19 created",
+      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/meet-grace-the-healthcare/",
+      "originalUrl": "https://www.metro.us/meet-grace-the-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/meet-grace-the-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/",
+      "publishedDateTime": "2021-06-08T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-razer-is-helping-make-a-robot-to-tackle-garbage-in-the-ocean.md",
       "title": "Razer Is Helping Make A Robot To Tackle Garbage In The Ocean",
       "excerpt": "Today is World Oceans Day, a holiday meant to raise awareness for ocean conservation causes and the threats that the marine ecosystems currently face. In recognition of the day, Razer announced that it is working on a solar-powered robot designed to help clean up the huge amount of plastic waste that has found its way into the seas.",
@@ -53,7 +97,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -148,7 +192,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1094,6 +1138,41 @@
       ]
     },
     {
+      "path": "_news/2021-06-01-artificial-intelligence-in-healthcare-market-worth-1202-billion-by-2028-grand-view-research-inc.md",
+      "title": "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-robot-maker-acquires-conversational-ai-startup.md",
       "title": "Robot maker acquires conversational AI startup",
       "excerpt": "Makers of a robot named Moxie, whose 2020 launch was largely drowned out in the early days of the pandemic, are betting conversation will be the key to unlocking market viability. The recent acquisition of a conversational AI company will give Embodied a leg up in pursuit of that goal.",
@@ -1324,101 +1403,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-flying-killer-robot-hunted-down-a-human-target-without-being-instructed-to-un-experts-say.md",
-      "title": "Flying Killer Robot 'Hunted Down' a Human Target Without Being Instructed to, UN Experts Say",
-      "excerpt": "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
-      "originalUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dca2c6eb2c05d71e386bb0b4cdb8c47b.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp",
-      "publishedDateTime": "2021-05-30T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
-      "title": "AI and robotics take centre stage in rapidly changing world",
-      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
-      "publishedDateTime": "2021-05-30T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
         "publishers": null,
         "authors": null
       },

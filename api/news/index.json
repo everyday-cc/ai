@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-09-heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder.md",
-      "title": "Here's how new artificial intelligence algorithm can treat sleep disorder",
-      "excerpt": "A new breakthrough study develops artificial intelligence algorithm that will serve to help doctors and researchers around the world to learn more about sleep disorders in the future and help treat difficulty in sleeping,",
+      "path": "_news/2021-06-09-as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out.md",
+      "title": "As artificial intelligence-based loan apps boom in India, some borrowers miss out",
+      "excerpt": "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been",
       "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder-101623214912444.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder-101623214912444.html",
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/articleshow/83364025.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/articleshow/83364025.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/img/2021/06/09/1600x900/_fd8e18f4-ee90-11ea-8892-0a48b6ec0f6e_1623215201030.jpg",
-          "width": 1600,
-          "height": 900,
+          "url": "https://static.toiimg.com/thumb/msid-83364067,width-1070,height-580,imgsize-39145,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,109 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder-101623214912444-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder-101623214912444-amp.html",
-      "publishedDateTime": "2021-06-08T22:08:00-07:00",
+      "ampWebUrl": "https://m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms",
+      "publishedDateTime": "2021-06-09T00:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-meet-grace-the-healthcare-robot-covid-19-created.md",
+      "title": "Meet Grace, the healthcare robot COVID-19 created",
+      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/meet-grace-the-healthcare/",
+      "originalUrl": "https://www.metro.us/meet-grace-the-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/meet-grace-the-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/",
+      "publishedDateTime": "2021-06-08T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc.md",
+      "title": "Artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 | ARC",
+      "excerpt": "The global artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and projected to reach the market value of around US$ 6,762.3 Mn by 2027. The global Artificial Intelligence (AI) in Retail Market research report is inclusive of detailed and productive qualitative and quantitative information,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -432,6 +527,48 @@
       ]
     },
     {
+      "path": "_news/2021-06-09-artificial-intelligence-enhances-efficacy-of-sleep-disorder-treatments.md",
+      "title": "Artificial intelligence enhances efficacy of sleep disorder treatments",
+      "excerpt": "Difficulty sleeping, sleep apnea and narcolepsy are among a range of sleep disorders that thousands of Danes suffer from. Furthermore, it is estimated that sleep apnea is undiagnosed in as many as 200,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/9-sleep.jpg",
+          "width": 1920,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp",
+      "publishedDateTime": "2021-06-08T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-six-of-the-smartest-applications-of-artificial-intelligence-in-business.md",
       "title": "Six Of The Smartest Applications Of Artificial Intelligence In Business",
       "excerpt": "Businesses that want to figure out how to best leverage artificial intelligence can experiment with unique ways of using it. Through trial and error, a company can track its results with AI initiatives and find out what works best for its specific needs.",
@@ -543,7 +680,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -700,7 +837,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1085,154 +1222,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds.md",
-      "title": "Government and business can develop an ethical AI future together, KPMG study finds",
-      "excerpt": "Industry leaders believe the Biden administration will help advance AI adoption, and also believe it has an essential role in regulating AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1143065746.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/amp/",
-      "publishedDateTime": "2021-06-08T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors.md",
-      "title": "Qualcomm adds 7 new chips to power IoT installations in retail, warehouse and manufacturing sectors",
-      "excerpt": "The chips range from high-end to entry-level in cost and can support a variety of IoT use cases from AI to edge computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors/",
-      "originalUrl": "https://www.techrepublic.com/article/qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/08/f79a61fb-1ee8-4609-a271-fd10a182760d/resize/1200x/b292e8a5026322e0f034baeccf5a0522/7-new-solutions.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors/",
-      "publishedDateTime": "2021-06-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition.md",
-      "title": "Calls mount for ethical approach to facial recognition",
-      "excerpt": "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
-      "originalUrl": "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000",
-          "width": 1000,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
-      "publishedDateTime": "2021-06-08T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
