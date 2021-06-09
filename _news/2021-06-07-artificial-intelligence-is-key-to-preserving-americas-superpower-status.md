@@ -23,6 +23,17 @@ images:
     height: 1250
     isCached: true
 
+related:
+  - title: "mCloud Delivers AI Grid-Adaptive Energy Savings to First 20 Buildings with Utility Partners in North America"
+    excerpt: "Announces launch of AssetCare™ buildings capability using new AI to drive continuous savings through direct connection with the energy grid in"
+    publishedDateTime: 2021-06-09T11:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mcloud-delivers-ai-grid-adaptive-energy-savings-to-first-20-buildings-with-utility-partners-in-north-america-1030506940"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+
 secured: "jduPbBSuDdAvQemnbxbCH0zawdB5AkMxqsk3UBp8D5Rm247I1pGs9GNqde9G1eW80u4cRlM8ppiGl2BOLrE5ZoCD4jeW0br9QRdX9kwxQYxuJnwxJVzCzeFZlHrMRiem7JnuVF/E7uH9sqrffmaw2ET+8tEN2282WiK7SPLXU48SJp2CPoe6r8YqR5FelvJDiYLrepz8L4/kbwEJH7jhUZDMDjf+rnRb4gNeq+0U589lrVlhM8nZDu6xH2Up/vvzistL8YanfWTrhbP5366GNumUwZbT5R/3tJyZ3Dc4cXKA0JelmdZbUc3baADYE11d9QZx92n5Xjg5oZW66+ZnuOmwRhVDmFK3Va04hgJEvk0=;kYHyVE84G0BKWnKSYLuTNA=="
 ---
 

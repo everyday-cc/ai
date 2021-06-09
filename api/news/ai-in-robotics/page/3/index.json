@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-21-human-like-robot-creates-creepy-self-portraits.md",
+      "title": "Human-like robot creates creepy self-portraits",
+      "excerpt": "Da's new self-portraits are a combination of constantly updated AI, inbuilt programming and advanced robotics. The eyes are actually cameras that allow the robot to \"look\" at what she is painting or sculpting,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
+      "originalUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BWaS5TwUQjXyzM3UTETud6-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livescience.com/amp/robot-artist-self-portraits.html",
+      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/robot-artist-self-portraits.html",
+      "publishedDateTime": "2021-05-21T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Live Science",
+        "domain": "livescience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-vertical-farmer-appharvest-buys-robotics-start-up-root-ai.md",
+      "title": "Vertical farmer AppHarvest buys robotics start-up Root AI",
+      "excerpt": "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict...Read",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai",
+      "originalUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-food.com/wp-content/uploads/sites/35/2021/05/2021-04-12-15-48-34241_cropped_90.jpg",
+          "width": 424,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just-Food",
+        "domain": "just-food.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai.md",
       "title": "RAI INDUSTRY SHOWCASE SHAPING UP TO BE THE BIGGEST EVENT IN UK ROBOTICS & AI",
       "excerpt": "Robotics & AI Showcase, 25 - 27 May, has more than 70 exhibitors booked in and over 800 visitors registered to attend and counting, making it the biggest robotics and AI events of the year.",
@@ -80,6 +166,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
+      "title": "New sensation: pioneering mind-controlled arm restores sense of touch",
+      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
+      "originalUrl": "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
+      "cdnAmpWebUrl": "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News.com.au",
+        "domain": "news.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm.md",
       "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
       "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
@@ -152,49 +272,6 @@
       "provider": {
         "name": "Northcountrypublicradio.org",
         "domain": "northcountrypublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
-      "title": "New sensation: pioneering mind-controlled arm restores sense of touch",
-      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp",
-      "publishedDateTime": "2021-05-20T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1295,110 +1372,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-chef-robotics-raises-77m-to-help-automate-kitchens.md",
-      "title": "Chef Robotics raises $7.7M to help automate kitchens",
-      "excerpt": "A year and a half’s worth of global pandemic has had a profound impact on virtually every sector of the workforce. When it comes to future automation food prep isn’t quite at the top of the list (that distinction likely goes to warehouse fulfillment,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
-      "originalUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-913931820.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
-      "publishedDateTime": "2021-05-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-the-fulfilling-world-of-warehouse-robotics.md",
-      "title": "The fulfilling world of warehouse robotics",
-      "excerpt": "With the pandemic finish line in sight — at least for some — now is a good time to start assessing which segments have been most impacted by the events of the past year and a half. In terms of robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
-      "originalUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1124819781.jpg?w=1024",
-          "width": 1024,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
-      "publishedDateTime": "2021-05-13T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

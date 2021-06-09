@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "ISRO Offers Free Short-term Online Courses in Machine Learning, GIS Technology"
+    excerpt: "The Indian Space Research Organization (ISRO) is currently inviting applications for three online certificate courses in Machine Learning, Web GIS Technology, and Earth Observation for Carbon Cycle Studies."
+    publishedDateTime: 2021-06-09T10:41:00Z
+    webUrl: "https://www.news18.com/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 55
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623235143_college3.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ISRO Offers A Five-Day Machine Learning Course For Free"
     excerpt: "The Indian Space Research Organisation has announced a five-day free course on machine learning, between July 5 -9. The course is being offered as part of the Indian Institute of Remote Sensing’s (part of ISRO) outreach program."
     publishedDateTime: 2021-06-08T06:58:00Z

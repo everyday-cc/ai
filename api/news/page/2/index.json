@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-08-apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still.md",
+      "title": "Apple M1 chip makes Adobe apps 80% faster, and some gains are bigger still",
+      "excerpt": "Apple is rolling out its new M1 processor across its hardware range. It’s designed for better performance and lower power consumption, and uses unified memory and a Neural Engine for AI-driven tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "originalUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Sm2WuGsTp4hBiyFbT3B42H-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "cdnAmpWebUrl": "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "publishedDateTime": "2021-06-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalcameraworld.com",
+        "domain": "digitalcameraworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-ibm-releases-ai-model-toolkit-to-help-developers-measure-uncertainty.md",
+      "title": "IBM releases AI model toolkit to help developers measure uncertainty",
+      "excerpt": "IBM has released a toolkit designed to help developers measure uncertainty in an AI and machine learning model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/",
+      "publishedDateTime": "2021-06-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-study-shows-ai-generated-fake-reports-even-fool-experts.md",
+      "title": "Study shows AI-generated fake reports even fool experts",
+      "excerpt": "If you use such social media websites as Facebook and Twitter, you may have come across posts flagged with warnings about misinformation. So far, most misinformation—flagged and unflagged—has been aimed at the general public.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html",
+      "originalUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-generated-fake-experts.amp",
+      "publishedDateTime": "2021-06-08T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-indian-startup-innovates-supply-chains-for-dynamic-iot-based-intelligence.md",
       "title": "Indian Startup Innovates Supply Chains For Dynamic IoT-Based Intelligence",
       "excerpt": "Intelligent technologies like IoT, machine learning, and AI are transforming supply chain logistics and quality assurance for groundbreaking innovations.",
@@ -556,6 +694,57 @@
       ]
     },
     {
+      "path": "_news/2021-06-08-meet-civo-the-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service.md",
+      "title": "Meet Civo - The Cloud Native Infrastructure Services Startup Offering Kubernetes As A Service",
+      "excerpt": "If you are a cloud native developer looking for a blazingly fast, affordable Kubernetes service, check out Civo. You won’t be disappointed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bf0037864935013541e2eb%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/amp/",
+      "publishedDateTime": "2021-06-07T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-video-chat-apps-tout-inclusive-ai-features.md",
       "title": "Video chat apps tout ‘inclusive’ AI features",
       "excerpt": "Video conferencing services such as Google and Cisco are increasingly relying on AI to improve the chat user experience.",
@@ -595,48 +784,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-using-ai-to-fight-covid-19.md",
-      "title": "Using AI to fight COVID-19",
-      "excerpt": "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/6/3456e.jpg",
-          "width": 1736,
-          "height": 889,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2021-06-07T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1066,152 +1213,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-visionet-launches-docvuai-intelligent-document-processing-platform-for-mortgages-and-beyond.md",
-      "title": "Visionet launches DocVu.AI - Intelligent Document Processing Platform for Mortgages and Beyond",
-      "excerpt": "Visionet Systems, Inc., a leading provider of digital solutions to the Banking and Financial Services industry, announced today the launch of DocVu.AI – an AI-driven Intelligent Document Processing (IDP) platform.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionet-launches-docvu-ai-intelligent-document-processing-platform-for-mortgages-and-beyond-1030500317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionet-launches-docvu-ai-intelligent-document-processing-platform-for-mortgages-and-beyond-1030500317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1526265/vsi_logo_Logo.jpg",
-          "width": 400,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-from-inclusion-to-influence-how-to-build-an-ethical-ai-organization.md",
-      "title": "From Inclusion To Influence: How To Build An Ethical AI Organization",
-      "excerpt": "Ethical AI issues don’t come in large forms, they start with minor algorithm errors and grow into the decision-making process, which is why organizations should be well prepared with AI ethical framework.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/07/from-inclusion-to-influence-how-to-build-an-ethical-ai-organization/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/07/from-inclusion-to-influence-how-to-build-an-ethical-ai-organization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b24deb13c5b56bae01eff%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/07/from-inclusion-to-influence-how-to-build-an-ethical-ai-organization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/07/from-inclusion-to-influence-how-to-build-an-ethical-ai-organization/amp/",
-      "publishedDateTime": "2021-06-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-in-ev-news-no-plaid-from-tesla-self-driving-cars.md",
-      "title": "In EV News: No Plaid+ From Tesla, Self-Driving Cars",
-      "excerpt": "The major difference between the Plaid and the Plaid+ was the range on a single charge. The Plaid version is expected to have a range of 390 miles, while the Plaid+ was planned to have a range of 520 miles.",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/",
-      "originalUrl": "https://247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2021/06/Tesla-S-2nd-gen.jpg?w=400",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/amp/",
-      "publishedDateTime": "2021-06-07T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

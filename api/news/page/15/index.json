@@ -2,6 +2,275 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-26-self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia.md",
+      "title": "Self-driving truck startup Kodiak partnering with SK Group to expand into Asia",
+      "excerpt": "Kodiak Robotics, the U.S.-based self-driving truck startup, is partnering with South Korean conglomerate SK to explore the possibility of deploying its autonomous vehicle technology in Asia. The ultimate aim of the partnership is to sell and distribute Kodiak’s self-driving technology in the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/",
+      "originalUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Kodiak-Truck-Sunset.jpg?w=1024",
+          "width": 1024,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/",
+      "publishedDateTime": "2021-05-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-driverless-cars-hitting-streets-of-fremont-milpitas-irvine.md",
+      "title": "Driverless cars hitting streets of Fremont, Milpitas, Irvine",
+      "excerpt": "The company, which was founded in Fremont in 2016 by James Peng and Tiancheng Lou, both formerly of Baidu and Google, has been testing cars equipped with its self-driving technology suite since 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "originalUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&h=452",
+          "width": 680,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "publishedDateTime": "2021-05-26T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot.md",
+      "title": "Tesla Model 3, Model Y Ditch Radar To Adopt Camera-Based 'Tesla Vision' For Autopilot",
+      "excerpt": "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "originalUrl": "https://hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/55210/content/tesla_model_3_news.jpg",
+          "width": 708,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "publishedDateTime": "2021-05-26T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
+      "title": "Research team improves fetal heart defect detection using machine learning",
+      "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg",
+          "width": 1920,
+          "height": 1289,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
+      "publishedDateTime": "2021-05-26T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny.md",
+      "title": "Tesla drops radar from lower-priced cars amid ‘self-driving’ scrutiny",
+      "excerpt": "Tesla said it is dropping radar systems in its lower-priced electric cars in favor of cameras and other AI equipment — even as the company faces growing scrutiny over its “autonomous",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/",
+      "originalUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/tesla-model-3-2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/",
+      "publishedDateTime": "2021-05-26T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026.md",
+      "title": "Covid-19 Impact on Voice Recognition Market to Witness Expansion During 2020-2026",
+      "excerpt": "Voice Recognition Market is likely to witness an impressive CAGR of 17.5% during the forecast period.The growth of the market is influenced by a number of factors that have a direct or indirect effect on demand.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/26/covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/05/26/covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/1617605253587-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-apple-seeks-to-bite-into-self-driving-electric-vehicle-market.md",
       "title": "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market",
       "excerpt": "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers.",
@@ -136,40 +405,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-runai-named-as-a-2021-gartner-cool-vendor.md",
-      "title": "Run:AI named as a 2021 Gartner \"Cool Vendor\"",
-      "excerpt": "AI, creator of a cloud-native compute management platform for the AI era, announced today that it has been named a Cool Vendor in Enterprise AI Operationalization and Engineering by leading research and advisory company Gartner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/26/9378502.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/26/9378502.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -863,240 +1098,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-squirro-launches-the-app-studio-a-no-codelow-code-platform-to-build-ai-powered-applications.md",
-      "title": "Squirro launches the App Studio - a no code/low code platform to build AI-powered applications",
-      "excerpt": "Launch will take place at upcoming App Building Day, an expert-led training session, where attendees will learn how to build a Cognitive Search app in just a few steps Zürich, 26 May 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://squirro.com/",
-      "originalUrl": "https://pressreleases.responsesource.com/news/101312/squirro-launches-the-app-studio-a-no-code-low/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://squirro.com/wp-content/uploads/2020/07/M_GenericWorld-01.png",
-          "width": 3130,
-          "height": 1646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "responsesource.com",
-        "domain": "responsesource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027.md",
-      "title": "Artificial Intelligence (AI) In Retail Market Size to Record 29.7% CAGR Through 2027",
-      "excerpt": "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution, Services), by Function, by Technology and Regional Forecasts 2020-2027',",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027-2021-05-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027-2021-05-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tesla-aspires-to-become-a-robotics-firm-in-artificial-intelligence.md",
-      "title": "Tesla aspires to become a robotics firm in Artificial Intelligence",
-      "excerpt": "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372898",
-      "originalUrl": "https://www.entrepreneur.com/article/372898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621967000-tesla.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372898",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372898",
-      "publishedDateTime": "2021-05-25T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void.md",
-      "title": "One year after Amazon, Microsoft and IBM ended facial recognition sales to police, smaller players fill void",
-      "excerpt": "Dozens of smaller facial recognition companies have taken over for Amazon, IBM and Microsoft in providing police departments with tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "originalUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "publishedDateTime": "2021-05-25T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-abu-dhabi-boosts-digital-economy-capabilities-with-upcoming-aws-region.md",
-      "title": "Abu Dhabi Boosts Digital Economy Capabilities with Upcoming AWS Region",
-      "excerpt": "Abu Dhabi’s digital economy will be boosted through the launch of Amazon Web Services’ (AWS) cloud infrastructure region in the UAE, as part of the Abu",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
-      "originalUrl": "https://www.albawaba.com/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-05/Photo%20of%20H.E.%20Dr.%20Tariq%20Bin%20Hendi%2C%20Director%20General%2C%20ADIO.jpg?itok=j6eX-2hN",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580",
-      "publishedDateTime": "2021-05-25T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How wearable AI could help you recover from covid"
+    excerpt: "A Chicago-based pilot program is testing a body sensor that monitors covid patients remotely. Angela Mitchell still remembers the night she nearly died. It was almost one year ago in July. Mitchell—who turns 60 this June—tested positive for covid-19 at her job as a pharmacy technician at the University of Illinois Hospital in Chicago."
+    publishedDateTime: 2021-06-09T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/"
+    ampWebUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1277116422.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Using AI to fight COVID-19"
     excerpt: "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis."
     publishedDateTime: 2021-06-08T03:23:00Z
@@ -101,6 +117,6 @@ related:
         height: 480
         isCached: true
 
-secured: "3uBtGTGgHOjUmJfhxbzR6kxqhklRc/X+FnVaf4y7p5kvF+yvOusp/6qqJH/YPNVJ4HXKbSVexU0mmow7b/dt3PNn+7kPsQkNGVCGgDEhTYklwg/BuJfCMGimSnpqSIviXMgVZyaLGrDtFXrMmAmVGiclFq0Vf5btuyCFU9p/PGKgWShAwuLyZRAWC9cuNltDv9NQyaFIDAmHNQMAzmBxOEdMJQR7rRRzrQT8XxZkzV+JPpvhMudGlKc1cPQ4HyvHIJ3+azjbL0lY8gr39lzv+hlRuAncrAK3qtTY0IApN7Q6PvL/JBIonNYCmbcULDqMoI/iw8l1W7nyrykseYngGPX/exA1qYbWzuWRFCpQ8no=;agPOTmtHM88yhYYbPt8UFw=="
+secured: "RM+4/PTbz3bHFzyo8gcnbM9rvbv2GzyMORpmdNA8M3hfMJ40SoO80RGEU+gfFRR7Gp8SnL/roGMLIsLPgVhop8NU7DyuYY/uFwc08LHJxZcicYwgU0OiluYbvd/BABe2dkH+KHsBW7gp7OmgB2uKQMju/Og7RMuIwYtXwopFOHIbIr0vZgUJMzvKDAEDzfD5jVB9IVui8pyKxtB5MBdO9KbPtG8fGmsXsIGvFpcQnbdXY8UG3VfR6EXrK7bqxqr0l/hXPkmyOHQxO0gY9aDXH9ouUCs/8TBeeazTJbnSCvf64RLPBT+kH9V4naC7BDVQ3EjPKGzl7Mrs6rp/RNphTkVVXE8hGbVY4L9wehWmlHntRUkFFcN5O5/okP9sV6E89tOixtCPutOABJ2rsucUPW7lEdupiOnZmnEJ8/T14ZiCGBWH2Grt6bVp0UbdCZ4dGXbX5oE9ep/800AUXCU3JQBWqAicruaK94tzBTW1hAfvU2o7WYgHDSe1xi4EiLJKQyEJE0NRckUVl0zP6tbEDg==;T63hfTMe7ZTvUiZ2N40YcA=="
 ---
 

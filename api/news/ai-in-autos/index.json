@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon.md",
+      "title": "This robot-run fund thinks GameStop stock will soar in June, and predicts a fall for Tesla and Amazon",
+      "excerpt": "An exchange-traded fund driven by artificial intelligence booted Tesla and Amazon from its portfolio in June, instead choosing to load up on shares",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=mw_latestnews",
+      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=mw_latestnews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-351065/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
+      "publishedDateTime": "2021-06-09T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks.md",
       "title": "ISEE brings autonomy to shipping yards with self-driving container trucks",
       "excerpt": "Robotaxis may still be a few years out, but there are other industries that can be transformed by autonomous vehicles as they are today. MIT spin-off ISEE has identified one in the common shipping yard,",
@@ -1328,58 +1381,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa.md",
-      "title": "GM and Lockheed Martin are making a self-driving Moon buggy for NASA",
-      "excerpt": "NASA’s astronauts need a new Moon ride, and GM and Lockheed Martin are aiming to hand them the keys to not just one but a whole fresh generation of lunar vehicles. The Lunar Terrain Vehicle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
-      "originalUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Lockheed_GM_Defense_LunarVehicles.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
-      "publishedDateTime": "2021-05-26T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

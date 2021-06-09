@@ -2,6 +2,248 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-04-amazons-ring-will-finally-make-police-requests-public.md",
+      "title": "Amazon's Ring Will Finally Make Police Requests Public",
+      "excerpt": "Amazon’s Ring—a company that is famously pretty chummy with law enforcement—will now require law enforcement officials to make their requests for security footage public, the company said in a blog post published Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/amazons-ring-will-finally-make-police-requests-public-1847024491",
+      "originalUrl": "https://gizmodo.com/amazons-ring-will-finally-make-police-requests-public-1847024491",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/895a5dc87cc366ba7671aa4df596f370.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/amazons-ring-will-finally-make-police-requests-public-1847024491/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/amazons-ring-will-finally-make-police-requests-public-1847024491/amp",
+      "publishedDateTime": "2021-06-03T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-the-success-of-self-driving-vehicles-will-depend-on-teleoperation.md",
+      "title": "The success of self-driving vehicles will depend on teleoperation",
+      "excerpt": "Teleoperation makes it possible to remotely monitor autonomous vehicles and lets someoone take control when needed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0fbe7281-0cb5-4d7c-9fc5-70e5ca1b45a0-e1585003152630.png?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/amp/",
+      "publishedDateTime": "2021-06-03T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
+      "title": "Biden's AI czar focuses on societal risks, preventing harm",
+      "excerpt": "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pulling barnacles off a ship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
+      "originalUrl": "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/4KQI2JAAWJBB5AL6RC627ULDHA.jpg",
+          "width": 2000,
+          "height": 1765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp",
+      "publishedDateTime": "2021-06-03T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click Orlando",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-biological-robots-may-soon-build-you-a-better-heart.md",
+      "title": "Biological Robots May Soon Build You a Better Heart",
+      "excerpt": "Computer scientists and biologists have teamed up to create a creature heretofore unseen on Earth: a living robot. Made from the cells of frogs and designed by artificial intelligence, they’re called xenobots,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7OvZdWy0Khw/v5/-1x-1.jpg",
+          "width": 1594,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care.md",
+      "title": "ACC and GE Healthcare Join Forces to Advance AI in CV Care",
+      "excerpt": "The ACC and GE Healthcare are collaborating through support of and participation in ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
+      "originalUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American College of Cardiology",
+        "domain": "acc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-ai-health-app-babylon-plans-42-billion-spacand-push-into-us.md",
       "title": "AI-Health App Babylon Plans $4.2 Billion SPAC—And Push Into U.S.",
       "excerpt": "The growing market for virtual healthcare is heating up with telehealth app Babylon announcing Thursday that it is going public by merging with a special purpose acquisition company, or SPAC, that values the company at $4.",
@@ -963,249 +1205,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-canons-eos-r3-will-keep-fast-moving-sportscars-in-sharp-focus.md",
-      "title": "Canon's EOS R3 will keep fast-moving sportscars in sharp focus",
-      "excerpt": "Canon dropped a few choice details about its upcoming pro-focused mirrorless flagship, the EOS R3. Now the company's drip feed continues with some more key specs, including improved tracking autofocus and internal recording of RAW video.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/photography/canon-eos-r3-update/",
-      "originalUrl": "https://newatlas.com/photography/canon-eos-r3-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c43aec2/2147483647/strip/true/crop/1200x800+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F12%2Fe3%2F2939732e4a24a9138a80b89a1335%2F03.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/photography/canon-eos-r3-update/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-eos-r3-update/?amp=true",
-      "publishedDateTime": "2021-06-03T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-ai-powered-sales-enablement-platform-gong-raises-250m.md",
-      "title": "AI-powered sales enablement platform Gong raises $250M",
-      "excerpt": "Gong.io, an AI-powered business-to-business sales enablement platform, raised $250 million at a $7.25 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/",
-      "originalUrl": "https://venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/Gong.IO_-e1596830560832.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/amp/",
-      "publishedDateTime": "2021-06-03T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic.md",
-      "title": "How Healthcare Will Continue To Rely On AI To Save Lives During This Pandemic",
-      "excerpt": "When we work alongside our customers on strategies to help them employ AI algorithms within their health care operations, we see industry leaders ensuring they have a solid data strategy in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/",
-      "publishedDateTime": "2021-06-03T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant.md",
-      "title": "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant",
-      "excerpt": "Facebook's AI team is moving all of its machine learning model deployment to the PyTorch framework, and standardizing on the framework for development, the company said Wednesday, during its F8 annual developer event,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "publishedDateTime": "2021-06-03T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain.md",
-      "title": "Indian Scientists Construct a Powerful Artificial Synaptic Network to Imitate the Human Brain",
-      "excerpt": "Scientists at the Jawaharlal Nehru Centre for Advanced Scientific Research in Bengaluru, an autonomous institute of the Indian government's Department of Science and Technology, developed a new approach for fabricating an artificial synaptic network (ASN) that resemble the biological neural network using a simple self-forming technique (the device structure is formed by itself while heating).",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain/",
-      "originalUrl": "https://www.analyticsinsight.net/indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

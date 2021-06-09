@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
+      "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
+      "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
+      "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-09-google-io-2018-the-10-biggest-announcements.md",
       "title": "Google I/O 2018: The 10 biggest announcements",
       "excerpt": "Artificial intelligence was obviously among the stars ... to overlay live results on items in your camera’s view. Waymo is the only company that currently has a fleet of fully self-driving ...",
@@ -1310,58 +1357,6 @@
         "name": "The Manila Times",
         "domain": "manilatimes.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
-      "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
-      "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608c16ccf518acfd55532183%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "publishedDateTime": "2021-05-03T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

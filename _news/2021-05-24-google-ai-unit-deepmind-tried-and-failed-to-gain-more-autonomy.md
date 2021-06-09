@@ -3,8 +3,8 @@ category: news
 title: "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy"
 excerpt: "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent ..."
 publishedDateTime: 2021-05-24T07:15:00Z
-originalUrl: "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page"
-webUrl: "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page"
+originalUrl: "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81"
+webUrl: "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "B2a9I9cOoSgBDm2hoxCU/pKxPwC2g3PkLCKEg7M8lvShNNwrdLDVD4v3xIsopdJWHOUhtb1E6HxMn7IBo8L+2zgNPmVUDJHA0j2UjexEkGsgM4KBh0dFaRF4EoanFOIHHnTTXEs9BGgI9ZnekEoC2z+UlCWPggYNOXvQSyMRfCpgo4daDVFjpGB2rcSOQtq/S+itWwGCJdoa5YtQDthX1VMJBWYj5bHPbWD6Q6oBTXQQUE/b470qM3rCRRQMQhfOwsG6E1lED03xTKKSBMmW08IsrwEzjjpVxQVc5rg538a2LlArzjXx0rHmPXYB1o0s9VwdDWL/8QzUMWu8xZnW7V5++Lnzdb1ZiWkSJy5mjj0=;WIs654Wz8YvmDjqBJW68eg=="
+secured: "95qCzOa5GcdRuAaU37+FT8NiVhJSdKlpHnTl99fTewLyy9KNGqyQ82dLhQdNxY7o585Q0rS3uz0NT1WnLtCSFU6YCJTou1mR6eLEvEcRCvJzvesWB0dPeVRpEAjDAnNkIMs+DcMOl6KSFRJXnPUH7vNYgtYqgeYYXYLT7abSJta09XVueGXYpHjqEQRDgjgDiAF9RqX7N/2vTKsVvjrRRRYOJLWgBkK5KEOxuv489SmWHYvnPl1qNgn0JxKpZi5u9/ivbqe5+T855LPVaARd2eVBcXKSh1EmnQWUYkn+DjzEX/Mb2YnjKMpazVDtX8CeNQnE72aQJwSPmeOSzNCkoDv2PE7+WCsCk14RrU+0y1s=;50QQ+OWjqu6nR1JVtsTu5A=="
 ---
 

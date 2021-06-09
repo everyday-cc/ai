@@ -34,9 +34,9 @@ images:
 
 related:
   - title: "NVIDIA prepares for next-generation AI computing"
-    excerpt: "NVIDIA, with the acquisition of Arm and its keen push in AI applications, has been aggressively releasing innovations to help improve datacenters' computing capability over AI workloads."
+    excerpt: "Das expects volumes of NVIDIA-Certified servers to be a good indication for the penetration of AI-ready hardware. At the moment, most datacenter operators still acquire servers and GPU-accelerator cards separately, but the certification program should ..."
     publishedDateTime: 2021-06-09T06:48:00Z
-    webUrl: "https://www.digitimes.com/news/a20210609PR200.html&chid=9"
+    webUrl: "https://www.digitimes.com/news/a20210609PR200.html?chid=9"
     type: article
     provider:
       name: Digi Times

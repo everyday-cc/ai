@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-09T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/top-books-for-machine-learning-engineers-recommended-by-experts/"
 webUrl: "https://analyticsindiamag.com/top-books-for-machine-learning-engineers-recommended-by-experts/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ml-engineer-books-compressed.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "4UQ+jijNHyVJfoYj77GUH+9T3kLHiuo0qgrm7Te0lZsINSc4B8aYLiji4gmLLkbhr1ORdxydrDwPzI2h8wIRc3Q8ZLSR1USrawCP+LVitiv3lVBjUJviFWoe88cRDVIA1vd2bby1M3edLHp0CDFmxeAbhywfrC1rSZmC1TkuZ5M5zhxG/pRCwpK7S5YCC+5SZo57f1yleEHSyV+rnjlEsNg+RQYzW8QcxffxmJbBxPXLNtIVVz4TbdZKD5aYRBcEKr8joCexzFPaFCZBua+kerSjSDY3ZeGa2OWMiXGyCh8S+y+Lu1+Vv5xMeyumOxjoYCOFutXJ9nuNqB0inkBxm8yiTNVIvijBW+8bry1Z3Ak=;FcgXKfsYF35/3G/GskfAZA=="
+secured: "QkON3qIrMfCIzDZpuMMUNa5YhCtUIq17Q7oUYcB91FYbxjfeEIx3Xnb9sYo35uguCyOgM+S7mCTlfXtlrFpz8ZaIzxRasqYCOChdujj7qJuyO7MwpDJGgOA5R3VbZOSGcS/o/RVIOPxBA93QcztcrKvK6cfcrimjY6tLDcYm+E2FthvMxy2q/lZR3VBsBhW9r7/RZJvzrq38wTklmuAGC9K0r8ZONnsrBRrmItGRI8ipfj8CP/RuHmfFyeK7P1UF5yceZdg1Gx2p1Q64mTDZielRoYe5e9I5cZ3oMoekCgWw2781PqVDAI832ViDTpqbd9DxOJd4gh39zPRB/o+otIPUpqPJ6aav++G1cMZ/YOf3JWQwW/NyzGwgWXjooL8fcoxmsMpUQOXkNCKl4pU15EmrNjvMTC1Jn0nerGCgxulQtPDH7/Wvsh+2Y3zDxysJfAHl56V0puUS32+0RS39MHHE9XJkToyvF3TvF0djMsxTaWdPLo3BPD4M7bno15bq6Ny84MGIOkx+eGz1afkDDQ==;bqImD2t0Qc3oFos6nD8aJg=="
 ---
 

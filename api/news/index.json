@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon.md",
+      "title": "This robot-run fund thinks GameStop stock will soar in June, and predicts a fall for Tesla and Amazon",
+      "excerpt": "An exchange-traded fund driven by artificial intelligence booted Tesla and Amazon from its portfolio in June, instead choosing to load up on shares",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=mw_latestnews",
+      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=mw_latestnews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-351065/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
+      "publishedDateTime": "2021-06-09T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-artificial-intelligence-ai-in-oil-and-gas-market-thematic-research.md",
+      "title": "Artificial Intelligence (AI) in Oil and Gas Market - Thematic Research",
+      "excerpt": "The oil and gas O G industry faces many severe challenges The shortage of easily accessible hydrocarbon reserves forces companies to use remote reserves that are hard to discover costly and risky Moreover sustainability concerns are shifting demand away from",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "originalUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U609148836_g.jpg",
+          "width": 800,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "publishedDateTime": "2021-06-09T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-how-wearable-ai-could-help-you-recover-from-covid.md",
+      "title": "How wearable AI could help you recover from covid",
+      "excerpt": "A Chicago-based pilot program is testing a body sensor that monitors covid patients remotely. Angela Mitchell still remembers the night she nearly died. It was almost one year ago in July. Mitchell—who turns 60 this June—tested positive for covid-19 at her job as a pharmacy technician at the University of Illinois Hospital in Chicago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/",
+      "originalUrl": "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1277116422.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/",
+      "publishedDateTime": "2021-06-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-50bn-is-approved-for-computer-chip-and-ai-technology-by-us-senate.md",
       "title": "$50bn is Approved for Computer Chip and AI Technology by US Senate",
       "excerpt": "The US senate has approved a bill of $50 to boost American semiconductor production and artificial intelligence.",
@@ -432,7 +570,7 @@
       "originalUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1067,144 +1205,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still.md",
-      "title": "Apple M1 chip makes Adobe apps 80% faster, and some gains are bigger still",
-      "excerpt": "Apple is rolling out its new M1 processor across its hardware range. It’s designed for better performance and lower power consumption, and uses unified memory and a Neural Engine for AI-driven tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "originalUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Sm2WuGsTp4hBiyFbT3B42H-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "cdnAmpWebUrl": "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "publishedDateTime": "2021-06-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalcameraworld.com",
-        "domain": "digitalcameraworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-ibm-releases-ai-model-toolkit-to-help-developers-measure-uncertainty.md",
-      "title": "IBM releases AI model toolkit to help developers measure uncertainty",
-      "excerpt": "IBM has released a toolkit designed to help developers measure uncertainty in an AI and machine learning model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/",
-      "publishedDateTime": "2021-06-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-study-shows-ai-generated-fake-reports-even-fool-experts.md",
-      "title": "Study shows AI-generated fake reports even fool experts",
-      "excerpt": "If you use such social media websites as Facebook and Twitter, you may have come across posts flagged with warnings about misinformation. So far, most misinformation—flagged and unflagged—has been aimed at the general public.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-generated-fake-experts.amp",
-      "publishedDateTime": "2021-06-08T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }
