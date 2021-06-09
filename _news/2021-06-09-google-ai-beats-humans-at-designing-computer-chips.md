@@ -3,8 +3,8 @@ category: news
 title: "Google AI beats humans at designing computer chips"
 excerpt: "An AI computer microchip designer. Working out where to place the billions of components that a modern computer chip needs can take human designers months a"
 publishedDateTime: 2021-06-09T15:24:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-01558-y?bingParse"
-webUrl: "https://www.nature.com/articles/d41586-021-01558-y?bingParse"
+originalUrl: "https://www.nature.com/articles/d41586-021-01558-y"
+webUrl: "https://www.nature.com/articles/d41586-021-01558-y"
 type: article
 quality: 54
 heat: -1
@@ -132,6 +132,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "mbUVDHic4chA4QM56IA1m5UCrEiIJNfLTLQ/Yz8h/xQxTIT1kvZTy6nZaIQsfJ+Fv97xyo07Go7anDiiV9bYVBjQ1KhOQ7wGNNQ5G9uLB+2s60HlDHU629MeiC5cKSUIS/+ZXwia4Fe7VSpVcM6DZPeheOyypx/n5Nd7teouYIJX3oXXpVCFbApVGS8rcMFQbTRzv0o++Y+c2pPP6bCAw988UH3QKK164T5lsmkaXwS5q/z7NzNz3vTtv1hAWVFDanwjqjNjY+yv2RYU0yosg9KK9HtsKJhTEkapS+q+fNlZHyP0Sy5OgOcqYLSqy4unjgORN4aGKvUVZKAiGTe+8+3PwxDdxpa1Zh+0T84MWQs=;THQw8F1lgdX83r9ldzAxCg=="
+secured: "0OKgxVEriEZxfjj7V7KDJ35azOVk5vffrVsiU9adNT9/p+pNp/p9pkswkthxjp36NMG7+fcsPNJEo8HB4l7GkgjMYBF7fgKxpUTwSQcRccGBOx2EsezVdPAaUiiwMv1N6x/mJ9irxiEuqgJvbv632RNcSCdMVgr9SgC+/q9XaRJIV7BlLYecnRbrZFUXORYG22yj7o4nbIQQh+HCouJ8q0cksN4i1oyefUk5+3OldC1Onc6h8gMfrl+sDln0Jq4SBCSwVwEPHF5c0s/TZ3zYdbULRPh6ZLbxAcu4y8hANAGmpc/f9Pkq7sMpp4ED2pjkmqKgfVatXWQhpQZsNw6ANYONUQ0QQY+J+WJfmb07HZg=;WhVZfjZn+IFNe62YLtmefA=="
 ---
 

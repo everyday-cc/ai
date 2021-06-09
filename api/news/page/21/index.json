@@ -2,49 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-05-24-leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa.md",
-      "title": "Leading Autonomous Cyber AI Powerhouse Darktrace Joins World Cyber Security Summit -Africa",
-      "excerpt": "The first company to apply AI to the challenge of cyber security, Darktrace, will feature at Trescon's virtual edition of the World Cyber Security Summit on May 24 2021. With a special focus on Africa,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
-      "originalUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/May2021/asiaone_default.jpg?itok=ePYeHevC",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
-      "publishedDateTime": "2021-05-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-05-23-brain-controlled-robotic-arm-gives-paralysed-man-sense-of-touch.md",
       "title": "Brain-controlled robotic arm gives paralysed man sense of touch",
       "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
@@ -1174,6 +1131,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-computer-vision-developer-stradvision-to-showcase-its-most-advanced-perception-camera-for-autonomous-driving-adas-at-auto-tech-2021.md",
+      "title": "Computer Vision Developer StradVision to Showcase its Most Advanced Perception Camera for Autonomous Driving & ADAS at Auto Tech 2021",
+      "excerpt": "StradVision, a pioneer in AI-based vision processing technology for autonomous vehicles and automotive ADAS systems, will showcase the latest features of its camera perception software named “SVNet” during The China Guangzhou International Automotive Technology Expo 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
+      "originalUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202105/21/l_60a838a13e331.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

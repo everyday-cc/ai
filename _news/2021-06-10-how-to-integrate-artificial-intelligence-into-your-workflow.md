@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence System Market Emerging Growth Analysis, Future Demand and Business Opportunities 2027"
-excerpt: "The global Artificial Intelligence System market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
-publishedDateTime: 2021-06-09T06:40:00Z
-originalUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-system-market-emerging-growth-analysis-future-demand-and-business-opportunities-2027/"
-webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-system-market-emerging-growth-analysis-future-demand-and-business-opportunities-2027/"
+title: "How to Integrate Artificial Intelligence into Your Workflow"
+excerpt: "MathWorks’ Johanna Pingel talks with Senior Editor Bill Wong about how engineers can use artificial intelligence to optimize their workflows."
+publishedDateTime: 2021-06-09T20:36:00Z
+originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21166641/electronic-design-how-to-integrate-artificial-intelligence-into-your-workflow"
+webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21166641/electronic-design-how-to-integrate-artificial-intelligence-into-your-workflow"
 type: article
-quality: 18
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Sentinel
-  domain: ksusentinel.com
+  name: Electronic Design
+  domain: electronicdesign.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
-    width: 896
-    height: 411
+  - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/AI_ecosystem_promo.60c1235e8ac9d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,21 +56,21 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "How to Integrate Artificial Intelligence into Your Workflow"
-    excerpt: "MathWorks’ Johanna Pingel talks with Senior Editor Bill Wong about how engineers can use artificial intelligence to optimize their workflows."
-    publishedDateTime: 2021-06-09T20:36:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21166641/electronic-design-how-to-integrate-artificial-intelligence-into-your-workflow"
+  - title: "Artificial Intelligence System Market Emerging Growth Analysis, Future Demand and Business Opportunities 2027"
+    excerpt: "The global Artificial Intelligence System market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
+    publishedDateTime: 2021-06-09T06:40:00Z
+    webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-system-market-emerging-growth-analysis-future-demand-and-business-opportunities-2027/"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 37
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/AI_ecosystem_promo.60c1235e8ac9d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
+        width: 896
+        height: 411
         isCached: true
 
-secured: "hdkoUD20g6PQ8wcPOB9cpGLOB+bBcqZMw5hnqJ5zxaHqJyStnI5f0lcvo3UHKDEAEy80eHQdVzOUx0/qqnZG4xgFrVc6whRA/wLXe41cKTNOPum7Izm59YVH9IitI3eu4yPbwPI/wDpW6tzSKxcJYXoa217CTEuNWQU9WNBBg2EfZfXN+CyzonAmMz2+sT12enNT6E3bqiKTfY47dedVL06gA0aB6GouP4UrMRETsEk8GvDAQ/JWT8W9viGTSE2LEnhppirOXdWiLzjErWy9BIrnu+S2xEgomt7dFR/QYjgx1FTHcB0w7F7Ko1tnG/jk1Ry+Rf1Jw9oXnDcq4R2BcrUD0yNVxuA1nNyJyTU3vxJcmcewKULio68kdvApZobiq+NTuLLakLO7VULc6SccWczGxsSB3czQU+F3A/B4wrwFXHGXYAOypOwZOn+/w08bqmmWZqHBQYA0tW868iavpUjcfkRdaMZ9tWunnGlm576Dm6/Lp1QN8PNOmToXx93nV7Z/nrp6Oo8qrGOMdFTS1Q==;sRVg8A8mgn4b4/cqKPatJA=="
+secured: "UQ9RyeVRZhAysgVTzvqSI5Z1MuAVyoRRxvMxTaFf+Ek4MbLTQsqASbJ2W+Y0wITKJuMjwQUbj6jNlXym+UyXoZdtHIPmFfzL/nYYTKF7o7RqMA49GaEQdM55DgfyLWMtVmrxiNnHihl7r2WEZw6CJTjk7rPwB4uLe6Xr5/26IkBLmARDL/3bFgGaJNopWstjmEknHqIPVlAJSVElKeSyNqcSTaMMkZnVHOEB0JjeUL7adSPRL0UxWNKoEng9m1UfnO5rwhxQAH1zbsRZRaATyDNPrXZgb0Pp0kZ7KcvHTgvpgaR18hqqOrJ36M/lCG7NTw0CV6K8TjrGBTDOH0otn52E9jkspDhJcKet5Scdy40=;ys/4dWDrX6w2PnLLIWBlvw=="
 ---
 

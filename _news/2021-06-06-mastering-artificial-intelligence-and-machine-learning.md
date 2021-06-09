@@ -74,7 +74,7 @@ related:
   - title: "Google AI beats humans at designing computer chips"
     excerpt: "An AI computer microchip designer. Working out where to place the billions of components that a modern computer chip needs can take human designers months a"
     publishedDateTime: 2021-06-09T15:24:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01558-y?bingParse"
+    webUrl: "https://www.nature.com/articles/d41586-021-01558-y"
     type: article
     provider:
       name: Nature

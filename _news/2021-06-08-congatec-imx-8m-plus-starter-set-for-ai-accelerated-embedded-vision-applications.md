@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Congatec unveils a fast track to NPU accelerated smart vision"
-    excerpt: "MX 8 ecosystem with a new starter set for AI accelerated intelligent embedded vision applications. Based on a SMARC Computer-on-Module with i.MX 8M Plus processor, the starter set’s 'sweet spot' is the utilisation of the new processor integrated NXP Neural Processing Unit (NPU)."
-    publishedDateTime: 2021-06-09T00:03:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/congatec-unveils-a-fast-track-to-npu-accelerated-smart-vision/237871/"
+  - title: "FPGA IP accelerates neural network computing for edge and embedded AI applications"
+    excerpt: "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases"
+    publishedDateTime: 2021-06-09T20:55:00Z
+    webUrl: "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 24
+      name: EPT
+      domain: www.ept.ca
+    quality: 50
     images:
-      - url: "https://www.newelectronics.co.uk/article-images/237871/conga.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
+      - url: "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg"
+        width: 300
+        height: 400
         isCached: true
 
 secured: "S9qJmAsDOgrzxWWS13zOWXEDs/j7Ci+F5/U8PYdjyma+CiS2er//Yc/kRYJXZu9cSrJ+0f9HPtt/FI6Vvnq6Tu3WxOfn4ylO+nnMRLkUvkGLGIeCXnacAWjjjdIwVqdwBVYf1yrs4Qg+pZfAhf58Fs3PDMUuuZk2CEeutK7dO/iS70rWxBDWYNqfQEAz3mwUliIowA1h3df58MzzBh9HygTzd3WoHxqogHJSdusQFCZ5Onj4Mz+QSIZ+7qXfuh7EVkoa+28ntYpLRl3wb0zjT1TnYLGHZU9gDejuBsDInU3KgRhndBJUzOiFOKVwIr32rTU7ytYA2avfP5xnKAhHaoH5/Gn67PIdyRJtOa3KUCg=;dg1c5N/Xvna+zRVfbiu9TA=="

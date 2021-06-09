@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-06-machine-microscope-months-second
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-microscope-months-seconds.amp"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 793
     height: 585
     isCached: true
+
+related:
+  - title: "Machine Learning Reduces Microscope Data Processing Time"
+    excerpt: "In this new study, recently published in the journal Small Methods, the researchers opted for a new technique to speed up the microscope data processing. This time, they used machine learning algorithms instead of conventional computational methods."
+    publishedDateTime: 2021-06-09T20:05:00Z
+    webUrl: "https://www.labmanager.com/news/machine-learning-reduces-microscope-data-processing-time-to-just-seconds-26044"
+    ampWebUrl: "https://www.labmanager.com/news/machine-learning-reduces-microscope-data-processing-time-to-just-seconds-26044/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-reduces-microscope-data-processing-time-to-just-seconds-26044/amp"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 59
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/26044/aImg/48094/machine-learning-reduces-microscope-data-processing-time-from-months-to-just-seconds-m.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "RhtbI9x72xVGQ/Gnm0O8mpqyH1RTsK0BQfcV9nwm9GDATsT4G6lc8KDpFtVHpEiE4D8Xvw32wOs7YRRb5V6t959DKhirE9gU9QBzr4G5tIqbBYdQ7f91xeJ+4+hGy8NL7v2ryVkdflS8mcKEMT67aXDqQqkg5O286VUniytAeXoBn0X0W8cnA1Wa1J96s7gNDz5y0awqGIK+4huMRQ6muVD8Q/zpqE5fOsMIbbKxhilYiEzFk4vHtepGLbSsopcAQhdk1lP+fGKFU8HM1ZrGS/3wyVwYKxHgLd9C1oOnbT2IQvgQQwuoXUQXgX3tDhQ/rmrcdv0yD9Ur/+3kYwpsomMdGMXHYNQgRu3CGy3GOY+0BwdR+hpdbAydOT5y7N8Maa0n18FX1+kK7PyTqULXECu8F1gYAm9lj5X9IKunEVsQrfpq+EW5Uqt9w9ZhWx43XRp68KQGXIe6KB82lcht3r7E//4Ll7tGFkLB57Bjfaev+J+QU71FFWDCG+i9hEcgzNalMa7Jb5hvH0x6+a9blg==;TUmoZFWKCYl6xVuld+ukGw=="
 ---

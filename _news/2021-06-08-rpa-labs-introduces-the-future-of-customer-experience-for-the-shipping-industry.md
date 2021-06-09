@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Active.Ai and Glia partner to enhance customer experiences through conversational AI"
+    excerpt: "Active.Ai, a leading conversational AI platform for financial services, and Glia, a leading provider of Digital Customer Service, today announced a strategic partnership; Together, the fintechs are empowering financial institutions to meet customers in the digital domain and support them through conversational AI,"
+    publishedDateTime: 2021-06-09T19:18:00Z
+    webUrl: "https://www.cuinsight.com/press-release/active-ai-and-glia-partner-to-enhance-customer-experiences-through-conversational-ai"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 30
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "Mashreq Bank selects Kore.ai to Elevate Customer Experience through Conversational AI"
     excerpt: "Kore.ai, a top conversational AI software company, today announced its partnership with Mashreq Bank, one of the leading financial institutions in the UAE, to enhance digital engagement and support for customers through conversational AI."
     publishedDateTime: 2021-06-08T07:00:00Z

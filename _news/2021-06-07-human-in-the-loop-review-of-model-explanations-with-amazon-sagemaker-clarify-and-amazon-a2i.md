@@ -57,6 +57,20 @@ related:
         width: 700
         height: 425
         isCached: true
+  - title: "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
+    excerpt: "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue"
+    publishedDateTime: 2021-06-09T21:01:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
   - title: "Save costs by automatically shutting down idle resources within Amazon SageMaker Studio"
     excerpt: "Amazon SageMaker Studio provides a unified, web-based visual interface where you can perform all machine learning (ML) development steps, making data science teams up to 10 times more productive. Studio gives you complete access, control, and visibility into each step required to build, train, and deploy"
     publishedDateTime: 2021-06-08T23:19:08Z

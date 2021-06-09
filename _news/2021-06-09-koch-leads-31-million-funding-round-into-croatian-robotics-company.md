@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Rite-Hite joins in Koch-led $31M funding round into Croatian robotics company"
+    excerpt: "The funding continues more than $30 billion in technology-related investments by Koch companies in recent years."
+    publishedDateTime: 2021-06-09T19:44:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/fundings/2021/06/09/koch-invests-in-gideon-brothers.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
+
 secured: "FGPV8rNUpmGJWMF+MNGvz+9+eA/zsBgB2vsppaqdJKDw9AM5NerL6msVT8aBS9lopyYAmfqLDRrpUxxtYlhXpEX7jC1ezimc2ytlEYB+VaEcMxxpnPJex8hKKltb5IT7Ohsq3vBycmZZogQVfKMI1na8Gshi4xyzUOImTMZrCSUVfk7Gl5RI5nv3uvW6tOh8WSiisa7C8B1sIHHm9n06FpZdfEP/khBgDfxkA/bfGwGDtAfnDZgNdOa68n5Z03GeRW4Y2PmC4yE4dqUz7RuNScbvZ+gpMpjY+gWMTAbSfJzcbXWrM4jxNlLVEnSNRV5EckAKMgTUCNAh9QJYMisLB7jDiAVmKkh+d9ypCupRI0s=;wNmwb/Ma19ww3ql8YKkXhQ=="
 ---
 

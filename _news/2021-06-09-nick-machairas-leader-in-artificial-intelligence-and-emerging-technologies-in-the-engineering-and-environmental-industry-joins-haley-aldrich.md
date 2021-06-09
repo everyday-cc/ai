@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 secured: "9cYhzjfRrLlXk8vk+uvyuF83wrz/7oGiw64EbKWc8hyd6V3ZGGSMz/4HLKf4akS6aoX/Fv3NjY8kCn2V0ODSo9b3TYnzskdOSOBLY30BzngJz2lX+5kcz9H4aAJb0B2ixT+YBcg4+TPutg4hy3a3cmjLGEYB0XU6UD2U4oCFa7igUNWaSrfjdNsCB46iIoqagObkdi5m/jxP3I4p2dkgY+O1KaKmCXsHRwANtzGGYIN6LYwGeFjFQ8mKyHWtk7KcRn98xuResEHlvwppJYsSldLpbGv/4KbCk78gAdRXkA6NwM6pnQnX2ezTOssvnRrcAvwzlGFW64InX34ruU11QoLD2ze83WHK08fa8jkYWHA=;w6e68wIG2PjjmH+VvZHPig=="
 ---

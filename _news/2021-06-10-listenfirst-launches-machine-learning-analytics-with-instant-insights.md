@@ -1,29 +1,23 @@
 ---
 category: news
 title: "ListenFirst Launches Machine Learning Analytics with Instant Insights"
-excerpt: "ListenFirst, the premier enterprise social analytics solution, today announced the launch of Instant Insights, a new analytics feature"
-publishedDateTime: 2021-06-09T17:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/listenfirst-launches-machine-learning-analytics-with-instant-insights-301309309.html"
-webUrl: "https://www.prnewswire.com/news-releases/listenfirst-launches-machine-learning-analytics-with-instant-insights-301309309.html"
+excerpt: "ListenFirst, the premier enterprise social analytics solution, today announced the launch of Instant Insights, a new analytics feature that quickly shows how brands perform across social media. Leveraging years of intelligence gathered from working with the largest brands in the world,"
+publishedDateTime: 2021-06-09T17:39:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-listenfirst-launches-machine-learning-analytics-with-instant-insights-/2021/06/09/9387504.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-listenfirst-launches-machine-learning-analytics-with-instant-insights-/2021/06/09/9387504.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/633283/ListenFirst_Logo.jpg?p=facebook"
-    width: 1014
-    height: 533
-    isCached: true
-
-secured: "FTpyjAzJNNlB9GkjwSG5ubrF/14NRq8T/sNTBnEpHZmkMF6vd95pF5uKEkdJaP2fYAxMbutF/wLUDJqRHpHNMtS3HPYpq2cyvb2NYB71Ey1UaqSs+rRz5o4510oC+VLDhpAViWYg1Yyp3+lvntc73JnnV66hYJ0UtuiEdBC+VrXlFSXoGAwiMjIFXXUaKBrBOGwSjBzW5B+3b0C5iYlZBjgYCVKyMPj0XQsyW6YaG/LUx0jTA7PMzmnqpFadZTDsXi4q76Gw5iE0CyeijJd3gWqy9nLXiPJYpJU/m38ctZ+PRQRUJ7QNNnX7z6F+l06k2YeeNWVjFio1pUgK5LEj9/pktCU2vuHLVcnpbSYEf1w=;yaxx1aJsyRHxg+OVxvPVpA=="
+secured: "6HdC8DPxuSUKxFAESTtdjfrrpUA4nuDGj/yg7fNxAnWpOV4R9qpLJtSy249WafbjZKWFwGa07iajZsk2VgiQKDescUPg/Xnv+me7YoxTaPv2HjAtM2pFmn0/yiEsci8T69zZaL4aAFsU0R0dNP0GXF+GsBQEcsQYo1TZhWxW27McF6zuEKVGuhVsWdc8UWCvq8FRJHcSuCevuow/oVaFq1gPHEgycynpHQ6ilIEGLG0FO3LKLPAd2svjYiv8ALpUXgWKqHqXpLsPIiK9qSr9SPXLiyYiDFWWVMMVYPVRSp//u3tHT5G5vB3m+eJL/cDwQyBTpY8kfsoSGw+wWYc7l205FE3hhtxpTwsxjb0ujg0=;Oc6zsWqcQ8bo47NOf4pRhA=="
 ---
 

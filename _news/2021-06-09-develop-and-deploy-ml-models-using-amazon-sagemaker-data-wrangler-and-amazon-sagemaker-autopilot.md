@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler"
-excerpt: "Data preparation remains a major challenge in the machine learning (ML) space. Data scientists and engineers need to write queries and code to get data from source data stores, and then write the queries to transform this data, to create features to be used in model development and training. All of this"
-publishedDateTime: 2021-06-08T16:12:16Z
-originalUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
-webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
+title: "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
+excerpt: "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue"
+publishedDateTime: 2021-06-09T21:01:20Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/"
 type: article
-quality: 99
+quality: 93
 heat: -1
 published: false
 
@@ -24,9 +24,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/22-4153-menu_1.jpg"
-    width: 700
-    height: 425
+  - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+    width: 768
+    height: 385
     isCached: true
 
 related:
@@ -44,19 +44,19 @@ related:
         width: 800
         height: 626
         isCached: true
-  - title: "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
-    excerpt: "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue"
-    publishedDateTime: 2021-06-09T21:01:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/"
+  - title: "Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler"
+    excerpt: "Data preparation remains a major challenge in the machine learning (ML) space. Data scientists and engineers need to write queries and code to get data from source data stores, and then write the queries to transform this data, to create features to be used in model development and training. All of this"
+    publishedDateTime: 2021-06-08T16:12:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 93
+    quality: 99
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/22-4153-menu_1.jpg"
+        width: 700
+        height: 425
         isCached: true
   - title: "Save costs by automatically shutting down idle resources within Amazon SageMaker Studio"
     excerpt: "Amazon SageMaker Studio provides a unified, web-based visual interface where you can perform all machine learning (ML) development steps, making data science teams up to 10 times more productive. Studio gives you complete access, control, and visibility into each step required to build, train, and deploy"
@@ -87,6 +87,6 @@ related:
         height: 522
         isCached: true
 
-secured: "QIFQ5cM/T2MBkoALqbY2x4+xnjTxpOPOqu/VDVof346Cicc+H+GaA8bn9imDMz0Xhd+1BFf4Al1X9P2EQyK17B1USZsC8sZoQn9qxbK2GYSo05O7ID3gf+KJTs3WfwxFdozlirYKSgyKOHePE1Yyj+Y4PaYZ4GFiJKivdzLGu+cIt3K34mdDmp2OzR4J51av5Px6u6ZeyUwGtTxfdiw2HuZMV1VnI4j5ZZcQFzvP412wGade6DWp4hpa+osdsJSt9j+s2QxOFFsvlaO4UvxSpJH3NHcCVM4SENaVNFueInoNYv+O08IzdRdP1So2QOJiiaWB+YRZ4NrMYC+KvflPXqex+jJSDK4YuKeXcDFfNFo=;HGPpYdF7rWLEXY6YwxwZ6g=="
+secured: "APAJ+xjnu3NkhigIfaZF5j+ApekMpmiBE7MG8qhMxfvpWqiWh7+7/aDCu+NXYJm3+heHqS9B1to7uiHqZ8mBDVOJ2Kt/LFFc6FPfAHyn4s8e2x7JvSu20xjzFymMeA7tXJwZ0X3z6DWkNOz1y2kFth3tWKHACEbpNInAmn57jUsSIYOrDypZrQgE+GHgCmbKg5ug2Bv2/bKAqZF9lMyO61oPgxUvTFOCqlutX/55kwmz09UCMtbXZgTeJcAIKKyynVeqlDlWTeoIXz5tCP627wfrBcuduSltJbEAxcGBgiNNvMAg4Yf+eATZh028OCVU7Rs7nB8zFsIlQAt0PTVXVfVi+rev0iiC5K88hUvm1Q8=;jzu9sVnShR0yYepF6dL9qQ=="
 ---
 

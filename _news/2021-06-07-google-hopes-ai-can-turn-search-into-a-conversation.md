@@ -47,6 +47,20 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "How to Integrate Artificial Intelligence into Your Workflow"
+    excerpt: "MathWorks’ Johanna Pingel talks with Senior Editor Bill Wong about how engineers can use artificial intelligence to optimize their workflows."
+    publishedDateTime: 2021-06-09T20:36:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21166641/electronic-design-how-to-integrate-artificial-intelligence-into-your-workflow"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 37
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/AI_ecosystem_promo.60c1235e8ac9d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence System Market Emerging Growth Analysis, Future Demand and Business Opportunities 2027"
     excerpt: "The global Artificial Intelligence System market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
     publishedDateTime: 2021-06-09T06:40:00Z
