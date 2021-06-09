@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/startup-waabi-promises-ra
 webUrl: "https://www.autonews.com/mobility-report/startup-waabi-promises-radical-new-approach-self-driving-tech"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI expert ditches Uber to start Toronto self-driving company, Waabi"
+    excerpt: "Raquel Urtasun's Toronto-based start-up to take artificial intelligence-first approach to self-driving vehicles."
+    publishedDateTime: 2021-06-09T18:44:00Z
+    webUrl: "https://www.design-engineering.com/former-uber-ai-expert-starts-toronto-self-driving-company-waabi-ai-1004036946/"
+    type: article
+    provider:
+      name: design-engineering.com
+      domain: design-engineering.com
+    quality: 39
+    images:
+      - url: "https://www.design-engineering.com/wp-content/uploads/2021/06/21-June-Raquel_Urtasun_Waabi-650.png"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Raquel Urtasun starts self-driving company Waabi"
     excerpt: "Silicon Valley startup Aurora. By then Uber's Advanced Technologies Group had settled a 2017 U.S. lawsuit in which it was accused of stealing trade secrets from Google's self-driving subsidiary Waymo."
     publishedDateTime: 2021-06-08T20:06:00Z

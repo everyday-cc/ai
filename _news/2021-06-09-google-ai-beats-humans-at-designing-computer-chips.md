@@ -3,10 +3,10 @@ category: news
 title: "Google AI beats humans at designing computer chips"
 excerpt: "An AI computer microchip designer. Working out where to place the billions of components that a modern computer chip needs can take human designers months a"
 publishedDateTime: 2021-06-09T15:24:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-01558-y"
-webUrl: "https://www.nature.com/articles/d41586-021-01558-y"
+originalUrl: "https://www.nature.com/articles/d41586-021-01558-y?bingParse"
+webUrl: "https://www.nature.com/articles/d41586-021-01558-y?bingParse"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-  - Facebook AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01558-y/d41586-021-01558-y_19235132.jpg"
@@ -41,6 +40,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google says its AI is much faster and better chip designer than humans"
+    excerpt: "Google says its AI can design microprocessor floorplans much faster and better than any human can. The neural network is learning this trade through a method called reinforcement learning."
+    publishedDateTime: 2021-06-09T14:06:00Z
+    webUrl: "https://www.neowin.net/news/google-says-its-ai-is-much-faster-and-better-chip-designer-than-humans/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 84
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1623258484_ai_vs_human_chip_design_(source-_nature)_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Google is using AI to design processors that run AI more efficiently"
     excerpt: "Google creates custom processors to run its various artificial intelligence algorithms, and now it has tasked an AI with speeding up the process of designing more efficient chips"
@@ -100,6 +113,15 @@ related:
         width: 374
         height: 220
         isCached: true
+  - title: "Computer science: Artificial intelligence speeds up computer chip design"
+    excerpt: "Computer chip design can be greatly accelerated by using machine learning tools, according to a paper in Nature this week. The approach is shown to generate viable chip designs that perform at least as well as those produced by human engineers,"
+    publishedDateTime: 2021-06-09T15:32:00Z
+    webUrl: "https://www.natureasia.com/en/research/highlight/13701/"
+    type: article
+    provider:
+      name: natureasia.com
+      domain: natureasia.com
+    quality: 35
   - title: "Accelerating EV Design with Neural Concept’s Deep Learning Based Prototyping"
     excerpt: "Neural Concept, based in Lausanne, Switzerland, was founded in 2018 by Dr. Pierre Baque. Today, it employs 18 people whose expertise in computer vision and 3D geometry looks to reduce the time required for the likes of Airbus,"
     publishedDateTime: 2021-06-08T15:04:00Z
@@ -110,6 +132,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "7KJstw2Vc0IpAQ58puAQM337BjKwlBC/HNpgHI3Oke4HSSq6F8bbZsGKeDnrjuXFoKoYmnIjInPbA9B6Og0h7IXgJwqun7WlEyr9H+Fz6QuNLWSFQxeAe9HOvC6PbVM/2oaZRzTr8iVaFzsHcoXbpKJz3BXaNfpL/d5/cny76hFlmwZ4+HXRkYRDhP3GG+jj6l39cLQfEsHGr32WhBmLxH7jiMF8t8RFB0G89m461wAkWUhjmq8qYkG6HOjrxQIHTobuqkAFgxhXZ3sjaN2iLyIERBCIDMJz7lvEfxh4D3aSkw024A4osQNVWtXJUE0V0bq21n+3xmIuknbmJrHaVyondWQ2Bg22Jf4BC5hF3JXTe9dxqsU+/qk3iOSt1F91ArXLq3yqx0FYWH/FEbglLwL0foYW26lZP53/iwZoBkAh6EjM1yImVbSGWdsTP0Z6JQ9wdheH8C5jb3MK0uxJSEVj6KrlO9WolKuJul1sku6SuAbQ/Gq2iLYP/JcmxsSdCeduPsdKIC0929QTyg4Hhw==;7C1VX8Tga00919sfsbz6qA=="
+secured: "mbUVDHic4chA4QM56IA1m5UCrEiIJNfLTLQ/Yz8h/xQxTIT1kvZTy6nZaIQsfJ+Fv97xyo07Go7anDiiV9bYVBjQ1KhOQ7wGNNQ5G9uLB+2s60HlDHU629MeiC5cKSUIS/+ZXwia4Fe7VSpVcM6DZPeheOyypx/n5Nd7teouYIJX3oXXpVCFbApVGS8rcMFQbTRzv0o++Y+c2pPP6bCAw988UH3QKK164T5lsmkaXwS5q/z7NzNz3vTtv1hAWVFDanwjqjNjY+yv2RYU0yosg9KK9HtsKJhTEkapS+q+fNlZHyP0Sy5OgOcqYLSqy4unjgORN4aGKvUVZKAiGTe+8+3PwxDdxpa1Zh+0T84MWQs=;THQw8F1lgdX83r9ldzAxCg=="
 ---
 

@@ -69,6 +69,15 @@ related:
         width: 1750
         height: 1125
         isCached: true
+  - title: "Beware AI fake news; it fools even experts"
+    excerpt: "If you use such social media websites as Facebook and Twitter, you may have come across posts flagged with warnings about misinformation. So far, most misinformation – flagged and unflagged"
+    publishedDateTime: 2021-06-09T18:42:00Z
+    webUrl: "https://www.hjnews.com/opinion/columns/beware-ai-fake-news-it-fools-even-experts/article_8ad6eeab-1fdb-58a0-9c8e-e39a5116f30b.html"
+    type: article
+    provider:
+      name: Herald Journal
+      domain: hjnews.com
+    quality: 19
 
 secured: "rryz7dFgzS93WmYQxdEjrm2dVPeboWiqr/MfljI3sB5lA72sjixcE7zhSN3RzK6H8kGPn24/jq0oj5SloVY3X8IrPEzK7YbtZ1+/wGAzLy5OgDrLMdMwM10OriDakDdCdtNcHPVj+VMdoNLzEhUEJ9xC62/LM0YG8Ce9oYrbNBLG6wy6Ml5ASgmYhfHBefGDiECOgOjNrggHaq1xv2xoSH/LDkUi4lVglQzgSMn9goSVOhfrDah+RSvwm34i55a1mB74WVaU3/LAF1oAziLfhqcSpbzv3o9jHa4Kdw/gpYCHIkqZK4BgdkxPvbuDdrnySP0xGWz8VUL/0ys+B+pGv2tUC6PpJfA9zH+KB7GD4lYzOJ2kwkaLe5Mb1jGUMceYCbsbdo1KQ0z1VCOnnAg7CE2hHHjWnjnd3I/B3ffnp2o8Flor4uUzxGm50qDOETcATjRaHXyxt0vPAtWdWHS9PAGam45pRZ5h4nNBH12UJYjILq4p/PLOgSEHzWar/a6q6oUeAO0llPi7z2jrEafACA==;LDb8X665ZM6xSuqjlbgxow=="
 ---

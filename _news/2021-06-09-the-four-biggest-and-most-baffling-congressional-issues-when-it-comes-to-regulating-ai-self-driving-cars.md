@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Experts think arrival of real self-driving cars is likely decades away — if ever"
+    excerpt: "Elon Musk keeps predicting the imminent arrival of \"full self-driving\" Teslas, but experts aren't sure if we will ever get the self-driving cars that he and others have promised."
+    publishedDateTime: 2021-06-07T14:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/07/experts-raise-doubts-about-self-driving-cars.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "rfXDu/TgpH0k3LogZCmt9mbTojrK635QlFXKI4zEqULc0eLfTy5mwj/tAIDc3LAfzbA4lozVEbA+SmvFKBqa9h0URm4KB+kXcKy8QADFTmQcptrHTzwOX6JPt2V9XW1kRLS1V3EDd8S6FUQJAuAL3DQbW+d0BkE83UC+/hfZDW1ZzWW0e29sx+ZBIR2Z3kqVbv1/7Hmt+pfCCKgVbe4A6Edo0YtaRjvPeaWcFxUwG4ltKciFo6TiHBwjFwDCJSpDeQIknk5h5VyAsw2u9VyEcvFGZR/eUZjP8MeWJl0WIWYJWRgZyk9Jwqv6kS0caam9CVYM4oD09/O40b77ZAm4WHoBleoI1faNUnVUJ7SDdHtfQZL/ji9+a4SBObNA+JtoA2ZUKeaVRmaaZQWLfMGzuthQakkfvQVB+DPvF6yc9DJbkdJfzknvmTGG+4aoDvhh2+GLQinpmvUOWQXdZuibtFqqkX9p5ITeB1iHQ8st2cRo5bIEr66dWxZ8/ZV8Kr39AFI5Gd26RofxVH0noRFoYQ==;UujVYatbDsJ5eb62WM9i7A=="
 ---

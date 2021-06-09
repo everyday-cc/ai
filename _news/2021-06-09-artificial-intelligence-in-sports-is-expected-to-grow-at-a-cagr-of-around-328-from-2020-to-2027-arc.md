@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Healthcare Market to Project Lucrative CAGR of 47.3% from 2020-2027 | Market Research Future (MRFR)"
+    excerpt: "Computer Vision in Healthcare Market Overview: According to Market Research Future, the Global Computer Vision in"
+    publishedDateTime: 2021-06-09T17:37:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21497672/computer-vision-in-healthcare-market-to-project-lucrative-cagr-of-47-3-from-2020-2027-market-resea"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FKc05+rTNo/FMzXp2Jy+Df6PTdromOzkH7S/Ugu+b3YZcQFla55s2qbbwmW3o8gg25i11zbrCGd7CDpMtYKTKpPZrQkGjw5SkJ0t5Sx/TKhHd1n4ZqfhuEVlpGDzpa7ZHoo7Pc6UVwI+xQfTBKdVGgUrgEFv9+b0j/2haJymJQBLPCWe0FcLOf4XwVFMFOLvBcJLmpwBjevQXei29LMkUtkWuEJx3qX1CvQI4FVF5Oaj1rd06tlwZrQ7i0tcY5SbtOHtYeghgFKprC+IMSI3pAEQWMZA+dnYbp1/7+NrQqQIfbGtAegZm8cLgntq39lGZsEdhw/MKdVEW8prwsiILsCU+9lSKP2jedoOTAdFC78=;FVn0yiCqIpzRhEA7+1pWDA=="
 ---

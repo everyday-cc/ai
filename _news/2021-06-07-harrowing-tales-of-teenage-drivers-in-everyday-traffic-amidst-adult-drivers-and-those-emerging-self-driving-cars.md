@@ -89,6 +89,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Experts think arrival of real self-driving cars is likely decades away — if ever"
+    excerpt: "Elon Musk keeps predicting the imminent arrival of \"full self-driving\" Teslas, but experts aren't sure if we will ever get the self-driving cars that he and others have promised."
+    publishedDateTime: 2021-06-07T14:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/07/experts-raise-doubts-about-self-driving-cars.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "9729PZn6+lOk1U3X1+LhyFGkpU5W8N+tceZWRLvZarWfbn2JxPpEkCvG7mC8E6Q8wyIMpHoU51EjtXTZrcfsX0UHio+X3oAMGIXFOVBI7FvGGo2idXD3Ak4MetJcXZK+2wD0InGYefEuDPlkpjrh2GEo2bIu0xF5sIx0/M3/T+UCBlFLaTVau3lnQlCw1/T2/I+bNTjRaUFVQ55u5XKMLeRxr2qqEXSJSE6M9vR4lbegPLNMcFrbOsBntCm23mqOQdIZSjlObsb6AJJiB2yYwiCRj9XYBWFO2obVAAE+77ybk2Ww06JeoLoLsxHktZhmI3q034ZZ/OdpzhGXTsSLX1FLt5RfD3URfymTeJ3IDqc=;t2XM3nO0V0KMb41rFOO1/Q=="
 ---

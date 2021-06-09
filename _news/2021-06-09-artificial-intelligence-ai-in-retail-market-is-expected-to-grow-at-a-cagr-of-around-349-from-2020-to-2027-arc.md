@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
     quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision in Healthcare Market to Project Lucrative CAGR of 47.3% from 2020-2027 | Market Research Future (MRFR)"
+    excerpt: "Computer Vision in Healthcare Market Overview: According to Market Research Future, the Global Computer Vision in"
+    publishedDateTime: 2021-06-09T17:37:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21497672/computer-vision-in-healthcare-market-to-project-lucrative-cagr-of-47-3-from-2020-2027-market-resea"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         width: 1200
         height: 630
         isCached: true

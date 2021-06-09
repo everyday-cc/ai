@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI expert ditches Uber to start Toronto self-driving company, Waabi"
+    excerpt: "Raquel Urtasun's Toronto-based start-up to take artificial intelligence-first approach to self-driving vehicles."
+    publishedDateTime: 2021-06-09T18:44:00Z
+    webUrl: "https://www.design-engineering.com/former-uber-ai-expert-starts-toronto-self-driving-company-waabi-ai-1004036946/"
+    type: article
+    provider:
+      name: design-engineering.com
+      domain: design-engineering.com
+    quality: 39
+    images:
+      - url: "https://www.design-engineering.com/wp-content/uploads/2021/06/21-June-Raquel_Urtasun_Waabi-650.png"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Startup Waabi promises 'radical' new approach to self-driving tech"
     excerpt: "The former Uber Advanced Technology Group executive and computer science expert has started her own self-driving technology company, Waabi, that's already working on artificial-intelligence advances."
     publishedDateTime: 2021-06-08T10:00:00Z
