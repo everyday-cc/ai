@@ -2,6 +2,283 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-05-20-global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024.md",
+      "title": "Global Artificial Intelligence (AI) Speakers Market Size, Share, Value, and Competitive Landscape 2024",
+      "excerpt": "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.”  The report demonstrates detail coverage of Artificial Intelligence (AI) Speakers industry and main market trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-prosthesis-powered-by-googles-machine-learning-lets-amputee-drummer-play-naturally-again.md",
+      "title": "Prosthesis powered by Google’s machine learning lets amputee drummer play naturally again",
+      "excerpt": "Google’s machine learning technology has given an amputee drummer the ability to play again, highlighting developments in robotic prostheses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
+      "originalUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.musictech.net/wp-content/uploads/2021/05/Jason-Barnes-Google@1400x1050.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
+      "cdnAmpWebUrl": "https://www-musictech-net.cdn.ampproject.org/c/s/www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
+      "publishedDateTime": "2021-05-19T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MusicTech",
+        "domain": "musictech.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
+      "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
+      "excerpt": "The brain-computer interface user was able to transfer objects with a robotic arm at twice the ... let alone a mind-controlled one. In a paper published today in Science, a team of bioengineers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210520145351.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210520145351.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-jetson-emulator-gives-students-a-free-ai-lesson.md",
+      "title": "Jetson Emulator Gives Students A Free AI Lesson",
+      "excerpt": "Obviously it can’t actually run GPU-accelerated code without a GPU ... that shows a dozen people the basics of NVIDIA’s AI workflow, jetson-emulator will allow everyone in attendance to ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/10/26/jetson-emulator-gives-students-a-free-ai-lesson/",
+      "originalUrl": "https://hackaday.com/2020/10/26/jetson-emulator-gives-students-a-free-ai-lesson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/10/jetsonemu_feat.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-mythic-ai-gets-funding-to-mass-produce-edge-chips.md",
+      "title": "Mythic AI gets funding to mass-produce edge chips",
+      "excerpt": "Just six months after unveiling its first AI inferencing processor, Mythic AI has announced a new round of funding for $70 million in Series C investment to begin mass production of its chips and to develop its next generation of hardware and software products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
+      "originalUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/neural-network1-100860577-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
+      "publishedDateTime": "2021-05-19T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
+      "title": "States move to limit government use of facial recognition software",
+      "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch.md",
       "title": "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch",
       "excerpt": "Is Now The Time To Add These Top Artificial Intelligence Stocks To Your Portfolio ... employs AI tech through its Amazon Web Services (AWS) cloud computing service. AMZN stock currently trades ...",
@@ -905,300 +1182,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-maysam-moussalem-teaches-googlers-human-centered-ai.md",
-      "title": "Maysam Moussalem teaches Googlers human-centered AI",
-      "excerpt": "Originally, Maysam Moussalem dreamed of being an architect. “When I was 10, I looked up to see the Art Nouveau dome over the Galeries Lafayette in Paris, and I knew I wanted to make things like that,” she says. “Growing up between Austin, Paris, Beirut and Istanbul just fed my love of architecture.”",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/maysam-moussalem-teaches-googlers-human-centered-ai/",
-      "originalUrl": "https://blog.google/inside-google/googlers/maysam-moussalem-teaches-googlers-human-centered-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/maysam_moussalem_photo.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/maysam-moussalem-teaches-googlers-human-centered-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/maysam-moussalem-teaches-googlers-human-centered-ai/amp/",
-      "publishedDateTime": "2021-05-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars.md",
-      "title": "Pedestrians Said To Need ‘Reprogramming’ For The Benefit Of Self-Driving Cars",
-      "excerpt": "There is talk of \"reprogramming\" human pedestrians to cope with the limitations of self-driving cars, which some think is prudent and others say is impractical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60121be798e828df8537895d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D46%26cropY2%3D4186",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/",
-      "publishedDateTime": "2021-05-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones.md",
-      "title": "Qualcomm unveils chips to power the next generation of smartphones",
-      "excerpt": "Qualcomm unveiled its new Snapdragon 778G5G mobile processor platform to power high-end smartphones coming in the second quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/",
-      "originalUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/qualcomm-event-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/",
-      "publishedDateTime": "2021-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-a-machine-learning-model-behind-covid-19-vaccine-development.md",
-      "title": "A machine learning model behind COVID-19 vaccine development",
-      "excerpt": "When starting a vaccine program, scientists generally have anecdotal understanding of the disease they're aiming to target. When COVID-19 surfaced over a year ago, there were so many unknowns about the fast-moving virus that scientists had to act quickly and rely on new methods and techniques just to even begin understanding the basics of the disease.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.html",
-      "originalUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/11-vaccine.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-machine-covid-vaccine.amp",
-      "publishedDateTime": "2021-05-19T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body.md",
-      "title": "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body",
-      "excerpt": "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1513251/Clarius.jpg",
-          "width": 400,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-south-korean-startup-cryptocurrency-platform-to-start-blockchain-bank.md",
-      "title": "South Korean startup, cryptocurrency platform to start blockchain bank",
-      "excerpt": "South Korean startup Bloom Technology announced it will join cryptocurrency trading platform IDCM Asia to set up a blockchain-based bank in Dubai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4431621433182/2021/1/16214336372176/v1.5/South-Korean-startup-cryptocurrency-platform-to-start-blockchain-bank.jpg",
-          "width": 679,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "publishedDateTime": "2021-05-19T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

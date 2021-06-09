@@ -2,6 +2,292 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-05-07-expressable-raises-45m-from-lerer-hippeau-and-nextview-to-transform-speech-therapy-care.md",
+      "title": "Expressable Raises $4.5M from Lerer Hippeau and NextView to Transform Speech Therapy Care",
+      "excerpt": "Expressable, a leading speech therapy solution that combines 1-on-1 teletherapy with its proprietary education platform, is pleased to announce the close of its seed round totaling $4,500,000. The funding was co-led by Lerer Hippeau and",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19791441.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19791441.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-ai-is-ready-to-take-on-a-massive-healthcare-challenge.md",
+      "title": "AI is ready to take on a massive healthcare challenge",
+      "excerpt": "Shortening the diagnostic journey and reducing the associated costs was, until recently, a moonshot challenge, but is now within reach. Technology and AI advances are combining to make genetic testing accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
+      "originalUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-482179767.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-why-wait-for-a-crash-to-invest-these-3-top-stocks-are-already-down-more-than-40.md",
+      "title": "Why Wait for a Crash to Invest? These 3 Top Stocks Are Already Down More Than 40%",
+      "excerpt": "Some top-quality stocks are already down by 30%, 40%, or even more from their all-time highs. Case in point: Shares of Zillow Group ( NASDAQ:ZG) ( NASDAQ:Z), Baidu ( NASDAQ:BIDU), and Teladoc ( NYSE:TDOC) are all trading at least 40% below their recent highs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624941%2Fgettyimages-534824667.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
+      "publishedDateTime": "2021-05-06T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-king-county-council-puts-off-vote-on-proposal-to-ban-facial-recognition-technology.md",
+      "title": "King County Council puts off vote on proposal to ban facial recognition technology",
+      "excerpt": "After a divisive hearing, the King County Council decided not to vote on a proposal to ban government use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/",
+      "originalUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2021/04/Untitled-design-81.jpg",
+          "width": 620,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/amp/",
+      "publishedDateTime": "2021-05-06T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue.md",
+      "title": "How Genworth built a serverless ML pipeline on AWS using Amazon SageMaker and AWS Glue",
+      "excerpt": "This post is co-written with Liam Pearson, a Data Scientist at Genworth Mortgage Insurance Australia Limited. Genworth Mortgage Insurance Australia Limited is a leading provider of lenders mortgage insurance (LMI) in Australia; their shares are traded on Australian Stock Exchange as ASX: GMA. Genworth",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-2928-Architecture.jpg",
+          "width": 800,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T09:23:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference.md",
+      "title": "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference",
+      "excerpt": "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / May 6, 2020 / The Fintech & Financing Conference and Expo (#FFCON21),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
+      "originalUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy.md",
       "title": "Dyno raises $100 million to bring artificial intelligence to gene therapy",
       "excerpt": "Dyno Therapeutics, which uses artificial intelligence techniques to develop gene therapies, has raised $100 million from investors.",
@@ -861,300 +1147,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-us.md",
-      "title": "Autonomous trucking startup Einride raises $110M ahead of expansion into US",
-      "excerpt": "Einride, the Swedish startup known for its unusual-looking electric and autonomous pods that are designed to carry freight, has raised $110 million to help fund its expansion in Europe and into the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Sunset-Pod.jpg?w=1024",
-          "width": 1024,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/amp/",
-      "publishedDateTime": "2021-05-06T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-einride-raises-110m-to-build-autonomous-freight-transport-vehicles.md",
-      "title": "Einride raises $110M to build autonomous freight transport vehicles",
-      "excerpt": "Startup Einride AB today announced that it has raised $110 million in funding to support the rollout of its autonomous freight vehicles, which have no driver cabin and promise to reduce shipping-related carbon emissions by more than 90%.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/05/06/einride-raises-110m-build-autonomous-freight-transport-vehicles/",
-      "originalUrl": "https://siliconangle.com/2021/05/06/einride-raises-110m-build-autonomous-freight-transport-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/einride.png",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages.md",
-      "title": "Google introduces Woolaroo AI translation app to preserve endangered languages",
-      "excerpt": "the tool uses machine learning and image recognition to translate photos of objects into indigenous languages in real time. If multiple objects are detected in a photo, users can scroll through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
-      "originalUrl": "https://www.zdnet.com/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/06/b58a680a-b1f5-4771-9d58-e0fc28d9aff5/gif-woolaroo-on-google-arts-culture.gif",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
-      "publishedDateTime": "2021-05-05T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-tesla-supplier-delta-electronics-invests-7m-in-ai-chip-startup-kneron.md",
-      "title": "Tesla supplier Delta Electronics invests $7M in AI chip startup Kneron",
-      "excerpt": "Despite a persistent semiconductor shortage that is disrupting the global automotive industry, investors remain bullish on the chips used to power next-generation vehicles. Kneron, a startup that develops semiconductors to give devices artificial intelligence capabilities by using edge computing,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
-      "originalUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/kneron-e1610971717245.jpg?w=839",
-          "width": 839,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
-      "publishedDateTime": "2021-05-05T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-a-possible-novel-migraine-therapy.md",
-      "title": "A Possible Novel Migraine Therapy",
-      "excerpt": "Findings suggest developing HDAC6 inhibitors could be a novel new therapeutic avenue for the treatment of migraines.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/",
-      "originalUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/05/novel-migraine-therapy-neurosciences-public.jpeg",
-          "width": 770,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/hdac6-inhibitor-migraine-18358/amp/",
-      "publishedDateTime": "2021-05-05T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-googles-ai-photo-app-uses-crowdsourcing-to-preserve-endangered-languages.md",
-      "title": "Google's AI photo app uses crowdsourcing to preserve endangered languages",
-      "excerpt": "give cultures the AI tools they need to protect the languages themselves. The company has launched Woolaroo, an open source photo translation web app (also available through Google Arts & Culture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "originalUrl": "https://www.engadget.com/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/720d13b0-ada9-11eb-bf7f-98ae4b609bbc",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "publishedDateTime": "2021-05-05T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

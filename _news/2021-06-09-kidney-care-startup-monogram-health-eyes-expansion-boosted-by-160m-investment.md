@@ -1,0 +1,29 @@
+---
+category: news
+title: "Kidney care startup Monogram Health eyes expansion boosted by $160M investment"
+excerpt: "Monogram Health aims to change kidney care by providing personalized, coordinated care for patients with chronic kidney and end-stage renal disease, with a focus on shifting care to the home with home dialysis and virtual visits."
+publishedDateTime: 2021-06-09T11:10:00Z
+originalUrl: "https://www.fiercehealthcare.com/tech/kidney-care-startup-monogram-health-eyes-expansion-boosted-by-160m-investment"
+webUrl: "https://www.fiercehealthcare.com/tech/kidney-care-startup-monogram-health-eyes-expansion-boosted-by-160m-investment"
+type: article
+quality: 20
+heat: 20
+published: false
+
+provider:
+  name: Fierce Healthcare
+  domain: fiercehealthcare.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://qtxasset.com/fiercehealthcare/1623187991/GettyImages-152498547.jpg/GettyImages-152498547.jpg?jER0sP9lxEI7qxGBjbYgk0nXtbzg6ky."
+    width: 6048
+    height: 4032
+    isCached: true
+
+secured: "GXGhRgCQX9DX2KNs5wClbM+8k7DZjJzqiIg1fzHbyUaiTOfaKA2N2b/o4jp276vJIg9hhGJEMq6bh3eXqY0mGkVSynzJF3vl8dH1VrxjJyxtO2wO3Kyzadjr1QrX7KOs/X8Lill63YMOjEZc/f2bsriSduat/zBD/een3YQ2BmJkx86mBXj/F1ngaupyDZW+J7aW9W+2eevKziPQszTNAUwEJb7XsZAlnrOExgVqxc2gjX3LWwar/jOkxv7bJSYna14aGHFRlJpM97Thf9dEuJ9ebfY42mSkEtDcGx8n0WGm3hcUhVlrAf4sxHnn5Q5WlTyHLcEj+F2t8i0+t3uXz+8dMyCaBUelcWi7o6y23Ew=;+Wer02MVmisQF5VnNmwYcw=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mou
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
 type: article
 quality: 76
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/105/45bf940c346f431c9be273b8942ab6eb/105d6bfea87142d3a862f8d9d45613a4/poster_67be6c1012ab4278a9c76e09388b192e.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The Biden administration's new facial recognition app for asylum seekers sets off alarm bells"
-    excerpt: "The Biden administration recently rolled out a new app that uses facial recognition and geolocation technology to gather and store data about asylum seekers before they even enter the U.S., the Los Angeles Times reported Friday."
-    publishedDateTime: 2021-06-04T19:51:00Z
-    webUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets"
-    ampWebUrl: "https://theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
-    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/immigration/1001197/the-biden-administrations-new-facial-recognition-app-for-asylum-seekers-sets?amp"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 48
-    images:
-      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622837168/GettyImages-1062889184.jpg"
-        width: 814
-        height: 458
         isCached: true
   - title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
     excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."

@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-08-deliver-personalized-customer-support-experiences-with-amazon-connect-amazon-lex-and-salesforce.md",
-      "title": "Deliver personalized customer support experiences with Amazon Connect, Amazon Lex, and Salesforce",
-      "excerpt": "The last year has made delivering high-quality customer contact center support extremely challenging. Consumers have increasingly abandoned brick-and-mortar retail shopping and traditional banking in favor of digitally enabled experiences, which brings unprecedented call volumes to contact centers. In",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-personalized-customer-support-experiences-with-amazon-connect-amazon-lex-and-salesforce/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-personalized-customer-support-experiences-with-amazon-connect-amazon-lex-and-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/12/1-1762-architecture.jpg",
-          "width": 800,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T15:06:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
       "title": "Element adds AWS integration for industrial sensor data",
       "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
@@ -220,7 +168,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1371,6 +1319,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
+      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
+      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-1030467229",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-1030467229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-tdra-welcomes-awss-decision-to-open-data-centers-in-the-uae.md",
       "title": "TDRA welcomes AWS's decision to open data centers in the UAE",
       "excerpt": "This step timing has great implications as the UAE prepares for its next fifty and developing a digital future that enhances the UAE global position as a hub for attracting investments and partnerships.",
@@ -1414,12 +1405,12 @@
       ]
     },
     {
-      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
-      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
-      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications.",
+      "path": "_news/2021-05-26-udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning.md",
+      "title": "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning",
+      "excerpt": "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-doit-international-achieves-aws-partner-network-distinction-100-/2021/05/26/9378294.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1443,8 +1434,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

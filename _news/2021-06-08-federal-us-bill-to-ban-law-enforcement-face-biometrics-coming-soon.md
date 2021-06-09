@@ -39,20 +39,6 @@ related:
         width: 768
         height: 513
         isCached: true
-  - title: "FacePhi face biometrics called up to top soccer league for stadium access"
-    excerpt: "Once onboarded to Valencia CF’s system, identity will be verified at the stadium entrance with selfie facial recognition technology used to generate a QR code."
-    publishedDateTime: 2021-06-04T20:53:00Z
-    webUrl: "https://www.biometricupdate.com/202106/facephi-face-biometrics-called-up-to-top-soccer-league-for-stadium-access"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
 
 secured: "5JlnX4ch4mCi47dNRieG1J0RwAegsWhktUjVwcYeKKcZq6Nz7MwhcekrdVFfDN5p/64rOuqOy7k8sOUHZQOvSaDnqdJ+4WonZtJym9NIPsaZfnbilXkh+RUl0puqQDvJAZfFCcnDdDUzdvUftYg10mBvU5h6IW876U9d+nZzmJnrfAEjIa8EgUP5o91/9j0z7YC0Vu1LtDKI8fENPbSJwEeel3cTPSdDZ2ZPftF8x2WWROJqnwe4X7G4vDZijmVLshkwvsokIKm0iSjX48EY3+gaM7FMo1jfTchjhiud4tkpHdrQA/cHIDv4m2TAilum6CK5BsDvaj7TKPRQEebeJx/hFncqgZZPNmbD/L/hjCk=;OeVRcJinHZM4CGXK7Ypx1Q=="
 ---

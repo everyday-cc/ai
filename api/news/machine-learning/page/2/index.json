@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-28-amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql.md",
+      "title": "Amazon AWS launches Redshift ML to let developers train models with SQL",
+      "excerpt": "Amazon today announced the general availability of Redshift ML, which lets customers use SQL to query and combine structured and semi-structured data across data warehouses, operational databases, and data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/AWS-Thomas-Cloer-Flickr-e1568998070790.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
+      "publishedDateTime": "2021-05-27T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
       "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
       "excerpt": "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ...",
@@ -620,6 +673,41 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-lattice-sensai-solution-stack-simplifies-deployment-of-aiml-models-on-smart-edge-devices.md",
+      "title": "Lattice sensAI Solution Stack Simplifies Deployment of AI/ML Models on Smart Edge Devices",
+      "excerpt": "Supports TensorFlow Lite and Lattice Propel for Embedded Processor-based Designs; Includes New Lattice sensAI Studio Tool for Easy ML Model Training HILLSBORO, OR – May 25, 2021 – Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/50032/lattice-sensai.html",
+      "originalUrl": "https://www.design-reuse.com/news/50032/lattice-sensai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-neural-network-knows-when-cat-wants-to-go-outside.md",
       "title": "Neural Network Knows When Cat Wants To Go Outside",
       "excerpt": "A Python script regularly captures images and passes them to a TensorFlow neural network for object recognition. The TensorFlow network returns object type and positions to the Python script.",
@@ -695,41 +783,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-lattice-sensai-solution-stack-simplifies-deployment-of-aiml-models-on-smart-edge-devices.md",
-      "title": "Lattice sensAI Solution Stack Simplifies Deployment of AI/ML Models on Smart Edge Devices",
-      "excerpt": "Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, today announced enhancements to its award-winning Lattice sensAI™",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices",
-      "originalUrl": "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1305,49 +1358,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-deep-learning-enables-dual-screening-for-cancer-and-cardiovascular-disease.md",
-      "title": "Deep learning enables dual screening for cancer and cardiovascular disease",
-      "excerpt": "Heart disease and cancer are the leading causes of death in the United States, and it's increasingly understood that they share common risk factors, including tobacco use, diet, blood pressure, and obesity.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-enables.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp",
-      "publishedDateTime": "2021-05-20T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

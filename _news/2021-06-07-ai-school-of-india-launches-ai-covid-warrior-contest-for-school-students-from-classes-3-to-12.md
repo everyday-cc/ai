@@ -58,20 +58,6 @@ related:
         width: 1736
         height: 889
         isCached: true
-  - title: "Meet Grace, the healthcare robot COVID-19 created"
-    excerpt: "Dressed in a nurse's uniform, Grace uses artificial intelligence to diagnose a patient and can speak English, Mandarin and Cantonese"
-    publishedDateTime: 2021-06-09T02:46:00Z
-    webUrl: "https://news.trust.org/item/20210609033648-cuk4u"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 56
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/bc1baf39-291b-4058-8cc3-1e0f206db1e1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
-        isCached: true
   - title: "It's Safe To Return To The Office: Coretrust Deploys First AI COVID-19 Disinfecting Robots At Properties Plus Other Anti-COVID Tech"
     excerpt: "Coretrust Capital Partners has unveiled ADIBOT UV-C Disinfecting Robots that disinfect air and surfaces against COVID-19 and other harmful airborne pathogens as the centerpiece of multiple anti-COVID technologies at its office properties,"
     publishedDateTime: 2021-06-07T19:34:00Z

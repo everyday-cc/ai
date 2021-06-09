@@ -100,6 +100,15 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "Mythic unveils new AI analog matrix processor"
+    excerpt: "Artificial intelligence (AI) hardware is on the rise with Mythic introducing the M1076 analog matrix processor designed to work with video analytics workloads such as object detection, classification and depth estimation."
+    publishedDateTime: 2021-06-09T12:35:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16809/mythic-unveils-new-ai-analog-matrix-processor"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "4hTFopKoo9X6HHzeR5HZ/aQId9E3sI9GFjpADiJF+cSS0FQH4jko1udC0wpVbm4Qffpcda8jaZHpotJI82B3uUfCzKPGQXrU7kB8vH2rvHn4nhMiGzjCHvL0bTyxWTBfLPzuIuvwJL7UxhbUzCTn9sQnTF7EMGMy/HLS+0oLIsctZqerDC5zpfYrFEVOwgiN0bMzg29m8I1HMiWANYNsfZLgdXcbCclZmrd0kQmd2sMESymwF81HGTyJQsMFAvdhI2PXgWT73XpNGUc2CCgoNSPE8P/3nivMhI/x54yiXFWkYCuBh4cmwTwMcdkzu8oHTnaxPcx0yGi6YSISd10codq/SVBfDsks3LSTUlHCqhrhnffZO4675df4h8VWaYQDjBpKjVSZN6N6dwurIcXpImq3KxxPTIaxbqjta8Jd/XilNiXYjlihoPcC11pJqoWX4giUtxNi2CIf6FMdpnylWH+VIqBuCyh80m/DLGM2wXUrYIQ/URSd5A1N/OMK+/0jfRMVUQbaAu1EEwbp+4MFEw==;/z6szrItkDdzUSJtCRJTBw=="
 ---

@@ -2,6 +2,249 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-05-microsofts-first-gpt-3-product-hints-at-the-commercial-future-of-openai.md",
+      "title": "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI",
+      "excerpt": "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication",
+      "originalUrl": "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/06/GPT-3-code-generation.gif",
+          "width": 696,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-05T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement.md",
+      "title": "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement",
+      "excerpt": "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/",
+      "originalUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png",
+          "width": 800,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/",
+      "publishedDateTime": "2021-06-05T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-samsung-jet-bot-90-ai-robot-vacuum.md",
+      "title": "Samsung Jet Bot 90 AI+ Robot vacuum",
+      "excerpt": "Many of today’s best robot vacuums have powerful suction that can rival the best vacuum cleaners on the market, along with rechargeable batteries that can outlast some of the be",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/samsung-jet-bot-90-ai-robot-vacuum",
+      "originalUrl": "https://www.techradar.com/news/samsung-jet-bot-90-ai-robot-vacuum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Ms7UFSJpkSt8nY5NwfchDT-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-05T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-chinese-ai-speech-recognition-chip-startup-secures-new-war-chest.md",
+      "title": "Chinese AI speech recognition chip startup secures new war chest",
+      "excerpt": "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F9%252F0%252F34550907-3-eng-GB%252FCropped-1622689933%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%25AEAI%25E3%2583%2581%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2583%25A2%25E3%2582%25B7%25E3%2582%2599%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-deepak-chopra-plans-to-live-forever-through-ai-heres-how.md",
+      "title": "Deepak Chopra Plans To Live Forever Through AI, Here’s How",
+      "excerpt": "Before the pandemic, meditation guru Deepak Chopra uploaded his \"consciousness\" to the AI Foundation to ensure he could talk to future generations. Virgin Galactic's Richard Branson, Twitter's Biz Stone and VC Cyan Bannister did the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6e6837ba5cf2396ba0f41%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D53%26cropY2%3D593",
+          "width": 959,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/amp/",
+      "publishedDateTime": "2021-06-04T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said.md",
       "title": "Self-Driving Cars Could Be Decades Away, No Matter What Elon Musk Said",
       "excerpt": "Experts aren’t sure when, if ever, we’ll have truly autonomous vehicles that can drive anywhere without help. First, AI will need to get a lot smarter.",
@@ -1003,260 +1246,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model.md",
-      "title": "China outstrips GPT-3 with even more ambitious AI language model",
-      "excerpt": "A Chinese AI institute has unveiled a new natural language processing ( NLP) model that is even more sophisticated than those created by both Google and OpenAI. The WuDao 2.0 model was created by the Beijing Academy of Artificial Intelligence (BAAI) and developed with the help of over 100 scientists from multiple organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
-      "originalUrl": "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/o32fPtrBni3aBQR3wyWqqE-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
-      "publishedDateTime": "2021-06-03T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-an-update-on-our-racial-justice-efforts.md",
-      "title": "An update on our racial justice efforts",
-      "excerpt": "To help combat racism and advance racial equity, we've made donations to organisations that support Black communities in the AI/ML space.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/announcements/an-update-on-our-racial-justice-efforts",
-      "originalUrl": "https://deepmind.com/blog/announcements/an-update-on-our-racial-justice-efforts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant.md",
-      "title": "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant",
-      "excerpt": "In a kind of battle of the researchers versus devs, the decision happened only after Schroepfer and team came around to the thinking of Facebook AI's head of research, Yann LeCun, according to Schroepfer. \"I had this knock-out, drag-out debate with Yann ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "publishedDateTime": "2021-06-03T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics.md",
-      "title": "Tesla turns on facial recognition, Kia adds in-car fingerprint biometrics",
-      "excerpt": "Tesla using facial recognition to ensure driver is seated and alert, Kia K9 features fingerprint authentication, more automakers add biometric capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics",
-      "originalUrl": "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/09130331/automotive-biometrics.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-build-regression-models-with-amazon-redshift-ml.md",
-      "title": "Build regression models with Amazon Redshift ML",
-      "excerpt": "With the rapid growth of data, many organizations are finding it difficult to analyze their large datasets to gain insights. As businesses rely more and more on automation algorithms, machine learning (ML) has become a necessity to stay ahead of the competition. Amazon Redshift, a fast, fully managed,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T15:01:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

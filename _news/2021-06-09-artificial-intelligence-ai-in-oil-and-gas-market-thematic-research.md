@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-a
 ampWebUrl: "https://www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic"
 type: article
-quality: 72
-heat: 82
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.openpr.com/U/6/U609148836_g.jpg"
@@ -41,6 +42,6 @@ related:
         height: 531
         isCached: true
 
-secured: "4SFvpOXm2pbvKpZmGg9Y5u+AdU2/iJF0U9ygMI8Op4uRRGe+Fmp+KJqKwkPkbUIiIjCbbGLOy5ikvC94tXLtQdU+gEFKt/qqsgz5fIT6UlneujeLMDjV+v1lzvAfBvEFuAMm5mbd1w6Rf2M31Vqd/SZqUnO356CtQKsYnzzh46r7n9xTw5vC87TuWdhXibPEkgVXQR91lm+vzrc5EAdNQxZ3S2RQFGCPWVRN7V+9tNYDM5WDzl2dFHMEG95+7g85kJSIOJkWpf0kqezyfBp4f0xJc4WfHaZ4/m1zorWrHoKyJ5Wjxrujg7HwWQW8AKhrY12g2GFjM757qOzFN4CfxLt7rLDGHepJ73ovmGP3O6E=;STZWYh6S06I0PArLQDu0Mg=="
+secured: "QQjw3p0ssCFSO99ZiU0oHMa//7ogboupzcCtGFfj2tFEWGvZ7SwPhpkku3rNWk/0ykGqoTUaWKyIyoPFbMvMhJzHP1LXK4SQeZxdar2Bvgga0rr1i8AZV++7CSW3lQJ+yIUFaX8FfNTYhv5QlbM9AVqQqX9n43LL8bOdzxvZv+FKNyrq9N7WTLavXxyjCkuhpxIEXc3dnxo3TftI9rVRND1HWwUMCtFkrTWuReNDz/aZRfjAXBCqEtEdn9m2PYZmfHJsszZOucR1FmeKAENrCR1AN3E8nfnv1dTHVtTypvcB/4l6hr0Mz5ozNlPshHmcBAGuNtrlHUcUb/WZ5iDS2TaugYhEfwDu4PBozMiMzOoI0/spV4GGhxIV3QC8NjLUd5MPPPJgzafMFVstYTuJzg8/QPgd8Jo1QAY5MzDz34mxBDWpthU4UqunnrVmJm7ieYafMQWB203zLgw1vQocJhNlPo+TQ8sR61YiTMo4zDBCfsKYryIIdgUbmk8H4YFNM+R+Xsx7wTVXGvN9vtmLug==;sNFcEUvcPYL0qB+gUQFHZQ=="
 ---
 

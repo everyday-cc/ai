@@ -437,6 +437,41 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-lattice-sensai-solution-stack-simplifies-deployment-of-aiml-models-on-smart-edge-devices.md",
+      "title": "Lattice sensAI Solution Stack Simplifies Deployment of AI/ML Models on Smart Edge Devices",
+      "excerpt": "Supports TensorFlow Lite and Lattice Propel for Embedded Processor-based Designs; Includes New Lattice sensAI Studio Tool for Easy ML Model Training HILLSBORO, OR – May 25, 2021 – Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/50032/lattice-sensai.html",
+      "originalUrl": "https://www.design-reuse.com/news/50032/lattice-sensai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker.md",
       "title": "How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker",
       "excerpt": "In this post, we present the results of a model serving experiment made by Contentsquare scientists with an innovative DL model trained to analyze HTML documents. We show how the Amazon SageMaker TensorFlow Serving solution helped Contentsquare address several serving challenges. Contentsquare’s challenge",
@@ -588,41 +623,6 @@
         "AI",
         "TensorFlow",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-lattice-sensai-solution-stack-simplifies-deployment-of-aiml-models-on-smart-edge-devices.md",
-      "title": "Lattice sensAI Solution Stack Simplifies Deployment of AI/ML Models on Smart Edge Devices",
-      "excerpt": "Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, today announced enhancements to its award-winning Lattice sensAI™",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices",
-      "originalUrl": "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {

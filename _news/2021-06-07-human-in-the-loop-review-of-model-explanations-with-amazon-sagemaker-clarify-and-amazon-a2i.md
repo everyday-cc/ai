@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker"
-    excerpt: "DICOM (Digital Imaging and Communications in Medicine) is an image format that contains visualizations of X-Rays and MRIs as well as any associated metadata. DICOM is the standard for medical professionals and healthcare researchers for visualizing and interpreting X-Rays and MRIs. The purpose of this"
-    publishedDateTime: 2021-06-04T20:48:39Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/"
+  - title: "Unlock near 3x performance gains with XGBoost and Amazon SageMaker Neo"
+    excerpt: "When a model gets deployed to a production environment, inference speed matters. Models with fast inference speeds require less resources to run, which translates to cost savings, and applications that consume the models’ predictions benefit from the improved performance. For example, let’s say your"
+    publishedDateTime: 2021-06-07T23:19:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 112
+    quality: 104
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/1-1247-Architecutre_v2.jpg"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/26/1-2007-Arch.jpg"
         width: 800
-        height: 541
+        height: 626
         isCached: true
   - title: "Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler"
     excerpt: "Data preparation remains a major challenge in the machine learning (ML) space. Data scientists and engineers need to write queries and code to get data from source data stores, and then write the queries to transform this data, to create features to be used in model development and training. All of this"

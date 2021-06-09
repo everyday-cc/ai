@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "Mythic unveils new AI analog matrix processor"
+    excerpt: "Artificial intelligence (AI) hardware is on the rise with Mythic introducing the M1076 analog matrix processor designed to work with video analytics workloads such as object detection, classification and depth estimation."
+    publishedDateTime: 2021-06-09T12:35:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16809/mythic-unveils-new-ai-analog-matrix-processor"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "nOrwN+Vs94ZHfWPgMu/wAkhO7H6XjL6fzrMio6OhhXt5AVxk4TKNlY+80oCqB5hJda+xUz/SwxVAzMdKrqgJNS4QCNel6DqR0rGMnr5V09q63lfZLeWRbaZ4iE3JHorRbpWdrKsqqoV349Vn3eeU1hFLFwx8CrJmK3bYuJS3z2feUVIDy4zIGOdfUzbNOekusm9zMOAiNKbOGCIDsJ0ah/xuBvaE03gH5ouFlrVup0BeBgwZes09hjSopBGR80QCRJBz5IiK/fxl0Xoi1zfvMTTXtR3bO8UExrh5zu9RXIO3+S4mwn446gBJ40dZrqpAKTON3sv81vt52eefwYspRK/OfCUW/Yp3TaVTsLkLk88=;4l/aSRX59HknfyNRHu79HQ=="
 ---

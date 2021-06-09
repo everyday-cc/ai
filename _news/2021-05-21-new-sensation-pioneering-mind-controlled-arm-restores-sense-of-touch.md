@@ -1,22 +1,26 @@
 ---
 category: news
-title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
 excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
-publishedDateTime: 2021-05-21T00:00:00Z
-originalUrl: "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
-webUrl: "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
-ampWebUrl: "https://amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
-cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+publishedDateTime: 2021-05-20T18:47:00Z
+originalUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
 type: article
 
 provider:
-  name: News.com.au
-  domain: news.com.au
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "MaOnJINIRHNtoemhS4k0Q9NEOfEipVepcBuDuGedJCqwxbLDQEcoV33rpZJWaPeSocVO9p4rzL3h7RYU2E2fE8+nv5gEVRxiSMEobDuPdZbeSmhX/FCk8CQGL+EHaKx5EbT0VOkLA9EqY505qK6QguK6WpMILOCGJDf02ElEX12yRj3Gg9qp+M3HWzEZPQHqIzNBuCioUxyb5KMsjdKvBZi/1Y0Q5nfq0OJZip7SWkhgbx3mH2Un0u6eP2AVppcvjmXkHcXLBjqxsQhzZp3tL8uLz5UJ7ciNPgAEXWxPI7jQCTKE3zRDSOYRVEqJH25BOKMxI82zkDfBiiKuGIjcOQyLu/YWZZL1b/av0LCwI3Y=;HLi556H5fIDoVHhlSWaVKQ=="
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "M0//NPnWuMPhnY20oQo92YWmHIbh66vVIDEi0fHYSZdu1Nu3QSL1RtK7VKxSxOiAlTaVE5B2AnsFS07pFIOeFEaN4t+ESqPRSMUyFdS/6SOdsaWobrMig/PEKSA2eDB8xY1UpzM9TTBG5D3RTARUj12HvXApz7rMtWImVKc0nfl9/fJQ3kW8hPHGuoOVN7b7/V/pfq84tSzoYVaW5A9Ulwlhc0lyNsB66ugmiohHafAZaBuejrhXtwnQ8hhaa0nMeJvS/W3G6Q+Zu5LCLb8NXTKLSVu+FKi5LLi9bZpbz+gCS7fbZX5OlHnQs3GLrczpEOyH1SzrVUOCxggkx6RoPvCkqSI7U8Zuk4b1LT9Ilaw=;j7AR4RiBwGYGU42ESOvRyA=="
 ---
 

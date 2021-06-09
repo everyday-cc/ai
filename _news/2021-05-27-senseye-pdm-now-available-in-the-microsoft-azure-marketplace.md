@@ -3,8 +3,8 @@ category: news
 title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
 excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
 publishedDateTime: 2021-05-27T16:14:00Z
-originalUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
-webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
+originalUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace?listname=Automation & Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace?listname=Automation & Control News & Articles"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 313
     isCached: true
 
-secured: "ZPhCKbthh18WqEMRX7+PTKU/juSR32MgUCceVu7QtCp7631Ukxv4h/i2KXqkcHR/4K3TBkPgvsrlRjZ69gsVF2tPjsFtk7sZlc7aDzeK73xUF2wOQXy/t9sRZHMISdOvCD9e9SUgwk0c+U0Z/jINi8G4mze1sfqN8xKS5WL7IYpHv5wybrtP8lAJIhcAx1Hglq+ADf3+X31PbtqTr2gQpmyQm5GltJB618BkpKS20nfx37Zi5mSl6aXPSYeRFuXu62ALPE5nTA+gHnvPHpSyz3KGhrXXyuSq45F0ACndTprwQ4TSKBC5kGqw1zNlVuUJTOYzumLDp76bUZN8SyuziWBt4T+IJUCJAuQpFoxNyd224mvMAMhIAh08wnMqT5wgq9IBJgmPtUow/WI5KQrOTfgB6tkiJqB9UCmhcjcYk0maaNEHiiBMeN7Lsu6DDJEzy/zfFRoB9lqtSzgZuKHWWvX4qgFmNd1hsHU5ntvQE+du7X9JofAZ4PpdGfFWfOWfuhTeoFiYAMdaiuNd+iGz5A==;G40Cg8yzu8Qr9Hr4Wos4UA=="
+secured: "Zri8OtbDssX21lyI631BqX+X5s5v/+fqNinivAwkMHIVy9C12rJpTCYy3yADA8eowS9ahdEVjQKgghRS6sspwcuoF1JoP5gWwXeJwAxqrM1BHSVaJmG5uxUfnSkaxC8ZsovNC+599i3qAdDx5qENPtpnjGq584njeiEiVlfzoASDjINCzlcZ30y8Oq6vVbSDoxQC7UVnbtvD67LQ0Bk6JWLHEWWxZWLixGTUMlS0QFFPg8XbRZ1fRmi50IV+E2JneAVLsClnhwtDYecgci3N8X/p7wbRm9hdXnacMdRmbGDbHUweJtYANDWemqd3qy+uTXbH/2CZGkd6RVUPNDf0KInHhmKYBnO+wMipzxV1buE=;29svHooUWkHtskTrBKajhg=="
 ---
 

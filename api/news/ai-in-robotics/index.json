@@ -2,12 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-hong-kong-team-creates-healthcare-robot-for-covid-patients.md",
+      "title": "Hong Kong Team Creates Healthcare Robot for COVID Patients",
+      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interac",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "originalUrl": "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/grace-twitter-9Jun21.jpg?itok=lPaIjxXL",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "publishedDateTime": "2021-06-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon.md",
       "title": "This robot-run fund thinks GameStop stock will soar in June, and predicts a fall for Tesla and Amazon",
       "excerpt": "An exchange-traded fund driven by artificial intelligence booted Tesla and Amazon from its portfolio in June, instead choosing to load up on shares",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=mw_latestnews",
-      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=mw_latestnews",
+      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
       "featuredContent": null,
       "highlight": null,
       "heat": 91,
@@ -1371,58 +1415,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-the-age-of-autonomous-killer-robots-may-already-be-here.md",
-      "title": "The Age of Autonomous Killer Robots May Already Be Here",
-      "excerpt": "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
-      "originalUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dca2c6eb2c05d71e386bb0b4cdb8c47b.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp",
-      "publishedDateTime": "2021-05-30T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

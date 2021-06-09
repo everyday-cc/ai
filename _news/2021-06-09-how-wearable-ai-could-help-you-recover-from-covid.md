@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/6/3456e.jpg"
         width: 1736
         height: 889
-        isCached: true
-  - title: "Meet Grace, the healthcare robot COVID-19 created"
-    excerpt: "Dressed in a nurse's uniform, Grace uses artificial intelligence to diagnose a patient and can speak English, Mandarin and Cantonese"
-    publishedDateTime: 2021-06-09T02:46:00Z
-    webUrl: "https://news.trust.org/item/20210609033648-cuk4u"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 56
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/bc1baf39-291b-4058-8cc3-1e0f206db1e1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
         isCached: true
   - title: "AI School of India launches AI Covid Warrior Contest for school students from classes 3 to 12"
     excerpt: "With the AI Covid Warrior contest, school students can brainstorm ways in which they can create their own innovative ideas using artificial intelligence"
@@ -116,6 +102,6 @@ related:
         height: 480
         isCached: true
 
-secured: "NeKlFpDnoFijjw45yRq68dDckSOcP9KVU61PwjOLBDD/30OzODRk1piYn3yGmMh1hEkCHhpMWvSptuMD33PeDx9CL+XlFWY5GzXY5+NhQE6pM3LLj3+bEe4XTQUfGOkeOzY0MA/8gJjqeLb6FPXxJ2sNbFsdM4/SQCAMn6SEGTxpUCOlQW/AoJ5GmBzCSyI/+yld8IZWnrGHP1avtPMqFQnRvjT7oQl4U8oltS103Cc8Tog76xq8I1FmT0hh15udjsqJYgDtlvuN3QSIQrzeZuOHNdOY1uVQOK8N+EzEF497wCvJ8qBaViEffWG7vtUC7DjqAZoQrtxH0AhT7VuBfO/jzbFTu9FQTptedXLvIno=;DEwPYjIvB9xGSFpbNVDbtA=="
+secured: "krpzkHiG6g73stdaKFpYkD998fcvdgY2+/DKpGqFD3T03UT4ncCqLGKMoDeTGQBpPJeK+iWBu/3W4KiLnC1//ji67MiEjZI46kILPkS0ZlHCDkZA93Ul31uddipI+WNph1YYfq8OEx4ypKzVUD7LXYn2rLOpguKPjqruuiJI09OCFAVOrUkPUfjF/FL+5HV40UU31FVxaRuwAFB6MEQQvYUMUYlM+dvbH3z1aonjyEeyNmkML7ni8IvHGrJHDeEIXt9UijGnBsWH6618OVttA1kTdMp/yrAJ2flPDqpz+ORZPSkdCUm7x389l2nbZYbrybLTpDFbWNQo4ZDFIVBITpd85JuIr6L1SBtlC6axebSfg8TAHMqM8DT05yJo1HJLDCM3eDmZp5DSSx0w9/T480qu3DRG8J8q9vUXGYZT16x6y8opO8riVrIWk+TmRnocDt+ONgiQyOiO+zT6OxbycUqnuv4Ty73DPqtizoU9RTeaiLu4arpd5AIwFwMlSbQrKYjlCPfG0E4qbUmI1Zu6Pg==;jGnRa8yk9avsxN2hRbmQgA=="
 ---
 

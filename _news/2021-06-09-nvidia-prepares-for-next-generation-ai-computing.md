@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NVIDIA prepares for next-generation AI computing"
-excerpt: "Das expects volumes of NVIDIA-Certified servers to be a good indication for the penetration of AI-ready hardware. At the moment, most datacenter operators still acquire servers and GPU-accelerator cards separately, but the certification program should ..."
+excerpt: "NVIDIA, with the acquisition of Arm and its keen push in AI applications, has been aggressively releasing innovations to help improve datacenters' computing capability over AI workloads."
 publishedDateTime: 2021-06-09T06:48:00Z
-originalUrl: "https://www.digitimes.com/news/a20210609PR200.html?chid=9"
-webUrl: "https://www.digitimes.com/news/a20210609PR200.html?chid=9"
+originalUrl: "https://www.digitimes.com/news/a20210609PR200.html&chid=9"
+webUrl: "https://www.digitimes.com/news/a20210609PR200.html&chid=9"
 type: article
 quality: 39
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 385
         isCached: true
 
-secured: "GT9rdmv80UhIVQUWHFvMzemXq2RUzHgWfp+Yf3OWrv4gNrcrMyf35QJCVkoAzs6Q4fOMg+01p7pocfK3NbxanKhTjRirx5gH+bmy2zSWhymB+wpNiyZlPyuYYw5fGEgFbIIzjs3NKQ6QXmf5KnSnf0/fo8J9t0IgJd2hXL7RS1NPEo0Ol8T7A7FJOBxGAyoXmHWLpuIOoCkuGMg+WCWwKS5A4pwiZWVDQQKr2fqJMz/XUPG7c8cxb5TO2P5JN/RLmSVSmmbUDI4sMluy3EJ+9b5+m1En+4j1w4iEjJXC8c4QA/xmc74lNQjN+izJTWa3Myn27zv3Lcl6o7WArdVAvXRDEovAkPTHV4fNYZ6J6w8=;znll46aO5218ynM0nWRxLw=="
+secured: "R8yg9ovlzbEyrhEPgDQGhs/KnSn1nX6LWVHEJrOERJVywN4DufYKNtvnCjTYHyl+MTcYyMipy/3CYoWZPgLNbhdrNqvv5O9XrOjkhzyPi0fQHeVn/O/sZ8YOLn3jHDO3VVn1bYkGq4qR7vTTEk3z+ZEbTNZ9oahm0BkNWawznpQ8QB6hghqdK4J0vyjZzJk0kKu00yQLHT1ljyFQ5Zb/nA5/1MqAd1FvDtIfjfgDYEw+ougW13rNd2IwH3WSnu4GA9sRZV9QpWanlmXLKXgPClfHpSj3Gi9WHHnr7yxxqps6/jOEj96le16QJfCdxRv6OizzdXts5HQ7fGEeHSPC72iP+pwpO6wWFBqkX/TIiEo=;FcJxXWzGds/0uJzDzQwZyw=="
 ---
 

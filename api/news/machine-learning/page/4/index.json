@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-14-7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning.md",
+      "title": "7 best practices for implementing data-driven technologies, like AI and machine learning",
+      "excerpt": "Data science, machine learning and artificial intelligence are key enabling capabilities in today's business world but few executives know how to deploy them effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/ar-BB1gJRb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T07:38:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115",
+        "domain": "forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
       "title": "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
       "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
@@ -1362,58 +1396,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-machine-learning-text-adventure-ai-dungeon-is-now-being-censored-and-users-are-furious.md",
-      "title": "Machine-learning text adventure AI Dungeon is now being censored and users are furious",
-      "excerpt": "When Nick Walton created AI Dungeon 2 two years ago, he had no idea that it would take off as it did. Within days of launching",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "originalUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-05-image-31.jpg",
-          "width": 2560,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "publishedDateTime": "2021-05-05T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

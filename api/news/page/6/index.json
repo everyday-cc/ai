@@ -2,6 +2,230 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-03-why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history.md",
+      "title": "Why AI Powered Creative Is The Most Important Change In Advertising Development History",
+      "excerpt": "AI powered creative takes the guesswork out of advertising development. Brands can test infinite combinations of advertising copy, visuals, music and calls to action at the micro-targeting level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8b4a93b665e5c4903315b%2F0x0.jpg",
+          "width": 1200,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/amp/",
+      "publishedDateTime": "2021-06-03T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-bell-transforms-customer-experiences-and-extends-5g-leadership-by-collaborating-with-aws-for-cloud-and-5g-multi-access-edge-computing.md",
+      "title": "Bell transforms customer experiences and extends 5G leadership by collaborating with AWS for cloud and 5G multi-access edge computing",
+      "excerpt": "Bell chose AWS to help modernize its applications and services and will leverage AWS capabilities like machine learning and analytics to enhance customers' digital experiences Bell and AWS will offer AWS Wavelength Zones on Bell's 5G network for fast and efficient 5G multi-access edge computing (MEC),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-bell-transforms-customer-experiences-extends-5g-leadership-collaborating-/2021/06/03/9383172.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bell-transforms-customer-experiences-extends-5g-leadership-collaborating-/2021/06/03/9383172.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
+      "title": "From low code to no code: Azure GPT-3 and Microsoft's Power Platform",
+      "excerpt": "Microsoft is turning low code into 'don't write code' by taking a description of what you want to do and writing code snippets for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
+      "originalUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/03/5d7d019c-5b4d-4245-9a63-f4cdbf62dbd9/resize/1200x/9d2746c963e4d8f0c0f1939984e26709/tr-dax-smart-narrative.jpg",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
+      "publishedDateTime": "2021-06-03T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-nit-k-to-introduce-btech-in-artificial-intelligence.md",
+      "title": "NIT-K to introduce B.Tech in Artificial Intelligence",
+      "excerpt": "The Department of Information Technology, National Institute of Technology Karnataka (NIT-K), Surathkal, has decided to start a new four-year B.Tech. course in Artificial Intelligence from the academi",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/nit-k-to-introduce-btech-in-artificial-intelligence/article34718229.ece/amp/",
+      "publishedDateTime": "2021-06-03T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals.md",
+      "title": "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals",
+      "excerpt": "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-814506,msid-83198867/developers-say-they-still-need-two-to-four-years-to-perfect-the-self-steering-technology-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
+      "publishedDateTime": "2021-06-03T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-canons-eos-r3-will-keep-fast-moving-sportscars-in-sharp-focus.md",
       "title": "Canon's EOS R3 will keep fast-moving sportscars in sharp focus",
       "excerpt": "Canon dropped a few choice details about its upcoming pro-focused mirrorless flagship, the EOS R3. Now the company's drip feed continues with some more key specs, including improved tracking autofocus and internal recording of RAW video.",
@@ -950,211 +1174,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-mlops-startup-iterativeai-nabs-20m.md",
-      "title": "MLOps startup Iterative.ai nabs $20M",
-      "excerpt": "Iterative.ai, an MLOps platform that maintains a number of open source data management projects, raised $20 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/",
-      "originalUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/amp/",
-      "publishedDateTime": "2021-06-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ibm-ai-tool-reduces-monotonous-work-tasks.md",
-      "title": "IBM AI Tool Reduces Monotonous Work Tasks",
-      "excerpt": "Watson Orchestrate is designed to drive adoption of IBM’s hybrid cloud and AI solutions. Looking back, IBM was the first vendor to roll out a commercial AI product with Watson, but since then, it’s lost that leadership position to AWS, Google, Microsoft, and almost everyone else.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nojitter.com/ai-automation/ibm-ai-tool-reduces-monotonous-work-tasks",
-      "originalUrl": "https://www.nojitter.com/ai-automation/ibm-ai-tool-reduces-monotonous-work-tasks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nojitter.com/sites/default/files/Watson_AdobeStock_307668410.jpeg",
-          "width": 774,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "No Jitter",
-        "domain": "nojitter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace.md",
-      "title": "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace",
-      "excerpt": "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21392407",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21392407",
-      "publishedDateTime": "2021-06-02T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment.md",
-      "title": "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment",
-      "excerpt": "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382468.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-futurework-podcast-a-driverless-transport-future.md",
-      "title": "FutureWork podcast: A driverless transport future?",
-      "excerpt": "said the tens of thousands of people employed in driving jobs in Scotland shouldn't worry about being replaced by robots and artificial intelligence any time soon. \"There's still some way to go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
-      "originalUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scotsman.com/webimg/b25lY21zOmEyY2ZmYzkzLWNiYjctNDBjYi1hM2Y4LWM5MjVjNTg2MTQ1ZTowN2E3OGUyOC04NjY3LTQ1MGMtOWUzOS0yMjMyNDBmNGE0OWY=.jpg?width=2048&enable=upscale",
-          "width": 2048,
-          "height": 1364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

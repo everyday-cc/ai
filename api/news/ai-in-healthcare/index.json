@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-hong-kong-team-creates-healthcare-robot-for-covid-patients.md",
+      "title": "Hong Kong Team Creates Healthcare Robot for COVID Patients",
+      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interac",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "originalUrl": "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/grace-twitter-9Jun21.jpg?itok=lPaIjxXL",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "publishedDateTime": "2021-06-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-how-artificial-intelligence-and-machine-learning-can-prevent-third-wave-of-lockdown.md",
       "title": "How artificial intelligence and machine learning can prevent third wave of lockdown",
       "excerpt": "New age technologies such as artificial intelligence and machine learning can predict and effectively prevent third wave of lockdown",
@@ -1301,49 +1345,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer.md",
-      "title": "GNS to Develop the World's First in silico Patient For Prostate Cancer",
-      "excerpt": "GNS Healthcare, an artificial intelligence company creating in silico patients that simulate drug treatment at the individual patient level, today announced plans to",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer/article_15897f49-4587-55d8-9e3d-5b54e312884f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer/article_15897f49-4587-55d8-9e3d-5b54e312884f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

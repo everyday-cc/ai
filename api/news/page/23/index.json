@@ -2,6 +2,188 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-05-21-it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry.md",
+      "title": "It takes a lot of energy for machines to learn – here's why AI is so power-hungry",
+      "excerpt": "One study has found that training BERT once has the carbon footprint of a passenger flying a round trip between New York and San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.britannica.com/story/it-takes-a-lot-of-energy-for-machines-to-learn--heres-why-ai-is-so-power-hungry",
+      "originalUrl": "https://www.britannica.com/story/it-takes-a-lot-of-energy-for-machines-to-learn--heres-why-ai-is-so-power-hungry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.britannica.com/56/222356-131-19F4FC94/geography-travel-health-medicine-science-technology.jpg",
+          "width": 900,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Britannica",
+        "domain": "britannica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-using-tensorflow-to-recognize-your-own-objects.md",
+      "title": "Using TensorFlow To Recognize Your Own Objects",
+      "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
+      "originalUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm.md",
+      "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
+      "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/",
+      "originalUrl": "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.scpr.org/i/aae9139b88dad894336a1ed40d4911f8/233444-full.jpg",
+          "width": 1024,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPCC",
+        "domain": "scpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload.md",
+      "title": "Overwatch 2: Monte Carlo Map Has A Flying, AI-Driven F1 Car For A Payload",
+      "excerpt": "Among the updates Blizzard revealed for Overwatch 2 in today’s gameplay livestream was a map that hadn’t been discussed much until now. The sequel will take players to Monte Carlo, which includes a ton of references to the famous F1 Monaco Grand Prix.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/",
+      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6cf7299bdc5004fded974%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/amp/",
+      "publishedDateTime": "2021-05-20T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization.md",
       "title": "Adapdix adds adaptive AI tool EdgeOps DataMesh for process optimization",
       "excerpt": "Adapdix’s EdgeOps DataMesh puts AI on the factory floor. Semiconductor manufactuers are both backers and customers.",
@@ -435,6 +617,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
+      "title": "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch",
+      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
+      "originalUrl": "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
       "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
       "excerpt": "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled.",
@@ -508,6 +733,48 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-disorderly-transition-to-net-zero-could-pose-risk-to-financial-system-lane-warns.md",
+      "title": "Disorderly transition to net zero could pose risk to financial system, Lane warns",
+      "excerpt": "A disorderly or incomplete transition to net zero carbon emissions poses a major risk to the global financial system ... eletricity would be two to tree times what it is now if the transition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "originalUrl": "https://www.irishtimes.com/news/environment/disorderly-transition-to-net-zero-could-pose-risk-to-financial-system-lane-warns-1.4569591",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F273bcfd2-ad78-4020-9426-e44dae599de6.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "publishedDateTime": "2021-05-20T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -878,283 +1145,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-bluewire-aims-to-stop-false-narratives-against-trucking.md",
-      "title": "Bluewire aims to stop false narratives against trucking",
-      "excerpt": "Artificial intelligence is putting the virtual pedal ... hubs in the U.S. “Operating in that environment, we can test our Waymo Driver on highly dense highways and shipping lanes, further ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/press-release/21163967/bluewire-aims-to-stop-false-narratives-against-trucking",
-      "originalUrl": "https://www.fleetowner.com/technology/press-release/21163967/bluewire-aims-to-stop-false-narratives-against-trucking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/dreamstime_xxl_40196175_judge_verdict_Andrey_Popov.609bcb5585865.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today.md",
-      "title": "Artificial Intelligence Identifies Ethan Allen Interiors And Yum China Holdings As Trending Stocks Today",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Ethan Allen Interiors and Yum China Holdings among the trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e77a29dc7b02d000666d9fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/amp/",
-      "publishedDateTime": "2021-05-20T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-vital-signs-positive-for-ai-in-european-healthcare.md",
-      "title": "Vital signs positive for AI in European healthcare",
-      "excerpt": "AI can improve care outcomes, patient experiences, and access to healthcare services while empowering healthcare systems to provide additional and better care to more people. It can also support the faster delivery of care,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "originalUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cYtXJnV58cwJqjpdHjQEbR-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "publishedDateTime": "2021-05-20T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-detection-of-covid-19-in-x-ray-images-by-classification-of-bag-of-visual-words-using-neural-networks.md",
-      "title": "Detection of COVID-19 in X-Ray Images by Classification of Bag of Visual Words Using Neural Networks.",
-      "excerpt": "Given that this novel virus most notably affects the human respiratory system, early detection may help prevent severe lung damage, save lives, and help prevent further disease spread. Given the constraints on the healthcare facilities and staff,",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34007303",
-      "originalUrl": "https://europepmc.org/article/MED/34007303",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
-      "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
-      "excerpt": "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-the-future-of-ai-4-big-things-to-watch-for-in-the-next-few-years.md",
-      "title": "The future of A.I.: 4 big things to watch for in the next few years",
-      "excerpt": "Artificial intelligence has progressed in leaps and bounds over the past decade. What's in store for the next one? Here are four things to keep an eye on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/which-ai-fields-to-watch-in-the-future/",
-      "originalUrl": "https://www.digitaltrends.com/features/which-ai-fields-to-watch-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain2_200724.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/which-ai-fields-to-watch-in-the-future/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/which-ai-fields-to-watch-in-the-future/?amp",
-      "publishedDateTime": "2021-05-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
