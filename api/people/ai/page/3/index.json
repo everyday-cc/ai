@@ -4,186 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_people/leo-breiman.md",
-      "title": "Leo Breiman",
-      "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/leo-breiman/index.json",
-      "webUrl": "https://everyday.cc/ai/people/leo-breiman/",
-      "type": "profile",
-      "name": "Leo Breiman",
-      "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
-        "citations": 179128
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "berkeley.edu",
-        "domain": "berkeley.edu"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=mXSv_1UAAAAJ&citpid=2",
-          "width": 128,
-          "height": 89,
-          "title": "Leo Breiman",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/lev-dudko.md",
-      "title": "Lev Dudko",
-      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lev-dudko/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lev-dudko/",
-      "type": "profile",
-      "name": "Lev Dudko",
-      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
-        "citations": 187614
-      },
-      "affiliation": {
-        "path": "",
-        "name": "sinp.msu.ru",
-        "domain": "sinp.msu.ru"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
-          "width": 128,
-          "height": 128,
-          "title": "Lev Dudko",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/lily-asquith.md",
-      "title": "Lily Asquith",
-      "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lily-asquith/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lily-asquith/",
-      "type": "profile",
-      "name": "Lily Asquith",
-      "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
-        "citations": 199767
-      },
-      "affiliation": {
-        "path": "",
-        "name": "University of Sussex",
-        "domain": "sussex.ac.uk"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
-          "width": 128,
-          "height": 128,
-          "title": "Lily Asquith",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/lotfi-a-zadeh.md",
-      "title": "Lotfi A. Zadeh",
-      "excerpt": "Professor Emeritus, EECS, UC Berkeley",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lotfi-a-zadeh/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lotfi-a-zadeh/",
-      "type": "profile",
-      "name": "Lotfi A. Zadeh",
-      "bio": "Professor Emeritus, EECS, UC Berkeley",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=S6H-0RAAAAAJ",
-        "citations": 274015
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Lotfi_A._Zadeh"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "berkeley.edu",
-        "domain": "berkeley.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=S6H-0RAAAAAJ&citpid=2",
-          "width": 91,
-          "height": 127,
-          "title": "Lotfi A. Zadeh",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/luc-van-gool.md",
-      "title": "Luc Van Gool",
-      "excerpt": "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/luc-van-gool/index.json",
-      "webUrl": "https://everyday.cc/ai/people/luc-van-gool/",
-      "type": "profile",
-      "name": "Luc Van Gool",
-      "bio": "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …",
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/luc-van-gool-1b4a689/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=TwMib_QAAAAJ",
-        "citations": 147240
-      },
-      "affiliation": {
-        "path": "",
-        "name": "kuleuven.be",
-        "domain": "kuleuven.be"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=TwMib_QAAAAJ&citpid=2",
-          "width": 128,
-          "height": 84,
-          "title": "Luc Van Gool",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/lydia-e-kavraki.md",
       "title": "Lydia E. Kavraki",
       "excerpt": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
@@ -401,97 +221,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/noramay-cadena.md",
-      "title": "Noramay Cadena",
-      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
-      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
-      "type": "profile",
-      "name": "Noramay Cadena",
-      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "location": "Los Angeles, CA",
-      "website": "https://t.co/t9CFIWFMbw",
-      "twitter": {
-        "username": "noramayc",
-        "url": "https://twitter.com/noramayc",
-        "followers": 17463
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Noramay Cadena",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/rajat-monga.md",
-      "title": "Rajat Monga",
-      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rajat-monga/index.json",
-      "webUrl": "https://everyday.cc/ai/people/rajat-monga/",
-      "type": "profile",
-      "name": "Rajat Monga",
-      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
-      "location": "San Francisco Bay Area",
-      "website": "https://research.google/people/RajatMonga/",
-      "twitter": {
-        "username": "rajatmonga",
-        "url": "https://twitter.com/rajatmonga",
-        "followers": 14116
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rajatmonga/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 38919
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "TensorFlow"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Rajat Monga",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/ray-kurzweil.md",
       "title": "Ray Kurzweil",
       "excerpt": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
@@ -580,39 +309,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/verity-harding.md",
-      "title": "Verity Harding",
-      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
-      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
-      "type": "profile",
-      "name": "Verity Harding",
-      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "website": "https://t.co/7skid8sUXc",
-      "twitter": {
-        "username": "verityharding",
-        "url": "https://twitter.com/verityharding",
-        "followers": 2510
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1179858918132142080/UucjikYj_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Verity Harding",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/yoshua-bengio.md",
       "title": "Yoshua Bengio",
       "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
@@ -652,39 +348,113 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/francisco-matorras.md",
-      "title": "Francisco Matorras",
-      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
-      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
+      "path": "_people/daniele-bonacorsi.md",
+      "title": "Daniele Bonacorsi",
+      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
+      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
       "type": "profile",
-      "name": "Francisco Matorras",
-      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "name": "Daniele Bonacorsi",
+      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
       "twitter": {
-        "username": "fmatorras",
-        "url": "https://twitter.com/fmatorras",
-        "followers": 279
+        "username": "DBonacorsi",
+        "url": "https://twitter.com/DBonacorsi",
+        "followers": 700
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 253923
+        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
+        "citations": 153563
       },
       "affiliation": {
         "path": "",
-        "name": "unican.es",
-        "domain": "unican.es"
+        "name": "infn.it",
+        "domain": "infn.it"
       },
       "topics": [
         "AI",
         "Machine Learning"
       ],
-      "heat": 41,
+      "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Francisco Matorras",
+          "title": "Daniele Bonacorsi",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kyle-cranmer.md",
+      "title": "Kyle Cranmer",
+      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
+      "type": "profile",
+      "name": "Kyle Cranmer",
+      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "location": "New York",
+      "website": "https://t.co/OiHC3bfPoX",
+      "twitter": {
+        "username": "KyleCranmer",
+        "url": "https://twitter.com/KyleCranmer",
+        "followers": 10593
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
+        "citations": 174937
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Kyle Cranmer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/madeline-gannon.md",
+      "title": "Madeline Gannon",
+      "excerpt": "Inventing better ways to communicate with machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
+      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
+      "type": "profile",
+      "name": "Madeline Gannon",
+      "bio": "Inventing better ways to communicate with machines.",
+      "location": "Pittsburgh, PA",
+      "website": "https://t.co/It4puKUIPF",
+      "twitter": {
+        "username": "madelinegannon",
+        "url": "https://twitter.com/madelinegannon",
+        "followers": 3109
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Madeline Gannon",
           "isCached": true
         }
       ],
@@ -722,7 +492,7 @@
         "AI",
         "Natural Language Processing"
       ],
-      "heat": 41,
+      "heat": 32,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
@@ -735,163 +505,234 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/kyle-cranmer.md",
-      "title": "Kyle Cranmer",
-      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
-      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
+      "path": "_people/noramay-cadena.md",
+      "title": "Noramay Cadena",
+      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
+      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
       "type": "profile",
-      "name": "Kyle Cranmer",
-      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "location": "New York",
-      "website": "https://t.co/OiHC3bfPoX",
+      "name": "Noramay Cadena",
+      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+      "location": "Los Angeles, CA",
+      "website": "https://t.co/t9CFIWFMbw",
       "twitter": {
-        "username": "KyleCranmer",
-        "url": "https://twitter.com/KyleCranmer",
-        "followers": 10593
+        "username": "noramayc",
+        "url": "https://twitter.com/noramayc",
+        "followers": 17463
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Noramay Cadena",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/nando-de-freitas.md",
+      "title": "Nando de Freitas",
+      "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/nando-de-freitas/index.json",
+      "webUrl": "https://everyday.cc/ai/people/nando-de-freitas/",
+      "type": "profile",
+      "name": "Nando de Freitas",
+      "bio": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
+      "location": "London, England",
+      "website": "https://t.co/uy8OBWPHze",
+      "twitter": {
+        "username": "NandoDF",
+        "url": "https://twitter.com/NandoDF",
+        "followers": 84045
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 174937
+        "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
+        "citations": 43086
       },
       "affiliation": {
         "path": "",
-        "name": "nyu.edu",
-        "domain": "nyu.edu"
+        "name": "google.com - Homepage",
+        "domain": "google.com - Homepage"
       },
       "topics": [
         "AI",
-        "Math for AI",
         "Machine Learning"
       ],
-      "heat": 41,
+      "heat": 20,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kyle Cranmer",
+          "title": "Nando de Freitas",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/harry-shum.md",
-      "title": "Harry Shum",
-      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/harry-shum/index.json",
-      "webUrl": "https://everyday.cc/ai/people/harry-shum/",
+      "path": "_people/martin-ford.md",
+      "title": "Martin Ford",
+      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/martin-ford/index.json",
+      "webUrl": "https://everyday.cc/ai/people/martin-ford/",
       "type": "profile",
-      "name": "Harry Shum",
-      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "location": "Redmond, WA",
-      "website": "http://t.co/NY3kFUGs7a",
+      "name": "Martin Ford",
+      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "location": "Silicon Valley, CA",
+      "website": "https://t.co/NRuuR6oILg",
       "twitter": {
-        "username": "harryshum",
-        "url": "https://twitter.com/harryshum",
-        "followers": 17439
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 46731
+        "username": "MFordFuture",
+        "url": "https://twitter.com/MFordFuture",
+        "followers": 48015
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
+        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 6,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Martin Ford",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/ilya-sutskever.md",
+      "title": "Ilya Sutskever",
+      "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ilya-sutskever/index.json",
+      "webUrl": "https://everyday.cc/ai/people/ilya-sutskever/",
+      "type": "profile",
+      "name": "Ilya Sutskever",
+      "bio": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "twitter": {
+        "username": "ilyasut",
+        "url": "https://twitter.com/ilyasut",
+        "followers": 65410
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
+        "citations": 245019
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
       },
       "affiliation": {
         "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "openai.com",
+        "domain": "openai.com"
       },
       "topics": [
         "AI",
-        "Microsoft AI",
-        "Computer Vision"
+        "Machine Learning"
       ],
-      "heat": 31,
+      "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1374354193721491463/ehNHYiyy_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Harry Shum",
+          "title": "Ilya Sutskever",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/taryn-southern.md",
-      "title": "Taryn Southern",
-      "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/taryn-southern/index.json",
-      "webUrl": "https://everyday.cc/ai/people/taryn-southern/",
+      "path": "_people/john-krafcik.md",
+      "title": "John Krafcik",
+      "excerpt": "We're building the world's most experienced driver.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
       "type": "profile",
-      "name": "Taryn Southern",
-      "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-      "location": "Los Angeles, CA",
-      "website": "https://www.tarynsouthern.com/",
+      "name": "John Krafcik",
+      "bio": "We're building the world's most experienced driver.",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/i1uBCCpct5",
       "twitter": {
-        "username": "TarynSouthern",
-        "url": "https://twitter.com/TarynSouthern",
-        "followers": 65804
+        "username": "johnkrafcik",
+        "url": "https://twitter.com/johnkrafcik",
+        "followers": 16002
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/tarynsouthern/"
+        "url": "https://www.linkedin.com/in/johnkrafcik/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
       },
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ],
-      "heat": 31,
-      "tags": [
-        "Artist"
-      ],
+      "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Taryn Southern",
+          "title": "John Krafcik",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/jack-clark.md",
-      "title": "Jack Clark",
-      "excerpt": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jack-clark/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jack-clark/",
+      "path": "_people/kai-fu-lee.md",
+      "title": "Kai-Fu Lee",
+      "excerpt": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kai-fu-lee/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kai-fu-lee/",
       "type": "profile",
-      "name": "Jack Clark",
-      "bio": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "location": "San Francisco, CA",
-      "website": "https://jack-clark.net/",
+      "name": "Kai-Fu Lee",
+      "bio": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
+      "location": "Beijing, China",
+      "website": "https://t.co/1QmLHUi5s4",
       "twitter": {
-        "username": "jackclarksf",
-        "url": "https://twitter.com/jackclarksf",
-        "followers": 42984
+        "username": "kaifulee",
+        "url": "https://twitter.com/kaifulee",
+        "followers": 1526577
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
+        "citations": 17293
+      },
+      "weibo": {
+        "url": "https://www.weibo.com/kaifulee",
+        "followers": 51934864
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Kai-Fu_Lee"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Sinovation Ventures",
+        "domain": "sinovationventures.com"
       },
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ],
-      "heat": 18,
+      "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1016438132844032001/d6QB0d6c_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Jack Clark",
+          "title": "Kai-Fu Lee",
           "isCached": true
         }
       ],
@@ -915,13 +756,210 @@
       "topics": [
         "AI"
       ],
-      "heat": 18,
+      "heat": 0,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Mariya Yao",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rajat-monga.md",
+      "title": "Rajat Monga",
+      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rajat-monga/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rajat-monga/",
+      "type": "profile",
+      "name": "Rajat Monga",
+      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "location": "San Francisco Bay Area",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "rajatmonga",
+        "url": "https://twitter.com/rajatmonga",
+        "followers": 14116
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rajatmonga/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
+        "citations": 38919
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rajat Monga",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sebastian-thrun.md",
+      "title": "Sebastian Thrun",
+      "excerpt": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sebastian-thrun/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sebastian-thrun/",
+      "type": "profile",
+      "name": "Sebastian Thrun",
+      "bio": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/rlrjbh9s51",
+      "twitter": {
+        "username": "SebastianThrun",
+        "url": "https://twitter.com/SebastianThrun",
+        "followers": 76971
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
+        "citations": 125767
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sebastian Thrun",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/soumith-chintala.md",
+      "title": "Soumith Chintala",
+      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
+      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
+      "type": "profile",
+      "name": "Soumith Chintala",
+      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "location": "New York, NY",
+      "website": "https://soumith.ch/",
+      "twitter": {
+        "username": "soumithchintala",
+        "url": "https://twitter.com/soumithchintala",
+        "followers": 88613
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/soumith"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Facebook",
+        "domain": "facebook.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI",
+        "PyTorch"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Soumith Chintala",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/taryn-southern.md",
+      "title": "Taryn Southern",
+      "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/taryn-southern/index.json",
+      "webUrl": "https://everyday.cc/ai/people/taryn-southern/",
+      "type": "profile",
+      "name": "Taryn Southern",
+      "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
+      "location": "Los Angeles, CA",
+      "website": "https://www.tarynsouthern.com/",
+      "twitter": {
+        "username": "TarynSouthern",
+        "url": "https://twitter.com/TarynSouthern",
+        "followers": 65802
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/tarynsouthern/"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 0,
+      "tags": [
+        "Artist"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Taryn Southern",
           "isCached": true
         }
       ],
@@ -940,7 +978,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 245972
+        "followers": 245950
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
