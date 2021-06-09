@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/isro-offers-a-five-day-machine-learn
 webUrl: "https://analyticsindiamag.com/isro-offers-a-five-day-machine-learning-course-for-free/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Mandi Offers Online Course on Deep Learning for Working Professionals"
+    excerpt: "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends"
+    publishedDateTime: 2021-06-08T19:22:00Z
+    webUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/"
+    ampWebUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 58
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "ISRO Offers Free Online Course on Machine Learning that Can Be Completed in Five Days"
     excerpt: "ISRO has invited applications for a free online course called Machine Learning to Deep Learning that can be completed in five days"
     publishedDateTime: 2021-06-07T00:30:00Z
@@ -39,6 +55,15 @@ related:
         width: 712
         height: 400
         isCached: true
+  - title: "Building a foundational map of humanity using machine learning"
+    excerpt: "Geospatial data and analytics company Fraym announced a Series B financing to further scale their AI/ML software for mapping humanity"
+    publishedDateTime: 2021-06-08T10:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385582.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "55l61xqzemTFShAslC4nnhHMPal8T2U2C893I4ZN2P4fVQ8YpXpsv2PSH82zTY/aR6j8Z4XmHGRhO3/kTrFbXbdyoa98bdYaJ7sH6PlUY8rTAFWn8xVGDtiXIyndihUbsDQ07H9qfkjA7++tQqeDtiqi6C67s4cFyt+jX5FN4GTFp0SDJ1bfp9CMMkTFJeaDAKWDU3MKFKsoftJ3OlV+dvmM2rGlJHdZia5LLn2Y9rtvfi4zOwA/VgJalpLQEIQV9CRnD14C8DZEcPBYNnfxuphmkdDDCU4cU2uncp6hsnfhkPgNeTD//Y8T06yph8x75Q3uSUwbKYU90uEeL8jlFVPoy4QGawXyMuhbx/lgJaQ=;HITHIDB6tXEYECgvhPZSYQ=="
 ---

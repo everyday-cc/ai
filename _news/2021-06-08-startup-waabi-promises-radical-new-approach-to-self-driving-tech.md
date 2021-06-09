@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Raquel Urtasun starts self-driving company Waabi"
+    excerpt: "Silicon Valley startup Aurora. By then Uber's Advanced Technologies Group had settled a 2017 U.S. lawsuit in which it was accused of stealing trade secrets from Google's self-driving subsidiary Waymo."
+    publishedDateTime: 2021-06-08T20:06:00Z
+    webUrl: "https://www.toronto.com/news-story/10411284-raquel-urtasun-starts-self-driving-company-waabi/"
+    type: article
+    provider:
+      name: toronto.com
+      domain: toronto.com
+    quality: 24
+    images:
+      - url: "https://www.toronto.com/Contents/Images/Communities/Toronto_1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "khapXtwcM4qq8HvsFsh+NgAClZG30kKZhLoXdg3ysswbRbIo6AO+nB8E6Fj/xtPdhXx1sjbsjRT9hq6FC7mgCzbgIm9eeRm60HfDHno1Wm/Q/hsqHfBPBqeiXyDB1iVJTHA67iAbOqsWxt2/DTs+Y6rGrqyFQw8bN5Z7Ai2BEi28xNc7pmYEZSt/uZ9DTfIFOlHX16bwjIOw6vurTYKyPYRC3Vm92Ittn3luPUlQUPK401zo80DYLgxDJuE5uD/w4HG2tbYFFFpWW1VKiM75KJQ6brTbfYKikbJ9+KfepR/AN6qn1wGOf2gNOsd6vf7ImEF8LuYA+n4eEfnnmt0AW7DRd1vRga7pfCPE5GS4/PllyRcOM6smkqRKPxX6DwEyLcrRbB2baYubBAsib1zCL4LfstTOqEtoRW0DsOkWu7qV6NekaSsSewqEv53gKzHA2R4ZjUZduYoe5yFls3tlJXXlSLQPawqZ0yy+pQ5F33Abg3ZPXsDyHmrdM4zJw2D9vHzi3RVhBpE5WVVOaE5bXw==;3KmYX4OII1eb2rCjpSoyVw=="
 ---
 

@@ -49,19 +49,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "AI-powered transaction monitoring start-up Sentinels raises further £4.9million"
-    excerpt: "Dutch artificial intelligence company Sentinels has raised £4.9 million (€5.7 million) in a seed funding round, led by INKEF Capital, complemented by strategic angel investors and industry leaders – including several members of the early Adyen team."
-    publishedDateTime: 2021-06-04T06:42:00Z
-    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/ai-powered-transaction-monitoring-start-up-sentinels-raises-further-49million/"
+  - title: "AI transcription startup Verbit.ai becomes a unicorn with $157M funding round"
+    excerpt: "Artificial intelligence-powered transcription and captioning platform provider Verbit Software Ltd. has risen to “unicorn” status after landing a $157 million round of funding. Sapphire Ventures led the Series D round,"
+    publishedDateTime: 2021-06-08T14:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/08/draft-ai-transcription-startup-verbit-ai-becomes-unicorn-157m-funding-round/"
     type: article
     provider:
-      name: angelnews.co.uk
-      domain: angelnews.co.uk
-    quality: 33
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://www.angelnews.co.uk/an2017/images/SentinelsAl_joostA.png"
-        width: 920
-        height: 700
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Verbit-logo.png"
+        width: 1479
+        height: 863
         isCached: true
 
 secured: "j5qVDK4RT6JjmwDLKJSNs7fVvjWx+xFlMRQE+dC3JfePPX2JbwLP34/GQ/Kosqin4uEDjgBp1JWSEyBOSv3yd1N1GsMe4EPISOibLgW1/dIfAEgsd/fvj1oZPwEn02gxWPZCi2eJ0bifMiJNku5rQgDaFfYbzVgeAdMA6/SFzJqhMsf2IDFZvv+b4wh6RSfpyvUbtVc3CTstiTMIJ6Kpml1LeuhdKDnQhhMFDWlA1wTbYnntW12ShZxO3+l/Rq9Em83DD6E3TrtmqoHSQEp+NTYuiRqRmsmbZYbpswhUPtOQo385wqTC3PNCx7BZdhpKhTDUFCQB6ca1LkOfpzwfDEegcfSIUie/qEPYHtIwruM=;3MeI0MM9kX8n9H3WSmAoqQ=="

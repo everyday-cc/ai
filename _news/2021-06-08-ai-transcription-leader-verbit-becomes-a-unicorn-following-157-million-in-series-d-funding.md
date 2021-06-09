@@ -52,19 +52,19 @@ related:
         width: 1197
         height: 553
         isCached: true
-  - title: "AI-powered transaction monitoring start-up Sentinels raises further £4.9million"
-    excerpt: "Dutch artificial intelligence company Sentinels has raised £4.9 million (€5.7 million) in a seed funding round, led by INKEF Capital, complemented by strategic angel investors and industry leaders – including several members of the early Adyen team."
-    publishedDateTime: 2021-06-04T06:42:00Z
-    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/ai-powered-transaction-monitoring-start-up-sentinels-raises-further-49million/"
+  - title: "AI transcription startup Verbit.ai becomes a unicorn with $157M funding round"
+    excerpt: "Artificial intelligence-powered transcription and captioning platform provider Verbit Software Ltd. has risen to “unicorn” status after landing a $157 million round of funding. Sapphire Ventures led the Series D round,"
+    publishedDateTime: 2021-06-08T14:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/08/draft-ai-transcription-startup-verbit-ai-becomes-unicorn-157m-funding-round/"
     type: article
     provider:
-      name: angelnews.co.uk
-      domain: angelnews.co.uk
-    quality: 33
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://www.angelnews.co.uk/an2017/images/SentinelsAl_joostA.png"
-        width: 920
-        height: 700
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Verbit-logo.png"
+        width: 1479
+        height: 863
         isCached: true
 
 secured: "R1+kHpXs/Cyle5cJcOfhw1x0Tcv4w9FAovox3GSPXSV6S4+ISRRaUhNPLg1G5LE9ClssmjrlOhEGwkNCWiy5+LgdnuW4PrJbk5hSlv1RytiUdJb3Wi13fq81q/YeQv9AnRV8qGkWhMxukeE5wSxd02Bejn0tmLtLYz54srsb3eakxJwOMGF3hoDI8BXYVSFnTWIRiIHMM2q/Ggj+eluB4gj5U8XhEkp8gCnvJpO/6QBTxQNaEOJa0auQBacHLKwCfmxaqCxsQhj/34vmARyuqIBVVQaJtOYW2Mm3R4d//6V6ir/VE+aPm7o55/ssb4bR1hSPTkPtFeICaQ8lZYi5rAtcGSm2YHQJE9IJfOrt7ZLkD/Xg4UltJ66RF0iyTC94ZhwMi7wHPUOSKYj7XaHtMG3z4nAsB4sTL4WtCd1J/qxst57gFgYNTmoPHZmlSFFhoEZYuPuIXT3gNdyn+K44RvPkP3HE5f0en03aNCZKp25Dt4KqXZJOLpm0YvLN8VTnCCyz4eUg9o0hxB4LlEKSaQ==;x2wO9EdPsEcg6PvfPwe/kQ=="

@@ -71,19 +71,19 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "For FinTech – the ‘new normal’ in finance"
-    excerpt: "FinTech has risen to challenges posed by Covid-19 by delivering digital, secure, seamless user experiences. The way people manage their finances has dramatically changed with the convenience of FinTech technologies."
-    publishedDateTime: 2021-06-04T06:07:00Z
-    webUrl: "https://www.malaysiakini.com/advertorial/577567"
+  - title: "Report lays out seven technologies key to fintech development"
+    excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
+    publishedDateTime: 2021-06-07T13:20:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202106/07/WS60be1d1fa31024ad0bac4249.html"
     type: article
     provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 39
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
     images:
-      - url: "https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/06/f6f548a7b30cdbd5fec09bc0fd19dfd0.jpg"
-        width: 3120
-        height: 2080
+      - url: "http://img2.chinadaily.com.cn/images/202106/07/60be1d1fa31024adbdcc988e.jpeg"
+        width: 678
+        height: 452
         isCached: true
   - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
     excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"

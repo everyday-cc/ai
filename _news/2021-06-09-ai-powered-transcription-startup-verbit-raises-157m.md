@@ -53,21 +53,21 @@ related:
         width: 1197
         height: 553
         isCached: true
-  - title: "AI-powered transaction monitoring start-up Sentinels raises further £4.9million"
-    excerpt: "Dutch artificial intelligence company Sentinels has raised £4.9 million (€5.7 million) in a seed funding round, led by INKEF Capital, complemented by strategic angel investors and industry leaders – including several members of the early Adyen team."
-    publishedDateTime: 2021-06-04T06:42:00Z
-    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/ai-powered-transaction-monitoring-start-up-sentinels-raises-further-49million/"
+  - title: "AI transcription startup Verbit.ai becomes a unicorn with $157M funding round"
+    excerpt: "Artificial intelligence-powered transcription and captioning platform provider Verbit Software Ltd. has risen to “unicorn” status after landing a $157 million round of funding. Sapphire Ventures led the Series D round,"
+    publishedDateTime: 2021-06-08T14:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/08/draft-ai-transcription-startup-verbit-ai-becomes-unicorn-157m-funding-round/"
     type: article
     provider:
-      name: angelnews.co.uk
-      domain: angelnews.co.uk
-    quality: 33
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://www.angelnews.co.uk/an2017/images/SentinelsAl_joostA.png"
-        width: 920
-        height: 700
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Verbit-logo.png"
+        width: 1479
+        height: 863
         isCached: true
 
-secured: "YnBGXwW5tl6U6g+ZuplCcOs58UqdY7rDXbGZWD4q8/sug7mHulL9xbpNFTQWQq8zLCstesUi1WpB77Np3GhBMsg3qHS6gB9P+FEPzxdUeYsrCUmTd2xUYRDlqQR4QbwZgM505IpmN/UVQEH8IHhv1VjpUDx+IpG3W15wo5660qwQfAoAAKpSqZHEVd3LmsL7erSpTEIKudM3/8Gvde+uv720hwb92LX2wRzbWrHeSWZxJlwvSIHQ9MtDxcS3Mv/xpPeraRKifpMvAoyt9ODBndbQOvRcuoAV8UAhpT2pl3hbLl0uuHSwUpUK/n+RUOHEs2J1IWHlxHi29SOweaPCH8TkvwcxzeENW+7dEgCd3iM=;tYO9F0/EArXual89EXO/XA=="
+secured: "cezCVNCqz/nWpcg165Tj18gMieBFrPSSlBG0Lrr458CtckvYRWlPb2A3ZOJFW1WPzuWzndIGSdVEPmeM89MM76ntNoPyEquk627RFMmU9iuWNprDRoLSEb3D7VXPxxZRRt9n+zNuSe7ZUorg/rJdNKUrLB2hlGKW6GOm56523wC+7cMBtjTxa1rdVIT+wJGRH/rVQNagkz4UbKFo0R/Qc8l8It3IwwP/B37RSr9dedazdu8p8SWsooq/ebbMKl5B40szFjEYuPyVKI1d1QMIOKPvEMUBhj41LvhHkHPK+2zsZE4JPUSBOdzP7RjOy3LNsMw7FejBldfYckjxXa77X1bTidSSvhqCXtdPjd3XgLZnEWo6umzJPYY5kHcjbZyxj0fpqz6irIKGDK2jvKFP86M/rRnYJN3Nm1AiCnRuQZeoa66AolqE8Z/Pjv2MoVuL9gm37MNAggTzKFfblN38RFjS1c/ScTNhXQ8TqfS+ezFqAiVBL7dtKSYIyjZ8o6IGEykdQhIpCaObI3xPtaP6IQ==;l7bdzPCHUz1VVRfdIJUZ7A=="
 ---
 
