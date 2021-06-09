@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ActionIQinc"
   url: "https://twitter.com/ActionIQinc"
-  followers: 1153
+  followers: 1152
 
 locations:
   - Mountain View, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "ActionIQ"
 
-secured: "nA7W/X4AwPbldD3D9wsDyVRng7zQJq1e+ZGyUD72EEl0lrYq0Fld4xVnE638C2MMEU5HYGeMroqRK34T5nRwR6+QPRzyhy0tgNInO/c14vy2ZkZXOPWtL4pY0JgtN9ClqjF3Yu/HJt4tT0daCIzgCWaqUy7+iTTSz0/30Id3DGdVq8ppXvzeENPKz1UTTC6At3CDjxi2IKydwH6A4aGzl/9G7f1q8iPZA+OWvxIIJPnDpQgovyIHf0RhyTXgF2pTtgxrc/PRigFuRb7Kj/ocQ6WZizdEetG+opAzbHWSO02abBym8AJkvuy1RqGTICy7k6V9dMW7e1kADcRUYVSqifKXvyIf1CY8ls9bzCYdTkstnUQ5ywsvZF5fXhH6Hb93g5n7PyxJN7xpzhk/EhEI7G+W9uY5mJjghZ/nNicJW1Q=;vGyO/NXfOa2ZzQc7Vcig0g=="
+secured: "nEfJ2eEhrVxH+Slzw1Q3r0RuGbtpZ1EDlBCigsKnzb18Ze3oTr2P5Vr3OiYf3vSg26HhG26PljYPsEALZp6TZZxwA55PZgkltNVJJGViFsMiqafc3eei22i412y3B76EwquLNyRBkFjL6sCrbVqIJR0OUGPApwXg/GAAcM9aGluFndEIjPUvhl5htJbIJ258uMkrcJhYOA6KaXq6HQwhdaZ9nqn+UZTjpPD/FTVBLrW7mf65vTbiPvN7gCdGmlKG9xALwUxrIqVuiKhJ8gvLkPcqnJvBsUE4tCb7Re6UveOZ0hH5OqZ0Al1lmcZoOarsbmeAMHBGRgKsgbsFhoEFiFmdPMV/QU48JCTGpffFS1jmKi1JF7W0rKFJTg2ZPIXlUMnn7y27Ylo7tpy4DtjiiGUppwNI67nVIkgs3e7ZV0g=;vto5tHa5IFYR8m5aQ7yFHw=="
 ---
 

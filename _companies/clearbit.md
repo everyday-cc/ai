@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "clearbit"
   url: "https://twitter.com/clearbit"
-  followers: 4096
+  followers: 4097
 
 locations:
   - San Francisco
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Clearbit"
 
-secured: "cNVrMob6jyhPFEEAez9afSpyZ/I/ONW1Arq8FOYIaVFC+hpGP+RHvoJxch4M2Vwnfe1ikstEu6cjsGr/ShJWDVR30vQuHL5TDApagjSp74jueyxVQhzMPMDnHT3BKC0h29bLR24zPuigP9Lx+9ImDmc39UqW1PIGhSiNqMdLGa9+y53aZJqqq3LSaLQN6fdbuaesKcDZAhf401+OIHSiWgTq5pTQOTjsYuQFFgMyR0Y6JCrhj4j62NF3CpDhSgZfUILzlUUUBp3bH0XCBWCqNv0fdTTFn3PvtrU87hihRtdoc4YbdNHHBpx9Zrvqb7Zvv9aSXoiuMf0+v3bXONxD/3IxkJf1U1C04X/vYNNq3dxXYnIQmhrwqo7qdrz9J+fmiDwuTBUtvWW70NPpLjAPdegASK8pvGZ/rGfA60IkFFg=;07817Fdn0xU3aApC2BeeHQ=="
+secured: "IVt9fvXqtGkquRgLGkUdU8ks2vIj+udh20+C1KjeGT0LTAWg7cn1YQeEt1VAoYBWLUhe3EprRcYQn1YkADPVEvX/Bgs5I46+0OtcRgt6KxHPyg3K5FcUyLC+xX9+5LKOoLKA+zaYVhSJnzHXxz6aD87sQENoJpL/hBhBpFDSCiITHv/9Pb4C0eqgCsgduDmTl93Byh9JE5VqJZ8V2fTPrublnoJ2C0xVNSI/8gyfEVSWlb3kNvZgOEObZkjIeghMn5JWRf+LuyYA43LzhucBvAQG6oKoqVVjLj+EoKJlHfPi1HIS+/tpaK+9GMMMMf/2ZFeOac4EW6B6WYgknFkpy3Reuqy9L0bsj4TNuAkFhAJoIbtYJAF8KMSSeW+8Vi0Hy44+cl9kz2yo9R6AyVLmwy9C8/0dptNfvFeCy4yLW6s=;aut/zH1+nMNnJ4LsE3p0WA=="
 ---
 

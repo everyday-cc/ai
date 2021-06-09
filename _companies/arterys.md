@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 50
+heat: 64
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "brh7OGaX5kAi00kx4VV1j06ii0DukCg5k39LwonCuhSCKMOhnLrZ0qDGfFmu7d+BuCj/O5V4PkPKxxP5LW924/jiSE7gcHyQ59QCdqO5Wg9BM9bCwI/p3xkVn0tKX3OjF2Ec5tY5EwmDT7ZvkSYs0nUjWoAT3/d3ytxL9vVWyNsiBRg74tqnragtF1wB+KC58ksGLpPRoYcBcF4U4hDL24V1HOxWK3RMtSU11zZ0v2G6olKMXRf/kCa9dkx4u66coz2xTCCq+l6322YtotlkRPMlxC9XbzOY73KJ615uour0ykBGz2v2ePSebfTVXUi4LFL4zmxtA2cEw0xXmMJvln/O4kk/5ixyZ4Qy9XzIRZkzuVVIymp+CmY8mvWRpM9pLmERLCSYoh3bbnm6Mu5VxCKS0yJIzLwKND7zSCRYkeQ=;ugqPgxGQicRJH0B2Bies8Q=="
+secured: "irvh1UbYnwUznYUcFlVu1MSqeSGRJLEuFohwcx8geQ3JO5X8RvjtP2YK+PSTtS+rDdHiCM1dzpmvEvGzdbJ1WTigJye9fqGwpKErHOpl+buQcFIBObEF2eYUmDS5APrOJ2lqGx68SeFo7F6Y8M8DfWH54pRjtltbNXUpWbg7/aJGtB5kmxPOpJufS/nyxWu/UuIE3kecMiL4qzGmViDkDlHulreWcySBzW6a21HROQSfWbMxj63c60qwkjZ2if92OqdrO8wObu5y8RYkLCL1sWZdrOgUKxilOMgU1KcU3w4FEl+hCRO467hm8s1xXf4wVw70hLta588L13MIi+oyzgcfG9sNSDUmKNhqGoZ9m2hDleyEbv+fjKgHpJ/NE5nbI63l95b6b+YOc9XVTHh9aK/Kb0dpdSo4CJ9z1sAqy1g=;NBVIWhhEbyvIeOo/flymug=="
 ---
 
