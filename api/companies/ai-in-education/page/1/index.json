@@ -73,7 +73,7 @@
           "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
         }
       ],
-      "heat": 64,
+      "heat": 65,
       "tags": [
         "Speech Recognition"
       ],
@@ -189,7 +189,7 @@
         "AI",
         "AI in Education"
       ],
-      "heat": 20,
+      "heat": 0,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",
