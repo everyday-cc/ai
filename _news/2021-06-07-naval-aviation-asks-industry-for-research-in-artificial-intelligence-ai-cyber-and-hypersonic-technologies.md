@@ -41,6 +41,17 @@ related:
         width: 800
         height: 334
         isCached: true
+  - title: "C3.ai (AI) Partners Snowflake for Enterprise AI Applications"
+    excerpt: "C3.ai AI recently announced a partnership with data cloud company, Snowflake SNOW. The partnership aims to integrate the latter’s unique architecture - that enables customers to run their data platforms seamlessly across multiple clouds and regions at scale - with C3 AI’s robust enterprise AI development suite and family of industry-specific enterprise AI applications and deliver next generation Enterprise AI Applications at scale."
+    publishedDateTime: 2021-06-10T14:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10"
+    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "VrdIg+WyWpdOaNBDnxVQY5IYL2sRNnAsFb3/v8aEnxl0d6rC8ZBZHh6t17+Gw6qvgpKIlahiHYwFciTrHezQSH8DWffW/bil0zX4eu4QbkuLgRchrj+rWA0D2ZN0un9x+moY3OZSeN7a0gX9cGkRbsPqDWOzeBTDzMCNXJc3BJiF05lgD+pFgzVfL7nu8Sg8hzpizcd9wVHy2qUl5lnQ+h6J++Qeh0z8lTy2PaZZTqbj1vcU5dwxlWAK5ZcAb2WabpYMCzWB4UAuYS6W2e45K1vX8gqkS3zds1+R9+QjY+EcK6na0tIObDJ8cMcGL3WHJ1fWpVugBVNqTUwPvp1/navaFa9aWMts7zeZpInxPRgEprWnlpXR9va5KGRpXq+ZhAbFSG/Q4HwGhZ5dPdEgBX6+Naq6jbI/9lyNLcawPp8pJjt4gfOGWujYQfRby8fJyJtjOACJdGDsecCi7Gjo5VyfkzVZZW4F3CkhNkLW4WjXO26O2jBTc0G6JWoZcmPTjdsBO1V28eU8urv2FUjdpA==;O8r5KEuciZZuwXdR7xxCAA=="
 ---

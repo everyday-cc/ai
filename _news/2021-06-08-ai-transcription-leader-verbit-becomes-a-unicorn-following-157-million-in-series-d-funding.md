@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Verbit Raises $157M for its Transcription and Captioning Platform Powered by AI"
+    excerpt: "Transcription is one of the many areas where technology has impacted the future of work. First, global outsourcing sent transcription work to countries with language proficiency and low-cost wages. Now,"
+    publishedDateTime: 2021-06-10T15:27:00Z
+    webUrl: "https://www.alleywatch.com/2021/06/verbit-ai-powered-transcription-captioning-platform-tom-livne/"
+    ampWebUrl: "https://www.alleywatch.com/2021/06/verbit-ai-powered-transcription-captioning-platform-tom-livne/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/06/verbit-ai-powered-transcription-captioning-platform-tom-livne/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 55
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/06/tom-livne_verbit-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Israeli AI Transcription Startup Verbit Raises $157M At Over $1B Valuation"
     excerpt: "The funding will be used to improve and develop Verbit’s products, support R&D, and help prepare Verbit for a public offering."
     publishedDateTime: 2021-06-08T21:33:00Z

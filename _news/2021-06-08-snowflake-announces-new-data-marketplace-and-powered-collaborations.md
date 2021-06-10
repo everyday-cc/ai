@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/snowflake-announces-new-dat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: ZDNet
@@ -39,6 +39,15 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Snowflake Announces New Features to Bring Together the Worlds Data in the Data Cloud"
+    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its annual Snowflake Summit, the company announced innovations in data programmability,"
+    publishedDateTime: 2021-06-08T13:01:00Z
+    webUrl: "https://www.financialbuzz.com/snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "Yvnjyya9BMHPyv1TEBsYIgHlplrdzswRiACKF0BSp3gzf1VHbmZOxq3wu/5zjZtXnFESGFW3z22cdqsDFKBJQ41IKHxbFGYlOtkN6loppvHZmeiJdJmgbDxGJJf6H/YcqDbRnc9lSUrnAJU4jwc87FOQXHu5uYxo/PTcsagpkiSp88mAOmLhJ2woCjolo94cj6YnW1D+CTSW0R1HF3kp7gdRyMGe5YCC/gAQBa44stRNiijEZg860VcAUSMnN8Akvvd6VD5bWuOZ6+7Ao3xblevEafgIcrPXyOqB86B7JjXDhUpJN2KLDghmMtUirLO3q4dxPv8xcqWQFogi8+L+tlB3KvykWZwkUwNtdWHOKR8=;55KS753bUtxjJvV2nvuuNA=="
 ---

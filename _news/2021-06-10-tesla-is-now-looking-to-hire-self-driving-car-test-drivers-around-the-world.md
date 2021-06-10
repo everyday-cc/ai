@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60485de17a0f96e2ce4c2d96%2F0x0.jpg%3FcropX1%3D26%26cropX2%3D922%26cropY1%3D44%26cropY2%3D547"
         width: 896
         height: 503
+        isCached: true
+  - title: "Self-driving Cars Market Size to Expand Notable Returns Through 2027"
+    excerpt: "The Latest Research study about Self-driving Cars Market includes some significant activities of the current effective segment overview, for the worldwide Self-driving Cars Market. It presents a point to point analysis dependent on the exhaustive research of the market elements like market size,"
+    publishedDateTime: 2021-06-10T15:29:00Z
+    webUrl: "https://ksusentinel.com/2021/06/10/self-driving-cars-market-size-to-expand-notable-returns-through-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Self-driving-Cars.jpg"
+        width: 715
+        height: 389
         isCached: true
   - title: "Experts think arrival of real self-driving cars is likely decades away — if ever"
     excerpt: "Elon Musk keeps predicting the imminent arrival of \"full self-driving\" Teslas, but experts aren't sure if we will ever get the self-driving cars that he and others have promised."

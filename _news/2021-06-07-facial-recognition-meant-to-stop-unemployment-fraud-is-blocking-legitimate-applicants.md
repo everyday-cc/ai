@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
+    excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
+    publishedDateTime: 2021-06-10T15:13:00Z
+    webUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/"
+    ampWebUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 54
+    images:
+      - url: "https://uploads.dailydot.com/2021/06/amazon-police-facial-recognition-ban.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
     excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."
     publishedDateTime: 2021-06-09T02:53:00Z

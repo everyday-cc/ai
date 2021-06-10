@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Verbit Raises $157M for its Transcription and Captioning Platform Powered by AI"
+    excerpt: "Transcription is one of the many areas where technology has impacted the future of work. First, global outsourcing sent transcription work to countries with language proficiency and low-cost wages. Now,"
+    publishedDateTime: 2021-06-10T15:27:00Z
+    webUrl: "https://www.alleywatch.com/2021/06/verbit-ai-powered-transcription-captioning-platform-tom-livne/"
+    ampWebUrl: "https://www.alleywatch.com/2021/06/verbit-ai-powered-transcription-captioning-platform-tom-livne/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/06/verbit-ai-powered-transcription-captioning-platform-tom-livne/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 55
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/06/tom-livne_verbit-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "AI Transcription Leader Verbit Becomes a Unicorn Following $157 Million in Series D Funding"
     excerpt: "Verbit, the world's largest AI-powered transcription and captioning platform, today announced it has secured $157 million in Series D fundin"
     publishedDateTime: 2021-06-08T14:38:00Z

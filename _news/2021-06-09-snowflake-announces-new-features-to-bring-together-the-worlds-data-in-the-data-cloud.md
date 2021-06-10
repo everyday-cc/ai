@@ -36,6 +36,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Snowflake Announces New Features to Bring Together the Worlds Data in the Data Cloud"
+    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its annual Snowflake Summit, the company announced innovations in data programmability,"
+    publishedDateTime: 2021-06-08T13:01:00Z
+    webUrl: "https://www.financialbuzz.com/snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "baDfEVfNgrQuVE4bTcRMeJdF4wIAVIgMgkQ6P21oALdnJmMfCcI06LbZ6/BYSHa2KTQ4yBNJWPxzvhrnoyrEy9dgCkkHFe4FV101jGZMaUgHWtg39txAq6HMvfd+9qZAoS2Sh0+Mtzx744ZD1T/u0WSIGWX1A6Zd8c5oQxVqkIGsGKIPIjaG9L0prCnPJ93Fg/xgYm8QyujOtzBYcwj8oTh8KhcFult+wpnSRjjfHXXalH56YD4CpJVyBkMyKgjr+JxSFNurvJRMlYUDlyczuRlZB+5o/mP2/uUM+VhRjrM9MZmp3K7BeTPY5NP9616AkUo3OZV/cgDfvBcHls2rDcdA2q4akifs5Po26I7M4iI=;S2bjK9YbD5VVYn0cu7r8og=="
 ---

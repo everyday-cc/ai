@@ -35,7 +35,7 @@ related:
     provider:
       name: McKinsey & Company
       domain: mckinsey.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/forward%20thinking%20on%20artificial%20intelligence%20with%20microsoft%20cto%20kevin%20scott/mgi_ft_kevin-scott_hero_1536x1536-option1_vf.png"
         width: 1536

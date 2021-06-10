@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-10T13:01:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210610005291/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
 webUrl: "https://www.businesswire.com/news/home/20210610005291/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AI in Security
+  - AI Ethics
 
 related:
   - title: "How Companies Can Keep AI In Their Digital Transformation Plans"

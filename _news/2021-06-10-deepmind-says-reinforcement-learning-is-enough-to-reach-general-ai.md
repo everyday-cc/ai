@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
 type: article
 quality: 110
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -65,6 +65,22 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/06/04224524/04-june_football-ai.jpg?width=600"
         width: 600
         height: 400
+        isCached: true
+  - title: "Google’s DeepMind Says It Has All the Tech It Needs for General AI"
+    excerpt: "In order to develop artificial general intelligence (AGI), the sort of all-encompassing AI that we see in science fiction, we might need to merely sit back and let a simple algorithm develop on its own."
+    publishedDateTime: 2021-06-10T15:48:00Z
+    webUrl: "https://futurism.com/the-byte/google-deepmind-tech-general-ai"
+    ampWebUrl: "https://futurism.com/google-deepmind-tech-general-ai/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-tech-general-ai/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 74
+    images:
+      - url: "https://wp-assets.futurism.com/2021/06/AI-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Deep Mind Assert Reinforcement Learning Could Solve Artificial General Intelligence"
     excerpt: "Powerful reinforcement learning agents could constitute a solution to artificial general intelligence. They hypothesise that intelligence, and its associated"

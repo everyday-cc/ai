@@ -44,6 +44,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Crypto mining hackers hit Kubernetes clusters"
+    excerpt: "Security researchers have warned of hackers ' continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
+    publishedDateTime: 2021-06-10T14:32:00Z
+    webUrl: "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters"
+    ampWebUrl: "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815742/itpro/2018/01/bitcoin_mining_cryptocurrency.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Crypto-Mining Attacks Targeting Kubernetes Clusters via Kubeflow Instances"
     excerpt: "Microsoft warns of a large-scale cryptocurrency mining malware campaign that targets Kubernetes clusters through Kubeflow machine learning instances."
     publishedDateTime: 2021-06-09T10:43:00Z

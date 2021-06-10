@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028-2021-06-09"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
+        isCached: true
+  - title: "Latin America Artificial Intelligence Market 2021, Industry Trends, Market Share, Size, Growth and Opportunities 2026"
+    excerpt: "According to the latest report by IMARC Group, titled “Latin America Artificial Intelligence Market Size: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,” the latin america artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026)."
+    publishedDateTime: 2021-06-07T11:24:00Z
+    webUrl: "https://manometcurrent.com/latin-america-artificial-intelligence-market-2021-industry-trends-market-share-size-growth-and-opportunities-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 16
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Europe-Specialty-Generics-Market-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
 
 secured: "HxRLsn8U9BPw7Kax0P9BqYRbawrAHV5WWRuxLQ+et9DwZJTS3wuWGbi/NCYapvrFWILqsURDZVXyAqWOKdUQcfm5dPKOu2/oGqpBU42gb5+h3VPPuA0Yay0zScK2xNx4yhonNl5YxnBb+j/keyvu3/NYKLIMoif8cy52++ei4fP/V9OWHKjlQw4RWAjQRneIf9R9nl7JjBEJboisHAAvSW4bZa6nFaoFIskkzFyCSOvzmU1d5B0RoJGbPnXPjRmlfDZCU9iPdRFhIYYGMzU27NTix/WEZFXxvfe534eymV3qX6nurUnvA/e9klU+PG8Tyh03J8x/5dxCvD+b4KcbQ/j15x1plSYO00IxAwg02kM=;BXNHpSVflqhWoZrtgOnQ0g=="

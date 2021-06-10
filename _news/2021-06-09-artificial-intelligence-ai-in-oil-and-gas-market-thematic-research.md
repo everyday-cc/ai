@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "C3.ai (AI) Partners Snowflake for Enterprise AI Applications"
+    excerpt: "C3.ai AI recently announced a partnership with data cloud company, Snowflake SNOW. The partnership aims to integrate the latter’s unique architecture - that enables customers to run their data platforms seamlessly across multiple clouds and regions at scale - with C3 AI’s robust enterprise AI development suite and family of industry-specific enterprise AI applications and deliver next generation Enterprise AI Applications at scale."
+    publishedDateTime: 2021-06-10T14:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10"
+    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Naval aviation asks industry for research in artificial intelligence (AI), cyber, and hypersonic technologies"
     excerpt: "The project is open for one year, and involves whitepaper submissions and invitations for a select number of companies to submit formal proposals."
     publishedDateTime: 2021-06-07T09:32:00Z

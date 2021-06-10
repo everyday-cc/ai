@@ -2,20 +2,23 @@
 category: news
 title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
 excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
-publishedDateTime: 2021-06-01T07:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+publishedDateTime: 2021-06-01T07:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "nqXzEUCoc1uq4Rb/14H9mqzBXGtK8Fv1cUiopVRg79rkNFGNdXw0BaeLhV7a+9sKhLr9+LdkcIr2c1lL2k8g78r/jIUOh4yFIhZyGJhjBXXCy/bIrdRWek14x5w5H7UGK3jIam3jcEDcVPM0V76sGc2cyuXdSBi/lFRSfCRpfKW/3ZqAqLO5ZS5yYruTY4M/AWlGr0To4tBYNlAA7/u1tDkvZIG4rGsJDrKsOoJzBbRPg8jTLxGlwduxE02SF4QnQdplEb/InKj24dpm2aeqUQn1DooCcSvBI8TvFFsrbUJsbBuCtci52fsm+Dqzwk6JtWJOBfXuy/1DwMa9fQ1UQC0YWcZFEKEoQWNpwzwNoZg=;FetkrgFPDXSffnXMOE1H4A=="
+secured: "XMBpggZeB4eU0i455q2OoASjSs0wXoA1zxY8ScxeSf+aEIEA+ILj5V2qYUkvIrGWcYFk5yQTwYmHMzQnZrzau4FroRFS9/XNLh2C4XJz7GZ45CK44lUvjcRt2Eije78kByi+EdggbaXQHM86IAsQHhlwpWNqIhTktRLU4uOGKo40n3LNVw3JXI1ONT72ByQNUfppz8krx9Grbld0wRQ2r/v9KaRiMHaNywviLl7B5r/jpZWkQXyP/2zPTDzGS11SGtpp1Qgk9A6ulw8UDFyjlZKFKYgy92eIb2Zc02v3MbcwAPCNEs7ytC57e7WUFpQFb458xHtPxP+BuYbzF9CVyGE+50gx9CHwEcuisemIwBg=;w6AQ5UhwvxLI6zlyYsN+7g=="
 ---
 

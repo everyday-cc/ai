@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/waymo-jb-hunt-form-partne
 webUrl: "https://www.autonews.com/mobility-report/waymo-jb-hunt-form-partnership-centered-self-driving-big-rigs"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     height: 600
     isCached: true
 
-secured: "1F+fWcac3VjMfHHvG4eC00DyUzYbcIOJq5lIRC+aSoWtpQ+b0iVk1YkMAx+ieZpx9LdOouacE5D0GX3tiCjlx2Gesh0EEsVZx+E6mPBgslqFawl+k9hR4vFFNv2gnnfhKjeHNQFwYoT9EowmFzfI3nH43XJe9kRaFG7SX+tJ1tdtwV65JZmuCNfeezOa244ML1IXWmNplAj9uWCrs1MXYaWZQDJ1kzO77cTu5CEPCWKMYD4vtB/lNCiIr2F5D2F3Y5yLKCl3ZoHBAfybpyybwLN/HpmYsaIxCxNvHURez21zWuqqqgwz0clh1Yi95HmkdX9/jzqF9PcPEacmg9RYDyJ2QEqTFApHCNDbrsp+C4k=;hQfpKjdDiwQwha/c56s+sQ=="
+related:
+  - title: "Self-driving Waymo trucks to haul loads between Houston and Fort Worth"
+    excerpt: "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,"
+    publishedDateTime: 2021-06-10T14:16:00Z
+    webUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/06/Truck_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "J.B. Hunt, Waymo Partner to Test Self-Driving Trucks in Texas"
+    excerpt: "J.B. Hunt Transport Services has partnered with autonomous vehicle developer Waymo to move freight with self-driving trucks in Texas."
+    publishedDateTime: 2021-06-10T13:00:00Z
+    webUrl: "https://www.ttnews.com/articles/jb-hunt-waymo-partner-test-self-driving-trucks-texas"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/mashup.jpg?itok=qbvnb6Wk"
+        width: 470
+        height: 246
+        isCached: true
+
+secured: "iwdpXwWzOujCLzQEEnWIb6EitcfwKdtXu8Uk6WjILmxGqzjVYqu6WSszxH5yD1/KGYwkCyj6HOP811pwwXxo3DZl3lscLZCB87WdeXSJc784wGrKV3zUtx3x/AksOKadMDx65HR9a91Oz0KJAXRkCskb3JSGZqjlbzwC3Fo1qEOg6Cz9PnJlfs5aO80ugJ632vdPwMBPROmYUoTq3H0vE1WwiaIYaMZMeSuWSRSotVe4EAciHEiNCN/F+Ws/Z1H2x8NSEotSwO14yz7uB2HGxXhI1B7+2AYTOVF4uXhVqDNrcizYiqPDp5EuSz25RgCRsxhNFVbEMMVrSy2GtnPBaS2qs5Fd+UJor3qMY2RCMH8LQV3GjpnsyEbTIUfpqoRKI70a5UMS0up0JMdxZLiyByuWYe+4Mqhz4NYJKBJRVeyUi1/zqa9bOuzTZT98fukJtMXiFBVMClKDbsIWCG4VbnWt7ODIWOie2erzDUlG+rKP10OumBAwZPoeoDB5Vi5yC7zwd5OHFIUdiw6UD2vYRw==;aQyBZta+VcS9IDZfGpuNrg=="
 ---
 

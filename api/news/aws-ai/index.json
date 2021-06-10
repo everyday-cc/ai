@@ -160,6 +160,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-08-snowflake-announces-new-data-marketplace-and-powered-collaborations.md",
+      "title": "Snowflake announces new data marketplace and ‘powered’ collaborations",
+      "excerpt": "Data warehousing giant Snowflake announced a new marketplace on Tuesday that will offer enterprises a simplified way of accessing and sharing data. The announcement was part of a larger rollout of multiple new services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/",
+      "originalUrl": "https://www.zdnet.com/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/",
+      "publishedDateTime": "2021-06-07T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-unlock-near-3x-performance-gains-with-xgboost-and-amazon-sagemaker-neo.md",
       "title": "Unlock near 3x performance gains with XGBoost and Amazon SageMaker Neo",
       "excerpt": "When a model gets deployed to a production environment, inference speed matters. Models with fast inference speeds require less resources to run, which translates to cost savings, and applications that consume the models’ predictions benefit from the improved performance. For example, let’s say your",
@@ -1392,49 +1435,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
-      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
-      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-1030467229",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-1030467229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

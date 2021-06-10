@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
+    excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
+    publishedDateTime: 2021-06-10T15:13:00Z
+    webUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/"
+    ampWebUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 54
+    images:
+      - url: "https://uploads.dailydot.com/2021/06/amazon-police-facial-recognition-ban.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Facial recognition meant to stop unemployment fraud is blocking legitimate applicants"
     excerpt: "Florida hired ID.me — a company that uses facial recognition as a tool to verify people are who they say they are — to help with unemployment fraud. But bias within facial recognition could create new barriers to unemployment benefits."
     publishedDateTime: 2021-06-07T09:27:00Z

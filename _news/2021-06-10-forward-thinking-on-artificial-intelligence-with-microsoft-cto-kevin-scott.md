@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-10T12:00:00Z
 originalUrl: "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott"
 webUrl: "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Microsoft AI
   - Machine Learning
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/forward%20thinking%20on%20artificial%20intelligence%20with%20microsoft%20cto%20kevin%20scott/mgi_ft_kevin-scott_hero_1536x1536-option1_vf.png"
@@ -45,6 +46,6 @@ related:
         height: 270
         isCached: true
 
-secured: "pjfU5EUaCiB3jD0TSGWjEBXr7IKHJbN0v+n6V2bT7c/nd4P8RSY/9Y95wb9X2hFoIlfucMfyOgtXw+h07Xn+XDiKMeAkAblPGbIC+1IyP3aj74tXfRplGA0TWSte6fTJ4XgzZYEl1w2LWeR+kxL/4M00P9G+rl2QJ9qVCgzmuVUGFVdrce72Ts9ZiQV7fdBO62DSJcA7vo0jR0VV7u080iVrvGskY9suCbN7MOkUwo+eoBhty8Ia/VKzb80E5HcV7qaar9y/y4UkzmEIkDCUnVjKfON7uq0YwqeiIPKdABEuY8fMwJ0CwC2xGbSbAK8Tahm+FBKbUQHJRwwiRRB2Ze1aQKUALbcEh2meB588mb4=;DI25gw8OqUuMtvlEBfC9Cg=="
+secured: "UNFcBygkWpTXR5wcwXK2XZy+rcZCCTe34pGf/OEh6sMHtpYAPIZiPLRTOLQI3p4BsAbCcYCVGIMlPDmRLt2W+CAm2g2CU1Ms+fYT3bV7NSW18lG3GKCvct9xjOGr/s+0MDaca9iNEYBkKHv9OgjL+Cf4wT0GtQqsmY1hHWdPGyXOodCszy3f0J0fHHm6XEuBZIunsC8CMR5fywJ9iTFkCHh8chuAcHUx+ZmaZJ+vaiuU4V6TEWVViWS9HwGxp6kgC5FD+s5bkkkWObulD1DdjvZ4tNt8klrISfPEH6T5tUMp+4UAuQme/ktIph5W9ZQZXPQIQRDa7DWnGlUz7bZIlP/xHpKtXRVbfKv9TmEn9Fk3Ot6PyTQap09PbHcm6Hu+eGDs2Dfz8bWC/TJjGvCGZcYXGxuhIPGW3qyqKywYSQ6M/n4YDBf/VVIfyhaelrM2AI0NHUAczzzKyn0VXh3hEZVQeC/Qqi2zAG7CIh/MUD6ZHopCondMvoFvm/HyX/BJ9X9/eDhCq90lfVcKVUTJug==;wCZHmNxLLxkcs1fX+gWUJQ=="
 ---
 
