@@ -60,6 +60,17 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Indians ahead in machine learning and Math, but lack data skills: Report"
+    excerpt: "Within Asia, India is ranked 16 behind technologically advanced countries like Singapore and Japan while being ahead of other South-East Asian countries like the Philippines and Thailand. Get latest Technology online at cnbctv18."
+    publishedDateTime: 2021-06-10T10:41:00Z
+    webUrl: "https://www.cnbctv18.com/technology/indians-ahead-in-machine-learning-and-math-but-lack-data-skills-report-9609521.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/indians-ahead-in-machine-learning-and-math-but-lack-data-skills-report-9609521.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/indians-ahead-in-machine-learning-and-math-but-lack-data-skills-report-9609521.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 55
 
 secured: "Ncgl/cKSDbvbfYdkaZGP76Kz+GVPS5V9DW3F1Zt8IcvflyBED1o2EUKTaHS2zA4LQlGG3cAAXg1Y3Nqq4dt3ZPrcdZ2t87659ed+jPUrX66e1QZLtNz7FFNzaIyBMBp+Iy51WSo/7EP9UPgqLqP/vaBT76J2scxhtv/p/pMXzmOzMKikoXyDylyNzORWzKPJBONv2UqfS41AXbtsK1+k7nlG6bnQaPWvU9CVnFTZkvIXVfAftb2qsQwblh4mvozGCr2eXiiSxvhpe0XXqn9GX9nqDJM3cYN6sMxeSUUrTqvqZZAk1OEkK9yySOtz8H7aD8wbMjkIeecG8RcIw1feczUbccHYR5zkUXSj8Gnvvlg9JgaVARVpav33EEsqIsImLnSJHLAf2Ex0cPRWoCBl3y1tYU8wLcdqUVcb3yhIgn+MATeJVASe1QLCGozMwvF6dnOuoXeD/3F3mrzmak81BMHsOS6VTKhR9OcdnCqGPv0Kwn7Sw2j+ikRvBhJi5WnLZByxPLwDt5QN795YVXjjnQ==;sT3W9Q07wHtSUGIDvw/N6A=="
 ---

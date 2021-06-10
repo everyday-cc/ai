@@ -58,6 +58,34 @@ related:
         width: 1100
         height: 733
         isCached: true
+  - title: "Hanson Robotics Launches Social Robot Prototype for Health Care"
+    excerpt: "Hanson Robotics, a Hong Kong-based tech startup that shot to fame for making a social robot named Sophia, is launching a new prototype for the health care market, according to Reuters. The prototype,"
+    publishedDateTime: 2021-06-10T11:23:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-10/hanson-robotics-launches-social-robot-prototype-for-health-care-101725752.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 54
+    images:
+      - url: "https://img.caixin.com/2021-06-10/1623324086251991_560_373.jpg"
+        width: 560
+        height: 315
+        isCached: true
+  - title: "Geek+ Wins Contract from Hong Kong's Circle K to Deploy Depot Robots"
+    excerpt: "Geek+, a Beijing-based startup focusing on developing robotics and artificial intelligence technologies to improve warehouse efficiency, has secured a contract to deploy its autonomous mobile robots in a distribution center operated by convenience store chain Circle K in Hong Kong,"
+    publishedDateTime: 2021-06-10T11:18:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-10/geek-wins-contract-from-hong-kongs-circle-k-to-deploy-depot-robots-101725748.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-10/1623323862131666_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Razer partners with Hong Kong startup to build self-driving ships to clean marine waste"
     excerpt: "The partnership with Clearbot includes support from Razer’s engineers and designers to build a new prototype as well as a US$50,000 grant."
     publishedDateTime: 2021-06-08T08:07:00Z

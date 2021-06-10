@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla is now looking to hire self-driving car test drivers around the world"
+    excerpt: "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world."
+    publishedDateTime: 2021-06-10T10:22:00Z
+    webUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/"
+    ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "In EV News: No Plaid+ From Tesla, Self-Driving Cars"
     excerpt: "The major difference between the Plaid and the Plaid+ was the range on a single charge. The Plaid version is expected to have a range of 390 miles, while the Plaid+ was planned to have a range of 520 miles."
     publishedDateTime: 2021-06-07T13:16:00Z
@@ -43,6 +59,47 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "The Four Biggest And Most Baffling Congressional Issues When It Comes To Regulating AI Self-Driving Cars"
+    excerpt: "A close look at four key controversial Congressional issues on regulating AI self-driving cars, and what those issues portend for our future and the driverless emergence."
+    publishedDateTime: 2021-06-09T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfc66f289142720b864b3a%2F0x0.jpg%3FcropX1%3D226%26cropX2%3D3673%26cropY1%3D301%26cropY2%3D2599"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Harrowing Tales Of Teenage Drivers In Everyday Traffic Amidst Adult Drivers And Those Emerging Self-Driving Cars"
+    excerpt: "Teenage drivers are unfortunately at high risk of getting into car crashes, and the question arises as to how teens will react when amidst self-driving cars."
+    publishedDateTime: 2021-06-07T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 53
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60485de17a0f96e2ce4c2d96%2F0x0.jpg%3FcropX1%3D26%26cropX2%3D922%26cropY1%3D44%26cropY2%3D547"
+        width: 896
+        height: 503
+        isCached: true
+  - title: "Experts think arrival of real self-driving cars is likely decades away — if ever"
+    excerpt: "Elon Musk keeps predicting the imminent arrival of \"full self-driving\" Teslas, but experts aren't sure if we will ever get the self-driving cars that he and others have promised."
+    publishedDateTime: 2021-06-07T14:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/07/experts-raise-doubts-about-self-driving-cars.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "g6G1/twX4N6D2AlPM4rTVSVdIT30gqb8pptpOcVGbPoqwbNvSTXxqiz+JUC5DPLV8wHVS/CgZ+NTp+xBeBR9AfkwUd2J7qePFaZcOXvuu6l+6MmW26fltcEaUB8QczLu8jZ56sJtiIvUbJKCR06P9hdvcFYdntcPWWL02fvY8WXWtXkVqI3HPBPhOH65U0/S7sFwqWbroiP6wsXFfHO/9gJAu8PeEUALM28s8wzrLNns5KRtVUfrhus6+X927yhOfz7ocbEGe1kRVUsgn1mqXtPI2dJ4hqN1ATZL2rh4d9zBbGJVB1ARNq94VthSomKpB0YtzeMPBbO6+xuRmy607n628Vo/XEhx5Km8vBGSxW7IQFbvaFAQP5+7GOqnX+E+bu6Ux7WBmFiaC+hlW/mxzudee8PG6R1hTAUcDV7YFlZtPLcQlH5BRbymsZ+E8HeEBNNhFt4r6gw8/3LQ5RjChKAubOqouuWrtSMZX7gBbCWW2fIPxYQh4QVRrcf0aEWBSo7blfwlErnFbzOqqa4osA==;El0Fz0r7ER62v1IU419ZWg=="
 ---

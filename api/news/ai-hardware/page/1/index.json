@@ -445,7 +445,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -485,7 +485,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

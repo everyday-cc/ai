@@ -76,6 +76,20 @@ related:
         width: 1736
         height: 889
         isCached: true
+  - title: "Trending: Generate Huge profit due to COVID-19 in Artificial Intelligence in Agriculture Market"
+    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."
+    publishedDateTime: 2021-06-10T11:42:00Z
+    webUrl: "https://manometcurrent.com/trending-generate-huge-profit-due-to-covid-19-in-artificial-intelligence-in-agriculture-market/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 27
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Research-Report-720x470.jpg"
+        width: 720
+        height: 470
+        isCached: true
 
 secured: "pPgXti/ctMAGoD6GtDQpspFsEwQzFSndNDk/222k7kG2uiPL5b3WWjEnsaFHiIA63pZpKcsLNATpcOqNo8ygWQumjzTeVxmraVC2vhlzgB1+MYVNlCZx/zZfQBcTH8tGes9rxtzRItTrzSvHTArCkZwKSXQYRPJM9FNmbwofjKWpEFMZOgwA01Fa2kGD5k8vzDbK6hnqDpG0/FgihMn6A0ugJlLMJXf2ld2FbhaEpDCr2hXe3BtNxVwAH6XRoxCeO70HUIVQGwRkWJpPIT4mMeTkEc8VAojpK6fmR/WUZAy15RGr5hgTORIFPf4zFoZh4RLft4pd/+lcaOow03TBbV7sUBnNJSBje35pqY5gUkJLJzHUBaRgpGa+2dC4Dd6o46S0cXpiGdI6D9b3HODrABzz698g7Jx6C6FlGAme9ZxMn4FBYNcRYQ2iblSo9zoH26rmEHaL6P6up6s/S0qyUFTIIKbwIpVWkxOJr7BOy8goUa36W1VOYKv9kByzx03A8RWgHgkzwIebDgFbBrAWjg==;cUmYGdesHzG0RhGVLrOMxg=="
 ---

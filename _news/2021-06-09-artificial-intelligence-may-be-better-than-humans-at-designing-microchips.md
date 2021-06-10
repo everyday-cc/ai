@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
 excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."
 publishedDateTime: 2021-06-09T15:01:00Z
-originalUrl: "https://insidescience.org/news/artificial-intelligence-may-be-better-humans-designing-microchips"
-webUrl: "https://insidescience.org/news/artificial-intelligence-may-be-better-humans-designing-microchips"
+originalUrl: "https://insidescience.org/index.php/news/artificial-intelligence-may-be-better-humans-designing-microchips"
+webUrl: "https://insidescience.org/index.php/news/artificial-intelligence-may-be-better-humans-designing-microchips"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: insidescience.org
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -87,6 +88,6 @@ related:
       domain: natureasia.com
     quality: 35
 
-secured: "VlbCc0yPoGZSTdExvySNd2AFqb3eJPVqXg9rFRJSUtpH5HbwDNCpOq5rX2WkvyQQCvlAdR8SIrk1clnuv5uOswlQqxcpodmvUiw3s0aFj2dPsrV3H697X1hXKEYaD9mk53LTr15mYn/9tolL5LLI8itqtowWyrlcFJEuPZWAvif+A2qUqJGUVFG9njimwOYcN1D9w+GfHsdR7PtGvMSyTCRrP312CdacM1Zyn0fL8XiyAvTsfLFlFA4ti42mEb73v+yOwDo/hAPamug2j3lqWQ8L5gtBcn8FEFqlzOdX556JaH5GdHA2WfIOsDWN6UXSkr69h04nkA2Spo7x7Kuyz389qMv3GAG/M0FHEkWRJKc=;K2tXoGuyHVPVywJ3sffN5Q=="
+secured: "hHzlJZwYmoUHDL0SCM1bg8kGKbJftAO2rYVuGJBQRC4xKX0rTimS/ETtxZSzZkcpy6MjYOXW6hbw0Qut9JqjvoLcMJy+eldlIBM2BEwLLGLFidTCIa4mCmeZlHeca/t5jX8pBFUSe+4QS374TJbzdQpR6NSlvHOVZiUS9ogYIE8qLIyves2ivDYa4wL0UQCRZW3f7Arg4p6UZ/7ZL/iUB5IXviVpwfkGNG2LrJEkiNIzv3vzJbbTaYeOq4krelsKDPltTcFUiIvofspxVLuYUpDoNAFxcsrspgJcfRTRBh/QcNobGHaRzl1NzdDgwhGAsHpJj5W5EQH/fVV1qxfchFlrpUZB0+XBvZ4tnDEq05Q=;YO38a3XaW+cfeEy4wbCZcA=="
 ---
 

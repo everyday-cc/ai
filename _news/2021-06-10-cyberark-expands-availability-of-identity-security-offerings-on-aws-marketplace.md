@@ -3,27 +3,21 @@ category: news
 title: "CyberArk Expands Availability of Identity Security Offerings on AWS Marketplace"
 excerpt: "CyberArk (NASDAQ: CYBR), the global leader in Identity Security, today announced the availability of CyberArk Cloud Entitlements Manager, CyberArk Endpoint Privilege Manager and CyberArk Workforce Identity on Amazon Web Services Marketplace (AWS Marketplace)."
 publishedDateTime: 2021-06-09T21:20:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/141636/cyberark-expands-availability-of-identity/"
-webUrl: "https://www.arnnet.com.au/mediareleases/141636/cyberark-expands-availability-of-identity/"
+originalUrl: "https://www.reseller.co.nz/mediareleases/141636/cyberark-expands-availability-of-identity/"
+webUrl: "https://www.reseller.co.nz/mediareleases/141636/cyberark-expands-availability-of-identity/"
 type: article
-quality: 67
-heat: 87
-published: true
+quality: 47
+heat: 47
+published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AWS AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://www.arnnet.com.au/dimg/300x300/dimg/microsoftteams-image.png"
-    width: 300
-    height: 232
-    isCached: true
 
 related:
   - title: "AWS Announces General Availability of AWS Proton"
@@ -45,6 +39,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "TFvp30bWBlO2l60wdZEcHWQDBuuGiYbIOQzSaYsMOcSdvNfhdeDEIrcNMY4Cjg2Tk4ezEhVbYWLY0Q8Li1rMcl5pMN74veEeTjxHb1XF78NBwCyfzypzNtpHalfL58qvNmfIAqd0PlcKEvom8q5D0HMuhi5HmY+kziMymPjG/Pj+PgsMk8XaA+pXA5ppvgB1E7+0YXngoLQw1IlI/2Pau+DhbwLFA7yjJACw9dGp9ARMNZoU6hAWg1yyv8b5UAjuHibllwxdwtq20SO+fx/Dn0ozPsi31WuRfj3Ufk6paluQgVDf8aN0hrJA7kxU8M2QV1twC45kRxZd6CqULWFrfg3LCf61J0ifRwLtN9IU1TY=;7lXnSAgFo2NkXx15fxAFCw=="
+secured: "DbW8bcm6d2T+qcSmWDemQAI8PGU/59h1IfkYrJUWPx7skf5k1e5oonb+Aq9YLF2AoFwF0Wwv8AAa9IWdFMsNDrM29Bn+iQua7W/2jrviWyufL8Uhv57WWTMP2Zs7JmBCAapo/KOFlykNxKSPrNXm3tCdZSDQcGn8HrkwEYpUTZTgI+b92neUWq5UgY9Pvr2KhhB7qZoinRe7vcQInUcv39KjusgZMG+bFkSSpmNccIwiAiXIgyvkiF/fXTmp//p0zxQaXui4dUHzKgPvEgowflS/EUtlfy42iND79UlktT2RPYvyEhxs4OlTlu2Og4pB6W4AhrwSLimLej9thsAG1DI/UBlTkiwUQWJpbmwdogU=;XFfVBlBbqIzzvTt2bvYr4Q=="
 ---
 

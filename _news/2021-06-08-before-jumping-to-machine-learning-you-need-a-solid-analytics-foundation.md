@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 725
         isCached: true
+  - title: "How artificial intelligence is changing the narrative in Forex and crypto trading"
+    excerpt: "You have probably already heard about Artificial Intelligence (AI) and how it is helping people across various industries in many"
+    publishedDateTime: 2021-06-10T09:45:00Z
+    webUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/"
+    ampWebUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
+    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
+    type: article
+    provider:
+      name: Nairametrics
+      domain: nairametrics.com
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/nairametrics.com/wp-content/uploads/2021/06/IMG-20210610-WA0022.jpg?fit=940%2C788&ssl=1"
+        width: 940
+        height: 788
+        isCached: true
 
 secured: "hVbMPJ2eE/E+PHlqOMr1ujfYcVwGDO8YTEVKmjBTE8YD3mOIDYM4lMT6QfF1i+uc/imvg2Sc0AMNmRUZ/yXqWHAiFNH8ZIOhN+q1qhfpeml7jCD88JeLhFSqyJjwWctLN+NtaIMjeTZO6Cous4GgRGOR6HSQqHiptGpuuV11xactmpXf4NSefwUd6MxxCJyAGWiI0SllYEnZ2rtJ9O2Fx2ft5C/2HtWO3fNY0ZWoURjhgE7CmbQ9qv5A7s5u5RK0xVdoCtXQ9r0rz+H6N+Vd6K6aMYXLqfh/kj3CyvNhjofwqg11nPRAWgpazeLvCXP3fSpzFWcgZynmVEB09jZ8lXsuuqc8T0pBih5BCIl/Mms9rz/IesIoC7rlzHV/nMjAsP4wC3eZzg6itxvJLJtIHzzGP9Yqfu/J0+xE+xtIuy4EjQsIOaJ7viRemF7pgHNHLsTMocXGyPe5gQyMA8FlS231ES2ry3syYJjIhuD+bSgvBf3I09SWDeEdXpHnptDW0At4tfQgMH9AGsbm1JaQrg==;QiijPJEVOjTyC06Sx9sZhw=="
 ---

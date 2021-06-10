@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-29-new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients.md",
+      "title": "New AI tool to help doctors assess severity of COVID in patients",
+      "excerpt": "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree",
+      "sourceUrl": null,
+      "webUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
+      "originalUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg",
+          "width": 600,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
+      "publishedDateTime": "2021-05-29T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-rebel-ai-group-raises-record-cash-after-machine-learning-schism.md",
+      "title": "Rebel AI group raises record cash after machine learning schism",
+      "excerpt": "A breakaway group of artificial intelligence researchers has raised a record first round of financing for a new start-up involved in general-purpose AI, marking the latest attempt to create an organisation to guarantee the safety of the era’s most powerful technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
+      "originalUrl": "https://www.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffedbcea4-dc08-4836-ae87-4fcf6a3cde59.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
+      "publishedDateTime": "2021-05-28T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines.md",
+      "title": "Intel’s image-enhancing AI is a step forward for photorealistic game engines",
+      "excerpt": "Intel's deep learning system turns 3D rendered graphics into photorealistic images, but it isn't ready yet to deliver real-time game engines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/",
+      "originalUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/amp/",
+      "publishedDateTime": "2021-05-28T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels.md",
       "title": "Automate weed detection in farm crops using Amazon Rekognition Custom Labels",
       "excerpt": "Amazon Rekognition Custom Labels makes automated weed detection in crops easier. Instead of manually locating weeds, you can automate the process with Amazon Rekognition Custom Labels, which allows you to build machine learning (ML) models that can be trained with only a handful of images and yet are",
@@ -1042,152 +1180,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-artificial-intelligence-can-help-doctors-manage-covid-19.md",
-      "title": "Artificial Intelligence Can Help Doctors Manage COVID-19",
-      "excerpt": "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/",
-      "originalUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/COVID-Chest-X-rays.jpg",
-          "width": 777,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/",
-      "publishedDateTime": "2021-05-27T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-this-5-billion-insurance-company-likes-to-talk-up-its-ai-now-its-in-a-mess-over-it.md",
-      "title": "This $5 billion insurance company likes to talk up its AI. Now it's in a mess over it",
-      "excerpt": "A key part of insurance company Lemonade's pitch to investors and customers is its ability to disrupt the normally staid insurance industry with artificial intelligence. It touts friendly chatbots like AI Maya and AI Jim,",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/05/27/tech/lemonade-ai-insurance/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/05/27/tech/lemonade-ai-insurance/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527152824-01-lemonade-insurance-app-ai-maya---screenshot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/tech/lemonade-ai-insurance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/tech/lemonade-ai-insurance/index.html",
-      "publishedDateTime": "2021-05-27T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-the-lidar-range-wars-mine-is-longer-than-yours.md",
-      "title": "The LiDAR Range Wars - Mine Is Longer Than Yours",
-      "excerpt": "Its not a surprise given that 6 companies have gone public in the past 6 months and become LUnicorns via SPAC (Special Purpose Acquisition Companies) mergers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/",
-      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a04a594bb95cfc37bee15e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/amp/",
-      "publishedDateTime": "2021-05-27T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

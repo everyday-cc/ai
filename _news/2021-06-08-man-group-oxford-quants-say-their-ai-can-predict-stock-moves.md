@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-08T09:24:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves"
 webUrl: "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves"
 type: article
-quality: 69
-heat: 89
+quality: 71
+heat: 91
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg"
@@ -58,6 +59,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ClA/Ks/F2QyodXJ2veEG20egfzP4NK4DL0ptHYVPN+r3YFxh/0LWHD2Xl7JdImiSbbvA0C7qxzvLgVOMYkXXhKL0BJJv9WSeTdDQYJ7i7QUYhhAq1x7FJePU8z7XlC7h/7XkQ6EH/e2mNjS5wfBCNsIGEs6Kn3oYXwKB7oY1Qk/INa5OuMLefgoTf5f4gfEaWkGYVgJopU2QA46tYzYt1BM8xzrj4D4v7bmOv8U8AhmWQT6Xqykgbmae21XFkNEZm68CiIqoANpAfcLXQ5IZlLAZiUgHbjCho3jw8pVsYlflSOh2sxfP4x434EKsCyNDCtBsFSAXL1vngYSYqeF+q7oMIGuOrmr/0B39mKLYOww=;gWNZeDCojSq6rg2QTXWN8Q=="
+secured: "Va9f7mx7JdcEDYmDNykCYV0/5w/rzJH3uIpaaU9kuthA/l5fcj6y6+8d2NkdRLObA7gcVu9SF/SuLzgWZ47jhStTI+WP2X/OBPNbwat4Z8gK4TYCFSWqIJs3ZQA8Nhk1JHce9wNsQJJdNl61KAOa5SUOJlT6XlAnr0e17RymHxG5GzbCr1dpybCjlbBUy8rcYaYcBJs1vQgRSBiKTH/Iz2Ekz4ZYkkR88gawD8EvR9Sg1t9L7NdqI3xWtqgWZHH6+/wiV73j9K07nAZjFR5aGzqYj2gXexFDdwFb0+KOKnRTVRKKpgucX6H0vaBQGQzkOOztjkNEiT3tncO32IEiUejU47x/W5aklLrf7wLAebPm3E4NwINXl3IdTsMZCL26m8MIhkLpzGOc3sL2Rlf5HwwjpjHLBlvhUPKj/eAXudKgZcguY8OnR7NFbRShee7XlfjON+EyP3dNOthanYcOM1Elw0VQMOEmXpofgLu6JPCXLR4r+X9VwAjMtB9MCaoipAA1QZYK2LFLEU0tVReRXw==;Nx/8+tuoUfGRYGOEksDvsw=="
 ---
 

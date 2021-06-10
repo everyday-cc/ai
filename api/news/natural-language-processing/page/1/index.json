@@ -266,6 +266,59 @@
       ]
     },
     {
+      "path": "_news/2021-06-08-man-group-oxford-quants-say-their-ai-can-predict-stock-moves.md",
+      "title": "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves",
+      "excerpt": "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-apple-moves-siris-speech-recognition-offline-with-new-privacy-updates.md",
       "title": "Apple moves Siri's speech recognition offline with new privacy updates",
       "excerpt": "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. For Siri, processing audio locally will alleviate some of the privacy concerns associated with audio recordings.",
@@ -326,7 +379,7 @@
       "originalUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -698,6 +751,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone.md",
+      "title": "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne",
+      "excerpt": "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor management technology by WinTech, LLC, has expanded their relationship to enable an instant offering in multiple languages,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/",
+      "originalUrl": "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1236,19 +1323,19 @@
     {
       "path": "_news/2021-05-27-librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision.md",
       "title": "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision",
-      "excerpt": "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert vision giving industrial workers immediate access to the content,",
+      "excerpt": "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision/article_6356fe04-d8c5-52ef-981c-c9b48d85c409.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision/article_6356fe04-d8c5-52ef-981c-c9b48d85c409.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1519650/AI_Connected_Expert_PR_Image_Web.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/24/d245cb70-6d09-570b-9721-9dcc8e789f83/60af94f244881.image.jpg?resize=1000%2C563",
+          "width": 1000,
+          "height": 563,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1258,21 +1345,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T07:45:00-07:00",
+      "publishedDateTime": "2021-05-27T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1349,102 +1427,6 @@
       "provider": {
         "name": "Mashable",
         "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lemonade-jk-jk-we-dont-use-facial-recognition-to-reject-your-insurance-claims.md",
-      "title": "Lemonade: JK, JK, We Don't Use Facial Recognition to Reject Your Insurance Claims",
-      "excerpt": "The insurance startup is walking back tweets saying its AI-trained facial recognition could detect fraudulent claims.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
-      "originalUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5fec531d86029d32932e6fe7e266d001.png",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
-      "publishedDateTime": "2021-05-26T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026.md",
-      "title": "Covid-19 Impact on Voice Recognition Market to Witness Expansion During 2020-2026",
-      "excerpt": "Voice Recognition Market is likely to witness an impressive CAGR of 17.5% during the forecast period.The growth of the market is influenced by a number of factors that have a direct or indirect effect on demand.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/26/covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/05/26/covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/1617605253587-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

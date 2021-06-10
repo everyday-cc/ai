@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/08/meet-civothe-cloud-native-infrastructure-services-startup-offering-kubernetes-as-a-service/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 1000
     height: 666
     isCached: true
-
-related:
-  - title: "Crypto-Mining Attacks Targeting Kubernetes Clusters via Kubeflow Instances"
-    excerpt: "Microsoft warns of a large-scale cryptocurrency mining malware campaign that targets Kubernetes clusters through Kubeflow machine learning instances."
-    publishedDateTime: 2021-06-09T10:43:00Z
-    webUrl: "https://thehackernews.com/2021/06/crypto-mining-attacks-targeting.html"
-    ampWebUrl: "https://thehackernews.com/2021/06/crypto-mining-attacks-targeting.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/06/crypto-mining-attacks-targeting.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 42
-    images:
-      - url: "https://thehackernews.com/images/-zOlEApVOiSg/YMCbAoxckBI/AAAAAAAACzY/BDUdtmDiujsWEVKdp_qfBuwh9ihFnvWkgCLcBGAsYHQ/s0/kubeflow-malware.jpg"
-        width: 728
-        height: 380
-        isCached: true
 
 secured: "lU5q1vX3r8qihQ3wesqtLLwXujdf5XcVS+HFKA9sC2LsZIeuuTNVTwKEUfIYKBO9j+J+PHh10wyNFU4kAtj+c1XqBjArvzuBNe0oQiKTO/choEtNa2iFxmV902WF+SL7qR6Aok/PLzrTV6FLcnz0syja3AlWFCVE9wCLnWvkwRXymmYIrrCNRF95A/0NJRavAhHX/Ik3AfLPp83kWQj7j5iLHMvAm1BQooBa8gLHZRbaLXL8RRW0cF8PTundl8EqD3qivGh3T3ToN4bCFPbXL4UpYz8ATEhItAIarigISpTwzKpMaj5tlFEqQuClNiyg0wJQbXT9+Pqq+kRuRjT3auog3ybpyfACl6LSaDoEqWA=;UgKeBuzS5TSpmRls8s7APA=="
 ---

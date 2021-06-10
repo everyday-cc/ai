@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-09-june-2021-report-on-global-edge-artificial-intelligence-ai-chip-market-size-share-value-and-competitive-landscape-2021-2026.md",
+      "title": "June 2021 Report On Global Edge Artificial Intelligence (AI) Chip Market Size, Share, Value, And Competitive Landscape 2021-2026",
+      "excerpt": "The research report includes specific segments by region (country), by manufacturers, by Type and by Application. Each",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-edge-artificial-intelligence-ai-chip-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-edge-artificial-intelligence-ai-chip-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027.md",
+      "title": "Artificial Intelligence (AI) Accelerator Market [ PDF ] To Witness Significant Growth By 2021-2027",
+      "excerpt": "New Analysis Of Artificial Intelligence (AI) Accelerator Market overview, spend analysis, imports, segmentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-how-artificial-intelligence-and-machine-learning-can-prevent-third-wave-of-lockdown.md",
+      "title": "How artificial intelligence and machine learning can prevent third wave of lockdown",
+      "excerpt": "New age technologies such as artificial intelligence and machine learning can predict and effectively prevent third wave of lockdown",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
+      "originalUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/03/coronavirus-4842056_1280-2.jpg",
+          "width": 716,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
+      "publishedDateTime": "2021-06-09T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-despite-proficiency-in-machine-learning-and-math-india-trails-in-data-skills-report.md",
       "title": "Despite proficiency in machine learning and math, India trails in data skills: Report",
       "excerpt": "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally.",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1075,154 +1222,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds.md",
-      "title": "Government and business can develop an ethical AI future together, KPMG study finds",
-      "excerpt": "Industry leaders believe the Biden administration will help advance AI adoption, and also believe it has an essential role in regulating AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1143065746.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/amp/",
-      "publishedDateTime": "2021-06-08T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors.md",
-      "title": "Qualcomm adds 7 new chips to power IoT installations in retail, warehouse and manufacturing sectors",
-      "excerpt": "The chips range from high-end to entry-level in cost and can support a variety of IoT use cases from AI to edge computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors/",
-      "originalUrl": "https://www.techrepublic.com/article/qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/08/f79a61fb-1ee8-4609-a271-fd10a182760d/resize/1200x/b292e8a5026322e0f034baeccf5a0522/7-new-solutions.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors/",
-      "publishedDateTime": "2021-06-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition.md",
-      "title": "Calls mount for ethical approach to facial recognition",
-      "excerpt": "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
-      "originalUrl": "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000",
-          "width": 1000,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/",
-      "publishedDateTime": "2021-06-08T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

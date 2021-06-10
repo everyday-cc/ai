@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-06-googles-ai-photo-app-uses-crowdsourcing-to-preserve-endangered-languages.md",
+      "title": "Google's AI photo app uses crowdsourcing to preserve endangered languages",
+      "excerpt": "give cultures the AI tools they need to protect the languages themselves. The company has launched Woolaroo, an open source photo translation web app (also available through Google Arts & Culture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-woolaroo-ai-app-endangered-languages-200033136.html",
+      "originalUrl": "https://www.engadget.com/google-woolaroo-ai-app-endangered-languages-200033136.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/720d13b0-ada9-11eb-bf7f-98ae4b609bbc",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-woolaroo-ai-app-endangered-languages-200033136.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-woolaroo-ai-app-endangered-languages-200033136.html",
+      "publishedDateTime": "2021-05-05T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages.md",
+      "title": "Speech recognition system trains on radio archive to learn Niger Congo languages",
+      "excerpt": "Researchers at Stanford and GNCode created a new dataset and model trained from radio archives of 'low-resource' African languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/",
+      "originalUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/amp/",
+      "publishedDateTime": "2021-05-05T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend.md",
       "title": "Segment paragraphs and detect insights with Amazon Textract and Amazon Comprehend",
       "excerpt": "Many companies extract data from scanned documents containing tables and forms, such as PDFs. Some examples are audit documents, tax documents, whitepapers, or customer review documents. For customer reviews, you might be extracting text such as product reviews, movie reviews, or feedback. Further understanding",

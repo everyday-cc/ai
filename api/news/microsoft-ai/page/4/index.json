@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-12-prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer.md",
+      "title": "Prescryptive Health Welcomes Dr. Luyuan Fang as Chief AI and Data Officer",
+      "excerpt": "Prescryptive Health, a healthcare technology company focused on empowering consumers by improving the way healthcare is delivered, announced today that Dr. Luyuan Fang",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer/article_790d98b9-9402-549b-b3bc-a47db8fea650.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer/article_790d98b9-9402-549b-b3bc-a47db8fea650.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/89/d892fd77-7368-562a-be8d-1881c85f422d/609bfbc1d2689.image.jpg?resize=630%2C630",
+          "width": 630,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-sparkcognition-government-systems-and-intrinsic-awarded-united-states-air-force-contract-to-improve-training-program-using-ai.md",
       "title": "SparkCognition Government Systems and Intrinsic Awarded United States Air Force Contract to Improve Training Program Using AI",
       "excerpt": "SparkCognition Government Systems (SGS), the first full-spectrum artificial intelligence (AI) company devoted entirely to government and national defense, is pleased to announce that along with Intrinsic Enterprises Inc,",
@@ -1311,40 +1354,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-top-tech-stocks-to-watch-right-now.md",
-      "title": "Top Tech Stocks To Watch Right Now",
-      "excerpt": "The company has five segments in the tech industry. It includes cloud and cognitive software and also global technology services. IBM stock currently trades at $141.25 as of 10:30 a.m. ET.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/top-stocks-to-watch-today-4-tech-stocks-to-consider-2021-05-03",
-      "originalUrl": "https://www.nasdaq.com/articles/top-stocks-to-watch-today-4-tech-stocks-to-consider-2021-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

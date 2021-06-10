@@ -9,8 +9,8 @@ ampWebUrl: "https://fossbytes.com/how-ai-perform-crypto-analytics/amp/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-ai-perform-crypto-analytics/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Foss Bytes
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is changing the narrative in Forex and crypto trading"
+    excerpt: "You have probably already heard about Artificial Intelligence (AI) and how it is helping people across various industries in many"
+    publishedDateTime: 2021-06-10T09:45:00Z
+    webUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/"
+    ampWebUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
+    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
+    type: article
+    provider:
+      name: Nairametrics
+      domain: nairametrics.com
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/nairametrics.com/wp-content/uploads/2021/06/IMG-20210610-WA0022.jpg?fit=940%2C788&ssl=1"
+        width: 940
+        height: 788
+        isCached: true
   - title: "Before Jumping to Machine Learning, You Need a Solid Analytics Foundation"
     excerpt: "In this special guest feature, Michael Simms, Practice Director for Data & Analytics at Columbus Global Services, discusses four important elements of an effective data journey. Mapping a data journey provides awareness and understanding of where your organization is to ultimately get where you want to go,"
     publishedDateTime: 2021-06-08T13:00:00Z

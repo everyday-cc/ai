@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-in
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Indians ahead in machine learning and Math, but lack data skills: Report"
+    excerpt: "Within Asia, India is ranked 16 behind technologically advanced countries like Singapore and Japan while being ahead of other South-East Asian countries like the Philippines and Thailand. Get latest Technology online at cnbctv18."
+    publishedDateTime: 2021-06-10T10:41:00Z
+    webUrl: "https://www.cnbctv18.com/technology/indians-ahead-in-machine-learning-and-math-but-lack-data-skills-report-9609521.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/indians-ahead-in-machine-learning-and-math-but-lack-data-skills-report-9609521.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/indians-ahead-in-machine-learning-and-math-but-lack-data-skills-report-9609521.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 55
 
 secured: "0M8J67jFElCZZgyu6HYkVS7Cf9ldU6nG8OCg98Ab/sqp0azBIRwXBhTe3hqK2d37weoid3sGAKadTNrQDO0nrkLe6pB9Tx5MpGEDypwC/BXVpQaJLzookx+XFlUjOFaD7tKG73r8eSzq6b9ZvKPkNJkf8qcJMmbNlLxy12JCExZ0r+CONNej7V6rydWwW4PO/atQAGi3nZZT4RiNOdMvxwU/kFuzF3Vnp/Q+XDypEPbekixNUpQvFYOE0xlDxmtQacTRsR2jy7eHCjZUqoUxrn3Gs6/ZN/FeKIJPVlD8wGy4MjWUTo/VktrQ9QQhcjotkc1Q2fOF86sj2AEvlSL6wwHjrhqTP4bTYOJUNHuSwk3zvJVrCrQo9V4rnwScXc/fnJZa5erp718MBxjvjlrq5MGwpjA0HlaoqaS06oubxyVm5EkOafMiMc6Tcp7uinnZLo9t0A7cRzteWicuMnim0WD60THBnMh6hB6DCw/QBNFMytiOyV4vq+8DqoZLWUebS84wR6HgSh/d3IfcVXgvog==;7O+c97RoaFwH0pE7UWEdnQ=="
 ---

@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "National Stock Exchange Launches Advanced Certification Program In AI"
+    excerpt: "Edtech company TalentSprint has collaborated with NSE Academy, the education arm of National Stock Exchange of India Ltd, to launch an advanced certification program in AI for financial markets. It is a 6-month course targeted mainly at professionals working in hedge funds,"
+    publishedDateTime: 2021-06-10T11:00:00Z
+    webUrl: "https://analyticsindiamag.com/national-stock-exchange-launches-advanced-certification-program-in-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/NSI.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
-secured: "9b5BFotDXxaLciZvd7/0DjlyggwTkSN7YlFYQI5hLUhBcITFtRNO5R0EamDmg6pUztSjCIJ0lVOlh+LI0OcC/Llafv85HbP5YhN82ic8kVTSDMpL3cnVubSrD/kgQ7HT4zudSbE+HecgNAPIh+fiAObiaBnho+0I52/IbxfN0NpGQGmnIaDPuqg3Y33uAFGKKn92gO7A7ry8gwoP0aDDhu5zNksQfExvL1OIpgRn1adw6pCz85AzPar8x3WNKNjz28hA91M+RKmgzGW2a8dlXMSiIDbaJcOSYUot39Av7dBE9tAiDYQ7o0OW66rUxnfuDg6TAjS3PDRZRh3yFq/yNhXwlRYmqTufU+hv7VFhEHU=;MgEzHSlPtkgyOIj0I1oRng=="
+secured: "PycKzNtuccLmf89dXbLfOi8SgaRqcgPKB5CddhgiU+VpcAVMXMGj6EdA0YsuZwED+ANvjH9Q2ehi+JqzY4MC1FU0YBWjFn5nSpBYkt8DzqiGmYFQW/PDy6vuEnVTU0nnzPxzZRVorl5QKQ0ad9V/gnKx4SJjhsWrzlH2Cz7ZxD7FxuVsbkoHgK+7kJ8hXE5PeOUuAhI3+Y4wgaMQP4TeHahOmdqYDP8e7ZSHIsNEvmVt7nZzYNctGl/KG0sdk47xaP9AhTXS4WqoM5Ob81ofVy9ZRlWKnZukn96Uufi78XlGcc39xCY7DLattZp8IWasqTExZer8+Oxth2wQIbOBu1yXiMNfF4F84USOgEaYGn3/0v5/vlRZV0nx1jEdo08rR+V5ZqWUfylUuerZNHojz03Kx9eRRSPV2c3vXRXFD+x9Uf8l/xEQAGm/Stwf4YHyvXVcNzmJ6jGSRTM54+OMsADwDPVpnAKT+ahboHh+/foPPrRMtF1fqqFweAJFtjvNFor6sYmwszdX2GMi/7yEeA==;TbdYHoUI9GLqnzDyYSIa1w=="
 ---
 

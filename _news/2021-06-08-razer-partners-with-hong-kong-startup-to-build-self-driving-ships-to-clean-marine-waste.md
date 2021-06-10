@@ -69,6 +69,34 @@ related:
         width: 1100
         height: 733
         isCached: true
+  - title: "Hanson Robotics Launches Social Robot Prototype for Health Care"
+    excerpt: "Hanson Robotics, a Hong Kong-based tech startup that shot to fame for making a social robot named Sophia, is launching a new prototype for the health care market, according to Reuters. The prototype,"
+    publishedDateTime: 2021-06-10T11:23:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-10/hanson-robotics-launches-social-robot-prototype-for-health-care-101725752.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 54
+    images:
+      - url: "https://img.caixin.com/2021-06-10/1623324086251991_560_373.jpg"
+        width: 560
+        height: 315
+        isCached: true
+  - title: "Geek+ Wins Contract from Hong Kong's Circle K to Deploy Depot Robots"
+    excerpt: "Geek+, a Beijing-based startup focusing on developing robotics and artificial intelligence technologies to improve warehouse efficiency, has secured a contract to deploy its autonomous mobile robots in a distribution center operated by convenience store chain Circle K in Hong Kong,"
+    publishedDateTime: 2021-06-10T11:18:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-10/geek-wins-contract-from-hong-kongs-circle-k-to-deploy-depot-robots-101725748.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-10/1623323862131666_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
 
 secured: "Y1KsYm9xky4I/xmGlK3IUTVEY7VOCmVS5Q3iqpC3H0TtQ8ezMipzhkbKcJt5hGM8+LEY/myUDA7Y62fDqH77a0rHN1Rxgs/yK2FEh+DWOZzTQMIHu0L+ofzJOjjYItwk1lLUu6valTH06Ux5mugHiT21Sy6xXOfugf4Ef3PtlrLFKC4oYkyi1ICFaDX0xfphkkAEX41iTnzCL7VoQuJKIMSt+NmceqAbz73skFcY+aSPt2usv4SDh7o39iKvUQ6FhyVTUm60BtwDLkbBNxH9huW6+mTh3Z3/xfNKPf5t897hMTKqJv5XJF/bFXu6kZaf7HABqdiZSszZfq0S9VDzaQZF26knI6xZPJ2QOE1rb7w=;yyKA1cJrURvqcWSFW/Uk0w=="
 ---

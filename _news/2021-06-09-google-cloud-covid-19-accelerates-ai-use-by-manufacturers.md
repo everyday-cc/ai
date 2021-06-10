@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-cloud-covid-1
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1527606/CoreTrust_Robot_2_3.jpg"
         width: 400
         height: 309
+        isCached: true
+  - title: "Trending: Generate Huge profit due to COVID-19 in Artificial Intelligence in Agriculture Market"
+    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."
+    publishedDateTime: 2021-06-10T11:42:00Z
+    webUrl: "https://manometcurrent.com/trending-generate-huge-profit-due-to-covid-19-in-artificial-intelligence-in-agriculture-market/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 27
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Research-Report-720x470.jpg"
+        width: 720
+        height: 470
         isCached: true
 
 secured: "pf2xhlYtqCEDDg0X9sxfvCLKODhkaBSWTUVmB6DcnKYYCNJmDjuRJBaIK+MaQ5GTTw3sVuF6WZB2TR0ejYRG11J7tITu6TeCFp9EQtg9cSDA0ZLLlySwI8JsJCcb0c/s2pufNVXsge+3ZqHElhwRZnBIbSSs4bRNwagsIB6uAEyJOkLZVtENKRC0L1OR3hTsiovlnZsTa9Th8O3kF47eyjG8LMMdzfZjKgeBGE/eP0puuAP5P0BbHML2twOCzoeX06Z8rIqw2i/MIk0gnHYMBIenxsk5uGtoXbeVV/UdbymaWxSj/BxjsEQL0GwsH2o1A9i6l6gLiOvLuP0zll2Za1PKXyUbdZiOr0X8QwLOtuw=;h9eJpMDkBFzDcuIWfmUtvw=="

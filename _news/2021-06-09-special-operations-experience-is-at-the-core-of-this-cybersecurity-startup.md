@@ -21,17 +21,12 @@ related:
   - title: "CyberArk Expands Availability of Identity Security Offerings on AWS Marketplace"
     excerpt: "CyberArk (NASDAQ: CYBR), the global leader in Identity Security, today announced the availability of CyberArk Cloud Entitlements Manager, CyberArk Endpoint Privilege Manager and CyberArk Workforce Identity on Amazon Web Services Marketplace (AWS Marketplace)."
     publishedDateTime: 2021-06-09T21:20:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/141636/cyberark-expands-availability-of-identity/"
+    webUrl: "https://www.reseller.co.nz/mediareleases/141636/cyberark-expands-availability-of-identity/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 67
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/microsoftteams-image.png"
-        width: 300
-        height: 232
-        isCached: true
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 47
   - title: "AWS Announces General Availability of AWS Proton"
     excerpt: "(NASDAQ: AMZN), announced the general availability of AWS Proton, an application delivery service that makes it easier for customers to provision, deploy, and monitor the microservices that form the basis of modern container and serverless applications."
     publishedDateTime: 2021-06-09T19:20:00Z

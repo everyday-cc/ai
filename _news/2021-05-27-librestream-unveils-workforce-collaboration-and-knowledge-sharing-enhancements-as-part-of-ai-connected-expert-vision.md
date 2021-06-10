@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision"
-excerpt: "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert vision giving industrial workers immediate access to the content,"
-publishedDateTime: 2021-05-27T14:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412"
-webUrl: "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412"
+excerpt: "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert"
+publishedDateTime: 2021-05-27T12:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision/article_6356fe04-d8c5-52ef-981c-c9b48d85c409.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision/article_6356fe04-d8c5-52ef-981c-c9b48d85c409.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1519650/AI_Connected_Expert_PR_Image_Web.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/24/d245cb70-6d09-570b-9721-9dcc8e789f83/60af94f244881.image.jpg?resize=1000%2C563"
+    width: 1000
+    height: 563
     isCached: true
 
-secured: "6GGRmBIHlFfwCRP3EI4oncW+MAMiuIi/tGBwVBv2BP9nhAa1KztC1Kcj1PJc3HS5w/oQMDkXVkpMu6MzQTLiaNdUAd9aUSXpvqTPXLeLGBML7jr6AaViBttSuswRyXy5fg5YYgDak5/ZJiORXkUwj5J20KS2/vn5XPKNcmYFjey5yhqhQ1W8XAacJEDJErnFG88oM2/dZWN3EV6AQpXhaXtPSqRSPDpCgym0GY5HsmevC3Boa5Xc5SYZwltrgNvffdEnFCt1M48dgZ55MrDZRDlQ20EKzkB5x1FXqhNVAfBtv3w6Wc8tNKZpMfgO1o0XHA2p6UxNmmlfgOvdJSugS5gJ9K4yVs0SNeB/FXWzra3dP+pqPq2QNSl46FcLUAeMpv5X6GMnrB+ntQYaPy1+h84CT80ob1mfLH9DsoRDC5m3BvjU54iGUcGYW2uCQpElfL+612Gry6wgTygU7Cu5eklcBYn/BG0nDQWfdtubl4lIf90X+RZQPIESy0duy+5Ek39kjwdp533HAC6lkAYQvQ==;GPVPsYDrK4U/MmVF4NlnNw=="
+secured: "6IyotbpQURDChX1fr+mQEztzpeiTWOFkev8OarbXpQDisehW1+cBGobQ1MbT5akqDL5jmZOa39roJSUGk4mhCGI2wFo1GeRaqsG/HjKVyBRuKexbz1IH8+WPjBnv0JU6/7aunV0qFF71mmfs64bzzGUxpwkvlgnmWKNXqqSHuHtonCNIqULUhaUsL8iUzHKz9uLMxMVMkcHGKdZkLa7fQdHMXaZO9usNRTY+953C7ahekMvmOXm8hGixTUTvv4Ya9DH+YN89ghkLyaaveWupFD7ZAm9Ic85QdqEp/A0Oay2h8Eop4GRv5KbNvMc5/7fs0GwByu88ljbMdDXSJw81LIfo1/BwlUhaYHUPOu0xyn8=;g/xV7Qid1ZSB01a5a628pQ=="
 ---
 

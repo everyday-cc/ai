@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-kms-lighthouse-now-available-in-microsoft-azure-marketplace.md",
+      "title": "KMS Lighthouse Now Available in Microsoft Azure Marketplace",
+      "excerpt": "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-natural-language-processing-for-healthcare-and-life-sciences-market-investment-analysis-microsoft-google-ibm.md",
       "title": "Natural Language Processing For Healthcare And Life Sciences Market Investment Analysis | Microsoft, Google, IBM",
       "excerpt": "A new business intelligence report released by JCMR with Global Natural Language Processing For Healthcare And Life Sciences Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy.",
@@ -1378,49 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-laliga-expands-partnership-with-microsoft-for-digital-transformation.md",
-      "title": "LaLiga expands partnership with Microsoft for digital transformation",
-      "excerpt": "Spanish football association LaLiga and Microsoft have expanded their partnership, with a focus on the digital transformation of the sports experience. LaLiga will use Microsoft Azure’s artificial intelligence (AI) and machine learning capabilities for its LaLigaSportsTV over-the-top (OTT) platform and Mediacoach platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/Article/laliga-expands-partnership-with-microsoft-for-digital-transformation-124049",
-      "originalUrl": "https://www.technologyrecord.com/Article/laliga-expands-partnership-with-microsoft-for-digital-transformation-124049",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10332/img-La-Liga-Microsoft-partnership_credit-Michael-Lee-Unsplash.jpg",
-          "width": 940,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

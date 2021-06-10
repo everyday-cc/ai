@@ -2,6 +2,165 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-05-19-114-milestones-in-the-history-of-artificial-intelligence-ai.md",
+      "title": "114 Milestones In The History Of Artificial Intelligence (AI)",
+      "excerpt": "The evolution of AI from theoretical concepts to machine logic to expert systems to machine learning to artificial neural networks and big data-based deep learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a46f458055cee11c70a746%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1429%26cropY1%3D174%26cropY2%3D1245",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/",
+      "publishedDateTime": "2021-05-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "IBM AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-alteryx-expands-analytics-automation-platform-with-new-ml-features.md",
+      "title": "Alteryx expands analytics automation platform with new ML features",
+      "excerpt": "Alteryx embraces open source AutoML framework to make AI more accessible to business analysts, domain experts, and data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
+      "originalUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Alteryx-Machine-Learning-Animated-Correlation.gif?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
+      "publishedDateTime": "2021-05-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-unbounce-snags-snazzyai-to-add-automated-copywriting-to-platform.md",
+      "title": "Unbounce snags Snazzy.ai to add automated copywriting to platform",
+      "excerpt": "Unbounce, a Vancouver startup best known for helping marketers create automated landing pages, added a new wrinkle this morning when it announced it has acquired Snazzy.ai, an early stage automated copywriting startup.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
+      "originalUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1032165070.jpg?w=1024",
+          "width": 1024,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
+      "publishedDateTime": "2021-05-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam.md",
       "title": "STMicroelectronics acquires Edge AI software specialist Cartesiam",
       "excerpt": "Geneva, Switzerland May 19, 2021 - STMicroelectronics (NYSE:STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today announced a transaction ...",
@@ -1015,162 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ground-processing-with-space-data-5x-faster-with-azure.md",
-      "title": "Ground processing with space data 5x faster with Azure",
-      "excerpt": "Over the past year, Microsoft has teamed with Ball Aerospace to develop the prototype for the Commercially Augmented Space Inter Networked Operations (CASINO) Program Office demonstrating agile cloud processing capabilities in support of the United States Space Force. For increasingly distributed mission",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7598202d-3b1f-408c-a320-51e1b0b7f440.png",
-          "width": 1028,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T23:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025.md",
-      "title": "Natural Language Processing Market Report Analysis, Share, Revenue, Growth Rate With Forecast Overview To 2025",
-      "excerpt": "The research report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, sales, current scenario, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025-2021-05-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025-2021-05-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-search-brings-more-ai-and-ar-power-to-your-fingertips.md",
-      "title": "Google Search brings more AI and AR power to your fingertips",
-      "excerpt": "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
-      "originalUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Anchor_Blog_hero_v32x.max-1000x1000-1.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/",
-      "publishedDateTime": "2021-05-18T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

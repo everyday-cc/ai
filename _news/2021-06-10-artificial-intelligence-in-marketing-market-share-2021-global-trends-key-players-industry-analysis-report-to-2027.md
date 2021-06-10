@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2302321/artificial-intelligence-in-marketin
 ampWebUrl: "https://www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - Facebook AI
 
 related:
   - title: "June 2021 Report On Global Edge Artificial Intelligence (AI) Chip Market Size, Share, Value, And Competitive Landscape 2021-2026"
