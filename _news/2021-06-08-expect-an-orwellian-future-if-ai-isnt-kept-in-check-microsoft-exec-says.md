@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livescience.com/amp/orwellian-artifical-intelligence-fut
 cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Live Science
@@ -25,36 +25,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI"
-    excerpt: "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI."
-    publishedDateTime: 2021-06-05T15:06:00Z
-    webUrl: "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 85
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/06/GPT-3-code-generation.gif"
-        width: 696
-        height: 375
-        isCached: true
-  - title: "Microsoft claims AI is neither artificial or intelligent"
-    excerpt: "The Vole nose Microsoft researcher Kate Crawford has told the Guardian that AI as we know it is neither artificial or intelligent. Crawford knows her brains she studies the social and political implications of artificial intelligence,"
-    publishedDateTime: 2021-06-08T10:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
-        width: 620
-        height: 467
-        isCached: true
 
 secured: "GXi8t3egTz9+7wiHah85tTDIuyYgo8/cmFYgjIfUhyikbvvuf8ZrooZ3qNbWBw9m9NBrr4cC9vKLpACH0hqErbZbHm4v8iHPPIRE+Q13nC9rwdnx+pOH0W6NhcTUYhbJALM29hO9GVHtDntycaSJKeSuWd0pl8yQQRk1zJKGOZjzIHril7AuVxmfuwBJQpsTjVkN3VGzbKxAm0VQWQIeUBm4oeLBhq4rh/UeJdP6vO5RQl+AffizP8bVNY73GN1uM9xNZQelnYipLRt2QT2vAhSebuGHzLMTjZHNXYYKeunkc7lhClyrhVuC7tm7ED3kPDzxrsGdMFckRDmbOZNdaCiPmhskWl5MOz9z0tnjPHk=;VrGLdjVZugqb6sAZdZzRfA=="
 ---

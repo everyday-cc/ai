@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Proton"
-excerpt: "AWS Proton is the first fully managed application delivery service for containers and serverless Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of AWS Proton,"
+excerpt: "(NASDAQ: AMZN), announced the general availability of AWS Proton, an application delivery service that makes it easier for customers to provision, deploy, and monitor the microservices that form the basis of modern container and serverless applications."
 publishedDateTime: 2021-06-09T19:20:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210609005868/aws-announces-general-availability-of-aws-proton"
-webUrl: "https://www.morningstar.com/news/business-wire/20210609005868/aws-announces-general-availability-of-aws-proton"
+originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-aws-proton/"
+webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-aws-proton/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
@@ -43,6 +43,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "zZp586JfGYat5WKGstYqXBNerph0dgfMSOUXVc7MOefypKt3yd8ZfIMEemoo2Xr+QhGgUoBRf4ciJGpbE9iU2wsSvxXEahYRyhEWFE3eUEuUYYQqvJQwPgo2cdbD95HB1pKtIH9UYyoHiHCPlGqCu6vu6NtxSj+KbFtJfCMAELvBmLk5Oo47KwtoyK0PDmbuhbsyOdBmvZWcxQlTrNvXwcpW3ajUXk0/4z4OELOqaXaqXjcyoaJLHIjVWyVy9vUk9dya0xNVSvRI4NaHYYzAflvXjPFZ0s1ZfJ0n04SlthDA+Sbhub3G0a/d+9pjyJ+jVy8oaA02GYpp+u4P5LfxR6bcYYuzq6DtqnZeAEeYTy8=;YSwqrbQIl2H+r9qnge6a7A=="
+secured: "va40T7VTIa8qFqV8cGMJbs5OkTpOpkKXV5TA/MMk2FXMvPq4sH7NV6kbQO3N9I0fAMKY+OIQ0/rM1KXOC915Y8hjD73QRFvXI7iJAZ25xse7MaDAeHxiv+1PyLNnmDFoxdUEPESIEM3ntzt/b70OywFMUzj4c60K2rrmBZpCnMmeLYFgkuvE8eubloao0SZngla7v4goZUAAuCmcYr9eVrWfjOPKLGBrn9onv3PaQ8nFfzXFF1syhGzcVAWf7s4I8uzXgjKQYOxXmRKWNW72HNUdeE2gFfWqKVArdXTxJsgeUHDLu6r1fwW7U23vMgMHw9gEYG8cQXTfDsvX2TkXu/r+W/ql5gQzEKBYFUQg4xw=;EIYa3m+5H1qg4K1w3e6lGg=="
 ---
 

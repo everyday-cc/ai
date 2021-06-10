@@ -42,6 +42,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Microsoft claims AI is neither artificial or intelligent"
+    excerpt: "The Vole nose Microsoft researcher Kate Crawford has told the Guardian that AI as we know it is neither artificial or intelligent. Crawford knows her brains she studies the social and political implications of artificial intelligence,"
+    publishedDateTime: 2021-06-08T10:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
+        width: 620
+        height: 467
+        isCached: true
 
 secured: "OaR4Ux411qAmYIGUR4tfZjT7pge/2qBw7esZYu8qSS75EJOa1yGUbg9bftEjrQQrizMfIYEQ75g5ifuv8GI8SZ7X//SwVahwWop2Cv/I0LGLSQtAZMxa3mGy3dE13E0npQsb34XOZ4ModjTUQ04ZN9j+Vi+fe5SwItz2xN4h46XrO0Bfkp+VuPiX38Awxs9ZIY5l+010cZVjt9m0+nFZtBGbq1AW84xc2uuP61vpEi/83jYSGCvIWdNGqxxtnD75drJBeVFDqDjJNabPeGRc7h6fvucTdt1k3tohH7JRD1ev8mTL6dlKWqSYNXQ1ROtUJ+KA4mqvkLTK6zpIIyW5X7cN+zCyb2tHQ+ocBjlnv6YBOH3l3NzBeNmIFBOThlpnYWNtxq4Atmwlo1mGGmhrbnr052DM/GXt8LEmMIvYaRIJEFoIwMX72v6n3x3sdvsIHoXDy10ZgJN7D7yJyidYhw12CaSikDlRG/zHDHfWlThUcc8StSmsFIqOvRxicNgYiX5UXS2RDevEFJQFmtN14Q==;g/5rvpTDuUM16Q0SzoCSPg=="
 ---

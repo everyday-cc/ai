@@ -33,6 +33,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "BNY Mellon partners with Saphyre to implement AI in its client onboarding process"
+    excerpt: "BNY Mellon has partnered with <a href=' target='_blank'>Saphyre to use AI technology to improve the client experience, automate and expedite client"
+    publishedDateTime: 2021-06-10T09:35:00Z
+    webUrl: "https://thepaypers.com/digital-identity-security-online-fraud/bny-mellon-partners-with-saphyre-to-implement-ai-in-its-client-onboarding-process--1249613"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 34
+    images:
+      - url: "https://thepaypers.com/images/linked-share.png"
+        width: 663
+        height: 347
+        isCached: true
 
 secured: "QKdP0c3OUui8OvSvW8ZzgCR7q9GYoWf7eeNstnhvd50m580dyp5wGihYpipVSyo7nEerCEff60U3VR0xO9ws2SYE6dqbp/52GNckEP5XjpH3RFou7cIF878WfMU8hHhMQFNIFVhX7GsHG+5RdkXcVoDjg0zjyiCVh4JpOZqRqJTTp4sl/j0IgdICdXSWPHRH/OYFLYKHZclMlfSQeCgYLV2QaYB/eeOqwVHgFyUy91VyNAExv4R/ymPjxqjrlFwcOvtDQseamPFfuplEaAxdYWUlLmNT00hIgqTEiBTtEsoFGhwyjHDI5d3NXd20rUulE1KXk+79TkSZTekMhPsK5gXEkV3k6Trsj1jjPc93GME=;U4rF9YbjalIT0p5kyFL/SA=="
 ---

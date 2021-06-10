@@ -37,20 +37,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
-    publishedDateTime: 2021-06-10T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
+  - title: "Artificial Intelligence in Marketing Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence AI in Marketing Market was valued at USD 5 billion in 2017 and is projected to reach USD 400 9 billion by 2025 at a CAGR of 29 during the forecast period Major factors propelling the growth of"
+    publishedDateTime: 2021-06-10T09:40:00Z
+    webUrl: "https://www.openpr.com/news/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Global Machine Learning Chips Market Report 2021-2027 Region, Value, Segments Wave Computing, Graphcore, Google Inc, Intel Corporation"
     excerpt: "The new study on the Global Machine Learning Chips Market 2021-2027 analyzes the crucial capabilities, key infrastructures, major organizations, evaluates measures to attain potential success in the Machine Learning Chips industry."
     publishedDateTime: 2021-06-10T02:58:00Z
@@ -64,6 +61,20 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Research-new.jpg"
         width: 700
         height: 400
+        isCached: true
+  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-10T08:46:00Z
+    webUrl: "https://menafn.com/1102241938/Voice-Recognition-Market-2021-Product-Introduction-Recent-Developments-Competitive-Landscape-and-Dynamics-by-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?717705"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "Zw8DSwkApFOr16rbwBOTSjYUM56ycFOtsaIVFFgX8Kn3GO/6A86rd01vnGJF3HyMSzDrQCsl1k2/JGur0P5WC2GVed96KX3n93pA385BOns6GqdWGd9kvR4ViTh9pf+LdUB/I98RcApIFn5r56EnswH+yeCU75FDLh4tjn7TXqM+3FeSM54J7HTDFFsXDDPsqLit8xLcohvt7Szbi0vXoKGEC5osQHG32WY2MU1PB7EjU7PrgOmQ8L7LK8tz3j1vg49Sxhstmzp34j1qyFmAmpdQKLVZtfauWKqYDzzvNTlWY32l8we2oCSmWMB1flMnO+ySUQWeNi3o83JL5J3xTGxwmGbwShLY9MfyEqBWT6s=;ALlf6QAs1S5lA17xaHmxpw=="

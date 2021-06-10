@@ -3,8 +3,8 @@ category: news
 title: "Machine learning security needs new perspectives and incentives"
 excerpt: "The DeepSloth attack technique targets adaptive deep neural networks and is optimized for fast and sensitive operations."
 publishedDateTime: 2021-06-07T04:20:00Z
-originalUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/?via=indexdotco"
-webUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/?via=indexdotco"
+originalUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/"
+webUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/"
 ampWebUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 608
     isCached: true
 
-secured: "r9xTZu/uYDppSVLhBh06BR9SB3ujiEpInEEZqYZl/OAVooqZIV0h+ZqfZ6471WTv4su8WiU+YD5uFaVwnWg93ZdfbCxtX4Rl3jNcTwHtJWh/xRZw8LRL/MEX9UNFvwFXs4h7CG3LlLrWDwz8fMv+oN0knzIWTuj8ihGVx3L52l4tszA1lHbhakFGwYn7rbFJO+gm6/1jkXCa0Pz67ICfbWgnS2TeHe/tFyyeLH+UR9SRmnc/9roGxGUXMpoFfqF4LystoBvPZ3VvPmansDqKQIfxJYYeicXVKJkCXw1lhiysY6xNkOxFKdpzcRMg9QqMHZ5LMOf2YI8mVgJUALjgwJr3RpFvqsfS/15173JsoDg=;b9HmCf6MDzpm3gMwAEa0KA=="
+secured: "C57zVkiIrPJq+AcZniZkfgNOTQnDfqnTftUlON/fsu06jpgkXepJWxCv73mVgZ5KLqdd7qFfyaWc7F49CXl80kAPokdn/1Vs2XAziuFkC7916Hvw+1zVeVj8pSlchmWNcLxrTnpyY4KqQX3JNwh5R3YT7SyJJm4pyJ/BBhLz2U2Cks8ymh7JeL6h2WUv5MEeWCjf3TT+ao8zsBXOBP1vInr1XYctEBmehnfriIYXEA1NMDbzJt6TCbr/AmUFH0N+6DqSQ/qC9r/GWzyShbGAfVKQJhnFdHnsCLp/EQOojpA/ygfYy+wjBGGbrZwRUH5rDHAeHc76NRBiW36wouwb2uTmy4BIB0hgaqBoJlSCCQ0=;1WWFexVOuOdDfExPIJqGhw=="
 ---
 
