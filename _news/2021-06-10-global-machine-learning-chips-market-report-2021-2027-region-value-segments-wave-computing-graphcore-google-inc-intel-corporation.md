@@ -49,6 +49,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
+    publishedDateTime: 2021-06-10T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "THzOPZgvPSAQxAR/887yk5s7H3qwKvtoypyBdDxdTZZCvN48QBXE3U4ct1BVEiVNb9Jk1fsL5d9cR3oq2uCj/n+vT5QO8XSGWQg6ADpCYajvDUr+YCuIn8F/vkTsL0aMYm1yGBVV5vG+TiihPxeeSJNM1ZPgHLxMr3Qzul2iYnYnFC+3FutCQT0DUGQwEKf+s+x59yzC5uuTS5+4x3BFI3TmZ8x0vJdOePNlaIgC1/MIVAEaOokstgO8jdFIwAry3skRRwb3FIkScsb1N6Njzx5nMvBuaFKOhs+6epNDYw9sxGofcH1Q6pBCyCEzLdePSgkkZB4Fzt7rWzEf+hXbzCxR3EF+T8cXzfzUFyJS4JevLxheSXrZ3EjISYPbwOF0z7Q7GEdp/jw/gL/LVdNOcFuwaXIkSCs6JDlqV5SYd5wuZGIMT8t+TBDA10P5Mv0qjlSq4FGHE4x9CUmyTWC4idnYd/FyKJV/KloQHWPh6TiWfjqgskoGlmGgK0MttABL5DmMjOLbvbYjCcbiONJfGA==;Q6waMzVq+Q5Vaoz2Jc787Q=="
 ---

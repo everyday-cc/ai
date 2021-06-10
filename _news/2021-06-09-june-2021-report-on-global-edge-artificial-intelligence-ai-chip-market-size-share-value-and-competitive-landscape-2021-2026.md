@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-glob
 webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-edge-artificial-intelligence-ai-chip-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-09"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
+    publishedDateTime: 2021-06-10T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning Chips Market Report 2021-2027 Region, Value, Segments Wave Computing, Graphcore, Google Inc, Intel Corporation"
     excerpt: "The new study on the Global Machine Learning Chips Market 2021-2027 analyzes the crucial capabilities, key infrastructures, major organizations, evaluates measures to attain potential success in the Machine Learning Chips industry."
     publishedDateTime: 2021-06-10T02:58:00Z

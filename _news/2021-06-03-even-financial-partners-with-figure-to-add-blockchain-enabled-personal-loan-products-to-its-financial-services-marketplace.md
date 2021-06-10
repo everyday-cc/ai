@@ -1,36 +1,20 @@
 ---
 category: news
 title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
-publishedDateTime: 2021-06-02T22:40:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
+excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
+publishedDateTime: 2021-06-02T21:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Healthcare Blockchain Market to Grow at 72.8% CAGR by 2026"
-    excerpt: "The latest study titled Global Healthcare Blockchain Market 2021 by Key Players Regions Type and Application Forecast to 2026 published by AllTheResearch features an analysis of the current and future scenario of the global Healthcare Blockchain market The Healthcare Blockchain"
-    publishedDateTime: 2021-06-07T04:38:00Z
-    webUrl: "https://www.openpr.com/news/2299116/healthcare-blockchain-market-to-grow-at-72-8-cagr-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2299116/healthcare-blockchain-market-to-grow-at-72-8-cagr-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2299116/healthcare-blockchain-market-to-grow-at-72-8-cagr-by-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
-
-secured: "nxs8yrwq72a8C9nhE1kvTA/duOSI0Gc/UJAnooa1w4TOo7atX31RAsdJj9iVjCbW7mUt6vRs06tsgJdCNQDfE5cyMkbG+jE58UEzMWt9XvSEHU4ksdgA8ArFXxLu3+2XEgGEqX16YfgfHeBcjgOhCxqBC6xfNPgx28nOLGJzrVSn71qCfwANn/TkQxhRAe3sCRboIVFGm+JsS4WVIvBVxPQn6rmNtTIhk2fxFFLMj8gA3HEjrodi5/LVklAkwUjAe+Ngurq+rnvY3SLcxuBOwf21oIPcaqhCqw+yhSrYlJYwsxqZ83pEyNrurLHIo/xr1e8i2q87tubokWzgZ8+v9+BcLR4LQlVU58qFmYptNWI=;MvBJ6bGEH3kXS2e8z+34Kw=="
+secured: "JZrIFs1gdCTxGLYR3uEgQzgKxtcyMqvZ1gWCP8gZtQDIeQ8DuSOJa6TD9wxtgHlo8No2XHLaP1QoYQE4uvBSiLFmDiuufP7kgagiFnzapaih0hTYddDZ56Nd1OjFZc1sT5ZPIN87TVsevh586nI5TMVPCdl7WYDwqCSDUu7z3XQR8bqVEr586rNSrPjB1P2Qg0AOKtVqMZQBBwj/0sIaBgc/OZw4TRodDx0erPaK2MEYBIFFkoas48gk8cD2g5WWJxkRkCnIL6Rhqq0IkqCEGD1PE48WKbLif/qxt8j9jHKC0oqwHDygyPy6z2gXI7BmtEPjI3i6vPOqlIwdu19d+e6gX9GoAs2eRrxeWA0ZWY0=;xOr4kMT2L4e2acZ7qOi+Ag=="
 ---
 

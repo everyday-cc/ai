@@ -7,7 +7,7 @@ originalUrl: "https://www.businesspost.ie/companies/dublin-ai-start-up-webio-rai
 webUrl: "https://www.businesspost.ie/companies/dublin-ai-start-up-webio-raises-eur15m-for-credit-collection-service-9d255f9f"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     height: 627
     isCached: true
 
-secured: "tb069OQTpFFA4djhzvZeepeTxfJqdIxqxvixryeE1OYnnrlAOvZt/ElK+0o4KqCebaPiL1GE6jTxFnsE2T9pr0CTC5ZPIPhBw+bNYMw5KWb3X/17EA6Lqd1nMPoQoy/I9lzsIy/i+t1UFKQkOMp4GP0ZpQNdkM3S/wsI2o6b0IcNEy+v4gu1XweWiJiQ5wM3dBXK7v5h6GbTYkfYin41gdIQaXQPpIIhRU9Ywt/CKhZne/JJLKoWNh5DxXE8eiv/dfIQMkCZxCId95tjrhBtlYP5jMN2WPrufCqrvI8oz4FEUxaGViDWHlgNFGwwwmpY2xK3WGzEo0BvgNx7un0hjUtFM0xjhPG/t0s2+9don+8=;CDiwr+Vt98SSGjj6EnakjA=="
+related:
+  - title: "‘Conversational AI’ start-up Webio raises €500,000"
+    excerpt: "The Dublin start-up helps companies manage and predict their customer service functions using artificial intelligence. AI start-up Webio has raised €500,000 in funding from Finch Capital to top off its investment round at €1.5m. Webio’s “pre-Series ..."
+    publishedDateTime: 2021-06-10T06:00:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/webio-ai-funding"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2018/10/7-Webio.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Active.Ai and Glia partner to enhance customer experiences through conversational AI"
+    excerpt: "Active.Ai, a leading conversational AI platform for financial services, and Glia, a leading provider of Digital Customer Service, today announced a strategic partnership; Together, the fintechs are empowering financial institutions to meet customers in the digital domain and support them through conversational AI,"
+    publishedDateTime: 2021-06-09T19:18:00Z
+    webUrl: "https://www.cuinsight.com/press-release/active-ai-and-glia-partner-to-enhance-customer-experiences-through-conversational-ai"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 30
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
+
+secured: "fQvtiovnvOvVaWMJ9dTnTZYBqJnAXksbShCrDQxVom6C4n5yZr2dLGiiK1C1XAFmwuJRvLTjL+nx304/sate1TBCIcGbS2yZ2YqeAyv0tER2UFdTuGhNax5WnNH6jfF+WlaZvDgRmYxqWHWO8gYYcxz55LZilhm9QqLBj4rIMIwFDe+Chx6wMf7suhkeV9pittpCzObI0jKo6Iq0EaVO4Cy86eVhlYq4V74CbZd8QjDhnK1xtdwA4400Hsi2vh/Ij/oyx5MAY937g9luvAk+Sn2aDXkAQDs92MXqfSN7tgtE3t6HsoaQjF8B2KmX1j8VH/2dn3MGJdwIkiJDLm5ArLfP3KmNPgF46otunDBYZ07nxkDNmrNMR8Wsvcl5isOZeCJmQBGXaaNnPLcdhDauY8D64hYNkzWSETewh61UsxlHY+JPv0Y/zsFJy9XANSClU4vWOhetpqrf7AwMOKZsLv4U0P09BBM5cyaN7PwdfQ+VnroBb/FhiLoModgVWWaBKHPuVEaI7Ia8JmrtLTfPpg==;U4ltscs+e/QGn4gFRxDP7g=="
 ---
 

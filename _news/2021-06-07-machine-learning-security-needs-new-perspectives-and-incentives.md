@@ -2,9 +2,9 @@
 category: news
 title: "Machine learning security needs new perspectives and incentives"
 excerpt: "The DeepSloth attack technique targets adaptive deep neural networks and is optimized for fast and sensitive operations."
-publishedDateTime: 2021-06-06T21:20:00Z
-originalUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/"
-webUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/"
+publishedDateTime: 2021-06-07T04:20:00Z
+originalUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/?via=indexdotco"
+webUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/?via=indexdotco"
 ampWebUrl: "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 608
     isCached: true
 
-secured: "RXpVk/Nqr5+ZCkrnMXJmMkL0pgZE7nWkrSobnvViGrFuatg8Q/iXQiMQ1GFd0lu4VV/befdJ5ymC+t/K6ISQxlGhYgJxcb2cd3SivEowq5In9CVfs+ELnyhbbmhsKIriw2WMm8RrzgF+ebbyht5bOVLZ3qtdtatiuhEf0yqEQiuSa+oIPYA/swxQQGFhkGlmTsQuA2Q6361rRuq1TuXFVm0eGkno3Ukw1GTMjFH5qWelfwwNIXc5x/FFbLjieapb0roNAOELK9OKOFSJ+/skA4TnPKy7za7AFknQ6G8NAE+e91teUuPA7ochDavCqZPoTbo2hpQk47Q7Ad/IOCzBxIAKaU6sKb1jaO2d1WyOD3iu0nFESgXtwgn24kbCIMp03CudJepaG4IgiDF0R9mV3rj0UtKhxJgFiEYHIg3wdzIp6ewxOLR1/b2U1CdgOv/zSWIPECTNYk3TqvbRLo0eXze057hEC4U94mTPdsFOo/B+jDrcweZle2d2AZlxf7mFZm+jeTijlwn6zYS3yAVMvw==;AyUfx+XQK9m6trz8QRl42w=="
+secured: "r9xTZu/uYDppSVLhBh06BR9SB3ujiEpInEEZqYZl/OAVooqZIV0h+ZqfZ6471WTv4su8WiU+YD5uFaVwnWg93ZdfbCxtX4Rl3jNcTwHtJWh/xRZw8LRL/MEX9UNFvwFXs4h7CG3LlLrWDwz8fMv+oN0knzIWTuj8ihGVx3L52l4tszA1lHbhakFGwYn7rbFJO+gm6/1jkXCa0Pz67ICfbWgnS2TeHe/tFyyeLH+UR9SRmnc/9roGxGUXMpoFfqF4LystoBvPZ3VvPmansDqKQIfxJYYeicXVKJkCXw1lhiysY6xNkOxFKdpzcRMg9QqMHZ5LMOf2YI8mVgJUALjgwJr3RpFvqsfS/15173JsoDg=;b9HmCf6MDzpm3gMwAEa0KA=="
 ---
 

@@ -1,0 +1,59 @@
+---
+category: news
+title: "‘Conversational AI’ start-up Webio raises €500,000"
+excerpt: "The Dublin start-up helps companies manage and predict their customer service functions using artificial intelligence. AI start-up Webio has raised €500,000 in funding from Finch Capital to top off its investment round at €1.5m. Webio’s “pre-Series ..."
+publishedDateTime: 2021-06-10T06:00:00Z
+originalUrl: "https://www.siliconrepublic.com/start-ups/webio-ai-funding"
+webUrl: "https://www.siliconrepublic.com/start-ups/webio-ai-funding"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: SiliconRepublic
+  domain: siliconrepublic.com
+
+topics:
+  - AI
+  - AI in Finance
+
+images:
+  - url: "https://www.siliconrepublic.com/wp-content/uploads/2018/10/7-Webio.jpg"
+    width: 800
+    height: 600
+    isCached: true
+
+related:
+  - title: "Dublin AI start-up Webio raises €1.5m for credit collection service"
+    excerpt: "Company uses artificial intelligence to reduce potential for conflict between creditors and the customers that owe them money"
+    publishedDateTime: 2021-06-10T04:00:00Z
+    webUrl: "https://www.businesspost.ie/companies/dublin-ai-start-up-webio-raises-eur15m-for-credit-collection-service-9d255f9f"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 37
+    images:
+      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTQxNzMwMDRmLWQyOTYtNWMyNy1iNDAzLTRjNTJjMTM4YmJlMiZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjAyNSZ3aWR0aD0zNjAwJmZ1bmN0aW9uPWNyb3ByZXNpemUmeD0wJnk9MC4wMzQzNzUmY3JvcF93PTAuOTk5OTk5OTkmY3JvcF9oPTAuNzAzMTI0OTlcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZDk5NWU5M2QzMzNkOGE1MTgwODdiMmEyNGI0ZjZlYTc1MmQ0MTk0ZiJ9/dublin-ai-start-up-webio-raises-1-5m-for-credit-collection-service.70312499"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Active.Ai and Glia partner to enhance customer experiences through conversational AI"
+    excerpt: "Active.Ai, a leading conversational AI platform for financial services, and Glia, a leading provider of Digital Customer Service, today announced a strategic partnership; Together, the fintechs are empowering financial institutions to meet customers in the digital domain and support them through conversational AI,"
+    publishedDateTime: 2021-06-09T19:18:00Z
+    webUrl: "https://www.cuinsight.com/press-release/active-ai-and-glia-partner-to-enhance-customer-experiences-through-conversational-ai"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 30
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
+
+secured: "5InV8TobNLiILSf6ApiAXvx4QH2kE0P1jsEdeTvd3nh6ld4jXsXKUsSnt/0rF1xW78//o3g63nLzx1GkqzuFsTv57lyL4dDk/4l3j0FO61aPxHHUgGc4+R6zsLNJqjURg9s/NqPR70xJQ0uPmspvRs81W5wMpDcuU0T9Ix96Ru40BwKK0U16wLU6MQc+KCvuq5N/wjrfdCXI6ZOSxdlENhhu1GrF0lMsRPQDPLDG4TMJqDx7Pw62OnxHMIvlwsb+zNQKF3t9GA8cPK9rduzgtl+oXgyvBloFOt4nCQFZ8hNeSJFRB/fSH8WIKfmZHs0KHek3jAuhWK7Q0b2OBbN4A3vEuw0r9E6pxFKbG1cKI+o=;cxQ84Z6OwMVNGVLN3BMkSg=="
+---
+
