@@ -5,6 +5,8 @@ excerpt: "Look out for more robots and driverless cars in Milton Keynes as a new
 publishedDateTime: 2021-05-26T13:44:00Z
 originalUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104"
 webUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104"
+ampWebUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104"
+cdnAmpWebUrl: "https://www-miltonkeynes-co-uk.cdn.ampproject.org/c/s/www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104"
 type: article
 quality: 1
 heat: 1
@@ -24,6 +26,6 @@ images:
     height: 1536
     isCached: true
 
-secured: "nsDKQKVww6ks0k+qRI9+r/e0uFgdg2oKsOCjhqCApGPmm3qmmiQwpsqgedWfyM2rd/t/g5zblIHyiTgCZILmtKfVWfQ+ynunWojQgPxbiIn+peuAf6dVSRXe8mV06/tk/M7LfAWVSKCxPuC0NUmCBpwAkuEjIj3I+5cH3mBseuEfwNWVIT55vGQF7/3hilH/3yfaxRnaTbnpiVdbHr8aDigwtFOYq2a1cSuCj7gUYAdIoNzAt093JKMZboGX+RpxEkOhZNZbLuaalgQpCo8tGeARRUocAlLc9EpimcONIvNRnK0w1nAM8mXyNt8r0z5vLIddbMBWAq9b+lbysLWn3s+eskCu0b4NyuG9VQl8ssc=;y2xgJinl3c9eLJ3OX4bTaA=="
+secured: "C4P9sk5X3WvJXCUWXIrHDPNn61gwxAahI28tEs0JGjLCkl73+A2Xn560GU5se/4Z6kj7E9Q3JUluzSjGEB7Hwilt8TDJHujZnFIWI2eTip8m+07iY11y2b2KXP5WZ6HAuXdo/FMml0Dkv58iykEhPqNvAflSGXMUQQ23ITdetJSqir/SVMqo9Uk4So1LnMlfAV2N2DqCHAjKfOXVsgIfZnVYzgZepkUvO7YL02vvYb58bi0dE0t3TurkJYtelJHXvkFUzh6Xi1Qhw9C1YfkLAp7U3XA0s84ey7rbEnm7d2B8dU02ESJb6dKswM0mZTI40VIBSG4ZAK2Hfwx4/8lvDf+LedpYJXAQZCq3aixUQxuOqT4fCpF2wmaqfJdt7BJFGdGTYk6pzoOsaMNWvgq54ZfffVqrEuhvR0TxL46x1sp4BjF32v8m6bF4SI9UPTFnwkGOfC+jV2fkAtLApM7B8UKNnHc1E9Op5mv/E6EqJODQMKw5AhqLk/nUbwUiPkW/fBepRLh+Pzu5oCMHngNL3g==;yYcVBTkMyn8EP8XwWdx+sg=="
 ---
 

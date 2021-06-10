@@ -1,29 +1,31 @@
 ---
 category: news
 title: "RWS Announces Revival of Language Weaver Brand"
-excerpt: "... a brand synonymous with innovation and pushing the boundaries of language translation,” said Azad Ootam, Chief Technology Officer, RWS. “By bringing together AI experts and technology from across RWS, SDL and Iconic, we now have a world-class ..."
-publishedDateTime: 2021-06-09T08:00:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2021-06-09/rws-announces-revival-of-language-weaver-brand"
-webUrl: "https://www.pharmiweb.com/press-release/2021-06-09/rws-announces-revival-of-language-weaver-brand"
+excerpt: "Return of Language Weaver to unify and represent RWS’s machine translation technologies CHALFONT SAINT PETER, England--(BUSINESS WIRE)--RWS, the world’s"
+publishedDateTime: 2021-06-09T09:47:00Z
+originalUrl: "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/"
+webUrl: "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/"
+ampWebUrl: "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
-secured: "tC2umIu3ZxV5C+sdbMh+ir3TBUoKAC3vy4t7/TfhjqNlpgUSdO+7GCtCCZek1D0MIXFeGmDcJAJWxGGRo7fBtnoVSiGgPFx6LK0z6GVeSkdzauwcmentjyNCN2xzy/zBEjKB8Xuzbjk7q9A2wXMVZlcPNmUVpcVeZlecicZ3PPuzCQSpSli3C9rOr9j4X/q3YYRmaflPY10vBIhZiB4Hb4YfWW+wCl2vVYkh5xQjCkAo+g/9Bl0Kp4NRboiIIIR5r1n12e4JIH3D5nY+caRKHWcLVIz0jGQsJpAuafMhN9i7qH+8WDbVizdNUJvALwyYcdgg1EcVhsym9F9wjDx8+bpfMGVCZwz+3OOzkcJnhoA=;wyQ1nNPFQs+4XV+WwqYxHg=="
+secured: "yfpYjw8yWrYljF0mlTHnK4EKzBcSzLPXkrkKQj2TimKB2ccmt8SrYyz2xszAQN++ES5PVQL12NWMMbbp//VjK8GVQBSSk4j7jT+UKmp/t2tfAMqaa1es6WC/NjNHTFNrG86V1sCaKdFBsIX9+tack4TrnRCBrNltD7i1ass/jsH4oV6jwMNDM3a1pq1OHN52GHf+aDE4zlWAmlQaPSBsFCUCiB/FsT2c0qbXIPvsWlgVDRkxpPpB3FMY59w5SWVqYtIlR+tPOMVKLQExxRPJJ8rSVlA28oCSrCK0frzmknbKpFb0t+WWw7gsRgY7Xux9rLjFbugHP0zl4E1vTY2fbr+jH+NGBi3kXW48bgYKy+Y=;pi4E2OG3HMasp2NBqMoGGw=="
 ---
 

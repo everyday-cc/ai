@@ -27,31 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial General Intelligence Limitations"
-    excerpt: "Ray Kurzweil wrote the Singularity is Near in 2005 and he described the near inevitability of the creation of super intelligence and a Technological"
-    publishedDateTime: 2021-06-08T23:56:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/06/artificial-general-intelligence-limitations.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/06/artificial-general-intelligence-limitations.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/artificial-general-intelligence-limitations.html"
+  - title: "DeepMind says reinforcement learning is ‘enough’ to reach general AI"
+    excerpt: "Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from sticking to the principle of reward maximization."
+    publishedDateTime: 2021-06-09T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 44
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/05/image1-1.png"
-        width: 626
-        height: 352
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all"
+        width: 800
+        height: 400
         isCached: true
-  - title: "BST Global Presents \"The Journey to Project Intelligence\""
-    excerpt: "BST Global, an enterprise ERP solution provider that serves architecture, engineering and consultancy firms around world, presented the company's vision for the ERP experience of the future during a live event titled \"The Journey to Project Intelligence."
-    publishedDateTime: 2021-06-08T09:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bst-global-presents-journey-project-intelligence-/2021/06/08/9385521.htm"
+  - title: "Google used reinforcement learning to design next-gen AI accelerator chips"
+    excerpt: "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips."
+    publishedDateTime: 2021-06-09T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/"
+    ampWebUrl: "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "DeepMind AI taught digital people to play football from scratch"
+    excerpt: "AI taught digital players who start out able to only make random movements how to run, dribble a football, kick it into the goal and work as a team"
+    publishedDateTime: 2021-06-07T08:17:00Z
+    webUrl: "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/"
+    ampWebUrl: "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/04224524/04-june_football-ai.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "Sk4UO3/QIs98x8wwRBdaeQ39Sm0Wp+nYPBUVvPOtmxYclnzwD2fiEeB44EYTffpqz7REBP/Xxk+CzRZQ9RJHuwwmtwrabGsd/tJqP4EI/cD255G4PgyIYUt1J/hTIa+Y1TJ2H2eF/BlpWBoRiwcYENLakvDWSa3bq8zht8Yrk9pAUzJk9g/wTJYHlEjZLSBmJ6d9oRsKt9ROso156Fs1hdPxLBmUECSRTKIHUCUBneeuqGi1qgIw9vgFkzGJPNz91VsiAug2rZRVIFRpJ72PhwO1fqCXCSLvwfnGaoin5aEufZ7Wb4PlJUAXli7Z+f2BfhIHvgq125bhrDEDHnrAVY58CK0cNQSEKrQMcBsDQgA=;SoHZ7ANSLzdKN1ruhnlmgA=="
 ---
