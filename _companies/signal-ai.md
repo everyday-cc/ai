@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SignalHQ"
   url: "https://twitter.com/SignalHQ"
-  followers: 2563
+  followers: 2564
 
 size: 51-200 employees
 yearFounded: 2013
@@ -32,7 +32,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1323194996439289858/MwYjkvP-_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1403020094465314821/BHOPDK40_400x400.jpg"
     width: 400
     height: 400
     isCached: true
