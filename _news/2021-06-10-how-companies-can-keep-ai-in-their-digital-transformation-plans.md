@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-compan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
     excerpt: "C3.ai Digital Transformation Institute awards $4.4M to 21 projects to advance breakthrough artificial intelligence research for the energy sector."
     publishedDateTime: 2021-06-10T13:01:00Z
     webUrl: "https://www.businesswire.com/news/home/20210610005291/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+  - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
+    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
+    publishedDateTime: 2021-06-10T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
     type: article
     provider:
       name: Business Wire

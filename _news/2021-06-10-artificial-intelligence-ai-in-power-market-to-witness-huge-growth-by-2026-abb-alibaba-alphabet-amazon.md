@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market Evolving Technology and Growth Outlook 2021 to 2027"
+    excerpt: "New Analysis Of Artificial Intelligence in Supply Chain Market overview, spend analysis, imports, segmentation,"
+    publishedDateTime: 2021-06-10T17:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Precision Farming Market [ PDF ] To Witness Significant Growth By 2021-2027"
     excerpt: "The Top Key Market Players for Artificial Intelligence (AI) in Precision Farming Market Listed are :-, Microsoft, IBM, Intel, SAP, Agribotix, The Climate Corporation, Taranis, aWhere, Precision Hawk, DTN, Resson, Vision Robotics, CropX, John Deere ..."
     publishedDateTime: 2021-06-06T12:13:00Z
@@ -83,6 +97,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rBlyADaBosKpUSoS3zKK7entlXd82hvjtrNjMu16DV/1kbjxbIJyc9taF198kc07qb4jeAExi8hQLRd+39j9P2YiBp+s+BHKpfn5K9bTGt4EWB5nROdLgPdzuFLCBeCtZYlfO98ucviIU7T8P+R4qoh6PTT4FYOy0B9Z4V4ef0G6N/8IriIvwraOClCY6FQ5Wt1u85q8SquOdMlJeD637bX/35LLe+wqd5aQ+dBqVMS6wwnVsg0zkp9nAq55od6lAFae8Ay7jVYsD8q2A5f5F4CPXblDQEMol6SnKNN5DAZDmuK9i8hQh2/5qfVu/6Quq9OBTDAxm5eSCP9B6EMMiqYaFBR0TIRlaHbZ/POlt08=;+i7fici85ibNkCU0i1WgfA=="
+secured: "hPoHQgMEe7XAo7VcwIXoVl0Mpb/o4D0nQg5jTyFYNzxYIciFDinUz86FF0J7770o6xSmqkfvLcoddxNgYiwjMJaNcd37wDutLfhAVs4DA/FJkGr4EYBBz/2jTGHcDbgwt/ldfyrF2s9tcx3SPzkCJGRfA1UcRuu4rJEmp64VGE652tXhHL022xt2hfOPjjbDmaWW4tlxul1i/qcJAdhiBtsQwyNTgmEB5m6KwZybnAE6SW1XFv2+i7AVFDO0GlaCOmwr2vCGoqAW9xL25VvTnYYUIfWu3hC4x4hcYJwr20bdyRP4DP4nvmkVCk9SYc9wfSy2zBG9P2hhm9neNozfRbKHL0EKrEOSt5LxI5xAkk2CCQscCRYoTEGKR60okc+c5E2W/D8OPnYDSbQUHGFXoWF0XCJzpxFqNYqk7cHTkFtkop+uuaMrpcMbppGKbo0nkvfEZGkFomN+7IZwRGrkbKYRGOQ4oMOOoOHVZhOJD30gXF4jCP4pEAn8bYS+MOLraSWYwEuqnYhrUt8QJor6cA==;dhqE3FjmatMeMLluXpflDQ=="
 ---
 

@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
+    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
+    publishedDateTime: 2021-06-10T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
   - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
     excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
     publishedDateTime: 2021-06-07T07:08:00Z

@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Watch as this robot gives a manicure"
+    excerpt: "Reportedly, the manicure robot can identify nail edges with 0.3 mm accuracy. The AI model also directs the robot’s cartridge used to paint the nails. According to Clockwork, the customer’s hand is initially photographed by the system and the robot then uses CUDA — which is a parallel computing platform and application programming interface model developed by Nvidia — for the 3D point cloud reconstruction of the fingernail in just under 1 second."
+    publishedDateTime: 2021-06-10T19:21:00Z
+    webUrl: "https://insights.globalspec.com/article/16768/watch-as-this-robot-gives-a-manicure"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+
 secured: "Uvm5jx4lB++//1k5+Bf9zVXuSRXK220281ltw4pT1c+EhazFWm73BZlV0u1PitPfG7gao+jT+xi8hmvC4mGfoshMPlM5wN0jFGhR8FAW3eroWagu9sOrm76qv9iuCcQbvBc9TboZ1evqMOktRxGSQMd7V5XRVFWIntHZl4SHY+v4tg5I4dJKJMaP1dBx+SzVo1/xWUjdh68W8Z50Ty7GX2euU8J2WfmQwptrG2SvnkEasUgFhR8LEoWcTmNuyRa5oGowmXn7yM49PIXjBgcSZGeo9x/CJOYu/LjZGJbmlSKOh7I41z0w2eYkwAsrgiZ1yz2U8hIJnREX4h7lmAc9o7qcx8/64QLAARIHwxBOp+2Ph+fI1uCJOwhNDr2YaoT2gW5M8RFMSsKzLumEJg6YG102i4AjRyez/HRZWa4kSXregAqOeZVxPS0brJh4VIewT7qfYdEU+Bi5xidTicRG6TzJu5vGt1F9p7VxhXMEqLprzyM/T7VQN2Q4CMEpUHfMR8c37JXJ3BcQfIPchClfzQ==;6DR9M0KB9HQQi1BJcEN8Xw=="
 ---
 

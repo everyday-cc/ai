@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side"
+    excerpt: "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year."
+    publishedDateTime: 2021-06-10T18:29:00Z
+    webUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761"
+    ampWebUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Alibaba plans self-driving trucks with logistics unit Cainiao"
     excerpt: "Monitoring Desk Chinese e-commerce leader Alibaba Group Holding Ltd (9988.HK) plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
     publishedDateTime: 2021-06-10T08:33:00Z
@@ -54,6 +70,6 @@ related:
         height: 557
         isCached: true
 
-secured: "CBro/yz43rEHMFS2ePKG1Uw+4BbMtQ9WRRpTj8nt23vrcvYrIkDYMF/iClosuk4b3QKGwVZECuTky+lb54W3oJS10Ccr2a5kRi2psXhOH3K91iK/URTONLnFinnHagFfI8XYkRG0C9j3NcPH4/UITZlPcqVkxRImYv6fpTBzwdrU7ggtw4lTNjtmX/XrVLwOc1MBOsgT3x12Ji495WGD9XuXv7peArf6euviXrqnm32BkelwzhjPbufl1e+8hj51+7OvB8uXEg4LNoE3IDNgQ+y5zIMA0DIHHNJr+3c6YmRVb3tTRE/PNP4taDeScieSDFLAMwt6+P9W7OUdycdF5syRHj+9h3Xgc0uw1YBWlq4=;YYj2kVPHGiZkqgafkdbjgw=="
+secured: "h1aXpySFhSJJ7ovt1iMXT/HHVA9oAZ66V8YMwWV56sEkJvcP7D/EnTDiXDpTv809OjotfmIHUUnHjKqPrcmYYUkaZrhMH2OS9n1f1RSyHe+gkANqRxx3t+ilYCYLoE/gr0hgS6hjGYgy4PcXlyyFNg94rvGwxgR7nA0IUY/NUtjJdHFLrSPH8jrfzczQo/KdBOUJ7XtFPkw1vjl06A7szdYw/heeDX+2WseK/mqRL2majn0neFNzTaQtvYfDDW06XkbjAZb0HxEHfhyCNC+FVM9wawIMHrw0MV7kVnNFVcVSDGOcE2e5+WhaYw/HX3idUwRmRDWKYc2N7Z3yCE7YKxUFW2Sqjo74rqA/gZJ0la6Gi59tOTvyWQFvNLNwEh+AD69GomZimQwmnuvICPcaGjD1gndGuX8ZRsejZDF3qshekm3RTEiGbb09HP4QjQkpq8TP8vJhb94iSv4jVmRDh55keV7tc+/X3+3i4ESleFQmeBFjxUAplIHe8sti7QRiOLK6pEcbhtBztwFF5CysrQ==;oqq6GA6U2oEiBOv0f/UJeA=="
 ---
 

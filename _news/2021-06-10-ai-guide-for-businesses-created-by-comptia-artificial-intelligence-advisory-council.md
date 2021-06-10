@@ -24,6 +24,22 @@ images:
     height: 733
     isCached: true
 
-secured: "UxKC4tYfKyf4PZZdPr247/Q3WM8KKJ2K3oA6uPUX8OA8KSQhxCcmEY/fFjtTVezLUER+mslaD/AclEputtkFB+9Z60sFCGrWoo/rWJRSz0rUXd8fcotVMfPFTmVms+N1crBxQGCdgmHoNzHAX1OgG0ZkrP5UFsRAKBrxHpExkdPSlX0oJWQ0zuzsAFC6tP3fm0UueoqlYCMH3/mf0t/85u1XqaRn6Ycht42RI1xt1/B/l8yLE8epmobQVcz5YagY22bEfbkncGtYCfOZC1XLtH8MqwcMstO4mOENoGJTgbS+z5iXIFk3JJJUmL9SfafWke2eea9sTNJ52veYA+g7A2zn/47r+HeWcsm5G9/DTzI=;UCfVlr+3/Qazc7rcZGakZg=="
+related:
+  - title: "CompTIA Updates Cloud+ Certification, Drops New AI Guide for Businesses"
+    excerpt: "CompTIA has released an updated version of its CompTIA Cloud+ certification exam. It also released an artificial intelligence (AI) guide for businesses."
+    publishedDateTime: 2021-06-10T17:49:00Z
+    webUrl: "https://www.channelfutures.com/cloud-2/comptia-updates-cloud-certification-drops-new-ai-guide-for-businesses"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 39
+    images:
+      - url: "https://www.channelfutures.com/files/2020/07/Cloud-Certification.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+
+secured: "8zq97JT0tAud7qsKW6uYi1M+WulIzBR7PoS++yvaMy8iujo2eSWhYncrOzj40jSe97TydJc58bjXEwE29CCI3oL+3NTz5+BZuztA2xh2ljprUzhLKeG17dy9hkAwtKr8hcFfEF8NF74G/e9mzt74uGLLXf8Xjhxn7dlHXto1OpGnDc+cnIKLThyi7rrapupALEL90Ce9MLBDU0tupRKMReSr0jbNYc6xzVnZOCNVqxHFSnYV4R9LJPr5GJqVFwo+KxVaImj80rW+295IKEe20Ak5u1CDXs7/bbwcTUtiAa4n9eXdKf/Gfzgw40NkBiZmDt3AdqNDXnsr7bs3O9XR3wcsVFNujtTfgfTHH13VbQdqMCxm5Twsdj/wngOQe2WX0DZpH3l1BbK6T1RmGAioiG9AGjo289MLBJuGfxjGVaoR3IkXsaCC3K90tn17b6dfZ74Hp3aAx8NoPwBsmtMR4No41HU56Oi6UAFqk9Dyevz/OXEmj5hcf+hzAeYR998HavAT63ghRUdVjkB1Y4Vlbg==;/8lHlFplYmMpBLO/+Tr2Ig=="
 ---
 

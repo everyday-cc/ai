@@ -1,0 +1,52 @@
+---
+category: news
+title: "How AI could radically change education and standardized testing"
+excerpt: "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment."
+publishedDateTime: 2021-06-10T17:50:00Z
+originalUrl: "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/"
+webUrl: "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/"
+type: article
+quality: 106
+heat: 116
+published: true
+
+provider:
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+  - AI in Education
+
+images:
+  - url: "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+related:
+  - title: "How Advances in Artificial Intelligence and 3D Printing Are Changing Manufacturing"
+    excerpt: "Additive manufacturing, artificial intelligence, and machine learning are disrupting every industry—most notably manufacturing and aerospace and defense industries."
+    publishedDateTime: 2021-06-09T13:04:00Z
+    webUrl: "https://www.automationworld.com/factory/3d-printing-additive-manufacturing/article/21496905/3d-printing-technologies-in-aerospace-and-defense-industries"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 33
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Dick_Slanksy.5f246d27ae664.5fc66a75d84b7.601973ef45082.60632e4ecb1f2.60be36e010e97.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 730
+        isCached: true
+
+secured: "GprhHe/JOwtsLHUNtPXXbeKAafTXqZizBS0IELZvJZVPHPaW54CLblONarsEMThLeUiSzEmTt5fafj1yN1Fdo9tCKWGkudHurAnWS0EFDL4SwoyU08RIBy35RuzXfCmPzU4Wb1HPMk8tRTG8KS26l1y8hCfqXPww43pn+uWgLrNtdDapeNCZl698/8NKctqBmL0gdl5VMhjcf0zwrdPOOrb22EPmjZYinwLeWKeBt3A1foqyekDT/sWuZafwqEEXJwV/mUaSkP2T/WjVGcce5fxxXksu/NkMv6xjN5XCdtj1Y/Kf+qXhw2/FqdruYaqjExwImtBhImxQVFXF7+GATo8r6V5dTfMGlj0ajFwUKCg=;o7i37SbdFu9jRbZnfXrQqQ=="
+---
+

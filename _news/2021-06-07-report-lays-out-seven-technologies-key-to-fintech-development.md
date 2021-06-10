@@ -116,7 +116,7 @@ related:
   - title: "Clip Becomes Mexico's Fintech Unicorn"
     excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftBank Latin America Fund and Viking Global Investors LP."
     publishedDateTime: 2021-06-10T17:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-clip-becomes-mexicos-fintech-unicorn-/2021/06/10/9388522.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388522.htm"
     type: article
     provider:
       name: TMCnet

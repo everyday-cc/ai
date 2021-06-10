@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Tackling Waste in Factories and the Supply Chain"
-    excerpt: "The answer, as with so many other aspects of business today, lies in artificial intelligence — in this case, its ability to eliminate industrial waste in manufacturing. Stephen Pratt is chief executive officer of Noodle."
-    publishedDateTime: 2021-06-07T11:31:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/33199-how-ai-is-tackling-waste-in-factories-and-the-supply-chain"
+  - title: "How AI could radically change education and standardized testing"
+    excerpt: "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment."
+    publishedDateTime: 2021-06-10T17:50:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 106
     images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/1020_ChinasFashionProblem.jpg?height=635&t=1603158179&width=1200"
-        width: 847
-        height: 635
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "wfPS/azi8ce4+qCRCCpBTDnQ6aSbD98xFk5IBxznerz2YjytkfUtzBdZoKg1bw2b6Tc1lqha67bCHJpSsuassv09iyPoFR+jvNPVjpRzZONqisrGtjH5lEl2kQ0jDrW1ua1K0skHo89Suj9E6O1BcKqDWL/x7dGiI2tWiQvJGb6dIVagDTb8bX6fKpTz1pqB7hjTHT1dW51c3gaBA1jLX/IWVNM2X3CW7ZJl1zNhi455OEAt63pxqYqpN7tzqxa42OxYx9ALG0P3H93C8TjOmfxzXaVJSetnXZ5BlSd/RPCIesHPJV0ckIY986nlFNtMUy3ZYxp9H2JYIrUEMjXe/nbWF7CfmaArxLQOWSqSrcqNKlV1S/n6d5dTlmlvc2TjI5SnUza/ZEbGqzsf77rNQM/vFO/WQiK4RBxaYt/DWgM17jIFrym7odyKOFu70zz6meNjFNwV8hP6sG7O4XfAj4y8gA7BXfxZpeX6Wm7dZOH+4nBUPFPdF1ec+t2aofevggFZDErE6iFMrjY5IWM98A==;FUl8mgra3sfy+6iCSLoy1Q=="

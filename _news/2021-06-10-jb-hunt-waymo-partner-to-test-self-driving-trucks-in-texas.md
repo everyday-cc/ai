@@ -39,6 +39,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "NuPort Robotics Selects NVIDIA DRIVE Platform for Autonomous Trucks"
+    excerpt: "Toronto - NuPort Robotics Inc., a leading Canada-based autonomous trucking company, today announced that it has selected the NVIDIA DRIVE platform to power its middle-mile semi-truck transportation solutions,"
+    publishedDateTime: 2021-06-10T19:30:00Z
+    webUrl: "https://www.dcvelocity.com/articles/51334-nuport-robotics-selects-nvidia-drive-platform-for-autonomous-trucks"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 54
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/0e7f4fac-2e73-4dfa-aad5-a9b80a9e18e2.png?crop=true&height=430&t=1623334025&width=640"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Waymo, J.B. Hunt form partnership centered on self-driving big rigs"
     excerpt: "Waymo's autonomous big rigs will soon be hauling goods along one of the busiest freight corridors in the country. The Google affiliate said Thursday it has partnered with trucking and logistics firm J."
     publishedDateTime: 2021-06-10T13:00:00Z

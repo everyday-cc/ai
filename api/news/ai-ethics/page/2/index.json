@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-13-heinrich-portman-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-transparency.md",
+      "title": "Heinrich, Portman: Artificial Intelligence Bills To Boost AI-Ready National Security Personnel, Increase Transparency",
+      "excerpt": "Senators Heinrich and Portman will be introducing the bipartisan Artificial Intelligence Capabilities and Transparency (AICT) Act. The AICT Act would implement recommendations of the National Security Commission on Artificial Intelligence’s (NSCAI) final report.",
+      "sourceUrl": null,
+      "webUrl": "https://ladailypost.com/heinrich-portman-announce-bipartisan-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-governmental-transparency/",
+      "originalUrl": "https://ladailypost.com/heinrich-portman-announce-bipartisan-artificial-intelligence-bills-to-boost-ai-ready-national-security-personnel-increase-governmental-transparency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ladailypost.com/wp-content/uploads/2020/03/2021-Chamber-Member.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Alamos Daily Post",
+        "domain": "ladailypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-kpmg-unlocking-the-value-of-ai-in-industrial-manufacturing.md",
       "title": "KPMG: Unlocking the Value of AI in Industrial Manufacturing",
       "excerpt": "KPMG: Unlocking the Value of AI in Industrial Manufacturing Daily Story page | Is industrial manufacturing facing ‘AI-whiplash’ following its race to digitally transform amid COVID-19? KPMG’s latest report analyses this.",
