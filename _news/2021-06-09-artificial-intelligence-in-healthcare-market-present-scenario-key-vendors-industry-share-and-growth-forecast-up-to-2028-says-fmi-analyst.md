@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global and China Automotive Voice Market Report 2020"
-    excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Installation Rate Jumps to 64.8%; Baidu and VW-Mobvoi are gathering pace As artificial intelligence technology advances,"
-    publishedDateTime: 2021-06-09T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-and-china-automotive-voice-market-report-2020-1030506967"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "fyUbZRwRATBGCc3YnbikkCOg5Q8HJn4viq4NmUu39JIPQ9ic+AV55xAKCM/WdKTEE8A6CWx5/EWS/Jg3MLA0HBQW0Wq2hdLuGXlQf7E+39vhrrVOPSkmA51sfoNK7U1VkK4cHsOkfEhAv3TH3tvHbwcHMm3VytkPYhZVtmDrqlqX6WoGqUETLlfD+QMnpaXRtAJkUj2aC3LM7qvFjNAHSEGLSberAsOwmfyyZZ2XGilFXbAAdCn1pFhPki66bcTviA+DGQVSBn2RillfJ30Qn4wwwkwPd7UfZzc+aH+ese6RB2BXwHcE2kk9HbQHge8NeEknY2Mmkr6j+M+n1LDfSeAuXGgDMNW1aENhPV6Fv1c=;GGcn7T0xH6a9NkZK2GaYJQ=="
 ---

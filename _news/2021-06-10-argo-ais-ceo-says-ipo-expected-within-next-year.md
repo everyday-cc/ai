@@ -2,19 +2,23 @@
 category: news
 title: "Argo AI's CEO says IPO expected within next year"
 excerpt: "Self-driving startup Argo AI's founder and CEO, Bryan Salesky, on Wednesday said he expected the company to go public \"within the next year\" and would be raising one more round of private funding before that this summer."
-publishedDateTime: 2021-06-09T19:01:00Z
-originalUrl: "https://www.nasdaq.com/articles/argo-ais-ceo-says-ipo-expected-within-next-year-2021-06-09"
-webUrl: "https://www.nasdaq.com/articles/argo-ais-ceo-says-ipo-expected-within-next-year-2021-06-09"
-ampWebUrl: "https://www.nasdaq.com/articles/argo-ais-ceo-says-ipo-expected-within-next-year-2021-06-09?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/argo-ais-ceo-says-ipo-expected-within-next-year-2021-06-09?amp"
+publishedDateTime: 2021-06-09T18:12:00Z
+originalUrl: "https://www.reuters.com/article/us-autonomous-argo-ai-ipo-idUSKCN2DL2EO"
+webUrl: "https://www.reuters.com/article/us-autonomous-argo-ai-ipo-idUSKCN2DL2EO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL2EO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL2EO"
 type: article
 quality: 67
 heat: 87
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -49,6 +53,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YFpWysQvvNJByGVNBas3bj8EutpUf+ihl3G2Rk6Qx+foOwlaP7wVz0YUn79zXRdb83Y5xnBFEjjMIWU6x1XvxB71BLdjEDQ5JWmPEvSJtKQGwW40RrS5NZqwpA2GVSUfU3k7hETJkuXo2vmKrRmeQ7sonYLmuBcTD6AHhyfMhmU7AdkXkdxlbeXyWbQm0TuhNYr4UaXewXtn0s9dJKt1fLh2EJzdnUhjj+zgDymurGkkbmBA1GTbfRe6nr7KesfsQ7j4QpGKIuWKytIIVeoP1p9n1nnewcLLY590033ygAGHbccyBZEbjxeiP80w6EmP4BNkhPheqtE2KTtj6Imn+2HxBnlGWPqx/yolFP3O6zaebJlBgQKSl4EqaFo0hjaTlSKdilv4whLOEjRMh0srUF3ex0fNdkrevE4aICxE6FjU2P3ka+xmiWSh2XmGoAdUjG78J7U94l+lHuxWfdyT2x03CucdyNIv7OYi/2zCwOhtFZE2XL5SK37tPHabHPN/UnPMLJw6W/xwyFVmS2kQKw==;I06KBdzCHS9O5ou4ghntdg=="
+secured: "tx07jgodFTht6fsFMpbEDcVYcXbiPlpors0XDzOSx2NG+DuRfUM8t/NN0OnoiDG2axiDv7nhPPpi/osUwp0zZClAy/iP6TcANwXlNALKdMC1qFIZzM8ujUZyiRa6G7AViFV20gy7baLxLT1/wLMolBAcElHl40Y3th1j6NQlxpdSHW5wkDKk40SqkQfkoGpriueXLjfyMW+a8H+3VgNH2txRQLUL0VHdCQ9uXUbWhyzOxY3ngOC0w3etZ09WahfvGxTTwFtywKAfkR78d43fDH5bl55CODNqYumHFjZBUnNSM+p7C1UoUIuhZjvN8wZekG1upK/Au6hZiglPxcGSQzYFwBQxY7kbB7LHC9kJZhU=;DC7aNrHV2mNRJ1dmTPPptw=="
 ---
 

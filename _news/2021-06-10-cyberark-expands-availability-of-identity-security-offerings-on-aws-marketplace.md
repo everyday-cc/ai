@@ -27,13 +27,13 @@ images:
 
 related:
   - title: "AWS Announces General Availability of AWS Proton"
-    excerpt: "AWS Proton is the first fully managed application delivery service for containers and serverless CareerBuilder, Grabyo, and Rackspace among customers and"
-    publishedDateTime: 2021-06-10T00:57:00Z
-    webUrl: "https://www.01net.it/aws-announces-general-availability-of-aws-proton/"
+    excerpt: "AWS Proton is the first fully managed application delivery service for containers and serverless Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of AWS Proton,"
+    publishedDateTime: 2021-06-09T19:20:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210609005868/aws-announces-general-availability-of-aws-proton"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 34
   - title: "Special operations experience is at the core of this cybersecurity startup"
     excerpt: "Culture matters. \"Quiet professionals that let results do the talking is oftentimes the antithesis of how Silicon Valley company operates,\" Horizon3.ai's founder says."

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning
 ampWebUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
 type: article
-quality: 108
-heat: 138
+quality: 110
+heat: 140
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Google AI
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all"

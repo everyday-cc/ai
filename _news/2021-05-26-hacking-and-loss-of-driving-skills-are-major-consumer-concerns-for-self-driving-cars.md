@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
-excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
-publishedDateTime: 2021-05-26T14:38:00Z
-originalUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.html"
-webUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.html"
-ampWebUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.amp"
+excerpt: "A new study has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
+publishedDateTime: 2021-05-26T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/05/210526093059.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/05/210526093059.htm"
 type: article
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/autonomouscar.jpg"
-    width: 1920
-    height: 1920
-    isCached: true
-
-secured: "Js0nXtaGseXNMg2mCUNNaLaXE6aafbJpUj3L+gao1bshFM3Kn3d4vfokpwor4PXrOKrtABPgZMm9+xYwEor4Cd09+z6ZGVbIlpLO3nts0MiD1jh+cDuaewQOcz/mMtYiGY+LmnqZRXFrkvvGRWiUknyRa/GJ7bzO3oJas+5TOrD+VSdhfY39G4FfYiqWQfYvuKidSGIDH+PR2RtXT73HA2YYkkRGZ0MUGsxs8UrNGL/XJ2wCLjRHGjStT+RVDmLY2DFrfmW7bVzE7hpb880M2VOowzUvjQ2H8qU97qY6cg75tmePPhZDmmaRr82zDuXfFKnpfJ2s4aPmqINBd5nEGRhXAHwAH2OnyRFR93SG1LQ=;wbqpLKUf8kkhrKAUHNGfVQ=="
+secured: "CPufU4e7TqOWZ2ecclPc+OIIpRac/wTNZtoZKvdKEXTF+I3sxehn3cg/+5bEfrGK/26XvDXaFcZGWQXbRs2Z9EzQubl4+gmvQ1ljUhvZsjGW9DZI7cWgfJ2zjK3cVNsS7kBkMgzzZH7vfYC1M0BLApwddFkZQpbA+uDy4GTgSdYbMLLhYbMJPeMCpHbBJhynAZPUhYGCUWgv3NXrLvL3YWF5Rjnin4HcYD1RevZhMV3js4tOGwS0uc8lSps96UtXYUnLcjUtSvPhlCy+Z5se6ZVRBHBHxD1Sqm10FWt3Wc/qxrN+65Z5k9O31n1qXIxKP6qiLURH0tHVu9C13jC9a4l1sl5uGwCVjo4PQZxMcRI=;1LA5T9Jez9HnqoohjgC+3A=="
 ---
 

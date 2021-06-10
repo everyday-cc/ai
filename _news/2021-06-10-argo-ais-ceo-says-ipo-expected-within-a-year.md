@@ -26,14 +26,14 @@ images:
 related:
   - title: "Argo AI's CEO says IPO expected within next year"
     excerpt: "Self-driving startup Argo AI's founder and CEO, Bryan Salesky, on Wednesday said he expected the company to go public \"within the next year\" and would be raising one more round of private funding before that this summer."
-    publishedDateTime: 2021-06-09T19:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/argo-ais-ceo-says-ipo-expected-within-next-year-2021-06-09"
-    ampWebUrl: "https://www.nasdaq.com/articles/argo-ais-ceo-says-ipo-expected-within-next-year-2021-06-09?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/argo-ais-ceo-says-ipo-expected-within-next-year-2021-06-09?amp"
+    publishedDateTime: 2021-06-09T18:12:00Z
+    webUrl: "https://www.reuters.com/article/us-autonomous-argo-ai-ipo-idUSKCN2DL2EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL2EO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL2EO"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 67
   - title: "China’s AI start-ups face IPO hurdle"
     excerpt: "VCG. China's artificial intelligent (AI) start-ups, amid a rapidly-growing market that drives up investment in research and development (R&D), have been pursuing public"

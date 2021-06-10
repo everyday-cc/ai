@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-10T01:01:00Z
 originalUrl: "https://medcitynews.com/2021/06/ai-drug-discovery-biotech-valo-health-is-going-public-via-a-2-8b-spac-merger/"
 webUrl: "https://medcitynews.com/2021/06/ai-drug-discovery-biotech-valo-health-is-going-public-via-a-2-8b-spac-merger/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://medcitynews.com/uploads/2021/06/6914441342_775b4ab9a7_o.jpg"
@@ -23,6 +24,6 @@ images:
     height: 480
     isCached: true
 
-secured: "dT/KQ2cv6RRyqhDBXJf5KpQTjqWMuBDYvhhyQtq2A3oW7c6Imb9RK1xUOA6yva38Zin+Xm2Ng6rISG4uFyaS0QD1Ei283zKBQHosCvufVRyGWhSGqqpMxchwt4B6MXixxUpYvLx4yDu5fDHzRJOz85IEuKD7Pgixmmtw3+w6cPpD9kCtBi6PVEnaJolFxBiRKR16VOZc96miAUW7escwVLaTV3eWJsnRxuMnI6MwmMPcyg0iv+3tZKtLaDZ2IMtK7k8FkoBmH8GckL29f/UH2RgHpZDdYwXJKgPL8tpZF2LpEmIKpBkQGYCDzk2jks5FjrYhM6p5zJDJpjR5+a3iWgxoNm095GSxATdzoUZrc8Y=;F2F8NXLMUUxGnRumx5CPMQ=="
+secured: "DrPR14Yy6SjkQa7rVZD/jaGduUlIS1RfwSkcbLvyWYftbekO/kKSvzXDKs+SpZb2JRNj9Wxg2Ki+bUxQLDVJj16TPmL8RZwP+CZsn4kv/lj6QsLW9fNS01Noq8Auxcb67IassnBEot1WBSjtHH07xNxoR2aj1hbvQiwHrAaNdntD1b+WrT9CYQWoCb9FgmWG0QWUNBnk3UiWrwgz03sJC6HvefNclO16cEtZHhePNS03LZGhutIhO94gMWqKbM9969Oi49EeapYJ5UCD9AWysBnl8MG31EAtFuhw9KPWYqLM6jxDYMpe7OnBgv/EGpdZShTYbc5ZuqiPhCzVnw/gf5gq4b+IsHKw/ZMKr3SruDtcW4j7HtCvBEeorteht0Tl2CcMTyV7mturGNsozOLKhyweLfsxIpT27quWp1gbXaKkn9zmUyKUAYYxPFpVAJIAvOFdmFz2UmOV6Bba8jT1y0j/AGMTdrz0llT7BrEDlSnNZoKQmyAj4xUFGx5Mj7Qn6LWTtk7lqE8Svs1Kvy+MVg==;hG8cNNLVlDnoEn9bxUBmfw=="
 ---
 

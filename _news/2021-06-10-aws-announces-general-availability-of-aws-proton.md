@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Proton"
-excerpt: "AWS Proton is the first fully managed application delivery service for containers and serverless CareerBuilder, Grabyo, and Rackspace among customers and"
-publishedDateTime: 2021-06-10T00:57:00Z
-originalUrl: "https://www.01net.it/aws-announces-general-availability-of-aws-proton/"
-webUrl: "https://www.01net.it/aws-announces-general-availability-of-aws-proton/"
+excerpt: "AWS Proton is the first fully managed application delivery service for containers and serverless Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of AWS Proton,"
+publishedDateTime: 2021-06-09T19:20:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210609005868/aws-announces-general-availability-of-aws-proton"
+webUrl: "https://www.morningstar.com/news/business-wire/20210609005868/aws-announces-general-availability-of-aws-proton"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
@@ -43,6 +43,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "+pAViSS7J6RfjaI8LpnUg2CZy8Rsbh9TTN8RZOdxlfXlgqnmE1akjq8DRlJzDiG0QA9TC5KVbFYQC1/HDczC5fxss8EQMUahhhnEVn2CVsqfF5NlVVuI6lX6WOrEctzvbF/8BdyrkVaCTENYYxnel0YSQbPV42I5wt4INLFeKRBwHfdQVsrah7RX3+ag3gPGIK0iOzjIip8+2D1bt5dgJodmfc0ffEj5ZqbGVhcUy2rkTa4dH2mLzBrHU/W++R/+zsRAeazgdhz3hSbfjCObb4r2MhcyUwlxfHOCLqp7MDaauxrF400H1/pwJGqRotEJOFtc5BaUfma/RQWkFhyxJWEM/uJLWheQLHc6sS+KvLQ=;1OyqssQkad85G4sB0Jfhog=="
+secured: "zZp586JfGYat5WKGstYqXBNerph0dgfMSOUXVc7MOefypKt3yd8ZfIMEemoo2Xr+QhGgUoBRf4ciJGpbE9iU2wsSvxXEahYRyhEWFE3eUEuUYYQqvJQwPgo2cdbD95HB1pKtIH9UYyoHiHCPlGqCu6vu6NtxSj+KbFtJfCMAELvBmLk5Oo47KwtoyK0PDmbuhbsyOdBmvZWcxQlTrNvXwcpW3ajUXk0/4z4OELOqaXaqXjcyoaJLHIjVWyVy9vUk9dya0xNVSvRI4NaHYYzAflvXjPFZ0s1ZfJ0n04SlthDA+Sbhub3G0a/d+9pjyJ+jVy8oaA02GYpp+u4P5LfxR6bcYYuzq6DtqnZeAEeYTy8=;YSwqrbQIl2H+r9qnge6a7A=="
 ---
 

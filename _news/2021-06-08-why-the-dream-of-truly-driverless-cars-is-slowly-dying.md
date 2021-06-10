@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-ha
 webUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen"
 type: article
 quality: 69
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless Shuttle Coming to Military Installations"
-    excerpt: "G-enabled applications carry the potential of enhancing operational effectiveness, as a self-moving shuttle project is"
-    publishedDateTime: 2021-06-05T10:00:00Z
-    webUrl: "https://i-hls.com/archives/108868"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 39
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2020/12/autonomous-5188187_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Cruise driverless cars are now allowed to carry passengers in California"
     excerpt: "Cruise is the first to be granted permission by California to offer rides in fully driverless cars on the state's roads."
     publishedDateTime: 2021-06-07T14:00:00Z

@@ -33,13 +33,13 @@ related:
         height: 232
         isCached: true
   - title: "AWS Announces General Availability of AWS Proton"
-    excerpt: "AWS Proton is the first fully managed application delivery service for containers and serverless CareerBuilder, Grabyo, and Rackspace among customers and"
-    publishedDateTime: 2021-06-10T00:57:00Z
-    webUrl: "https://www.01net.it/aws-announces-general-availability-of-aws-proton/"
+    excerpt: "AWS Proton is the first fully managed application delivery service for containers and serverless Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of AWS Proton,"
+    publishedDateTime: 2021-06-09T19:20:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210609005868/aws-announces-general-availability-of-aws-proton"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 34
 
 secured: "Q3TpdD6ekflmGo4Mn4ULzOLCCtVSFK+EZVbdEF1dtoawXxaWfu9m3mCgDwZO0lG0K0Rb9/jyMZtQoHMTIvXXgs28agXdjJUQUFgUdqW5j6CBlMTzJRavcpIbF8OtvOxgemiEK/iQjVA1RE9aE28fU52NPTXAPSybqQgJNbcHdsJG38jS3fRYehbTLTemCc9Cf6H2lMwCb68Mx+JD+hF6bCnEK1j+qkZUL9jNtHob6MJTmTqWJ54Y7EPh5ZaTRRmg/LjqmWOfhh/upthqzPNBu+WPUt25TkTrF25BrXo9b8Rxaz7N+rci8EEtNDgW1pBScYn5EBBW+OgjUYRG8/uqvHDiAPMECh6rG1oeGiO2zCghld3MQydcNVYgTFiDcJ2BtAxE+u4RglsVJZGv0MpPP1weQcweoPuSJghZZlgc75J06JZlc6lnIFxKhZt2FRd7y7QCbfY0meE7nnzpph/26gwrZQnaNmAujB9ralN83jrwsdwgmYmUsdH840W/UBmSnu0f8Nwy78DEGsqWdbtldw==;7m6PJBmXp1bjLCq3l/EeEw=="
