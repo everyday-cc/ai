@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Azure is now smarter and more powerful than ever"
-excerpt: "Microsoft has unveiled a raft of additions ... “These services build on the cognitive APIs from Azure Cognitive Services and Azure Machine Learning, accelerating development of AI solutions ..."
-publishedDateTime: 2021-05-25T16:37:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
+publishedDateTime: 2021-05-25T15:10:00Z
+originalUrl: "https://www.techradar.com/nz/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+webUrl: "https://www.techradar.com/nz/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 270
     isCached: true
 
-secured: "2UrtimFKTZh7N/8qm0FlUaURh9SJqXgMdqQ+hJMzCAIdshFdeeOiMX6c859c+Y7ooxVhjSQvCmNKDMUQWLfYTTzigxVSIRSueOSpO8tJ0eqh73fBCDlrdlS2sannwsbVsgDN8eUAB4vI5yOiV3xiQbtiqrkVcUvlrOr93lJwgf3+YFUm8akxrcWwsRje3/kPJ6E86IorFKZuBxLnym1hqRXR0vwI/ymenNwIp9KlyTQg3TqBE7bqCs3qxwnGuxyGl2d8Yxjg2u58s3EdoSWBA6gWtkwdt5Ab3P82oQ1tDEnrBeFATMWMmHSt6MkjQNKOUBIykOR2WBEaao341FLiqN+BNhBe3CBmLi4djrAAnvs=;q7tODwSMzaBMZ288+SbrKA=="
+secured: "qCH7NVEPLpZ8fDNfRfsMo+uDmRk4sgBguzIsPMowyLCYTbKYtknDEsVy2Q9A5CfZffIorp8cCO5e+jNGOeYcwZyoarFSGLRkplDGw0myi+Gdvn6DebQju6PwGggyB38/eDJSffih30h5gK4idqK4tKmEuOyK6JpRNDf8JuwyiSqXR4LzjfThljmS5JVLtpqHIVJ8rnZYl0YMDbLJ5XnqSwDVb41xd7pp1i3yrcAsBdNfmnFOnpk7UliPIvc5rY4Oig5rr/lyWTi6NlMfFfxQZfKryQWqwbU614A7q0a91zz7zQ7F0HoOVQHgDb/GhvgUdgPwrk6Qozrv3tDUkx1EOjRCwIiGjTkH3qgzGeRmP60=;HLxscQX/0KkOsvlWvT0BBw=="
 ---
 

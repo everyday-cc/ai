@@ -1,31 +1,29 @@
 ---
 category: news
 title: "RWS Announces Revival of Language Weaver Brand"
-excerpt: "Return of Language Weaver to unify and represent RWS’s machine translation technologies CHALFONT SAINT PETER, England--(BUSINESS WIRE)--RWS, the world’s"
-publishedDateTime: 2021-06-09T09:47:00Z
-originalUrl: "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/"
-webUrl: "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/"
-ampWebUrl: "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/"
+excerpt: "RWS, the world's leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic language translation."
+publishedDateTime: 2021-06-09T07:06:00Z
+originalUrl: "https://www.lelezard.com/en/news-19847012.html"
+webUrl: "https://www.lelezard.com/en/news-19847012.html"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "yfpYjw8yWrYljF0mlTHnK4EKzBcSzLPXkrkKQj2TimKB2ccmt8SrYyz2xszAQN++ES5PVQL12NWMMbbp//VjK8GVQBSSk4j7jT+UKmp/t2tfAMqaa1es6WC/NjNHTFNrG86V1sCaKdFBsIX9+tack4TrnRCBrNltD7i1ass/jsH4oV6jwMNDM3a1pq1OHN52GHf+aDE4zlWAmlQaPSBsFCUCiB/FsT2c0qbXIPvsWlgVDRkxpPpB3FMY59w5SWVqYtIlR+tPOMVKLQExxRPJJ8rSVlA28oCSrCK0frzmknbKpFb0t+WWw7gsRgY7Xux9rLjFbugHP0zl4E1vTY2fbr+jH+NGBi3kXW48bgYKy+Y=;pi4E2OG3HMasp2NBqMoGGw=="
+secured: "fH8ekS7uu5UJ13Bzpld2jYuD5t5R7APC6FdS4VvfZY1Ye0TdPcEWlahPPrIasd720wPa9pjM8PrRklTU+WkNnwTLIvzKu0+huWMMUU4+wLhFPb1IU/v9ZNUUeQ34OfaCM8HWtnw2JuzH/j8kwpMa+dSGfHJq+UUkUvlmmDWrdX+3vjCRxu2/++zlQA5qepDYaXNnZjOnj9tFMHppc3Yd93ihjiFqJydVLWC0dppyO2iSCId2bnNftz4G+6MlxmCxZyQ9aOGWYCKn07RZjQfIAgWflEs6hIDHQGdXgZxUVqqRgFZ54uL4xfc8JUHsC0DvJ2RFkgsnXqZoDL9COfTsyTIDAuQvdJultl/BEGXC5QQ=;ys63QVEltFSRik98anA64g=="
 ---
 

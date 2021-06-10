@@ -45,6 +45,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Google AI beats humans at designing computer chips"
+    excerpt: "An AI computer microchip designer. Working out where to place the billions of components that a modern computer chip needs can take human designers months a"
+    publishedDateTime: 2021-06-09T15:24:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-01558-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01558-y/d41586-021-01558-y_19235132.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI system outperforms humans in designing floorplans for microchips"
     excerpt: "A machine-learning system has been trained to place memory blocks in microchip designs. The system beats human experts at the task, and offers the promise of better, more-rapidly produced chip designs than are currently possible."
     publishedDateTime: 2021-06-09T15:25:00Z
@@ -56,20 +70,6 @@ related:
     quality: 37
     images:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01515-9/d41586-021-01515-9_19234274.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Google AI beats humans at designing computer chips"
-    excerpt: "An AI computer microchip designer. Working out where to place the billions of components that a modern computer chip needs can take human designers months a"
-    publishedDateTime: 2021-06-09T15:24:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01558-y?bingParse"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01558-y/d41586-021-01558-y_19235132.jpg"
         width: 1024
         height: 576
         isCached: true

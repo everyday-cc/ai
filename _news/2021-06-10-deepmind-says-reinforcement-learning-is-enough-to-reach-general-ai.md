@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning
 ampWebUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
 type: article
-quality: 106
-heat: 136
+quality: 108
+heat: 138
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Google AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all"
@@ -81,6 +82,6 @@ related:
         height: 512
         isCached: true
 
-secured: "hDB1gHSaBMVb+GOuv8DzOnDji59GEeXu9Cyhmq+rit/nM0MASnaXUyxtjHjcVhTAzz2dJL/0fPSg1iNfhKUwSIEc8au6OGi6BXUiqQmYWCzUNSuDm0VfWXLlHFM1DQADGZqwOrrwCeYxoGDOGE5sZF1G7kjn0drfwoLnHrof8zL8FZxEUeza45AhoSs6gAFCIlo86xiIzSiqB9EDjZGmMkCsvgqFN3qNXWGc2s0K0/rQCpslq1LYQYP9S5S3s0xkBxpyMKlQsT5vzGmMi067v/aAwulpOeOjCgfVNJY8W6Mf+ThQSDkf9aN1kHF4GWgo/mg2Ejcc05qnRjs59jCQefVCPXr9CjNXFqiZ3ayFWIA=;6qnuP50L88nnQ5qhxV/cOA=="
+secured: "9i/tkCqnv7iDlzznqIfvo0Otf3JLUFxVwdxeWVERlQeMbcPHD/U0iA3gPUc/rxgnaYjH7OStAwOor1whlMwwTvdeW+2A/woS3xCr1KFj8IggDQksGjfxNg4ayYO++J/NnFw0WWz1b0g/zZXu7GjZX8I9/AUwk4zArga+jD0Ujh3L+FxmhYIxjC5NvOU2sApnfnyuVLFDLrcwq63y1eZTFaYdPCnrniukqieI5Wv2hMZmEHu/dXYKo/ubzfqppsx6HmriCkNzQAiDsAFw7CsNmtG+tBpAh/8w35MezjSWIKJqwxftFiiljh+Af1dZ/QV5qS3SI0/wL1D6C3xdbqsDfGjblTnYgxGI/yHnQbN9RFTr374B0IsVkAF6WpRn7Gg/ub5q7oF2eQ/vV7Ych1P72MMFZ1KWP06A+bWLjbD6ci8KV3Hh8eGQFkpKWYSN/ZsVPSSp+aPVqrutyiYYse4lkB2tTiQ9TJ5rdE+mGEnfOiZdUkiHhYkPE4ZLIYW/TEaXyaTRgXvvAawLuYKiSnAMog==;PF5+eGNWqLbEwjPW2rhPyw=="
 ---
 

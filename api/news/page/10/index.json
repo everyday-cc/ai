@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-01-eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai.md",
+      "title": "EU privacy debate rages regarding facial recognition firm Clearview AI",
+      "excerpt": "European regulators are concerned over the practices of Clearview AI, whose facial recognition database uses images \"scraped\" from the web.",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/",
+      "originalUrl": "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/06/063_1198303844-1.jpg",
+          "width": 1024,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-eib-sees-up-to-10-bln-euro-investment-shortfall-in-ai-and-blockchain.md",
       "title": "EIB sees up to 10 bln euro investment shortfall in AI and blockchain",
       "excerpt": "The European Union's attempts to catch China and the United States in artificial intelligence and blockchain technologies are set to be hobbled by an investment shortfall of as much as 10 billion euros ($12 billion) annually,",
@@ -1075,58 +1118,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-still-waiting-on-your-ps5-and-ipad-to-ship-blame-the-global-chip-shortage.md",
-      "title": "Still waiting on your PS5 and iPad to ship? Blame the global chip shortage",
-      "excerpt": "Global chip shortage is afffecting industries ranging from smartphone manufacturing to auto companies, so expect delivery delays on your gadget orders.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/chip-shortage-iphone-cars-gadets-analysis",
-      "originalUrl": "https://thenextweb.com/news/chip-shortage-iphone-cars-gadets-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fjeremy-zero-wl8hZoJBSU8-unsplash-e1622445256780.jpg&signature=fedcf2414598b37b9548b34ded480c67",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

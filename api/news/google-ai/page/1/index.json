@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Google AI"
+        "Google AI",
+        "Machine Learning"
       ]
     },
     {
@@ -692,10 +693,10 @@
     {
       "path": "_news/2021-05-24-google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy.md",
       "title": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy",
-      "excerpt": "For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent company. Now we report exclusively that Google ended those talks ...",
+      "excerpt": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page",
-      "originalUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page",
+      "webUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81",
+      "originalUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

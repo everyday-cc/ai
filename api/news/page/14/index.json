@@ -682,6 +682,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
+      "title": "Databricks ups AI ante with new AutoML engine and feature store",
+      "excerpt": "Building on yesterday's announcements around data sharing, pipelines and catalog, Databricks today shifts focus to AI, providing capabilities for data science specialists and non-specialists alike.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "publishedDateTime": "2021-05-27T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-computer-vision-market-size-2021-trends-and-future-growth-outlook-industry-swot-analysis-future-demand-research-regional-forecast-to-2030.md",
       "title": "Computer Vision Market Size 2021 Trends and Future Growth Outlook, Industry SWOT Analysis, Future Demand Research, Regional Forecast to 2030",
       "excerpt": "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till",
@@ -1002,6 +1045,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-27-microsofts-new-cloud-tools-to-empower-developers-and-enterprises.md",
+      "title": "Microsoft's new cloud tools to empower developers and enterprises",
+      "excerpt": "Two new machine learning capabilities were also announced at Build to empower enterprises accelerate deployment of AI models. These include: •Azure Machine Learning managed endpoints – a new capability that helps developers and data scientists build ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Microsofts_new_cloud_tools_to_empower_developers_and_enterprises-SNG_213827963/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Microsofts_new_cloud_tools_to_empower_developers_and_enterprises-SNG_213827963/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/150730032408SELM.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_213827963/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_213827963/",
+      "publishedDateTime": "2021-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
       "title": "This wearable AI translator lets you talk freely and naturally in different languages",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -1041,91 +1127,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-video-navistar-2010-maxxforce-big-bore-13-liter.md",
-      "title": "Video: Navistar 2010 MaxxForce Big Bore 13-liter",
-      "excerpt": "Artificial intelligence is putting the virtual pedal ... hubs in the U.S. “Operating in that environment, we can test our Waymo Driver on highly dense highways and shipping lanes, further ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/news/video/21682531/video-navistar-2010-maxxforce-big-bore-13liter",
-      "originalUrl": "https://www.fleetowner.com/news/video/21682531/video-navistar-2010-maxxforce-big-bore-13liter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-rsa-conference-startup-competition-showcases-next-gen-cybersecurity.md",
-      "title": "RSA Conference Startup Competition Showcases Next Gen Cybersecurity",
-      "excerpt": "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/",
-      "originalUrl": "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
