@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/trousdale-ventures
 webUrl: "https://markets.businessinsider.com/news/stocks/trousdale-ventures-invests-in-preamble-one-of-the-first-platforms-to-offer-ethical-ai-moderation-1030508046"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - AI Ethics
+
+related:
+  - title: "Trousdale Ventures Seeds Preamble's AI Tools"
+    excerpt: "Los Angeles-based venture investor Trousdale Ventures announced this morning that it has made an investment in Preamble, a startup offering up \"ethical artificial intelligence\" moderation to social networks."
+    publishedDateTime: 2021-06-10T13:24:00Z
+    webUrl: "https://www.socaltech.com/trousdale_ventures_seeds_preamble_s_ai_tools/s-0081363.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 17
 
 secured: "wHP1sLsHRyl2eK2MJ8xJ0rMVNlHAw8XTVgwglW7/S7dCS0MRgG+Li2beIEZQMSaDdvft9PQnOX39i9D4WRbfQuySIPc7M98Qa03wmexmwtbTKRUw/QiL5xEzGaIc239Ml+/BJ3ojGUFy2LNW50goXMlgSBbOL+/PyCud3BC0bs+iVJls6DDa9Uxz1mVURYp92tv/KtR4PjIvxVxNuLldB8dly4itA13+HgDeYoCTBGfXTn3kAlKGTlGHeJeb782qv7kh4VBT4MLX9rtzUOvmZiTwFa3YUzEfc/+ykL0WMPvAQ7zH1+FV91dWvN2eUaAgLAJdx9a/7zMdQOZGa7p1KopE+kVW7Le1rqmItTJmpFzuLtK4T9EwX5HcdK3GyG7Uq8l4wLxf259KRQclrKZEv0RaU9qcGtGl1k54Zi8J40pD345bRJ0vy8rqExLcYaL6/veBPPt7aXYPcbffa08i0L8EKipuTMV6oHOYgDJUe2yGiDFK1XwXbgbp+duo4yzB/4HKEZ8X1FshmrgMYNCFSg==;ooQXyc/fX434IHl2fiP71A=="
 ---

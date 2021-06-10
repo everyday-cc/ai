@@ -44,6 +44,36 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AI Startup Eightfold AI Valued At $2.1 Bn In SoftBank-led $220 Mn Funding"
+    excerpt: "The funds will be used to continue the rapid growth and development of Eightfold's AI-powered talent intelligence platform and expand its growing partner ecosystem"
+    publishedDateTime: 2021-06-10T13:25:00Z
+    webUrl: "https://www.entrepreneur.com/article/374220"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/374220"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374220"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1623331509-michael-dziedzic-XTblNijO9IE-unsplash.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "The Briefing: Eightfold AI Raises $220M, PostHog Lands Series B, And More"
+    excerpt: "Mountain View, California-based Eightfold AI, developer of an artificial intelligence-powered platform for HR, raised $220 million in a Series E round led by SoftBank Vision Fund II. Founded in 2016,"
+    publishedDateTime: 2021-06-10T12:55:00Z
+    webUrl: "https://news.crunchbase.com/news/briefing-6-10-21/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 36
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2020/08/Breaking_News.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Talent matching startup Eightfold AI raises US$220 million in round led by SoftBank Vision Fund 2"
     excerpt: "Eightfold AI, a talent matching platform, said on Thursday it raised US$220 million in a funding round led by SoftBank Group Corp's Vision Fund 2"
     publishedDateTime: 2021-06-10T09:20:00Z
@@ -59,6 +89,6 @@ related:
         height: 557
         isCached: true
 
-secured: "pP2/L8h0czVg5/S7kUl+R1sLk0wIEV9UVjB5VfqXxWC0X28OKUCSk0G1NonOY9LNV18yc09oZa7lEWFKpk9H3eeLmh30rcJnIDYPocipMxsAKSkPDfzy6gIBtE7uL24pxE5g7LXMdSOaIo0xeu8YDMbq/rTPz54BgesL2s4Hzt50AhM3x0AgO3McGt2GYy5teRecypJO3/Nqn93wJCNMQiEhHprSGHi7gU0oOIFVU6PgBm6wKgdtPhrNuxcZaQmIy+sJXGZFK6fN0qMNvG3Voe0PbuUkqGMMWkDH+Ox8YSOUSx7HW3myFf0EXXef/VIEKMB41siGKFf84WKOoUAC+jo3vXJjRKfcvEJBVdgTUx4=;C8shmbGYA04r4B+iO13QlQ=="
+secured: "Zf4UMYxd1lUXQMADZMmUlNXYHziGwlGkbuODXrZfdYLqfgFNU7pfvmyWN4Mmm9LJcnteIDPZCCJHhw1gMTeebF0KD/1mx4so6hk2DBN+ZSqdPjaGJNFH/sLfr9jaFax/WH1bRTIw8logvLeubu1UrVAXG2IyCouxdju4kGpUN+lm/BwyGDjI9f4UAtfMhhFqxgBitiXr6fYw9u/xA7NT/cJzz1rMz3iklod0Gw69oTMpHvQp4I5/8CEwuhiUjMOwwTQS7hJBKU8TLev7Zj0remoSMtgaRoRT4EkZINws2n4sgMjAy66H5aW/hBxtfKc7PL3u99iG0I3AveOSJmfzUekPskwXS7rFb9a2UlsItCV6bbdlfBKjQ218WpYkC+KsQy/frTlQg6u10vXmfcNJFnKkhTGil5BTKd+jPYl1IS7sWegq4JUWXE2tKARTFxHRIBN8nE8W16i8pfUI5z0+QnAJkjfYA7/+sYaCn3tLxv8/tWdGTZ9ZNpv4nWmUhYsVRJP7MGAefeC673TNIY+m6A==;Vbp8f8pojqH+7YgNcaEaHA=="
 ---
 

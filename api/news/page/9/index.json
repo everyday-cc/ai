@@ -2,6 +2,155 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-02-ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp.md",
+      "title": "AI-driven platform to facilitate early Covid intervention over WhatsApp",
+      "excerpt": "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308",
+      "originalUrl": "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1701412699.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp-262308",
+      "publishedDateTime": "2021-06-02T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-few-shot-learning.md",
+      "title": "Amazon AWS Machine Learning Summit keynote kicks off with ‘few-shot learning’",
+      "excerpt": "Amazon AWS's AI and machine learning executives Swami Sivasubramanian and Bratin Saha lead the morning keynote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
+          "width": 1782,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
+      "publishedDateTime": "2021-06-02T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report.md",
+      "title": "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report",
+      "excerpt": "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-artificial-intelligence-chipsets-market-size-share-global-industry-report-2027.md",
       "title": "Artificial Intelligence (Chipsets) Market Size, Share | Global Industry Report, 2027",
       "excerpt": "Market Opportunities, Size, Share, Emerging Trends, Technological Innovation, Forecasts & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \" Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5.",
@@ -1081,126 +1230,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-neural-network-performs-complex-hand-movements-in-new-simulation.md",
-      "title": "Neural Network Performs Complex Hand Movements in New Simulation",
-      "excerpt": "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/neural-network-performs-complex-hand-movements-in-new-simulation-349365.jpg?cb=20210603",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-lead-semantics-collaborates-with-fluree-to-bring-a-secure-natural-language-processing-pipeline-to-market.md",
-      "title": "Lead Semantics collaborates with Fluree to bring a secure natural language processing pipeline to market",
-      "excerpt": "TextDistil extends the scope of data platform strategy to include text assets for enterprise data teams building domain-specific knowledge graphs or governance strategies for unstructured data",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147139",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

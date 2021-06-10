@@ -62,17 +62,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
-    excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
-    publishedDateTime: 2021-06-07T07:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 22
 
 secured: "mcXrOSTJUx72GY5nBbZ/5otJqPfmNBu455ubM2vk+ILMKL3CscwMwZ2tz7cde0YSxEL87t8yNBMxSJWioZC2J6JaZRWg1joFi0uJdJbECJM/vkWYP2UCvztaIUsGT/6Pqe2lbx4aXHD1vkulkCok3bEplEQa/tNeOl3SufaaSViW3tuxQ+MwlcapeLY3XWm/LcRz5AMPwAv8oSBmvrQxMo7GzEgSBqoHzILCs6xx1cTbvKVW5oQrXH3B41/VIoskkIWnTaPQOnVIjoOCy20tFSRxUK/22x7AojUMhV9tY0T7UB2rqOKaUYZO54MFOxDGCDAip9TLEoRpZ21C4vc7ccezQsMD2jog2q6tz5cZYVmWWJyUXiWby4MnZ3uu+CEA6zeEW0pFg+krghO3xmOuvBdL9tEqwon4KEG5dep/oFzoEsdcSmBWOYcip4ZKMSAhpJW4xd/3YPWeNq0mscrdLeCrCblDme8xGSB9wBvJliy/JbXD8Df1R1D/inVP6LOIE+CSLzBNl89Fqq/WqWf7uQ==;pkAnKGy6+96zAi/4UQo3HA=="
 ---

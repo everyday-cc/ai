@@ -21,59 +21,40 @@ topics:
   - AI
 
 related:
-  - title: "As artificial intelligence-based loan apps boom in India, some borrowers miss out"
-    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been"
-    publishedDateTime: 2021-06-09T07:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/articleshow/83364025.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms"
+  - title: "How Companies Can Keep AI In Their Digital Transformation Plans"
+    excerpt: "Whether is it now or in the next phase of your company’s digital growth plan, AI should be part of the conversation."
+    publishedDateTime: 2021-06-10T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.toiimg.com/thumb/msid-83364067,width-1070,height-580,imgsize-39145,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "Digital lending in India seen reaching $1 trillion in 2023 * Credit algorithms hinder women, the poor, analysts say * Central bank draws up rules for fast-growing sector June 9 (Thomson Reuters Foundation) - As the founder of a consumer rights non-profit in India,"
-    publishedDateTime: 2021-06-08T23:00:00Z
-    webUrl: "https://news.trust.org/item/20210608235042-nbooa"
+  - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
+    excerpt: "C3.ai Digital Transformation Institute awards $4.4M to 21 projects to advance breakthrough artificial intelligence research for the energy sector."
+    publishedDateTime: 2021-06-10T13:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210610005291/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
     type: article
     provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 39
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/5e22f5bf-6c72-41ab-b40a-0284404d257f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
-        isCached: true
-  - title: "As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
-    publishedDateTime: 2021-06-09T09:48:00Z
-    webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 25
+  - title: "Achieving AI: Pharma’s Digital Transformation Pathway"
+    excerpt: "What does it mean for a pharmaceutical company to be digital and how do we get there? That’s what Reza Olfati-Saber, PhD, Global Head AI & Deep Analytics, Digital & Data Science R&D, at Sanofi tackled yesterday at the DECODE: AI for Pharmaceuticals forum."
+    publishedDateTime: 2021-06-10T05:03:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/06/10/achieving-ai-pharma-s-digital-transformation-pathway"
     type: article
     provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
-        width: 810
-        height: 506
-        isCached: true
-  - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
-    excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
-    publishedDateTime: 2021-06-09T09:09:00Z
-    webUrl: "https://www.analyticsinsight.net/the-sexiest-artificial-intelligence-designations-in-india-of-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 17
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 19
 
 secured: "i7pI2aosdqG86p/0J/4W/kF1j+2R0DWun2xUpaJveZDgAQems4wG99X83xR01ppy2qJyXhmiJQUvRAjuIXRSVHe5OfN0SJNbiPNQ0uy7GnHoRiX4K7fQb7GUAdr5C9v9nwvOMiZ8yeaXTnecu28x3KkCAeHwki5kxU8DreA1Ty1RUqF3WaWQ5bii1vxa0HekEbnvds92aDhuwR5bFrF2uYGZltsIsGfmVpC5Yu3R4LSYXescar5IFHlQ0QHm69KObAJG6QcJG0w7EwymQ5LYc+nBSGFVpM161023aBK7WftWVpZWFCTiaw/xDNA/0DM7jxbiQCl61p4kMbJSLy8Oy2w4OnnsczObH7kxiz2htLI=;EKAspu7SKR+YYstKP5fT4w=="
 ---

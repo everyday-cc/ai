@@ -9,7 +9,7 @@ ampWebUrl: "https://billingsgazette.com/video/watch-now-t-e-d-d-y-self-driving-s
 cdnAmpWebUrl: "https://billingsgazette-com.cdn.ampproject.org/c/s/billingsgazette.com/video/watch-now-t-e-d-d-y-self-driving-shuttles-at-yellowstone/video_e95a368e-cd9b-573a-aac3-25369108e596.amp.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
+    excerpt: "Beep – a provider of multi-passenger, electric, autonomous mobility solutions – today announced the launch of Yellowstone National"
+    publishedDateTime: 2021-06-10T12:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook"
+        width: 2700
+        height: 1413
+        isCached: true
 
 secured: "PkrH6t/UFCN9ultOgB/RhpgCBKmjBNDLVUj7DU0cC5p3SBByyU+so85t8Y8M+/R67909CtRnWtNueB1A6gE25doDisOL+axMXn+E+NMI2OJXeqPBA6vlhU/Se7K3n72p4b9moLKTAMW66EuQkpbPkkPHakRC278FIzKOeDm+2qCw00bLjWjhKOoj9w5cvIQvQl5mRn95rICjQ84n298K4v/ChIqfg6RZ/UKj1UIWnxin3T8zBnNgrxH6bS/btc4plJymh2MW7TVjGfLMIpxTEouzmPAvJhqlOfO3dHKhcGkWcqN+a2GKRLmMwkLf/7evYbCh2wJz1EpfTBKge+9SJrh8zZhRVeNFYAfjeA0fHV3poBae8fBb+hWmHZTo5XGVowpIlxLvUH+rscdBIUylK6CLtbn8xM8cFXTi7VOiXi6sLNxOQP310NYcrmahXm8HKFjB5Dgh8QXAtq9VtzgOAYVrVpYKpsDxOQe5RiLJTTz3kYtUpk7GPH9SnKOAA0Tc83tCmGwjA6ekp2mvDTW/DQ==;c9YfbZJZOg//mxZbqAn0xg=="
 ---

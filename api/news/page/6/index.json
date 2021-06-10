@@ -2,6 +2,155 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-04-an-update-on-our-racial-justice-efforts.md",
+      "title": "An update on our racial justice efforts",
+      "excerpt": "To help combat racism and advance racial equity, we've made donations to organisations that support Black communities in the AI/ML space.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/announcements/an-update-on-our-racial-justice-efforts",
+      "originalUrl": "https://deepmind.com/blog/announcements/an-update-on-our-racial-justice-efforts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant.md",
+      "title": "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant",
+      "excerpt": "In a kind of battle of the researchers versus devs, the decision happened only after Schroepfer and team came around to the thinking of Facebook AI's head of research, Yann LeCun, according to Schroepfer. \"I had this knock-out, drag-out debate with Yann ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "publishedDateTime": "2021-06-03T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics.md",
+      "title": "Tesla turns on facial recognition, Kia adds in-car fingerprint biometrics",
+      "excerpt": "Tesla using facial recognition to ensure driver is seated and alert, Kia K9 features fingerprint authentication, more automakers add biometric capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics",
+      "originalUrl": "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/09130331/automotive-biometrics.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-build-regression-models-with-amazon-redshift-ml.md",
       "title": "Build regression models with Amazon Redshift ML",
       "excerpt": "With the rapid growth of data, many organizations are finding it difficult to analyze their large datasets to gain insights. As businesses rely more and more on automation algorithms, machine learning (ML) has become a necessity to stay ahead of the competition. Amazon Redshift, a fast, fully managed,",
@@ -1086,126 +1235,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-bell-transforms-customer-experiences-and-extends-5g-leadership-by-collaborating-with-aws-for-cloud-and-5g-multi-access-edge-computing.md",
-      "title": "Bell transforms customer experiences and extends 5G leadership by collaborating with AWS for cloud and 5G multi-access edge computing",
-      "excerpt": "Bell chose AWS to help modernize its applications and services and will leverage AWS capabilities like machine learning and analytics to enhance customers' digital experiences Bell and AWS will offer AWS Wavelength Zones on Bell's 5G network for fast and efficient 5G multi-access edge computing (MEC),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-bell-transforms-customer-experiences-extends-5g-leadership-collaborating-/2021/06/03/9383172.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-bell-transforms-customer-experiences-extends-5g-leadership-collaborating-/2021/06/03/9383172.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone.md",
-      "title": "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne",
-      "excerpt": "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor management technology by WinTech, LLC, has expanded their relationship to enable an instant offering in multiple languages,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/",
-      "originalUrl": "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
-      "title": "From low code to no code: Azure GPT-3 and Microsoft's Power Platform",
-      "excerpt": "Microsoft is turning low code into 'don't write code' by taking a description of what you want to do and writing code snippets for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "originalUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/03/5d7d019c-5b4d-4245-9a63-f4cdbf62dbd9/resize/1200x/9d2746c963e4d8f0c0f1939984e26709/tr-dax-smart-narrative.jpg",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "publishedDateTime": "2021-06-03T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

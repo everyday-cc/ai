@@ -79,6 +79,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "PyTorch Becomes Facebook’s Default AI Framework"
+    excerpt: "Facebook said it would migrate all its AI systems to PyTorch. Facebook’s AI models currently perform trillions of inference operations every day for the billions of people that use its technology. Its AI tools and frameworks help fast track research work at Facebook,"
+    publishedDateTime: 2021-06-10T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/pytorch-becomes-facebooks-default-ai-framework/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/facebook-AI.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "3Zsea4gs8Z580iYEpOkJeWWFmFuV1cNkHYP5r4YeIPtiXI83BESxaJ11K+8l7hTjLvCDhu1UNPu/GWoygfbYOE+QHos0VluJh7yGY4j8Loh+iCzFPOIuNQkXGnxwv1lUldvKAsdqKro1s6d23Ogfpc08WekJ0RFKfFAiCIKUD6YuXCNN9exg/tAjrxmX+GiE7LMFkuVb51jXsu6jb6Yg7vaRzXKIZrGXjH6364ShOoGEXkUrM/nNnbtm4IocOqftPpj2wa9HR/EFrE747xQ5ecITorVC9FrSKp5Sa1VAcQ7+V+dSHLVPAbBq6vOy8NhqBVBKPpevyk+cSEF3PVEOt7TyXm2TIBgQZO4VFBcGLbo=;UcL/m4/Z4gcNRdBo8YbYQA=="
 ---

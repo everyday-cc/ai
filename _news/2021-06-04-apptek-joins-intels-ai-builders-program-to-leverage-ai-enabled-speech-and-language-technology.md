@@ -2,9 +2,9 @@
 category: news
 title: "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology"
 excerpt: "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies"
-publishedDateTime: 2021-06-04T10:35:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/AppTek-joins-Intels-AI-Builders-program-to-leverage-AI-enabled-speech-and-language-technology-147234.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/AppTek-joins-Intels-AI-Builders-program-to-leverage-AI-enabled-speech-and-language-technology-147234.aspx"
+publishedDateTime: 2021-06-04T14:35:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 594
     isCached: true
 
-secured: "lCUhZ1v50Cj4jTcH4ShXZWS8BRBQFIZUGhdut5RLoQM7l6OCLGK00rcvrl3DMzSLkO5i2mpHgyS44br5xY7vduUwuycpWsEKT6W3GNOualoVLQf0SGFhZMnjVRkvItql6lGnP57Bx1ZPURDSzA2+pelBGbOeja80m50tJzo6FPFOl/QP1lNPoeSj28Jbjx4Zj0TjfeduYGBnwHYty77Ql9IUiRYgWZ9YpIpfdzQ3KZBdwlEP1mwBUeSMth88tWLgMIp8LZEDrgnkloGwu6/t6pSsuw4eOZTHG0VpzrnaaqzoGQZ13CBbYfBYOzsGqx95FtJDPvq5vMKTeatXkAPAzMIkM4WIb7E7k6Olu7iur6g=;TeT1pKNz2D3iAPaAnxIVjA=="
+secured: "pI6IxSHNp5+xNg7NLB3CcXkK9Cz/H/04f3CdlJkdT+xBw3FpHULlUxOJw/fl9K4hAA+OMfpNO0uPD6zu34kfiiwCvzkfsnDYfjMNrd3yNAesMe/R5R46w9zMKHiq14FGplX+eM2pV5PIHfyUOkRDR+TahTzSSUvQ/ItggUOznqlrVScvtGXOWWfQQhH0PH9ULULDCDSoz7C5sD0nfQU8M0Hvr63281h+MgFeZ86o7t/oYliOZAiH6zLx/535Q0UHg+m7LcIu+4BP8XZ21vP2M1Y0emIWkvEihqHEtel/W87xoGVg5ISpswZXkzoXXIGI5wVOj/keBFoR56YWaGQvfWhb2EbLuL9nBIsN+PIqGyk=;kLoa792UwDUR6tsjOKJD+Q=="
 ---
 

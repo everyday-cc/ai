@@ -24,6 +24,17 @@ images:
     height: 347
     isCached: true
 
+related:
+  - title: "Dimension Data earns Azure Expert managed services provider accreditation"
+    excerpt: "NTT, branded as Dimension Data in the Middle East and Africa region, has earned the Azure Expert Managed Services Provider accreditation. Dimension Data has completed the audit by an independent third party,"
+    publishedDateTime: 2021-06-10T13:10:00Z
+    webUrl: "https://www.telecompaper.com/news/dimension-data-earns-azure-expert-managed-services-provider-accreditation--1386147"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 18
+
 secured: "MZY+O3czrQVSSGnk2mN75LE1aKykn2fAjZJAtm0HrKx3m/z2Li9sSM72dEs9kCZUOsSprrwDbULSjWm82qY45nhuLTB7x4F+Z6ZjCa8cm0CVfKsam+fN4BLIEsGmTi0YLZAHUP1Dt+IYZEXBEFxkbj0YKLxUJ1R7NhcpbKlUBOA500NpC0W8f9GFgL5nT8gweUJmcnzxIYED6QbwpN3/e6DLZTkbR2Gz9l1xc/hn2t/a2+BYRsxcr+b6Q4OO4fqRGuhrJW3vb91XajWkHtI45ghmmRRajFq+I6f/27Kz+BQxX9inc1djlumLc7OHSCCh3R1qC02MJDrZW42rPpjNwH2TPdqzhki9nnhiGtPClgc=;TYjNk9ExCmuisJS7G6Lm4A=="
 ---
 

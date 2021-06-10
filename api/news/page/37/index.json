@@ -2,6 +2,145 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-05-13-driverless-buses-rolling-toward-commercial-runs.md",
+      "title": "Driverless buses rolling toward commercial runs",
+      "excerpt": "Driverless buses are currently in operation ... laser sensors and radar sensors to navigate predetermined routes. Artificial intelligence-based technologies and cameras also work together to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202105/13/WS609c7a8ea31024ad0babd8af.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202105/13/WS609c7a8ea31024ad0babd8af.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202105/13/609c7a8ea31024adbdc76cf9.jpeg",
+          "width": 474,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students.md",
+      "title": "DeepMind provides machine learning scholarships for four Wits Master's students",
+      "excerpt": "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13",
+      "originalUrl": "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581",
+      "cdnAmpWebUrl": "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581",
+      "publishedDateTime": "2021-05-13T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best.md",
+      "title": "Google Photos vs Amazon Photos: which cloud storage giant is the best?",
+      "excerpt": "Each backup service employs AI-powered object recognition to help you locate specific shots. Type a term into either service’s toolbar – such as ‘dog’ – and you’ll find they’re both ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best",
+      "originalUrl": "https://www.techradar.com/news/google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XJqYxETxJ2NujYwTdZTDZX-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best",
+      "publishedDateTime": "2021-05-13T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-dell-jumps-head-first-into-consumption-based-computing-with-apex.md",
       "title": "Dell Jumps Head First Into Consumption-Based Computing With APEX",
       "excerpt": "Senior Analyst, Servers Matt Kimball dives deeper as Dell Tech World came and went last night. Front and center was APEX, the company's consumption-based offering that enables companies of all sizes to consume IT infrastructure and solutions in a cloud-like fashion.",
@@ -1053,152 +1192,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-elon-musk-tesla-full-self-driving-v9-is-weeks-away-fsd-subscription-about-a-month.md",
-      "title": "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month",
-      "excerpt": "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
-      "originalUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
-      "publishedDateTime": "2021-05-12T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-artificial-intelligence-can-now-detect-sarcasm-but-for-what.md",
-      "title": "Artificial Intelligence Can Now Detect Sarcasm. But For What?",
-      "excerpt": "Researchers from the University of Central Florida have created an artificial intelligence device that can detect human sarcasm. Read about the uses of this AI tool here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/artificial-intelligence-can-now-detect-sarcasm-but-for-what/",
-      "originalUrl": "https://www.analyticsinsight.net/artificial-intelligence-can-now-detect-sarcasm-but-for-what/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-7.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast.md",
-      "title": "New KPMG survey says AI adoption is picking up speed, but is it moving too fast?",
-      "excerpt": "COVID-19 left business leaders no choice. Across industries, organizations went all in on digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/",
-      "originalUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-139631966.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/amp/",
-      "publishedDateTime": "2021-05-12T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

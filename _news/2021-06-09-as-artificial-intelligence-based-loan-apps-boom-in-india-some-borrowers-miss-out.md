@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/as-artificial-int
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -54,17 +54,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
-    excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
-    publishedDateTime: 2021-06-07T07:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-based-voice-recognition-and-language-translation-technologies-will-empower-digital-inclusion-in-india/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 22
   - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
     excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
     publishedDateTime: 2021-06-09T09:09:00Z

@@ -64,6 +64,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google uses AI to speed up chip design"
+    excerpt: "Google has trained a machine-learning system to place elements in a microchip design - and it does it much better and faster than its human colleagues, saving space and power, while improving performance."
+    publishedDateTime: 2021-06-10T12:25:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-uses-ai-to-speed-up-chip-design/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_AI_chip_design_lead.2e16d0ba.fill-1200x630.png"
+        width: 900
+        height: 474
+        isCached: true
   - title: "AI system outperforms humans in designing floorplans for microchips"
     excerpt: "A machine-learning system has been trained to place memory blocks in microchip designs. The system beats human experts at the task, and offers the promise of better, more-rapidly produced chip designs than are currently possible."
     publishedDateTime: 2021-06-09T15:25:00Z
@@ -88,6 +102,6 @@ related:
       domain: natureasia.com
     quality: 35
 
-secured: "hHzlJZwYmoUHDL0SCM1bg8kGKbJftAO2rYVuGJBQRC4xKX0rTimS/ETtxZSzZkcpy6MjYOXW6hbw0Qut9JqjvoLcMJy+eldlIBM2BEwLLGLFidTCIa4mCmeZlHeca/t5jX8pBFUSe+4QS374TJbzdQpR6NSlvHOVZiUS9ogYIE8qLIyves2ivDYa4wL0UQCRZW3f7Arg4p6UZ/7ZL/iUB5IXviVpwfkGNG2LrJEkiNIzv3vzJbbTaYeOq4krelsKDPltTcFUiIvofspxVLuYUpDoNAFxcsrspgJcfRTRBh/QcNobGHaRzl1NzdDgwhGAsHpJj5W5EQH/fVV1qxfchFlrpUZB0+XBvZ4tnDEq05Q=;YO38a3XaW+cfeEy4wbCZcA=="
+secured: "Dpnt0hDDNWyxMvOJQAStgjylQEdOfhMo+63E4Gs6bq/yvnmD5fBZC52CXRjHxmrMlxkJOUIJemxRg2lrPD9+87ALsRqzdlGy9c7eHNlgkuR/PDFo/ikaht5twPL/Jn8Ws8pYP3VSBuLv+7mR3CWzChnfrmEJYoyvUdW7pU3RoNBzXt7hZmZlNhLP0Qm0z2OkKGYVsqcNdvWaaTjKNuKfVSBX2Q3tcXfsXmOQhGqvdhYb37X63xZxNxScwY6VFHQQdpxKyOD5UTIwPvU3/Y+x7cVGsD2pO17rABGrwGuobt7JVkDYuo05PhYKFHsnKORy2w8+mLd6Ef+XP9VKq/NZdksP4K3sFt2HUurChNvyN936FpONup0Aq50UWti+okEfNLsx2UocJBJfWM1JlT1bskZbFK+1zLq2S721BaqvWCK5nbC1OYMauQNChYcvLS39cBukdVkNJqHCyxnQxLjun8RLdPW2MiLLtxpnvLqYCdsxJGHWWhAnnYJG9+PecstNs3GKIdZFSE5jf2hFk9a+Wg==;g0MR6Vm3sHp9ofHf0tC5EQ=="
 ---
 

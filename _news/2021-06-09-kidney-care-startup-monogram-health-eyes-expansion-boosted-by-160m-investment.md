@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "In-home kidney care startup Monogram raises $160M"
+    excerpt: "Monogram Health, a Tennessee-based startup that offers in-home care services for patients with chronic kidney disease raised $160 million in funding. The startup plans to use the funds to fuel its expansion across the U."
+    publishedDateTime: 2021-06-10T11:45:00Z
+    webUrl: "https://medcitynews.com/2021/06/in-home-kidney-care-startup-monogram-raises-160m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2016/12/GettyImages-484277942-1.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Here's why Humana helped a kidney disease management startup raise $160 million"
     excerpt: "Tech-enabled kidney disease management startup Monogram Health scored $160 million in Series B funding from investors including massive health insurer Humana. What it does: Monogram Health teams up with insurers to give members affected with chronic kidney disease (CKD) and end-stage renal disease AI-enabled services to manage their condition,"
     publishedDateTime: 2021-06-10T05:08:00Z

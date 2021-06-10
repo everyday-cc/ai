@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-13-prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer.md",
+      "title": "Prescryptive Health Welcomes Dr. Luyuan Fang as Chief AI and Data Officer",
+      "excerpt": "Prescryptive Health, a healthcare technology company focused on empowering consumers by improving the way healthcare is delivered, announced today that Dr. Luyuan Fang has joined the leadership team as Chief AI and Data Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer-1030422188",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer-1030422188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1508378/Dr__Luyuan_Fang_as_Chief_AI_and_Data_Officer__Prescryptive_Health.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer.md",
       "title": "Prescryptive Health Welcomes Dr. Luyuan Fang as Chief AI and Data Officer",
       "excerpt": "Prescryptive Health, a healthcare technology company focused on empowering consumers by improving the way healthcare is delivered, announced today that Dr. Luyuan Fang",
@@ -1312,58 +1364,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how.md",
-      "title": "Microsoft Windows and Azure can be a business lifeline. This training shows you how.",
-      "excerpt": "Register fo r the AI event of the year ... With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
-      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
-      "publishedDateTime": "2021-05-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

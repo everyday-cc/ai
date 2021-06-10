@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-gr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
     quality: 59
     images:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "PyTorch Becomes Facebook’s Default AI Framework"
+    excerpt: "Facebook said it would migrate all its AI systems to PyTorch. Facebook’s AI models currently perform trillions of inference operations every day for the billions of people that use its technology. Its AI tools and frameworks help fast track research work at Facebook,"
+    publishedDateTime: 2021-06-10T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/pytorch-becomes-facebooks-default-ai-framework/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/facebook-AI.jpg"
         width: 1600
         height: 900
         isCached: true
