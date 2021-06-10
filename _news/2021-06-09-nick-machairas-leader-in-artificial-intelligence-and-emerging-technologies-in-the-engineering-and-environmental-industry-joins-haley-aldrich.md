@@ -2,22 +2,28 @@
 category: news
 title: "Nick Machairas, Leader in Artificial Intelligence and Emerging Technologies in the Engineering and Environmental Industry, joins Haley & Aldrich"
 excerpt: "Haley & Aldrich, an engineering and environmental consulting company, today announced that Nick Machairas, Ph.D., has joined the firm as its Data and Analytics Leader. Machairas is an expert in advanced geotechnical and geoenvironmental data analytics,"
-publishedDateTime: 2021-06-09T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nick-machairas-leader-artificial-intelligence-emerging-technologies-the-/2021/06/09/9387141.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nick-machairas-leader-artificial-intelligence-emerging-technologies-the-/2021/06/09/9387141.htm"
+publishedDateTime: 2021-06-09T13:03:00Z
+originalUrl: "https://www.register-herald.com/region/nick-machairas-leader-in-artificial-intelligence-and-emerging-technologies-in-the-engineering-and-environmental-industry/article_08a16ab2-ce62-5bb6-b14b-9b119d0a4e0a.html"
+webUrl: "https://www.register-herald.com/region/nick-machairas-leader-in-artificial-intelligence-and-emerging-technologies-in-the-engineering-and-environmental-industry/article_08a16ab2-ce62-5bb6-b14b-9b119d0a4e0a.html"
 type: article
-quality: 0
-heat: 0
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "UWG4/C4w2pErId3vFG2tVQkqQEt9yfMdaIZ5uUPTIz7m5O3Ftrs2PS3VJrXzIhclE+lp4qY619ugGOKRjsL65sESFuVI7hfElYQF7miml6y1v1xlo3Di/sOwWq8PJ3kqYpaqUAzpSXKuNV9erVu/xwR7K4l5AnwQPtn7DgF9G3uWQmrl641xpeEWzVmOsrYG00TDYN1fjL1eOb7uJceYxWc/DVKpieKUJE1Q4M8vqbzATCZ49GrKNP1MXDEYmWyaF7jOjTdaDIajVD2BImaPM4oEK5HBshRjO9As7IVTh0VtXTnXRzv4RXo4av20t/jz3wFL1erNzseKkCZ6z8N3qhg32IgRbEQ7sUeMQVQ+lV4=;++7Ln9Ul5xKflgrv60sImQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
+
+secured: "o7NoJHH64Vq9bGVdIRQbPKAWIqZ5FElBc8gGMWjfQBVq2yomYSLleb02XuNGYA1RI10cfvaXupnHtk6gs+cehxYE5+chj3I31g/7XQP3wSP5Rn5eUFQ9qFGK/4VMQbROVbQGP2/ZDyFT7B7YbPUq0c4AmDyrRG+RCgmeIIH3+f++8HTRuX9JmJJEZ3MY4caoLvoHplAzKhTQG91kx50aunKDyi3yYV7BKDY663jhSXO3J58wkUm5x7iY/+ufxyszb15QJJiM7pWs1sOwhHaed9s7XLcEeWT0NickDCgOGfyLK7G2//30/8N5jhiQOLvpLrnCEcrjLr8GB8BJchhta/T7ORtk0ihFG5tAmKmrQ48=;FbIHU7s9/HtFrg49LbLoXg=="
 ---
 

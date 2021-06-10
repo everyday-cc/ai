@@ -54,6 +54,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
+    excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."
+    publishedDateTime: 2021-06-09T15:01:00Z
+    webUrl: "https://insidescience.org/index.php/news/artificial-intelligence-may-be-better-humans-designing-microchips"
+    type: article
+    provider:
+      name: Inside Science
+      domain: insidescience.org
+    quality: 38
+    images:
+      - url: "https://insidescience.org/sites/default/files/styles/380x220-news/public/2021-04/Polymer-Jane-Austen.jpg?itok=eK77NAxs"
+        width: 374
+        height: 220
+        isCached: true
   - title: "AI system outperforms humans in designing floorplans for microchips"
     excerpt: "A machine-learning system has been trained to place memory blocks in microchip designs. The system beats human experts at the task, and offers the promise of better, more-rapidly produced chip designs than are currently possible."
     publishedDateTime: 2021-06-09T15:25:00Z
@@ -67,20 +81,6 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01515-9/d41586-021-01515-9_19234274.png"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
-    excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."
-    publishedDateTime: 2021-06-09T15:01:00Z
-    webUrl: "https://insidescience.org/news/artificial-intelligence-may-be-better-humans-designing-microchips"
-    type: article
-    provider:
-      name: Inside Science
-      domain: insidescience.org
-    quality: 36
-    images:
-      - url: "https://insidescience.org/sites/default/files/styles/380x220-news/public/2021-04/Polymer-Jane-Austen.jpg?itok=eK77NAxs"
-        width: 374
-        height: 220
         isCached: true
   - title: "Computer science: Artificial intelligence speeds up computer chip design"
     excerpt: "Computer chip design can be greatly accelerated by using machine learning tools, according to a paper in Nature this week. The approach is shown to generate viable chip designs that perform at least as well as those produced by human engineers,"

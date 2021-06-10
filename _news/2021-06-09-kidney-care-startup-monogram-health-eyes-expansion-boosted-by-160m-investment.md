@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/tech/kidney-care-startup-monogram
 webUrl: "https://www.fiercehealthcare.com/tech/kidney-care-startup-monogram-health-eyes-expansion-boosted-by-160m-investment"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 6048
     height: 4032
     isCached: true
+
+related:
+  - title: "Here's why Humana helped a kidney disease management startup raise $160 million"
+    excerpt: "Tech-enabled kidney disease management startup Monogram Health scored $160 million in Series B funding from investors including massive health insurer Humana. What it does: Monogram Health teams up with insurers to give members affected with chronic kidney disease (CKD) and end-stage renal disease AI-enabled services to manage their condition,"
+    publishedDateTime: 2021-06-10T05:08:00Z
+    webUrl: "https://www.emarketer.com/content/here-s-why-humana-helped-kidney-disease-management-startup-raise-160-million"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 33
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/7e79260cc56327ab626ee6af07292ef6/default-image-share.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "GXGhRgCQX9DX2KNs5wClbM+8k7DZjJzqiIg1fzHbyUaiTOfaKA2N2b/o4jp276vJIg9hhGJEMq6bh3eXqY0mGkVSynzJF3vl8dH1VrxjJyxtO2wO3Kyzadjr1QrX7KOs/X8Lill63YMOjEZc/f2bsriSduat/zBD/een3YQ2BmJkx86mBXj/F1ngaupyDZW+J7aW9W+2eevKziPQszTNAUwEJb7XsZAlnrOExgVqxc2gjX3LWwar/jOkxv7bJSYna14aGHFRlJpM97Thf9dEuJ9ebfY42mSkEtDcGx8n0WGm3hcUhVlrAf4sxHnn5Q5WlTyHLcEj+F2t8i0+t3uXz+8dMyCaBUelcWi7o6y23Ew=;+Wer02MVmisQF5VnNmwYcw=="
 ---

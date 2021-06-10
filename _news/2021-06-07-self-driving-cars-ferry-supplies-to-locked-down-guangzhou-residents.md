@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "WeRide, Baidu, Pony.ai Send Autopilot Cars to Join Covid-19 Task Force in Guangzhou"
+    excerpt: "Chinese autopilot companies, including WeRide and Baidu, have joined the country's efforts in handling the latest Covid-19 outbreaks in southern China's Guangzhou. Some 23 self-driving cars and 13 small logistics vehicles have delivered more than 64 tons of supplies to Guangzhou's 11 medium- and high-risk areas via nearly 1,"
+    publishedDateTime: 2021-06-10T05:53:00Z
+    webUrl: "https://www.yicaiglobal.com/news/weride-baidu-ponyai-send-autopilot-cars-to-join-covid-19-task-force-in-guangzhou-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 33
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/weride-baidu-ponyai-send-autopilot-cars-to-join-covid-19-task-force-in-guangzhou-/14002775772626944.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Autonomous vehicle makers help fight COVID-19 in Guangzhou"
     excerpt: "Volunteers in Guangzhou, Guangdong Province, helps load anti-virus material on WeRide's autonomous minibus on June 5. Photo: Courtesy of WeRide . Chinese autonomous vehicle makers"
     publishedDateTime: 2021-06-07T02:48:00Z

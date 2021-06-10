@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
 excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."
 publishedDateTime: 2021-06-09T15:01:00Z
-originalUrl: "https://insidescience.org/news/artificial-intelligence-may-be-better-humans-designing-microchips"
-webUrl: "https://insidescience.org/news/artificial-intelligence-may-be-better-humans-designing-microchips"
+originalUrl: "https://insidescience.org/index.php/news/artificial-intelligence-may-be-better-humans-designing-microchips"
+webUrl: "https://insidescience.org/index.php/news/artificial-intelligence-may-be-better-humans-designing-microchips"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: insidescience.org
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -87,6 +88,6 @@ related:
       domain: natureasia.com
     quality: 35
 
-secured: "B7IU4f2owooO6hjWKZlKeg6tsJ58C53J7IJ8DWJRJv/KOyxPaLILFwOzGpd87cVsle370S/fySsDP7tQkkmrDeFSTPHz7qDw6NL98AUUSI4MNmw2Zd9nHXWhIxUPoMaGfIke2WJhbkmeUc5tRpE+12xYxIJCcyfbzQK0snOEXGUM2zyaJ5PS66jAmqvjHQxHm99H4dqmwLPh401r3JeXSoAeOitOT2a3kpG4406wBUTcfYi8L1NisFcDCv8jT6GwMyCCZpaD27sQfz0K33lO17EqSYtu4+jM+6fq/bc0rDPHQ04gYqrABapNa+fShoio9rvLcG8pzxeBBTEf/Lw3kWoFZDMsIl3u72imevJJ6oENU/o/Bw/DCNUcmMm1M2xKFsnRxkdxj1ESo/eqwYTHf3yS4g1SR2fn/qxNq+R6CygARBllEs38byME13+qgIg7u/0X+rGJlyHDeV3Avp29WTZoqvEhp13zKLyTPFw02m3iKjhmQyC7/085Zl0UYDT/DhaUEggtzWeuYOdV8lsdoQ==;26uZXqwbvb+tKHs5l8/uKQ=="
+secured: "wzJhHc9FNBat/ZqUt9tNkVHl6U5LtCRWMd4RG4IC1QqAT3XJXmjl5NRbMcEpcOCes6IfBbHFpraStXY3Zudshk4vFOspv51SM/87VKbPJ2P9ea5dTXAHT/mCFC9CAgTfpVK7HvC8DqTi/qnOQtkCtl3rUCM3B2G5sb8xi4208AB3SrfJRK64T+lPIFmYd+ooLES7WePiS2Tkg7YfT6JjtgpPY8umiJ7zVf2iG8PEW9x2pmBYmfulad8qYNDayCo/Q1/e60hjDO7AbSn22tC35jjflt/nhXpPYcuVxMx3Q48mUuUc8AALPRl7uoJck7DMu2peqkceNB9HorI0L4E5IFlOPOaFlAFarK4E9RgncGw=;IHwNFuwmqoDhkRwk9h4tuw=="
 ---
 

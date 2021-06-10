@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 secured: "tnnA83XEoKk1zoVeILt9MDg6iovVhyXBNsywZtgExkaTD2mhYoh99tQ/wkovLhHW/Zxpv2KX8eEb77aOEPzaN2iSukgqGfSwoTzv6mIQNMWaVGlQiCy6JUyeSWEdBvOUXaFGUiiFtCXjpvTZgW5eIe+mLRcbNasHjUj1M46FeCso7PWMK7MhrSenUonJ+WUtZBqf6ZF9zKxST2UrlEqS575TklsGnnEIz5MeFrH56WBj6nMQyDA2s7tRot7DygxmygwSUv/4lYFDlHZN/fRDODuy5fTOndmwtFClLX6EuuNfrY7HNBeGiIPP6RnOwVw7PU211FrDn5Mj53T3Bv/wsDWyLKCBHRzE/i+vMWq7SOQ=;i+cM4eHU+lRfwufF5xAaOw=="
 ---

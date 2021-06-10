@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://techspective.net/wp-content/uploads/2021/06/artificial-intelligence-4736369_1920.jpg"

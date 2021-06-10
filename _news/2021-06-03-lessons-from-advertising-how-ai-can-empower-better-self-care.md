@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 images:
   - url: "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg"
