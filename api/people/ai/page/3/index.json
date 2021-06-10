@@ -14,7 +14,7 @@
       "bio": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Q6pxNZYAAAAJ",
-        "citations": 30269
+        "citations": 30339
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lydia_Kavraki"
@@ -53,7 +53,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=o5YQMkMAAAAJ",
-        "citations": 40547
+        "citations": 40667
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Maja_Matari%C4%87"
@@ -89,7 +89,7 @@
       "bio": "CERN",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3vZMAs4AAAAJ",
-        "citations": 184253
+        "citations": 184189
       },
       "affiliation": {
         "path": "",
@@ -156,7 +156,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 212244
+        "citations": 212706
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
@@ -320,7 +320,7 @@
       "website": "https://mila.quebec/en/yoshua-bengio/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
-        "citations": 408117
+        "citations": 408629
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
@@ -400,7 +400,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 10594
+        "followers": 10593
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -481,7 +481,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 251417
+        "citations": 251565
       },
       "affiliation": {
         "path": "",
@@ -518,7 +518,7 @@
       "twitter": {
         "username": "noramayc",
         "url": "https://twitter.com/noramayc",
-        "followers": 17465
+        "followers": 17463
       },
       "topics": [
         "AI"
@@ -549,11 +549,11 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 84030
+        "followers": 84026
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
-        "citations": 43086
+        "citations": 43117
       },
       "affiliation": {
         "path": "",
@@ -590,7 +590,7 @@
       "twitter": {
         "username": "MFordFuture",
         "url": "https://twitter.com/MFordFuture",
-        "followers": 47998
+        "followers": 48000
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
@@ -622,7 +622,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 65400
+        "followers": 65397
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -666,7 +666,7 @@
       "twitter": {
         "username": "johnkrafcik",
         "url": "https://twitter.com/johnkrafcik",
-        "followers": 15997
+        "followers": 15996
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/johnkrafcik/"
@@ -704,11 +704,11 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1525432
+        "followers": 1525228
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
-        "citations": 17293
+        "citations": 17393
       },
       "weibo": {
         "url": "https://www.weibo.com/kaifulee",
@@ -751,7 +751,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 28008
+        "followers": 28005
       },
       "topics": [
         "AI"
@@ -782,7 +782,7 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14115
+        "followers": 14113
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
@@ -842,11 +842,11 @@
       "twitter": {
         "username": "SebastianThrun",
         "url": "https://twitter.com/SebastianThrun",
-        "followers": 76957
+        "followers": 76948
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
-        "citations": 125767
+        "citations": 125919
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
@@ -900,7 +900,7 @@
       "twitter": {
         "username": "soumithchintala",
         "url": "https://twitter.com/soumithchintala",
-        "followers": 88601
+        "followers": 88600
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/soumith"
@@ -978,7 +978,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 245781
+        "followers": 245733
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
