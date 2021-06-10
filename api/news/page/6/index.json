@@ -2,6 +2,397 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-04-annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker.md",
+      "title": "Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker",
+      "excerpt": "DICOM (Digital Imaging and Communications in Medicine) is an image format that contains visualizations of X-Rays and MRIs as well as any associated metadata. DICOM is the standard for medical professionals and healthcare researchers for visualizing and interpreting X-Rays and MRIs. The purpose of this",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/1-1247-Architecutre_v2.jpg",
+          "width": 800,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T13:48:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap.md",
+      "title": "AI Weekly: China’s massive multimodal model highlights AI research gap",
+      "excerpt": "China's massive new AI model, which can ostensibly understand multiple modes of media, highlights the growing AI research gap between nations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/",
+      "originalUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/amp/",
+      "publishedDateTime": "2021-06-04T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-if-all-models-are-wrong-why-do-we-give-them-so-much-power.md",
+      "title": "If ‘All Models Are Wrong,’ Why Do We Give Them So Much Power?",
+      "excerpt": "I’m Ezra Klein and this is “The Ezra Klein Show.” [MUSIC PLAYING] So before we get started, a bit of housekeeping, promotional kind of thing. There is a sub-Reddit, a page on Reddit for this show. I’m not involved in it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/04/opinion/04eks-christian-image/04eks-christian-image-facebookJumbo.jpg",
+          "width": 902,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html",
+      "publishedDateTime": "2021-06-04T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025.md",
+      "title": "Global Artificial Intelligence Chip Market In-depth Analysis by Risk Factors, Economic Fluctuations and Industry Dynamics by 2025",
+      "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025-2021-06-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025-2021-06-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-build-an-automatic-inventory-solution-with-public-datasets-and-amazon-rekognition-custom-labels.md",
+      "title": "Build an Automatic Inventory Solution with public datasets and Amazon Rekognition Custom Labels",
+      "excerpt": "Inventorying store items is a general demand for retail stores and supermarkets. This is usually performed manually by counting items and visually checking the correct placement. Tracking changes in inventory helps business owners evaluate performance of each product, validate correct placement, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/5-1361-Soda.jpg",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T10:24:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-how-ai-can-simplify-streamline-and-enhance-supply-chain-operations.md",
+      "title": "How AI can simplify, streamline, and enhance supply chain operations",
+      "excerpt": "The shift to advanced automation and AI was already underway as IT teams streamline and enhance their supply chain processes and operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/",
+      "originalUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_708536860-e1622819708357.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/",
+      "publishedDateTime": "2021-06-04T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
+      "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
+      "excerpt": "The company’s plays in artificial intelligence (AI), cloud computing and electric vehicles (EVs) are set to put BIDU stock on the path to long-term growth. Baidu is no tech startup. It’s been listed on the NASDAQ since 2005.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04",
+      "originalUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04?amp",
+      "publishedDateTime": "2021-06-04T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic.md",
+      "title": "How do you travel abroad safely during the covid-19 pandemic?",
+      "excerpt": "As countries start to open their borders to holiday-makers, confusion remains over which countries are safe, and what entrance requirements are necessary. If you plan to travel soon, here's what you s",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/",
+      "originalUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/06/04160028/04-june_covid-travel.jpg?width=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/amp/",
+      "publishedDateTime": "2021-06-04T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-ai-has-a-long-way-to-go-before-doctors-can-trust-it-with-your-life.md",
       "title": "AI has a long way to go before doctors can trust it with your life",
       "excerpt": "The FDA has approved 80 algorithms for radiology to scan images for signs of disease, but doctors can't trust them.",
@@ -440,6 +831,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-04-artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030.md",
+      "title": "Artificial Intelligence (AI) Chip Market 2021: Market Definition, Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2030",
+      "excerpt": "Chip Market was valued at USD 9.29 billion in 2019, and is estimated to garner USD 253.30 billion by 2030, at a CAGR of 35.0% during the forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.wicz.com/story/44032175/artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030",
+      "originalUrl": "https://www.wicz.com/story/44032175/artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-a-simple-model-of-the-brain-provides-new-directions-for-ai-research.md",
       "title": "A simple model of the brain provides new directions for AI research",
       "excerpt": "Research on how human brains process language can help create algorithms that are robust enough to understand and engage in conversations.",
@@ -786,447 +1211,6 @@
         "AI",
         "Computer Vision",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-build-regression-models-with-amazon-redshift-ml.md",
-      "title": "Build regression models with Amazon Redshift ML",
-      "excerpt": "With the rapid growth of data, many organizations are finding it difficult to analyze their large datasets to gain insights. As businesses rely more and more on automation algorithms, machine learning (ML) has become a necessity to stay ahead of the competition. Amazon Redshift, a fast, fully managed,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T15:01:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-amazons-ring-will-finally-make-police-requests-public.md",
-      "title": "Amazon's Ring Will Finally Make Police Requests Public",
-      "excerpt": "Amazon’s Ring—a company that is famously pretty chummy with law enforcement—will now require law enforcement officials to make their requests for security footage public, the company said in a blog post published Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/amazons-ring-will-finally-make-police-requests-public-1847024491",
-      "originalUrl": "https://gizmodo.com/amazons-ring-will-finally-make-police-requests-public-1847024491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/895a5dc87cc366ba7671aa4df596f370.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/amazons-ring-will-finally-make-police-requests-public-1847024491/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/amazons-ring-will-finally-make-police-requests-public-1847024491/amp",
-      "publishedDateTime": "2021-06-03T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-the-success-of-self-driving-vehicles-will-depend-on-teleoperation.md",
-      "title": "The success of self-driving vehicles will depend on teleoperation",
-      "excerpt": "Teleoperation makes it possible to remotely monitor autonomous vehicles and lets someoone take control when needed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/",
-      "originalUrl": "https://venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0fbe7281-0cb5-4d7c-9fc5-70e5ca1b45a0-e1585003152630.png?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/the-success-of-self-driving-vehicles-will-depend-on-teleoperation/amp/",
-      "publishedDateTime": "2021-06-03T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-cities-are-weighing-the-dangers-and-benefits-of-facial-recognition.md",
-      "title": "Cities Are Weighing The Dangers And Benefits Of Facial Recognition",
-      "excerpt": "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kuow.org/stories/cities-are-weighing-the-dangers-and-benefits-of-facial-recognition",
-      "originalUrl": "https://www.kuow.org/stories/cities-are-weighing-the-dangers-and-benefits-of-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kuow-prod.imgix.net/store/48a3e099e3a28e297f37554252d04e90.png?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=402&w=402",
-          "width": 402,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KUOW",
-        "domain": "kuow.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
-      "title": "Biden's AI czar focuses on societal risks, preventing harm",
-      "excerpt": "Robotics scientist Lynne Parker was a pioneer in figuring out how robots could work together to perform difficult missions, like cleaning up after a nuclear disaster, waxing warehouse floors or pulling barnacles off a ship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
-      "originalUrl": "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/4KQI2JAAWJBB5AL6RC627ULDHA.jpg",
-          "width": 2000,
-          "height": 1765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2021/06/03/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/?outputType=amp",
-      "publishedDateTime": "2021-06-03T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Click Orlando",
-        "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-biological-robots-may-soon-build-you-a-better-heart.md",
-      "title": "Biological Robots May Soon Build You a Better Heart",
-      "excerpt": "Computer scientists and biologists have teamed up to create a creature heretofore unseen on Earth: a living robot. Made from the cells of frogs and designed by artificial intelligence, they’re called xenobots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7OvZdWy0Khw/v5/-1x-1.jpg",
-          "width": 1594,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care.md",
-      "title": "ACC and GE Healthcare Join Forces to Advance AI in CV Care",
-      "excerpt": "The ACC and GE Healthcare are collaborating through support of and participation in ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
-      "originalUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American College of Cardiology",
-        "domain": "acc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-ai-health-app-babylon-plans-42-billion-spacand-push-into-us.md",
-      "title": "AI-Health App Babylon Plans $4.2 Billion SPAC—And Push Into U.S.",
-      "excerpt": "The growing market for virtual healthcare is heating up with telehealth app Babylon announcing Thursday that it is going public by merging with a special purpose acquisition company, or SPAC, that values the company at $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/",
-      "originalUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b915bf2d94bf703b936962%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1646%26cropY1%3D46%26cropY2%3D971",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/",
-      "publishedDateTime": "2021-06-03T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-tsmcs-5nm-chip-enhancements-steer-ai-driving-5g.md",
-      "title": "TSMC’s 5nm chip enhancements steer AI driving, 5G",
-      "excerpt": "Taiwan Semiconductor Manufacturing Company (TSMC) introduced N5A enhancement to 5-nanometer chips for AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/",
-      "originalUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1256651755-e1622663901654.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/amp/",
-      "publishedDateTime": "2021-06-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

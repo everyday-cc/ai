@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-performance-g
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/24/1-2119-Architecture-1.jpg"
         width: 801
         height: 522
+        isCached: true
+  - title: "Build patient outcome prediction applications using Amazon HealthLake and Amazon SageMaker"
+    excerpt: "Healthcare data can be challenging to work with and AWS customers have been looking for solutions to solve certain business challenges with the help of data and machine learning (ML) techniques. Some of the data is structured, such as birthday, gender, and marital status, but most of the data is unstructured,"
+    publishedDateTime: 2021-06-10T20:58:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-patient-outcome-prediction-applications-using-amazon-healthlake-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/02/1-2422-Architecture.jpg"
+        width: 800
+        height: 466
         isCached: true
 
 secured: "5/G+2I+8yfuBX/nfSOxoiLKN94sW/ruRh9LAMzKCtgvvMqqBMhfLWMMu2/8UTT+MDqc9XrSGa5bFy6cp8PT2Oviz2A7FY7PLkfppdP7hxUfczBexHeJTjrGE/MLTVQu+j91+ZxygkSpyiAc9CKUU5HCDUDci+Lm/W1ycnfQWf032rprmz7/jKGe8NNAfiDaJjDeikbH1d3aZ6iftp3zY1MKNHdvaVucKO7hWeFJFS/570XVmsB6o4qvC8dNlirtJ2FRqM1MZMfillp0038j0GaxuFf9LwP1z6B5yH4Z/1+YMveAPR9KgAVY536Etru0C4160EQwOXebY/EgyN5Fp39fdkAbKQxaIYgIrUozX2sQ=;oQl/SxSngHV5Yvjroloa6Q=="

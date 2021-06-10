@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-what-400-flawed-healthcare-ai-models-can-teach-us.md",
+      "title": "What 400 Flawed Healthcare AI Models Can Teach Us",
+      "excerpt": "The hundreds of flaws in AI models built to help tackle COVID-19 could be viewed merely as a consequence of fast-moving efforts to stop a crisis. Yet, academics calling out these flaws want you to hear their alarm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e57a58d5be44c3e7f65%2F0x0.jpg",
+          "width": 1199,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/amp/",
+      "publishedDateTime": "2021-06-10T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-lack-of-ai-implementation-may-have-cost-enterprises-426t-signal-ai-finds.md",
+      "title": "Lack of AI implementation may have cost enterprises $4.26T, Signal AI finds",
+      "excerpt": "Survey of business executives suggests AI-driven decisions could have a massive $4.6 trillion impact on the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/",
+      "originalUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Decision-making-Infographics-05-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/amp/",
+      "publishedDateTime": "2021-06-10T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-build-multi-class-classification-models-with-amazon-redshift-ml.md",
+      "title": "Build multi-class classification models with Amazon Redshift ML",
+      "excerpt": "Amazon Redshift ML simplifies the use of machine learning (ML) by using simple SQL statements to create and train ML models from data in Amazon Redshift. You can use Amazon Redshift ML to solve binary classification, multi-class classification, and regression problems and can use either AutoML or XGBoost",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T13:05:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-q2-competitive-update-the-ai-cambrian-explosion-rolls-on.md",
       "title": "Q2 Competitive Update: The AI Cambrian Explosion Rolls On",
       "excerpt": "A lot of new AI Silicon and Software has been announced since March and it can be tough to keep track of it all. To help users, vendors, and investors keep track, our June Competitive Landscape Report is now available,",
@@ -51,6 +207,39 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources.md",
+      "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
+      "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp",
+      "publishedDateTime": "2021-06-10T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -357,7 +546,7 @@
       "originalUrl": "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -668,7 +857,7 @@
       "originalUrl": "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -957,6 +1146,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-10-decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai.md",
+      "title": "Decades-old ASCII adventure Nethack may hint at the future of AI",
+      "excerpt": "Machine learning models have already mastered Chess, Go, Atari games, and more, but in order for it to ascend to the next level, researchers at Facebook intend for AI to take on a different kind of game: the notoriously difficult and infinitely complex Nethack.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
+      "originalUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/nethack-gif.gif?w=770",
+          "width": 770,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
+      "publishedDateTime": "2021-06-09T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-argo-ais-ceo-says-ipo-expected-within-next-year.md",
       "title": "Argo AI's CEO says IPO expected within next year",
       "excerpt": "Self-driving startup Argo AI's founder and CEO, Bryan Salesky, on Wednesday said he expected the company to go public \"within the next year\" and would be raising one more round of private funding before that this summer.",
@@ -995,265 +1236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028.md",
-      "title": "Artificial intelligence and Advanced Machine Learning Market Share, Growth, Revenue and Trends Analysis Report 2020 – 2028",
-      "excerpt": "The latest market study titled Global Artificial intelligence and Advanced Machine Learning Market, released by Emergen Research, takes note of the most prominent growth potentials of the market, which assists industry stakeholders in comprehending the most recent market trends and growth prospects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028-2021-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028-2021-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy.md",
-      "title": "The future of AI in finance is here: Reducing the cost of accuracy",
-      "excerpt": "Finance professionals are no longer willing to endure painstaking manual reviews and the threat of inaccurate data in forecasts and plans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1169108502.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/",
-      "publishedDateTime": "2021-06-09T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance.md",
-      "title": "EleutherAI claims new NLP model approaches GPT-3-level performance",
-      "excerpt": "EleutherAI, a group of data scientists working to open source AI research, have released a language model that achieves leading performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/amp/",
-      "publishedDateTime": "2021-06-09T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-google-cloud-covid-19-accelerates-ai-use-by-manufacturers.md",
-      "title": "Google Cloud: COVID-19 accelerates AI use by manufacturers",
-      "excerpt": "According to new research from Google Cloud, manufacturers around the globe have accelerated their use of digital technologies due to the COVID-19 pandemic. Of the 1,154 senior manufacturing executives polled for the report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
-      "originalUrl": "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/09/2f2eef0d-bb1e-4a07-979d-c608766920f6/resize/1200x/a93862840fbc4e067f58b28c7af79464/google-cloud.jpg",
-          "width": 1200,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
-      "publishedDateTime": "2021-06-09T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-supercharging-self-driving-super-vision.md",
-      "title": "Supercharging Self-Driving Super Vision",
-      "excerpt": "Few startups were as prescient as Scale AI when it came to anticipating the need for massive sets of tagged data for use in AI. Co-founder and CEO Alex Wang also made a great bet on addressing the needs of lidar sensing companies early on,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
-      "originalUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2021-06/09/60c0627031cb5a6fc9ad060c/60c0658866a5ff0c1d575a0e_o_U_v1.jpg?w=640&h=360",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

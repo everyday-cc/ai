@@ -3,8 +3,8 @@ category: news
 title: "Fluent.ai Launches Partnership with BSH to Voice Automate the Assembly Line, Increasing Efficiency and Improving Factory Worker Ergonomics"
 excerpt: "Fluent.ai, a Canadian embedded voice recognition solutions company, today announced the launch of its partnership with BSH, Europe’s leading manufacturer of connected home appliances, to bring voice automation to its factories."
 publishedDateTime: 2021-06-10T14:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fluentai-launches-partnership-with-bsh-voice-automate-assembly-/2021/06/10/9388304.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fluentai-launches-partnership-with-bsh-voice-automate-assembly-/2021/06/10/9388304.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388304.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388304.htm"
 type: article
 quality: 0
 heat: 0
@@ -15,9 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "dCtiVTb5PAr8iFFpdr6bjM/hc4mgqYkGFNoDhbWpl7yG5BM8W0s6/2sLY3N0DH2JtOrIaERA2xMTbo39a2iGWU7pxFfdRzoVIHqhV1VHGz2WljaDq0qmWqS01e27ekj5YbdumMXVfWLbJevWlaQvdsnPmFmbOlgJRSeDaDUotTfd/pgPKZanjkdL5VzrlKjZmHsNa+e+UNbajyn0+vfsedeLFpmLt3UdZoVsQyFqICJQOhGoL0s0eLCUtkjVBCyFJyq+gcbKdKVmGA0Xk3zzyyrV35ckHGwvBjpAFivdxNzkGGHqEF1OlJ5kGxb3Zg+Ewsfle+ryXxs5NAxhl7Rf8Oc6K2GHhXbxoYDMFlbqTTU=;HFc6epp8QUxed/WdYPrzlA=="
+secured: "8raTXwbfWgsw1wumALjeY1ktNmHBXBnR5GSOr3UFLxx9qOgKP9Uh/Gg2RUs1pwWTWNZqTKnAJVFJnrw7MazwUITbxoPhTZ9TXkroMJy+aw9q8EcWlLIjiyEovFhrtTZBdgeDtsaU+T06i+1QJeFmHfl5wlqVD/LIO+YyuC5YZSybQrzJt1bG1q6WRIZQs1v+9Jb2wgucZzZuaWWiQ9ORI3gdiiY2WpnDnDseIcO4rPwgId6+p/nqNuTFOj+fAH9RnYLEdQbQZn97XcZEd9ux1o65v25IetLqqgLoQkHSnFMa533frLNGZgLvNxlQYoeP6uh/fm/tvRnoYZgTnv1SM35s2LFwCuYDi4goKfSkWlw=;B7M4Rsv99mUXb06FcPzKqQ=="
 ---
 

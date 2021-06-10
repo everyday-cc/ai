@@ -85,6 +85,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Build patient outcome prediction applications using Amazon HealthLake and Amazon SageMaker"
+    excerpt: "Healthcare data can be challenging to work with and AWS customers have been looking for solutions to solve certain business challenges with the help of data and machine learning (ML) techniques. Some of the data is structured, such as birthday, gender, and marital status, but most of the data is unstructured,"
+    publishedDateTime: 2021-06-10T20:58:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-patient-outcome-prediction-applications-using-amazon-healthlake-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/02/1-2422-Architecture.jpg"
+        width: 800
+        height: 466
+        isCached: true
 
 secured: "+TUdAqul60ey+jzud9X3qCO1g1d68btqn8n7Ve16iNQs4to0AFfXB9hTiUi3XsfaXotNg4IMWFAYs/no95fkIxkjXI5GvSiIvh1iAz6qiL4pvZ14bY7vTc0CCOaDIkYyZIkBBikIEFLpfrWR5AmGDDZ5o+JcA1zTaHBHsw1trauos9POpSnAQKSBVwNZ8JeCFbcXjnOoZF8VT/yf+hOQ8SM2NRgx5pBC0y3HTqLAbqyzrfdstouFOpVKsLThp6K21NYYw+68WzqTqxwUozd16fRRok8nPqYsm0footDyEmfZnA8AZhVG8Pv+1blzLE+jHcVeIA3eQJDaxDWtLtoLTHUQt5sidqNhvpOxg3joisI=;WgPZBFuN144vrL02iiR4Gg=="
 ---

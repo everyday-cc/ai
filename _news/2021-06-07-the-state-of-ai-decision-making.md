@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://s100.iracing.com/wp-content/uploads/2015/11/IE-Blurred-BG.jpg"
         width: 1920
         height: 1200
+        isCached: true
+  - title: "Using machine learning to evaluate and discover theories of decision-making"
+    excerpt: "In the largest experiment studying people's ''risky choices'' to date, researchers show how machine learning can be used to test and improve long-stagnant theories of human decision-making."
+    publishedDateTime: 2021-06-10T04:00:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2021-06/aaft-uml060721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "wKNYPj9+GjMCCM30Xr768WTvLbzE6dY4dwujjGpsXUigDnz3tpVyZBw4VEZYoHzqdSjy0aJo+xXvTeUov0HX/vrs1a33hQ7vZdLs+v5c2BKnY47OYztxux33YHc9m3kIzBA7DM0TTb6dBzmMD/Fqy4YOnPpIh10MCS1MzWaK3O5qAjzMfdil5WSxeKWQTKYWQvzhJIBDuf/DMnu3x0MpXKRJ0zkGM/CPieK6YtZPBu3ALgbVXHGDwb5Y3CIF6gDvQWFu5URnEIgcZEAuxB+Y5H2QQnpSuJhSSfjQjmlr5mKahdMddrSLvdMqgc8q+EsZNzPjdyFyvOl9LfjsN+Tv0J+HGYOn1s3kwvPzRZpJGJ2XhauOXaPalUjFMu+7nY8/wW20jLSXjfZ28juEf9S9AUWQ9AfP04sXB9TfOL+tWsBTKDIuLhmxHeEGGz8ZEw4uZ10xMxLWtEyBC3CUYusm2I5S/ZHQLlgLoFA7LPrgfSE9I7qrJIh0JbZ0vyCLIR44qcg3RxCOa5vbeWRgJx8NuQ==;KvtgEK7q9aUVZY3BJNB/gw=="

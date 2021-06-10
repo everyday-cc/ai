@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Edge Devices Market [ PDF ] To Witness Significant Growth By 2021-2027"
+    excerpt: "New Analysis Of Artificial Intelligence for Edge Devices Market overview, spend analysis, imports, segmentation,"
+    publishedDateTime: 2021-06-06T13:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -57,6 +57,15 @@ related:
         width: 800
         height: 464
         isCached: true
+  - title: "Computer Vision market is booming worldwide | Cognex Corporation, Basler, Omron Corporation, KEYENCE CORPORATION, National Instruments, and more"
+    excerpt: "Global Computer Vision Market 2021 Research Report initially provides a basic overview of the industry that covers definition, applications and manufacturing technology, post which the report explores into the international players in the market."
+    publishedDateTime: 2021-06-10T20:01:00Z
+    webUrl: "https://ksusentinel.com/2021/06/10/computer-vision-market-is-booming-worldwide-cognex-corporation-basler-omron-corporation-keyence-corporation-national-instruments-and-more/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "Lj1g5piFJrNS2Gvo4xO0VHLclFr9gQSEklMqlOnTz7QEhcl099ZpPSRo5gKtBzB3KGEPJcpS0FyCYZgyVfEwVVA7Ci57kEDBObOaRamwq54r/Jv9jVukI4yl4cPvr8WA9sRo34D7rGjw5CdzpapQXjix9gXeBTx+d7vJ58K2nvFTNKpEGXqqQuRSfAzj8WROZGp7bbWNYcJoOv2d31F7VyIFxcCCyrANv1PmdRf7u94/YG5hgX0kGBdI3pG1UR65wEQ6eY0cZjPpty1KqH6bqyT3L++a7+rwfKfM8AHgXHY3JcRCMhluCwocJ4mCoDUSdaZ3B41tNHKA/kebNfmSmpF8UwyekXMf/+WoxEuHVEw=;cGbkdVZ0KCahpvKLSBhfZg=="
 ---

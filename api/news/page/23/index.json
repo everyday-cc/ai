@@ -2,6 +2,482 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-05-23-china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks.md",
+      "title": "China fund managers rely on AI to manage trading data and pick stocks",
+      "excerpt": "Chinese fund managers grappling with mountains of trade data and a long list of publicly-traded stock rely on AI and ML to boost efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
+      "originalUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1218868159.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/",
+      "publishedDateTime": "2021-05-22T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google.md",
+      "title": "DeepMind lost a yearlong bid of asking more independence from Google",
+      "excerpt": "Tension and conflicts between Google and its AI brain firm, DeepMind, are always fascinating and exciting to watch. Talking about both these companies' histor",
+      "sourceUrl": null,
+      "webUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
+      "originalUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg",
+          "width": 741,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
+      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
+      "publishedDateTime": "2021-05-22T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Micky",
+        "domain": "micky.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-new-olivia-rodrigo-album-sour-stakes-her-claim-to-being-the-voice-of-gen-z-raw-and-real.md",
+      "title": "New Olivia Rodrigo album 'Sour' stakes her claim to being the voice of Gen Z: Raw and real",
+      "excerpt": "Sour' succeeds largely because it feels like reading pages torn out of a diary, or spending time with a close friend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_20/3476822/210521-olivia-rodrigo-ew-438p_a020ba8b7d87be39e628a05a320d3347.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1268211",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1268211",
+      "publishedDateTime": "2021-05-22T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-whats-next-machine-learning-at-scale-through-unified-modeling.md",
+      "title": "What’s next: Machine learning at scale through unified modeling",
+      "excerpt": "Here's how to create a single model, rather than a set of related but separate models, to power a process or product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
+      "originalUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1281172753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
+      "publishedDateTime": "2021-05-22T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-pinterests-use-of-ai-drives-growth.md",
+      "title": "Pinterest’s Use of AI Drives Growth",
+      "excerpt": "Using neural networks, the site is able to find images—and ads—that will catch the consumer’s eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
+      "originalUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342074/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
+      "publishedDateTime": "2021-05-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-which-market-holds-the-maximum-share-of-the-deep-learning-industry.md",
+      "title": "Which market holds the maximum share of the Deep Learning industry?",
+      "excerpt": "Latest research on Deep Learning developing at a faster rate due to the current modernization and people’s limitless needs. And this trend is predicted to continue from 2021 to 2027. The Deep Learning towards altering its product profile by bringing about alterations in the production techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/22/which-market-holds-the-maximum-share-of-the-deep-learning-industry/",
+      "originalUrl": "https://ksusentinel.com/2021/05/22/which-market-holds-the-maximum-share-of-the-deep-learning-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gatorledger.com/wp-content/uploads/2021/04/InformationandCommunicationTechnology.jpg",
+          "width": 1260,
+          "height": 1550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-google-cloud-launches-vertex-ai-a-machine-learning-platform.md",
+      "title": "Google Cloud Launches Vertex AI, A Machine Learning Platform",
+      "excerpt": "Google Cloud has launched Vertex AI, a fully managed cloud platform that simplifies the deployment and maintenance of machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8ee6977b717c6109b388e%2F0x0.jpg%3FcropX1%3D98%26cropX2%3D3278%26cropY1%3D2%26cropY2%3D1791",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/",
+      "publishedDateTime": "2021-05-22T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-understanding-transformers-the-machine-learning-model-behind-gpt-3.md",
+      "title": "Understanding Transformers, the machine learning model behind GPT-3",
+      "excerpt": "How this novel neural network architecture changes the way we analyze complex data types, and powers revolutionary models like GPT-3 and BERT.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
+      "originalUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FAI-Transformers-abstract-hed.jpg&signature=7dad3d13328b212e6fc49afed1eb2819",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google.md",
+      "title": "DeepMind lost a yearlong bid of asking more independence from Google",
+      "excerpt": "Tension and conflicts between Google and its AI brain firm, DeepMind is always fascinating and interesting to watch.",
+      "sourceUrl": null,
+      "webUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/?amp",
+      "originalUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg",
+          "width": 741,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/?amp",
+      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/?amp",
+      "publishedDateTime": "2021-05-22T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Micky",
+        "domain": "micky.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-sofic-news-microsoft-socom-highlight-need-for-ethical-use-of-artificial-intelligence.md",
+      "title": "SOFIC NEWS: Microsoft, SOCOM Highlight Need for Ethical Use of Artificial Intelligence",
+      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/05/istock-1150199386_resave.ashx?h=500&w=878&la=en&hash=279D049267A88C2C38978D40F816A53C",
+          "width": 878,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031.md",
       "title": "Machine Learning in Retail Market Key Aspects of the Industry by Segments to 2031",
       "excerpt": "The latest research report provides a complete assessment of the Global Machine Learning in Retail market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue.",
@@ -267,6 +743,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-brain-implants-control-robot-arm-well-enough-to-grab-a-beer.md",
+      "title": "Brain implants control robot arm well enough to grab a beer",
+      "excerpt": "If you've been following our robotics coverage, you'll know it isn't the first mind-controlled robo limb-- a DARPA-funded project once allowed a woman to feed herself chocolate, while the one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2015-05-21-caltech-mind-controlled-robot-arm.html",
+      "originalUrl": "https://www.engadget.com/2015-05-21-caltech-mind-controlled-robot-arm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/wNbgcpOF.kZCjroAsCWYGA--~B/aD00NTg7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/662841a7b4d92c4b2671ad8ca7f372c1/202027765/caltech-roboarm-lede.jpg",
+          "width": 630,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -648,535 +1176,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-sense-of-touch-improves-control-of-robotic-arm.md",
-      "title": "Sense of Touch Improves Control of Robotic Arm",
-      "excerpt": "Adding a BCI that evokes tactile sensations makes it easier for users to manipulate and use robotic arm prosthetics.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/",
-      "originalUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/05/touch-robotic-arm-control-neuroscineces-public.jpg",
-          "width": 770,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/bci-tactile-robotic-arm-18469/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/bci-tactile-robotic-arm-18469/amp/",
-      "publishedDateTime": "2021-05-21T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-campaigners-predict-us-federal-facial-recognition-regulation.md",
-      "title": "Campaigners predict U.S. federal facial recognition regulation",
-      "excerpt": "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation",
-      "originalUrl": "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
-          "width": 640,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-chinese-startup-ponyai-can-now-test-driverless-vehicles-in-three-california-cities.md",
-      "title": "Chinese startup Pony.ai can now test driverless vehicles in three California cities",
-      "excerpt": "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous vehicles with a safety",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/",
-      "originalUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/",
-      "publishedDateTime": "2021-05-21T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-robotics-hub-carnegie-mellon-lands-150-million-grant.md",
-      "title": "Robotics Hub Carnegie Mellon Lands $150 Million Grant",
-      "excerpt": "The university will use half of the grant to expand research and staff for its advanced manufacturing program and to build a new center focused on robotics innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "originalUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342134/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "publishedDateTime": "2021-05-21T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges.md",
-      "title": "AI Weekly: NIST’s proposal to evaluate trust in AI models faces significant challenges",
-      "excerpt": "NIST proposed a model for evaluating user trust in AI systems. Many challenges stand in the way of its success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/",
-      "publishedDateTime": "2021-05-21T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-google-announces-new-ai-app-to-diagnose-skin-conditions.md",
-      "title": "Google Announces New AI App To Diagnose Skin Conditions",
-      "excerpt": "Google announced the arrival of a new AI app to help diagnose skin conditions. It plans to launch it in Europe later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/",
-      "originalUrl": "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8071bf22d91c8f0a1d723%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/",
-      "publishedDateTime": "2021-05-21T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate.md",
-      "title": "Implement live customer service chat with two-way translation, using Amazon Connect and Amazon Translate",
-      "excerpt": "Many businesses support customers across multiple countries and ethnic communities, and therefore need to provide customer service in a wide variety of local languages. It’s hard to consistently staff contact centers with agents with different language proficiencies. During periods of high call volumes,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/8_v2.jpg",
-          "width": 550,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T12:17:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-financial-services-technology-machine-learning-and-regtech.md",
-      "title": "Financial services technology, machine learning and regtech",
-      "excerpt": "The bank will... ﻿ The UK’s role in the financial services ecosystem has been uncertain since the Brexit vote in 2016, but with Brexit finally complete, the UK governm... With an ever-increasing burden of regulation and a significant amount of informal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bobsguide.com/articles/financial-services-technology-machine-learning-and-regtech/",
-      "originalUrl": "https://www.bobsguide.com/articles/financial-services-technology-machine-learning-and-regtech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bobsguide.com/wp-content/uploads/2017/06/75176-1.jpg",
-          "width": 320,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bobs Guide",
-        "domain": "bobsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-ai-cyber-terrain-analytics-improve-hybrid-multicloud-security.md",
-      "title": "AI, cyber terrain analytics improve hybrid multicloud security",
-      "excerpt": "Getting hybrid cloud security right is hard, but machine learning and cyber terrain analytics are a good place to start. Third in a series.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/ai-cyber-terrain-analytics-improve-hybrid-multicloud-security/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/ai-cyber-terrain-analytics-improve-hybrid-multicloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/RedSeal-topograph-Fig1.jpg?w=700&resize=700%2C495&strip=all",
-          "width": 700,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/ai-cyber-terrain-analytics-improve-hybrid-multicloud-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-cyber-terrain-analytics-improve-hybrid-multicloud-security/amp/",
-      "publishedDateTime": "2021-05-21T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-innovations-help-separate-outperformers-from-laggards.md",
-      "title": "Innovations help separate outperformers from laggards",
-      "excerpt": "We worked with them to create virtual agents by connecting their customer-facing applications with the brain of IBM Watson Assistant AI technology to connect to core systems,\" Benichou said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202105/21/WS60a7170ba31024ad0bac07f5_2.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202105/21/WS60a7170ba31024ad0bac07f5_2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202105/21/60a718b2a31024adbdc909b2.png",
-          "width": 659,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-ai-in-healthcare-the-tech-is-here-the-users-are-not.md",
-      "title": "AI in healthcare: The tech is here, the users are not",
-      "excerpt": "The biggest challenges for AI-enabled care are delivering real-time insights into the clinical workflow and gaining acceptance from caregivers as well as patients. Innovative solutions continue to emerge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.html",
-      "originalUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/healthcare_technology_medical_data_by_metamorworks_gettyimages-1127069581_2400x1600-100837041-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html",
-      "publishedDateTime": "2021-05-21T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

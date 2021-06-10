@@ -499,6 +499,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-27-lattice-looks-to-simplify-deployment-of-aiml-models-on-edge-devices.md",
+      "title": "Lattice looks to simplify deployment of AI/ML models on Edge devices",
+      "excerpt": "Enhancements include support for the Lattice Propel design environment for embedded processor-based development and the TensorFlow Lite deep-learning framework for on-device inferencing. The new version includes the Lattice sensAI Studio design environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/lattice-looks-to-simplify-deployment-of-ai-ml-models-on-edge-devices/237549/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/lattice-looks-to-simplify-deployment-of-ai-ml-models-on-edge-devices/237549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/237549/lattice.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai.md",
       "title": "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI",
       "excerpt": "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning.",
@@ -1400,50 +1444,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-prosthesis-powered-by-googles-machine-learning-lets-amputee-drummer-play-naturally-again.md",
-      "title": "Prosthesis powered by Google’s machine learning lets amputee drummer play naturally again",
-      "excerpt": "Google’s machine learning technology has given an amputee drummer the ability to play again, highlighting developments in robotic prostheses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
-      "originalUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.musictech.net/wp-content/uploads/2021/05/Jason-Barnes-Google@1400x1050.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
-      "cdnAmpWebUrl": "https://www-musictech-net.cdn.ampproject.org/c/s/www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
-      "publishedDateTime": "2021-05-19T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MusicTech",
-        "domain": "musictech.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

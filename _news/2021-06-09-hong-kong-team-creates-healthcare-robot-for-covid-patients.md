@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/hong-kong-team-creates-healthc
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445"
 type: article
 quality: 76
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Al Bawaba News
@@ -30,6 +30,22 @@ images:
 related:
   - title: "Meet Grace, the healthcare robot COVID-19 created"
     excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
+    publishedDateTime: 2021-06-09T16:33:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 106
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210609&t=2&i=1565004665&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5805D"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Meet Grace, the healthcare robot COVID-19 created"
+    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
     publishedDateTime: 2021-06-09T17:33:00Z
     webUrl: "https://www.metro.us/meet-grace-the-healthcare/"
     ampWebUrl: "https://www.metro.us/meet-grace-the-healthcare/amp/"
@@ -44,57 +60,52 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Meet Grace, the healthcare robot COVID-19 created"
-    excerpt: "Dressed in a nurse's uniform, Grace uses artificial intelligence to diagnose a patient and can speak English, Mandarin and Cantonese"
-    publishedDateTime: 2021-06-09T02:46:00Z
-    webUrl: "https://news.trust.org/item/20210609033648-cuk4u"
+  - title: "How wearable AI could help you recover from covid"
+    excerpt: "A Chicago-based pilot program is testing a body sensor that monitors covid patients remotely. Angela Mitchell still remembers the night she nearly died. It was almost one year ago in July. Mitchell—who turns 60 this June—tested positive for covid-19 at her job as a pharmacy technician at the University of Illinois Hospital in Chicago."
+    publishedDateTime: 2021-06-09T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/"
+    ampWebUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
     type: article
     provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 56
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/bc1baf39-291b-4058-8cc3-1e0f206db1e1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1277116422.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Hanson Robotics Launches Social Robot Prototype for Health Care"
-    excerpt: "Hanson Robotics, a Hong Kong-based tech startup that shot to fame for making a social robot named Sophia, is launching a new prototype for the health care market, according to Reuters. The prototype,"
-    publishedDateTime: 2021-06-10T11:23:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-10/hanson-robotics-launches-social-robot-prototype-for-health-care-101725752.html"
+  - title: "Using AI to fight COVID-19"
+    excerpt: "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis."
+    publishedDateTime: 2021-06-08T03:23:00Z
+    webUrl: "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 54
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
     images:
-      - url: "https://img.caixin.com/2021-06-10/1623324086251991_560_373.jpg"
-        width: 560
-        height: 315
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/6/3456e.jpg"
+        width: 1736
+        height: 889
         isCached: true
-  - title: "Geek+ Wins Contract from Hong Kong's Circle K to Deploy Depot Robots"
-    excerpt: "Geek+, a Beijing-based startup focusing on developing robotics and artificial intelligence technologies to improve warehouse efficiency, has secured a contract to deploy its autonomous mobile robots in a distribution center operated by convenience store chain Circle K in Hong Kong,"
-    publishedDateTime: 2021-06-10T11:18:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-10/geek-wins-contract-from-hong-kongs-circle-k-to-deploy-depot-robots-101725748.html"
+  - title: "It's Safe To Return To The Office: Coretrust Deploys First AI COVID-19 Disinfecting Robots At Properties Plus Other Anti-COVID Tech"
+    excerpt: "Coretrust Capital Partners has unveiled ADIBOT UV-C Disinfecting Robots that disinfect air and surfaces against COVID-19 and other harmful airborne pathogens as the centerpiece of multiple anti-COVID technologies at its office properties,"
+    publishedDateTime: 2021-06-07T19:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/it-s-safe-to-return-to-the-office-coretrust-deploys-first-ai-covid-19-disinfecting-robots-at-properties-plus-other-anti-covid-tech-1030500946"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
     images:
-      - url: "https://img.caixin.com/2021-06-10/1623323862131666_560_373.jpg"
-        width: 560
-        height: 373
+      - url: "https://mma.prnewswire.com/media/1527606/CoreTrust_Robot_2_3.jpg"
+        width: 400
+        height: 309
         isCached: true
-  - title: "Razer partners with Hong Kong startup to build self-driving ships to clean marine waste"
-    excerpt: "The partnership with Clearbot includes support from Razer’s engineers and designers to build a new prototype as well as a US$50,000 grant."
-    publishedDateTime: 2021-06-08T08:07:00Z
-    webUrl: "https://www.techinasia.com/tata-digital-pour-75m-ex-flipkart-execs-fitness-startup/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 26
 
 secured: "s2Xn+jWV+qHJ2z6C2AEpwbiRsKnrwYGnt/10gC33Lb8r/gRKBpAlJLZNvSIM4JKPYZ9+ZHzlDC5t8cyOJQNIq9sXxJkC/Ks/Rk/CCuaCTzvB+CVvLAcj/09LogMHlZYe8BeNPDN/kBb+P8Mo4MstiPUiU0rIDo/zVjv8Iy+iZqYGhWHxH2uq0pwrCVsbQiowsdSe9PTVQ98rX4WbTt1h7CqKl5TIpBK+EUZYrqnCY+dMyevjam8tH2vYwUITgNUjTiih1n0v/Ehg6ltQ5YVfQN4M/ZasD/c0RGDJp/cIQ0frowaMivbgScchH5dyPROl/d1zt/3bnJZBV+SEQPX3inEBykdOAcdiWot494XlQpY=;dLY3xq+hmLwxMuRHUszBWA=="
 ---

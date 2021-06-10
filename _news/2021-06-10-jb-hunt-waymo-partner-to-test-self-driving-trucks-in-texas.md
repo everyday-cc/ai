@@ -67,6 +67,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Online Exclusive: Waymo, J.B. Hunt partner on self-driving big rigs"
+    excerpt: "Waymo L.L.C.'s autonomous big rigs soon will be hauling goods along one of the busiest freight corridors in the country. The Google affiliate has partnered with trucking and logistics firm J.B. Hunt Transportation Services Inc."
+    publishedDateTime: 2021-06-10T19:09:00Z
+    webUrl: "https://www.rubbernews.com/online-exclusive/online-exclusive-waymo-jb-hunt-partner-self-driving-big-rigs"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo%20semi_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "lIIU/p6dmQoakD1v9DLsm5Hygi+BDbE+BOOHH71tSNtGi1wPCPZKqd1DPTzvXyELwLIUXseylujWF5TG9Y11NxrP79NJkYg9uFTq6+qn8cx6YwuUfEWlJHv2cFlHGCofbl5x4YjYZplR8bH/MhZhKCOWcxY4q9xYpwMiCVT1z7qIYEaMsHXqWKYXgphVhiXG/MrPxziPNnjPn7VnwUQXYniTvzB5zfrN6lC8jz0aagSQ16w/Qo0HXrJrZXfP/5e9S6k9LcqeAHeK6Yxi4ctz32WsLsS2ukbdBwH3tkRLbZCV83ZvSHwAjj+MmnqBT6gzCqVf/891475F/D/FPicfKE2os9/0+idGnZ80520Z3Bpcefe7S7bOFNgY8UkdzXPJ/nA+0D6+LnKPmPMC5xQJ9yMo9lZ2xOTYGYgEfUBdlNDia7bKAkbut+Loed9eorfOYkIDB08w/Z4eYbKGRD/a7iLGKwNG1wkGCv8M3H35M79atEVO+eWS1E+G/Eb/jYwxwdOiBwlfAkQ/sDCAQLtqdw==;gCcfaUaqONSVLfOwoaqrWA=="
 ---

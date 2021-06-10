@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "Using machine learning to evaluate and discover theories of decision-making"
+    excerpt: "In the largest experiment studying people's ''risky choices'' to date, researchers show how machine learning can be used to test and improve long-stagnant theories of human decision-making."
+    publishedDateTime: 2021-06-10T04:00:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2021-06/aaft-uml060721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "dcTC6JvFEzD7JJ7fu1/gkmJemgAPIG6zxmUtdlj4DvJ/6rl6FWwuFNwEdcEaLij0mikCfq+i6O9DNBs7dcifYHU6Bjr38UblXd7lVrwv+vbJ89tpwbbi9l3rxPc5zJdNvh6qdNiBkpz3OeSFI3E0TZegjgc7KToqK6HAc2KbH5MSMKP5L1+8NI+XOHq1rQoo0mUst32DN95NYm7nG3TC31Ozb+r6YUMhfLbla22VQcfTXAxCK7xOsBPnThrOIrJfaUuoAFfUrXEOJmp8/ixaGxTS5kizw8Enpu6wOS8ciAIGdIVlhb1gxEP3pBRJ6hiOipP4HRJb+MSL1D1M2mATSabGk5NyZdfDaxjm55TUvuhIf7p6GFvu8tLoGZ9nrr3od/c77sGZm9qeTAMcvOtHsNPSYd0xzZAVaaFL8QF21ZOd8ps4rWKPByQqK8E+8jqs6k4yp3Fwdh9OER4ii60L2EzBLYa2q+CJyzE5dhCBuDdwqw3wxzNJ93AK8d2GF/8z1T3/2bDEZKP32oKa5wZhyQ==;YsV16tgf378Xkd1YhAND7w=="
 ---

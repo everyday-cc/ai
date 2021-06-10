@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-10-build-multi-class-classification-models-with-amazon-redshift-ml.md",
+      "title": "Build multi-class classification models with Amazon Redshift ML",
+      "excerpt": "Amazon Redshift ML simplifies the use of machine learning (ML) by using simple SQL statements to create and train ML models from data in Amazon Redshift. You can use Amazon Redshift ML to solve binary classification, multi-class classification, and regression problems and can use either AutoML or XGBoost",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T13:05:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-how-to-run-an-ai-powered-musical-challenge-aws-deepcomposer-got-talent.md",
       "title": "How to run an AI powered musical challenge: “AWS DeepComposer Got Talent”",
       "excerpt": "To help you fast track your company’s adoption of machine learning (ML), AWS offers educational solutions for developers to get hands-on experience. We like to think of these programs as a fun way for developers to build their skills using ML technologies in real world scenarios. In this post, we walk",
@@ -316,7 +369,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1391,49 +1444,6 @@
       "provider": {
         "name": "NBC News",
         "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-aws-to-open-data-centers-in-uae.md",
-      "title": "AWS to open data centers in UAE",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that it plans to open an infrastructure region in the United Arab Emirates (UAE) in the first half of 2022. The new AWS Middl",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102142381/AWS-to-open-data-centers-in-UAE&source=29",
-      "originalUrl": "https://menafn.com/1102142381/AWS-to-open-data-centers-in-UAE&source=29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-05/26/M_54a76image_story.jpg",
-          "width": 600,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

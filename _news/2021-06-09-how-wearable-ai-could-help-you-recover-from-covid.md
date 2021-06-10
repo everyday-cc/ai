@@ -27,21 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud: COVID-19 accelerates AI use by manufacturers"
-    excerpt: "According to new research from Google Cloud, manufacturers around the globe have accelerated their use of digital technologies due to the COVID-19 pandemic. Of the 1,154 senior manufacturing executives polled for the report,"
-    publishedDateTime: 2021-06-09T16:55:00Z
-    webUrl: "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
+  - title: "Meet Grace, the healthcare robot COVID-19 created"
+    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
+    publishedDateTime: 2021-06-09T16:33:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 106
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/09/2f2eef0d-bb1e-4a07-979d-c608766920f6/resize/1200x/a93862840fbc4e067f58b28c7af79464/google-cloud.jpg"
-        width: 1200
-        height: 706
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210609&t=2&i=1565004665&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5805D"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Hong Kong Team Creates Healthcare Robot for COVID Patients"
+    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interac"
+    publishedDateTime: 2021-06-09T13:44:00Z
+    webUrl: "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445"
+    ampWebUrl: "https://www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 76
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/grace-twitter-9Jun21.jpg?itok=lPaIjxXL"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Meet Grace, the healthcare robot COVID-19 created"
+    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
+    publishedDateTime: 2021-06-09T17:33:00Z
+    webUrl: "https://www.metro.us/meet-grace-the-healthcare/"
+    ampWebUrl: "https://www.metro.us/meet-grace-the-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 76
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Using AI to fight COVID-19"
     excerpt: "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis."
@@ -72,20 +104,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1527606/CoreTrust_Robot_2_3.jpg"
         width: 400
         height: 309
-        isCached: true
-  - title: "Trending: Generate Huge profit due to COVID-19 in Artificial Intelligence in Agriculture Market"
-    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."
-    publishedDateTime: 2021-06-10T11:42:00Z
-    webUrl: "https://manometcurrent.com/trending-generate-huge-profit-due-to-covid-19-in-artificial-intelligence-in-agriculture-market/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 27
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Research-Report-720x470.jpg"
-        width: 720
-        height: 470
         isCached: true
 
 secured: "krpzkHiG6g73stdaKFpYkD998fcvdgY2+/DKpGqFD3T03UT4ncCqLGKMoDeTGQBpPJeK+iWBu/3W4KiLnC1//ji67MiEjZI46kILPkS0ZlHCDkZA93Ul31uddipI+WNph1YYfq8OEx4ypKzVUD7LXYn2rLOpguKPjqruuiJI09OCFAVOrUkPUfjF/FL+5HV40UU31FVxaRuwAFB6MEQQvYUMUYlM+dvbH3z1aonjyEeyNmkML7ni8IvHGrJHDeEIXt9UijGnBsWH6618OVttA1kTdMp/yrAJ2flPDqpz+ORZPSkdCUm7x389l2nbZYbrybLTpDFbWNQo4ZDFIVBITpd85JuIr6L1SBtlC6axebSfg8TAHMqM8DT05yJo1HJLDCM3eDmZp5DSSx0w9/T480qu3DRG8J8q9vUXGYZT16x6y8opO8riVrIWk+TmRnocDt+ONgiQyOiO+zT6OxbycUqnuv4Ty73DPqtizoU9RTeaiLu4arpd5AIwFwMlSbQrKYjlCPfG0E4qbUmI1Zu6Pg==;jGnRa8yk9avsxN2hRbmQgA=="

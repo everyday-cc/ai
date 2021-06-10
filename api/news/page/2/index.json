@@ -2,6 +2,318 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-10-artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028.md",
+      "title": "Artificial intelligence and Advanced Machine Learning Market Share, Growth, Revenue and Trends Analysis Report 2020 – 2028",
+      "excerpt": "The latest market study titled Global Artificial intelligence and Advanced Machine Learning Market, released by Emergen Research, takes note of the most prominent growth potentials of the market, which assists industry stakeholders in comprehending the most recent market trends and growth prospects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028-2021-06-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028-2021-06-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy.md",
+      "title": "The future of AI in finance is here: Reducing the cost of accuracy",
+      "excerpt": "Finance professionals are no longer willing to endure painstaking manual reviews and the threat of inaccurate data in forecasts and plans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1169108502.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/",
+      "publishedDateTime": "2021-06-09T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance.md",
+      "title": "EleutherAI claims new NLP model approaches GPT-3-level performance",
+      "excerpt": "EleutherAI, a group of data scientists working to open source AI research, have released a language model that achieves leading performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/amp/",
+      "publishedDateTime": "2021-06-09T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-google-cloud-covid-19-accelerates-ai-use-by-manufacturers.md",
+      "title": "Google Cloud: COVID-19 accelerates AI use by manufacturers",
+      "excerpt": "According to new research from Google Cloud, manufacturers around the globe have accelerated their use of digital technologies due to the COVID-19 pandemic. Of the 1,154 senior manufacturing executives polled for the report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
+      "originalUrl": "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/09/2f2eef0d-bb1e-4a07-979d-c608766920f6/resize/1200x/a93862840fbc4e067f58b28c7af79464/google-cloud.jpg",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
+      "publishedDateTime": "2021-06-09T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-supercharging-self-driving-super-vision.md",
+      "title": "Supercharging Self-Driving Super Vision",
+      "excerpt": "Few startups were as prescient as Scale AI when it came to anticipating the need for massive sets of tagged data for use in AI. Co-founder and CEO Alex Wang also made a great bet on addressing the needs of lidar sensing companies early on,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
+      "originalUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2021-06/09/60c0627031cb5a6fc9ad060c/60c0658866a5ff0c1d575a0e_o_U_v1.jpg?w=640&h=360",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-meet-grace-the-healthcare-robot-covid-19-created.md",
+      "title": "Meet Grace, the healthcare robot COVID-19 created",
+      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210609&t=2&i=1565004665&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5805D",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL",
+      "publishedDateTime": "2021-06-09T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-us-passes-250-technology-bill-for-chips-ai-and-robotics.md",
       "title": "US Passes $250 Technology Bill for Chips, AI and Robotics",
       "excerpt": "The US passed the U.S. Innovation and Competition Act, a $250 billion bill promoting US semiconductors, AI, robotics and technology.",
@@ -251,50 +563,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-hong-kong-team-creates-healthcare-robot-for-covid-patients.md",
-      "title": "Hong Kong Team Creates Healthcare Robot for COVID Patients",
-      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interac",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
-      "originalUrl": "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/grace-twitter-9Jun21.jpg?itok=lPaIjxXL",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
-      "publishedDateTime": "2021-06-09T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-06-09-the-pandemic-and-its-implications-on-industrial-machine-learning.md",
       "title": "The Pandemic And Its Implications On Industrial Machine Learning",
       "excerpt": "For a moment, let’s set aside the abject tragedy of the Covid-19 pandemic and the demoralizing conditions through which the world continues to persevere. Instead, let’s examine the state of affairs from a dispassionate and scientific position.",
@@ -345,6 +613,58 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people.md",
+      "title": "When It Comes to Money, More People Trust AI Than They Do Other People",
+      "excerpt": "Oracle released its Money and Machines Report 2021, and after a year during which we've seen some people work against the collective good, it looks like AI has emerged as a more trustworthy choice when it comes to managing finances.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "originalUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/w/when-it-co/when-it-comes-to-money-more-people-trust-ai-than-they-do-oth_k1aq.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -659,7 +979,7 @@
       "originalUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -689,6 +1009,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-facebook-wants-an-ai-that-can-beat-the-hardest-game-in-the-world.md",
+      "title": "Facebook wants an AI that can beat the 'hardest game in the world'",
+      "excerpt": "Facebook is asking for the AI community’s help in bringing low NetHack — one of the most notoriously difficult titles in gaming history — and maybe help computers learn to simulate instances faster using fewer resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-wants-an-ai-that-can-pwn-the-hardest-game-in-the-world-100041653.html",
+      "originalUrl": "https://www.engadget.com/facebook-wants-an-ai-that-can-pwn-the-hardest-game-in-the-world-100041653.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bf6bd2a0-c89c-11eb-aeab-eddcf4a62c67",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-wants-an-ai-that-can-pwn-the-hardest-game-in-the-world-100041653.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-wants-an-ai-that-can-pwn-the-hardest-game-in-the-world-100041653.html",
+      "publishedDateTime": "2021-06-09T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -753,7 +1125,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -881,340 +1253,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out.md",
-      "title": "As artificial intelligence-based loan apps boom in India, some borrowers miss out",
-      "excerpt": "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/articleshow/83364025.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/articleshow/83364025.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-83364067,width-1070,height-580,imgsize-39145,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms",
-      "publishedDateTime": "2021-06-09T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc.md",
-      "title": "Artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 | ARC",
-      "excerpt": "The global artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and projected to reach the market value of around US$ 6,762.3 Mn by 2027. The global Artificial Intelligence (AI) in Retail Market research report is inclusive of detailed and productive qualitative and quantitative information,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
-      "title": "Element adds AWS integration for industrial sensor data",
-      "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1212287865.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
-      "publishedDateTime": "2021-06-08T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-ai-powered-transcription-startup-verbit-raises-157m.md",
-      "title": "AI-powered transcription startup Verbit raises $157M",
-      "excerpt": "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/",
-      "publishedDateTime": "2021-06-08T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-iit-mandi-offers-online-course-on-deep-learning-for-working-professionals.md",
-      "title": "IIT Mandi Offers Online Course on Deep Learning for Working Professionals",
-      "excerpt": "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/",
-      "originalUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/",
-      "publishedDateTime": "2021-06-08T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-this-new-analog-ai-processor-consumes-10-times-less-power-than-before.md",
-      "title": "This New Analog AI Processor Consumes 10 Times Less Power Than Before",
-      "excerpt": "Advertisement The ideal processing chip would consume less power, would be cheap, whilst having better performance. Well, this ideal might just become a reality as AI processor company Mythic has just launched their new M1076 Analog Matrix Processor to provide a low-power AI processing solution.",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/",
-      "originalUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/06/mythic-main.jpg",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-analog-ai-processor-consumes-10-times-less-power-than-before/amp/",
-      "publishedDateTime": "2021-06-08T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-how-worktango-solves-the-annual-employee-engagement-survey-facade.md",
-      "title": "How WorkTango Solves The Annual Employee Engagement Survey Facade",
-      "excerpt": "WorkTango disrupts the employee engagement landscape, enabling companies to give their employees a voice and collect authentic feedback for any purpose at any time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/",
-      "originalUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfba541572bd236dab4850%2F0x0.jpg",
-          "width": 1199,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/amp/",
-      "publishedDateTime": "2021-06-08T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-04-what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets.md",
+      "title": "What Exactly Is Artificial Intelligence? (Hint: It’s All About The Datasets)",
+      "excerpt": "What we can do—and what we’ve already done—with AI and AI applications is incredible. But there are still some major limitations and challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091592599841fa0bc244389%2F0x0.jpg",
+          "width": 1200,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/amp/",
+      "publishedDateTime": "2021-05-04T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego.md",
+      "title": "Accel Robotics Launches Autonomous 'Valet Market' Store With Last Step™ Delivery in San Diego",
+      "excerpt": "Stock quotes by finanzen.net SAN DIEGO, May 4, 2021 /PRNewswire/ -- Accel Robotics, a leading startup for checkout-free retail solutions powered by computer vision and artificial intelligence, today announced the soon-to-be-open Valet Market,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1498388/Valet_Market1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens.md",
+      "title": "Miso Robotics Announces CookRight Software as a Standalone Offering to Increase Accuracy in Kitchens",
+      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – announced the release of its standalone software as a service (SaaS) offering, CookRight. Packed with expanded cooking capabilities and accessible through an affordable subscription model,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens-1030382938",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens-1030382938",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1502396/3E5A4244.jpg",
+          "width": 400,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-the-maker-of-flippy-is-now-selling-the-software-behind-the-robot.md",
       "title": "The maker of Flippy is now selling the software behind the robot",
       "excerpt": "Restaurants can now buy the technology that powers Flippy the automated fry cook—without the robot. Miso Robotics, the maker of Flippy, on Tuesday unveiled a software product called CookRight, which uses artificial intelligence and machine learning to guide kitchen workers at the grill.",

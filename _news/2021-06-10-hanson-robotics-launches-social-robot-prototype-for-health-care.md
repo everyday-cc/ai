@@ -7,7 +7,7 @@ originalUrl: "https://www.caixinglobal.com/2021-06-10/hanson-robotics-launches-s
 webUrl: "https://www.caixinglobal.com/2021-06-10/hanson-robotics-launches-social-robot-prototype-for-health-care-101725752.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,77 +23,6 @@ images:
     width: 560
     height: 315
     isCached: true
-
-related:
-  - title: "Hong Kong Team Creates Healthcare Robot for COVID Patients"
-    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interac"
-    publishedDateTime: 2021-06-09T13:44:00Z
-    webUrl: "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445"
-    ampWebUrl: "https://www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 76
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/grace-twitter-9Jun21.jpg?itok=lPaIjxXL"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Meet Grace, the healthcare robot COVID-19 created"
-    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
-    publishedDateTime: 2021-06-09T17:33:00Z
-    webUrl: "https://www.metro.us/meet-grace-the-healthcare/"
-    ampWebUrl: "https://www.metro.us/meet-grace-the-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 76
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Meet Grace, the healthcare robot COVID-19 created"
-    excerpt: "Dressed in a nurse's uniform, Grace uses artificial intelligence to diagnose a patient and can speak English, Mandarin and Cantonese"
-    publishedDateTime: 2021-06-09T02:46:00Z
-    webUrl: "https://news.trust.org/item/20210609033648-cuk4u"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 56
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/bc1baf39-291b-4058-8cc3-1e0f206db1e1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
-        isCached: true
-  - title: "Geek+ Wins Contract from Hong Kong's Circle K to Deploy Depot Robots"
-    excerpt: "Geek+, a Beijing-based startup focusing on developing robotics and artificial intelligence technologies to improve warehouse efficiency, has secured a contract to deploy its autonomous mobile robots in a distribution center operated by convenience store chain Circle K in Hong Kong,"
-    publishedDateTime: 2021-06-10T11:18:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-10/geek-wins-contract-from-hong-kongs-circle-k-to-deploy-depot-robots-101725748.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2021-06-10/1623323862131666_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
-  - title: "Razer partners with Hong Kong startup to build self-driving ships to clean marine waste"
-    excerpt: "The partnership with Clearbot includes support from Razer’s engineers and designers to build a new prototype as well as a US$50,000 grant."
-    publishedDateTime: 2021-06-08T08:07:00Z
-    webUrl: "https://www.techinasia.com/tata-digital-pour-75m-ex-flipkart-execs-fitness-startup/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 26
 
 secured: "twhwSY/PgAfu9Mk5Lu/VFwfuy59MoYKourZOqBCzl+0sNsfCwqgKcAxsMJpgmomKx8rxkRfSdWmiUbV4X01hsO6CweW/SeGtxvhSBTUFZ+n2oNjE9yMbCdJKU8UnXZIXOymYuQBCqhSTrHo7VZiS5LxwAwbeP20OjSjk6E1Q/UntKQIVfb0RVTPt16i5T2K5hGUmF24CJ+SCmRM49i3cgBcZjlZZu5oexJMOJwoTce0woEJqE7d8QBvYSiuSx0wksZiczJUSpZrFRt4VNDwJyy1TMv0pq7vL69C8Sofvc/noVGtIDUXDX1zG86tNbFlT/qH1exnuhLPQoBWwe6uvNj5oCTkMvNswrjRRxfkO8Ax+HrBdztzht2MT0F3GcvimamYdPrzQaMnfrBCJsAvdj+oE9zxAcxZAdgepsP9C7/m7k3YUL47vXoqD20cl8OMWSF1GqZwcZMJpY2TF0mHDoVdnw8WG+46uhm/al3C3x+tCKoEEG5sr3qGnT80kO8Ne2Q5QAacTdZ6BnWY52jGvlw==;jmj+S22yeeO81QVIMFFZMA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/education/higher-ed/datarobot-west-virgini
 webUrl: "https://www.govtech.com/education/higher-ed/datarobot-west-virginia-university-bring-ai-to-government"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1440
     height: 700
     isCached: true
+
+related:
+  - title: "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources"
+    excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
+    publishedDateTime: 2021-06-10T19:44:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10"
+    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 81
+  - title: "Artificial intelligence startup DataRobot seeks to raise US$500 million: Report"
+    excerpt: "LONDON: DataRobot is in advanced discussions to raise fresh capital of about US$500 million in a funding round that could value the machine"
+    publishedDateTime: 2021-06-10T21:10:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/artificial-intelligence-startup-datarobot-seeks-to-raise-us-500-14990512"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 48
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8695368/16x9/991/557/e9615d3f8fac5a826ae3bfa657aec6ec/or/business.png"
+        width: 991
+        height: 557
+        isCached: true
 
 secured: "rnYxxv7o3LvJ/NeQD2SfDHtp8NM5y/6e0IGz6wjqTlmMcBfEkKDLhQcR96ZvowcsWKzAo5ZkZFgtZmU75VgSMaRFqhrwykSWvV/oJEnFXb7O4NYxavIH62UhUSA0uT/vM8dMxslNuoqTXSDCW3weY2SCNT0sbtrVXGLn+U6L6J2f+ZNfysQN0kw+hoELnw7fX7oxm+H9c1jd5zvqvz+2suNL3b/9yJPHrcay/DH40hedy+7J/7rCjgWVPGejgYENUQ3+PNNaEK+Nr9ctDOaDzvRECZsjEmrcJqb4eNstze6t1sQl5Pr5YeklrkFhdln2oYyZ43AVeTJG2Nw3aKbJ6LaKaq6nnhPDVy9FhdXIsAA=;XW8lQOffPx1NPPtt8XvvcQ=="
 ---

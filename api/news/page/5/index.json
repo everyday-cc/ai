@@ -2,6 +2,396 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-07-3-ai-startups-revolutionizing-nlp.md",
+      "title": "3 AI startups revolutionizing NLP",
+      "excerpt": "Deep learning has yielded amazing advances in natural language processing. Tap into the latest innovations with Explosion, Huggingface, and John Snow Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html",
+      "originalUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html",
+      "publishedDateTime": "2021-06-07T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-best-ai-based-cyber-security-tools-for-improved-safety.md",
+      "title": "Best AI-Based Cyber Security tools for Improved Safety",
+      "excerpt": "There are several tools in the market that are making use of artificial intelligence to improve cybersecurity. In this are, I’m going to mention some of the popular tools. 1. X Sophos Intercept Tool Intercept X uses deep learning neural networks which work like the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
+      "originalUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technotification.com/wp-content/uploads/2018/04/IBM-AI-security.jpg",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
+      "cdnAmpWebUrl": "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
+      "publishedDateTime": "2021-06-07T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technotification.com",
+        "domain": "technotification.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-nsw-police-force-is-using-ai-to-analyse-cctv-footage.md",
+      "title": "NSW Police Force is using AI to analyse CCTV footage",
+      "excerpt": "Police Force is using artificial intelligence (AI) and machine learning to speed up investigations by automating manual tasks. The force's AI-infused platform, called Insights, gives police access to a wide array of critical information and automates many tasks such as transcribing recordings of audio interviews or poring through petabytes of CCTV footage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623057900/NSW_Police_Insights_Microsoft.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp",
+      "publishedDateTime": "2021-06-07T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-agritech-startup-fyllo-secures-inr-3-cr-in-seed-round-from-ian.md",
+      "title": "Agritech Startup Fyllo Secures INR 3 Cr In Seed Round From IAN",
+      "excerpt": "The startup will use the capital raised to expand in new markets and towards research and development to support more crops",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373822",
+      "originalUrl": "https://www.entrepreneur.com/article/373822",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623054985-Fyllo-FoundersSudhanshuSumit21.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373822",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373822",
+      "publishedDateTime": "2021-06-07T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-iit-roorkee-launches-mtech-in-artificial-intelligence-data-science.md",
+      "title": "IIT Roorkee Launches MTech in Artificial Intelligence, Data Science",
+      "excerpt": "Roorkee has launched two new MTech programs in Artificial Intelligence (AI) and Data Science (DS) under the recently established Centre for Artificial Intelligence and Data Science (CAIDS). The two MTech programs will train students with an in-depth knowledge of the tools and techniques necessary to translate data into actionable decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
+      "originalUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623051074_online-learning.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
+      "publishedDateTime": "2021-06-07T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-how-does-ai-perform-crypto-analytics.md",
+      "title": "How Does AI Perform Crypto-Analytics?",
+      "excerpt": "AI has also brought itself into the game of cryptocurrencies by introducing AI coins initially. Today it has also stepped Crypto-Analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/how-ai-perform-crypto-analytics/",
+      "originalUrl": "https://fossbytes.com/how-ai-perform-crypto-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/06/AI-1.jpeg",
+          "width": 1200,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/how-ai-perform-crypto-analytics/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-ai-perform-crypto-analytics/amp/",
+      "publishedDateTime": "2021-06-06T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-machine-learning-at-the-edge-tinyml-is-getting-big.md",
+      "title": "Machine learning at the edge: TinyML is getting big",
+      "excerpt": "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
+      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/07/8c750b40-7b33-44e4-b928-10e4b45291bc/tinyml.jpg",
+          "width": 1031,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
+      "publishedDateTime": "2021-06-06T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-machine-learning-security-needs-new-perspectives-and-incentives.md",
+      "title": "Machine learning security needs new perspectives and incentives",
+      "excerpt": "The DeepSloth attack technique targets adaptive deep neural networks and is optimized for fast and sensitive operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
+      "originalUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2021/06/early-exit-architecture-examples.jpg",
+          "width": 884,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
+      "publishedDateTime": "2021-06-06T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
       "title": "2 Leading Tech Stocks to Buy in 2021",
       "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
@@ -840,397 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker.md",
-      "title": "Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker",
-      "excerpt": "DICOM (Digital Imaging and Communications in Medicine) is an image format that contains visualizations of X-Rays and MRIs as well as any associated metadata. DICOM is the standard for medical professionals and healthcare researchers for visualizing and interpreting X-Rays and MRIs. The purpose of this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/1-1247-Architecutre_v2.jpg",
-          "width": 800,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T13:48:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap.md",
-      "title": "AI Weekly: China’s massive multimodal model highlights AI research gap",
-      "excerpt": "China's massive new AI model, which can ostensibly understand multiple modes of media, highlights the growing AI research gap between nations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/",
-      "originalUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/ai-weekly-chinas-massive-multimodal-model-highlights-ai-research-gap/amp/",
-      "publishedDateTime": "2021-06-04T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-if-all-models-are-wrong-why-do-we-give-them-so-much-power.md",
-      "title": "If ‘All Models Are Wrong,’ Why Do We Give Them So Much Power?",
-      "excerpt": "I’m Ezra Klein and this is “The Ezra Klein Show.” [MUSIC PLAYING] So before we get started, a bit of housekeeping, promotional kind of thing. There is a sub-Reddit, a page on Reddit for this show. I’m not involved in it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/04/opinion/04eks-christian-image/04eks-christian-image-facebookJumbo.jpg",
-          "width": 902,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html",
-      "publishedDateTime": "2021-06-04T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025.md",
-      "title": "Global Artificial Intelligence Chip Market In-depth Analysis by Risk Factors, Economic Fluctuations and Industry Dynamics by 2025",
-      "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025-2021-06-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025-2021-06-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-build-an-automatic-inventory-solution-with-public-datasets-and-amazon-rekognition-custom-labels.md",
-      "title": "Build an Automatic Inventory Solution with public datasets and Amazon Rekognition Custom Labels",
-      "excerpt": "Inventorying store items is a general demand for retail stores and supermarkets. This is usually performed manually by counting items and visually checking the correct placement. Tracking changes in inventory helps business owners evaluate performance of each product, validate correct placement, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/5-1361-Soda.jpg",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T10:24:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-how-ai-can-simplify-streamline-and-enhance-supply-chain-operations.md",
-      "title": "How AI can simplify, streamline, and enhance supply chain operations",
-      "excerpt": "The shift to advanced automation and AI was already underway as IT teams streamline and enhance their supply chain processes and operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/",
-      "originalUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_708536860-e1622819708357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/",
-      "publishedDateTime": "2021-06-04T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
-      "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
-      "excerpt": "The company’s plays in artificial intelligence (AI), cloud computing and electric vehicles (EVs) are set to put BIDU stock on the path to long-term growth. Baidu is no tech startup. It’s been listed on the NASDAQ since 2005.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04",
-      "originalUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04?amp",
-      "publishedDateTime": "2021-06-04T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic.md",
-      "title": "How do you travel abroad safely during the covid-19 pandemic?",
-      "excerpt": "As countries start to open their borders to holiday-makers, confusion remains over which countries are safe, and what entrance requirements are necessary. If you plan to travel soon, here's what you s",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/",
-      "originalUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/06/04160028/04-june_covid-travel.jpg?width=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/amp/",
-      "publishedDateTime": "2021-06-04T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

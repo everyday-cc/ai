@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Investors pledge to address human rights in facial recognition technology"
-excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
+excerpt: "A group of institutional investors and money managers representing $4.5 trillion in assets pledged their commitment to address risks raised by facial recognition technology products and services. Launched by money manager CANDRIAM in March,"
 publishedDateTime: 2021-06-08T14:19:00Z
-originalUrl: "https://www.pionline.com/esg/investors-pledge-address-human-rights-facial-recognition-technology"
-webUrl: "https://www.pionline.com/esg/investors-pledge-address-human-rights-facial-recognition-technology"
+originalUrl: "https://www.pionline.com/ja/node/958346"
+webUrl: "https://www.pionline.com/ja/node/958346"
 type: article
 quality: 38
 heat: -1
@@ -86,6 +86,6 @@ related:
         height: 599
         isCached: true
 
-secured: "RcbG0SIllYEzboAbyYqXoPefFuT7vIBjaS6NF31yKTIV4Bx4l7PkFKpQ6znftSlij57nNroZ5r4y29rPygrBkXrvzqhyM4lDsCNgrBFaIQT8/ItG9w7ZXOl/8HNJSfOc1RNkenI+kSS4nT9EfC1a8JsDO57oXz7LgPNcMTfmgmHw3vcRzjeMZhb3BeTBPzD99rJJXovHYxGVdLkL9xdRiTmQ4S+dzbkOknLiB3XSwNDO3Vg39oHcUQGsavjDfe9Ug1/+G50MyprJOdxWMZ43Q0lj4uxmQ1OkmJXUC/yg1LpVuX3+YZOhX+1XBt3hIBe+WHK/mKTl28v0PQpK8fUznP2EJyxTofKpqjSlgni5pws=;HRfq504SDqTTAQqZKwEZkA=="
+secured: "zQ1LOVk+8Vrq7TWOECIspFjhXydtcCaGPe9sE0cRiQrEZuZ0DqQ663QWwP5UpXy5F0HApkP7vugK6XGifNXmVkAT1ZYch8wNV8Fs/Qhlir0ow//+0asIRzGQNazvkt1URbM9WNnDxFEdyif6noVP0jZdc7UOek+IiJwcGygVqr9nroV7ZT3kV1ofKLP5vILwukEg6UNa6f9ji/GFyj+fgqc776xhH6uG/3ZV/DFsnVeoknQUC+Ia3/kIAejknOQKGT6eVAm2vuJcqlSy8IroTrPZQsajSxaXS7XjxrbYKpjkmno9FgMrp2F1A28q0Wgl589K2aru4puCaENaosSb7Z/2bUmPffIHd47ouo9Q9XM=;tzvO4PqP0NdbbEkDQPEgPw=="
 ---
 

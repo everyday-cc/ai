@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-
 webUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
     quality: 39
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NEWWAYMO.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Online Exclusive: Waymo, J.B. Hunt partner on self-driving big rigs"
+    excerpt: "Waymo L.L.C.'s autonomous big rigs soon will be hauling goods along one of the busiest freight corridors in the country. The Google affiliate has partnered with trucking and logistics firm J.B. Hunt Transportation Services Inc."
+    publishedDateTime: 2021-06-10T19:09:00Z
+    webUrl: "https://www.rubbernews.com/online-exclusive/online-exclusive-waymo-jb-hunt-partner-self-driving-big-rigs"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo%20semi_i.jpg"
         width: 800
         height: 600
         isCached: true

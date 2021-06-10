@@ -55,6 +55,59 @@
       ]
     },
     {
+      "path": "_news/2021-06-09-meet-grace-the-healthcare-robot-covid-19-created.md",
+      "title": "Meet Grace, the healthcare robot COVID-19 created",
+      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210609&t=2&i=1565004665&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5805D",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL",
+      "publishedDateTime": "2021-06-09T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-us-passes-250-technology-bill-for-chips-ai-and-robotics.md",
       "title": "US Passes $250 Technology Bill for Chips, AI and Robotics",
       "excerpt": "The US passed the U.S. Innovation and Competition Act, a $250 billion bill promoting US semiconductors, AI, robotics and technology.",
@@ -99,21 +152,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-hong-kong-team-creates-healthcare-robot-for-covid-patients.md",
-      "title": "Hong Kong Team Creates Healthcare Robot for COVID Patients",
-      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interac",
+      "path": "_news/2021-06-09-when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people.md",
+      "title": "When It Comes to Money, More People Trust AI Than They Do Other People",
+      "excerpt": "Oracle released its Money and Machines Report 2021, and after a year during which we've seen some people work against the collective good, it looks like AI has emerged as a more trustworthy choice when it comes to managing finances.",
       "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
-      "originalUrl": "https://www.albawaba.com/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
+      "webUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "originalUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/grace-twitter-9Jun21.jpg?itok=lPaIjxXL",
-          "width": 640,
-          "height": 427,
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/w/when-it-co/when-it-comes-to-money-more-people-trust-ai-than-they-do-oth_k1aq.1200.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,14 +174,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/hong-kong-team-creates-healthcare-robot-covid-patients-1432445",
-      "publishedDateTime": "2021-06-09T06:44:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -138,8 +200,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -248,6 +309,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-08-razer-sets-its-sights-on-saving-the-seven-seas-with-smart-robots.md",
+      "title": "Razer sets its sights on saving the seven seas with smart robots",
+      "excerpt": "ClearBot is a Hong Kong-based startup that, with Razer's help ... \"The newly designed and fully automated robot is armed with cutting-edge AI and machine learning capabilities that can detect marine plastics within two meters in rough waters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
+      "originalUrl": "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ArX5GiV6iXsKD7fnbtaKY6-480-80.png",
+          "width": 480,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
+      "publishedDateTime": "2021-06-07T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-newtown-fitness-center-offer-ai-robotics-technology-based-workout.md",
       "title": "Newtown fitness center offer AI, robotics technology-based workout",
       "excerpt": "Using robotic exercise technology, a new Newtown fitness center, The Exercise Coach, aims to speed up workouts and boost efficiency.",
@@ -299,7 +403,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1330,93 +1434,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-three-stocks-to-profit-from-the-robot-revolution.md",
-      "title": "Three stocks to profit from the robot revolution",
-      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
-      "publishedDateTime": "2021-05-31T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-engineers-use-ai-to-create-a-robot-that-can-smile-back.md",
-      "title": "Engineers use AI to create a robot that can smile back",
-      "excerpt": "At some point in the future, engineers foresee a time when robots are a normal part of everyday life, providing care for children and the elderly and providing labor. For humans, facial",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
-      "originalUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/eva-robot.jpg",
-          "width": 1280,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/",
-      "publishedDateTime": "2021-05-31T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

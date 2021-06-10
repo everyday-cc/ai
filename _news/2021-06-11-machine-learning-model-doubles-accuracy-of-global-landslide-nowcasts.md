@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Machine Learning Model Doubles Accuracy of Global Landslide ‘Nowcasts'"
-excerpt: "The upgraded interactive mapping tool can show you potential landslide activity anywhere between the poles in near-real-time."
-publishedDateTime: 2021-06-10T19:44:00Z
-originalUrl: "https://climate.nasa.gov/news/3090/machine-learning-model-doubles-accuracy-of-global-landslide-nowcasts/"
-webUrl: "https://climate.nasa.gov/news/3090/machine-learning-model-doubles-accuracy-of-global-landslide-nowcasts/"
+title: "Machine learning model doubles accuracy of global landslide 'nowcasts'"
+excerpt: "Every year, landslides—the movement of rock, soil, and debris down a slope—cause thousands of deaths, billions of dollars in damages, and disruptions to roads and power lines. Because terrain, characteristics of the rocks and soil,"
+publishedDateTime: 2021-06-10T19:59:00Z
+originalUrl: "https://phys.org/news/2021-06-machine-accuracy-global-landslide-nowcasts.html"
+webUrl: "https://phys.org/news/2021-06-machine-accuracy-global-landslide-nowcasts.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: NASA
-  domain: nasa.gov
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://climate.nasa.gov/system/news_items/main_images/3090_1-main_nowcasting_map_%281%29.png"
-    width: 640
-    height: 480
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-model.jpg"
+    width: 1440
+    height: 877
     isCached: true
 
-secured: "HoKa79RV1+B71EdGDnx8thHp35W03tr5T59sLZxJ0y43Y9ZdK/kCSFxyzf4b1/YgQKBl56O9LZsRk8JJVParJ6GxuFZV2AyJRtRrdCjM0BQ8WJHhONKvw90GMb/cyUJd1d8N37PmtCQGNo7W9RAIMn8qQlHEfw+6v6FADhL/sOC+dTBI8Aw95EQNdSSeKwKWSbvuXmeN2Dgy/Mc9QlbjRwf9HTTqsSK8RuVQODcVCA/nsHuY9JMtcSFSa//culLxKVxkrjlMnkZwCvcO4iqYfrm4TuNlIWHyVhB0PB9GKmUDQgzIaAF2EBNF3yJDCDSt8AweBpYQscDBinn9HwU6iprPHg18uHKco5EXzzZW+ZM=;y2hZrJhTiBvoBBmcaYhVNw=="
+secured: "IkrtsVnyZDXATVqC3T98y/zrQBhcbML/JIVGQUjdWkArA+Rwd+1NeNIqrbXQTwBFJjX5GE6lbO1KaFqZOX+cwuiMZ+m8MwpRLISvnbJXqq7HzssBDrg7CAiqHf9iSyZsIrg4wuqYgmk0p83oL4bpzLuAFQ2MHOik68XmFtTsmvUkDPG/66yOUO55bz0FKHEFUiA+S4OFP6eE1dpEEsfX1dwwC8hAd1E9KvgLiSbvyqGEWd7E6yJdH97OkOwlI8IMT4Oucw+UkDjxvVOMIGyWCVAynxxMyAEJ8OwAEBOrTa0WkGLISNETuQn6YpVCoAllVZ1ByKrocMkvbgWYt/kgPlmPJ9AuZtpMmQ+Rf904WfE=;eB3x8cK8a3qnfYxHm4NSXA=="
 ---
 

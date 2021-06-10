@@ -43,6 +43,15 @@ related:
         width: 480
         height: 271
         isCached: true
+  - title: "Razer partners with Hong Kong startup to build self-driving ships to clean marine waste"
+    excerpt: "The partnership with Clearbot includes support from Razer’s engineers and designers to build a new prototype as well as a US$50,000 grant."
+    publishedDateTime: 2021-06-08T08:07:00Z
+    webUrl: "https://www.techinasia.com/tata-digital-pour-75m-ex-flipkart-execs-fitness-startup/next"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 26
 
 secured: "3wl0ddStE0TSQ98zLtKk6LzuKlm3dTH36+eN+ohqhYEaUig8U6hHv4ry+4PaKNAEiMkhTgTklQNu7jiS5RzV7UjvNP7Cf93jedfQ2zuilwDiRQxW66d5MkGGk3Xng8me379xZyrinZVkqMDFlgzLDILdslib4aLDeBSYgorST+u53Yhn8Rtxlg9ziy1F6QjpYRVu+56JN9kBNdNgylVX+x4KRvgBphJIz+NafzO4soo9dwn4KPgW6ENk0Pg0aBeLwYj9eSpPjCBVu0XEe/Uwrz/Dwil5ibSpxFsJVvSm1ksx/U2xVC367A7Adb3+gch+SYFuBaCfRg/ejLtYJbJydwUALiAuBRe2GrSuGDo92NHxI+yIyVJvVro2g6qVps4CFK4HA77SNXLy/k85Ru6JtBELWQyJZYjg67gkXWaPMAltQbRyxf/6LDCLODjMU/qJiQ9aJ5WTOk7gdNE6x/yUTqS94KkB+g+AQVw5GH0VYPEAnUrFcLRR7SA6CAF2mfXPhMuaTKPlCPYgbZ2RaVyOYg==;qEtcgkULYX1KT5NgY+Tmgw=="
 ---

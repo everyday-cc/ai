@@ -40,6 +40,17 @@ related:
         width: 1820
         height: 1024
         isCached: true
+  - title: "California Aims to Eliminate Bias in Artificial Intelligence"
+    excerpt: "A new bill would require AI developers to evaluate privacy risks, assess the potential for discriminatory decisions and the state’s Department of Technology would need to approve the software before its use in the public sector."
+    publishedDateTime: 2021-06-10T21:13:00Z
+    webUrl: "https://www.governing.com/security/california-aims-to-eliminate-bias-in-artificial-intelligence"
+    ampWebUrl: "https://www.governing.com/security/california-aims-to-eliminate-bias-in-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/california-aims-to-eliminate-bias-in-artificial-intelligence?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 52
   - title: "Programmers, lawmakers want artificial intelligence to eliminate bias, not promote it"
     excerpt: "A bill in California would be the first to require developers to evaluate the privacy and security risks of their software, as well as assess their products’ potential to generate"
     publishedDateTime: 2021-06-10T14:00:00Z

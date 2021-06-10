@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-29-on-thinking-machines-machine-learning-and-how-ai-took-over-statistics.md",
+      "title": "On Thinking Machines, Machine Learning, And How AI Took Over Statistics",
+      "excerpt": "In the sixty years since Arthur Samuel first published his seminal machine learning work, artificial intelligence has advanced from being not as smart as a flatworm to having less common sense than a house cat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b13f395e70ff270e5f6bc0%2F0x0.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/",
+      "publishedDateTime": "2021-05-28T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-a-new-frontier-of-ai-and-deep-learning-capabilities.md",
       "title": "A New Frontier of AI and Deep Learning Capabilities",
       "excerpt": "Thanks to robust HPC systems, compute capacity and data handling are powerful and affordable enough that many organizations are beginning to invest in a new frontier of AI and deep learning capabilities. HPC solutions coupled with advanced data ...",
@@ -527,6 +579,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-lattice-looks-to-simplify-deployment-of-aiml-models-on-edge-devices.md",
+      "title": "Lattice looks to simplify deployment of AI/ML models on Edge devices",
+      "excerpt": "Enhancements include support for the Lattice Propel design environment for embedded processor-based development and the TensorFlow Lite deep-learning framework for on-device inferencing. The new version includes the Lattice sensAI Studio design environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/lattice-looks-to-simplify-deployment-of-ai-ml-models-on-edge-devices/237549/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/lattice-looks-to-simplify-deployment-of-ai-ml-models-on-edge-devices/237549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/237549/lattice.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1215,102 +1311,6 @@
         "name": "IT Pro Portal",
         "domain": "itproportal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning.md",
-      "title": "Request for Information and Comment on Financial Institutions' Use of Artificial Intelligence, Including Machine Learning",
-      "excerpt": "Agency: \"Board of Governors of the Federal Reserve System (Board), Bureau of Consumer Financial Protection (Bureau), Federal Deposit Insurance Corporation (FDIC), National Credit Union ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-whats-next-machine-learning-at-scale-through-unified-modeling.md",
-      "title": "What’s next: Machine learning at scale through unified modeling",
-      "excerpt": "Here's how to create a single model, rather than a set of related but separate models, to power a process or product.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
-      "originalUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1281172753.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
-      "publishedDateTime": "2021-05-22T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

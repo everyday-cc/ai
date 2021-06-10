@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clea
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: PC Gamer
@@ -43,6 +43,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Razer partners with Hong Kong startup to build self-driving ships to clean marine waste"
+    excerpt: "The partnership with Clearbot includes support from Razer’s engineers and designers to build a new prototype as well as a US$50,000 grant."
+    publishedDateTime: 2021-06-08T08:07:00Z
+    webUrl: "https://www.techinasia.com/tata-digital-pour-75m-ex-flipkart-execs-fitness-startup/next"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 26
 
 secured: "A8z9YaPHYhs5RYKhWZ5iwKJzoSkxX7z+1pzRPiuKAo/k7EcEMae5Kg50mrXYZ7LGlTqaD18H/AyOsRR+bWHim6qz7XsIk/oss8y8GZjPEuPJMqP4QnY3H02uQ5MWwqJd6PjUeo1lBwxjtJwJTxQx8iuw1q9hccowqHch5RcU+B7QwIcsW4/Flc4J6md7xdFDz+z7Mr9ey0WJ1n/Hp8xIsEjLNHjBZhgOfXT7ZHaRBL2xRbRy1RHkGgIrK78Pbi4ZGHab0W8dpTqiInEXbR4c6/ftMre+gZWuHYvWnBOjwN9ZvkpXS64jODBdGoGKirj2zsQ9N/WkaJaiX654789OpDpWObclSgUX3UaXr/J+nOjjfMiL3DrJJP3NkTNzm5Us5t81VOgaRuhvTK2gFNy4xBOV5FIbQdV8nWonjz7DwBf7+wE6BaYQELaNx4FvyzoiCaqAtP6pPiMedZcM8rKeLh8jVOoefNGpNCwVucGehhPojoBCh6DcRAeBigwXA1caFvSArs/56ke+LfNe8GbkVg==;Zb/7nfIOPyhebgj+kzF9eA=="
 ---

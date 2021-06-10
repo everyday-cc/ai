@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Global Encoder Market (2021 to 2026) - Increasing Demand for Artificial Intelligence-Based Systems Presents Opportunities"
-excerpt: "The global encoder market is expected to grow from USD 2.3 billion in 2021 to USD 3.7 billion by 2026, at a CAGR of 10%. The growth of this market is mainly driven by the need for"
-publishedDateTime: 2021-06-09T18:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21498555/global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-pre"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21498555/global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-pre"
-ampWebUrl: "https://www.benzinga.com/amp/content/21498555"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21498555"
+excerpt: "The global encoder market is expected to grow from USD 2.3 billion in 2021 to USD 3.7 billion by 2026, at a CAGR of 10%. The growth of this market is mainly driven by the need for high-end automation across industries,"
+publishedDateTime: 2021-06-09T18:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/09/9387545.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/09/9387545.htm"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "dZNRrN5VuKMdK253D1cpMIzcSpnceO6189HEWNS1r0DdBF5Rbx5V+D+o+y97+ULC0ktdZzq+lFJbGC5eKeZ+/iFZSNMSZ26nlwkMF4ZBhCkXcSEZQ7M+aE49rRlDhyWDoFBeMxiXeonbU78HawyFvn7WNf5HuDPkYap6xtJVokb98u8Hcd8MiPyOuswDYcsveR1VYf8fZZUk+9kjrKXB5XKBYvro0DeDgWI6rfPayPPhx7u6fe36YvRKsV3dXBP2e+FecDVonoLSKvF82MIdByrOBxoQPRIMOb37iwUdHvGS/kZkbm0T/HWFVeOX0mAv393yD/faLKI3cVYDHXZCbcABjIML4bnjUgR5G8wGbQo=;Q7oWH3L5VjMjlfXZHrL3xA=="
+secured: "RHOIy6d4lqlA3DkLQwbE74MQc+yB9HM4fQ28OywEyBDQ6BYd5jB+nw6ZcdnEZRnUmgQv6k7376DiTq/pDHYHjj5d4sNtzwA0AemUi33vs7rnRnqf3nKMzBoHO3noCw6I5Tpp6+U+PX5WkZQPCzkT5wzq5t1wGx4Udu+gLScbQScxyVPtHvNZhka2XaFOGpwBCMpYCKWX9lrHEh3eDZYKqFiOKcrFUcmJtxXM1tjNQAPMXa854kz6PQNSI5aXCPAf6daDMk1Ke5315S0L2wNkcuJMxlBPuZof++mDoR0EWHq2+fjDoVxVfMgHKey3ARiEIKpMibsZj5cJ4tmosIHfy6ZnfClfq5b34fKwCkxa5Cc=;ZyZ63xSqNRg8Te1+h1pV2A=="
 ---
 
