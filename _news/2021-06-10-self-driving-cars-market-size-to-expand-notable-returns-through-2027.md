@@ -57,6 +57,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
+    excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
+    publishedDateTime: 2021-06-10T17:22:00Z
+    webUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/"
+    ampWebUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 74
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/QMR9Z/s1/tesla-fsd-beta-180-left-turn.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The Four Biggest And Most Baffling Congressional Issues When It Comes To Regulating AI Self-Driving Cars"
     excerpt: "A close look at four key controversial Congressional issues on regulating AI self-driving cars, and what those issues portend for our future and the driverless emergence."
     publishedDateTime: 2021-06-09T15:30:00Z
@@ -115,6 +131,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "DRtpyX9QLZBk03FF7zpSPb/3WBA2l64359rL9fIFqYgsMSfzL1dzdpJpPUg40SfEFtU9Cb9skuGsZNIY1+MmaO3cdacezwPFWIJTWGL5CJRh/8Etry+xRcGihQzPGx4UnntQ55SRkdmtG/Z2JSs6EQBHb5dpuZ0GjYM5gjjrwSJ4YkrCNSQ7zx5+V8fl5wqEML/0YiZYwDQbJEnbW7LeIHbAS0MCsSAtDyFL41g1siaNPengMKutgwN3kaQC65uzxKLjz1RWt28ORhs3YN3+IWjFsjQsb7hRCVi2bv8TjxlEGQtekXrA6iCCsGq3PBh20C+r1Ou5CEZhP51i83qD44RDvXM5dtjXgk3EdiPBGLk=;u1nlP2LMJutM7ZB4tt2gcg=="
+secured: "bLIUqO6pXtuNyofBb2JL0Fet4bMBn7DL4RkTEP4ftWZQOVDKasb/95MhPUn1b3oaMLgDIoE7Hj7mXSp6F75HHnO+6ZZ0OZh1baiXv7p8u4M6RiWgG9FxRiUnWu/e90+2C5TMMFVOHAudGfNo94XKnurwHmQiO8IFwHCC55X8rh/6INAeaSGxLiSUfvxxJhTGPr7R/kQhPVvu8G2u+o5VRArelQoJe3Joc1ajz+7rG5el0Xgu+XGlLLF+inLeEd9Utw63Nh+rbXZWJBx8+erMyLtChjOKuTbWWNGK29RYbGEhMMpKWBiyML+bHzQ9wGnJWyi/rtZCk5XmDhLfr7o1jFST/UW3bQ/6vbqs+XQK6DvRYQv9qOTtIZZS7e+fO1Th7duJiwzWuJ1dqa9VdcBt/9t3FynQrW3Y9fobTxg0qg0xJ9DGst8HnXVSCA8nPbMU18miTiadxXgYSIyroLhJuuYFRE75bLqiz2/aw1OmTSDkdNIfBexIfEE/RhVd1U0NK6vzmUKCXd8btzNEMh5sXA==;Smg77XawbkS3g/LbgXQDeg=="
 ---
 

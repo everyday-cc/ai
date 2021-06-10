@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/google-says-its-ai-is-much-faster-and-
 webUrl: "https://www.neowin.net/news/google-says-its-ai-is-much-faster-and-better-chip-designer-than-humans/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Google_AI_chip_design_lead.2e16d0ba.fill-1200x630.png"
         width: 900
         height: 474
+        isCached: true
+  - title: "Google Has Developed AI Software That Designs Chips Faster Than Humans Can"
+    excerpt: "In effect, Google is using machine-learning software to optimize future chips that speed up machine-learning software."
+    publishedDateTime: 2021-06-10T17:37:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/google-ai-chips/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 52
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/07/google.jpg"
+        width: 640
+        height: 320
         isCached: true
   - title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
     excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."

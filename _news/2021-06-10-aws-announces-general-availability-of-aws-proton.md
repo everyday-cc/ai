@@ -19,24 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "CyberArk Expands Availability of Identity Security Offerings on AWS Marketplace"
-    excerpt: "CyberArk (NASDAQ: CYBR), the global leader in Identity Security, today announced the availability of CyberArk Cloud Entitlements Manager, CyberArk Endpoint Privilege Manager and CyberArk Workforce Identity on Amazon Web Services Marketplace (AWS Marketplace)."
-    publishedDateTime: 2021-06-09T21:20:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/141636/cyberark-expands-availability-of-identity/"
+  - title: "BMO Signs Deal With Amazon Web Services to Help Digital Shift"
+    excerpt: "Bank of Montreal picked Amazon.com Inc.’s web-services division as its preferred cloud provider to help the bank modernize operations and introduce new digital applications."
+    publishedDateTime: 2021-06-10T04:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 47
-  - title: "Special operations experience is at the core of this cybersecurity startup"
-    excerpt: "Culture matters. \"Quiet professionals that let results do the talking is oftentimes the antithesis of how Silicon Valley company operates,\" Horizon3.ai's founder says."
-    publishedDateTime: 2021-06-09T14:54:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/06/09/horizon3ai-uses-ai-to-prevent-hackers.html"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 71
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNmtVmGrkNyw/v1/1200x603.jpg"
+        width: 1200
+        height: 603
+        isCached: true
+  - title: "BMO Financial selects AWS as its preferred cloud provider"
+    excerpt: "Bank Of Montreal (BMO), helping simplify the payments process for Canadian businesses selected AWS as its preferred, strategic cloud provider"
+    publishedDateTime: 2021-06-10T07:18:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/bmo-financial-selects-aws-as-its-preferred-cloud-provider/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 41
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/BMO-Harris-Bank.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "KT signs with AWS, talks other opportunities with Amazon"
+    excerpt: "KT partnered with Amazon Web Services (AWS), the world’s largest cloud provider, to collaborate on artificial intelligence (AI) and cloud-related endeavors."
+    publishedDateTime: 2021-06-09T09:46:00Z
+    webUrl: "https://koreajoongangdaily.joins.com/2021/06/09/business/tech/kt/20210609181607036.html"
+    type: article
+    provider:
+      name: joongang
+      domain: joins.com
+    quality: 39
+    images:
+      - url: "https://koreajoongangdaily.joins.com/data/photo/2021/06/09/5dc305d6-c118-49e2-9a4e-1ca649b862ab.jpg"
+        width: 559
+        height: 395
+        isCached: true
 
 secured: "va40T7VTIa8qFqV8cGMJbs5OkTpOpkKXV5TA/MMk2FXMvPq4sH7NV6kbQO3N9I0fAMKY+OIQ0/rM1KXOC915Y8hjD73QRFvXI7iJAZ25xse7MaDAeHxiv+1PyLNnmDFoxdUEPESIEM3ntzt/b70OywFMUzj4c60K2rrmBZpCnMmeLYFgkuvE8eubloao0SZngla7v4goZUAAuCmcYr9eVrWfjOPKLGBrn9onv3PaQ8nFfzXFF1syhGzcVAWf7s4I8uzXgjKQYOxXmRKWNW72HNUdeE2gFfWqKVArdXTxJsgeUHDLu6r1fwW7U23vMgMHw9gEYG8cQXTfDsvX2TkXu/r+W/ql5gQzEKBYFUQg4xw=;EIYa3m+5H1qg4K1w3e6lGg=="
 ---

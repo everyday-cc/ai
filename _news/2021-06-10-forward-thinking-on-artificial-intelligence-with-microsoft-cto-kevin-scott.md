@@ -45,6 +45,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Abu Dhabi Terminals and Microsoft launch AI partnership"
+    excerpt: "The companies will use Microsoft’s Azure cloud to apply Artificial Intelligence (AI)-based smart tracking, enabling 100% traceability of containers handled at the port. The technology also opens the door to launching an autonomous vehicle system at the ..."
+    publishedDateTime: 2021-06-07T08:37:00Z
+    webUrl: "https://www.seatrade-maritime.com/ports-logistics/abu-dhabi-terminals-and-microsoft-launch-ai-partnership"
+    type: article
+    provider:
+      name: Seatrade - UBM
+      domain: seatrade-maritime.com
+    quality: 54
+    images:
+      - url: "https://www.seatrade-maritime.com/sites/seatrade-maritime.com/files/AbuDhabi%20Terminals%20Microsoft%20MOU.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "UNFcBygkWpTXR5wcwXK2XZy+rcZCCTe34pGf/OEh6sMHtpYAPIZiPLRTOLQI3p4BsAbCcYCVGIMlPDmRLt2W+CAm2g2CU1Ms+fYT3bV7NSW18lG3GKCvct9xjOGr/s+0MDaca9iNEYBkKHv9OgjL+Cf4wT0GtQqsmY1hHWdPGyXOodCszy3f0J0fHHm6XEuBZIunsC8CMR5fywJ9iTFkCHh8chuAcHUx+ZmaZJ+vaiuU4V6TEWVViWS9HwGxp6kgC5FD+s5bkkkWObulD1DdjvZ4tNt8klrISfPEH6T5tUMp+4UAuQme/ktIph5W9ZQZXPQIQRDa7DWnGlUz7bZIlP/xHpKtXRVbfKv9TmEn9Fk3Ot6PyTQap09PbHcm6Hu+eGDs2Dfz8bWC/TJjGvCGZcYXGxuhIPGW3qyqKywYSQ6M/n4YDBf/VVIfyhaelrM2AI0NHUAczzzKyn0VXh3hEZVQeC/Qqi2zAG7CIh/MUD6ZHopCondMvoFvm/HyX/BJ9X9/eDhCq90lfVcKVUTJug==;wCZHmNxLLxkcs1fX+gWUJQ=="
 ---

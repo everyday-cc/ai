@@ -35,6 +35,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "Self-driving technology company Argo AI plans IPO within a year"
+    excerpt: "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out."
+    publishedDateTime: 2021-06-10T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg"
+        width: 1920
+        height: 1112
+        isCached: true
   - title: "China’s AI start-ups face IPO hurdle"
     excerpt: "VCG. China's artificial intelligent (AI) start-ups, amid a rapidly-growing market that drives up investment in research and development (R&D), have been pursuing public"
     publishedDateTime: 2021-06-09T09:08:00Z
@@ -48,6 +62,20 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-09/e8370636-1a13-4737-9ce3-a98ba8ae1a6b.jpeg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "As IPO Nears, Argo CEO Says Self-Driving-Car Prototypes Are ‘Regularly Beating’ Human Drivers"
+    excerpt: "Prototype self-driving cars developed by Argo AI “regularly” have lower collision rates than human drivers in metro areas such as Miami, said Bryan Salesky, Argo’s CEO, during The Information’s fifth annual Autonomous Vehicle Summit on Wednesday."
+    publishedDateTime: 2021-06-10T17:47:00Z
+    webUrl: "https://www.theinformation.com/articles/as-ipo-nears-argo-ceo-says-self-driving-car-prototypes-are-regularly-beating-human-drivers"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 13
+    images:
+      - url: "https://tii.imgix.net/production/articles/5792/143037d7-501e-48ac-93ee-f0942051c566.jpg?w=1200&fm=jpg&auto=compress"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "fRYsF2wh1UXpeADfWYZc0J1jGHZfwKs2X6S+ds+WP4Ak3l7gcqZr96uKt4dVlqUdSQTX4oRA/ozIm9wnBk+gr8qjuDPlAkBrvCek1ZYcAmR16R+VHOSadEz2WaUHjN8rPcDynl7UYL0hTeBsncU4+BGWagdm3oTxq8nT8kdlt+GcsJRzN5FaNAHHPyEWhzpxR6av71Ji+7e/uAACftTRnvSTe1FrKccMmuAY5Vb2gB3NDbBYtLf+AjO07JvC0LSyti2U8DRRjwJhAJoR86ydFUWCjSloMpH8cy/UcwgJCdKnU6WQP3vLnRbzBkAXsjemHhzv0lneYabS43EmsN6c++XQd6/vp1RnihPkafktHLYwGZHVhkKGxbecCRxGs+tdkYefOh+3twzbX+aTthHum8aKizmDPSPUCPT0szB3jBiTs9Sx4BpTZiluaZTm/Un9bQG6beEZL5cODU71Qhh7y3l8Jdvc2GGg5TMcLwD6D1TPZA07HKHfMKzC5JKhi8e5JfmBE9UHNjZh4G4AekTYyg==;Cbfrv9CI02Ps0sIDIQf0hg=="

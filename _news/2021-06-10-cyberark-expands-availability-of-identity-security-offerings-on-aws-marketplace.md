@@ -20,15 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "AWS Announces General Availability of AWS Proton"
-    excerpt: "(NASDAQ: AMZN), announced the general availability of AWS Proton, an application delivery service that makes it easier for customers to provision, deploy, and monitor the microservices that form the basis of modern container and serverless applications."
-    publishedDateTime: 2021-06-09T19:20:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-aws-proton/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
   - title: "Special operations experience is at the core of this cybersecurity startup"
     excerpt: "Culture matters. \"Quiet professionals that let results do the talking is oftentimes the antithesis of how Silicon Valley company operates,\" Horizon3.ai's founder says."
     publishedDateTime: 2021-06-09T14:54:00Z

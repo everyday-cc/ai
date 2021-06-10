@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-inv
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "From facial recognition to dating apps, technology is helping investigators track down Capitol rioters"
+    excerpt: "Authorities investigating the Jan. 6 attack on the U.S. Capitol are increasingly utilizing digital technology and social networks to identify and track down suspects."
+    publishedDateTime: 2021-06-10T17:29:00Z
+    webUrl: "https://abcnews.go.com/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 43
+    images:
+      - url: "https://s.abcnews.com/images/US/merrick-garland-attorney-general-capitol-riot-01-gty-llr-210219_1613764340672_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Investors pledge to address human rights in facial recognition technology"
     excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
     publishedDateTime: 2021-06-08T14:19:00Z

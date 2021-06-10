@@ -63,6 +63,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
+    excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
+    publishedDateTime: 2021-06-10T17:22:00Z
+    webUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/"
+    ampWebUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 74
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/QMR9Z/s1/tesla-fsd-beta-180-left-turn.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "In EV News: Ford Maverick Hybrid, Amsterdam's Self-Driving Boats, a Tesla Bull"
     excerpt: "Ford Motor Co. (NYSE: F) introduced its hybrid-electric compact Maverick pickup Tuesday morning, saying the 2022 model year base vehicle is targeting EPA-estimated mileage of 40 mpg in city driving. Based on the company’s estimated fuel consumption of 37 mpg,"
     publishedDateTime: 2021-06-08T15:42:00Z

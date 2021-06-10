@@ -25,37 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "RCMP broke privacy laws in using controversial Clearview AI facial recognition tools, watchdog says"
-    excerpt: "Privacy Commissioner Daniel Therrien said Thursday that the RCMP committed a “serious violation” of Canadians’ privacy by using Clearview AI’s"
-    publishedDateTime: 2021-06-10T14:01:00Z
-    webUrl: "https://www.thestar.com/politics/federal/2021/06/10/rcmp-broke-privacy-laws-in-using-controversial-clearview-ai-facial-recognition-tools-watchdog-says.html"
-    ampWebUrl: "https://www.thestar.com/amp/politics/federal/2021/06/10/rcmp-broke-privacy-laws-in-using-controversial-clearview-ai-facial-recognition-tools-watchdog-says.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/federal/2021/06/10/rcmp-broke-privacy-laws-in-using-controversial-clearview-ai-facial-recognition-tools-watchdog-says.html"
+  - title: "RCMP use of Clearview AI facial recognition service violated Privacy Act, says report"
+    excerpt: "The RCMP’s use of facial recognition technology to conduct hundreds of searches of a database compiled illegally by facial recognition software provider Clearview AI violated the federal Privacy Act,"
+    publishedDateTime: 2021-06-10T16:09:00Z
+    webUrl: "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542"
+    ampWebUrl: "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542?amp=1"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 60
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 67
     images:
-      - url: "https://images.thestar.com/nIl4y4eOF81YqgX9V1dIKGgcYWc=/1200x783/smart/filters:cb(1623339021182)/https://www.thestar.com/content/dam/thestar/politics/federal/2021/06/10/rcmp-broke-privacy-laws-in-using-controversial-clearview-ai-facial-recognition-tools-watchdog-says/ajw10734623.jpg"
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1148006029.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "RCMP broke privacy laws in using controversial Clearview AI facial recognition tools, watchdog says"
+    excerpt: "Privacy commissioner Daniel Therrien said Thursday that the RCMP committed a “serious violation” of Canadians’ privacy by using Clearview AI’s"
+    publishedDateTime: 2021-06-10T16:20:00Z
+    webUrl: "https://www.stcatharinesstandard.ca/ts/politics/federal/2021/06/10/rcmp-broke-privacy-laws-in-using-controversial-clearview-ai-facial-recognition-tools-watchdog-says.html"
+    type: article
+    provider:
+      name: St. Catharines Standard
+      domain: stcatharinesstandard.ca
+    quality: 40
+    images:
+      - url: "https://images.thestar.com/0s8eeTCSAw3iqdFKz4rHn-zZbX8=/1200x783/smart/filters:cb(1623339021182)/https://www.stcatharinesstandard.ca/content/dam/thestar/politics/federal/2021/06/10/rcmp-broke-privacy-laws-in-using-controversial-clearview-ai-facial-recognition-tools-watchdog-says/ajw10734623.jpg"
         width: 1200
         height: 783
-        isCached: true
-  - title: "Canada privacy regulator says federal police broke laws using facial recognition software"
-    excerpt: "(Reuters) – The Canadian federal police force broke the law when they used facial recognition software, the country’s top privacy regulator found in a report released on Thursday. The Royal Canadian Mounted Police (RCMP) said in February 2020 that for ..."
-    publishedDateTime: 2021-06-10T15:57:00Z
-    webUrl: "https://www.metro.us/canada-privacy-regulator-says/"
-    ampWebUrl: "https://www.metro.us/canada-privacy-regulator-says/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/canada-privacy-regulator-says/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 50
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH590UX-BASEIMAGE.jpg"
-        width: 800
-        height: 560
         isCached: true
   - title: "Privacy watchdog says RCMP’s use of facial-recognition tool broke law"
     excerpt: "OTTAWA - The RCMP broke the law by using cutting-edge facial-recognition software to collect personal information, the federal privacy watchdog has"

@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Getinge's New Torin Artificial Intelligence Solution Improves Hospital Efficiency"
-excerpt: "The introduction of the Torin Artificial Intelligence (AI) functionality is designed to improve efficiency in managing schedules for surgical"
-publishedDateTime: 2021-06-10T11:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/getinge-s-new-torin-artificial-intelligence-solution-improves-hospital-efficiency-1030511124"
-webUrl: "https://markets.businessinsider.com/news/stocks/getinge-s-new-torin-artificial-intelligence-solution-improves-hospital-efficiency-1030511124"
+excerpt: "The introduction of the Torin Artificial Intelligence functionality is designed to improve efficiency in managing schedules for surgical procedures and comes in the wake of a new Getinge survey. GÖTEBORG,"
+publishedDateTime: 2021-06-10T11:10:00Z
+originalUrl: "https://www.nasdaq.com/press-release/getinges-new-torin-artificial-intelligence-solution-improves-hospital-efficiency-2021"
+webUrl: "https://www.nasdaq.com/press-release/getinges-new-torin-artificial-intelligence-solution-improves-hospital-efficiency-2021"
 type: article
-quality: 44
-heat: 44
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "xpnA6MXGKwsj2Rd+6Hnl97MdFzcW5/AbuGP2uOzZV4Wc+DACedRFhe2buo2vwO+xAKEDCS8l3TepCOdmAIAU9GXHQ2C+5T+Y8nbtP8R9AkPzyzkvphiJsFJ2ZWSYv/b14ckNNDxY+HhGwl1C8pshtJ2ZTiyRzAeqOHAfmU1SUNCpwAxjXP0c224Td/KFyK3W4oZRkUu5RcsLPvrs8JteFkJVHVpROMreHRV2MSOtLBLNdZQG99HjY1uvwsA6FC36/4rh7OHBWIP3RFnrXRj/mnx+aKIwEwGZVjSd6W1P0L70+gh/7hieixMOwfpRkNOJOBNdZKwLsx39GZBW8zTp93eYxRMSyARpJ7QSG1tDSJE=;SR9/vXban+JP5q+oZeW//A=="
+secured: "rqC+T9cw4Rv2fc2z7oVadQww/Whkwaaf9hCByTlP+LEB7ueoW+nqXjkXnpoCdete3FbJYBSbP/qYm/OTFC31xym+5Z1RtzKG7G0IhwoUiRjvEJbzd6B+mHkemfY2wSky2JpTJ8Owgg9NzDgrssLnrEVJnZmTCSWlJ8/WTyF5g44CjMQF0d90FBCk7gNyJ9tT+C3/N+faL1CO8cFH4sDYal2Y0myB9YHqv0lbltLzCwfXFSRPicDxAFfvTHQDnhWj0SydgZxV4qqhc2LsXjsLydMjtpDXMhBlyTue30Jz61X1VCuCJh5eP39A+/qoLUlkBeMhs3HMgz7tKWBWrg2j48QsjYOF21mpCiRdF5NJrB0=;JMXidYlyyu6MNwOxoC+b3A=="
 ---
 

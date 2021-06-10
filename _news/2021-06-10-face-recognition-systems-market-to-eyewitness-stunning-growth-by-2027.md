@@ -67,7 +67,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) in Power Market to Witness Huge Growth by 2026 | ABB, Alibaba, Alphabet, Amazon"
+    excerpt: "HTF MI offers comprehensive outlook on Artificial intelligence AI in Power Market forecasted till 2026 The Artificial intelligence AI in Power market has observed substantial growth over the years owing to noteworthy innovations that created awareness among end users and"
+    publishedDateTime: 2021-06-10T16:05:00Z
+    webUrl: "https://www.openpr.com/news/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
+    ampWebUrl: "https://www.openpr.com/amp/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/6/U610601671_g.jpg"
+        width: 480
+        height: 320
+        isCached: true
 
-secured: "Vzj3jBf2//kxCR23k/2+FYVhaCV/E3rzlRh3exS1Cd1O1PCnwFf0OkGO7vWm+wQpboxkGGo+vyP7UfNImlT0b4vQMiK3s0yEUY0ofJb1GzRtOeffCqjQJ30vDTevNjMIx72ZBt68Hmi5MmkynyRPJ/XCbvc6p1LNHqVHKtx1UE5LELph9RhepH1c0TpFRfTyO5y7KDAEbxCObXXOI9DIRQFRJvfFp/dTxmprbRZ84boN4smYS7H3INfKCEP6j/NJ8Fc0KgoWaRLHfmczABY/4so63x4JHT2Q/bfoza3OGKjFP/PggnqOC3RVkpgwEBw/8UGYTpn2YRNf2spZjRk5i/S2MC/y1Lts+882nCS1344=;cZ9SLSNt4sPYYxtZTtLddQ=="
+secured: "xqG+cENJiiHNT6vxQMOq7cr0LkcpjTEks5G7QS/sYYHZzFfz+y1/Ed6dStzIdwrEu/sRiYz3BB2OSvWL/APsPKaJo679QlNeyqgkEolWgZDIzkUynLj8sjkv3E23uavL7S6olSf8UlujFV21IAHpGsc8jKsg6PPPJenJw2qiSHwm+vX2mdG1R7pSUt1dmFb5pKBtNNjB3wmhmwD3qq36hLb9UQA+a6MZT2MzLrg/xWUGBp0R5M56msp+CWkmAdqMTBjDSsbP88DazsXs0sGY/NjgrFjYMsCkps4UQGy6HDlcGkVCBfuMfgGtqF/86Rbvx9F1A87Ej3ri0LqR7ni2TMo4Ct+geZfuoXqnfkTEDS1o1s3OmycyjslFrL5uOLV205my+7u0QV98GE6hF0/eMtYPTZanrjvTen5/RSAiD09QiyNR1F+qVasi1viM+dEVq9dhQMnc1A9Y/aDb18uGYL9fdjAcs0QSoTLZ0AaUeAuciR4AcHE+5BIljFBKo+qQuSQrR4qLFcfGpNm2YbmTnA==;bHsECWvYfdas82aiyyBiag=="
 ---
 

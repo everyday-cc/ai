@@ -78,6 +78,20 @@ related:
         width: 900
         height: 474
         isCached: true
+  - title: "Google Has Developed AI Software That Designs Chips Faster Than Humans Can"
+    excerpt: "In effect, Google is using machine-learning software to optimize future chips that speed up machine-learning software."
+    publishedDateTime: 2021-06-10T17:37:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/google-ai-chips/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 52
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/07/google.jpg"
+        width: 640
+        height: 320
+        isCached: true
   - title: "AI system outperforms humans in designing floorplans for microchips"
     excerpt: "A machine-learning system has been trained to place memory blocks in microchip designs. The system beats human experts at the task, and offers the promise of better, more-rapidly produced chip designs than are currently possible."
     publishedDateTime: 2021-06-09T15:25:00Z

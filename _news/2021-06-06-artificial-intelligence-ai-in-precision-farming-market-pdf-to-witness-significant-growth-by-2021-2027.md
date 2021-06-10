@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) in Power Market to Witness Huge Growth by 2026 | ABB, Alibaba, Alphabet, Amazon"
+    excerpt: "HTF MI offers comprehensive outlook on Artificial intelligence AI in Power Market forecasted till 2026 The Artificial intelligence AI in Power market has observed substantial growth over the years owing to noteworthy innovations that created awareness among end users and"
+    publishedDateTime: 2021-06-10T16:05:00Z
+    webUrl: "https://www.openpr.com/news/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
+    ampWebUrl: "https://www.openpr.com/amp/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/6/U610601671_g.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
     excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
     publishedDateTime: 2021-06-10T01:50:00Z

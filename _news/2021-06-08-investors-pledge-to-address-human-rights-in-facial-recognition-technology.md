@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "From facial recognition to dating apps, technology is helping investigators track down Capitol rioters"
+    excerpt: "Authorities investigating the Jan. 6 attack on the U.S. Capitol are increasingly utilizing digital technology and social networks to identify and track down suspects."
+    publishedDateTime: 2021-06-10T17:29:00Z
+    webUrl: "https://abcnews.go.com/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 43
+    images:
+      - url: "https://s.abcnews.com/images/US/merrick-garland-attorney-general-capitol-riot-01-gty-llr-210219_1613764340672_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
     excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
     publishedDateTime: 2021-06-06T05:32:00Z

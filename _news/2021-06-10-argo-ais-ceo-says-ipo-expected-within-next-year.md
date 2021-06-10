@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL2EO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL2EO"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Self-driving technology company Argo AI plans IPO within a year"
+    excerpt: "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out."
+    publishedDateTime: 2021-06-10T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg"
+        width: 1920
+        height: 1112
+        isCached: true
   - title: "China’s AI start-ups face IPO hurdle"
     excerpt: "VCG. China's artificial intelligent (AI) start-ups, amid a rapidly-growing market that drives up investment in research and development (R&D), have been pursuing public"
     publishedDateTime: 2021-06-09T09:08:00Z
@@ -51,6 +65,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/fordargo_0.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "As IPO Nears, Argo CEO Says Self-Driving-Car Prototypes Are ‘Regularly Beating’ Human Drivers"
+    excerpt: "Prototype self-driving cars developed by Argo AI “regularly” have lower collision rates than human drivers in metro areas such as Miami, said Bryan Salesky, Argo’s CEO, during The Information’s fifth annual Autonomous Vehicle Summit on Wednesday."
+    publishedDateTime: 2021-06-10T17:47:00Z
+    webUrl: "https://www.theinformation.com/articles/as-ipo-nears-argo-ceo-says-self-driving-car-prototypes-are-regularly-beating-human-drivers"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 13
+    images:
+      - url: "https://tii.imgix.net/production/articles/5792/143037d7-501e-48ac-93ee-f0942051c566.jpg?w=1200&fm=jpg&auto=compress"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "tx07jgodFTht6fsFMpbEDcVYcXbiPlpors0XDzOSx2NG+DuRfUM8t/NN0OnoiDG2axiDv7nhPPpi/osUwp0zZClAy/iP6TcANwXlNALKdMC1qFIZzM8ujUZyiRa6G7AViFV20gy7baLxLT1/wLMolBAcElHl40Y3th1j6NQlxpdSHW5wkDKk40SqkQfkoGpriueXLjfyMW+a8H+3VgNH2txRQLUL0VHdCQ9uXUbWhyzOxY3ngOC0w3etZ09WahfvGxTTwFtywKAfkR78d43fDH5bl55CODNqYumHFjZBUnNSM+p7C1UoUIuhZjvN8wZekG1upK/Au6hZiglPxcGSQzYFwBQxY7kbB7LHC9kJZhU=;DC7aNrHV2mNRJ1dmTPPptw=="

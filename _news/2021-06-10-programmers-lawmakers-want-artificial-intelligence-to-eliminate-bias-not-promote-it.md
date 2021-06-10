@@ -42,7 +42,21 @@ related:
         width: 1820
         height: 1024
         isCached: true
+  - title: "Programmers, Lawmakers Want AI to Eliminate Bias, Not Promote It"
+    excerpt: "Artificial intelligence is used in a host of algorithms in medicine, banking and other major industries. But as it has proliferated, studies have shown that AI can be biased against people of color."
+    publishedDateTime: 2021-06-10T17:32:00Z
+    webUrl: "https://www.govtech.com/computing/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 37
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/e5d29ef/2147483647/strip/true/crop/3000x1458+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F87%2F8d%2F014e3121415dad0716434aef74ac%2Fus-news-ai-bias-sh.jpg"
+        width: 1440
+        height: 700
+        isCached: true
 
-secured: "oJYKbaRG3YcKFjPWpFslry816mb31V27gJaaxDoa62Kqzq0u+otdweBLvGhUdCvhN0I0uwNjLe8vItyXWo9mo/drnCbrr94p8wmNBka2HG1jj26WfUi+CRx5vCeHVs6IQO45P+SN+8fRz7HrcU7vPspzmGEKKaPO+E8RNtwwcr2zVstp/fzsJB9Sf7ldp94NMeTsTpW5Q8hsUyE+GXm/WCrA3DK8++0bBLruU+AOc21Mfz36KZ7GTN2Vk+ypQDQa/jOoDTO2T/+HYfB0mqbbK4Rd0s6AvcEhxNHEIEuTuhhfdPksNSoEoJh0AfWkrT0Mp0aekSKhV9pvPGTxNf5bqphV+WNo6Se4A33Cmdi7w+E=;2nfFqcyXU9mxQ6GApvGkew=="
+secured: "IOVeAkxG3RCWuHftPRxvHygh1iKSprh2BAOfQSwlPiuTJsfDGGWE42gb0MHau1Prll/WB9TfjWglUCa6atkIAXNKjQfec9FkL1qOKwtFYlez/LoQf1UuGnb9fYuj4bcuXguxDDxjTpE6XVMqnVJOPb9AREcIq4JNkxtldfZP4zzqyf15Ur3j+STYel4umVvsOvmVxhQydIY2G7pxc/HaWn/kYJ065E/8V6YI3plLTziYI7BMacbw3rbYhe5KHKJTNAYlEYUkwekXIDL/1IiEf/ZelFlJSDPerjkkofPeBOQKJ9nKoloOYYjkgja/peOIW6N2YwOSqCvr54Ww2OZCaGO5VxxX6jg6ypojcy6rskXpLRWAEHCZe58Q2uAF7dH3YdoIO7+brzIUmCm8LjLo7usS3dW+hn0dsH7E9uB4fg8OIuJtEnyyKskxRfyHtz280cO7rsgF52/tci0WuOtQEpN0krPWotkhWmMexalilqLdKaMUjXou7M2D3Kexfl4nq3VXLgeaijhk5+9BEU6tZg==;ZHP8Ti1yDgIBLnyeHicyNQ=="
 ---
 

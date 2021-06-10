@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livescience.com/amp/orwellian-artifical-intelligence-fut
 cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/forward%20thinking%20on%20artificial%20intelligence%20with%20microsoft%20cto%20kevin%20scott/mgi_ft_kevin-scott_hero_1536x1536-option1_vf.png"
         width: 1536
         height: 1536
+        isCached: true
+  - title: "Abu Dhabi Terminals and Microsoft launch AI partnership"
+    excerpt: "The companies will use Microsoft’s Azure cloud to apply Artificial Intelligence (AI)-based smart tracking, enabling 100% traceability of containers handled at the port. The technology also opens the door to launching an autonomous vehicle system at the ..."
+    publishedDateTime: 2021-06-07T08:37:00Z
+    webUrl: "https://www.seatrade-maritime.com/ports-logistics/abu-dhabi-terminals-and-microsoft-launch-ai-partnership"
+    type: article
+    provider:
+      name: Seatrade - UBM
+      domain: seatrade-maritime.com
+    quality: 54
+    images:
+      - url: "https://www.seatrade-maritime.com/sites/seatrade-maritime.com/files/AbuDhabi%20Terminals%20Microsoft%20MOU.jpg"
+        width: 1540
+        height: 800
         isCached: true
 
 secured: "GXi8t3egTz9+7wiHah85tTDIuyYgo8/cmFYgjIfUhyikbvvuf8ZrooZ3qNbWBw9m9NBrr4cC9vKLpACH0hqErbZbHm4v8iHPPIRE+Q13nC9rwdnx+pOH0W6NhcTUYhbJALM29hO9GVHtDntycaSJKeSuWd0pl8yQQRk1zJKGOZjzIHril7AuVxmfuwBJQpsTjVkN3VGzbKxAm0VQWQIeUBm4oeLBhq4rh/UeJdP6vO5RQl+AffizP8bVNY73GN1uM9xNZQelnYipLRt2QT2vAhSebuGHzLMTjZHNXYYKeunkc7lhClyrhVuC7tm7ED3kPDzxrsGdMFckRDmbOZNdaCiPmhskWl5MOz9z0tnjPHk=;VrGLdjVZugqb6sAZdZzRfA=="

@@ -35,6 +35,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "Self-driving technology company Argo AI plans IPO within a year"
+    excerpt: "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out."
+    publishedDateTime: 2021-06-10T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg"
+        width: 1920
+        height: 1112
+        isCached: true
   - title: "Argo AI's CEO says IPO expected within a year"
     excerpt: "Self-driving startup Argo AI, backed by Ford Motor Co. and Volkswagen AG, expects to pursue a public listing within the next year, founder and CEO Bryan Salesky said on Wednesday. \"So we're actively fundraising and are going out this summer to raise a private round initially,"
     publishedDateTime: 2021-06-09T20:52:00Z
@@ -48,6 +62,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/fordargo_0.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "As IPO Nears, Argo CEO Says Self-Driving-Car Prototypes Are ‘Regularly Beating’ Human Drivers"
+    excerpt: "Prototype self-driving cars developed by Argo AI “regularly” have lower collision rates than human drivers in metro areas such as Miami, said Bryan Salesky, Argo’s CEO, during The Information’s fifth annual Autonomous Vehicle Summit on Wednesday."
+    publishedDateTime: 2021-06-10T17:47:00Z
+    webUrl: "https://www.theinformation.com/articles/as-ipo-nears-argo-ceo-says-self-driving-car-prototypes-are-regularly-beating-human-drivers"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 13
+    images:
+      - url: "https://tii.imgix.net/production/articles/5792/143037d7-501e-48ac-93ee-f0942051c566.jpg?w=1200&fm=jpg&auto=compress"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "oAGlzQazIXEiV33EREIYpgGrzAyqMn8j2Ge9YwtkwMX8fpeh3hIltOZ4k29P6ym2F7qGJR5Hy2720yxkK6MhTaSmpMiFgxlpoJmSQqXF9qIRAbwc4Q0AQIWQ/MlKyl12waIdauZAwhCIkZPHuUitG1YsNXewX/pEHeO/7Y6S73OUPAwKwI7jnk4abW8LFi1VoL+ZfWlDXre2LuDA0MdutlUrpA7dtAr14qSetjEPVHYRIGL4hpDyAEl72gj6F9KITPwt6A4MMj9PSY5P43jVJ/qeQy2nnfDo7G+mUsppH9muI3aCOKCURGM65b4MF5J7MS3Mq8HGfO3yXrZmHGDdmmOfxzLfBFOWiazSgIinU8u/8+btPAjAtmRsAUS+UIuioOefq4iuiQtbhWyYauX3BIYQzUCtmO8F+iUVFpcOM3t+RaB73GcS5gaLMIPPF+SwAKpqxzgcpR+JsX9R1aXF94VuOLtGk9muORr+08Qn2DdvAgN3Ph8e9pEtcE8TyYP2S8x5maIGZlZ0lOTgaBdWyw==;0APfqgwbcE4sUKsxPWvJKQ=="

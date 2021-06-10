@@ -1,22 +1,29 @@
 ---
 category: news
 title: "AI Guide for Businesses Created by CompTIA Artificial Intelligence Advisory Council"
-excerpt: "Top Considerations Before Implementing AI\" was produced by the CompTIA Artificial Intelligence Advisory Council, a group of thought leaders and innovators committed to accelerating the adoption of AI and machine learning technologies."
-publishedDateTime: 2021-06-10T13:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-guide-businesses-created-comptia-artificial-intelligence-advisory-/2021/06/10/9388281.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-guide-businesses-created-comptia-artificial-intelligence-advisory-/2021/06/10/9388281.htm"
+excerpt: "As more companies explore the viability of adding artificial intelligence into their business processes, a new resource from CompTIA,"
+publishedDateTime: 2021-06-10T13:35:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-301309930.html"
+webUrl: "https://www.prnewswire.com/news-releases/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-301309930.html"
 type: article
-quality: 26
-heat: 26
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - IBM AI
   - AI
 
-secured: "TtJvlRWFqBgYChfubQ8X8XMLQnfBMmiG/FGmUkINfY1/t8irBa4qhD3V3ZilVBJh6JQfNjQMVclOY3ZO9rcyd0/d0FNDijm0CX2sWT/k4f84KjF8LdB/jiI7unyGfQmuveKTUp4R0iFz5jB2BRJsFZp+O/5l6soW8vRZ0c1TChprlGThEhH6YP1hgYwGVAhMvrPcTV7CG7PCJ85jB8bFK33vkacQ6vCcVpORhc0Hrs7IKEaAorObTPXTuqIrbZ7uSlMI/lwPbsn4c7xXS9NNr/7AIZJx7+5tJeLoMPWyWGkMNrd+eLe9RiJc/BxZOG+CipCwPREoXRlEOX4ScLepmoJoeOlteo7/EWyTGcy4l0g=;fAz9gjsLzWUR7Fesi6wsSA=="
+images:
+  - url: "https://mma.prnewswire.com/media/320820/comptia_logo.jpg?p=facebook"
+    width: 1400
+    height: 733
+    isCached: true
+
+secured: "UxKC4tYfKyf4PZZdPr247/Q3WM8KKJ2K3oA6uPUX8OA8KSQhxCcmEY/fFjtTVezLUER+mslaD/AclEputtkFB+9Z60sFCGrWoo/rWJRSz0rUXd8fcotVMfPFTmVms+N1crBxQGCdgmHoNzHAX1OgG0ZkrP5UFsRAKBrxHpExkdPSlX0oJWQ0zuzsAFC6tP3fm0UueoqlYCMH3/mf0t/85u1XqaRn6Ycht42RI1xt1/B/l8yLE8epmobQVcz5YagY22bEfbkncGtYCfOZC1XLtH8MqwcMstO4mOENoGJTgbS+z5iXIFk3JJJUmL9SfafWke2eea9sTNJ52veYA+g7A2zn/47r+HeWcsm5G9/DTzI=;UCfVlr+3/Qazc7rcZGakZg=="
 ---
 

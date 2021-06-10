@@ -76,6 +76,20 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "Microsoft: Big Cryptomining Attacks Hit Kubeflow"
+    excerpt: "Misconfigured dashboards are yet again at the heart of a widespread, ongoing cryptocurrency campaign squeezing Monero and Ethereum from Kubernetes clusters."
+    publishedDateTime: 2021-06-10T16:26:00Z
+    webUrl: "https://threatpost.com/microsoft-cryptomining-kubeflow/166777/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 41
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2021/06/10115933/Cryptojacking--e1623340788494.png"
+        width: 800
+        height: 311
+        isCached: true
   - title: "Kubeflow Deployments Targeted in New Crypto-mining Campaign"
     excerpt: "A newly observed malicious campaign is targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine for crypto-currency, according to a warning from security researchers at Microsoft."
     publishedDateTime: 2021-06-09T17:56:00Z

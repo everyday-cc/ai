@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/amp/"
 type: article
 quality: 95
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media.wired.com/photos/60bab4f6eaa210b2096c93ec/master/pass/Business-Rethinking-Google-Search-1230724581.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "To Secure Data Centers, AI and Automation Are Key"
+    excerpt: "To avoid being next to fall victim to malicious server code, universities and colleges need to secure their data more effectively than ever before. For many universities, this can be achieved through data center automation."
+    publishedDateTime: 2021-06-10T16:09:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key"
+    ampWebUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 59
+    images:
+      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202106/GettyImages-1271247696.jpg?itok=pRl58pZz"
+        width: 1440
+        height: 500
         isCached: true
   - title: "How to Integrate Artificial Intelligence into Your Workflow"
     excerpt: "MathWorks’ Johanna Pingel talks with Senior Editor Bill Wong about how engineers can use artificial intelligence to optimize their workflows."

@@ -1,30 +1,31 @@
 ---
 category: news
 title: "CVPR 2021 to Unveil Latest Research on Global AI, Machine Learning, and Computer Vision During Virtual Event"
-excerpt: "The Vision and Pattern Recognition (CVPR) conference—the largest event exploring artificial intelligence, machine learning, and computer vision research and applications—will take"
+excerpt: "The Computer Vision and Pattern Recognition (CVPR) conference—the largest event exploring artificial intelligence, machine learning,"
 publishedDateTime: 2021-06-10T13:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during/article_53afe429-a9e0-508a-88a6-2ad1e609c0d2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during/article_53afe429-a9e0-508a-88a6-2ad1e609c0d2.html"
+originalUrl: "https://www.prnewswire.com/news-releases/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event-301309925.html"
+webUrl: "https://www.prnewswire.com/news-releases/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event-301309925.html"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI Ethics
   - AI
+  - Machine Learning
   - Computer Vision
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/4d/e4de81ce-d5a4-55c8-b3a9-d01b8756306d/60c2115038bdd.image.jpg?resize=630%2C630"
-    width: 630
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1530205/CVPR_2021.jpg?p=facebook"
+    width: 700
+    height: 366
     isCached: true
 
-secured: "tYtmTowOgBMfmapt2iZf5MfcWDPeF2ULogekSnq0XODotz/gUqh4S1G3iCDGvM5F57gQjdr+B51G1ZSwTe9ShXaqgskiPl7DxD1gw22k7aHZ/YFBStLJ3QRN/XDqwnDLqluDRHP+X4cY9E/lTMDiOKgmDbzfC0St8O/39NHimD0zd6xgtZ34Q7oBo6Xc9ubP1EFC2+MS78QRGgQ/RZWbMHoiPqtYHnHSHvGVoqB2i4PQbPJ9ZNWH4VqWAY766Y/S5H2ISP4h0O4NLU8qupMsTzQ6b2hLT61LfJ/StcQ5eRYq6mRYU9CLFl5xwh9FYsAXeR2vQ3sAzMJTN1s8wBiDW6q+bMY5g19jiHJU3dw9yGU=;vtHBGe6EySZUSDkAISCeTA=="
+secured: "xG241dJ1FflLJc6Oe3Ice43dOIFGQD1gdW155pEeunrZrIBw2viGJLKpBqXJCOXYT6ntNnUt2sMSnrMAXiaYdCNQLBekOxcH1ky9K8TCKQg7Bq4WFmkUKCUN5G01ftqqJ8jEy3t64MZC5ChdkFVDrUJhXWk9NAgLz2OY3sVWB1hNsh2zQqUo+BOVSRYFIVQQGLjeYurspKKeE03rDRL3txS/2JxmrF7uRC2HFDxM2R5CgfmkI64fe8V+VjBwjkddSew6ngIgOfP7DMnbIVA2BgeOmJpymxOuV32S5QjL/WwJx+aBXEGli3WwYXNGq9VF0uTIXkA901SIEL+QnEyRwoLNJIyrKiwuV9Aa1QTz+O0=;orHbbiq0F4140DIyFQqmcQ=="
 ---
 

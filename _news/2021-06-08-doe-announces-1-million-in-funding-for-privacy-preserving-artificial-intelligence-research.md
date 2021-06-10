@@ -7,7 +7,7 @@ originalUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
 webUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Launches Task Force to Open Government Data for AI Research"
+    excerpt: "The task force will draft a strategy for potentially giving researchers access to stores of data about Americans, from demographics to health and driving habits."
+    publishedDateTime: 2021-06-10T16:00:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-352014/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The Biden administration launches the National Artificial Intelligence Research Resource Task Force"
+    excerpt: "The U.S. National Science Foundation and the Office of Science and Technology Policy announce the government, academic and private sector representatives who will serve on the task force"
+    publishedDateTime: 2021-06-10T17:39:00Z
+    webUrl: "https://www.nsf.gov/news/news_summ.jsp?cntn_id=302882&org=NSF"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 3
   - title: "Department of Energy Announces $1 Million in Collaborative Funding for Privacy-Preserving Artificial Intelligence Research"
     excerpt: "DOE National Laboratory researchers will partner with flagship dataset developers from the National Institutes of Health Bridge2AI community"
     publishedDateTime: 2021-06-07T22:12:00Z

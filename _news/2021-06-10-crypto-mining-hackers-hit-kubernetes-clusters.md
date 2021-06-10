@@ -79,6 +79,20 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "Microsoft: Big Cryptomining Attacks Hit Kubeflow"
+    excerpt: "Misconfigured dashboards are yet again at the heart of a widespread, ongoing cryptocurrency campaign squeezing Monero and Ethereum from Kubernetes clusters."
+    publishedDateTime: 2021-06-10T16:26:00Z
+    webUrl: "https://threatpost.com/microsoft-cryptomining-kubeflow/166777/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 41
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2021/06/10115933/Cryptojacking--e1623340788494.png"
+        width: 800
+        height: 311
+        isCached: true
   - title: "Kubeflow Deployments Targeted in New Crypto-mining Campaign"
     excerpt: "A newly observed malicious campaign is targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine for crypto-currency, according to a warning from security researchers at Microsoft."
     publishedDateTime: 2021-06-09T17:56:00Z
@@ -94,6 +108,6 @@ related:
         height: 256
         isCached: true
 
-secured: "L2ZtZpkQEH9LdZCHEYjwNnSFVunDcE41pC/zF0Jm6kna0dmvifpWEiqhnkvsmSvXjlVHU0bsZwjFVVDesQurnH9ny79GNL4EBxKCGJh1OuxDrLARg7SmrsdTEPJpx2U8vwZpx+rQpStgqBq0w236yP6ap0+PJnb3sJHYgCZZr6THLDJ9Wn2SxeXEtwNuD104ymc2lqL3kc7fWJ8OU0YHrMl2Eyb4qhfU7fBh7wyzRvQ2tYJ/u2EZLNpYRYCBhTglB4p3ICyU81zr9WJdALIIBTp/yg0HD9VnaGULIyTbeA4+FPt249q84ZMk5rcRHAcHf8dLgGS+uSJpQj5qJ8Fyb6iZwR7Ai9sKj3gicjFbvlE=;TTV9hUpZesEicAmHYSK58A=="
+secured: "CRWLy9sQlLnVrlTQSjA9lmu/9RDDLf8RZi5H2y27Za7L8fq78pAJFX2UJZa1Kul02WY+rWzA+TGJS3+FCsSjtMENZANFFuEntpgGUDeB6UFlf+mW00ftldT/cPAWvGQ6fQANyjDQirv7MJTvbLVhUt2Tu75yv3+d6oFPY+o4NlGJcaLS436O1LIFM4+naMHiulxUByduBQaoqUTk+UGUzfgazLqujQn99kuqSG2oa1/c99eNhX91uNjZLEDZu/lG7ieaJj91fTotWiDRJ1h53iNy9XU2IM7fIXoZ5WXxnXMv+rO+xK72P9p9yuK8vGGBiLXV0H3/Fw15dS/bez28a663FWYP6rhwzSP2JMUhmqSHhe6+mBGuBIOJFzr25F/+246NnehcvTu6eao7VuN1c50fsL6mXus6OqE+R6hhNRei+k2eNOfKbo/rouUIEN9WYYMNNTDJ7ShxKri5tidFbWNQ5DhbSmuyv3REOSVi7mWMtZgkX9K2gMwPdK7RN9uCPh7BDI4k3v5j/IoOGUOm7g==;6BchBuJB/bvhtdKtAEXcTA=="
 ---
 

@@ -89,6 +89,20 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "Microsoft: Big Cryptomining Attacks Hit Kubeflow"
+    excerpt: "Misconfigured dashboards are yet again at the heart of a widespread, ongoing cryptocurrency campaign squeezing Monero and Ethereum from Kubernetes clusters."
+    publishedDateTime: 2021-06-10T16:26:00Z
+    webUrl: "https://threatpost.com/microsoft-cryptomining-kubeflow/166777/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 41
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2021/06/10115933/Cryptojacking--e1623340788494.png"
+        width: 800
+        height: 311
+        isCached: true
 
 secured: "3u9z+YcW+7WND3Tyi3sw0uCXOD0ZAIKGjnX+KybirCLNpn1PsNKcfh3tKHrbyJuWHFuzXMesJZVWLwIbHidwlXRRBwq992xjpGEJLnugtoIHhV7V2DTf+UzIufYwtybJ5Ps5hFqn0q5ugLLKenw3vadwf8ftgK3NiGdYo0tQKw+ndUkrGToKpJHmXQq9TMyYyyBWonDdsPqGb57VRJmOq/Cxk+opyIL2BIWvb5BFVBdCxVc7CdCpxX2iGYA36p8ivtN4EOXLk92YDJBZWnMAiS6533lPSLGDJHz1JDEB2jCilxH1ToymcOYjCVovO6PeN4Ay2OBhpKtHBaJ1hC6WxEjhHkS7Y+StJhbZ0suhq5g=;if4dOSUfFD9W90v6Ad5bsQ=="
 ---
