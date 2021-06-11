@@ -25,34 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and Advanced Machine Learning Market Share, Growth, Revenue and Trends Analysis Report 2020 – 2028"
-    excerpt: "The latest market study titled Global Artificial intelligence and Advanced Machine Learning Market, released by Emergen Research, takes note of the most prominent growth potentials of the market, which assists industry stakeholders in comprehending the most recent market trends and growth prospects,"
-    publishedDateTime: 2021-06-09T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028-2021-06-09"
+  - title: "AI in Healthcare Market Growth Set To Surge Significantly During 2021 To 2031 | Keyplayers-Nuance Communications, Inc., DeepMind Technologies Limited"
+    excerpt: "The most recent research report on AI in Healthcare Market 2021 published by insightSLICE begins with the market description, official report, segmentation, and classification. The report offers a comprehensive analysis of the market so that perusers can be guided on future opportunities and high-profit ranges within the industry."
+    publishedDateTime: 2021-06-07T14:10:00Z
+    webUrl: "https://ksusentinel.com/2021/06/07/ai-in-healthcare-market-growth-set-to-surge-significantly-during-2021-to-2031-keyplayers-nuance-communications-inc-deepmind-technologies-limited/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 32
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/05/anysis.png"
+        width: 860
+        height: 522
         isCached: true
-  - title: "Latin America Artificial Intelligence Market 2021, Industry Trends, Market Share, Size, Growth and Opportunities 2026"
-    excerpt: "According to the latest report by IMARC Group, titled “Latin America Artificial Intelligence Market Size: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,” the latin america artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026)."
-    publishedDateTime: 2021-06-07T11:24:00Z
-    webUrl: "https://manometcurrent.com/latin-america-artificial-intelligence-market-2021-industry-trends-market-share-size-growth-and-opportunities-2026/"
+  - title: "Latest Research of Healthcare Automation Market: How Automation is Key to the Future of Healthcare Operations"
+    excerpt: "The healthcare industry is rapidly adopting new technologies such as Artificial Intelligence (AI), robotics, medical imaging analytics; and extracting maximum benefits to drive down operational efficiencies,"
+    publishedDateTime: 2021-06-07T10:48:00Z
+    webUrl: "https://www.medgadget.com/2021/06/latest-research-of-healthcare-automation-market-how-automation-is-key-to-the-future-of-healthcare-operations.html"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 16
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Europe-Specialty-Generics-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "fyUbZRwRATBGCc3YnbikkCOg5Q8HJn4viq4NmUu39JIPQ9ic+AV55xAKCM/WdKTEE8A6CWx5/EWS/Jg3MLA0HBQW0Wq2hdLuGXlQf7E+39vhrrVOPSkmA51sfoNK7U1VkK4cHsOkfEhAv3TH3tvHbwcHMm3VytkPYhZVtmDrqlqX6WoGqUETLlfD+QMnpaXRtAJkUj2aC3LM7qvFjNAHSEGLSberAsOwmfyyZZ2XGilFXbAAdCn1pFhPki66bcTviA+DGQVSBn2RillfJ30Qn4wwwkwPd7UfZzc+aH+ese6RB2BXwHcE2kk9HbQHge8NeEknY2Mmkr6j+M+n1LDfSeAuXGgDMNW1aENhPV6Fv1c=;GGcn7T0xH6a9NkZK2GaYJQ=="
 ---

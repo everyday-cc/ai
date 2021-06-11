@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Diving into the Third Order in Simulacra From Jean Baudrillard to the first Global NFT Cryptoart Exhibition by CryptoArt.Ai in Shanghai"
-excerpt: "Newsfile; Diving into the Third Order in Simulacra From Jean Baudrillard to the first Global NFT Cryptoart Exhibition by CryptoArt.Ai in Shanghai . Feng Ha"
-publishedDateTime: 2021-06-10T18:30:00Z
-originalUrl: "https://www.thewhig.com/newsfile/87204-diving-into-the-third-order-in-simulacra-from-jean-baudrillard-to-the-first-global-nft-cryptoart-exhibition-by-cryptoart-ai-in-shanghai"
-webUrl: "https://www.thewhig.com/newsfile/87204-diving-into-the-third-order-in-simulacra-from-jean-baudrillard-to-the-first-global-nft-cryptoart-exhibition-by-cryptoart-ai-in-shanghai"
-ampWebUrl: "https://www.thewhig.com/newsfile/87204-diving-into-the-third-order-in-simulacra-from-jean-baudrillard-to-the-first-global-nft-cryptoart-exhibition-by-cryptoart-ai-in-shanghai/wcm/26a3f597-2403-42e1-b0a5-ffde70c72108/amp/"
-cdnAmpWebUrl: "https://www-thewhig-com.cdn.ampproject.org/c/s/www.thewhig.com/newsfile/87204-diving-into-the-third-order-in-simulacra-from-jean-baudrillard-to-the-first-global-nft-cryptoart-exhibition-by-cryptoart-ai-in-shanghai/wcm/26a3f597-2403-42e1-b0a5-ffde70c72108/amp/"
+excerpt: "Diving into the Third Order in Simulacra From Jean Baudrillard to the first Global NFT Cryptoart Exhibition by CryptoArt.Ai in Shanghai Feng Han - When Nothing surfaces in signs, when Nothingness emerges at the very heart of the sign system,"
+publishedDateTime: 2021-06-11T08:56:00Z
+originalUrl: "https://menafn.com/1102245901/Diving-into-the-Third-Order-in-Simulacra-From-Jean-Baudrillard-to-the-first-Global-NFT-Cryptoart-Exhibition-by-CryptoArtAi-in-Shanghai"
+webUrl: "https://menafn.com/1102245901/Diving-into-the-Third-Order-in-Simulacra-From-Jean-Baudrillard-to-the-first-Global-NFT-Cryptoart-Exhibition-by-CryptoArtAi-in-Shanghai"
 type: article
-quality: 27
-heat: 27
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Kingston Whig-Standard
-  domain: thewhig.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://smartcdn.prod.postmedia.digital/nexus/wp-content/uploads/2021/04/newsfile-81152.jpeg"
-    width: 500
-    height: 375
+  - url: "https://menafn.com/updates/pr/2021-06/10/NC_622e9769-0_Image_In_Body.jpg"
+    width: 550
+    height: 367
     isCached: true
 
-secured: "XC+Ag1HVQNivNUuqxkA9Wdrvr3o102ioFuJzTG+yHWmuDrWl3NJrK2tTK/y0LQxKWWPKX//lU0Kc0tPaKpfvMVJFZHSPc/oPc9yYE2GuL+xuEVug/ZCODeZUzu3wVUSwIuYU2Zh1wGHJG0B4JQ0rmXSSQuy9JsIcUOPtU6pLKps/B2M6tYpfHRuAo4XuLh7WVBRlbTz0Y4rdX5fsVCPO4oKvOcNQLsMbMnvWzsnGTR1LusMtUREjv81b5/fVLdA2Pq1fn2zATQNocYT7tk1fucOQnu/UWOXCA8qmzn74KriIYpH0smy7FHC2uQCU7SfsIksFojqwp8oIDIW5Ke2jaDkAJcH/cHKyATpPL9BwU+E=;rXtoaFwBgODIxaN4NKCczg=="
+secured: "UzPK5RompVexNRRmZY1Ib9sv7BEXQEjeMMpSpC8T65+pTsMRVez+xieao/+J46TpX257O1GOrbnqPV2gpxRILIPUVSDlGJQ+nb3rIBPjXRAFJiNfBBY82u+IPtq+yBLI4B8xRG9vCatR6UBuxb9y6Xm/cl0Lz9OY44y4012LhWSsjt6JRlQCmjAkBPA+WK9t2svlgVnEU66Koq1738Zv1roh7MKIXi/v0EvDSixDL+I3BJbHuGte0KWthQkchGpmNG4K3bHkT3dDsu0aEcWTfkAYdiGcGWqdXdKKO+8hd1guTrYWrsE6ZoqJCi/XxzCVDhXJTtFBSkU8g6RKtNi3pwiauGUPFG1fPSWbq/1SL+Q=;J7++N5SKhzhI5+aoZ34kLQ=="
 ---
 

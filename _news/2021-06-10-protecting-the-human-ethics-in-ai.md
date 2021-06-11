@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.bbntimes.com/images/articles/society/AI_Neural_Network_Mimics_the_Human_Brain_on_Psychedelics.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "These creepy fake humans herald a new age in AI"
+    excerpt: "These humans are not gaming avatars or animated characters for movies. They are synthetic data designed to feed the growing appetite of deep-learning algorithms. Firms like Datagen offer a compelling alternative to the expensive and time-consuming process of gathering real-world data."
+    publishedDateTime: 2021-06-11T09:03:00Z
+    webUrl: "https://www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/"
+    ampWebUrl: "https://www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/ContactSheet-001.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
 
 secured: "iHV4c6+YpLr5UsUHF8uiJSPGNYW7m5EY4ObSOAMdZNZ1DUmHkThTE7XNlng1SHcXAmvcNyxxKjqx7DqFKvdy/A04f4vdvlQiuuotAlITYglVujbenwZ7Ro4I00ihVx9Uqo33fhVhyzbvRJ8gQO0gt7wKZR1BNAJCU4YRWykWKkHR18/NuBN5s/dsT//yz5E5lxalllJ7Equ6+ZLUEygLJvtjGvSA6zTd+S0+Ql/vOV2lXy3VVeKfWAORXK6x2hesFMjxLUO4/+DefOiGX+MhjANA6MlADmCrE+RmLHXlE00a44ugdwgUHPnkCua5dqNEmwkdpC39cDrEbWP4lak6OymgCrmi0MmBeqkXR8j1hkvlbFtoJa4sJmXG3piiIy2yl0CLEfrirKg3NeTav7FpKwcnVt1OZx+M4bDTrI1nMnC2CQs61/BfCT9Jc9jZ4NTebZmMsjtl58Lu+CV8RYQkMjCi+lkOBQMH0GEuCd6fIpzQ38ERb3UbSXXbcBBw6IJdlQ1lh4gUOu7fxh6W3n1gyQ==;4w4DJEAqyXdfwCObM6nOBg=="

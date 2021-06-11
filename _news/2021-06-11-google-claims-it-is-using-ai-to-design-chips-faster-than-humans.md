@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google is training AI to design the next generation of chips"
+    excerpt: "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads."
+    publishedDateTime: 2021-06-11T09:17:00Z
+    webUrl: "https://www.techradar.com/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    ampWebUrl: "https://www.techradar.com/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Google says its AI is much faster and better chip designer than humans"
     excerpt: "Google says its AI can design microprocessor floorplans much faster and better than any human can. The neural network is learning this trade through a method called reinforcement learning."
     publishedDateTime: 2021-06-09T14:06:00Z
@@ -173,6 +189,6 @@ related:
         height: 576
         isCached: true
 
-secured: "MGPvHoFCzak3fsCmBIZ4lr68HI3YRuXEUdfa6zWNhIJ8Gjo8w50GypUT8Hu0EFm+U8Ny60tY9Yk6t8JKfRKDlO7B1s+/7cB7IfajoAYPP4cIibQ9MxZGquogSuTwpLMgG8nUCdBlMm1bW+WEiRzMc7qUVlKuwxxKn3YrVKZ3E77y3oGRt98jpE3VQq92t5LVOEXccyKSc5xP3V6NO5ztyFBRvr8AzvvvPAjqBOlnnRvPUzV//QKzPdtHWhQ7BJmIdcdgvjBQmG/aMxSrU296DRwrxKhhysarIAZ5YeiCNOEnI/eYbRfbSN1uVDe+vRhDgrJsqrKK0st1u/tKh7Hxn5jG+9/+iuzUXtKeZncR56I=;eGpQnbgpQj9kpugBckyfCA=="
+secured: "eH6/kCLowGLhDq/t6RFB2Klt25jt1bVSvUVsLCeMQ3gWRr9fHkEEx5h6i0O9QHSmrTGVLENztFK5eyfLxmRCf999dyLGolrxn2LCegW8E4/DbE4M+SHirKeLsk/s9xBjhO+007Moeu8ARPwmtZuTm0feBp3gp/a5imgOSJX+4uDCAsGRO5JH3Lkl5tlqxZ9h+1PWva/c8MKpFr/trIJ4OxQbY/Tk/vCnSwC0yIgKrPx6ANc+URvqK1wjFwpdvGm0W/uXrwfA4mH8txGClA2jN6C5CA0v5+gi/mhCmG2995hhDHw8KklwTw/wsvzeTktUZDeedqAfZGO2AINWvFqOgwBLHCgGS8mrsYpsenRVmqBaLe5N/Akklpnx2ww1BAavNTjnBTtcdTH71FmJ71yeJCtFPx4qwKc65uE43he7Nlvt2+RvhgjrVHdh+ftWoRhmSXt4NuZ4Iv9O2pYmTTrH6Sd893mB4aYKvUvmxzrVZylYVUgNgAaQ1OxlCSaAZuX3ZCve+8S1aR3YsySPTevWew==;8VkL/OpIVbbf4SergYaAOQ=="
 ---
 

@@ -33,7 +33,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Diseno_sin_titulo_1_kqy3Jho.2e16d0ba.fill-1200x630.png"
         width: 880

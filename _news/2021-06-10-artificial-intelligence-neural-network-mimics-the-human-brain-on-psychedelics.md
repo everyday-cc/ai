@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "These creepy fake humans herald a new age in AI"
+    excerpt: "These humans are not gaming avatars or animated characters for movies. They are synthetic data designed to feed the growing appetite of deep-learning algorithms. Firms like Datagen offer a compelling alternative to the expensive and time-consuming process of gathering real-world data."
+    publishedDateTime: 2021-06-11T09:03:00Z
+    webUrl: "https://www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/"
+    ampWebUrl: "https://www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/ContactSheet-001.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "5Ex4Nset74nOl7YBX5zLYOo99cmkLLlHSCeFx5pfFpYr7vuE5esJk0UCDlixNrcHxdan8Ee7/s4bDSF1bgOolnwNFGDGa58w4AtWhniu6bjsF07Uri4v8M7ubEkItbjQhgJDQATl/4POLchHe268wml308TwhP/sABHDlDI0HfH5XiAD4uUzyfF9rzIo+OOfRs8S9WCCGGgAGQQf67dIf0QSie3kFAqQuOzfHhHhSJFm4Z2oIYD8W2UnwYLvlTKcLmbo3JxPTFnqdiXPAoOqGa5f4++aCg/9qHQXqieBb2KsgTonNgWJkjvI/ESz0Yd77gA+JSkq5VyVVSE/rEV/rwELHlusfFM16i/bwqbXHEVC8uJhm36IwxJyddxbaVdXqfUyMAYxpIHuKeplM7Uz6gOR4Swt6jXwz5B85aR12mAY9hG7K0aJaX0bALBnRuvNSvdHJEZ4Fzi5r8ktPIonbmJXNgudxndWgMPF6Hd0LGovN0owMf8r7Yw6WBLQqwcV1eMXmM/x8PteqgvoyRqN0g==;vKvU7LTcODQ7qZ8bdtf2AQ=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
+    publishedDateTime: 2021-06-10T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fine Arts Center Wins National Recognition"
     excerpt: "The Fine Arts Center for the New River Valley received the Gold Key for Excellence in the Field Award from Scholastic sponsored by the Alliance for Young"
     publishedDateTime: 2021-06-10T23:12:00Z

@@ -45,6 +45,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Google is training AI to design the next generation of chips"
+    excerpt: "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads."
+    publishedDateTime: 2021-06-11T09:17:00Z
+    webUrl: "https://www.techradar.com/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    ampWebUrl: "https://www.techradar.com/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Google has used AI to gamify the design of computer chips"
     excerpt: "Google researchers have found through the development of an AI model, the technology could design the layout of a computer chip faster and more efficiently than those designed by humans."
     publishedDateTime: 2021-06-09T06:00:00Z

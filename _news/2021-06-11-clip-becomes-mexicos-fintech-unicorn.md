@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Clip Becomes Mexico's Fintech Unicorn"
-excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftBank Latin America Fund and Viking Global Investors LP."
-publishedDateTime: 2021-06-10T17:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388522.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388522.htm"
+excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftB"
+publishedDateTime: 2021-06-10T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210610005759/en/Clip-Becomes-Mexicos-Fintech-Unicorn"
+webUrl: "https://www.businesswire.com/news/home/20210610005759/en/Clip-Becomes-Mexicos-Fintech-Unicorn"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
@@ -65,6 +65,22 @@ related:
         width: 690
         height: 493
         isCached: true
+  - title: "Global Fintech Market Size & Analysis - Forecast to 2026"
+    excerpt: "As per the research conducted by GME the Global Fintech Market will grow with a CAGR value of 23 7 percent The expansion of the FinTech market is being spurred by the ubiquitousness of technology and innovation in the marketplace"
+    publishedDateTime: 2021-06-11T08:29:00Z
+    webUrl: "https://www.openpr.com/news/2303162/global-fintech-market-size-analysis-forecast-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Report lays out seven technologies key to fintech development"
     excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
     publishedDateTime: 2021-06-07T13:20:00Z
@@ -108,6 +124,6 @@ related:
         height: 399
         isCached: true
 
-secured: "Er+xqEyiDu0osLJZdjCS2kYvywbQ9lNnZX+KlWPtKy3ET5Ci4aEzFnDMCZYGkabC1E/vcBuazd3nmeXxLfnXXnQlytQvP9F4k12EJejWBaHgz4iy9FzZSRnFfUuXe8EoW7tOnfl5SbT6oQDhnoHZ9c5x+/1gTu5Io4WklmbBx6nxef6yaGQtLZnDHdyBhJWHBOv2+w8AfWioT1YR7E6bjZSjzdi5d7xjTssb7nFS7PlAqnufeVn8TNiRP95PfiOiW6C/WoImJ117Yf3lduNeQgfIlD5BMNzlQaWenCCTa22WF2qa0/74PLoMSv4CPwTW4OSduBnnJrmp6hoR1lIhMpSvA/4KxLB8QvC9zoa4AmKC84PSvS5wmi1HTb0kdnVW8rmfarQl6uZaZYvPSCdJDjjD+Jjnlg5kMe+SyJpkQcZAFU5pwo9WO/ApdChdsZAScyTMVnrta1X2wgYt1NgjObV2UVsbbRmo+X9eQjElXPmJptY5ZEdmX2iqNGOAF77UhTNwE0FLSbpb9A3igaMRDg==;1m7Tla1KQlcK1IroGbr9hg=="
+secured: "QJd64IW2fePjbMxsG9DkQu5Y7VwZTnYqn1NVs3Ty7EIFId4b20OcHCBR1qmnIYT0z1SuuJfNR05dLexcS62+EXYT1LsD2VrTupF5BwjQL21wpP0ZPBjn/cytxd0Gx5y7HCSRdLjxOgym4lJrq9FAPsHIADbVt5juCaUwOsyqrVqlQDPF/mn7vPglhmWtkQ5eB4lQF71/6epp0Sln71HMVZ8vPjpHPlVHw7chwa6SRpgOb8Aic2Kf+57Ni2nzf1FiEFSG0Z7y+4f9+wAR5HtUzAsFkQAdEUPWGKao8/ILF4q9K6Wf2s9lBUIp56UK03k8XcO77LGkzYeu3sYhDTpjT877P1bmvYPv1ietvozENZbnFnBWn/T2i4oI5+kZdvTVlSUlSHWmA6WRjpT2Uyt+fWTAys+jeJN/6f4sx2ImQJLWDG+cQSftEp00OAAWvIzfeXg2V8ixWpwfCwuxlE3LbHGE8MWxFTz0fch0+L5Aek0SrQyrTWeQTTt8ikZ90fg/csfm3BoJg8mEH8uxuO492Q==;cGCfVRjIeAZ5qXHE8pekUw=="
 ---
 

@@ -33,6 +33,20 @@ related:
         width: 860
         height: 522
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Present Scenario, Key Vendors, Industry Share and Growth Forecast up to 2028 | Says FMI Analyst"
+    excerpt: "Diverse interventions ranging from EHR (electronic health records) and patient records to surgical procedures application are extensively integrating AI, which in turn has revolutionized the clinical and healthcare settings."
+    publishedDateTime: 2021-06-08T17:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-06-08/artificial-intelligence-in-healthcare-market-present-scenario-key-vendors-industry-share-and-growt"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "QEwKkG/l6SFeFGVXXUFZNj/dZ9BgSuc2vSRpMx6fplc532YpVLfysVVgIKFoSxjktvUMWKCctZjawwrOhfjKaLHJlY4L8WG5jG7qVAXoC8SX31BPT5yOxw8OYba1sUSXhUODqIaLcKkTWwkERCzhBemqly0S+EmZVTLi2dj41kOW3BKIGHgr3mu1RhtW/C0opyQnGxK7MmcqP6omhM7DeKj1f34gF3eF/M3ZskOshZI4btylIK4v+xGeFQgHgsjETBx8xSwMC8mDCDBBYpeqUCVZ8Dl4SuRgGqY7tb0t2uho4xTnXSAYmrq2cETDYRAHVVKujUiZmOcM2FCtTAFvOfwwPj5ZdpH+ZcbxoCO7zBIQdABWXwdS3hJepf3Ld53NR2CfDWA0/6bjtwQQoQR5Z+bnPaYkQz2+RAi2R0n92hCDIn3DzNy/60qNs4Fx9bPDRNGsgu32p7OncEV0BpJtnR882aUZ36fKaF5TTs8zUE1FbcudlIQNwveUTGGQjYEA9nQuZAqLqVo7ge3gL7BSHw==;kwoIBwwjV4rL0u65QQx6yA=="
 ---

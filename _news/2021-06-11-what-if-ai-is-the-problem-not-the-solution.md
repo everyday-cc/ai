@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-11T07:01:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/opinions/what-if-ai-is-the-problem-not-the-solution/"
 webUrl: "https://www.datacenterdynamics.com/en/opinions/what-if-ai-is-the-problem-not-the-solution/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://media.datacenterdynamics.com/media/images/Diseno_sin_titulo_1_kqy3Jho.2e16d0ba.fill-1200x630.png"
@@ -52,6 +53,6 @@ related:
       domain: geektime.com
     quality: 29
 
-secured: "mNicWT6rrnWgEtdtI0+Ox5T8DLh1a+15vuFkNox9acQchXmxqnpoMfsirHyVfZ9D0PIYfaG09hu+WcOcZWB3U9G2xuvmD7vN3Ez3AVge9ncBitYA91dqjzdCZgV+KJN3+6mbSu+Mscw/CqBAI5ro/FhlWLvX49u+O3xv9uXfjT0JxpudATtesN0dzGO383TsvH4j+vATxVk0p+vorUO+rUFR6mRqwIa+jzGPSkRinXmSLF+PiYt62kr6lzt9bkAgtJepZwastHPmD7neLJGNlcDsLCr0tjBhw4ZDnjN5fACvf5qO8SkPOjmoBlBYcDBtjwPqhOagAZqAdvLfkB0JbWa6Dxovhsg+08sjw7MARUI=;JfbqpdibfX6DRz/run4iNw=="
+secured: "lir6/pmyabbVt9nZXCvnqt25JBnDROjqqw0VLjRICkAetUZJM4KnXVHGOXROsL3xlfOubtEp4iwh8rnDrG50CZllhdfUjOi5GWS6Hi8tc1apRO6hPGZpFeBY3MTNIL2lH7jtHCJ5OlQZmzEsaqBoIkqDt9KAe2FcoOjjND0HHnwVJCHUrqt/bPHj7Jqxj9uNC3bHxsz4jIEGZLr/jgbTpp8X8wnVlExWERT2POdblp96N5GTW8lbqupaLODJYiJRsPzVFNQsx2TqTlGle6d+D2Xh6zCDsROkDH9m1RJfYpj6DUh49ezfEabpx07JAqJZPfR56GVRKt839pmdUnZooJAWnF/nPVYJZB+rzD6KKsl9HdoA7Cq+Us44SirBbG7yYcpZPeP2eoDS/7ojCKz7PJG7d+OAQXMixTPFiZ8KhNyKEfPPNE/bCW8aqeaiExmJY2d+81MeB6vWEPd6FPoUhlfOxcnHw7490aYD72oAhCeuCR7K4AlX0D2wkiEyEU5npBy6Q/WxXzhlr8tvNJVjDA==;eplLpnODwTr3/iJkllsIPg=="
 ---
 

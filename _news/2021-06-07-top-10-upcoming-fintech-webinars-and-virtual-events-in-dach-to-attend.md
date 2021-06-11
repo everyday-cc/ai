@@ -71,6 +71,22 @@ related:
         width: 690
         height: 493
         isCached: true
+  - title: "Global Fintech Market Size & Analysis - Forecast to 2026"
+    excerpt: "As per the research conducted by GME the Global Fintech Market will grow with a CAGR value of 23 7 percent The expansion of the FinTech market is being spurred by the ubiquitousness of technology and innovation in the marketplace"
+    publishedDateTime: 2021-06-11T08:29:00Z
+    webUrl: "https://www.openpr.com/news/2303162/global-fintech-market-size-analysis-forecast-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Report lays out seven technologies key to fintech development"
     excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
     publishedDateTime: 2021-06-07T13:20:00Z
@@ -100,13 +116,13 @@ related:
         height: 399
         isCached: true
   - title: "Clip Becomes Mexico's Fintech Unicorn"
-    excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftBank Latin America Fund and Viking Global Investors LP."
-    publishedDateTime: 2021-06-10T17:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388522.htm"
+    excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftB"
+    publishedDateTime: 2021-06-10T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210610005759/en/Clip-Becomes-Mexicos-Fintech-Unicorn"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 4
 
 secured: "+FOyu8C18Wu0XRl/m6jnhhw/L1cc4jiGsPeF8dLvEby5Iotb8dbC3D2QyHK3Gpv3jQfgwGF01tcpMt8yO3eOUwb/7yK39UwZVZwkEgt8JA+rjN0DKzy0gtxW2SOgXlfYlyGNe90aIAQTVP/39/W223FTF6EafsBqVga7uU1P1g+gsv4w87ShHCgyMeGDApeIJrugtt5gTQ6FFYZC6DQrTL/SMeUEhCeAp1RM0o/MGg8/xvcl4lM7x49xOXHseFNveod8JQxd8dmjqhzkrEVNHF3WaaI+rARjQiLB53EomXBn/hz3klFJTqLs44XAD9yTSjFW7XKyHxLsz6DAOH0cJJdzG4Sz972n8lXxKi0y5UjpXBtnnkaszyLcfiryPGYqTDHeUS8Nmjy41yU3abCVdKxs2QSXevpi5nVEjiQIyGPmymIigk3qYsQAOQ3zNMlmD7fy5AyupVzRnLdLSnRdn7paGjiuZ68+Aah/fsuxBEtP4MXbbJPAZ7G30JSQOoO4WEWvYG95HPAHVzPdYS+LSg==;WmO8Yq73NImM5A/la7g6lA=="

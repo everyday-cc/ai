@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-11T07:30:00Z
 originalUrl: "https://analyticsindiamag.com/everything-you-need-to-know-about-googles-vertex-ai/"
 webUrl: "https://analyticsindiamag.com/everything-you-need-to-know-about-googles-vertex-ai/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/vertex-ai-1.jpg"
@@ -24,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "OoyK5xyv8Vr7KtadJBliEsCBKbJa0oQ3BL9E1z+3aORBStPDtnR+43VpZ0BXCxLESAa0dHJ+CLQO4BWcdyb/1mq0xOwLBZ0JF+ZC9u35AcmDzJyOYAzvjgJ8S9cNAWEbqaq7W6nZ8UTDINFqaauzMojJLHm7GM3P7WZGNnCifP2WTJoQx9RBvUQ/jnmwBkH4BSuHPNCbQSTdeLlAbFiE9469sLOK6KSgu+c9UFzPglRsTD/5s8XEtox1duMfskI2HR6H4o5hZd0h8E0u0N+7/Y6DVVaehV/TGoxVoLoGm0mE4YJB3oYihxWeBV6nsFfbv9udjHmXW6zlq9vz3a9N1O01fsENpmQcLQ8pg/O8Wqs=;72yZiKN7mU8pROn61xHuxA=="
+secured: "dw4FW0LBOk1MhsoeLqnSX1bPBgZeuPRpMVIxFYRVRNQVnHDopWf0kULTrK3xRXTo33TxrDW/ovSihNM8TmyvhnV2aTiAKFD82yzI558p8cGBrdlX739Y0bscNdMTGUgK9rPfs+MDwj6HqTHERQhBU+P07d5TZY2Md/18kg6+h314HFPxSvdmTL1uEWaI4JuCsa6ISq5MSqgfLC0/GdP42op592++Q2ic7BzQBcxBqR6Z1uMz+ODWjSQdY4XA5cHFAwqXukGvCXEcIkYqsia2yXlLXFEHHnJt/pRhKsSeZywtcmw4ox7v4rukTuiy9LUS/BX9+/5LkOxqvpa3/fdnMT6d3tvPZOkgdtLY1xRSQMAbQZw764ORT5sIRA+s3tVVhKgmU22jFF1Emt1SIBwIPDpg16+zQ/H3Su4zA6CuuMw8wc9hY7d6xgT+Rus11ogWqWsp3KLfW99HacyQiHS5W5dLRRYzhvKU4W5r2BYfRo3D1iBZlCzpJIFhDkAf3pOsMzmkcWMzwZ9tcg4UVg7+ZQ==;JsovorSmkBgF3mTuotHg3Q=="
 ---
 

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market Present Scenario, Key Vendors, Industry Share and Growth Forecast up to 2028 | Says FMI Analyst"
+    excerpt: "Diverse interventions ranging from EHR (electronic health records) and patient records to surgical procedures application are extensively integrating AI, which in turn has revolutionized the clinical and healthcare settings."
+    publishedDateTime: 2021-06-08T17:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-06-08/artificial-intelligence-in-healthcare-market-present-scenario-key-vendors-industry-share-and-growt"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Latest Research of Healthcare Automation Market: How Automation is Key to the Future of Healthcare Operations"
     excerpt: "The healthcare industry is rapidly adopting new technologies such as Artificial Intelligence (AI), robotics, medical imaging analytics; and extracting maximum benefits to drive down operational efficiencies,"
     publishedDateTime: 2021-06-07T10:48:00Z

@@ -1,24 +1,23 @@
 ---
 category: news
 title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
-excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
-publishedDateTime: 2021-06-10T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
-webUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
+excerpt: "C3.ai Digital Transformation Institute today announced the second round of C3.ai DTI awards, focused on using artificial intelligenc"
+publishedDateTime: 2021-06-11T09:00:00Z
+originalUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-73436.html"
+webUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-73436.html"
 type: article
-quality: 27
+quality: 25
 heat: -1
 published: false
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
-  - Microsoft AI
+  - AI Ethics
   - AI
   - AI in Security
-  - AI Ethics
 
 related:
   - title: "How Companies Can Keep AI In Their Digital Transformation Plans"
@@ -67,6 +66,6 @@ related:
       domain: bio-itworld.com
     quality: 19
 
-secured: "YzL/bbxdvzksLdnCCAo5mBUHe8uN47ipfAOT8koPdjGB4roKMICe2vin0DBz0QeNfhADKimGmVSyhj8lncb+VFdODsSnWBG5p0o+hbxHyNs+ZFSEqoKOFR4rTrdLbttwCDRLQMOpnMyru/TXy2peR53Tu8VNryTlMx/lzPMWQXAByAw9q2fLN5e4T0qeAtM2TPY2ddMYg0OKroi3r1VAE6pwAvYac03mzdSOcdlPnMczH9ssVm8ysyio0VxXOe7HBNxunL6ql2twJuS4hRr4uQfF/ZqB1IGMwBPkts0RG72YgnvEXUh+Vl3OLa0a4+lkYoLSc1VMrdK/mQ2evZpTWpRyb7d2fBJDwf/P2TytGAs=;qzFIoh+bTW0d1devVAdVgQ=="
+secured: "81F/vBsb8Ab4vimw3Po+m5cMuAXTh3J70DTA9j0NJZBEv01A8cNsC78wXdx4/PxNlvopja1/np5zMqZkfol8aj9Ul96QDCuQW8omy+ezIZbFbmFubC/cpUum7kidrvOBGL1S0ypf4Zd8hcbJRVrfwaLSkxuhiAmjUJPqhTXvlOLF6qHWlE4e+Sv9ddLf2c8Wzp++pxImO17qw4xftkGVl9yH0Vmb+KEwxyGSM3orJ6zw2zGBTNMyhhvjBZISVpLth+WGptN4kzCbVwbpTqaSHLLWEM3oqOtHxnR0I598yVVNu/EVojUgqmwsS0+uduRvKVaW+j5SDUNw7go4PSoowQXW62VOTgK+srUWDa0d2Ao=;9vZwkNzHXlHmNRldu5pI2w=="
 ---
 
