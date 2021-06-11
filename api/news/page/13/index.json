@@ -2,6 +2,91 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-31-why-ai-transformations-should-start-with-pricing.md",
+      "title": "Why AI Transformations Should Start with Pricing",
+      "excerpt": "Many companies want to apply AI to improve their processes. Those that focus first on pricing tend to get better results faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bcg.com/publications/2021/ai-pricing-tranformations",
+      "originalUrl": "https://www.bcg.com/publications/2021/ai-pricing-tranformations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://web-assets.bcg.com/dims4/default/ba82f0f/2147483647/strip/true/crop/2880x1512+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2Ff4%2Ff6%2F9b32cba34911a899dc4566f5b0d7%2Fai-pricing-rectangle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BCG",
+        "domain": "bcg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain.md",
+      "title": "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain",
+      "excerpt": "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computation",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/05/image0013UIF.png",
+          "width": 577,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "publishedDateTime": "2021-05-30T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
       "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
       "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
@@ -1069,112 +1154,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-ai-is-having-a-big-impact-but-not-how-you-think.md",
-      "title": "AI is having a big impact, but not how you think",
-      "excerpt": "Commentary: AI is slowly, incrementally changing the world in ways that might not be obvious to the casual onlooker. Learn about startups that use AI to reduce food waste, improve education and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-is-having-a-big-impact-but-not-how-you-think/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-is-having-a-big-impact-but-not-how-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/12/09/188132fe-9388-4c22-8b16-14fa0fa7bb9e/resize/1200x/c450893cc7be41eb8f7fc7989e2bf850/istock-924257690.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-having-a-big-impact-but-not-how-you-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-having-a-big-impact-but-not-how-you-think/",
-      "publishedDateTime": "2021-05-28T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-sugarcrm-sweetens-predictive-ai-engine-for-marketing-automation.md",
-      "title": "SugarCRM sweetens predictive AI engine for marketing automation",
-      "excerpt": "The connection between marketing and sales gets tighter as SugarCRM tunes its platform for better marketing automation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/28/sugarcrm-sweetens-predictive-ai-engine-for-marketing-automation/",
-      "originalUrl": "https://venturebeat.com/2021/05/28/sugarcrm-sweetens-predictive-ai-engine-for-marketing-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/11/customer-conversion-e1622115552829.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/28/sugarcrm-sweetens-predictive-ai-engine-for-marketing-automation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/sugarcrm-sweetens-predictive-ai-engine-for-marketing-automation/amp/",
-      "publishedDateTime": "2021-05-28T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

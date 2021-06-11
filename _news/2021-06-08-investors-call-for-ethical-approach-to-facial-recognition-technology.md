@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
 type: article
 quality: 86
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -149,6 +149,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "DHS on hunt for next generation of facial recognition technology"
+    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
+    publishedDateTime: 2021-06-11T10:45:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Investors pledge to address human rights in facial recognition technology"
     excerpt: "A group of institutional investors and money managers representing $4.5 trillion in assets pledged their commitment to address risks raised by facial recognition technology products and services. Launched by money manager CANDRIAM in March,"

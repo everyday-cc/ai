@@ -1,28 +1,22 @@
 ---
 category: news
 title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-publishedDateTime: 2021-05-20T19:18:00Z
-originalUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
+publishedDateTime: 2021-05-21T00:00:00Z
+originalUrl: "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+webUrl: "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+ampWebUrl: "https://amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
 type: article
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: News.com.au
+  domain: news.com.au
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
-    width: 1024
-    height: 682
-    isCached: true
-
-secured: "5AKrs31EmNI7pt2o0/irMTsAXEaEwceQh+5EIN0WjYbfJVU9J+n67JcLNDDBx4/8B375I5hassDvPRMQqt7E26jCTwrzXdcljT1X36HZxMFevLvMWfPzNLMq1neaNmYoJS8OxqTMP9URYlAZDoK0xQWYD/QTqBvC7We9GOC6OIsClCL1vISc6eCvbij9tbJ1X58PYl365uh6DG3qfCcjjCdv9NLLyl6G4ZcmYiKn0gErFXNWOpDFBSGT9Gs7TFi+NWOp12TNb02hm3qfio+cdMA8DnOSCqn6qiY6vGDblLFvzJ8HdKkU+++6bllX8j/Se691i3lmJI0NjpDL6j4MsRCfPXBUWO1T0mx2CdgSxrQ5WDQWU37s2ofw08oxtm6+jJwKnZkQecwHSz5cbrrv3bP34OTfdK/bB+NfXCeClPukl3gWfBTC5YjS+8S//w/HxScs9gdO7eGf+fCHKn+DR4wNcYPVFctI4r/7e2Q7XlZdspTZ4NCj3pv2aNtCH/SFB1D2wn6JGTRxe8a1h2EFgQ==;H4ulFExAezHBEDsApd44Wg=="
+secured: "vGe7foC+JyFUQFubf3mZvQn4R+MXbGod85gX0AFIJILsVO7Rmx3MnVHDbncMmHgjVUXLgrH3QVey1p48m8lm8dTArlMa9cLNgWwwZOTr+Bl1y8Fkxi8fpSMY109mEvrgmGOfN8rVXYW2pA2ZQcx1zG9B2VuvPOIP3DZYf6tnqAbnROgt1Qmz3EFq5vq+LS+8wxWa2M3ldcv1g8Z+PmR15Th6jQGJ2TuE+TgpMlNOVXUdONSrJM6gl77FLXBlbrcJdv2Kw5EfEfEYaH+eHuQBF/7aEpuxUwpnhDdVIYmoFMyH0QSg67XbTnCCIrqH+tf59+jCiNkxIM1yURo58aTnbrJIZNXahuNirxzXVDLLOlo=;hGvp/BTp2kbZl2HPJSqnpA=="
 ---
 

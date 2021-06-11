@@ -106,6 +106,20 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "White House launches artificial intelligence task force"
+    excerpt: "The White House Office of Science and Technology Policy (OSTP) and the National Science Foundation (NSF) on Thursday announced the launch of the National Artificial Intelligence Research Resource Task Force."
+    publishedDateTime: 2021-06-11T13:07:00Z
+    webUrl: "https://www.fedscoop.com/white-house-launches-artificial-intelligence-task-force/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
+        width: 264
+        height: 264
+        isCached: true
 
 secured: "WonOB+hFJE6SV6ijiKcFAHN3Esp4qF5OuCZoda/RrWxNORQFu7hRiXC9WAFQw6ULuM4/58RDlQU0tZ3ZUzlosh7swXzxJmCN+/hbhZGno3UaV8pehBB+2CFT3S31tLY1Ei+da/6sqDySFpqw4jnQ8VIQI8ek2QYBrdVsRvusJUB1210CkEphfzbCaR4tdklfXIWx7t36KnjD1QkSZKOpGi3xEiPuPVk2gVKvwFnpi/9FoMW6OhkE2VmDWOS6lBcSCMj1moqs/vdMqw+iiachSHtK7JLbXM8p45Y77XWQfaUIQrrY1zhbk5kC69KJIVgHbz1Z4q3JuimCDvgk3N2mu76Ma1RpM1iVjwgUJGwRdKw=;zQ2+tyquliVqip4kugh6sg=="
 ---

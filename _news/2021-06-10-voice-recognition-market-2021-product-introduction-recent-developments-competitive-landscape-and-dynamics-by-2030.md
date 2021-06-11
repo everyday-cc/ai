@@ -71,6 +71,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
+    excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
+    publishedDateTime: 2021-06-07T12:34:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 9
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "OKAxt0ALjRkw7zZTwNVkNdxy4jvmecPqF0123okpHbkTgRvBBFbkrNomqtD8dXfUJf2FPVVwr1z6YrRbz+YtElJykLSr5QP35HpuJtQ8LaIlwAsc9PiE/shEFNWPU29RC59bkkmCXxLP9lc/PGhpSJL4j8NC3a+gTZpMaZBTxVMQ9982dWEtLjfMUWf8DbHGr/Hq6HSQ95KmOEORBM8t3u1sJTXw8MP1yicVEnnKRTAPXy7WhKW9Wh5MIdwVFvqBhmt9YDo1Thmn7BtSqRIBZVn3hwWOQyYEydDKQG58qNscw+6r3+JgUWYUy1jncgkKSg6FZcMClaG8Xbvsx7gFCUcvvffd0WjT/gI2gjIcFQk=;rncq4BgiXTrSpMhmsPpQeA=="
 ---

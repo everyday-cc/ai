@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge Artificial Intelligence Software Market Growth, Industry Analysis | Global and Regional Market Forecast to 2020-2028"
+    excerpt: "The global edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected"
+    publishedDateTime: 2021-06-11T08:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-software-market-growth-industry-analysis-global-and-regional-market-forecast-to-2020-2028-2021-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Industrial Artificial Intelligence Market Report 2021 Growth Factors, Product Type, Manufacturers, Application, End User and Regions 2027"
     excerpt: "Jun 10, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Industrial Artificial Intelligence"
     publishedDateTime: 2021-06-10T13:32:00Z
@@ -92,6 +106,17 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "COVID-19 Impact on Mobile Artificial Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Mobile Artificial Intelligence Market size is expected to grow at an annual average of 26 3 during 2021 2027 Virtual assistants and bots will become more prevalent and smarter in the near future freeing employees from monotonous tasks"
+    publishedDateTime: 2021-06-11T12:37:00Z
+    webUrl: "https://www.openpr.com/news/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+    ampWebUrl: "https://www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "qnmE9tKpeEuzwonOx3L+NLuVspqM8OD2Y9RkJSKPzcq4qoXZ+X3WIpgfR9I1rqHARL3+wQVMOKL4S23oC8SbdaBvE9j9tKij7pR2vTRUtGhC5kIm9Dffl8MEIfLgAK5jCcu+MtTfnCiwirPK7hrlxM2ZVO555QKJhHYm5V2vqEALwX8judbY8qNahB9dcA3KO77NTh+TxW6p987NnO5oWjaCl+4s91eEK/lSqevP+NL3spR14nYD94R4A2ZlSsPWW1gHt6ABfmPk195fQt0GeFE7TK0S10K0G97fSBUytHugLu6NQlV9h+QJiUC//c3jjU1GkdJ4KC+UGr22WXGQn1ADU/FnN7W2ssZi2X0dgfU=;qhszUzWMakOzpgQ/+yzzNA=="
 ---

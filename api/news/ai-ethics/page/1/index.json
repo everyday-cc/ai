@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-german-bundestag-passes-new-law-on-supply-chain-ethics.md",
+      "title": "German Bundestag passes new law on supply chain ethics",
+      "excerpt": "The law will require German companies to report human rights or environmental abuses by suppliers. Supporters say it is a milestone, rights groups say it falls short.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "originalUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dw.com/static/stills/images/vdt/2021/beng210611_005_qwilieferweb_01g.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "publishedDateTime": "2021-06-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deutsche Welle",
+        "domain": "dw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
       "title": "How AI could radically change education and standardized testing",
       "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
@@ -168,7 +211,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 226,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1449,49 +1492,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ethical-ai-is-our-responsibility.md",
-      "title": "Ethical AI Is Our Responsibility",
-      "excerpt": "Similarly, so does Responsible AI. In digital, many things can lead to ethical incidents with AI but we can distill them down to four major causes. So how do we adhere to Responsible AI? A ton of resources are available on this topic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6414197398b9485ea46c91da9ff40d67.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "publishedDateTime": "2021-05-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

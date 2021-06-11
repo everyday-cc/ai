@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-10-sleeker-ponyai-self-driving-suv-hints-at-more-road-ready-autonomous-cars.md",
+      "title": "Sleeker Pony.ai self-driving SUV hints at more road-ready autonomous cars",
+      "excerpt": "Autonomous car headgear keeps getting smaller, with Pony.ai revealing its latest self-driving car design and its much sleeker, Luminar-powered scanning hub. Far from the “upturned",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
+      "originalUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Ponyai_Luminar_01-1.jpg",
+          "width": 1500,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/",
+      "publishedDateTime": "2021-05-10T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-the-station-einride-preps-for-a-us-expansion-argo-ai-reveals-its-lidar-specs-and-a-tesla-autopilot-reality-check.md",
       "title": "The Station: Einride preps for a US expansion, Argo AI reveals its lidar specs and a Tesla Autopilot reality check",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from",
@@ -1332,49 +1384,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-driverless-taxis-are-now-operating-in-beijing-china.md",
-      "title": "Driverless taxis are now operating in Beijing, China",
-      "excerpt": "There are now fully autonomous taxis operating in China. This was made possible thanks to tech giant Baidu who recently launched the self-driving taxi service. Called the Apollo Go Robotaxi, the autonomous transport is currently seeing service in Beijing’s Shougang Park - one of the venues for the 2022 Bejing Winter Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china.html",
-      "originalUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autoindustriya.com/images/posts/post20065.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china/amp",
-      "cdnAmpWebUrl": "https://www-autoindustriya-com.cdn.ampproject.org/c/s/www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china/amp",
-      "publishedDateTime": "2021-05-04T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AutoIndustriya.com",
-        "domain": "autoindustriya.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-ha
 webUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100794575_h.jpg"
         width: 1920
         height: 991
+        isCached: true
+  - title: "Kodiak eyes 2023 for driverless freight transport, targets autonomous trucks for US and Asia"
+    excerpt: "Artificial intelligence (AI) firm Kodiak Robotics has set its sights on introducing self-driving trucks on US highways by 2023, and will be gradually"
+    publishedDateTime: 2021-06-11T09:50:00Z
+    webUrl: "https://techhq.com/2021/06/kodiak-eyes-2023-for-driverless-freight-transport-targets-autonomous-trucks-for-us-and-asia/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 28
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/063_1190466188.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "32HgAkvWfj220xLUwuB10A8bzoUzHWuwqcG81JHI5VfC8HWGcrYCkw1mDQjpDfcDLEUdlW9mksIv9zcXMbAJpI/SLLTMjMOa7rBULjJL0G5SZh5BMu/5swPFC/jkUHNgXEY3XKSnSDHj3hJxSNMU1lMW0N6Zm5fsaBDtVqlZBQMqTx/kdTKpDqSBCajq8j/HlnJvVyrvaI/LpxnK42D0b9n0gRzDAPxvTUABWQB4Rq/FhToct79O4qlZrCf/Ow7XH3ZUEk6h4uRPXzaTFwdujPYYdeOImw5J8v1Ao+FmtcFHD8MG0cbo/B+8/qWOs9VV94jjOT8Okc881Qh/F7AAVSVXJsviPHK1t2SHomeTRn3GRHMuJ2cicEo0DLbCoc03RG5SwqB6m4XJAbZKwFFFAcmlxeyNAAy3Alc85LA5mDESOeRm/VD6HpfTbwBHyGfLe0KYoGTGPoNdWzXoqI3SBmaEoEnTeHTKS0wou4NptDdkeLi16bX/vFu8Z1Ot1UKSAW8Sa4pu2u2HryDRab2Fyw==;HtlXR91n5uMz3RltQb95cw=="

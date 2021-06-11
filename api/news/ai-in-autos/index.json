@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-10-self-driving-technology-company-argo-ai-plans-ipo-within-a-year.md",
+      "title": "Self-driving technology company Argo AI plans IPO within a year",
+      "excerpt": "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
+      "originalUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg",
+          "width": 1920,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-tesla-is-now-looking-to-hire-self-driving-car-test-drivers-around-the-world.md",
       "title": "Tesla is now looking to hire self-driving car test drivers around the world",
       "excerpt": "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world.",
@@ -366,7 +409,7 @@
       "originalUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1370,49 +1413,6 @@
       "provider": {
         "name": "Big News Network.com",
         "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.md",
-      "title": "Tech Digest daily round up: Driverless shuttles hit Cambridge roads",
-      "excerpt": "The UK’s first driverless shuttles have taken to the road in Cambridge, carrying their first passengers in a trial alongside normal traffic. The autonomous vehicle took a 20-minute journey around the University of Cambridge’s West Cambridge campus in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
-      "originalUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2021/05/starship-sn15-flight-stream.jpeg",
-          "width": 990,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
         "images": null,
         "publishers": null,
         "authors": null

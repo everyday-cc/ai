@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-glob
 webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11"
 type: article
 quality: 75
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge Artificial Intelligence Software Market Growth, Industry Analysis | Global and Regional Market Forecast to 2020-2028"
+    excerpt: "The global edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected"
+    publishedDateTime: 2021-06-11T08:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-software-market-growth-industry-analysis-global-and-regional-market-forecast-to-2020-2028-2021-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Industrial Artificial Intelligence Market Report 2021 Growth Factors, Product Type, Manufacturers, Application, End User and Regions 2027"
     excerpt: "Jun 10, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Industrial Artificial Intelligence"
     publishedDateTime: 2021-06-10T13:32:00Z
@@ -96,6 +110,17 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "COVID-19 Impact on Mobile Artificial Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Mobile Artificial Intelligence Market size is expected to grow at an annual average of 26 3 during 2021 2027 Virtual assistants and bots will become more prevalent and smarter in the near future freeing employees from monotonous tasks"
+    publishedDateTime: 2021-06-11T12:37:00Z
+    webUrl: "https://www.openpr.com/news/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+    ampWebUrl: "https://www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "wnbllO+v1AslS197mABWO90jmfuH/ZVpcoHXCwjpCwpGt1PjXj9cSeQd9loxpbQMoBYM8i6Ynqn/6AckxOESXfLz3AdQ96X+saegmE3XTooqiebkVcTUmBbtMkBN9utK4g3z+5LwQklzoj7crYtfquaO1n3/4fLK+chJVSMZ+mt1SvDGekEjKboXxTVDIBjE4LMLwg21UFqGRXcLlwxLuoza/vVY/kJ0W5bUbU9BPYU6gSBJqrJgHsExivmXNBjSmBgp4nvHEgNyPNhIHMwu4lwTsQGwK7T0pDl3FzJCQRty/HqA9Iz+diaz6/TpJvJAB2OGoUdecaLLIXmEmEMWVOdS1Zz1dDZFHUwJODcajng=;GH9SU2ZGDAUAXukPzl3puQ=="
 ---

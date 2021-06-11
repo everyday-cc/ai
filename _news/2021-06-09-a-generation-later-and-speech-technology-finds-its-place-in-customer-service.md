@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Wovenware Issued Patent for its Synthetic Data Generation Method for Use in Computer Vision Models"
-    excerpt: "The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,” said Christian González, CEO, Wovenware. “The issuance of this new patent recognizes Wovenware’s unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,"
-    publishedDateTime: 2021-06-08T13:35:00Z
-    webUrl: "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 5
-
 secured: "bH7lNBuOZ0sLpoAG99LUmpQ5HWOfvEK2785BgrJ0dJI8BIn7mohlnFhoIjwMDMv0B8T+ZfeFY7FcVcET+ebRIwVHXuBifOknIgWMk1td/U7o2VygzmVcnxMnPjHzm+6aMrTdAg8y82gdpx3Sfs4K0lkV2G+Mgz1Tp6IAi0/TRxcaIipjtxUFelk/DRuob6QDp8j+tzh0Inb2CAV6F+G1aOULC1bsTQdIImBaNHD8BzOPPtQlBbw2Xq4WeUrXk8zF54ywWXOCJ6jbpFtyiLpUus+zwi3teP3YIBSBbhWPv4xebgnT0hL8DzEFNMVyQKSAMSlO0AxFn9Qk5HdilXDT0FAO2EJptNj18z9pkMJWCQHQ+YkWYVuoEt2AZa1+PewwaYki0rZXUpFLgav2sA+QM2ZrIPfovrVFS8lS1dwCkpQ1n3M6yvkKdZ5gbPiTBLWGv3ip7optbvp1vWURkZXZmGxSZLHxi7OmWpmRPhSbtdxLOSsV3vl6W63TeyYj3lS24lzoPaR5iK1q2d+bpSTGWA==;HYANgrmCd+hpMh53fFhPJg=="
 ---
 

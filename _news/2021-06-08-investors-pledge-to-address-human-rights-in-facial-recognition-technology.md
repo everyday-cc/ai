@@ -160,6 +160,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DHS on hunt for next generation of facial recognition technology"
+    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
+    publishedDateTime: 2021-06-11T10:45:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Asset managers unite to urge human rights focus on facial recognition tech"
     excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
     publishedDateTime: 2021-06-08T11:11:00Z

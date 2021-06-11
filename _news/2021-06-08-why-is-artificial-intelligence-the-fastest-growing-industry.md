@@ -101,6 +101,20 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "White House launches artificial intelligence task force"
+    excerpt: "The White House Office of Science and Technology Policy (OSTP) and the National Science Foundation (NSF) on Thursday announced the launch of the National Artificial Intelligence Research Resource Task Force."
+    publishedDateTime: 2021-06-11T13:07:00Z
+    webUrl: "https://www.fedscoop.com/white-house-launches-artificial-intelligence-task-force/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
+        width: 264
+        height: 264
+        isCached: true
   - title: "Mythic unveils new AI analog matrix processor"
     excerpt: "Artificial intelligence (AI) hardware is on the rise with Mythic introducing the M1076 analog matrix processor designed to work with video analytics workloads such as object detection, classification and depth estimation."
     publishedDateTime: 2021-06-09T12:35:00Z

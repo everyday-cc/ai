@@ -67,6 +67,20 @@ related:
         width: 1920
         height: 991
         isCached: true
+  - title: "Kodiak eyes 2023 for driverless freight transport, targets autonomous trucks for US and Asia"
+    excerpt: "Artificial intelligence (AI) firm Kodiak Robotics has set its sights on introducing self-driving trucks on US highways by 2023, and will be gradually"
+    publishedDateTime: 2021-06-11T09:50:00Z
+    webUrl: "https://techhq.com/2021/06/kodiak-eyes-2023-for-driverless-freight-transport-targets-autonomous-trucks-for-us-and-asia/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 28
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/063_1190466188.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "/ynj++r6xHA8A6Lbm4tbaY7jV1DI9sZ+RGRD8qg2hm+z98L8wVdB5s/htNN4/3ZOVK/zmKJNu7l0RC3vpiYiwVETjGTCoVa8fdsbQrowKXg6ps3go+ulwDVjjLY0jlcLNuOG9Uj338znoZq87E8jgUw9zxkvMBZPrtKtcrWg7vbnT6SZcIQz/lUB+t2cG/UKJGtRbgGCaGZJzIwX/6W7Dk/HeSAat1aoVu1LvKxHk8OQ8xS0PrfRf49A6C33w5uSBkeawYvlpjjA2ANohfFRmC9Esra4ixVeqsg+mEhAjBMmDPlPKOZ4x4AZDQC1fe/6qJQngMnB/kVwxMVLvze7vY03BzVlHu8MMF1iNZNOIgw=;csRTVHn00duYd8vkClqG0A=="
 ---

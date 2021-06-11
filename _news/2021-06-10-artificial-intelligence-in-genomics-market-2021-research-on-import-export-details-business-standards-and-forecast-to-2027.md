@@ -23,6 +23,22 @@ images:
     height: 411
     isCached: true
 
+related:
+  - title: "Global Self-driving Submarine Market Precise Scenario Covering Trends, Opportunities and Growth Forecast during 2021 to 2027"
+    excerpt: "Market Research Place has released a new report entitled Global Self-driving Submarine Market Research Report 2021-2027 that focuses on the market insights into the current and forecast market situation."
+    publishedDateTime: 2021-06-11T10:18:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/global-self-driving-submarine-market-precise-scenario-covering-trends-opportunities-and-growth-forecast-during-2021-to-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/28/10/submarine-designs.jpg?width=982&height=726&auto=webp&quality=75"
+        width: 982
+        height: 726
+        isCached: true
+
 secured: "vPi2HLsPzaivGXxwNOK1jVTxvnXlYI9vF1Ptv/vS/KjL/EP7m9IU5rihdCRlwFnV+wyPbvJu70nO+Jj+jPWGXHbJL6PiWe6wg2EoPTZ9Xq49Wlb/aJAbNleJKtQByNBG/YzRJ7NRw2iPT3ZfIN799L6jd4N5J3L3gnjejrCcAlp/Ckh1I6E7Ne9Hyk1x1wVvD21dK25F23gIGDFujpyQoG/gldG/d4B7+Q8L5BQquHxYwk/A9Lmjd9gc2BMVTe4079n/XY2gi3pkgYW8S2nd383Ti1Ov3KORGiDX44JLjXLXXpvwQTVY9UlOOo4vD2CwOiXb+Lcs6Lqn9I+honRv4cmg5OkUrNADr5rTl6Y1oploup7ucJz77yrcaOL1JF4CqVM0l+eqgTz08Ww6Cy4Z141mZqRqFTWc+7gujrQLGaIWtIxOCe2DUfxsWiOS3BRTkYLK/pnpEOwDL++eyOVUj7YVF7DlYbalqYKHQpa854YnAyOIvdop+iQfvvJf/muNVdn0ekYdbkCyUMN4eFI3Xw==;sJ7LgusMfzC+YieQVXQ00g=="
 ---
 

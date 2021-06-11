@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL2EO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL2EO"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -32,25 +32,11 @@ related:
     provider:
       name: Motor Authority
       domain: motorauthority.com
-    quality: 39
+    quality: 139
     images:
       - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg"
         width: 1920
         height: 1112
-        isCached: true
-  - title: "China’s AI start-ups face IPO hurdle"
-    excerpt: "VCG. China's artificial intelligent (AI) start-ups, amid a rapidly-growing market that drives up investment in research and development (R&D), have been pursuing public"
-    publishedDateTime: 2021-06-09T09:08:00Z
-    webUrl: "https://www.globaltimes.cn/page/202106/1225824.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-09/e8370636-1a13-4737-9ce3-a98ba8ae1a6b.jpeg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Argo AI's CEO says IPO expected within a year"
     excerpt: "Self-driving startup Argo AI, backed by Ford Motor Co. and Volkswagen AG, expects to pursue a public listing within the next year, founder and CEO Bryan Salesky said on Wednesday. \"So we're actively fundraising and are going out this summer to raise a private round initially,"
