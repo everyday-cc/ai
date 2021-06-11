@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livescience.com/amp/orwellian-artifical-intelligence-fut
 cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.seatrade-maritime.com/sites/seatrade-maritime.com/files/AbuDhabi%20Terminals%20Microsoft%20MOU.jpg"
         width: 1540
         height: 800
+        isCached: true
+  - title: "Microsoft Announce Powerful New Threat Detection Solution in Azure"
+    excerpt: "Microsoft has announced new ‘seamless’ integration between their two services: Azure Firewall and Azure Sentinel. Azure Firewall is a Cloud-native network security service. It is a stateful firewall as a service (FaaS),"
+    publishedDateTime: 2021-06-11T10:04:00Z
+    webUrl: "https://latesthackingnews.com/2021/06/11/microsoft-announce-powerful-new-threat-detection-solution-in-azure/"
+    type: article
+    provider:
+      name: Latest Hacking News
+      domain: latesthackingnews.com
+    quality: 54
+    images:
+      - url: "https://latesthackingnews.com/wp-content/uploads/2021/06/security-1163108_640.jpeg"
+        width: 600
+        height: 362
         isCached: true
 
 secured: "GXi8t3egTz9+7wiHah85tTDIuyYgo8/cmFYgjIfUhyikbvvuf8ZrooZ3qNbWBw9m9NBrr4cC9vKLpACH0hqErbZbHm4v8iHPPIRE+Q13nC9rwdnx+pOH0W6NhcTUYhbJALM29hO9GVHtDntycaSJKeSuWd0pl8yQQRk1zJKGOZjzIHril7AuVxmfuwBJQpsTjVkN3VGzbKxAm0VQWQIeUBm4oeLBhq4rh/UeJdP6vO5RQl+AffizP8bVNY73GN1uM9xNZQelnYipLRt2QT2vAhSebuGHzLMTjZHNXYYKeunkc7lhClyrhVuC7tm7ED3kPDzxrsGdMFckRDmbOZNdaCiPmhskWl5MOz9z0tnjPHk=;VrGLdjVZugqb6sAZdZzRfA=="

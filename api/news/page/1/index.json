@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs.md",
+      "title": "Tecno Spark 7T With 48MP AI Dual Camera Launched In India; Sale, Price & Specs",
+      "excerpt": "Tecno has launched the Spark 7T in a single 4GB RAM and 64GB storage configuration which is priced at Rs. 8,999. However, as a part of an introductory sale, the device will be available at Rs. 7,999.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html",
+      "originalUrl": "https://www.gizbot.com/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2021/06/tecno-spark-7t-launched-india-1623406016.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html",
+      "publishedDateTime": "2021-06-11T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026.md",
       "title": "June 2021 Report on Global Artificial Intelligence (AI) in Education Market Overview, Size, Share and Trends 2021-2026",
       "excerpt": "The Artificial Intelligence (AI) in Education market report provides a detailed analysis of global market size, regional",
@@ -570,23 +613,32 @@
       "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
       "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10",
-      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10",
+      "webUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
+      "originalUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 98,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp",
-      "publishedDateTime": "2021-06-10T12:44:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T11:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -595,6 +647,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -607,7 +660,7 @@
       "originalUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1109,7 +1162,7 @@
       "originalUrl": "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1201,58 +1254,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-tesla-is-now-looking-to-hire-self-driving-car-test-drivers-around-the-world.md",
-      "title": "Tesla is now looking to hire self-driving car test drivers around the world",
-      "excerpt": "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/",
-      "originalUrl": "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/",
-      "publishedDateTime": "2021-06-10T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

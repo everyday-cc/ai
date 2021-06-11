@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/bny-mellon-and-saphyre-partn
 webUrl: "https://ibsintelligence.com/ibsi-news/bny-mellon-and-saphyre-partner-to-utilize-ai-to-revolutionize-client-onboarding/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "BNY Mellon works with Saphyre to apply AI to client onboarding"
+    excerpt: "BNY Mellon and Saphyre today announced the firms are working together to utilize AI technology to revolutionize the client experience and substantially automate and expedite client onboarding."
+    publishedDateTime: 2021-06-11T11:24:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88051/bny-mellon-works-with-saphyre-to-apply-ai-to-client-onboarding"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "BNY Mellon partners with Saphyre to implement AI in its client onboarding process"
     excerpt: "BNY Mellon has partnered with <a href=' target='_blank'>Saphyre to use AI technology to improve the client experience, automate and expedite client"
     publishedDateTime: 2021-06-10T09:35:00Z

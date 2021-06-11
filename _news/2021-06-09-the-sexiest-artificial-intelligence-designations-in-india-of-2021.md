@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Tecno Spark 7T With 48MP AI Dual Camera Launched In India; Sale, Price & Specs"
+    excerpt: "Tecno has launched the Spark 7T in a single 4GB RAM and 64GB storage configuration which is priced at Rs. 8,999. However, as a part of an introductory sale, the device will be available at Rs. 7,999."
+    publishedDateTime: 2021-06-11T10:08:00Z
+    webUrl: "https://www.gizbot.com/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 55
+    images:
+      - url: "https://www.gizbot.com/img/2021/06/tecno-spark-7t-launched-india-1623406016.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "As artificial intelligence-based loan apps boom in India, some borrowers miss out"
     excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been"
     publishedDateTime: 2021-06-09T07:26:00Z
@@ -33,20 +49,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-83364067,width-1070,height-580,imgsize-39145,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
-        isCached: true
-  - title: "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "Digital lending in India seen reaching $1 trillion in 2023 * Credit algorithms hinder women, the poor, analysts say * Central bank draws up rules for fast-growing sector June 9 (Thomson Reuters Foundation) - As the founder of a consumer rights non-profit in India,"
-    publishedDateTime: 2021-06-08T23:00:00Z
-    webUrl: "https://news.trust.org/item/20210608235042-nbooa"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 39
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/5e22f5bf-6c72-41ab-b40a-0284404d257f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
         isCached: true
   - title: "As AI-based loan apps boom in India, some borrowers miss out"
     excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."

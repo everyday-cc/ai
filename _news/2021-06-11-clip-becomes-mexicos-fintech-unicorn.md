@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Clip Becomes Mexico's Fintech Unicorn"
-excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftB"
-publishedDateTime: 2021-06-10T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210610005759/en/Clip-Becomes-Mexicos-Fintech-Unicorn"
-webUrl: "https://www.businesswire.com/news/home/20210610005759/en/Clip-Becomes-Mexicos-Fintech-Unicorn"
+excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftBank Latin America Fund and Viking Global Investors LP."
+publishedDateTime: 2021-06-10T17:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388522.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388522.htm"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -124,6 +124,6 @@ related:
         height: 399
         isCached: true
 
-secured: "QJd64IW2fePjbMxsG9DkQu5Y7VwZTnYqn1NVs3Ty7EIFId4b20OcHCBR1qmnIYT0z1SuuJfNR05dLexcS62+EXYT1LsD2VrTupF5BwjQL21wpP0ZPBjn/cytxd0Gx5y7HCSRdLjxOgym4lJrq9FAPsHIADbVt5juCaUwOsyqrVqlQDPF/mn7vPglhmWtkQ5eB4lQF71/6epp0Sln71HMVZ8vPjpHPlVHw7chwa6SRpgOb8Aic2Kf+57Ni2nzf1FiEFSG0Z7y+4f9+wAR5HtUzAsFkQAdEUPWGKao8/ILF4q9K6Wf2s9lBUIp56UK03k8XcO77LGkzYeu3sYhDTpjT877P1bmvYPv1ietvozENZbnFnBWn/T2i4oI5+kZdvTVlSUlSHWmA6WRjpT2Uyt+fWTAys+jeJN/6f4sx2ImQJLWDG+cQSftEp00OAAWvIzfeXg2V8ixWpwfCwuxlE3LbHGE8MWxFTz0fch0+L5Aek0SrQyrTWeQTTt8ikZ90fg/csfm3BoJg8mEH8uxuO492Q==;cGCfVRjIeAZ5qXHE8pekUw=="
+secured: "atw7i70JZP0b2GlFcnhsKIWD9ba4dzTN5J45SrKiA+6zLSTIdJ4GKG3vy/9URkt8UOEALeWhUWdmvQgTmNPALvaeEvaCFhMxRUb33Odp6da0sCUxmRObxPpLogmA7g+slsuTGQOqX45AJ+iXByVPP6d//aKwMPku1MAKEcoE51WExrBC2A3/+jr85DBLfqgvDvWFnTD9pcXLWCCLVVG3lpv70zU9fHBiGBG6Dl2OMzJoIV0eeDHXM+VoTD2p4iUuwp1TfUh5RsfQ7GJJd8OtYOsX3KI7cq/EmmzhvZT+beHNTnRwUvGHlEDiRppR+bSgPvba+6bosmTSJJ99ViBTAzfed14/HqPYBbVTwcrWxK5A0tIeqlQ2MvmrAFdlPcHVMrmF8N5zIpyp9R4A5H9iLBamzFiiUWvNxGMpJBfVCTJ2d7J7GIXdvmbon7/mt+93GUUFEM22Wg6c+txZIGzqkc0kHQJTvQfIXIldLzsN0f/wJBOARB67TZR0vZl/xobHsYVLNrdTVbiPU1vqIJjw0A==;MXQU9Ss4r97eTJbVAwpkJA=="
 ---
 

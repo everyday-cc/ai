@@ -54,7 +54,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswireindia.com
-    quality: 25
+    quality: 27
   - title: "Achieving AI: Pharma’s Digital Transformation Pathway"
     excerpt: "What does it mean for a pharmaceutical company to be digital and how do we get there? That’s what Reza Olfati-Saber, PhD, Global Head AI & Deep Analytics, Digital & Data Science R&D, at Sanofi tackled yesterday at the DECODE: AI for Pharmaceuticals forum."
     publishedDateTime: 2021-06-10T05:03:00Z

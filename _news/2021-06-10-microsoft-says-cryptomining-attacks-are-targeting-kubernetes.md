@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-says-cryptomining-at
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -131,6 +131,20 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 33
+  - title: "Crypto-mining hackers hit Kubernetes clusters"
+    excerpt: "Security researchers have warned of hackers’ continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
+    publishedDateTime: 2021-06-11T09:31:00Z
+    webUrl: "https://www.techcentral.ie/YqGJH"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 24
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2019/01/cryptomining_cryptocurrency.jpg"
+        width: 620
+        height: 350
+        isCached: true
 
 secured: "MBBihZMQnRCuEsRi/oHoVs1YbDmIbtcC31SHInKGJpGT7Un/RaaP0pZOXZ0aOonyiov4leqD67cvQhejfxQpd8Z6xaH6unlJGzDyGDUvykxyk4AFdPEzDBJzj1G7fzy8OqOPiaOjmygfNARJPf9qlSkFE5+lruXmPbT4gzNLRhk8r+I9wadRPkV3RTyGHvtm2JVYlHt07/cYkH6CmAFyA+tdtIxvvagxcCFY2Z9+5ORnVgQ9TC/8ntZjpeg2+m3oE2zbNYw1qTCGxePUHsAWGl+kskSqDlXOoLGkD15JoZeFxsPGzurfZET6XQEYk5N2JAaTskpzV11u2TZj7ZKesF+fLLLmCcvOoBR1s+Ihh/o=;Fa3uPgy2xaN1fhn3ipdCVA=="
 ---

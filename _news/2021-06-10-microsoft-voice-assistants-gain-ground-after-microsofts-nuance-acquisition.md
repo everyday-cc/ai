@@ -126,6 +126,20 @@ related:
         width: 697
         height: 526
         isCached: true
+  - title: "Crypto-mining hackers hit Kubernetes clusters"
+    excerpt: "Security researchers have warned of hackers’ continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
+    publishedDateTime: 2021-06-11T09:31:00Z
+    webUrl: "https://www.techcentral.ie/YqGJH"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 24
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2019/01/cryptomining_cryptocurrency.jpg"
+        width: 620
+        height: 350
+        isCached: true
 
 secured: "tbGeLMWMKaIoqMaWL+Uio+fBQuZcLbkfoDx1tjl8vI6m4zlI/EZlmC2H3r7nAwtCLZsmimwoKLQBorbfhZU6ExOXU4eRbZ9iT163xiBTYm6+HP1jmasGmguO/EqAXnjl0o7klaMs1FsmJUN1TPtayoDkdP4nsSSz1ZtbjP3zI2HvcIRXvh0ooFW+hdShQK4ighITj78giAW02qt4GqSVSONW/Zd6M/48PkR8hG4GVsEPCFlrzby3wiuIlhA5v0Fi8P3NiweD7gR7vXqquSMEGTEfE5Esv+EdYnaRTwOu8DAYdguy3ukVg6n/qFvYLMK/GGOXFg58VbTQKijICy/E/aK6RlwyCOOLro/bM+HC8A8=;XyejUlTgTCLLzCnsfJh4bw=="
 ---

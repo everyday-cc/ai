@@ -70,6 +70,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Microsoft Announce Powerful New Threat Detection Solution in Azure"
+    excerpt: "Microsoft has announced new ‘seamless’ integration between their two services: Azure Firewall and Azure Sentinel. Azure Firewall is a Cloud-native network security service. It is a stateful firewall as a service (FaaS),"
+    publishedDateTime: 2021-06-11T10:04:00Z
+    webUrl: "https://latesthackingnews.com/2021/06/11/microsoft-announce-powerful-new-threat-detection-solution-in-azure/"
+    type: article
+    provider:
+      name: Latest Hacking News
+      domain: latesthackingnews.com
+    quality: 54
+    images:
+      - url: "https://latesthackingnews.com/wp-content/uploads/2021/06/security-1163108_640.jpeg"
+        width: 600
+        height: 362
+        isCached: true
 
 secured: "xJPf1wGDaucRi3/JInWHiNrGw/HMEgSNHMWFSbtbpf0i0BEF2ypZ7ejXlIM6rAiLuyxXioE+JrW3wooctKAzLUiWTEd7tBFpy0iDXWsdXw3g1Me5WldKLkejbX8/O0MnuVTLaLVjxYOpFuMZHVq0b8eUbtKYi2FTEuTXYN9UD0q2TNk7q+cBewpGEzdxwD3VT30u8cBbQF6gbMgZu8xjjlc0JWs2mdulgno6AfV/H5lr9xDWDn7IM1st/nPIeZpJX79SnQPP1F7iqyRC8/MGGq6p376VQuNOLYeFsUB95FL7YLj0lCrRNlOP84jyH6BPAPBb2JHTU2xL+o8bV7yllEdoZH2v+rEJLFKF1ELvLFPrPZ+Dz0Y9T6pVHk3m25VpWsARhqD4MKPfo+eYJa2kFU5jkNbjXbxKo4IlHnhD/piuvBLOjc6E+HeigEncNTmMq+9Z9QajZSNHoyVZ893rYM/0OfAAdTRmDSoWXuWgR2WkdIi2CThe/AwixtFQ/reuFR3wKI41D4Ruyv2MKSjZ7A==;ZSQTNKBQx337odt7tonumg=="
 ---

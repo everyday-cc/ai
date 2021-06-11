@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cain
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14985580/16x9/991/557/348d4a21b4c91d2ba3e7633fc6d2a77d/tM/alibaba-group-cto-cheng-li-attends-the-global-smart-logistics-summit-in-hangzhou-4.jpg"
         width: 991
         height: 557
+        isCached: true
+  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
+    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
+    publishedDateTime: 2021-06-11T11:22:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
+        width: 560
+        height: 306
         isCached: true
   - title: "Alibaba to develop self-driving truck"
     excerpt: "The truck will become Alibaba’s second self-developed unmanned vehicle, following a small, full-electric van. Since it was launched in 2020, the van, jointly developed by Alibaba’s research institute and logistics unit,"

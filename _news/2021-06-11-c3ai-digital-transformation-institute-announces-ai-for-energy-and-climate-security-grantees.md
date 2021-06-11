@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-11T09:00:00Z
 originalUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-73436.html"
 webUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-73436.html"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Security
+  - Microsoft AI
 
 related:
   - title: "How Companies Can Keep AI In Their Digital Transformation Plans"

@@ -45,7 +45,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswireindia.com
-    quality: 25
+    quality: 27
   - title: "AI-based voice recognition and language translation technologies will empower digital inclusion in India"
     excerpt: "India is home to more than a billion people who speak hundreds of different languages and dialects. Almost 75% of the population can read, write, and speak in their native language, and a significant"
     publishedDateTime: 2021-06-07T07:08:00Z

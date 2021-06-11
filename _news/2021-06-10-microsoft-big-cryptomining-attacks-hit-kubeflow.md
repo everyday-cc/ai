@@ -127,6 +127,20 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 33
+  - title: "Crypto-mining hackers hit Kubernetes clusters"
+    excerpt: "Security researchers have warned of hackers’ continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
+    publishedDateTime: 2021-06-11T09:31:00Z
+    webUrl: "https://www.techcentral.ie/YqGJH"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 24
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2019/01/cryptomining_cryptocurrency.jpg"
+        width: 620
+        height: 350
+        isCached: true
 
 secured: "3+0FlWqNqeSAdaLIcKK3D6jDiIyz44poU/wt8Yf/gjeJYi/2+s2kIcSyhX62C6FzrrAJoBdGliHbm6/oa12xEdw+ESMvXz+Lu1GhTSE5qAnJsa9EHYbwgcc/jRrB11hXNlkgfvGZYpp2oV/UEQvCaMpwI6nZsORDZxx9ZlJjFnZAKPaX8ZIcWkE7YueBxncfuTSKoj0JciUh5d4h5pMfNDh0wxelwEeNHfgrfyVur9dD28QbT9AMvbtV/nmetK5cJwX/QsQ/a+CNH9sYlGQ7ceVu1qlGV/xlRM/o5s9ZSIK+ySwzsOi77EkADh0fxH3bWO/hG4gRvK0/rnjBctB+PGa2DQONGZJpg65gjzdA2MLtkBDuihu/J2OFe4YGUQNzBVcil3ImoGNOrY8RR/cGJtFvL8E2DuVzQga7HHDCYJgPA8xNLJcBRpWsEXCoS2UfHPvbUnTbnpKntNomlip6EzZqiH49staTR4xFvGKk2f6UvdgcQ7xQkUs91abRQovylHX87hrH0x0/FnOS28F94A==;XKOcbjqLKRu2I4K8hEPFRg=="
 ---

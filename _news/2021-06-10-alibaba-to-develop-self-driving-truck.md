@@ -69,6 +69,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
+    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
+    publishedDateTime: 2021-06-11T11:22:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
+        width: 560
+        height: 306
+        isCached: true
 
 secured: "h1aXpySFhSJJ7ovt1iMXT/HHVA9oAZ66V8YMwWV56sEkJvcP7D/EnTDiXDpTv809OjotfmIHUUnHjKqPrcmYYUkaZrhMH2OS9n1f1RSyHe+gkANqRxx3t+ilYCYLoE/gr0hgS6hjGYgy4PcXlyyFNg94rvGwxgR7nA0IUY/NUtjJdHFLrSPH8jrfzczQo/KdBOUJ7XtFPkw1vjl06A7szdYw/heeDX+2WseK/mqRL2majn0neFNzTaQtvYfDDW06XkbjAZb0HxEHfhyCNC+FVM9wawIMHrw0MV7kVnNFVcVSDGOcE2e5+WhaYw/HX3idUwRmRDWKYc2N7Z3yCE7YKxUFW2Sqjo74rqA/gZJ0la6Gi59tOTvyWQFvNLNwEh+AD69GomZimQwmnuvICPcaGjD1gndGuX8ZRsejZDF3qshekm3RTEiGbb09HP4QjQkpq8TP8vJhb94iSv4jVmRDh55keV7tc+/X3+3i4ESleFQmeBFjxUAplIHe8sti7QRiOLK6pEcbhtBztwFF5CysrQ==;oqq6GA6U2oEiBOv0f/UJeA=="
 ---
