@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "IsDBI Issues Report on Role of Artificial Intelligence in Enhancing Financial Inclusion"
-    excerpt: "The Islamic Development Bank Institute (IsDBI) has published a new report highlighting how Islamic finance and artificial intelligence can enhance financial inclusion. Entitled “Artificial Intelligence and Islamic Finance: A Catalyst for Financial Inclusion”,"
-    publishedDateTime: 2021-06-06T12:52:00Z
-    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2234600"
-    type: article
-    provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 29
-    images:
-      - url: "https://cdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
-        width: 805
-        height: 612
-        isCached: true
   - title: "IsDBI issues Report on Role of Artificial Intelligence in Enhancing Financial Inclusion"
     excerpt: "The Islamic Development Bank Institute (IsDBI) (www.ISDB.org) has published a new report highlighting how Islamic finance and artificial intelligence can enhance financial inclusion. Entitled “Artificial Intelligence and Islamic Finance: A Catalyst for ..."
     publishedDateTime: 2021-06-07T07:03:00Z

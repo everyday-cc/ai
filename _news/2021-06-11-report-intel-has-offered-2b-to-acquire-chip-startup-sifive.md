@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/06/10/report-intel-offered-2b-acquir
 webUrl: "https://siliconangle.com/2021/06/10/report-intel-offered-2b-acquire-chip-startup-sifive/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 718
     height: 398
     isCached: true
+
+related:
+  - title: "Intel debates buyout of SiFive to bolster chip technology against Arm (source)"
+    excerpt: "Intel is considering buying fabless semiconductor company SiFive to compete against Arm, a source told Reuters."
+    publishedDateTime: 2021-06-10T23:10:00Z
+    webUrl: "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/"
+    ampWebUrl: "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/X-Series_Internals_Intel-CPU-e1623357376301.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "waiTu5r5jiVISCqlc5h+O9m2jjYdPJFRfPuKac8u+Y6ypaNbfeI70e1pLbntQL3K0VvNsdb9qSXLNbH/3u6sHlpAColbBrjmNbx9XfExHRtWxd9jwkBWleQAI1CfENWz+tGHkW7APrVzhrHc6TemJAonuLKqfowV0qo5qW0Mu75U86R2SVonw+G5Lhfbnxs+92//plBMzT+kNN53q4lQHsvnXXvP9BszN2lfzqueJxO68vvKbX6KQxp7F/y1miLsNuvi4j7zy5C1NJNHVBCdb3FV5lhrjcNU+Ttcl6i/uaITU2TwJQfIFX8mSvZRhQpLQ4UTPRz4L1q9FoiSxcRB9hFlNFlgxltFrG3YZgJFDiIV5XrqIzBZDNiS+EMEUbMVvSVyByWOqbs4mqhXX+VH5DqLLHS5Lx84XnNlsA0p4tnkIjCFdox1G3aj/EhIGMNdrKumoW5eBYU05hDYY4Yf/U2rRxKicsempAQ60y5j6sNl09m/m/X2N9ko6eSY+t/Qt+Jga7Oz3jVQDMNoCrd1Gw==;MMf5djuwTEV6o/rc5cbGjg=="
 ---

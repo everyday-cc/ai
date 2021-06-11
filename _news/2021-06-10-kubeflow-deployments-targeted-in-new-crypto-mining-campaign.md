@@ -117,6 +117,15 @@ related:
         width: 697
         height: 526
         isCached: true
+  - title: "Microsoft – Voice Assistants Gain Ground After Microsoft’s Nuance Acquisition"
+    excerpt: "Microsoft is solidifying the voice component of its Azure health care offering just as voice assistants are set to impact more industry verticals. Voice assistants are on the cusp of a new phase of enterprise empowerment."
+    publishedDateTime: 2021-06-10T09:45:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-voice-assistants-gain-ground-after-microsofts-nuance-acquisition/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 33
 
 secured: "3u9z+YcW+7WND3Tyi3sw0uCXOD0ZAIKGjnX+KybirCLNpn1PsNKcfh3tKHrbyJuWHFuzXMesJZVWLwIbHidwlXRRBwq992xjpGEJLnugtoIHhV7V2DTf+UzIufYwtybJ5Ps5hFqn0q5ugLLKenw3vadwf8ftgK3NiGdYo0tQKw+ndUkrGToKpJHmXQq9TMyYyyBWonDdsPqGb57VRJmOq/Cxk+opyIL2BIWvb5BFVBdCxVc7CdCpxX2iGYA36p8ivtN4EOXLk92YDJBZWnMAiS6533lPSLGDJHz1JDEB2jCilxH1ToymcOYjCVovO6PeN4Ay2OBhpKtHBaJ1hC6WxEjhHkS7Y+StJhbZ0suhq5g=;if4dOSUfFD9W90v6Ad5bsQ=="
 ---

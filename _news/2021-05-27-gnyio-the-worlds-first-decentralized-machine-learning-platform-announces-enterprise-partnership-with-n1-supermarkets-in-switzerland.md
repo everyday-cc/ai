@@ -1,39 +1,27 @@
 ---
 category: news
 title: "GNY.io, the World's First Decentralized Machine Learning Platform, Announces Enterprise Partnership With N1 Supermarkets in Switzerland"
-excerpt: "GNY announced its first enterprise partnership today, sharing that it would provide N1 Supermarkets in Switzerland with machine learning powered solutions for customer engagement and rewards. N1, the official and exclusive partner of the Intermaché Group in Switzerland,"
-publishedDateTime: 2021-05-27T12:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gnyio-worlds-first-decentralized-machine-learning-platform-announces-/2021/05/27/9379351.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gnyio-worlds-first-decentralized-machine-learning-platform-announces-/2021/05/27/9379351.htm"
+excerpt: "\"By opening up this distribution powered by machine learning and combining with blockchain backed security, you achieve a trustworthy and cost efficient connection to customers that can reinforce ..."
+publishedDateTime: 2021-05-27T12:40:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/gnyio-the-worlds-first-decentralized-machine-learning-platform-announces-enterprise-partnership-with-n1-supermarkets-in-switzerland-301300745.html"
+webUrl: "https://www.prnewswire.com/news-releases/gnyio-the-worlds-first-decentralized-machine-learning-platform-announces-enterprise-partnership-with-n1-supermarkets-in-switzerland-301300745.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-related:
-  - title: "Venture-Backed AI Startup Peachscore – FICO Score for Startups, Announces New Partnership With Loyola Marymount University Entrepreneurship Program"
-    excerpt: "Peachscore, a technology company empowering investors and startups by democratizing the venture capital industry, is pleased to announce its innovative partnership with Loyola Marymount University’s Fred Kiesner Center for Entrepreneurship."
-    publishedDateTime: 2021-05-27T21:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/venture-backed-ai-startup-peachscore-fico-score-for-startups-announces-new-partnership-with-loyola-marymount-university-entrepreneurship-program"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://cdn.newswire.com/files/x/f6/55/f9ced4f7888c31d12df0b2564a8d.jpg"
-        width: 512
-        height: 429
-        isCached: true
+images:
+  - url: "https://mma.prnewswire.com/media/1519338/GNYio_and_N1_Supermarkets_Partnership_Logo.jpg?p=facebook"
+    width: 1200
+    height: 628
+    isCached: true
 
-secured: "MJjSi6e6TE0ojXRWWRNxBw9b5P6Tg6QLuoALwzS44CN5RdBy4hpcSZjBGl1dkjcMyH0QaQxnNLgnlUSiy3Z8p84tb4kKcXltLrbT7TeLdRjeyYVPcr7fW0hcLvLh+x5fCnCSEucqBAihxXSGgq7lwqApWESK5cZ7FlpfQsfDsc2VK2WC2EbFPhjc1V5ZNlMbz8oL4q+3BHBouM9P99oM0RXACsVQHXphyvYChkA6s6g/esKzi/IAFBViDfsWouruuAAwwYPrgZemQm6tzcN0oRWWD8j8KZAKVIfSj3aN7yHwQu/bZEMtm0wQSAwM8cUD1yAwMDAP78om97sQnQIF2dsKazHe7coPUwoR/4DFdm8=;39glGbh/iojxTIdlnGizxw=="
+secured: "Fy+eI/o6f/dskpcgfP9gfrFQZ4Pp0g4ioPlgvZQMmGR5QRtgTDwgJjB9nCKfkG627SEl0z12Z0vSpMdKUDikMRw5h7a8eB+0JQCNjctlEzdpsv2AQw+MuVTE5KxfgS5tQZzfFa9s7UOqgdRXY2keb4cBLBJIPKFzxzlhIbSSzn1OB9pF8C1BS+MLY5Ny7aIfndcKoNwUr4ia17cC9PCmnr+5zPcR7HSY3qPVTTrSsWPGVayA+xIBOMQCuvcikbAczA8KuMwbZ+MZAi/r3LaPI7xNwz4bkuAo0qBHLIeVQ0C0bPO3oiF3XRQteTLvw1x+h4tJrudBuqpoA0rAzRDxYA0vGnzxVzRQbpVVIMOqD60=;b287BbiSHFMCYeM673zyvg=="
 ---
 

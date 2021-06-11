@@ -2,9 +2,9 @@
 category: news
 title: "Elysium Analytics Now Leveraging Snowflake Snowpark for Observability Graph Modeling and Advanced Machine Learning-Based (ML) Analytics"
 excerpt: "Snowflake’s new feature, Snowpark, is enabling data engineers, data scientists, and developers to now run Java/UDF functions from Snowflake’s single, integrated platform. With this new capability, Elysium Analytics will be offering graph modeling and advanced ML analytics running natively on Snowflake for better performance,"
-publishedDateTime: 2021-06-11T02:06:00Z
-originalUrl: "https://www.digitaljournal.com/pr/elysium-analytics-now-leveraging-snowflake-snowpark-for-observability-graph-modeling-and-advanced-machine-learning-based-ml-analytics-5"
-webUrl: "https://www.digitaljournal.com/pr/elysium-analytics-now-leveraging-snowflake-snowpark-for-observability-graph-modeling-and-advanced-machine-learning-based-ml-analytics-5"
+publishedDateTime: 2021-06-11T01:06:00Z
+originalUrl: "https://www.digitaljournal.com/pr/elysium-analytics-now-leveraging-snowflake-snowpark-for-observability-graph-modeling-and-advanced-machine-learning-based-ml-analytics-2"
+webUrl: "https://www.digitaljournal.com/pr/elysium-analytics-now-leveraging-snowflake-snowpark-for-observability-graph-modeling-and-advanced-machine-learning-based-ml-analytics-2"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 337
     isCached: true
 
-secured: "afhxUJDIp/IKg6iDIJzZ15RYJGlUs7m2TIS0WodKCBVlzh/MDwLjxNkkDILteVm/Y7m6GfbQ93qpzZHiHF33Q1Riu2hzA9qRNNbYxWm1KRkayaD+GSjR/YFPHwK9MivbbNDQ5EuO3vjWx/fiR/1iTpoXsATfhgTghzwlqtMGUISzwmJ0AGqC0MXhrl7q5yFqZ6SRms3rRd6WqpaI5EMBpqG8yOyplnFRhIfjMjVPxl4TwBBEgZHf61ZoLDrk1t1J+lf2/UR48daPqH43Xxv994toRJykRrKu5dAQUENNawHAFerYmHJcEnIGPctI5FRGpoBrxogThrDu/2jxhNUb2vboowNntNi8qYxTnSQSrFQ=;qHU3QSgl2m6G10Sal9cxPg=="
+secured: "maixRhiAqIJXJ13n8XtxFMjwhoaX4I/dWxgcm4NgRqmzIRnpyAMNI6rgtck3m2ECmwZoJKW3xUTgaw+RrR63Cu1mVP7pXPJB/BfKd5qeZeiSB6LuybEf/N0m1Ug80viKw3EN/tfTu37UuJAAkYEMcKs1ZJ9LARDoQbH12ds6cRRAVGCwngU+XO7memMDsKKHxS6t+nI3oJe/CVicmxTCDRqKBJKCRXsmDicOEBb8RqzR6qB+P10VGtAzLPzvf10OAP9geKLWSKkmst0xPDBBODW5Ew4OBIBoODgAF5EjuvOARREJmsMChszrCcxJU43/N6MZFOqSF7fX3yYXuLBJWTQcdKWJT8YqxN0Dm9Cd0TQ=;bkgro45jD1mll4+bAkMjeQ=="
 ---
 

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-21-using-tensorflow-to-recognize-your-own-objects.md",
+      "title": "Using TensorFlow To Recognize Your Own Objects",
+      "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
+      "originalUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-11-ways-were-innovating-with-ai.md",
+      "title": "11 ways we're innovating with AI",
+      "excerpt": "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/innovating-with-ai/",
+      "originalUrl": "https://blog.google/technology/ai/innovating-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_2021_heroes_3.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/innovating-with-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/",
+      "publishedDateTime": "2021-05-20T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-the-future-of-ai-4-big-things-to-watch-for-in-the-next-few-years.md",
       "title": "The future of A.I.: 4 big things to watch for in the next few years",
       "excerpt": "Artificial intelligence has progressed in leaps and bounds over the past decade. What's in store for the next one? Here are four things to keep an eye on.",
@@ -1391,85 +1487,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-getting-started-with-deep-learning-using-tensorflow-keras.md",
-      "title": "Getting Started With Deep Learning Using TensorFlow Keras",
-      "excerpt": "Deep Learning is a subset of Machine learning. It was developed to have an architecture and functionality similar to that of a human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/",
-      "originalUrl": "https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/2-1.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-edge-ai-camera-runs-linux-on-quad-a53-soc-with-google-edge-tpu.md",
-      "title": "Edge AI camera runs Linux on quad -A53 SoC with Google Edge TPU",
-      "excerpt": "Imago’s 5MP “VisionAI” camera runs Linux on a quad -A53 SoC accompanied by a Google Edge TPU for TensorFlow Lite and AutoML Vision Edge. Other features include 2GB DDR4, microSD, GbE, and DIO.",
-      "sourceUrl": null,
-      "webUrl": "https://linuxgizmos.com/edge-ai-camera-runs-linux-on-quad-a53-soc-with-google-edge-tpu/",
-      "originalUrl": "https://linuxgizmos.com/edge-ai-camera-runs-linux-on-quad-a53-soc-with-google-edge-tpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "run Linux-based Opera TV",
-        "domain": "linuxgizmos.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

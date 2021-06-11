@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-02-uks-ai-startup-scene-has-grown-600-percent-over-past-decade.md",
+      "title": "UK's AI startup scene has grown 600 percent over past decade",
+      "excerpt": "The country's £32.76 billion AI sector brought in £2.41 billion worth of investment in 2020 alone, according to Tech Nation",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622627477/itpro/AI_UnionJack_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade?amp",
+      "publishedDateTime": "2021-06-02T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-catching-up-on-build-2021-ai-and-arm.md",
       "title": "Catching up on Build 2021: AI and Arm",
       "excerpt": "What were the key announcements at Build this year? I’ve already looked at the Azure data platform updates, so it’s worth a quick dive into what I think are the most important pieces of news for anyone building applications on Microsoft platforms,",
@@ -180,6 +233,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment.md",
+      "title": "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment",
+      "excerpt": "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -687,49 +774,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-01-use-amazon-translate-in-amazon-sagemaker-notebooks.md",
       "title": "Use Amazon Translate in Amazon SageMaker Notebooks",
       "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation in 71 languages and 4,970 language pairs. Amazon Translate is great for performing batch translation when you have large quantities of pre-existing text to translate and real-time",
@@ -1086,6 +1130,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "originalUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-what-you-should-do-if-you-see-an-ai-self-driving-car-behaving-badly.md",
       "title": "What You Should Do If You See An AI Self-Driving Car Behaving Badly",
       "excerpt": "Make sure you are prepared to take appropriate action if you are driving and come upon an AI self-driving car that is behaving badly. Here are some important insider tips and suggestions for you.",
@@ -1135,92 +1213,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-humanoid-robot-aims-to-read-and-react-to-human-emotion.md",
-      "title": "Humanoid robot aims to read and react to human emotion",
-      "excerpt": "Researchers from Pisa University in Italy hope that one day Abel will be able to become a home help for people with autism and Alzheimer’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
-      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wane.com/wp-content/uploads/sites/21/2021/06/Humanoid-robot-photo.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
-      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
-      "publishedDateTime": "2021-06-01T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-the-political-myth-of-the-driverless-tube-train.md",
-      "title": "The Political Myth of the Driverless Tube Train",
-      "excerpt": "Both meaningless and meaningful, the phrase ‘driverless trains’ is a recurring one in London politics. In this piece, we explore the reality behind the phrase and what it means in a London context.",
-      "sourceUrl": null,
-      "webUrl": "https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/",
-      "originalUrl": "https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.londonreconnections.com/wp-content/uploads/PriestmanGoode_New_Tube_for_London_front-three-quarter-view-scaled.jpg",
-          "width": 2560,
-          "height": 1455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "londonreconnections.com",
-        "domain": "londonreconnections.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

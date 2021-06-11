@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-how-pytorch-is-challenging-tensorflow-lately.md",
+      "title": "How PyTorch Is Challenging TensorFlow Lately",
+      "excerpt": "PyTorch gives our researchers unprecedented flexibility in designing their models and running their experiments.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/how-pytorch-is-challenging-tensorflow-lately/",
+      "originalUrl": "https://analyticsindiamag.com/how-pytorch-is-challenging-tensorflow-lately/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/pytorch.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-artificial-intelligence-in-drug-discovery-market-current-impact-to-make-big-changes-microsoft-google-atomwise.md",
       "title": "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise",
       "excerpt": "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market.",
@@ -51,6 +96,59 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source.md",
+      "title": "Intel debates buyout of SiFive to bolster chip technology against Arm (source)",
+      "excerpt": "Intel is considering buying fabless semiconductor company SiFive to compete against Arm, a source told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/",
+      "originalUrl": "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/X-Series_Internals_Intel-CPU-e1623357376301.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/amp/",
+      "publishedDateTime": "2021-06-10T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -317,32 +415,23 @@
       "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
       "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
-      "originalUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 101,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T11:44:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp",
+      "publishedDateTime": "2021-06-10T12:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -351,7 +440,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -866,7 +954,7 @@
       "originalUrl": "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1139,114 +1227,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bmo-signs-deal-with-amazon-web-services-to-help-digital-shift.md",
-      "title": "BMO Signs Deal With Amazon Web Services to Help Digital Shift",
-      "excerpt": "Bank of Montreal picked Amazon.com Inc.’s web-services division as its preferred cloud provider to help the bank modernize operations and introduce new digital applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNmtVmGrkNyw/v1/1200x603.jpg",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai.md",
-      "title": "DeepMind says reinforcement learning is ‘enough’ to reach general AI",
-      "excerpt": "Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from sticking to the principle of reward maximization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
-      "publishedDateTime": "2021-06-09T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "Computer Vision"
       ]
     }
   ],

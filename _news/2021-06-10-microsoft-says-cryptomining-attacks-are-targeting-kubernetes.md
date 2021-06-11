@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-says-cryptomining-at
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
         width: 697
         height: 526
         isCached: true
+  - title: "Microsoft – Voice Assistants Gain Ground After Microsoft’s Nuance Acquisition"
+    excerpt: "Microsoft is solidifying the voice component of its Azure health care offering just as voice assistants are set to impact more industry verticals. Voice assistants are on the cusp of a new phase of enterprise empowerment."
+    publishedDateTime: 2021-06-10T09:45:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-voice-assistants-gain-ground-after-microsofts-nuance-acquisition/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 33
 
 secured: "MBBihZMQnRCuEsRi/oHoVs1YbDmIbtcC31SHInKGJpGT7Un/RaaP0pZOXZ0aOonyiov4leqD67cvQhejfxQpd8Z6xaH6unlJGzDyGDUvykxyk4AFdPEzDBJzj1G7fzy8OqOPiaOjmygfNARJPf9qlSkFE5+lruXmPbT4gzNLRhk8r+I9wadRPkV3RTyGHvtm2JVYlHt07/cYkH6CmAFyA+tdtIxvvagxcCFY2Z9+5ORnVgQ9TC/8ntZjpeg2+m3oE2zbNYw1qTCGxePUHsAWGl+kskSqDlXOoLGkD15JoZeFxsPGzurfZET6XQEYk5N2JAaTskpzV11u2TZj7ZKesF+fLLLmCcvOoBR1s+Ihh/o=;Fa3uPgy2xaN1fhn3ipdCVA=="
 ---

@@ -1,31 +1,23 @@
 ---
 category: news
-title: "Microsoft warns of cryptomining attacks on Kubernetes clusters"
-excerpt: "Microsoft warns of an ongoing series of attacks compromising Kubernetes clusters running Kubeflow machine learning (ML) instances to deploy malicious containers that mine for Monero and Ethereum cryptocurrency."
-publishedDateTime: 2021-06-09T17:05:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/"
-webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/amp/"
+title: "Microsoft – Voice Assistants Gain Ground After Microsoft’s Nuance Acquisition"
+excerpt: "Microsoft is solidifying the voice component of its Azure health care offering just as voice assistants are set to impact more industry verticals. Voice assistants are on the cusp of a new phase of enterprise empowerment."
+publishedDateTime: 2021-06-10T09:45:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-voice-assistants-gain-ground-after-microsofts-nuance-acquisition/"
+webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-voice-assistants-gain-ground-after-microsofts-nuance-acquisition/"
 type: article
-quality: 61
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: fintechzoom
+  domain: fintechzoom.com
 
 topics:
-  - Google AI
+  - Natural Language Processing
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2021/06/09/Kubeflow.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Microsoft says cryptomining attacks are targeting Kubernetes"
@@ -59,6 +51,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815742/itpro/2018/01/bitcoin_mining_cryptocurrency.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "Microsoft warns of cryptomining attacks on Kubernetes clusters"
+    excerpt: "Microsoft warns of an ongoing series of attacks compromising Kubernetes clusters running Kubeflow machine learning (ML) instances to deploy malicious containers that mine for Monero and Ethereum cryptocurrency."
+    publishedDateTime: 2021-06-09T17:05:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 61
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/06/09/Kubeflow.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Crypto-Mining Attacks Targeting Kubernetes Clusters via Kubeflow Instances"
     excerpt: "Microsoft warns of a large-scale cryptocurrency mining malware campaign that targets Kubernetes clusters through Kubeflow machine learning instances."
@@ -118,16 +126,7 @@ related:
         width: 697
         height: 526
         isCached: true
-  - title: "Microsoft – Voice Assistants Gain Ground After Microsoft’s Nuance Acquisition"
-    excerpt: "Microsoft is solidifying the voice component of its Azure health care offering just as voice assistants are set to impact more industry verticals. Voice assistants are on the cusp of a new phase of enterprise empowerment."
-    publishedDateTime: 2021-06-10T09:45:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-voice-assistants-gain-ground-after-microsofts-nuance-acquisition/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 33
 
-secured: "J6bwMJR0ajDVB731EgPTKs1LXL59W8SuOB9SHdCufJEgBjqYJl7YJnAa+1OmVa6wBXFzpiRjBCnIHs9dzBYjqKHlnDBcM+nsfgtA/uSOD3Lfj8kAj56xq5OD2Xkk4x0juf3ixzP8g/97Wu8HZRa4sLz0F8a3KB3bV++eaH/is2CSPn4DQxoMol+auQ+/u3cZvEhYpU+qME/qnxXhbHiafPhDIHSsDdXKuqHsOLp4b/snpPPH/iCtXbouIpb1GlcEvnL+eHvT+iot+Iz9rnPK7ygRo/GmTZsNYGik/GWBkvI62o2RYjtM351hKvgO/x1QfPEZ0SVN4dpTpqk1Jc/jWT9yROo7IJBlU2PYPhCAh/0=;ktfFOpNZhDB9lYPtL9Uyjg=="
+secured: "tbGeLMWMKaIoqMaWL+Uio+fBQuZcLbkfoDx1tjl8vI6m4zlI/EZlmC2H3r7nAwtCLZsmimwoKLQBorbfhZU6ExOXU4eRbZ9iT163xiBTYm6+HP1jmasGmguO/EqAXnjl0o7klaMs1FsmJUN1TPtayoDkdP4nsSSz1ZtbjP3zI2HvcIRXvh0ooFW+hdShQK4ighITj78giAW02qt4GqSVSONW/Zd6M/48PkR8hG4GVsEPCFlrzby3wiuIlhA5v0Fi8P3NiweD7gR7vXqquSMEGTEfE5Esv+EdYnaRTwOu8DAYdguy3ukVg6n/qFvYLMK/GGOXFg58VbTQKijICy/E/aK6RlwyCOOLro/bM+HC8A8=;XyejUlTgTCLLzCnsfJh4bw=="
 ---
 

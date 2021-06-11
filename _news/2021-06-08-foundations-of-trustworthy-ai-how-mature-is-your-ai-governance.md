@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/"
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/"
 type: article
 quality: 119
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 2000
     height: 1000
     isCached: true
-
-related:
-  - title: "Artificial Intelligence: The Secret Sauce To Good Governance"
-    excerpt: "Artificial Intelligence has the potential to improve governance in terms of accountability, citizen engagement and interoperability. The Indian government has been cottoning on to the benefits of AI since the turn of the last decade."
-    publishedDateTime: 2021-06-06T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/artificial-intelligence-the-secret-sauce-to-good-governance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AI-GOVERNANCE.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Sih6LmrZtRJohaxcUVvZMtuaYboMvTCMR0dF64ue2+KzirVfSfgg2iTGqOOFJ7JBHYVIr4uCB3tVUlCsrvfFy+UE28IlubHk3zHvrl8H6GtxC9q9O59I4HNd30YiVSFzCjWdTp37gGMbeC90mynGylgXgMVj7ZJSLC+4mdoyimxZijgfc9tSm4FYnyVH+9EfGWbjfgUxKEabDKKSI7OUjS7jNh7z7PpdjaQuBsuo2GGZRVfnaoiN9kmGtpr5/OjkiTH0we+3wo3uBwzRSvNX//m6+X8s4Dj8DcSWbXSqmRw+xab3afqHk3EdjrYrTQjpr01ebNhAGPZ2WqNpsf07Z9+KezObGJ58jJJYBeRURIs=;QrekK8uUEfSCLKo1sGgffg=="
 ---

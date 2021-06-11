@@ -27,13 +27,15 @@ images:
 related:
   - title: "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources"
     excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
-    publishedDateTime: 2021-06-10T18:44:00Z
-    webUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
+    publishedDateTime: 2021-06-10T19:44:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10"
+    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 78
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 81
   - title: "Artificial intelligence startup DataRobot seeks to raise US$500 million: Report"
     excerpt: "LONDON: DataRobot is in advanced discussions to raise fresh capital of about US$500 million in a funding round that could value the machine"
     publishedDateTime: 2021-06-10T21:10:00Z

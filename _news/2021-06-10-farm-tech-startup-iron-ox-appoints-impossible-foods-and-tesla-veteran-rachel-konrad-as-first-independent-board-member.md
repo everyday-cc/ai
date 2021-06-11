@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Farm Tech Startup Iron Ox Appoints Impossible Foods and Tesla Veteran Rachel Konrad as First Independent Board Member"
-excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, has appointed former Impossible Foods and Tesla executive"
-publishedDateTime: 2021-06-10T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/farm-tech-startup-iron-ox-appoints-impossible-foods-and-tesla-veteran-rachel-konrad-as-first/article_cf74d33e-d6b1-537c-afe0-e5f2ef35d147.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/farm-tech-startup-iron-ox-appoints-impossible-foods-and-tesla-veteran-rachel-konrad-as-first/article_cf74d33e-d6b1-537c-afe0-e5f2ef35d147.html"
+excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, has appointed former Impossible Foods and Tesla executive Rachel Konrad as its first independent board member."
+publishedDateTime: 2021-06-10T12:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-appoints-impossible-foods-/2021/06/10/9387950.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-appoints-impossible-foods-/2021/06/10/9387950.htm"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -20,11 +20,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/49/349a1983-3b51-5f0d-a2d1-466208ad2984/60c1ffcd43a9d.image.jpg?resize=630%2C630"
-    width: 630
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "XDz/WhS+BECoBiZ3P3UDqPkccF5/3jKJTqXeleiL0eAXqLjIzaB33Zz/g8ykGCKL3RBA2AV1E9RsVmjGs6G6ItCWWCbkmLRcg08lrpuk7Vb7s4nkDKxNqL3djcVaATvyOGEBNh01wuJK6TVPBFt9vWuyhzk5+2SOL2VXxVLHMlPstuzdsjEAYoniJYCQxwvPerOZWzClytcuZc/GfxfSmakdJFYX0M1MIn6DvsaVeLmY7YM9mA7DuOdStizK3MS9VVPAwewWgVRt4icVY5M9PJuNlsyF855Zzfk2TDyMcdedKwoh1w8sXzoEFTR9h1Ee4hq/4LQPm84wPhykQZhmFwXT0FTdRoRp6WbQn5D52/w=;HaQ5hZvMI2BhcPxDKUKgJQ=="
+secured: "aTg70LGH68Tu0t/t7QUDZwAO7L3456ds7Gzbmb5jns7rA8iuCWqauQSacMFqA6wwuWyDivRJsDVt84HSC2frr6mKFWfCmjveo4aOOt4GDFBEAGoJDUvZDMWCFcuJjru5H17zXxqKQfW8cuswmGW9gJgAM1y8unDQVnuxLLpLtzCAP1sM/OYn5aeyr2ryQpkOlGW7Sec5+ITR7v0PRIGnaUIwggviH6CqTzUVWF6pxwXVN8LXsGxc744RNhJIdjjEv63fUAlL55ots3fHEHQY07o3EfZpX32uP62AUOHZEe3yyWQ1XSwN0tMjBjVRQ3Yle18oJSDTipEPs6YeK1dExkIVkl6wRQGaIHsjE/LCUqs=;1eda+RJPjri+nwNWIiA5Yw=="
 ---
 
