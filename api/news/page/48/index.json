@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
+      "title": "Considerations for Implementing AI/ML in Your Business",
+      "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
+      "originalUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
+      "publishedDateTime": "2021-05-05T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
       "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
       "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
@@ -1149,49 +1192,6 @@
         "AI",
         "AI in Healthcare",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-impact-of-autonomous-vehicles-on-businesses.md",
-      "title": "Impact of Autonomous Vehicles on Businesses",
-      "excerpt": "And let’s face it, like any other tech, with autonomous vehicles too, an innumerable businesses are expected to take a hit worldwide",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/05/impact-of-autonomous-vehicles-on-businesses.html",
-      "originalUrl": "https://www.finsmes.com/2021/05/impact-of-autonomous-vehicles-on-businesses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2016/07/Depositphotos_29760661_m-2015.jpg",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-04-robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million.md",
+      "title": "Robotics startup Addverb Technologies in advance talks to raise $80-120 million",
+      "excerpt": "The Noida-based robotics startup plans to use the money to set up another manufacturing plant and also expand globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2019/07/Funding.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html/amp",
+      "publishedDateTime": "2021-06-04T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030.md",
       "title": "Artificial Intelligence (AI) Chip Market 2021: Market Definition, Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2030",
       "excerpt": "Chip Market was valued at USD 9.29 billion in 2019, and is estimated to garner USD 253.30 billion by 2030, at a CAGR of 35.0% during the forecast",
@@ -977,15 +1020,15 @@
       "title": "Face recognition is just the tip of the AI Computer Vision iceberg",
       "excerpt": "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,",
       "sourceUrl": null,
-      "webUrl": "https://www.clinicaltrialsarena.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/",
-      "originalUrl": "https://www.clinicaltrialsarena.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/",
+      "webUrl": "https://www.mining-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/",
+      "originalUrl": "https://www.mining-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg",
+          "url": "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg",
           "width": 2121,
           "height": 1193,
           "title": null,
@@ -1000,8 +1043,8 @@
       "publishedDateTime": "2021-06-03T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Clinical Trials Arena",
-        "domain": "clinicaltrialsarena.com",
+        "name": "Mining Technology",
+        "domain": "mining-technology.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1143,57 +1186,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deepgram-beefs-up-conversational-ai-engagement-with-new-apis.md",
-      "title": "Deepgram beefs up conversational AI engagement with new APIs",
-      "excerpt": "Deepgram adds real-time capabilties to conversational AI platform to extend the number of potential use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/",
-      "originalUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Deepgram2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/",
-      "publishedDateTime": "2021-06-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

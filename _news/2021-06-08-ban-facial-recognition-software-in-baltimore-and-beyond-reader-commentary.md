@@ -9,7 +9,7 @@ ampWebUrl: "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     quality: 53
     images:
       - url: "https://www.baltimoresun.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Baltimore City Council passes facial recognition ban"
+    excerpt: "The Baltimore City Council voted overwhelmingly earlier this week to pass one of the nation’s strictest facial recognition bans, which not only prohibits law enforcement and municipal agencies from procuring and using the technology but also bars private citizens in the city from leveraging it."
+    publishedDateTime: 2021-06-11T15:26:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21226436/baltimore-city-council-passes-facial-recognition-ban"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_And_Personal__379967281.60c37fc0560ca.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
         isCached: true

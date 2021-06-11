@@ -39,6 +39,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
+    excerpt: "The first route they’ll drive is between Houston and Fort Worth, which Waymo claims is one of the most highly utilized freight corridors in the country."
+    publishedDateTime: 2021-06-11T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/"
+    ampWebUrl: "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/06/waymo2.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "NuPort Robotics Selects NVIDIA DRIVE Platform for Autonomous Trucks"
     excerpt: "Toronto - NuPort Robotics Inc., a leading Canada-based autonomous trucking company, today announced that it has selected the NVIDIA DRIVE platform to power its middle-mile semi-truck transportation solutions,"
     publishedDateTime: 2021-06-10T19:30:00Z

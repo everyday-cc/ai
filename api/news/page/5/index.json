@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-08-ban-facial-recognition-software-in-baltimore-and-beyond-reader-commentary.md",
+      "title": "Ban facial recognition software in Baltimore and beyond | READER COMMENTARY",
+      "excerpt": "Facial recognition technology is too prone, too much an invasion of privacy and too likely to misidentify Black individuals for any city to allow its routine use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html",
+      "originalUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/GpjHHHC-nREJPKpkaOjkUIjB7Ew=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YNDRXEDELVAIHAPJ6WXJ4Z3FIA.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-07T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-global-ai-market-predicted-to-reach-nearly-1-trillion-by-2028.md",
       "title": "Global AI market predicted to reach nearly $1 trillion by 2028",
       "excerpt": "The latest and greatest from the world's financial think-tanks brings good news for AI investors. The market appears to be trending towards $1 trillion.",
@@ -1203,58 +1246,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-samsung-jet-bot-90-ai-robot-vacuum.md",
-      "title": "Samsung Jet Bot 90 AI+ Robot vacuum",
-      "excerpt": "Many of today’s best robot vacuums have powerful suction that can rival the best vacuum cleaners on the market, along with rechargeable batteries that can outlast some of the be",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/samsung-jet-bot-90-ai-robot-vacuum",
-      "originalUrl": "https://www.techradar.com/news/samsung-jet-bot-90-ai-robot-vacuum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Ms7UFSJpkSt8nY5NwfchDT-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-05T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

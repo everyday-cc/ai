@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Baltimore City Council passes facial recognition ban"
+    excerpt: "The Baltimore City Council voted overwhelmingly earlier this week to pass one of the nation’s strictest facial recognition bans, which not only prohibits law enforcement and municipal agencies from procuring and using the technology but also bars private citizens in the city from leveraging it."
+    publishedDateTime: 2021-06-11T15:26:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21226436/baltimore-city-council-passes-facial-recognition-ban"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_And_Personal__379967281.60c37fc0560ca.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Q7PBO628l2rvd/XXoirIbGeTySZDwKmJ8C5pj03rxmp8ppHUzj+bs9/YR8rx9RHsiyB3HYkeT8tMcFCF1HRr+Mj59VTZw4UaOK3rPXBN7JnNz8lkvgOT8AI+rUB+qj/8YckhDm24dvfEHOkE0MP/l5m8388PT7yRkyV53NQpoh0P8iBPXtILUrKGF6w57nXU949slmh1kdeptaSfmaqkne46lZDyD6aOfNYYxFokLjBGu+7n2NkwYvdJybHKCzGep0z4f/KPthy+UmJnUgjIofF83787mjPfvIIzBrR4lvCV1XWcwf0P6qnRUZbnIPwNBQcSKgodquTrqT81gTz7lZObBV8HoqlOv4PIl/WpeVoC5gxlUO+jEtk0rG5WptNWNn1UuY5TbvYdm/K47OXB6SRmvyYds3AGxgRWn4JWRunbHtUZd2U23wS5hkO21wSDD+OTCIEt5YqRWHwY/rmNAXmgSRjdb61UJDa1gUFirQPb+e+sV1+fSbjDd5Un72BwqGmzimTYYg2KArN0en32YQ==;EEtq66N9+BwsHlBeQzgTng=="
 ---

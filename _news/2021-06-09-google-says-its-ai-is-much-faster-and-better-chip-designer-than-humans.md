@@ -61,6 +61,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Now Google is using AI to design chips, far faster than human engineers can do the job"
+    excerpt: "Google's AI has revealed a new model that can automate a complex process at the heart of chip design, saving engineers months-worth of work."
+    publishedDateTime: 2021-06-11T07:43:00Z
+    webUrl: "https://www.zdnet.com/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/11/dd66fb7b-7293-4b83-bd1a-bada8989a926/gettyimages-1094304672.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google has used AI to gamify the design of computer chips"
     excerpt: "Google researchers have found through the development of an AI model, the technology could design the layout of a computer chip faster and more efficiently than those designed by humans."
     publishedDateTime: 2021-06-09T06:00:00Z

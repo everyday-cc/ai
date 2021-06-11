@@ -202,20 +202,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
-    publishedDateTime: 2021-06-06T21:45:00Z
-    webUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 22
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/06/0607_met_-SCI-FISH-RECOGNITION-TB.jpg"
-        width: 899
-        height: 599
-        isCached: true
   - title: "Victoria filmmaker's documentary examines sinister side of facial recognition technology"
     excerpt: "The Victoria filmmaker’s short film about how technology companies are worming their way into our lives has a doomsday quality to it, and should leave viewers an overwhelming sense of dread. Will it?"
     publishedDateTime: 2021-06-09T23:07:00Z

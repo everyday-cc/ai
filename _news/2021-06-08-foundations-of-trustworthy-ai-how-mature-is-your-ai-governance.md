@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/"
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is changing the future of air transportation"
+    excerpt: "A George Washington University School of Engineering and Applied Science professor is working on an interdisciplinary research project funded by NASA that aims to design and develop a safety management system for electric autonomous aircraft."
+    publishedDateTime: 2021-06-11T14:29:00Z
+    webUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 71
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
+        isCached: true
   - title: "Should Organizations Fear Artificial Intelligence? 9 Reasons Humanity Should Fear an AI Takeover"
     excerpt: "Artificial Intelligence (AI) is a transformative technology. It may undoubtedly prove beneficial for the future but a complete AI takeover is also highly likely, if due measures aren’t taken now. AI is creating fear and excitement by disrupting several industries."
     publishedDateTime: 2021-06-11T10:55:00Z

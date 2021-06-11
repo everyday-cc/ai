@@ -210,20 +210,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
-    publishedDateTime: 2021-06-06T21:45:00Z
-    webUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 22
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/06/0607_met_-SCI-FISH-RECOGNITION-TB.jpg"
-        width: 899
-        height: 599
-        isCached: true
 
 secured: "U2hjaRX+Mt3+OlH8ECSdnR4emq0wJ05lxZv/YZxKe3XuGiSmTo537TYjzjA7rDtn7bXg291G0YiSZyX5moS+lX6JjrQCPYNnegO0T6zZKl1rXKy9cKSOP08dm4JiNiJlrRnxeZ/4OO391emtZOcFFUeicxkHAepmZu5qE3a+m881RM5jwJRQWwnfLey5NIJsVt1RcLEeV8UNKAxsG7osiuyrc2PRqUFrhUsr2sFLPB5B8TuSJk7xSW23iuK+oQ7yOLlNeKQ3JNziV80czEJSFiHXtk8K4IM7y4I+INqfuiREGTQFhkcjOPWMQ2tijB2ybn0s1OSi8s9vbuMELf/qLDg1XakWYKxEHLqKOkMYR91kbJ0ywI/Ram8sblV4QqB6vY4Z6oveAsU9eQj0U7UwLSdulOjVO7fj+YfsTkUHaIoTjR3lICbGjRqv/gti9KPFLdSDzQ4w01XhMKlxf2hIM3/K6GBcsWw6y3+XTQfS4vdjAP9bzOATcoNTTEh2qnc4EEb+Cj30itwfGnhacTnUWA==;KPBQ6zOzDMCDE89ERjEicA=="
 ---

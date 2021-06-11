@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
-publishedDateTime: 2021-06-01T23:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac"
+publishedDateTime: 2021-06-01T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
-
-secured: "1epa/MhU3hvB2D5XzTI3nd17WrWlcyF2KZnXZMkJngWR4UlP91f+IczkFUV5W8KPxWGTc5L2rigHx/PkM4rYs4D6xaMy2rBKUF2ANdPOBwJT2pLIiBsOvAL8Mx7M/OuT7yjW13RCRkuXleCKoMtlB1CDw5RxCdnzFVU2ViGcDgqV86m5we89BoLYJdOcqOEBj0f8cMFOZ2OQVoNuP2CBAwNBK9wynoPj+P7uZ3xHLrv8+KOB3BQbchbD83JNWR7iBxvahBbw+uNQDXGNgZjut7+u2z765w9Cczirhf5Qd5/R0OTgDJ4PTuFkSdbZEE6WuV9bYNmFW0JCQ/y+1tHvXGwEXqxsT/L1EjyVekHfyow=;/CGwbqWha3rt0q05I9JFkQ=="
+secured: "TTaNsakLDEYGLXNDVOWr1ytO01saf8TtGw+QtXRzo9kg2oB/EROjB7Hbs2uyHe1DBkKzghAONzSq8Dq0uBrZ2osIHYbXhOcAHbpabZpSdaY7POuxWfu0tIl8H7I+VEyCTQy1u7wx13WXCKnjf3PvFEBOrv/kCe+u8Dj/pVTTisFBD+4Hmo574SSv0GWZF44malR8RFpK1llk1/Eb+wKrSb8GL95nExoxtfcUCqLJjNTRFPFn7/OkSa1w2gVMsRv6NwrXgGG7LuTOczYHHHfKXO/HL7/WNm+0zoaDkElzit6/BSxq1WqVYyDz+7bV3otgPl/4/+wCXFQEMwTr0395T78TEdvzpE3RO8zgbI5wEC4=;pCgcs8GM43tlCtjhAUp+nw=="
 ---
 

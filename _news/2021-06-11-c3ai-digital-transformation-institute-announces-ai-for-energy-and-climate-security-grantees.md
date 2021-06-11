@@ -1,10 +1,10 @@
 ---
 category: news
 title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
-excerpt: "C3.ai Digital Transformation Institute today announced the second round of C3.ai DTI awards, focused on using artificial intelligenc"
-publishedDateTime: 2021-06-11T09:00:00Z
-originalUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-73436.html"
-webUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-73436.html"
+excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
+publishedDateTime: 2021-06-10T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
+webUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
 type: article
 quality: 27
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: Business Wire
-  domain: businesswireindia.com
+  domain: businesswire.com
 
 topics:
   - AI Ethics
@@ -67,6 +67,6 @@ related:
       domain: bio-itworld.com
     quality: 19
 
-secured: "81F/vBsb8Ab4vimw3Po+m5cMuAXTh3J70DTA9j0NJZBEv01A8cNsC78wXdx4/PxNlvopja1/np5zMqZkfol8aj9Ul96QDCuQW8omy+ezIZbFbmFubC/cpUum7kidrvOBGL1S0ypf4Zd8hcbJRVrfwaLSkxuhiAmjUJPqhTXvlOLF6qHWlE4e+Sv9ddLf2c8Wzp++pxImO17qw4xftkGVl9yH0Vmb+KEwxyGSM3orJ6zw2zGBTNMyhhvjBZISVpLth+WGptN4kzCbVwbpTqaSHLLWEM3oqOtHxnR0I598yVVNu/EVojUgqmwsS0+uduRvKVaW+j5SDUNw7go4PSoowQXW62VOTgK+srUWDa0d2Ao=;9vZwkNzHXlHmNRldu5pI2w=="
+secured: "WV8W7FZDjphRYMBkHa894H/wU3qE7s3DSAcZniNSJz+Z/XbZqvX4lsGcVvUiIih6UAsfc05fm8AcPWmf6cDilaJxqk6g5rm1qSXIga43jmuZ+qsuRO1My5wd7DzN6eWz69KJHxiY6VPYpeJT2wH/GjFJX+WJcomXuQrUc/Z/QJRzo5nBtoLCyEUbuZq4NQCvFtrq3QCmp4EbomCYo+pRYuXrlXHWsHm2goshnIErO4yq7qNPpvyBTcJTJuTGB1biMjKN2FvXvHmWigI228+KdhMWnFKzogpr0Cwy4JYGlCr4/zzFOkeI9jbyQOqFbnbjDu5GxykqyxYdoPb7sZgnBdF5KTyegBs2bvq33k0Q8yE=;Pt698t5DSZm8hXclI5cFeQ=="
 ---
 

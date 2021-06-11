@@ -45,6 +45,57 @@
       ]
     },
     {
+      "path": "_news/2021-06-11-three-challenges-ai-saas-startups-must-overcome.md",
+      "title": "Three Challenges AI SaaS Startups Must Overcome",
+      "excerpt": "The number of AI startups that offer unique business solutions is growing exponentially. A popular practice among these startups is to develop their algorithms or models by training them on the data from open sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2271c30081d6b6b1d53b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/amp/",
+      "publishedDateTime": "2021-06-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs.md",
       "title": "Tecno Spark 7T With 48MP AI Dual Camera Launched In India; Sale, Price & Specs",
       "excerpt": "Tecno has launched the Spark 7T in a single 4GB RAM and 64GB storage configuration which is priced at Rs. 8,999. However, as a part of an introductory sale, the device will be available at Rs. 7,999.",
@@ -244,7 +295,7 @@
       "originalUrl": "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -698,17 +749,17 @@
       "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
       "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
-      "originalUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
+      "webUrl": "https://www.reuters.com/article/datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources-idUSL2N2NR1QC",
+      "originalUrl": "https://www.reuters.com/article/datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources-idUSL2N2NR1QC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 128,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2NR1QC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NR1QC",
       "publishedDateTime": "2021-06-10T11:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1040,7 +1091,7 @@
       "originalUrl": "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1174,58 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-fintech-giant-klarna-raises-639m-at-a-456b-valuation-amid-massive-momentum-in-the-us.md",
-      "title": "Fintech giant Klarna raises $639M at a $45.6B valuation amid ‘massive momentum’ in the US",
-      "excerpt": "Just over three months after its last funding round, European fintech giant Klarna is announcing today that it has raised another $639 million at a staggering post-money valuation of $45.6 billion. Rumors swirled in recent weeks that Klarna had raised more money at a valuation north of $40 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/",
-      "originalUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Sebastian-Siemiatkowski-Klarna-DSC09671.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/amp/",
-      "publishedDateTime": "2021-06-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

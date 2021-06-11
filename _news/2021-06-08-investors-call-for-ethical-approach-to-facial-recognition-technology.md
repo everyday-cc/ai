@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
 type: article
 quality: 86
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -205,20 +205,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
-        isCached: true
-  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
-    publishedDateTime: 2021-06-06T21:45:00Z
-    webUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 22
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/06/0607_met_-SCI-FISH-RECOGNITION-TB.jpg"
-        width: 899
-        height: 599
         isCached: true
   - title: "Victoria filmmaker's documentary examines sinister side of facial recognition technology"
     excerpt: "The Victoria filmmaker’s short film about how technology companies are worming their way into our lives has a doomsday quality to it, and should leave viewers an overwhelming sense of dread. Will it?"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Now Google is using AI to design chips, far faster than human engineers can do the job"
+    excerpt: "Google's AI has revealed a new model that can automate a complex process at the heart of chip design, saving engineers months-worth of work."
+    publishedDateTime: 2021-06-11T07:43:00Z
+    webUrl: "https://www.zdnet.com/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/11/dd66fb7b-7293-4b83-bd1a-bada8989a926/gettyimages-1094304672.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Google says its AI is much faster and better chip designer than humans"
     excerpt: "Google says its AI can design microprocessor floorplans much faster and better than any human can. The neural network is learning this trade through a method called reinforcement learning."
