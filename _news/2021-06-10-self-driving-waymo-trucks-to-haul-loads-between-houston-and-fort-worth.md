@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-
 webUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo%20semi_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Waymo, J.B. Hunt Teaming Up on Self-Driving Experiment"
+    excerpt: "Autonomous tech company Waymo plans to team up with trucking company J.B. Hunt to haul freight using trucks equipped with AV systems between Houston and Fort Worth along the I-45 corridor. Get the story at TheDetroitBureau."
+    publishedDateTime: 2021-06-11T19:12:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/06/waymo-j-b-hunt-teaming-up-on-self-driving-experiment/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/06/Waymo-Via-truck.jpg"
+        width: 1600
+        height: 1355
         isCached: true
 
 secured: "yjnEoYnj09V8UFzYGSlJy/KJNBy/1NZXrzZT4NcU+xhHXG1plagIQpu4Yp+7jzAkpetX+ODVhaeoQ0jKVBnWsZUZfQB8/j4IGuUVFa7FT63Y98Gk6t09jVL2m3qZmU3LvVa1PQYTAfTqWqtoWCgEPqEs5mX6lGTgyCn5IKOU0L+Winu3UxkmGL/9+DGo1sI9TyJkv9r4p/lf/cDwAOSZZzUdb7Mqf4I5966Mf6ux1X+M43c+RspEs19U6AKZ9G8mqJtkluyCG+/v3K3RdHK3EQ/7fvbYhPddcgHe/t8b9Z6iyZ5AUIHO9eAW7dNOqCQZfP9tF0jTlv9uY3otLJlVdIcJFlI4XqU2w/9ltX+T20FyRq+ZII+SuwjpH8IImVSEHPZB3Xv1YQh28PYCcRdC+B574AXdLH58uqucWe0NQhHY7oVQrElRJCaUC0HEM+RHHJCmaBGr1jIHdCL3eAdzG2/a24fgRz8TTzgKnJssGklgXnhkupiEtR4D03nOcdhheIr5oC9F4tvtSpuMfLCTrw==;sI9doNzzoPij2ybmvKIh2w=="

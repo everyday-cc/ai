@@ -34,6 +34,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 78
+  - title: "Artificial Intelligence Startup DataRobot Seeks to Raise $500 Million - Sources"
+    excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
+    publishedDateTime: 2021-06-10T19:55:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/artificial-intelligence-startup-datarobot-seeks-to-raise-500-million-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 75
   - title: "Artificial intelligence startup DataRobot seeks to raise US$500 million: Report"
     excerpt: "LONDON: DataRobot is in advanced discussions to raise fresh capital of about US$500 million in a funding round that could value the machine"
     publishedDateTime: 2021-06-10T21:10:00Z

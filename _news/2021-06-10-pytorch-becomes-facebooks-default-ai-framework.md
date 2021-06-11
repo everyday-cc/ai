@@ -41,6 +41,36 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Facebook’s AI can copy the style of text in photos from a single word"
+    excerpt: "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images."
+    publishedDateTime: 2021-06-11T17:59:00Z
+    webUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/"
+    ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "This Facebook AI can deepfake text style in an image even from a single example"
+    excerpt: "Facebook today has announced its TextStyleBrush AI research project. The new TextStyleBrush AI can copy text styles from images and effectively reproduce new images with the same replicated style."
+    publishedDateTime: 2021-06-11T14:16:00Z
+    webUrl: "https://www.neowin.net/news/this-facebook-ai-can-deepfake-text-style-in-an-image-even-from-a-single-example/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 65
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1623430856_facebook_textstylebrush_examples_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Facebook Planning To Create An AI To Beat NetHack"
     excerpt: "Facebook wants to develop an AI (artificial intelligence) that is capable of beating the hardest game in the world. The social media giant wants to leave"
     publishedDateTime: 2021-06-09T15:44:00Z

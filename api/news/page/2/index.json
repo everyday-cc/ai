@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-10-how-to-run-an-ai-powered-musical-challenge-aws-deepcomposer-got-talent.md",
+      "title": "How to run an AI powered musical challenge: “AWS DeepComposer Got Talent”",
+      "excerpt": "To help you fast track your company’s adoption of machine learning (ML), AWS offers educational solutions for developers to get hands-on experience. We like to think of these programs as a fun way for developers to build their skills using ML technologies in real world scenarios. In this post, we walk",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-run-an-ai-powered-musical-challenge-aws-deepcomposer-got-talent/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-run-an-ai-powered-musical-challenge-aws-deepcomposer-got-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/1-3230-Header.jpg",
+          "width": 800,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T09:01:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-protecting-the-human-ethics-in-ai.md",
+      "title": "Protecting The Human: Ethics In AI",
+      "excerpt": "Advancements in AI and technology are meant to make our lives easier, yet they pose a threat to society when they are not perfect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c232b13b1cc34a5d1d53b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/",
+      "publishedDateTime": "2021-06-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth.md",
       "title": "Self-driving Waymo trucks to haul loads between Houston and Fort Worth",
       "excerpt": "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,",
@@ -10,7 +115,7 @@
       "originalUrl": "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -93,57 +198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-how-companies-can-keep-ai-in-their-digital-transformation-plans.md",
-      "title": "How Companies Can Keep AI In Their Digital Transformation Plans",
-      "excerpt": "Whether is it now or in the next phase of your company’s digital growth plan, AI should be part of the conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/",
-      "publishedDateTime": "2021-06-10T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -364,7 +418,7 @@
       "originalUrl": "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -1202,59 +1256,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-the-pandemic-and-its-implications-on-industrial-machine-learning.md",
-      "title": "The Pandemic And Its Implications On Industrial Machine Learning",
-      "excerpt": "For a moment, let’s set aside the abject tragedy of the Covid-19 pandemic and the demoralizing conditions through which the world continues to persevere. Instead, let’s examine the state of affairs from a dispassionate and scientific position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/",
-      "publishedDateTime": "2021-06-09T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

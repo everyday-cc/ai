@@ -39,20 +39,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Autonomous vehicle makers help fight COVID-19 in Guangzhou"
-    excerpt: "Volunteers in Guangzhou, Guangdong Province, helps load anti-virus material on WeRide's autonomous minibus on June 5. Photo: Courtesy of WeRide . Chinese autonomous vehicle makers"
-    publishedDateTime: 2021-06-07T02:48:00Z
-    webUrl: "https://www.globaltimes.cn/page/202106/1225556.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-07/85cabd0d-1872-4c3b-ad60-ee9e91e4f466.jpeg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "zNT0m7rYQuhogyuwGzTPPgBW9f06bEQzbmFGMfiH7snlY3geR4QjQ8x9xrjhGS1yaqF08MJDmU1j+DpjcTIdXAkv3tNG+C05PJQh3+e2AE8mwG9vDtGLTJLbfgLwr1SSCiukOY+kE5L1BTEfBLKr74zj8G46CePTyAimn/+YioK61U+RV/sQ8W2kNouqnjHmX+/TwsasIp5yRAYRKrd76AYXiBcRmGl/udOPxCrWifEwilupQy7zMWUrdp7kMMLnczqvYWUXGVG63vhXeEkJMaO9l6nZCLI/76nrxqLTEMt9Unlx8qJ8ZubxdlA3urCk9HsjUSv3Q+HCjMxQ/26wWmrOKpSl3PaE91XYaK6QQaA=;Rc9D+jT4ml2sVoWTQ4XDiQ=="
 ---

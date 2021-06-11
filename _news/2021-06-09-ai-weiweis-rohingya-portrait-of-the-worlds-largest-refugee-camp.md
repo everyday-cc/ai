@@ -42,20 +42,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "'Good feeling': Ai Weiwei picks Portugal for new show, home"
-    excerpt: "Chinese artist Ai Weiwei is putting on the biggest show of his career in a place he’s fallen in love with: Portugal"
-    publishedDateTime: 2021-06-07T03:00:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/culture/2021/06/07/039good-feeling039-ai-weiwei-picks-portugal-for-new-show-home"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/06/07/1175175.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "5I4eTz9mcVrbvuaSCOGmcd2KtJrUe+XVm92Fhco9Dk/1DjeMKSnnOUXLTTRaOMnPBMLH37t40ERnjMzb9Hg2ZjDhD2qrrNfDIyzMio464pPtWBNynaC2cL6K44ha8AkNvTn9PNJ5zSiJrIFgi7NdwbTpLw/x+mLf6iKbYFGAVzxnKEa6reFj9NLoOh8zsGMQo80QEYCYgVs+Vp/kprW8sT4PJgQNgiA319HqwajE8MzxEodtfnVpri+afGeoHM2R5sYQxCn2eqSkJbryDWWYgrfLnziYZAKExGOETmvGfsewqWZ/pow/Ht4XVP1ROohl/81orEQ6a+UQWH4QFsk6Rl/6/BGM0hhuBtpgS9B/ZEhWydbdll5TubsdwIsahpPJ8Zvv93ykXENiGLXyOXSVeKNqlHuHDLJc0wwRWf7d87WvlqhaO4PggxP31auiYMiYmWCcuExJ0PsaYPlJsaRM85VH5y1uGKJG+RZYDqbgb5mQRQhUeDlD9Wche4fO6TJE9JMg1zvi/KXg7Bmo9w6OFA==;RPeJOegGABURlHcxptOw+w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technotification.com/2021/06/best-ai-based-cyber-securit
 cdnAmpWebUrl: "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "️ AI tools for writing, explained"
+    excerpt: "Israeli-based AI21 Labs’ Wordtune is an AI tool that helps rephrase writing for clarity and tone. It raised $25m last year. All of these advances sound great, but we have yet to see any startup tackle writer’s block."
+    publishedDateTime: 2021-06-11T15:39:00Z
+    webUrl: "https://thehustle.co/✍️-ai-tools-for-writing-explained/"
+    ampWebUrl: "https://thehustle.co/%E2%9C%8D%EF%B8%8F-ai-tools-for-writing-explained/amp/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/%E2%9C%8D%EF%B8%8F-ai-tools-for-writing-explained/amp/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 57
+    images:
+      - url: "https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6ks/greatest%20hits.png"
+        width: 550
+        height: 580
+        isCached: true
   - title: "AI-powered cybersecurity provider ExtraHop to be acquired for $900M"
     excerpt: "Bain Capital Private Equity and Crosspoint are spending $900 million to acquire ExtraHop Networks Inc., a software company that uses hundreds of machine learning models deployed side-by-side to find threats lurking in enterprises’ cloud environments."
     publishedDateTime: 2021-06-08T19:15:00Z

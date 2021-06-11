@@ -2,6 +2,57 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-05-24-ai-can-now-detect-depression-from-your-voice-and-its-twice-as-accurate-as-human-practitioners.md",
+      "title": "AI Can Now Detect Depression From Your Voice, And It’s Twice As Accurate As Human Practitioners",
+      "excerpt": "Mental health is one of the biggest challenges in the world. Today, AI has revolutionary capabilities to detect, manage, and help treat mental illnesses using just a patient’s voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/05/24/ai-can-now-detect-depression-from-just-your-voice/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/05/24/ai-can-now-detect-depression-from-just-your-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aae40cce1665531256ead6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1322%26cropY1%3D56%26cropY2%3D799",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/05/24/ai-can-now-detect-depression-from-just-your-voice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/05/24/ai-can-now-detect-depression-from-just-your-voice/amp/",
+      "publishedDateTime": "2021-05-24T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-3i-infotech-to-rely-on-deep-tech-for-1-billion-revenue-by-2030.md",
       "title": "3i Infotech to rely on deep tech for $1 billion revenue by 2030",
       "excerpt": "Based on a ‘Digital’ and a ‘Cloud-first’ approach, the cognitive services solution-oriented company will help in accelerating technology and product startups across the ecosystem. With strong tailwinds supporting its business and growth levers in ...",
@@ -1128,57 +1179,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-pinterests-use-of-ai-drives-growth.md",
-      "title": "Pinterest’s Use of AI Drives Growth",
-      "excerpt": "Using neural networks, the site is able to find images—and ads—that will catch the consumer’s eye.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
-      "originalUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342074/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
-      "publishedDateTime": "2021-05-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

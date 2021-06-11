@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
-excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction"
+excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial"
 publishedDateTime: 2021-06-11T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21531557/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21531557/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
-ampWebUrl: "https://www.benzinga.com/amp/content/21531557"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21531557"
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/p21531581/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/p21531581/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
+ampWebUrl: "https://www.benzinga.com/amp/content/21531581"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21531581"
 type: article
 quality: 38
 heat: -1
@@ -98,6 +98,6 @@ related:
         height: 450
         isCached: true
 
-secured: "KvGao+oEUEXgqwvPG5eoY9DVy15XxRqgsEACyVWz9jDSVKl/oMVIPn/tgHS2/pvfndRWiuxwIoS+5nRatkzUlc/R5IX+i9agm6UM5kGuqslCtm0IexWH45wdnxMzKGO+THX5+pZDXWYoxNC3XxnDaCsyYAe682/93dxDA2/EXUKg8XtgtRd8j/w1mAo4hlRAM0zgoTH4NEk3N0+TbgBuW3bfdhqYg8wkY7LrLpmQRXoPQueJgzB/EnOVq8q+BkmdJIlABLcz5Zj5km9A/Vbrdz19Mo6n0apEpH5gEp2lfXTLBzO0mfwJf8RFpj804jDm8cmNPQIiXbpaL4cWWxuuv5cMnuV9Sag4cFeyvqimOnE=;PwdNuktgHzEimoiHEIvfdQ=="
+secured: "vmah30Qq9G4HDrybH9PrpzSIS8hJVOS2gT0aAU7QenRExVv4cyFVqfryk3iA67YkGnWb7kGRvwKZNY5vfIA/vOIaATtiLrVJab94dlO8zwM3z7It0SsvTNMEgwq0/clT5FRLsLvGbkB89H1My7TQxOWnQla5kaolUe+EMM64zbcW1ku7XSMlnR6NfeUmdAm3znu0BsFF5wj4fsfadB9+B+O7yIB7V35rxfjqFC5Oi+O6CyNuCmxEz/yBliBhPhgFy0EHR8g8bj2DyNrgZLc6cxj8BMFMMyuEMloHpNBJUtea3UNm4bWuO6m2CNfGP+iw27Mn1IYY4o5wI48lsspA7D5Jfw6I9g6qMAoU7PCNJqQ=;C+eW09VXYeTblym76/1snA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.iclarified.com/images/news/81339/81339/81339-640.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Huawei Plans On Making Self-Driving Cars By 2025"
+    excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
+    publishedDateTime: 2021-06-11T18:06:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/01/Huawei-logo-2018-AM-AH-2.jpg"
+        width: 1366
+        height: 913
         isCached: true
   - title: "Apple Hires Self-Driving Car Startup Founder and Former BMW Exec Ulrich Kranz"
     excerpt: "Former BMW senior executive and self-driving vehicle startup founder Ulrich Kranz has taken on a role at Apple working on the"

@@ -111,6 +111,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Waymo, J.B. Hunt Teaming Up on Self-Driving Experiment"
+    excerpt: "Autonomous tech company Waymo plans to team up with trucking company J.B. Hunt to haul freight using trucks equipped with AV systems between Houston and Fort Worth along the I-45 corridor. Get the story at TheDetroitBureau."
+    publishedDateTime: 2021-06-11T19:12:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/06/waymo-j-b-hunt-teaming-up-on-self-driving-experiment/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/06/Waymo-Via-truck.jpg"
+        width: 1600
+        height: 1355
+        isCached: true
 
 secured: "lIIU/p6dmQoakD1v9DLsm5Hygi+BDbE+BOOHH71tSNtGi1wPCPZKqd1DPTzvXyELwLIUXseylujWF5TG9Y11NxrP79NJkYg9uFTq6+qn8cx6YwuUfEWlJHv2cFlHGCofbl5x4YjYZplR8bH/MhZhKCOWcxY4q9xYpwMiCVT1z7qIYEaMsHXqWKYXgphVhiXG/MrPxziPNnjPn7VnwUQXYniTvzB5zfrN6lC8jz0aagSQ16w/Qo0HXrJrZXfP/5e9S6k9LcqeAHeK6Yxi4ctz32WsLsS2ukbdBwH3tkRLbZCV83ZvSHwAjj+MmnqBT6gzCqVf/891475F/D/FPicfKE2os9/0+idGnZ80520Z3Bpcefe7S7bOFNgY8UkdzXPJ/nA+0D6+LnKPmPMC5xQJ9yMo9lZ2xOTYGYgEfUBdlNDia7bKAkbut+Loed9eorfOYkIDB08w/Z4eYbKGRD/a7iLGKwNG1wkGCv8M3H35M79atEVO+eWS1E+G/Eb/jYwxwdOiBwlfAkQ/sDCAQLtqdw==;gCcfaUaqONSVLfOwoaqrWA=="
 ---

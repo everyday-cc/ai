@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 706
         isCached: true
+  - title: "️ AI tools for writing, explained"
+    excerpt: "Israeli-based AI21 Labs’ Wordtune is an AI tool that helps rephrase writing for clarity and tone. It raised $25m last year. All of these advances sound great, but we have yet to see any startup tackle writer’s block."
+    publishedDateTime: 2021-06-11T15:39:00Z
+    webUrl: "https://thehustle.co/✍️-ai-tools-for-writing-explained/"
+    ampWebUrl: "https://thehustle.co/%E2%9C%8D%EF%B8%8F-ai-tools-for-writing-explained/amp/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/%E2%9C%8D%EF%B8%8F-ai-tools-for-writing-explained/amp/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 57
+    images:
+      - url: "https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-6ks/greatest%20hits.png"
+        width: 550
+        height: 580
+        isCached: true
   - title: "Horizon3.ai Raises $8.5M to Disrupt the Cybersecurity Assessments Market"
     excerpt: "Horizon3.ai, a cybersecurity startup focused on automated penetration testing-as-a-service (APTaaS™), today announced $8.5M in funding. Co-founded by former Splunk CTO, Snehal Antani, and Anthony Pillitiere,"
     publishedDateTime: 2021-06-08T13:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/artificial-intelligence-startup
 webUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Startup DataRobot Seeks to Raise $500 Million - Sources"
+    excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
+    publishedDateTime: 2021-06-10T19:55:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/artificial-intelligence-startup-datarobot-seeks-to-raise-500-million-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 75
   - title: "DataRobot, West Virginia University Bring AI to Government"
     excerpt: "Having recently opened an office in Morgantown, West Virginia, the San Francisco-based artificial intelligence company will recruit new employees from the university and focus on education, health care and prosperity."
     publishedDateTime: 2021-06-10T17:20:00Z

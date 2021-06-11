@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "A New Report States Facts & Figures behind Boom of the Global Artificial Intelligence in Education Market."
+    excerpt: "The global research report titled Artificial Intelligence in Education Market was published by Absolute Markets Insights . The study elucidates current market statistics, in addition to underlying future predictions of the Artificial Intelligence in Education Market."
+    publishedDateTime: 2021-06-11T11:07:00Z
+    webUrl: "https://manometcurrent.com/a-new-report-states-facts-figures-behind-boom-of-the-global-artificial-intelligence-in-education-market/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 38
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Gene-Synthesis-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Massive Slate of iRacing AI Updates Set for 2021 Season 3"
     excerpt: "Racing’s ever-expanding slate of AI content continues to grow for the upcoming 2021 Season 3 build, set for release on Wednesday. Multiple cars and nearly 30 track layouts will be making their debut with our virtual racers,"
     publishedDateTime: 2021-06-07T15:25:00Z

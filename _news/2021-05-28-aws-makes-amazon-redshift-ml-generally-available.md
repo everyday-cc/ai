@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AWS makes Amazon Redshift ML generally available"
-excerpt: "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post, the cloud giant said Amazon Redshift ML automatically discovers the best model and tunes it ..."
-publishedDateTime: 2021-05-28T10:02:00Z
-originalUrl: "https://www.reseller.co.nz/article/688719/aws-makes-amazon-redshift-ml-generally-available/"
-webUrl: "https://www.reseller.co.nz/article/688719/aws-makes-amazon-redshift-ml-generally-available/"
+excerpt: "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post, the cloud giant said Amazon ..."
+publishedDateTime: 2021-05-28T12:50:00Z
+originalUrl: "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/"
+webUrl: "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AWS AI
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/aws_dreamstime_2_1_1_1.jpg"
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/aws_dreamstime_2_1_1_1.jpg"
     width: 740
     height: 462
     isCached: true
 
-secured: "G2o29leaokuLW+tEM+lxqPlY3bVisgmCveUDcp5e8EwYxqTjK5upYSZL+x1RuPjoVjKQ/HwSeLWIRJhp5Bjy2VJjEetSNVky1J3+d2xGs1K2xRLHHiGWYLBb9hdtcEREPJTA9f0yuYk2t+EfZhkG+t3nIInTwbuTheJZnuGffVh6Odn5M//7JOIyEmZpbswtcYhyYBuQzc9dnVZK39o4l04Z6YwPsqU3FRIJAcKHCPCipTFkEYTNDy8t8j8a9foHrCIcPih6kPkut9H1HYOAqETAvHhIp/9vOif0bNPaLx9UHsi3qOksuD45hpzCB/0WCI0Y9RKHo4AZomNLLugm9nPON3yASOhJBmJufInH380=;BvX00y8xPZulKX2k08OPnA=="
+secured: "+zAPLbdzS0MR4wPfP39IG/jyZXtWY3O1o9G8LQeDh+2HX93fQhYxRTYtk2OGNCI1KDGfrxuSBT9BYrrrKdZsvlYW5zaFe2F0iLPkCSgLr3FHhDWw2bF9kn/5+mxjQZn9aF3EKEzLOi16tYSu+mmIED9HHqqqNiW457ssyEuGe1aym4rJgHFKCM9hD5KiYGHYOu+eIcgTi1i9yl8VQR4n7zsnDoEDvfI/XUrXApXL8hblISNT2NrdMA8FRGUuFCo5LhsbW9/CZk4TfTAgi0Gl4RrRz1os4mfC0a2CbqPEJWR8hF8hoCZpdTbeoxHlkmPwoHoynVcPAKX/ko7v4RSh2vZaIItj0Ahui4TqSsSRBhQ=;+gDM4667YRFD9SDDDtZbUg=="
 ---
 

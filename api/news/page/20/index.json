@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-05-26-autonomous-imager-for-smartphones-home-appliances-and-automobiles.md",
+      "title": "Autonomous imager for smartphones, home appliances and automobiles",
+      "excerpt": "According to CEA-Leti it is the first smart image sensor jointly featuring auto-exposure for all lighting conditions and 88dB dynamic range, as well as motion detection and feature extraction for event-based functioning, and AI-based object recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/autonomous-imager-for-smartphones-home-appliances-and-automobiles/237501/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/autonomous-imager-for-smartphones-home-appliances-and-automobiles/237501/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/237501/cealti.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-self-driving-cars.md",
       "title": "Hacking and loss of driving skills are major consumer concerns for self-driving cars",
       "excerpt": "A new study has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars).",
@@ -1118,49 +1161,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer.md",
-      "title": "GNS to Develop the World's First in silico Patient For Prostate Cancer",
-      "excerpt": "GNS Healthcare, an artificial intelligence company creating in silico patients that simulate drug treatment at the individual patient level, today announced plans to",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer/article_15897f49-4587-55d8-9e3d-5b54e312884f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer/article_15897f49-4587-55d8-9e3d-5b54e312884f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

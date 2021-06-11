@@ -88,11 +88,11 @@ related:
         height: 450
         isCached: true
   - title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
-    excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction"
+    excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial"
     publishedDateTime: 2021-06-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21531557/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21531557"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21531557"
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21531581/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21531581"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21531581"
     type: article
     provider:
       name: Benzinga.com
