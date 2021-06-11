@@ -25,61 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Recognition Expands Across Healthcare and Transportation"
-    excerpt: "Voice recognition has gained momentum across key application areas like digital banking, automotive control, healthcare, and consumer electronics."
-    publishedDateTime: 2021-06-09T14:22:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21166549/global-market-insights-voice-recognition-expands-across-healthcare-and-transportation"
+  - title: "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments"
+    excerpt: "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on"
+    publishedDateTime: 2021-06-08T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments-301307887.html"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/Voice_recognition_promo.60c0c0cb43e4c.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
-    publishedDateTime: 2021-06-10T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Get up and go with connected transportation"
-    excerpt: "The future of transportation isn't just connected driverless cars. Hyperloop and other innovations will make getting from A to B easier, faster and cheaper than ever."
-    publishedDateTime: 2021-06-07T08:48:00Z
-    webUrl: "https://www.huawei.com/au/technology-insights/publications/winwin/plus-intelligence/get-up-and-go-connected-transportation"
-    type: article
-    provider:
-      name: Huawei
-      domain: huawei.com
-    quality: 24
-    images:
-      - url: "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/se5/07-03.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Fine Arts Center Wins National Recognition"
-    excerpt: "The Fine Arts Center for the New River Valley received the Gold Key for Excellence in the Field Award from Scholastic sponsored by the Alliance for Young"
-    publishedDateTime: 2021-06-10T23:12:00Z
-    webUrl: "https://nrvnews.com/fine-arts-center-wins-national-recognition/"
-    type: article
-    provider:
-      name: New River Valley News
-      domain: nrvnews.com
-    quality: 24
-    images:
-      - url: "https://nrvnews.com/wp-content/uploads/2021/06/Gold-Key-Award-Scholastic.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "Fy2cbMMTvQ+3pd8K23d/4Np2fDQ2I8utycxHNmiMgmph1JHhgX+wfJHqJzXuAYsjwpNTL5Jq4gXQLPnJtGWKF9GdJXAWzQocyDJjVRjEQ4heoMLoKo7kBZlhyX2QAnIDHRI92OhMo8fxz6mXkeH7vX9Lqnd5ss9Ef+G6wObJSxhSB4Gl8wxDf44ZFzq05iKZ7k8+nG2rpSHAUWMsDTsJVQUnZ19IvlfoJVzd7bVMMJu0pPoSXoMmbAFxRqne3VP1e3hq3ypkKUr85Wcd3jOd32sSNTZdW6aCLSpSHqOFDXnYPhzlXJc549YOQDth/WhilFSAZdgAY19YZCY/Fsyr7GT9OKmVqr7Arw27NaomPac=;8LModsvZmvwDAO1sfqIejA=="

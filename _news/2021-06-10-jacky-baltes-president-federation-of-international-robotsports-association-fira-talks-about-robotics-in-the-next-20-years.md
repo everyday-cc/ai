@@ -41,22 +41,6 @@ related:
         width: 680
         height: 340
         isCached: true
-  - title: "Personal Robots Market Analysis by Industry Segments, Share, Application, Development, Growing Demand, and Top Key Players"
-    excerpt: "The global personal robots market generated a revenue of 21 5 billion in 2019 and it is predicted to progress at a CAGR of 7 8 between 2020 and 2030 Furthermore the market will reach a valuation of 51 5"
-    publishedDateTime: 2021-06-10T14:38:00Z
-    webUrl: "https://www.openpr.com/news/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    ampWebUrl: "https://www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/6/U610374387_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
   - title: "Computer Vision market is booming worldwide | Cognex Corporation, Basler, Omron Corporation, KEYENCE CORPORATION, National Instruments, and more"
     excerpt: "Global Computer Vision Market 2021 Research Report initially provides a basic overview of the industry that covers definition, applications and manufacturing technology, post which the report explores into the international players in the market."
     publishedDateTime: 2021-06-10T20:01:00Z

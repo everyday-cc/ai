@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ISRO_AIM.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "ISRO Offers Free Online Course on Machine Learning that Can Be Completed in Five Days"
-    excerpt: "ISRO has invited applications for a free online course called Machine Learning to Deep Learning that can be completed in five days"
-    publishedDateTime: 2021-06-07T00:30:00Z
-    webUrl: "https://www.dqindia.com/isro-offers-free-online-course-machine-learning-can-completed-five-days/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 32
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Space-Universe-Satellite-2302575.jpg"
-        width: 712
-        height: 400
         isCached: true
   - title: "Building a foundational map of humanity using machine learning"
     excerpt: "Geospatial data and analytics company Fraym announced a Series B financing to further scale their AI/ML software for mapping humanity"

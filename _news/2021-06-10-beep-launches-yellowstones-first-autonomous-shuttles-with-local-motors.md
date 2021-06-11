@@ -36,7 +36,21 @@ related:
       name: Billings Gazette
       domain: billingsgazette.com
     quality: 24
+  - title: "Yellowstone National Park unveils self-driving electric cars"
+    excerpt: "Park officials have launched the first tests of electric vehicles in Yellowstone National Park that are capable of operating without drivers. The park on Wednesday launched a $360,000 public experiment into the potential future of visitor transportation,"
+    publishedDateTime: 2021-06-11T17:01:00Z
+    webUrl: "https://www.eastidahonews.com/2021/06/yellowstone-national-park-unveils-self-driving-electric-cars/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 24
+    images:
+      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/06/11105733/Self-driving-shuttle.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "fcXhExnkUfR8jZXC9LP+sHk2TjkqMZdbU0TeR4gRdGN06M9AsiHJ3hg9uw/JCrOSrf0RcJM+e769D9WLNIPnOIF96TGRMm3GQQn4CcLauG2XiJEpTBvg526979tqLOtnSgNDt+JE3oC0lfSVgxv4r9coCg5GQ89KnCu76HQ2cFA/HE3ECAehxun3WgzyE2mLjKXJCEtKjvzJ63k3q5eSgG7/12s/CmxmQqMRE15FQdppQdYu+r2g6kYn1BJZCF+Q1ANOIglmnJnDR5FZLAxivJxwal9miV1Tew5AL5UlmSO5tgxr10UkOhakKH48fptwDYWU5UHVlnOHFyWh7GpADdB/vV8I8Mx4VBN2tmL5XF8=;mLpL/Z+RvqZTQHoJ6y2VIg=="
+secured: "O+5cxX6UfmXtTvT34V1Em4kvGoqSCVzZRi6IWmiYsamZLnhCUPrl+AIkly1ICcY7I0Hf8vM0FpGHLeqepcR2kGFokX6dBUu+RTEPn5ErOJuPaYdrTwK3JCPcQ9nCZ6BTfaGC8QSmROiCtw8gVzV5xePUlxtLxcujte7wpZIdn+NgX/eSLbGNOzAwbI8iYoLAoaiviHzC9DDhRYZdc4AewmDglS9o2rD3kPjEDgW2PNm+jZ2tOwew8ghh7ORUz8J/cON25B6M/dYnAP0M31jOmaA5xOycJczn0b1ONFQOhZdavYZXA/3aWD9alAiGBuW4ZjYPVVX3W6JZ3ywFjTM1ZoJMuKuciQx8pLc3DOqtKAlwHQTJgBerfSLZeugEZcEj6swe0n+q2HQjAaKFPObbs3OpYLiZw+4J650nP4Vu8lHssjFInCmonWMAkqlpLlCbpVPljbhHhaRsUvr39Pf5JF/hoGTvAoArWOFuZcf0AkxrMZwvw8t+oPl34sQj+L1uWhMfz0zwbkrCKMHp+k8Jgw==;cGEYOiYAr0L4YSHkja2hBQ=="
 ---
 

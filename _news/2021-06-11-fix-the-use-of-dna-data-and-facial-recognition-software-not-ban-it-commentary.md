@@ -73,6 +73,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Baltimore second major city to ban facial recognition this week"
+    excerpt: "Md.—On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial recognition technology."
+    publishedDateTime: 2021-06-11T16:05:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/baltimore-second-major-city-to-ban-facial-recognition-this-week"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 39
+    images:
+      - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
+    excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction"
+    publishedDateTime: 2021-06-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21531557/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21531557"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21531557"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
 
 secured: "Q7PBO628l2rvd/XXoirIbGeTySZDwKmJ8C5pj03rxmp8ppHUzj+bs9/YR8rx9RHsiyB3HYkeT8tMcFCF1HRr+Mj59VTZw4UaOK3rPXBN7JnNz8lkvgOT8AI+rUB+qj/8YckhDm24dvfEHOkE0MP/l5m8388PT7yRkyV53NQpoh0P8iBPXtILUrKGF6w57nXU949slmh1kdeptaSfmaqkne46lZDyD6aOfNYYxFokLjBGu+7n2NkwYvdJybHKCzGep0z4f/KPthy+UmJnUgjIofF83787mjPfvIIzBrR4lvCV1XWcwf0P6qnRUZbnIPwNBQcSKgodquTrqT81gTz7lZObBV8HoqlOv4PIl/WpeVoC5gxlUO+jEtk0rG5WptNWNn1UuY5TbvYdm/K47OXB6SRmvyYds3AGxgRWn4JWRunbHtUZd2U23wS5hkO21wSDD+OTCIEt5YqRWHwY/rmNAXmgSRjdb61UJDa1gUFirQPb+e+sV1+fSbjDd5Un72BwqGmzimTYYg2KArN0en32YQ==;EEtq66N9+BwsHlBeQzgTng=="
 ---

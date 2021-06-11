@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/markets/automotive/article/211665
 webUrl: "https://www.electronicdesign.com/markets/automotive/article/21166549/global-market-insights-voice-recognition-expands-across-healthcare-and-transportation"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,96 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market predicted to gain $8.5 billion by 2025"
+    excerpt: "According to a new market research report Facial Recognition Market by Component Tools 3D Facial Recognition and Services Application Law Enforcement Access Control Emotion Recognition Vertical BFSI Government and Defense Automotive and Region Global Forecast to 2025 published by"
+    publishedDateTime: 2021-06-11T17:13:00Z
+    webUrl: "https://www.openpr.com/news/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
+    ampWebUrl: "https://www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/6/U611215829_g.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Global AI market predicted to reach nearly $1 trillion by 2028"
+    excerpt: "The latest and greatest from the world's financial think-tanks brings good news for AI investors. The market appears to be trending towards $1 trillion."
+    publishedDateTime: 2021-06-07T17:23:00Z
+    webUrl: "https://thenextweb.com/news/global-ai-market-predicted-1-trillion-2028"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Faimoney.jpg&signature=4a4ffe3c48818e233110dbd705d55186"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden admin reportedly using controversial facial recognition on migrants"
+    excerpt: "The Biden administration is embracing controversial facial recognition technology and other intrusive surveillance tools to process the backlog of thousands of migrants at the US-Mexico border,"
+    publishedDateTime: 2021-06-07T18:15:00Z
+    webUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/"
+    ampWebUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 58
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/cbp-app.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial Recognition Market to Witness Increase in Revenues by 2025"
+    excerpt: "Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation of facial recognition software and sensors in top end smartphones of all major companies."
+    publishedDateTime: 2021-06-07T19:39:00Z
+    webUrl: "https://www.pr-inside.com/facial-recognition-market-to-witness-increase-in-revenues-by-r4833762.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 39
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
+    excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
+    publishedDateTime: 2021-06-10T01:50:00Z
+    webUrl: "https://manometcurrent.com/face-recognition-systems-market-to-eyewitness-stunning-growth-by-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 39
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Monitor-Featured-Image.gif"
+        width: 1050
+        height: 600
+        isCached: true
+  - title: "Voice Recognition Market: Emerging Economies Expected to Influence Growth until 2026"
+    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2024 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
+    publishedDateTime: 2021-06-09T06:33:00Z
+    webUrl: "https://www.openpr.com/news/2301143/voice-recognition-market-emerging-economies-expected"
+    ampWebUrl: "https://www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/U/6/U609941609_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
     publishedDateTime: 2021-06-10T04:44:00Z
@@ -40,48 +130,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Get up and go with connected transportation"
-    excerpt: "The future of transportation isn't just connected driverless cars. Hyperloop and other innovations will make getting from A to B easier, faster and cheaper than ever."
-    publishedDateTime: 2021-06-07T08:48:00Z
-    webUrl: "https://www.huawei.com/au/technology-insights/publications/winwin/plus-intelligence/get-up-and-go-connected-transportation"
+  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application"
+    publishedDateTime: 2021-06-11T13:34:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
     type: article
     provider:
-      name: Huawei
-      domain: huawei.com
-    quality: 24
-    images:
-      - url: "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/se5/07-03.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Fine Arts Center Wins National Recognition"
-    excerpt: "The Fine Arts Center for the New River Valley received the Gold Key for Excellence in the Field Award from Scholastic sponsored by the Alliance for Young"
-    publishedDateTime: 2021-06-10T23:12:00Z
-    webUrl: "https://nrvnews.com/fine-arts-center-wins-national-recognition/"
-    type: article
-    provider:
-      name: New River Valley News
-      domain: nrvnews.com
-    quality: 24
-    images:
-      - url: "https://nrvnews.com/wp-content/uploads/2021/06/Gold-Key-Award-Scholastic.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
-    excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
-    publishedDateTime: 2021-06-07T12:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 21
 
 secured: "ku6xfEaGsyt2BsZmXecofZ5D62rr3ydqLXc1DvfvrV658n3rXx4l/1Qa/cEEHFym8E3oxF69kp4FywuXRB90pd21eTXkEYAk970OD2L3pNfWwL/8KRD1w1qXt5n/9SU85EFV9kqLK1axKZLMfWBoZsvTOQ7UFXpGCeKwGUT9vUWpM25Q3Q028G1CQ6IlXl2Iwyrjt7g07Ru7phaES63l0PBY6BbPKtgEFjGw5yADu2N43mUNV5V64ZYmM2YhlnWJ1W2/6sAORGCFDAbsPUnxRaznf+DQvqp9vBEhfM5dyxlDrX0uVEcGcigtaByHqpLjT6Y7R4s3PD/ygn0+h5m5NIaTJFm66XHN+Ns2xJ9/uVILZog94AGhqdfSqQNnYQgMKt16jG7LDP1pAETcDE0kis2JuHQOwc6vD8RkJg4xEtOfQSEkUUWPeXwuOCslpi1IyKKUuG08+t3bnjal2P2rH6Yhni510tMCEdxwMnG2bT2GWK0DoD9DBkMRbL7WRA6daWYW4rhZZfz9I5729r30uQ==;guJ1gqne5B43qLG2w3in+Q=="
 ---

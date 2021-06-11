@@ -65,20 +65,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "ISRO Offers Free Online Course on Machine Learning that Can Be Completed in Five Days"
-    excerpt: "ISRO has invited applications for a free online course called Machine Learning to Deep Learning that can be completed in five days"
-    publishedDateTime: 2021-06-07T00:30:00Z
-    webUrl: "https://www.dqindia.com/isro-offers-free-online-course-machine-learning-can-completed-five-days/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 32
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Space-Universe-Satellite-2302575.jpg"
-        width: 712
-        height: 400
-        isCached: true
 
 secured: "IYODCf/bcxZN7997Kpy5gqqAvM5ByN8+jZ33yNLWFiIRwPGCWYrSj6lMZnNmW/bTMcs2JX8VX5V9uH6n1cfJSdseNpparSd5k6RIu/Hg2TRD0HyhZc83tVWOff2N5E9VNGLsy4ipknHxYYObUGaFGqFZyyYQB34dR5Us2/0mzCM2riyCysdDFmiI8RzG+vDvnBD8nAVH+sf2/O1OIYVf3Vg/aycSHJTGcOCIdQ0IfblLdjQck/m/CXT1uLyrpwgWVyGli2YJIEhHTD7jOCN4Wv5cwLCvpaTbF9BCLXFoMVIzg3yYiWNJeRFqIDWtsP79Woh7vbbFIypHMG/953c1Rb1tDxjk8qC4JfOxwrvI1t0=;qvQEBZuup3+hfJCAHOM1yA=="
 ---

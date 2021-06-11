@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-09-when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people.md",
+      "title": "When It Comes to Money, More People Trust AI Than They Do Other People",
+      "excerpt": "Oracle released its Money and Machines Report 2021, and after a year during which we've seen some people work against the collective good, it looks like AI has emerged as a more trustworthy choice when it comes to managing finances.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "originalUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/w/when-it-co/when-it-comes-to-money-more-people-trust-ai-than-they-do-oth_k1aq.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-how-ai-and-mosquito-sex-parties-can-save-the-world.md",
+      "title": "How AI and mosquito sex parties can save the world",
+      "excerpt": "Diptera.ai has raised a $3 million seed round to fight mosquitoes with mosquitoes -- and sex-sorting that uses artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/diptera-tiger-mosquito-mosquito-asian-tigermucke-sting-86722.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/",
+      "publishedDateTime": "2021-06-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds.md",
+      "title": "The pandemic led to ‘significant’ increase in AI adoption across manufacturing, survey finds",
+      "excerpt": "A survey commissioned by Google Cloud found that the manufacturing industry's use of AI increased 'significantly' due to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory-e1623189788805.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/amp/",
+      "publishedDateTime": "2021-06-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-xilinx-readies-versal-ai-edge-for-2022-availability.md",
       "title": "Xilinx Readies Versal AI Edge For 2022 Availability",
       "excerpt": "Versal AI Edge Design includes a new AI Engine that doubles performance with 8-bit integer math and offers reconfigurable logic for vastly more flexibility than ASICs,",
@@ -347,7 +501,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -486,7 +640,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -640,7 +794,7 @@
       "originalUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1053,161 +1207,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-croatias-gideon-brothers-raises-31m-for-its-3d-vision-enabled-autonomous-warehouse-robots.md",
-      "title": "Croatia’s Gideon Brothers raises $31M for its 3D vision-enabled autonomous warehouse robots",
-      "excerpt": "Proving that Central and Eastern Europe remains a powerhouse of hardware engineering matched with software, Gideon Brothers (GB), a Zagreb, Croatia-based robotics and AI startup, has raised a $31 million Series A round led by Koch Disruptive Technologies (KDT),",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
-      "originalUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Gideon_Brothers_Autonomous_Mobile_Robots_10.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
-      "publishedDateTime": "2021-06-08T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-snowflake-previews-data-marketplace-governance-tools-management-features.md",
-      "title": "Snowflake previews data marketplace, governance tools, management features",
-      "excerpt": "Snowflake today previewed a slew of capabilities for its cloud platform to address data monetization, governance, and performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Snowflake-Data-Consumer-Montization-Example-.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
-      "publishedDateTime": "2021-06-08T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-composeai-raises-21m-to-help-everyone-write-faster.md",
-      "title": "Compose.ai raises $2.1M to help everyone write faster",
-      "excerpt": "Compose.ai, which built its own language model to help folks write faster, landed a $2.1 million seed round led by Craft Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/",
-      "originalUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-539000490.jpg?w=1024",
-          "width": 1024,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/amp/",
-      "publishedDateTime": "2021-06-08T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

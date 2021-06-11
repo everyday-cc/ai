@@ -25,17 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Blockchain Market to Grow at 72.8% CAGR by 2026"
-    excerpt: "The latest study titled Global Healthcare Blockchain Market 2021 by Key Players Regions Type and Application Forecast to 2026 published by AllTheResearch features an analysis of the current and future scenario of the global Healthcare Blockchain market The Healthcare Blockchain"
-    publishedDateTime: 2021-06-07T04:38:00Z
-    webUrl: "https://www.openpr.com/news/2299116/healthcare-blockchain-market-to-grow-at-72-8-cagr-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2299116/healthcare-blockchain-market-to-grow-at-72-8-cagr-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2299116/healthcare-blockchain-market-to-grow-at-72-8-cagr-by-2026"
+  - title: "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis"
+    excerpt: "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10."
+    publishedDateTime: 2021-06-11T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Marketing Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence AI in Marketing Market was valued at USD 5 billion in 2017 and is projected to reach USD 400 9 billion by 2025 at a CAGR of 29 during the forecast period Major factors propelling the growth of"
+    publishedDateTime: 2021-06-10T09:40:00Z
+    webUrl: "https://www.openpr.com/news/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 56
+    quality: 33
+  - title: "Personal Robots Market Analysis by Industry Segments, Share, Application, Development, Growing Demand, and Top Key Players"
+    excerpt: "The global personal robots market generated a revenue of 21 5 billion in 2019 and it is predicted to progress at a CAGR of 7 8 between 2020 and 2030 Furthermore the market will reach a valuation of 51 5"
+    publishedDateTime: 2021-06-10T14:38:00Z
+    webUrl: "https://www.openpr.com/news/2302727/personal-robots-market-analysis-by-industry-segments-share"
+    ampWebUrl: "https://www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/6/U610374387_g.jpg"
+        width: 800
+        height: 464
+        isCached: true
 
 secured: "h1AQAf5t0C2RXq+h7Uf9O+vstVWqAsWJ5W96nfROM9W5uU+1JjP4StbYlOOKqq2WFzZ662g42bcwR/dbAc/jDBsF4u4bQsLc7uJT/EUtunymSAYXhZ1QZDLBs6EVY6ci7DCeXe7y3OpgZlv92tOWiSPakJQJpsB3dXytaLnjauumPcrPKPMgeKl2dNAWSBUFHXu1Cx5mQCkWB9Y7asxDLwRZW14SvbAoMM0qpQapj8pgkW1XyDveAcwTo9Z6U6eyVjFYaQf0ne7S8mZzd9cnHNqIT3wmrhpZik0AVmvZLxK9DRIB8GQD+A5KUAnik72zXHAybz0tm3k2nHrzAwGE8+ll2v+qMTLANYOAcaY6muE=;ORrO3c+ojCfhwvjZwBLuyQ=="
 ---

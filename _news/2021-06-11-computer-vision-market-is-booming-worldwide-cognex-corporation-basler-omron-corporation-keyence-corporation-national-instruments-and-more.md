@@ -49,22 +49,6 @@ related:
         width: 680
         height: 340
         isCached: true
-  - title: "Personal Robots Market Analysis by Industry Segments, Share, Application, Development, Growing Demand, and Top Key Players"
-    excerpt: "The global personal robots market generated a revenue of 21 5 billion in 2019 and it is predicted to progress at a CAGR of 7 8 between 2020 and 2030 Furthermore the market will reach a valuation of 51 5"
-    publishedDateTime: 2021-06-10T14:38:00Z
-    webUrl: "https://www.openpr.com/news/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    ampWebUrl: "https://www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/6/U610374387_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
 
 secured: "/aApNsHqfXlStRiu/pEc2VCY26cjM//XrSPTQ3MIprLOr0CQtrApe8yfSgJ6M7sqI0k68J0hkRERbbmxZa5SJfYNZsejaJjE3GwB2zqYmnryIevgXr1tPQtfQHU/SgFh5Nuo+cI4sYjzioNoeWWQh3ic3WASLZ7mzYKCB7RU7/cow3tiH5izmyIsxfsMxTUyw4uB0zT7x22HuIsMrEim40STmJJmINQf8vLEQLO4gEKCN1afOx1HteHBY84uY14nKk9NNgiJVXkB4utEWMvJW48BqRmoIaqzDju5j5xg7I9+qZE4Ijy8SbMxfo8gFlqMTn2uPcVL8H74M/ouj2acSudjh1WnDp2Dxf2/kw1kWTE=;ZE9EQ8kfRlI6hd7egh3boQ=="
 ---

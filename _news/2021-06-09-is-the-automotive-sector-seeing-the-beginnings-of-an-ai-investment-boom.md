@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Supporting the AI Boom: Facing the Challenges of Hardware and Deployment"
+    excerpt: "AI has been a hot topic recently, especially this week. With all the efforts coming out, there is a growing need for better hardware, collaborating, and easing deployment."
+    publishedDateTime: 2021-06-11T17:22:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/supporting-the-ai-boom-challenges-of-hardware-and-deployment/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 38
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/articles/LEC-2290_angle2.jpeg"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Is the power sector seeing the beginnings of an AI investment boom?"
     excerpt: "AI deals, jobs and patents have been booming in the last few years. But is the power sector keeping up? The power industry is seeing an increase in artificial intelligence (AI) investment across several key metrics,"
     publishedDateTime: 2021-06-09T13:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
         width: 400
         height: 309
         isCached: true
+  - title: "Machine learning applied in SARS-CoV-2 COVID 19 screening using clinical analysis parameters"
+    excerpt: "COVID-19 was considered a pandemic by the World Health Organization. Since then, world governments have coordinated information flows and issued guidelines to contain the overwhelming effects of this disease."
+    publishedDateTime: 2021-06-11T17:05:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9451243"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 8
 
 secured: "ahco4evKWuMkwYWFyFlJmXpZyy6wLArnUnfkr67rVZEANWOqyTtYvFStXFkOgRZSbV8E5uPP/6eTerbSDXCCbqJRUcn39qNax+aeBAUHvnEyMfqZVlR9rXU/mZ+ZXgcCLzzHU5J5L1pmY62iGI8PjBiuVp+FvyObERjwX0bzk8+xSOG7N5FYM7dhlCbSqEtNqmu2L72JirRivGTW5PAEzQpbDqYQTU2g7TQrhL18twA+Dum5VPQTbtjER3GEqVX5lluru9VwGg6J0Zr1kd8RITGa8j5GB0JTUT7nM1mfVXU4gneIdg8OLeK3m6BCG77LquGiuxnE4YyRRS9wJzZ/km6sS7kROUV6HNVoqPhTTUs=;KojbM6yrT58qnF1Qp91IBw=="
 ---

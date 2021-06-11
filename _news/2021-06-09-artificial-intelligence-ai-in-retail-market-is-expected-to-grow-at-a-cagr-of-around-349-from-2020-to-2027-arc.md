@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chip Market Is Expected to Reach USD $ 253.30 billion at a CAGR of 35.0 % by 2030"
+    excerpt: "Chip Market size was valued to USD 9.29 billion in 2019, and it will elevate to USD 253.30 billion by 2030, with a CAGR of 35.0% from 2020-2030. The report Artificial Intelligence (AI) Chip Market will function as a medium for the better assessment of the existing and future situations of the global market."
+    publishedDateTime: 2021-06-09T14:25:00Z
+    webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-chip-market-is-expected-to-reach-usd-253-30-billion-at-a-cagr-of-35-0-by-2030/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 37
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-Chip.jpg"
+        width: 960
+        height: 640
         isCached: true
   - title: "Computer Vision in Healthcare Market to Project Lucrative CAGR of 47.3% from 2020-2027 | Market Research Future (MRFR)"
     excerpt: "Computer Vision in Healthcare Market Overview: According to Market Research Future, the Global Computer Vision in"

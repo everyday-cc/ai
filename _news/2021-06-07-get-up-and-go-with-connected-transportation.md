@@ -7,7 +7,7 @@ originalUrl: "https://www.huawei.com/au/technology-insights/publications/winwin/
 webUrl: "https://www.huawei.com/au/technology-insights/publications/winwin/plus-intelligence/get-up-and-go-connected-transportation"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,64 +23,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Voice Recognition Expands Across Healthcare and Transportation"
-    excerpt: "Voice recognition has gained momentum across key application areas like digital banking, automotive control, healthcare, and consumer electronics."
-    publishedDateTime: 2021-06-09T14:22:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21166549/global-market-insights-voice-recognition-expands-across-healthcare-and-transportation"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/Voice_recognition_promo.60c0c0cb43e4c.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
-    publishedDateTime: 2021-06-10T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fine Arts Center Wins National Recognition"
-    excerpt: "The Fine Arts Center for the New River Valley received the Gold Key for Excellence in the Field Award from Scholastic sponsored by the Alliance for Young"
-    publishedDateTime: 2021-06-10T23:12:00Z
-    webUrl: "https://nrvnews.com/fine-arts-center-wins-national-recognition/"
-    type: article
-    provider:
-      name: New River Valley News
-      domain: nrvnews.com
-    quality: 24
-    images:
-      - url: "https://nrvnews.com/wp-content/uploads/2021/06/Gold-Key-Award-Scholastic.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
-    excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
-    publishedDateTime: 2021-06-07T12:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "3OkEzTUcnBHINWsL5xoswvnGE3WWI9vuQcQS82BnGCFgLoAuwf4mHbWGeBlHgNwK1nRoAFrFHJQXeEyxXvYODY7lso2ZbpeuyhwEHJZteMgRkcD5ldQErsPRI/WeVPMYr2XSjebi+lvdF44B/RoipAc138Uc810l9I561b549g6o2fK/xUNC0vSL3JZh5z+fYgZEscXHpyHoMV+IzMbj2bmJZS0/sQm0j3pVjDXy3iDsxna9mf4LOizqb/+0VZ4cXCnxxWbl9Xe6d/wrbcfIhUzZ4AAPn7aM3aUim+G7HOJRiowtBXp2jfDmMG8+aUFY64soF5Cyg1XDtVq20kiyWq9FKRG1F9kNbIeLhrkJcwWAQ+957QhiWI8W4VruSgr101GUtfcmrYYtxtHRUcdgQZ7fUwj6NoqmfCSJ80sbxhq27dq9lwPSq0kKQIi5GZPaTkm+zm8BG9Bm/AkuTFQDxXohv+VJkEfXDdbvAJ0E0tIV6Z6ABk9+aM44a5aqPgXHLGhHE3dm0F2G2H/irSSAZQ==;KhiBJ3agfiggrSB8rCVPZA=="
 ---

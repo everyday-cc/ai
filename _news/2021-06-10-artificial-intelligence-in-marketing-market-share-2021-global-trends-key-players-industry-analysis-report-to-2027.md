@@ -22,101 +22,50 @@ topics:
   - Facebook AI
 
 related:
-  - title: "June 2021 Report on Global Artificial Intelligence (AI) in Education Market Overview, Size, Share and Trends 2021-2026"
-    excerpt: "The Artificial Intelligence (AI) in Education market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2021-06-11T09:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11"
+  - title: "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis"
+    excerpt: "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10."
+    publishedDateTime: 2021-06-11T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "June 2021 Report On Global Edge Artificial Intelligence (AI) Chip Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "The research report includes specific segments by region (country), by manufacturers, by Type and by Application. Each"
-    publishedDateTime: 2021-06-09T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-edge-artificial-intelligence-ai-chip-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence and Advanced Machine Learning Market Share, Growth, Revenue and Trends Analysis Report 2020 – 2028"
-    excerpt: "The latest market study titled Global Artificial intelligence and Advanced Machine Learning Market, released by Emergen Research, takes note of the most prominent growth potentials of the market, which assists industry stakeholders in comprehending the most recent market trends and growth prospects,"
-    publishedDateTime: 2021-06-09T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-advanced-machine-learning-market-share-growth-revenue-and-trends-analysis-report-2020-2028-2021-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge Artificial Intelligence Software Market Growth, Industry Analysis | Global and Regional Market Forecast to 2020-2028"
-    excerpt: "The global edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected"
-    publishedDateTime: 2021-06-11T08:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-software-market-growth-industry-analysis-global-and-regional-market-forecast-to-2020-2028-2021-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Industrial Artificial Intelligence Market Report 2021 Growth Factors, Product Type, Manufacturers, Application, End User and Regions 2027"
-    excerpt: "Jun 10, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Industrial Artificial Intelligence"
-    publishedDateTime: 2021-06-10T13:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-report-2021-growth-factors-product-type-manufacturers-application-end-user-and-regions-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latin America Artificial Intelligence Market 2021, Industry Trends, Market Share, Size, Growth and Opportunities 2026"
-    excerpt: "According to the latest report by IMARC Group, titled “Latin America Artificial Intelligence Market Size: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,” the latin america artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026)."
-    publishedDateTime: 2021-06-07T11:24:00Z
-    webUrl: "https://manometcurrent.com/latin-america-artificial-intelligence-market-2021-industry-trends-market-share-size-growth-and-opportunities-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 16
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Europe-Specialty-Generics-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "COVID-19 Impact on Mobile Artificial Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Mobile Artificial Intelligence Market size is expected to grow at an annual average of 26 3 during 2021 2027 Virtual assistants and bots will become more prevalent and smarter in the near future freeing employees from monotonous tasks"
-    publishedDateTime: 2021-06-11T12:37:00Z
-    webUrl: "https://www.openpr.com/news/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
-    ampWebUrl: "https://www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+  - title: "Personal Robots Market Analysis by Industry Segments, Share, Application, Development, Growing Demand, and Top Key Players"
+    excerpt: "The global personal robots market generated a revenue of 21 5 billion in 2019 and it is predicted to progress at a CAGR of 7 8 between 2020 and 2030 Furthermore the market will reach a valuation of 51 5"
+    publishedDateTime: 2021-06-10T14:38:00Z
+    webUrl: "https://www.openpr.com/news/2302727/personal-robots-market-analysis-by-industry-segments-share"
+    ampWebUrl: "https://www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 5
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/6/U610374387_g.jpg"
+        width: 800
+        height: 464
+        isCached: true
+  - title: "Industrial Robots for Automotive Market by Latest Trends, Future Scope of Key Players, CAGR Status, and SWOT Analysis by Regions Forecast To 2023"
+    excerpt: "In a recent published report, Kenneth Research has updated the   report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-11T09:33:00Z
+    webUrl: "https://menafn.com/1102210405/Industrial-Robots-for-Automotive-Market-by-Latest-Trends-Future-Scope-of-Key-Players-CAGR-Status-and-SWOT-Analysis-by-Regions-Forecast-To-2023"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?812528"
+        width: 455
+        height: 250
+        isCached: true
 
 secured: "qnmE9tKpeEuzwonOx3L+NLuVspqM8OD2Y9RkJSKPzcq4qoXZ+X3WIpgfR9I1rqHARL3+wQVMOKL4S23oC8SbdaBvE9j9tKij7pR2vTRUtGhC5kIm9Dffl8MEIfLgAK5jCcu+MtTfnCiwirPK7hrlxM2ZVO555QKJhHYm5V2vqEALwX8judbY8qNahB9dcA3KO77NTh+TxW6p987NnO5oWjaCl+4s91eEK/lSqevP+NL3spR14nYD94R4A2ZlSsPWW1gHt6ABfmPk195fQt0GeFE7TK0S10K0G97fSBUytHugLu6NQlV9h+QJiUC//c3jjU1GkdJ4KC+UGr22WXGQn1ADU/FnN7W2ssZi2X0dgfU=;qhszUzWMakOzpgQ/+yzzNA=="
 ---

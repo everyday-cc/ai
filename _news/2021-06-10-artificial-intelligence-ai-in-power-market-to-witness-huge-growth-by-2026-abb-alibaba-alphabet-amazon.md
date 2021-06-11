@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
-    excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
-    publishedDateTime: 2021-06-10T01:50:00Z
-    webUrl: "https://manometcurrent.com/face-recognition-systems-market-to-eyewitness-stunning-growth-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 39
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Monitor-Featured-Image.gif"
-        width: 1050
-        height: 600
-        isCached: true
 
 secured: "hPoHQgMEe7XAo7VcwIXoVl0Mpb/o4D0nQg5jTyFYNzxYIciFDinUz86FF0J7770o6xSmqkfvLcoddxNgYiwjMJaNcd37wDutLfhAVs4DA/FJkGr4EYBBz/2jTGHcDbgwt/ldfyrF2s9tcx3SPzkCJGRfA1UcRuu4rJEmp64VGE652tXhHL022xt2hfOPjjbDmaWW4tlxul1i/qcJAdhiBtsQwyNTgmEB5m6KwZybnAE6SW1XFv2+i7AVFDO0GlaCOmwr2vCGoqAW9xL25VvTnYYUIfWu3hC4x4hcYJwr20bdyRP4DP4nvmkVCk9SYc9wfSy2zBG9P2hhm9neNozfRbKHL0EKrEOSt5LxI5xAkk2CCQscCRYoTEGKR60okc+c5E2W/D8OPnYDSbQUHGFXoWF0XCJzpxFqNYqk7cHTkFtkop+uuaMrpcMbppGKbo0nkvfEZGkFomN+7IZwRGrkbKYRGOQ4oMOOoOHVZhOJD30gXF4jCP4pEAn8bYS+MOLraSWYwEuqnYhrUt8QJor6cA==;dhqE3FjmatMeMLluXpflDQ=="
 ---

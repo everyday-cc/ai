@@ -86,17 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Marketing Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Intelligence AI in Marketing Market was valued at USD 5 billion in 2017 and is projected to reach USD 400 9 billion by 2025 at a CAGR of 29 during the forecast period Major factors propelling the growth of"
-    publishedDateTime: 2021-06-10T09:40:00Z
-    webUrl: "https://www.openpr.com/news/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
   - title: "Latin America Artificial Intelligence Market 2021, Industry Trends, Market Share, Size, Growth and Opportunities 2026"
     excerpt: "According to the latest report by IMARC Group, titled “Latin America Artificial Intelligence Market Size: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,” the latin america artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026)."
     publishedDateTime: 2021-06-07T11:24:00Z

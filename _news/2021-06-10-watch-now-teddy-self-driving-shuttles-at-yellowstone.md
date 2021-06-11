@@ -35,6 +35,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Yellowstone National Park unveils self-driving electric cars"
+    excerpt: "Park officials have launched the first tests of electric vehicles in Yellowstone National Park that are capable of operating without drivers. The park on Wednesday launched a $360,000 public experiment into the potential future of visitor transportation,"
+    publishedDateTime: 2021-06-11T17:01:00Z
+    webUrl: "https://www.eastidahonews.com/2021/06/yellowstone-national-park-unveils-self-driving-electric-cars/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 24
+    images:
+      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/06/11105733/Self-driving-shuttle.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PkrH6t/UFCN9ultOgB/RhpgCBKmjBNDLVUj7DU0cC5p3SBByyU+so85t8Y8M+/R67909CtRnWtNueB1A6gE25doDisOL+axMXn+E+NMI2OJXeqPBA6vlhU/Se7K3n72p4b9moLKTAMW66EuQkpbPkkPHakRC278FIzKOeDm+2qCw00bLjWjhKOoj9w5cvIQvQl5mRn95rICjQ84n298K4v/ChIqfg6RZ/UKj1UIWnxin3T8zBnNgrxH6bS/btc4plJymh2MW7TVjGfLMIpxTEouzmPAvJhqlOfO3dHKhcGkWcqN+a2GKRLmMwkLf/7evYbCh2wJz1EpfTBKge+9SJrh8zZhRVeNFYAfjeA0fHV3poBae8fBb+hWmHZTo5XGVowpIlxLvUH+rscdBIUylK6CLtbn8xM8cFXTi7VOiXi6sLNxOQP310NYcrmahXm8HKFjB5Dgh8QXAtq9VtzgOAYVrVpYKpsDxOQe5RiLJTTz3kYtUpk7GPH9SnKOAA0Tc83tCmGwjA6ekp2mvDTW/DQ==;c9YfbZJZOg//mxZbqAn0xg=="
 ---

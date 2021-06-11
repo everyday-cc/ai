@@ -1,42 +1,27 @@
 ---
 category: news
 title: "AWS announces winners of first DeepRacer Women's League in India"
-excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ..."
-publishedDateTime: 2021-06-03T19:21:00Z
-originalUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html"
-webUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html"
+excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ..."
+publishedDateTime: 2021-06-03T21:11:00Z
+originalUrl: "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india"
+webUrl: "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india"
 type: article
-quality: 51
-heat: -1
-published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AWS AI
   - AI
   - AI in Autos
 
-related:
-  - title: "AWS announces winners of the AWS DeepRacer Women’s League in India"
-    excerpt: "Read Article Artificial intelligence (AI) and machine learning (ML) are innovative technologies that are unlocking opportunities and helping solve some of our most difficult challenges. But to date in India,"
-    publishedDateTime: 2021-06-04T06:03:00Z
-    webUrl: "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/"
-    ampWebUrl: "https://www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/"
-    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 91
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2019/06/17104829/trophy_820.jpg"
-        width: 696
-        height: 465
-        isCached: true
+images:
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg"
+    width: 400
+    height: 300
+    isCached: true
 
-secured: "S82jmqQuERKk1alKTC0b02LZuPbk/m+uewAhpZvdihDQ7WlJ2HRvsrVxydhiSPM4clDexBKH97SQQUoFwhgZnWInxdhLiwDOepAeIjTRxSKw3J5ppg+FaRDPnJUmsHYhIhwjCs/KYGbRDIiRfJT67BTdyjIzg4bFUn+SVscT8AAAIt6Y3vjyvXgIbVV741F1xMPr+7nJGAYuz3B2+7A1P44lb4jbxPkyiDoWUh0vpZh51/Vt2RBahfEqmeFck2/QLm0wYvizPYOqskfmvVGuvvp7kxHYbRjY8NuGQmySQVeirsHFQyTSupFw11PmPfFS8MQX6u+K4kr7BK/iwyfNXMimD7QYcp20hGiqrjAlD9A=;zTxOZSZtqf6lOPzlRFI/bA=="
+secured: "HLlzvdDUIruhG3HiaUV52IpgI1EmSy6bRsDYwmLfY709qiI9kFG9kb7DfHTs9uxM6lZYFLu2vqC1PZT1QFfOr0cDJfTCfY6QvAvdlnOU1HmftRWocfkWDS3kuAic4CpgvFB9OBnNmFdRSwWZZhxGg4YqwiBBGqZevOcVg7hJKlbdODqhFLzuYCTAT9S9uPDyBggCTbrn3rfIY855HYyktzumeKO3Y/v8nMQ2peUYx0ZqUGhKjnzPWNEPnpcj6KSWg7pgTIq2agrlv/FZYQHr2gmZ3x84pNKMMfivZ2PE3L/z4lnP2VZI+KY1xLWqv+tpZEIF3b1e52CCJx/HBfP1w3oSQPygtyNa4F5noC1npB4=;BVJ9P2pMfIQcPr9JhDagng=="
 ---
 

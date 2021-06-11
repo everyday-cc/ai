@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-excerpt: "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ..."
-publishedDateTime: 2021-05-27T15:59:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning/article_bb721e78-2972-51d9-846d-034fafefe3d2.html"
+excerpt: "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ..."
+publishedDateTime: 2021-05-27T15:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030472355"
+webUrl: "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030472355"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "/hrzhv6Rohq4UdiKfM+bF3TO1+ii1VijktwAQNh22rXfNITY1o8Mz1C7z1EKTzGtjMc0UqbTsU7SMczg2TBXnxeyzks3K+Ty9IrYr1YioR+ZD5xxoU4BgSK9BC6jh4cS3b2fudk2nNm8qxwOXy7tbsjv4m0bVyNy5hMoGlJLQniGONy/Nqbz25oIlndf2fR9W/yD4o7zk5hJvbDilqdaW8zh2U5EwyEtT7ftJ3rDrpH47pChcfTfqCZAmZE3v1zYNCgg3J77xNKT2KaEmHuFbl/N9bRYTPBqrelJPu8f1QmUbhYBLObHdtYf5IqkqGyKyPd3udEpqEAVosxkHtIcL0bFDsX1MsIvFsavtT96kyg=;F8ihnT1HwRvyZKt+eenNtQ=="
+secured: "YhpqSUf6uNOcdy6223NFq1WweTpqDITY6UkPO79Zmuq9uQ8q61KY0DOXlZ7+6JFN338fDUJzkkB27tmj+kU7Kb2YUzAQsVOxy6Fg5vthsSgrC0vpQvyfT3JKVR7ObyDWyrtCR7WkzTgPL4wgkh3dIMC0/e91841S3fn8LaQDR+mKNlHu5XH0Td+ag3Z62WAd7v1oDDQzsZ7cY7ai94mwbvEvn0vVP28B4s4wN4yTu9LtJartnoaXoudR8wpakn0F+cIX0kdlvR53AdczX5npkoPRA6JYxRWzst37M2MxN5OcXH6u8/2Zlji6Uu7E9OwPjxoj6spWHco0tLVb457ZDkqkz5t8KlhXSbO1Dtcr+Kk=;EMd8oi9NRdgibx6WcaOiXQ=="
 ---
 

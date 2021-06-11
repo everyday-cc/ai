@@ -27,45 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Jacky Baltes, President, Federation of International Robotsports Association (FIRA) talks about robotics in the next 20 years"
-    excerpt: "The goal is to develop Olympic caliber robot athletes, to better understand human intelligence and the way that humans are interacting with and reasoning about the physical world around them."
-    publishedDateTime: 2021-06-10T08:00:00Z
-    webUrl: "https://www.digit.in/features/general/jacky-baltes-president-federation-of-international-robotsports-association-fira-talks-about-robotics-59723.html"
-    ampWebUrl: "https://www.digit.in/article/amp/general/59723/jacky-baltes-president-federation-of-international-robotsports-association-fira-talks-about-robotics"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/59723/jacky-baltes-president-federation-of-international-robotsports-association-fira-talks-about-robotics"
+  - title: "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis"
+    excerpt: "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10."
+    publishedDateTime: 2021-06-11T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
     type: article
     provider:
-      name: Digit
-      domain: digit.in
-    quality: 47
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://static.digit.in/default/9070723c03493078108753c664309fe47a86e25c.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "5 MIR1000 Robots Automates the Internal Transportation of Heavy Loads at Florisa"
-    excerpt: "MiR1000 have improved productivity, safety and eliminated storage problems within the Florisa plant, a company that operates in the textile segment, with production focused on the dyeing of natural and artificial fibers."
-    publishedDateTime: 2021-06-08T12:42:00Z
-    webUrl: "https://www.roboticstomorrow.com/article/2021/06/5-mir1000-robots-automates-the-internal-transportation-of-heavy-loads-at-florisa/16957"
+  - title: "Artificial Intelligence in Marketing Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence AI in Marketing Market was valued at USD 5 billion in 2017 and is projected to reach USD 400 9 billion by 2025 at a CAGR of 29 during the forecast period Major factors propelling the growth of"
+    publishedDateTime: 2021-06-10T09:40:00Z
+    webUrl: "https://www.openpr.com/news/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302321/artificial-intelligence-in-marketing-market-share-2021-global"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+  - title: "Industrial Robots for Automotive Market by Latest Trends, Future Scope of Key Players, CAGR Status, and SWOT Analysis by Regions Forecast To 2023"
+    excerpt: "In a recent published report, Kenneth Research has updated the   report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-11T09:33:00Z
+    webUrl: "https://menafn.com/1102210405/Industrial-Robots-for-Automotive-Market-by-Latest-Trends-Future-Scope-of-Key-Players-CAGR-Status-and-SWOT-Analysis-by-Regions-Forecast-To-2023"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
     images:
-      - url: "https://www.roboticstomorrow.com/images/articles/16957.jpg"
-        width: 680
-        height: 340
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?812528"
+        width: 455
+        height: 250
         isCached: true
-  - title: "Computer Vision market is booming worldwide | Cognex Corporation, Basler, Omron Corporation, KEYENCE CORPORATION, National Instruments, and more"
-    excerpt: "Global Computer Vision Market 2021 Research Report initially provides a basic overview of the industry that covers definition, applications and manufacturing technology, post which the report explores into the international players in the market."
-    publishedDateTime: 2021-06-10T20:01:00Z
-    webUrl: "https://ksusentinel.com/2021/06/10/computer-vision-market-is-booming-worldwide-cognex-corporation-basler-omron-corporation-keyence-corporation-national-instruments-and-more/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "DOqNeZhqQm+Pju12OnU6A/o47llyBbN4IVhyE3jhLpxqPy3NnjTu4qPtmd4fqQBObMUBGjq9oX8Px2JHpqIWsJDK7ew3w04p9lTr7pqGYgGp6qAwYiEN/44d76n99tqNnzx6OL8dNOvWh3hwzPLtN9VjiyQMTh2sC7G65gugpg9mPCYKCyyWeKpyDtG3KcLi8nLnELQVo9GltzCOhNc0/XkpMdQ39JFTsBSytqJ+wVfEYJ0LMRkyPZJpapMGTEc6pEt8PMdsr6aPJawjA2cVH4dCi2qxbDAkCPot/k0MzF6HEu/NNSUbnCDLdGObvTMzEjnNIV58LL3/Zz+2iv0cm3fcg/p8X24TMGqp7xBqgTGQfV80iGJmk5u/wY60zU3KxFP1aHITyUV1EaFIfcF9KSWUGGFbdvj3bDMYJISQtrcxOv8Gie63ckIby3NAbWiOtCucuBnFNkl5mKMzw4f9Vj+FUTfeeQC331QVYjVsB4eSrLyKVGCVpez+Mp9NIlzH6PpPZCdelWDjqUUFsQVi9A==;njKo67oTtKoUqfT5lTXyJg=="
 ---

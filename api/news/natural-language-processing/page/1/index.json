@@ -524,8 +524,8 @@
       "title": "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology",
       "excerpt": "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/AppTek-joins-Intels-AI-Builders-program-to-leverage-AI-enabled-speech-and-language-technology-147234.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/AppTek-joins-Intels-AI-Builders-program-to-leverage-AI-enabled-speech-and-language-technology-147234.aspx",
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -544,7 +544,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T03:35:00-07:00",
+      "publishedDateTime": "2021-06-04T07:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KMWorld Magazine",
@@ -845,32 +845,32 @@
       "title": "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies",
       "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T05:41:00-07:00",
+      "publishedDateTime": "2021-06-02T05:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

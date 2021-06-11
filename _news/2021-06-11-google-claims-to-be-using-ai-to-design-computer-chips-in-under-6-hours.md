@@ -158,6 +158,20 @@ related:
         width: 900
         height: 474
         isCached: true
+  - title: "Google’s AI Designs AI Chips Better Than Human Engineers"
+    excerpt: "Google has proven that it uses AI algorithms to design AI chips. It takes 6 hours instead of a few months if people do."
+    publishedDateTime: 2021-06-11T16:46:00Z
+    webUrl: "https://www.gizchina.com/2021/06/11/googles-ai-designs-ai-chips-better-than-human-engineers/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 54
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/06/googleAI-1280x720-1-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google Has Developed AI Software That Designs Chips Faster Than Humans Can"
     excerpt: "In effect, Google is using machine-learning software to optimize future chips that speed up machine-learning software."
     publishedDateTime: 2021-06-10T17:37:00Z

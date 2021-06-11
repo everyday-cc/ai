@@ -7,7 +7,7 @@ originalUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
 webUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,45 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Launches Task Force to Open Government Data for AI Research"
-    excerpt: "The task force will draft a strategy for potentially giving researchers access to stores of data about Americans, from demographics to health and driving habits."
-    publishedDateTime: 2021-06-10T16:00:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
+  - title: "Enterprise Automation Announces Results of Innovative Artificial Intelligence and Data Visualization Research and Development Projects"
+    excerpt: "North America's premier control systems integration firm serving the water and wastewater and life sciences industries today announced its most recent"
+    publishedDateTime: 2021-06-10T19:25:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/enterprise-automation-announces-results-of-innovative-artificial-intelligence-and-data-visualization-research-and-development-projects/article_b4391391-ac47-5f02-90e7-cbfb970ec657.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
     images:
-      - url: "https://images.wsj.net/im-352014/social"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Task force to find ways to make U.S. government data available for AI research"
-    excerpt: "A U.S. government task force launched today is working on a strategy to provide artificial intelligence researchers with access to massive amounts of data on American citizens. The National Artificial Intelligence Research Resource Task Force is part of a broader effort to ensure the U."
-    publishedDateTime: 2021-06-11T00:13:00Z
-    webUrl: "https://siliconangle.com/2021/06/10/task-force-established-find-ways-make-u-s-government-data-available-ai-research/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/open-government-5450141_960_720.png"
-        width: 960
-        height: 593
-        isCached: true
-  - title: "The Biden administration launches the National Artificial Intelligence Research Resource Task Force"
-    excerpt: "The U.S. National Science Foundation and the Office of Science and Technology Policy announce the government, academic and private sector representatives who will serve on the task force"
-    publishedDateTime: 2021-06-10T17:39:00Z
-    webUrl: "https://www.nsf.gov/news/news_summ.jsp?cntn_id=302882&org=NSF"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 3
   - title: "Department of Energy Announces $1 Million in Collaborative Funding for Privacy-Preserving Artificial Intelligence Research"
     excerpt: "DOE National Laboratory researchers will partner with flagship dataset developers from the National Institutes of Health Bridge2AI community"
     publishedDateTime: 2021-06-07T22:12:00Z

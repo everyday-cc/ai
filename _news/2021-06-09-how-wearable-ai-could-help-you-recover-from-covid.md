@@ -105,6 +105,15 @@ related:
         width: 400
         height: 309
         isCached: true
+  - title: "Machine learning applied in SARS-CoV-2 COVID 19 screening using clinical analysis parameters"
+    excerpt: "COVID-19 was considered a pandemic by the World Health Organization. Since then, world governments have coordinated information flows and issued guidelines to contain the overwhelming effects of this disease."
+    publishedDateTime: 2021-06-11T17:05:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9451243"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 8
 
 secured: "krpzkHiG6g73stdaKFpYkD998fcvdgY2+/DKpGqFD3T03UT4ncCqLGKMoDeTGQBpPJeK+iWBu/3W4KiLnC1//ji67MiEjZI46kILPkS0ZlHCDkZA93Ul31uddipI+WNph1YYfq8OEx4ypKzVUD7LXYn2rLOpguKPjqruuiJI09OCFAVOrUkPUfjF/FL+5HV40UU31FVxaRuwAFB6MEQQvYUMUYlM+dvbH3z1aonjyEeyNmkML7ni8IvHGrJHDeEIXt9UijGnBsWH6618OVttA1kTdMp/yrAJ2flPDqpz+ORZPSkdCUm7x389l2nbZYbrybLTpDFbWNQo4ZDFIVBITpd85JuIr6L1SBtlC6axebSfg8TAHMqM8DT05yJo1HJLDCM3eDmZp5DSSx0w9/T480qu3DRG8J8q9vUXGYZT16x6y8opO8riVrIWk+TmRnocDt+ONgiQyOiO+zT6OxbycUqnuv4Ty73DPqtizoU9RTeaiLu4arpd5AIwFwMlSbQrKYjlCPfG0E4qbUmI1Zu6Pg==;jGnRa8yk9avsxN2hRbmQgA=="
 ---

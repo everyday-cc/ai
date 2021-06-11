@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chip Market Is Expected to Reach USD $ 253.30 billion at a CAGR of 35.0 % by 2030"
+    excerpt: "Chip Market size was valued to USD 9.29 billion in 2019, and it will elevate to USD 253.30 billion by 2030, with a CAGR of 35.0% from 2020-2030. The report Artificial Intelligence (AI) Chip Market will function as a medium for the better assessment of the existing and future situations of the global market."
+    publishedDateTime: 2021-06-09T14:25:00Z
+    webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-chip-market-is-expected-to-reach-usd-253-30-billion-at-a-cagr-of-35-0-by-2030/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 37
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-Chip.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "bCYecrWPZNW9/jElEbpMZhWUqd0ND3g7sWs6JOPn+U58Xgu+mYBPPRQ7SJLtQSzCgO3t7D4MTPjMoHd6bzSrPve+B0rxvPZCI/psXejhjaTPLmuF3IPWBjc9Nxdw+/ox4wmLzG5Rh+LQHtQUNKDF47H9VOpKwwGgltUhx7+VzXrMve8QK8GZ3de0GGtoB55/lWw8LdQNPR0q+JYaZqW0oxytmtSERMaUgChfZeuv6gsht9qEqikDJCFTC0oQWZPixSm37xcQn38EggIwsyc4FkY+gaJmqB6iIWZZ28Xj46QrAG4CjcrEsN4+fsq4zDiCVNUGzucq08sFwI9zVcT1jd6JLmFqKdfhvSz/i09M0uU=;bVdBbYlkqtCLT/tP9VbgTg=="
 ---

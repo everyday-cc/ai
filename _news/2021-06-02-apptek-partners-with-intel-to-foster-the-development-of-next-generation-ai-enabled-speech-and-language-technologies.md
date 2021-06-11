@@ -2,25 +2,23 @@
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
-publishedDateTime: 2021-06-02T12:41:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
+publishedDateTime: 2021-06-02T12:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
+webUrl: "https://markets.businessinsider.com/news/stocks/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-1030487143"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "uVkDNOpgfgXeBvjkVB2vhM5pbt1rNjDiGTfgX14Ec1Oo+2xRV7XYByJsFjmVQNGYnyoyBIxwyRJi3IxrsTa6XPQStvYoLdyV/rMWRtclDpGThcnXVIt5lVfjeYUKT190Mo+bnffIkGa5GtjCH7v2+5I+0h59/77+h+CzFrUHAo8LAs+QSpXNCZfCttEwd9d90foWgO6WLSKfmMRAIL0dgltkeSjtDEUOtnD2T+GjiU2Rn2LmiKKQ6g1pFuqnLfjdacvZtFEsyF1X2Tcooyn1FIA+u1JLp1e/S/6Qe2qR+unJEkWIiDpOOg+aztz7R032Jlp+RZ+aIRX5E4lO20Z+ZyLNDnZr8xe1vrHyo5dMG7s=;VSvQKyzYJZABmG4QAN2oTw=="
+secured: "gBWfY4edD3YEB0KDVlDf1CXV96DgxYu+Wbk2aChtFvIKoXa1R7YuRJqZ5Ofjv1anSHKV1umlIcQRYWVq7NP4/80gUyXjmwT8fAKPY5lb5V1v/r/US+Z6z38vv3NTnVgq8RgUe6gIw3bg0SGwxEwopoFLbSD8aYVezVtEIUiLFOrG6gZy7og7sagMfohNw1NCQNjlrodW02280GnIJ9OIvFRhJ5IJY598hQoMv4EinfS9vazTgjuW/+CZ8A/zba11ebT4wH/SeH+rnosoTz/CJxroFz0m5/3IJkQfdZutK4jymbuRulpAogEqBbo7tf/JH8i91HcFffToB1eIh6BmmgasDCXnW2YXipG0FLZjILI=;QGaYfkVqflqS4Awn1raKNg=="
 ---
 

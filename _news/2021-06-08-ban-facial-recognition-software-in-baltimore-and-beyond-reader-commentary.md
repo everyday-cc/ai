@@ -9,7 +9,7 @@ ampWebUrl: "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp"
 type: article
 quality: 57
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -73,6 +73,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Baltimore second major city to ban facial recognition this week"
+    excerpt: "Md.—On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial recognition technology."
+    publishedDateTime: 2021-06-11T16:05:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/baltimore-second-major-city-to-ban-facial-recognition-this-week"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 39
+    images:
+      - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
+    excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction"
+    publishedDateTime: 2021-06-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21531557/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21531557"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21531557"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
 
 secured: "5pKOhrjbLwt04Fz2wVCqPbgzF0d1NXqbXmL+3FYtDYaifaBAQPNo5whpJJNz0Dsd1uPtfSpJmQY0YM2ikL3iwLpUpPdYA7IJ2h0Nc4LabHbsVISwl4RxE4QOZsAQuaCa8/fPnlKMn+gMoGNUxVOpEP5gol59V+sj4HuQ6IVsmtU1mOFT9a3Ut/b4cuayaeqIXp6xABX0QQxl4TnM00ViS6mGvWoipGeFpwL9Fpqi7/G93X9ajbGN4kC+v6wf2OWmI/j1uCJBt2wuZB96+ogpz34bHXj3at1ZxrC1dsp12/mYz3YPZ/ACf5ZV9mq3z7cP2L5hrVyuGvT6fYE432KZgrUnyU/3Xh0XdA22j96Hk0L8fppErYoXAS8Vr6W/9ivwg/W+EEj2KKwst5FI0yGMXzvHzXi87uDWbuUeL/BGWDab1+HhsnFNXfkWz5q2oD6gEy5LT0PCp8a0oGfoJnay4eW1JZpMLq9QfT3sjva1ztMeteTKbvMTKczyKvoYlJOf3EF+KwQ/aeCKP8xf8EV0qw==;EyEiYLvhbi1VOe1EaH6A6w=="
 ---

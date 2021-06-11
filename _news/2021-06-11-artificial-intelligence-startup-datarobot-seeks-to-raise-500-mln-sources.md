@@ -3,13 +3,11 @@ category: news
 title: "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources"
 excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
 publishedDateTime: 2021-06-10T18:44:00Z
-originalUrl: "https://www.reuters.com/article/datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources-idUSL2N2NR1QC"
-webUrl: "https://www.reuters.com/article/datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources-idUSL2N2NR1QC"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NR1QC"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NR1QC"
+originalUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
+webUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
 type: article
-quality: 98
-heat: 128
+quality: 78
+heat: 98
 published: true
 
 provider:
@@ -25,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Talent matching startup Eightfold AI raises $220 mln in round led by SoftBank Vision Fund 2"
-    excerpt: "Eightfold AI, a talent matching platform, said on Thursday it raised $220 million in a funding round led by SoftBank Group Corp's (9984.T) Vision Fund 2 that doubled the company's valuation since the previous funding round to over $2 billion."
-    publishedDateTime: 2021-06-10T08:00:00Z
-    webUrl: "https://www.reuters.com/article/us-eightfold-ai-softbank-funding/talent-matching-startup-eightfold-ai-raises-220-million-in-round-led-by-softbank-vision-fund-2-idUSKCN2DM0TP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 57
-    images:
-      - url: "https://www.reuters.com/resizer/W1JocnNLqZ9H6Tu23ejAWRt-sIg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3EZBALS5SBPH5HCFFLUS6YWONE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "DataRobot, West Virginia University Bring AI to Government"
     excerpt: "Having recently opened an office in Morgantown, West Virginia, the San Francisco-based artificial intelligence company will recruit new employees from the university and focus on education, health care and prosperity."
     publishedDateTime: 2021-06-10T17:20:00Z
@@ -68,6 +52,6 @@ related:
         height: 557
         isCached: true
 
-secured: "8DX4w9oB+Hy7wflj/1lv/reWzWFDNp8IsLwDCONtEFfBf71Ho1VHl/1TEWyySLvrz4UWVGGkJKkYuOy+cYg48tRFMMg3nXSHUAGVpKdn1/55wIBy2PGD5IShqImwERpdbtBtjDKLofY/VHl4ULKbhwD47n82WhsGwjHF17Mdkdl/9yCssprbQCTsLghcM/5MASTIHQAKoa97yRL76kcbPLqNI6B61X7F1Vfk/Qaw6CyjA639Iihkthk6JLT7gGIY6/LuOiZ+cM+RnuwF+yjgs8Jgn+kki+nUtvls3ltusmKu+NrmoA6bnX53iI5Ybs58TnNRhlRja/JeqKwcq2nmomQqoaTzB5xoeLbUfdij+v4=;btYNaTHI+ieDURP2NYsvsw=="
+secured: "qCYqo2qDTR9TSuUyN5emaaQQMSGM5AtGCFbEuGiwugszazitS+KdxmC1A20tyPOaRKRfWwvesq9M5oO85QxrRRSqFxvDMnqTTrRkB2NgF9NN4j3hy9volmqREbS+cdVrM1TcsSbDYj63mYmNf2y4Wv82fuaura48vS1m2veg8r2VLJYiMbvAzfBSN8nFnmSBtKqZ8j2bJq8migj8F64+4SBDQ5Fd5Nn8ZDbtjVMVRFwACXbBo5S2CxrI2W62FKkY28zXYvvqL/GKyzj98ugRpmqr2Ep4NWa5buFvU3elHrJQEehVSLOhfQJ+doG4B5TPEPlMumis25Ms2kERROUnCjaV3Afcm1ASL2foIyQKQDQ=;pYVtsODG52FXeavIqH+xng=="
 ---
 

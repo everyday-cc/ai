@@ -2,6 +2,204 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-05-13-infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
+      "title": "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work",
+      "excerpt": "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420",
+          "width": 1200,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-the-fulfilling-world-of-warehouse-robotics.md",
+      "title": "The fulfilling world of warehouse robotics",
+      "excerpt": "With the pandemic finish line in sight — at least for some — now is a good time to start assessing which segments have been most impacted by the events of the past year and a half. In terms of robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1124819781.jpg?w=1024",
+          "width": 1024,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "publishedDateTime": "2021-05-13T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021.md",
+      "title": "Google will bring Starlink satellite connectivity to enterprises in late 2021",
+      "excerpt": "SpaceX and Google Cloud have partnered to bring satellite-powered broadband and cloud services to enterprises across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/s3.reutersmedia.net_-1-e1620916687924.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/amp/",
+      "publishedDateTime": "2021-05-13T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-walmart-acquires-virtual-clothing-try-on-startup-zeekit.md",
+      "title": "Walmart acquires virtual clothing try-on startup Zeekit",
+      "excerpt": "Retail giant Walmart announced this morning it’s acquiring the Tel Aviv-based startup Zeekit, which allows consumers to virtually “try on” clothing when shopping online. The company leverages a combination of real-time image processing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/download.gif?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/",
+      "publishedDateTime": "2021-05-13T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how.md",
       "title": "Experimental AI Tool Makes GTA 5 Look Stunningly Photorealistic - Here's How",
       "excerpt": "An AI research group has released a new video showcasing a new photorealism enhancement tool being applied to GTA 5 – and the results are stunning.",
@@ -947,196 +1145,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-two-in-one-wide-angle-monitoring-meets-high-resolution-capture-in-new-camera-platform.md",
-      "title": "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform",
-      "excerpt": "However, recent studies on object recognition in omnidirectional cameras show that distant objects captured in these cameras have rather poor resolution, making their identification difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-traces-of-ai-weiweis-politics-at-skirball-cultural-center.md",
-      "title": "Traces Of Ai Weiwei’s Politics At Skirball Cultural Center.",
-      "excerpt": "Trace” at the Skirball presents three of the six floor panels Ai Weiwei created in 2014 for an site-specific exhibition in San Francisco on Alcatraz Island concerning prisoners of conscience, political prisoners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/",
-      "originalUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c574f67f471f7beafe7d2%2F0x0.jpg",
-          "width": 480,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/amp/",
-      "publishedDateTime": "2021-05-12T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-how-a-helium-shortage-could-put-the-brakes-on-the-tech-boom.md",
-      "title": "How A Helium Shortage Could Put The Brakes On The Tech Boom",
-      "excerpt": "Big Tech, NASA and even the global healthcare industry depend on a critical gas, and it could be heading for a major supply shortage",
-      "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.html",
-      "originalUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-12_cqpknqtdhx.jpg",
-          "width": 718,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.amp.html",
-      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.amp.html",
-      "publishedDateTime": "2021-05-12T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-build-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker.md",
-      "title": "Build a scalable machine learning pipeline for ultra-high resolution medical images using Amazon SageMaker",
-      "excerpt": "Neural networks have proven effective at solving complex computer vision tasks such as object detection, image similarity, and classification. With the evolution of low-cost GPUs, the computational cost of building and deploying a neural network has drastically reduced. However, most techniques are designed",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/05/1-1953.jpg",
-          "width": 800,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T14:05:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

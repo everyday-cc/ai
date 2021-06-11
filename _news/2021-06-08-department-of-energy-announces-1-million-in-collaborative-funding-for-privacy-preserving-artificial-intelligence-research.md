@@ -18,36 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "U.S. Launches Task Force to Open Government Data for AI Research"
-    excerpt: "The task force will draft a strategy for potentially giving researchers access to stores of data about Americans, from demographics to health and driving habits."
-    publishedDateTime: 2021-06-10T16:00:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-352014/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Task force to find ways to make U.S. government data available for AI research"
-    excerpt: "A U.S. government task force launched today is working on a strategy to provide artificial intelligence researchers with access to massive amounts of data on American citizens. The National Artificial Intelligence Research Resource Task Force is part of a broader effort to ensure the U."
-    publishedDateTime: 2021-06-11T00:13:00Z
-    webUrl: "https://siliconangle.com/2021/06/10/task-force-established-find-ways-make-u-s-government-data-available-ai-research/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/open-government-5450141_960_720.png"
-        width: 960
-        height: 593
-        isCached: true
   - title: "DOE announces $1 million in funding for privacy-preserving artificial intelligence research"
     excerpt: "WASHINGTON, D.C. - Today, the U.S. Department of Energy (DOE) announced $1 million for collaborations in privacy-preserving artificial intelligence research. The aim of this funding is to bring together researchers from the DOE National Laboratories and the National Institutes of Health (NIH) to jointly develop new flagship datasets and privacy-preserving methods and algorithms to improve healthcare."
     publishedDateTime: 2021-06-07T20:00:00Z
@@ -62,15 +32,20 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "The Biden administration launches the National Artificial Intelligence Research Resource Task Force"
-    excerpt: "The U.S. National Science Foundation and the Office of Science and Technology Policy announce the government, academic and private sector representatives who will serve on the task force"
-    publishedDateTime: 2021-06-10T17:39:00Z
-    webUrl: "https://www.nsf.gov/news/news_summ.jsp?cntn_id=302882&org=NSF"
+  - title: "Enterprise Automation Announces Results of Innovative Artificial Intelligence and Data Visualization Research and Development Projects"
+    excerpt: "North America's premier control systems integration firm serving the water and wastewater and life sciences industries today announced its most recent"
+    publishedDateTime: 2021-06-10T19:25:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/enterprise-automation-announces-results-of-innovative-artificial-intelligence-and-data-visualization-research-and-development-projects/article_b4391391-ac47-5f02-90e7-cbfb970ec657.html"
     type: article
     provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 3
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "X+9uOEEYIsUfnITEbwOAhtTLqR0Z7+jKmbuEwY7m5vHgyj92tsJhlyZfs/FFYD7hNc5NZk8qq688mw0QZGVDFEHXblQnyroTU1xg92KXYAA35Cknc7XI8xoEMyiSlnPgjzSKSG00u8gf3/+SCy8WhzN4zp6VIJZUVSK2gqVNlMdlwnWMaSGgxrUeGWvqhDb0bs7KCdq+1bb46iS3GMKpcL/e94BwTyxxPf7LsRsHU0PyLV7OsMOV/y/qd7BbRNyj1ngXdU7YV00+dEWuYI7YSLUyZgOvCEAMnNqQhacM2MAKOdYB6mW+XsXMRyHQYLmQKwRVqWAQBAmcTUXuvh7WKIGrIG49q97qgLqjb18fL74=;RqYH5iMW6J/coHK3qw3Zig=="
 ---
