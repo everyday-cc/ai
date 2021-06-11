@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-mor
 ampWebUrl: "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory-e1623189788805.jpg?w=1200&strip=all"

@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Waabi- A new path to commercialising self-driving technology"
-excerpt: "Waabi- the brainchild of Computer Scientist Raquel Urtasun in collaboration with the self-driving program powered by Uber, is all set to revolutionise the economical future of vehicle transport with an $83."
-publishedDateTime: 2021-06-09T12:12:00Z
-originalUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology"
-webUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology"
-ampWebUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
+title: "Nividia is adding to its self-driving offering with a deal to buy precision mapping startup DeepMap"
+excerpt: "By buying DeepMap, Nvidia will be able to plug the startup's high-precision, continuously updated maps into its autonomous vehicle technology."
+publishedDateTime: 2021-06-11T01:09:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2021/06/10/nvidia-to-buy-deepmap.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/10/nvidia-to-buy-deepmap.html"
 type: article
-quality: 24
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI in Autos
@@ -49,6 +47,17 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Waabi- A new path to commercialising self-driving technology"
+    excerpt: "Waabi- the brainchild of Computer Scientist Raquel Urtasun in collaboration with the self-driving program powered by Uber, is all set to revolutionise the economical future of vehicle transport with an $83."
+    publishedDateTime: 2021-06-09T12:12:00Z
+    webUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology"
+    ampWebUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 24
   - title: "Breakthrough Technology Simulates Human Eyes’ Vision for Self-Driving Cars"
     excerpt: "LiDAR sensors are the current solution for making sure that self-driving cars have a safe and accurate perception, but what if something even better and more cost-effective could be out there? This is what recent studies are trying to find out,"
     publishedDateTime: 2021-06-09T15:22:00Z
@@ -63,16 +72,7 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Nividia is adding to its self-driving offering with a deal to buy precision mapping startup DeepMap"
-    excerpt: "By buying DeepMap, Nvidia will be able to plug the startup's high-precision, continuously updated maps into its autonomous vehicle technology."
-    publishedDateTime: 2021-06-11T01:09:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/10/nvidia-to-buy-deepmap.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
-secured: "GRRgsUScwT7Xff6PIli49+RAXHMlVOh+od/FlhOkaMNTiVOxlK6HCYTvmgYV/uyPMGdZZCYzJLzv7VWc+b51XX3I6rfuO2jh884bAgCTrc8uFf/q9EHKQZjOGo2GQrMX0FeAEXuu7gl/kH5vW6Ur9g9YrNWnAN08t/DA2BjvkX7qmIvCk/9ezTLT0L0TKNOHR9sflCQ4efIjPBD9VG5odxEXsuDUmEywIyCe9XUsFokn7293vIw39Fpl/XSD0ZgqUkcrdibDqnTuaWtVF9jloa0hBgqBc4WQQnWg2K9zPdorubmR00XZo6h6YgMWfPxH6Pq7FnKiV0dZmVe8Iof7+GbEkwOL504gnFLLb4ZM0XFGu60cXzyTnW+PpXgJKnLXHibErFvrcK5JZc5Zil0H8KAzqesMLDc1asudRQ97CanYnbilK7Aimj8tVRuz6hCEt+7LE2gY1dGF9Qe8JBiT15x1LI205VsifW1fDj+ZMhk3r7s8ziVU+8Mp0bhvc5cOAblJgV25hbbn9n5SHgDnlg==;HBWQxYKyeDtoDg2/L2S00A=="
+secured: "/Nx93YOgI4yXqqfMFAfYMg1EVw/9fP6c97rhUromxkHECx9Nnl0sBcrJ0nzVXhdJNCBxdxZDOnQzfKXfMSlPNjEyxAKUtfhvD58qNDrIwB6lik2plKObvvCQLcD3dllQIDj+LTCVPvqsc+pkAxYlUQ1SqKeZ6SGiBDzK9ugHpWwDoqGu+oasKTf7Y98G3kOt0csfQ0g0A4hXG05h0QKFXQqk7sJgxZK5nQt9A7+NngeBDBsRN2R14HKxHQ3fdBuV3j21dvNVyMAzKWeK4GNbL0VxLPmejPMAK8C26yiRbud/GVQ4b0bWFMq4W6lq4Wfc3+KJC/sTlTerp/4t0u9GFmE5fMY1HjrJxLw7jLoW5uQtDie3k6hGdl4woxCc6g33JUn8hFVcWlGq4NCS1C0ERxJ5z4PlqO0duf/PX6XY0ExPnRw3klvHZTI6s/Sm2z1zpexi0ienF/OxmjTLU6bFVduj63cQSayfBCHPeWtorY9G/S3yfXZjWuLeazL+96yLTamTCWR8enyeGb2VV9x8tQ==;QUkjUxMa5GIVVbnNnui3fA=="
 ---
 

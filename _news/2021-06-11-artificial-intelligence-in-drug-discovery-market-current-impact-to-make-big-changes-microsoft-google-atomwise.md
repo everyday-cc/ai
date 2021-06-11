@@ -1,0 +1,49 @@
+---
+category: news
+title: "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise"
+excerpt: "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market."
+publishedDateTime: 2021-06-11T00:47:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
+type: article
+quality: 62
+heat: 72
+published: true
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AI in Social Media Market Detailed Insights on Upcoming Trends 2021 to 2031 | Google LLC, Microsoft Corporation, Facebook, Inc., Amazon Web Services"
+    excerpt: "(Trending Report Jun 2021) insightSLICE has recently published the AI in Social Media Market informational report which presents a large-scale guideline concerning present and past market trends, market size,"
+    publishedDateTime: 2021-06-10T11:56:00Z
+    webUrl: "https://ksusentinel.com/2021/06/10/ai-in-social-media-market-detailed-insights-on-upcoming-trends-2021-to-2031-google-llc-microsoft-corporation-facebook-inc-amazon-web-services/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 34
+    images:
+      - url: "https://giffiles.alphacoders.com/120/120251.gif"
+        width: 480
+        height: 306
+        isCached: true
+
+secured: "l4h1AmLN+tkypCRi5cC/e+H6STR+qp5gx2/tI71PtRCqKiN7tHyHn6nHabxTZSflL4fT/QFxgHrzHFqKOKY8UEc5T8TNhKFPh6RM5YRtui0/lrdsCe5pevKfm0Cdg2pYkvU1PS+WL/FmlRYac++wrbFyqWfkQ+dFxCB71gndf+bDoLOCpSe/PXTdkE+Hui1mLmZAXaIV45BrugIAzS5MG75W8qN6ZzzONieBoNELRi4X8+qh49UBGSPNJwPUIYbQWb4DzkE5CdQHiHt8VH8IFAvlwx1ad/ZfiS1Yd62PicBjwatwBe1kh2UDWe3TYX7/mUTXxSKpxW7IfHP+QSuXoP3i5yJ0E0ZaIgJT4MSmHV8=;A06izZR60TEZ/BneiGzvsg=="
+---
+

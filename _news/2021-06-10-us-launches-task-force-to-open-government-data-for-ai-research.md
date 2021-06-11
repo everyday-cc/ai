@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/u-s-launches-task-force-to-open-gov
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Task force to find ways to make U.S. government data available for AI research"
+    excerpt: "A U.S. government task force launched today is working on a strategy to provide artificial intelligence researchers with access to massive amounts of data on American citizens. The National Artificial Intelligence Research Resource Task Force is part of a broader effort to ensure the U."
+    publishedDateTime: 2021-06-11T00:13:00Z
+    webUrl: "https://siliconangle.com/2021/06/10/task-force-established-find-ways-make-u-s-government-data-available-ai-research/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/open-government-5450141_960_720.png"
+        width: 960
+        height: 593
+        isCached: true
   - title: "DOE announces $1 million in funding for privacy-preserving artificial intelligence research"
     excerpt: "WASHINGTON, D.C. - Today, the U.S. Department of Energy (DOE) announced $1 million for collaborations in privacy-preserving artificial intelligence research. The aim of this funding is to bring together researchers from the DOE National Laboratories and the National Institutes of Health (NIH) to jointly develop new flagship datasets and privacy-preserving methods and algorithms to improve healthcare."
     publishedDateTime: 2021-06-07T20:00:00Z

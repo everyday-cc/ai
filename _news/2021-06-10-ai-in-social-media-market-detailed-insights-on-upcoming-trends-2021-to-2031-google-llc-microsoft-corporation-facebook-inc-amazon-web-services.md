@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service Market Impressive Gains including key players IBM Corporation, Microsoft Corporation, Amazon Web Services"
-    excerpt: "Get PDF template of Machine Learning as a Service @jcmarketresearch.com/report-details/1336265/sample Additionally, it provides a futuristic perspective on various factors that are likely to boost the Global Machine Learning as a Service Market growth in the years to come."
-    publishedDateTime: 2021-06-09T18:28:00Z
-    webUrl: "https://ksusentinel.com/2021/06/09/machine-learning-as-a-service-market-impressive-gains-including-key-players-ibm-corporation-microsoft-corporation-amazon-web-services/"
+  - title: "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise"
+    excerpt: "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market."
+    publishedDateTime: 2021-06-11T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Global-Machine-Learning-as-a-Service-Market-780x470.jpg"
-        width: 780
-        height: 470
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "na/Hj2UR4qVyxq739kpT+g6nFcD0t+57CuJLzj/FZZTLZ/rIKbtAJHsJ8FSzWZCkuovEIOmMvUO+1oGO7/RQNVLO1BB75kfhYLceWDDFPfBsjgRXbM1oHFOxVClaB8yke48W0lOEEJcYK4TACdgcgU4cK3iHOUnjaYd3fyQOFjkk97BNvdh8+fdePL7RHZ2S3VsH3EWF0pSKreGsWNIKvNQMuZBFaofg49uIjvT3Andqhyk7yPwhDHjC38lxgbc9hUilTmCkrcYYRLZJMjYcFyN5Z7/ltRXfaAWoRufd26zyENuJ2boWkU+Yd12byYcXhyIfJiV6SgLfmwktBWOgoObVLWujsreLqvLTvEBB/VjXIk3iTaE8+KXwGbw2VPJK4IpoxXczD/GwqJ4U4uli/1xF6CUAiR+efT0+P81DltY/Aftnb9zu22dBA4ahZh4Fjbw/eCuo845OzbbQ4DT+1j/41kOhzNOx8lGaitfPbbGqlrbOByhNVBUvc6VwdF0Fo/FwnIioQ4RtmzUnEPsabA==;vs9JDTQYcEtum9r99aaGvw=="

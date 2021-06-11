@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mastering artificial intelligence and machine learning"
-    excerpt: "Control Engineering - Just a few decades ago, artificial intelligence (AI) was the stuff of science fiction, but has since become part of our daily lives. In manufacturing, it"
-    publishedDateTime: 2021-06-06T09:02:00Z
-    webUrl: "https://www.controleng.com/articles/mastering-artificial-intelligence-and-machine-learning/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 54
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/06/CTL2106_WEB_IMG_xAI-Fraunhofer-IPA.jpeg"
-        width: 645
-        height: 350
-        isCached: true
   - title: "Massive Slate of iRacing AI Updates Set for 2021 Season 3"
     excerpt: "Racing’s ever-expanding slate of AI content continues to grow for the upcoming 2021 Season 3 build, set for release on Wednesday. Multiple cars and nearly 30 track layouts will be making their debut with our virtual racers,"
     publishedDateTime: 2021-06-07T15:25:00Z
@@ -72,6 +58,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The impacts of artificial intelligence on the workplace"
+    excerpt: "As part of this programme of work, the OECD is conducting firm-level case studies to understand what happens when a specific AI-based technology is implemented in a workplace from the perspectives of those most impacted by the changes."
+    publishedDateTime: 2021-06-11T00:18:00Z
+    webUrl: "https://www.oecd.org/future-of-work/reports-and-data/impacts-of-artificial-intelligence-on-the-workplace.htm"
+    type: article
+    provider:
+      name: OECD
+      domain: oecd.org
+    quality: 37
+    images:
+      - url: "https://www.oecd.org/media/oecdorg/styleassets/images/OECD-social-sharex.jpg"
+        width: 700
+        height: 350
         isCached: true
 
 secured: "wKNYPj9+GjMCCM30Xr768WTvLbzE6dY4dwujjGpsXUigDnz3tpVyZBw4VEZYoHzqdSjy0aJo+xXvTeUov0HX/vrs1a33hQ7vZdLs+v5c2BKnY47OYztxux33YHc9m3kIzBA7DM0TTb6dBzmMD/Fqy4YOnPpIh10MCS1MzWaK3O5qAjzMfdil5WSxeKWQTKYWQvzhJIBDuf/DMnu3x0MpXKRJ0zkGM/CPieK6YtZPBu3ALgbVXHGDwb5Y3CIF6gDvQWFu5URnEIgcZEAuxB+Y5H2QQnpSuJhSSfjQjmlr5mKahdMddrSLvdMqgc8q+EsZNzPjdyFyvOl9LfjsN+Tv0J+HGYOn1s3kwvPzRZpJGJ2XhauOXaPalUjFMu+7nY8/wW20jLSXjfZ28juEf9S9AUWQ9AfP04sXB9TfOL+tWsBTKDIuLhmxHeEGGz8ZEw4uZ10xMxLWtEyBC3CUYusm2I5S/ZHQLlgLoFA7LPrgfSE9I7qrJIh0JbZ0vyCLIR44qcg3RxCOa5vbeWRgJx8NuQ==;KvtgEK7q9aUVZY3BJNB/gw=="

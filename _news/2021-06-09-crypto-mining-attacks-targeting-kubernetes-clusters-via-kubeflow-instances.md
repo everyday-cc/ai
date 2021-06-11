@@ -30,9 +30,9 @@ related:
   - title: "Microsoft says cryptomining attacks are targeting Kubernetes"
     excerpt: "Cybersecurity experts at Microsoft have shared details about a new campaign that is attacking Kubeflow workloads to deploy malicious pods in Kubernetes clusters that are then used for mining cryptocurrency."
     publishedDateTime: 2021-06-10T11:03:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
+    webUrl: "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
     type: article
     provider:
       name: TechRadar

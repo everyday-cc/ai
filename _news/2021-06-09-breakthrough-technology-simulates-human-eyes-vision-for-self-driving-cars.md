@@ -64,6 +64,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 24
+  - title: "Nividia is adding to its self-driving offering with a deal to buy precision mapping startup DeepMap"
+    excerpt: "By buying DeepMap, Nvidia will be able to plug the startup's high-precision, continuously updated maps into its autonomous vehicle technology."
+    publishedDateTime: 2021-06-11T01:09:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/10/nvidia-to-buy-deepmap.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "z2Z25ot9geR0ftfME6PcJao/Ihu9igaXNLVkaZ5GvRzXoBW/WwdwP6SbFq8jQahwTLeTroIrri1wlaL9uQNl1QImakYpQrAlE3aF1y6uC4iC8ETvSaMlogKAwL1yWx5fCqW2ORR7Jru0EnyR5nJ2fTaMBx886W+U9n4pEX6cRYUVpweUSkIlHZnjZtfkiSAKXmHt0oi6Qd32UWyYaffUv5iexhciKf+kv47DczAoUe8Z36cbNU8tWxcKg+mSzeZvKTXctMJGAALm9Cs8mcOOzuvYQ7LbFXJeOh2jNSo051l4YLWY1ts6Tmwm9edk2lWzb/QBGk0mFVoekTtJYmzPcEWvSr2ivYg5uffgOUpFP3VuAyCzL2XN400VMCc6ych09UC9lSt5tvahGvLNnHVbxC42UsgSsRWR0Y0AECgr48mJjFTq3MH10Wxe1MxYQaD4o++HZ7+BO9WaRIbYgk46vA2KNQUBbrrs2hkYaC1npWJKRJFThGV1/Ob+Y1RUzgkoKEndDrQW7cQtVhYpey53Eg==;6QQwaHrATqSX6Oxssxgc7g=="
 ---

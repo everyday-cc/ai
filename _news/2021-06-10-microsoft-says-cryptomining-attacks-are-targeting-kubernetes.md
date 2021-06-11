@@ -3,10 +3,10 @@ category: news
 title: "Microsoft says cryptomining attacks are targeting Kubernetes"
 excerpt: "Cybersecurity experts at Microsoft have shared details about a new campaign that is attacking Kubeflow workloads to deploy malicious pods in Kubernetes clusters that are then used for mining cryptocurrency."
 publishedDateTime: 2021-06-10T11:03:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-webUrl: "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
+originalUrl: "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
+webUrl: "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
+ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
 type: article
 quality: 91
 heat: 141
@@ -109,6 +109,6 @@ related:
         height: 256
         isCached: true
 
-secured: "lHfEC082+oYwJacwd6bIjRt91smFAg8m/A7QUtRBSnDNU7H9bOAN0AsrqAWYJlfOksJ/PcewKQKJ/hZ6WPE+wI54Lyt7nxQgXOBf/gybb4nqli7sJW/4Wdq0wDiO9CgEIfNvkdfG9T91YxuVv3KsRdPcYOQXr1iAuwfku+8ZY0Y0v8FInBx2cvznL0lyjvmYx/1A/ujnWlJho8QxsIKIvg08Ju5zWFgjIwrUqw1T46Vr1s5LL1MeL7cEbj1+n1fUe+5qYD4kDDJcTbbDCb4ESukiaIyY+LrsC/9n5WQUkUph3S7dkMiLoYWCVI0DfDK2z9DlSyfADsCxPzq8iWv2RDjL0zwytsc9veS3jJ3aDxw=;jp/6tfflke04g0PUJKppaA=="
+secured: "MBBihZMQnRCuEsRi/oHoVs1YbDmIbtcC31SHInKGJpGT7Un/RaaP0pZOXZ0aOonyiov4leqD67cvQhejfxQpd8Z6xaH6unlJGzDyGDUvykxyk4AFdPEzDBJzj1G7fzy8OqOPiaOjmygfNARJPf9qlSkFE5+lruXmPbT4gzNLRhk8r+I9wadRPkV3RTyGHvtm2JVYlHt07/cYkH6CmAFyA+tdtIxvvagxcCFY2Z9+5ORnVgQ9TC/8ntZjpeg2+m3oE2zbNYw1qTCGxePUHsAWGl+kskSqDlXOoLGkD15JoZeFxsPGzurfZET6XQEYk5N2JAaTskpzV11u2TZj7ZKesF+fLLLmCcvOoBR1s+Ihh/o=;Fa3uPgy2xaN1fhn3ipdCVA=="
 ---
 

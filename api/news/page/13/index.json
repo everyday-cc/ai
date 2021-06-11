@@ -2,6 +2,100 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-30-the-ftc-discrimination-warning-on-ai-7-expert-tips-to-stay-out-of-trouble.md",
+      "title": "The FTC Discrimination Warning On AI - 7 Expert Tips To Stay Out Of Trouble",
+      "excerpt": "As more and more companies adopt AI, a question arises - can the federal government keep up with all the changes from a regulatory perspective? In some cases, the federal government is behind (see Why Are Technology Companies Quitting Facial Recognition?).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b2d4a01172ccc8c87167c6%2F0x0.jpg",
+          "width": 680,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/05/30/the-ftc-discrimination-warning-on-ai7-expert-tips-to-stay-out-of-trouble/amp/",
+      "publishedDateTime": "2021-05-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-30-ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.md",
+      "title": "Ubisoft hires AI, machine learning expert to lead product technology",
+      "excerpt": "Ubisoft is forging ahead with experimental technology like machine learning, AI, blockchain and more for its upcoming projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/9/79664_32_ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
+      "publishedDateTime": "2021-05-29T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them.md",
       "title": "Adversarial attacks in machine learning: What they are and how to stop them",
       "excerpt": "Adversarial attacks present a growing threat to commercial AI and machine learning systems. Fortunately, some solutions exist.",
@@ -1086,92 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.md",
-      "title": "Tech Digest daily round up: Driverless shuttles hit Cambridge roads",
-      "excerpt": "The UK’s first driverless shuttles have taken to the road in Cambridge, carrying their first passengers in a trial alongside normal traffic. The autonomous vehicle took a 20-minute journey around the University of Cambridge’s West Cambridge campus in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
-      "originalUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2021/05/starship-sn15-flight-stream.jpeg",
-          "width": 990,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-new-ai-powered-deep-learning-model-to-support-medical-diagnostics.md",
-      "title": "New AI-powered deep learning model to support medical diagnostics",
-      "excerpt": "A new deep-learning model can learn to identify diseases from medical scans faster and more accurately, according to new research by a team of University of Alberta computing scientists and the U of A spinoff company MEDO.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-powered-deep-le.jpg",
-          "width": 2880,
-          "height": 1622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp",
-      "publishedDateTime": "2021-05-28T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

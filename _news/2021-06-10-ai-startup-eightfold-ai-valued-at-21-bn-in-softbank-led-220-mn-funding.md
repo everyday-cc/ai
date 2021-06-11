@@ -46,20 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Talent matching startup Eightfold AI raises $220 mln in round led by SoftBank Vision Fund 2"
-    excerpt: "Eightfold AI, a talent matching platform, said on Thursday it raised $220 million in a funding round led by SoftBank Group Corp's (9984.T) Vision Fund 2 that doubled the company's valuation since the previous funding round to over $2 billion."
-    publishedDateTime: 2021-06-10T08:00:00Z
-    webUrl: "https://www.reuters.com/article/us-eightfold-ai-softbank-funding/talent-matching-startup-eightfold-ai-raises-220-million-in-round-led-by-softbank-vision-fund-2-idUSKCN2DM0TP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 57
-    images:
-      - url: "https://www.reuters.com/resizer/W1JocnNLqZ9H6Tu23ejAWRt-sIg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3EZBALS5SBPH5HCFFLUS6YWONE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Eightfold AI raises $220m led by SoftBank’s Vision Fund 2"
     excerpt: "According to the company, it will use the funds to expand its India operations, hiring data scientists and engineers in the region."
     publishedDateTime: 2021-06-10T23:54:00Z
