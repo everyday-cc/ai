@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook’s AI can copy the style of text in photos from a single word"
+    excerpt: "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images."
+    publishedDateTime: 2021-06-11T17:59:00Z
+    webUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/"
+    ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Facebook wants an AI that can beat the 'hardest game in the world'"
     excerpt: "Facebook is asking for the AI community’s help in bringing low NetHack — one of the most notoriously difficult titles in gaming history — and maybe help computers learn to simulate instances faster using fewer resources."
     publishedDateTime: 2021-06-09T10:33:00Z
@@ -44,22 +60,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bf6bd2a0-c89c-11eb-aeab-eddcf4a62c67"
         width: 2400
         height: 1260
-        isCached: true
-  - title: "Facebook’s AI can copy the style of text in photos from a single word"
-    excerpt: "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images."
-    publishedDateTime: 2021-06-11T17:59:00Z
-    webUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/"
-    ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Facebook Planning To Create An AI To Beat NetHack"
     excerpt: "Facebook wants to develop an AI (artificial intelligence) that is capable of beating the hardest game in the world. The social media giant wants to leave"
@@ -77,6 +77,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI Conference Recap: Google, Microsoft, Facebook, and Others at ICLR 2021"
+    excerpt: "At the recent International Conference on Learning Representations (ICLR), research teams from several tech companies, including Google, Microsoft, IBM, Facebook, and Amazon, presented nearly 250 papers out of a total of 860 on a wide variety of AI topics ..."
+    publishedDateTime: 2021-06-08T13:05:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/conference-recap-iclr-2021/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 55
+    images:
+      - url: "https://res.infoq.com/news/2021/06/conference-recap-iclr-2021/en/headerimage/conference-recap-iclr-2021-header-1622991258808.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "PyTorch Becomes Facebook’s Default AI Framework"
     excerpt: "Facebook said it would migrate all its AI systems to PyTorch. Facebook’s AI models currently perform trillions of inference operations every day for the billions of people that use its technology. Its AI tools and frameworks help fast track research work at Facebook,"
     publishedDateTime: 2021-06-10T12:30:00Z
@@ -91,7 +105,16 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI Can Now Copy Text Style in Images Using Just a Single Word"
+    excerpt: "We're introducing TextStyleBrush, an AI research project that can copy the style of text in a photo using just a single word. With this AI model, you can edit and replace text in images. Unlike most AI systems that can do this for well-defined,"
+    publishedDateTime: 2021-06-11T16:08:00Z
+    webUrl: "https://www.publicnow.com/view/FADABB81DD2E53EA62DBA9553AFA53CB1EE4A8E1"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 21
 
-secured: "/42vVQ7ObnZAtsn3AChGcg+xTjPfuvi3R7qthbmBIYvyATaC81jtwDeMIpxCnDKKloA3rxbT2k6AOu0LBkvTNAosjgIXHnlXG2hYGW++c/NTl45ZDXGoOFV1ysjN+Ouf4CUGCZheQxrLg6Jf+VPiidommS++Ym0pAW9bR/nCRWxWrNiXgfcKxAAv+W7PXuMBW3NrVC23oW6jvDG5DWQ+f9GZfcCjnjzT3gAX46P4G8+EVF5ZK321MfFrEiRnMKZPHvxcKBGjDQvB4LSzsBKEBcS8j7jr0w6DhGxZ6z+PbHp/fDhA4n50nbqpQKhZmADFyOCxUmhJMCyf9S3D2sUOesKmZin02/rcI645h/s5i0Y=;1FHa2M1Y2BsTZnmbUTEZnA=="
+secured: "GBy93nAogdDQZZbWwW8xzX5NZI2fkNniN18rLXQEzf1ng/F2ZPlbrJrqYU0GRUeTvxWxS74xSK1LBDVnutfeYxu76+T3uYSDcGBrf223T8r0sr++Y1Z5fEz8mkqcoO2saNePWKikxEITFr7YhZYgv7JovIt6lr1AYoxJ3ooX/dYFXipXdkV2Ih8kYlO1e3NFHEdjM0VyMmVgMm0XeYIxdQIRfipk3VzMKKqY2qfxTjcZF3LetgKyjugUxhUjpPAnLueFNQzPUkpMhyfbcAacFKA5+Jv9nli5qIqVbnTEnfI14FO+u/sVcRQJ+fnybAgiJMS3w982rc4QwGUuV90Dn2SbMg8pAmL4yp0z4KFlGILt4u7vn5A6p7/0TQy6KDPTDoB2MN/LNxkdYLVpb52LTCXsnHxlv2rxZGZd/OBhPFm5zY1JSAeIZqlcnQ8mn7Dy8SNcKDYY6PgXaqbhij9Fx42uIAIdlM3LQASHvRtTA771I9FPmpAAP6J5E/FvORpyKsUZD8D3W/d7t+mNWWvkGw==;o3GGyYf57dfY9MinZjiuVQ=="
 ---
 

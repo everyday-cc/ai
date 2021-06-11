@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 related:
   - title: "At CAGR of 29.5%, Global Computer Vision in Healthcare Market Share Projected USD 2,384.2 Million Revenues by 2026: Facts & Factors"

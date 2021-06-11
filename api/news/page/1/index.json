@@ -2,6 +2,211 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-12-can-we-afford-ai.md",
+      "title": "Can we afford AI?",
+      "excerpt": "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/market-analyze-e1623419360531.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
+      "publishedDateTime": "2021-06-11T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-ai-weekly-ai-helps-companies-design-physical-products.md",
+      "title": "AI Weekly: AI helps companies design physical products",
+      "excerpt": "AI is increasingly being used to assist engineers in creating physical products -- a potentially positive development for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/ai-weekly-ai-helps-companies-design-physical-products/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/ai-weekly-ai-helps-companies-design-physical-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/ai-weekly-ai-helps-companies-design-physical-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/ai-weekly-ai-helps-companies-design-physical-products/amp/",
+      "publishedDateTime": "2021-06-11T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-this-ai-system-learned-to-understand-videos-by-watching-youtube.md",
+      "title": "This AI system learned to understand videos by watching YouTube",
+      "excerpt": "Researchers at the Allen Institute and University of Washington created an AI system that can understand the sequence of events in videos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/08/youtube.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/",
+      "publishedDateTime": "2021-06-11T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Outlook, Competitive Strategies And Forecast up to 2025",
+      "excerpt": "Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-transform-2021-puts-the-spotlight-on-women-in-ai.md",
       "title": "Transform 2021 puts the spotlight on women in AI",
       "excerpt": "VB Event Elevate your enterprise data technology and strategy at Transform 2021. VentureBeat is proud to bring back the Women in AI Breakfast and Awards online for Transform 2021. In the male-dominated tech industry,",
@@ -103,6 +308,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word.md",
+      "title": "Facebook’s AI can copy the style of text in photos from a single word",
+      "excerpt": "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
+      "publishedDateTime": "2021-06-11T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -450,7 +708,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -993,240 +1251,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-q2-competitive-update-the-ai-cambrian-explosion-rolls-on.md",
-      "title": "Q2 Competitive Update: The AI Cambrian Explosion Rolls On",
-      "excerpt": "A lot of new AI Silicon and Software has been announced since March and it can be tough to keep track of it all. To help users, vendors, and investors keep track, our June Competitive Landscape Report is now available,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c143da33a35cf456b1fed5%2F0x0.jpg",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/amp/",
-      "publishedDateTime": "2021-06-10T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources.md",
-      "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
-      "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
-      "originalUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-alibaba-drives-into-autonomous-trucks-market-with-cainiao-by-its-side.md",
-      "title": "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side",
-      "excerpt": "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761",
-      "originalUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1",
-      "publishedDateTime": "2021-06-10T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
-      "title": "How AI could radically change education and standardized testing",
-      "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "publishedDateTime": "2021-06-10T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report.md",
-      "title": "RCMP use of Clearview AI facial recognition service violated Privacy Act, says report",
-      "excerpt": "The RCMP’s use of facial recognition technology to conduct hundreds of searches of a database compiled illegally by facial recognition software provider Clearview AI violated the federal Privacy Act,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542",
-      "originalUrl": "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1148006029.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542?amp=1",
-      "publishedDateTime": "2021-06-10T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

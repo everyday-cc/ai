@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-wants-an-ai-that-can-pwn-the-h
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-wants-an-ai-that-can-pwn-the-hardest-game-in-the-world-100041653.html"
 type: article
 quality: 89
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -41,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
         width: 1200
@@ -77,6 +77,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI Conference Recap: Google, Microsoft, Facebook, and Others at ICLR 2021"
+    excerpt: "At the recent International Conference on Learning Representations (ICLR), research teams from several tech companies, including Google, Microsoft, IBM, Facebook, and Amazon, presented nearly 250 papers out of a total of 860 on a wide variety of AI topics ..."
+    publishedDateTime: 2021-06-08T13:05:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/conference-recap-iclr-2021/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 55
+    images:
+      - url: "https://res.infoq.com/news/2021/06/conference-recap-iclr-2021/en/headerimage/conference-recap-iclr-2021-header-1622991258808.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "PyTorch Becomes Facebook’s Default AI Framework"
     excerpt: "Facebook said it would migrate all its AI systems to PyTorch. Facebook’s AI models currently perform trillions of inference operations every day for the billions of people that use its technology. Its AI tools and frameworks help fast track research work at Facebook,"
     publishedDateTime: 2021-06-10T12:30:00Z
@@ -91,6 +105,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI Can Now Copy Text Style in Images Using Just a Single Word"
+    excerpt: "We're introducing TextStyleBrush, an AI research project that can copy the style of text in a photo using just a single word. With this AI model, you can edit and replace text in images. Unlike most AI systems that can do this for well-defined,"
+    publishedDateTime: 2021-06-11T16:08:00Z
+    webUrl: "https://www.publicnow.com/view/FADABB81DD2E53EA62DBA9553AFA53CB1EE4A8E1"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 21
 
 secured: "EvvZdgI62Lqm6moQRitD2S+7bua6YvpMC60r7BCbGsGCMQrQGWmjw/Hucw+8EvNHKbCtuTSX1LY6fytOamhPuFX2Oi2hVCuo8cGcrnJ9DAcLFn8IPjgQvpvbsfNVCn1K5NX3L1+V47aZRrM5u4nWrFVRjR1QXs39hjR0tTbifEt38WkFFBKBkEPKgSgb2oNvNCackACkUN3isrBhE8qn1Uj4RiZELf1mwjQY6X4Zo0jF8F9PNg+rkCkU2YkDi2ReLVCD1hB03CJ9p4dkUOwd21xrWHE2f7S4hARfvbFWrlETBrOlrZcsC41VzLIxmZnRNMJrZqXHl/8WL2DyxdkNpPNF+FvSsVM01D0HwxgzQwkTQwbe93qRJbteAANAY757K9aS4Hn6J591XmFbhwvLADuxdOJAFgWBXxNRrGydMjGknQvGvxLK8rnmItngguuZ2g1jCiN2pqDZn0OCMyD+p4rI24TEk6f8Y/Wjekp0ZEOPHsvdS/1LTVhKD9g3Xqs2AumfrwExARpaNp41daCQUA==;FBzVRs/ODDtD+hiKAbKM8g=="
 ---

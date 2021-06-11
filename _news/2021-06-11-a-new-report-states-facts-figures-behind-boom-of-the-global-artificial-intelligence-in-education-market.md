@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Machine Learning, Big Data Reveal New Theories of Human-Decision-Making"
+    excerpt: "Large-scale experiments and machine learning can bring new insights into the theories of how people make decisions between \"risky choices,\" according to a report published in the June 11 issue of Science."
+    publishedDateTime: 2021-06-11T21:08:00Z
+    webUrl: "https://www.aaas.org/news/machine-learning-big-data-reveal-new-theories-human-decision-making"
+    type: article
+    provider:
+      name: AAAS
+      domain: aaas.org
+    quality: 39
+    images:
+      - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-06/news_061121_decision-making_teaser.jpg?itok=Oh5Fnkku"
+        width: 440
+        height: 440
+        isCached: true
   - title: "Massive Slate of iRacing AI Updates Set for 2021 Season 3"
     excerpt: "Racing’s ever-expanding slate of AI content continues to grow for the upcoming 2021 Season 3 build, set for release on Wednesday. Multiple cars and nearly 30 track layouts will be making their debut with our virtual racers,"
     publishedDateTime: 2021-06-07T15:25:00Z
@@ -85,6 +99,6 @@ related:
         height: 350
         isCached: true
 
-secured: "hrKMO2IOFUK5hqsEgkbLQnKngoQ6BD+VXN3WbPqWKwkJEMm4AuQV8pdW/cHuN552OS5x+Gn324B8UNp4oEKKxhFKw6xNtbloCYs350jl1Wp+eH9XX2Tk+/YAUi/jBqXqrJ9AiYhtTfBrWsGn0OmtAN2lNsjIQYTLfM1LS7uMOVBDumY3n+Hh1vXXUUQgi3BxPCt5/Ch6kwtK5v5UBMZWzSOnxMwD/hWgWoPjLdlzHiuI5GK8y8Q0VRVBp+zu4fJU7f21PEjXV0xm6US8PmT1qM60caXuVbTQ0gFbgSFGZJdAmHwA3AZka+xGuEbT3KF5vRb4S+XxKFUt9Ef8uXwy+d2uy5pgszkRi3pDdXOzTHM=;D6nu7uZnAzISxr+ohazG5A=="
+secured: "ZjWSZ3jguDCvOYaLzrHfBJRlXs01BVM2X7CWK8eEN4p+mgozMLMV3IbQU3OVGlZz79KLIl/grjsUJJhfWGba11qR7uLz2ZR0tEekmQuzRowSdqV+gbHnVMWH1BSLzYjkZ3LsEuW9arme2Ryy36MKdCMCEi4vWmNsCOYurIKcOFIOaK+ko3ZE/+hp0Vtbvm2wvDPg3sIYcpzZHHNSOAztgAX7YZMTEN8HrgXNM805PB3bQBPCJEU93GS13ZrEjwqq8rM/Qz4N/K5OhNlS0yEMEp7sihA6OLzs9uik00Db5EbyW4oAFikTT/2RoBy6wkyB9VryFVBDw6NgNG4hEmv9a0XtffO62oScmA1yARzhPCUNFT+2Bi1uIoCV5sAu10JJyjlL1ZlvfOvkKGsbZcIeuFwW7BdHKbvpqmW79kT1k/WAf1X56rSlQApNcDnQW92MEstYDcQQEHfOIQkaHGYikMJFx/Kx8lzSSPTngABRZ/LgoQ3RhrKB3dWQIVX8mGDTYOZvKOwz7TZ9kqPY417tLA==;4GMZo/Z0C9jLb+GoNZdDyw=="
 ---
 

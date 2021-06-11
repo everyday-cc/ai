@@ -24,7 +24,7 @@ related:
   - title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
     excerpt: "Beep – a provider of multi-passenger, electric, autonomous mobility solutions – today announced the launch of Yellowstone National Park's first-ever autonomous shuttle"
     publishedDateTime: 2021-06-10T12:04:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
     type: article
     provider:
       name: WFMZ-TV

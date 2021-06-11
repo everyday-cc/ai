@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/06/210610162405.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/06/210610162405.htm"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "COVID-19 Linked to Alzheimer’s Disease-Like Cognitive Impairment"
+    excerpt: "Combining artificial intelligence technology with data sets related to both Alzheimer's and COVID-19, researchers were able to identify a mechanism by which coronavirus can lead to Alzheimer's-like symptoms."
+    publishedDateTime: 2021-06-11T19:02:00Z
+    webUrl: "https://neurosciencenews.com/covid-19-alzheimers-18610/"
+    ampWebUrl: "https://neurosciencenews.com/covid-19-alzheimers-18610/amp/"
+    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/covid-19-alzheimers-18610/amp/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 59
+    images:
+      - url: "https://neurosciencenews.com/files/2021/06/covid-alzheimers-neurosceinecs-public.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "aUzBRXtoVDhV6r13RzKRP9w68ZjAIFsTadSaVCYIxlIPOpBa747TzzQZfXAJQMzPZ9fDXTgqMMxj/yF2moEBaZghMjsv7y6c0DbfgxdZqd3PDNxfb2dGT7gdCDQzILA9Nr0gt8IV8LoKLwxJIgKOucQ93uP7P2veycw/OM64sNQNv4Pf0t4PDBkNzbgB1VuB1LeGnHOR7TOhgw4QyPgzSFdJ28YIAHsZM1EZ0oZSsrNjc3MT4gOdGS3yOXkJHcidJjt/hz1w9sB2NrvnqM+ckCeNPlCC/Rc/lLu/zDhU1f81q8CABE277vggcDWpT0Hxh6hNh3dd5YV3FrpUSS9NHW1XGjPKDsGb+7Q/kvcjGa4=;yeC+g6kTriJLpCxEmX6sZg=="
 ---

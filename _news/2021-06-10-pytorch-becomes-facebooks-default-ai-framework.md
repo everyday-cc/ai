@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook’s AI can copy the style of text in photos from a single word"
+    excerpt: "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images."
+    publishedDateTime: 2021-06-11T17:59:00Z
+    webUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/"
+    ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Facebook wants an AI that can beat the 'hardest game in the world'"
     excerpt: "Facebook is asking for the AI community’s help in bringing low NetHack — one of the most notoriously difficult titles in gaming history — and maybe help computers learn to simulate instances faster using fewer resources."
     publishedDateTime: 2021-06-09T10:33:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bf6bd2a0-c89c-11eb-aeab-eddcf4a62c67"
         width: 2400
         height: 1260
-        isCached: true
-  - title: "Facebook’s AI can copy the style of text in photos from a single word"
-    excerpt: "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images."
-    publishedDateTime: 2021-06-11T17:59:00Z
-    webUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/"
-    ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
-        width: 1200
-        height: 700
         isCached: true
   - title: "This Facebook AI can deepfake text style in an image even from a single example"
     excerpt: "Facebook today has announced its TextStyleBrush AI research project. The new TextStyleBrush AI can copy text styles from images and effectively reproduce new images with the same replicated style."
@@ -87,6 +87,29 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI Conference Recap: Google, Microsoft, Facebook, and Others at ICLR 2021"
+    excerpt: "At the recent International Conference on Learning Representations (ICLR), research teams from several tech companies, including Google, Microsoft, IBM, Facebook, and Amazon, presented nearly 250 papers out of a total of 860 on a wide variety of AI topics ..."
+    publishedDateTime: 2021-06-08T13:05:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/conference-recap-iclr-2021/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 55
+    images:
+      - url: "https://res.infoq.com/news/2021/06/conference-recap-iclr-2021/en/headerimage/conference-recap-iclr-2021-header-1622991258808.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Can Now Copy Text Style in Images Using Just a Single Word"
+    excerpt: "We're introducing TextStyleBrush, an AI research project that can copy the style of text in a photo using just a single word. With this AI model, you can edit and replace text in images. Unlike most AI systems that can do this for well-defined,"
+    publishedDateTime: 2021-06-11T16:08:00Z
+    webUrl: "https://www.publicnow.com/view/FADABB81DD2E53EA62DBA9553AFA53CB1EE4A8E1"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 21
 
 secured: "EkAeb+W3c/piHdzK4+4wY6tI7uKgKyyFFPt8sF2n7h0QTjmROH7uDP8QIuAx6oCAjw5tFHkBFxYxgK0PPsZYl8+OG9vA0B2O3rsbZdyVFwUorPqyaksWQmueolK0BD/dE7dcz00X6up5GaRmtg58CO1EFdt11B8zzVDU2bc6TuoquwA46EIhgTYq8L3EnikYPiaYNJYRULikPcgGowvyx+Wmdj/jScvMjNuEGI3qLl0d7m4sNDEVm+lX5tMpikItVw32VSxvZm9PIdRw/ArJQMGQbWFvL+um2FEpjXQljNPqQkMfSbwniNIJpwRYVZsTX6ujJi2sm3gCq6xgxvNQ54h32Q8I38XwEDrmiaupKXmHfmSbOiOO57tZxgHYM7WtP9w0axT6Yq4BGZMKGeOEnX7ygaGYhly+4EIdloxEdfFuTIOJpghPbaXwI/avgz77eZDVT05k2JkZhXRYFc+ptEIU+Fy7kjWRsfoU58LtG1YyQHpMuz/9JOWYyaMCNMZSVD7cS+oFoxE++7suKRx+qg==;iTI6B4CPB5gtPE0ipVQ2NQ=="
 ---

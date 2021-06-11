@@ -2,6 +2,196 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-05-11-apex-takes-dell-beyond-just-storage-as-a-service.md",
+      "title": "APEX Takes Dell Beyond Just Storage-As-A-Service",
+      "excerpt": "Senior Analyst, Storage & Data Steve McDowell dives in as Dell Technologies has jumped into its introduction this month of its APEX infrastructure services offerings. Dell's APEX spans the gamut of on-prem consumption-based storage through custom cloud-based managed solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609ae83af07b601f6d705852%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/amp/",
+      "publishedDateTime": "2021-05-10T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025.md",
+      "title": "Face Recognition Systems Market Analysis and Demand with Forecast Overview To 2025",
+      "excerpt": "Selbyville, Delaware, Global Face Recognition Systems Report offers market size, share, overview, segmentation",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-autonomous-vehicles-market-size-to-surpass-us-55527-billion-by-2027.md",
+      "title": "Autonomous Vehicles Market Size to Surpass US$ 555.27 Billion by 2027",
+      "excerpt": "According to Report, the global autonomous vehicle market size is projected to surpass US$ 555.27 billion by 2027, with registering a CAGR of 39.20% from 2019 to 2027. The global autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/140568/autonomous-vehicles-market-size-to-surpass-us/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/140568/autonomous-vehicles-market-size-to-surpass-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens.md",
+      "title": "Tech Moves: Tanium hires CFO; Utrip founder launches VC firm; AWS IoT exec joins Siemens",
+      "excerpt": "Cybersecurity giant Tanium appointed Marc Levine as its new CFO, effective May 17. He was most recently CFO at RSA Security. Levine previously was CFO at C3.ai, Athenahealth, and Blue",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens/",
+      "originalUrl": "https://www.geekwire.com/2021/tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/05/Marc-Levine-headshot-300x300.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens/amp/",
+      "publishedDateTime": "2021-05-10T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-3-ways-you-can-start-relying-on-deep-learning.md",
       "title": "3 Ways You Can Start Relying on Deep Learning",
       "excerpt": "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ...",
@@ -1001,186 +1191,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-china-tech-giants-bet-us19bil-on-global-electric-car-frenzy.md",
-      "title": "China tech giants bet US$19bil on global electric car frenzy",
-      "excerpt": "SHANGHAI: China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost US$19 billion (RM78bil) into electric and self-driving vehicle ventures widely seen as the future of transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carsifu.my/news/china-tech-giants-bet-us19bil-on-global-electric-car-frenzy",
-      "originalUrl": "https://www.carsifu.my/news/china-tech-giants-bet-us19bil-on-global-electric-car-frenzy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/05/2021_Shanghai_Auto_Show.jpeg",
-          "width": 964,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CarSifu",
-        "domain": "carsifu.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign.md",
-      "title": "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign",
-      "excerpt": "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-301286778.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-301286778.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-chinas-tech-giants-bet-19-billion-on-global-electric-car-frenzy.md",
-      "title": "China’s Tech Giants Bet $19 Billion on Global Electric Car Frenzy",
-      "excerpt": "China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. Ltd. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen as the future of transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-05-10/chinas-tech-giants-bet-19-billion-on-global-electric-car-frenzy-101709053.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-05-10/chinas-tech-giants-bet-19-billion-on-global-electric-car-frenzy-101709053.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-05-10/1620633529179260_560_373.jpg",
-          "width": 560,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice.md",
-      "title": "Artificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice?",
-      "excerpt": "Is it possible to teach machines to smell? You might be surprised to learn that we’re already doing it? Find out how digital olfaction mimics real human odor detection, and how this tech is being used in today’s business world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6098b3bc2cd0e76d77a5e166%2F0x0.jpg",
-          "width": 1199,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/amp/",
-      "publishedDateTime": "2021-05-09T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

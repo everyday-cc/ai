@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-12-can-we-afford-ai.md",
+      "title": "Can we afford AI?",
+      "excerpt": "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/market-analyze-e1623419360531.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
+      "publishedDateTime": "2021-06-11T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs.md",
       "title": "Tecno Spark 7T With 48MP AI Dual Camera Launched In India; Sale, Price & Specs",
       "excerpt": "Tecno has launched the Spark 7T in a single 4GB RAM and 64GB storage configuration which is priced at Rs. 8,999. However, as a part of an introductory sale, the device will be available at Rs. 7,999.",
@@ -1401,49 +1453,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-nvidias-next-major-wave-of-ai-revenues.md",
-      "title": "Nvidia’s Next Major Wave Of AI Revenues",
-      "excerpt": "It is a good thing for Nvidia that most of the hyperscalers in the world – or at least the ones that matter – also have substantial public cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/",
-      "originalUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg",
-          "width": 937,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/",
-      "publishedDateTime": "2021-05-26T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

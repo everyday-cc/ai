@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tweaktown.com/news/79860/ai-automated-our-space-weather-
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79860/ai-automated-our-space-weather-predictions-with-just-one-simple-trick/amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TweakTown
@@ -42,20 +42,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-8.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Holes in the solar atmosphere: Artificial intelligence spots coronal holes to automate space weather"
-    excerpt: "Scientists have developed a new neural network capable of detecting coronal holes based on data from space observations. The new application opens up opportunities for improving the accuracy of space weather forecasting and provides valuable information for studying solar cycles."
-    publishedDateTime: 2021-06-07T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/sios-hit060721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/267059_web.jpg"
-        width: 720
-        height: 720
         isCached: true
 
 secured: "qUNpxmR9W0sYCliCTZs4DZGleXDtBlNIcYWGO/dV2nFU4L1eJMvSgS30RR7i4GbOrLdpGG10/DWWQpCBOwDKvTD2YwePGAMm8t97Kh4r0scaUZOuemizzKLlgi8nf6ElWXwm8wu0i9cQH81z/VRZWGerZhanaF3hkEsqA7EGSF+Z54kcZcZ8aC/efkZlBoVZ+ZiPCTq3+/QCKwzEqNBB+p2TqfZ20HaJRErdkQoWiIjgu63b5nUhz1zLz10rtQ/UXBss5N0PxXviBM/GLTbtnKiB+HHetUXfU98jUPUAw/KpryphNnHXn12fKo6/yyKgk+2mfRybfhQyznJbxmYsIzW3g6Ukv3IWo58pHbK41/k=;RdSLZX9Pk/yBTu13zd4k/w=="

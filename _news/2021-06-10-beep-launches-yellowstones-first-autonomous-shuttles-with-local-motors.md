@@ -3,8 +3,8 @@ category: news
 title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
 excerpt: "Beep – a provider of multi-passenger, electric, autonomous mobility solutions – today announced the launch of Yellowstone National Park's first-ever autonomous shuttle"
 publishedDateTime: 2021-06-10T12:04:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
 type: article
 quality: 24
 heat: 24
@@ -51,6 +51,6 @@ related:
         height: 800
         isCached: true
 
-secured: "O+5cxX6UfmXtTvT34V1Em4kvGoqSCVzZRi6IWmiYsamZLnhCUPrl+AIkly1ICcY7I0Hf8vM0FpGHLeqepcR2kGFokX6dBUu+RTEPn5ErOJuPaYdrTwK3JCPcQ9nCZ6BTfaGC8QSmROiCtw8gVzV5xePUlxtLxcujte7wpZIdn+NgX/eSLbGNOzAwbI8iYoLAoaiviHzC9DDhRYZdc4AewmDglS9o2rD3kPjEDgW2PNm+jZ2tOwew8ghh7ORUz8J/cON25B6M/dYnAP0M31jOmaA5xOycJczn0b1ONFQOhZdavYZXA/3aWD9alAiGBuW4ZjYPVVX3W6JZ3ywFjTM1ZoJMuKuciQx8pLc3DOqtKAlwHQTJgBerfSLZeugEZcEj6swe0n+q2HQjAaKFPObbs3OpYLiZw+4J650nP4Vu8lHssjFInCmonWMAkqlpLlCbpVPljbhHhaRsUvr39Pf5JF/hoGTvAoArWOFuZcf0AkxrMZwvw8t+oPl34sQj+L1uWhMfz0zwbkrCKMHp+k8Jgw==;cGEYOiYAr0L4YSHkja2hBQ=="
+secured: "s1zD9P8p/g5QJRpVPMJaSfqhF+e70HoV2ne1K6XExiLrtjS25wFsNj6myklHP7azfmxmCiKJUVgqIYGavk8xhtBL048TjYZKBVCjxz317z3ePrkhUxuQz1n7b4O2Qdhf7Ah1OazPtQ07ddFtSLa/NiEm39xSaPRs3OE1GKIdjl05t/b7jA9OzDD6rWCLRgpZokuLb3Wimp/YkGfEg0OzoaDS8+Q+92zWgUqZonCnBKl3NEprQAnN/fCOgth0/Qq3Ub8Zt5ZrTL1BoMfGlRG53wp3f4AOw8iKeJZg1StrgC36Zj9m4H+zfJ7N36SswhF0YpYKQL+7pSxROQionZtZsNK5uCleW3egyDbREj4RBGc=;wbUkxmqMs7y3zzuKOUZuEg=="
 ---
 

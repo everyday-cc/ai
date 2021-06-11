@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Investors pledge to address human rights in facial recognition technology"
-excerpt: "A group of institutional investors and money managers representing $4.5 trillion in assets pledged their commitment to address risks raised by facial recognition technology products and services. Launched by money manager CANDRIAM in March,"
+excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
 publishedDateTime: 2021-06-08T14:19:00Z
-originalUrl: "https://www.pionline.com/ja/node/958346"
-webUrl: "https://www.pionline.com/ja/node/958346"
+originalUrl: "https://www.pionline.com/esg/investors-pledge-address-human-rights-facial-recognition-technology"
+webUrl: "https://www.pionline.com/esg/investors-pledge-address-human-rights-facial-recognition-technology"
 type: article
 quality: 38
 heat: -1
@@ -212,6 +212,6 @@ related:
       domain: timescolonist.com
     quality: 10
 
-secured: "fMLNs76dXdvPz8/TtX25OTvnw0NClgtiAkey6DRct/s45jJTuQayXSnL82K87AnBbJW5+vE/pixl2HRq2SbJsqdZ7Nw+y2JsaIb113ZeZNUNZMcOhCEfKSf3pNgQ+W+rJvUgWubBR6a/4D95Th953H4ofS9/hnr+fnOobXBjUAatwwLRaUqr6ztsYgahC9WmhoWhWSVfH53V3+cySJUFZsfscUkY4CiQfXHkrFJQegxi/WA5OdemmxwPuyflEtiiRA84gZ1hik5LBkmc1p3PSIleOK50Lo5xYYnhKRSODe6iTQQdaRK/4yn1puyHUePSp+nn73fKCz07gSP/2/roglz+g2fgt1HatCAY3OHP/wQ=;uKcv+tqei5nX0iRhSvYYLw=="
+secured: "zaoFcynLsw0LvPKDOdVoMkDKS78H1pjLY5CJJkKLhkhqXGlWCHkvVQUNpTtEq2NUTCz8S4mg3E3/7T9j6W++oR0BQO/GlF+UwIlk6vTPd099VYykQ/6U2rZaqBrSg6vxr2zr9smKujYFnqN63hUgy5BRLD6hBf+u13ogg5jNJuaUu81avs9/+UrmapQAtAmMmmzET0wZbhYGeHVPyFu5HlXkU7tmOvLHC7QFB/CIJlpztHEBWmijXZEnBvsPFCk/QzG9pTLHPjtx+0zl4s6mF5qnwghjsjDgpompCXacODIokg63lCC8QJtfbrgJIHc9PMSY1BHx8rw3+WrbVGahLVgeOE7a36Ej7uIDqx90gWQ=;qAR0mBcQ1p3jin+vRzbajQ=="
 ---
 

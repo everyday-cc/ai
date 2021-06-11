@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Dataiku Now Available in the Microsoft Azure Marketplace"
-excerpt: "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac"
-publishedDateTime: 2021-06-01T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
-webUrl: "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace"
+excerpt: "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft"
+publishedDateTime: 2021-06-01T23:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "7zk0Dirypq5FgTc3PcS10EHLF9meTgz3jriDMKfysWtIoHq1MgTpAq8/HrJ5ZjcE+cIubF6KqTPf3mDyu9uFymk5IiTGDGId/U+pA76XaaMXBWGBNo/IB6DM7jA2U43nGSGEzsAcWJ4O+pYFLc/RM1LBE5jSzR8dFt5Zxs0cNrQjFgfi4yIJ9IiA6C10Wsu+5JhaoCSB4dMWfdyuWipDFDiJ2vo7xSow8FJmzMw+puFSuRUfwFTmjjD983rVRTcEfb/7mh9EYw+usL5N4JzjEnCPiNnRJEvvZiNXdQXLaTdK9tBPIJ2VUgnb2QtuYUjD2GY22xkwdwsLH9Tik1X3n3DpqNzuhpKVlVdWpxN6XNI=;qgqEtV2QJ+xY9T5vVZud2g=="
+images:
+  - url: "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
+
+secured: "n58Mm7ug8TZUipWh7OykLAzypd3bXlg9uMeWKNRusBTIRgCztHMrpY3cEjpd7xUA6iasxIMlYLqhlbgTYkqs4ih1RHOgHfo/pUcRZ69/9pKAHQZYeuEqN+SBULpE/2npCXb3w1SOMsVvz8Zcr+5KYEAXfqqSBipFAkK/eVNhMRmR4QZduEJHM2qAsbEMu/VNuFcZqwui+Y+CNNLXp33rkUf5fXCzykrZqEAJG0KdX0LimjKlKh31HuTZdcgOj7by+jepFdkF3rE4vJKuQtOwIxwlfGkkTjEJGqHx7VSTnwy2iRHKhctDuflK9SIqtsMt+rM1fA5HpTnjenwtdVEkEE4jlQdRwghYi9SsQ5JQKUo=;C5PaPxaIo58qwWXmmzRKdw=="
 ---
 

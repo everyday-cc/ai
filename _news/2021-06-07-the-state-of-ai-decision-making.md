@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning, Big Data Reveal New Theories of Human-Decision-Making"
+    excerpt: "Large-scale experiments and machine learning can bring new insights into the theories of how people make decisions between \"risky choices,\" according to a report published in the June 11 issue of Science."
+    publishedDateTime: 2021-06-11T21:08:00Z
+    webUrl: "https://www.aaas.org/news/machine-learning-big-data-reveal-new-theories-human-decision-making"
+    type: article
+    provider:
+      name: AAAS
+      domain: aaas.org
+    quality: 39
+    images:
+      - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-06/news_061121_decision-making_teaser.jpg?itok=Oh5Fnkku"
+        width: 440
+        height: 440
+        isCached: true
   - title: "A New Report States Facts & Figures behind Boom of the Global Artificial Intelligence in Education Market."
     excerpt: "The global research report titled Artificial Intelligence in Education Market was published by Absolute Markets Insights . The study elucidates current market statistics, in addition to underlying future predictions of the Artificial Intelligence in Education Market."
     publishedDateTime: 2021-06-11T11:07:00Z

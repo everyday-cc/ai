@@ -1,22 +1,26 @@
 ---
 category: news
 title: "AutoBrains Revolutionary AI Central To Leading Supplier's ADAS and AV Growth Strategy"
-excerpt: "Israeli artificial intelligence startup, AutoBrains, today announced that its revolutionary unsupervised AI technology is at the center of leading Tier 1 supplier Continental's growth strategy in the advanced driver assistance system (ADAS) and autonomous vehicle (AV) market."
-publishedDateTime: 2021-06-11T18:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9389105.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9389105.htm"
+excerpt: "AutoBrains revolutionary unsupervised AI technology is at the center of Continental's growth strategy in ADAS and AV. AutoBrains is the creator of a novel AI for the automotive industry capable of overcoming the hardest challenges where current systems are plagued by barriers and will establish a faster technology trajectory for ADAS and AV systems."
+publishedDateTime: 2021-06-11T17:25:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/autobrains-revolutionary-ai-central-to-leading-supplier-s-adas-and-av-growth-strategy-1030516604"
+webUrl: "https://markets.businessinsider.com/news/stocks/autobrains-revolutionary-ai-central-to-leading-supplier-s-adas-and-av-growth-strategy-1030516604"
 type: article
-quality: 10
-heat: 10
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "I911u3Dnr0mQEw2gVO74csrxO9WDjaM6IQK7Vb/tmGARw6xk/WQvxNi7MDsAJZ4SKPcZtWDtqadmFnQCAdJFCeoe7mdT6jsfP1c2B0f+IfkOHFuL5FkLvzkNMeDT9jo1Cv2ATL5PyTskbu51xpS4J8rGTLRdRE0ZzFOepq8UCMYIN0UfPCGNzMPala06vzmU0IGs8zuPqF1Ai32aA9WrKRFgp+cJvkEYisSSmuQ1+Po0rislyhw6C4Hsh5anLL/hol01NB4c7xfEHbsbAUesp59CTh6+TklMyYOwvSqbTgQ2rjoApTPaZgz6N2PRrH1MqczZdIx1lKMEDO3duQWe2TnArc4Zs+zk2T1OH4vPO4I=;5HT0oavK/Sb/YnmRrjPD1Q=="
+secured: "vbg9bPzW+goMOygXChoW/g6KPjzHg986SQpJLNjU2h83Bx01Nnuvvga25DRxKigMXwK6wW+Laxj3C0vGfILpf1UOPTLTSimOX+oqEH+xqSoS+sg6fvKP3fqBEK+9V4emObXWl4b6mVRDHIFfnEhmGFmbtbdAF32dRJCKrAwwTSZQ94xUndizIHzkQIdynqOYKjA3yPrtDTew7pCAmMXFoBtBZU9d2W1Ia34bn/S7MvLpvng+vkBrFKIiSH1NIxSUH/JAlr3tysuuXNX3vRRWanQ9O//G8Q6SLSVrcYDYR+rhrjs5n3YUEsW2vfExwRRu5ZoLt8dNgAfwCQE76W4z6h1k6XT5z8dbR+aMWc9tkKo=;cjpFfAmAjgYaKyL79uGnFw=="
 ---
 
