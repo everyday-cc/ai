@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-ha
 webUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

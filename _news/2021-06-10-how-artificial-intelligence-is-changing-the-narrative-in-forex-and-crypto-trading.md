@@ -9,7 +9,7 @@ ampWebUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-c
 cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Does AI Perform Crypto-Analytics?"
-    excerpt: "AI has also brought itself into the game of cryptocurrencies by introducing AI coins initially. Today it has also stepped Crypto-Analytics."
-    publishedDateTime: 2021-06-07T06:46:00Z
-    webUrl: "https://fossbytes.com/how-ai-perform-crypto-analytics/"
-    ampWebUrl: "https://fossbytes.com/how-ai-perform-crypto-analytics/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-ai-perform-crypto-analytics/amp/"
+  - title: "How AI Is Tackling Waste in Factories and the Supply Chain"
+    excerpt: "The answer, as with so many other aspects of business today, lies in artificial intelligence — in this case, its ability to eliminate industrial waste in manufacturing. Stephen Pratt is chief executive officer of Noodle."
+    publishedDateTime: 2021-06-07T11:31:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/33199-how-ai-is-tackling-waste-in-factories-and-the-supply-chain"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 37
     images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/06/AI-1.jpeg"
-        width: 1200
-        height: 725
-        isCached: true
-  - title: "Before Jumping to Machine Learning, You Need a Solid Analytics Foundation"
-    excerpt: "In this special guest feature, Michael Simms, Practice Director for Data & Analytics at Columbus Global Services, discusses four important elements of an effective data journey. Mapping a data journey provides awareness and understanding of where your organization is to ultimately get where you want to go,"
-    publishedDateTime: 2021-06-08T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/06/08/before-jumping-to-machine-learning-you-need-a-solid-analytics-foundation/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 38
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/1020_ChinasFashionProblem.jpg?height=635&t=1603158179&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "n6CE5xrz6KsSGj2/LARgMdwVtD/A/7t34Ti3D5Oj3mFAsNyh8rg6DQW4rqODUtbkHpuP8aPQtlpI9mUdUKPrLjyUAp3yr5VVuFR6Kpyjk0p9Lh066Wcf8KiLqv5TxqmukRNQE+hHZZB6Z/b5zsdP0W9qMldt+XHEH9iITbpTnRzCxNXNc18DwTmWsoWaaa3MOKqrWyU0MkZpJZDer/HJ4vNOD3H7tVt4k6hH0bJ6TXUqt+jU1yisPJUHhvXSGUbWLpDdYAD3Z3dWA9LN1NIDrTHJzpLhPaCIWbKIOZqGDMRTlV7I8whAxmuCuuNmHoO4V5cSAEe23MllOymJYSldU/q++Myju5yh2Foix+/UaJaO/uvrbSIVyFZUFtS+G/8+uvATiazL8dL4vlH+QsOuugxkzH2zXjFjlVpf/yzv0HeMZ9U9Pczc81N8PnMkAjyBFIwEhfDo2QZk26DOm9mQZucldMEhfTQ325M/ldSwPMxaVbSGz58wJOrovdKUtlSmbW8usSMqBB5wmQcOQNa5+A==;P4w59eUE3kH7uxH5EH9JJA=="

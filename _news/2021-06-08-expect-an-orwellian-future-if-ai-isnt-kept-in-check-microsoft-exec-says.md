@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livescience.com/amp/orwellian-artifical-intelligence-fut
 cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/forward%20thinking%20on%20artificial%20intelligence%20with%20microsoft%20cto%20kevin%20scott/mgi_ft_kevin-scott_hero_1536x1536-option1_vf.png"
         width: 1536
         height: 1536
+        isCached: true
+  - title: "Microsoft claims AI is neither artificial or intelligent"
+    excerpt: "The Vole nose Microsoft researcher Kate Crawford has told the Guardian that AI as we know it is neither artificial or intelligent. Crawford knows her brains she studies the social and political implications of artificial intelligence,"
+    publishedDateTime: 2021-06-08T10:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
+        width: 620
+        height: 467
         isCached: true
   - title: "Abu Dhabi Terminals and Microsoft launch AI partnership"
     excerpt: "The companies will use Microsoft’s Azure cloud to apply Artificial Intelligence (AI)-based smart tracking, enabling 100% traceability of containers handled at the port. The technology also opens the door to launching an autonomous vehicle system at the ..."

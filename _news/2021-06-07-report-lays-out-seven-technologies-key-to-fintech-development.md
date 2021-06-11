@@ -71,20 +71,6 @@ related:
         width: 690
         height: 493
         isCached: true
-  - title: "How The Indian FinTech Is Using AI"
-    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
-    publishedDateTime: 2021-06-06T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
-        width: 1600
-        height: 800
-        isCached: true
   - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
     excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"
     publishedDateTime: 2021-06-07T11:25:00Z

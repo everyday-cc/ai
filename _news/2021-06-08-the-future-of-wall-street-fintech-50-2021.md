@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://therealdeal.com/wp-content/uploads/2021/06/ft-CRE-fintech-startup-Blooma-nabs-15M-in-funding.jpg"
         width: 690
         height: 493
-        isCached: true
-  - title: "How The Indian FinTech Is Using AI"
-    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
-    publishedDateTime: 2021-06-06T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
-        width: 1600
-        height: 800
         isCached: true
   - title: "Report lays out seven technologies key to fintech development"
     excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"

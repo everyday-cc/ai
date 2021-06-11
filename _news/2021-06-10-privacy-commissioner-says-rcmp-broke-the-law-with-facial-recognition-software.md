@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "RCMP Fails to Explain How It Used Clearview AI Facial Recognition"
+    excerpt: "Canada’s privacy commissioner today issued a report after its investigation into the RCMP’s use of controversial facial recognition technology Clearview AI, finding the force violated the Privacy Act."
+    publishedDateTime: 2021-06-10T23:29:00Z
+    webUrl: "https://thetyee.ca/News/2021/06/10/RCMP-Fails-To-Explain-How-It-Used-Clearview-AI-Facial-Recognitio/"
+    type: article
+    provider:
+      name: The Tyee
+      domain: thetyee.ca
+    quality: 54
+    images:
+      - url: "https://thetyee.ca/News/2020/11/19/MPCharlieAngusProfile.jpg"
+        width: 1000
+        height: 752
+        isCached: true
   - title: "RCMP broke privacy laws in using controversial Clearview AI facial recognition tools, watchdog says"
     excerpt: "Privacy commissioner Daniel Therrien said Thursday that the RCMP committed a “serious violation” of Canadians’ privacy by using Clearview AI’s"
     publishedDateTime: 2021-06-10T16:20:00Z

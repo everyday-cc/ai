@@ -123,6 +123,22 @@ related:
         width: 896
         height: 503
         isCached: true
+  - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
+    excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"
+    publishedDateTime: 2021-06-10T22:52:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 53
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/QyLB9ZxvxXi9dJVjl7-UuBVJvRk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/H6FJ6MFQQRBBVMJ4SWHMMSVTLY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apple Hires Canoo Co-Founder to Work on Self-Driving Car"
     excerpt: "Apple has hired Canoo co-founder Ulrich Kranz to help lead its autonomous car project, according to a Bloomberg report. About a month ago, Kranz stepped down as CEO of Canoo, a self-driving electric vehicle startup."
     publishedDateTime: 2021-06-10T21:39:00Z
@@ -163,6 +179,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "0go+C3dZNan6Z7EOzsrqQHnwpj2Fsm5gOTKLy0w/VsO200BXBDliHo9cvy02auG9xAMCCwbgWyJg0OpeAYl2hjAWWEXAwZNxgHaMmNOhNE81knwMi/tdHtAFCPkh6Gk4FW0Li2yme/mKpXhYMN3DhYWPA2elNM6Dipu6221TpnzgBMiYNTKK6X97qLx5rhLHm0OyGoNm4oUNMqpqnx8ozmZXVd+7/aqsHDHkr9b+fTC/ZnMkkMTJGc49YAdAbkb83vpAuNFMSnIB9nmx5Znx6+oPj+F47tPYxldr7ZxDrlQzb79JRSgK1gVv+lohCupoL4ddu0hSZIgbitFPhxpx6Sg3q5e4d34HTT+nlscZxNM=;6U1M1r4TAr4n1ZR8M40gHA=="
+secured: "stH/lC/2qana5lv5CaPyhmfSaxuyKhSkko037N2/GV7iRHiipAuhWJYbctgfa6DE+l0seNcrGIx9HZYuxLGeq7VrKRaGu57QHocqyIcJvdy2mL4yUYZQK9L/sQ/txmgB/QUmQuueCDJIPiOF68AYV93po2QyQeD6SPphAs3Xp2QjKZIeEj7Q52HKjc4MG5Px6+fgryw63gUJVZZbnDGIXhY2wrV378NLCifbTHhwYqrg7RvVlf4WTksZI+APnPwgH4iuutH0iXcTPu73rxp4BWPdEuRO21vULQsx6fVZF3IcV8wwxZ2Vz8V1zllJxHezhxr1EfRH8kTRoGl5oxRWmVvY7Tm2+Mj7gN7cu5+lVM8P4Bqsv4wCo416YQ8SYE/ws3sY5XrnOjaYK6wx3saiQDvL0jjtUOzOZLS0o68WVhc6vW8TW03kASUM/1MABRpUtQejgPVuk2AkcqnQV5EUfhvtJtR+Md0+OLsD+PBlSi8yDtEe1K2F/vBls9eVO2fxRjMljSC9p50JP1F+EAir1g==;4o5fbr1C6LThNS0TmXs6GA=="
 ---
 

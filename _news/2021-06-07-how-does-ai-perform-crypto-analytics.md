@@ -9,8 +9,8 @@ ampWebUrl: "https://fossbytes.com/how-ai-perform-crypto-analytics/amp/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-ai-perform-crypto-analytics/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Foss Bytes
@@ -26,21 +26,30 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is changing the narrative in Forex and crypto trading"
-    excerpt: "You have probably already heard about Artificial Intelligence (AI) and how it is helping people across various industries in many"
-    publishedDateTime: 2021-06-10T09:45:00Z
-    webUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/"
-    ampWebUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
-    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
+  - title: "Industrial AI pioneer C3.ai partners with analytics upstart Snowflake"
+    excerpt: "C3.ai, the twelve-year-old Silicon Valley startup that is bringing machine learning forms of AI to various industries such as oil and gas, on Wednesday said it is partnering with data analytics upstart Snowflake,"
+    publishedDateTime: 2021-06-10T05:01:00Z
+    webUrl: "https://www.zdnet.com/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
     type: article
     provider:
-      name: Nairametrics
-      domain: nairametrics.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "(Weekly Roundup) Top AI, Data Science, Analytics Appointments In India"
+    excerpt: "A round-up of the recent appointments across various tech leadership roles in India. Earlier this week, Bengaluru-based analytics company Course5 Intelligence announced leadership changes across its business verticals."
+    publishedDateTime: 2021-06-06T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/weekly-roundup-top-ai-data-science-analytics-appointments-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://i1.wp.com/nairametrics.com/wp-content/uploads/2021/06/IMG-20210610-WA0022.jpg?fit=940%2C788&ssl=1"
-        width: 940
-        height: 788
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/analytics-appointment.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Before Jumping to Machine Learning, You Need a Solid Analytics Foundation"
     excerpt: "In this special guest feature, Michael Simms, Practice Director for Data & Analytics at Columbus Global Services, discusses four important elements of an effective data journey. Mapping a data journey provides awareness and understanding of where your organization is to ultimately get where you want to go,"
@@ -56,6 +65,15 @@ related:
         width: 252
         height: 355
         isCached: true
+  - title: "ListenFirst Launches Machine Learning Analytics with Instant Insights"
+    excerpt: "ListenFirst, the premier enterprise social analytics solution, today announced the launch of Instant Insights, a new analytics feature that quickly shows how brands perform across social media. Leveraging years of intelligence gathered from working with the largest brands in the world,"
+    publishedDateTime: 2021-06-09T17:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-listenfirst-launches-machine-learning-analytics-with-instant-insights-/2021/06/09/9387504.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "p78UEVWwYssct7Si/nti3pe8GKaI+K8XaJtU6DyTcCE///Vbsw4sjrJuOtIYP2xEAbBzqV+44JGvzHLRT1659RFybeY1NnMovY15EKyV1Fto0MuQIKCtwfPBnlDBrkupG5P2+xWhsdJV5xN9H/dgUHAAykiukx6u9Dv6SlNOhiGJypi5rTA1vxJ8hW9ciVnNwFpcgOxD8h/FuCqojgE0a8nBXMTMxlx3TTdE/TtvVsrvSot6k1HYmx5SveYpig6pmrUF/W8sR7jzuxnfmg4Dp/Q4rtc07bXHSytu0dhkX4s4Id2OBB7D6JM1+KEpU9n1Pr/BORlo6W3HnouHY2+ekyUlwC3JIa53ZWI3xWz7GFA=;5f5P+sN7/gh6TOz/odh82Q=="
 ---

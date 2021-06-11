@@ -41,22 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "NSW Police using artificial intelligence to analyse CCTV footage"
-    excerpt: "The NSW Police Force has claimed using artificial intelligence and machine learning helped it analyse 14,000 pieces of CCTV as part of a murder and assault investigation faster than using previous techniques."
-    publishedDateTime: 2021-06-06T05:50:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/nsw-police-using-artificial-intelligence-to-analyse-cctv-footage/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/nsw-police-using-artificial-intelligence-to-analyse-cctv-footage/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/nsw-police-using-artificial-intelligence-to-analyse-cctv-footage/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2019/05/29/50536481-eb5c-4cdf-b1bc-2484cc6e8530/istock-962263142.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "Zcrwy1WzglxkpYOaqY3LLk18Bz9por78XrWZjr6zJpVi7H4kXWwWMxvkuh+HxKt16zA//gz5acd726TQ3+2gy8q1t5ZQTbWV+h168TJHteS5B0F8+KvkgHByry/9lXAcH9tg6uIICSskhAoJoiH2+sQf00c/zFZt1FahOQc9ilINjnuJi8kPvt0Gr12aahGPcrqCPUy8MF3Bd2jVTWwiX3nL1A5DZ/Syw7b6ZMKstEr3LlHgHT7x0fgT5vN+1s7kzLXQdn2nRahckks4tK5Y48ypn6G8BMYnsy6pC15+f/XjysFwy5jahymH4BnfLqaZ4Lp3QwHgCKK6MXn0qPBK4ukq2mxjFW6AaDyGoeXJd7/tGTuG0n97/F0MS/DDIwV8oEnlan7mfN5fBzavSDSGkeVnDibSMfIVkKD+mNqmbjuZedzID6aBQA0/iyxPcMC3zDKlaW5wgQ+mdEp6iG9X1rVCgCveWmHsz0ab1GLfdeXwaKXvLlrP6EsUn5GR3w/0NPbSeQVsZfN+E1zB2+KdXA==;1A4CACPl3wP7wdN4BP/j3w=="
 ---

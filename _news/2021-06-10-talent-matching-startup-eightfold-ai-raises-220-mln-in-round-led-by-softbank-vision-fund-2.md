@@ -60,6 +60,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Eightfold AI raises $220m led by SoftBank’s Vision Fund 2"
+    excerpt: "According to the company, it will use the funds to expand its India operations, hiring data scientists and engineers in the region."
+    publishedDateTime: 2021-06-10T23:54:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/eightfold-ai-softbank-245445/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 37
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/12/softbank.jpg"
+        width: 974
+        height: 550
+        isCached: true
   - title: "The Briefing: Eightfold AI Raises $220M, PostHog Lands Series B, And More"
     excerpt: "Mountain View, California-based Eightfold AI, developer of an artificial intelligence-powered platform for HR, raised $220 million in a Series E round led by SoftBank Vision Fund II. Founded in 2016,"
     publishedDateTime: 2021-06-10T12:55:00Z

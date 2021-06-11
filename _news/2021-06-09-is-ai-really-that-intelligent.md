@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ft.com/content/dd621de6-4047-46c3-833a-b21bd2423113"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/dd621de6-4047-46c3-833a-b21bd2423113"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Financial Times
@@ -26,36 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Kate Crawford: ‘AI is neither artificial nor intelligent’"
-    excerpt: "The AI researcher on how natural resources and human labour drive machine learning and the regressive stereotypes that are baked into its algorithms"
-    publishedDateTime: 2021-06-06T07:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent"
+  - title: "The Internet, intranets, and the AI renaissance"
+    excerpt: "Virtually cost-free publication on the World Wide Web has led to information overload. Artificial intelligence (AI), with its roots in knowledge representation, is experiencing a renaissance as new tools emerge to make the Web more tractable."
+    publishedDateTime: 2021-06-10T13:49:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/562929"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 78
-    images:
-      - url: "https://i.guim.co.uk/img/media/0a2237e46f5eb91b40f9dcd41a92d8e16b5c2406/0_248_6679_4008/master/6679.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8089cb1e6c147a9cc02432013cc6f397"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Microsoft claims AI is neither artificial or intelligent"
-    excerpt: "The Vole nose Microsoft researcher Kate Crawford has told the Guardian that AI as we know it is neither artificial or intelligent. Crawford knows her brains she studies the social and political implications of artificial intelligence,"
-    publishedDateTime: 2021-06-08T10:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
+      name: IEEE
+      domain: ieee.org
+    quality: 19
+  - title: "BST Global Presents \"The Journey to Project Intelligence\""
+    excerpt: "BST Global, an enterprise ERP solution provider that serves architecture, engineering and consultancy firms around world, presented the company's vision for the ERP experience of the future during a live event titled \"The Journey to Project Intelligence."
+    publishedDateTime: 2021-06-08T09:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bst-global-presents-journey-project-intelligence-/2021/06/08/9385521.htm"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
-        width: 620
-        height: 467
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "OaR4Ux411qAmYIGUR4tfZjT7pge/2qBw7esZYu8qSS75EJOa1yGUbg9bftEjrQQrizMfIYEQ75g5ifuv8GI8SZ7X//SwVahwWop2Cv/I0LGLSQtAZMxa3mGy3dE13E0npQsb34XOZ4ModjTUQ04ZN9j+Vi+fe5SwItz2xN4h46XrO0Bfkp+VuPiX38Awxs9ZIY5l+010cZVjt9m0+nFZtBGbq1AW84xc2uuP61vpEi/83jYSGCvIWdNGqxxtnD75drJBeVFDqDjJNabPeGRc7h6fvucTdt1k3tohH7JRD1ev8mTL6dlKWqSYNXQ1ROtUJ+KA4mqvkLTK6zpIIyW5X7cN+zCyb2tHQ+ocBjlnv6YBOH3l3NzBeNmIFBOThlpnYWNtxq4Atmwlo1mGGmhrbnr052DM/GXt8LEmMIvYaRIJEFoIwMX72v6n3x3sdvsIHoXDy10ZgJN7D7yJyidYhw12CaSikDlRG/zHDHfWlThUcc8StSmsFIqOvRxicNgYiX5UXS2RDevEFJQFmtN14Q==;g/5rvpTDuUM16Q0SzoCSPg=="
 ---

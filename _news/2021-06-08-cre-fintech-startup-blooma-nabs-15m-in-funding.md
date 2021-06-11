@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "How The Indian FinTech Is Using AI"
-    excerpt: "From digitally lending money to large-scale data analyses, the use of AI & ML has brought FinTech to new heights,"
-    publishedDateTime: 2021-06-06T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-the-indian-fintech-is-using-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ai-fintech.png"
-        width: 1600
-        height: 800
-        isCached: true
   - title: "Report lays out seven technologies key to fintech development"
     excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
     publishedDateTime: 2021-06-07T13:20:00Z

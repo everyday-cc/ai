@@ -26,17 +26,6 @@ images:
     height: 352
     isCached: true
 
-related:
-  - title: "BST Global Presents \"The Journey to Project Intelligence\""
-    excerpt: "BST Global, an enterprise ERP solution provider that serves architecture, engineering and consultancy firms around world, presented the company's vision for the ERP experience of the future during a live event titled \"The Journey to Project Intelligence."
-    publishedDateTime: 2021-06-08T09:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bst-global-presents-journey-project-intelligence-/2021/06/08/9385521.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-
 secured: "9d7RQPHdDY33siWs/D6vHsrIUnMHNCr0Yx52mSqHcub+vinuAmYHD9x0dw9MhTpQ+GNbOHc6Vi3JXjeB05cYH0caePil9S84uixX0DiR6oc6Wv7EU+x3TTlU3IWI2g5SJH3qATsyWFJsZOAFPcyHfpYapuFrKCHcKXTI5e+Dp3b4cU2yNGGwTS7tKJLHbW08EZnqQCHCHrfp79m+hx9bSZ0mZoCUblHZAtSQfnBRSz2iAFCcNpqYkeD9pJOrc7/ABHEABuB4alugoM27V1qgFnBjR0fq1vpkmwKa5AcszhYQK49NAw8OhbQQb0XU/DXzQ+VajZZ2+SK/zlHdfpeqAN5vgDecQ/2nj8QL+gz9xba4jwI4mC5vOfdQEEZcKX2D4G7WEptRUYdRrxMqqLiFzTeCQovi3uejdfzVRqE4uzVH7JXGgGYDE5S1BDzgg4sVr3PaS9OZECgwghMDDB2NDCzv6tr5IVRsDZmpQs0c1d8BAxWEhFWuad6DCIi05Ycm1vHObFOphnC3HSgH15IDZg==;3XwvX7aX81Hr5YkaOvFyaw=="
 ---
 

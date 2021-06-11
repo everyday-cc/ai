@@ -1,27 +1,26 @@
 ---
 category: news
 title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
-excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-publishedDateTime: 2021-06-04T11:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
-webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+excerpt: "BeeVision's recently announced cloud-based product – BeeHive now utilizes Microsoft Azure AI platform, to provide services such as measurement data and image collection, processing, sharing ..."
+publishedDateTime: 2021-06-04T09:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology-and-azure-301305493.html"
+webUrl: "https://www.prnewswire.com/news-releases/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology-and-azure-301305493.html"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "jP+npApxGt6WnFAEnScq4MW4wH7iqvbUeHxCBxmrhn9eX+GyhE29iwXgA4K7bQKU9g8p4Q6cVzCFPXow3VM1RJNO/QSx8uwi9pmWkyx0NUC/UN27wp0cX96SwLXHOuuOMsZumBebLPTY3he6NBYbLVSBQeG6+rQ8AcRpInZWgjLM3jAP+f0Z6YmbXI9ihKUaf3VNjjVeXXCqJA7umRKfAZ/FQVu2RykDYYc5mwVG1CqfUyntFRDSLT5OW92CWUy9PMz/6Cu+516r/BFnomBywci4kqTiT8uY237V5BARtSinwBRSDfvP3JK+EcAv8sTkLECWHg0YJjgmmQDRExJhLjY7x8jDZtHwWVRqQlhzSfEyAnTerPm1bOxNJkyGp/dnYMkCogTghEAjaNDHDpERLGP8ncNpm+5IUHqU5U58x38kwWNZjDTPEvsd447ODLhxB4AnanciTFdQ1+txSXoRu7K/WrZhEUp2RDeJhQcNRtTEQRKeTH7IvVp2EHYSNMx70JPwCBoa5cOiqFOqC4idlg==;1AdCCxnypIM5QHfgUgNxQQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1525532/BeeVision_Microsoft.jpg?p=facebook"
+    width: 2498
+    height: 1309
+    isCached: true
+
+secured: "zFUMqda/NfPLZ29HnU1M0CTc4ATvhG++NTNJGZUrOxiJqe9KeNbYulAQEVij2CP9FNEJS1hqwC6PEwHQTDjlJHglTFUZdbRtOByCQZwV3RWhzsdz2napSrmHmxzl/FYouvM7pGGvj1iXkiIxdXdDpLhWP3Ig5bYXYScEs2UcNt6V0I/1NJUmVQxEI6x4JT+gtXxWRZuhgpjlt26IxOrm2Wc677Fg7pYbbJUWc9KY2I3MdJC2MOn4hl+THt9QRbrGLiFc6QRVCsdlV6srfK1GtbHNGaUkPDCogHBx7wwdOj/Wo4GsYyIpHu60ONJO8F7L2CxZvz4FXXeP9JbZegyekFYcH13xPWHl14cBYUb6WeU=;+BlDBkAvh++XTmees6X/jQ=="
 ---
 

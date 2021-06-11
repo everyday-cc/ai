@@ -2,15 +2,12 @@
 category: news
 title: "AI rises to the challenge with COBOL"
 excerpt: "As is the case with spoken languages, meaning risks getting lost in translation between different ... reveal the bug that they seek to fix. When AI knows in advance all behaviors, such tools ..."
-publishedDateTime: 2021-05-28T10:42:00Z
-originalUrl: "https://www.techradar.com/news/ai-rises-to-the-challenge-with-cobol/"
-webUrl: "https://www.techradar.com/news/ai-rises-to-the-challenge-with-cobol/"
+publishedDateTime: 2021-05-28T10:19:00Z
+originalUrl: "https://www.techradar.com/news/ai-rises-to-the-challenge-with-cobol"
+webUrl: "https://www.techradar.com/news/ai-rises-to-the-challenge-with-cobol"
 ampWebUrl: "https://www.techradar.com/amp/news/ai-rises-to-the-challenge-with-cobol"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-rises-to-the-challenge-with-cobol"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: TechRadar
@@ -30,6 +27,6 @@ images:
     height: 270
     isCached: true
 
-secured: "mb2wurfwsdym+Go+K1HO46nSsd8unyK0Uuyo7aj3X+Ij4tc5ygqP1Nje+fRDJgRRISWIQ0fCOOWaumwcWak+/fThuoM9XT0oa5apezb4ngmHSGJZu4ILgFyPyB+gpiImCjLckjLnDlCb6+XsDYQxkBIIwybRpuU733+B1ghOPxm6u5TG/deVEF7/MSlBCl+BDUQx4SUQQDt2khy0sxSB749YGzYYsuZrXsKbCXtuACI2W8RORIafbzK+ddRNQZMVptj736ZxHcLl5IZFUGqrGtTj3Hg8nJwgteluk3t0neG910fun62gOqkZ2fsmwkPVZknV10CjJJ7QcbAJLz4glQabmB7XQJ5JIZNMhqPfmes=;ZnFW2QIO0GfVhzs3Wr0VNQ=="
+secured: "jLnpZaqtxxgSG5lEEW31Cg9+yKXxC5UgxdoD9NJj87mGIdKzOfNG/jIbESH1L44a9UuwDButcA8XigPFiGZbEubr+5KQRu7AP87M7CbnCMWIZQtmSuDCY7ShGoFO0P8cwzLsftDay0F19wrjDAMxEhe5O6JxB2ke4ieR33HqX76b4LZzD4tj1bjjB16B0D4qTL3bELw7GNxieR4yikqqaH5ULxHBsK095/LSwamc06bj4vxBvE+IB3+aZkrE7IlWp+183+bCB9lfjtbIloOLNXJVJIepNL7Ct4BAlVMUnjaynk++Yiiu0JFhTX/gPlmAnXrVkcQWUxCMNOiHi1cF/B5C/BYZKMUwkptNQfOZhHo=;UhE3w0CxATXK+uiMm1Lbpw=="
 ---
 

@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Industrial AI pioneer C3.ai partners with analytics upstart Snowflake"
+    excerpt: "C3.ai, the twelve-year-old Silicon Valley startup that is bringing machine learning forms of AI to various industries such as oil and gas, on Wednesday said it is partnering with data analytics upstart Snowflake,"
+    publishedDateTime: 2021-06-10T05:01:00Z
+    webUrl: "https://www.zdnet.com/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "How Does AI Perform Crypto-Analytics?"
     excerpt: "AI has also brought itself into the game of cryptocurrencies by introducing AI coins initially. Today it has also stepped Crypto-Analytics."
     publishedDateTime: 2021-06-07T06:46:00Z
@@ -41,22 +52,29 @@ related:
         width: 1200
         height: 725
         isCached: true
-  - title: "How artificial intelligence is changing the narrative in Forex and crypto trading"
-    excerpt: "You have probably already heard about Artificial Intelligence (AI) and how it is helping people across various industries in many"
-    publishedDateTime: 2021-06-10T09:45:00Z
-    webUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/"
-    ampWebUrl: "https://nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
-    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/06/10/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp"
+  - title: "(Weekly Roundup) Top AI, Data Science, Analytics Appointments In India"
+    excerpt: "A round-up of the recent appointments across various tech leadership roles in India. Earlier this week, Bengaluru-based analytics company Course5 Intelligence announced leadership changes across its business verticals."
+    publishedDateTime: 2021-06-06T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/weekly-roundup-top-ai-data-science-analytics-appointments-in-india/"
     type: article
     provider:
-      name: Nairametrics
-      domain: nairametrics.com
-    quality: 54
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://i1.wp.com/nairametrics.com/wp-content/uploads/2021/06/IMG-20210610-WA0022.jpg?fit=940%2C788&ssl=1"
-        width: 940
-        height: 788
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/analytics-appointment.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "ListenFirst Launches Machine Learning Analytics with Instant Insights"
+    excerpt: "ListenFirst, the premier enterprise social analytics solution, today announced the launch of Instant Insights, a new analytics feature that quickly shows how brands perform across social media. Leveraging years of intelligence gathered from working with the largest brands in the world,"
+    publishedDateTime: 2021-06-09T17:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-listenfirst-launches-machine-learning-analytics-with-instant-insights-/2021/06/09/9387504.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "hVbMPJ2eE/E+PHlqOMr1ujfYcVwGDO8YTEVKmjBTE8YD3mOIDYM4lMT6QfF1i+uc/imvg2Sc0AMNmRUZ/yXqWHAiFNH8ZIOhN+q1qhfpeml7jCD88JeLhFSqyJjwWctLN+NtaIMjeTZO6Cous4GgRGOR6HSQqHiptGpuuV11xactmpXf4NSefwUd6MxxCJyAGWiI0SllYEnZ2rtJ9O2Fx2ft5C/2HtWO3fNY0ZWoURjhgE7CmbQ9qv5A7s5u5RK0xVdoCtXQ9r0rz+H6N+Vd6K6aMYXLqfh/kj3CyvNhjofwqg11nPRAWgpazeLvCXP3fSpzFWcgZynmVEB09jZ8lXsuuqc8T0pBih5BCIl/Mms9rz/IesIoC7rlzHV/nMjAsP4wC3eZzg6itxvJLJtIHzzGP9Yqfu/J0+xE+xtIuy4EjQsIOaJ7viRemF7pgHNHLsTMocXGyPe5gQyMA8FlS231ES2ry3syYJjIhuD+bSgvBf3I09SWDeEdXpHnptDW0At4tfQgMH9AGsbm1JaQrg==;QiijPJEVOjTyC06Sx9sZhw=="
 ---

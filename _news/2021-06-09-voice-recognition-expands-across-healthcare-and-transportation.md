@@ -40,6 +40,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Fine Arts Center Wins National Recognition"
+    excerpt: "The Fine Arts Center for the New River Valley received the Gold Key for Excellence in the Field Award from Scholastic sponsored by the Alliance for Young"
+    publishedDateTime: 2021-06-10T23:12:00Z
+    webUrl: "https://nrvnews.com/fine-arts-center-wins-national-recognition/"
+    type: article
+    provider:
+      name: New River Valley News
+      domain: nrvnews.com
+    quality: 24
+    images:
+      - url: "https://nrvnews.com/wp-content/uploads/2021/06/Gold-Key-Award-Scholastic.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
     excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
     publishedDateTime: 2021-06-07T12:34:00Z

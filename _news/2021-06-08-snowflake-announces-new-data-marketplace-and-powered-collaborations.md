@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/snowflake-announces-new-dat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: ZDNet
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud"
-    excerpt: "June 8, 2021 - Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its annual Snowflake Summit, the company announced innovations in data programmability,"
-    publishedDateTime: 2021-06-09T08:07:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/141624/snowflake-announces-new-features-to-bring/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 17
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/dane_eldridge_-_profile_shot.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Snowflake Announces New Features to Bring Together the Worlds Data in the Data Cloud"
     excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its annual Snowflake Summit, the company announced innovations in data programmability,"
     publishedDateTime: 2021-06-08T13:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1b-in-softbank-led-220m-funding/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.reuters.com/resizer/W1JocnNLqZ9H6Tu23ejAWRt-sIg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3EZBALS5SBPH5HCFFLUS6YWONE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Eightfold AI raises $220m led by SoftBank’s Vision Fund 2"
+    excerpt: "According to the company, it will use the funds to expand its India operations, hiring data scientists and engineers in the region."
+    publishedDateTime: 2021-06-10T23:54:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/eightfold-ai-softbank-245445/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 37
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/12/softbank.jpg"
+        width: 974
+        height: 550
         isCached: true
   - title: "The Briefing: Eightfold AI Raises $220M, PostHog Lands Series B, And More"
     excerpt: "Mountain View, California-based Eightfold AI, developer of an artificial intelligence-powered platform for HR, raised $220 million in a Series E round led by SoftBank Vision Fund II. Founded in 2016,"

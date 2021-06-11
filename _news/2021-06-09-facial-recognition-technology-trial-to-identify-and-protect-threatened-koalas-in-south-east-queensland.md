@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Investors Call for Ethical Approach to Facial Recognition Technology"
+    excerpt: "A group of 50 investors managing more than $4.5 trillion in assets is calling on companies involved in the development and use of facial recognition technology, such as Amazon and Facebook, to do so in an ethical way."
+    publishedDateTime: 2021-06-08T10:39:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 86
   - title: "Calls mount for ethical approach to facial recognition"
     excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
     publishedDateTime: 2021-06-08T11:53:00Z
@@ -43,37 +54,21 @@ related:
         width: 1000
         height: 608
         isCached: true
-  - title: "Not even wildlife can go undetected: Australia trains AI road cameras for KOALA ‘facial recognition’"
-    excerpt: "Researchers at an Australian university have been granted thousands of dollars from the government to work on AI-based devices that would help identify individual koalas crossing the roads in the country."
-    publishedDateTime: 2021-06-08T22:54:00Z
-    webUrl: "https://www.rt.com/news/525578-koala-facial-recognition-ai/"
-    ampWebUrl: "https://www.rt.com/news/525578-koala-facial-recognition-ai/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/525578-koala-facial-recognition-ai/amp/"
+  - title: "Facial recognition for fish? Researchers test technology to stop invasive species"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
+    publishedDateTime: 2021-06-07T16:30:00Z
+    webUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.html"
+    ampWebUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 59
+      name: Phys.org
+      domain: phys.org
+    quality: 54
     images:
-      - url: "https://cdni.rt.com/files/2021.06/xxl/60b8f3cc2030270db84e5e21.jpg"
-        width: 1240
-        height: 697
-        isCached: true
-  - title: "Biden admin reportedly using controversial facial recognition on migrants"
-    excerpt: "The Biden administration is embracing controversial facial recognition technology and other intrusive surveillance tools to process the backlog of thousands of migrants at the US-Mexico border,"
-    publishedDateTime: 2021-06-07T18:15:00Z
-    webUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/"
-    ampWebUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 58
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/cbp-app.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/asiancarp.jpg"
+        width: 1920
+        height: 1440
         isCached: true
   - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
     excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
@@ -91,21 +86,51 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Facial recognition meant to stop unemployment fraud is blocking legitimate applicants"
-    excerpt: "Florida hired ID.me — a company that uses facial recognition as a tool to verify people are who they say they are — to help with unemployment fraud. But bias within facial recognition could create new barriers to unemployment benefits."
-    publishedDateTime: 2021-06-07T09:27:00Z
-    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants"
-    ampWebUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants?_amp=true"
-    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/local-news/i-team-investigates/facial-recognition-meant-to-stop-unemployment-fraud-is-blocking-legitimate-applicants?_amp=true"
+  - title: "'Innovative': Noida Scientist's Facial Recognition Technology For Dark Wins DRDO Contest"
+    excerpt: "In another technological advancement, a Noida based scientist has developed an AI which is capable of identifying a person even if their face is covered."
+    publishedDateTime: 2021-06-09T10:37:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
     type: article
     provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 52
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 50
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/105/45bf940c346f431c9be273b8942ab6eb/105d6bfea87142d3a862f8d9d45613a4/poster_67be6c1012ab4278a9c76e09388b192e.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/8eoy89ay313eqsnk_1623228977.jpeg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "From facial recognition to dating apps, technology is helping investigators track down Capitol rioters"
+    excerpt: "Authorities investigating the Jan. 6 attack on the U.S. Capitol are increasingly utilizing digital technology and social networks to identify and track down suspects."
+    publishedDateTime: 2021-06-10T17:29:00Z
+    webUrl: "https://abcnews.go.com/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 43
+    images:
+      - url: "https://s.abcnews.com/images/US/merrick-garland-attorney-general-capitol-riot-01-gty-llr-210219_1613764340672_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Hyderabad Man Bears The Brunt Of Facial Recognition Technology"
+    excerpt: "The Internet Freedom Foundation said the random collection of citizens’ photographs could be linked to a database building exercise for FRT"
+    publishedDateTime: 2021-06-07T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/hyderabad-man-bears-the-brunt-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Hyderabad_AIM.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Facial Recognition Tech Talks continue"
     excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
@@ -120,6 +145,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Investors pledge to address human rights in facial recognition technology"
+    excerpt: "A group of institutional investors and money managers representing $4.5 trillion in assets pledged their commitment to address risks raised by facial recognition technology products and services. Launched by money manager CANDRIAM in March,"
+    publishedDateTime: 2021-06-08T14:19:00Z
+    webUrl: "https://www.pionline.com/ja/node/958346"
+    type: article
+    provider:
+      name: Pensions&Investments
+      domain: pionline.com
+    quality: 38
+    images:
+      - url: "https://s3-prod.pionline.com/s3fs-public/styles/800x600/public/Facial-recognition-tech-main_i.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Asset managers unite to urge human rights focus on facial recognition tech"
     excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
@@ -149,6 +188,29 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
+    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
+    publishedDateTime: 2021-06-06T21:45:00Z
+    webUrl: "https://www.columbian.com/news/2021/jun/06/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 22
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/06/0607_met_-SCI-FISH-RECOGNITION-TB.jpg"
+        width: 899
+        height: 599
+        isCached: true
+  - title: "Victoria filmmaker's documentary examines sinister side of facial recognition technology"
+    excerpt: "The Victoria filmmaker’s short film about how technology companies are worming their way into our lives has a doomsday quality to it, and should leave viewers an overwhelming sense of dread. Will it?"
+    publishedDateTime: 2021-06-09T23:07:00Z
+    webUrl: "https://www.timescolonist.com/entertainment/victoria-filmmaker-s-documentary-examines-sinister-side-of-facial-recognition-technology-1.24328734"
+    type: article
+    provider:
+      name: Times Colonist
+      domain: timescolonist.com
+    quality: 10
 
 secured: "xILMhz0SdOILh/ruAVTzTneCaFS71fGKP8fGAPvcD/RF6/3WB2bqQH1C4Nx29vzmDtk8phHMAa8uHYmwnw02w8HIxYjyX40sdQh0V66hHaqc1S2xUB9152dDjs4G7wDMWcyy6gvxmLd+DlOIvTpEwi0GDrLgwG0j4WJ14Ns6ZZTN+xBDRdZGN9CLtZnnQLXjriiGeoVHG+BW5wRUfuNQ77P6Iqyy8FfLR8FoOcj4+akChFGY04g9Mc94cbE/l4iSSMheH0tSqW1l10RWSUCt0VB6Vfh1kT/a3KFSne1BaKo9uTk1vA5lFio32pKIKEzVHbyVXENMWdXZ5wSsTQC/MhYfzUdpiRDH6zF/qWjrNZ4=;cL0YW5e6n/gXS8IlYCvMbw=="
 ---

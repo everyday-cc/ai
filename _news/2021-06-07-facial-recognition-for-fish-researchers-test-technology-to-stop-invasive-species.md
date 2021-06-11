@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-inv
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -27,6 +27,81 @@ images:
     isCached: true
 
 related:
+  - title: "Investors Call for Ethical Approach to Facial Recognition Technology"
+    excerpt: "A group of 50 investors managing more than $4.5 trillion in assets is calling on companies involved in the development and use of facial recognition technology, such as Amazon and Facebook, to do so in an ethical way."
+    publishedDateTime: 2021-06-08T10:39:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 86
+  - title: "Calls mount for ethical approach to facial recognition"
+    excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
+    publishedDateTime: 2021-06-08T11:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 76
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
+        width: 1000
+        height: 608
+        isCached: true
+  - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
+    excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
+    publishedDateTime: 2021-06-10T15:13:00Z
+    webUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/"
+    ampWebUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 54
+    images:
+      - url: "https://uploads.dailydot.com/2021/06/amazon-police-facial-recognition-ban.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "'Innovative': Noida Scientist's Facial Recognition Technology For Dark Wins DRDO Contest"
+    excerpt: "In another technological advancement, a Noida based scientist has developed an AI which is capable of identifying a person even if their face is covered."
+    publishedDateTime: 2021-06-09T10:37:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 50
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/8eoy89ay313eqsnk_1623228977.jpeg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
+    excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."
+    publishedDateTime: 2021-06-09T02:53:00Z
+    webUrl: "https://www.abc.net.au/news/2021-06-09/koala-facial-recognition-artificial-intelligence/100200504"
+    ampWebUrl: "https://amp.abc.net.au/article/100200504"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100200504"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 43
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/3671dceadbbfdac5e71c6927e19d611b?impolicy=wcms_crop_resize&cropH=429&cropW=643&xPos=0&yPos=63&width=862&height=575"
+        width: 643
+        height: 429
+        isCached: true
   - title: "From facial recognition to dating apps, technology is helping investigators track down Capitol rioters"
     excerpt: "Authorities investigating the Jan. 6 attack on the U.S. Capitol are increasingly utilizing digital technology and social networks to identify and track down suspects."
     publishedDateTime: 2021-06-10T17:29:00Z
@@ -43,6 +118,34 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Hyderabad Man Bears The Brunt Of Facial Recognition Technology"
+    excerpt: "The Internet Freedom Foundation said the random collection of citizens’ photographs could be linked to a database building exercise for FRT"
+    publishedDateTime: 2021-06-07T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/hyderabad-man-bears-the-brunt-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Hyderabad_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Facial Recognition Tech Talks continue"
+    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
+    publishedDateTime: 2021-06-08T22:00:00Z
+    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
+    type: article
+    provider:
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Investors pledge to address human rights in facial recognition technology"
     excerpt: "A group of institutional investors and money managers representing $4.5 trillion in assets pledged their commitment to address risks raised by facial recognition technology products and services. Launched by money manager CANDRIAM in March,"
     publishedDateTime: 2021-06-08T14:19:00Z
@@ -57,19 +160,33 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Researchers test facial recognition technology on Asian carp in battle to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-06T05:32:00Z
-    webUrl: "https://www.newstribune.com/news/national/story/2021/jun/06/researchers-test-facial-recognition-technology-on-asian-carp-in-battle-to-stop-invasive-species/873946/"
+  - title: "Asset managers unite to urge human rights focus on facial recognition tech"
+    excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
+    publishedDateTime: 2021-06-08T11:11:00Z
+    webUrl: "https://www.investmentweek.co.uk/news/4032513/asset-managers-unite-urge-human-rights-focus-facial-recognition-tech"
     type: article
     provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 27
+      name: Investment Week
+      domain: investmentweek.co.uk
+    quality: 37
     images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/06/05/198553199_US-NEWS-SCI-FISH-RECOGNITION-2-TB469339106_t1070_h56768f7a4faa13a13e81741ca2b1659d6b3d18e5.jpg"
-        width: 1070
-        height: 692
+      - url: "https://www.investmentweek.co.uk/api/v1/wps/e821d2e/c7490c93-5e13-44e6-adfd-4addff378bbf/13/Facial-Recognition-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "Facial recognition providers called on to improve transparency, preserve human rights"
+    excerpt: "50 global institutional investors ask the biometrics industry to address the risks to both human rights and investor returns posed by facial recognition."
+    publishedDateTime: 2021-06-09T00:13:00Z
+    webUrl: "https://www.biometricupdate.com/202106/facial-recognition-providers-called-on-to-improve-transparency-preserve-human-rights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
   - title: "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species"
     excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually endi"
@@ -85,6 +202,15 @@ related:
         width: 899
         height: 599
         isCached: true
+  - title: "Victoria filmmaker's documentary examines sinister side of facial recognition technology"
+    excerpt: "The Victoria filmmaker’s short film about how technology companies are worming their way into our lives has a doomsday quality to it, and should leave viewers an overwhelming sense of dread. Will it?"
+    publishedDateTime: 2021-06-09T23:07:00Z
+    webUrl: "https://www.timescolonist.com/entertainment/victoria-filmmaker-s-documentary-examines-sinister-side-of-facial-recognition-technology-1.24328734"
+    type: article
+    provider:
+      name: Times Colonist
+      domain: timescolonist.com
+    quality: 10
 
 secured: "MJHeQx0bYXM/S+dGPs44H1ASHE9Mle+PvfiotqixP4G1Ki4vhCmimnuL8egTREHlM35IIqM7prp9B5lgKf8FW/tdbbQha8RGwfYstvJmDoSszonernpCLvqryAhqhGYUVPyebsicBY545tIpHnFMaRL/zUz5O9HJ02sn4mwE+eYKjLP9fvXbtgu4cLB0uhyaSKjc9Sl6Q7jx+32+8T0KmLNSMQ/L19GTcaQYN8IJ+uC8KFyveMfM5luEnVxcqImlyM9tik5B58x5JMaaLMvk8JKSj/opvr6er5hc5R4dXosPW5BS96J4MdHfsNeD78WF0ScMhABIP0/wvgK9p0UiAwANEMClHnl0gtgAn86cUhEm1B7Gzw1YrgnwgmSioIAiA78GhBT7ujmTkiFBjoBm3v4rF5qpOoLThoMDRJgfXIiXz56gWI3ixGtTcRM341DqMOBnOPqodMIB9L5clsRsGOk0ONmYiDHp75ie7gZjqX7dTsOOwk2M/OPPTJp0saF7TbypctjouUvUyW6kIE04kw==;XhVOyVSN98ZV8vpSNHlOow=="
 ---

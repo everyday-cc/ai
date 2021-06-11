@@ -123,6 +123,22 @@ related:
         width: 896
         height: 503
         isCached: true
+  - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
+    excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"
+    publishedDateTime: 2021-06-10T22:52:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 53
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/QyLB9ZxvxXi9dJVjl7-UuBVJvRk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/H6FJ6MFQQRBBVMJ4SWHMMSVTLY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apple Hires Self-Driving Car Startup Founder and Former BMW Exec Ulrich Kranz"
     excerpt: "Former BMW senior executive and self-driving vehicle startup founder Ulrich Kranz has taken on a role at Apple working on the"
     publishedDateTime: 2021-06-10T20:06:00Z
@@ -163,6 +179,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "UHamzAt3p28hM/YGOirbbUmV4tf/U9fCilmqlsNKvsWNPTov46lZjLvYmyMbHlbTyw7zEDyMqQYYEC8e9rvtn0WlsdekAtl7epmYHeuKBGgBj8e4cjh8KerJ8dNios2xvouDTX982WWFG8J4cg13yB/vTz3zREixKGQP+mor/i+5cV1K6ErN498whIKIjxoUdePW4NaUMrkja8NcdQW8Y5A9mUgLhchsPJdIMKiNItb6QNexYBUySkQvl0R6Vb87ZiK2ljHjBstePW2Thch+lDagAOG9fR9z4KGlpUI6XGwapvcqqPEBGxBJvGIjP47vfkv+W3Uze3Hmp8ZAiJ2uDmMbU/aQWDiLin0nbOvKOJ0=;Mal/9DivP7tXb5bSJU/BjQ=="
+secured: "FTqyJb+d9tiht+a2bokvBRnu42JnSM3kktObA3Ftcg5NV8pzSqL4DupsDsiUjoRm8GTw8ayZmwSPSZRBPuoP2syhWkYxKeWBEedYIRca42gGFvFblqio0MRoIA+cILtz8moj6Hbhr3ANiBEVQvDJ1KpbXZqPHwbOtywBJJ1YQnL0XVf26vIQKEWA1K7beW40/UGr785YwnSgZOtZmyu+Hg7GRCv2UostlawCPW03I6L6bWoliL4sg/TjmGqBledl5ZXg1hJXz3oDdIepipNp8HuauawEYFKSzHsbcQ1WvHu3yGC4yKrsbf2ShGdMX/V3DJDa2ZOJW/FX0jv+q/k/0qToq/7djX0CJrjNkqfaEdVRYXUuT6wQ5r1DSW4inbdFDmlHK/Kvu6e1eXy03n4PJMmIzItLYV5J0+KZAdF3EpLBOgJr9PvqwNtKbaheA0yTYxDq4FqBH8gTW6ENldifvFcxUYoDOvTypQlc9lIzu7hloJg1kfQhcmR/n4nmm1yYVomyHhYxmgTAmBNyHje4Wg==;V97naTDFsb+SVXC46ulUhQ=="
 ---
 
