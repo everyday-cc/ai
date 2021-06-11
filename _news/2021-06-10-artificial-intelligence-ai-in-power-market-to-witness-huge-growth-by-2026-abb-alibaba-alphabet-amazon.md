@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market [ PDF ] To Witness Significant Growth By 2021-2027"
-    excerpt: "New Analysis Of Artificial Intelligence for Edge Devices Market overview, spend analysis, imports, segmentation,"
-    publishedDateTime: 2021-06-06T13:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
     excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
     publishedDateTime: 2021-06-10T01:50:00Z

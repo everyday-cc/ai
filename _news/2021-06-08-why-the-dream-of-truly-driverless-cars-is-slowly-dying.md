@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-ha
 webUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen"
 type: article
 quality: 69
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Huawei seeks to develop its driverless car technology by 2025"
+    excerpt: "Huawei Technologies is aiming on developing its driverless passenger car technology by the year 2025. The news arrives from a statement made by a company executive earlier this week, as the firm seeks to expand its business scope in the automobile industry."
+    publishedDateTime: 2021-06-11T07:39:00Z
+    webUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "Hunt sets driverless truck test in Texas"
+    excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas to deliver goods between Houston and Fort Worth, the company said Thursday."
+    publishedDateTime: 2021-06-11T07:49:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Cruise driverless cars are now allowed to carry passengers in California"
     excerpt: "Cruise is the first to be granted permission by California to offer rides in fully driverless cars on the state's roads."
     publishedDateTime: 2021-06-07T14:00:00Z

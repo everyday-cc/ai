@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-he
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:

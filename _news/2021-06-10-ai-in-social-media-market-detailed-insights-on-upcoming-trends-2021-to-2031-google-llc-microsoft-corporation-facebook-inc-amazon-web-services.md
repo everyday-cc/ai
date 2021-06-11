@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rezolve.ai Introduces New Features for Its Microsoft Teams Enterprise Service Management Platform"
+    excerpt: "Rezolve.ai, a leading AI-powered Microsoft Teams employee support and engagement solution, announces new advanced features in the platform’s latest release."
+    publishedDateTime: 2021-06-11T07:06:00Z
+    webUrl: "https://www.pr.com/press-release/838162"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 21
 
 secured: "na/Hj2UR4qVyxq739kpT+g6nFcD0t+57CuJLzj/FZZTLZ/rIKbtAJHsJ8FSzWZCkuovEIOmMvUO+1oGO7/RQNVLO1BB75kfhYLceWDDFPfBsjgRXbM1oHFOxVClaB8yke48W0lOEEJcYK4TACdgcgU4cK3iHOUnjaYd3fyQOFjkk97BNvdh8+fdePL7RHZ2S3VsH3EWF0pSKreGsWNIKvNQMuZBFaofg49uIjvT3Andqhyk7yPwhDHjC38lxgbc9hUilTmCkrcYYRLZJMjYcFyN5Z7/ltRXfaAWoRufd26zyENuJ2boWkU+Yd12byYcXhyIfJiV6SgLfmwktBWOgoObVLWujsreLqvLTvEBB/VjXIk3iTaE8+KXwGbw2VPJK4IpoxXczD/GwqJ4U4uli/1xF6CUAiR+efT0+P81DltY/Aftnb9zu22dBA4ahZh4Fjbw/eCuo845OzbbQ4DT+1j/41kOhzNOx8lGaitfPbbGqlrbOByhNVBUvc6VwdF0Fo/FwnIioQ4RtmzUnEPsabA==;vs9JDTQYcEtum9r99aaGvw=="
 ---

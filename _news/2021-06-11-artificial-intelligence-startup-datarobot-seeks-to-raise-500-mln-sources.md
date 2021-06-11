@@ -2,21 +2,24 @@
 category: news
 title: "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources"
 excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
-publishedDateTime: 2021-06-10T19:44:00Z
-originalUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10"
-webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10"
-ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp"
+publishedDateTime: 2021-06-10T18:44:00Z
+originalUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
+webUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
 type: article
-quality: 81
-heat: 101
+quality: 78
+heat: 98
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -49,6 +52,6 @@ related:
         height: 557
         isCached: true
 
-secured: "YHrf+0MsLSyQ2+rYvRjfaahQh5BCX+T4QEEfQ4TXCcIJaJBNv4no3WIHjnRCWkOK6YH37ecDLO7/LzPZGV++6tj4GrTDvlZmQi4E1BiIQlvbybUQd5sjTDSEzQ3rW4ovWC146T8fv5mVDjrYgbtl/9sQYLf13tPslZjV0W2U2R58ZIodMe/j1umARtyhpF2AhdteOGjq2ciMJ+/z4D4W6qYR8TFC3p2yT42H/v7t2MAm0oPsQ8B8F11aYdnm/Y+b2Rvd6Z3qd1xHGGfKEPDZ3I48KhQJ4G2ehsnNdt/DWBn3/l3fw4mrRSCS+dxI3uPJ5F91KfKWpoY7wAKBiEanRJvCQRoVyvTZjPNxUiuiIZQ=;8lxWeNYK418q+OxXGCTWuA=="
+secured: "tO/2+dhaR4UPzFD8JZLrpENVbkeL/6Qesgc8+OTWgvBoPmoK+F2pJk++K9GJJ2sR2W8Ts91rcdTuWUUbRpSf0JkW1dz/wyn1lDQLZpMLKZ2ydwVCmKsF5HoLsMoLjBpsANle+lLmJvds/PkyfG5CoITljcwts22tbSMzvgdB1n54NoyrnAYJKQdsAWEiUYyPcj6z00yoR0CC5yDJW4/UIKmScefGfqA+dMLuKt9HGTg0sWoxGlTQL6y6CC71A0E1slnHCxD4CCvy6m6CJ7zTVOqBPiXq8r4ysK41D1NLeBeRR1GeKyWZGNZb0RxmYgMUESQ0yv+wRUHqoDc0dvreVS/BAAVPnzOO8Qmc+Co7aOo=;aFNiL9al63dCWbjeJY8vAg=="
 ---
 

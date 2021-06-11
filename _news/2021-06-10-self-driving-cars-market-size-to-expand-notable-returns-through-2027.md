@@ -169,6 +169,15 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Apple hires key executive for self-driving car project"
+    excerpt: "Apple has asked Ulrich Kranz to help develop self-driving and electric cars, Bloomberg, Kranz recently stepped down as CEO of Canoo, a developer of self-driving vehicles. Before co-founding that company,"
+    publishedDateTime: 2021-06-11T07:20:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-hires-key-executive-for-self-driving-car-project--1386347"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
   - title: "Experts think arrival of real self-driving cars is likely decades away — if ever"
     excerpt: "Elon Musk keeps predicting the imminent arrival of \"full self-driving\" Teslas, but experts aren't sure if we will ever get the self-driving cars that he and others have promised."
     publishedDateTime: 2021-06-07T14:31:00Z

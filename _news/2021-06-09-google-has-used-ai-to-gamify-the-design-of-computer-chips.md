@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Google claims it is using A.I. to design chips faster than humans"
+    excerpt: "Google claims that it has developed artificial intelligence software that can design computer chip \"floorplans\" faster than humans can."
+    publishedDateTime: 2021-06-11T05:10:00Z
+    webUrl: "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104473984-TPU_PERSON_FORWEBONLY_FINAL.jpg?v=1529475121"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Google says its AI is much faster and better chip designer than humans"
     excerpt: "Google says its AI can design microprocessor floorplans much faster and better than any human can. The neural network is learning this trade through a method called reinforcement learning."
     publishedDateTime: 2021-06-09T14:06:00Z
@@ -54,6 +70,22 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/55362/content/datacenter-google-using-artificial-intelligence-to-design-computer-chips-faster-than-humans.jpg"
         width: 708
         height: 398
+        isCached: true
+  - title: "Google is using AI to design processors that run AI more efficiently"
+    excerpt: "Google creates custom processors to run its various artificial intelligence algorithms, and now it has tasked an AI with speeding up the process of designing more efficient chips"
+    publishedDateTime: 2021-06-09T15:19:00Z
+    webUrl: "https://www.newscientist.com/article/2280321-google-is-using-ai-to-design-processors-that-run-ai-more-efficiently/"
+    ampWebUrl: "https://www.newscientist.com/article/2280321-google-is-using-ai-to-design-processors-that-run-ai-more-efficiently/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2280321-google-is-using-ai-to-design-processors-that-run-ai-more-efficiently/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 59
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/09150122/09-june_google-ai.jpg?width=600"
+        width: 600
+        height: 400
         isCached: true
   - title: "Google AI beats humans at designing computer chips"
     excerpt: "An AI computer microchip designer. Working out where to place the billions of components that a modern computer chip needs can take human designers months a"
@@ -139,15 +171,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Computer science: Artificial intelligence speeds up computer chip design"
-    excerpt: "Computer chip design can be greatly accelerated by using machine learning tools, according to a paper in Nature this week. The approach is shown to generate viable chip designs that perform at least as well as those produced by human engineers,"
-    publishedDateTime: 2021-06-09T15:32:00Z
-    webUrl: "https://www.natureasia.com/en/research/highlight/13701/"
-    type: article
-    provider:
-      name: natureasia.com
-      domain: natureasia.com
-    quality: 35
 
 secured: "kqia5B/hpRcq2RdwstaTbGAKcROw7+qVzeXdbWffQe+NSGeKTIn/H4F8bQs6bDYT1VlJ1T2ZiQO73CgSXpmQJX5PQg6VT2nJ471A77/XKyY/R6fxKUyxlBUOHaTRkD0kR5OOKTgKfRrC5hxGCOfc8wnf5Iuh9YP5VjAVxqvtQ4yEHJcYbPDhls3p612xPrB6zCIAKGj1G8376SBbdfvZeamUo+QJbouZnMpB7qfQdpCjf5I6RqNmlIBrkzayx9fPhOpmOrEEtY8x44Vdbg8pFm7k6zoaOI199gPI2YWWDEf1MUYuUskPpRxwGMt4IwPGvXfoBV7Rbz5EdvfRD0Ro2ClQG/4IqoI/2UsDzsdrYBssi8MS0vtilBVgPkzCzk5FLmpfhcQ5XWL+qoztsHOBI+qlgn2opwU4xtYfw/OL7x8uvtSUjB4B9cuw8Z4amEzxo9ARXNVw2XglFJXPUkpuqCC4CwaBXp5sl8erGF0i9rPEh+XdQuv7KCHB594IC7FR+uNCP7FTwqG6568mGDnAoA==;20oUXfl1qlhtmC67NlhsUA=="
 ---

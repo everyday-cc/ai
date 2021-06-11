@@ -177,6 +177,15 @@ related:
         width: 715
         height: 389
         isCached: true
+  - title: "Apple hires key executive for self-driving car project"
+    excerpt: "Apple has asked Ulrich Kranz to help develop self-driving and electric cars, Bloomberg, Kranz recently stepped down as CEO of Canoo, a developer of self-driving vehicles. Before co-founding that company,"
+    publishedDateTime: 2021-06-11T07:20:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-hires-key-executive-for-self-driving-car-project--1386347"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "/8RBpdhg0Ta7odvVH4zwKy21UPGI4EQplDShf3+IaLYUmUWMlzfoFnONUcK+DktADKCbIuPAil7jjcrX2STS29Drdmuae9GsaEkR0KS8hMc597LUEHN3275ckkyhQxaRnqc/zC3syktZbZSRSJq4orjg6OFAgmIH0noEQU4hapm4NR3UCUOdvJ8+S6YkFpK6UNRGbfiIvV5NndqCDiCBY8Pma3jnz7fd3qquxDQU558twpjyBaFiwgmM32x0kfVoX+o5ymvXh+efJxLL/E4x8MsTuWGT3EA/DibzgKq0sJ5ve42yG48kgBsaXlkzGxNW43Aol8ZiCdx2yh9uDkhEhXEvI+ubXuGIMlo2RG80CoHYRnF5DoEd+5tLY9DgR4TQ2Dhuc6kw0sJ1GrwP7W5bodcZPNVypVj+wOpADd1UVoxJsvevXLPZ5YHGAJpDwKaj69wsDmSAuJvssUwXEHGabGEeH3Stxd4s5heD4RCrH+BGrGWSMxOgDAJw1uM34PizJvKTdAsz/asyAQBbavT/+w==;5hOw1JHMZj1sxhBGskozgQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/06/07/ai-in-healthcare-market-growth-
 webUrl: "https://ksusentinel.com/2021/06/07/ai-in-healthcare-market-growth-set-to-surge-significantly-during-2021-to-2031-keyplayers-nuance-communications-inc-deepmind-technologies-limited/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -26,36 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market is slated to grow rapidly in the coming years"
-    excerpt: "This research service provides a strategic analysis of the Artificial Intelligence Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,"
-    publishedDateTime: 2021-06-06T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06"
+  - title: "Latest Research of Healthcare Automation Market: How Automation is Key to the Future of Healthcare Operations"
+    excerpt: "The healthcare industry is rapidly adopting new technologies such as Artificial Intelligence (AI), robotics, medical imaging analytics; and extracting maximum benefits to drive down operational efficiencies,"
+    publishedDateTime: 2021-06-07T10:48:00Z
+    webUrl: "https://www.medgadget.com/2021/06/latest-research-of-healthcare-automation-market-how-automation-is-key-to-the-future-of-healthcare-operations.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market: Emerging Economies Expected to Influence Growth until 2026"
-    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2024 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
-    publishedDateTime: 2021-06-09T06:33:00Z
-    webUrl: "https://www.openpr.com/news/2301143/voice-recognition-market-emerging-economies-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/U/6/U609941609_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "NUOGWMu0e7d9cgpaD1ndhariGYg4WV5BA4KfR7/IcpL2meaG0CDN2ZN+GOdzTmk8zx8feF3F/0g62MDY53Owtbm0zykkr5cXWVxplUC0mfyMt/B/X964PrcnXccRak+8sCwLvApw1eHSsUMHONJMjQ7VB6vvymM0Tsd19fScEkckfC9tHdrmHuAvIxHty10oTKV/zBzRF4hnOav4tdN9PArs9l5//aiOQHS1XmMl240dIxahf5yk0WVfv240m1Vb/IWscGrYKlmYK/THBRHMI8mKIZKhVGn0ckMoxQtlFZFfHdthBkB/HLtfVpkJb6RIiBv+Opq8ssb6EIMDfiFU3Nk5P2jTDX2VcrjWZ7/fz+o=;Oxr0/K/5uObDv2Y8Z4iC9w=="
 ---

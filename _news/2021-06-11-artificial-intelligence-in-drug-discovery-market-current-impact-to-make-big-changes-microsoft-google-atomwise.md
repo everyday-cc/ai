@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 480
         height: 306
         isCached: true
+  - title: "Rezolve.ai Introduces New Features for Its Microsoft Teams Enterprise Service Management Platform"
+    excerpt: "Rezolve.ai, a leading AI-powered Microsoft Teams employee support and engagement solution, announces new advanced features in the platform’s latest release."
+    publishedDateTime: 2021-06-11T07:06:00Z
+    webUrl: "https://www.pr.com/press-release/838162"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 21
 
 secured: "l4h1AmLN+tkypCRi5cC/e+H6STR+qp5gx2/tI71PtRCqKiN7tHyHn6nHabxTZSflL4fT/QFxgHrzHFqKOKY8UEc5T8TNhKFPh6RM5YRtui0/lrdsCe5pevKfm0Cdg2pYkvU1PS+WL/FmlRYac++wrbFyqWfkQ+dFxCB71gndf+bDoLOCpSe/PXTdkE+Hui1mLmZAXaIV45BrugIAzS5MG75W8qN6ZzzONieBoNELRi4X8+qh49UBGSPNJwPUIYbQWb4DzkE5CdQHiHt8VH8IFAvlwx1ad/ZfiS1Yd62PicBjwatwBe1kh2UDWe3TYX7/mUTXxSKpxW7IfHP+QSuXoP3i5yJ0E0ZaIgJT4MSmHV8=;A06izZR60TEZ/BneiGzvsg=="
 ---
