@@ -103,6 +103,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Crypto-mining campaign targets Kubeflow installs on a large scale"
+    excerpt: "Microsoft uncovered a malicious campaign targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine cryptocurrency. Microsoft researchers uncovered a malicious campaign targeting Kub"
+    publishedDateTime: 2021-06-10T21:42:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/crypto-mining-campaign/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 39
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2021/06/Crypto-mining-campaign-targets-Kubeflow-installs-on-a-large-scale.jpg"
+        width: 697
+        height: 526
+        isCached: true
 
 secured: "ZRsvp573AsyWTkPqWXkrEH86TidZ2i3v2NX0fQJBvjGcJ/Gb3af0TqoNNZMoOu+TYP7ywGTw9WdQrkLAMt5uiuTSeOq1JhbkU9EKQtKlXEFg6ed4LbAWw6kCMEFGQgAuk2cBnbIQrnW5HvHXCHSp6+IAvOIV/fyQ8BG1H+921dTbResYI2HbvpYQ/TYUMbCgJ/2qK+JLBzmq2EPukVazz8KRVttxi8IO8RvPx8uRlMSNrSqea4A3+sT+hZznxNLrUEfe6le+ehVNlxnxYl/NfKvIFZS5HwWdredmAaQO8iEAemkuBH9WV5BNDEUCg5wcUU14gYRrzP5QD2MjJDyGbg9wqxVuFPN3fueUXQeLeTJJEuTtKAdTCYt0tEZOLbhjYZstCF1bx3CF1OmcEec59paPqfC98BwnqcNP4uRW7ATudEy86fhV5xjnsdeb0W2cF4uCx8GtkRugggq3Vc5QTZ8svC91NtdZMYSftC5dvA4UOUWScxMdIw1y2xCcWhmjT03h6CWPFGkte9WlpcJNUw==;TtFUJrMq49U9qVlg0Byj5w=="
 ---

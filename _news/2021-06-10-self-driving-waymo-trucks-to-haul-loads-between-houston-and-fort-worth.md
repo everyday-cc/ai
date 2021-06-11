@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-
 webUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/0e7f4fac-2e73-4dfa-aad5-a9b80a9e18e2.png?crop=true&height=430&t=1623334025&width=640"
         width: 600
         height: 315
+        isCached: true
+  - title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
+    excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
+    publishedDateTime: 2021-06-10T14:21:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15065975/jb-hunt-waymo-team-up-for-selfdriving-deliveries-in-texas"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/06/jb_hunt_waymo.60c1306ebb2fc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "J.B. Hunt, Waymo Partner to Test Self-Driving Trucks in Texas"
     excerpt: "J.B. Hunt Transport Services has partnered with autonomous vehicle developer Waymo to move freight with self-driving trucks in Texas."

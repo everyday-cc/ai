@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Waymo, J.B. Hunt form partnership centered on self-driving big rigs"
-excerpt: "Waymo's autonomous big rigs will soon be hauling goods along one of the busiest freight corridors in the country. The Google affiliate said Thursday it has partnered with trucking and logistics firm J."
-publishedDateTime: 2021-06-10T13:00:00Z
-originalUrl: "https://www.autonews.com/mobility-report/waymo-jb-hunt-form-partnership-centered-self-driving-big-rigs"
-webUrl: "https://www.autonews.com/mobility-report/waymo-jb-hunt-form-partnership-centered-self-driving-big-rigs"
+title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
+excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
+publishedDateTime: 2021-06-10T14:21:00Z
+originalUrl: "https://www.ccjdigital.com/equipment-controls/article/15065975/jb-hunt-waymo-team-up-for-selfdriving-deliveries-in-texas"
+webUrl: "https://www.ccjdigital.com/equipment-controls/article/15065975/jb-hunt-waymo-team-up-for-selfdriving-deliveries-in-texas"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: CCJ
+  domain: ccjdigital.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NEWWAYMO.jpg"
-    width: 800
-    height: 600
+  - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/06/jb_hunt_waymo.60c1306ebb2fc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+    width: 1200
+    height: 674
     isCached: true
 
 related:
@@ -53,20 +53,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
-    excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
-    publishedDateTime: 2021-06-10T14:21:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15065975/jb-hunt-waymo-team-up-for-selfdriving-deliveries-in-texas"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/06/jb_hunt_waymo.60c1306ebb2fc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "J.B. Hunt, Waymo Partner to Test Self-Driving Trucks in Texas"
     excerpt: "J.B. Hunt Transport Services has partnered with autonomous vehicle developer Waymo to move freight with self-driving trucks in Texas."
     publishedDateTime: 2021-06-10T13:00:00Z
@@ -80,6 +66,20 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/mashup.jpg?itok=qbvnb6Wk"
         width: 470
         height: 246
+        isCached: true
+  - title: "Waymo, J.B. Hunt form partnership centered on self-driving big rigs"
+    excerpt: "Waymo's autonomous big rigs will soon be hauling goods along one of the busiest freight corridors in the country. The Google affiliate said Thursday it has partnered with trucking and logistics firm J."
+    publishedDateTime: 2021-06-10T13:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-jb-hunt-form-partnership-centered-self-driving-big-rigs"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NEWWAYMO.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Online Exclusive: Waymo, J.B. Hunt partner on self-driving big rigs"
     excerpt: "Waymo L.L.C.'s autonomous big rigs soon will be hauling goods along one of the busiest freight corridors in the country. The Google affiliate has partnered with trucking and logistics firm J.B. Hunt Transportation Services Inc."
@@ -96,6 +96,6 @@ related:
         height: 600
         isCached: true
 
-secured: "iwdpXwWzOujCLzQEEnWIb6EitcfwKdtXu8Uk6WjILmxGqzjVYqu6WSszxH5yD1/KGYwkCyj6HOP811pwwXxo3DZl3lscLZCB87WdeXSJc784wGrKV3zUtx3x/AksOKadMDx65HR9a91Oz0KJAXRkCskb3JSGZqjlbzwC3Fo1qEOg6Cz9PnJlfs5aO80ugJ632vdPwMBPROmYUoTq3H0vE1WwiaIYaMZMeSuWSRSotVe4EAciHEiNCN/F+Ws/Z1H2x8NSEotSwO14yz7uB2HGxXhI1B7+2AYTOVF4uXhVqDNrcizYiqPDp5EuSz25RgCRsxhNFVbEMMVrSy2GtnPBaS2qs5Fd+UJor3qMY2RCMH8LQV3GjpnsyEbTIUfpqoRKI70a5UMS0up0JMdxZLiyByuWYe+4Mqhz4NYJKBJRVeyUi1/zqa9bOuzTZT98fukJtMXiFBVMClKDbsIWCG4VbnWt7ODIWOie2erzDUlG+rKP10OumBAwZPoeoDB5Vi5yC7zwd5OHFIUdiw6UD2vYRw==;aQyBZta+VcS9IDZfGpuNrg=="
+secured: "xUDpNCmTQcgEl6ddVf5W6nNsq6OFZ9zPs0F5QSMvLKfDpPnIQ2LcdNcyA3TBS0DL7xgVxROE88JkrDoE8OykCb4yk/Z0ZEvCTpVsAuW/Niz/SCWZS/UtqzxLw0fssF4oOZD5A7PQcsISzqDz8yf8GPtssJCRAMNfI1yDkHEoZnqT7cBl/ys/rhdfE0/4m+A49egnhhJIE1jKCf9MXAykaDTBpTY9U2Ixk1F2yGoHXhFONrv3DPjDLQR+2oUPqCXaJbiL5CojFmK2IVx0keynBg/Bu+yck4PCpJHudXmAEIqGpWC3aIQLferN6PgBWtRb/2zGka8ovSX4QcW5Z91CNzVj6yqPU85sjZ197Sw/iCI=;17wM14Mufm+nfWPmXPzOlw=="
 ---
 

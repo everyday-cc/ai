@@ -37,20 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "(Weekly Roundup) Top AI, Data Science, Analytics Appointments In India"
-    excerpt: "A round-up of the recent appointments across various tech leadership roles in India. Earlier this week, Bengaluru-based analytics company Course5 Intelligence announced leadership changes across its business verticals."
-    publishedDateTime: 2021-06-06T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/weekly-roundup-top-ai-data-science-analytics-appointments-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/analytics-appointment.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Before Jumping to Machine Learning, You Need a Solid Analytics Foundation"
     excerpt: "In this special guest feature, Michael Simms, Practice Director for Data & Analytics at Columbus Global Services, discusses four important elements of an effective data journey. Mapping a data journey provides awareness and understanding of where your organization is to ultimately get where you want to go,"
     publishedDateTime: 2021-06-08T13:00:00Z

@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 725
         isCached: true
-  - title: "(Weekly Roundup) Top AI, Data Science, Analytics Appointments In India"
-    excerpt: "A round-up of the recent appointments across various tech leadership roles in India. Earlier this week, Bengaluru-based analytics company Course5 Intelligence announced leadership changes across its business verticals."
-    publishedDateTime: 2021-06-06T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/weekly-roundup-top-ai-data-science-analytics-appointments-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/analytics-appointment.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "ListenFirst Launches Machine Learning Analytics with Instant Insights"
     excerpt: "ListenFirst, the premier enterprise social analytics solution, today announced the launch of Instant Insights, a new analytics feature that quickly shows how brands perform across social media. Leveraging years of intelligence gathered from working with the largest brands in the world,"
     publishedDateTime: 2021-06-09T17:39:00Z

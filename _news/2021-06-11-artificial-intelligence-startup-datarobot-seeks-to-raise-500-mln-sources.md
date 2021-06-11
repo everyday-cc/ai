@@ -2,39 +2,27 @@
 category: news
 title: "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources"
 excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
-publishedDateTime: 2021-06-10T19:44:00Z
-originalUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10"
-webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10"
-ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-startup-datarobot-seeks-to-raise-%24500-mln-sources-2021-06-10?amp"
+publishedDateTime: 2021-06-10T18:44:00Z
+originalUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
+webUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
 type: article
-quality: 98
-heat: 128
+quality: 78
+heat: 98
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 related:
-  - title: "Talent matching startup Eightfold AI raises $220 mln in round led by SoftBank Vision Fund 2"
-    excerpt: "Eightfold AI, a talent matching platform, said on Thursday it raised $220 million in a funding round led by SoftBank Group Corp's (9984.T) Vision Fund 2 that doubled the company's valuation since the previous funding round to over $2 billion."
-    publishedDateTime: 2021-06-10T08:00:00Z
-    webUrl: "https://www.reuters.com/article/us-eightfold-ai-softbank-funding/talent-matching-startup-eightfold-ai-raises-220-million-in-round-led-by-softbank-vision-fund-2-idUSKCN2DM0TP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 57
-    images:
-      - url: "https://www.reuters.com/resizer/W1JocnNLqZ9H6Tu23ejAWRt-sIg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3EZBALS5SBPH5HCFFLUS6YWONE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "DataRobot, West Virginia University Bring AI to Government"
     excerpt: "Having recently opened an office in Morgantown, West Virginia, the San Francisco-based artificial intelligence company will recruit new employees from the university and focus on education, health care and prosperity."
     publishedDateTime: 2021-06-10T17:20:00Z
@@ -64,6 +52,6 @@ related:
         height: 557
         isCached: true
 
-secured: "QlYj/QN/l7BPBaVM6PDS3R7Cgo2OUtN7J+UTyk4s2hEe5d2/D45/Fql16CDZWyknCheZHiqmpRB2pyH9kQQnA0QxxTIqgpZlL7mHtHWDhHHhtZ8nluMwbhOsXeHRmv5uAjFqU2SgOFf6pBUj0J/BBjeesYDG0E0JVUSgvEFRK4lpHY+1hY+6x7ceDd8McczQg00v8KY+BoBYWjKYH0dCByq3JQFlJK6bKHPWxgmjxo+ymtQ1W0PPiIw95wvpYTKVMl0pgnvx5OCP2FoxtIty+FBacLzJ0AqwhY2+W/sklcSK85pNuAjVsBhv7qV7SomqEFBkzIK6B3irs5aXSvW8d3+euW058wNcJbuY9R+HNoM=;hhLpn6rlBgQoI2h7E+ZFKw=="
+secured: "I8mTCwEwvVB3SeW9cQ867W5Xj13eM+f4zOr9aeqNO3Xfte0w/sMcmEV9Os4BAj1nXnjbvbCH8h5JndchTBPWsGgPQIX00FqYONsdabCwdSttss2jLWYNXklVTjHllcpcj2kuRTR1DQA3vPPAf46fY7+C8wwLnmeXBUQuGcagqppv207rfRsncLrOJvpRpUd3IauxpAs5jUJ/Zx2ksj2Jdq7qRQElnVH4oKj6msi9Yk1UGsFK2uPDd+F7e85tD6XeHcrkfffhSqEJ2Nq5qnMgKQmYvpTDYQb9dJIB174WHecCV5sGHPHMwAAZpwiZQWafqhOnqOqRUX/GHa3wTPNHjD0B2JioHHbT1a5Pw5Z8Vbo=;BzSldlhHbLhQ7uAsWgEF2Q=="
 ---
 

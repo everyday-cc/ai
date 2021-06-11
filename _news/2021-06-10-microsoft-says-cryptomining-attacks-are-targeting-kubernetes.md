@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-says-cryptomining-at
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
         width: 256
         height: 256
+        isCached: true
+  - title: "Crypto-mining campaign targets Kubeflow installs on a large scale"
+    excerpt: "Microsoft uncovered a malicious campaign targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine cryptocurrency. Microsoft researchers uncovered a malicious campaign targeting Kub"
+    publishedDateTime: 2021-06-10T21:42:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/crypto-mining-campaign/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 39
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2021/06/Crypto-mining-campaign-targets-Kubeflow-installs-on-a-large-scale.jpg"
+        width: 697
+        height: 526
         isCached: true
 
 secured: "MBBihZMQnRCuEsRi/oHoVs1YbDmIbtcC31SHInKGJpGT7Un/RaaP0pZOXZ0aOonyiov4leqD67cvQhejfxQpd8Z6xaH6unlJGzDyGDUvykxyk4AFdPEzDBJzj1G7fzy8OqOPiaOjmygfNARJPf9qlSkFE5+lruXmPbT4gzNLRhk8r+I9wadRPkV3RTyGHvtm2JVYlHt07/cYkH6CmAFyA+tdtIxvvagxcCFY2Z9+5ORnVgQ9TC/8ntZjpeg2+m3oE2zbNYw1qTCGxePUHsAWGl+kskSqDlXOoLGkD15JoZeFxsPGzurfZET6XQEYk5N2JAaTskpzV11u2TZj7ZKesF+fLLLmCcvOoBR1s+Ihh/o=;Fa3uPgy2xaN1fhn3ipdCVA=="

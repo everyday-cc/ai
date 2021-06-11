@@ -53,6 +53,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
+    excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
+    publishedDateTime: 2021-06-10T14:21:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15065975/jb-hunt-waymo-team-up-for-selfdriving-deliveries-in-texas"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/06/jb_hunt_waymo.60c1306ebb2fc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Waymo, J.B. Hunt form partnership centered on self-driving big rigs"
     excerpt: "Waymo's autonomous big rigs will soon be hauling goods along one of the busiest freight corridors in the country. The Google affiliate said Thursday it has partnered with trucking and logistics firm J."
     publishedDateTime: 2021-06-10T13:00:00Z

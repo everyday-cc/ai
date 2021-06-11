@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Crypto mining hackers hit Kubernetes clusters"
-excerpt: "Security researchers have warned of hackers ' continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
-publishedDateTime: 2021-06-10T14:32:00Z
-originalUrl: "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters"
-webUrl: "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters"
-ampWebUrl: "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp"
+title: "Crypto-mining campaign targets Kubeflow installs on a large scale"
+excerpt: "Microsoft uncovered a malicious campaign targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine cryptocurrency. Microsoft researchers uncovered a malicious campaign targeting Kub"
+publishedDateTime: 2021-06-10T21:42:00Z
+originalUrl: "https://www.cyberdefensemagazine.com/crypto-mining-campaign/"
+webUrl: "https://www.cyberdefensemagazine.com/crypto-mining-campaign/"
 type: article
-quality: 74
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cyber Defense Magazine
+  domain: cyberdefensemagazine.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815742/itpro/2018/01/bitcoin_mining_cryptocurrency.jpg"
-    width: 1260
-    height: 710
+  - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2021/06/Crypto-mining-campaign-targets-Kubeflow-installs-on-a-large-scale.jpg"
+    width: 697
+    height: 526
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Crypto mining hackers hit Kubernetes clusters"
+    excerpt: "Security researchers have warned of hackers ' continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
+    publishedDateTime: 2021-06-10T14:32:00Z
+    webUrl: "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters"
+    ampWebUrl: "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815742/itpro/2018/01/bitcoin_mining_cryptocurrency.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Microsoft warns of cryptomining attacks on Kubernetes clusters"
     excerpt: "Microsoft warns of an ongoing series of attacks compromising Kubernetes clusters running Kubeflow machine learning (ML) instances to deploy malicious containers that mine for Monero and Ethereum cryptocurrency."
@@ -107,21 +117,7 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Crypto-mining campaign targets Kubeflow installs on a large scale"
-    excerpt: "Microsoft uncovered a malicious campaign targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine cryptocurrency. Microsoft researchers uncovered a malicious campaign targeting Kub"
-    publishedDateTime: 2021-06-10T21:42:00Z
-    webUrl: "https://www.cyberdefensemagazine.com/crypto-mining-campaign/"
-    type: article
-    provider:
-      name: Cyber Defense Magazine
-      domain: cyberdefensemagazine.com
-    quality: 39
-    images:
-      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2021/06/Crypto-mining-campaign-targets-Kubeflow-installs-on-a-large-scale.jpg"
-        width: 697
-        height: 526
-        isCached: true
 
-secured: "CRWLy9sQlLnVrlTQSjA9lmu/9RDDLf8RZi5H2y27Za7L8fq78pAJFX2UJZa1Kul02WY+rWzA+TGJS3+FCsSjtMENZANFFuEntpgGUDeB6UFlf+mW00ftldT/cPAWvGQ6fQANyjDQirv7MJTvbLVhUt2Tu75yv3+d6oFPY+o4NlGJcaLS436O1LIFM4+naMHiulxUByduBQaoqUTk+UGUzfgazLqujQn99kuqSG2oa1/c99eNhX91uNjZLEDZu/lG7ieaJj91fTotWiDRJ1h53iNy9XU2IM7fIXoZ5WXxnXMv+rO+xK72P9p9yuK8vGGBiLXV0H3/Fw15dS/bez28a663FWYP6rhwzSP2JMUhmqSHhe6+mBGuBIOJFzr25F/+246NnehcvTu6eao7VuN1c50fsL6mXus6OqE+R6hhNRei+k2eNOfKbo/rouUIEN9WYYMNNTDJ7ShxKri5tidFbWNQ5DhbSmuyv3REOSVi7mWMtZgkX9K2gMwPdK7RN9uCPh7BDI4k3v5j/IoOGUOm7g==;6BchBuJB/bvhtdKtAEXcTA=="
+secured: "hcI9Cq++zKtRsXTHuzketoHjOrFvmqg4z139BhomTscrgLFZuETXQGPhUZD/D4fxJTqmJqXJGf7PYQu2pnqH65IXrs2U5hXhuIje21XcRUcPkAQWLEWIPpg9tyz5kl80X4rHSCYHrD91AggQ1E05a9UXDWEX8BfQLJs3Fh/mJ8wOaA+tFh/j1nuvc3lAJkZGbb/WAx/0k3SdlvNuUmMROq398HmIKon/ROMJwI1hvIzPOz6dezcfQFn1JrXG8ZD/3bTPTlYej/8wj7hEanZ/CJYjv8IDwvf3Pr8dGkFYPIC93kLrryXLb2qhNggmljzVe3qMBirzc++2O/p9fO6p/DSA4u/SCPu40itov+kKRHM=;8RbRY+3DajBGP+f46MKXDA=="
 ---
 
