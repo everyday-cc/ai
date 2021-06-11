@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: ilyasut
   url: https://twitter.com/ilyasut
-  followers: 65372
+  followers: 65376
 
 googleScholar:
   url: https://scholar.google.com/citations?user=x04W_mMAAAAJ
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Ilya Sutskever"
 
-secured: "iABYCibUfvPk2aesQe+ShtbvoOq3vwSM3f/RB6/jUnr6KC7+cj5AVFH+Jfq0NmoU9FKJoTwokGDpFCIlHRV43SwYH2UQhBtezVoU81caSlqR7OyjMPJBYR1PqX5wHQpelh8t32hhTaQ3hTgEnqYO0x8d3E/yj4EsBCWevMKIwoJJmF1lfMuxm8sgeAy2Yn+pGQmBaGk3oT8jTr/1JsnHMUxjybaGGCzn40CulVu6ohyT9ArahUKI3SEPEG8hGzaLYQgn2VfDYCE82xk3w4I/OOpeNYLpke+JGotjK7svnN0JqhdZFwN93NDdL4HKr40/ApHEaT3LMYG5Y9GhAr90rLNISr1/J+J7IdCqrvaof7DSbsTV6MPdSSgxjXe/LcWzDLicK2pqCpEK2a9O7Mlc09XlJUOjuO8vqzbZzkExfys=;PLa1JTd0ykikPnd2plw/vw=="
+secured: "e9lpfRMuMgweLuWsgp7xhjjSMKP6/l6T9CuHh0AIOBqn4LvKr1t+chk68AO45EaQHESSG3KyqLenmgV3gs+uSEjIGBpUc0rKR9cBnSWsKxG3r3cAAuERii4IUgBQFTNSrxeaQP3AQsmmAUCzNx4uWJYKWWmhM6nt4Kja26erlWYz6OnFF3JGUS/jFcfuhdZEGUcTzlTTsdNbNwEJDyLXdvdqRtEEums8KBm+Kn99LbaA6kWff6sWtG4bx9bXBWYD6u8VPZmRB8m+7NrFKCadDLMtmW2yKjrYe54qeJeUJUI+0dtfUPELioVDR/++nmwF802Hn+PauEYa57hllJ2ysntGG5TAVY2RK0y4daxD69QUtSk1BcTz7WnfhCSB1yqIotNk7DJgVKK/UE06gqFNkwbDV+t/XAO0P58H44F9GTI=;VvuBrmJGrD+mbwKQkdlg4w=="
 ---
 
