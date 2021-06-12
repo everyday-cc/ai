@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/6/3456e.jpg"
         width: 1736
         height: 889
-        isCached: true
-  - title: "It's Safe To Return To The Office: Coretrust Deploys First AI COVID-19 Disinfecting Robots At Properties Plus Other Anti-COVID Tech"
-    excerpt: "Coretrust Capital Partners has unveiled ADIBOT UV-C Disinfecting Robots that disinfect air and surfaces against COVID-19 and other harmful airborne pathogens as the centerpiece of multiple anti-COVID technologies at its office properties,"
-    publishedDateTime: 2021-06-07T19:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/it-s-safe-to-return-to-the-office-coretrust-deploys-first-ai-covid-19-disinfecting-robots-at-properties-plus-other-anti-covid-tech-1030500946"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1527606/CoreTrust_Robot_2_3.jpg"
-        width: 400
-        height: 309
         isCached: true
   - title: "Machine learning applied in SARS-CoV-2 COVID 19 screening using clinical analysis parameters"
     excerpt: "COVID-19 was considered a pandemic by the World Health Organization. Since then, world governments have coordinated information flows and issued guidelines to contain the overwhelming effects of this disease."

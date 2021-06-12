@@ -99,20 +99,6 @@ related:
         width: 1736
         height: 889
         isCached: true
-  - title: "It's Safe To Return To The Office: Coretrust Deploys First AI COVID-19 Disinfecting Robots At Properties Plus Other Anti-COVID Tech"
-    excerpt: "Coretrust Capital Partners has unveiled ADIBOT UV-C Disinfecting Robots that disinfect air and surfaces against COVID-19 and other harmful airborne pathogens as the centerpiece of multiple anti-COVID technologies at its office properties,"
-    publishedDateTime: 2021-06-07T19:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/it-s-safe-to-return-to-the-office-coretrust-deploys-first-ai-covid-19-disinfecting-robots-at-properties-plus-other-anti-covid-tech-1030500946"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1527606/CoreTrust_Robot_2_3.jpg"
-        width: 400
-        height: 309
-        isCached: true
 
 secured: "vWu6D6VsqYmM3eFaFCcHVdNeQ/EJ/G8GCObAxXejudlZqcSr7eEfL829iromJwCuuZlQT37xkK4I51bJIXAuGQnX6JVT1PY9Tj83Kd2vSNMUm9HAnvGLn2BAQvGk+YujtZxpY4d2rleuFlY8BRe7v9A2MFMLPhNU2YagG0+zP3D3UXS2EFJvE5vMuLMZ3O5b5g7HPNljRwWYVl3/x9oqAiv8NE9PCQBLTRC0NWspvz3IFLXorvcvFl2j/oUx7Ftv5ZQdke8JycJCf1YcD9v2uzwV0+1ZXa6mQUDLek05pzkFy8imZA2XduxhcOuPDp3NgQ717gGxS4VJi0khVe93uSgYb580vZqvJr8et/tYxuw=;mThf7xFdTD8+4Cd/mb34Yg=="
 ---

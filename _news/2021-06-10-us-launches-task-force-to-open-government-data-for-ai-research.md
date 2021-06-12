@@ -46,6 +46,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Artists use artificial intelligence to bring their creations to life"
+    excerpt: "Albert Einstein has been credited with saying \"creativity is intelligence having fun.\" Einstein would likely be impressed with the artificial intelligence now being used to help create modern works of art,"
+    publishedDateTime: 2021-06-12T13:13:00Z
+    webUrl: "https://www.cbsnews.com/video/artists-use-artificial-intelligence-to-bring-their-creations-to-life/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/12/637b96f2-baff-40c9-8a3e-e52cc3d25007/thumbnail/1200x630/9a0e4a50d7bf6eb0ce3ece37e29a0481/0612-satmo-aiart-slivabraga-733346-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Task force to find ways to make U.S. government data available for AI research"
     excerpt: "A U.S. government task force launched today is working on a strategy to provide artificial intelligence researchers with access to massive amounts of data on American citizens. The National Artificial Intelligence Research Resource Task Force is part of a broader effort to ensure the U."
     publishedDateTime: 2021-06-11T00:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2303777/facial-recognition-market-predict
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/Voice_recognition_promo.60c0c0cb43e4c.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial Recognition Market to Witness Increase in Revenues by 2025"
-    excerpt: "Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation of facial recognition software and sensors in top end smartphones of all major companies."
-    publishedDateTime: 2021-06-07T19:39:00Z
-    webUrl: "https://www.pr-inside.com/facial-recognition-market-to-witness-increase-in-revenues-by-r4833762.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 39
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
     excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"

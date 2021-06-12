@@ -57,6 +57,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft claims AI is neither artificial or intelligent"
+    excerpt: "The Vole nose Microsoft researcher Kate Crawford has told the Guardian that AI as we know it is neither artificial or intelligent. Crawford knows her brains she studies the social and political implications of artificial intelligence,"
+    publishedDateTime: 2021-06-08T10:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
+        width: 620
+        height: 467
+        isCached: true
   - title: "Rezolve.ai Introduces New Features for Its Microsoft Teams Enterprise Service Management Platform"
     excerpt: "Rezolve.ai, a leading AI-powered Microsoft Teams employee support and engagement solution, announces new advanced features in the platform’s latest release."
     publishedDateTime: 2021-06-11T07:06:00Z

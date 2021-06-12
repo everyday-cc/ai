@@ -7,8 +7,8 @@ originalUrl: "https://www.mckinsey.com/featured-insights/future-of-work/forward-
 webUrl: "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: McKinsey & Company
@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says"
-    excerpt: "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,"
-    publishedDateTime: 2021-06-07T20:25:00Z
-    webUrl: "https://www.livescience.com/orwellian-artifical-intelligence-future.html"
-    ampWebUrl: "https://www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
-    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 73
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XzcsabCGgMLoKQLgBzFk9E-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Microsoft claims AI is neither artificial or intelligent"
-    excerpt: "The Vole nose Microsoft researcher Kate Crawford has told the Guardian that AI as we know it is neither artificial or intelligent. Crawford knows her brains she studies the social and political implications of artificial intelligence,"
-    publishedDateTime: 2021-06-08T10:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
-        width: 620
-        height: 467
-        isCached: true
   - title: "Microsoft Announce Powerful New Threat Detection Solution in Azure"
     excerpt: "Microsoft has announced new ‘seamless’ integration between their two services: Azure Firewall and Azure Sentinel. Azure Firewall is a Cloud-native network security service. It is a stateful firewall as a service (FaaS),"
     publishedDateTime: 2021-06-11T10:04:00Z

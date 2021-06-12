@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-11T04:00:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-06/sonm-dlw061021.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-06/sonm-dlw061021.php"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/267652_web.jpg"

@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market to Witness Increase in Revenues by 2025"
-    excerpt: "Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation of facial recognition software and sensors in top end smartphones of all major companies."
-    publishedDateTime: 2021-06-07T19:39:00Z
-    webUrl: "https://www.pr-inside.com/facial-recognition-market-to-witness-increase-in-revenues-by-r4833762.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 39
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
     excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
     publishedDateTime: 2021-06-10T01:50:00Z
@@ -108,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fviokvCUYEWWHh/wwg/21EruXx+ckRz9IMBaa5aqYzicp62qSDu73PvY/32aQV9VTNSeKS8RaxRebhPOPk0z8IqHs2TAYxD2nxkMYsv/YXVcRf/PLMdmeUSWiLBBPRa9b07bV0clsOzfeGkEL7pKjY6LVqeFblrD3p48TemKk0hg6qaxWnIMblXJZ1jzoPRCcRXiR31ADe+iqJuntU1wCoNlYuoz2puyPoV5BpxXg3lbQkmLRls7/IUWrfR4Qdhq8z4zZU6zi4sSLkxrQiOvhAfRaT8CCDosnqvyaagtq3jcJFhzkL6+xRCf8fGUitpiXnutWLUw932YmXt2g10q9KeJ4wgakhhj8iE5j6DZRWQ=;mZmaXWyd+3A0ZVGamZlb4Q=="
+secured: "2MmO1CEZiqwaLSLz1SFRzrlD82bvhPETPyebXOaH+Omes9aYBnED8X//Al6LIZBZ5qXlaWKcMf9qYE0nKPJpOnJ+pR0X6wW8yhu8KpLISdWLN2h1pKEVmoIWUkrJ+hiHSX1U2RmLrFPSTo5d8Zu9GZkL679WeZ7Gcj8EFGNSTij0PRCeab9uwFINYHRruWe6ZYJzRMwVwISSWC93EyE+S9ERUUJm+HHjYDLigLoliXMtJpgUlS3Q12EfqRtjSF31rEE0gEwlNux2h14HVVGwChYih5nM/H9ugi1kDTFdQmFg8K5MJPbu87EOMfBVjeMRgMY+aHISd6x7D5zTz9gS4NLz94xhilOyP2fvnU+hsF4=;MjvLxCC18FTme3CsbSrwvA=="
 ---
 

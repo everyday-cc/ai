@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/slide-shows/cloud/7-things-to-know-about-aws-m
 webUrl: "https://www.crn.com/slide-shows/cloud/7-things-to-know-about-aws-ml-swami-sivasubramanian/6"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 610
     height: 459
     isCached: true
-
-related:
-  - title: "7 things to know about AWS ML: Swami Sivasubramanian"
-    excerpt: "Machine learning is one of the most transformative technologies of this generation, but the tech community only is “scratching the surface” when it comes to what’s possible, according to Amazon Web Services artificial intelligence and machine learning vice president Swami Sivasubramanian."
-    publishedDateTime: 2021-06-07T19:35:00Z
-    webUrl: "https://www.crn.com.au/news/7-things-to-know-about-aws-ml-swami-sivasubramanian-565608"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/swami-sivasubramanian-aws.jpeg"
-        width: 610
-        height: 459
-        isCached: true
 
 secured: "MTlG1itWFP8TzwBGHUpqoG1f6cHK1uqG6gcm0tlj9Nlnkg6vEyPX881r11GnpSSSFgnrQePK3tLKhuJ3of3s9hCePWarlv8i5g6g5U55D3E/1+qcXt12NlY28+X16zeNfq7+Qzme3mraa1PgKyc/7a9mHHVJdFj0KyITWydPhsL5kuEXJVHmDtAZe2WAEJTSgCmBdkLixXdNfijithHqxRMyUm4mUYSYX3VSlY2rSwzaO9S7iWM4L1bclSIkj+5r8Poam+CwfPQ7LtBMQulhKYi/Il0TpmMV558HVWB1S+Xyeg/MmI78JlymknItpD/vYGxo4gNe4K4w3gZaZkejb8TRFfzBNE0YSICNbDi77X0=;z/E0Tq2xS2chArEGN0YUPw=="
 ---

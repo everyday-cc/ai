@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-performance-g
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/3-3842-Architecture.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Human-in-the-loop review of model explanations with Amazon SageMaker Clarify and Amazon A2I"
-    excerpt: "Domain experts are increasingly using machine learning (ML) to make faster decisions that lead to better customer outcomes across industries including healthcare, financial services, and many more. ML can provide higher accuracy at lower cost, whereas expert oversight can ensure validation and continuous"
-    publishedDateTime: 2021-06-07T20:05:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-review-of-model-explanations-with-amazon-sagemaker-clarify-and-amazon-a2i/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 79
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/24/1-2119-Architecture-1.jpg"
-        width: 801
-        height: 522
         isCached: true
   - title: "Build patient outcome prediction applications using Amazon HealthLake and Amazon SageMaker"
     excerpt: "Healthcare data can be challenging to work with and AWS customers have been looking for solutions to solve certain business challenges with the help of data and machine learning (ML) techniques. Some of the data is structured, such as birthday, gender, and marital status, but most of the data is unstructured,"

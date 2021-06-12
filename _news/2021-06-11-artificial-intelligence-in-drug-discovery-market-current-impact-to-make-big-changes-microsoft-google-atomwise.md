@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.openpr.com/U/6/U611505535_g.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Microsoft claims AI is neither artificial or intelligent"
+    excerpt: "The Vole nose Microsoft researcher Kate Crawford has told the Guardian that AI as we know it is neither artificial or intelligent. Crawford knows her brains she studies the social and political implications of artificial intelligence,"
+    publishedDateTime: 2021-06-08T10:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53002-microsoft-claims-ai-is-neither-artificial-or-intelligent"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
+        width: 620
+        height: 467
         isCached: true
   - title: "AI in Social Media Market Detailed Insights on Upcoming Trends 2021 to 2031 | Google LLC, Microsoft Corporation, Facebook, Inc., Amazon Web Services"
     excerpt: "(Trending Report Jun 2021) insightSLICE has recently published the AI in Social Media Market informational report which presents a large-scale guideline concerning present and past market trends, market size,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.aclu.org/press-releases/bill-regulating-government-use
 webUrl: "https://www.aclu.org/press-releases/bill-regulating-government-use-facial-recognition-moves-out-maine-house-committee"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "A year later, tech companies' calls to regulate facial recognition met with little progress"
+    excerpt: "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance."
+    publishedDateTime: 2021-06-12T11:30:00Z
+    webUrl: "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 81
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
+        width: 3065
+        height: 2043
+        isCached: true
 
 secured: "qqJ0F7w/6ImzKt+2hwK3KBR6NGGiyG7KlmY9qyM/SFGEAmByX7GWlcq+D5qDDS6m7dFesfYT+lYlRg3l9JKB+DjTZDRRjN0N++qPX8xLEHHrg6myXKQn8dKb7+OFGjq0w8+xBvGsEvyknES+7YdmPsPhJNq9vRdsnM7VH7EgoLXOdhVteskl6rvkGy/Kplr5DO1mPdFBIhd1kj7zcd/sDHt9aTKZwdD7nsfkQiR5hUnnUgDHMeoz1+QMa5RrYEDvSDqJeEMKFz3l4x4S9aOHRYB8HnbnY21u1Xwi5xQgscmPjovgvvHt5Oa/GFWmpFEoTa9ufqyTGJDd88xAWnqTqk5AwxlJ8SPe6tC8bBKVgpQ=;HRz1Zb6mKCcH6SX0Lb4RWg=="
 ---

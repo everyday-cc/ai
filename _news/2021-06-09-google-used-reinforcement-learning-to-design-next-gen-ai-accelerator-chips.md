@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/google-used-reinforcement-learnin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/"
 type: article
 quality: 104
-heat: 284
+heat: 304
 published: true
 
 provider:
@@ -35,9 +35,9 @@ related:
   - title: "Google is training AI to design the next generation of chips"
     excerpt: "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads."
     publishedDateTime: 2021-06-11T09:17:00Z
-    webUrl: "https://www.techradar.com/news/google-is-training-ai-to-design-the-next-generation-of-chips"
-    ampWebUrl: "https://www.techradar.com/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    webUrl: "https://www.techradar.com/uk/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
     type: article
     provider:
       name: TechRadar
@@ -77,6 +77,36 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1623258484_ai_vs_human_chip_design_(source-_nature)_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "DeepMind researchers say reinforcement learning is the key to cracking general AI"
+    excerpt: "DeepMind scientist suggest that reward maximization and trial-and-error experience are enough to lead to the development of artificial general intelligence."
+    publishedDateTime: 2021-06-12T10:03:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 79
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F2BDSF.jpg&signature=c72563bebf471ce23430f8ec3480edde"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google team uses AI to create next-gen chips faster than humans"
+    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
+    publishedDateTime: 2021-06-12T13:16:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Google has used AI to gamify the design of computer chips"
     excerpt: "Google researchers have found through the development of an AI model, the technology could design the layout of a computer chip faster and more efficiently than those designed by humans."

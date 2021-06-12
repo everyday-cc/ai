@@ -60,20 +60,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "DOE announces $1 million in funding for privacy-preserving artificial intelligence research"
-    excerpt: "WASHINGTON, D.C. - Today, the U.S. Department of Energy (DOE) announced $1 million for collaborations in privacy-preserving artificial intelligence research. The aim of this funding is to bring together researchers from the DOE National Laboratories and the National Institutes of Health (NIH) to jointly develop new flagship datasets and privacy-preserving methods and algorithms to improve healthcare."
-    publishedDateTime: 2021-06-07T20:00:00Z
-    webUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
     publishedDateTime: 2021-06-10T17:00:00Z

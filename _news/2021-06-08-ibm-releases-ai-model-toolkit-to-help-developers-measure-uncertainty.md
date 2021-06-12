@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-deve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Python toolkit measures AI uncertainty"
-    excerpt: "IBM’s Uncertainty Qualification 360 is an open source library of Python algorithms for quantifying, estimating, and communicating the uncertainty of machine learning models."
-    publishedDateTime: 2021-06-07T20:45:00Z
-    webUrl: "https://www.infoworld.com/article/3620942/ibm-python-toolkit-measures-ai-uncertainty.html"
-    ampWebUrl: "https://www.infoworld.com/article/3620942/ibm-python-toolkit-measures-ai-uncertainty.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620942/ibm-python-toolkit-measures-ai-uncertainty.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.techhive.com/images/article/2014/10/failure_defeat_inaccuracy_mistakes_aim_miss_target_dartboard_goal_aspiration_thinkstock_b-100476633-large.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "IBM Releases AI Toolkit for Deep Learning Uncertainties"
     excerpt: "Deep learning is smart and it knows it. It loves to show off its ability to connect dots no one else can see, to be the smartest in the room. But that’s when deep learning can go wrong – when it thinks it knows everything."
     publishedDateTime: 2021-06-08T16:23:00Z

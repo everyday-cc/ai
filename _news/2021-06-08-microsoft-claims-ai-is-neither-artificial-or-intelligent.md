@@ -26,50 +26,59 @@ images:
     isCached: true
 
 related:
-  - title: "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says"
-    excerpt: "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,"
-    publishedDateTime: 2021-06-07T20:25:00Z
-    webUrl: "https://www.livescience.com/orwellian-artifical-intelligence-future.html"
-    ampWebUrl: "https://www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
-    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
+  - title: "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise"
+    excerpt: "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market."
+    publishedDateTime: 2021-06-11T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
     type: article
     provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 73
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XzcsabCGgMLoKQLgBzFk9E-480-80.jpg"
-        width: 480
-        height: 270
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Forward Thinking on artificial intelligence with Microsoft CTO Kevin Scott"
-    excerpt: "How could AI help create jobs even in rural areas, and what would it take? In this podcast episode, Kevin Scott shares his ideas with James Manyika."
-    publishedDateTime: 2021-06-10T12:00:00Z
-    webUrl: "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott"
+  - title: "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft"
+    excerpt: "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
+    publishedDateTime: 2021-06-11T12:55:00Z
+    webUrl: "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
+    ampWebUrl: "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
     type: article
     provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 60
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
     images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/forward%20thinking%20on%20artificial%20intelligence%20with%20microsoft%20cto%20kevin%20scott/mgi_ft_kevin-scott_hero_1536x1536-option1_vf.png"
-        width: 1536
-        height: 1536
-        isCached: true
-  - title: "Microsoft Announce Powerful New Threat Detection Solution in Azure"
-    excerpt: "Microsoft has announced new ‘seamless’ integration between their two services: Azure Firewall and Azure Sentinel. Azure Firewall is a Cloud-native network security service. It is a stateful firewall as a service (FaaS),"
-    publishedDateTime: 2021-06-11T10:04:00Z
-    webUrl: "https://latesthackingnews.com/2021/06/11/microsoft-announce-powerful-new-threat-detection-solution-in-azure/"
-    type: article
-    provider:
-      name: Latest Hacking News
-      domain: latesthackingnews.com
-    quality: 54
-    images:
-      - url: "https://latesthackingnews.com/wp-content/uploads/2021/06/security-1163108_640.jpeg"
+      - url: "https://cdn.openpr.com/U/6/U611505535_g.jpg"
         width: 600
-        height: 362
+        height: 315
         isCached: true
+  - title: "AI in Social Media Market Detailed Insights on Upcoming Trends 2021 to 2031 | Google LLC, Microsoft Corporation, Facebook, Inc., Amazon Web Services"
+    excerpt: "(Trending Report Jun 2021) insightSLICE has recently published the AI in Social Media Market informational report which presents a large-scale guideline concerning present and past market trends, market size,"
+    publishedDateTime: 2021-06-10T11:56:00Z
+    webUrl: "https://ksusentinel.com/2021/06/10/ai-in-social-media-market-detailed-insights-on-upcoming-trends-2021-to-2031-google-llc-microsoft-corporation-facebook-inc-amazon-web-services/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 34
+    images:
+      - url: "https://giffiles.alphacoders.com/120/120251.gif"
+        width: 480
+        height: 306
+        isCached: true
+  - title: "Rezolve.ai Introduces New Features for Its Microsoft Teams Enterprise Service Management Platform"
+    excerpt: "Rezolve.ai, a leading AI-powered Microsoft Teams employee support and engagement solution, announces new advanced features in the platform’s latest release."
+    publishedDateTime: 2021-06-11T07:06:00Z
+    webUrl: "https://www.pr.com/press-release/838162"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 21
 
 secured: "xJPf1wGDaucRi3/JInWHiNrGw/HMEgSNHMWFSbtbpf0i0BEF2ypZ7ejXlIM6rAiLuyxXioE+JrW3wooctKAzLUiWTEd7tBFpy0iDXWsdXw3g1Me5WldKLkejbX8/O0MnuVTLaLVjxYOpFuMZHVq0b8eUbtKYi2FTEuTXYN9UD0q2TNk7q+cBewpGEzdxwD3VT30u8cBbQF6gbMgZu8xjjlc0JWs2mdulgno6AfV/H5lr9xDWDn7IM1st/nPIeZpJX79SnQPP1F7iqyRC8/MGGq6p376VQuNOLYeFsUB95FL7YLj0lCrRNlOP84jyH6BPAPBb2JHTU2xL+o8bV7yllEdoZH2v+rEJLFKF1ELvLFPrPZ+Dz0Y9T6pVHk3m25VpWsARhqD4MKPfo+eYJa2kFU5jkNbjXbxKo4IlHnhD/piuvBLOjc6E+HeigEncNTmMq+9Z9QajZSNHoyVZ893rYM/0OfAAdTRmDSoWXuWgR2WkdIi2CThe/AwixtFQ/reuFR3wKI41D4Ruyv2MKSjZ7A==;ZSQTNKBQx337odt7tonumg=="
 ---
