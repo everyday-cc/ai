@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 56936961
+        "followers": 56936962
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -51,11 +51,11 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 672995
+        "followers": 673166
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
-        "citations": 1999
+        "citations": 2012
       },
       "affiliation": {
         "path": "",
@@ -251,7 +251,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 119909
+        "followers": 119907
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -295,11 +295,11 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 259506
+        "followers": 259523
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 200169
+        "citations": 200551
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
@@ -438,7 +438,7 @@
       "twitter": {
         "username": "jovialjoy",
         "url": "https://twitter.com/jovialjoy",
-        "followers": 61786
+        "followers": 61792
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/buolamwini/"
@@ -480,7 +480,7 @@
       "twitter": {
         "username": "katecrawford",
         "url": "https://twitter.com/katecrawford",
-        "followers": 74937
+        "followers": 74944
       },
       "topics": [
         "AI"
@@ -511,7 +511,7 @@
       "twitter": {
         "username": "chelseabfinn",
         "url": "https://twitter.com/chelseabfinn",
-        "followers": 37654
+        "followers": 37659
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1xw2vTsAAAAJ",
@@ -593,11 +593,11 @@
       "twitter": {
         "username": "smolix",
         "url": "https://twitter.com/smolix",
-        "followers": 17193
+        "followers": 17194
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
-        "citations": 139991
+        "citations": 140156
       },
       "affiliation": {
         "path": "",
@@ -645,7 +645,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 171233
+        "citations": 171456
       },
       "affiliation": {
         "path": "",
@@ -682,7 +682,7 @@
       "twitter": {
         "username": "jeffdean",
         "url": "https://twitter.com/jeffdean",
-        "followers": 190608
+        "followers": 190605
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
@@ -909,7 +909,7 @@
       "twitter": {
         "username": "awmcmu",
         "url": "https://twitter.com/awmcmu",
-        "followers": 6052
+        "followers": 6053
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrew-moore-016b751"
@@ -944,7 +944,7 @@
       "twitter": {
         "username": "jeanliuqing",
         "url": "https://twitter.com/jeanliuqing",
-        "followers": 1212
+        "followers": 1211
       },
       "weibo": {
         "url": "https://www.weibo.com/u/2209030102",
@@ -1334,11 +1334,11 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 81149
+        "followers": 81152
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
-        "citations": 161796
+        "citations": 162047
       },
       "affiliation": {
         "path": "",
@@ -1394,7 +1394,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 125839
+        "citations": 125953
       },
       "affiliation": {
         "path": "",
@@ -1446,7 +1446,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 251565
+        "citations": 267492
       },
       "affiliation": {
         "path": "",
@@ -1483,7 +1483,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 10610
+        "followers": 10612
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -1522,7 +1522,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 257429
+        "citations": 257785
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -1559,7 +1559,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 225053
+        "citations": 225139
       },
       "affiliation": {
         "path": "",
@@ -1630,7 +1630,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
-        "citations": 47834
+        "citations": 47910
       },
       "wikipedia": {
         "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
