@@ -2,7 +2,7 @@
 name: "Alegion"
 overview: "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale."
 type: "profile"
-heat: 58
+heat: 42
 
 website: https://www.alegion.com/
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "xROfcupbZwo15ziKoshQblpyAfGnFRarDfHj3Z8/p2im3tucuSuXONl65gQ/WgBzeUtK7wqPAk3JTQFFo3qsDwxOkuln8ZMUzy3mkFV2v52MXVbO6qoxuvSUUKzwyr+VihVlwneMvh4SAHQehCUYA9pHzvjVZtCEntrg66hzBUzOx7fD9TbdDCQ6rAbVPBJ49OVG2Y3qEUDJ5y4VYOLt7prl1u0RM+0Aa/6UYh+0giWRPGfEfe674lLYzHFlyRFZvqwslixHv2zfJQQEdJy5mGO3rV05aSRgzdd4N8S0O1iTZesK+xYXuYTqLi6FmXcknOPOP/GBLs7Hmzj7usTra8RChmKnqx0Bjkb2H5KbWBV1XrE+QZ5SI76JFkJ6AclIVzJ4bJU+k5X5YaCu3MCJtXwYlIFm1XHdQoK+j/vd3IA=;vVUkLmzXi6QH0Cy3plOKWw=="
+secured: "NyUftLZ3ygz1O6yxc8wScPGX9DS6AV6CR22DBRC3bygKfsMWttkSHe6A9eF9Tp9IKbyIV0/teXNLBEt9MRXo7rjb7vZNU4MwakRma9T9K5pLHndanxzFr1wFwrNzm2VOKnB1f6gOk0IoxS21eceSGgRENLrzoSOm9KC/v++nmSC1gkv49AZGuKhjpPieGBczrrlAmc2cRj0tTtSrpYil7XtTAZUVisVF9wXpfvqA8euyjND9/uKHhvse2DIRW8o/xNMc7nCh1Na5Due/m3fAQ13OUa5uiXl7AgicQK/lsE/lMrGHfmsaIvsp2V08oJ5yuekSg6q6SCs5SLB+/A29jpGCIren1J6OjNl3eePVTEn1N4FtbQrgMIlZ3gzPPOJWddWju2fPn0qVFdIOr4DKj+DeH8FuPJRqhmZx2ppXMSI=;kJrpwfqrQ3nM8X8wShiWAQ=="
 ---
 

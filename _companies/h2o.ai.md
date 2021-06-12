@@ -2,7 +2,7 @@
 name: "H2O.ai"
 overview: "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai."
 type: "profile"
-heat: 0
+heat: 118
 
 website: https://www.h2o.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "h2oai"
   url: "https://twitter.com/h2oai"
-  followers: 21788
+  followers: 21789
 
 size: 51-200 employees
 yearFounded: 2012
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "qPyj0ABW1bcvptJ4uoqSqP2Cv4vDHxINAdhjlHAlQ+x6JUfjviN4J6H6+gLZR8796etOqY6HOvmFuromW5wBvmj+X+/eoPZrAGFK5sqOJTxC4xUkp+l17lN/qAwkcTDxlkVPeDyUhOF1sSQKFR3Czwtc0IWAQ7MOm2FGuPNa4/ULY+9In3SSYntd0S4HDO/DcASkuK9Ije3GFE4JI3uohMZXAfyJvVlbBODP0E22Jg1XdBJ6M4eBH7VERc4rLRax2Uk+zSrbEI4MJdAf6KDONAmAqlTGKVojizCFSkK9V7PyBnsOaEb/BD4T3LY/ndPnYVFz4Min5NwoxLVDxEGZUGeGf0fzqGWG0IBzaQdKHMTdI+al5eDPRzKo+/gbDLiGqGR47mIXRYkNmm/7oUNa4AiTomtLv4zAahhZUi7UB+s=;51UByeXSgtP53ssLm7RZBQ=="
+secured: "JYaApDmDvt6s4Kl6PFnwDFu0EMItESB2OtfmHyZu2FmkLazKgbS/+KUeILFdjdYZFMBjGNBLSst7IKFMtrahKTvA73HkDCDPMlGRCbYacN+UtV8JI9DU35t+lmo9Yu0f8xcgJqQW84U91rNywPKVY2DHMV858yfcz6cVVvxiWgNQ7lbacPh1h93+zuP2JsHxRDmrsh765wDM2Bxyr1bTGnmfrg541l3MZQc88z3tRwSM1Zu3pcgJQc+yoXN3Xnx3QIkVN0J+yzXhImcuBT0dLrKzPpoILRqHQibrThPFPVplXVUpS8egc1DjDcCnx/bCOa/sqoadN7puVAu0uxPZ+5I2sOOc2sxQo12aIR9xSnU775PhshK4SXWpN4h/f76alZ/RF1BtaS0EtIqGdYiL2bZQPsA+1ffy5lkaZrLT9Jk=;WOX8XzvTSXiACmhb57/UPw=="
 ---
 

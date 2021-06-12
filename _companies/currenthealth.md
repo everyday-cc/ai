@@ -5,7 +5,7 @@ otherNames:
   - "snap40"
 overview: "The Current Health universal patient management platform combines our FDA-cleared continuous, wireless wearable, an ecosystem of device integrations and advanced analytics to help physicians and patients make earlier decisions that avoid admission and improve health."
 type: "profile"
-heat: 65
+heat: 50
 
 website: https://www.currenthealth.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gPZa-lS56Ak"
 
-secured: "XYqCxHGu9cd1oKcKrOTyJ0DZoQsPgJoR7dWNc3KN3gq/ZM5AS4tfiaJKNOmqo+OxhXOe7j3xX77b3FyOI4CjmgSGwzkc8wX0/Akj2PvS23FV2MSOdMLLDW0/PWW7Z4Om4IjzWWlVJdWmvoyMuTv48BrgZ9IUegYI+R9bA1PsvgfelwmTKoAe27lTaU+M+s887aKxQq3eMeMUf9wSaJir4w/azjACHSxeTs7unMSx+TpG9LR2BiFuTf075Orc7rtMlrB8QC9NAYN9mMfl+eClKYvlTew6Ij+zwrNRhRGxkDXkSRsxiKRLpZBf6KZG98h7AOC6xlj3QFwEy2ZbEzpNZ1pe5+IV5gVthgysuMDore5FQTpxcQB51G/L/GUI7oeXFUrz9+kjge8SpneJ6lqvOTPIR418tEW+o8bPlxm9xZk=;sbSZ+xq3l1ro5gbfqXe1lQ=="
+secured: "v+jOvOYnG80ZfZ6m+kG1cHy4JpfF2rELS/vcjWXs30pGt5rdvmr/whPv+AGJc2ZM8OA1y6UVFEy34T4Y3u2YLzAmoEv7wMSqkeyGRloQratZM4v6tpugX5rF5BJKevBLlRN0dpfKw/9K3WyMtbHyNT31pRsof+iBtp9/7ICkWnXDYP/FugqirlQxd6c0WNgynEzYEYYLZuDkb2uZt4i2elX4Na3UbtKIOHY2cbq+zVeKpf6XxvdwpIcTln73Uy/fSsaEZ5QpQFOv34C1HUYF5FgNUeCCiAflqN+yIkHIRGdfTJkHJoSLMf3fYGjWDDYJj7VPv5a9bg/JgqaJcaUY2FWuTBFoheV8W2X/jDo4+yYXf2mjvoOwZQpaULL86lIyZi8fZRQd6i5BxgtLzVraOAJkTxk+0auGQvdcltT2sWw=;GOYZ5/BAR1q+B08K/mBmAw=="
 ---
 
