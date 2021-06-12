@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Hunt sets driverless truck test in Texas"
-    excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas to deliver goods between Houston and Fort Worth, the company said Thursday."
-    publishedDateTime: 2021-06-11T06:55:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Kodiak eyes 2023 for driverless freight transport, targets autonomous trucks for US and Asia"
     excerpt: "Artificial intelligence (AI) firm Kodiak Robotics has set its sights on introducing self-driving trucks on US highways by 2023, and will be gradually"
     publishedDateTime: 2021-06-11T09:50:00Z

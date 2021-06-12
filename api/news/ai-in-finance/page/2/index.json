@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-22-fintech-jobs-for-mba-msba-grads.md",
+      "title": "FinTech Jobs for MBA & MSBA Grads",
+      "excerpt": "FinTech is not just a fancy new buzzword that bankers use—this burgeoning industry is exploding with innovative ideas, groundbreaking technology, and a hugely promising future. Since the 2008 financial crash that saw millions of citizens around the world lose their trust in traditional banks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattleu.edu/business/online/albers/blog/fintech-jobs-for-mba-msba-grads",
+      "originalUrl": "https://www.seattleu.edu/business/online/albers/blog/fintech-jobs-for-mba-msba-grads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.everspringpartners.com/dims4/default/2c5917d/2147483647/strip/true/crop/476x250+62+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Feverspring-brightspot.s3.amazonaws.com%2F94%2Fd5%2Fe84145c5445bb1d0f37db9e014c8%2Ffintech.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle University School of Law",
+        "domain": "seattleu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-saas-application-delivering-ai-enhanced-customer-experience.md",
       "title": "SaaS Application Delivering AI-Enhanced Customer Experience",
       "excerpt": "Many people don''t realize the true extent to which artificial intelligence (AI) and machine learning have on their lives and the choices they make every day. Whenever YouTube recommends a new video,",
@@ -1290,40 +1333,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-services.md",
-      "title": "Indus Insights Expands Leadership; Dr. David Bergeron joins as Chief Practice Officer of Financial Services",
-      "excerpt": "The company creates value for its clients by combining Machine Learning and Analytics techniques with a deep expertise of the financial services sector. This unique value proposition has allowed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/p20907809/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-s",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/p20907809/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-s",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20907809",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20907809",
-      "publishedDateTime": "2021-05-02T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -19,73 +19,73 @@ topics:
   - AI
 
 related:
-  - title: "Supercharging Self-Driving Super Vision"
-    excerpt: "Few startups were as prescient as Scale AI when it came to anticipating the need for massive sets of tagged data for use in AI. Co-founder and CEO Alex Wang also made a great bet on addressing the needs of lidar sensing companies early on,"
-    publishedDateTime: 2021-06-09T16:55:00Z
-    webUrl: "https://techcrunch.com/video/supercharging-self-driving-super-vision/"
+  - title: "Nvidia acquires hi-def mapping startup DeepMap to bolster AV technology"
+    excerpt: "Chipmaker Nvidia is acquiring DeepMap, the high-definition mapping startup announced. The company said its mapping IP will help Nvidia’s autonomous vehicle technology sector, Nvidia Drive. “The acquisition is an endorsement of DeepMap’s unique vision,"
+    publishedDateTime: 2021-06-10T23:52:00Z
+    webUrl: "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/"
+    ampWebUrl: "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 54
+    quality: 172
     images:
-      - url: "https://img.vidible.tv/prod/2021-06/09/60c0627031cb5a6fc9ad060c/60c0658866a5ff0c1d575a0e_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-10-at-2.54.41-PM.png?w=1024"
+        width: 1024
+        height: 560
         isCached: true
-  - title: "Supposing The FBI Secretly Ran A Fleet Of AI Self-Driving Cars To Track And Ultimately Nab Unsuspecting Criminals"
-    excerpt: "Recent news about the FBI sting operation using an encrypted messaging platform gives rise to other high-tech leveraging for crimefighting such as the use of AI self-driving cars."
-    publishedDateTime: 2021-06-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/12/supposing-the-fbi-secretly-ran-a-fleet-of-ai-self-driving-cars-to-track-and-ultimately-nab-unsuspecting-criminals/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c292f036bb154568861833%2F0x0.jpg%3FcropX1%3D97%26cropX2%3D869%26cropY1%3D23%26cropY2%3D458"
-        width: 772
-        height: 435
-        isCached: true
-  - title: "How Graze Mowing’s self-driving mower is disrupting the $100 billion commercial landscaping industry"
-    excerpt: "Listen to this article Although the U.S. commercial landscaping industry is worth $100 billion, it’s trapped in dire financial straits. Its outdated equipment depends on manual labor, whose high turnover results in rising staffing costs."
-    publishedDateTime: 2021-06-08T19:33:00Z
-    webUrl: "https://www.therobotreport.com/how-graze-mowings-self-driving-mower-is-disrupting-the-100-billion-commercial-landscaping-industry/"
+  - title: "Nvidia to acquire high-definition map maker DeepMap"
+    excerpt: "Nvidia has agreed to acquire precision mapping technology provider DeepMaps for an undisclosed amount. The deal should close in Q3"
+    publishedDateTime: 2021-06-12T00:39:00Z
+    webUrl: "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/"
     type: article
     provider:
       name: The Robot Report
       domain: therobotreport.com
-    quality: 39
+    quality: 54
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/06/graze-sponsored-featured-image-june2021.jpg"
-        width: 770
-        height: 500
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/06/Deepmap-nvidia-featured-web.jpg"
+        width: 780
+        height: 506
         isCached: true
-  - title: "Waabi- A new path to commercialising self-driving technology"
-    excerpt: "Waabi- the brainchild of Computer Scientist Raquel Urtasun in collaboration with the self-driving program powered by Uber, is all set to revolutionise the economical future of vehicle transport with an $83."
-    publishedDateTime: 2021-06-09T12:12:00Z
-    webUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology"
-    ampWebUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
+  - title: "NVIDIA to Acquire DeepMap, a Silicon Valley Startup Building HD Maps for Self-Driving Vehicles"
+    excerpt: "Technology giant NVIDIA Corp. has agreed to acquire autonomous vehicle mapping startup DeepMap, a company that’s using crowdsourced data to build high-definition maps for autonomous vehicles. The acquisition is expected to close in the third calendar quarter of 2021."
+    publishedDateTime: 2021-06-11T23:00:00Z
+    webUrl: "https://www.futurecar.com/4674/NVIDIA-to-Acquire-DeepMap-a-Silicon-Valley-Startup-Building-HD-Maps-for-Self-Driving-Vehicles"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 24
-  - title: "Breakthrough Technology Simulates Human Eyes’ Vision for Self-Driving Cars"
-    excerpt: "LiDAR sensors are the current solution for making sure that self-driving cars have a safe and accurate perception, but what if something even better and more cost-effective could be out there? This is what recent studies are trying to find out,"
-    publishedDateTime: 2021-06-09T15:22:00Z
-    webUrl: "https://www.autoevolution.com/news/breakthrough-technology-simulates-human-eyes-vision-for-self-driving-cars-162914.html"
+      name: futurecar
+      domain: futurecar.com
+    quality: 12
+    images:
+      - url: "https://img.futurecar.com/202106/11/l_60c3cfebf401a.jpeg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "NVIDIA to Acquire Silicon Valley Company DeepMap, a Startup Building High Definition Maps for Self-Driving Vehicles"
+    excerpt: "Technology giant NVIDIA Corp. has agreed to acquire autonomous vehicle mapping startup DeepMap, a company that’s using crowdsourced data to build high-definition maps for autonomous vehicles. The acquisition is expected to close in the third calendar quarter of 2021."
+    publishedDateTime: 2021-06-11T23:00:00Z
+    webUrl: "https://www.futurecar.com/4674/NVIDIA-to-Acquire-Silicon-Valley-Company-DeepMap-a-Startup-Building-High-Definition-Maps-for-Self-Driving-Vehicles"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
+      name: futurecar
+      domain: futurecar.com
+    quality: 2
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/breakthrough-technology-simulates-human-eyes-vision-for-self-driving-cars-162914-7.jpg"
-        width: 728
-        height: 300
+      - url: "https://img.futurecar.com/202106/11/l_60c3cfebf401a.jpeg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Nvidia strengthens self-driving expertise with acquisition of mapping startup DeepMap"
+    excerpt: "Nvidia said it has agreed to buy DeepMap, a startup building high-definition maps for autonomous vehicles, for an undisclosed"
+    publishedDateTime: 2021-06-11T07:09:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-strengthens-self-driving-expertise-with-acquisition-of-mapping-startup-deepmap--1386339"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "/Nx93YOgI4yXqqfMFAfYMg1EVw/9fP6c97rhUromxkHECx9Nnl0sBcrJ0nzVXhdJNCBxdxZDOnQzfKXfMSlPNjEyxAKUtfhvD58qNDrIwB6lik2plKObvvCQLcD3dllQIDj+LTCVPvqsc+pkAxYlUQ1SqKeZ6SGiBDzK9ugHpWwDoqGu+oasKTf7Y98G3kOt0csfQ0g0A4hXG05h0QKFXQqk7sJgxZK5nQt9A7+NngeBDBsRN2R14HKxHQ3fdBuV3j21dvNVyMAzKWeK4GNbL0VxLPmejPMAK8C26yiRbud/GVQ4b0bWFMq4W6lq4Wfc3+KJC/sTlTerp/4t0u9GFmE5fMY1HjrJxLw7jLoW5uQtDie3k6hGdl4woxCc6g33JUn8hFVcWlGq4NCS1C0ERxJ5z4PlqO0duf/PX6XY0ExPnRw3klvHZTI6s/Sm2z1zpexi0ienF/OxmjTLU6bFVduj63cQSayfBCHPeWtorY9G/S3yfXZjWuLeazL+96yLTamTCWR8enyeGb2VV9x8tQ==;QUkjUxMa5GIVVbnNnui3fA=="
 ---

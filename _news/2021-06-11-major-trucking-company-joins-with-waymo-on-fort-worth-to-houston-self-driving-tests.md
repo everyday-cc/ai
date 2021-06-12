@@ -27,141 +27,152 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is now looking to hire self-driving car test drivers around the world"
-    excerpt: "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world."
-    publishedDateTime: 2021-06-10T10:22:00Z
-    webUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/"
-    ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
+  - title: "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot"
+    excerpt: "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors."
+    publishedDateTime: 2021-06-10T14:03:00Z
+    webUrl: "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/"
+    ampWebUrl: "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 186
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program"
+    excerpt: "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J."
+    publishedDateTime: 2021-06-11T03:54:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
     quality: 87
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630437%2Fwaymo-truck.jpg&w=1200&op=resize"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
-  - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
-    excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
-    publishedDateTime: 2021-06-10T17:22:00Z
-    webUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/"
-    ampWebUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
+  - title: "Self-driving Waymo trucks to haul loads between Houston and Fort Worth"
+    excerpt: "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,"
+    publishedDateTime: 2021-06-10T14:16:00Z
+    webUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/"
     type: article
     provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 74
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
     images:
-      - url: "https://cdn.motor1.com/images/mgl/QMR9Z/s1/tesla-fsd-beta-180-left-turn.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/06/Truck_1-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "The Four Biggest And Most Baffling Congressional Issues When It Comes To Regulating AI Self-Driving Cars"
-    excerpt: "A close look at four key controversial Congressional issues on regulating AI self-driving cars, and what those issues portend for our future and the driverless emergence."
-    publishedDateTime: 2021-06-09T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
+  - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
+    excerpt: "The first route they’ll drive is between Houston and Fort Worth, which Waymo claims is one of the most highly utilized freight corridors in the country."
+    publishedDateTime: 2021-06-11T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/"
+    ampWebUrl: "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfc66f289142720b864b3a%2F0x0.jpg%3FcropX1%3D226%26cropX2%3D3673%26cropY1%3D301%26cropY2%3D2599"
+      - url: "https://singularityhub.com/wp-content/uploads/2021/06/waymo2.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
+    excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
+    publishedDateTime: 2021-06-10T14:21:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15065975/jb-hunt-waymo-team-up-for-selfdriving-deliveries-in-texas"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/06/jb_hunt_waymo.60c1306ebb2fc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
-        height: 800
+        height: 674
         isCached: true
-  - title: "In EV News: Ford Maverick Hybrid, Amsterdam's Self-Driving Boats, a Tesla Bull"
-    excerpt: "Ford Motor Co. (NYSE: F) introduced its hybrid-electric compact Maverick pickup Tuesday morning, saying the 2022 model year base vehicle is targeting EPA-estimated mileage of 40 mpg in city driving. Based on the company’s estimated fuel consumption of 37 mpg,"
-    publishedDateTime: 2021-06-08T15:42:00Z
-    webUrl: "https://247wallst.com/autos/2021/06/08/in-ev-news-ford-maverick-hybrid-amsterdams-self-driving-boats-a-tesla-bull/"
-    ampWebUrl: "https://247wallst.com/autos/2021/06/08/in-ev-news-ford-maverick-hybrid-amsterdams-self-driving-boats-a-tesla-bull/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/autos/2021/06/08/in-ev-news-ford-maverick-hybrid-amsterdams-self-driving-boats-a-tesla-bull/amp/"
+  - title: "J.B. Hunt, Waymo Partner to Test Self-Driving Trucks in Texas"
+    excerpt: "J.B. Hunt Transport Services has partnered with autonomous vehicle developer Waymo to move freight with self-driving trucks in Texas."
+    publishedDateTime: 2021-06-10T13:00:00Z
+    webUrl: "https://www.ttnews.com/articles/jb-hunt-waymo-partner-test-self-driving-trucks-texas"
     type: article
     provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 55
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
     images:
-      - url: "https://247wallst.com/wp-content/uploads/2021/06/2022-ford-maverick-1.jpg?w=400"
-        width: 400
-        height: 225
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/mashup.jpg?itok=qbvnb6Wk"
+        width: 470
+        height: 246
         isCached: true
-  - title: "Apple Hires Canoo Co-Founder to Work on Self-Driving Car"
-    excerpt: "Apple has hired Canoo co-founder Ulrich Kranz to help lead its autonomous car project, according to a Bloomberg report. About a month ago, Kranz stepped down as CEO of Canoo, a self-driving electric vehicle startup."
-    publishedDateTime: 2021-06-10T21:39:00Z
-    webUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car"
-    ampWebUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
-    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
+  - title: "Waymo, J.B. Hunt form partnership centered on self-driving big rigs"
+    excerpt: "Waymo's autonomous big rigs will soon be hauling goods along one of the busiest freight corridors in the country. The Google affiliate said Thursday it has partnered with trucking and logistics firm J."
+    publishedDateTime: 2021-06-10T13:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-jb-hunt-form-partnership-centered-self-driving-big-rigs"
     type: article
     provider:
-      name: iClarified
-      domain: iclarified.com
-    quality: 44
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
     images:
-      - url: "https://www.iclarified.com/images/news/81339/81339/81339-640.jpg"
-        width: 640
-        height: 360
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NEWWAYMO.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Huawei Plans On Making Self-Driving Cars By 2025"
-    excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
-    publishedDateTime: 2021-06-11T18:06:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
+  - title: "Hunt sets driverless truck test in Texas"
+    excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas to deliver goods between Houston and Fort Worth, the company said Thursday."
+    publishedDateTime: 2021-06-11T06:55:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 39
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/01/Huawei-logo-2018-AM-AH-2.jpg"
-        width: 1366
-        height: 913
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Apple Hires Self-Driving Car Startup Founder and Former BMW Exec Ulrich Kranz"
-    excerpt: "Former BMW senior executive and self-driving vehicle startup founder Ulrich Kranz has taken on a role at Apple working on the"
-    publishedDateTime: 2021-06-10T20:06:00Z
-    webUrl: "https://www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/"
-    ampWebUrl: "https://www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/amp/"
+  - title: "Online Exclusive: Waymo, J.B. Hunt partner on self-driving big rigs"
+    excerpt: "Waymo L.L.C.'s autonomous big rigs soon will be hauling goods along one of the busiest freight corridors in the country. The Google affiliate has partnered with trucking and logistics firm J.B. Hunt Transportation Services Inc."
+    publishedDateTime: 2021-06-10T19:09:00Z
+    webUrl: "https://www.rubbernews.com/online-exclusive/online-exclusive-waymo-jb-hunt-partner-self-driving-big-rigs"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 41
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 39
     images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo%20semi_i.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Self-driving Cars Market Size to Expand Notable Returns Through 2027"
-    excerpt: "The Latest Research study about Self-driving Cars Market includes some significant activities of the current effective segment overview, for the worldwide Self-driving Cars Market. It presents a point to point analysis dependent on the exhaustive research of the market elements like market size,"
-    publishedDateTime: 2021-06-10T15:29:00Z
-    webUrl: "https://ksusentinel.com/2021/06/10/self-driving-cars-market-size-to-expand-notable-returns-through-2027/"
+  - title: "Waymo, J.B. Hunt Teaming Up on Self-Driving Experiment"
+    excerpt: "Autonomous tech company Waymo plans to team up with trucking company J.B. Hunt to haul freight using trucks equipped with AV systems between Houston and Fort Worth along the I-45 corridor. Get the story at TheDetroitBureau."
+    publishedDateTime: 2021-06-11T19:12:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/06/waymo-j-b-hunt-teaming-up-on-self-driving-experiment/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 24
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Self-driving-Cars.jpg"
-        width: 715
-        height: 389
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/06/Waymo-Via-truck.jpg"
+        width: 1600
+        height: 1355
         isCached: true
-  - title: "Apple hires key executive for self-driving car project"
-    excerpt: "Apple has asked Ulrich Kranz to help develop self-driving and electric cars, Bloomberg, Kranz recently stepped down as CEO of Canoo, a developer of self-driving vehicles. Before co-founding that company,"
-    publishedDateTime: 2021-06-11T07:20:00Z
-    webUrl: "https://www.telecompaper.com/news/apple-hires-key-executive-for-self-driving-car-project--1386347"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "vDr3lytkCiTpsCimfDhZAws1mm0U9lCGvB1HZPg1Ko88A56ukY7Whm5ZX/XgfuhHS9BO1ny9sZDp7YLUMQiHyoFsQ7/0Qan3rdzU65QXux9hEVfXGyRGlsrM6qm/m8RG8bFOiEzyrEXl0wPwLWtZKCy613TiiXMNW/uHihe2MB9NBIcSDlImbG+r6I/Eq0A50mCA3KNGxLg71+RbBV1+ziNnuG2XhSrPqHWNMc0mrWCxAVD19nTR+9JhscQ26I1jOCgoR+g8eiXyHnpALhFvmoA7rFAE63i8rJADoEZccsw9/R7UmOHEcEkU+ybrnDVWpw9zarcz2pC7XX40tlDdPSopFiJnPH3Tzmnit//bSpdDiUvdhi5cc7xm8fOMx7CmgkgeWU2cpBumKXMLiJA2Ne091Rpd7t3uwIOnhOvNfi+NzU2VkurFFLrt+cJujiAva91S1hYjwdb4HCWhDCs9gZHnxlZU+gHFZxEqhqeZ6KNmPokwCk7qHE76zkzrIAmcoTSeY6DLMLI9LicXjVC73g==;lq2b2c0uIdmR4bf1hx7U2g=="
 ---

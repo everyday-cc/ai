@@ -99,6 +99,17 @@ related:
         width: 1736
         height: 889
         isCached: true
+  - title: "COVID-19 Flare-up Predicted by Artificial Intelligence"
+    excerpt: "Artificial Intelligence predicts how patients with viral infections, including COVID-19, will fare. Gene expression patterns associated with pandemic viral infections provide a map to help define patients' immune responses,"
+    publishedDateTime: 2021-06-12T18:26:00Z
+    webUrl: "https://www.medindia.net/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "vWu6D6VsqYmM3eFaFCcHVdNeQ/EJ/G8GCObAxXejudlZqcSr7eEfL829iromJwCuuZlQT37xkK4I51bJIXAuGQnX6JVT1PY9Tj83Kd2vSNMUm9HAnvGLn2BAQvGk+YujtZxpY4d2rleuFlY8BRe7v9A2MFMLPhNU2YagG0+zP3D3UXS2EFJvE5vMuLMZ3O5b5g7HPNljRwWYVl3/x9oqAiv8NE9PCQBLTRC0NWspvz3IFLXorvcvFl2j/oUx7Ftv5ZQdke8JycJCf1YcD9v2uzwV0+1ZXa6mQUDLek05pzkFy8imZA2XduxhcOuPDp3NgQ717gGxS4VJi0khVe93uSgYb580vZqvJr8et/tYxuw=;mThf7xFdTD8+4Cd/mb34Yg=="
 ---

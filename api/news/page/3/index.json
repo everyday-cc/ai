@@ -165,7 +165,7 @@
       "originalUrl": "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -205,6 +205,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-bbc-host-thrashes-calls-for-independent-scotland-to-rejoin-eu-deficit-is-8-times-higher.md",
+      "title": "BBC host thrashes calls for independent Scotland to rejoin EU 'Deficit is 8 times higher!'",
+      "excerpt": "BBC presenter Stephen Jardine dismantled Nicola Sturgeon's plan to rejoin the EU with an independent Scotland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "originalUrl": "https://www.express.co.uk/news/politics/1447993/scottish-independence-bbc-debate-night-Stephen-Jardine-snp-latest-vn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F679fdf47-2ea8-43d9-91fc-bb7b6753c426.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "publishedDateTime": "2021-06-10T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -345,7 +387,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -699,7 +741,7 @@
       "originalUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -751,7 +793,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1176,57 +1218,6 @@
       "type": "article",
       "ampWebUrl": "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/",
-      "publishedDateTime": "2021-06-09T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds.md",
-      "title": "The pandemic led to ‘significant’ increase in AI adoption across manufacturing, survey finds",
-      "excerpt": "A survey commissioned by Google Cloud found that the manufacturing industry's use of AI increased 'significantly' due to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory-e1623189788805.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/amp/",
       "publishedDateTime": "2021-06-09T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

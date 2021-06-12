@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AppTek Named Among Pure-Play Vendors Targeting Best of Breed Intelligence in New Now Tech Report for Conversational Intelligence"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today"
-publishedDateTime: 2021-06-09T12:47:00Z
-originalUrl: "https://www.lelezard.com/en/news-19847777.html"
-webUrl: "https://www.lelezard.com/en/news-19847777.html"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
+publishedDateTime: 2021-06-09T12:38:00Z
+originalUrl: "https://www.insidenova.com/news/state/apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech/article_93ca09cb-0f67-5eaa-9257-1a50c482b6a7.html"
+webUrl: "https://www.insidenova.com/news/state/apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech/article_93ca09cb-0f67-5eaa-9257-1a50c482b6a7.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: INSIDENOVA.COM
+  domain: insidenova.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/c/fa/cfa83773-7ce0-524a-a33a-2f0eca85f367/60c0bb950d921.image.jpg?resize=1200%2C630"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "USUi8iefwLxlaYbvZyCgXRdHw+eL5O6rHGeNxtM/U7BSUM4j2FGqV7YloHq6MFzGmibG6VsDqL4MJ4CCOzyKfglFVbwp3EJli0yvLej0HUzAvVJ5EiigtppAzf7TkngnNk0JPstxHw7jeoFkDprEJCGRz/XwgwYgEY5hXkNYsXsUn6AEESFeviZMdml6BTVJTSbz1KElEti3FiLvPXG8ZFj3au+x9ZP0X86T+1gNi6DaDcDZZjk86i9eNrqmEOQ4pSklhoxqdI9iKcTIQwBCwyzRrxPBLKNmA/DGTg1cpn+/SQNMrGeOemvy5iuT3jfH9pqWZ8m01hWVqMfePBYqyJRWEHtd2AX32mJLwqQVYCk=;ZpLnxdEszWVyDmeCIM7PmQ=="
+secured: "EzxbqTZbFv6l+FogBjkDCcxGMQkyn/1REFKeNWaAVWGQyIYxMRVHj+HS5hFHhB1LoXtL2LuzDEfzHZWp/ngh0tM3Ang7BaVzcmOREoBlrvts8RwEEeyJC2F1VeRTYXf4MJufQm6MDY5Ayc00qFRY/L0DytEXzl5EHwhKiNE/q3cCGyizzc+NhGOpsP1tXqtNQBdLCONsBDEnjvzFlR3z60f8SdrtJPF4RdjtiwvU4pI1QUKGIhZ042C1pUIUgDqcwaL2wZxW0oFhY9u68SIvBgmLVmnI4PNKgkteI1nF7/Xto7SKE+La1NXcMGlv9E2kVqi+iFqNvEIGtJjbZWnjz+5vGV1haFaHZAJUB9SdrLo=;Q2tfuYGsbvFyPTiBRTbGXQ=="
 ---
 

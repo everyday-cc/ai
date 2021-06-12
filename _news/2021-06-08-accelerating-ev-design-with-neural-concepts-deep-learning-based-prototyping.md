@@ -89,7 +89,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 79
+    quality: 81
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F2BDSF.jpg&signature=c72563bebf471ce23430f8ec3480edde"
         width: 1280

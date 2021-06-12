@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facia
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542?amp=1"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://barrie360.com/wp-content/uploads/2021/06/pexels-cottonbro-5474033-1000x500.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "RCMP’s Use of Clearview AI’s Facial Recognition Software Amounts to ‘Mass Surveillance,’ Says Privacy Commissioner"
+    excerpt: "The RCMP broke privacy law by using controversial facial recognition software that put innocent Canadians in a “24/7 police lineup.”"
+    publishedDateTime: 2021-06-10T16:19:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/rcmp-clearview-ai/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 32
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/03/clearview-ai-640x320.jpg"
+        width: 640
+        height: 320
         isCached: true
   - title: "Privacy watchdog says RCMP’s use of facial-recognition tool broke law"
     excerpt: "OTTAWA - The RCMP broke the law by using cutting-edge facial-recognition software to collect personal information, the federal privacy watchdog has"

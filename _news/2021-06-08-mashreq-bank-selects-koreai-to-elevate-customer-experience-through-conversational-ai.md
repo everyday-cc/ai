@@ -19,6 +19,20 @@ topics:
   - AI in Finance
 
 related:
+  - title: "How AI Affects Customer Experience in Retail"
+    excerpt: "This holds for the whole spectrum of industries, but its applications are rather intriguing in the context of the retail sector. This intrigue is rooted in more than just the sector’s expected annual spending of over $7."
+    publishedDateTime: 2021-06-12T19:12:00Z
+    webUrl: "https://customerthink.com/how-ai-affects-customer-experience-in-retail/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "RPA Labs Introduces the Future of Customer Experience for the Shipping Industry"
     excerpt: "Today RPA Labs announced the release of RPA Engage, the premier logistics conversation AI (artificial intelligence) that enhances customer experiences by automating interactions with customers, vendors,"
     publishedDateTime: 2021-06-08T13:03:00Z

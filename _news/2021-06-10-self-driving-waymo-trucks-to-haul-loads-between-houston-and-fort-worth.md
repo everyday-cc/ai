@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot"
+    excerpt: "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors."
+    publishedDateTime: 2021-06-10T14:03:00Z
+    webUrl: "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/"
+    ampWebUrl: "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 186
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program"
     excerpt: "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J."
     publishedDateTime: 2021-06-11T03:54:00Z
@@ -61,19 +77,21 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Alibaba plans self-driving trucks with logistics unit Cainiao"
-    excerpt: "Monitoring Desk Chinese e-commerce leader Alibaba Group Holding Ltd (9988.HK) plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
-    publishedDateTime: 2021-06-10T08:33:00Z
-    webUrl: "https://thefrontierpost.com/alibaba-plans-self-driving-trucks-with-logistics-unit-cainiao/"
+  - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
+    excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"
+    publishedDateTime: 2021-06-10T22:52:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
     type: article
     provider:
-      name: The Frontier Post
-      domain: thefrontierpost.com
-    quality: 39
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 53
     images:
-      - url: "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2021/06/15-7.jpg?fit=959%2C539&#038;ssl=1"
-        width: 959
-        height: 539
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/QyLB9ZxvxXi9dJVjl7-UuBVJvRk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/H6FJ6MFQQRBBVMJ4SWHMMSVTLY.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
     excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
@@ -117,19 +135,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
-    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
-    publishedDateTime: 2021-06-11T11:22:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
+  - title: "Hunt sets driverless truck test in Texas"
+    excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas to deliver goods between Houston and Fort Worth, the company said Thursday."
+    publishedDateTime: 2021-06-11T06:55:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
     quality: 39
     images:
-      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
-        width: 560
-        height: 306
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Online Exclusive: Waymo, J.B. Hunt partner on self-driving big rigs"
     excerpt: "Waymo L.L.C.'s autonomous big rigs soon will be hauling goods along one of the busiest freight corridors in the country. The Google affiliate has partnered with trucking and logistics firm J.B. Hunt Transportation Services Inc."

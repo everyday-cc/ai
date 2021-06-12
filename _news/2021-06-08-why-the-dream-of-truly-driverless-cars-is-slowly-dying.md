@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-ha
 webUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg"
         width: 500
         height: 300
-        isCached: true
-  - title: "Hunt sets driverless truck test in Texas"
-    excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas to deliver goods between Houston and Fort Worth, the company said Thursday."
-    publishedDateTime: 2021-06-11T06:55:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
         isCached: true
   - title: "Kodiak eyes 2023 for driverless freight transport, targets autonomous trucks for US and Asia"
     excerpt: "Artificial intelligence (AI) firm Kodiak Robotics has set its sights on introducing self-driving trucks on US highways by 2023, and will be gradually"

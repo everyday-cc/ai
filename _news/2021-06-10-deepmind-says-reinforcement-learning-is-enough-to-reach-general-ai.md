@@ -93,7 +93,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 79
+    quality: 81
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F2BDSF.jpg&signature=c72563bebf471ce23430f8ec3480edde"
         width: 1280
@@ -319,6 +319,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "DcrHqHC8xoSw5ml02TarQFy0zay0BNiSBzECfLdOZHnGKLq1Los7SoxuDzDCUVWjIomHGzCd/sZwCLWqbOV6ESfQofShd/0DDvbxoYV0Ywd9SxLghe7mxFFVgdmcC9MzEiawRuV0l4OD3r2cUu+RfTyVFAepAbgrTjDu6fSHmgr0igblQVc3wx2NBA26/p2MBE0Q5d+IONJqXD+8nizAsE+u8SKJPg9qv0O2lJ7z4t3RjOpQgiLMmV3LWd3yCkX1hX5hNdwEw3RxVDRrkaHUECb5h27zUnQnMANmT1FsxfqI62ViPh66i6QlFqENjHHiZrZcFkJl4kKl5dLb9ogQrDIKZSOXfAC+oBvCoOgv4DE=;qfKUUrYEaw4ThfYrtKzi6Q=="
+secured: "Llz+v/iJiOvJqqeop+z67lJPDD6ese1/fiydINmO5vsb7/GcOTvNs4CnfOBvIPdRCt0mHpENtseF4hl3gwVepZnnjtvHaY38CnzFuNcqDIT8DLxN9AtjOM3i8C9US/5JoPrzH0z1UnlLSq94dHHPTyGSDlj8nhTlqoMJ7HzKQneKZzU7nmN2xo1JHnsQ93Q7huXyVcmNr11mSbxJ03Eg5ih/VNOb7P7XafyW13n1mRuZ9GYC/lK9LlXMbDzKpcDJgp4wIyzrFh2E6/Ge4jv0ldgiaO+MKj1akSzjMgGaTqLD95Yn75TXhYiLrmBYb8jsxcVlV5WFTue24eaNcM3LBc6i/IN3TFf/GDPbxPxts/c=;Jf9c6TnyI9yyLxMhiDu56Q=="
 ---
 

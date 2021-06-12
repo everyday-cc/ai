@@ -97,6 +97,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "RCMP’s Use of Clearview AI’s Facial Recognition Software Amounts to ‘Mass Surveillance,’ Says Privacy Commissioner"
+    excerpt: "The RCMP broke privacy law by using controversial facial recognition software that put innocent Canadians in a “24/7 police lineup.”"
+    publishedDateTime: 2021-06-10T16:19:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/rcmp-clearview-ai/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 32
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/03/clearview-ai-640x320.jpg"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "inSVCZO4K37a1Ct2WnrIn9F30bY0gaMvRVQTkxR5ONaG9GmlCGM8dHSz2vkB6I53/k+Qv9RLdqU5oJCwkLPoJm95mhc72h6wwC8uZjGMWbIWBQfENTzjpSJuxhmArpqOllkoWGkI/GZ1rKeEbyFOMlpLhVbW+JqSp0HDQVUwMRHgZNJpkwsMV4qlh3HmMSlan3rEKJNWmcg/prTxSy5baImgHn8tQnRuMEykrYIc1Z9SrYHdkq8hR1SW/1eVToZs5AfePgH7VEoDkGRtnJhNph14wXmsm9/vRJXE1fXprJA2oTFj1WvF58HLj1KO7b9sSmE0db1aWuXrqy0PRtMfmEuOT2QbHja1JlbGeCeX5LY=;Je1AMarv2V0mlqcUUF5cPA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-t
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
 type: article
 quality: 69
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -41,6 +41,34 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Alibaba plans self-driving trucks with logistics unit Cainiao"
+    excerpt: "Monitoring Desk Chinese e-commerce leader Alibaba Group Holding Ltd (9988.HK) plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
+    publishedDateTime: 2021-06-10T08:33:00Z
+    webUrl: "https://thefrontierpost.com/alibaba-plans-self-driving-trucks-with-logistics-unit-cainiao/"
+    type: article
+    provider:
+      name: The Frontier Post
+      domain: thefrontierpost.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2021/06/15-7.jpg?fit=959%2C539&#038;ssl=1"
+        width: 959
+        height: 539
+        isCached: true
+  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
+    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
+    publishedDateTime: 2021-06-11T11:22:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
+        width: 560
+        height: 306
+        isCached: true
   - title: "Alibaba set to roll out self-driving delivery trucks and robots"
     excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
     publishedDateTime: 2021-06-11T11:45:00Z
@@ -65,6 +93,6 @@ related:
         height: 600
         isCached: true
 
-secured: "tKOID9083O/E6RYHBNNpIlNuKJcOY4aSJ0l5fXC6qDYBrc8D0IslZKY3gl9/0Ojv3TQ9zozmitIucom6XKjtNODDZuh0GlcFWQfMafHL/t0ZJbGByZR+Evqa1mPeoj0F4eLhEGo+L08aeUuoo1eviEVVu3/QU4jkse266Y/csTPBBIXqdHw/ySZPtLObNcJs8Bc0zBEjKng1/BZKSDxZRLWlM0UYAryUVfAdQHnTyg4KEltUdofQCSn0IxJWS2KcgjOi6ddcmPOVSMTcz7rSFESFN2H/QaCgFYQ9lJlSeX/XWG0otrKEV/5SlRJLdb7CK3QgIPFeb6EeqCStYSSD4bpsGhi8lilI3nFHJ2DgfDc=;SbPIsfVBeCP4z46oruItfA=="
+secured: "DF0Fdo3d0x+/HnBXPP1uIHT0ZgI2cm4yDhxzijV+AwRZC4TWzY0xISOKpzQyhc/RZJP1cCkIsJ5NvEYAfaPFByrTgUu9XgYvDt1jxKQncbZ+kGingY1UaJXyI2TwKh43ZKRjX7DFlZKt6PAYlKdlZF7V4VBbvN+GIi3j2wASPkaHNG759okmr1yhwwgksh4nrlhsvejL4i9ccEIZaU6KzqnyNdRiriy4kC7GO7Q/TluK0VC8zuX9fHfwWhq46iRwLX9mfcv0xVBHh99t0JwsVE7kF2rB360LIij0YabeaG0nqbXhngQpk+xOMWaN8T4BiAt0iDxZ3C2UGqPUos6LYn08wVXnDOIB5UONME6En7I=;YwFg0qpCNJOKZ9EJzulFXQ=="
 ---
 

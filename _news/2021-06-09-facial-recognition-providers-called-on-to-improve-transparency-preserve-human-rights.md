@@ -53,6 +53,22 @@ related:
         width: 1000
         height: 608
         isCached: true
+  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
+    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
+    publishedDateTime: 2021-06-12T15:12:00Z
+    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
+    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 58
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
+        width: 620
+        height: 370
+        isCached: true
   - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
     excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
     publishedDateTime: 2021-06-10T15:13:00Z

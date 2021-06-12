@@ -33,7 +33,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F3BDSF1.jpg&signature=ee711b8cc65af968e475a478d6d76c70"
         width: 1280

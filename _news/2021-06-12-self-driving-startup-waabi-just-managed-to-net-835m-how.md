@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-12T15:10:00Z
 originalUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication"
 webUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication"
 type: article
-quality: 52
-heat: 82
+quality: 54
+heat: 84
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F3BDSF1.jpg&signature=ee711b8cc65af968e475a478d6d76c70"
@@ -71,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "RYoocy+TP0Vu1sD/O5v4EZeAUatlwOHY5NnCffDEnWgtiwDEa5GsPCvz4IDnw1l00cmA87k2INOF/f+4h0oURyXZ41sAP7sTlHWPtTne+nu22hpr7+g59rvAeC+5DgW2IrfLnnI/stw3RKgX9H1ioMQoY1+4qOZ9ecVg7HQdbLBOqKKHN050ZuHxk2eixn7e4kmcsaoCrKOBIXrcEcZUKtz/o2qX/cp85YF8yINzLnKZnYROayaYBMq9B0ewHid4Sz0S1QAxNiEWSWxsoKySjyzFHWb/IzgEledtWxzeChL9nER2OjEwg/01oQ0D1pycoEIbw/Ns2dS/JQ81SEx7E6sHKa4hLiC6Jmb7O1Sytgs=;saCOnCZZuBjSe4Rbfd8rJg=="
+secured: "JIvz+u2866XecR7aUHhRq+DTKYt+rJRIVdKf9EQjKF87wmt/uFIg/49jX+2KzJXXFFD41hkfPuXcniNbyHU89/c/Om5TzqmPTMFxUtxElCeF2SAjf+X4VrB5dLXN5r6rhyyN0QYl0w5IShWu83SpY9pFIIBh0f7z8PEc8Eaih+6wxz7hXhDx8hClhmGoXmlnLZc/ghadTR8Mfgm6I/Sdyv1vUtbOgrqd6svzjaeF5+wLgCcDKb2kKmFHbsi8XSoGZlj3iCuP6zFihaLSl3CwPXt46N+LOtQWSPMsV+kQrQAC8A7ZoEkfmpPBUfsSDBZ7UbLffFvJKtSdKyCogqYpUNK0mr7jYOczpejfaT3aflfOtsaGb38nfxVv96E2CNTeZ2w34Kx+S9kU72f/e4MlG3loyQ17dyJnQlZos+PGbZOFE2bbxaFAPtHs4jdLwFVHGW16TkwM4NI7Fv8Ii+Pzx7tgtW0dtLO7KRcJTzJXq6fjl0lk/IlPADB3PcOmoOXSzW1SDr+Bne4f9kJTijmBrg==;RBWPFivkIdq/mktfUcmgrw=="
 ---
 

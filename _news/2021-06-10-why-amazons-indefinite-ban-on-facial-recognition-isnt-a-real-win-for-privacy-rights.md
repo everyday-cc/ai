@@ -55,6 +55,22 @@ related:
         width: 1000
         height: 608
         isCached: true
+  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
+    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
+    publishedDateTime: 2021-06-12T15:12:00Z
+    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
+    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 58
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
+        width: 620
+        height: 370
+        isCached: true
   - title: "'Innovative': Noida Scientist's Facial Recognition Technology For Dark Wins DRDO Contest"
     excerpt: "In another technological advancement, a Noida based scientist has developed an AI which is capable of identifying a person even if their face is covered."
     publishedDateTime: 2021-06-09T10:37:00Z

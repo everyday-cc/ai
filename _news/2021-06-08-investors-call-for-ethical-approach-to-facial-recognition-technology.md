@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
 type: article
 quality: 86
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
         width: 1000
         height: 608
+        isCached: true
+  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
+    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
+    publishedDateTime: 2021-06-12T15:12:00Z
+    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
+    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 58
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
+        width: 620
+        height: 370
         isCached: true
   - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
     excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."

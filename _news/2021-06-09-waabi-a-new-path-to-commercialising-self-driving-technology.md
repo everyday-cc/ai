@@ -77,15 +77,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Nividia is adding to its self-driving offering with a deal to buy precision mapping startup DeepMap"
-    excerpt: "By buying DeepMap, Nvidia will be able to plug the startup's high-precision, continuously updated maps into its autonomous vehicle technology."
-    publishedDateTime: 2021-06-11T01:09:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/10/nvidia-to-buy-deepmap.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "GRRgsUScwT7Xff6PIli49+RAXHMlVOh+od/FlhOkaMNTiVOxlK6HCYTvmgYV/uyPMGdZZCYzJLzv7VWc+b51XX3I6rfuO2jh884bAgCTrc8uFf/q9EHKQZjOGo2GQrMX0FeAEXuu7gl/kH5vW6Ur9g9YrNWnAN08t/DA2BjvkX7qmIvCk/9ezTLT0L0TKNOHR9sflCQ4efIjPBD9VG5odxEXsuDUmEywIyCe9XUsFokn7293vIw39Fpl/XSD0ZgqUkcrdibDqnTuaWtVF9jloa0hBgqBc4WQQnWg2K9zPdorubmR00XZo6h6YgMWfPxH6Pq7FnKiV0dZmVe8Iof7+GbEkwOL504gnFLLb4ZM0XFGu60cXzyTnW+PpXgJKnLXHibErFvrcK5JZc5Zil0H8KAzqesMLDc1asudRQ97CanYnbilK7Aimj8tVRuz6hCEt+7LE2gY1dGF9Qe8JBiT15x1LI205VsifW1fDj+ZMhk3r7s8ziVU+8Mp0bhvc5cOAblJgV25hbbn9n5SHgDnlg==;HBWQxYKyeDtoDg2/L2S00A=="
 ---

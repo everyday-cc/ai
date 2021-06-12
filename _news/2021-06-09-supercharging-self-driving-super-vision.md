@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/video/supercharging-self-driving-super-visi
 webUrl: "https://techcrunch.com/video/supercharging-self-driving-super-vision/"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Nividia is adding to its self-driving offering with a deal to buy precision mapping startup DeepMap"
-    excerpt: "By buying DeepMap, Nvidia will be able to plug the startup's high-precision, continuously updated maps into its autonomous vehicle technology."
-    publishedDateTime: 2021-06-11T01:09:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/10/nvidia-to-buy-deepmap.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "apzyJ3LsKHYdNhxJmgqVNegPrUYOlg3l74/OhJbrNWSRUvUpmxLvDRMIjh306LgUsGJQ4AlBE9Xc9dXMPz6lxFBf9aWmHrtn6OWm0uTOM7r/xppZrMvvFLRl1dDp0SPdVoXQ8x2h5VDuf7B7K13XS4dJ3zy7RlJfx1oXP602Ta1/7geWH0RRNQSM1DzGeeLILSa/BxZqa6qCrRqsboTsR3OWtAnRwfR3p92xjmT/Kf2G6XJBSRJxE/RYD+dQ763dPPMNDtSLrTdgeMkxLGC99l6qk8jgzFBeseLHQjOJ+2owk4wMXqzt93WPq8U/KjhUiLi+IiakLRdkR2OP4yxJhBVYhlmt2gM9tcDaiUg2WAX6K2F0YGS5fPuRgbsj6nu4lC1311XD4mBMONhaRNh5rX6nRDmLAyd3Gkh3z2vrLfU7/b6PDt9HhUjmpUMxFSM/K8Yo//5gXxw0obLkVuOzXxolVWCaRkx/mUNgQeA9/XYfJd1aC73zDg8rNV9z8sOhizNrNQXP6Q7PH35HVS/C6g==;bQ+0VLAKpzMaV6imGoNH5A=="
 ---
