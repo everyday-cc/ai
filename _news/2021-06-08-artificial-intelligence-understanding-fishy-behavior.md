@@ -23,22 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Artificial intelligence understanding fishy behaviour"
-    excerpt: "Artificial intelligence has for the first time predicted the reproductive behaviour of Yellowtail Kingfish by tracking their movements as part of new research revealed on #WorldOceanDay. The new study published in Movement Ecology used machine learning algorithms to identify and distinguish between behaviours including courtship,"
-    publishedDateTime: 2021-06-07T23:11:00Z
-    webUrl: "https://www.miragenews.com/artificial-intelligence-understanding-fishy-573332/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: "https://news.flinders.edu.au/wp-content/uploads/2021/03/rsz_henry_the_kingy_ii_a_credit__andrew_fox-_rodney_fox_shark_expeditions.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "SuI17vFrRUB8xqQ2OG1P8Kogwi+FZ46rcpMCm7F0bx05NIEHnduPUfHHBIQwqPbnylO1gmM2k6zcCYxTQPEXT8GMLUpy2KyAMpVC+FcM7g77CIMedB5Z3gBufZ/a1LDxfaKF/jbC4iYs0TOFIfSZMdfbnMNkCfYrRDQSR5whAPmXQ8gKOhfRrH68DPyzgudM696k82VeADbBzspDgl/LPmrMViD38TvO+Azmx48GZJoU+E1rOPP4xhfGQkDEi3HibAziqmK/miD2OG8uIwiPrSSG03yvfb5lu1c5Kt+TGDjdS8KBQJZfjD506jmF5f7rRDHtbF6soEL13sghVBsg18n+YflBQRBxHSWFoVqQfO6EdHveeyJ0mDI9R5CsepuZoTnlxeLuf9Kgz1fw5f0jyed8puTptCNcBMToaUdTjX6z8oxuLfZwXRjj5YkiHtDcQY2/KX1DhKfhRn/3Xg1RwwBA+OQenUMmM2aPTPRDWIeaivXetZrDljevX4m6wVgVnZ3AUlj4dSqW2mrLf7LDvw==;dAGm7uhCHJZdDdiPtl4Guw=="
 ---
 

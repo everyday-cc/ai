@@ -24,22 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Ranovus announces second-generation “co-packaged optics” chip"
-    excerpt: "Ranovus has announced the introduction of the Odin Analog-Drive CPO 2.0 architecture, described by the company as the next step in reducing power consumption and overall costs for hyperscale data centre operation."
-    publishedDateTime: 2021-06-08T00:03:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/ranovus-announces-second-generation-co-packaged-optics-chip/237849/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/237849/rano.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
-
 secured: "N0NJs02apn/LygMJSXtctNO/F1K4hDQolvAxyiOfspZoFRiNJBb1Dj25HGCHavL+aa/IxE4yy/Da41AkA+FYyj4qH2loc4cdiBhSh70tnFwgrNoo+le4WOaGZky/cZpNqhgqXQ+EN7nt/4JP3gMhlCsDsIrYPFohTAgdvgFl2Ir/rnZD+0ZQD9Kg0zN7PU4/sOUY/a/FL1oc+fSHbEFcFYQAA5iOhsgbkzlALq68idxyA64UESagfaZqxFrABgFj3P1QW0VD4S5+8KoH/FiArqtefculEVQdIwff97KpD9sNDfzW4l2847bfnr1G8zOxPrOUICy1yk0Wd1Bb2E5jxxVfDP5LgBUT1ocBcyBDeGY=;/s4Veyr493JQiwfd/FZeSQ=="
 ---
 

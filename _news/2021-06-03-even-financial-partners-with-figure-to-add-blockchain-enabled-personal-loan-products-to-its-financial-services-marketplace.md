@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
-publishedDateTime: 2021-06-02T21:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform."
+publishedDateTime: 2021-06-02T22:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "X5j8U9vbZ46zyM8oPjx0SiczWa3faoLDZ9MpkiYoZX20mNs/mGGBYiyiWlCq5nhFzT0bWNf+O4f1Tq1uuWbPxgZZUAYgRm2QEAKPC2A7OEiwgOg3P77XJU/9LcBboEMfEnjXGv8mWzvAb3ny25PZhCq2cme2LdxKJdwUrbPJlNiUqe6sNruhbsOlB6t+Q0AH5WbkQahE9ZDoukRJdJcV1qZr49GLlJ+/jyxhYX7UELc73f3mRmPX9TWl8IH0mFd0D8hFz6DwLrKbwc9KOBgM8iEpCDtyQeSiVNBOBaHBZOopCfvlbp+CSNdag+wpGNB1hQoQtcqpEt+kspRX5hBG4sgzPfNEmDqj7Ka3ounoD0k=;Xe6NU2+chlYsoka8vLZa/A=="
+secured: "+RBLzzWdFEgCYcNp4KNyr/gN7tJPeusEUVq036owgn9JQf7t39l5dYdRoAjZyiL6jtYqy/e6btRQKBeWskC5p5bOsS5MD7qjMXJ7U5OCllYh0eVnJ6AMxClGdifqO+db2ZDYQRf0Drvr+wWoKOGZcWosQqKgCtgjT1n50bkfoF6pEBcAktxvX55NmPKX+mpYaKhKH9w4p48tjsY4+CL+3+Ia+X93Kc4woYVfbO0cs8EURveFHuPzxkAmmUMXn19e35TEl5xueWFj4BJ5EhaAJdVboUbdnKjHEUpu/GhT4vGNu54rq7nw3fnMJSOLfAHbG//3lnspUYwOeYWna1vaYvxASnErTobWbIfnTzaqv0w=;73yRgiLvt8XcJsfuD5oUdA=="
 ---
 

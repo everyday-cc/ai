@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-sn
 webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 99
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlock near 3x performance gains with XGBoost and Amazon SageMaker Neo"
-    excerpt: "When a model gets deployed to a production environment, inference speed matters. Models with fast inference speeds require less resources to run, which translates to cost savings, and applications that consume the models’ predictions benefit from the improved performance. For example, let’s say your"
-    publishedDateTime: 2021-06-07T23:19:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/26/1-2007-Arch.jpg"
-        width: 800
-        height: 626
-        isCached: true
   - title: "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
     excerpt: "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue"
     publishedDateTime: 2021-06-09T21:01:20Z

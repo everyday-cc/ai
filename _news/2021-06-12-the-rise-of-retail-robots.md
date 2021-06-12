@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-12T15:56:00Z
 originalUrl: "https://www.africaoutlookmag.com/index.php/industry-insights/article/970-the-rise-of-retail-robots"
 webUrl: "https://www.africaoutlookmag.com/index.php/industry-insights/article/970-the-rise-of-retail-robots"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.africaoutlookmag.com/assets/images/uploads/industry-insights/0/970/the-rise-of-retail-robots-1580434703.coverImage.2x.jpg"
@@ -24,6 +25,6 @@ images:
     height: 512
     isCached: true
 
-secured: "2ZGom3p/GCbEIKXndlx5/dOtnmQtJ/GbfdqvnFjGPxAUxWmT49eIxAuTsfriUuv78cStkg4ZO4MJgAi1pLRPq7YfJwxIq24C/X3yPoVKi/Z0HRYJRv3Lqqf183q1ZiIAMDBPiOJJmUeF6UYDv6cAiosdFxtYvLuEgwPyU2m//GIOOwygV/QKaWOXzOLfP5gNe8Mv3HsUSVD+6LLmPsd8SberugvVnkAKkDYYrosTwLKAjRxAni8eY35dL2LLRTY2kpUqLuSvRIAiU9BtbJVa5DDYs4E2f+lPbWgi1EIuHHaGrxL8Jwov/9XG4EO7BLcb+8fQFVR9Rmjqh6PdPKuqGE4rYq8eaHELVRTY503bwPE=;S7IQ3X83hZh/AShD5n3ktA=="
+secured: "Yn9oa1NQfgChkjKnZGCs7BSXDqd2rIovCkiJ8R3OHCvRkPRTHHF5bYLymqyT/mX2kXfuIv0wRNq6QnTTf+Q73lgQBbWlgl0IPqGojjA6/GMpVRlR1jnZWmrE9QAlk6TsFFsb9YYZHKWT5qi8z0AlPMkQbEnmqNeCQEAyRUYx9/97QSpYmdRdqxs7RmbkUElO3kIX4D7Hhi02JD6JRI09twXsGLpZkRit+YfOM0GwoCQMksXwMwAyJNJaAmfOdosaD4svg95P7vYFygJkRzOMTFkI7Z/wdxhlrGoDGX/VhHNDHs0PF/bViGsTVOJ8g3kcsV8W731dzk/DYoonl0nfeWiTEYACifyotUtRbfIHUNnvW63nkMI46pbarjQHMmWDo2kRJPeK428Wz9tmul6rZkR0yXXFCWYSuxkvbO61OVcLZcdt4/Aw+/kzSWjwbzqIZxlPfwu/c0enFz8iMY0uQMOzOtujtk/zdNTV9vU6tJOW2RNM/PNxjjGBbciYafCMP3CJi2nCT8YmWk+hFY69zw==;kMxfX3sYVnjnRJihdJugbQ=="
 ---
 

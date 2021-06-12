@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia to acquire high-definition map maker DeepMap"
+    excerpt: "Nvidia has agreed to acquire precision mapping technology provider DeepMaps for an undisclosed amount. The deal should close in Q3"
+    publishedDateTime: 2021-06-12T00:39:00Z
+    webUrl: "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 54
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/06/Deepmap-nvidia-featured-web.jpg"
+        width: 780
+        height: 506
+        isCached: true
   - title: "NVIDIA to Acquire DeepMap, a Silicon Valley Startup Building HD Maps for Self-Driving Vehicles"
     excerpt: "Technology giant NVIDIA Corp. has agreed to acquire autonomous vehicle mapping startup DeepMap, a company that’s using crowdsourced data to build high-definition maps for autonomous vehicles. The acquisition is expected to close in the third calendar quarter of 2021."
     publishedDateTime: 2021-06-11T23:00:00Z
