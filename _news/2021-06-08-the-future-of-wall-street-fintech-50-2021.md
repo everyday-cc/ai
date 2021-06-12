@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -92,34 +92,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Report lays out seven technologies key to fintech development"
-    excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
-    publishedDateTime: 2021-06-07T13:20:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202106/07/WS60be1d1fa31024ad0bac4249.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202106/07/60be1d1fa31024adbdcc988e.jpeg"
-        width: 678
-        height: 452
-        isCached: true
-  - title: "Why fintech is changing the mortgage industry for good – Boyd"
-    excerpt: "It now seems impossible to consider paying an online vendor without using PayPal, or checking our bank balance without using an app. Fintech has empowered people on the hunt for a new loan, a new car insurance policy,"
-    publishedDateTime: 2021-06-07T13:36:00Z
-    webUrl: "https://www.mortgagesolutions.co.uk/better-business/2021/06/07/why-fintech-is-changing-the-mortgage-industry-for-good-dashly/"
-    type: article
-    provider:
-      name: mortgagesolutions.co.uk
-      domain: mortgagesolutions.co.uk
-    quality: 24
-    images:
-      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2021/06/RossBoyd_social_watermark-764x399.jpg"
-        width: 764
-        height: 399
         isCached: true
   - title: "Clip Becomes Mexico's Fintech Unicorn"
     excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftBank Latin America Fund and Viking Global Investors LP."

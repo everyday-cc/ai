@@ -2,6 +2,84 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-03-tesla-ai-process-driving-images-10x-faster-than-humans.md",
+      "title": "Tesla AI Process Driving Images 10X Faster Than Humans",
+      "excerpt": "Andrej Karpathy, Director of artificial intelligence and Autopilot Vision at Tesla, says that the cameras and AI used by Tesla can process visual driving data",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2017/12/7180bfad19f2195c59f8a445e080234a.jpeg",
+          "width": 1600,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "publishedDateTime": "2021-06-02T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-nfl-pledges-to-halt-race-norming-review-black-claims.md",
+      "title": "NFL pledges to halt ‘race-norming,’ review Black claims",
+      "excerpt": "PHILADELPHIA (AP) — The NFL on Wednesday pledged to halt the use of “race-norming” — which assumed Black players started out with lower cognitive ... from wire services such as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
+      "originalUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-google-says-its-committed-to-ethical-ai-research-its-ethical-ai-team-isnt-so-sure.md",
       "title": "Google says it’s committed to ethical AI research. Its ethical AI team isn’t so sure.",
       "excerpt": "Six months after Timnit Gebru left, Google’s ethical artificial intelligence team is still in a state of upheaval.",
@@ -1049,100 +1127,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-private-clouds-hybrid-clouds-the-next-evolution-of-cloud.md",
-      "title": "Private clouds, hybrid clouds the next evolution of cloud",
-      "excerpt": "while MultiChoice South Africa answers customers’ inquiries faster than ever with an AI-powered virtual agent – an IBM Watson assistant – to support its call centre agents and help to ensure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
-      "originalUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/F1jHlpMWiZyeC9pL8iCHT__UcV1svOvTv_H3Zk-rjONPXrMte8n5ef_MMIWrMJ2M6morHJ_j9Gw-LaZBzySEA5XhCo-246bqfTxXmA=w816-h428",
-          "width": 764,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
-      "publishedDateTime": "2021-06-02T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues.md",
-      "title": "TruEra launches tool for spotting and contextualizing AI bias, other issues",
-      "excerpt": "AI startup TruEra lanched an enterprise tool for monitoring and diagnosing issues in machine learning models, including bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
-      "originalUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Monitoring-Illustration-20210601.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
-      "publishedDateTime": "2021-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

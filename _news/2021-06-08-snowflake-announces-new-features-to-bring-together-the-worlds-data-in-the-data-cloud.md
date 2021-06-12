@@ -1,36 +1,44 @@
 ---
 category: news
-title: "Snowflake Announces New Features to Bring Together the Worlds Data in the Data Cloud"
-excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its annual Snowflake Summit, the company announced innovations in data programmability,"
+title: "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud"
+excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its"
 publishedDateTime: 2021-06-08T13:01:00Z
-originalUrl: "https://www.financialbuzz.com/snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud/"
-webUrl: "https://www.financialbuzz.com/snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud/"
+originalUrl: "https://www.marketwatch.com/press-release/snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud-2021-06-08"
+webUrl: "https://www.marketwatch.com/press-release/snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud-2021-06-08"
 type: article
-quality: 0
-heat: -1
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "Snowflake announces new data marketplace and ‘powered’ collaborations"
-    excerpt: "Data warehousing giant Snowflake announced a new marketplace on Tuesday that will offer enterprises a simplified way of accessing and sharing data. The announcement was part of a larger rollout of multiple new services,"
-    publishedDateTime: 2021-06-08T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/"
+  - title: "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud"
+    excerpt: "In addition, Amazon Web Services (AWS) has launched Snowflake integration with Amazon SageMaker Data Wrangler. Starting today, you can now use Snowflake as a data source in Amazon SageMaker Data Wrangler to easily prepare data in Snowflake for machine ..."
+    publishedDateTime: 2021-06-09T09:11:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/141624/snowflake-announces-new-features-to-bring/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
 
-secured: "vBcoKBN3xRMDjjZXemoPDdVqdNuMc/11UAP6EZPJ0mo3YIOjJ9HyGe4sPgWlL2ORHPMhRTxiNIG7XU2YSMM0CLMYOQBZ6pWf0pUtLKvb0Dyp6ZR8LD5VCEfl3FqTIWOWPNvd1AUe+MGhmxlTWdCHcFP8vvEUMXC9qXYTfERGx3/fXgNt5vCWurYu0FXrgMyZFmKZx7S9nO+14O2FuzH/nZiBqdJ5MnLGhB+wN750vqokolVXB3kDgBgkn8FQRbcpMOLVu173XdCIlNA16BqcnIYZ+NdO+f/5g+/wROFEwQXODwpu5KgoDdIVZybVUEDlA6cFWwPYr9CgIW85ZuaBxScGNo6b0Y3jJ6syGS53Jn0=;VljI6GPK7yq8IwuouGEZ3g=="
+secured: "AqcNDWImpdznr0PGup95dGJEtnacM6aCLH0Yub2xqqn1heV58KteAah8n1vbRhKDa5i2DyJGM+Wrbqcvj3kbd3pFK9+Dk5lD9icBIYd8lnkybCTkGMSltKVpTFAt1JkIz4MdLnrDzafCsYjxlu12ik/S7Z2z9uoQveJdZyxnBBPnwM78fw+BQkkHrDAaef2zQtLHf5kqttsnV2WUb50iL5WlbVrlDlB1pRMAF7W6z18T/s6PPybHk9Jofqu7/Xoe6pQi0r7upSac/1XOAl5wJjlqrQNNJcFnIqFvWCJqwRFeDH7o5VT7QOkZmqUnhryqVnWSENugXBP5Lral0xLP1DM4LGcRg+Q2Y/b0D64DnIU=;590oJLCbESZv6AI4/pEOjg=="
 ---
 

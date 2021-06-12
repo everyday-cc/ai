@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "In EV News: No Plaid+ From Tesla, Self-Driving Cars"
-    excerpt: "The major difference between the Plaid and the Plaid+ was the range on a single charge. The Plaid version is expected to have a range of 390 miles, while the Plaid+ was planned to have a range of 520 miles."
-    publishedDateTime: 2021-06-07T13:16:00Z
-    webUrl: "https://247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/"
-    ampWebUrl: "https://247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 74
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2021/06/Tesla-S-2nd-gen.jpg?w=400"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
     excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
     publishedDateTime: 2021-06-10T17:22:00Z
@@ -198,15 +182,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
-  - title: "Experts think arrival of real self-driving cars is likely decades away — if ever"
-    excerpt: "Elon Musk keeps predicting the imminent arrival of \"full self-driving\" Teslas, but experts aren't sure if we will ever get the self-driving cars that he and others have promised."
-    publishedDateTime: 2021-06-07T14:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/07/experts-raise-doubts-about-self-driving-cars.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "x8Kql1p4D7sdz9VdcFkuVyDp7NdOEaLYN1wfYcAq2tdjQG8toVyB/dE71DDZlfOSeI/HH+40SMaos2XZHCnnPq7FuVGoc/z2otH1KqGN6qrF601/LjHqIzW0/88Qz6AXbrgDE+/xzusYXbzx1YX70MQIff+IGjBDCCC1V4pyTbQ0YCiK3PyjfXZTmgk+IuY7sW9ATf24YwGSgvKf+aovKIHLkd2cOvdm30CCwuQphcRCFY0LHyVKPs8/Bc7hTDMIHf77ITnlLC1tIP8QhgABTi53XyqkQhJcZIyX5xcJ8XyDYklKHiymBSxSE3xNoxrbY2dNttlts9l2jBk0W+MfW8whd0NfqxFbiQ+LuPwkdFS9xD5IXe7NBp7RIe0t1a+uzp/T0d4oqdcYaalgcikz8lkuFRh/UA5vKgSCqBcoap2ugxhkfqglGsAZEfA1436rFsB6JyrQd/u/vNza6wUvUSvO9tMAsgn8szwvzd0XqyPls/oqGcVwapjVHGlq7Qk9QqXjFWOr9fGWszFTzMB/2A==;1xw1pBetiZ1J9v0hdnrJDw=="
 ---

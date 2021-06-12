@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-06-ai-generated-fake-experts.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-generated-fake-experts.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study shows AI-generated fake reports fool experts"
-    excerpt: "If widely used, these AIs could hinder efforts to defend against cyberattacks -- and could set off an AI arms race between misinformation generators and detectors."
-    publishedDateTime: 2021-06-07T14:56:00Z
-    webUrl: "https://gcn.com/articles/2021/06/07/ai-reports.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/financebot.png"
-        width: 760
-        height: 368
-        isCached: true
   - title: "Study Shows AI-Generated Fake Reports Fool Experts"
     excerpt: "AIs can generate fake reports that are convincing enough to trick cybersecurity experts. · If widely used, these AIs could hinder efforts to defend against cyberattacks. · These systems could set off an AI arms race between misinformation generators and detectors."
     publishedDateTime: 2021-06-08T03:24:00Z

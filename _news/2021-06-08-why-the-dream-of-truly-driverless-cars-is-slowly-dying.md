@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-ha
 webUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "Cruise driverless cars are now allowed to carry passengers in California"
-    excerpt: "Cruise is the first to be granted permission by California to offer rides in fully driverless cars on the state's roads."
-    publishedDateTime: 2021-06-07T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132494_cruise-driverless-cars-are-now-allowed-to-carry-passengers-in-california"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 38
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100794575_h.jpg"
-        width: 1920
-        height: 991
         isCached: true
   - title: "Kodiak eyes 2023 for driverless freight transport, targets autonomous trucks for US and Asia"
     excerpt: "Artificial intelligence (AI) firm Kodiak Robotics has set its sights on introducing self-driving trucks on US highways by 2023, and will be gradually"

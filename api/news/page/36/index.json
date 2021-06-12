@@ -2,6 +2,92 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-05-17-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo says its tech would avoid fatal human crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/03/09/1070479.jpg",
+          "width": 1240,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-the-future-through-artificial-intelligence.md",
+      "title": "The future through Artificial Intelligence",
+      "excerpt": "ARTIFICIAL Intelligence (AI ... On a bigger spectrum, from self-driving cars to voice-initiated mobile phones and computer-controlled robots, the presence of AI is seen and felt almost everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/metro/metro-news/2020/03/28/the-future-through-artificial-intelligence",
+      "originalUrl": "https://www.thestar.com.my/metro/metro-news/2020/03/28/the-future-through-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/03/28/622672.jpg",
+          "width": 1048,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fiction-movies-becomes-reality.md",
       "title": "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the ‘Clone Technique’ of Science Fiction Movies Becomes Reality",
       "excerpt": "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the ‘Clone Technique’ of Science Fiction Movies Becomes Reality”.",
@@ -1046,100 +1132,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-when-ai-meets-bi-5-red-flags-to-watch-for.md",
-      "title": "When AI meets BI: 5 red flags to watch for",
-      "excerpt": "AI can transform BI into a tool that drives data-driven decision-making, but incorporating AI into existing BI environments is difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/",
-      "originalUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-machine_learning-shutterstock_671158525.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/",
-      "publishedDateTime": "2021-05-14T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-facebook-teaches-ai-to-disregard-irrelevant-information-to-improve-overall-performance.md",
-      "title": "Facebook Teaches AI To Disregard Irrelevant Information To Improve Overall Performance",
-      "excerpt": "Expire-Span works by predicting what information is most important and therefore worthwhile to keep based on context.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "originalUrl": "https://hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55100/content/facebook-teaching-ai-to-forget-things-to-improve-performance.jpg",
-          "width": 708,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "publishedDateTime": "2021-05-14T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "In EV News: No Plaid+ From Tesla, Self-Driving Cars"
-    excerpt: "The major difference between the Plaid and the Plaid+ was the range on a single charge. The Plaid version is expected to have a range of 390 miles, while the Plaid+ was planned to have a range of 520 miles."
-    publishedDateTime: 2021-06-07T13:16:00Z
-    webUrl: "https://247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/"
-    ampWebUrl: "https://247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/autos/2021/06/07/in-ev-news-no-plaid-from-tesla-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 74
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2021/06/Tesla-S-2nd-gen.jpg?w=400"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
     excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
     publishedDateTime: 2021-06-10T17:22:00Z
@@ -194,15 +178,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
-  - title: "Experts think arrival of real self-driving cars is likely decades away — if ever"
-    excerpt: "Elon Musk keeps predicting the imminent arrival of \"full self-driving\" Teslas, but experts aren't sure if we will ever get the self-driving cars that he and others have promised."
-    publishedDateTime: 2021-06-07T14:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/07/experts-raise-doubts-about-self-driving-cars.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "bLIUqO6pXtuNyofBb2JL0Fet4bMBn7DL4RkTEP4ftWZQOVDKasb/95MhPUn1b3oaMLgDIoE7Hj7mXSp6F75HHnO+6ZZ0OZh1baiXv7p8u4M6RiWgG9FxRiUnWu/e90+2C5TMMFVOHAudGfNo94XKnurwHmQiO8IFwHCC55X8rh/6INAeaSGxLiSUfvxxJhTGPr7R/kQhPVvu8G2u+o5VRArelQoJe3Joc1ajz+7rG5el0Xgu+XGlLLF+inLeEd9Utw63Nh+rbXZWJBx8+erMyLtChjOKuTbWWNGK29RYbGEhMMpKWBiyML+bHzQ9wGnJWyi/rtZCk5XmDhLfr7o1jFST/UW3bQ/6vbqs+XQK6DvRYQv9qOTtIZZS7e+fO1Th7duJiwzWuJ1dqa9VdcBt/9t3FynQrW3Y9fobTxg0qg0xJ9DGst8HnXVSCA8nPbMU18miTiadxXgYSIyroLhJuuYFRE75bLqiz2/aw1OmTSDkdNIfBexIfEE/RhVd1U0NK6vzmUKCXd8btzNEMh5sXA==;Smg77XawbkS3g/LbgXQDeg=="
 ---

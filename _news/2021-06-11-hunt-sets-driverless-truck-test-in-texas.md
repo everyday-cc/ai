@@ -53,20 +53,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Cruise driverless cars are now allowed to carry passengers in California"
-    excerpt: "Cruise is the first to be granted permission by California to offer rides in fully driverless cars on the state's roads."
-    publishedDateTime: 2021-06-07T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132494_cruise-driverless-cars-are-now-allowed-to-carry-passengers-in-california"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 38
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100794575_h.jpg"
-        width: 1920
-        height: 991
-        isCached: true
   - title: "Kodiak eyes 2023 for driverless freight transport, targets autonomous trucks for US and Asia"
     excerpt: "Artificial intelligence (AI) firm Kodiak Robotics has set its sights on introducing self-driving trucks on US highways by 2023, and will be gradually"
     publishedDateTime: 2021-06-11T09:50:00Z

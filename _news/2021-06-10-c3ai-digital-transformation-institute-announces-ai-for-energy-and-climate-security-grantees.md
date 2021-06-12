@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformat
 webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-2021-06-10-9159119"
 type: article
 quality: 75
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -30,6 +30,50 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers win $4.4 million in grants for projects using AI to take on climate change"
+    excerpt: "The C3.ai Digital Transformation Institute announced on Thursday $4.4 million in awards to researchers using everything from offline reinforcement learning and large-scale simulations to soil samples and seaweed to find solutions to climate change."
+    publishedDateTime: 2021-06-10T14:01:00Z
+    webUrl: "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 81
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/23/0910be10-29c0-48e4-abbe-4937f7c93ed6/resize/1200x/603a31e7f68e468b2e6d5830fc2ac6d8/istock-1135081245.jpg"
+        width: 1200
+        height: 854
+        isCached: true
+  - title: "President highlights freedom of speech challenge in AI era"
+    excerpt: "President Nicos Anastasiades on Thursday stressed the need to ensure freedom of speech but also to present correct, factual information in the ever-changing environment of social media and artificial intelligence that has led to the proliferation of fake news and misinformation."
+    publishedDateTime: 2021-06-10T10:18:00Z
+    webUrl: "https://cyprus-mail.com/2021/06/10/president-highlights-freedom-of-speech-challenge-in-ai-era/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 39
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2021/06/nouris-AI-conference-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "DOE announces $1 million in funding for privacy-preserving artificial intelligence research"
+    excerpt: "WASHINGTON, D.C. - Today, the U.S. Department of Energy (DOE) announced $1 million for collaborations in privacy-preserving artificial intelligence research. The aim of this funding is to bring together researchers from the DOE National Laboratories and the National Institutes of Health (NIH) to jointly develop new flagship datasets and privacy-preserving methods and algorithms to improve healthcare."
+    publishedDateTime: 2021-06-07T20:00:00Z
+    webUrl: "https://eurekalert.org/features/doe/2021-06/ddoe-da060721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
     publishedDateTime: 2021-06-10T17:00:00Z
@@ -39,6 +83,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
+  - title: "Department of Energy Announces $1 Million in Collaborative Funding for Privacy-Preserving Artificial Intelligence Research"
+    excerpt: "DOE National Laboratory researchers will partner with flagship dataset developers from the National Institutes of Health Bridge2AI community"
+    publishedDateTime: 2021-06-07T22:12:00Z
+    webUrl: "https://www.energy.gov/science/articles/department-energy-announces-1-million-collaborative-funding-privacy-preserving"
+    type: article
+    provider:
+      name: Energy Department
+      domain: energy.gov
+    quality: 0
 
 secured: "0fbwc2918xB44ZeWPBur2H2YNsL2nNIP36Pxd3v7jgLctDOEE6y3zy3GpF28ERWa1HNVCPSwfH7jbNFmCqwgBc+/4h5KsXXKAFA/FdRcLbHhyPw2XehWH8ShkPoYUSllcLA3PE10CCSL8I3sNo78i+0lS48WxYiLMjd2ijT999xeZFdrQwxb1j0yUmCx6AwfWRaGj6fxxP1j9dZFv0semQicqgv+ABV6IHSw7qpp7VmfbmnU6bM8wOo7Nt5yPboqtb2D/uFDz5kQWdhZSGIb92o/Bhzk+hID8iNxfXJUR+JCP4ZQw1GUctOEYCX5LghOPD2DcK31yU5DT4DieOByaGQpAICq5LbiBxGCC44WZEE=;ES7QHihTZCX54pyByJqERw=="
 ---

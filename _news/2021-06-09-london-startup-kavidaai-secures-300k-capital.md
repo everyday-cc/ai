@@ -38,15 +38,6 @@ related:
         width: 440
         height: 293
         isCached: true
-  - title: "QIMA Acquires Stake in London-based Supply Chain Resiliency Startup Kavida.ai"
-    excerpt: "QIMA, the leading provider of quality control and supply chain compliance solutions, announces it has invested in Kavida.ai, a London-based"
-    publishedDateTime: 2021-06-07T14:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385100.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "a+oxOGzDiF+P9TRjnVzQpP4v6kbMDMCph//rGfuFOg2voMDZBhjukA2/TifLFBytKz9t4syMtmymy7Cgc4zy53SBqGuiZLXSho5Rd4+HRUK7SLlxo9AuwETJWkJ3s9qoc9yRKoufDk9OhGJJWxHo00JK+SEbEhQTTljJDzlO+mUvlQlhqzTaeIP0xxR4P0eD9HvbiCFmVeuf1TIPEiMuaoGechpTp82QSviCBBU3R5YYiGuTkI5KrRdqGE2VT77qjdoqK08PqcgXkwXZryem+yFHkGu8ru8SDMHFfyPfqrHV/s4XaAvAktn5xnv3eMGoq6s+L0teDMjko9vhOr8OLOXHatWQ0acSi3+krGayf5zO639hWPY5uYz6jNzQDz2bk/z7inzlk2ZE3irKkSZFiryDGiTVdD6S3XLP6pBa7seL0sRPE7fs6c7/FxCAa/EuD2/2NqsR6ZMSGF1uEdAiJsWw9sLPwT86As/GoCmsjyxvCTCRu8sg9TRARbVyyITCe+jds7oT3fXKnITzU9xkGw==;AJ1uYpcEpXkT0ZCu5n7PsA=="
 ---

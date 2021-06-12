@@ -67,20 +67,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Cruise driverless cars are now allowed to carry passengers in California"
-    excerpt: "Cruise is the first to be granted permission by California to offer rides in fully driverless cars on the state's roads."
-    publishedDateTime: 2021-06-07T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132494_cruise-driverless-cars-are-now-allowed-to-carry-passengers-in-california"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 38
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100794575_h.jpg"
-        width: 1920
-        height: 991
-        isCached: true
 
 secured: "HDAJYHjwb9esvI0WxHrDKu/RIDJRcf61PTGrYGcmBIKogWVWb6Vm9GcM9zZG/BJ2bRDGt6erU5D5SHvTflOoX9RI8NpAHEUfNT+fKDl0vuqWqAA/H0lkbDFlw0D/N+jRf8dyWqY29d/KJwzXD0+5hVLxZ4heWHuVdNYWbKSu6MYoQqBf6tQbwoOn4zaG24n4fJljImwXv1VbHJanY60kUPjvswX5V6U46NBQ0DcsAjDn6SZyadOs4oNZL0YjStI6H/+WdsvHt4LUnK6xeAmk+/YKnZ2djdDEj7xLP52r22zrRdv92DLQqsV9EWs16i9jeyylmLNBalV+HaHug/ftwJA47FfW6R9oJScPcjnZT//oSSWxPseFWJ/oTI+YzXM1fTL37iAfnwzvY5RqZ0QllkVkBuAUTETblDjY7rD9fvRuerv2V6/XgKwOQ1YBjvH2CMDsolOau0meBcdoG3bFlfjqRVls0Gmz31IZzuKEjDh/AutvDmJBptDzhLwdB6Q5JWuESCR5/UJ50DkgUUoNig==;EOuMlSiwyyLpSBLRW7n2pA=="
 ---

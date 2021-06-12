@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2021-06-08/artificial-inte
 webUrl: "https://www.pharmiweb.com/press-release/2021-06-08/artificial-intelligence-in-healthcare-market-present-scenario-key-vendors-industry-share-and-growt"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 448
     isCached: true
-
-related:
-  - title: "AI in Healthcare Market Growth Set To Surge Significantly During 2021 To 2031 | Keyplayers-Nuance Communications, Inc., DeepMind Technologies Limited"
-    excerpt: "The most recent research report on AI in Healthcare Market 2021 published by insightSLICE begins with the market description, official report, segmentation, and classification. The report offers a comprehensive analysis of the market so that perusers can be guided on future opportunities and high-profit ranges within the industry."
-    publishedDateTime: 2021-06-07T14:10:00Z
-    webUrl: "https://ksusentinel.com/2021/06/07/ai-in-healthcare-market-growth-set-to-surge-significantly-during-2021-to-2031-keyplayers-nuance-communications-inc-deepmind-technologies-limited/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 32
-    images:
-      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/05/anysis.png"
-        width: 860
-        height: 522
-        isCached: true
 
 secured: "fyUbZRwRATBGCc3YnbikkCOg5Q8HJn4viq4NmUu39JIPQ9ic+AV55xAKCM/WdKTEE8A6CWx5/EWS/Jg3MLA0HBQW0Wq2hdLuGXlQf7E+39vhrrVOPSkmA51sfoNK7U1VkK4cHsOkfEhAv3TH3tvHbwcHMm3VytkPYhZVtmDrqlqX6WoGqUETLlfD+QMnpaXRtAJkUj2aC3LM7qvFjNAHSEGLSberAsOwmfyyZZ2XGilFXbAAdCn1pFhPki66bcTviA+DGQVSBn2RillfJ30Qn4wwwkwPd7UfZzc+aH+ese6RB2BXwHcE2kk9HbQHge8NeEknY2Mmkr6j+M+n1LDfSeAuXGgDMNW1aENhPV6Fv1c=;GGcn7T0xH6a9NkZK2GaYJQ=="
 ---

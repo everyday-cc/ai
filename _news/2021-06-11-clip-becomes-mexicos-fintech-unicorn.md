@@ -97,34 +97,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Report lays out seven technologies key to fintech development"
-    excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
-    publishedDateTime: 2021-06-07T13:20:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202106/07/WS60be1d1fa31024ad0bac4249.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202106/07/60be1d1fa31024adbdcc988e.jpeg"
-        width: 678
-        height: 452
-        isCached: true
-  - title: "Why fintech is changing the mortgage industry for good – Boyd"
-    excerpt: "It now seems impossible to consider paying an online vendor without using PayPal, or checking our bank balance without using an app. Fintech has empowered people on the hunt for a new loan, a new car insurance policy,"
-    publishedDateTime: 2021-06-07T13:36:00Z
-    webUrl: "https://www.mortgagesolutions.co.uk/better-business/2021/06/07/why-fintech-is-changing-the-mortgage-industry-for-good-dashly/"
-    type: article
-    provider:
-      name: mortgagesolutions.co.uk
-      domain: mortgagesolutions.co.uk
-    quality: 24
-    images:
-      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2021/06/RossBoyd_social_watermark-764x399.jpg"
-        width: 764
-        height: 399
-        isCached: true
 
 secured: "atw7i70JZP0b2GlFcnhsKIWD9ba4dzTN5J45SrKiA+6zLSTIdJ4GKG3vy/9URkt8UOEALeWhUWdmvQgTmNPALvaeEvaCFhMxRUb33Odp6da0sCUxmRObxPpLogmA7g+slsuTGQOqX45AJ+iXByVPP6d//aKwMPku1MAKEcoE51WExrBC2A3/+jr85DBLfqgvDvWFnTD9pcXLWCCLVVG3lpv70zU9fHBiGBG6Dl2OMzJoIV0eeDHXM+VoTD2p4iUuwp1TfUh5RsfQ7GJJd8OtYOsX3KI7cq/EmmzhvZT+beHNTnRwUvGHlEDiRppR+bSgPvba+6bosmTSJJ99ViBTAzfed14/HqPYBbVTwcrWxK5A0tIeqlQ2MvmrAFdlPcHVMrmF8N5zIpyp9R4A5H9iLBamzFiiUWvNxGMpJBfVCTJ2d7J7GIXdvmbon7/mt+93GUUFEM22Wg6c+txZIGzqkc0kHQJTvQfIXIldLzsN0f/wJBOARB67TZR0vZl/xobHsYVLNrdTVbiPU1vqIJjw0A==;MXQU9Ss4r97eTJbVAwpkJA=="
 ---

@@ -1,42 +1,36 @@
 ---
 category: news
-title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
-excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
-publishedDateTime: 2021-06-10T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
-webUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
+title: "Researchers win $4.4 million in grants for projects using AI to take on climate change"
+excerpt: "The C3.ai Digital Transformation Institute announced on Thursday $4.4 million in awards to researchers using everything from offline reinforcement learning and large-scale simulations to soil samples and seaweed to find solutions to climate change."
+publishedDateTime: 2021-06-10T14:01:00Z
+originalUrl: "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
+webUrl: "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
 type: article
-quality: 27
-heat: -1
-published: false
+quality: 81
+heat: 131
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
-  - AI
-  - AI in Security
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/23/0910be10-29c0-48e4-abbe-4937f7c93ed6/resize/1200x/603a31e7f68e468b2e6d5830fc2ac6d8/istock-1135081245.jpg"
+    width: 1200
+    height: 854
+    isCached: true
 
 related:
-  - title: "Researchers win $4.4 million in grants for projects using AI to take on climate change"
-    excerpt: "The C3.ai Digital Transformation Institute announced on Thursday $4.4 million in awards to researchers using everything from offline reinforcement learning and large-scale simulations to soil samples and seaweed to find solutions to climate change."
-    publishedDateTime: 2021-06-10T14:01:00Z
-    webUrl: "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 81
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/23/0910be10-29c0-48e4-abbe-4937f7c93ed6/resize/1200x/603a31e7f68e468b2e6d5830fc2ac6d8/istock-1135081245.jpg"
-        width: 1200
-        height: 854
-        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence"
     publishedDateTime: 2021-06-10T13:01:00Z
@@ -79,6 +73,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
+    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
+    publishedDateTime: 2021-06-10T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210610005231/en/C3.ai-Digital-Transformation-Institute-Announces-AI-for-Energy-and-Climate-Security-Grantees"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
   - title: "Department of Energy Announces $1 Million in Collaborative Funding for Privacy-Preserving Artificial Intelligence Research"
     excerpt: "DOE National Laboratory researchers will partner with flagship dataset developers from the National Institutes of Health Bridge2AI community"
     publishedDateTime: 2021-06-07T22:12:00Z
@@ -89,6 +92,6 @@ related:
       domain: energy.gov
     quality: 0
 
-secured: "WV8W7FZDjphRYMBkHa894H/wU3qE7s3DSAcZniNSJz+Z/XbZqvX4lsGcVvUiIih6UAsfc05fm8AcPWmf6cDilaJxqk6g5rm1qSXIga43jmuZ+qsuRO1My5wd7DzN6eWz69KJHxiY6VPYpeJT2wH/GjFJX+WJcomXuQrUc/Z/QJRzo5nBtoLCyEUbuZq4NQCvFtrq3QCmp4EbomCYo+pRYuXrlXHWsHm2goshnIErO4yq7qNPpvyBTcJTJuTGB1biMjKN2FvXvHmWigI228+KdhMWnFKzogpr0Cwy4JYGlCr4/zzFOkeI9jbyQOqFbnbjDu5GxykqyxYdoPb7sZgnBdF5KTyegBs2bvq33k0Q8yE=;Pt698t5DSZm8hXclI5cFeQ=="
+secured: "iuJLks0tB93gm3RcZM4XyRqegLSLj8JG/mfsLT6q0XgwJ8ZtDUyY9cLY5YK8Dz1U6CbJtzouNbFCk5B7wwRn8l8L8793Oi0xX5wQDK/0/dH+xDvVg20KRhoVp/kEJMFYUgA7tKlmlUJcSwYUPtZ0ye9B21Tz/xpPDBGrhx4sWHTjFyIBUh6P7/TiGCw8tSsKs+yyKwT5536hx3QHzlBc9UWNUbamCQ5WT/5qNhs58bkYQWfDrppyiXS9Jm6B0OXam1xP3rye2onnJIrFytidgAs6XTf6hhypJYN7WhcU6xW/Zjmh2MxwPibDp18C/B6bH8S4n7lkxMmNN4ILD1Dh6k3LeN7OIGuuYGdiRdEjLfA=;t37kaPzXB9co20pLnYQQ6Q=="
 ---
 
