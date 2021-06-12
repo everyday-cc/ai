@@ -117,20 +117,6 @@ related:
         width: 678
         height: 452
         isCached: true
-  - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
-    excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"
-    publishedDateTime: 2021-06-07T11:25:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-10-upcoming-fintech-webinars-and-virtual-events-in-dach-to-attend/45836/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Upcoming-Fintech-Webinars-and-Virtual-Events-in-DACH-.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
   - title: "Clip Becomes Mexico's Fintech Unicorn"
     excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftBank Latin America Fund and Viking Global Investors LP."
     publishedDateTime: 2021-06-10T17:05:00Z

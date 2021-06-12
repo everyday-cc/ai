@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "The impacts of artificial intelligence on the workplace"
+    excerpt: "As part of this programme of work, the OECD is conducting firm-level case studies to understand what happens when a specific AI-based technology is implemented in a workplace from the perspectives of those most impacted by the changes."
+    publishedDateTime: 2021-06-11T00:18:00Z
+    webUrl: "https://www.oecd.org/future-of-work/reports-and-data/impacts-of-artificial-intelligence-on-the-workplace.htm"
+    type: article
+    provider:
+      name: OECD
+      domain: oecd.org
+    quality: 37
+    images:
+      - url: "https://www.oecd.org/media/oecdorg/styleassets/images/OECD-social-sharex.jpg"
+        width: 700
+        height: 350
         isCached: true
 
 secured: "j2w6PLW1Vyw8/QNWoaZQx9ZH1gRNgUcpVc1TJj7MYjZrtI33pW/EVF3EDBv7i9+k57WRYdgcXzVLD9wWO7SErqIO5cd5Z+Znru52KMovGYoQ+1TT5ebfAVnYL6hkdKj439vV2do2adn9uiUS+vdaaOCArln59JWBdtqjXtSzxJ+ytU9HAwGXdJWUn9M965R8MLE7YLJLwAlm560tXNz+bpYsTSkK8PwtVy5UzwTy8U4Jk5RCJvhnVPDuGYXIjgIrtoWSNuJW/LzxIqr+nzhePQ5yrroJpr848z3jbyH3NpXLMnTLEWuWrW6TD3PYp5Xkb0Wu/bdIC04SURIrm8aqOUv6K60ySSzg+DA0KmEwkTaOhm2vfsb4RVclVlT4+RfwUesQI3uFJVvd0D2sDi1V5KJySrU21hUgyvhF9IdY2uRlVmOwWw1D9gXsE9rrzf1u3ekYX4ItTJn6FapH69LTcYXYVr3h2DemNxojnBQGfsKQrDSzo1o/NHizh3qwntSWMgCNNTpu1iherafXEYYgJQ==;nlQ288ZHBIY7wo1I36Lzjg=="

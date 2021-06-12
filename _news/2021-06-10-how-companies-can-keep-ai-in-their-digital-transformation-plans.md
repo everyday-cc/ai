@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The impacts of artificial intelligence on the workplace"
+    excerpt: "As part of this programme of work, the OECD is conducting firm-level case studies to understand what happens when a specific AI-based technology is implemented in a workplace from the perspectives of those most impacted by the changes."
+    publishedDateTime: 2021-06-11T00:18:00Z
+    webUrl: "https://www.oecd.org/future-of-work/reports-and-data/impacts-of-artificial-intelligence-on-the-workplace.htm"
+    type: article
+    provider:
+      name: OECD
+      domain: oecd.org
+    quality: 37
+    images:
+      - url: "https://www.oecd.org/media/oecdorg/styleassets/images/OECD-social-sharex.jpg"
+        width: 700
+        height: 350
+        isCached: true
 
 secured: "tg9whVcPDNIBLLHV2iswmZdSK/EfnHUFjNQ1s4ESpiULavUZPm7L7KqVZES+4hdiSExRFTeRMjJFpJrbnpUxq71Fwht/HDJhToqdAleUJgK7ahcpEX6a4Maf7fzCXtVReV/U6gK3zsMW4a7GjsPyVQ9beq34rQKAOQ2qxeAk9mFr9XCLxFpE2O5AEmKt1M2qBQbO+os+7ybIB6LelJrVsCgTZdXQhSWNsngHEcTfOtQpJq+TDUUAAhd57zIeulwW5+1cCt/8XeU+duxZ5Ep/Ea/vuRdEI8oElFemRfsxZQDqnwbZZM5es7QfGclBhGT3Q/NLHfKMgk8rYac42pnt3xpoaEd0a6c9VSfG3KS2I1xnsB+FVtGoHKt+yT5MpJEiC7gjzReVhVAYXCj4G/s8Ngn4v9h6wjR4PBT0GokTeUzTfbyiUBTuvtLiISNUSR64vOQ48lrpkUIrzQZ4ph3WnR8vip8Sl2g6qOzpz+4vnihvX23mkRacELnTz6JZK6RnvXmwTL99DIQxZnCxsEOOGA==;aJU9VmOhnogD57kyhjW27A=="
 ---

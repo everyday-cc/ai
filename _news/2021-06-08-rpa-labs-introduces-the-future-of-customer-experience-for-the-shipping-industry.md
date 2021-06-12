@@ -22,6 +22,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Mashreq Bank selects Kore.ai to Elevate Customer Experience through Conversational AI"
+    excerpt: "Kore.ai, a top conversational AI software company, today announced its partnership with Mashreq Bank, one of the leading financial institutions in the UAE, to enhance digital engagement and support for customers through conversational AI."
+    publishedDateTime: 2021-06-08T07:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210608005075/en/Mashreq-Bank-selects-Kore.ai-to-Elevate-Customer-Experience-through-Conversational-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+
 secured: "JudFJ6CwzxDZrokX5xaTatJdwiUOMG1a0tpFrew+XMIWlCavjMf9f5lTa0chXA+0hnaE6SCpNXzT9DLDbJKoNwomj/IZEGma9XzDDb/RWszfJh1j7u5scfBxycITVpT+ypF2L9EULVl/o9Yega//4R26ha8+5Q6Jz6yHoV6zy50ONvPHTX6YlCS2fqEILhqQ52zMfb+/ujR5e+CRxe+s/a4Hgg2dVN1UMgbkL1Tt+puhL+bwtm8wmThpK9E+mVWgGRo5u70wFJxkgUlOAvtPWXcl++/lBhSa4yws1rChYmZNoQs/xeTIedi2aC/vnuvaWxhnfY9ceGbyGAj6D+0H2gYax6M9jfet3udx4BJZ1rQ=;n50WM13BcJnnU1B1q1cQhA=="
 ---
 

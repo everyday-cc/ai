@@ -24,6 +24,17 @@ images:
     height: 642
     isCached: true
 
+related:
+  - title: "Cruise can now ferry passengers in self-driving vehicles"
+    excerpt: "Cruise has won approval to participate in California's first pilot programme to provide driverless transportation services."
+    publishedDateTime: 2021-06-08T04:48:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/06/08/cruise-can-now-ferry-passengers-in-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
+
 secured: "Wd0wFnH8OYYrFBfTEU6UuwVDnwpFzLyXOrbnHzYszvnI1vkXMMLJch+LeDz/4Jjr6D0TClWxAzZaLeu3FIpXnPnjjHYJ+v1RfJbxwwJI1kayVNyRY+n5deX2Amz4C23u8tINmiO47gT4Nyw7nkJrlUk68gyhrroG51Xpj8u/+UjqGdBwFpknac+ZP68G2rYj/iGMr+OeYyEWuuAwz3RTztlI0G4MaKQ3tjryuCApZ8OZjkJRirFx1i0hF5Z+1I/JAukkAymYC/v4z3J+bJ2100OvKxqFhuPYKU9koKsNsr0VvfCegAPnmot92sNDKdv7DFS8C4DaaiJd/alZg2tE8CjBFh08rpYDSq9t+xvfG9k=;cLTLWoSWnBfXl/n/cXx6NQ=="
 ---
 

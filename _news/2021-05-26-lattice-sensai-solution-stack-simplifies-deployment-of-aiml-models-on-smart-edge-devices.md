@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Lattice sensAI Solution Stack Simplifies Deployment of AI/ML Models on Smart Edge Devices"
-excerpt: "Enhancements include support for the Lattice Propel™ design environment for embedded processor-based development and the TensorFlow Lite deep-learning framework for on-device inferencing."
-publishedDateTime: 2021-05-25T21:47:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices"
-webUrl: "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices"
+excerpt: "Supports TensorFlow Lite and Lattice Propel for Embedded Processor-based Designs; Includes New Lattice sensAI Studio Tool for Easy ML Model Training HILLSBORO, OR – May 25, 2021 – Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader ..."
+publishedDateTime: 2021-05-26T06:13:00Z
+originalUrl: "https://www.design-reuse.com/news/50032/lattice-sensai.html"
+webUrl: "https://www.design-reuse.com/news/50032/lattice-sensai.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - Google AI
   - AI
   - Machine Learning
 
-secured: "TWmtEjuxOkSsv38hLRRX6C+xGySpzPDDSzmNHMDZ2lG8Dw73h4dQRnSm7fUqwNZiJRugPutrMC9NmnSgyAqKM8ISLB0wVT7sPC57qwWBkN0TBSUpCuQ3S5Hj0G1ck1JpCOBsISwTVlpD/R2Q5Ew+mUe59J9hJMTZrlAOpOJswUvbQ/sUyACMCrmASkPJnYEiid2hvVnZrBp3kevTymw0Wn+xp4cBjJP8yCgQQ3s5/4xg5l/L4gFSEhx9YfUaftxYqjn7TxnFDiLNS6eijdv16nCbWfcDAc5I7TRmSqVNItOIsUfPzPT8o+UcWBWfNYfVSyEC+bonhLQMxuX/WMmuW4L+U77+hH3TXykDUtLXWKo=;83m47su7AcLhkCjLDyrveA=="
+secured: "aSaJBNAforaHIR/sLX9r0IMJVmsRDzrya2PbtsdBbMDESByIx2DReLQ+uueMMjEQDS0AgK2yUlnGY8qsI+h4exTb6mo1jwbXP3q02PLiq7qxKL/0f02PeMsyG46KuPi8PnnrUXWS+9HM25b80rwXrIVearSheSF+iMhLncDD9WWw5AmCwZj9lYp5+5w0M+7yPdkuQ5eXVp+lnwfuwx0/2W9AYrrrWrE9kvqmza+Vtkn83l1O5Fip3q23vjxK1YwFP8QSbcs4SKeOSpm/OWQooGf2dfZr4fTF0dfjD+31lldk1jl5HXGcyDUS4Q91aH9mkieLoBAIy13t/oYnnbgXHhtrheFym2VWwngV/14ob78=;x1REQzyG8NW9MrJTXt01Tw=="
 ---
 

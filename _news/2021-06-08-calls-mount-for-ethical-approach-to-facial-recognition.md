@@ -119,20 +119,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Hyderabad Man Bears The Brunt Of Facial Recognition Technology"
-    excerpt: "The Internet Freedom Foundation said the random collection of citizens’ photographs could be linked to a database building exercise for FRT"
-    publishedDateTime: 2021-06-07T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/hyderabad-man-bears-the-brunt-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Hyderabad_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Facial Recognition Tech Talks continue"
     excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
     publishedDateTime: 2021-06-08T22:00:00Z

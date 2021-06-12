@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-12T02:32:00Z
 originalUrl: "https://menafn.com/1102254808/Tech-Expert-Sinclair-Somadina-Obasi-Shares-Five-Ways-Artificial-Intelligence-Is-Impacting-Everyone8217-s-Daily-Lives"
 webUrl: "https://menafn.com/1102254808/Tech-Expert-Sinclair-Somadina-Obasi-Shares-Five-Ways-Artificial-Intelligence-Is-Impacting-Everyone8217-s-Daily-Lives"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?682133"

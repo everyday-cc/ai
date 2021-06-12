@@ -132,20 +132,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Hyderabad Man Bears The Brunt Of Facial Recognition Technology"
-    excerpt: "The Internet Freedom Foundation said the random collection of citizens’ photographs could be linked to a database building exercise for FRT"
-    publishedDateTime: 2021-06-07T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/hyderabad-man-bears-the-brunt-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Hyderabad_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "DHS on hunt for next generation of facial recognition technology"
     excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
     publishedDateTime: 2021-06-11T10:45:00Z

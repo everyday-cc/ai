@@ -107,20 +107,6 @@ related:
         width: 678
         height: 452
         isCached: true
-  - title: "Top 10 Upcoming Fintech Webinars and Virtual Events in DACH to Attend"
-    excerpt: "As fintech continues to shake up the traditional financial services industry and see rising adoption, we’ve compiled today a list of the top 12 webinars and, virtual and hybrid fintech events that are taking place within the next coming months in Germany,"
-    publishedDateTime: 2021-06-07T11:25:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-10-upcoming-fintech-webinars-and-virtual-events-in-dach-to-attend/45836/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Upcoming-Fintech-Webinars-and-Virtual-Events-in-DACH-.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
   - title: "Why fintech is changing the mortgage industry for good – Boyd"
     excerpt: "It now seems impossible to consider paying an online vendor without using PayPal, or checking our bank balance without using an app. Fintech has empowered people on the hunt for a new loan, a new car insurance policy,"
     publishedDateTime: 2021-06-07T13:36:00Z

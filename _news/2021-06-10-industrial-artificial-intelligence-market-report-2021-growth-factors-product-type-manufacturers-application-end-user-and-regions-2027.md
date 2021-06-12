@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latin America Artificial Intelligence Market 2021, Industry Trends, Market Share, Size, Growth and Opportunities 2026"
-    excerpt: "According to the latest report by IMARC Group, titled “Latin America Artificial Intelligence Market Size: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,” the latin america artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026)."
-    publishedDateTime: 2021-06-07T11:24:00Z
-    webUrl: "https://manometcurrent.com/latin-america-artificial-intelligence-market-2021-industry-trends-market-share-size-growth-and-opportunities-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 16
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Europe-Specialty-Generics-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "COVID-19 Impact on Mobile Artificial Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Mobile Artificial Intelligence Market size is expected to grow at an annual average of 26 3 during 2021 2027 Virtual assistants and bots will become more prevalent and smarter in the near future freeing employees from monotonous tasks"
     publishedDateTime: 2021-06-11T12:37:00Z
