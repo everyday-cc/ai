@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210610/Deep-neural-network-m
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/26-brain.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Deep learning with SPECT accurately predicts major adverse cardiac events"
+    excerpt: "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting."
+    publishedDateTime: 2021-06-12T09:13:00Z
+    webUrl: "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 58
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-with-spe.jpg"
+        width: 720
+        height: 442
         isCached: true
   - title: "Artificial intelligence predicts brain age from EEG signals recorded during sleep studies"
     excerpt: "A study shows that a deep neural network model can accurately predict the brain age of healthy patients based on electroencephalogram data recorded during an overnight sleep study, and EEG-predicted brain age indices display unique characteristics within populations with different diseases."

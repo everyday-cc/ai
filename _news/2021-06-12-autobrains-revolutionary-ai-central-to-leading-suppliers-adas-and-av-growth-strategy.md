@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "ATS Automation Becomes a BrainBox AI Master Systems Integrator Serving the Pacific Northwest"
+    excerpt: "BrainBox AI, the premier provider of autonomous artificial intelligence (AI) technology for commercial real estate, today announces ATS Automation as a BrainBox AI Master Systems Integrator for the Pacific Northwest region of the United States and Alaska."
+    publishedDateTime: 2021-06-08T11:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ats-automation-becomes-brainbox-ai-master-systems-integrator-/2021/06/08/9385643.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+
 secured: "xW76Re3BkRH7Aoauxfbk8RZGMufNakur0u1MZ9O+8UccI+Zbu/U0wmouFnP8VAo1EZNQ+wTIA6Aym3N7J53fbG7J4abNUEbBC56G50y1NWoyccdvfGhjDFDFoiio24DSgCfr2m64JNTzT2QooJ6z/WHWO3oG5CWSGgtfHGCqJo0GyAvJZXoFIGFFwCcqC9TlJZWrQ6KipvIFC4IJvFkJHOs7ZnkAE3nf3ui2qkDtreJhTKHlXelzPpWVvluIDmRYVTrjOQchIaLYIMvbxguiayp4ZsNejuxuFk0z7ShKWOIGmgedGu57bhrRh8oLQitp0G1bYs30fofuvGCS+vOsCMLxETJ9smX3NRte6IVxxhc=;FAub5rWjcS4UvDtR6Hpa/g=="
 ---
 

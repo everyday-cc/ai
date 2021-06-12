@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Enzolytics Announces A Comprehensive Therapeutic Protocol For Production Of Monoclonal Antibodies To Address Ongoing And Future Pandemics"
-    excerpt: "COLLEGE STATION, TX / ACCESSWIRE / June 7, 2021 / Enzolytics, Inc. (OTC PINK:ENZC) ( has announced a coherent protocol that it intends to execute to meet the Company’s objective of producing a therapeutic cure for HIV as well as a planned protocol to address existing and future pandemics."
-    publishedDateTime: 2021-06-07T15:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/enzolytics-announces-a-comprehensive-therapeutic-protocol-for-production-of-monoclonal-antibodies-to-address-ongoing-and-future-pandemics"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/4e54786b22ddb15d1478470c189c93b7037ea126-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Progentec Announces Research Collaboration with GSK to Assess Proteomics and Digital Health Tools for Lupus (SLE) Care"
     excerpt: "Patient-generated data, including data from wearable devices, is becoming an integral part of chronic disease care as it enables continuous monitoring of pertinent health signals both in and outside of the clinic."
     publishedDateTime: 2021-06-08T15:14:00Z

@@ -24,6 +24,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Kanverse.ai Launches the Emerald release of its Intelligent Document Processing Product (IDP) Focused on Empowering Teams Through Collaboration"
+    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Emerald release of its patent-pending AI-powered Intelligent Docum"
+    publishedDateTime: 2021-06-08T18:21:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210608005820/en/Kanverse.ai-Launches-the-Emerald-release-of-its-Intelligent-Document-Processing-Product-IDP-Focused-on-Empowering-Teams-Through-Collaboration"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "dEF9o4YF+gMdg7p4UIZWe5+0dW+qtf5acrFMO3WyCSA2ANyO6BM8PpeklEEQ5h829QTb7WiOZGbP6082bK4s8zUIxa6JEWbaL1WcFTvMfKxfRvINImAQoBbUkvhj6lQR2kG4aFBDYSNapvBKqkVpy4jW8Hyn6A/v5jgBIRSGky5slYaLJQXXPw4RkraQjMMGFZ/MTD0G5wIB5exGN+qkuwG9HA6+rk7nRFohjDGETrvEsZJTLDt8539mcw47CLc7MYAY07LwLGCLCqJdwxNouFPtGuaWKaFc7aZTcypZseLXuYjcMB8mMtR1jCh9wiuFCYtsc2K6HGff3USHQTUIlPd/Ll98xDYx8fUJhBN/bus=;kp/zMfdzj48LPDxwi5Oicg=="
 ---
 

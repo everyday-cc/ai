@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-12T07:30:00Z
 originalUrl: "https://analyticsindiamag.com/facebook-gives-away-its-largest-language-database-for-free/"
 webUrl: "https://analyticsindiamag.com/facebook-gives-away-its-largest-language-database-for-free/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FACEBOOK.png"

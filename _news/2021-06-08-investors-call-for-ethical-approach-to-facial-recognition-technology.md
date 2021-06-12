@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
 type: article
 quality: 86
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
         width: 1000
         height: 608
-        isCached: true
-  - title: "Facial recognition for fish? Researchers test technology to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-07T16:30:00Z
-    webUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.html"
-    ampWebUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/asiancarp.jpg"
-        width: 1920
-        height: 1440
         isCached: true
   - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
     excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."

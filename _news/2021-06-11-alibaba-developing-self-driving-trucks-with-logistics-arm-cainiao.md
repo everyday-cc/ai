@@ -66,6 +66,15 @@ related:
         width: 959
         height: 539
         isCached: true
+  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
+    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
+    publishedDateTime: 2021-06-11T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Alibaba to develop self-driving truck"
     excerpt: "The truck will become Alibaba’s second self-developed unmanned vehicle, following a small, full-electric van. Since it was launched in 2020, the van, jointly developed by Alibaba’s research institute and logistics unit,"
     publishedDateTime: 2021-06-10T16:58:00Z

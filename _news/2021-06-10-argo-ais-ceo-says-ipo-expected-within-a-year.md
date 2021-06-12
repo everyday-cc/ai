@@ -49,6 +49,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "Self-driving startup Argo AI confirms plans to go public within the next year"
+    excerpt: "Bryan Salesky, founder and CEOof self-driving startup Argo AI said he expected the company would go public \"within the next year\" and would raise another round of"
+    publishedDateTime: 2021-06-10T14:42:00Z
+    webUrl: "https://seekingalpha.com/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1265201416/medium_image_1265201416.jpg"
+        width: 768
+        height: 432
+        isCached: true
   - title: "As IPO Nears, Argo CEO Says Self-Driving-Car Prototypes Are ‘Regularly Beating’ Human Drivers"
     excerpt: "Prototype self-driving cars developed by Argo AI “regularly” have lower collision rates than human drivers in metro areas such as Miami, said Bryan Salesky, Argo’s CEO, during The Information’s fifth annual Autonomous Vehicle Summit on Wednesday."
     publishedDateTime: 2021-06-10T17:47:00Z

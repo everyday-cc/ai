@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
-    excerpt: "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ..."
-    publishedDateTime: 2021-06-10T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beep-launches-yellowstone-s-first-autonomous-shuttles-with-local-motors-1030511447"
+    excerpt: "Beep – a provider of multi-passenger, electric, autonomous mobility solutions – today announced the launch of Yellowstone National Park's first-ever autonomous shuttle"
+    publishedDateTime: 2021-06-10T12:04:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg"
-        width: 400
-        height: 267
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/7d/d7d01d8a-ed7c-56a9-8d0f-b856ccdcf8be/60c200357d02e.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
   - title: "Watch Now: T.E.D.D.Y. self-driving shuttles at Yellowstone"
     excerpt: "Yellowstone National Park has unveiled \"The Electric Driverless Demonstration at Yellowstone,\" or T.E.D.D.Y., an automated shuttle test that could one day be expanded to reduce traffic in popular area"

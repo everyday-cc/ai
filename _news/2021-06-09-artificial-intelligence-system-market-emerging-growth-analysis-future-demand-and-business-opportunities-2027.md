@@ -40,22 +40,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Google Hopes AI Can Turn Search Into a Conversation"
-    excerpt: "The tech giant wants its core product to infer meaning from human language, answer multipart questions—and look more like Google Assistant sounds."
-    publishedDateTime: 2021-06-07T15:51:00Z
-    webUrl: "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/"
-    ampWebUrl: "https://www.wired.com/story/google-hopes-ai-turn-search-conversation/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-hopes-ai-turn-search-conversation/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/60bab4f6eaa210b2096c93ec/master/pass/Business-Rethinking-Google-Search-1230724581.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "To Secure Data Centers, AI and Automation Are Key"
     excerpt: "To avoid being next to fall victim to malicious server code, universities and colleges need to secure their data more effectively than ever before. For many universities, this can be achieved through data center automation."
     publishedDateTime: 2021-06-10T16:09:00Z

@@ -50,6 +50,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "Self-driving startup Argo AI confirms plans to go public within the next year"
+    excerpt: "Bryan Salesky, founder and CEOof self-driving startup Argo AI said he expected the company would go public \"within the next year\" and would raise another round of"
+    publishedDateTime: 2021-06-10T14:42:00Z
+    webUrl: "https://seekingalpha.com/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1265201416/medium_image_1265201416.jpg"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Argo AI's CEO says IPO expected within a year"
     excerpt: "Self-driving startup Argo AI, backed by Ford Motor Co. and Volkswagen AG, expects to pursue a public listing within the next year, founder and CEO Bryan Salesky said on Wednesday. \"So we're actively fundraising and are going out this summer to raise a private round initially,"
     publishedDateTime: 2021-06-09T20:52:00Z

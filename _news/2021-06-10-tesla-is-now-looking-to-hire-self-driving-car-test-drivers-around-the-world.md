@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2021/06/2022-ford-maverick-1.jpg?w=400"
         width: 400
         height: 225
-        isCached: true
-  - title: "Harrowing Tales Of Teenage Drivers In Everyday Traffic Amidst Adult Drivers And Those Emerging Self-Driving Cars"
-    excerpt: "Teenage drivers are unfortunately at high risk of getting into car crashes, and the question arises as to how teens will react when amidst self-driving cars."
-    publishedDateTime: 2021-06-07T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/07/harrowing-tales-of-teenage-drivers-in-everyday-traffic-amidst-adult-drivers-and-those-emerging-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60485de17a0f96e2ce4c2d96%2F0x0.jpg%3FcropX1%3D26%26cropX2%3D922%26cropY1%3D44%26cropY2%3D547"
-        width: 896
-        height: 503
         isCached: true
   - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
     excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"

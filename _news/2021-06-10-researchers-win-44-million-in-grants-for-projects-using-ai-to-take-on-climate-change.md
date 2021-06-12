@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/researchers-win-4-4-million-in-gra
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
 type: article
-quality: 81
-heat: 131
+quality: 83
+heat: 133
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/23/0910be10-29c0-48e4-abbe-4937f7c93ed6/resize/1200x/603a31e7f68e468b2e6d5830fc2ac6d8/istock-1135081245.jpg"
@@ -92,6 +93,6 @@ related:
       domain: energy.gov
     quality: 0
 
-secured: "iuJLks0tB93gm3RcZM4XyRqegLSLj8JG/mfsLT6q0XgwJ8ZtDUyY9cLY5YK8Dz1U6CbJtzouNbFCk5B7wwRn8l8L8793Oi0xX5wQDK/0/dH+xDvVg20KRhoVp/kEJMFYUgA7tKlmlUJcSwYUPtZ0ye9B21Tz/xpPDBGrhx4sWHTjFyIBUh6P7/TiGCw8tSsKs+yyKwT5536hx3QHzlBc9UWNUbamCQ5WT/5qNhs58bkYQWfDrppyiXS9Jm6B0OXam1xP3rye2onnJIrFytidgAs6XTf6hhypJYN7WhcU6xW/Zjmh2MxwPibDp18C/B6bH8S4n7lkxMmNN4ILD1Dh6k3LeN7OIGuuYGdiRdEjLfA=;t37kaPzXB9co20pLnYQQ6Q=="
+secured: "/9toNQ5/UGIeue7XcczZT0v6jAmwDuwBu85KKQkH/zlvnqueWfFcNvJ+btLwNHvG/lIsH8v4VvFRK+jJA41pBnsZXYVFK9niaRVI3Y5Tar9KtcaxRxmKiXuvqURKO+cDTGnutx8cTCwGsKAaYhRNIfN/HOe/iA1x3lC5UVbY8cvg+tw8Zgu1rnSUlP+ta9ZO7yU7Di3u/lviAW89mvk24ajINV0BNRNrZaaX8JynZw78SZHXethIEuXhJXjEm+P3taWFrMq9/eOXlcQFt2hGlnQKh9TiMgZWvjSzxZTow1xuQOTU0IRZASl11vhJc0suVV2RD4c4m7cUborR0oX0zs2ye+pxoVfzgPmMTagSURnQY2+RMhZK0rJsQtCXewDFVB2SplE2zo6xpNQ7HAINeGdvTzMqooAwlXdmlSiehrQZM1jRnwWz56zeG+oP2xaDQXTRsHS9YPEZltJpPoxN2h7ffW7q/qdNmxpPy3mvoNQLK90d8c/vtQnM0rbFfROHJ54vBbd7y3PA2jCAQHaGTw==;WOcFPV5gsJgyF3yl9tfE4g=="
 ---
 

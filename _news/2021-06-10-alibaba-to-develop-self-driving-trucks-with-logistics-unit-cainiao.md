@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-t
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 560
         height: 306
         isCached: true
+  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
+    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
+    publishedDateTime: 2021-06-11T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Alibaba to develop self-driving truck"
     excerpt: "The truck will become Alibaba’s second self-developed unmanned vehicle, following a small, full-electric van. Since it was launched in 2020, the van, jointly developed by Alibaba’s research institute and logistics unit,"
     publishedDateTime: 2021-06-10T16:58:00Z
@@ -84,6 +93,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3uwAgRdn5/n4Rv1+uU2Aq1xIsdGG841j+CqE9UDUCl98sfc2X6p2Oo8qEtpCgSa8sQzJbm0TNVlWCal4ifnNAmY50O86TzTTmLfT+64oq8Gh4lTxE8axFxecJ/PenFBlgk95jy/o7dMaZk/5r7bMZzCEM/uR7q752efqEmOwzLhVayYr1v/pzirNaHKbGCGZBQXpZbw2aXJYxE3zvLPyKsinSODMyHLIFYNHxycHRS1uOvxU3+g9NrkCGiSCXBEifX/INmv9JBIVwSBFc6iDwhyBSsXVjD0lcnAb7TZfr5hB9ic+wAT4wj68mDH5u3xlCate+T0K0O+66PCTmb5uOWpIPkcTaWWe7V3YoSpS8Qc=;X0LYOmwEh6ItGJjZofojhw=="
+secured: "uabRDz947qkcOtUM2UFc0W50Ad34QLodBDLtXXX9I7zIkrJ8TrUJsOytDU1weVayt5IqGKXl1pRvOOZ6YJueGxY/0nX4OZoXKwxMVkfETw4t3Co40XadzbWaBYfl6h9M+0vWf11W+9e6JsjbEIrchoPNCjUbYoif16SWqLOmK9pIuaUKlbB4evRK+yKZIxo+FJfnYAw9LWwQtui2Hg20hPfIIGtZz2Tbm2a0qPuyt3vem7RcQ36TNH9v02g9oghVG1OnbFQ3oqvJNcxGaziviJm4iJoANBDySbQii4lmhojz3ke41fYbrmSCu/LDoeZXxAO/Hkecip5dqvHXOE/SogmpxM0ByBCdJb3wSxtSubg=;NhfJcuyfcI8vCBFZkj0g1g=="
 ---
 

@@ -55,22 +55,6 @@ related:
         width: 1000
         height: 608
         isCached: true
-  - title: "Facial recognition for fish? Researchers test technology to stop invasive species"
-    excerpt: "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver carp, is sorted and removed, eventually ending up in a carp burger on your dinner plate."
-    publishedDateTime: 2021-06-07T16:30:00Z
-    webUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.html"
-    ampWebUrl: "https://phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-facial-recognition-fish-technology-invasive.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/asiancarp.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "'Innovative': Noida Scientist's Facial Recognition Technology For Dark Wins DRDO Contest"
     excerpt: "In another technological advancement, a Noida based scientist has developed an AI which is capable of identifying a person even if their face is covered."
     publishedDateTime: 2021-06-09T10:37:00Z

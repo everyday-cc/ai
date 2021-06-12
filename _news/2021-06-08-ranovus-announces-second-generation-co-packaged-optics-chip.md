@@ -39,15 +39,6 @@ related:
         width: 655
         height: 300
         isCached: true
-  - title: "Ranovus Announces Single Chip Odin™ Analog-Drive for Its Second-Generation \"Co-Packaged Optics\" in Hyperscale Data Centers"
-    excerpt: "Ranovus Inc. (\"RANOVUS\") today announced at OFC 2021, the leading optical networking event in North America, the next step in reducing power consumption and overall costs for hyperscale data center operations with the introduction of the Odin™ Analog-Drive CPO 2."
-    publishedDateTime: 2021-06-07T16:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9385205.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Pn97Lch+lrFCYoN/A8XNLBm91sbubE0CTtd1tUPNBn5Xj3w4O2J1RC5cfm/x0NQWXQWOsQz571nfZicvynP/BB7wUio6GIoObiX0XWwWPZail4/75T5Yg3jw+r7i/iWcCUHt94hCETVJ09wutHiDYs2AF/lVEfr2Yu1MhVE1Ytm3C4XjB3/CQ67B+fvUsdXUqtKpWlgImAs0zqEEqkqahtfNUs9hmLsDm9GmA4lIyDCJ5sORvmZ2ae1uqbzE1S5vuWz4CEM10Is2Ksgvlp77IlZ3AYW2+im8j7jFNidJMFYCK8uuban6hv1L9fMKjq3KTyxo/2wU2+fsA6bPsmI+hkoICWtg1dnpQLewBn6AI9k=;dq0UXYS9PeUpe3alktJJAQ=="
 ---
