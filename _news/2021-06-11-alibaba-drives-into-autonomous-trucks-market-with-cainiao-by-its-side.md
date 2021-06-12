@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cain
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: International Business Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
+    excerpt: "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng also said ..."
+    publishedDateTime: 2021-06-10T04:29:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/06/2021-06-10T042250Z_1_LYNXNPEH5903Q_RTROPTP_4_CHINA-LOGISTICS-652x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "Alibaba plans self-driving trucks with logistics unit Cainiao"
     excerpt: "Monitoring Desk Chinese e-commerce leader Alibaba Group Holding Ltd (9988.HK) plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
     publishedDateTime: 2021-06-10T08:33:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2021/06/15-7.jpg?fit=959%2C539&#038;ssl=1"
         width: 959
         height: 539
-        isCached: true
-  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
-    excerpt: "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology"
-    publishedDateTime: 2021-06-10T16:15:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14985580/16x9/991/557/348d4a21b4c91d2ba3e7633fc6d2a77d/tM/alibaba-group-cto-cheng-li-attends-the-global-smart-logistics-summit-in-hangzhou-4.jpg"
-        width: 991
-        height: 557
         isCached: true
   - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
     excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."

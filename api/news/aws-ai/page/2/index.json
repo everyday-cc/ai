@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-28-amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql.md",
+      "title": "Amazon AWS launches Redshift ML to let developers train models with SQL",
+      "excerpt": "Amazon today announced the general availability of Redshift ML, which lets customers use SQL to query and combine structured and semi-structured data across data warehouses, operational databases, and data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/AWS-Thomas-Cloer-Flickr-e1568998070790.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
+      "publishedDateTime": "2021-05-27T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker.md",
       "title": "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker",
       "excerpt": "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)",
@@ -1309,50 +1362,6 @@
         "Machine Learning",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-amazon-will-not-let-police-use-its-facial-recognition-software.md",
-      "title": "Amazon will not let Police use its facial recognition software",
-      "excerpt": "Amazon has indefinitely extended a ban on the use of its facial recognition platform by police. The civil rights activists had pressured tech companies including Amazon to stop the sale of face-recognition systems to law enforcement agencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/technology/news/story/amazon-will-not-let-police-use-its-facial-recognition-software-1804324-2021-05-19",
-      "originalUrl": "https://www.indiatoday.in/technology/news/story/amazon-will-not-let-police-use-its-facial-recognition-software-1804324-2021-05-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202105/RTXBW1YP-647x363.png?qvWQR_9tuvnBUtW_pk9GCZ94G2Zcp_TT",
-          "width": 647,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/amazon-will-not-let-police-use-its-facial-recognition-software-1804324-2021-05-19",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/amazon-will-not-let-police-use-its-facial-recognition-software-1804324-2021-05-19",
-      "publishedDateTime": "2021-05-19T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

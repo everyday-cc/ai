@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google claims it is using A.I. to design chips faster than humans"
-    excerpt: "Google claims that it has developed artificial intelligence software that can design computer chip \"floorplans\" faster than humans can."
-    publishedDateTime: 2021-06-11T05:10:00Z
-    webUrl: "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
+  - title: "Google used reinforcement learning to design next-gen AI accelerator chips"
+    excerpt: "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips."
+    publishedDateTime: 2021-06-09T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/"
+    ampWebUrl: "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 104
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104473984-TPU_PERSON_FORWEBONLY_FINAL.jpg?v=1529475121"
-        width: 2000
-        height: 1333
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Google is training AI to design the next generation of chips"
     excerpt: "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads."
@@ -114,6 +114,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "DeepMind says reinforcement learning is ‘enough’ to reach general AI"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from ..."
+    publishedDateTime: 2021-06-10T05:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Google is using AI to design processors that run AI more efficiently"
     excerpt: "Google creates custom processors to run its various artificial intelligence algorithms, and now it has tasked an AI with speeding up the process of designing more efficient chips"
     publishedDateTime: 2021-06-09T15:19:00Z
@@ -129,6 +138,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/06/09150122/09-june_google-ai.jpg?width=600"
         width: 600
         height: 400
+        isCached: true
+  - title: "Computers designing themselves: AI could speed up computer chip design"
+    excerpt: "AI could speed up computer chip design Artificial intelligence (AI) could be used to design computer chips more efficiently than human engineers, according to researchers at Google who created a ‘floorplanning’ program to help with chip design."
+    publishedDateTime: 2021-06-09T17:37:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=674146"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 54
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0009/674172/chris-ried-bN5XdU-bap4-unsplash.jpg"
+        width: 6016
+        height: 4016
         isCached: true
   - title: "Google uses AI to speed up chip design"
     excerpt: "Google has trained a machine-learning system to place elements in a microchip design - and it does it much better and faster than its human colleagues, saving space and power, while improving performance."
@@ -172,19 +195,19 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Google Has Developed AI Software That Designs Chips Faster Than Humans Can"
-    excerpt: "In effect, Google is using machine-learning software to optimize future chips that speed up machine-learning software."
-    publishedDateTime: 2021-06-10T17:37:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/google-ai-chips/"
+  - title: "Google Deploys AI to Build Better AI Hardware Accelerators"
+    excerpt: "Google reports that it is now using AI to build its future Tensor Processing Units. The company has published some work in this area before, about a year ago, but the announcement today indicates the technology has matured."
+    publishedDateTime: 2021-06-11T11:00:00Z
+    webUrl: "https://www.extremetech.com/extreme/323638-google-deploys-ai-to-build-better-ai-hardware-accelerators"
     type: article
     provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 52
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
     images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/07/google.jpg"
-        width: 640
-        height: 320
+      - url: "https://www.extremetech.com/wp-content/uploads/2017/04/TPU-Feature.jpg"
+        width: 1344
+        height: 742
         isCached: true
   - title: "Artificial Intelligence May Be Better Than Humans at Designing Microchips"
     excerpt: "Artificial intelligence can design computer microchips that perform at least as well as those designed by human experts, devising such blueprints thousands of times faster. This new research from Google is already helping with the design of microchips for the company's next generation of AI computer systems."
@@ -200,20 +223,24 @@ related:
         width: 374
         height: 220
         isCached: true
-  - title: "AI system outperforms humans in designing floorplans for microchips"
-    excerpt: "A machine-learning system has been trained to place memory blocks in microchip designs. The system beats human experts at the task, and offers the promise of better, more-rapidly produced chip designs than are currently possible."
-    publishedDateTime: 2021-06-09T15:25:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01515-9"
+  - title: "Computer science: Artificial intelligence speeds up computer chip design"
+    excerpt: "Computer chip design can be greatly accelerated by using machine learning tools, according to a paper in Nature this week. The approach is shown to generate viable chip designs that perform at least as well as those produced by human engineers,"
+    publishedDateTime: 2021-06-09T15:32:00Z
+    webUrl: "https://www.natureasia.com/en/research/highlight/13701/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01515-9/d41586-021-01515-9_19234274.png"
-        width: 1024
-        height: 576
-        isCached: true
+      name: natureasia.com
+      domain: natureasia.com
+    quality: 35
+  - title: "Accelerating EV Design with Neural Concept’s Deep Learning Based Prototyping"
+    excerpt: "Neural Concept, based in Lausanne, Switzerland, was founded in 2018 by Dr. Pierre Baque. Today, it employs 18 people whose expertise in computer vision and 3D geometry looks to reduce the time required for the likes of Airbus,"
+    publishedDateTime: 2021-06-08T15:04:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7779313-accelerating-ev-design-with-neural-concept/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 16
 
 secured: "fK5PuJ0INbyvmj1/iNIAGBxUMwScMrAP7HUWrTmRUNnbrpzmMaLW2PB53xQwv+mR048Yy82rKt+6MaEH4bMIDIkqjNVbWV8Td50R/RdfogZFY5fthVus7C7eji/Bzz0oDRtz6VHepjcKD4T/QXKbMq+t4NQY7kBHTmZf/4o7ralsOjlplZXbFCw55HSA4f2GunVYWC2IuKMJxxOg4IaU64D0ufDSHzYR0pYq2eRDyVBoxSC7Lxcn881/gKwZ+Of9TJq2P4Lc1VMUjKC9UJhn4rJFVa9jk0mMWg04BhLpk+l8pbtfBhZAtknvBMpLad+tklJTNBP5VKtILaeBugj0TxPE6D9c1QfYQbTBeBDN1rTtP1ML9vCUWZ7qQjd2iOguAnszB2N0LkB+xrA5Vz00+zbYXJ6JHHcob9yDBKOwRHQAx7tv8HIvknOYSCRjIY3K3zcibV2o294c5uNRWguldxmytEmNPw3/47wf/nHJA5No8WDoFxiOO7MjaBkpAxw4Ogx3+WOIrTzrj00a2UkYog==;MpLN23CtOPM5HFXoSz7F5g=="
 ---

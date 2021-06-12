@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-11-alibaba-drives-into-autonomous-trucks-market-with-cainiao-by-its-side.md",
-      "title": "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side",
-      "excerpt": "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761",
-      "originalUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1",
-      "publishedDateTime": "2021-06-10T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-10-self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth.md",
       "title": "Self-driving Waymo trucks to haul loads between Houston and Fort Worth",
       "excerpt": "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,",
@@ -140,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-10-beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors.md",
+      "title": "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors",
+      "excerpt": "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/beep-launches-yellowstone-s-first-autonomous-shuttles-with-local-motors-1030511447",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/beep-launches-yellowstone-s-first-autonomous-shuttles-with-local-motors-1030511447",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-tesla-is-now-looking-to-hire-self-driving-car-test-drivers-around-the-world.md",
       "title": "Tesla is now looking to hire self-driving car test drivers around the world",
       "excerpt": "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world.",
@@ -179,6 +188,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
+      "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
+      "excerpt": "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng also said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/06/2021-06-10T042250Z_1_LYNXNPEH5903Q_RTROPTP_4_CHINA-LOGISTICS-652x435.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp",
+      "publishedDateTime": "2021-06-09T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -557,49 +609,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-05-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
-      "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
-      "excerpt": "The company would contract out manufacturing, but it has automotive experience from its first self-driving car project in 2013. Additionally, Baidu has made huge inroads in two areas that are ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidus-plays-in-3-growing-industries-make-it-a-buy-1030496269",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidus-plays-in-3-growing-industries-make-it-a-buy-1030496269",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-05-if-all-models-are-wrong-why-do-we-give-them-so-much-power.md",
       "title": "If ‘All Models Are Wrong,’ Why Do We Give Them So Much Power?",
       "excerpt": "I’m Ezra Klein and this is “The Ezra Klein Show.” [MUSIC PLAYING] So before we get started, a bit of housekeeping, promotional kind of thing. There is a sub-Reddit, a page on Reddit for this show. I’m not involved in it.",
@@ -650,6 +659,49 @@
         "AI in Autos",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
+      "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
+      "excerpt": "The company would contract out manufacturing, but it has automotive experience from its first self-driving car project in 2013. Additionally, Baidu has made huge inroads in two areas that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/06/baidus-plays-in-3-growing-industries-make-it-a-buy/",
+      "originalUrl": "https://investorplace.com/2021/06/baidus-plays-in-3-growing-industries-make-it-a-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2015/07/BIDU-stock.jpg",
+          "width": 837,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/06/baidus-plays-in-3-growing-industries-make-it-a-buy/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/06/baidus-plays-in-3-growing-industries-make-it-a-buy/amp/",
+      "publishedDateTime": "2021-06-04T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1373,49 +1425,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-waymo-may-be-disrupted-by-its-inability-to-scale.md",
-      "title": "Waymo May Be Disrupted By Its Inability To Scale",
-      "excerpt": "Much of the attention among the public goes to the performance and reliability of companies’ autonomous driving technology. However, an equally important issue is global scalability.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "originalUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213118320/medium_image_1213118320.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "publishedDateTime": "2021-05-31T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

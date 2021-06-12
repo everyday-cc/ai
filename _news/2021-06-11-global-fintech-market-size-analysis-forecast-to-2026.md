@@ -73,6 +73,22 @@ related:
         width: 690
         height: 493
         isCached: true
+  - title: "As FinTech Business Models Shift, Asset-Based Funding Evolves, Too"
+    excerpt: "James Sagan, founder and CEO of Architect Capital, discusses how asset-based finance can evolve as the business models of the FinTechs it services evolve, too."
+    publishedDateTime: 2021-06-11T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/ledgermatic-digital-asset-treasurer-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "Report lays out seven technologies key to fintech development"
     excerpt: "Seven key technologies will continuously affect the overall trend of development of financial technologies, drive the restructuring of business models and control the competitive landscape of the financial sector in the next 10 years,"
     publishedDateTime: 2021-06-07T13:20:00Z

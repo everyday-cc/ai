@@ -36,22 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "How Does AI Perform Crypto-Analytics?"
-    excerpt: "AI has also brought itself into the game of cryptocurrencies by introducing AI coins initially. Today it has also stepped Crypto-Analytics."
-    publishedDateTime: 2021-06-07T06:46:00Z
-    webUrl: "https://fossbytes.com/how-ai-perform-crypto-analytics/"
-    ampWebUrl: "https://fossbytes.com/how-ai-perform-crypto-analytics/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-ai-perform-crypto-analytics/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/06/AI-1.jpeg"
-        width: 1200
-        height: 725
-        isCached: true
   - title: "ListenFirst Launches Machine Learning Analytics with Instant Insights"
     excerpt: "ListenFirst, the premier enterprise social analytics solution, today announced the launch of Instant Insights, a new analytics feature that quickly shows how brands perform across social media. Leveraging years of intelligence gathered from working with the largest brands in the world,"
     publishedDateTime: 2021-06-09T17:39:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The AI superstar once hired to rehab Uber's cratering self-driving program is going solo with a new startup and $83.5 million in funding"
-excerpt: "AI luminary Raquel Urtasun is the founder and CEO of Waabi, a new self-driving company focused on developing robo-trucks."
-publishedDateTime: 2021-06-08T10:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/raquel-urtasun-launches-an-ai-powered-self-driving-startup-waabi-2021-6-1030502466"
-webUrl: "https://markets.businessinsider.com/news/stocks/raquel-urtasun-launches-an-ai-powered-self-driving-startup-waabi-2021-6-1030502466"
+excerpt: "and to lead a new artificial intelligence-focused lab. But Uber was in turmoil. Less than three months before Urtasun joined, Waymo had launched its explosive lawsuit accusing the ride-hail giant ..."
+publishedDateTime: 2021-06-08T11:00:00Z
+originalUrl: "https://www.businessinsider.com/raquel-urtasun-launches-an-ai-powered-self-driving-startup-waabi-2021-6"
+webUrl: "https://www.businessinsider.com/raquel-urtasun-launches-an-ai-powered-self-driving-startup-waabi-2021-6"
 type: article
 quality: 36
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://images2.markets.businessinsider.com/5cacb9f277584e5b73251c8a?format=jpeg"
-    width: 789
-    height: 526
+  - url: "https://i.insider.com/60be977c93c6fa00195e599b?width=1200&format=jpeg"
+    width: 682
+    height: 341
     isCached: true
 
 related:
@@ -157,6 +157,6 @@ related:
         height: 700
         isCached: true
 
-secured: "x4uvtrG7cHYKPM3a4JSgCmBeUL3Slvg6uomqQ7zOLz3dCRRkPNRKbVC8ROqo00Befs+2In+d6pNqFSmU93e2NsN3tqoAqw68wT2TWOQRT02C1TlfCtw8r1RTRVE3sQOUwxYX3h3WSNDLuFrTOPZzemyk5Uh1I4dgrrvTqNHcXAFTLL1P34IPeYfQGGIikEYfnBWNtxmRdI/u9K8reHvx/CmdXGpi1QoigqsZuuSs/x6jrr14v/gPETaSSSLdjuEKXDAHhbC6M7w2Gh/MWzc/0n/fOX/XZHuODQE0u1WFBI2/4hLSH43dsVkug4w5guHM6TXgu6xAJZ1g2+1nA9g5VEIE9lajmgYqxBGwhjwBfrU=;lXNOUBjKoOnsg4kL0Uy7Kg=="
+secured: "PqRUh3qLGZsTaLrTg8Jr83WfPZMX+DFmUOYDv06RkYmfaLZ6i+kcLF5+sy3P+qYhVtUegOZPDNJc3j+qmLVGx02g6J3xW0H2p7IwcI34ft1+yA+wTI75hKJy96VAHUhbQvkqW2bwyZpBcLvE6Suf0fJdBaP9W1iKRMRmulLpZvQVq1D46De8gQN7pMU9GA0n7BAWW0TQ8al2gN96iIZbPaj9sxo31O+1eJjwqnDfBB52Mfpnm1MrjpAOYIUvUyr2doLJ67Xsrlj9ZOT3ee75LyaW5ivu6xFZ2hwEP8xyF9VD45G74TdZzQb7Rb5+FujGBQtMlC8zLbySsN5KwGv9k6cZznRq4l7GLUB7jrhEsD8=;ntJKlcu1NQxZLOhlwrifTw=="
 ---
 

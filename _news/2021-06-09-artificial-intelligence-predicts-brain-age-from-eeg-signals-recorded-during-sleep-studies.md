@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Deep learning with SPECT accurately predicts major adverse cardiac events"
+    excerpt: "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting."
+    publishedDateTime: 2021-06-11T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/sonm-dlw061021.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/267652_web.jpg"
+        width: 720
+        height: 442
+        isCached: true
 
 secured: "vt4/XeODC7z0Ib1SR10Xf9eRIurr092RkvqfoNASFwdRaUpJBxW1r7xFjf47jGfBrabav8riXM9YAJVCgkmwGB/ztdJSYKJcI3vernJBX/wYGH18HWT9GL84OtNERWPOkdeiExZk5YMJHa975FLbOD8RI6f72KzfoJGZB1GIRJ8/k81EoQoYrxrfsNcN8Hn3oK54uKNXMtR1dHMSRd3TItAXN61vnNY9Zm14e8QuEw/KE0syrTY87TQpRmhxNAD5JoMOQa+F64RT+l60W4VWg5J/HXwMslOoct6o0rOBuSMBZiK1jkaZOZwagSBnsbYW2/VhsLUXMAm99NnRMUUaKDARmCifCpon6wRsoljb9O8=;88nsvW2ID5R3enoh3kgBIQ=="
 ---

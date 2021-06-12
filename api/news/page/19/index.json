@@ -2,6 +2,92 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-05-26-tdra-welcomes-awss-decision-to-open-data-centers-in-the-uae.md",
+      "title": "TDRA welcomes AWS's decision to open data centers in the UAE",
+      "excerpt": "This step timing has great implications as the UAE prepares for its next fifty and developing a digital future that enhances the UAE global position as a hub for attracting investments and partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2021/DG_2021_05_26.PNG",
+          "width": 450,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/",
+      "publishedDateTime": "2021-05-26T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-transforming-our-understanding-of-deep-learning.md",
+      "title": "Transforming our understanding of deep learning",
+      "excerpt": "A team of UK scientists from the universities of Bath, Cambridge and UCL aims to make Deep Learning (DL) more accountable and transparent by better understanding the decision making process behind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-runai-named-as-a-2021-gartner-cool-vendor.md",
       "title": "Run:AI named as a 2021 Gartner \"Cool Vendor\"",
       "excerpt": "AI, creator of a cloud-native compute management platform for the AI era, announced today that it has been named a Cool Vendor in Enterprise AI Operationalization and Engineering by leading research and advisory company Gartner.",
@@ -985,103 +1071,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker.md",
-      "title": "How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker",
-      "excerpt": "In this post, we present the results of a model serving experiment made by Contentsquare scientists with an innovative DL model trained to analyze HTML documents. We show how the Amazon SageMaker TensorFlow Serving solution helped Contentsquare address several serving challenges. Contentsquare’s challenge",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-contentsquare-reduced-tensorflow-inference-latency-with-tensorflow-serving-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-SageMaker-TensorFlow-endpoint-option.jpg",
-          "width": 700,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T18:21:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-artistic-humanoid-robot-creates-unsettling-self-portraits-selling-for-big-money.md",
-      "title": "Artistic humanoid robot creates unsettling self portraits selling for big money",
-      "excerpt": "One of humankind's most admirable pursuits is its instinctive desire to produce works of art in myriad mediums that inspire, entertain, and challenge our notions of who we are as a species.",
-      "sourceUrl": null,
-      "webUrl": "https://www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits",
-      "originalUrl": "https://www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2021/05/aida1.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits?amp",
-      "publishedDateTime": "2021-05-25T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

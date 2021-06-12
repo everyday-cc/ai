@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
-      "title": "States move to limit government use of facial recognition software",
-      "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-20-amazon-halts-polices-use-of-facial-recognition-software-reuters.md",
       "title": "Amazon Halts Police's Use Of Facial Recognition Software: Reuters",
       "excerpt": "Amazon.com Inc (NASDAQ: AMZN) indefinitely extended the halt since June 2020 on the police use of its facial recognition software, Reuters reports. The nationwide backlash against police brutality towards non-Whites intensified by the murder of African-American George Floyd by a white policeman led to the initial halt.",
@@ -1329,6 +1277,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-farm-machines-get-ai-computer-vision-to-boost-crop-yields.md",
+      "title": "Farm machines get AI computer vision to boost crop yields",
+      "excerpt": "Dr. Julian Sanchez, Director of Emerging Technologies at John Deere, explains to Tonya Hall how farmers are already enjoying the benefits of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/farm-machines-get-ai-computer-vision-to-boost-crop-yields/",
+      "originalUrl": "https://www.zdnet.com/video/farm-machines-get-ai-computer-vision-to-boost-crop-yields/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/10/2334a370-b93b-4aec-843b-b0fe962b225f/thumbnail/770x578/b0f6ebe2646f027dc052f70bde14b12d/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

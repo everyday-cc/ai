@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210610/Deep-neural-network-m
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Deep learning with SPECT accurately predicts major adverse cardiac events"
+    excerpt: "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting."
+    publishedDateTime: 2021-06-11T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/sonm-dlw061021.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/267652_web.jpg"
+        width: 720
+        height: 442
         isCached: true
 
 secured: "43C21Tn9w1P6TRwr+JK/K0wyvIkTUdU1xWppgjg9xEQT0Ik2LtzVhoFIVtLtKi5VYpz/cOkdolQpx6/o+TtcSv07xtpfbj+No82XNZHbigrzPoy7Eps2YbWa+np03dSVVZ6nLM3wd6uircR8gq9lyav0pAWrp7PCRdxNO3cohxLmhiC7VG056xexD20w0snPrVOxq3521QXgq/DWUIP2viUzjw/wb3XT8+ISuZtm4tSUMgH88idnCWIVgjyMM1P0KP+cCunFC8KkGKKBXEWG3Yey27p2nD8YDQM3RPYjcGy46GqxiLCQ7sNhGVGQ8ADysGRkAwH+Omst6KiC8xdAMNqiLI0m3j5wqqrmuTMuh+I=;YWHxMrNkjuWuwHj/W3knvQ=="

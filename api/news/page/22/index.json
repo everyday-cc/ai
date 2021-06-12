@@ -2,6 +2,110 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-05-25-the-business-value-of-neural-networks.md",
+      "title": "The business value of neural networks",
+      "excerpt": "For example, it’s possible to create a semantic profile of a person’s interests from pictures used during object recognition training. Domains that potentially stand to benefit from neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/25/the-business-value-of-neural-networks/",
+      "originalUrl": "https://venturebeat.com/2021/05/25/the-business-value-of-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1148110295-e1621952558326.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/25/the-business-value-of-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/the-business-value-of-neural-networks/amp/",
+      "publishedDateTime": "2021-05-24T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-leakers-reveal-what-to-expect-from-pixel-6-6-pro-display-whitechapel-chip.md",
+      "title": "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip",
+      "excerpt": "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "originalUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
+      "publishedDateTime": "2021-05-24T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-robotic-arm-sense-of-touch.md",
       "title": "robotic arm sense of touch",
       "excerpt": "Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.",
@@ -1071,93 +1175,6 @@
       "provider": {
         "name": "healthpayerintelligence.com",
         "domain": "healthpayerintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth, Global Survey, Analysis, Share, Company Profiles and Forecast by 2027",
-      "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/24/artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027/",
-      "originalUrl": "https://ksusentinel.com/2021/05/24/artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/8-68.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-nlp-in-healthcare-life-sciences-market-forecasts-to-2026.md",
-      "title": "NLP in Healthcare & Life Sciences Market - Forecasts to 2026",
-      "excerpt": "As per the research conducted by GME the Natural Language Processing NLP in Healthcare and Life Sciences will grow with a CAGR value of 20 8 percent by 2021 Aspects such as heightened demand for enhancing the usability of electronic",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
-      "originalUrl": "https://www.openpr.com/news/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U524163924_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026",
-      "publishedDateTime": "2021-05-24T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

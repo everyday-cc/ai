@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to use artificial intelligence to revolutionise productivity"
-    excerpt: "The technological movement of artificial intelligence (AI) has been steadily growing in momentum, and has inspired top executives to greenlight special initiatives to develop new concepts to improve their productivity and competitive edge. “AI ..."
-    publishedDateTime: 2021-06-07T05:11:00Z
-    webUrl: "https://paperjam.lu/article/getting-artificial-intelligenc"
-    type: article
-    provider:
-      name: paperJam
-      domain: paperjam.lu
-    quality: 37
-    images:
-      - url: "https://assets.paperjam.lu/images/articles/getting-artificial-intelligenc/0.5/0.5/600/400/409866.jpg"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "3LPeny1S9chZB5nyEQ0nGk+hnr15ULf+wbB+tlNUYuq3j3nhV7CNokWED74d+Zints/P7SpqMV55LrREyrYiTurA//dwUXGUsoLqwDK25kjQ5/bLljBGV4+29vBd5JMXolsE0N1MYAZuiAS6Sy9h2RahLCXYgChGc1vO3a1wIz8H212CC5CmCr/zHXeyJYixVkU3aaqk1SZxSqr3r29Mxe19vpvyZwzrsOjx2ce7p3ELS4tkfjdsE7fFA7FLKfsGR0JmUA0DdBCCCj50cQnhn61y4mvf8qohDEG7sa6u7HoU+w2BMMf5baIHdGsxc0hoI9LoElG35n+oa3hxC5vbzrnQFw0uCvz3OFy8yDrpndY=;OIy84QywP5Zw/QxWj1CL/w=="
 ---

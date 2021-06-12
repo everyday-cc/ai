@@ -57,18 +57,18 @@ related:
         height: 683
         isCached: true
   - title: "The AI superstar once hired to rehab Uber's cratering self-driving program is going solo with a new startup and $83.5 million in funding"
-    excerpt: "AI luminary Raquel Urtasun is the founder and CEO of Waabi, a new self-driving company focused on developing robo-trucks."
-    publishedDateTime: 2021-06-08T10:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/raquel-urtasun-launches-an-ai-powered-self-driving-startup-waabi-2021-6-1030502466"
+    excerpt: "and to lead a new artificial intelligence-focused lab. But Uber was in turmoil. Less than three months before Urtasun joined, Waymo had launched its explosive lawsuit accusing the ride-hail giant ..."
+    publishedDateTime: 2021-06-08T11:00:00Z
+    webUrl: "https://www.businessinsider.com/raquel-urtasun-launches-an-ai-powered-self-driving-startup-waabi-2021-6"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
     images:
-      - url: "https://images2.markets.businessinsider.com/5cacb9f277584e5b73251c8a?format=jpeg"
-        width: 789
-        height: 526
+      - url: "https://i.insider.com/60be977c93c6fa00195e599b?width=1200&format=jpeg"
+        width: 682
+        height: 341
         isCached: true
   - title: "U of T’s Raquel Urtasun raises $100 million for self-driving startup Waabi: reports"
     excerpt: "The University of Toronto’s Raquel Urtasun, a leading global expert in machine learning and computer vision, has raised more than CAN$100 million (US$83.5 million) for her new self-driving technology startup Waabi,"

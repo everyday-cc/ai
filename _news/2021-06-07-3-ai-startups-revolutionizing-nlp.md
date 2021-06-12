@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3621022/3-ai-startups-revolutioniz
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfd681bb1be6b81e45c9fe%2F0x0.jpg"
         width: 1200
         height: 835
-        isCached: true
-  - title: "How to use artificial intelligence to revolutionise productivity"
-    excerpt: "The technological movement of artificial intelligence (AI) has been steadily growing in momentum, and has inspired top executives to greenlight special initiatives to develop new concepts to improve their productivity and competitive edge. “AI ..."
-    publishedDateTime: 2021-06-07T05:11:00Z
-    webUrl: "https://paperjam.lu/article/getting-artificial-intelligenc"
-    type: article
-    provider:
-      name: paperJam
-      domain: paperjam.lu
-    quality: 37
-    images:
-      - url: "https://assets.paperjam.lu/images/articles/getting-artificial-intelligenc/0.5/0.5/600/400/409866.jpg"
-        width: 1199
-        height: 800
         isCached: true
 
 secured: "h8naBhTQ2uXfJF+/v9lGboStOVw7ykHcbfGBxgS1ZjEPhIGRUq8YWFp5YckcS+AONjJ/UlNJvq8TaLec194+rGX5RFhPkBjcWPA8wFdQKhxQvbJ4/b73PNTRmtudszVQMMQkZp4wAyRipEDeDjm75rmyDxY4cSg9B+b4RnaZpxhfCekpijZVnPlp3HXoXh7fduIIpLKS6T2ODHIgllQzJbhjxCx0+fHIua+FYPLqbXQYjKVinSLkcPTCPmbb0p5cTwEM/5tiFWhf1Yz9XvgDeQZ3fyWK/MEwqQ6hiIWEk4mGv5vz4F/ScRt5L0xDddXW9+KD9BrTbot0MtWD48ZKNpxrO0Wt7avbdoPhzWJWlz0=;Z5+cq76vhLkH+j5ItVPC8A=="

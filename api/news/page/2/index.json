@@ -58,8 +58,8 @@
       "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
       "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-million-sources-idUSKCN2DM2KQ",
-      "originalUrl": "https://www.reuters.com/article/us-datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-million-sources-idUSKCN2DM2KQ",
+      "webUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
+      "originalUrl": "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/",
       "featuredContent": null,
       "highlight": null,
       "heat": 108,
@@ -93,49 +93,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-alibaba-drives-into-autonomous-trucks-market-with-cainiao-by-its-side.md",
-      "title": "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side",
-      "excerpt": "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761",
-      "originalUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1",
-      "publishedDateTime": "2021-06-10T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -540,6 +497,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-10-beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors.md",
+      "title": "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors",
+      "excerpt": "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/beep-launches-yellowstone-s-first-autonomous-shuttles-with-local-motors-1030511447",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/beep-launches-yellowstone-s-first-autonomous-shuttles-with-local-motors-1030511447",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-microsoft-says-cryptomining-attacks-are-targeting-kubernetes.md",
       "title": "Microsoft says cryptomining attacks are targeting Kubernetes",
       "excerpt": "Cybersecurity experts at Microsoft have shared details about a new campaign that is attacking Kubeflow workloads to deploy malicious pods in Kubernetes clusters that are then used for mining cryptocurrency.",
@@ -747,7 +756,7 @@
       "originalUrl": "https://www.zdnet.com/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -789,7 +798,7 @@
       "originalUrl": "https://www.news-medical.net/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -820,6 +829,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
+      "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
+      "excerpt": "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng also said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/06/2021-06-10T042250Z_1_LYNXNPEH5903Q_RTROPTP_4_CHINA-LOGISTICS-652x435.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp",
+      "publishedDateTime": "2021-06-09T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -874,61 +926,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai.md",
-      "title": "DeepMind says reinforcement learning is ‘enough’ to reach general AI",
-      "excerpt": "Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from sticking to the principle of reward maximization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
-      "publishedDateTime": "2021-06-09T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "Computer Vision"
       ]
     },
     {

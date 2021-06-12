@@ -48,18 +48,18 @@ related:
         height: 683
         isCached: true
   - title: "The AI superstar once hired to rehab Uber's cratering self-driving program is going solo with a new startup and $83.5 million in funding"
-    excerpt: "AI luminary Raquel Urtasun is the founder and CEO of Waabi, a new self-driving company focused on developing robo-trucks."
-    publishedDateTime: 2021-06-08T10:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/raquel-urtasun-launches-an-ai-powered-self-driving-startup-waabi-2021-6-1030502466"
+    excerpt: "and to lead a new artificial intelligence-focused lab. But Uber was in turmoil. Less than three months before Urtasun joined, Waymo had launched its explosive lawsuit accusing the ride-hail giant ..."
+    publishedDateTime: 2021-06-08T11:00:00Z
+    webUrl: "https://www.businessinsider.com/raquel-urtasun-launches-an-ai-powered-self-driving-startup-waabi-2021-6"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
     images:
-      - url: "https://images2.markets.businessinsider.com/5cacb9f277584e5b73251c8a?format=jpeg"
-        width: 789
-        height: 526
+      - url: "https://i.insider.com/60be977c93c6fa00195e599b?width=1200&format=jpeg"
+        width: 682
+        height: 341
         isCached: true
   - title: "Autonomous Driving Startup Raises $83.5 Million, It is Run by Former Uber CSO"
     excerpt: "The self-driving vehicle market is getting kind of crowded, with new companies emerging every day, trying to make autonomous driving technology a reality in every corner of the world. Now a former Uber CSO (Chief Scientist Officer) launches her own self-driving company in Canada."

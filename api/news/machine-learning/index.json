@@ -63,7 +63,7 @@
       "originalUrl": "https://www.news-medical.net/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -98,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-10-deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai.md",
-      "title": "DeepMind says reinforcement learning is ‘enough’ to reach general AI",
-      "excerpt": "Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from sticking to the principle of reward maximization.",
+      "path": "_news/2021-06-09-google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips.md",
+      "title": "Google used reinforcement learning to design next-gen AI accelerator chips",
+      "excerpt": "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
+      "webUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 264,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,9 +120,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
-      "publishedDateTime": "2021-06-09T16:40:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-06-09T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -145,11 +145,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI",
-        "Google AI",
-        "Machine Learning",
-        "Computer Vision"
+        "Machine Learning"
       ]
     },
     {
@@ -915,6 +913,59 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-alexa-toilet-humor.md",
+      "title": "Amazon AWS Machine Learning Summit keynote kicks off with Alexa toilet humor",
+      "excerpt": "Sivasubramanian called out Amazon SageMaker, the company's development environment, which is the way the company brings machine learning frameworks such as PyTorch and TensorFlow to data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-aws-summit/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-aws-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
+          "width": 1782,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-aws-summit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-summit/",
+      "publishedDateTime": "2021-06-02T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-realising-enterprise-scale-machine-learning-with-data-governance.md",
       "title": "Realising enterprise-scale machine learning with data governance",
       "excerpt": "Realising the promise of AI/ML calls for organisations to scale its use enterprise-wide and promote the culture of an insights-driven organisation. Additionally, data is the fuel that keeps machine learning (ML) going,",
@@ -1340,58 +1391,6 @@
         "name": "TweakTown",
         "domain": "tweaktown.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them.md",
-      "title": "Adversarial attacks in machine learning: What they are and how to stop them",
-      "excerpt": "Adversarial attacks present a growing threat to commercial AI and machine learning systems. Fortunately, some solutions exist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "originalUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "publishedDateTime": "2021-05-29T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

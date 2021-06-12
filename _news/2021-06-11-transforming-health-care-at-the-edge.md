@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning at the edge: TinyML is getting big"
-    excerpt: "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,"
-    publishedDateTime: 2021-06-07T06:30:00Z
-    webUrl: "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/"
+  - title: "Intel RealSense Enabling Computer Vision and Machine Learning At The Edge, with Joel Hagberg"
+    excerpt: "Joel Hagberg Joel Hagberg leads the Intel®™ Marketing. Product Management and Customer Support teams. He joined Intel in 2018 after a few years as an Executive Advisor working with startups in the IoT,"
+    publishedDateTime: 2021-06-10T17:32:00Z
+    webUrl: "https://robohub.org/intel-realsense-enabling-computer-vision-and-machine-learning-at-the-edge/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: Robohub
+      domain: robohub.org
+    quality: 45
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/07/8c750b40-7b33-44e4-b928-10e4b45291bc/tinyml.jpg"
-        width: 1031
-        height: 657
+      - url: "https://robohub.org/wp-content/uploads/2021/06/Intel-RealSense-ID-2-scaled-1-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "qXdcO9m7X/7hB9Eg6HO4s5w8GbC6rgYfSITE0edR0p3i3sYtMXeNkE+ilYdqpq/Ky+BmGQ/EHM0tNyOoKvuI6/7zJhlqdhkwCXN/FvFueN9b3M0T17GyRVrfTBcPzCTNpuONmFdabCrsbw3ypw5a5cxss9cxBvdcs044+ccBYgBacGaWC6M6dIJ2QWLC2faOkb1MtL0aOoVXZzz+thBGnw0NIroT9wU2K3A7CsKyq0yRl3XEWAfnYNLa71i7YOkn9ZaveKvPN8S1o2euQC9qp7tVqKQpTdcXUI4Gkudhw0SjZmO2lNmTx2PeJXvlXZRIcV1UCFXPr5UANxDWBH0aKUmyhdUXsx8/UphXn2b3R8s=;SAUCd3q75CDmiiSFmYShhQ=="

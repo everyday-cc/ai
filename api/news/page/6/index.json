@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-06-the-rush-to-commercialize-ai-is-creating-major-security-risks.md",
+      "title": "The rush to commercialize AI is creating major security risks",
+      "excerpt": "Researchers from the University of Maryland presented an attack technique meant to slow down deep learning models that have been optimized for fast and sensitive operations.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
+      "originalUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-Security-hed-shutterstock_1740944516.jpg&signature=47e30a1c370659443e3ae86f0a64fd63",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-06T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent.md",
       "title": "Microsoft’s Kate Crawford: ‘AI is neither artificial nor intelligent’",
       "excerpt": "The AI researcher on how natural resources and human labour drive machine learning and the regressive stereotypes that are baked into its algorithms",
@@ -542,49 +594,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-05-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
-      "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
-      "excerpt": "The company would contract out manufacturing, but it has automotive experience from its first self-driving car project in 2013. Additionally, Baidu has made huge inroads in two areas that are ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidus-plays-in-3-growing-industries-make-it-a-buy-1030496269",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidus-plays-in-3-growing-industries-make-it-a-buy-1030496269",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-05-microsoft-wins-approval-from-us-antitrust-regulators-to-buy-ai-firm-nuance-as-it-looks-to-bolster-healthcare-business.md",
       "title": "Microsoft wins approval from US antitrust regulators to buy AI firm Nuance as it looks to bolster healthcare business",
       "excerpt": "Nuance said in an SEC filing Friday that the US government's deadline to object to the deal expired on June 1, clearing a major regulatory hurdle.",
@@ -1003,6 +1012,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-05-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
+      "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
+      "excerpt": "The company would contract out manufacturing, but it has automotive experience from its first self-driving car project in 2013. Additionally, Baidu has made huge inroads in two areas that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/06/baidus-plays-in-3-growing-industries-make-it-a-buy/",
+      "originalUrl": "https://investorplace.com/2021/06/baidus-plays-in-3-growing-industries-make-it-a-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2015/07/BIDU-stock.jpg",
+          "width": 837,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/06/baidus-plays-in-3-growing-industries-make-it-a-buy/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/06/baidus-plays-in-3-growing-industries-make-it-a-buy/amp/",
+      "publishedDateTime": "2021-06-04T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
       "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
       "excerpt": "The company’s plays in artificial intelligence (AI), cloud computing and electric vehicles (EVs) are set to put BIDU stock on the path to long-term growth. Baidu is no tech startup. It’s been listed on the NASDAQ since 2005.",
@@ -1179,58 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem.md",
-      "title": "IBM CodeNet: Artificial Intelligence That Can Program Computers And Solve A $100 Billion Legacy Code Problem",
-      "excerpt": "Goodson dives deeper as for the past two and a half years, Dr. Puri and a team from IBM Research and the MIT-IBM Watson AI Lab have worked on a massive code-intensive AI for Code project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ba36078cd17d882673b8fc%2F0x0.jpg",
-          "width": 1199,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/amp/",
-      "publishedDateTime": "2021-06-04T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

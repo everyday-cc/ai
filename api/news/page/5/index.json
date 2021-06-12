@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-08-europes-ai-rules-open-door-to-mass-use-of-facial-recognition-critics-warn.md",
+      "title": "Europe’s AI rules open door to mass use of facial recognition, critics warn",
+      "excerpt": "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
+      "originalUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg",
+          "width": 1320,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
+      "publishedDateTime": "2021-06-07T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-newtown-fitness-center-offer-ai-robotics-technology-based-workout.md",
       "title": "Newtown fitness center offer AI, robotics technology-based workout",
       "excerpt": "Using robotic exercise technology, a new Newtown fitness center, The Exercise Coach, aims to speed up workouts and boost efficiency.",
@@ -282,48 +325,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist.md",
-      "title": "Can an Artificial Intelligence hiring system be biased or even racist?",
-      "excerpt": "Covid has sped up the use AI software in the hiring process, as policymakers grapple with how to regulate the industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/",
-      "originalUrl": "https://www.timeslive.co.za/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/WaN8gH7CqEtzpGjETwm17oNWw7ZN5-Z_2ttK5R0laZNshvLfDveYGVeWsDYmKv6e1Km2yE2b64VY9N61EXjWmt3i0FO9grXGfgU=s1000",
-          "width": 1000,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/world/2021-06-07-can-an-artificial-intelligence-hiring-system-be-biased-or-even-racist/",
-      "publishedDateTime": "2021-06-07T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -690,7 +691,7 @@
       "originalUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -786,7 +787,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -921,6 +922,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-deepmind-ai-taught-digital-people-to-play-football-from-scratch.md",
+      "title": "DeepMind AI taught digital people to play football from scratch",
+      "excerpt": "AI taught digital players who start out able to only make random movements how to run, dribble a football, kick it into the goal and work as a team",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/",
+      "originalUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/06/04224524/04-june_football-ai.jpg?width=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/",
+      "publishedDateTime": "2021-06-07T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1173,58 +1217,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-the-rush-to-commercialize-ai-is-creating-major-security-risks.md",
-      "title": "The rush to commercialize AI is creating major security risks",
-      "excerpt": "Researchers from the University of Maryland presented an attack technique meant to slow down deep learning models that have been optimized for fast and sensitive operations.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
-      "originalUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-Security-hed-shutterstock_1740944516.jpg&signature=47e30a1c370659443e3ae86f0a64fd63",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

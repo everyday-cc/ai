@@ -253,6 +253,59 @@
       ]
     },
     {
+      "path": "_news/2021-06-09-google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips.md",
+      "title": "Google used reinforcement learning to design next-gen AI accelerator chips",
+      "excerpt": "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-06-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-the-pandemic-and-its-implications-on-industrial-machine-learning.md",
       "title": "The Pandemic And Its Implications On Industrial Machine Learning",
       "excerpt": "For a moment, let’s set aside the abject tragedy of the Covid-19 pandemic and the demoralizing conditions through which the world continues to persevere. Instead, let’s examine the state of affairs from a dispassionate and scientific position.",
@@ -1172,48 +1225,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-artificial-intelligence-enhances-efficacy-of-sleep-disorder-treatments.md",
-      "title": "Artificial intelligence enhances efficacy of sleep disorder treatments",
-      "excerpt": "Difficulty sleeping, sleep apnea and narcolepsy are among a range of sleep disorders that thousands of Danes suffer from. Furthermore, it is estimated that sleep apnea is undiagnosed in as many as 200,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/9-sleep.jpg",
-          "width": 1920,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp",
-      "publishedDateTime": "2021-06-08T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

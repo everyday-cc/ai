@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-11T19:51:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

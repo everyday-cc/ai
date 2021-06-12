@@ -973,6 +973,59 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-alexa-toilet-humor.md",
+      "title": "Amazon AWS Machine Learning Summit keynote kicks off with Alexa toilet humor",
+      "excerpt": "Sivasubramanian called out Amazon SageMaker, the company's development environment, which is the way the company brings machine learning frameworks such as PyTorch and TensorFlow to data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-aws-summit/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-aws-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
+          "width": 1782,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-aws-summit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-summit/",
+      "publishedDateTime": "2021-06-02T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-amazon-sns-gains-message-archiving-and-analytics-via-amazon-kinesis-data-firehose.md",
       "title": "Amazon SNS Gains Message Archiving and Analytics via Amazon Kinesis Data Firehose",
       "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Steve Cosenza discusses why Twitter's ...",
@@ -1354,17 +1407,17 @@
     {
       "path": "_news/2021-05-28-aws-makes-amazon-redshift-ml-generally-available.md",
       "title": "AWS makes Amazon Redshift ML generally available",
-      "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post, the cloud giant said Amazon ...",
+      "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post, the cloud giant said Amazon Redshift ML automatically discovers the best model and tunes it ...",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/",
-      "originalUrl": "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/",
+      "webUrl": "https://www.reseller.co.nz/article/688719/aws-makes-amazon-redshift-ml-generally-available/",
+      "originalUrl": "https://www.reseller.co.nz/article/688719/aws-makes-amazon-redshift-ml-generally-available/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/aws_dreamstime_2_1_1_1.jpg",
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/aws_dreamstime_2_1_1_1.jpg",
           "width": 740,
           "height": 462,
           "title": null,
@@ -1376,65 +1429,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T05:50:00-07:00",
+      "publishedDateTime": "2021-05-28T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql.md",
-      "title": "Amazon AWS launches Redshift ML to let developers train models with SQL",
-      "excerpt": "Amazon today announced the general availability of Redshift ML, which lets customers use SQL to query and combine structured and semi-structured data across data warehouses, operational databases, and data lakes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
-      "originalUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/11/AWS-Thomas-Cloer-Flickr-e1568998070790.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
-      "publishedDateTime": "2021-05-27T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

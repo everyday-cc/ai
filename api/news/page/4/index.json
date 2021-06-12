@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-09-artificial-intelligence-enhances-efficacy-of-sleep-disorder-treatments.md",
+      "title": "Artificial intelligence enhances efficacy of sleep disorder treatments",
+      "excerpt": "Difficulty sleeping, sleep apnea and narcolepsy are among a range of sleep disorders that thousands of Danes suffer from. Furthermore, it is estimated that sleep apnea is undiagnosed in as many as 200,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/9-sleep.jpg",
+          "width": 1920,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp",
+      "publishedDateTime": "2021-06-08T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-six-of-the-smartest-applications-of-artificial-intelligence-in-business.md",
       "title": "Six Of The Smartest Applications Of Artificial Intelligence In Business",
       "excerpt": "Businesses that want to figure out how to best leverage artificial intelligence can experiment with unique ways of using it. Through trial and error, a company can track its results with AI initiatives and find out what works best for its specific needs.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/06/08/six-of-the-smartest-applications-of-artificial-intelligence-in-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -918,7 +960,7 @@
       "originalUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1209,49 +1251,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-europes-ai-rules-open-door-to-mass-use-of-facial-recognition-critics-warn.md",
-      "title": "Europe’s AI rules open door to mass use of facial recognition, critics warn",
-      "excerpt": "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg",
-          "width": 1320,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
-      "publishedDateTime": "2021-06-07T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

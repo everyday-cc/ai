@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources"
 excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
 publishedDateTime: 2021-06-10T18:44:00Z
-originalUrl: "https://www.reuters.com/article/us-datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-million-sources-idUSKCN2DM2KQ"
-webUrl: "https://www.reuters.com/article/us-datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-million-sources-idUSKCN2DM2KQ"
+originalUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
+webUrl: "https://www.reuters.com/technology/artificial-intelligence-startup-datarobot-seeks-raise-500-mln-sources-2021-06-10/"
 type: article
 quality: 78
 heat: 108
@@ -61,6 +61,6 @@ related:
         height: 557
         isCached: true
 
-secured: "IIhO3GMEbA2cLpg6jZmCKQHeIZ6CqyOu/YdBOBJGSBzuQS7pD76RqvCRkj8K+w+ty/Bm30RuCV3mqkvPGfF+OvanElcV65nvrX9IqQrwGtZvMMkjzZwxzqU6Ex9X+uWJVzvzxG4hD97gtTe6ilqVkGvQpI1gb66Zm5NQtQOPShUx8t01OXd8huLYH+1ku0FCYjRkGGmV9GPtSYHtxDTFTjltM1A1nxJ2PHqSu9hX4xL4oWEohp3yJQuJ6LhXZijoSgXCIHyz5mFAu0T8GeCkBGvVtWxF7ozpVu+BOZ0pyMKaA14WqxuTTV1Oku+SpzJA9ej199zFgF+skakAT5/IYdVjMnsG6TAoZ7PCm8y//Ng=;oZ1H27TZlVYISlEEcrUFcg=="
+secured: "O3Ed3MnN0qRfwzEfQKWP7gic896aMbwhLulpuQwsTlGcnlJcW5mf45YI9IFwu8ZZnKxltNK0uNDJF+NmsRSxATNadWEYl7/MaPMrzaRJhZgb+VvRv9/SkN+CJhJehQNR2MDKjblWZ0gpl7F5N2lai2T1NydlRcSHDlDLVvznBVAEr9YXB719YMzugcSugtOnVI67YTqkZyBtwOQfM5o+mb3Gc2Q3wu2XQHVq28IZHqVzaiPf7axeXrrIeFUND7ExEvnW00eCtkvf/cKpEecvadD4Qv5PE73x7yrXJuS8y/oC515WLGDxcbmbdnTMFn60scv9DrqtUAp6UltdBhGbaGTp5WDL4SCAwr8PC5u1rjI=;yo2i8pSZH8QCSx7JdZ+HKQ=="
 ---
 
