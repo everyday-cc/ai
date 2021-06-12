@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Computer science: Artificial intelligence speeds up computer chip design"
-excerpt: "Computer chip design can be greatly accelerated by using machine learning tools, according to a paper in Nature this week. The approach is shown to generate viable chip designs that perform at least as well as those produced by human engineers,"
-publishedDateTime: 2021-06-09T15:32:00Z
-originalUrl: "https://www.natureasia.com/en/research/highlight/13701/"
-webUrl: "https://www.natureasia.com/en/research/highlight/13701/"
+title: "Google AI team creates next-gen chips faster than humans"
+excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation Artificial-Intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
+publishedDateTime: 2021-06-12T11:57:00Z
+originalUrl: "https://www.ummid.com/news/2021/june/12.06.2021/google-ai-team-creates-next-gen-chips-faster-than-humans.html"
+webUrl: "https://www.ummid.com/news/2021/june/12.06.2021/google-ai-team-creates-next-gen-chips-faster-than-humans.html"
 type: article
-quality: 35
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: natureasia.com
-  domain: natureasia.com
+  name: Ummid
+  domain: ummid.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
+
+images:
+  - url: "https://ummid.com/news/2021/june/12.06.2021/google-ai-chip.jpg"
+    width: 790
+    height: 530
+    isCached: true
 
 related:
   - title: "Google used reinforcement learning to design next-gen AI accelerator chips"
@@ -190,20 +195,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google AI team creates next-gen chips faster than humans"
-    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation Artificial-Intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
-    publishedDateTime: 2021-06-12T11:57:00Z
-    webUrl: "https://www.ummid.com/news/2021/june/12.06.2021/google-ai-team-creates-next-gen-chips-faster-than-humans.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 54
-    images:
-      - url: "https://ummid.com/news/2021/june/12.06.2021/google-ai-chip.jpg"
-        width: 790
-        height: 530
-        isCached: true
   - title: "Next-level chips coming from AI, says Google"
     excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
     publishedDateTime: 2021-06-12T01:29:00Z
@@ -260,6 +251,15 @@ related:
         width: 374
         height: 220
         isCached: true
+  - title: "Computer science: Artificial intelligence speeds up computer chip design"
+    excerpt: "Computer chip design can be greatly accelerated by using machine learning tools, according to a paper in Nature this week. The approach is shown to generate viable chip designs that perform at least as well as those produced by human engineers,"
+    publishedDateTime: 2021-06-09T15:32:00Z
+    webUrl: "https://www.natureasia.com/en/research/highlight/13701/"
+    type: article
+    provider:
+      name: natureasia.com
+      domain: natureasia.com
+    quality: 35
   - title: "Accelerating EV Design with Neural Concept’s Deep Learning Based Prototyping"
     excerpt: "Neural Concept, based in Lausanne, Switzerland, was founded in 2018 by Dr. Pierre Baque. Today, it employs 18 people whose expertise in computer vision and 3D geometry looks to reduce the time required for the likes of Airbus,"
     publishedDateTime: 2021-06-08T15:04:00Z
@@ -270,6 +270,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "7LpRWVz1TJFdvGJdjw6svHmCYuOfnxK4LzVy1m/wxMiBlDTQ33IIqQP3W0HRZx3othdiflb75jo6oM5VPJZ0HFMSYgaYu6F4LyqxPEMF2m2wawJAWC+PGsWsC/GQx0PIodXLA5S/Vl46rcLrurI3ncXWwCGvFU3uMoo5vIW4v83fVIkmMUqMda1hyM9sHcVqlx0wGPqnLsjZbm3qz0VRvs/LtiQo2i3IW2V+CRnPMTbXgqs4rKToEwusXcjQvQe2nAuInkE113R2CSw9IdZOpe8n4N0IqGWOTrY8F9o614DtSxZEZ6sYgCRI1f0WzJpTMyrYrtX5McmFVNGEJxE5dabZc30VsiDqd1yp2b+O4bc=;YMplumBBGze57XvP9UvtWA=="
+secured: "n/5V7UzpzsdUYsHUcLwA7iz7wyaWeQo7bJN9HkMUbN41P9HWRor3QeEQZmUG5mCx7MTXOZGYeQjdiZdNNABwZhdPY1ip3jU5e5moPPvpPYur8BKpkqKzGyq5pTl/33mOH3DJtSD3VVPu3Nfk7DBLmabD4THx7Gw/K/iDC8X/LOEdqsPNfCsUmP0UpPjMpf8kp41GmSVvu7OpqPoe/ow0HEPhIlF8IziPraEgES4OhijTdUzokxUQQphgYMKOSTIsAIPvjmzs3KgnPTeUHw0tvkn569lPfvoyVAcOm75pOuAgPC4SjRpgkVSTu5rRLjm2w8hi23TtI3OrAoErWZVbB/XuNWwUUxcVlHYmy3Ap6EY=;DFlPDwcGumYE00Yyr6cI0w=="
 ---
 

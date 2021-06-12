@@ -41,36 +41,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Global AI market predicted to reach nearly $1 trillion by 2028"
-    excerpt: "The latest and greatest from the world's financial think-tanks brings good news for AI investors. The market appears to be trending towards $1 trillion."
-    publishedDateTime: 2021-06-07T17:23:00Z
-    webUrl: "https://thenextweb.com/news/global-ai-market-predicted-1-trillion-2028"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Faimoney.jpg&signature=4a4ffe3c48818e233110dbd705d55186"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden admin reportedly using controversial facial recognition on migrants"
-    excerpt: "The Biden administration is embracing controversial facial recognition technology and other intrusive surveillance tools to process the backlog of thousands of migrants at the US-Mexico border,"
-    publishedDateTime: 2021-06-07T18:15:00Z
-    webUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/"
-    ampWebUrl: "https://nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/biden-admin-starts-using-controversial-facial-recognition-tool-on-migrants-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 58
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/cbp-app.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Voice Recognition Expands Across Healthcare and Transportation"
     excerpt: "Voice recognition has gained momentum across key application areas like digital banking, automotive control, healthcare, and consumer electronics."
     publishedDateTime: 2021-06-09T14:22:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Baltimore Sun
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ban facial recognition software in Baltimore and beyond | READER COMMENTARY"
-    excerpt: "Facial recognition technology is too prone, too much an invasion of privacy and too likely to misidentify Black individuals for any city to allow its routine use."
-    publishedDateTime: 2021-06-07T18:01:00Z
-    webUrl: "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 57
-    images:
-      - url: "https://www.baltimoresun.com/resizer/GpjHHHC-nREJPKpkaOjkUIjB7Ew=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YNDRXEDELVAIHAPJ6WXJ4Z3FIA.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Fix the use of DNA data and facial recognition software, don’t ban it | COMMENTARY"
     excerpt: "The use of facial recognition technology needs fixing. There’s no doubt about. Let’s fix it rather than throw it out the door."
     publishedDateTime: 2021-06-10T21:08:00Z
@@ -59,45 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Baltimore City Council passes facial recognition ban"
-    excerpt: "The Baltimore City Council voted overwhelmingly earlier this week to pass one of the nation’s strictest facial recognition bans, which not only prohibits law enforcement and municipal agencies from procuring and using the technology but also bars private citizens in the city from leveraging it."
-    publishedDateTime: 2021-06-11T15:26:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21226436/baltimore-city-council-passes-facial-recognition-ban"
+  - title: "Opinion: Regulate DNA Data, Facial Recognition, but No Bans"
+    excerpt: "When police overuse DNA databases and facial recognition, they violate rights, often disproportionately. Policy should limit use of DNA databases and facial recognition to cases involving significant danger to society."
+    publishedDateTime: 2021-06-11T23:20:00Z
+    webUrl: "https://www.govtech.com/policy/opinion-regulate-dna-data-facial-recognition-but-no-bans"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
+      name: Government Technology
+      domain: govtech.com
     quality: 39
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_And_Personal__379967281.60c37fc0560ca.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/0455fd7/2147483647/strip/true/crop/1119x544+0+43/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F41%2F78%2F84b614e0d370d84ae4ac738ee0a7%2Fshutterstock-1139687675.jpg"
+        width: 1440
+        height: 700
         isCached: true
-  - title: "Baltimore second major city to ban facial recognition this week"
-    excerpt: "Md.—On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial recognition technology."
-    publishedDateTime: 2021-06-11T16:05:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/baltimore-second-major-city-to-ban-facial-recognition-this-week"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 39
-    images:
-      - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
-    excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial"
-    publishedDateTime: 2021-06-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21531581/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21531581"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21531581"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
 
 secured: "Q7PBO628l2rvd/XXoirIbGeTySZDwKmJ8C5pj03rxmp8ppHUzj+bs9/YR8rx9RHsiyB3HYkeT8tMcFCF1HRr+Mj59VTZw4UaOK3rPXBN7JnNz8lkvgOT8AI+rUB+qj/8YckhDm24dvfEHOkE0MP/l5m8388PT7yRkyV53NQpoh0P8iBPXtILUrKGF6w57nXU949slmh1kdeptaSfmaqkne46lZDyD6aOfNYYxFokLjBGu+7n2NkwYvdJybHKCzGep0z4f/KPthy+UmJnUgjIofF83787mjPfvIIzBrR4lvCV1XWcwf0P6qnRUZbnIPwNBQcSKgodquTrqT81gTz7lZObBV8HoqlOv4PIl/WpeVoC5gxlUO+jEtk0rG5WptNWNn1UuY5TbvYdm/K47OXB6SRmvyYds3AGxgRWn4JWRunbHtUZd2U23wS5hkO21wSDD+OTCIEt5YqRWHwY/rmNAXmgSRjdb61UJDa1gUFirQPb+e+sV1+fSbjDd5Un72BwqGmzimTYYg2KArN0en32YQ==;EEtq66N9+BwsHlBeQzgTng=="
 ---

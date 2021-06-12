@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 597
         isCached: true
-  - title: "The Future of AI in Law: Changing the Legal Landscape"
-    excerpt: "Artificial intelligence (AI) is one of the fastest-growing technological industries today, but what effects will it have on legal practices? In addition to the growing number of legal questions that a"
-    publishedDateTime: 2021-06-07T18:51:00Z
-    webUrl: "https://www.natlawreview.com/article/future-ai-law-changing-legal-landscape"
-    ampWebUrl: "https://www.natlawreview.com/article/future-ai-law-changing-legal-landscape?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/future-ai-law-changing-legal-landscape?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 59
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
 
 secured: "HqBdxjuHbHAlpH407WAFapePFhFEZRSMHUGhPPBqVgmWs+iEUjR4zyIlAg2K1YoLRM6mX1DgkCeToq6VI9lvDuwgsPqzo3n7+eOmEjTzVR9TMGkou+cVeYxCmV/a+m37osJdyzZVEvdfKvDbVe+wdsTGzbmJMio0v00KjM85oSggkGy9UczUb4I9cUGBrB2rV1tsHkto5H04u6NmYAoazFR3GKpEfEeyuFPJkI3qVfiP9tX4KyI9Y0qfG2qR1Q3zw64zLG8M1aRXp1VTW0Y+0OPQA3TCeuuYPzERhof2gpTcA6LXlb920HEvA0fT06uyfZDKZvC883C7ZSLZ8c8mKz4OB4MlEm+tZBFsc90Ofs/0KB3CYJCKpNC9z+ERz4gddHvrCNKUev06ZSP71ykfrtVY5NMw/dXbXMuFEHJy5YG+VNfgcXxUIVVcPMF9rxxWGzXk5uCXxQW2p1o2LlJxCOtUm7tk6Ef+aq1+ab/ubgDc0J6MThqzI0Uph8iWc5yN3nJ7oWHJI3ykrOVmG9lAVQ==;SypjwWfH1L9Z5WmcuH69dA=="
 ---

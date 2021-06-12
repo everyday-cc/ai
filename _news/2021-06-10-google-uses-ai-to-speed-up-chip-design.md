@@ -181,6 +181,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google AI team creates next-gen chips faster than humans"
+    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation Artificial-Intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
+    publishedDateTime: 2021-06-12T11:57:00Z
+    webUrl: "https://www.ummid.com/news/2021/june/12.06.2021/google-ai-team-creates-next-gen-chips-faster-than-humans.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 54
+    images:
+      - url: "https://ummid.com/news/2021/june/12.06.2021/google-ai-chip.jpg"
+        width: 790
+        height: 530
+        isCached: true
   - title: "Next-level chips coming from AI, says Google"
     excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
     publishedDateTime: 2021-06-12T01:29:00Z

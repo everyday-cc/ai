@@ -184,6 +184,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google AI team creates next-gen chips faster than humans"
+    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation Artificial-Intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
+    publishedDateTime: 2021-06-12T11:57:00Z
+    webUrl: "https://www.ummid.com/news/2021/june/12.06.2021/google-ai-team-creates-next-gen-chips-faster-than-humans.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 54
+    images:
+      - url: "https://ummid.com/news/2021/june/12.06.2021/google-ai-chip.jpg"
+        width: 790
+        height: 530
+        isCached: true
   - title: "Next-level chips coming from AI, says Google"
     excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
     publishedDateTime: 2021-06-12T01:29:00Z
@@ -259,6 +273,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "BWQ5RAS40jX1JfaVIcVXR/riaFoSQqd7sAcp3XoStC6VYtu5JzQJTPhulYPSN5oxfSdmTWTc4tztA6HA9OUWiwGNvt1juMmeO37Na7FAl/6unbGzcV7E8HEcRhsWYsBbHekIxK2DxSuMOzihy41aAhK4t2Eopasz2EUSzaeZu3pIJRG9l6kW0qJxyNRT+49g2b4jsMeE2TlbQDEItW1NsBi1yRiCR4EgIp6agDpwH8jm9rYFHezK4pH4sA6htzXxOwRy5WUadKOJaWmIjwltoyweqXlybUhpb7YburxHE7IwpN5ROtiy5xbI+X0WCHlv7faSEMLsfXPfb9JgtSNeRBc8BfWyXVIeuxZaRKoXqLo=;vg7cDJhWIO+hz6Y86Oe5tA=="
+secured: "p6wSI8Q6KWc3GwFkbigRIA4SbMdX9RcPVXkohglJIRHs31hIYY5ls3eWJHdOMJV235Oh9fD3/dzF7rKp+6bI6ixE9mHZoaJkakKPYH/F1/OP+vbKdgGsTcd1YQZEEoDHj8XdgHpNdp3i2I6TNEEVjQNQnaTisIGosve1X8pXkrz11SqgsVwWHCe/gpzLY5iVNhvo/jeibIcB/fFe2MJA4dk6fqeGqUlL7Oo6o+utGCbDhArc4Mk7bBhDv3Fuy3/TO1bwba/98mybkmTp/qhXPfAysH74YAb+9NIpZB8HYLfZA4ljUsnuiCwfTOwPBlW7jPT9du2GT3PtNbS8E3Z+8E/dusC2Cxacix4qmAUzw48=;wNvnG2B98QcZmaFanM8lkA=="
 ---
 

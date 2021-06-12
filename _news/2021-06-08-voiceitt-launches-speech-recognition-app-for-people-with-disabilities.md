@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-a
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Apple moves Siri's speech recognition offline with new privacy updates"
-    excerpt: "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. For Siri, processing audio locally will alleviate some of the privacy concerns associated with audio recordings."
-    publishedDateTime: 2021-06-07T18:47:00Z
-    webUrl: "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html"
+  - title: "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments"
+    excerpt: "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on"
+    publishedDateTime: 2021-06-08T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments-301307887.html"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bafadb70-c7c1-11eb-bd2f-9e1d51125afc"
-        width: 2400
-        height: 2000
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "XQhl7+XCthgDcBYECD4gUsTJ2O4s/YepPMUZ2vBpzB35lmL5ObLjMBGf7JwWYOaHn6mChWfjE52BJmhe0CtX8K7fJikDDKZ8PfACteklqRUnpEiqI2pin14kE8Ctquh6i2zBEFWJ7+OBUb8Zc2viS7DDUwPNtiw8NW3H4LKtFqjcgwjhemFj45j1/vs1iZII6kUHw67H2RfnviotVZKEWpgG8H676N+rRbY7BDmwZeJshQkjQB3G3pS2ITWN3zx5St7W2tHwtY85WRM2Ay4FA92zRLzaavxWkxc98cZqpNugCgSTXYeC34yUKqHhxzEL4erQgbUrO9AtebpJu+HGkXGY6UW9HNbM0bcTSUww04DJnlDwhROQUrGHk2B4TRl68hUCYHqsP4sep0XC1AKAVEnZuKJAesm2iJ7q4c016hMMj7xJyn8M3kWFYj2DJhn/srpwZh7T53m218lfD74HGoR+FJh8qinY4oFv5kHZiniQ0nbMNNKmjzUhD0DXceF1jfr9M2ywm+V8P4RDi1dE5A==;a4Q/8c/5cYjdrc0Att7ilQ=="
