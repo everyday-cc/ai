@@ -62,6 +62,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 34
+  - title: "BMO Financial Group Selects AWS as Its Preferred Cloud Provider"
+    excerpt: "One of Canada’s largest financial institutions is using AWS to modernize banking platforms and transform into a cloud-first organization"
+    publishedDateTime: 2021-06-10T04:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210609005920/en/BMO-Financial-Group-Selects-AWS-as-Its-Preferred-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "7qG8KES3+rYAeZOlAqBYC1MQ7jKJ87d+7aMHPEjpsiBpqiYxhCcaX5v3J6D8ZHMxEFyBYgoFKeH6tQOP7rmVrfmvPxTO3yA7WiZPkUCOlO9zYuvhXKNWuxmDZ0jgtWdpv6a+dylIfrMewjaeD01gX/HXRVZcOnqcRDn0/OI/pAUs0voTsJ9Lvj+5m8dgJlun+ksUIGZ2q1om1TF9wW/ISAFyBOS/tKSxgqKR+U2LkU4dFJ9rnDwAF7O3EyRBqRA2l0WpPyoaCSXtLz4urLxAdPmJSXlHQNcC/4F/ObqmaKSTLocMzegBSbDDBVBY3eMkzbD0aHt/qpetcAODl+iC2v+03CKE2WtkPM1LVhUYgXIZwSQoNoqGDP1SGw8QLnJnGQqcm++9i2AGT9l3QM2aDiFkAM4XYo28/cScK9TAUUd4CU0Ew40ByVnAdHg+p1flohkNOlF4VRUL9BT0FjnsIRAinwE8PqHjfBGiUzG8hefsoFN2CtFCbyAKz223Ar95sMJTpVNmS4djfN+z47bBmA==;6/kY944TgK44O/424C5H8A=="
 ---

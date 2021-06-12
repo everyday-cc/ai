@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
 type: article
 quality: 86
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -205,6 +205,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
+        isCached: true
+  - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
+    excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
+    publishedDateTime: 2021-06-11T22:58:00Z
+    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/petition-calls-on-states-to-stop-requiring-facial-recognition-for-unemployment-benefits"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 31
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e20ed22/2147483647/strip/true/crop/2880x1512+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F21%2F7f%2Fa28876dd4bf8be85d3b63a70ca2f%2Fscreen-shot-2021-06-11-at-6.13.12%20PM.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Victoria filmmaker's documentary examines sinister side of facial recognition technology"
     excerpt: "The Victoria filmmaker’s short film about how technology companies are worming their way into our lives has a doomsday quality to it, and should leave viewers an overwhelming sense of dread. Will it?"

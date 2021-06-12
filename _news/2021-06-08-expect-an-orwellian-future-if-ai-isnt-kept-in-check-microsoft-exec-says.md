@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livescience.com/amp/orwellian-artifical-intelligence-fut
 cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/bf621ffa958b0e47cf6f8251e1a64a6a_L.jpg"
         width: 620
         height: 467
-        isCached: true
-  - title: "Abu Dhabi Terminals and Microsoft launch AI partnership"
-    excerpt: "The companies will use Microsoft’s Azure cloud to apply Artificial Intelligence (AI)-based smart tracking, enabling 100% traceability of containers handled at the port. The technology also opens the door to launching an autonomous vehicle system at the ..."
-    publishedDateTime: 2021-06-07T08:37:00Z
-    webUrl: "https://www.seatrade-maritime.com/ports-logistics/abu-dhabi-terminals-and-microsoft-launch-ai-partnership"
-    type: article
-    provider:
-      name: Seatrade - UBM
-      domain: seatrade-maritime.com
-    quality: 54
-    images:
-      - url: "https://www.seatrade-maritime.com/sites/seatrade-maritime.com/files/AbuDhabi%20Terminals%20Microsoft%20MOU.jpg"
-        width: 1540
-        height: 800
         isCached: true
   - title: "Microsoft Announce Powerful New Threat Detection Solution in Azure"
     excerpt: "Microsoft has announced new ‘seamless’ integration between their two services: Azure Firewall and Azure Sentinel. Azure Firewall is a Cloud-native network security service. It is a stateful firewall as a service (FaaS),"

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind AI taught digital people to play football from scratch"
-    excerpt: "AI taught digital players who start out able to only make random movements how to run, dribble a football, kick it into the goal and work as a team"
-    publishedDateTime: 2021-06-07T08:17:00Z
-    webUrl: "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/"
-    ampWebUrl: "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/04224524/04-june_football-ai.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Google’s DeepMind Says It Has All the Tech It Needs for General AI"
     excerpt: "In order to develop artificial general intelligence (AGI), the sort of all-encompassing AI that we see in science fiction, we might need to merely sit back and let a simple algorithm develop on its own."
     publishedDateTime: 2021-06-10T15:48:00Z
@@ -58,6 +42,6 @@ related:
         height: 315
         isCached: true
 
-secured: "w1pceWJmoIMnJAfa4Ecjq7DWfuDJGF/JbCepxcL9auEjZmzPqPnp2u15b5IQ8rQiX7CuOKFPG55u/zcBAVDGDrg/iY3ew7hRRBQ8e2zZ3H9Oj+DvqcOqpAfr6nivQ2LJs22En5YPtaAIWwlJERhRAwRHPYkOvXt4ZfiCTxT4JSpl9O09wshStjfGVxJTE7Zq+J/rJ1UoCLci2ag5UWsG42oJ9KELSNjtWcaWs48VkI6wUqg8y8qiv7LIMM2ybetH/OxkKHtoOGmcz5XQbC2Hb5JZSHCCuen4ZqZyKPPVRzZ29EA3+wuefgZVks2ZsTC8j/SmlaiyHBs2jkTFZt7LdC+FKclHLAixQLJFJpWF83k=;JkSvHgAOFmDZCDy/I6MmNw=="
+secured: "t51Gi8y1rrSsHAKGj+8ZvF1n9iY6UZsgpm3oN2O0Hhaeny43Id6tkZiUXDuerV5HCOowxg8C+pfRs0NDXeGkKGG8q+UUUwMdhxr1SQeXXqkrgI3E+wsPiw6axCelYk/jZVEcsKN2MtDBp9qSYm96kN7LlVrhMOesKHGj+WHZJe5SeUf+vUT86ZZu7W9ynMji6QjvLLbQnldRd37/UsuiiIaFRhLFXr6cfY2F0cg3f1ut8kZ5FardJypPOzusaLNDq2IpP6OmSJ0kdN8MY2JIghtp7SxV5V5Yo1kuJtAI14XOCo/hYt7MtqI0zrFSYuHQmzq14sXEEC5SkNyyvZQ9dwTdtA89BLXeGAhC40iXkI5Iku2nf2a4OUzrnshPyPPLHoU0GGF5hTW/jr5Hb6cvdYwWq6Ayfva/CJv4SBQq4sXhg174/7sZSl8tCphwOR34dLPh1rMI1fHylPpKJkpBwUlb9So2NbqroeKm5eOMqBLMV/vn664Edm3EOe8+GwF8RL0rsM/ZLRBiWx0KwCQwfA==;nmYAPth2To2PZO0WXYMmZA=="
 ---
 

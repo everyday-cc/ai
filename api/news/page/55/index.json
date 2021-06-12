@@ -2,6 +2,83 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-01-global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2021.md",
+      "title": "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021",
+      "excerpt": "Pages Report] Check for Discount on Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report by Current Partnering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements",
+      "sourceUrl": null,
+      "webUrl": "https://www.reportsnreports.com/reports/4388183-global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2021.html",
+      "originalUrl": "https://www.reportsnreports.com/reports/4388183-global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2021.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ReportsnReports",
+        "domain": "reportsnreports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-microsoft-reduces-windows-store-cut-to-just-12-percent-news.md",
+      "title": "Microsoft Reduces Windows Store Cut to Just 12 Percent - News",
+      "excerpt": "\"Developing for PC was a priority for Microsoft Flight Simulator last year, using the help of Azure AI, machine learning, Azure Cognitive Services, and Bing Maps to bring the entire planet to life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vgchartz.com/article/448548/microsoft-reduces-windows-store-cut-to-just-12-percent/",
+      "originalUrl": "https://www.vgchartz.com/article/448548/microsoft-reduces-windows-store-cut-to-just-12-percent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vgchartz.com/articles_media/images/ratchet-628542_featured.jpg",
+          "width": 600,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VG Chartz",
+        "domain": "vgchartz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
       "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
       "excerpt": "Pharmacists documented cognitive services on Palm-based devices with ... Data were exported into Microsoft Excel 2000 for graphing. CliniTrend for Windows NT, version 2.02 (ASHP, Bethesda, MD ...",
@@ -1093,109 +1170,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-9-questions-to-ask-when-auditing-your-ai-systems.md",
-      "title": "9 questions to ask when auditing your AI systems",
-      "excerpt": "Auditing your AI and big data can be a challenge. But there are some questions to ask to get you on your way to compliance and governance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/",
-      "originalUrl": "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/29/97cf2d45-3a8f-4f7e-a02e-5c5a699d6ad2/resize/1200x/d9622b2aa968ed3a9f556c28214c1296/shutterstock-1438802396.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/",
-      "publishedDateTime": "2021-04-30T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-ais-ethical-issues-are-exacerbated-by-increasing-scale.md",
-      "title": "AI’s ethical issues are exacerbated by increasing scale",
-      "excerpt": "Tiernan Ray says AI has always carried the risk of abuses such as bias. The increasing scale of the field, however, in terms of the size of neural network models, the escaping compute budget, and the proliferation of generated content such as fake faces and fake writing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
-      "originalUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/29/c0df2498-b572-4614-ab39-dfa291102684/thumbnail/770x578/116643acf3953d9cd3021d90abf233c8/20210422-tiernan-karen-ai.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

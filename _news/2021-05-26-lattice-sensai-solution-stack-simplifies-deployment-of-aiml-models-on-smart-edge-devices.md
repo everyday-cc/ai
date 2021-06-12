@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Lattice sensAI Solution Stack Simplifies Deployment of AI/ML Models on Smart Edge Devices"
-excerpt: "Supports TensorFlow Lite and Lattice Propel for Embedded Processor-based Designs; Includes New Lattice sensAI Studio Tool for Easy ML Model Training HILLSBORO, OR – May 25, 2021 – Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader ..."
-publishedDateTime: 2021-05-26T06:13:00Z
-originalUrl: "https://www.design-reuse.com/news/50032/lattice-sensai.html"
-webUrl: "https://www.design-reuse.com/news/50032/lattice-sensai.html"
+excerpt: "Enhancements include support for the Lattice Propel™ design environment for embedded processor-based development and the TensorFlow Lite deep-learning framework for on-device inferencing."
+publishedDateTime: 2021-05-25T21:47:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices"
+webUrl: "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices"
 type: article
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Google AI
   - AI
   - Machine Learning
 
-secured: "jSAIcpNLVwYnz13n8u3ShEUgL+7Fug7xRinFXEbr5SyZZpJXzQp7lBuyN+vyMg02UpGiAyuXlCjUj9ghi233rNZu5cTPr2hmic6V/SDr+E0YiwXuLl72XTK+QS/OO23H2h95w2cMUnLSt6LqDY4ai0XHqPuoJODslYuevZ6OuXqDQEAT18OljSa04152aj4YahuYVF40P2/CunJC2hzd85NctGrH3zDRZfXpfTTKhDcfYdYmnFQaBRqr3BO728wTSg7QnB4UvkbkUHCe9zApIKZIhVn4W1iFpb5HcfLd3Bx8b0taXsRB+bEezaWCGEkFD9OuII4FlJqVGXUDc8uwjwjGn7JxtuL2b8JU+z1enx0=;Ip8D51EByUFPyypc6QvvZw=="
+secured: "TWmtEjuxOkSsv38hLRRX6C+xGySpzPDDSzmNHMDZ2lG8Dw73h4dQRnSm7fUqwNZiJRugPutrMC9NmnSgyAqKM8ISLB0wVT7sPC57qwWBkN0TBSUpCuQ3S5Hj0G1ck1JpCOBsISwTVlpD/R2Q5Ew+mUe59J9hJMTZrlAOpOJswUvbQ/sUyACMCrmASkPJnYEiid2hvVnZrBp3kevTymw0Wn+xp4cBjJP8yCgQQ3s5/4xg5l/L4gFSEhx9YfUaftxYqjn7TxnFDiLNS6eijdv16nCbWfcDAc5I7TRmSqVNItOIsUfPzPT8o+UcWBWfNYfVSyEC+bonhLQMxuX/WMmuW4L+U77+hH3TXykDUtLXWKo=;83m47su7AcLhkCjLDyrveA=="
 ---
 

@@ -61,6 +61,15 @@ related:
         width: 559
         height: 395
         isCached: true
+  - title: "BMO Financial Group Selects AWS as Its Preferred Cloud Provider"
+    excerpt: "One of Canada’s largest financial institutions is using AWS to modernize banking platforms and transform into a cloud-first organization"
+    publishedDateTime: 2021-06-10T04:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210609005920/en/BMO-Financial-Group-Selects-AWS-as-Its-Preferred-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "va40T7VTIa8qFqV8cGMJbs5OkTpOpkKXV5TA/MMk2FXMvPq4sH7NV6kbQO3N9I0fAMKY+OIQ0/rM1KXOC915Y8hjD73QRFvXI7iJAZ25xse7MaDAeHxiv+1PyLNnmDFoxdUEPESIEM3ntzt/b70OywFMUzj4c60K2rrmBZpCnMmeLYFgkuvE8eubloao0SZngla7v4goZUAAuCmcYr9eVrWfjOPKLGBrn9onv3PaQ8nFfzXFF1syhGzcVAWf7s4I8uzXgjKQYOxXmRKWNW72HNUdeE2gFfWqKVArdXTxJsgeUHDLu6r1fwW7U23vMgMHw9gEYG8cQXTfDsvX2TkXu/r+W/ql5gQzEKBYFUQg4xw=;EIYa3m+5H1qg4K1w3e6lGg=="
 ---

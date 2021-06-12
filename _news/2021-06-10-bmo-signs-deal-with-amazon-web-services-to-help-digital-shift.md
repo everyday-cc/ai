@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-
 webUrl: "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 34
+  - title: "BMO Financial Group Selects AWS as Its Preferred Cloud Provider"
+    excerpt: "One of Canada’s largest financial institutions is using AWS to modernize banking platforms and transform into a cloud-first organization"
+    publishedDateTime: 2021-06-10T04:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210609005920/en/BMO-Financial-Group-Selects-AWS-as-Its-Preferred-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "aQN+FAcwD+DYKC1VRdIulpQNNcscq3/golcCTrIuc0u8wo0k4Wc6zkNJBx10YaMvyXEE/KWZBOIcTHXt9AC1aAyFILfsjYxzLlKI4bVpQ2NZBtA4IlM4PlEbDSPAjQRo/8Oce7eaCpu0ZdlvGvzPUnzmpfmsdMPbJNus3Jo9E/43KFStm138NWjL1vH4VW691fyF8X4UM+Vtg+U+KKs3fnuwiiy/ieBQrvZH3sqICEp/36kCwGIXlQWqPCTvzVUKNmIh7zP1C7Xy6q9OjDF2TYsRGfQy/JylTe/G8E1m9U3oFfgUgR/7IIpWvsiNSFVUQoJCi/5DXohLPet3cn0bZOgM0yAlEdyxtRZphDjuM/NZNSe9ZyUqVlDc6KCGcME++eiP5iyuq4dwHln4BW3HoEgGXKcjZx2+deMBm4iF0zvCWH/h9matdTXjWgJHP4A7tgiCGUEJA288si3tkOYRar+rItcUZ6rUbkIerYreic8aTEQgijxI+n1WaqJbadZGrkccOrlGCt2/fXun08FW0Q==;ChAFebvvpQo0f+0PVyVbqg=="
 ---

@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
-excerpt: "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng also said ..."
-publishedDateTime: 2021-06-10T04:29:00Z
-originalUrl: "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html"
-webUrl: "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html"
-ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp"
+title: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao"
+excerpt: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ..."
+publishedDateTime: 2021-06-10T04:27:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
 type: article
-quality: 59
-heat: 99
+quality: 69
+heat: 109
 published: true
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2021/06/2021-06-10T042250Z_1_LYNXNPEH5903Q_RTROPTP_4_CHINA-LOGISTICS-652x435.jpg?impolicy=website&width=770&height=431"
-    width: 770
-    height: 431
-    isCached: true
 
 related:
   - title: "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side"
@@ -86,6 +84,6 @@ related:
         height: 600
         isCached: true
 
-secured: "PnCct7c/K8824YcvN1tarCk1tMvnuO7nQOxa41XHNfuWoqNV2pXTsSZqnQE7NUlYO8Y9alRcgscsQJnz2+Ii2zybbzOX59KlBuwt2IvwCF0TQu2eztnhdIvvDIIF5kN86G0GqD+WVJJD4TIDXQZ4JgeKlnILgyWEXcUBwN/ziQ7pcMMaHXq91F3fV2F3pnMI54kOQf+TkY9/K68aL6HcRboX2erNLBHHMaAOzowkxF3C0SXJC4BVGEmt/w07s5EH6Vxwy2pH9DwSXUb9oDvpU5SO5YlFsQahs7ePrP2XtbQPHYZZnbiEmYivzdZT4E+OZfu7R74jB2Xxu5jahqCGacf1XbOuVb5Z0AroCRRTvgE=;0X8NOQIKDGfzlptY9EZoEA=="
+secured: "vAX8yLLNzBWqHYkyI2FeF/z6gf5JZMssQ4BG7abyyVtuJIsauoPEX9zPViQ5GRUD2Kr4jv4BuQHc06qBTxOiIahSmYUR+frNnyWC5Y+ShnOTlhaRkcEsdgL9j1s/ltso48+xR80cKzZPMo2szCkmroLsMlkkI4gJIp6f/pdefprr/Yb88J9EokKM4fDnoHudfWVapGR13FWDSkN7zc6RlN3hZDRhnLCLl8RRVJ3pfS/M6XlDsOLkOeBd2H+ROf7sFge3veUMK+4DVIly9e4cSFOrDvBEjY4Akyvsfc5VUBTyn9QetrHx4JjFG5WEZoYtGXgW10aQ8+VFlFg95viY+Fk9CpbtimMepFGN22ewY5o=;PbeF/odKHhSn91lz9UvDsw=="
 ---
 

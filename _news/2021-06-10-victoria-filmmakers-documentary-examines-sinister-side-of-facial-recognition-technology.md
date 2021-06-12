@@ -210,6 +210,20 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
+    excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
+    publishedDateTime: 2021-06-11T22:58:00Z
+    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/petition-calls-on-states-to-stop-requiring-facial-recognition-for-unemployment-benefits"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 31
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e20ed22/2147483647/strip/true/crop/2880x1512+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F21%2F7f%2Fa28876dd4bf8be85d3b63a70ca2f%2Fscreen-shot-2021-06-11-at-6.13.12%20PM.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "U2hjaRX+Mt3+OlH8ECSdnR4emq0wJ05lxZv/YZxKe3XuGiSmTo537TYjzjA7rDtn7bXg291G0YiSZyX5moS+lX6JjrQCPYNnegO0T6zZKl1rXKy9cKSOP08dm4JiNiJlrRnxeZ/4OO391emtZOcFFUeicxkHAepmZu5qE3a+m881RM5jwJRQWwnfLey5NIJsVt1RcLEeV8UNKAxsG7osiuyrc2PRqUFrhUsr2sFLPB5B8TuSJk7xSW23iuK+oQ7yOLlNeKQ3JNziV80czEJSFiHXtk8K4IM7y4I+INqfuiREGTQFhkcjOPWMQ2tijB2ybn0s1OSi8s9vbuMELf/qLDg1XakWYKxEHLqKOkMYR91kbJ0ywI/Ram8sblV4QqB6vY4Z6oveAsU9eQj0U7UwLSdulOjVO7fj+YfsTkUHaIoTjR3lICbGjRqv/gti9KPFLdSDzQ4w01XhMKlxf2hIM3/K6GBcsWw6y3+XTQfS4vdjAP9bzOATcoNTTEh2qnc4EEb+Cj30itwfGnhacTnUWA==;KPBQ6zOzDMCDE89ERjEicA=="
 ---

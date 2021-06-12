@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Intel debates buyout of SiFive to bolster chip technology against ARM"
+    excerpt: "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,"
+    publishedDateTime: 2021-06-11T08:16:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 76
+    images:
+      - url: "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "waiTu5r5jiVISCqlc5h+O9m2jjYdPJFRfPuKac8u+Y6ypaNbfeI70e1pLbntQL3K0VvNsdb9qSXLNbH/3u6sHlpAColbBrjmNbx9XfExHRtWxd9jwkBWleQAI1CfENWz+tGHkW7APrVzhrHc6TemJAonuLKqfowV0qo5qW0Mu75U86R2SVonw+G5Lhfbnxs+92//plBMzT+kNN53q4lQHsvnXXvP9BszN2lfzqueJxO68vvKbX6KQxp7F/y1miLsNuvi4j7zy5C1NJNHVBCdb3FV5lhrjcNU+Ttcl6i/uaITU2TwJQfIFX8mSvZRhQpLQ4UTPRz4L1q9FoiSxcRB9hFlNFlgxltFrG3YZgJFDiIV5XrqIzBZDNiS+EMEUbMVvSVyByWOqbs4mqhXX+VH5DqLLHS5Lx84XnNlsA0p4tnkIjCFdox1G3aj/EhIGMNdrKumoW5eBYU05hDYY4Yf/U2rRxKicsempAQ60y5j6sNl09m/m/X2N9ko6eSY+t/Qt+Jga7Oz3jVQDMNoCrd1Gw==;MMf5djuwTEV6o/rc5cbGjg=="
 ---

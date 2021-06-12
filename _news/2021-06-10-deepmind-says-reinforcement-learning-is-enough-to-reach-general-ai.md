@@ -184,6 +184,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Next-level chips coming from AI, says Google"
+    excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
+    publishedDateTime: 2021-06-12T01:29:00Z
+    webUrl: "https://menafn.com/1102255042/Next-level-chips-coming-from-AI-says-Google"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/11/AT_1f49dimage_story.png"
+        width: 1020
+        height: 647
+        isCached: true
   - title: "Google Claims To Be Using A.I. To Design Computer Chips In Under 6 Hours"
     excerpt: "Google claims to have created a deep reinforcement learning software that can produce AI chips much faster than humans can, according to a paper in the Nature journal on Wednesday. “Our method has been used in production to design the next generation of Google TPU,"
     publishedDateTime: 2021-06-10T17:52:00Z
@@ -245,6 +259,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "P8hEBmN/bInEy2wZ2tKjqet4XrQ39tRR+sKhLOU7ugYkf9HRXY+YaxvwP7BQlGqcQwHfAAtHRGKxi6MZMdA++jvF+k+ae+/BQ7O4/n9jVHlIjgArA4qUNuoQUOpV/v8HTbElIElCk2FqGdxRu8nrbfs1K2rgKNJOLyMhm5ilqxaKXkGKX5vV8nfrLE2lk3PT7ZWgyPQK+wsUto5SuZ4vH1EzjKnxyy5i8sy4wgajzC+ekd9z8n7SPsxqlwaNxS/6Qbxd5rq1UOKYqM6g5wVLsBs17iG67ck/kKtV+zJM8cg/UL3e02SWBMJ3qv5XFZOLEAvLGoCZc5GUg2EAyZXO7KzfeIWrXqjlVA2uEOA3/kI=;fdWaeeEaV++EWAg2nV/5Iw=="
+secured: "oOBLNS1HnOeAMr6+5oIsx8tqgoLZb3Qz2Bmau9xVuGVyusWJFhLCz2NVZOHEBBFCzEYGsQ/YkgQ9D2CcWtbxokMdRwGvMMcPM505E5HHUjhtzfIeYHtjRrVxNe4HwH9dsNgwPBjmGTIvLnKVJzf6vZNMWcCYCy9W9mJlGO+GsF/2IgEdUQyvOamHSAK8CCAoiH/xb14ftVbQ9Yk28hOqCWw8vr1+I6c7ETnCLjxk2VUscQAHmqimjvb6K1RGkC7FEbVJhoB980ueREvt2sseyKGSHdr1gCSbUyb8pb/3ENgfsw3IvkAJA7FA1HHyXBJXbftwd8uPql4e/icFlRpnQH9KB/C17WkMyGTts1AOOFA=;kL7wBHea+sx0KOhTl6F10g=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Roorkee Launches MTech in Artificial Intelligence, Data Science"
-    excerpt: "Roorkee has launched two new MTech programs in Artificial Intelligence (AI) and Data Science (DS) under the recently established Centre for Artificial Intelligence and Data Science (CAIDS). The two MTech programs will train students with an in-depth knowledge of the tools and techniques necessary to translate data into actionable decisions."
-    publishedDateTime: 2021-06-07T08:30:00Z
-    webUrl: "https://www.news18.com/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 59
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623051074_online-learning.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "IIT-Roorkee launches two new MTech programmes in Artificial Intelligence and Data Science"
     excerpt: "The institute has launched the Centre for Artificial Intelligence and Data Science (CAIDS) and two MTech programmes will be offered from the academic session 2021-22."
     publishedDateTime: 2021-06-07T12:49:00Z

@@ -195,6 +195,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Next-level chips coming from AI, says Google"
+    excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
+    publishedDateTime: 2021-06-12T01:29:00Z
+    webUrl: "https://menafn.com/1102255042/Next-level-chips-coming-from-AI-says-Google"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/11/AT_1f49dimage_story.png"
+        width: 1020
+        height: 647
+        isCached: true
   - title: "Google Deploys AI to Build Better AI Hardware Accelerators"
     excerpt: "Google reports that it is now using AI to build its future Tensor Processing Units. The company has published some work in this area before, about a year ago, but the announcement today indicates the technology has matured."
     publishedDateTime: 2021-06-11T11:00:00Z

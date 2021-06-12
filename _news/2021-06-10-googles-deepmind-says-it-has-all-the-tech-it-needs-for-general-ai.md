@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/google-deepmind-tech-general-ai/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-tech-general-ai/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Futurism
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind AI taught digital people to play football from scratch"
-    excerpt: "AI taught digital players who start out able to only make random movements how to run, dribble a football, kick it into the goal and work as a team"
-    publishedDateTime: 2021-06-07T08:17:00Z
-    webUrl: "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/"
-    ampWebUrl: "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/04224524/04-june_football-ai.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
   - title: "How Deepmind Is Using AI To 'Solve' Soccer"
     excerpt: "After Go, Chess, and protein folding, the world's most famous AI company is taking on the challenge of a uniquely human sport."
     publishedDateTime: 2021-06-11T22:00:00Z
