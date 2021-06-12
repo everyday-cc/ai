@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-10-the-bot-revolution-stalls-as-ai-is-difficult-to-scale.md",
+      "title": "The Bot Revolution Stalls As AI Is Difficult To Scale",
+      "excerpt": "When a company can evaluate and quantify the impact of automation, it can identify why the AI was or wasn’t successful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfd681bb1be6b81e45c9fe%2F0x0.jpg",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/",
+      "publishedDateTime": "2021-06-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-tesla-is-now-looking-to-hire-self-driving-car-test-drivers-around-the-world.md",
       "title": "Tesla is now looking to hire self-driving car test drivers around the world",
       "excerpt": "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world.",
@@ -183,35 +234,35 @@
     },
     {
       "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
-      "title": "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao",
-      "excerpt": "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ...",
+      "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
+      "excerpt": "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng also said ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao",
+      "webUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 89,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/06/2021-06-10T042250Z_1_LYNXNPEH5903Q_RTROPTP_4_CHINA-LOGISTICS-652x435.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp",
-      "publishedDateTime": "2021-06-09T21:27:00-07:00",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp",
+      "publishedDateTime": "2021-06-09T21:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -544,7 +595,7 @@
       "originalUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -847,7 +898,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1201,59 +1252,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon.md",
-      "title": "This robot-run fund thinks GameStop stock will soar in June, and predicts a fall for Tesla and Amazon",
-      "excerpt": "An exchange-traded fund driven by artificial intelligence booted Tesla and Amazon from its portfolio in June, instead choosing to load up on shares",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-351065/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
-      "publishedDateTime": "2021-06-09T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

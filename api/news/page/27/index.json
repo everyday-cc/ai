@@ -2,6 +2,101 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-05-21-microsoft-expands-retail-tech-presence-in-china-with-hanshow-deal.md",
+      "title": "Microsoft expands retail tech presence in China with Hanshow deal",
+      "excerpt": "The Chinese retail tech company will use Azure to manage its technology at over 20,000 stores across 50 countries",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal",
+      "originalUrl": "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816840/itpro/2019/04/microsoftchinashutterstock_510722167.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp",
+      "publishedDateTime": "2021-05-21T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-nvidia-geforce-rtx-3090-vs-amd-radeon-rx-6900-xt-which-gpu-should-you-buy.md",
+      "title": "NVIDIA GeForce RTX 3090 vs. AMD Radeon RX 6900 XT: Which GPU should you buy?",
+      "excerpt": "Want a monster GPU that will demolish 4K PC gaming? You're probably interested in either the NVIDIA RTX 3090 or the AMD RX 6900 XT. We compare the two to help you make a decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/nvidia-rtx-3090-vs-amd-rx-6900-xt",
+      "originalUrl": "https://www.windowscentral.com/nvidia-rtx-3090-vs-amd-rx-6900-xt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/09/rtx-3090-7.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/nvidia-rtx-3090-vs-amd-rx-6900-xt?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-rtx-3090-vs-amd-rx-6900-xt?amp",
+      "publishedDateTime": "2021-05-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-we-could-see-federal-regulation-on-face-recognition-as-early-as-next-week.md",
       "title": "We could see federal regulation on face recognition as early as next week",
       "excerpt": "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,",
@@ -1053,82 +1148,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
-      "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
-      "excerpt": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210520005301/en/Heru-Series-A-Funding-Accelerates-Cloud-and-Artificial-Intelligence-Enabled-Wearable-Vision-Diagnosis-and-Therapy",
-      "originalUrl": "https://www.businesswire.com/news/home/20210520005301/en/Heru-Series-A-Funding-Accelerates-Cloud-and-Artificial-Intelligence-Enabled-Wearable-Vision-Diagnosis-and-Therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-disorderly-transition-to-net-zero-could-pose-risk-to-financial-system-lane-warns.md",
-      "title": "Disorderly transition to net zero could pose risk to financial system, Lane warns",
-      "excerpt": "A disorderly or incomplete transition to net zero carbon emissions poses a major risk to the global financial system ... eletricity would be two to tree times what it is now if the transition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
-      "originalUrl": "https://www.irishtimes.com/news/environment/disorderly-transition-to-net-zero-could-pose-risk-to-financial-system-lane-warns-1.4569591",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F273bcfd2-ad78-4020-9426-e44dae599de6.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
-      "publishedDateTime": "2021-05-20T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

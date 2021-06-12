@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c47dead5a2f25eacb4012e%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Modern Hire develops AI program to eliminate unconscious bias during recruiting"
-    excerpt: "As employers seek to diversify their hiring practices, AI can be an important tool to level the playing field. Hiring platform Modern Hire has unveiled a new on-demand AI video interview feature. The platform evaluates interview responses and gives hiring managers a score for each applicant with its Automated Interview Scoring AI feature."
-    publishedDateTime: 2021-06-07T22:24:00Z
-    webUrl: "https://www.benefitnews.com/news/modern-hire-develops-ai-program-to-eliminate-unconscious-bias-during-recruiting"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 33
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/35b78bb/2147483647/strip/true/crop/4000x2701+0+0/resize/840x567!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F76%2F13%2Fd40e7af1426d9f2d900ba1f5b602%2Fp2-april21-bloomberg-afternoon.jpg"
-        width: 840
-        height: 567
         isCached: true
 
 secured: "Uf0H1TenJjyqDqA54WWih/DepMloMtbK6Hivc0ctNglKDuiH9OTide5riEcx/WsybDStGeFxKsuvQnEmu6hUEq63HI0rBBVgLK8FIBTkjanZ8wwEdo5/aTtgnGzzpojcvjVyQnifTQD3BpwNCc/YhHtDyiFjaXmzGQiQO5wjYHqcWI3ktv14cn7CugThU99MvVSsVqbt9LajTZjTjDxsWqJBTf/egD5wQjDaf/cLpONeV4cGVazCpptM6gCl4X1UutXn/bvKtAc2zXPkAmoyT6cwTnV3ppY2VXEeHxnHT/UnJVszNVqqe6ir+0q4C+jO/BND51ZBv80Dc1EIbpfp+CKEa45GjfOMbtJeHAY5QbELr4QziGnHtUpWhEHHdKAP4yCuJJ82efycNKkqXaypX1siUifhKIw/olI0TvzxMIGufiNeCgDFMLH5OO41RqrLPSmaKmdXl1U6yJ/HqLb4/kJ3x3C35JFV7/+gxsaOGz6rFGBfM1E+ZwIQxq5Zckjf+pKpGlZSmAOn2Dx+3L09WA==;gNBXimK+txPKbEzb0Hl6rA=="

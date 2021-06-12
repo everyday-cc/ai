@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-10-self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth.md",
-      "title": "Self-driving Waymo trucks to haul loads between Houston and Fort Worth",
-      "excerpt": "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,",
+      "path": "_news/2021-06-11-alphabets-waymo-teams-with-jb-hunt-on-self-driving-truck-testing-program.md",
+      "title": "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program",
+      "excerpt": "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/",
-      "originalUrl": "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/",
+      "webUrl": "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 177,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/Truck_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630437%2Fwaymo-truck.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T07:16:00-07:00",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/",
+      "publishedDateTime": "2021-06-10T20:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -202,35 +202,35 @@
     },
     {
       "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
-      "title": "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao",
-      "excerpt": "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ...",
+      "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
+      "excerpt": "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng also said ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao",
+      "webUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 89,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/06/2021-06-10T042250Z_1_LYNXNPEH5903Q_RTROPTP_4_CHINA-LOGISTICS-652x435.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp",
-      "publishedDateTime": "2021-06-09T21:27:00-07:00",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp",
+      "publishedDateTime": "2021-06-09T21:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -252,7 +252,7 @@
       "originalUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {

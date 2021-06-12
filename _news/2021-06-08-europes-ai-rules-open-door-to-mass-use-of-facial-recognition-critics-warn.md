@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese facial recognition deployments in India, Europe prompt warnings"
-    excerpt: "The Internet Freedom Foundation argues that Chinese facial recognition technologies have been developed in an unfair or inaccurate way."
-    publishedDateTime: 2021-06-07T22:10:00Z
-    webUrl: "https://www.biometricupdate.com/202106/chinese-facial-recognition-deployments-in-india-europe-prompt-warnings"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
   - title: "RCMP’s Use of Clearview AI’s Facial Recognition Software Amounts to ‘Mass Surveillance,’ Says Privacy Commissioner"
     excerpt: "The RCMP broke privacy law by using controversial facial recognition software that put innocent Canadians in a “24/7 police lineup.”"
     publishedDateTime: 2021-06-10T16:19:00Z

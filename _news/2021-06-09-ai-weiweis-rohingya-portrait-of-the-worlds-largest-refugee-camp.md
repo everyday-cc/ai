@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/36a30df0-6410-4443-9010-625ebd8d6788"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/36a30df0-6410-4443-9010-625ebd8d6788"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 500
     height: 281
     isCached: true
-
-related:
-  - title: "Start Your Morning With Ai Weiwei"
-    excerpt: "The latest is the Chinese artist and activist Ai Weiwei, who has splashed the ceramic cups and saucers with color and gilding. The designs were inspired by the “Colored Vases” project he began in 2006."
-    publishedDateTime: 2021-06-07T22:25:00Z
-    webUrl: "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 87
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/09/dining/07Burner-cup/07Burner-cup-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
 secured: "5I4eTz9mcVrbvuaSCOGmcd2KtJrUe+XVm92Fhco9Dk/1DjeMKSnnOUXLTTRaOMnPBMLH37t40ERnjMzb9Hg2ZjDhD2qrrNfDIyzMio464pPtWBNynaC2cL6K44ha8AkNvTn9PNJ5zSiJrIFgi7NdwbTpLw/x+mLf6iKbYFGAVzxnKEa6reFj9NLoOh8zsGMQo80QEYCYgVs+Vp/kprW8sT4PJgQNgiA319HqwajE8MzxEodtfnVpri+afGeoHM2R5sYQxCn2eqSkJbryDWWYgrfLnziYZAKExGOETmvGfsewqWZ/pow/Ht4XVP1ROohl/81orEQ6a+UQWH4QFsk6Rl/6/BGM0hhuBtpgS9B/ZEhWydbdll5TubsdwIsahpPJ8Zvv93ykXENiGLXyOXSVeKNqlHuHDLJc0wwRWf7d87WvlqhaO4PggxP31auiYMiYmWCcuExJ0PsaYPlJsaRM85VH5y1uGKJG+RZYDqbgb5mQRQhUeDlD9Wche4fO6TJE9JMg1zvi/KXg7Bmo9w6OFA==;RPeJOegGABURlHcxptOw+w=="
 ---

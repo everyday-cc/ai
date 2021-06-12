@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-31-scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain.md",
+      "title": "Scientists develop efficient Artificial Synaptic Network that Mimics Human Brain",
+      "excerpt": "Scientists have fabricated a device that can mimic human brain cognitive actions and is more efficient than conventional techniques in emulating artificial intelligence, thus enhancing the computation",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/05/image0013UIF.png",
+          "width": 577,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/scientists-develop-efficient-artificial-synaptic-network-that-mimics-human-brain/",
+      "publishedDateTime": "2021-05-30T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
       "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
       "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
@@ -455,6 +498,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-28-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
+      "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
+      "excerpt": "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook",
+          "width": 1094,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-how-ai-and-machine-learning-help-fight-the-covid-19-battle.md",
       "title": "How AI and machine learning help fight the COVID-19 battle",
       "excerpt": "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications.",
@@ -504,49 +590,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
-      "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
-      "excerpt": "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1271,59 +1314,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
-      "title": "Your Guide to the AWS Machine Learning Summit",
-      "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/2021_ML_Email-Signature_400x173@2x.png",
-          "width": 800,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T11:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

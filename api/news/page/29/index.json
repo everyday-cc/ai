@@ -2,6 +2,100 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-05-20-dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork.md",
+      "title": "Dooly raises $80M more for its AI tools to help salespeople manage their busywork",
+      "excerpt": "Salespeople have more tools than ever these days to help them with their work, whether they are tools to source new leads, keep those leads interested or informed about what’s being sold, to track how the sales process is going,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/",
+      "originalUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-173607777.jpg?w=1024",
+          "width": 1024,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/amp/",
+      "publishedDateTime": "2021-05-20T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum-japan-monstar-screen-2-trial.md",
+      "title": "Caris Life Sciences and National Cancer Center Japan Announce Exclusive Collaboration to Launch The SCRUM-Japan MONSTAR-SCREEN-2 Trial",
+      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today they",
+      "sourceUrl": null,
+      "webUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
+      "originalUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/inforney.com/content/tncms/assets/v3/editorial/5/ff/5ffcd25b-7333-518e-bb6a-6f66d5176c83/606c3c27ea886.image.jpg?resize=703%2C630",
+          "width": 703,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News in Forney",
+        "domain": "inforney.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-future-with-all-challenges-and-opportunity-of-natural-language-processing-market.md",
       "title": "Future with all challenges and opportunity of Natural Language Processing Market",
       "excerpt": "The most important of these discoveries was that of natural language processing, which turned out to the most sought after technological and linguistic advancement in the world. In the 1900s, a professor at the University of Geneva,",
@@ -1040,101 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-everything-google-announced-today-android-ai-holograms.md",
-      "title": "Everything Google Announced Today: Android, AI, Holograms",
-      "excerpt": "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-io-2021-highlights/",
-      "originalUrl": "https://www.wired.com/story/google-io-2021-highlights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-io-2021-highlights/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp",
-      "publishedDateTime": "2021-05-19T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-pharma-40-must-focus-on-manufacturing-not-just-data-says-ai-firm.md",
-      "title": "Pharma 4.0 must focus on manufacturing, not just data, says AI firm",
-      "excerpt": "Vitalie’s firm specializes in this area using AWS cloud. The science of artificial intelligence in life sciences is ripe for exploiting, the entrepreneur reckons. “If you look at manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/05/19/pharma-4-0-must-focus-on-manufacturing-not-just-data-says-ai-firm-awsshowcase2q21/",
-      "originalUrl": "https://siliconangle.com/2021/05/19/pharma-4-0-must-focus-on-manufacturing-not-just-data-says-ai-firm-awsshowcase2q21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/John-Vitalie-CC-AWS-Startup-Showcase-2021.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

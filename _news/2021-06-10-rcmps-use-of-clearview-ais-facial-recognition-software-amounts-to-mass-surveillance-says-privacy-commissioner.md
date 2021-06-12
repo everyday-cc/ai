@@ -41,20 +41,6 @@ related:
         width: 1320
         height: 880
         isCached: true
-  - title: "Chinese facial recognition deployments in India, Europe prompt warnings"
-    excerpt: "The Internet Freedom Foundation argues that Chinese facial recognition technologies have been developed in an unfair or inaccurate way."
-    publishedDateTime: 2021-06-07T22:10:00Z
-    webUrl: "https://www.biometricupdate.com/202106/chinese-facial-recognition-deployments-in-india-europe-prompt-warnings"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
 
 secured: "XyWFFflHIZVlH9e6gAntJfSNxdjpRt0Ax9zr7FirE325Zl1EM62rn+Xm2kRptAgmPpwgbCs0yJldsD3rvCptRuhm3sVAiNr0pZOpSfRx/SM8c1zSMuTy2xza8vsFxl3tL5TtVi9aMTpa2p5nN4z30B4UgAYpz2BCsVTz2vvtsohPhontjMyGAoPoyx/8TmqYvw+KrDUOtTVQpvgX7+qbs6UmhqDeKo/tWiAF/vl5Cmpi73KAuIM41ioF9vij+59FEvsApQtjVmbh1eqdMDZMNw2x36B2y+LC+zkDgSHiU+sKJG16webU2+wWAagNMi6d/oyanAzr2HjwYnS5BLa2guXU/No0WcD8Y7pLnswF3SE=;P1gImsYxjgxYEbzGPBXG9g=="
 ---

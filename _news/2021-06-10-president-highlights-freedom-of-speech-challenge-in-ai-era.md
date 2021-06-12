@@ -64,15 +64,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
-  - title: "Department of Energy Announces $1 Million in Collaborative Funding for Privacy-Preserving Artificial Intelligence Research"
-    excerpt: "DOE National Laboratory researchers will partner with flagship dataset developers from the National Institutes of Health Bridge2AI community"
-    publishedDateTime: 2021-06-07T22:12:00Z
-    webUrl: "https://www.energy.gov/science/articles/department-energy-announces-1-million-collaborative-funding-privacy-preserving"
-    type: article
-    provider:
-      name: Energy Department
-      domain: energy.gov
-    quality: 0
 
 secured: "w2okBgsCt1FK/zavZ6zFo3I7Fzc3Cl3dzqITaq3jY6XXpXfZJiHOfSYVLPda3n4EsTWAPOiCRuRjIKkiU/WSvh/xY5u0PrrrN0Ca4+90QuMKIF8bJWyrBNZQRLeyUt3zFeISocHHfZIiWG7e3/oJMVdFfPrY9aRPq11yc+YZOwp5UAorrUT/dKytZ6pVKqDkcm4O4Q9sa5y7eDGr6Dzxqc0zkvuvSKzHZJ/lPUOCb1uRblO9rqxKCoUsBF8viA8Ig1QOC0JJFf5B6dAx9OD8XzINL4Tlwm0MdTTUiI54eB4LeKSCfWOOk3cBnJUati2P+/P2CoOAyk82SO8ZawLa2IrAx4WOvsTD5dzr2Df9xazkduTSfTbe9CP3nAm2vKlPptvdAkVbiRPRM6MXQlgGGjc+3RbcHhOLlng5N147O7OWzoF94RAqxwk2aFqyX0CiZvNtozpP07rTy2hKgr81NbgC/13ijJFp/69sZ/3GdP1vKxfeZE0liIyd4lNSJWDOZkPcP5VF0TMqY6WRV7ApyQ==;ofCf8N1So9cEIWJ5oqaYbg=="
 ---

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-04-fintech-startup-s-ancial-technologies-raises-14-mn-in-pre-series-a-round-led-by-jito-angel-network.md",
+      "title": "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network",
+      "excerpt": "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373682",
+      "originalUrl": "https://www.entrepreneur.com/article/373682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373682",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682",
+      "publishedDateTime": "2021-06-03T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-aws-announces-winners-of-the-aws-deepracer-womens-league-in-india.md",
       "title": "AWS announces winners of the AWS DeepRacer Women’s League in India",
       "excerpt": "Read Article Artificial intelligence (AI) and machine learning (ML) are innovative technologies that are unlocking opportunities and helping solve some of our most difficult challenges. But to date in India,",
@@ -827,6 +879,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-04-forget-covid-k-9s-the-new-3d-printed-electric-nose-can-sniff-out-the-virus-in-just-80-seconds-with-94-accuracy.md",
+      "title": "Forget COVID K-9s - the new 3D-printed 'electric nose' can SNIFF out the virus in just 80 seconds with 94% accuracy",
+      "excerpt": "Deep learning algorithms sniff around the nose and return real-time detection of COVID-19 infections – and with 94 percent accuracy. Scroll down for video Project leader Professor Noam Sobel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9648775/3D-printed-electric-nose-SNIFF-COVID-19-just-80-seconds-94-accuracy.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9648775/3D-printed-electric-nose-SNIFF-COVID-19-just-80-seconds-94-accuracy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/06/03/17/43797155-0-image-a-24_1622736449995.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9648775/amp/3D-printed-electric-nose-SNIFF-COVID-19-just-80-seconds-94-accuracy.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9648775/amp/3D-printed-electric-nose-SNIFF-COVID-19-just-80-seconds-94-accuracy.html",
+      "publishedDateTime": "2021-06-03T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg.md",
       "title": "Face recognition is just the tip of the AI Computer Vision iceberg",
       "excerpt": "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,",
@@ -1116,103 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
-      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
-      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
-          "width": 625,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "publishedDateTime": "2021-06-03T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars.md",
-      "title": "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars",
-      "excerpt": "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-06-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

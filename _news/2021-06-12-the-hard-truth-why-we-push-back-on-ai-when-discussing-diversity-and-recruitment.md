@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "Modern Hire develops AI program to eliminate unconscious bias during recruiting"
-    excerpt: "As employers seek to diversify their hiring practices, AI can be an important tool to level the playing field. Hiring platform Modern Hire has unveiled a new on-demand AI video interview feature. The platform evaluates interview responses and gives hiring managers a score for each applicant with its Automated Interview Scoring AI feature."
-    publishedDateTime: 2021-06-07T22:24:00Z
-    webUrl: "https://www.benefitnews.com/news/modern-hire-develops-ai-program-to-eliminate-unconscious-bias-during-recruiting"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 33
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/35b78bb/2147483647/strip/true/crop/4000x2701+0+0/resize/840x567!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F76%2F13%2Fd40e7af1426d9f2d900ba1f5b602%2Fp2-april21-bloomberg-afternoon.jpg"
-        width: 840
-        height: 567
-        isCached: true
 
 secured: "MNSxIj6vFEo0Ss+edd8RWIdXyUCvwKdVM3s70dkhPFmL/E7qtLRV84j76dhu405vmsEpjdAofQma7sm3sBLCdLScIqev9W8jADe4eSLp3XjNqpw49TS7t7zd8oMqaOFuax2tUvMLfyrKw99+C3N1LwOxYd2BlMc/f6LaKogCgwNomjztN7OM/yH9XP12uNbHZjSWO7kfR/tATr9bKldv9fGbbscTzzssxW/2v1ZkzIGHYbbAiDZd/2kDJHKD0GlzhVScciVhj0Abj1yhLxl3hI53c+HhP38V/JJBneCPcXIn8TFOUsSv9KEj52USAMQ8z/FbShDuWWUTmKoPHgW2IfTa3MH2e28bitiHUJ1WYkV3fFDEJ3Mdb8B0aG8dS3sMNoIvKTOHEbgcSO1rsAS63THEoy5DUDxDZgTtlBfzWmf0C0WveTHDbg6zgwkSiTOfXoDOB0uijK5d3yLn5kSU0uWfSFRlP3Ahoqu7oxnxdDDoouvvIgEVyMqrVqn9HEfH/H4I13wNRqRCGpmXfqVdSQ==;+EgCN98MUcFJ7ogrwqd+yg=="
 ---

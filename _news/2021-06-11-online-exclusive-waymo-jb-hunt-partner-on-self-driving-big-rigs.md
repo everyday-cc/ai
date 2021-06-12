@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program"
+    excerpt: "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J."
+    publishedDateTime: 2021-06-11T03:54:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630437%2Fwaymo-truck.jpg&w=1200&op=resize"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Self-driving Waymo trucks to haul loads between Houston and Fort Worth"
     excerpt: "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,"
     publishedDateTime: 2021-06-10T14:16:00Z
@@ -55,19 +71,19 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "NuPort Robotics Selects NVIDIA DRIVE Platform for Autonomous Trucks"
-    excerpt: "Toronto - NuPort Robotics Inc., a leading Canada-based autonomous trucking company, today announced that it has selected the NVIDIA DRIVE platform to power its middle-mile semi-truck transportation solutions,"
-    publishedDateTime: 2021-06-10T19:30:00Z
-    webUrl: "https://www.dcvelocity.com/articles/51334-nuport-robotics-selects-nvidia-drive-platform-for-autonomous-trucks"
+  - title: "Alibaba plans self-driving trucks with logistics unit Cainiao"
+    excerpt: "Monitoring Desk Chinese e-commerce leader Alibaba Group Holding Ltd (9988.HK) plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
+    publishedDateTime: 2021-06-10T08:33:00Z
+    webUrl: "https://thefrontierpost.com/alibaba-plans-self-driving-trucks-with-logistics-unit-cainiao/"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 54
+      name: The Frontier Post
+      domain: thefrontierpost.com
+    quality: 39
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/0e7f4fac-2e73-4dfa-aad5-a9b80a9e18e2.png?crop=true&height=430&t=1623334025&width=640"
-        width: 600
-        height: 315
+      - url: "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2021/06/15-7.jpg?fit=959%2C539&#038;ssl=1"
+        width: 959
+        height: 539
         isCached: true
   - title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
     excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
@@ -110,6 +126,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NEWWAYMO.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
+    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
+    publishedDateTime: 2021-06-11T11:22:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
+        width: 560
+        height: 306
         isCached: true
   - title: "Waymo, J.B. Hunt Teaming Up on Self-Driving Experiment"
     excerpt: "Autonomous tech company Waymo plans to team up with trucking company J.B. Hunt to haul freight using trucks equipped with AV systems between Houston and Fort Worth along the I-45 corridor. Get the story at TheDetroitBureau."

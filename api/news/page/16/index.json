@@ -2,6 +2,92 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-28-nvidia-plans-to-be-a-force-behind-level-5-autonomous-vehicles.md",
+      "title": "Nvidia Plans to Be a Force Behind Level 5 Autonomous Vehicles",
+      "excerpt": "The company calls Pegasus, “The world's first artificial intelligence computer designed to drive fully ... essentially functioning as a mobile office or living room.\" Driverless cars will enable new ride- and car-sharing services,” Huang said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Nvidia%20Drive%20PX%20Pegasus.jpg",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
+      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
+      "excerpt": "Several weeks ago, Starsky Robotics said it intends to make driverless deliveries in ... the road with a self-driving tractor-trailer. Artificial intelligence is putting the virtual pedal to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2019/06/fleetowner_29612_tesla_shipment_1_0.png?auto=format&fit=max&w=1200",
+          "width": 667,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-scale-ai-hires-former-us-cto-michael-kratsios-as-head-of-strategy.md",
       "title": "Scale AI Hires Former U.S. CTO Michael Kratsios as Head of Strategy",
       "excerpt": "Mr. Kratsios in March began working at Scale AI, where he is focused on helping companies turn AI pilot projects into offerings that can be brought to market, according to the San Francisco-based startup.",
@@ -153,6 +239,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
+      "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
+      "excerpt": "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook",
+          "width": 1094,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -310,49 +439,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
-      "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
-      "excerpt": "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030473430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1126,109 +1212,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-baidu-debuts-updated-ai-framework-and-rd-initiative.md",
-      "title": "Baidu debuts updated AI framework and R&D initiative",
-      "excerpt": "At its Wave Summit deep learning conference, Baidu announced updates to its PaddlePaddle machine learning framework and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/",
-      "originalUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/amp/",
-      "publishedDateTime": "2021-05-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms.md",
-      "title": "AI Ethics Teams Bulk Up in Size, Influence at Tech Firms",
-      "excerpt": "Artificial intelligence ethics teams are playing a greater role at tech companies and helping them deal with bias and fairness issues that have cropped up at companies such as Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms-11622113202",
-      "originalUrl": "https://www.wsj.com/articles/ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms-11622113202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-344629/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

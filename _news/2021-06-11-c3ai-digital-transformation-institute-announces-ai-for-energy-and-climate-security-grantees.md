@@ -65,15 +65,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Department of Energy Announces $1 Million in Collaborative Funding for Privacy-Preserving Artificial Intelligence Research"
-    excerpt: "DOE National Laboratory researchers will partner with flagship dataset developers from the National Institutes of Health Bridge2AI community"
-    publishedDateTime: 2021-06-07T22:12:00Z
-    webUrl: "https://www.energy.gov/science/articles/department-energy-announces-1-million-collaborative-funding-privacy-preserving"
-    type: article
-    provider:
-      name: Energy Department
-      domain: energy.gov
-    quality: 0
 
 secured: "WV8W7FZDjphRYMBkHa894H/wU3qE7s3DSAcZniNSJz+Z/XbZqvX4lsGcVvUiIih6UAsfc05fm8AcPWmf6cDilaJxqk6g5rm1qSXIga43jmuZ+qsuRO1My5wd7DzN6eWz69KJHxiY6VPYpeJT2wH/GjFJX+WJcomXuQrUc/Z/QJRzo5nBtoLCyEUbuZq4NQCvFtrq3QCmp4EbomCYo+pRYuXrlXHWsHm2goshnIErO4yq7qNPpvyBTcJTJuTGB1biMjKN2FvXvHmWigI228+KdhMWnFKzogpr0Cwy4JYGlCr4/zzFOkeI9jbyQOqFbnbjDu5GxykqyxYdoPb7sZgnBdF5KTyegBs2bvq33k0Q8yE=;Pt698t5DSZm8hXclI5cFeQ=="
 ---

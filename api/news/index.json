@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-12-how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand.md",
+      "title": "How stakeholder capitalism and AI ethics go hand in hand",
+      "excerpt": "With the prevalence of AI technologies across businesses, AI ethics will soon become critical components of stakeholder capitalism.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
+      "originalUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1257913820.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
+      "publishedDateTime": "2021-06-12T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.md",
       "title": "A year later, tech companies' calls to regulate facial recognition met with little progress",
       "excerpt": "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance.",
@@ -1191,58 +1243,6 @@
         "Google AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-google-claims-it-is-using-ai-to-design-chips-faster-than-humans.md",
-      "title": "Google claims it is using A.I. to design chips faster than humans",
-      "excerpt": "Google claims that it has developed artificial intelligence software that can design computer chip \"floorplans\" faster than humans can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104473984-TPU_PERSON_FORWEBONLY_FINAL.jpg?v=1529475121",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
-      "publishedDateTime": "2021-06-10T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

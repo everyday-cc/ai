@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-11-google-claims-it-is-using-ai-to-design-chips-faster-than-humans.md",
+      "title": "Google claims it is using A.I. to design chips faster than humans",
+      "excerpt": "Google claims that it has developed artificial intelligence software that can design computer chip \"floorplans\" faster than humans can.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
+      "originalUrl": "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104473984-TPU_PERSON_FORWEBONLY_FINAL.jpg?v=1529475121",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
+      "publishedDateTime": "2021-06-10T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-alphabets-waymo-teams-with-jb-hunt-on-self-driving-truck-testing-program.md",
+      "title": "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program",
+      "excerpt": "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630437%2Fwaymo-truck.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/",
+      "publishedDateTime": "2021-06-10T20:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-google-updates-search-algorithms-to-combat-online-slander.md",
       "title": "Google updates search algorithms to combat online slander",
       "excerpt": "It's a rare move for a company that's been historically reluctant to intercede when it comes to search results.",
@@ -738,58 +842,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-10-self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth.md",
-      "title": "Self-driving Waymo trucks to haul loads between Houston and Fort Worth",
-      "excerpt": "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/",
-      "originalUrl": "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/Truck_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-10-researchers-win-44-million-in-grants-for-projects-using-ai-to-take-on-climate-change.md",
       "title": "Researchers win $4.4 million in grants for projects using AI to take on climate change",
       "excerpt": "The C3.ai Digital Transformation Institute announced on Thursday $4.4 million in awards to researchers using everything from offline reinforcement learning and large-scale simulations to soil samples and seaweed to find solutions to climate change.",
@@ -798,7 +850,7 @@
       "originalUrl": "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1226,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-the-bot-revolution-stalls-as-ai-is-difficult-to-scale.md",
-      "title": "The Bot Revolution Stalls As AI Is Difficult To Scale",
-      "excerpt": "When a company can evaluate and quantify the impact of automation, it can identify why the AI was or wasn’t successful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfd681bb1be6b81e45c9fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/",
-      "publishedDateTime": "2021-06-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
