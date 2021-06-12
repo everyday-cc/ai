@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Next-level chips coming from AI, says Google"
-excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
-publishedDateTime: 2021-06-12T01:29:00Z
-originalUrl: "https://menafn.com/1102255042/Next-level-chips-coming-from-AI-says-Google"
-webUrl: "https://menafn.com/1102255042/Next-level-chips-coming-from-AI-says-Google"
+title: "Google team uses AI to create next-gen chips faster than humans"
+excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
+publishedDateTime: 2021-06-12T18:46:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+webUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-06/11/AT_1f49dimage_story.png"
-    width: 1020
-    height: 647
+  - url: "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -132,22 +134,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-83463614,imgsize-318247,width-800,height-434,overlay-ettelecom/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
-    publishedDateTime: 2021-06-12T18:46:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Google has used AI to gamify the design of computer chips"
     excerpt: "Google researchers have found through the development of an AI model, the technology could design the layout of a computer chip faster and more efficiently than those designed by humans."
@@ -271,6 +257,20 @@ related:
         width: 790
         height: 530
         isCached: true
+  - title: "Next-level chips coming from AI, says Google"
+    excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
+    publishedDateTime: 2021-06-12T01:29:00Z
+    webUrl: "https://menafn.com/1102255042/Next-level-chips-coming-from-AI-says-Google"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/11/AT_1f49dimage_story.png"
+        width: 1020
+        height: 647
+        isCached: true
   - title: "Google Claims To Be Using A.I. To Design Computer Chips In Under 6 Hours"
     excerpt: "Google claims to have created a deep reinforcement learning software that can produce AI chips much faster than humans can, according to a paper in the Nature journal on Wednesday. “Our method has been used in production to design the next generation of Google TPU,"
     publishedDateTime: 2021-06-10T17:52:00Z
@@ -332,6 +332,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "d1MLUqKcSwpBjijYRsA+2hW6YSBty0CfX45Stt7/d8Kk2hvt+OmfdYLs0t7gdM9NMS9D9LokE01GUHuS4m9MOPISmhi7yZpb1Wo+IRiW5vX7GpMDObr6bcSx4jVm18U3OC6qFBEvYbPb1UtdFC85wq7dTMEGSiB77VCHpefTafSIPFbgeVsjHuQw8UskJRJ5J55bJJcXxEiVqaXsxP0K5GLS27ayKVdow12f/UzesoTsvQlkjAeIzPVyfM+J2J/eMIk84kFp0wx1we/5bdcpWqkxcjoe0ohsemewrVR8OahvkdByrXkbHSAvjybQqdM8Y8QHRXzk7OxpS4P5HvlvExl3itzBLJKULYmsL3GmLkA=;eiHYImN1xqicJTV/w1jySA=="
+secured: "kEpkKxoGzUVHct5X3l2SaBzWtgVQlcvi/JQSwvZHKb70GX2GcFXWoedWxk1eYS7IjerXCmC00YlvQM/50oj16coqaUPscIKl+WaIKgHKBal8yrzLizFpJFI0xwOC+axA38sgH51zSHc6BERrshzh2D8jozKYkAZIYGs/gn0SsXJt3aEjKVAqIsPiFUdbrbDfVGTPutpZz4EXKFr/JXbxwmLJV2/gVCCEGDJ3W1AJq9HRTBgpUVFW2KjDNWVjzhYpsW0YeRjJ4I9G63Ho7WxSrIG8BoYGovGvNlWikd6zFIBDjWohOTkA0uiQ61e2nU5qDhzyHCptiqd488uAMBjZOIFmLcT99wwip7ewdMEbpGM=;sGfaVBSQXu9xRAdfpG5ikw=="
 ---
 

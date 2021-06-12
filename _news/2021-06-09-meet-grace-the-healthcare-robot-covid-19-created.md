@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1277116422.jpg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "Using AI to fight COVID-19"
-    excerpt: "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis."
-    publishedDateTime: 2021-06-08T03:23:00Z
-    webUrl: "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/6/3456e.jpg"
-        width: 1736
-        height: 889
         isCached: true
   - title: "COVID-19 Flare-up Predicted by Artificial Intelligence"
     excerpt: "Artificial Intelligence predicts how patients with viral infections, including COVID-19, will fare. Gene expression patterns associated with pandemic viral infections provide a map to help define patients' immune responses,"

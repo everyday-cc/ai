@@ -26,37 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence enhances efficacy of sleep disorder treatments"
-    excerpt: "Difficulty sleeping, sleep apnea and narcolepsy are among a range of sleep disorders that thousands of Danes suffer from. Furthermore, it is estimated that sleep apnea is undiagnosed in as many as 200,"
-    publishedDateTime: 2021-06-08T17:19:00Z
-    webUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-efficacy-disorder-treatments.amp"
+  - title: "Here’s How AI Can Determine The Taste Of Coffee Beans"
+    excerpt: "This Colombian startup is using artificial intelligence to taste coffee and gives producers, farmers and roasters new insight into how to grow, harvest and optimize flavor."
+    publishedDateTime: 2021-06-12T17:50:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/"
+    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/9-sleep.jpg"
-        width: 1920
-        height: 1279
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3e7e24db754e75e88acec%2F0x0.jpg"
+        width: 1199
+        height: 808
         isCached: true
-  - title: "Can Artificial Intelligence Fix Your Sleep Disorder?"
-    excerpt: "The University of Copenhagen with the Danish Center developed an algorithm on Artificial Intelligence for Sleep Disorder Diagnosis."
-    publishedDateTime: 2021-06-09T07:24:00Z
-    webUrl: "https://fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/"
-    ampWebUrl: "https://fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-fix-sleep-disorder-u-sleep/amp/"
+  - title: "How AI and mosquito sex parties can save the world"
+    excerpt: "Diptera.ai has raised a $3 million seed round to fight mosquitoes with mosquitoes -- and sex-sorting that uses artificial intelligence."
+    publishedDateTime: 2021-06-09T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/"
+    ampWebUrl: "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/06/technology-eye-artificial-intelligence-4024486.jpg"
-        width: 1280
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/diptera-tiger-mosquito-mosquito-asian-tigermucke-sting-86722.jpg?w=1200&strip=all"
+        width: 1200
+        height: 794
         isCached: true
 
 secured: "/8MSKwMHPlISPcpDe3ECXDH8wCcQadDXIqYVFL1iJGYgw7UJRAZdvVFJmewCfoY/o6DcnDQz6PE0cMkb6ZjscdiOfuOMtIukPUSbWzvDyoj4TScWEWvWjkRbz9ztAK/figcXkUHlEhpivMaHxyW03ZdBpLC/Qvniw4vtsd8HoOT3T7uog1b8srTDwE65AE+vxiLd8E74pSMHuOeykFyh2KW7hW4c61YK1b/y70FFijQTLc92jPSMmVccPa8EerIGmaOQudVRfgQ0rJc6l7CehQopc4ugm88WU06PwCqaasFydZKJnn6FgbeApLYo5/VhxgUnI2HlwBJ4JSiMAfTo4gP8bn5Sgs0vmKchS6z/8Mk=;MrdrUK+mn5iujE2J1NEytA=="

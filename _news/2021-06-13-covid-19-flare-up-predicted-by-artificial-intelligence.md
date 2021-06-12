@@ -85,22 +85,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Using AI to fight COVID-19"
-    excerpt: "A study based in Taiwan and published in the Journal of Clinical Medicine focuses on the role of AI in managing COVID-19 through digital images, clinical and laboratory analysis such as screening and diagnosis."
-    publishedDateTime: 2021-06-08T03:23:00Z
-    webUrl: "https://www.news-medical.net/news/20210607/Using-AI-to-fight-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210607/Using-AI-to-fight-COVID-19.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/6/3456e.jpg"
-        width: 1736
-        height: 889
-        isCached: true
   - title: "Machine learning applied in SARS-CoV-2 COVID 19 screening using clinical analysis parameters"
     excerpt: "COVID-19 was considered a pandemic by the World Health Organization. Since then, world governments have coordinated information flows and issued guidelines to contain the overwhelming effects of this disease."
     publishedDateTime: 2021-06-11T17:05:00Z

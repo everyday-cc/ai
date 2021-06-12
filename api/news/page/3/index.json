@@ -793,7 +793,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -934,57 +934,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-ai-startup-investment-is-on-pace-for-a-record-year.md",
-      "title": "AI startup investment is on pace for a record year",
-      "excerpt": "AI rounds are particularly hot or at least as hot as the larger SaaS market, which is itself enjoying historically rich multiples are more capital pours into the aggregate startup world.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/09/ai-startup-investment-is-on-pace-for-a-record-year/",
-      "originalUrl": "https://techcrunch.com/2021/06/09/ai-startup-investment-is-on-pace-for-a-record-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3_RD.jpg?w=533",
-          "width": 533,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-09-anti-money-laundering-startup-intellewings-raises-100000-in-seed-round.md",
       "title": "Anti-money Laundering Startup IntelleWings Raises $100,000 In Seed Round",
       "excerpt": "The Panchkula-based startup will be utilizing the funds to advance its product, EYE, a product based on machine learning to help regulatory firms with anti-money laundering compliance needs",
@@ -1044,7 +993,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -1194,21 +1143,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-how-ai-and-mosquito-sex-parties-can-save-the-world.md",
-      "title": "How AI and mosquito sex parties can save the world",
-      "excerpt": "Diptera.ai has raised a $3 million seed round to fight mosquitoes with mosquitoes -- and sex-sorting that uses artificial intelligence.",
+      "path": "_news/2021-06-09-the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds.md",
+      "title": "The pandemic led to ‘significant’ increase in AI adoption across manufacturing, survey finds",
+      "excerpt": "A survey commissioned by Google Cloud found that the manufacturing industry's use of AI increased 'significantly' due to the pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/",
+      "webUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/diptera-tiger-mosquito-mosquito-asian-tigermucke-sting-86722.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory-e1623189788805.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 794,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1216,8 +1165,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/amp/",
       "publishedDateTime": "2021-06-09T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1241,6 +1190,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-xilinx-readies-versal-ai-edge-for-2022-availability.md",
+      "title": "Xilinx Readies Versal AI Edge For 2022 Availability",
+      "excerpt": "Versal AI Edge Design includes a new AI Engine that doubles performance with 8-bit integer math and offers reconfigurable logic for vastly more flexibility than ASICs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/09/xilinx-readies-versal-ai-edge-for-2022-availability/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/09/xilinx-readies-versal-ai-edge-for-2022-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bea19da3fe7536cf9645a8%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D2305%26cropY1%3D0%26cropY2%3D1280",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/09/xilinx-readies-versal-ai-edge-for-2022-availability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/09/xilinx-readies-versal-ai-edge-for-2022-availability/amp/",
+      "publishedDateTime": "2021-06-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

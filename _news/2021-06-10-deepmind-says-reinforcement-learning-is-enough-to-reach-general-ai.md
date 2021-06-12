@@ -131,6 +131,22 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "Google team uses AI to create next-gen chips faster than humans"
+    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
+    publishedDateTime: 2021-06-12T18:46:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Google has used AI to gamify the design of computer chips"
     excerpt: "Google researchers have found through the development of an AI model, the technology could design the layout of a computer chip faster and more efficiently than those designed by humans."
     publishedDateTime: 2021-06-09T06:00:00Z
@@ -319,6 +335,6 @@ related:
       domain: abiresearch.com
     quality: 16
 
-secured: "Llz+v/iJiOvJqqeop+z67lJPDD6ese1/fiydINmO5vsb7/GcOTvNs4CnfOBvIPdRCt0mHpENtseF4hl3gwVepZnnjtvHaY38CnzFuNcqDIT8DLxN9AtjOM3i8C9US/5JoPrzH0z1UnlLSq94dHHPTyGSDlj8nhTlqoMJ7HzKQneKZzU7nmN2xo1JHnsQ93Q7huXyVcmNr11mSbxJ03Eg5ih/VNOb7P7XafyW13n1mRuZ9GYC/lK9LlXMbDzKpcDJgp4wIyzrFh2E6/Ge4jv0ldgiaO+MKj1akSzjMgGaTqLD95Yn75TXhYiLrmBYb8jsxcVlV5WFTue24eaNcM3LBc6i/IN3TFf/GDPbxPxts/c=;Jf9c6TnyI9yyLxMhiDu56Q=="
+secured: "4SxCjIH/zZGTMHJEixSuPaYB8BeOmTXfmC5RnpNXD5Ch591sUwHWKYdOpXeliIEZGaUdwJHrcP2266KpzRoFy+9G7Uj0u1bHAMHJSNb9ucF7JmzsxDpdJfWyxPXaJArZ9JzmOxG70mZ8HUmfsHXJfwfnwDHdw35KIljdmwiC+Ki+W4MaLa+8aJxO3F5LfuhRWe1xQeCqGy+oaxIepUG/Lue5Ca5wIWILI4VHgx9vVoIkoLReGOkENzMmhsSNKErH47/h5CFWz78tnSqh5ffjGOR9F6nnzGJnybCkAYs8n2Bkf0Eye7D0z6QzyT952vHJoeMScdUj+y43OqdJfBHrBCu7Qu5ZSqQZwQJFaRS75m4=;O9O/muXe22nK2cjDcgPZ9w=="
 ---
 

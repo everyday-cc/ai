@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1920
         isCached: true
-  - title: "Study Shows AI-Generated Fake Reports Fool Experts"
-    excerpt: "AIs can generate fake reports that are convincing enough to trick cybersecurity experts. · If widely used, these AIs could hinder efforts to defend against cyberattacks. · These systems could set off an AI arms race between misinformation generators and detectors."
-    publishedDateTime: 2021-06-08T03:24:00Z
-    webUrl: "https://www.snopes.com/news/2021/06/07/study-shows-ai-generated-fake-reports-fool-experts/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 39
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/06/getty_robothands.jpg"
-        width: 1200
-        height: 771
-        isCached: true
   - title: "Beware AI fake news; it fools even experts"
     excerpt: "If you use such social media websites as Facebook and Twitter, you may have come across posts flagged with warnings about misinformation. So far, most misinformation – flagged and unflagged"
     publishedDateTime: 2021-06-09T18:42:00Z

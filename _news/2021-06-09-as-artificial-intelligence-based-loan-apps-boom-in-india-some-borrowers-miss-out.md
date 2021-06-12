@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tecno Spark 7T With 48MP AI Dual Camera Launched In India; Sale, Price & Specs"
-    excerpt: "Tecno has launched the Spark 7T in a single 4GB RAM and 64GB storage configuration which is priced at Rs. 8,999. However, as a part of an introductory sale, the device will be available at Rs. 7,999."
-    publishedDateTime: 2021-06-11T10:08:00Z
-    webUrl: "https://www.gizbot.com/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/tecno-spark-7t-with-48mp-ai-dual-camera-launched-in-india-sale-price-specs-074806.html"
+  - title: "AI-based loan apps are booming in India, but some borrowers miss out"
+    excerpt: "Mobile lending apps have mushroomed in India, but critics claim these apps misuse customer data and discriminate against marginalized groups."
+    publishedDateTime: 2021-06-12T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/"
+    ampWebUrl: "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/"
     type: article
     provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 55
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.gizbot.com/img/2021/06/tecno-spark-7t-launched-india-1623406016.jpg"
-        width: 600
-        height: 337
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/taxes-e1623311969949.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out"
+    excerpt: "Digital lending in India seen reaching $1 trillion in 2023 * Credit algorithms hinder women, the poor, analysts say * Central bank draws up rules for fast-growing sector June 9 (Thomson Reuters Foundation) - As the founder of a consumer rights non-profit in India,"
+    publishedDateTime: 2021-06-08T23:00:00Z
+    webUrl: "https://news.trust.org/item/20210608235042-nbooa"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 39
+    images:
+      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/5e22f5bf-6c72-41ab-b40a-0284404d257f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 733
         isCached: true
   - title: "As AI-based loan apps boom in India, some borrowers miss out"
     excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."

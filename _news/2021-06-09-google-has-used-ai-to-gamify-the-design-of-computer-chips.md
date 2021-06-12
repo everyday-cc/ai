@@ -133,6 +133,22 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "Google team uses AI to create next-gen chips faster than humans"
+    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
+    publishedDateTime: 2021-06-12T18:46:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Google Claims Its AI Tech Can Design Computer Chips Much Quicker Than Puny Humans"
     excerpt: "Google has decided to use AI to design microchips for its next generation of Google Tensor Processing Unit, and it can be done in 6 hours, whereas humans take several months."
     publishedDateTime: 2021-06-10T18:32:00Z

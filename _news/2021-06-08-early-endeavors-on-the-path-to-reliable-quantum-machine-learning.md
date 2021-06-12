@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-06-early-endeavors-path-reliable-quantum.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-early-endeavors-path-reliable-quantum.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 930
     height: 465
     isCached: true
-
-related:
-  - title: "Early endeavors on path to reliable quantum machine learning"
-    excerpt: "Anyone who collects mushrooms knows that it is better to keep the poisonous and the non-poisonous ones apart. Not to mention what would happen if"
-    publishedDateTime: 2021-06-08T03:23:00Z
-    webUrl: "https://www.miragenews.com/early-endeavors-on-path-to-reliable-quantum-573494/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.carnivalaustralia.com/media/179328/conflict-islands_500x333.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "lV/6ojYUtKLBNlaDUIkLuXugp6I1rUJqdIKPbrNk6+OrIxNzDTGcxr02gD7iOQU8hdembENOjeC3K+86ECWcuigUxhBFHgfRLg2LWxlxyHK48oFml+gxxt/dCt2qTCiEOtOuByToN/SjXhciCz779H4RsOy9Peibr+dP+uhzvzOqcxZQl1zZdPSOesA73X9e6omb5ElrjKlW9QIWlbXAK1jjmdI1ea5ecJQaCpJxD0oCOoQ1IkzS10dhxNrJIg/q/kZdjg6+I4IbL+EWH3noEWN9dejMiB0tI52PM2hjAc1uACzcBFKAgG23n5rbpVos8VeWwhSwdfvBS5t+B5xjh++M9edpIvYVLQQcSzi5JC5gxj0hDl1t9V0ruOHXtcC/MupFKTjL/Ncrvoui3si63uLqLIImfwTbvzjs1L4cY46kvQkqPjRo5CBN9YNMQEg4sXBKS8JPXJW5+JVbaLiTaQi8B2KeQNOKDkI2HOJi1lAuPTLU2zoS96SfM9Aty9OdM8sLQw9T00mBJCGVCMmrng==;lpd3lSfBoDwcaYwLRri9Ow=="
 ---

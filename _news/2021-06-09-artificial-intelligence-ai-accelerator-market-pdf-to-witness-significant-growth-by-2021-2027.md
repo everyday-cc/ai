@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://cdn.openpr.com/U/6/U610601671_g.jpg"
         width: 480
         height: 320
+        isCached: true
+  - title: "Voice Recognition for Automotive Market [ PDF ] To Witness Significant Growth By 2021-2027"
+    excerpt: "This research service provides a strategic analysis of the Voice Recognition for Automotive Market 2021-2027. The market study covers the Voice Recognition for Automotive market size across segments."
+    publishedDateTime: 2021-06-11T16:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-automotive-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yLRdp+rsYuH8tqTfpneI65ZNi+gN1QLIkLvMG71lLrSxX/nvUP1+ocu6R7FfNFZmhdEI6UE+4DW6m/te9EnwY3dSL5reZwQ2GICbsbyYSpNPoUp1w6taeihCICTtar+3i1nFOUH0wsdaIWh3BOmqbc5EGVvye2tCGF1SelE6H4kmv7goRWRNKSh+dDC9TggHmYVw57i3131Mvv+btEuBHoIkw9QJsDhVQTum/N0M31c4G+7Ej9HYjprd3fS6IvxyZsPQlr972S2B8MdADZvbrFAHblWHzh8JCDu8G07Mn9pRdHMpgl4WVxdKewLJd96/Sxpmuw33/dm6siaoRI76NT9OdaQ/ZwJ0AS1x7Fk8cJ0=;GO0mGid9isLyGzvkGKIw7A=="

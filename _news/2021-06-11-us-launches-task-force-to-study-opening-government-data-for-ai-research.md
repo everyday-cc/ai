@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Task force to find ways to make U.S. government data available for AI research"
-excerpt: "A U.S. government task force launched today is working on a strategy to provide artificial intelligence researchers with access to massive amounts of data on American citizens. The National Artificial Intelligence Research Resource Task Force is part of a broader effort to ensure the U."
-publishedDateTime: 2021-06-11T00:13:00Z
-originalUrl: "https://siliconangle.com/2021/06/10/task-force-established-find-ways-make-u-s-government-data-available-ai-research/"
-webUrl: "https://siliconangle.com/2021/06/10/task-force-established-find-ways-make-u-s-government-data-available-ai-research/"
+title: "U.S. Launches Task Force to Study Opening Government Data for AI Research"
+excerpt: "The task force will draft a strategy for creating an AI research resource that could give researchers secure access to stores of anonymous data about Americans."
+publishedDateTime: 2021-06-10T22:36:00Z
+originalUrl: "https://www.wsj.com/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400?mod=newsviewer_click"
+ampWebUrl: "https://www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
 type: article
-quality: 33
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/open-government-5450141_960_720.png"
-    width: 960
-    height: 593
+  - url: "https://images.wsj.net/im-352014/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -56,22 +62,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "U.S. Launches Task Force to Study Opening Government Data for AI Research"
-    excerpt: "The task force will draft a strategy for creating an AI research resource that could give researchers secure access to stores of anonymous data about Americans."
-    publishedDateTime: 2021-06-10T22:36:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 86
-    images:
-      - url: "https://images.wsj.net/im-352014/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Artists use artificial intelligence to bring their creations to life"
     excerpt: "Albert Einstein has been credited with saying \"creativity is intelligence having fun.\" Einstein would likely be impressed with the artificial intelligence now being used to help create modern works of art,"
     publishedDateTime: 2021-06-12T13:13:00Z
@@ -86,6 +76,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Task force to find ways to make U.S. government data available for AI research"
+    excerpt: "A U.S. government task force launched today is working on a strategy to provide artificial intelligence researchers with access to massive amounts of data on American citizens. The National Artificial Intelligence Research Resource Task Force is part of a broader effort to ensure the U."
+    publishedDateTime: 2021-06-11T00:13:00Z
+    webUrl: "https://siliconangle.com/2021/06/10/task-force-established-find-ways-make-u-s-government-data-available-ai-research/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/open-government-5450141_960_720.png"
+        width: 960
+        height: 593
+        isCached: true
   - title: "The Biden administration launches the National Artificial Intelligence Research Resource Task Force"
     excerpt: "The U.S. National Science Foundation and the Office of Science and Technology Policy announce the government, academic and private sector representatives who will serve on the task force"
     publishedDateTime: 2021-06-10T17:39:00Z
@@ -96,6 +100,6 @@ related:
       domain: nsf.gov
     quality: 3
 
-secured: "LVJXuFvPefv8WymIsESYKC/N912nR+fmBEgY4xA23w7f//NcUe+6Yh7yWfPLJgvPJk7i8NLRJRGyj5uL8xkvygnJvwucfVS7ez8/XAA/E8gv7UK5K4WeqS4v2jDBYobLjiSldFL5jtaMOepev82jo46eHKKNiCEgx8PCLbcErnU1j3vZl9DR1wUi/uCn9WnK6r5zXCoyo5cGHeGJQzKUGBPPr94JNR5X59mJM8U+o2v+c9uNi7oBiyGtg0VKLalpTEncTBekesnhNxlnEt/sW38+6l3h1NzXKOx5yIrH8orrT1dY5xb1umGxUSsexxzHww03FWaNPRmVMUnSqbxyfu3+A94HsLWr4hCCFJfO/J8=;YShR8cxH1Td2OB2JkZBJJw=="
+secured: "b/3tQMWh0bwTukNsfHkGU9dIxBE6hOmEebY6upzRe7YyvnSFiaPW+izctFNRlCoU5VxCtrwCajwMrVnub37pHapVZQb1jWzyw6BsEJbInW2Ol98EfdZ1y4mNXN9n++jHuIIjghxQjh1VCErr0XyKjGC2/RS0lzUjhL1ZqObVRlrTc2JPsLuP3XlpX0LzfmjXyMq4WkMqW6eg8FZ4dyxsAw+WYfueGS6E+XLRRjLxs7Twer9LH88hzJz4yhpAWt+41HnGtldhgRagxABnCYB91F39i7VeuHC5w0nmLneJgSY03ruj168brKLT/gqozM4dV6toQSsOz+62GEFsPjb8IesGFDnb54aS0SECz6q+XWc=;Qpjc6Ya9Adj5fZYTbfY6Vw=="
 ---
 

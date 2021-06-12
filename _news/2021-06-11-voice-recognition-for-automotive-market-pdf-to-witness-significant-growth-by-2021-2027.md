@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Drug Developing Platforms by Artificial Intelligence (AI) Market Evolving Technology and Growth Outlook 2021 to 2027"
-excerpt: "The Top Key Market Players for Drug Developing Platforms by Artificial Intelligence (AI) Market Listed are :- , Antidote, Atomwise, Turbine, Cambridge Cancer Genomics, Row Analytics, Deep Genomics, Insilico Medicine,"
-publishedDateTime: 2021-06-09T12:17:00Z
-originalUrl: "https://www.marketwatch.com/press-release/drug-developing-platforms-by-artificial-intelligence-ai-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-09"
-webUrl: "https://www.marketwatch.com/press-release/drug-developing-platforms-by-artificial-intelligence-ai-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-09"
+title: "Voice Recognition for Automotive Market [ PDF ] To Witness Significant Growth By 2021-2027"
+excerpt: "This research service provides a strategic analysis of the Voice Recognition for Automotive Market 2021-2027. The market study covers the Voice Recognition for Automotive market size across segments."
+publishedDateTime: 2021-06-11T16:39:00Z
+originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-automotive-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-11"
+webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-automotive-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-11"
 type: article
-quality: 61
+quality: 44
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
 
 images:
@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Drug Developing Platforms by Artificial Intelligence (AI) Market Evolving Technology and Growth Outlook 2021 to 2027"
+    excerpt: "The Top Key Market Players for Drug Developing Platforms by Artificial Intelligence (AI) Market Listed are :- , Antidote, Atomwise, Turbine, Cambridge Cancer Genomics, Row Analytics, Deep Genomics, Insilico Medicine,"
+    publishedDateTime: 2021-06-09T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/drug-developing-platforms-by-artificial-intelligence-ai-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence (AI) in Power Market to Witness Huge Growth by 2026 | ABB, Alibaba, Alphabet, Amazon"
     excerpt: "HTF MI offers comprehensive outlook on Artificial intelligence AI in Power Market forecasted till 2026 The Artificial intelligence AI in Power market has observed substantial growth over the years owing to noteworthy innovations that created awareness among end users and"
     publishedDateTime: 2021-06-10T16:05:00Z
@@ -73,21 +87,7 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Voice Recognition for Automotive Market [ PDF ] To Witness Significant Growth By 2021-2027"
-    excerpt: "This research service provides a strategic analysis of the Voice Recognition for Automotive Market 2021-2027. The market study covers the Voice Recognition for Automotive market size across segments."
-    publishedDateTime: 2021-06-11T16:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-automotive-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "j66Sj+ZRDbXVz/dRqVQXmR1KG5jARg0u+ZTJ4vmcpSokKIoSqyqw5wiqLBT0AkARxpx5frgFqfmcIwuNsVGf8OfUqV7IhdVI7fX3A1azITRRknugMGJMzK+aRWFvLL2eIVY68/cQSzzKLm9jFZjYEpVmk/AISBOPaHa5UNPFrEPYaE0pTPXOemWXqvnBNKzgOytn4okNCgQIf52TVFgfJBWP4uODIJfId69DRq1WnwTqD3UkwWkafrFU27BZihNh//d5EM6JleGq1o41G5utRT6Rk8quZuDuAyuxD/qJFE3bk+gA884MwF5Z6P/yJtKlkAHhoPD7EqoHPz8tp+tIhcdSo39daCVwlYjai3ttH6Q=;P6323nHxhMekydv+Ej0Cgg=="
+secured: "G7MbHQ9Aqh5fvmFMJa7YDmWlLYT1a60qEFnn25lCOhN/8kuSrV/qQbsEyBl99a4Zjf1DW6HtU2LKIebElCMyYB74BjT5k2budZ53XTNlC8ANhl/TMZfGOK/FpiTohqP2ePl2TKyJaFDHA6TI6CW1jF0JKjgbM5KU9eRtiQv7fEXt4mcbB/9pLK0rLIBcqXnwNbZywMm597647ICZgXY+Ugh/Q1ZOSCtZXDKQutg5nFI4fNsB/BBmWF95oyPkwGF/rpMGWigZiIxgzGfZj7SclqEH+MIijdjyGNcJhKx0DpjsTUEHYhiPI9zrvnrDSA9Xv3PQx6yGfg0ubUB65NFFgMEIEIh/Eon7waPpYHy/u34=;F2XUajJz9nirtvJlRe6VgQ=="
 ---
 

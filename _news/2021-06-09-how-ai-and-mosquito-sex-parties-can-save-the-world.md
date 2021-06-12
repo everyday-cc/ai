@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-ai-and-mosquito-sex-parties-can-save-the-world/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -40,11 +40,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3e7e24db754e75e88acec%2F0x0.jpg"
         width: 1199
         height: 808
+        isCached: true
+  - title: "Here's how new artificial intelligence algorithm can treat sleep disorder"
+    excerpt: "A new breakthrough study develops artificial intelligence algorithm that will serve to help doctors and researchers around the world to learn more about sleep disorders in the future and help treat difficulty in sleeping,"
+    publishedDateTime: 2021-06-09T05:08:00Z
+    webUrl: "https://www.hindustantimes.com/lifestyle/health/heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder-101623214912444.html"
+    ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder-101623214912444-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/heres-how-new-artificial-intelligence-algorithm-can-treat-sleep-disorder-101623214912444-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/06/09/1600x900/_fd8e18f4-ee90-11ea-8892-0a48b6ec0f6e_1623215201030.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "pD+xWy4scV3IiwQyrURbt9Kn9msBCZfIxhN5Y6fRTT628wTpt8hvyrFMV3t4rh0znNAdW8HQyPy/mPt+ra7YYho06+YX2otzr99o/y3X8AEU3yAjNfAY781FZTZNXzpS5mPm3lA8sMieSMh0QizRoWd2yRbVjTypCmEYtj2pepiTagPZoxzUE6ZK78svUbNfBUzzkSURlYfTtRSgeLNJ/FSlREBAD0Z7+yieRvosoOlZIVQrnBuJ8pIkX55grZrWwmnNcYzPn2JKk7asCe4UEcwFQG3qkjGT5ZjJ5g3sGy20DVj/wXnNFHNoIcRPCzhfqiQ/E+paZrv64vqjWOoMMT3R5rJc4m2hx4dNpnyCax+ISdxI+KW4FT1aRHyNlGm6lR7BPewzbq9CWFd/WYh1RBcvksQUyaRQG4P1n/jWWdJnTSjyuQ6vm1yAandCG5dYJIRA5WDuV8IJkYfB8dfqUUCQEJ8Y0FJxKwt93++TBaKfN5P0CLMWdhZsFHl4uuLI1h6INtwkph0X73ZLN6UCzw==;4FDuHOM8fRCuOZQfu3Gzsg=="

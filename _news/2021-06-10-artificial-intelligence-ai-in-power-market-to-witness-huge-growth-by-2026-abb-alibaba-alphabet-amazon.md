@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition for Automotive Market [ PDF ] To Witness Significant Growth By 2021-2027"
+    excerpt: "This research service provides a strategic analysis of the Voice Recognition for Automotive Market 2021-2027. The market study covers the Voice Recognition for Automotive market size across segments."
+    publishedDateTime: 2021-06-11T16:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-automotive-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hPoHQgMEe7XAo7VcwIXoVl0Mpb/o4D0nQg5jTyFYNzxYIciFDinUz86FF0J7770o6xSmqkfvLcoddxNgYiwjMJaNcd37wDutLfhAVs4DA/FJkGr4EYBBz/2jTGHcDbgwt/ldfyrF2s9tcx3SPzkCJGRfA1UcRuu4rJEmp64VGE652tXhHL022xt2hfOPjjbDmaWW4tlxul1i/qcJAdhiBtsQwyNTgmEB5m6KwZybnAE6SW1XFv2+i7AVFDO0GlaCOmwr2vCGoqAW9xL25VvTnYYUIfWu3hC4x4hcYJwr20bdyRP4DP4nvmkVCk9SYc9wfSy2zBG9P2hhm9neNozfRbKHL0EKrEOSt5LxI5xAkk2CCQscCRYoTEGKR60okc+c5E2W/D8OPnYDSbQUHGFXoWF0XCJzpxFqNYqk7cHTkFtkop+uuaMrpcMbppGKbo0nkvfEZGkFomN+7IZwRGrkbKYRGOQ4oMOOoOHVZhOJD30gXF4jCP4pEAn8bYS+MOLraSWYwEuqnYhrUt8QJor6cA==;dhqE3FjmatMeMLluXpflDQ=="
 ---
