@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "3 AI startups revolutionizing NLP"
-    excerpt: "Deep learning has yielded amazing advances in natural language processing. Tap into the latest innovations with Explosion, Huggingface, and John Snow Labs."
-    publishedDateTime: 2021-06-07T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html"
-    ampWebUrl: "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html"
+  - title: "What if AI is the problem, not the solution?"
+    excerpt: "If data is the new oil, AI could be the new snake oil. Artificial intelligence is a kind of modern alchemy. It promises to put the spark of humanity into inanimate objects. It says it can transmute dross into gold - taking heaps of formless data and magically creating new insights from it."
+    publishedDateTime: 2021-06-11T07:01:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/what-if-ai-is-the-problem-not-the-solution/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 43
     images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.datacenterdynamics.com/media/images/Diseno_sin_titulo_1_kqy3Jho.2e16d0ba.fill-1200x630.png"
+        width: 880
+        height: 462
         isCached: true
 
 secured: "3LPeny1S9chZB5nyEQ0nGk+hnr15ULf+wbB+tlNUYuq3j3nhV7CNokWED74d+Zints/P7SpqMV55LrREyrYiTurA//dwUXGUsoLqwDK25kjQ5/bLljBGV4+29vBd5JMXolsE0N1MYAZuiAS6Sy9h2RahLCXYgChGc1vO3a1wIz8H212CC5CmCr/zHXeyJYixVkU3aaqk1SZxSqr3r29Mxe19vpvyZwzrsOjx2ce7p3ELS4tkfjdsE7fFA7FLKfsGR0JmUA0DdBCCCj50cQnhn61y4mvf8qohDEG7sa6u7HoU+w2BMMf5baIHdGsxc0hoI9LoElG35n+oa3hxC5vbzrnQFw0uCvz3OFy8yDrpndY=;OIy84QywP5Zw/QxWj1CL/w=="

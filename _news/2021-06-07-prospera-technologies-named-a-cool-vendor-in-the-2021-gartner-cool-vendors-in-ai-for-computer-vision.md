@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Prospera Technologies Named a Cool Vendor in the 2021 Gartner ‘Cool Vendors in AI for Computer Vision’"
-excerpt: "Gartner Cool Vendor research is designed to highlight interesting, new and innovative vendors, products and services. According to the report, “Computer vision technology is bec"
-publishedDateTime: 2021-06-07T13:06:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for/article_1f0c9fbd-04b3-5a59-9f74-e1fa3796f6c2.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for/article_1f0c9fbd-04b3-5a59-9f74-e1fa3796f6c2.html"
+excerpt: "Prospera Technologies, an agricultural technology company recently acquired by Valmont® Industries Inc. (NYSE: VMI), announced today that Gartner has"
+publishedDateTime: 2021-06-07T13:05:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210607005361/en/Prospera-Technologies-Named-a-Cool-Vendor-in-the-2021-Gartner-‘Cool-Vendors-in-AI-for-Computer-Vision’"
+webUrl: "https://www.businesswire.com/news/home/20210607005361/en/Prospera-Technologies-Named-a-Cool-Vendor-in-the-2021-Gartner-‘Cool-Vendors-in-AI-for-Computer-Vision’"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Intento Named a 2021 Cool Vendor by Gartner"
@@ -35,6 +29,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "vTbUQeBYn13QtZjtq8MhNG5XPsGPcBQ0vBgi6bXRN9VqoKIjrEFwWqSY6d8AGdDI2n1+yC404UDDcnAa0LXudDaSTMC1VVpeWtG3SK8QDTZf7fWpZN+U6ONzbWIrhAqHrKSNv5Hp0R+BeeKCUeu6HQ8Yn2k7Nv9ph17C/Z1G0eTnFQJBPiGYGOza2oXDY7DESNK6ZgPkEy+urCXL6T6tD4n75eJeYVDHmxw1PuF0I6XsmM6zW/q5M05JNlp5G8XhRx22fBPvUhUgSZA9LjgSKGNfd9QlpEd4uzz3M42e30IcE0I+kTfyFq0VBnsLinsrZGjbOgLUNs8kAsq9l/3n5pti8fn0OkH5SOmUug+u7XI=;Gvd/hrhT4ReZhg0I9RQM8Q=="
+secured: "9fkgYjoz1ukMck6nW3qVCu/V2t1dSJXwo/+2E0yiQcUr0nFZ96QHVQlR/8g9DicwBjQQyEiA6xzZ0O2Jv/ToHiQKW4IOQsnQaXHhnh3jfh9kk9wPEX6gdtkWLrG+JyoS0ntNPE6i/Xf2SXZFIjFPacCBDhfGxbT43zWKoEZ+uOj/HT7E0YmpSiLkFTCf7ZchTeWlHY/jrR7f3EwZE29uEBb6rkwj9C5zq+0iN2SAb0H+FssDG7dRb8snqRlUeQD19hu/gSC1uppYYQMYAo5YFzwHjFpiv4AQomF1vIWlPkypRxEvV0WfiaGAz5gNn+zq4q9NmKk6m1EWpGLC6aRUJHRo+8IOKbNXQpYhj5fTCmk=;blZMBKa0h/8RLMG83rHJCg=="
 ---
 

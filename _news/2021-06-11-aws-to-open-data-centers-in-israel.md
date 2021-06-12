@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AWS to Open Data Centers in Israel"
-excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced it will open an infrastructure region in Israel in the first half of 2023. The AWS Israel (Tel Aviv) Region will enable even more developers, startups,"
-publishedDateTime: 2021-06-11T10:11:00Z
-originalUrl: "https://www.businesswireindia.com/aws-to-open-data-centers-in-israel-73440.html"
-webUrl: "https://www.businesswireindia.com/aws-to-open-data-centers-in-israel-73440.html"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced it will open an infrastructure region in Israel in the first h"
+publishedDateTime: 2021-06-11T08:04:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210610006031/en/AWS-to-Open-Data-Centers-in-Israel"
+webUrl: "https://www.businesswire.com/news/home/20210610006031/en/AWS-to-Open-Data-Centers-in-Israel"
 type: article
 quality: 19
 heat: 19
@@ -12,12 +12,12 @@ published: false
 
 provider:
   name: Business Wire
-  domain: businesswireindia.com
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "Pi45//dhjy8G0g1jfPgxQZ8hrfEUsHJWbbupLNnEPkt0wwP/Um7sUtHFKoV6Y0yus+F2H2sn9SLa+82EV3Q9YUpURGsBycQJ2sGqKE2sY4aiaQRMEFw+SVek+P67d6shCVRMgm4DP8YnH21jguRWogWXBqDjJ6pMDVjfJQRxkpdKzcfIZMEbqkA2eDhjab6dFp+HxG6joyxAUyukSye89ff+40ftTKg3FabUbMtXWu/2t6O8PUDT4P66XU7vubezof8SOqunhQfaOoQY1MzXC4kKh3rl7Bt2+A9z32yWiziSczQU5TLNTFNDoJCA8IQU14BMENpE+URRrutCQme262jsjT0oucQO/I6g2cllVQk=;LrlSe/55kVtYF6YLJ6X0BQ=="
+secured: "ImRK0bGhhdZQXQQhm0LpgITl/LFsDhJd34P0mqqxFV3McdS0LWczKJJqyMU8AMZu69qxilQ14vy9qkpBhJ+cJZC9FX0BZpZ0QSPmNHcWfO9yQ/7NgvCM2xv2PChphkAOP7KUw++1A6Uf1VCTNECE+4c12UTKzAn+tvfG+Tsv+Garr/0Q6JiqX0f10uZwfmrrWsjkxsfWl1tnbSAW7xWsXqNGpQIJxKldajYUN6pzIrfsE5IcVxgaWnu3plj77eDx48Zgk4U9Z0n8rIxJPnEAm54JY/Qsa2pweNEdrgsROMmKqbjRMyaZ8d7Qm0egiNx3s4eKTMfamuZStdE4LPVyUOCSuOiY6yx8DMiqG1U4WRc=;nsuojePqIqw00V5Us5b7iQ=="
 ---
 

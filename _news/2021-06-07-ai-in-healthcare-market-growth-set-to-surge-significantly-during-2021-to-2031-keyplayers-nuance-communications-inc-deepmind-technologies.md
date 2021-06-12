@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Latest Research of Healthcare Automation Market: How Automation is Key to the Future of Healthcare Operations"
-    excerpt: "The healthcare industry is rapidly adopting new technologies such as Artificial Intelligence (AI), robotics, medical imaging analytics; and extracting maximum benefits to drive down operational efficiencies,"
-    publishedDateTime: 2021-06-07T10:48:00Z
-    webUrl: "https://www.medgadget.com/2021/06/latest-research-of-healthcare-automation-market-how-automation-is-key-to-the-future-of-healthcare-operations.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "NUOGWMu0e7d9cgpaD1ndhariGYg4WV5BA4KfR7/IcpL2meaG0CDN2ZN+GOdzTmk8zx8feF3F/0g62MDY53Owtbm0zykkr5cXWVxplUC0mfyMt/B/X964PrcnXccRak+8sCwLvApw1eHSsUMHONJMjQ7VB6vvymM0Tsd19fScEkckfC9tHdrmHuAvIxHty10oTKV/zBzRF4hnOav4tdN9PArs9l5//aiOQHS1XmMl240dIxahf5yk0WVfv240m1Vb/IWscGrYKlmYK/THBRHMI8mKIZKhVGn0ckMoxQtlFZFfHdthBkB/HLtfVpkJb6RIiBv+Opq8ssb6EIMDfiFU3Nk5P2jTDX2VcrjWZ7/fz+o=;Oxr0/K/5uObDv2Y8Z4iC9w=="
 ---

@@ -37,20 +37,6 @@ related:
         width: 800
         height: 334
         isCached: true
-  - title: "Naval aviation asks industry for research in artificial intelligence (AI), cyber, and hypersonic technologies"
-    excerpt: "The project is open for one year, and involves whitepaper submissions and invitations for a select number of companies to submit formal proposals."
-    publishedDateTime: 2021-06-07T09:32:00Z
-    webUrl: "https://www.militaryaerospace.com/defense-executive/article/14204670/artificial-intelligence-ai-cyber-hypersonic"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 35
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/06/NAVAIR_research_7_June_2021.60ba6e9208c00.png?auto=format&fit=max&w=1200"
-        width: 938
-        height: 531
-        isCached: true
 
 secured: "RDgaMyjsdyGgkYm0DHQhDNq3oD0Z0d6PnmrW8ytb446Hs8+iGCWeF441WhBzdJWkVDyuuT0zP9kH08DV8UZHSWp3zH6cJjs/9K1odEt2wVW6CMdrhg2v7QpKWoO6h0sdz5X8Z8sVXQtQDzGMezKh6Bdj6cKBrazFHQUVkX0OZpUEz0f/8p83t0VYuiD/ed5RY4Am1uSWKYgKcMtFlEd821WrIZo20ySHA67MVM5wyHY/5A7bgidmixQIf9c6bhsf2QiuMi8iVksMITdkHwXl5udok+9iNQh6WiBcwyKAq3/wj5kQ8EgneaYwFdx997e+Ecm5iEXqIAUupk3deB4OnzFkqVkoVqC7yJKOl7IWULI=;LLTbgIduzoTAF4zGz/WagA=="
 ---

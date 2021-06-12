@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "NSE Academy and TalentSprint Launch New Advanced Certification Program in Artificial Intelligence for Financial Markets"
+    excerpt: "NSE Academy and TalentSprint invite applications from professionals for Advanced Certification Program in artificial intelligence for financial markets"
+    publishedDateTime: 2021-06-10T07:37:00Z
+    webUrl: "https://www.dqindia.com/nse-academy-talentsprint-launch-new-advanced-certification-program-artificial-intelligence-financial-markets/"
+    ampWebUrl: "https://www.dqindia.com/nse-academy-talentsprint-launch-new-advanced-certification-program-artificial-intelligence-financial-markets/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nse-academy-talentsprint-launch-new-advanced-certification-program-artificial-intelligence-financial-markets/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/AI_opt.jpg"
+        width: 850
+        height: 576
+        isCached: true
 
 secured: "PycKzNtuccLmf89dXbLfOi8SgaRqcgPKB5CddhgiU+VpcAVMXMGj6EdA0YsuZwED+ANvjH9Q2ehi+JqzY4MC1FU0YBWjFn5nSpBYkt8DzqiGmYFQW/PDy6vuEnVTU0nnzPxzZRVorl5QKQ0ad9V/gnKx4SJjhsWrzlH2Cz7ZxD7FxuVsbkoHgK+7kJ8hXE5PeOUuAhI3+Y4wgaMQP4TeHahOmdqYDP8e7ZSHIsNEvmVt7nZzYNctGl/KG0sdk47xaP9AhTXS4WqoM5Ob81ofVy9ZRlWKnZukn96Uufi78XlGcc39xCY7DLattZp8IWasqTExZer8+Oxth2wQIbOBu1yXiMNfF4F84USOgEaYGn3/0v5/vlRZV0nx1jEdo08rR+V5ZqWUfylUuerZNHojz03Kx9eRRSPV2c3vXRXFD+x9Uf8l/xEQAGm/Stwf4YHyvXVcNzmJ6jGSRTM54+OMsADwDPVpnAKT+ahboHh+/foPPrRMtF1fqqFweAJFtjvNFor6sYmwszdX2GMi/7yEeA==;TbdYHoUI9GLqnzDyYSIa1w=="
 ---

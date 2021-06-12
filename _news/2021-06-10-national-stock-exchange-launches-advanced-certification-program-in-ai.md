@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NSE Academy and TalentSprint Launch New Advanced Certification Program in Artificial Intelligence for Financial Markets"
+    excerpt: "NSE Academy and TalentSprint invite applications from professionals for Advanced Certification Program in artificial intelligence for financial markets"
+    publishedDateTime: 2021-06-10T07:37:00Z
+    webUrl: "https://www.dqindia.com/nse-academy-talentsprint-launch-new-advanced-certification-program-artificial-intelligence-financial-markets/"
+    ampWebUrl: "https://www.dqindia.com/nse-academy-talentsprint-launch-new-advanced-certification-program-artificial-intelligence-financial-markets/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nse-academy-talentsprint-launch-new-advanced-certification-program-artificial-intelligence-financial-markets/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/AI_opt.jpg"
+        width: 850
+        height: 576
+        isCached: true
   - title: "UZH and ZHAW Offer Certificate in Advanced Studies in Translation Technology and AI"
     excerpt: "Department of Computational Linguistics and the Zurich University of Applied Sciences (ZHAW) offer a Certificate in Advanced Studies (CAS) in Translation Technology and AI. The goal of this CAS is to familiarize translators with modern translation tools — in particular,"
     publishedDateTime: 2021-06-10T08:00:00Z
