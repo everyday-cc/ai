@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "OnSolve and Base Operations partner to provide customers with contextual based, risk assessment capabilities powered by artificial intelligence"
-    excerpt: "OnSolve has announced a partnership with Base Operations, a risk intelligence company offering street-level threat assessment for global companies powered by artificial intelligence (AI). The partnership creates a new AI-driven risk analysis capability that provides context and relativity to a targeted region before an event,"
-    publishedDateTime: 2021-06-10T09:36:00Z
-    webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/6353-onsolve-and-base-operations-partner-to-provide-customers-with-contextual-based-risk-assessment-capabilities-powered-by-artificial-intelligence"
+  - title: "AWS-powered Artificial Intelligence Capabilities Added to 6Connex's Industry-Leading Virtual Venue Products"
+    excerpt: "Connex, the leading global enterprise platform for virtual and hybrid events, today announced that it has integrated Amazon Personalize"
+    publishedDateTime: 2021-06-09T14:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products-301309136.html"
     type: article
     provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 1
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
     images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
+      - url: "https://mma.prnewswire.com/media/1511844/6C_Logo.jpg?p=facebook"
+        width: 1060
+        height: 557
         isCached: true
 
 secured: "s62aeOuawHe0lP7RwbktJegMtlRPnxZiRdJOj4lShazdHE+5TkoJw+ukqEYqpsyXUPYpbILS7Uu6bCe02FR9XtMcLoqamrG7rGTr3EL2mEuP4kHZnTCMYtWrNYHEld81xcSCWpAMXEXkxeArMvniNKD88wTDkOjbHYgnoigJKbTsgE+gRBgr6sbrY2uWh2mQzokpHW0MlyOf4zz1nznNhmDsW1PqGETTqbYp2vxGs79QRkN83Ib37lspP9hkzRII1JZVo4b4uB/AbPCCwlbVf4E8T79vInEwo0MFGjPe4AvinH8KtTxGtbzKq9BHM1JtjctySvBBlYOpfE42PmpA2skeZswmL1BLarfUQDEFVvw=;ubSjnNRNjO9zorGHdGjX+A=="

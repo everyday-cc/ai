@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.phoneworld.com.pk/wp-content/uploads/2021/06/Add-a-heading-3.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "US Senate approves $50bn boost for computer chip and AI technology to counter China"
-    excerpt: "Legislation shows deeply divided parties are largely united on confronting China in the ‘race for technologies of the future’"
-    publishedDateTime: 2021-06-08T23:10:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/09/us-senate-approves-50bn-boost-for-computer-chip-and-ai-technology-to-counter-china"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/09/us-senate-approves-50bn-boost-for-computer-chip-and-ai-technology-to-counter-china"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/09/us-senate-approves-50bn-boost-for-computer-chip-and-ai-technology-to-counter-china"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 68
-    images:
-      - url: "https://i.guim.co.uk/img/media/1be5b1a8a4a77125c3773f97899694ef71ea0947/0_136_5351_3210/master/5351.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c9444bb6afdf1ae21a57578bb167f8d"
-        width: 600
-        height: 360
         isCached: true
 
 secured: "YdrX8738Zqm/gD0zeBEHKxaSwExq2BOw6Gm1BeQHL1Ke9oIXxPOEdYIBx24D03yXEFSAwIY0Ezw1OYQKVgtzA7/FAmmaHxxjp5bIFDgbpBEvORGHZb3w+ANmKCEEe3UbpTBJdIYNy/TSJ1KCGPCVIPh/hgqvs87hTivK10bNxSA6j3V5jjhURkFtNYbRbFjFu+Bg7BQc7Lr9cQSRgOi0ypt/a41eCGaR6vYR0XgJpXZ5pl3PPtuBbAXWZ20ACmbNyTYxRPSZsXNrkdvsxIpGfSVuO4/cu0WUOMfNPjT0C4UMoUgyAAScheuIU5o0EtLyHGWN2oiMpOwV8ZAbtmtn9MUerJFj/K+2sWi31cxZsss+iC5TKY9VQRIYlMrtTQAoDk/k2qgaZ4eH1tIoCrVSJCv/ScIgK5XFQlY3K+hDBzFmVWeE95M1gzRX+8XHyZPWIbGNTaZrA/mDWKK6mfeVVgiq/CoA//Vo4OrTjv3Z+QFB1UccoeoLE1Z+NXBxs/n8uiR4saQDpwmjGDeG8q+kXg==;UuGfeONTkTH48fIbpsgzqg=="

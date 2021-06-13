@@ -43,20 +43,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Save costs by automatically shutting down idle resources within Amazon SageMaker Studio"
-    excerpt: "Amazon SageMaker Studio provides a unified, web-based visual interface where you can perform all machine learning (ML) development steps, making data science teams up to 10 times more productive. Studio gives you complete access, control, and visibility into each step required to build, train, and deploy"
-    publishedDateTime: 2021-06-08T23:19:08Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/save-costs-by-automatically-shutting-down-idle-resources-within-amazon-sagemaker-studio/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/3-3842-Architecture.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "MeijS2aUc4XD5sR4MOGvmZEfCaXprheiQ0l15GP9qCWoYb+ufjsgHMcoxc/juoFy3CQLpxSGl6pWI38HRpLe9puLXKQwBYr5WIHOcZd3b2mToOjH616PeyEbctpbeBbqJAGSHqXDgZILYTgpHSKYcV6575qhzMyOQVYwX66sS62IhIHTBt9t2mec+dwMzAtii3nJX0vzQZuPQ6Wv/lA2nGIu09t9skEJbuq8NV1Bb4NFCELfmUUPIxMdcEdNcqQ8N8exyL9nKozVHecg1BgrVPLPzHdnmvTDyAZF+vXqIHy6AH3EMJDOAwNVcHOBct3Aja/rDz8YEdZChHAp8IlWpnynyCl1xbvqyBecBu3P2Fk=;JvCfMnP6E1nLr7/ezDX7AQ=="
 ---

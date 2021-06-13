@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Thriving in an AI world"
+    excerpt: "WHEN Covid-19 upended the world, businesses doubled down on digital transformation and raced ahead using artificial intelligence (AI) to meet new challenges. Now, according to our research, many organizations appear to be experiencing Covid-induced AI whiplash."
+    publishedDateTime: 2021-06-13T16:49:00Z
+    webUrl: "https://businessmirror.com.ph/2021/06/14/thriving-in-an-ai-world/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 17
 
 secured: "iHV4c6+YpLr5UsUHF8uiJSPGNYW7m5EY4ObSOAMdZNZ1DUmHkThTE7XNlng1SHcXAmvcNyxxKjqx7DqFKvdy/A04f4vdvlQiuuotAlITYglVujbenwZ7Ro4I00ihVx9Uqo33fhVhyzbvRJ8gQO0gt7wKZR1BNAJCU4YRWykWKkHR18/NuBN5s/dsT//yz5E5lxalllJ7Equ6+ZLUEygLJvtjGvSA6zTd+S0+Ql/vOV2lXy3VVeKfWAORXK6x2hesFMjxLUO4/+DefOiGX+MhjANA6MlADmCrE+RmLHXlE00a44ugdwgUHPnkCua5dqNEmwkdpC39cDrEbWP4lak6OymgCrmi0MmBeqkXR8j1hkvlbFtoJa4sJmXG3piiIy2yl0CLEfrirKg3NeTav7FpKwcnVt1OZx+M4bDTrI1nMnC2CQs61/BfCT9Jc9jZ4NTebZmMsjtl58Lu+CV8RYQkMjCi+lkOBQMH0GEuCd6fIpzQ38ERb3UbSXXbcBBw6IJdlQ1lh4gUOu7fxh6W3n1gyQ==;4w4DJEAqyXdfwCObM6nOBg=="
 ---

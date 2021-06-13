@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Genomics Market 2021 Research on Import-Export Details, Business Standards and Forecast to 2027"
-    excerpt: "The global Artificial Intelligence In Genomics market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
-    publishedDateTime: 2021-06-10T15:27:00Z
-    webUrl: "https://ksusentinel.com/2021/06/10/artificial-intelligence-in-genomics-market-2021-research-on-import-export-details-business-standards-and-forecast-to-2027/"
+  - title: "GPU as a Service Market Comprehensive Analysis, Growth Forecast from 2019 to 2025"
+    excerpt: "Selbyville, Delaware Market Study Report LLC has added a new report on GPU as a Service market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
+    publishedDateTime: 2021-06-10T14:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 26
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
-        width: 896
-        height: 411
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence System Market Emerging Growth Analysis, Future Demand and Business Opportunities 2027"
-    excerpt: "The global Artificial Intelligence System market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
-    publishedDateTime: 2021-06-09T06:40:00Z
-    webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-system-market-emerging-growth-analysis-future-demand-and-business-opportunities-2027/"
+  - title: "Speech-to-text API Market 2021 : Top 20 Countries Data with SWOT Analysis, Market Size, Definition, Share, Growth, Technology and Forecasts to 2026"
+    excerpt: "According to this latest study, in 2021 the growth of Speech-to-text API Market will have significant change from previous year. Over the next five years the Speech-to-text API Market will register a magnificent spike in CAGR in terms of revenue,"
+    publishedDateTime: 2021-06-11T00:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-2021-top-20-countries-data-with-swot-analysis-market-size-definition-share-growth-technology-and-forecasts-to-2026-2021-06-10"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 18
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
     images:
-      - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
-        width: 896
-        height: 411
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "xMdQwlUsi+tGFOWRbiEAA5wBpP7hYeV/3ayGHtgIu2FNXA936UDWf2ldnGDfyEpCHB58HcJhpBbrfVrfKfWMQJsdQ3KMGAggldOwkyijBmcZ7/yi6W0UoiI1GEVe5dQZp3LsWrohTGcWn81Egr6L8Z2uc667+cByfNozUba09tVpq9KXAlkIT4EodIUZKKM/MPIXRIu2oZF37Ui4xNmMeOMhN5C1ulI4upD/VC3C+pCs6VVu95ZEznZptavwdpCfSwqsrq8SUmqxTi507ZKZqphLr2pW5WB8UFOFxPwOBSEOnCzMQBppXOehgswztlJLhKmqhiSzFC0bME/wSRQyzITirOo+uq3KPMNN6kBuINWYNVyTGtnhHUEzZ2Y52KV+zgHU6Y0c+84Hk4gA+US7eR7OLRugW7zfgOjQJoQJBCAQlwAntLFl8yh8u8aYV/xMqdzs1X48s8MguBi3sd8brc8iffdzIpEqTstBwttpUXBkeW7LjUy7wJHWcP6mZjhAxfW0GyHcbcdinAVx//NyFw==;ScmHmvh9O4HMlgjQeHowwQ=="

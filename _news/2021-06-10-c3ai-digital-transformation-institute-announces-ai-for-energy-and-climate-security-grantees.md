@@ -2,9 +2,9 @@
 category: news
 title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
 excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence"
-publishedDateTime: 2021-06-10T13:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-2021-06-10-9159119"
-webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-2021-06-10-9159119"
+publishedDateTime: 2021-06-10T13:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-2021-06-10"
+webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-2021-06-10"
 type: article
 quality: 75
 heat: -1
@@ -70,6 +70,6 @@ related:
       domain: businesswire.com
     quality: 27
 
-secured: "0fbwc2918xB44ZeWPBur2H2YNsL2nNIP36Pxd3v7jgLctDOEE6y3zy3GpF28ERWa1HNVCPSwfH7jbNFmCqwgBc+/4h5KsXXKAFA/FdRcLbHhyPw2XehWH8ShkPoYUSllcLA3PE10CCSL8I3sNo78i+0lS48WxYiLMjd2ijT999xeZFdrQwxb1j0yUmCx6AwfWRaGj6fxxP1j9dZFv0semQicqgv+ABV6IHSw7qpp7VmfbmnU6bM8wOo7Nt5yPboqtb2D/uFDz5kQWdhZSGIb92o/Bhzk+hID8iNxfXJUR+JCP4ZQw1GUctOEYCX5LghOPD2DcK31yU5DT4DieOByaGQpAICq5LbiBxGCC44WZEE=;ES7QHihTZCX54pyByJqERw=="
+secured: "J1m9tWaVxMdYruC+envlrHOLPJQ8gkRu56S39NytUCO1Np+T7TlyvVGUyV66w/AOPA3+MM0kjD9zoNsfiXyHrTqpj8rhmunQQNZooPtSRhIvjGgCLMG6ruMvxAiuCK5NyPG4EMHNqjzeTR5ka5JLRrWzAI8O3IuJWfD/PWyaQGLkjRR5Q7k8FZWk4PzZ434xdie6FhlRzRnj4lXXL9BIQd9ruVymQ4OW/qNZIKAH3Dsq7Cyu8j972fo3jr3JYYGC1j0YBa231BKN7wGIEq+MWMUzkpsVTEExi8MTfa0wIWH6Pf8bOs3WsOUxUkYyr5HUKmb2MW2tlScSmQxMWAzr2374u6FxouEDHu+y0IFJgek=;8PrmnNEES5DIDJXEDI24QQ=="
 ---
 

@@ -1,28 +1,21 @@
 ---
 category: news
-title: "Artificial Intelligence Neural Network Mimics the Human Brain on Psychedelics"
-excerpt: "Artificial intelligence (AI) and the use of psychedelic drugs for legal medical purposes are currently trending."
-publishedDateTime: 2021-06-09T19:03:00Z
-originalUrl: "https://www.bbntimes.com/science/artificial-intelligence-neural-network-mimics-the-human-brain-on-psychedelics"
-webUrl: "https://www.bbntimes.com/science/artificial-intelligence-neural-network-mimics-the-human-brain-on-psychedelics"
+title: "Thriving in an AI world"
+excerpt: "WHEN Covid-19 upended the world, businesses doubled down on digital transformation and raced ahead using artificial intelligence (AI) to meet new challenges. Now, according to our research, many organizations appear to be experiencing Covid-induced AI whiplash."
+publishedDateTime: 2021-06-13T16:49:00Z
+originalUrl: "https://businessmirror.com.ph/2021/06/14/thriving-in-an-ai-world/"
+webUrl: "https://businessmirror.com.ph/2021/06/14/thriving-in-an-ai-world/"
 type: article
-quality: 66
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: bbntimes
-  domain: bbntimes.com
+  name: BusinessMirror
+  domain: businessmirror.com.ph
 
 topics:
-  - Machine Learning
   - AI
-
-images:
-  - url: "https://www.bbntimes.com/images/articles/society/AI_Neural_Network_Mimics_the_Human_Brain_on_Psychedelics.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Protecting The Human: Ethics In AI"
@@ -38,6 +31,20 @@ related:
     quality: 106
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c232b13b1cc34a5d1d53b8%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence Neural Network Mimics the Human Brain on Psychedelics"
+    excerpt: "Artificial intelligence (AI) and the use of psychedelic drugs for legal medical purposes are currently trending."
+    publishedDateTime: 2021-06-09T19:03:00Z
+    webUrl: "https://www.bbntimes.com/science/artificial-intelligence-neural-network-mimics-the-human-brain-on-psychedelics"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 66
+    images:
+      - url: "https://www.bbntimes.com/images/articles/society/AI_Neural_Network_Mimics_the_Human_Brain_on_Psychedelics.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -57,16 +64,7 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Thriving in an AI world"
-    excerpt: "WHEN Covid-19 upended the world, businesses doubled down on digital transformation and raced ahead using artificial intelligence (AI) to meet new challenges. Now, according to our research, many organizations appear to be experiencing Covid-induced AI whiplash."
-    publishedDateTime: 2021-06-13T16:49:00Z
-    webUrl: "https://businessmirror.com.ph/2021/06/14/thriving-in-an-ai-world/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 17
 
-secured: "5Ex4Nset74nOl7YBX5zLYOo99cmkLLlHSCeFx5pfFpYr7vuE5esJk0UCDlixNrcHxdan8Ee7/s4bDSF1bgOolnwNFGDGa58w4AtWhniu6bjsF07Uri4v8M7ubEkItbjQhgJDQATl/4POLchHe268wml308TwhP/sABHDlDI0HfH5XiAD4uUzyfF9rzIo+OOfRs8S9WCCGGgAGQQf67dIf0QSie3kFAqQuOzfHhHhSJFm4Z2oIYD8W2UnwYLvlTKcLmbo3JxPTFnqdiXPAoOqGa5f4++aCg/9qHQXqieBb2KsgTonNgWJkjvI/ESz0Yd77gA+JSkq5VyVVSE/rEV/rwELHlusfFM16i/bwqbXHEVC8uJhm36IwxJyddxbaVdXqfUyMAYxpIHuKeplM7Uz6gOR4Swt6jXwz5B85aR12mAY9hG7K0aJaX0bALBnRuvNSvdHJEZ4Fzi5r8ktPIonbmJXNgudxndWgMPF6Hd0LGovN0owMf8r7Yw6WBLQqwcV1eMXmM/x8PteqgvoyRqN0g==;vKvU7LTcODQ7qZ8bdtf2AQ=="
+secured: "BDYAGySb/AjXBm5ERdpko/d/jL9AjdEGyLcZcyp5iZuO9KPn2J9aZhaddtmAajNnd2oI+jO0umY4A/CY+sdagSx5H96i+lUBtQ73q4rqFi6PbOEgtGRU0bbBQhTRCQ/JRz65WE0/jPtYb7aJnTrVLDITn3m3mH9H/ezyTQSIAa105qGwbGYeFH7bdf26tkGiARAj9DsDhrOTP3kWVcMmLxSmwI48O+u7+RVK4vEiQLpuHUBJETfSYpEZuJ2Lm5sJFIq5aQKmpLFshoZ9Xc8sf6wb+Ma/rQYNrj5u5LlK4dCRr8ESQOoCxZ0J8m91BG9rtqKyuJ0p95kdFoNKxx4oeYoemCYWfq0BfZV31RZzEmE=;DFITS08S9mhaC4u6TKU8uQ=="
 ---
 

@@ -39,8 +39,8 @@ related:
         isCached: true
   - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence"
-    publishedDateTime: 2021-06-10T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-2021-06-10-9159119"
+    publishedDateTime: 2021-06-10T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-2021-06-10"
     type: article
     provider:
       name: MarketWatch
