@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Offers Online Course in Machine Learning"
+    excerpt: "Amazon India has launched the ML Summer School, which is an integrated learning experience for students to learn applied Machine Learning (ML) skills. The three-day course will cover the fundamental concepts in Machine Learning besides offering practical industry applications."
+    publishedDateTime: 2021-06-13T10:22:00Z
+    webUrl: "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 59
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623578039_online-learning.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IIT Mandi Offers Online Course on Deep Learning for Working Professionals"
     excerpt: "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends"
     publishedDateTime: 2021-06-08T19:22:00Z

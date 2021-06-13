@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox43.com/amp/article/tech/is-voila-app-that-makes-you-a
 cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/tech/is-voila-app-that-makes-you-a-cartoon-safe-to-use/521-fa6509e8-e283-4fea-aebb-8da1d0238124"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1140
     height: 641
     isCached: true
-
-related:
-  - title: "Six Of The Smartest Applications Of Artificial Intelligence In Business"
-    excerpt: "Businesses that want to figure out how to best leverage artificial intelligence can experiment with unique ways of using it. Through trial and error, a company can track its results with AI initiatives and find out what works best for its specific needs."
-    publishedDateTime: 2021-06-08T17:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2021/06/08/six-of-the-smartest-applications-of-artificial-intelligence-in-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2021/06/08/six-of-the-smartest-applications-of-artificial-intelligence-in-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/06/08/six-of-the-smartest-applications-of-artificial-intelligence-in-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be411afd2c34f23138d7e0%2F0x0.jpg"
-        width: 1200
-        height: 620
-        isCached: true
 
 secured: "FlkLHmofZSXNY7vRO/NvDMPR4BsoAYdLSCh9sonke2fVRtqVVFdZlS/Q7ry54XGGu+nvM1tlVcmv7XmLk4Qr/18FbB8U1YDpdE2XrnKJUBU+1Zf7MLTXrEl2AGLG+FbwH+vC8tnJwLkiexuVp+nxrwrE5nCU5/vnFlGPgji9Mvnf2RWcjSikGU2VWzv09IPHQ7M3rPXfXlOg48eERS/4QfzVMlsLhmXXt8ypfSljaQ9XMnDUY03Oyg6asxSatLF8QnmvQnAiBXC7Z3+ga4wnheG8534ULnuwPVtMLhlNpaxZMU8NyITXTMym/T/1q9/QGJEIMIa1sYLGoOeoIlwMAatw6OCDFn4j56AeJJ8/plf7wszWO2Cr5JVuIEQgDHW+amGL/Rp/2DFjKU5un7rWRKlV2B3ku3hXQo62sh7NkQOOP44CNjiFsWCUoAeZ68GT2j/c2emD8tDdj4viQJxQhT+Tqhx27JV9eOK8TnS5YWoqrx7qHNEWNYDB9hCXSxG448EI5ewLxMAPUUsK1CfuXw==;eERPZ55taEkZ03BPrMolOA=="
 ---

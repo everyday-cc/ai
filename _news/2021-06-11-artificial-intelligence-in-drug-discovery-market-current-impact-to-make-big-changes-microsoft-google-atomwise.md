@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: PR
       domain: pr.com
     quality: 21
+  - title: "Artificial Intelligence Chipsets Market : Strong Quarterly and Yearly Performance | Google, Samsung Electronics, Microsoft, Micron Technology"
+    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD XX Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. Latest added Artificial Intelligence Chipsets Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-06-11T17:03:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/artificial-intelligence-chipsets-market-strong-quarterly-and-yearly-performance-google-samsung-electronics-microsoft-micron-technology/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
 secured: "l4h1AmLN+tkypCRi5cC/e+H6STR+qp5gx2/tI71PtRCqKiN7tHyHn6nHabxTZSflL4fT/QFxgHrzHFqKOKY8UEc5T8TNhKFPh6RM5YRtui0/lrdsCe5pevKfm0Cdg2pYkvU1PS+WL/FmlRYac++wrbFyqWfkQ+dFxCB71gndf+bDoLOCpSe/PXTdkE+Hui1mLmZAXaIV45BrugIAzS5MG75W8qN6ZzzONieBoNELRi4X8+qh49UBGSPNJwPUIYbQWb4DzkE5CdQHiHt8VH8IFAvlwx1ad/ZfiS1Yd62PicBjwatwBe1kh2UDWe3TYX7/mUTXxSKpxW7IfHP+QSuXoP3i5yJ0E0ZaIgJT4MSmHV8=;A06izZR60TEZ/BneiGzvsg=="
 ---

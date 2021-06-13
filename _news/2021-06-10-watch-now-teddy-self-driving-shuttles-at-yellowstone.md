@@ -23,17 +23,17 @@ topics:
 related:
   - title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
     excerpt: "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ..."
-    publishedDateTime: 2021-06-10T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beep-launches-yellowstone-s-first-autonomous-shuttles-with-local-motors-1030511447"
+    publishedDateTime: 2021-06-10T12:07:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg"
-        width: 400
-        height: 267
+      - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook"
+        width: 2700
+        height: 1413
         isCached: true
   - title: "Yellowstone National Park unveils self-driving electric cars"
     excerpt: "Park officials have launched the first tests of electric vehicles in Yellowstone National Park that are capable of operating without drivers. The park on Wednesday launched a $360,000 public experiment into the potential future of visitor transportation,"

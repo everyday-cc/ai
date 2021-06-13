@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/markets/man-group-oxford-quants-say
 webUrl: "https://www.bloombergquint.com/markets/man-group-oxford-quants-say-their-ai-can-predict-stock-moves"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Oxford University Quants Say Their AI Can Predict Stock Moves"
-    excerpt: "The algorithm figured out the direction of a price move, with 80 percent certainty, over a period of about 30 seconds."
-    publishedDateTime: 2021-06-08T17:26:00Z
-    webUrl: "https://www.wealthmanagement.com/technology/oxford-university-quants-say-their-ai-can-predict-stock-moves"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 41
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/uploads/2017/01/terminator2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "G2Qy32nDx2WvQ3k1M2l5nW5uTDuZOqcGORWRdRUlTeI3ahvfC/zlhEp7OlEifEdiU/GCmIjJxG+mvt1ZPjwCC3fXIMLrLDinEvL5T6g3M67pW4Vfr6kYPoYqk9Iz3qgQjCSlmZ0AxbYeSUCHzGv0zCwwAPzwDTiONmO/hNH4up+lobbeMvqqL0RUhaA3YHukYc8g2qOtrD7bqNqO31gKKE1PuNMPbtPMO5WWEFzabMy74xrY0oL9mKOB7QVaBK4TIUoOYkrv0EBGqC+TAzgim42guWk+geVIoS6FlfqotJDv3vQjbav+0Miiz08Ca412pbkWATB/9JOF7hHO9gzPjpONVX6A7xEEb90JQ4lBteU=;KzpXS6uXEyqKHeA+ynE0mg=="
 ---

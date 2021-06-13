@@ -65,6 +65,15 @@ related:
       name: PR
       domain: pr.com
     quality: 21
+  - title: "Artificial Intelligence Chipsets Market : Strong Quarterly and Yearly Performance | Google, Samsung Electronics, Microsoft, Micron Technology"
+    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD XX Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. Latest added Artificial Intelligence Chipsets Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-06-11T17:03:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/artificial-intelligence-chipsets-market-strong-quarterly-and-yearly-performance-google-samsung-electronics-microsoft-micron-technology/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
 secured: "M3nal0dtQ0Ml4KlGnUSbniuQFPzfXgwMrRjoXXI2prSFBqENBD+l4BwiHFMzKdwQamK5MTkmwzP+j1LhLs4Mjgjo9nmRoFiwNB2UMR0xwv1Tumf4vzSt4BUSbPOVxQUSwRMAtjG9bgIekBuEuR9xHszkNQFSLakDbiBu7gpCdddzntKbAlU1VZmP8qSPfbvDT7oCsT3dlNxCmOP7ycOZ81lMqrM8KwGVr0VeWd0HISOJM5oNi19edTAtnT/Bf2RvCvzBT5XmhxlMS2zOk2Z7T5qbcAZ1YlJufv2SQRZ1AVO3mdQ7Po+PLwdyztAA2dRXnYhja8sSzYyGC3qwClhU5Zzhbd8D0ZcKA9IdAcLA54ndWBhsKIq2Jlbk5uIwK8ruiLnpFUqyoUVe/Nl1sTURmsBBAi69i9NzMPSdpUOsP7/mfmGSzY9daDSgekujX96GPJU8xsZE5sx4H2aVo6T6wIhQbkUd6L1kxuKisywQxyxe6soF+UURUIQ1V9smsMslFd+gD/jIKawB8RaF45wIwQ==;MnZpupdikAoHM7QRQEOClg=="
 ---

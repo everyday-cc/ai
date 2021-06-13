@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Offers Online Course in Machine Learning"
+    excerpt: "Amazon India has launched the ML Summer School, which is an integrated learning experience for students to learn applied Machine Learning (ML) skills. The three-day course will cover the fundamental concepts in Machine Learning besides offering practical industry applications."
+    publishedDateTime: 2021-06-13T10:22:00Z
+    webUrl: "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 59
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623578039_online-learning.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IIT Mandi Offers Online Course on Deep Learning for Working Professionals"
     excerpt: "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends"
     publishedDateTime: 2021-06-08T19:22:00Z
@@ -60,6 +76,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Tx+iVjyvedMRMKJiRSe4/O3DB4Frgnd6DWhOBY5Kc3AKFbuTi77R68i9lBtQuiD8d0o1jeBqvHK+YG/I0LciEeSHK4xuDxuMXXrVj2xHKOw5W0DBi16SJoWbg4pJah4KvcH6RDoSuLOgjtjRmvR1yzQkzH5yCp809+HjFjnjTPCKpU1tMAKBTbw834+wml/CKQnvucAjpLtMV7VLvKCfDtq+wmEjV9Qc7+B9ttGwPQZ9eA1SsmC6JwNb1bD5AW6mmJT3lc9MQeLrYKSMKd0Cx/9dQmN8573JSdYgJp7lU7QyOo0VwPhJxGT436+Gjf9BW4IagaCZf8K0XJgemuT4jmHNHqYpl2OkQjn0sasEzMg=;YhnxW7PdsOj2v0u/nzQyYA=="
+secured: "brtsdLtrKXqhv67RXZ+YOojesHJRBd7hf+C84Mr8l/jAElioM6DdJEzV8/8VxS5zf3txMwaU9BcYVZAR/wvuXy6ATVHlUiB3xyDRsoruOWt0a4snpBelY67jl+K+5Y6E2/8lFMbF3P66KIGWft7Tx/gpp4fBNgiO64ri38YQ3mDkpnepW0jOp/A3EU5ydv2TJvWHmzr3enrOlOSS7lqyVMWBmQhmqTqtDZ3E5kMjWqbNrK0pe8Pn/jzHL6cvXoylNXjJukpf5oWBuj8fmJwGBBDl+5I2UA4hOaGYGOFgUQOG0im2eujIN8zMb1kcUGOHnAY+jpNNa7+Xl9hK0rToEaING8QTUURmIz6O7iTIP/X3jhaPiKgY0lO5qqMvSY9qjAn3ifObDomPmafqkFAy4wjLy9NIE4UoiL//+BlDdA0N83rsNmxirX3BtMRd+UUbACORNoqbphgXzlI5vI34HAjA/OUr+76AEuFjcky8JOWzCyHiycE0uzNx0c65KpxAiF1ROK+rIp+MeT9UuVuYoQ==;mSc6dVdWXd60ZlinXcYzJA=="
 ---
 

@@ -72,6 +72,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "White House launches artificial intelligence task force"
+    excerpt: "The White House Office of Science and Technology Policy (OSTP) and the National Science Foundation (NSF) on Thursday announced the launch of the National Artificial Intelligence Research Resource Task Force."
+    publishedDateTime: 2021-06-11T13:07:00Z
+    webUrl: "https://www.fedscoop.com/white-house-launches-artificial-intelligence-task-force/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
+        width: 264
+        height: 264
+        isCached: true
   - title: "Artists use artificial intelligence to bring their creations to life"
     excerpt: "Albert Einstein has been credited with saying \"creativity is intelligence having fun.\" Einstein would likely be impressed with the artificial intelligence now being used to help create modern works of art,"
     publishedDateTime: 2021-06-12T13:13:00Z
