@@ -14,7 +14,7 @@ website: https://t.co/c0ndp2bkKs
 twitter:
   username: ID_AA_Carmack
   url: https://twitter.com/ID_AA_Carmack
-  followers: 915906
+  followers: 915908
 
 topics:
   - AI
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "John Carmack"
 
-secured: "K8yqU9N+sKJmyjEd0c5WJLTKb/7B7GUhVUm3OUXO311e8srzxWpSlx6mkgUdZh+/kJXrm4xX5nlTlDu2wSeDXik06cwgzpLmE5PaVqsMuTJb6jS1/JEezlAdNlGBXhaPQcMYDnrBrOS0wPWBOz8Oc45R3a+Zl2if4GAwtkxIpGm3QNdujwMITBoYHEbDwADbrZPt/EAKqdXfVglIj78nM4HPLERpGjaAEHsH621EXI+xbSzP0OLM1PMjchL4w+gofIbKAYrBQL12nodphjsVzcgl2zl8xdhVQD6PtfHdhoiuIv7MkrkHtX2OFHYbdJ/9EYE4gpK4yOTIcfPD9kTfar5feRuHvK3RrOkJVyTgewzH0kd9UKv5lkiBeENj4nLWbx/P8B7mwfjL0LPZKL7R4r5lQbMi1l+LHjfNB+RkzuI=;0n/lJSbxLpZIYbGJtRtOUA=="
+secured: "VfWQ9YDj2I9ssTso550XeMg3R2U3AE5PN1fJqoX5gdQAD31Cp7u3+kjtBCHUSAzMo/KHr1McjFkZVxqE12PGlKlSPQGXo7ugbQvVblOWeFKxf5pa5CDMhkJ2AQ6UIk3h+kj3ftCInOL9hKqusFAewLhE0fSCuGDnCx7KCGSTmAm96Mmrgnc0ykXTqj8GqNELIAOQYkNjuwuPT+Yf5ZSlW8N0l9IneWQrwt5k6+JjOt766cTwhDgZA2omj0tI+PX0yEIHvVoqiYeV5jQXNy1Y0KM7HeDfQed/dyUGvNiIsrTPH3HVxi0qVNL+f3dEwgFa/sXItKtaMMpaV4pvvfghomHjYovPTZMHhoSGoCOr+/V7r84TKtw5xPo7Jp5SsYFH6Kqq6AYkA9qNMbDWsrzFTqYUdInZLVORZ9cTYKvFhoA=;u8zWiNHtNfv0vMvZBPCSVw=="
 ---
 

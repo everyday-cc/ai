@@ -3,7 +3,7 @@ name: "Lex Fridman"
 bio: "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast."
 location: Cambridge, MA
 type: "profile"
-heat: 470
+heat: 504
 
 affiliation:
   name: MIT
@@ -18,7 +18,7 @@ website: https://lexfridman.com/
 twitter:
   username: LexFridman
   url: https://twitter.com/LexFridman
-  followers: 674776
+  followers: 674925
 
 googleScholar:
   url: https://scholar.google.com/citations?user=wZH_N7cAAAAJ
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Lex Fridman"
 
-secured: "oiP/ksZUxh3VchwcW83YOUElqvcjf9lhe04nWMEih7nnF6guwRjYYbWkl3zHlrZ1L/f3VBcz8hD9fEEhIUbzb9Mj8Qb3HLj2pCHsoFg8mRf1Z8YEJf+DOyYoy8C6AdsFMJjBf5JicMmDxexWm3uTR0UBkKLB6ajUsaYvdB6bBW8sYxr+YMR1FtYPdyYhoNFiVYTi13PPJ+W+RQr/rCrPfg+3tCEyA4Qld33ZEh1g0Lr42UFUiKv0aVogskNHDFhKD0ljiKZV6sn9sA8ekZW9SaX0MToQY6HBbStOWoMBALjGwr4MGiVFTV4OTG2HYSI+C+VevkNfQkVw3vrx9zjv95UxBklrGHwTbN9S0w/kFteLzdkExULrN/K531oSdXBfmxJFh43HFOWIlHq5EeEzDGKfa/K2AW/Z8jTLQv/WCF0=;lkhWRo4aXBG31YRi5P4Z+Q=="
+secured: "PqAe0Y7naq0f/cJpJvhzGedRlyNIYk4tM0usN47Kmh8jDD54mT3hqrunovi9IIob7J0Jfeh3wyqe7E4GlnoLeq6HkQ+HoGagu+E/1PBrchu0GnmbD+pI0FE8VII/KYzImynKaV70Loe1Lh3dsGxpW15o+655kl18g23kMyKt2Of8cLNYnw4hzxVhyRM3tEfM1AnblkQQxcrkWSwStZ6166/LSO1kKm7wKrR2GNqcxXp36Ch+F+O6PCFbJbo4hzjMnso14u94kiH5gwmr1S5vpTfcjLzMq9fs0WM7lXF0cuY8F8uCA69mWiUXogDTyCbp0jKFLem2Gm8ypCIdCGPAnkPEg/tvuIsfQPJxtWyHCob9QO10E8XbunNqbWce1CWNP7PwSCPN0CD7JHIsu3JeIKNJOsYZsrjoNZArLzjmO9U=;CV2lnF6kSRdYGrKDbG4RjQ=="
 ---
 
