@@ -110,6 +110,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
+    excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."
+    publishedDateTime: 2021-06-13T00:22:00Z
+    webUrl: "https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 42
 
 secured: "E5kjF2aEWKbG+Q+GSKkviJMWtWnuk0XztPubkcZR4IOKJ/nfpYsO4mkUmFK5WjZ5oTNCGT87bU73Kl2ithzFhLuDpR1cCtP5YR7c8eKvf0uM8QTC681DUmunJ1WlpC8Z8MoAKPUdAFa6lVDlOS0OuPHp119O4Q1uTBn6pkjVQ5kJAoe3nkngr8IB/yi7aLVDHMULZG8EORNCFJhlMoQCqBiH317dAK47woS94liMgBe5ZnkL8Xd0hX2LUxXGfLedHSBMFVUU/E7K5NTvhZ9sH7uFXG7CfMKAM7T9vvbbFfbWTxv28y1RQ9TBHMmj67NSEkka0KHsOFIVa+HkkDi1/I4/DCOYD/MdUah8iszpo4U=;ib+z8pwYnd9CkYdeEp7kMw=="
 ---

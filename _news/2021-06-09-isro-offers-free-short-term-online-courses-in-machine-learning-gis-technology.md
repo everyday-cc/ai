@@ -43,15 +43,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "Building a foundational map of humanity using machine learning"
-    excerpt: "Geospatial data and analytics company Fraym announced a Series B financing to further scale their AI/ML software for mapping humanity"
-    publishedDateTime: 2021-06-08T10:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385582.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "aFJsiKRqnKMzn0oPNgvA3+3trSj7aRe3mK8zZdBMHCbo1fUhcI+1AhRydD69mWEznsxjGYtNLxl3sMhX4Tan8xDeqRLjbHHyZWDx6TK1YRGdKuC+sMRG7xZgiXN5rjnQSsvbmvxb1EL3f+ITVppyUK4cGPk7ueaM9ckSLl5hXt+b4V7HF4Sf+slDVBezSaAO7YWgN4QsG8TjkrsuwkDH0pg/PClYeerOyE+Dc8tX0M/vZ9xzkR9eiYKmXvxNpqifRnu2K+nbkV88ZGeqPTv6jYUrO0R9hrWZnMtEIycde8HvRYmfQFOlGk4qCPdTs4cIbZFIAM2LsZMoAXJdTQSr0cXrj5I8FXWGMlmuCuPulSurM6+m8d68u56HZ1fDUpHXy81ntADw+5+TClLemIP6JsjzMnMgSk++vUtw5QSWJ+32BrhCeKW4Heqg/vITKLu5HUtMp4pq+xaNvsMXuNi6YsRA5BoUnXI8ZeFDLyzfoFJYuaChngK58Y9uwN64kl8y+zqeIytKQl3O4FCldsTXXg==;Gkq74PjxzsTMl1b5KX+tBA=="
 ---

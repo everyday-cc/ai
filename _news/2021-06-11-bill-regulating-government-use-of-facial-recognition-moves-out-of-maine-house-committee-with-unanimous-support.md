@@ -35,11 +35,27 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
         width: 3065
         height: 2043
+        isCached: true
+  - title: "Calls mount for ethical approach to facial recognition"
+    excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
+    publishedDateTime: 2021-06-08T11:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 76
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
+        width: 1000
+        height: 608
         isCached: true
 
 secured: "qqJ0F7w/6ImzKt+2hwK3KBR6NGGiyG7KlmY9qyM/SFGEAmByX7GWlcq+D5qDDS6m7dFesfYT+lYlRg3l9JKB+DjTZDRRjN0N++qPX8xLEHHrg6myXKQn8dKb7+OFGjq0w8+xBvGsEvyknES+7YdmPsPhJNq9vRdsnM7VH7EgoLXOdhVteskl6rvkGy/Kplr5DO1mPdFBIhd1kj7zcd/sDHt9aTKZwdD7nsfkQiR5hUnnUgDHMeoz1+QMa5RrYEDvSDqJeEMKFz3l4x4S9aOHRYB8HnbnY21u1Xwi5xQgscmPjovgvvHt5Oa/GFWmpFEoTa9ufqyTGJDd88xAWnqTqk5AwxlJ8SPe6tC8bBKVgpQ=;HRz1Zb6mKCcH6SX0Lb4RWg=="

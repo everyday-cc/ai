@@ -101,6 +101,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
+    excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."
+    publishedDateTime: 2021-06-13T00:22:00Z
+    webUrl: "https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 42
   - title: "AI Can Now Copy Text Style in Images Using Just a Single Word"
     excerpt: "We're introducing TextStyleBrush, an AI research project that can copy the style of text in a photo using just a single word. With this AI model, you can edit and replace text in images. Unlike most AI systems that can do this for well-defined,"
     publishedDateTime: 2021-06-11T16:08:00Z

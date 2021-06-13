@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relations
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -62,17 +62,6 @@ related:
         width: 800
         height: 412
         isCached: true
-  - title: "2021 (AI) Artificial Intelligence in Fintech Market By Major Company Profiles - Amazon, Intel, Google, Salesforce"
-    excerpt: "Whipsmartmi com offers one of the latest report from its research database The research is about Global Ai in Fintech Market is projected to grow up to USD 7 91 billion by 2027 growing at a CAGR of 29 74"
-    publishedDateTime: 2021-06-08T08:54:00Z
-    webUrl: "https://www.openpr.com/news/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
-    ampWebUrl: "https://www.openpr.com/amp/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
   - title: "Quark.ai Announces Autonomous Customer Support on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
     excerpt: "Quark.ai today announced it has launched Quark.ai Autonomous Customer Support on Salesforce AppExchange, empowering enterprise customers to interpret complex customer cases and"
     publishedDateTime: 2021-06-08T11:07:00Z

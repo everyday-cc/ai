@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21226436/baltimore-city-council-passes-facial-recognition-ban"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Baltimore second major city to ban facial recognition this week"
-    excerpt: "Md.—On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial recognition technology."
-    publishedDateTime: 2021-06-11T16:05:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/baltimore-second-major-city-to-ban-facial-recognition-this-week"
+  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
+    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
+    publishedDateTime: 2021-06-12T15:12:00Z
+    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
+    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 58
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
+        width: 620
+        height: 370
+        isCached: true
+  - title: "DHS on hunt for next generation of facial recognition technology"
+    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
+    publishedDateTime: 2021-06-11T10:45:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
     quality: 39
     images:
-      - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
-        width: 600
-        height: 450
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
     excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial"
@@ -50,6 +66,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
+  - title: "King County, Wash. bans use of facial recognition by sheriff's office, other agencies"
+    excerpt: "Agencies could still use facial recognition evidence as long as they don't produce it themselves or ask for it"
+    publishedDateTime: 2021-06-08T14:18:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21225605/king-county-wash-bans-use-of-facial-recognition-by-sheriffs-office-other-agencies"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 32
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_Technology_Co_302610544.60bf7949247d9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 806
+        isCached: true
 
 secured: "r9JeWxf7MCYZoHI6i527r4h/UX3+J9cxYSEOVU/iaKnbWUcqeE8fGngkiaOm2x2GGb+9h1C1MwV7nlawp2KTf79EKhqPjKfoSxC/g57/iCOAblOKS/hn7PgfIcYm9yX1zali/4whVhTriYM+bmy4lYxtPe70dcSt6TLN6MIyOOGmqMX5e3QHkUZhVpv12Oel1/pqYoUL/I8izkDvy6A54PWNVFR5ph7FKNH8EKqA3a+OW7FFq4z3yxkUIC4AMbSH9y43Gt2bXNG/V11uDeONDR0M5OOZqt+nlM9uRN+W+KGI68S3NIdHjVcn0qF0kW1rsqi22e2RLaXrhiqhuLqZlUbxHtqwv/hI7revnf8GAq4=;mxoPvrXx0EzI7y3vqL067g=="
 ---

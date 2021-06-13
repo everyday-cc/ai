@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "OOsnvN/11PYTYdhqRMJ5TyA2pHFACZ+W9VzNQcqDeJMCG82UJnExMdIetzWnpQNr64YgmsvEntcqCsvJOf79amLA5z8Q8gvvPY+V8OOzi+rpClZ7UmGG8Wmb6nvOb3jiX/OCJG+fXEydmt3W3uU/FXr3kq5JyaTDctRcyDTP/30Fzm5rtUOWrJvV9vZMGpsyIKWNkjudXIfg+PM6NfNgqZnwF6PCERPm97wqse2cUkDsU1y14XelpEzmxewYnCs4bCNne3vT/8Nq2blBVyqeaIMFrtxRIuVQ2mnuNdTlIcxTiVGgWozZImuFzfPnDScfq5+ryjNma+jZMqwY61jjdX73pl3CWwdnaxMzUbFQcao=;2sfyWb8MOJxuEjvD6pl0jQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "thwPYzT+pC2xlMqyfKNyeSgFKlIgjAFcXOkiDwM99MHnI2WQ1mKaxkhr27zx+l0Zoycg2MN4v4vGa3b8tzZZiFBhqDLrcv/K83ikb/4Rn6QMxxQ10UmlgJKHdmuDpIN0pj8qX9d7wGujUlQzaDByVEOV0ClAceIi2l9Gi6dBltJcaXpUyzGN31bAO6/3EqroqFGcG5F71ghb2RqCWL3Sjn0Bdaz4fw5dI51rDCusG8HwrWrV8GUh0Veb1tNDc13y8irV1KEK4SaXjPMTas8psTOw1T4vKqZdSpvl40QgHq446NJF04W6kJTu36z6clCKSTEyVbXS2UpKHQflj2YBDnliq16aJAj0xqSuyuZ07c0=;l7Hb9obKHDGbuSpC2ywehA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-re
 ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
-quality: 81
-heat: 91
+quality: 83
+heat: 103
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
@@ -32,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Calls mount for ethical approach to facial recognition"
+    excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
+    publishedDateTime: 2021-06-08T11:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 76
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
+        width: 1000
+        height: 608
+        isCached: true
   - title: "Bill Regulating Government Use of Facial Recognition Moves Out of Maine House Committee with Unanimous Support"
     excerpt: "Maine is on its way to becoming the first state in the nation to regulate the use of facial recognition technology by public officials. The bill, LD 1585, received unanimous and bipartisan support from the nine members present at the Criminal Justice and Public Safety Committee’s work session yesterday."
     publishedDateTime: 2021-06-11T05:14:00Z

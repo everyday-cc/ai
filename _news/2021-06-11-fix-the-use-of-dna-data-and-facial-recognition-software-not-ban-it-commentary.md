@@ -9,7 +9,7 @@ ampWebUrl: "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
 
 related:
   - title: "Fix the use of DNA data and facial recognition software, don’t ban it | COMMENTARY"
+    excerpt: "The use of facial recognition technology needs fixing. There’s no doubt about. Let’s fix it rather than throw it out the door."
+    publishedDateTime: 2021-06-10T21:08:00Z
+    webUrl: "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 53
+    images:
+      - url: "https://www.baltimoresun.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "We must regulate the use of DNA data and facial recognition technology | COMMENTARY"
     excerpt: "The use of facial recognition technology needs fixing. There’s no doubt about. Let’s fix it rather than throw it out the door."
     publishedDateTime: 2021-06-10T21:08:00Z
     webUrl: "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html"

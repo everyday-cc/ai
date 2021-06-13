@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
+    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
+    publishedDateTime: 2021-06-12T15:12:00Z
+    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
+    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 58
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
+        width: 620
+        height: 370
+        isCached: true
   - title: "Baltimore City Council passes facial recognition ban"
     excerpt: "The Baltimore City Council voted overwhelmingly earlier this week to pass one of the nation’s strictest facial recognition bans, which not only prohibits law enforcement and municipal agencies from procuring and using the technology but also bars private citizens in the city from leveraging it."
     publishedDateTime: 2021-06-11T15:26:00Z
@@ -35,19 +51,33 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Baltimore second major city to ban facial recognition this week"
-    excerpt: "Md.—On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial recognition technology."
-    publishedDateTime: 2021-06-11T16:05:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/baltimore-second-major-city-to-ban-facial-recognition-this-week"
+  - title: "DHS on hunt for next generation of facial recognition technology"
+    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
+    publishedDateTime: 2021-06-11T10:45:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
     quality: 39
     images:
-      - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
-        width: 600
-        height: 450
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "King County, Wash. bans use of facial recognition by sheriff's office, other agencies"
+    excerpt: "Agencies could still use facial recognition evidence as long as they don't produce it themselves or ask for it"
+    publishedDateTime: 2021-06-08T14:18:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21225605/king-county-wash-bans-use-of-facial-recognition-by-sheriffs-office-other-agencies"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 32
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_Technology_Co_302610544.60bf7949247d9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 806
         isCached: true
 
 secured: "vmah30Qq9G4HDrybH9PrpzSIS8hJVOS2gT0aAU7QenRExVv4cyFVqfryk3iA67YkGnWb7kGRvwKZNY5vfIA/vOIaATtiLrVJab94dlO8zwM3z7It0SsvTNMEgwq0/clT5FRLsLvGbkB89H1My7TQxOWnQla5kaolUe+EMM64zbcW1ku7XSMlnR6NfeUmdAm3znu0BsFF5wj4fsfadB9+B+O7yIB7V35rxfjqFC5Oi+O6CyNuCmxEz/yBliBhPhgFy0EHR8g8bj2DyNrgZLc6cxj8BMFMMyuEMloHpNBJUtea3UNm4bWuO6m2CNfGP+iw27Mn1IYY4o5wI48lsspA7D5Jfw6I9g6qMAoU7PCNJqQ=;C+eW09VXYeTblym76/1snA=="

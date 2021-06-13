@@ -7,7 +7,7 @@ originalUrl: "https://www.wealthmanagement.com/technology/oxford-university-quan
 webUrl: "https://www.wealthmanagement.com/technology/oxford-university-quants-say-their-ai-can-predict-stock-moves"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves"
-    excerpt: "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading."
-    publishedDateTime: 2021-06-08T09:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg"
-        width: 1200
-        height: 935
-        isCached: true
   - title: "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves"
     excerpt: "Multi-horizon forecast models using statistical analysis have been around for years now, channeling market variables into predictions about how a stock will move over different ti"
     publishedDateTime: 2021-06-08T21:24:00Z

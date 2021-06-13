@@ -25,48 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Investors Call for Ethical Approach to Facial Recognition Technology"
-    excerpt: "A group of 50 investors managing more than $4.5 trillion in assets is calling on companies involved in the development and use of facial recognition technology, such as Amazon and Facebook, to do so in an ethical way."
-    publishedDateTime: 2021-06-08T10:39:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
+  - title: "Facial Recognition Market predicted to gain $8.5 billion by 2025"
+    excerpt: "According to a new market research report Facial Recognition Market by Component Tools 3D Facial Recognition and Services Application Law Enforcement Access Control Emotion Recognition Vertical BFSI Government and Defense Automotive and Region Global Forecast to 2025 published by"
+    publishedDateTime: 2021-06-11T17:13:00Z
+    webUrl: "https://www.openpr.com/news/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
+    ampWebUrl: "https://www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 86
-  - title: "Calls mount for ethical approach to facial recognition"
-    excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
-    publishedDateTime: 2021-06-08T11:53:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 76
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
     images:
-      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
-        width: 1000
-        height: 608
-        isCached: true
-  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
-    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
-    publishedDateTime: 2021-06-12T15:12:00Z
-    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
-    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 58
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
-        width: 620
-        height: 370
+      - url: "https://cdn.openpr.com/U/6/U611215829_g.jpg"
+        width: 650
+        height: 450
         isCached: true
   - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
     excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
@@ -84,109 +57,63 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "'Innovative': Noida Scientist's Facial Recognition Technology For Dark Wins DRDO Contest"
-    excerpt: "In another technological advancement, a Noida based scientist has developed an AI which is capable of identifying a person even if their face is covered."
-    publishedDateTime: 2021-06-09T10:37:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
+  - title: "Voice Recognition Expands Across Healthcare and Transportation"
+    excerpt: "Voice recognition has gained momentum across key application areas like digital banking, automotive control, healthcare, and consumer electronics."
+    publishedDateTime: 2021-06-09T14:22:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21166549/global-market-insights-voice-recognition-expands-across-healthcare-and-transportation"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 50
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 41
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/8eoy89ay313eqsnk_1623228977.jpeg"
-        width: 768
-        height: 438
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/Voice_recognition_promo.60c0c0cb43e4c.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
-    excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."
-    publishedDateTime: 2021-06-09T02:53:00Z
-    webUrl: "https://www.abc.net.au/news/2021-06-09/koala-facial-recognition-artificial-intelligence/100200504"
-    ampWebUrl: "https://amp.abc.net.au/article/100200504"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100200504"
+  - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
+    excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
+    publishedDateTime: 2021-06-10T01:50:00Z
+    webUrl: "https://manometcurrent.com/face-recognition-systems-market-to-eyewitness-stunning-growth-by-2027/"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 43
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/3671dceadbbfdac5e71c6927e19d611b?impolicy=wcms_crop_resize&cropH=429&cropW=643&xPos=0&yPos=63&width=862&height=575"
-        width: 643
-        height: 429
-        isCached: true
-  - title: "From facial recognition to dating apps, technology is helping investigators track down Capitol rioters"
-    excerpt: "Authorities investigating the Jan. 6 attack on the U.S. Capitol are increasingly utilizing digital technology and social networks to identify and track down suspects."
-    publishedDateTime: 2021-06-10T17:29:00Z
-    webUrl: "https://abcnews.go.com/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
-    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 43
-    images:
-      - url: "https://s.abcnews.com/images/US/merrick-garland-attorney-general-capitol-riot-01-gty-llr-210219_1613764340672_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "DHS on hunt for next generation of facial recognition technology"
-    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
-    publishedDateTime: 2021-06-11T10:45:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
     quality: 39
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Investors pledge to address human rights in facial recognition technology"
-    excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
-    publishedDateTime: 2021-06-08T14:19:00Z
-    webUrl: "https://www.pionline.com/esg/investors-pledge-address-human-rights-facial-recognition-technology"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 38
-    images:
-      - url: "https://s3-prod.pionline.com/s3fs-public/styles/800x600/public/Facial-recognition-tech-main_i.jpg"
-        width: 800
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Monitor-Featured-Image.gif"
+        width: 1050
         height: 600
         isCached: true
-  - title: "Asset managers unite to urge human rights focus on facial recognition tech"
-    excerpt: "Aviva Investors, BMO Global Asset Management and Candriam are among 50 global investors who have pledged their commitment to helping to ensure that human rights are protected in the development of facial recognition technology (FRT)."
-    publishedDateTime: 2021-06-08T11:11:00Z
-    webUrl: "https://www.investmentweek.co.uk/news/4032513/asset-managers-unite-urge-human-rights-focus-facial-recognition-tech"
+  - title: "Voice Recognition Market: Emerging Economies Expected to Influence Growth until 2026"
+    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2024 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
+    publishedDateTime: 2021-06-09T06:33:00Z
+    webUrl: "https://www.openpr.com/news/2301143/voice-recognition-market-emerging-economies-expected"
+    ampWebUrl: "https://www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
     type: article
     provider:
-      name: Investment Week
-      domain: investmentweek.co.uk
+      name: openpr.com
+      domain: openpr.com
     quality: 37
     images:
-      - url: "https://www.investmentweek.co.uk/api/v1/wps/e821d2e/c7490c93-5e13-44e6-adfd-4addff378bbf/13/Facial-Recognition-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://cdn.openpr.com/U/6/U609941609_g.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Facial recognition providers called on to improve transparency, preserve human rights"
-    excerpt: "50 global institutional investors ask the biometrics industry to address the risks to both human rights and investor returns posed by facial recognition."
-    publishedDateTime: 2021-06-09T00:13:00Z
-    webUrl: "https://www.biometricupdate.com/202106/facial-recognition-providers-called-on-to-improve-transparency-preserve-human-rights"
+  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
+    publishedDateTime: 2021-06-10T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
     excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
@@ -202,15 +129,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Victoria filmmaker's documentary examines sinister side of facial recognition technology"
-    excerpt: "The Victoria filmmaker’s short film about how technology companies are worming their way into our lives has a doomsday quality to it, and should leave viewers an overwhelming sense of dread. Will it?"
-    publishedDateTime: 2021-06-09T23:07:00Z
-    webUrl: "https://www.timescolonist.com/entertainment/victoria-filmmaker-s-documentary-examines-sinister-side-of-facial-recognition-technology-1.24328734"
+  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application"
+    publishedDateTime: 2021-06-11T13:34:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
     type: article
     provider:
-      name: Times Colonist
-      domain: timescolonist.com
-    quality: 10
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 21
 
 secured: "hNS045Pdtz1rfEbr/57YW9olBKXKXtLWm91mLWsl/xcmVnNTHAV3ta/9gdgwkKfTHFSpqKMSFzSQPeIb87dkQosxydr+V++DHDB1g0sd7z4Huui4gWDgdQg/acpSgMQpcNMXl07LBtb879us9x6ZgntEm74NR9u3Sw5cClwU7/7cgWHytI0eGNfyrBgUq3uKrZmKK8DVjLvylgP+X3P5Pltc+fGtAHstXZ92vh8/Ul+grY+RO5OH+Dz8murZm3fhQMHeAE4bOjaC8g7/KaqAzYSIY/rgIooMcEUwREsMOLs+iK5tdfzvFArY704ec+hQDRoFq3o2Y1c8nyjk6xPZKp1QSajg93zLWAXm5Tk0+SdTfhir5wWdXq1ZzKDQro3P8yx8RHvnFjEBZ6MVNFgAwi12GeT4cEFoiW/jKlMY34d6Kz64jLWjtW52kD2cDVSA1WnXUsUsOd9VdgDlzE032xZWnid7L1KQujK1aQ5NhjhtGj8zEs6E3S9PjHP3e1iXPO+icLNAonf9CZ+ejsaG1A==;44T5zn7dF1K54voXot7ipA=="
 ---

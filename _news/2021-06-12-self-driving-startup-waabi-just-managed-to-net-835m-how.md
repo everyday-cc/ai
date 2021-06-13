@@ -43,20 +43,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Startup Waabi promises 'radical' new approach to self-driving tech"
-    excerpt: "The former Uber Advanced Technology Group executive and computer science expert has started her own self-driving technology company, Waabi, that's already working on artificial-intelligence advances."
-    publishedDateTime: 2021-06-08T10:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/startup-waabi-promises-radical-new-approach-self-driving-tech"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RaquelUrtasun-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Raquel Urtasun starts self-driving company Waabi"
     excerpt: "Silicon Valley startup Aurora. By then Uber's Advanced Technologies Group had settled a 2017 U.S. lawsuit in which it was accused of stealing trade secrets from Google's self-driving subsidiary Waymo."
     publishedDateTime: 2021-06-08T20:06:00Z
@@ -70,6 +56,20 @@ related:
       - url: "https://www.toronto.com/Contents/Images/Communities/Toronto_1200x630.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Raquel Urtasun starts Toronto self-driving company Waabi, after leaving Uber"
+    excerpt: "After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car venture, selling it to Silicon Valley startup Aurora."
+    publishedDateTime: 2021-06-08T14:05:00Z
+    webUrl: "https://www.castanet.net/news/Business/336299/Raquel-Urtasun-starts-Toronto-self-driving-company-Waabi-after-leaving-Uber"
+    type: article
+    provider:
+      name: Castanet
+      domain: castanet.net
+    quality: 21
+    images:
+      - url: "https://www.castanet.net/content/2021/6/20210607190624-315d6e148abe48a59a63b714c8aa2d5ab239441a9a0eea2e87b375bc1f2edc8b_p3534947.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "JIvz+u2866XecR7aUHhRq+DTKYt+rJRIVdKf9EQjKF87wmt/uFIg/49jX+2KzJXXFFD41hkfPuXcniNbyHU89/c/Om5TzqmPTMFxUtxElCeF2SAjf+X4VrB5dLXN5r6rhyyN0QYl0w5IShWu83SpY9pFIIBh0f7z8PEc8Eaih+6wxz7hXhDx8hClhmGoXmlnLZc/ghadTR8Mfgm6I/Sdyv1vUtbOgrqd6svzjaeF5+wLgCcDKb2kKmFHbsi8XSoGZlj3iCuP6zFihaLSl3CwPXt46N+LOtQWSPMsV+kQrQAC8A7ZoEkfmpPBUfsSDBZ7UbLffFvJKtSdKyCogqYpUNK0mr7jYOczpejfaT3aflfOtsaGb38nfxVv96E2CNTeZ2w34Kx+S9kU72f/e4MlG3loyQ17dyJnQlZos+PGbZOFE2bbxaFAPtHs4jdLwFVHGW16TkwM4NI7Fv8Ii+Pzx7tgtW0dtLO7KRcJTzJXq6fjl0lk/IlPADB3PcOmoOXSzW1SDr+Bne4f9kJTijmBrg==;RBWPFivkIdq/mktfUcmgrw=="

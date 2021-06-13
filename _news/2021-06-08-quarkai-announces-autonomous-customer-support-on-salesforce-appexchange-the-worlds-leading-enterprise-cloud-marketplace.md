@@ -64,17 +64,6 @@ related:
         width: 800
         height: 412
         isCached: true
-  - title: "2021 (AI) Artificial Intelligence in Fintech Market By Major Company Profiles - Amazon, Intel, Google, Salesforce"
-    excerpt: "Whipsmartmi com offers one of the latest report from its research database The research is about Global Ai in Fintech Market is projected to grow up to USD 7 91 billion by 2027 growing at a CAGR of 29 74"
-    publishedDateTime: 2021-06-08T08:54:00Z
-    webUrl: "https://www.openpr.com/news/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
-    ampWebUrl: "https://www.openpr.com/amp/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2300363/2021-ai-artificial-intelligence-in-fintech-market-by-major"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
 
 secured: "+5Pzir+ZFKx1vjwXyR912Cl/+7vJEhpMOZ8Ci001wM3r1lY9qPW7tpSi/RLtDmwgxXW3f3NlTcn702yVleFAL4Q+0lahYUbipJYrQ8cDzvJXNNIDoK+OA995+arSHZfWeU8jeBR8DXn/3Dh/rijFA4ovmMfG0Plx/Kvq/4bhyuT+9yqukHBufXG4fvNgVCR16AJPD+KG1eSsSx/DYA9PvSJmSqPdMh2Keh9MjbCkX5NtZNMyTrlmFLb4NJvK6J08KklsqteYKMYRaSfZUoTdo8U3pjdvkRAfTyQ9QVNwfBfn67FoHCTBWoQ+Z3bSSy6KneTA9/zC8qFPE2LD2PAuNPa/DEn1zYPkNMg1Rs0pUiY=;Q/bLCfepq1HzURvQ+36suQ=="
 ---

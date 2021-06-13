@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1199
     height: 740
     isCached: true
-
-related:
-  - title: "AI modeling can combat churn"
-    excerpt: "At a cost of more than $300 to acquire a new customer2, and FIs losing 10-15% annually of gross revenues to attrition3, FIs must slam the door on attrition. Research shows that by employing artificial intelligence powered predictive analytics and arming relationship managers with data-driven insights and enablers,"
-    publishedDateTime: 2021-06-08T08:00:00Z
-    webUrl: "https://www.cuinsight.com/ai-modeling-can-combat-churn.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 39
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/06/Attrition-Chart.png"
-        width: 406
-        height: 327
-        isCached: true
 
 secured: "R40AO6EVPoy3H2EuqsLJB2hJF6w0pPwYkzuTdGhUO0TVwG0YWDJmVZbnyMqodYsp9H1LpiS8W3FSWEnuCB8WJzNtecctSbLay2z34WNATWuSmxbCRFDtSufLfxir/RLnLjK4LDS4J8FuARAZbvjf8nU/APFSPrkWda2zYc59t0/WpuKZKwVePVUbjWIbip8lbL4MHzAU+uqtHwGcrzNf3ZWQ4sQqwwD6Pf/kWNF1ctgQUTlCxEPx/9tGnGrJukdzFXcVdbdPxXiUxOur3whaK3MaLMP2QkdBNOI9Jn5mV04fZAGFnJG4USvk+wv1hpKZrdypnOSLXL0DAZRlJXvdMmFRGoht5HUBfV0HSDJb9/Kcf2dDX9Ie1lCxnlY8tiDbi22Q8mmuTBVppCoXxA+dUSu3KV5/l7Pvk2/Iks04whFugY+PYhaMmNLFTrrB2qU5Tt83dCAcP+A+qANRfJtvKyvdWT1A8K0J7ZnHzPhWi9R4lv0i9mQBkD8jTh2M55kToJi6lDlb510UU6RvN3ENBw==;ZP38MmWQO1h8UutDxd/zEQ=="
 ---

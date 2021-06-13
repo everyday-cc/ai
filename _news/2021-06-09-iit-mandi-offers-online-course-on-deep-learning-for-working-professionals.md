@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Dataquest
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Building a foundational map of humanity using machine learning"
-    excerpt: "Geospatial data and analytics company Fraym announced a Series B financing to further scale their AI/ML software for mapping humanity"
-    publishedDateTime: 2021-06-08T10:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9385582.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "U7e+ewazPTepQViLWVfcr6cXY4qXDSRcaV4sIa3zFSagKW6YhsYt4OXdS/RsmGbU3H1OBWn3kPjP8bbSV5WJy9hA+qq9tD0Ake1wJD2A0oCeTTWtHZXuUZpR2jpH5TPQjv3MlsowYcalNCI/jjRiaoRr3Bhvl3rIeexR97+L+QgtmWlpAloH3Y+jQDjyXwGHttfCMlJ4PkNR/WdgN48AmA2kb+yDX65civJr4zoVjCjR3JgIsBo2zVbhse8RGb9UzWeJr1nAh+/kc0EhOdXw3DXVSEtQ/Bsti/RcrDzvyxkUWs5Av+geMb49qFOYjQcQcrlgwjOsdfwHu7no5AvmAkS4W/4uGH+gFVgqppGSrMFDVf8A1ARkxY3XlEDCjQKqJDXR58opxCsftRJf4a7BPl5Ab2XFm2SqFlkEjgx4eXyQH0pgbj57sOSNmbJ8fzEDUjcs22EdA+0AABbg7FDmtYvqh+2T8pyzq6DD3lDGUDdSC5VgJmBEzRsIchY9E3s/smni5DJizEz7+/WqTTQUVA==;mUid8N3laIYfhiuGaEnUng=="
 ---

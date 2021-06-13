@@ -62,7 +62,7 @@
       "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -103,7 +103,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AWS AI"
       ]
     },
     {
@@ -167,7 +168,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -319,7 +320,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -769,27 +770,18 @@
       "title": "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology",
       "excerpt": "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/AppTek-joins-Intels-AI-Builders-program-to-leverage-AI-enabled-speech-and-language-technology-147234.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/AppTek-joins-Intels-AI-Builders-program-to-leverage-AI-enabled-speech-and-language-technology-147234.aspx",
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T03:35:00-07:00",
+      "publishedDateTime": "2021-06-04T07:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KMWorld Magazine",

@@ -53,19 +53,19 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Startup Waabi promises 'radical' new approach to self-driving tech"
-    excerpt: "The former Uber Advanced Technology Group executive and computer science expert has started her own self-driving technology company, Waabi, that's already working on artificial-intelligence advances."
-    publishedDateTime: 2021-06-08T10:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/startup-waabi-promises-radical-new-approach-self-driving-tech"
+  - title: "Raquel Urtasun starts Toronto self-driving company Waabi, after leaving Uber"
+    excerpt: "After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car venture, selling it to Silicon Valley startup Aurora."
+    publishedDateTime: 2021-06-08T14:05:00Z
+    webUrl: "https://www.castanet.net/news/Business/336299/Raquel-Urtasun-starts-Toronto-self-driving-company-Waabi-after-leaving-Uber"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Castanet
+      domain: castanet.net
+    quality: 21
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RaquelUrtasun-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.castanet.net/content/2021/6/20210607190624-315d6e148abe48a59a63b714c8aa2d5ab239441a9a0eea2e87b375bc1f2edc8b_p3534947.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "9YLfV8uB2EUq/tOMAUMtD4hnvRPxKVQGEU8AGNWnn6rVnO1r756OL+qW9OQr+lIUQXx3ZrI80hQXVPsce2x3VrqmGC4Drmtm9SgjXFJSnz/DLcl1UE1budO30mF0m0el+yXzCBlxZZFN91VSKWA/X6YgDU+D/L5OBG9mFOgc6L9zHhmhh9f/cH3PUNuluVdF9vsHHcJvjZI6PfKXCfdY+qfy1Orn14hftf4cjyQ4u+sW22IIe9eXrrqv7w7IoPuDe9lF8wttAIP5MGPqaPKj6HFDRXRxxFdrmCKMUN4ULo6fZIcsool61XWQeLFBG7uAVntGBZ05JdT2H+wpI4UtpVtFMOLp/h8521Mmrd169FU=;LtFTxkXSnd3vA7d8hO+WeQ=="

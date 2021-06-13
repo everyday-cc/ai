@@ -9,7 +9,7 @@ ampWebUrl: "https://therealdeal.com/2021/06/08/cre-fintech-startup-blooma-nabs-1
 cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2021/06/08/cre-fintech-startup-blooma-nabs-15m-in-funding/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,67 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Wall Street: Fintech 50 2021"
-    excerpt: "The firm is one of the honorees on the Forbes’ 2021 Fintech 50 List, our ranking of the most promising private financial technology companies. Across finance, listmakers are revolutionizing the way people spend,"
-    publishedDateTime: 2021-06-08T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/"
+  - title: "Canadian fintech Trulioo scores nearly $400m to create end-to-end identity giant"
+    excerpt: "Fintech-focussed identity verification startup Trulioo has raised $394m as part of its Series D funding round with plans to expand its offering dramatically. The funding was led by private equity giant TCV,"
+    publishedDateTime: 2021-06-08T11:06:00Z
+    webUrl: "https://www.altfi.com/article/7978_canadian-fintech-trulioo-scores-nearly-400m-to-create-end-to-end-identity-giant"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: altfi.com
+      domain: altfi.com
+    quality: 19
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b91b7330062e83c8f4391e%2F0x0.jpg"
+      - url: "https://www.altfi.com/images/featured/canadian-fintech-trulioo-scores-nearly-400m-to-create-end-to-end-identity-giant.jpg"
         width: 1200
-        height: 801
-        isCached: true
-  - title: "The 11 Biggest Fintech Companies In America 2021"
-    excerpt: "With investment and valuations soaring, a Forbes Fintech 50 member had to be worth $5 billion to make our top list."
-    publishedDateTime: 2021-06-08T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b7e9dda2eeaef9ad7dd31b%2F0x0.jpg%3FcropX1%3D620%26cropX2%3D3627%26cropY1%3D263%26cropY2%3D1673"
-        width: 1200
-        height: 563
-        isCached: true
-  - title: "As FinTech Business Models Shift, Asset-Based Funding Evolves, Too"
-    excerpt: "James Sagan, founder and CEO of Architect Capital, discusses how asset-based finance can evolve as the business models of the FinTechs it services evolve, too."
-    publishedDateTime: 2021-06-11T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/ledgermatic-digital-asset-treasurer-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
-  - title: "Global Fintech Market Size & Analysis - Forecast to 2026"
-    excerpt: "As per the research conducted by GME the Global Fintech Market will grow with a CAGR value of 23 7 percent The expansion of the FinTech market is being spurred by the ubiquitousness of technology and innovation in the marketplace"
-    publishedDateTime: 2021-06-11T08:29:00Z
-    webUrl: "https://www.openpr.com/news/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
-        width: 400
-        height: 400
+        height: 720
         isCached: true
   - title: "Clip Becomes Mexico's Fintech Unicorn"
     excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftBank Latin America Fund and Viking Global Investors LP."

@@ -42,6 +42,36 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
+    excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
+    publishedDateTime: 2021-06-10T15:13:00Z
+    webUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/"
+    ampWebUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 54
+    images:
+      - url: "https://uploads.dailydot.com/2021/06/amazon-police-facial-recognition-ban.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Facial Recognition Tech Talks continue"
+    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
+    publishedDateTime: 2021-06-08T22:00:00Z
+    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
+    type: article
+    provider:
+      name: wmar2news
+      domain: wmar2news.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
     excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
     publishedDateTime: 2021-06-10T01:50:00Z
@@ -83,6 +113,20 @@ related:
     quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
+    excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
+    publishedDateTime: 2021-06-11T22:58:00Z
+    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/petition-calls-on-states-to-stop-requiring-facial-recognition-for-unemployment-benefits"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 31
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e20ed22/2147483647/strip/true/crop/2880x1512+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F21%2F7f%2Fa28876dd4bf8be85d3b63a70ca2f%2Fscreen-shot-2021-06-11-at-6.13.12%20PM.png"
         width: 1200
         height: 630
         isCached: true

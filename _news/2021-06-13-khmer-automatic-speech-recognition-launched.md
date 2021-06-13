@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-13T00:29:00Z
 originalUrl: "https://www.khmertimeskh.com/50873173/khmer-automatic-speech-recognition-launched/"
 webUrl: "https://www.khmertimeskh.com/50873173/khmer-automatic-speech-recognition-launched/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Khmer Times

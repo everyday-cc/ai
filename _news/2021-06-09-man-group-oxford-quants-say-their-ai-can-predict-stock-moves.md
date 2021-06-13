@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves"
-    excerpt: "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading."
-    publishedDateTime: 2021-06-08T09:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg"
-        width: 1200
-        height: 935
-        isCached: true
   - title: "Oxford University Quants Say Their AI Can Predict Stock Moves"
     excerpt: "The algorithm figured out the direction of a price move, with 80 percent certainty, over a period of about 30 seconds."
     publishedDateTime: 2021-06-08T17:26:00Z

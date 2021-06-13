@@ -7,7 +7,7 @@ originalUrl: "https://www.investmentweek.co.uk/news/4032513/asset-managers-unite
 webUrl: "https://www.investmentweek.co.uk/news/4032513/asset-managers-unite-urge-human-rights-focus-facial-recognition-tech"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,155 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Investors Call for Ethical Approach to Facial Recognition Technology"
-    excerpt: "A group of 50 investors managing more than $4.5 trillion in assets is calling on companies involved in the development and use of facial recognition technology, such as Amazon and Facebook, to do so in an ethical way."
-    publishedDateTime: 2021-06-08T10:39:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 86
-  - title: "Calls mount for ethical approach to facial recognition"
-    excerpt: "The tech could infringe on an individual's privacy rights, given the lack of consent by those being identified and that there is often no official oversight"
-    publishedDateTime: 2021-06-08T11:53:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-06-08-calls-mount-for-ethical-approach-to-facial-recognition/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 76
-    images:
-      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
-        width: 1000
-        height: 608
-        isCached: true
-  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
-    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
-    publishedDateTime: 2021-06-12T15:12:00Z
-    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
-    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 58
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
-        width: 620
-        height: 370
-        isCached: true
-  - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
-    excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
-    publishedDateTime: 2021-06-10T15:13:00Z
-    webUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/"
-    ampWebUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 54
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/amazon-police-facial-recognition-ban.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "'Innovative': Noida Scientist's Facial Recognition Technology For Dark Wins DRDO Contest"
-    excerpt: "In another technological advancement, a Noida based scientist has developed an AI which is capable of identifying a person even if their face is covered."
-    publishedDateTime: 2021-06-09T10:37:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/innovative-noida-scientists-facial-recognition-technology-for-dark-wins-drdo-contest.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 50
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/8eoy89ay313eqsnk_1623228977.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Facial recognition technology trial to identify and protect threatened koalas in South East Queensland"
-    excerpt: "University researchers will use special cameras and artificial intelligence to identify individual koalas at road crossings throughout the region."
-    publishedDateTime: 2021-06-09T02:53:00Z
-    webUrl: "https://www.abc.net.au/news/2021-06-09/koala-facial-recognition-artificial-intelligence/100200504"
-    ampWebUrl: "https://amp.abc.net.au/article/100200504"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100200504"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 43
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/3671dceadbbfdac5e71c6927e19d611b?impolicy=wcms_crop_resize&cropH=429&cropW=643&xPos=0&yPos=63&width=862&height=575"
-        width: 643
-        height: 429
-        isCached: true
-  - title: "From facial recognition to dating apps, technology is helping investigators track down Capitol rioters"
-    excerpt: "Authorities investigating the Jan. 6 attack on the U.S. Capitol are increasingly utilizing digital technology and social networks to identify and track down suspects."
-    publishedDateTime: 2021-06-10T17:29:00Z
-    webUrl: "https://abcnews.go.com/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
-    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 43
-    images:
-      - url: "https://s.abcnews.com/images/US/merrick-garland-attorney-general-capitol-riot-01-gty-llr-210219_1613764340672_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Facial Recognition Tech Talks continue"
-    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
-    publishedDateTime: 2021-06-08T22:00:00Z
-    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
-    type: article
-    provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "DHS on hunt for next generation of facial recognition technology"
-    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
-    publishedDateTime: 2021-06-11T10:45:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Investors pledge to address human rights in facial recognition technology"
-    excerpt: "Launched by money manager CANDRIAM in March, 50 global investors have now become signatories to the Investor Statement on Facial Recognition. The firms are engaging with companies on their facial recognition technology activities and human rights policies,"
-    publishedDateTime: 2021-06-08T14:19:00Z
-    webUrl: "https://www.pionline.com/esg/investors-pledge-address-human-rights-facial-recognition-technology"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 38
-    images:
-      - url: "https://s3-prod.pionline.com/s3fs-public/styles/800x600/public/Facial-recognition-tech-main_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Facial recognition providers called on to improve transparency, preserve human rights"
     excerpt: "50 global institutional investors ask the biometrics industry to address the risks to both human rights and investor returns posed by facial recognition."
     publishedDateTime: 2021-06-09T00:13:00Z
@@ -188,29 +39,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
-    excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
-    publishedDateTime: 2021-06-11T22:58:00Z
-    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/petition-calls-on-states-to-stop-requiring-facial-recognition-for-unemployment-benefits"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 31
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e20ed22/2147483647/strip/true/crop/2880x1512+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F21%2F7f%2Fa28876dd4bf8be85d3b63a70ca2f%2Fscreen-shot-2021-06-11-at-6.13.12%20PM.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Victoria filmmaker's documentary examines sinister side of facial recognition technology"
-    excerpt: "The Victoria filmmaker’s short film about how technology companies are worming their way into our lives has a doomsday quality to it, and should leave viewers an overwhelming sense of dread. Will it?"
-    publishedDateTime: 2021-06-09T23:07:00Z
-    webUrl: "https://www.timescolonist.com/entertainment/victoria-filmmaker-s-documentary-examines-sinister-side-of-facial-recognition-technology-1.24328734"
-    type: article
-    provider:
-      name: Times Colonist
-      domain: timescolonist.com
-    quality: 10
 
 secured: "ozk3CBDIpIvpm4Ai00rpEj5d4V///YnLyOemKSycswAAzUcE8nGSuhRtSHRnRFYEmLsPV0WIlyE76U33BdioFbpK5+fk/Vrlz8yPQTZCmuXX7hJUEsBN06kPfL0M0/FT+kXjN2gvE2nLr9ewKgqZghToi04nzbV5D5pQ7ECUKRjrLrX2wiNVR42Q68DjVzpDl6qe41BY1Bp/xlCilD6ooM+R1qL4vsxTmmR251urU+DGfqyP/ZTBZmO/t3YrywPvfMU/8NcjGSbO+mWTQzTp6nzDcHzd5dYw6kewXnYEdUZk7af6cYLv+LK/ZKmlFOPV+8no3xJVz/7FWJb0lesQ1hE81bUNlf1PdgfnqMGEaIhMP2ht835Ud+WIDnc9ljV8ZalnnUF/6SmNt2Oypuq3+kOV5r8nCWC9VkmB3SuJwpD5fmg+fe5APzPpdfojP3y3HPwcH1xzqdS4nWS40V6fE9FD+bgzNNAORS0Y7s0bZ6zFk4MxybTbxb45R86XNdgPdHcDlPATy3kuGrHMaR+StQ==;XUaNQ9yh3rHzkfQbs2TtIg=="
 ---
