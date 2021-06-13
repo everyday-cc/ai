@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why the dream of truly driverless cars is slowly dying"
-    excerpt: "If you're waiting around to buy your own completely driverless car, you may be waiting a lot longer than everyone originally thought."
-    publishedDateTime: 2021-06-08T07:00:00Z
-    webUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fteslafsd.jpg&signature=2171b81204e7dccf351a1f495ead2e6b"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Huawei seeks to develop its driverless car technology by 2025"
     excerpt: "Huawei Technologies is aiming on developing its driverless passenger car technology by the year 2025. The news arrives from a statement made by a company executive earlier this week, as the firm seeks to expand its business scope in the automobile industry."
     publishedDateTime: 2021-06-11T07:39:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg"
         width: 500
         height: 300
+        isCached: true
+  - title: "China's Huawei aims to develop self-driving tech by 2025"
+    excerpt: "China's Huawei Technologies aims to develop driverless-car technology by 2025, an executive said, as the world's largest telecommunications equipment maker diversifies its business in the face of U.S."
+    publishedDateTime: 2021-06-11T10:23:00Z
+    webUrl: "https://europe.autonews.com/automakers/chinas-huawei-aims-develop-self-driving-tech-2025"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/huawei_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "HDAJYHjwb9esvI0WxHrDKu/RIDJRcf61PTGrYGcmBIKogWVWb6Vm9GcM9zZG/BJ2bRDGt6erU5D5SHvTflOoX9RI8NpAHEUfNT+fKDl0vuqWqAA/H0lkbDFlw0D/N+jRf8dyWqY29d/KJwzXD0+5hVLxZ4heWHuVdNYWbKSu6MYoQqBf6tQbwoOn4zaG24n4fJljImwXv1VbHJanY60kUPjvswX5V6U46NBQ0DcsAjDn6SZyadOs4oNZL0YjStI6H/+WdsvHt4LUnK6xeAmk+/YKnZ2djdDEj7xLP52r22zrRdv92DLQqsV9EWs16i9jeyylmLNBalV+HaHug/ftwJA47FfW6R9oJScPcjnZT//oSSWxPseFWJ/oTI+YzXM1fTL37iAfnwzvY5RqZ0QllkVkBuAUTETblDjY7rD9fvRuerv2V6/XgKwOQ1YBjvH2CMDsolOau0meBcdoG3bFlfjqRVls0Gmz31IZzuKEjDh/AutvDmJBptDzhLwdB6Q5JWuESCR5/UJ50DkgUUoNig==;EOuMlSiwyyLpSBLRW7n2pA=="

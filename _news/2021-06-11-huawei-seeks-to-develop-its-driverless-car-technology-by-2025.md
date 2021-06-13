@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-drivi
 webUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Gizmochina
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why the dream of truly driverless cars is slowly dying"
-    excerpt: "If you're waiting around to buy your own completely driverless car, you may be waiting a lot longer than everyone originally thought."
-    publishedDateTime: 2021-06-08T07:00:00Z
-    webUrl: "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen"
+  - title: "China's Huawei aims to develop self-driving tech by 2025"
+    excerpt: "China's Huawei Technologies aims to develop driverless-car technology by 2025, an executive said, as the world's largest telecommunications equipment maker diversifies its business in the face of U.S."
+    publishedDateTime: 2021-06-11T10:23:00Z
+    webUrl: "https://europe.autonews.com/automakers/chinas-huawei-aims-develop-self-driving-tech-2025"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fteslafsd.jpg&signature=2171b81204e7dccf351a1f495ead2e6b"
-        width: 1280
-        height: 640
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/huawei_i.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Kodiak eyes 2023 for driverless freight transport, targets autonomous trucks for US and Asia"
     excerpt: "Artificial intelligence (AI) firm Kodiak Robotics has set its sights on introducing self-driving trucks on US highways by 2023, and will be gradually"

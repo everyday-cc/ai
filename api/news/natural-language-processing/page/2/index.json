@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-29-india-will-see-breakthrough-application-of-ai.md",
+      "title": "India will see breakthrough application of AI",
+      "excerpt": "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
+      "publishedDateTime": "2021-05-28T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers.md",
       "title": "Relativity acquires Text IQ to augment AI platform for lawyers",
       "excerpt": "Relativity acquires Text IQ to drive AI technologies deeper into a platform law firms employ to reduce discovery time and effort.",
@@ -1361,59 +1404,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-amazon-extends-ban-of-police-using-its-facial-recognition-indefinitely.md",
-      "title": "Amazon extends ban of police using its facial recognition indefinitely",
-      "excerpt": "Amazon Inc (NASDAQ:AMZN) barred police from using its facial-recognition software almost a year ago, saying it would prohibit them from using it for a year. Now the online retailer says it will extend the ban \"until further notice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372432",
-      "originalUrl": "https://www.entrepreneur.com/article/372432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-372432.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372432",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372432",
-      "publishedDateTime": "2021-05-19T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-11-automotive-sensors-market-size-growth-trends-share-and-global-industry-forecast-to-2026.md",
+      "title": "Automotive Sensors Market | Size, Growth, Trends, Share And Global Industry Forecast To 2026",
+      "excerpt": "Global Analysis By Size, Growth Insights, Developments, Emerging Technologies, Share, Key Players, Trends, Regional Outlook And Global Industry Forecast To 2026 is latest study published by Fortune Business Insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-sensors-market-size-growth-trends-share-and-global-industry-forecast-to-2026-2021-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-sensors-market-size-growth-trends-share-and-global-industry-forecast-to-2026-2021-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-chinas-tech-hub-shenzhen-to-invest-us108-billion-in-rd-over-5-years.md",
       "title": "China’s tech hub Shenzhen to invest US$108 billion in R&D over 5 years",
       "excerpt": "Shenzhen is set to invest more than 700 billion yuan (US$108 billion) in hi-tech research and development over the next five years as it seeks to reinforce its position as China’s innovation ...",
@@ -1351,58 +1403,6 @@
         "name": "The National Law Review",
         "domain": "natlawreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
-      "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
-      "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
-      "originalUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
-      "publishedDateTime": "2021-05-05T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

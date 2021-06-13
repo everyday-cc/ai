@@ -1,23 +1,39 @@
 ---
 category: news
 title: "Wovenware Issued Patent for its Synthetic Data Generation Method for Use in Computer Vision Models"
-excerpt: "\"The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,\" said Christian González, CEO, Wovenware. \"The issuance of this new patent recognizes Wovenware's unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,"
-publishedDateTime: 2021-06-08T13:46:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9386200.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9386200.htm"
+excerpt: "The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,” said Christian González, CEO, Wovenware. “The issuance of this new patent recognizes Wovenware’s unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,"
+publishedDateTime: 2021-06-08T13:35:00Z
+originalUrl: "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/"
+webUrl: "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "pNBPV0ydpPmz3oQ2IxvgrC+DyDkM1RyBWnqpeYSXltFGbtXsJU+DmZVrdBVoGAWJCb/8YyteDHkAOgvjm0UpK4A2ZI2548mk91v+BUBHW75WJ6G4qcSi5Xqif72NhHRt8o3EYlRM7kF7hBth2rGgfcTgcx8kJqdMEW11ARUoOwRJFtBVKi8uPGkaOP0Xh+n2IM4YLT8qtGvU7moPQaeE9rBJyV7IsD4+cSbb64K6W2BfnZDkypLNe41tV96jDu/FOu9hTriggAllQLNuadGTkkX1eV4hx0whfw1UmYQztwW32ak0uXnNOuNbg5MOJa2F23cuZj30cGy7VPsYp8AyY4S6vJcsr82/VNwT33o2IYg=;Q14+T25GisbojFK763vcew=="
+related:
+  - title: "A Generation Later, and Speech Technology Finds Its Place in Customer Service"
+    excerpt: "In its earliest iterations, speech recognition technology was designed to do simply that: recognize the spoken word and translate it into written text. IBM computers began showing up in the 1990s that allowed users to dictate text."
+    publishedDateTime: 2021-06-08T19:42:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/449034-generation-later-speech-technology-finds-its-place-customer.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/4432405555-AdobeStock_258883034_AI_contact_center_customer_service_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+
+secured: "b4CytNIEyV9CrttV9SySYmC3sL0LAbFxAmv3QyptSpgB33oqCneWKzYtGStIfz3Qij2ZSVZpiI5H1gd7M45Yy5DSEchnit12lDe04UKZqoJtUK6iUxHcMEhzWLNPU85/c3XIkdsBJgW20+4wx8q2l78VlN0my+UzN+vsn1UIaxDU5fPxDAhb+W5JON6Wv/gr7jbteIY0T5he8ID/kOFP6nYsOamGI6QMOIWYVwqgaL35giSlu9rB2QpSIewoV3jUivYCgTv1USdtWtTZBt1/xX9/hLJhg7L1Pjkyc8Q1fN/eKQ1Y1dX8GBw9xIB4Rj0Xg8DvNPAH/cLzoT5bGn3QM5qEmjZX2/mFZXYgfybTvhc=;9hAm8tK4gm/MQaxkP0LCPw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/razer-is-helping-make-a-robot-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/razer-is-helping-make-a-robot-to-tackle-garbage-in-the-ocean/1100-6492549/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: GameSpot
@@ -27,31 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Razer sets its sights on saving the seven seas with smart robots"
-    excerpt: "ClearBot is a Hong Kong-based startup that, with Razer's help ... \"The newly designed and fully automated robot is armed with cutting-edge AI and machine learning capabilities that can detect marine plastics within two meters in rough waters."
-    publishedDateTime: 2021-06-08T06:00:00Z
-    webUrl: "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/"
-    ampWebUrl: "https://www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/"
+  - title: "Razer Gives Clearbot's Ocean-Cleaning Robot a Stealthy Makeover"
+    excerpt: "Razer has just teamed up with Hong Kong’s Clearbot for an update on the sustainability startup’s ocean-cleaning robot. Announced during World Oceans Day, Clearbot’s mini boat-like auto trash collector was given a full makeover with the help of Razer,"
+    publishedDateTime: 2021-06-11T16:40:00Z
+    webUrl: "https://hypebeast.com/2021/6/razer-clearbot-world-oceans-day-ocean-cleaning-robot-drone"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 59
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ArX5GiV6iXsKD7fnbtaKY6-480-80.png"
-        width: 480
-        height: 271
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Frazer-clearbot-world-oceans-day-ocean-cleaning-robot-drone-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 479
         isCached: true
-  - title: "Razer partners with Hong Kong startup to build self-driving ships to clean marine waste"
-    excerpt: "The partnership with Clearbot includes support from Razer’s engineers and designers to build a new prototype as well as a US$50,000 grant."
-    publishedDateTime: 2021-06-08T08:07:00Z
-    webUrl: "https://www.techinasia.com/tata-digital-pour-75m-ex-flipkart-execs-fitness-startup/next"
+  - title: "Razer and ClearBot Redesign Autonomous Robot to Clean Up Marine Plastic Waste"
+    excerpt: "In celebration of World Oceans Day, which takes place today, gaming brand Razer announced that it's joining forces with startup ClearBot to help redesign its AI robot that cleans up marine plastics."
+    publishedDateTime: 2021-06-08T12:36:00Z
+    webUrl: "https://www.autoevolution.com/news/razer-and-clearbot-redesign-autonomous-robot-to-clean-up-marine-plastic-waste-162827.html"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 26
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/razer-and-clearbot-redesign-autonomous-robot-to-clean-up-marine-plastic-waste-162827-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "3wl0ddStE0TSQ98zLtKk6LzuKlm3dTH36+eN+ohqhYEaUig8U6hHv4ry+4PaKNAEiMkhTgTklQNu7jiS5RzV7UjvNP7Cf93jedfQ2zuilwDiRQxW66d5MkGGk3Xng8me379xZyrinZVkqMDFlgzLDILdslib4aLDeBSYgorST+u53Yhn8Rtxlg9ziy1F6QjpYRVu+56JN9kBNdNgylVX+x4KRvgBphJIz+NafzO4soo9dwn4KPgW6ENk0Pg0aBeLwYj9eSpPjCBVu0XEe/Uwrz/Dwil5ibSpxFsJVvSm1ksx/U2xVC367A7Adb3+gch+SYFuBaCfRg/ejLtYJbJydwUALiAuBRe2GrSuGDo92NHxI+yIyVJvVro2g6qVps4CFK4HA77SNXLy/k85Ru6JtBELWQyJZYjg67gkXWaPMAltQbRyxf/6LDCLODjMU/qJiQ9aJ5WTOk7gdNE6x/yUTqS94KkB+g+AQVw5GH0VYPEAnUrFcLRR7SA6CAF2mfXPhMuaTKPlCPYgbZ2RaVyOYg==;qEtcgkULYX1KT5NgY+Tmgw=="
 ---

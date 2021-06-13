@@ -43,20 +43,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "ISRO Offers A Five-Day Machine Learning Course For Free"
-    excerpt: "The Indian Space Research Organisation has announced a five-day free course on machine learning, between July 5 -9. The course is being offered as part of the Indian Institute of Remote Sensing’s (part of ISRO) outreach program."
-    publishedDateTime: 2021-06-08T06:58:00Z
-    webUrl: "https://analyticsindiamag.com/isro-offers-a-five-day-machine-learning-course-for-free/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/ISRO_AIM.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Building a foundational map of humanity using machine learning"
     excerpt: "Geospatial data and analytics company Fraym announced a Series B financing to further scale their AI/ML software for mapping humanity"
     publishedDateTime: 2021-06-08T10:25:00Z

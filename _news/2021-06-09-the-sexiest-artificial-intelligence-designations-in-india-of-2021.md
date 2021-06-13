@@ -28,7 +28,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2018/03/taxes-e1623311969949.jpg?w=1200&strip=all"
         width: 1200

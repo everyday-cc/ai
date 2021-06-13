@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-02-can-artificial-intelligence-machine-learning-enable-robot-empathy.md",
+      "title": "Can Artificial Intelligence Machine Learning Enable Robot Empathy?",
+      "excerpt": "Artificial intelligence (AI) machine learning is fueling the current commercial boom in automation, and robots are becoming increasingly more sophisticated. In a step forward in endowing robots with human-like behavior,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/can-artificial-intelligence-machine-learning-enable-robot-empathy",
+      "originalUrl": "https://www.bbntimes.com/technology/can-artificial-intelligence-machine-learning-enable-robot-empathy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/society/Robot_Empathy.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-this-ai-robot-mimics-human-expressions-to-build-trust-with-users.md",
       "title": "This AI robot mimics human expressions to build trust with users",
       "excerpt": "Scientists at Columbia University have developed a robot that mimics the facial expressions of humans to gain their trust.",
@@ -1388,42 +1432,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-4-ai-healthcare-stocks-transforming-the-medical-industry.md",
-      "title": "4 AI Healthcare Stocks Transforming the Medical Industry",
-      "excerpt": "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
-      "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
-      "publishedDateTime": "2021-05-25T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

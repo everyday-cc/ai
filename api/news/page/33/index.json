@@ -2,6 +2,161 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
+      "title": "Google details new AI accelerator chips",
+      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-05-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-googles-new-ai-technology-could-make-assistant-more-human-like.md",
+      "title": "Google’s new AI technology could make Assistant more human-like",
+      "excerpt": "Google is developing LaMDA technology that could lead to more natural Assistant conversations. It responds with logical, consistent answers rather than raw data. The technology is still quite early. Unlike with typical AI language models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/",
+      "originalUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-IO-2021-LaMDA-in-action-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-lamda-assistant-ai-1226907/amp/",
+      "publishedDateTime": "2021-05-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective.md",
+      "title": "What’s In Store For The Next Generation Of AI? The Jaseci Perspective",
+      "excerpt": "The way we articulate solutions to problems in computer science has not fundamentally changed in decades and we’re hitting a new ceiling with the unique complexities that come with building sophisticated AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a40b4d033264ba316a2ebd%2F0x0.jpg",
+          "width": 1199,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
+      "publishedDateTime": "2021-05-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-tackling-tuberculosis-screening-with-ai.md",
       "title": "Tackling tuberculosis screening with AI",
       "excerpt": "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can",
@@ -1067,145 +1222,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-data-and-ai-operations-startup-coiled-nabs-21m.md",
-      "title": "Data and AI operations startup Coiled nabs $21M",
-      "excerpt": "Coiled, which offers an AIOps and DevOps platform for enterprises, raised $21 million in venture equity funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/data-and-ai-operations-startup-coiled-nabs-21m/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/data-and-ai-operations-startup-coiled-nabs-21m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/data-and-ai-operations-startup-coiled-nabs-21m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-and-ai-operations-startup-coiled-nabs-21m/amp/",
-      "publishedDateTime": "2021-05-18T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-data-prep-platform-explorium-raises-75m.md",
-      "title": "Data prep platform Explorium raises $75M",
-      "excerpt": "Explorium, a platform for feature engineering and data prep, has raised $75 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/amp/",
-      "publishedDateTime": "2021-05-18T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-breaks-out.md",
-      "title": "WIMI Hologram Cloud Stands Out with Its Own Lidar Products When the Autonomous Vehicle Industry Breaks Out",
-      "excerpt": "It uses computers, modern sensing, information fusion, communications, artificial intelligence ... representative of the latter is Google Waymo. \"Whoever relies on lidar will be over.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/g21175504/wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-br",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/g21175504/wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-br",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21175504",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21175504",
-      "publishedDateTime": "2021-05-18T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

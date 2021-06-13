@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-in
 ampWebUrl: "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/"
 type: article
-quality: 87
-heat: 127
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/03/taxes-e1623311969949.jpg?w=1200&strip=all"
@@ -84,6 +85,6 @@ related:
       domain: analyticsinsight.net
     quality: 17
 
-secured: "x0nK1ylu9iv4jbnvHm3qniuSyR3KUmYwhPf7EZOkJkQCRDcTn7Floc9WKSb7U4LmnbnYF8dRAsN3QbKRER/ruTOL3EoyA0HvXWkMw3pvLqykn4TO66WkAVj8eHw5PKU522Q/k5s5PTybZ/xBykpWwaubwwawipQCKoF7c5Q6FTP11ADvUkMRyGPSo302ekRlRdBvNLni1ff1Sup3AhiFO1py//a7iDnFnKt4w2saujbd4f9ye518hI9ZVMLGj5vXPYz75tF+C6Qjz+jR7KXz9kHfFYQpaYdlYZQ8pR6X401+jrb+SnFOmmM50pIX97+vXonLSTRtT1gKXUfHXAByYJu04sidUKkAjt/awl7EvfM=;b7NCspX8iUqJJAHFN/xRBA=="
+secured: "eebDD9OtjL8z+0teSiTylFmdl21TwgH2MYiU9oSo6YeWGrw4J0+qkbnRnP5TCuK1mrk3rEpyMb8zBdLC88pkqxgkG1M2qZ0RRrMaOIeak8sX3U9a/a05UqHKmZlch9HhCfaOi2qJIUP7110S/WARdjEBuBmSs4iQjGAlJ8UxSjr/X3naXKsnO0DpU0LE3UthZD8oWWQDA0xuH4f9+zZMa9YJIC/3uCSZlyixJozlcT6860KAZG9mgT0KpL1l3k6Fjrj8VF59L2ntHvFs6ZtmuOWq2pV50pyuGgIQOry4OjX69kR65qg59dRuS7Wmv3jvyVm1dagtRPrRioRefL0VicHjxhvXYzoEc9TAT0pxtJ/ch2j/hUj7QY3p0R7wE7PwVImgL/6vzbRVPgRkKqeUlsGQjOT9uVt8SkxrGknSDm2ERTG124QZwNB3V8D9+gwhxLhW/o/xPd1Oc83hAr5Av2QvVTHfg5nNbolHc2HiQg8o4RzypzWZVWFYHg7OQAjIyXwMbi/FC69n6ieg3q6RMg==;4Mlonim5FtFP/oQx5d5scA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-y
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automation: moving towards self-driving networks"
-    excerpt: "With next-gen offerings best-described as networks-as-a-service, AI and ML can be leveraged to produce self-aware networks that use metadata to optimise themselves according to business demands on the fly."
-    publishedDateTime: 2021-06-08T05:39:00Z
-    webUrl: "https://techwireasia.com/2021/06/self-aware-networks-abstraction-virtualisation-convergence-sdwan-sdn-best/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/06/self-aware-networks-abstraction-virtualisation-convergence-sdwan-sdn-best/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/self-aware-networks-abstraction-virtualisation-convergence-sdwan-sdn-best/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 44
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/shutterstock_1430369297-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "The conspiracy keeping self-driving cars off our streets"
     excerpt: "They were meant to be here by now. We’ve all heard about the self-driving scenario where the autonomous car drops mum and dad at work, swings back to get the kids for school, and then parks up while it waits for the afternoon summons."
     publishedDateTime: 2021-06-09T03:19:00Z

@@ -41,6 +41,15 @@ related:
         width: 300
         height: 480
         isCached: true
+  - title: "Dispel Releases Industry's First Accessible Remote Access Platform Designed for People With Disabilities"
+    excerpt: "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities"
+    publishedDateTime: 2021-06-09T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities/article_142b83a2-fa6b-59f0-a9ad-bdb6d132b9e6.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "dEF9o4YF+gMdg7p4UIZWe5+0dW+qtf5acrFMO3WyCSA2ANyO6BM8PpeklEEQ5h829QTb7WiOZGbP6082bK4s8zUIxa6JEWbaL1WcFTvMfKxfRvINImAQoBbUkvhj6lQR2kG4aFBDYSNapvBKqkVpy4jW8Hyn6A/v5jgBIRSGky5slYaLJQXXPw4RkraQjMMGFZ/MTD0G5wIB5exGN+qkuwG9HA6+rk7nRFohjDGETrvEsZJTLDt8539mcw47CLc7MYAY07LwLGCLCqJdwxNouFPtGuaWKaFc7aZTcypZseLXuYjcMB8mMtR1jCh9wiuFCYtsc2K6HGff3USHQTUIlPd/Ll98xDYx8fUJhBN/bus=;kp/zMfdzj48LPDxwi5Oicg=="
 ---

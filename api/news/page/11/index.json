@@ -2,6 +2,84 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-02-amazon-sns-gains-message-archiving-and-analytics-via-amazon-kinesis-data-firehose.md",
+      "title": "Amazon SNS Gains Message Archiving and Analytics via Amazon Kinesis Data Firehose",
+      "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Steve Cosenza discusses why Twitter's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/",
+      "originalUrl": "https://www.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/en/headerimage/amazon-sns-kinesis-data-firehose-header-1622511210642.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-realising-enterprise-scale-machine-learning-with-data-governance.md",
+      "title": "Realising enterprise-scale machine learning with data governance",
+      "excerpt": "Realising the promise of AI/ML calls for organisations to scale its use enterprise-wide and promote the culture of an insights-driven organisation. Additionally, data is the fuel that keeps machine learning (ML) going,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm",
+      "originalUrl": "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp",
+      "publishedDateTime": "2021-06-02T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-dhl-extends-warehouse-automation-partnership-with-locus-robotics.md",
       "title": "DHL extends warehouse automation partnership with Locus Robotics",
       "excerpt": "Robotic process automation is no longer a science experiment. This technology is no longer about figuring out what works. The time to consider whether to automate your warehouses has passed.”",
@@ -387,40 +465,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-02-pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition.md",
-      "title": "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition",
-      "excerpt": "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-02-private-clouds-hybrid-clouds-the-next-evolution-of-cloud.md",
       "title": "Private clouds, hybrid clouds the next evolution of cloud",
       "excerpt": "while MultiChoice South Africa answers customers’ inquiries faster than ever with an AI-powered virtual agent – an IBM Watson assistant – to support its call centre agents and help to ensure ...",
@@ -460,6 +504,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition.md",
+      "title": "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition",
+      "excerpt": "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -746,6 +833,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment.md",
+      "title": "Chooch AI Integrates Synthetic Data Generation to Radically Accelerate Computer Vision Deployment",
+      "excerpt": "Chooch AI, the leading computer vision AI platform, today announced artificial intelligence modelling using synthetic data generation. Chooch generates synthetic data based both on CAD files and 2D images,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8247230/chooch-ai-integrates-synthetic-data-generation-to-radically-accelerate-computer-vision-deployment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1050,162 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-banned-gamblers-in-south-australia-to-be-found-using-facial-recognition-tech.md",
-      "title": "Banned gamblers in South Australia to be found using facial recognition tech",
-      "excerpt": "A number of gaming rooms in South Australia have adopted facial recognition tech from Vix Vizion as part of the state's gambling reforms that went live in December.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/90403232-2d0f-455a-ad7d-5d02bf0fce3f/man-gambling.jpg",
-          "width": 6720,
-          "height": 4480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
-      "publishedDateTime": "2021-06-01T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-conversational-ai-startup-cognigy-nabs-44m.md",
-      "title": "Conversational AI startup Cognigy nabs $44M",
-      "excerpt": "Cognigy, a platform for designing conversational, AI-powered experiences, raised $44 million in fresh capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/",
-      "originalUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/feldman-automotive-chatbot-pr-magic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/",
-      "publishedDateTime": "2021-06-01T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-five-industries-reaping-the-benefits-of-artificial-intelligence.md",
-      "title": "Five Industries Reaping The Benefits Of Artificial Intelligence",
-      "excerpt": "AI (artificial intelligence) offers numerous opportunities ... It's not science fiction anymore; the driverless experience is a reality now. According to recent reports, it’s expected that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

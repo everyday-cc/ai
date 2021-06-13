@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 579
         isCached: true
-  - title: "Automation: moving towards self-driving networks"
-    excerpt: "With next-gen offerings best-described as networks-as-a-service, AI and ML can be leveraged to produce self-aware networks that use metadata to optimise themselves according to business demands on the fly."
-    publishedDateTime: 2021-06-08T05:39:00Z
-    webUrl: "https://techwireasia.com/2021/06/self-aware-networks-abstraction-virtualisation-convergence-sdwan-sdn-best/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/06/self-aware-networks-abstraction-virtualisation-convergence-sdwan-sdn-best/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/self-aware-networks-abstraction-virtualisation-convergence-sdwan-sdn-best/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 44
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/shutterstock_1430369297-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
 
 secured: "C/3lylTY0m+nVZS4pAJ6KB1W1pF9B+37ada+FwrQrwpoeWZ4Aw/+qYKZhSjjfst8x7ZTNLYv+HEhlE2mXb/wuE0CshW1SlCBKG9Q2QG7KrEK6kNVPRLkXZx67oCW74PdSSnnvQWlKCavTkZ1BtJ5eQfaFMS49UQbgJN6CBVEV/OotcXoYUzAB+UkJ2+bUxsKmU+E+a9I8UOhdD/TgrY/JWCp6FVu3K93TjzLsAHt/vdH4BKXJQfILBhhyxh0DlaCilYFAsOQ8a4lzc++KSUDcNJLb0h0ZgvMY6YYwpoRFh4NXrNY6mZJivUO/sVi0pSXfFGqae3AgV8EeIwLVA6tWI6RPrLYDIJuavPj2Aviq9Y=;QurbTnMO1KqCjENIicpWuQ=="
 ---

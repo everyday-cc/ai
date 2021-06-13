@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Apple Hires Canoo Co-Founder to Work on Self-Driving Car"
-excerpt: "Apple has hired Canoo co-founder Ulrich Kranz to help lead its autonomous car project, according to a Bloomberg report. About a month ago, Kranz stepped down as CEO of Canoo, a self-driving electric vehicle startup."
-publishedDateTime: 2021-06-10T21:39:00Z
-originalUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car"
-webUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car"
-ampWebUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
-cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
+title: "What Waabi’s launch means for the self-driving car industry"
+excerpt: "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable."
+publishedDateTime: 2021-06-12T23:40:00Z
+originalUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/"
+webUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/"
+ampWebUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
 type: article
-quality: 44
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: iClarified
-  domain: iclarified.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.iclarified.com/images/news/81339/81339/81339-640.jpg"
-    width: 640
-    height: 360
+  - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all"
+    width: 1200
+    height: 601
     isCached: true
 
 related:
@@ -59,22 +63,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What Waabi’s launch means for the self-driving car industry"
-    excerpt: "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable."
-    publishedDateTime: 2021-06-12T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/"
-    ampWebUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "The Four Biggest And Most Baffling Congressional Issues When It Comes To Regulating AI Self-Driving Cars"
     excerpt: "A close look at four key controversial Congressional issues on regulating AI self-driving cars, and what those issues portend for our future and the driverless emergence."
     publishedDateTime: 2021-06-09T15:30:00Z
@@ -106,6 +94,22 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2021/06/2022-ford-maverick-1.jpg?w=400"
         width: 400
         height: 225
+        isCached: true
+  - title: "Apple Hires Canoo Co-Founder to Work on Self-Driving Car"
+    excerpt: "Apple has hired Canoo co-founder Ulrich Kranz to help lead its autonomous car project, according to a Bloomberg report. About a month ago, Kranz stepped down as CEO of Canoo, a self-driving electric vehicle startup."
+    publishedDateTime: 2021-06-10T21:39:00Z
+    webUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car"
+    ampWebUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 44
+    images:
+      - url: "https://www.iclarified.com/images/news/81339/81339/81339-640.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Huawei Plans On Making Self-Driving Cars By 2025"
     excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
@@ -163,6 +167,6 @@ related:
       domain: telecompaper.com
     quality: 4
 
-secured: "FTqyJb+d9tiht+a2bokvBRnu42JnSM3kktObA3Ftcg5NV8pzSqL4DupsDsiUjoRm8GTw8ayZmwSPSZRBPuoP2syhWkYxKeWBEedYIRca42gGFvFblqio0MRoIA+cILtz8moj6Hbhr3ANiBEVQvDJ1KpbXZqPHwbOtywBJJ1YQnL0XVf26vIQKEWA1K7beW40/UGr785YwnSgZOtZmyu+Hg7GRCv2UostlawCPW03I6L6bWoliL4sg/TjmGqBledl5ZXg1hJXz3oDdIepipNp8HuauawEYFKSzHsbcQ1WvHu3yGC4yKrsbf2ShGdMX/V3DJDa2ZOJW/FX0jv+q/k/0qToq/7djX0CJrjNkqfaEdVRYXUuT6wQ5r1DSW4inbdFDmlHK/Kvu6e1eXy03n4PJMmIzItLYV5J0+KZAdF3EpLBOgJr9PvqwNtKbaheA0yTYxDq4FqBH8gTW6ENldifvFcxUYoDOvTypQlc9lIzu7hloJg1kfQhcmR/n4nmm1yYVomyHhYxmgTAmBNyHje4Wg==;V97naTDFsb+SVXC46ulUhQ=="
+secured: "4q8+rMKTuKA/izz0VLZl8PKGKsUK22VIJ6Z8X/DbIDDUsFtae4HAXQ04qR2YdC1U8FqTtspQonul+iZnNVuD+hPo/t6XFqIURhY0W/XMpQqDri5pExut9XY+ClJfE61qqhNp2NEKYVzWfxYzl716LYYmtGShUJre1WFxsiwW3VDTizM4gFEVaDHH6hv+0g2pO/IGxPDrpUmzPNa41BpgtWjLrhXs5Rv8X9q4a7hTOHIhxc2NbNIR5QinfuYg4rurqsvT7yyqpSpwa0fMgKfQiq3k3aLVu3tUS2f+xU59e+gDiIphpTgKmFS+COkUIaIDF/NY9G6iAexZ8QAl7Q8Wzf6YrCr8UYx1R0/XaNaMfbg=;iKIaey2SyAyWlJGxyFKUFA=="
 ---
 

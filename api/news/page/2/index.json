@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-11-huawei-seeks-to-develop-its-driverless-car-technology-by-2025.md",
+      "title": "Huawei seeks to develop its driverless car technology by 2025",
+      "excerpt": "Huawei Technologies is aiming on developing its driverless passenger car technology by the year 2025. The news arrives from a statement made by a company executive earlier this week, as the firm seeks to expand its business scope in the automobile industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-jumpcut-ai-based-production-studio-launches-to-unearth-train-underserved-storytellers.md",
       "title": "Jumpcut AI-Based Production Studio Launches To Unearth, Train Underserved Storytellers",
       "excerpt": "Jumpcut uses artificial intelligence to find undiscovered talent from around the globe, develop it, and get it sold. Founded by a Wharton AI professor, the company came out of stealth mode today.",
@@ -1186,53 +1238,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott.md",
-      "title": "Forward Thinking on artificial intelligence with Microsoft CTO Kevin Scott",
-      "excerpt": "How could AI help create jobs even in rural areas, and what would it take? In this podcast episode, Kevin Scott shares his ideas with James Manyika.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott",
-      "originalUrl": "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/forward%20thinking%20on%20artificial%20intelligence%20with%20microsoft%20cto%20kevin%20scott/mgi_ft_kevin-scott_hero_1536x1536-option1_vf.png",
-          "width": 1536,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "McKinsey & Company",
-        "domain": "mckinsey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Natural Language Processing"
       ]
     }
   ],

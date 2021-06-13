@@ -2,6 +2,136 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-08-ban-facial-recognition-software-in-baltimore-and-beyond-reader-commentary.md",
+      "title": "Ban facial recognition software in Baltimore and beyond | READER COMMENTARY",
+      "excerpt": "Facial recognition technology is too prone, too much an invasion of privacy and too likely to misidentify Black individuals for any city to allow its routine use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html",
+      "originalUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/GpjHHHC-nREJPKpkaOjkUIjB7Ew=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YNDRXEDELVAIHAPJ6WXJ4Z3FIA.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-07T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-campfire-interactive-to-unlock-profit-potential-on-amazon-web-services.md",
+      "title": "Campfire Interactive to Unlock Profit Potential on Amazon Web Services",
+      "excerpt": "Campfire and AWS announce strategic relationship, providing auto suppliers end-to-end solution to manage their forecast, quoting and profitability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210607005149/en/Campfire-Interactive-to-Unlock-Profit-Potential-on-Amazon-Web-Services",
+      "originalUrl": "https://www.businesswire.com/news/home/20210607005149/en/Campfire-Interactive-to-Unlock-Profit-Potential-on-Amazon-Web-Services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-amd-vs-nvidia-whats-the-best-add-in-gpu-for-you.md",
+      "title": "AMD vs Nvidia - what's the best add-in GPU for you?",
+      "excerpt": "There is also the Nvidia Titan RTX, which is the most powerful GPU in this series. However, this is better suited for deep learning and AI applications for researchers, developers, and creators rather than your average consumer. See also: Snapdragon SoC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "originalUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Ray-tracing-eyeball.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "publishedDateTime": "2021-06-07T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-visionet-launches-docvuai-intelligent-document-processing-platform-for-mortgages-and-beyond.md",
       "title": "Visionet launches DocVu.AI - Intelligent Document Processing Platform for Mortgages and Beyond",
       "excerpt": "Visionet Systems, Inc., a leading provider of digital solutions to the Banking and Financial Services industry, announced today the launch of DocVu.AI – an AI-driven Intelligent Document Processing (IDP) platform.",
@@ -1101,145 +1231,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement.md",
-      "title": "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement",
-      "excerpt": "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/",
-      "originalUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png",
-          "width": 800,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/",
-      "publishedDateTime": "2021-06-05T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-samsung-jet-bot-90-ai-robot-vacuum.md",
-      "title": "Samsung Jet Bot 90 AI+ Robot vacuum",
-      "excerpt": "Many of today’s best robot vacuums have powerful suction that can rival the best vacuum cleaners on the market, along with rechargeable batteries that can outlast some of the be",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/samsung-jet-bot-90-ai-robot-vacuum",
-      "originalUrl": "https://www.techradar.com/news/samsung-jet-bot-90-ai-robot-vacuum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Ms7UFSJpkSt8nY5NwfchDT-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-05T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-chinese-ai-speech-recognition-chip-startup-secures-new-war-chest.md",
-      "title": "Chinese AI speech recognition chip startup secures new war chest",
-      "excerpt": "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
-      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F9%252F0%252F34550907-3-eng-GB%252FCropped-1622689933%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%25AEAI%25E3%2583%2581%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2583%25A2%25E3%2582%25B7%25E3%2582%2599%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -416,6 +416,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-08-voiceitt-launches-speech-recognition-app-for-people-with-disabilities.md",
+      "title": "Voiceitt launches speech recognition app for people with disabilities",
+      "excerpt": "Assistive tech helps people with non-standard speech talk via smart devices; 'Everyone deserves to be able to express themselves and be understood,” says company's CEO",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/",
+      "originalUrl": "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/06/voiceitt-danny-300x480.jpeg",
+          "width": 300,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/",
+      "publishedDateTime": "2021-06-08T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity.md",
       "title": "Using AI To Block Unconscious Bias, Widen The Talent Pool And Increase Diversity",
       "excerpt": "DEI is the top talent management priority for CEOs. As more organizations prioritize diversity, the challenge is figuring out how to achieve it. For starters, how can we block unconscious bias in the hiring process?",
@@ -914,6 +957,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-03-alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone.md",
+      "title": "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne",
+      "excerpt": "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor managemen",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210603005190/en/ALICE-Receptionist-Offers-Global-Customers-Greater-Access-to-the-AI-driven-Customer-Experience-through-Expanded-Relationship-with-HourOne",
+      "originalUrl": "https://www.businesswire.com/news/home/20210603005190/en/ALICE-Receptionist-Offers-Global-Customers-Greater-Access-to-the-AI-driven-Customer-Experience-through-Expanded-Relationship-with-HourOne",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code.md",
       "title": "Researchers open-source benchmarks measuring quality of AI-generated code",
       "excerpt": "And as computers become ubiquitous, the demand for quality code draws an ever-growing number of aspiring programmers to the profession. After years of study to become proficient at coding, experts learn to convert abstracts into concrete,",
@@ -953,40 +1030,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone.md",
-      "title": "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne",
-      "excerpt": "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor management technology by WinTech, LLC, has expanded their relationship to enable an instant offering in multiple languages,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/",
-      "originalUrl": "https://www.financialbuzz.com/alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1405,49 +1448,6 @@
       "provider": {
         "name": "Huawei",
         "domain": "huawei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-india-will-see-breakthrough-application-of-ai.md",
-      "title": "India will see breakthrough application of AI",
-      "excerpt": "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
-      "publishedDateTime": "2021-05-28T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

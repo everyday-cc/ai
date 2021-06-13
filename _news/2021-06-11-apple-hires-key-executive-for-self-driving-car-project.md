@@ -51,6 +51,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What Waabi’s launch means for the self-driving car industry"
+    excerpt: "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable."
+    publishedDateTime: 2021-06-12T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/"
+    ampWebUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "The Four Biggest And Most Baffling Congressional Issues When It Comes To Regulating AI Self-Driving Cars"
     excerpt: "A close look at four key controversial Congressional issues on regulating AI self-driving cars, and what those issues portend for our future and the driverless emergence."
     publishedDateTime: 2021-06-09T15:30:00Z
