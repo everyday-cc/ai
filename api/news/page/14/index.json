@@ -2,6 +2,176 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-01-making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry.md",
+      "title": "Making AI Sing: An Interview With Verphoria On The Use Of Artificial Intelligence Within The Music Industry",
+      "excerpt": "At the cutting edge of the music industry, innovators like Verphoria are continuously pushing the boundaries of human/machine collaboration in creation as well as business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b5732f1944aa8b2f7dd319%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/amp/",
+      "publishedDateTime": "2021-05-31T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-ai-in-genomics-market-development-and-future-trends.md",
+      "title": "AI In Genomics Market Development And Future Trends",
+      "excerpt": "The company provides IBM Watson, an AI platform, through its Cognitive Solutions segment. Watson is used by pharmaceutical companies and biotech & academic institutions to support new drug target ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5597918-ai-in-genomics-market-development-and-future-trends",
+      "originalUrl": "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5597918-ai-in-genomics-market-development-and-future-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-visa-v-expands-reach-of-fintech-partner-connect-program.md",
+      "title": "Visa (V) Expands Reach of Fintech Partner Connect Program",
+      "excerpt": "Visa Inc. V extended its program, Visa Fintech Partner Connect, which was first unveiled across Europe in November 2020. This time around, the program can be availed by Visa clients in the Asia Pacific,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31",
+      "originalUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp",
+      "publishedDateTime": "2021-05-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-asapp-releases-dataset-to-help-develop-better-customer-service-ai.md",
+      "title": "Asapp releases dataset to help develop better customer service AI",
+      "excerpt": "Asapp, a research-driven customer experience company, released a dataset designed to help train automated call center systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/",
+      "originalUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/amp/",
+      "publishedDateTime": "2021-05-31T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-engineers-use-ai-to-create-a-robot-that-can-smile-back.md",
       "title": "Engineers use AI to create a robot that can smile back",
       "excerpt": "At some point in the future, engineers foresee a time when robots are a normal part of everyday life, providing care for children and the elderly and providing labor. For humans, facial",
@@ -954,178 +1124,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs.md",
-      "title": "Intel Stock – Arm launches Cortex-X2 CPU and Mali GPU for phones and PCs",
-      "excerpt": "Arm announced details of the first Cortex-X2 CPU and Mali-G710 GPU core to drive future Arm-based smartphones and PCs in 2022. In the latter category, Arm has already made a fairly positive claim to Intel.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_intel/intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_intel/intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T19:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.md",
-      "title": "Ubisoft hires AI, machine learning expert to lead product technology",
-      "excerpt": "Ubisoft is forging ahead with experimental technology like machine learning, AI, blockchain and more for its upcoming projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/9/79664_32_ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
-      "publishedDateTime": "2021-05-29T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them.md",
-      "title": "Adversarial attacks in machine learning: What they are and how to stop them",
-      "excerpt": "Adversarial attacks present a growing threat to commercial AI and machine learning systems. Fortunately, some solutions exist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "originalUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
-      "publishedDateTime": "2021-05-29T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-why-natural-language-processing-is-ais-jewel-in-the-crown.md",
-      "title": "Why natural language processing is AI’s jewel in the crown",
-      "excerpt": "As we enter the intelligent era, smart devices and data volumes will skyrocket, as will the demand for human-computer interaction through speech and language - that's why it will be a US$16 billion market by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huawei.com/my/technology-insights/publications/winwin/33/why-natural-language-processing-is-AIs-jewel-in-the-crown",
-      "originalUrl": "https://www.huawei.com/my/technology-insights/publications/winwin/33/why-natural-language-processing-is-AIs-jewel-in-the-crown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/33/liuqun-natural-language-process-l.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Huawei",
-        "domain": "huawei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

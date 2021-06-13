@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/enter
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/enterprise-automation-announces-results-of-innovative-artificial-intelligence-and-data-visualization-research-and-development-projects/article_b4391391-ac47-5f02-90e7-cbfb970ec657.html"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "To Secure Data Centers, AI and Automation Are Key"
+    excerpt: "To avoid being next to fall victim to malicious server code, universities and colleges need to secure their data more effectively than ever before. For many universities, this can be achieved through data center automation."
+    publishedDateTime: 2021-06-10T16:09:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key"
+    ampWebUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 59
+    images:
+      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202106/GettyImages-1271247696.jpg?itok=pRl58pZz"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "CE7a94PI2QkDFv7RLQ7wYehh4Fpcv5tznI03sgJtqcWjvyV4TCSM3ZAwddi0qf9HGJbZuTF4FTkp9qOje9e0xyzeY+etFY5MjGvJ0nQHxl5Z3FY5YWleA+TaY5XZLaxyEl8jrgNVZdIf3fMMf3u04OSJRhYCXUWvQgFRxPN2BFgpJBkmH+66bU8A4FPCpTo7vmTnXv4Fw2OusNxF+0GoHGzl/YKi4GSUbTAPclmyIntP0gCPzc1BPUkvmmMauiAtYe3OFA3mywdjH1H3PmUcTapkga3az4Z6QtT17sZigm20XuzbwnBg0xiFP6gZ5pD81w/eUj47syZ6WsVft1uJep3iRAMNGgflDeqQ3WKL3UE=;5LHh+7v9vNSSeKXhYriacA=="
 ---

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler"
-    excerpt: "Data preparation remains a major challenge in the machine learning (ML) space. Data scientists and engineers need to write queries and code to get data from source data stores, and then write the queries to transform this data, to create features to be used in model development and training. All of this"
-    publishedDateTime: 2021-06-08T16:12:16Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/22-4153-menu_1.jpg"
-        width: 700
-        height: 425
-        isCached: true
   - title: "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
     excerpt: "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue"
     publishedDateTime: 2021-06-09T21:01:20Z

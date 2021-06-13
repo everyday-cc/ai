@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-center
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI and cloud automation slash a cloud bill in half?"
-    excerpt: "Many companies don’t realize how dramatically their cloud spend can increase given that those expenses aren’t charged up-front."
-    publishedDateTime: 2021-06-08T15:30:00Z
-    webUrl: "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/"
-    ampWebUrl: "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/"
+  - title: "Enterprise Automation Announces Results of Innovative Artificial Intelligence and Data Visualization Research and Development Projects"
+    excerpt: "North America's premier control systems integration firm serving the water and wastewater and life sciences industries today announced its most recent"
+    publishedDateTime: 2021-06-10T19:25:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/enterprise-automation-announces-results-of-innovative-artificial-intelligence-and-data-visualization-research-and-development-projects/article_b4391391-ac47-5f02-90e7-cbfb970ec657.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1622706374516.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "nmltRy4e66/wH15Erp3DEkqoo7HNadPaQi73RAukdndgAlqiuVk+Pg7u/GQQAbaH0XnRBzu4+lNajuEKQjQHMOLMJ3UXXd5f883QfOvhusqqxu4iiB9AVTxiN+qC4YpS+y8yt5X0jWlnC7fJFRzUzs/BPiWmLz502nR2YkXxeOx6wR1XCXu1Tmp2oHaqc0qh4msReeCz170W8pAz59tD8/phnrGA+uGMHdL+UOVVSACFAy/UENISXvSCQ8/XE0x00ge8gQSWVbNzdwEa0ondVmlJDjnjiWGkioGkMwR0vraLzYacIFZK4rdDP6VkAneCO15DjL7xJPZ/1/kPVvQDRvGAGeK8qLXz0tO8GRcJRj4=;p5nEEB6gpnJXpzWqSc/Igg=="

@@ -188,6 +188,59 @@
       ]
     },
     {
+      "path": "_news/2021-06-09-develop-and-deploy-ml-models-using-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot.md",
+      "title": "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot",
+      "excerpt": "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T14:01:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips.md",
       "title": "Google used reinforcement learning to design next-gen AI accelerator chips",
       "excerpt": "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips.",
@@ -196,7 +249,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -346,7 +399,7 @@
       "originalUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -379,6 +432,49 @@
         "Machine Learning",
         "AI",
         "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-iit-mandi-offers-online-course-on-deep-learning-for-working-professionals.md",
+      "title": "IIT Mandi Offers Online Course on Deep Learning for Working Professionals",
+      "excerpt": "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/",
+      "originalUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/",
+      "publishedDateTime": "2021-06-08T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1333,85 +1429,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation.md",
-      "title": "Udacity Issues a Two-Month Free Course on AWS Machine Learning Foundation",
-      "excerpt": "Udacity announced last week the launch of a new version of its AWS Machine Learning Foundations course with AWS (Amazon Web Services). It’s two months, free course for beginners with little to no experience in the area.",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/",
-      "originalUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iblnews.org/wp-content/uploads/2021/05/udacityandaws.jpg",
-          "width": 700,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/amp/",
-      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/amp/",
-      "publishedDateTime": "2021-05-31T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-deep-learning-suppliers-strategic-positioning-and-benchmark-report-2021-google-ibm-intel-micron-technology-microsoft-sensory-inc-nvidia.md",
-      "title": "Deep Learning Suppliers Strategic Positioning and Benchmark Report 2021: Google, IBM, Intel, Micron Technology, Microsoft, Sensory Inc., Nvidia, and Samsung ...",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. This report offers a full competitive analysis from target markets to product mapping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210601005409/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210601005409/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

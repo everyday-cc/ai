@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/google-used-reinforcement-learnin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/"
 type: article
 quality: 104
-heat: 324
+heat: 314
 published: true
 
 provider:
@@ -327,15 +327,6 @@ related:
       name: natureasia.com
       domain: natureasia.com
     quality: 35
-  - title: "Accelerating EV Design with Neural Concept’s Deep Learning Based Prototyping"
-    excerpt: "Neural Concept, based in Lausanne, Switzerland, was founded in 2018 by Dr. Pierre Baque. Today, it employs 18 people whose expertise in computer vision and 3D geometry looks to reduce the time required for the likes of Airbus,"
-    publishedDateTime: 2021-06-08T15:04:00Z
-    webUrl: "https://www.abiresearch.com/market-research/product/7779313-accelerating-ev-design-with-neural-concept/"
-    type: article
-    provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 16
 
 secured: "OsQe86OboXRgOnPkuhBbgoF5PdWSMc8I9tURaJWtkt5N05rLRzGVJOX9YUYJFl06NHCiOZJpfaMpUQiJl9NZ3eOcDc6Xr7IjB1KWblnZ7OrXSmV8lhtfD2gta5ZbCZMXkSe0uxcoFB3BQLqslZfcccmVESC7t5EXuxxoOMQPM+h6pmSz3lH/ElZfg2lXJCoXcyXoUZX6SoqSiWQVHy0Wcb2Ux0k/+k5EJZA7FcY+BWvV5H/fjFNsDdIpOmKCfiTi1eIKm75CcrALk20KKXwvJEkHFvDJhiRsOU3eXOyopqss6+iyYjVbkn2sar+UJO4hRlZK80INrzciHl3fDxOAcTaG+rktrCMdK1ib5iEQgMfNa670wY+QUdGEWJ4OjPvF2OV3JTL4PSK5kj80/emiZfbpuXNhxsucKvRaq4ECu6t6ztEtOt1Z6MICTXc6YSLzClgujqNgYjuzJsA0STOEGRyl0FvI5WpdbALwmpJlFUpN4n+Cr1tRZR2w7SIV1B0T2gOdUqFqsYjcybokPEdx8Q==;DFL53Rmn69wIdI356E8D+w=="
 ---

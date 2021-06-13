@@ -7,7 +7,7 @@ originalUrl: "https://www.utoronto.ca/news/u-t-s-raquel-urtasun-raises-100-milli
 webUrl: "https://www.utoronto.ca/news/u-t-s-raquel-urtasun-raises-100-million-self-driving-startup-waabi-reports"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Driving Startup Raises $83.5 Million, It is Run by Former Uber CSO"
-    excerpt: "The self-driving vehicle market is getting kind of crowded, with new companies emerging every day, trying to make autonomous driving technology a reality in every corner of the world. Now a former Uber CSO (Chief Scientist Officer) launches her own self-driving company in Canada."
-    publishedDateTime: 2021-06-08T15:04:00Z
-    webUrl: "https://www.autoevolution.com/news/autonomous-driving-startup-raises-835-million-it-is-run-by-former-uber-cso-162834.html"
+  - title: "The road ahead: Raquel Urtasun's startup to ‘unleash full power of AI’ on self-driving cars"
+    excerpt: "The list of resources at Raquel Urtasun’s fingertips as she takes the wheel of Waabi, an autonomous vehicle startup, is impressive to say the least. The goal? Use AI to finally resolve the technical and financial challenges that have hindered the full commercialization of self-driving technology."
+    publishedDateTime: 2021-06-10T21:49:00Z
+    webUrl: "https://www.utoronto.ca/news/road-ahead-raquel-urtasun-s-startup-unleash-full-power-ai-self-driving-cars"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 34
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 29
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/autonomous-driving-startup-raises-835-million-it-is-run-by-former-uber-cso-162834-7.jpg"
-        width: 728
-        height: 300
+      - url: "https://www.utoronto.ca/sites/default/files/Raquel_Urtasun_Portrait_horizontal%20copy.jpg?169644"
+        width: 1140
+        height: 760
         isCached: true
 
 secured: "4QYy3CwLC9vZ6DwuGSXRB+4qpj0cHNRP4RwssXzu831nSsS0p6wKbMMOfZjyjqAcU8N2lAXzx4u7/M0XEDWkq8MrdQ5Uh98G/8XqCUCHhCyxEFfEp0IN02UyQyShCxLojoAy3BQy78Ah7uVPnNL7SS4SI4n4+jx2lBm9I/rGJgDUcvpoLk5bhZS77Bxm10S712Z46Ygid+5rV4F7gWR5BOTw512c7J/ny8PRDfGzaLO1hYLEW/r+86ElASeXy0LvkMqoKH+YmjVUZ66APKHueq/ye6nXnqjraKl4NQs19totSYx8S1ItMIdVG2hN5nu7CWyT4ng91vY0/BqIuB0RTxBUvMEu2u+x2gaQPYoGDJY=;aU0IghCU4eydVCdEpIO6KQ=="

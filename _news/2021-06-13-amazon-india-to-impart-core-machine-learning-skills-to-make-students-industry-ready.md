@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report"
-excerpt: "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses."
-publishedDateTime: 2021-06-09T09:08:00Z
-originalUrl: "https://www.news18.com/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
-webUrl: "https://www.news18.com/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
-ampWebUrl: "https://www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
-cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
+title: "Amazon India to impart core machine learning skills to make students industry-ready"
+excerpt: "ML algorithms for improving address quality in India are being leveraged in other marketplaces to identify poor quality addresses and categorise addresses as Residential or Commercial, it added."
+publishedDateTime: 2021-06-13T09:28:00Z
+originalUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/"
+webUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/"
+ampWebUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
 type: article
-quality: 83
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: CNN-News18
-  domain: news18.com
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - Machine Learning
   - AI
-  - Math for AI
 
 images:
-  - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623229612_shutterstock_1831313974.jpg"
+  - url: "https://images.financialexpress.com/2021/06/amazon1200.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -43,6 +42,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report"
+    excerpt: "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses."
+    publishedDateTime: 2021-06-09T09:08:00Z
+    webUrl: "https://www.news18.com/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 83
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623229612_shutterstock_1831313974.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Indians have high skills in machine learning, Math but lack data skills: Coursera’s Global Skills Report 2021"
     excerpt: "The Coursera’s Global Skills Report 2021 by global online learning platform Coursera said that overall, India ranks 67th globally. It ranks 55 in business, at 66 in both technology and data science."
@@ -71,23 +86,7 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 55
-  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
-    excerpt: "ML algorithms for improving address quality in India are being leveraged in other marketplaces to identify poor quality addresses and categorise addresses as Residential or Commercial, it added."
-    publishedDateTime: 2021-06-13T09:28:00Z
-    webUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/"
-    ampWebUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 53
-    images:
-      - url: "https://images.financialexpress.com/2021/06/amazon1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "Ncgl/cKSDbvbfYdkaZGP76Kz+GVPS5V9DW3F1Zt8IcvflyBED1o2EUKTaHS2zA4LQlGG3cAAXg1Y3Nqq4dt3ZPrcdZ2t87659ed+jPUrX66e1QZLtNz7FFNzaIyBMBp+Iy51WSo/7EP9UPgqLqP/vaBT76J2scxhtv/p/pMXzmOzMKikoXyDylyNzORWzKPJBONv2UqfS41AXbtsK1+k7nlG6bnQaPWvU9CVnFTZkvIXVfAftb2qsQwblh4mvozGCr2eXiiSxvhpe0XXqn9GX9nqDJM3cYN6sMxeSUUrTqvqZZAk1OEkK9yySOtz8H7aD8wbMjkIeecG8RcIw1feczUbccHYR5zkUXSj8Gnvvlg9JgaVARVpav33EEsqIsImLnSJHLAf2Ex0cPRWoCBl3y1tYU8wLcdqUVcb3yhIgn+MATeJVASe1QLCGozMwvF6dnOuoXeD/3F3mrzmak81BMHsOS6VTKhR9OcdnCqGPv0Kwn7Sw2j+ikRvBhJi5WnLZByxPLwDt5QN795YVXjjnQ==;sT3W9Q07wHtSUGIDvw/N6A=="
+secured: "c1alrA9N5nN5jbcCcKRXPTm/qgr+S9FaRCueEWATsoaZKao9vFl1YHRVAVdBEs7fYRFvnnlg8/U2ntu22UeNEoHLPsK1gpptUI55ABm66a7w9WTtNyc9rAtERSego7/U3nXeh/aSB6RPo9pJMWSKjof7OrgIUmxPgqkPOPw0NKAe2B+ra9VFhqT0NHKWzl4px83JRg8zefW77TMFVmzyDFecclXoEMM8H19N3fKwgilD4jzu3UGOo0KjYThaw5G7zewAoZy2BedNLmZQAeDUwGPM04vgkHwq/FhQynpufM9SOyO1aT8njfBoEN1hngzVtCWuDKBMlHCuxIxlCCsEGA3MBK+XQphf7nKJDFzJUws=;h0YGVan1IbhzzszXA0hVow=="
 ---
 

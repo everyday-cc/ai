@@ -2,6 +2,188 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-01-young-stem-student-uses-artificial-intelligence-to-help-emerging-nations.md",
+      "title": "Young STEM Student Uses Artificial Intelligence To Help Emerging Nations",
+      "excerpt": "In emerging markets, many health and economic problems are related to access to clean water and sanitation infrastructure. This causes issues related to hygiene, pollution, agriculture, diseases, food and education. ISEF competitor Arya Tschand, 17, from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b63962dacd06d77ad5cd41%2F0x0.jpg",
+          "width": 620,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfellows/2021/06/01/young-stem-student-uses-artificial-intelligence-to-help-emerging-nations/amp/",
+      "publishedDateTime": "2021-06-01T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-what-artificial-intelligence-still-cant-do.md",
+      "title": "What Artificial Intelligence Still Can’t Do",
+      "excerpt": "Modern artificial intelligence is capable of wonders. It can produce breathtaking original content: poetry, prose, images, music, human faces. It can diagnose some medical conditions more accurately than a human physician.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b52de2a5dc9f37974c9ae8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D0%26cropY2%3D337",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
+      "publishedDateTime": "2021-06-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-neural-network-performs-complex-hand-movements-in-new-simulation.md",
+      "title": "Neural Network Performs Complex Hand Movements in New Simulation",
+      "excerpt": "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/neural-network-performs-complex-hand-movements-in-new-simulation-349365.jpg?cb=20210603",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-lead-semantics-collaborates-with-fluree-to-bring-a-secure-natural-language-processing-pipeline-to-market.md",
       "title": "Lead Semantics collaborates with Fluree to bring a secure natural language processing pipeline to market",
       "excerpt": "TextDistil extends the scope of data platform strategy to include text assets for enterprise data teams building domain-specific knowledge graphs or governance strategies for unstructured data",
@@ -469,8 +651,8 @@
       "title": "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc.",
       "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -480,12 +662,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T00:37:00-07:00",
+      "publishedDateTime": "2021-06-01T00:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -494,9 +685,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -957,176 +1147,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry.md",
-      "title": "Making AI Sing: An Interview With Verphoria On The Use Of Artificial Intelligence Within The Music Industry",
-      "excerpt": "At the cutting edge of the music industry, innovators like Verphoria are continuously pushing the boundaries of human/machine collaboration in creation as well as business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b5732f1944aa8b2f7dd319%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/31/making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry/amp/",
-      "publishedDateTime": "2021-05-31T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-ai-in-genomics-market-development-and-future-trends.md",
-      "title": "AI In Genomics Market Development And Future Trends",
-      "excerpt": "The company provides IBM Watson, an AI platform, through its Cognitive Solutions segment. Watson is used by pharmaceutical companies and biotech & academic institutions to support new drug target ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5597918-ai-in-genomics-market-development-and-future-trends",
-      "originalUrl": "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5597918-ai-in-genomics-market-development-and-future-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-visa-v-expands-reach-of-fintech-partner-connect-program.md",
-      "title": "Visa (V) Expands Reach of Fintech Partner Connect Program",
-      "excerpt": "Visa Inc. V extended its program, Visa Fintech Partner Connect, which was first unveiled across Europe in November 2020. This time around, the program can be availed by Visa clients in the Asia Pacific,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31",
-      "originalUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp",
-      "publishedDateTime": "2021-05-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-asapp-releases-dataset-to-help-develop-better-customer-service-ai.md",
-      "title": "Asapp releases dataset to help develop better customer service AI",
-      "excerpt": "Asapp, a research-driven customer experience company, released a dataset designed to help train automated call center systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/",
-      "originalUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/amp/",
-      "publishedDateTime": "2021-05-31T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

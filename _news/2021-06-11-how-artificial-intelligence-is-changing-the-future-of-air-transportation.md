@@ -26,33 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Foundations of trustworthy AI: How mature is your AI governance?"
-    excerpt: "As organizations scale their use of AI, they increasingly need to do so in a responsible and governed manner. This is driven by many complementary forces: brand reputation, anticipated regulations [1,2,3], AI complexity, and social justice. Each of these alone would merit the need for AI governance,"
-    publishedDateTime: 2021-06-08T15:30:49Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/"
+  - title: "How AI could radically change education and standardized testing"
+    excerpt: "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment."
+    publishedDateTime: 2021-06-10T17:50:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 106
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_implement-governance_2000x1000.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Should Organizations Fear Artificial Intelligence? 9 Reasons Humanity Should Fear an AI Takeover"
-    excerpt: "Artificial Intelligence (AI) is a transformative technology. It may undoubtedly prove beneficial for the future but a complete AI takeover is also highly likely, if due measures aren’t taken now. AI is creating fear and excitement by disrupting several industries."
-    publishedDateTime: 2021-06-11T10:55:00Z
-    webUrl: "https://www.bbntimes.com/technology/should-organizations-fear-artificial-intelligence-9-reasons-humanity-should-fear-an-ai-takeover"
+  - title: "How Advances in Artificial Intelligence and 3D Printing Are Changing Manufacturing"
+    excerpt: "Additive manufacturing, artificial intelligence, and machine learning are disrupting every industry—most notably manufacturing and aerospace and defense industries."
+    publishedDateTime: 2021-06-09T13:04:00Z
+    webUrl: "https://www.automationworld.com/factory/3d-printing-additive-manufacturing/article/21496905/3d-printing-technologies-in-aerospace-and-defense-industries"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 41
+      name: Automation World
+      domain: automationworld.com
+    quality: 33
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Takeover.jpg"
-        width: 800
-        height: 533
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Dick_Slanksy.5f246d27ae664.5fc66a75d84b7.601973ef45082.60632e4ecb1f2.60be36e010e97.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 730
         isCached: true
 
 secured: "7UqF6RTA+Hrk71V82Q92XyRTNhfIYj2Ti6FKFXf7fpHFlkVyU5Yo+bfR68a1Z23IL29Aigu7ecLV40BoUC0I4EMBetO/8GFpx8rv8RKsjEiIJ2cyblUFhioOpnKqsypyL21PuS+rVPnl42KxA2mMvdwbaw98QU10IvLbGePZTgrRWAYROW2+OEfTMSDfZrYRCDAMWyTQekdB2HQVMjLj2EuUaBM05EcQKEfhoZHNfEzTNTpYKrFgHUMdrIgrP1mz1aA3josAEEho/kg82Ogz88LRMfnAL8cCywFIW3+9A0vnlL1/DIXY8Fl46GCmd8LCPY+nNnkBH2OEOdThWJ7+bL5W/LJ9Igdg79RmVNdfH4cEsK+brwCGrS2bCt6RFVHcUrxFMkW9+2Z0OaSakvY5aMH29RxGLo4uDvnbFHnho3a+1vOwViO6+ht2SJthZVIcZ9Va89PgjslG9t4DSJIBm+8YmJsgAKJxm3LnIR0f+xzOFWRGshlEwebVitXt2chpIOmyvBsj678tniYAFbhODw==;SZfCtC60IQnJJ8eXOj54Iw=="

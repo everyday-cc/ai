@@ -322,15 +322,6 @@ related:
       name: natureasia.com
       domain: natureasia.com
     quality: 35
-  - title: "Accelerating EV Design with Neural Concept’s Deep Learning Based Prototyping"
-    excerpt: "Neural Concept, based in Lausanne, Switzerland, was founded in 2018 by Dr. Pierre Baque. Today, it employs 18 people whose expertise in computer vision and 3D geometry looks to reduce the time required for the likes of Airbus,"
-    publishedDateTime: 2021-06-08T15:04:00Z
-    webUrl: "https://www.abiresearch.com/market-research/product/7779313-accelerating-ev-design-with-neural-concept/"
-    type: article
-    provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 16
 
 secured: "cSdI0G99Wu29BmYSi/cf+bEmEI5mS9V0NnftXZvofllk/PH6RPfxy3Ik5aC191vJG++HI/DcliF2JY8sLCdo53wUCU+SJ3fQR8SkSfEE8Ric0Pr3WeBN8aAr09LZ1ysebKzWLmXtObww2vlrAmD/o+fyf6eFfNmX1xHq6g7zB7olf+2uxQERK3OZ9tM6n86DUXrVZ3xlvkvUWlzAFGhX0mMKvMKVKoM+ZOqG+AjzcTDlAlj3XTjLOUQErJhfBf5Be2yoQgN1Y6zTS0tKOT/MmXe1Lhj2ut3MH9t+xnOHpNNh0eW4r3eZwWztfF865MvTqnokCU+iV2vSJ8qmkSncH7b/GPKGm8GM2FC3AlSbKhi5KxKF48ltl4v0EcjSU7UnvCEJR5uspzF2u8DxZjaeh+UchNgK7oMq9VOoYUPRgHka+SLC3rLGGMqTcaorH6t0PMmDJPRlQ26cOd1QwIMAfMrhE94caffa2kIPlb+zmAU6bMjKd08EFDi7NkMlWEX5DO2ldCQUi89DE69vbiZrTQ==;jV49YbNlNykpIjSaabR3CA=="
 ---

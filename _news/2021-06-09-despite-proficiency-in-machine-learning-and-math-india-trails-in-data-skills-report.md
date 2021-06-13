@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-in
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -71,6 +71,22 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 55
+  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
+    excerpt: "ML algorithms for improving address quality in India are being leveraged in other marketplaces to identify poor quality addresses and categorise addresses as Residential or Commercial, it added."
+    publishedDateTime: 2021-06-13T09:28:00Z
+    webUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/"
+    ampWebUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 53
+    images:
+      - url: "https://images.financialexpress.com/2021/06/amazon1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "0M8J67jFElCZZgyu6HYkVS7Cf9ldU6nG8OCg98Ab/sqp0azBIRwXBhTe3hqK2d37weoid3sGAKadTNrQDO0nrkLe6pB9Tx5MpGEDypwC/BXVpQaJLzookx+XFlUjOFaD7tKG73r8eSzq6b9ZvKPkNJkf8qcJMmbNlLxy12JCExZ0r+CONNej7V6rydWwW4PO/atQAGi3nZZT4RiNOdMvxwU/kFuzF3Vnp/Q+XDypEPbekixNUpQvFYOE0xlDxmtQacTRsR2jy7eHCjZUqoUxrn3Gs6/ZN/FeKIJPVlD8wGy4MjWUTo/VktrQ9QQhcjotkc1Q2fOF86sj2AEvlSL6wwHjrhqTP4bTYOJUNHuSwk3zvJVrCrQo9V4rnwScXc/fnJZa5erp718MBxjvjlrq5MGwpjA0HlaoqaS06oubxyVm5EkOafMiMc6Tcp7uinnZLo9t0A7cRzteWicuMnim0WD60THBnMh6hB6DCw/QBNFMytiOyV4vq+8DqoZLWUebS84wR6HgSh/d3IfcVXgvog==;7O+c97RoaFwH0pE7UWEdnQ=="
 ---

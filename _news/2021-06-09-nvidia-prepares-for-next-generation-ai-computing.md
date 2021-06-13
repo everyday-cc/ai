@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Who Won The Latest AI Drag Race? AWS Or NVIDIA?"
-    excerpt: "There is a quiet drama simmering over AI chip benchmarks. This isn’t the first time, and will certainly not be the last. Keeps me busy. This time, it is between Amazon Web Services (AWS) and NVIDIA. It is always NVIDIA."
-    publishedDateTime: 2021-06-08T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/"
+  - title: "NVIDIA’s Manuvir Das: The Future of Artificial Intelligence in the Enterprise"
+    excerpt: "Manuvir Das, Head of Enterprise Computing at NVIDIA, discusses the current state and future trends in enterprise artificial intelligence."
+    publishedDateTime: 2021-06-11T17:42:00Z
+    webUrl: "https://www.eweek.com/news/nvidias-manuvir-das-the-future-of-artificial-intelligence-in-the-enterprise/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
+      name: eWeek
+      domain: eweek.com
+    quality: 64
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609be739b8030e51b55f606a%2F0x0.png"
-        width: 627
-        height: 385
+      - url: "https://www.eweek.com/wp-content/uploads/2021/06/manuvir-das-thumbnail.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "wd0aejt5RF4fkknfknVQX8WBLyCfpIrfOI74WuQg+bg6tfC7fxVTmTUoAIuAkVPyaP1xXJTtzPIKKPHDNDmOOjmYv6vvChbkAFOIK3CqbMQFR4IGLxsJ1VIZqZBXQwD01peb6yFo7TVqfYM+S9SAib3tRiphOib4T2epSw1dH4S+UGg8PXXF0okULrlpR8X7RiTTOcoS2YD2BdgjdCEyMKwuROMDkHVIkVZfy1KRzsz+3cotayHmhB79cRDzXc0/x4KA3Z8oeUOMQInqQYYpcnbvo7oX0/OxDgLiC5WmkTFrDye/LWPJhjcoHPdRuhQvf3FnCdltv8hhmVyP6mtYKdWf9W9Hx3ka0ngn79El3VHEAQXKR1PFtk05+sRjfM0F34AnjkEfLI/jlI6ALVr8SaDJobojnyexRClDruuHa7fuXhMNKMVUM4hVQ9/kZsSX5PchQDQUvEI3IerSzvuGn7ixmyYTuWLCowY5eab+Yehp0f+jvTO10dGHrvJdiKgXWk4cjulHUVQHyfVymsxiSw==;PgJW2CUhbTnjXl7lc4EYGw=="

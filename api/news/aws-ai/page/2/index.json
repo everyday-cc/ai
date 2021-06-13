@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
+      "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
+      "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-Illustration-2.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-30T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-novel-ai-tool-to-help-assess-covid-severity.md",
       "title": "Novel AI tool to help assess Covid severity",
       "excerpt": "Toronto, May 29 (IANS) Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy.",
@@ -1299,58 +1345,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent.md",
-      "title": "Artificial Intelligence And Automation’s Paradox: More Human Talent Needed To Reduce Need For Human Talent",
-      "excerpt": "Impending post-Covid boom in AI, algorithm and automation jobs means more talent shortages -- and re-inventing careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
-          "width": 1200,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/amp/",
-      "publishedDateTime": "2021-05-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

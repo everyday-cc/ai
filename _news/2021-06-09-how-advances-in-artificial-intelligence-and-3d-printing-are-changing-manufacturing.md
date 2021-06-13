@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How artificial intelligence is changing the future of air transportation"
+    excerpt: "A George Washington University School of Engineering and Applied Science professor is working on an interdisciplinary research project funded by NASA that aims to design and develop a safety management system for electric autonomous aircraft."
+    publishedDateTime: 2021-06-11T14:29:00Z
+    webUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 71
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
+        isCached: true
 
 secured: "wfPS/azi8ce4+qCRCCpBTDnQ6aSbD98xFk5IBxznerz2YjytkfUtzBdZoKg1bw2b6Tc1lqha67bCHJpSsuassv09iyPoFR+jvNPVjpRzZONqisrGtjH5lEl2kQ0jDrW1ua1K0skHo89Suj9E6O1BcKqDWL/x7dGiI2tWiQvJGb6dIVagDTb8bX6fKpTz1pqB7hjTHT1dW51c3gaBA1jLX/IWVNM2X3CW7ZJl1zNhi455OEAt63pxqYqpN7tzqxa42OxYx9ALG0P3H93C8TjOmfxzXaVJSetnXZ5BlSd/RPCIesHPJV0ckIY986nlFNtMUy3ZYxp9H2JYIrUEMjXe/nbWF7CfmaArxLQOWSqSrcqNKlV1S/n6d5dTlmlvc2TjI5SnUza/ZEbGqzsf77rNQM/vFO/WQiK4RBxaYt/DWgM17jIFrym7odyKOFu70zz6meNjFNwV8hP6sG7O4XfAj4y8gA7BXfxZpeX6Wm7dZOH+4nBUPFPdF1ec+t2aofevggFZDErE6iFMrjY5IWM98A==;FUl8mgra3sfy+6iCSLoy1Q=="
 ---

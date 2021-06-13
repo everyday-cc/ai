@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon India introduces machine learning summer school"
+    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain a."
+    publishedDateTime: 2021-06-13T08:48:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/articleshow/83480005.cms"
+    ampWebUrl: "https://m.timesofindia.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/amp_articleshow/83480005.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/amp_articleshow/83480005.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-83480210,width-1070,height-580,imgsize-161336,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "As artificial intelligence-based loan apps boom in India, some borrowers miss out"
     excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been"
     publishedDateTime: 2021-06-09T07:26:00Z
@@ -74,20 +90,6 @@ related:
       - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
         width: 810
         height: 506
-        isCached: true
-  - title: "Amazon India introduces machine learning summer school"
-    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to"
-    publishedDateTime: 2021-06-13T06:40:00Z
-    webUrl: "https://www.glamsham.com/world/technology/amazon-india-introduces-machine-learning-summer-school"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/3a8ac9132d74a8c38417d22923cee3a4-3.jpg"
-        width: 400
-        height: 266
         isCached: true
   - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
     excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."

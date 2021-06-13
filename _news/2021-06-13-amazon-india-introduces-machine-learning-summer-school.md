@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Amazon India introduces machine learning summer school"
-excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to"
-publishedDateTime: 2021-06-13T06:40:00Z
-originalUrl: "https://www.glamsham.com/world/technology/amazon-india-introduces-machine-learning-summer-school"
-webUrl: "https://www.glamsham.com/world/technology/amazon-india-introduces-machine-learning-summer-school"
+excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain a."
+publishedDateTime: 2021-06-13T08:48:00Z
+originalUrl: "https://timesofindia.indiatimes.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/articleshow/83480005.cms"
+webUrl: "https://timesofindia.indiatimes.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/articleshow/83480005.cms"
+ampWebUrl: "https://m.timesofindia.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/amp_articleshow/83480005.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/amp_articleshow/83480005.cms"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/06/3a8ac9132d74a8c38417d22923cee3a4-3.jpg"
-    width: 400
-    height: 266
+  - url: "https://static.toiimg.com/thumb/msid-83480210,width-1070,height-580,imgsize-161336,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    width: 1069
+    height: 580
     isCached: true
 
 related:
@@ -95,6 +97,6 @@ related:
       domain: analyticsinsight.net
     quality: 17
 
-secured: "6mh/Kj0qb86Zl+RzuZPvJc+puQ5PcCU3/aLqj7bKE8vZqHZF3up2YyHdLGtVhW4oBg4BCOe5325F+t86MVHn2R24I6+2TOqabg7b9tFLvLdNS4CpH4cexuLnnQmg1WYFdnVLa5W2JR2xwwRbjlQBViqpjxZIeRK9X6kIxlBgy6YN2u1Z4dq0tGqYcDZaQqq4wzB1HtNf6In4C2KTgqyhm+uEW4xAghE29L8K3cdavKRzBwI6GmZ+GzHcwo3/UfHU5vWk5Yd4a76HKoEc7gxeZeoUrOH9PQZyZSC7dtPLjk6Fwh9BmrCV9z3mUOkBs/CWkxfO6Jk7nZC1a+0IpX4yEEmekZbOlzS1DpOFvFBiXVw=;wRipzRqD1BWRy4AIjdpAog=="
+secured: "py+gM3/FMqzxjA8hyVb6G6S7oe0zOTGnSM0uUdTbB8boHJ/fKJqCH77L2KFpF7fBwJPKEVbtu2EI9muTp5+aSFnXutE8JdUJQ6M3mjth23SN/s+mEtoVAlbBki/jq8yrU9a8be+fira2q8jz9/mhE/mu/XA+2mHAmpKdWNntOm7ae+edA/qUdSVQvA+yky8wQNSXCm9eMjHNqCSpb0fnsC1n69upGISK/zMV240el5Q8ApKzT4kfgBlSpLXwXWj+Ayv7b/Dp2iup+DUowFxIfdQgckJiHMb21aq+ouByH497qah5P8/wZnlNqkIuTlfi/PKUYwYZTcjgwxfaLCTfGPvQjLyG0SBSBMF7V1U4lT8=;ig0n6EOKbBpksxnoQ2QYsQ=="
 ---
 

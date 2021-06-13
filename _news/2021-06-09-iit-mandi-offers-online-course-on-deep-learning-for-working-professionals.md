@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Dataquest
@@ -42,6 +42,22 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623235143_college3.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "IIT Kharagpur Offers Free Online Course on Machine Learning That Can Be Completed in 8 Weeks"
+    excerpt: "IIT Kharagpur has offered a free online course on introduction to machine learning on the NPTEL platform that can be completed in 8 weeks"
+    publishedDateTime: 2021-06-13T08:52:00Z
+    webUrl: "https://www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/"
+    ampWebUrl: "https://www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 48
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
+        width: 640
+        height: 400
         isCached: true
 
 secured: "U7e+ewazPTepQViLWVfcr6cXY4qXDSRcaV4sIa3zFSagKW6YhsYt4OXdS/RsmGbU3H1OBWn3kPjP8bbSV5WJy9hA+qq9tD0Ake1wJD2A0oCeTTWtHZXuUZpR2jpH5TPQjv3MlsowYcalNCI/jjRiaoRr3Bhvl3rIeexR97+L+QgtmWlpAloH3Y+jQDjyXwGHttfCMlJ4PkNR/WdgN48AmA2kb+yDX65civJr4zoVjCjR3JgIsBo2zVbhse8RGb9UzWeJr1nAh+/kc0EhOdXw3DXVSEtQ/Bsti/RcrDzvyxkUWs5Av+geMb49qFOYjQcQcrlgwjOsdfwHu7no5AvmAkS4W/4uGH+gFVgqppGSrMFDVf8A1ARkxY3XlEDCjQKqJDXR58opxCsftRJf4a7BPl5Ab2XFm2SqFlkEjgx4eXyQH0pgbj57sOSNmbJ8fzEDUjcs22EdA+0AABbg7FDmtYvqh+2T8pyzq6DD3lDGUDdSC5VgJmBEzRsIchY9E3s/smni5DJizEz7+/WqTTQUVA==;mUid8N3laIYfhiuGaEnUng=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-could-radical
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is changing the future of air transportation"
+    excerpt: "A George Washington University School of Engineering and Applied Science professor is working on an interdisciplinary research project funded by NASA that aims to design and develop a safety management system for electric autonomous aircraft."
+    publishedDateTime: 2021-06-11T14:29:00Z
+    webUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 71
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
+        isCached: true
   - title: "How Advances in Artificial Intelligence and 3D Printing Are Changing Manufacturing"
     excerpt: "Additive manufacturing, artificial intelligence, and machine learning are disrupting every industry—most notably manufacturing and aerospace and defense industries."
     publishedDateTime: 2021-06-09T13:04:00Z

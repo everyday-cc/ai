@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "In EV News: Ford Maverick Hybrid, Amsterdam's Self-Driving Boats, a Tesla Bull"
-    excerpt: "Ford Motor Co. (NYSE: F) introduced its hybrid-electric compact Maverick pickup Tuesday morning, saying the 2022 model year base vehicle is targeting EPA-estimated mileage of 40 mpg in city driving. Based on the company’s estimated fuel consumption of 37 mpg,"
-    publishedDateTime: 2021-06-08T15:42:00Z
-    webUrl: "https://247wallst.com/autos/2021/06/08/in-ev-news-ford-maverick-hybrid-amsterdams-self-driving-boats-a-tesla-bull/"
-    ampWebUrl: "https://247wallst.com/autos/2021/06/08/in-ev-news-ford-maverick-hybrid-amsterdams-self-driving-boats-a-tesla-bull/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/autos/2021/06/08/in-ev-news-ford-maverick-hybrid-amsterdams-self-driving-boats-a-tesla-bull/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 55
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2021/06/2022-ford-maverick-1.jpg?w=400"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Apple Hires Canoo Co-Founder to Work on Self-Driving Car"
     excerpt: "Apple has hired Canoo co-founder Ulrich Kranz to help lead its autonomous car project, according to a Bloomberg report. About a month ago, Kranz stepped down as CEO of Canoo, a self-driving electric vehicle startup."
     publishedDateTime: 2021-06-10T21:39:00Z
@@ -142,6 +126,20 @@ related:
       - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
         width: 2500
         height: 1406
+        isCached: true
+  - title: "The conspiracy keeping self-driving cars off our streets"
+    excerpt: "They were meant to be here by now. We’ve all heard about the self-driving scenario where the autonomous car drops mum and dad at work, swings back to get the kids for school, and then parks up while it waits for the afternoon summons."
+    publishedDateTime: 2021-06-09T03:19:00Z
+    webUrl: "https://www.drive.com.au/caradvice/the-conspiracy-keeping-self-driving-cars-off-our-streets/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/jxgpjsyxxbtlzflrfuny"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Self-driving Cars Market Size to Expand Notable Returns Through 2027"
     excerpt: "The Latest Research study about Self-driving Cars Market includes some significant activities of the current effective segment overview, for the worldwide Self-driving Cars Market. It presents a point to point analysis dependent on the exhaustive research of the market elements like market size,"

@@ -70,6 +70,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
+    excerpt: "ML algorithms for improving address quality in India are being leveraged in other marketplaces to identify poor quality addresses and categorise addresses as Residential or Commercial, it added."
+    publishedDateTime: 2021-06-13T09:28:00Z
+    webUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/"
+    ampWebUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 53
+    images:
+      - url: "https://images.financialexpress.com/2021/06/amazon1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "9DS6GjzHehplM2ucR+KvFIr7fnlRpxhye9/90NXt/vCv9xv8pZ1A0JfM/FFnUhPR+Iq3H1pitQPMIfF9/FljT0u9Jn5VLjMVksx0N/1XYJAPQV8Ui//eAAP4F+UvQ6JKJ9TmMhAoOMIyeCGB5ICRTkI4FLWGuKoLX71hu9ln0H3PvS5DD89qfxbR+FWa53R7HzkQBpr5HfS9z1gke0uMnruNXv01JpzOGDeqSorlORqYhe4PNIROrtqfQs3BNV/UvUUQE8dn2wEYTrQgT/5Mfx0aHt6grd3a7erG93uoGhpAf1jbAYEFriQ2qEoCJLipZbwIi3BPGd2exRx6zLTXmx3aOFTZGDC2hwpfQRFdhjWKk38R8V2jOfOTOg+S5KElHFJ5QDgoV+S32D/SrEKkcIIUy9MCpLjZts/Ko9ZZQR4OflP0h/OhZWUtmoPCWFWuho9MNstRBS3EiDG7A8xDXYd2bObysDcR1pXSeSppqwEo28W7VzJYD5QUAiGFulPFn4uw01JTlYDzWIN6NwPa2w==;3OMaAwxqnjF+SrOvMFp8kw=="
 ---

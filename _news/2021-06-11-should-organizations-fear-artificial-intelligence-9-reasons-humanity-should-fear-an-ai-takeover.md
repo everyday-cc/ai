@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Foundations of trustworthy AI: How mature is your AI governance?"
-    excerpt: "As organizations scale their use of AI, they increasingly need to do so in a responsible and governed manner. This is driven by many complementary forces: brand reputation, anticipated regulations [1,2,3], AI complexity, and social justice. Each of these alone would merit the need for AI governance,"
-    publishedDateTime: 2021-06-08T15:30:49Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/"
+  - title: "Can we afford AI?"
+    excerpt: "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy."
+    publishedDateTime: 2021-06-11T21:27:00Z
+    webUrl: "https://venturebeat.com/2021/06/11/can-we-afford-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_implement-governance_2000x1000.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "How artificial intelligence is changing the future of air transportation"
-    excerpt: "A George Washington University School of Engineering and Applied Science professor is working on an interdisciplinary research project funded by NASA that aims to design and develop a safety management system for electric autonomous aircraft."
-    publishedDateTime: 2021-06-11T14:29:00Z
-    webUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 71
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
+      - url: "https://venturebeat.com/wp-content/uploads/2016/01/market-analyze-e1623419360531.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "khnUdSfjZ0d/ejGeM6EhjvaqGjhVAK5DH4NKpj9Qk1wMTt5bWFAN8tZbTND0fHnZLA+VrrlGV5vCpKkJtAe8K3u0TqYPBnOimBHHNCroaWe1XjGniir4B8PbMd4DFr3zR6PjVYCKtmUoJMFL+8WU+ZMyMq7wwcOqIuf4PsKR4YUcHgdyHp/udi+ecOfJyVELiHgbgdgBcHbY3zeRjZFDmMTOPGXPtwjdLoKuVAve+Nz3cVEGIDLoul4GB7WN/dfcrmsAOT+ChxFpXE6WP1YGSDOYAj3sVdEKsQuzxHE2kAn2odK0LxzRi9N1jZUie1omvNHiaZkk8++T4RK3dcwjcwohU6YkgQfmMzQbMmK0SYsmqID8+KhubPdcCKTs78qsGCXn/zAP8jme4GPBH1ocneYLBowx73icskwz5LyLJ8L6m6d/fTiCV0fU4yrAWKm59jSHhPJoRHA5g0JDa98/F0NsA8m2Ec+wPAavmKe2I3c5SORRv1ZAEsV98FPLE1viOMq+NEa5G8Sd61T0ZYjIyA==;OiZoeLHrG9XL0o8mLIiKSg=="
