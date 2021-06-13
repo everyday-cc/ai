@@ -121,20 +121,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "The conspiracy keeping self-driving cars off our streets"
-    excerpt: "They were meant to be here by now. We’ve all heard about the self-driving scenario where the autonomous car drops mum and dad at work, swings back to get the kids for school, and then parks up while it waits for the afternoon summons."
-    publishedDateTime: 2021-06-09T03:19:00Z
-    webUrl: "https://www.drive.com.au/caradvice/the-conspiracy-keeping-self-driving-cars-off-our-streets/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/jxgpjsyxxbtlzflrfuny"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple hires key executive for self-driving car project"
     excerpt: "Apple has asked Ulrich Kranz to help develop self-driving and electric cars, Bloomberg, Kranz recently stepped down as CEO of Canoo, a developer of self-driving vehicles. Before co-founding that company,"
     publishedDateTime: 2021-06-11T07:20:00Z

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Amazon India announces machine learning Summer School for engineering students"
+    excerpt: "The programme is opened to engineering students in their pre-final/final year of Bachelors, Masters or PhD studies across select tech campuses in 2021.Amazon said the students will get access to the A"
+    publishedDateTime: 2021-06-13T20:29:00Z
+    webUrl: "https://www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students-11623573382773.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students/amp-11623573382773.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students/amp-11623573382773.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://images.livemint.com/img/2021/06/13/600x338/AFP_9BV9VX_1623574587089_1623574602270.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Amazon India Announces Machine Learning Summer School"
     excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
     publishedDateTime: 2021-06-13T11:48:00Z

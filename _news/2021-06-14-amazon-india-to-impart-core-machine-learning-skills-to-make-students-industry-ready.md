@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Amazon India to impart core machine learning skills to make students industry-ready"
-excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
-publishedDateTime: 2021-06-13T19:31:00Z
-originalUrl: "https://www.dailypioneer.com/2021/business/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready.html"
-webUrl: "https://www.dailypioneer.com/2021/business/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready.html"
+excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML)"
+publishedDateTime: 2021-06-13T19:24:00Z
+originalUrl: "https://www.dailyexcelsior.com/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/"
+webUrl: "https://www.dailyexcelsior.com/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/"
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Daily Excelsior
+  domain: dailyexcelsior.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.dailypioneer.com/images/logo.jpg"
-    width: 325
-    height: 325
-    isCached: true
 
 related:
   - title: "Despite proficiency in machine learning and math, India trails in data skills: Report"
@@ -101,6 +95,6 @@ related:
         height: 800
         isCached: true
 
-secured: "GMiNgPubxn81VxW+9ifpvcIZo+rG4pHP3um0BoBvJpCHGyF2bDhjBshNxXOpy+pmyrW79zmSZMOAD8nEBfVqtfavdJ+7NuMVttC3zIlZqhlsLgdvC0LROvQ5CNOdG/JfT93Y71JKg2zALRywwBa2+kjK0syYeWnZ+QOVQFRutezIuC7bklqOFra2csMTdzN69nZNc8CtMwguYNGObfQY6ndOif55hsI2y3ftoeNgJI8sUqojdZkUZYSxRx0JS2/wdsqGxPlfrH4Dj7ztw3srGhVfdqXr00MGcU3tcpVWVbNM9RxrdJM12ebhM9TkMHsBHQhMGLMNTkZrVfEhODVOFwenuk820w80lLWCoOcerPk=;j512Oxx+d5wyAXKRdp/KKA=="
+secured: "lz1c0TWc6dUjyKTDNIQ7RcVeRrL6eBOEcygURwN1bFvCKMYZU+2BOzkFZLSndw/UfF9/4SglkPWdmvzoG9Q1kSQZOGEqcY4UwB9JLYgUPaSN3msYiW1yAeXk54OonFiNr6iTYDQPJARWBg7lJ6LuWVTnqe7oZVOhYwruJfuFg+2XcBCAR2vJ/Jezg88bhF0uZmzl+VpnzdfbMXcQVLcDowKXIpm4TCh/2IZzokN1SW61fz7sFsJAkBMc7pvot1Q1sW9dE9YZXmQU4wa9BjAoLDqXr4E6f/yVKu2jpZtrfPRrjuHXYYMDapyO0LvhAm+JVF9VGYELBVFOai+4FnKpfPF86VVsEWlxMDm+UVF8uG/eNSwrGs8JwsjxHdmLUxv044ZyahyK/vDki+TJwPkRDhMxetFs2pIVua0sDqExAPpOxEb7LHGHd4rhHW+CA4UOdKyOMsC6kQyA2OCcwvF7xeRIHkGqJdMOFCizSEQVJxBU8PIS8CsCJT+ww+a+EsTmc6WZNXtDBPAnhCO4iOp3lQ==;ovnd7oJwp/IQXbJIJHVdDQ=="
 ---
 

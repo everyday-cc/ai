@@ -59,20 +59,6 @@ related:
         width: 720
         height: 442
         isCached: true
-  - title: "Artificial intelligence predicts brain age from EEG signals recorded during sleep studies"
-    excerpt: "A study shows that a deep neural network model can accurately predict the brain age of healthy patients based on electroencephalogram data recorded during an overnight sleep study, and EEG-predicted brain age indices display unique characteristics within populations with different diseases."
-    publishedDateTime: 2021-06-09T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/aaos-aip060921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deep learning with SPECT accurately predicts major adverse cardiac events"
     excerpt: "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting."
     publishedDateTime: 2021-06-11T04:00:00Z
@@ -86,6 +72,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/267652_web.jpg"
         width: 720
         height: 442
+        isCached: true
+  - title: "Deep Learning with SPECT Accurately Predicts Major Adverse Cardiac Events"
+    excerpt: "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than"
+    publishedDateTime: 2021-06-13T19:19:00Z
+    webUrl: "https://www.miragenews.com/deep-learning-with-spect-accurately-predicts-576955/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 38
+    images:
+      - url: "https://s3.amazonaws.com/rdcms-snmmi/files/production/public/images/PR/Ananya%20Singh%20figure.jpg"
+        width: 685
+        height: 420
         isCached: true
 
 secured: "43C21Tn9w1P6TRwr+JK/K0wyvIkTUdU1xWppgjg9xEQT0Ik2LtzVhoFIVtLtKi5VYpz/cOkdolQpx6/o+TtcSv07xtpfbj+No82XNZHbigrzPoy7Eps2YbWa+np03dSVVZ6nLM3wd6uircR8gq9lyav0pAWrp7PCRdxNO3cohxLmhiC7VG056xexD20w0snPrVOxq3521QXgq/DWUIP2viUzjw/wb3XT8+ISuZtm4tSUMgH88idnCWIVgjyMM1P0KP+cCunFC8KkGKKBXEWG3Yey27p2nD8YDQM3RPYjcGy46GqxiLCQ7sNhGVGQ8ADysGRkAwH+Omst6KiC8xdAMNqiLI0m3j5wqqrmuTMuh+I=;YWHxMrNkjuWuwHj/W3knvQ=="

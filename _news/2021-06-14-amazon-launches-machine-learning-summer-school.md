@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/amazon-laun
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/amazon-launches-machine-learning-summer-school-1814402-2021-06-14"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Amazon India announces machine learning Summer School for engineering students"
+    excerpt: "The programme is opened to engineering students in their pre-final/final year of Bachelors, Masters or PhD studies across select tech campuses in 2021.Amazon said the students will get access to the A"
+    publishedDateTime: 2021-06-13T20:29:00Z
+    webUrl: "https://www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students-11623573382773.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students/amp-11623573382773.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students/amp-11623573382773.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://images.livemint.com/img/2021/06/13/600x338/AFP_9BV9VX_1623574587089_1623574602270.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Amazon India Announces Machine Learning Summer School"
     excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
     publishedDateTime: 2021-06-13T11:48:00Z
@@ -72,6 +88,6 @@ related:
         height: 437
         isCached: true
 
-secured: "FX53FYDD8+VX8BKCwCzAIrbqeK7fYvVP2OyjI3onPeapB6qbCaBNJ6TOpEcCp1xhTWWkiNjktuexsACyXUUDFdG6j8fxrLGvtPIa7HA+D2eHNwJF4d5aVIPYqAbYe3+faxhXR32YUbw16EM7GagMySqOaow2L5SZfrrta6CJZQbddblzbQdq/Aq/0G8QSExknMIUErDMRaPgaCkgdbDqML/4Lhnb1XJ3x5fv9ukCiy/0do4k6TwzaTRxXZugHCAmIz3X1o8653g7IOAr4w5CCPQWevV2Z9Qhi0vvbfdarj9AszIFwPnfUE4dREvAWqEjSOkfkcXynn6ZsZxjrpgYR3vleM7nbmxAk6PCvZxT/2E=;t90pbuJr/pORHwesIGuNvA=="
+secured: "jRuCSHL+yIitM0lDmSrtC1rYU3Pvm3yTY7zGQaCpBmfznk+gnnbIjFbhILYLsPBrYeEDioRTHiMZ9xkn5TpYdbSQHGzcayXP6gI0uZtvhAtOwytJqIr8vQlXc7ra7987PTkbfzAdU3gcNP8ca4kgbhB6J/8DJ3mUoTPXMSXXEyT6Qh4avSoQ3WpPTEVF7c3aniLWf8+mazhnlzusoJLb172IKVFG2J8Wuh6xsFRter6FoTLPyEW+CtVB1T5jVSyFu5fZQq97ZUADe7lXg4FjOyHvb9hDJ4MUMTdNCcG1VbcAK+hQ/3/rmF7NmnMb9RPYLa97VA7XqoxOI5qICyN4jlhIyMtFtNVxY2OgMp+Hr0h3Zjbz0Pf7TSqQJdffreSxoHinY6Um9IIbL0A+ILNztXEN1qWFSU25nNfi+voSiOYPJvNkw8/O1k75ErZpblcxW4oIjmXQ/RWNgISYwYkntwAWzVpRtUtt/sIKWv+nZWWvf+XQvti7nP/y9FSJ07wEnZIzfcCSA48FRf/b8hX+sw==;T+0/Cpgc9hkCppbkLilljw=="
 ---
 

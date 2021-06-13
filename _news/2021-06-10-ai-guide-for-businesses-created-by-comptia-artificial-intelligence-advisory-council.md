@@ -1,18 +1,22 @@
 ---
 category: news
 title: "AI Guide for Businesses Created by CompTIA Artificial Intelligence Advisory Council"
-excerpt: "But many other things have to come together to build and manage AI-infused applications, according to Rama Akkiraju, IBM Fellow, Watson AI Operations, IBM Master Inventor, Member, IBM Academy of ..."
-publishedDateTime: 2021-06-10T14:10:00Z
-originalUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council/article_882488ab-3ee9-5eac-a6fd-6a9e8125c852.html"
-webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council/article_882488ab-3ee9-5eac-a6fd-6a9e8125c852.html"
+excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2021-06-10T13:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-1030512147"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-1030512147"
 type: article
-quality: 28
-heat: -1
+quality: 58
+heat: 68
 published: false
 
 provider:
-  name: Marietta Daily Journal
-  domain: mdjonline.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -34,6 +38,6 @@ related:
         height: 667
         isCached: true
 
-secured: "X02PE+tgEAVYs0FWbmrG7Qd2g0FrByGCblbw+Eoxs1HCy3IILqrqG4s+3fRq7F5HhS+miKdetFOolgTcIHugaSzo8Uxx/S3G4GTCuJv1/axuT1FMbPgbHX043hTrF9ZAxYucwMQHpeKovvzt5MYEryDMvSKzwoxcIvpbm146ouIgnKbjQBmLFW+M+Vc/SVmAlFFzyzPzkYin7U6lFKVOfPTWcfaygZ7DgT3pPSYcZh/YIEM+YAOcl1NR7R/GuLj4iUUIZ8++kVKhUQ3pumHpmv7JauFc9bXC9Ge3wVGtQXPNEjdjDp2vnnWVAm2mp+5FSSrIaPn7NSRSL1EaJktKqFJyaIHMOcZ+LHmOqeTivGM=;0LUY5gJo/SLwhfBQIJlg0g=="
+secured: "Vl8FNqG8Kvd/9688zbY97jTPFFSFc93Pd5amt3eKBguI/PKTmMhHKDQq7koaC5mv6/du/YfXOEzsmfXk4Scqw71xONhmXxhoQ6h2b0hiycaP/v8/N58zix1o+nz4l1Bv80LpFvLpZynl5deCS2m2q62ZpAyxlaa4aOv3LPvEVsR5dLzUUlbktQ1VpLl15i4cn/qOD/MVnG3rGlIjS6MqzaD7/+U/bWyn7XAwVRITy+EEroeX4//QNQ34/tXduAVnxda/ulQiTR7fOSXxT5yMN/PIRMW9kApU1gRorOhHoAguSkdit3fUmFx8ytiwg1H7VgvBp7g3rS9xSTdDy7n7VPk7z/X+BC6VLfe+p6JRgA8=;V9gDpUzdWFxzRnfBwczOmA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
         width: 2500
         height: 1406
-        isCached: true
-  - title: "The conspiracy keeping self-driving cars off our streets"
-    excerpt: "They were meant to be here by now. We’ve all heard about the self-driving scenario where the autonomous car drops mum and dad at work, swings back to get the kids for school, and then parks up while it waits for the afternoon summons."
-    publishedDateTime: 2021-06-09T03:19:00Z
-    webUrl: "https://www.drive.com.au/caradvice/the-conspiracy-keeping-self-driving-cars-off-our-streets/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/jxgpjsyxxbtlzflrfuny"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Self-driving Cars Market Size to Expand Notable Returns Through 2027"
     excerpt: "The Latest Research study about Self-driving Cars Market includes some significant activities of the current effective segment overview, for the worldwide Self-driving Cars Market. It presents a point to point analysis dependent on the exhaustive research of the market elements like market size,"
