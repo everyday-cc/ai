@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2303777/facial-recognition-market-predict
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
     quality: 41
     images:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/Voice_recognition_promo.60c0c0cb43e4c.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Tech Talks continue"
-    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
-    publishedDateTime: 2021-06-08T22:00:00Z
-    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
-    type: article
-    provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
         width: 1200
         height: 630
         isCached: true

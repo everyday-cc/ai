@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/100200504"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100200504"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 643
     height: 429
     isCached: true
-
-related:
-  - title: "Not even wildlife can go undetected: Australia trains AI road cameras for KOALA ‘facial recognition’"
-    excerpt: "Researchers at an Australian university have been granted thousands of dollars from the government to work on AI-based devices that would help identify individual koalas crossing the roads in the country."
-    publishedDateTime: 2021-06-08T22:54:00Z
-    webUrl: "https://www.rt.com/news/525578-koala-facial-recognition-ai/"
-    ampWebUrl: "https://www.rt.com/news/525578-koala-facial-recognition-ai/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/525578-koala-facial-recognition-ai/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 59
-    images:
-      - url: "https://cdni.rt.com/files/2021.06/xxl/60b8f3cc2030270db84e5e21.jpg"
-        width: 1240
-        height: 697
-        isCached: true
 
 secured: "xILMhz0SdOILh/ruAVTzTneCaFS71fGKP8fGAPvcD/RF6/3WB2bqQH1C4Nx29vzmDtk8phHMAa8uHYmwnw02w8HIxYjyX40sdQh0V66hHaqc1S2xUB9152dDjs4G7wDMWcyy6gvxmLd+DlOIvTpEwi0GDrLgwG0j4WJ14Ns6ZZTN+xBDRdZGN9CLtZnnQLXjriiGeoVHG+BW5wRUfuNQ77P6Iqyy8FfLR8FoOcj4+akChFGY04g9Mc94cbE/l4iSSMheH0tSqW1l10RWSUCt0VB6Vfh1kT/a3KFSne1BaKo9uTk1vA5lFio32pKIKEzVHbyVXENMWdXZ5wSsTQC/MhYfzUdpiRDH6zF/qWjrNZ4=;cL0YW5e6n/gXS8IlYCvMbw=="
 ---

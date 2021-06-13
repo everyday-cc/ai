@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relations
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/08/df7c435b-1741-40e2-a310-f24d11491093/screen-shot-2021-06-08-at-12-21-44-pm.png"
         width: 1894
         height: 1034
-        isCached: true
-  - title: "Deliver personalized customer support experiences with Amazon Connect, Amazon Lex, and Salesforce"
-    excerpt: "The last year has made delivering high-quality customer contact center support extremely challenging. Consumers have increasingly abandoned brick-and-mortar retail shopping and traditional banking in favor of digitally enabled experiences, which brings unprecedented call volumes to contact centers. In"
-    publishedDateTime: 2021-06-08T22:06:26Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deliver-personalized-customer-support-experiences-with-amazon-connect-amazon-lex-and-salesforce/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/12/1-1762-architecture.jpg"
-        width: 800
-        height: 412
         isCached: true
 
 secured: "+ZrxQCPCZhSLv1/zMkZEOzUrUlWfXUV9uvK7g1ZI04Zi5iHWuLXAS7Lcp2TufBo3qqhPjhkhqyzh0NT0+2Oeh+O6hEN/ROFnesAmKwXlM8rfiB95JSZjyUc8YlTrNWfUc3IGqau5jvrHmQ60xMOcfPC8nVWLRp391+a0GuzNjY5Gcslu4qIoOJupUa4wYfxIVgSLZ7zhy93HYlTeOUdQGbyMyxHpyY+0NpPBULLv/ax+3/fyYU/ofbmxqZbJ0/E357ma2f5fSqL8/4DeIukLZIuGs6vHA+gSmCzUiuyfTjX/g9UyKRzIEFLUy5yQoCC6h+xI7AJfymMf9EWvPrd0qR2qvwJQSMiwhK4Bn260+uFnuReO3tsS6Gek/wOPdg3+rBsXW+C7coQGzOz3h8en51UhqnSXmcVVP3MZbz3GekGu76raXs+06KypTev0Ty8paxmIVIm2uAU24KDHrMJCzC6hyU7u3GqHGK3UIueDPsH/zFzHoSFOj9mgbRZzm+Kan9wocthlBqVvvJ/FY/4ZWQ==;QWKBCqbGD5xAf5TF4FkZkQ=="

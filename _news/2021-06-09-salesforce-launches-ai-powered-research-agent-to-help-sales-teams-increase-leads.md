@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Deliver personalized customer support experiences with Amazon Connect, Amazon Lex, and Salesforce"
-    excerpt: "The last year has made delivering high-quality customer contact center support extremely challenging. Consumers have increasingly abandoned brick-and-mortar retail shopping and traditional banking in favor of digitally enabled experiences, which brings unprecedented call volumes to contact centers. In"
-    publishedDateTime: 2021-06-08T22:06:26Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deliver-personalized-customer-support-experiences-with-amazon-connect-amazon-lex-and-salesforce/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/12/1-1762-architecture.jpg"
-        width: 800
-        height: 412
-        isCached: true
 
 secured: "QKL61X/lxRzW9zG9ErbHK1Nna8vn2Rd/p4YhYueD4cBAqkuZcP8OLirFbuptrHFcGOXoKI+KCQpAd0LV20uTbByQFFNc8GcpSnUYY3uKPq/voRsr5cAmi3xh4ubzBCZsF/ip5rNo5VsznEv2oKvHWP7MI0bVs3ktThzLGqwfo+oJbqXlRp24y+EeL/r6Soio0nZ/Jd9NC6v8jb8iW9AbXPtqO1nUwhktV9iqSwnbLEZqvh409uH8jA9FOTKq5D6Uep1UM4ekeEVA3Lup6BPlmXxx+Q+bbXHtiR2lOgz+nl7mCIu1l9+t6xr4slj0F3dn2+xttnsFs0V3ijXxOnZGXrsUSKxCHhdvGBr8NCsfYJQ=;E/VmTi0PMcvw4NpikKyqBg=="
 ---

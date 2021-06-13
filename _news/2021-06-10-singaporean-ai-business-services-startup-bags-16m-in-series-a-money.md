@@ -3,8 +3,8 @@ category: news
 title: "Singaporean AI business services startup bags $16m in series A money"
 excerpt: "Osome is looking to expand into more English-speaking markets with high labor costs, with Australia and the US currently on its radar."
 publishedDateTime: 2021-06-10T11:14:00Z
-originalUrl: "https://www.techinasia.com/osome-bags-16m-series-money-eyes-expansion-australia#!"
-webUrl: "https://www.techinasia.com/osome-bags-16m-series-money-eyes-expansion-australia#!"
+originalUrl: "https://www.techinasia.com/osome-bags-16m-series-money-eyes-expansion-australia"
+webUrl: "https://www.techinasia.com/osome-bags-16m-series-money-eyes-expansion-australia"
 type: article
 quality: 47
 heat: 47
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "0e7ouTgVnSI/Yg/4xl6Fo0mnAcGhR/19jb77+85O/5JLL8Cvq59GSDPtz+0sR/Sww1cqqWvBcDnKzOUT1wyl5fbNLhXvaeYLv2wTtidMlR95Of+uVlUSK5NcqqCSC6jT0IPq4fpxtgLsAfjIw7M7kHlQrY1CRR+LYbA2Wr6YsZnozXK+kRGE4W7oyikq2qmMMrbmwW44WCil4ugiLz9WNnuxwXbi/SUAhoZzxlIvkuZayhehTbZbVLG7Y8uQVENXm6g49Wvp9ysl49tyOZ8MSm/Rz3gyMT+QK7r15dspMtNxLbiROfA9pFPgNIPB63tcKl6Cnjprn7XdYF2RZwt13/lYBApTQ4JQKSW+7N8ElzOssgZrDp+rJV/9vEGjFkpHqQQKkFAw9VZW7mdQdHBO9gMbURF2jFfkj1Z0hmszHJptKQ2Q+iA9aFSMTZUr1EIqZY8Wi8rstIfdCYd/TYmgeTJgTVAjGXkhOdMkkfbbxuZL/ukPAAS0AysWBe4pMomsR5yES/ZTOiHtobFCQiDn5w==;Zg1QYocyvPT4/kQaZsoIpw=="
+secured: "AOcXA5pihlqKayngQpt306LSXUdhMvlwrBt4AG8VKSpVFpFWXtk7vvKysVlLx+YgoBk6RgYY27y5fPlq1NN+j+/aHa3p06xaoXFroe4Q7ZXWkFabUwOslmOPLJSAOOCl7VRNMztWGiAIfAFAp9V3sdUwTDWGU8B7bDevLhTP5/KSypyG0EbirTYDUz89S3YByBtnsccgsv9zJBPlyMSRsUYJz66wM2xdmh+IbFCesNhHqxHc4GlvnTAL4XB/AHY9RCeRzuABjMjltePaNDqvlqJgXaxiBlMtECRoQ6670AjQaSsnM8NZTsx3ZkfuOd5JbAdahSJoqg9NU/7A/9ct9+aq9rVFjbbKUHhMTyD56N82JSXQlVePnbFSHsHY4yRlMGv5ZZOXJi0xKuaHKB2je5gojD8gVA5a+khV6XIYUHi3HcDVaQaJ5vAiecZe29cqZUBpPTqCnn86Q7/CZPW1R5Mx6BpF5wFXqOfsAXxFSia8E6UDQS2bhWjqdppJ8PR4ykVEBLKtZXoOG4ZUsKTHUA==;Dd9nRi6aW7MPmZuiUC+dHg=="
 ---
 

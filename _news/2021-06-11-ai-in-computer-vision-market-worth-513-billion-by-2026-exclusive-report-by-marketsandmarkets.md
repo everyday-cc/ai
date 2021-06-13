@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Tech Talks continue"
-    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
-    publishedDateTime: 2021-06-08T22:00:00Z
-    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
-    type: article
-    provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
     excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
     publishedDateTime: 2021-06-10T01:50:00Z
@@ -138,6 +124,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8kCkTelp7Cu70GqokBK9FwNeo9CDSNnP5Y6o0NBpyRyi95aeT7yXWKqQgeqfXk597QQeSr97LrsnpMu7Kqy2w5h9F5o2usYghr70DTY0hVF5L3gsuOEwqOFWJBo4OjuAnBORoQO/xzFilvucrgzQz2Fefbp15DHvarkTzB39O8Dk93gUg1VFklpi8SD93XILqqxoBvqrDmy+n2soFQ37yL+X3XcXat/oheAlmt0orMcpqfs8RiZJx1cX1vXTRsaaDEGXECifSXJaxI9zXQhJvKfrRUKvqh+6rCvCwnUIv4q3umjbwpCVqeu1kkTZWZ4Kt+zkLa05AAZAZacDVsx1GRoqA+9CfRlh/tkkMjHfz6Y=;POgl33OQT4D7KpOdEBZm6g=="
+secured: "2grlE6HBRr2YuZdnZh/DO8mPIt3tXOCHbC5DlWZFNcCcER3a99/RP88zhWOeT3AAFWaMBQT532PcFQennIAs1pe9F3HOPDnlzeMOEmO2QdATLUHGs1LbuGkyBu7HudAPQastyqQGsm911XRj8avmEC91tfC0LeNiG/Xi2yYXaDu7L6j+heberz83+jvEb02HpBwWB36I7O1e2hCcW+BBIG06dHpOl3A6sadrMs7iHgHgv5s/BMOvCcCZp2LfahKYqn2FjMqrZsBKRn232CVFs3LVOAKizTTHDJBAZIXO21EsyWRpqKY6G/c63DYGC4Bx+eiD9XXqCT2ln5SXYha9AD8D75FUOR3AXpoULI01Ytc=;+ZIYFVBOc5KdFaSk7eXPew=="
 ---
 

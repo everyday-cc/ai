@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-t
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
 type: article
 quality: 69
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -25,6 +25,38 @@ topics:
   - AI
 
 related:
+  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
+    excerpt: "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry."
+    publishedDateTime: 2021-06-11T05:48:00Z
+    webUrl: "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL2N2NS05C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565145295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5903O"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
+    excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
+    publishedDateTime: 2021-06-10T17:22:00Z
+    webUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/"
+    ampWebUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 74
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/QMR9Z/s1/tesla-fsd-beta-180-left-turn.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side"
     excerpt: "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year."
     publishedDateTime: 2021-06-10T18:29:00Z
@@ -92,7 +124,35 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "China's Huawei to develop self-driving technology by 2025"
+    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T11:18:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "To diversify, China's Huawei to develop self-driving technology"
+    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T10:45:00Z
+    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
-secured: "j7qTZwZEUmWJDmq8aXRHL5V3OVcdqHSpBURz8UZ2yRn7EQkDgsdxYbE7/6ldWGvECMkOm6pvMOjYzVCibKb9npwtfpaoFgKFX7G9MgxhxKqUo7siBk+BgiPtNQ9UosgNQW2gbYYNti8c6V8d4tNkJ5f+Ek/KXAz4CbJ2ydIT4rZJuem6UtkXX1j9KMaMvvnqy89/wo8VM84JqmzDYnmfs91qquaf1WKnv1QBDJ706SiI17tSk75qXfNFsyy1i97pyajtWTo151WyAwXuh3f2ktk656yWC33zP8KtgDXxJLe4O5TAdQmge0AoQ45K0ygCs4xmzwz2Pol8LjLbUImgg5scTEJ6t/xf4j7IK05LNek=;Q6IhKt8rFUmde38XaEUcVQ=="
+secured: "f9DMAglXLLALygDbr9fMIKoQZ3ciSmckJBQifYd6jyJS/ThWhEKl3Tz6HyjSmBx+klErcfahwQtey7yDrrLUmZCvEJw7xeYqcUDS9+A3xOwOzOywtTnryYUSriBY20yXS0aE1dPl0aKF1AKku8ENAmhky6jNIaHS/lh6pEVHvEWwnXaOkQe9sne2sGPtrsbtLYJfMa1GB+7Mh1fs64WAMCxBx8ounEnU+wffaRXWrYhZ60EA0JDnLIqp2ypWniftnKuxJbmDv4cXmiJcz6NElA6ywoX8avzzZjzT42RmrNFe+kO8jhfoILe7odZgGlu26gaDzl+TP8TO1LicM3K6qR2mMOILmfiOk9l+mn2IHcw=;JMaIJ0DsTxrt/dI0Zr4Wrw=="
 ---
 

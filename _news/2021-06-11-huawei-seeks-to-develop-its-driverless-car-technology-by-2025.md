@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-drivi
 webUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/"
 type: article
 quality: 69
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -56,34 +56,6 @@ related:
       - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/063_1190466188.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "China's Huawei to develop self-driving technology by 2025"
-    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T11:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "To diversify, China's Huawei to develop self-driving technology"
-    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T10:45:00Z
-    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "vrJNJY4vXJOPyk9qI9WiSLVvrB2ZOIdNVEQE4MXxF8Tfdkk6XBIZLLmTdgEEelveqoEkfsxkg1N1xMVHG8eR5W1nQhjKjp732o65gQpyrcm79LrNdjTSeUAVBWeXa8o7v2iQL0azG9VamwydD2jRwrN5DQx1uvPakYO0C4BIJEXJKTg/D/s6Pzbo/Vss77i1rvkTklzVq0V++zg3WpHsz1f7JT62qs8DPuc4pO4J25YQXAhHcFdUSX4nOcDaiHFMOnIO9vQe04cm+tqzfRP4hmQiTJnr5BnQZhS4qK3eZeYzYRxIdQaLJyG3tMw4HrzO8513rp33AYuBTAWb45QscjpA4mlUtDAmC57SMRVeUqSztDmcfczd5UOUdVpiB8zNXt34lok50FER0HCYfn1c3qhnp7+ARIxf8IvV2MiLLSjBr2XKPrbQsTtYIn5TBKyNvN13j7EurUaRA63tFiNL2HwLqUjoGcRGYlpxFNx+FG5IXmCTnXI+BykmXLc9GXbWMhTaxi1dXykcAWru1XRhvQ==;3QToeQDpDZ49zyjJI652sw=="

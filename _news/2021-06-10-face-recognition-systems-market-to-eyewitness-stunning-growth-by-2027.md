@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Tech Talks continue"
-    excerpt: "Baltimore is one step closer to joining cities like Minneapolis, Oakland and Boston in banning facial recognition technology."
-    publishedDateTime: 2021-06-08T22:00:00Z
-    webUrl: "https://www.wmar2news.com/news/local-news/facial-recognition-tech-talks-continue"
-    type: article
-    provider:
-      name: wmar2news
-      domain: wmar2news.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e7fabf3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F936%2F22f3150cc15946e68b21f11967cfb8d1%2F936d9cece3214e81ac6df012cb3e51d9%2Fposter_bbfe10a608344802aa02bd5af588edd1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market: Emerging Economies Expected to Influence Growth until 2026"
     excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2024 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
     publishedDateTime: 2021-06-09T06:33:00Z

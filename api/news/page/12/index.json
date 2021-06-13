@@ -2,6 +2,83 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-02-pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition.md",
+      "title": "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition",
+      "excerpt": "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-private-clouds-hybrid-clouds-the-next-evolution-of-cloud.md",
+      "title": "Private clouds, hybrid clouds the next evolution of cloud",
+      "excerpt": "while MultiChoice South Africa answers customers’ inquiries faster than ever with an AI-powered virtual agent – an IBM Watson assistant – to support its call centre agents and help to ensure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
+      "originalUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/F1jHlpMWiZyeC9pL8iCHT__UcV1svOvTv_H3Zk-rjONPXrMte8n5ef_MMIWrMJ2M6morHJ_j9Gw-LaZBzySEA5XhCo-246bqfTxXmA=w816-h428",
+          "width": 764,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
+      "publishedDateTime": "2021-06-02T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues.md",
       "title": "TruEra launches tool for spotting and contextualizing AI bias, other issues",
       "excerpt": "AI startup TruEra lanched an enterprise tool for monitoring and diagnosing issues in machine learning models, including bias.",
@@ -1119,108 +1196,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce.md",
-      "title": "Abstracting Amazon? Fakespot Layers AI-Based Trust Over Digital Commerce",
-      "excerpt": "Now there’s a layer on top of Amazon. And it’s one that will eventually rest on Walmart, eBay, Best Buy, Sephora, and probably other stores as well. Fakespot is launching “the world’s first secure shopping browser” in a new app,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b66eee7598cefe4a7dd31d%2F0x0.jpg",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/amp/",
-      "publishedDateTime": "2021-06-01T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-moleculeone-grows-its-drug-synthesis-ai-platform-with-a-46m-seed-round.md",
-      "title": "Molecule.one grows its drug synthesis AI platform with a $4.6M seed round",
-      "excerpt": "Polish computational chemistry outfit Molecule.one has raised $4.6M to expand its quest to bring theoretical drug molecules to reality. Its machine learning systems predict the best ways to synthesize potentially valuable molecules,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/",
-      "originalUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/molecule-one-header.png?w=1024",
-          "width": 1024,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/amp/",
-      "publishedDateTime": "2021-06-01T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

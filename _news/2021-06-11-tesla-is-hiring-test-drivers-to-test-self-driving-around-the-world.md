@@ -27,139 +27,128 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is now looking to hire self-driving car test drivers around the world"
-    excerpt: "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world."
-    publishedDateTime: 2021-06-10T10:22:00Z
-    webUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/"
-    ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
+  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
+    excerpt: "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry."
+    publishedDateTime: 2021-06-11T05:48:00Z
+    webUrl: "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL2N2NS05C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565145295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5903O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "What Waabi’s launch means for the self-driving car industry"
-    excerpt: "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable."
-    publishedDateTime: 2021-06-12T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/"
-    ampWebUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
+  - title: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao"
+    excerpt: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ..."
+    publishedDateTime: 2021-06-10T04:27:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
+  - title: "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side"
+    excerpt: "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year."
+    publishedDateTime: 2021-06-10T18:29:00Z
+    webUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761"
+    ampWebUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "The Four Biggest And Most Baffling Congressional Issues When It Comes To Regulating AI Self-Driving Cars"
-    excerpt: "A close look at four key controversial Congressional issues on regulating AI self-driving cars, and what those issues portend for our future and the driverless emergence."
-    publishedDateTime: 2021-06-09T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/09/the-four-biggest-and-most-baffling-congressional-issues-when-it-comes-to-regulating-ai-self-driving-cars/amp/"
+  - title: "Alibaba plans self-driving trucks with logistics unit Cainiao"
+    excerpt: "Monitoring Desk Chinese e-commerce leader Alibaba Group Holding Ltd (9988.HK) plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
+    publishedDateTime: 2021-06-10T08:33:00Z
+    webUrl: "https://thefrontierpost.com/alibaba-plans-self-driving-trucks-with-logistics-unit-cainiao/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: The Frontier Post
+      domain: thefrontierpost.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfc66f289142720b864b3a%2F0x0.jpg%3FcropX1%3D226%26cropX2%3D3673%26cropY1%3D301%26cropY2%3D2599"
-        width: 1200
-        height: 800
+      - url: "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2021/06/15-7.jpg?fit=959%2C539&#038;ssl=1"
+        width: 959
+        height: 539
         isCached: true
-  - title: "Apple Hires Canoo Co-Founder to Work on Self-Driving Car"
-    excerpt: "Apple has hired Canoo co-founder Ulrich Kranz to help lead its autonomous car project, according to a Bloomberg report. About a month ago, Kranz stepped down as CEO of Canoo, a self-driving electric vehicle startup."
-    publishedDateTime: 2021-06-10T21:39:00Z
-    webUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car"
-    ampWebUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
-    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
+  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
+    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
+    publishedDateTime: 2021-06-11T11:22:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
     type: article
     provider:
-      name: iClarified
-      domain: iclarified.com
-    quality: 44
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
     images:
-      - url: "https://www.iclarified.com/images/news/81339/81339/81339-640.jpg"
-        width: 640
-        height: 360
+      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
+        width: 560
+        height: 306
         isCached: true
-  - title: "Huawei Plans On Making Self-Driving Cars By 2025"
-    excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
-    publishedDateTime: 2021-06-11T18:06:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
+  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
+    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
+    publishedDateTime: 2021-06-11T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/01/Huawei-logo-2018-AM-AH-2.jpg"
-        width: 1366
-        height: 913
-        isCached: true
-  - title: "Apple Hires Self-Driving Car Startup Founder and Former BMW Exec Ulrich Kranz"
-    excerpt: "Former BMW senior executive and self-driving vehicle startup founder Ulrich Kranz has taken on a role at Apple working on the"
-    publishedDateTime: 2021-06-10T20:06:00Z
-    webUrl: "https://www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/"
-    ampWebUrl: "https://www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Alibaba to develop self-driving truck"
+    excerpt: "The truck will become Alibaba’s second self-developed unmanned vehicle, following a small, full-electric van. Since it was launched in 2020, the van, jointly developed by Alibaba’s research institute and logistics unit,"
+    publishedDateTime: 2021-06-10T16:58:00Z
+    webUrl: "https://www.autonews.com/china/alibaba-develop-self-driving-truck"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 41
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
-  - title: "The conspiracy keeping self-driving cars off our streets"
-    excerpt: "They were meant to be here by now. We’ve all heard about the self-driving scenario where the autonomous car drops mum and dad at work, swings back to get the kids for school, and then parks up while it waits for the afternoon summons."
-    publishedDateTime: 2021-06-09T03:19:00Z
-    webUrl: "https://www.drive.com.au/caradvice/the-conspiracy-keeping-self-driving-cars-off-our-streets/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/jxgpjsyxxbtlzflrfuny"
-        width: 1280
-        height: 720
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Alibaba%27s%20delivery%20van.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Self-driving Cars Market Size to Expand Notable Returns Through 2027"
-    excerpt: "The Latest Research study about Self-driving Cars Market includes some significant activities of the current effective segment overview, for the worldwide Self-driving Cars Market. It presents a point to point analysis dependent on the exhaustive research of the market elements like market size,"
-    publishedDateTime: 2021-06-10T15:29:00Z
-    webUrl: "https://ksusentinel.com/2021/06/10/self-driving-cars-market-size-to-expand-notable-returns-through-2027/"
+  - title: "China's Huawei to develop self-driving technology by 2025"
+    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T11:18:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 24
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Self-driving-Cars.jpg"
-        width: 715
-        height: 389
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Apple hires key executive for self-driving car project"
-    excerpt: "Apple has asked Ulrich Kranz to help develop self-driving and electric cars, Bloomberg, Kranz recently stepped down as CEO of Canoo, a developer of self-driving vehicles. Before co-founding that company,"
-    publishedDateTime: 2021-06-11T07:20:00Z
-    webUrl: "https://www.telecompaper.com/news/apple-hires-key-executive-for-self-driving-car-project--1386347"
+  - title: "To diversify, China's Huawei to develop self-driving technology"
+    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T10:45:00Z
+    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "0tQp9GD8zZ+syqsq4dVky7bL2MRN0tCtcjN+p4iI3hYxwLlSkj2YwJp543OE2fGiB7fhjR1Ts4XGZaiX9Oh8dUN0+1QvRij0NPCE2X0IoGSMxZz9PIE2QP8xqPAgdh7Ud1fP1LVSYdWvyViDH4+wCT9q93N6ZGuu9SUiTnX4+hUxtBvMDvrNQh7oi/fF0smVKPZw+zBZ8Nwbtrhb2Mw3Mhew6scXplHkZ/HP2xRMesX4Hvxt2eLq68Ckj5NKkm6X7wOy36YC941Y2FXQJR4elHIYSuSq6Rj5GtEIUN+F6SVaHRZJIOsTbKKrIodR+EGIfolWnpqbDTCI5P8w+72KMm8w/oAz2ajjzVTHENIZvrg=;NArKMU/5lmoEdeCorSLCIQ=="
 ---
