@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.rubbernews.com/s3/files/styles/800x600/public/Industry%204.0-main_i.jpg"

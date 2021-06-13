@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon India introduces machine learning summer school"
+    excerpt: "Bengaluru: Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
+    publishedDateTime: 2021-06-13T18:08:00Z
+    webUrl: "https://www.freepressjournal.in/technology/amazon-india-introduces-machine-learning-summer-school"
+    ampWebUrl: "https://m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-06/e0efca79-0c15-4d62-8a00-ff7d0786bb87/amazon.jpg"
+        width: 760
+        height: 426
+        isCached: true
   - title: "As AI-based loan apps boom in India, some borrowers miss out"
     excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
     publishedDateTime: 2021-06-09T09:48:00Z

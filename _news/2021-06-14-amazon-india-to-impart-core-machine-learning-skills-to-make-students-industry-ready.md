@@ -1,33 +1,46 @@
 ---
 category: news
-title: "Despite proficiency in machine learning and math, India trails in data skills: Report"
-excerpt: "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally."
-publishedDateTime: 2021-06-09T08:28:00Z
-originalUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/"
-webUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/"
-ampWebUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/"
+title: "Amazon India to impart core machine learning skills to make students industry-ready"
+excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
+publishedDateTime: 2021-06-13T19:31:00Z
+originalUrl: "https://www.dailypioneer.com/2021/business/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready.html"
+webUrl: "https://www.dailypioneer.com/2021/business/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready.html"
 type: article
-quality: 84
-heat: 134
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Dataquest
-  domain: dqindia.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Machine Learning
   - AI
-  - Math for AI
 
 images:
-  - url: "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg"
-    width: 600
-    height: 600
+  - url: "https://www.dailypioneer.com/images/logo.jpg"
+    width: 325
+    height: 325
     isCached: true
 
 related:
+  - title: "Despite proficiency in machine learning and math, India trails in data skills: Report"
+    excerpt: "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally."
+    publishedDateTime: 2021-06-09T08:28:00Z
+    webUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/"
+    ampWebUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 84
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report"
     excerpt: "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses."
     publishedDateTime: 2021-06-09T09:08:00Z
@@ -87,21 +100,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
-    excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
-    publishedDateTime: 2021-06-13T19:31:00Z
-    webUrl: "https://www.dailypioneer.com/2021/business/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 33
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
 
-secured: "0M8J67jFElCZZgyu6HYkVS7Cf9ldU6nG8OCg98Ab/sqp0azBIRwXBhTe3hqK2d37weoid3sGAKadTNrQDO0nrkLe6pB9Tx5MpGEDypwC/BXVpQaJLzookx+XFlUjOFaD7tKG73r8eSzq6b9ZvKPkNJkf8qcJMmbNlLxy12JCExZ0r+CONNej7V6rydWwW4PO/atQAGi3nZZT4RiNOdMvxwU/kFuzF3Vnp/Q+XDypEPbekixNUpQvFYOE0xlDxmtQacTRsR2jy7eHCjZUqoUxrn3Gs6/ZN/FeKIJPVlD8wGy4MjWUTo/VktrQ9QQhcjotkc1Q2fOF86sj2AEvlSL6wwHjrhqTP4bTYOJUNHuSwk3zvJVrCrQo9V4rnwScXc/fnJZa5erp718MBxjvjlrq5MGwpjA0HlaoqaS06oubxyVm5EkOafMiMc6Tcp7uinnZLo9t0A7cRzteWicuMnim0WD60THBnMh6hB6DCw/QBNFMytiOyV4vq+8DqoZLWUebS84wR6HgSh/d3IfcVXgvog==;7O+c97RoaFwH0pE7UWEdnQ=="
+secured: "GMiNgPubxn81VxW+9ifpvcIZo+rG4pHP3um0BoBvJpCHGyF2bDhjBshNxXOpy+pmyrW79zmSZMOAD8nEBfVqtfavdJ+7NuMVttC3zIlZqhlsLgdvC0LROvQ5CNOdG/JfT93Y71JKg2zALRywwBa2+kjK0syYeWnZ+QOVQFRutezIuC7bklqOFra2csMTdzN69nZNc8CtMwguYNGObfQY6ndOif55hsI2y3ftoeNgJI8sUqojdZkUZYSxRx0JS2/wdsqGxPlfrH4Dj7ztw3srGhVfdqXr00MGcU3tcpVWVbNM9RxrdJM12ebhM9TkMHsBHQhMGLMNTkZrVfEhODVOFwenuk820w80lLWCoOcerPk=;j512Oxx+d5wyAXKRdp/KKA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/education/amazon-india-announces-m
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/lite/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Indian Express
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon launches Machine Learning Summer School"
+    excerpt: "Amazon India has launched ML Summer School to help train students in ML and address the growing demand for talent with this skill set across various industries, Amazon India said in a statement."
+    publishedDateTime: 2021-06-13T19:39:00Z
+    webUrl: "https://www.indiatoday.in/education-today/news/story/amazon-launches-machine-learning-summer-school-1814402-2021-06-14"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/amazon-launches-machine-learning-summer-school-1814402-2021-06-14"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/amazon-launches-machine-learning-summer-school-1814402-2021-06-14"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 59
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/hands-545394_1920_0-647x363.jpeg?95GisF85ScWy.t0pfzy5lYNy7tYcC7NA"
+        width: 647
+        height: 363
+        isCached: true
   - title: "Amazon India Announces Machine Learning Summer School"
     excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
     publishedDateTime: 2021-06-13T11:48:00Z

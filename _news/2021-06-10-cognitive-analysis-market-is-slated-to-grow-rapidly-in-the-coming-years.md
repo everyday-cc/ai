@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis"
-excerpt: "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10."
-publishedDateTime: 2021-06-11T11:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
-webUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
+title: "Cognitive Analysis Market is slated to grow rapidly in the coming years"
+excerpt: "This research service provides a strategic analysis of the Cognitive Analysis Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,"
+publishedDateTime: 2021-06-10T16:47:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cognitive-analysis-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-10"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-analysis-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-10"
 type: article
-quality: 84
-heat: 134
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - Microsoft AI
   - AI
 
 images:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Analysis Market is slated to grow rapidly in the coming years"
-    excerpt: "This research service provides a strategic analysis of the Cognitive Analysis Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,"
-    publishedDateTime: 2021-06-10T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analysis-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-10"
+  - title: "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis"
+    excerpt: "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10."
+    publishedDateTime: 2021-06-11T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,6 +99,6 @@ related:
         height: 250
         isCached: true
 
-secured: "CZW5xzoUEJl9GhhIMW6gElCx+cfPid8os6shlh3DWdWgTrtWUpfHJptzfn/rMA2iubAwXbi83JWIVOybX5XK4EY+OiwJZMQZOPZjvcl3Tm/IjjjPkgPT0XHzOpy/JkFQguPdsvaAKymr9302RjEnKl3ryNVHQF+HwWBnOw5CnhlkPW2xLTo8ekrGhevhvI4OANvMBkI6SxjvJZ4btA6mO9rXgEM2IoMTS4OGGlCGNEuJrFTBqe1Hh5Hk6KWCcNUT6UTJeszJ18w294wxu66eJaumRUQdXh0NXlqUx8HpbJsb8UHBY7T2JtKRnbtAqKi//3u4GRKWtYn5e05VtzdHlgaJPkjosN/+vIreYjormYY=;q0ZZDjhY193tDJsUmWVw6A=="
+secured: "aktYBNXhVO224oE1l+Oef7y6vyZJ1jYxA6VFm+Za00p/mxQp47tjj58HNjmAiR6wVAFdIHvt2P5FFrmlVFOJBP4eOZUCn6YV/s1ah+NReyY6TC8629VJ/aCDQHfIYymoofe1ADJ20Saqll7aC75N7Gc314MxiXjhoc7gPGuOhVUka5CsrejUvIZTn9q7MwnxQymhCmk/TdQWT4SXdMVNWlrcMGUJ/5wPo+ks88zGk9new6d1B0bhtwlag899NauMOeDWnvkbfiWmnkHjG9p2keBn/4JRDgtfNKH/uSKzjsmN3+JKXgCcYfTDnxW+Gufj6Ns66/Ik70Dni2UkSBf3UpxGf+pf+tEVB3j777UTmWA=;MQzBAz3oKwM78A+vh00Sew=="
 ---
 

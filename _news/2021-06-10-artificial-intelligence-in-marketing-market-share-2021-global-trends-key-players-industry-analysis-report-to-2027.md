@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Analysis Market is slated to grow rapidly in the coming years"
+    excerpt: "This research service provides a strategic analysis of the Cognitive Analysis Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,"
+    publishedDateTime: 2021-06-10T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analysis-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Personal Robots Market Analysis by Industry Segments, Share, Application, Development, Growing Demand, and Top Key Players"
     excerpt: "The global personal robots market generated a revenue of 21 5 billion in 2019 and it is predicted to progress at a CAGR of 7 8 between 2020 and 2030 Furthermore the market will reach a valuation of 51 5"
     publishedDateTime: 2021-06-10T14:38:00Z

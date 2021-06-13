@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
+    excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
+    publishedDateTime: 2021-06-13T19:31:00Z
+    webUrl: "https://www.dailypioneer.com/2021/business/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 33
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
+        isCached: true
 
 secured: "9DS6GjzHehplM2ucR+KvFIr7fnlRpxhye9/90NXt/vCv9xv8pZ1A0JfM/FFnUhPR+Iq3H1pitQPMIfF9/FljT0u9Jn5VLjMVksx0N/1XYJAPQV8Ui//eAAP4F+UvQ6JKJ9TmMhAoOMIyeCGB5ICRTkI4FLWGuKoLX71hu9ln0H3PvS5DD89qfxbR+FWa53R7HzkQBpr5HfS9z1gke0uMnruNXv01JpzOGDeqSorlORqYhe4PNIROrtqfQs3BNV/UvUUQE8dn2wEYTrQgT/5Mfx0aHt6grd3a7erG93uoGhpAf1jbAYEFriQ2qEoCJLipZbwIi3BPGd2exRx6zLTXmx3aOFTZGDC2hwpfQRFdhjWKk38R8V2jOfOTOg+S5KElHFJ5QDgoV+S32D/SrEKkcIIUy9MCpLjZts/Ko9ZZQR4OflP0h/OhZWUtmoPCWFWuho9MNstRBS3EiDG7A8xDXYd2bObysDcR1pXSeSppqwEo28W7VzJYD5QUAiGFulPFn4uw01JTlYDzWIN6NwPa2w==;3OMaAwxqnjF+SrOvMFp8kw=="
 ---

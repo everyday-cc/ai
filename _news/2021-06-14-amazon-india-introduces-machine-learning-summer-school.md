@@ -1,27 +1,29 @@
 ---
 category: news
-title: "As AI-based loan apps boom in India, some borrowers miss out"
-excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
-publishedDateTime: 2021-06-09T09:48:00Z
-originalUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
-webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
+title: "Amazon India introduces machine learning summer school"
+excerpt: "Bengaluru: Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
+publishedDateTime: 2021-06-13T18:08:00Z
+originalUrl: "https://www.freepressjournal.in/technology/amazon-india-introduces-machine-learning-summer-school"
+webUrl: "https://www.freepressjournal.in/technology/amazon-india-introduces-machine-learning-summer-school"
+ampWebUrl: "https://m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
+cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: VCCircle
-  domain: vccircle.com
+  name: The Free Press Journal
+  domain: freepressjournal.in
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
-    width: 810
-    height: 506
+  - url: "https://gumlet.assettype.com/freepressjournal/2021-06/e0efca79-0c15-4d62-8a00-ff7d0786bb87/amazon.jpg"
+    width: 760
+    height: 426
     isCached: true
 
 related:
@@ -41,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amazon India introduces machine learning summer school"
-    excerpt: "Bengaluru: Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
-    publishedDateTime: 2021-06-13T18:08:00Z
-    webUrl: "https://www.freepressjournal.in/technology/amazon-india-introduces-machine-learning-summer-school"
-    ampWebUrl: "https://m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 59
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-06/e0efca79-0c15-4d62-8a00-ff7d0786bb87/amazon.jpg"
-        width: 760
-        height: 426
-        isCached: true
   - title: "As artificial intelligence-based loan apps boom in India, some borrowers miss out"
     excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been"
     publishedDateTime: 2021-06-09T07:26:00Z
@@ -72,6 +58,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-83364067,width-1070,height-580,imgsize-39145,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
+        isCached: true
+  - title: "As AI-based loan apps boom in India, some borrowers miss out"
+    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
+    publishedDateTime: 2021-06-09T09:48:00Z
+    webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
+    images:
+      - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
+        width: 810
+        height: 506
         isCached: true
   - title: "Amazon India introduces machine learning summer school"
     excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
@@ -92,6 +92,6 @@ related:
       domain: analyticsinsight.net
     quality: 17
 
-secured: "qjQ0h2Q9+2P/t2oBMCGRD/mEFYEPMxV9kdQALaOUsgkJobuTZJBxIhv2o1bBnO06VRUlz5wHMwbPg064rWfK4BT3jpjyYsGNntXZEP9nNJMsdLkrh4c3cW3/Hl+FPeycTVOn530JDgfS8gRnZyCLamZMgHgCQ6oosdgEwXPipbgsarRDazHqB8GD7DyDkiSVjTJXhsaWatDetc3DOtPKdE0GeE9RPdf2n2Q8iMFdp75M9Zg+j5mhZCFoYu8SXG/mWV8CYXJ3goDpvOzpqLUO/eZRSzdEUpnl1g4uS4gkD/r3kxE+vSYg1Wa3QPLc6tD6SMNTAcncGOze7VxwqBmZaj6Jbr7c9PCcwwaPdszNL8dFPeb+vBVpS3KlC73Si8jNofXvfSk8urzEMfooCJdx5vSReEUVD6e7iM+rg9U5yEMu9LNTD8N6QbfKBjXEJRz+2r+cfwsKmw/LeMJi0in9T2RjBidLK8uq3V8S2pDjxAs5KXXET8GHG5qYZt56dVdm1UBY+bTP4CApnhXbnELxEA==;Cbn7ZxKBK0cwRJhBrtkUXA=="
+secured: "VpQksKOOPH70TYMS8Waum4caAuioLIi8yumUN+30cABHspyc8HC9yVTGCQZRLaP4kOKWyvkEUpPyx6dyoFAZMx5Z0V4qrwkDCE4trPnPvsDECl/SDpXCjfqsleW2YcEBX68TdX2fcrQwNExZ+EJzUUIdfYyfCBawJ05B707XkeGs/N03U/UVNy0k5u+gtmYCJX8UZgtE4p5f18PSNNkNQcpXNFWkgGwROzE1gP4iRTweLxeF2hdnRo8o5DNM6glW5ZEmrAUD8sMm8TL+msD2vpN+/GAN4thytygjMkwCtvmWrZnH/ZMGZAOaQj8WJ34/fpk6NSGQDbSzRiwn9Sl1k0LuiEb1jClmnj4O9t6g6SA=;bVbIFvCiQy/ENRqQYC6Mog=="
 ---
 

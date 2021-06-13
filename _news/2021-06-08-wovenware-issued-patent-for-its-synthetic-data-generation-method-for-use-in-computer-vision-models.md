@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Wovenware Issued Patent for its Synthetic Data Generation Method for Use in Computer Vision Models"
-excerpt: "The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,” said Christian González, CEO, Wovenware. “The issuance of this new patent recognizes Wovenware’s unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,"
-publishedDateTime: 2021-06-08T13:35:00Z
-originalUrl: "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/"
-webUrl: "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/"
+excerpt: "\"The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,\" said Christian González, CEO, Wovenware. \"The issuance of this new patent recognizes Wovenware's unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,"
+publishedDateTime: 2021-06-08T13:46:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9386200.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9386200.htm"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "WHDca0vvPjId6fWCGIlkfbi918GQkW/6JlQ3cRrQtD/rHdD4UBbWq+fmDbJjz4upOBJsdl2FGODhZ/gRjIi+gp630iiH6XCUpJ1lOl5CBRVESQvBSYlEcl1+++ErjhW6iu+Nyz66KclkHTcNpSyOxJ92E7u0EhLFgq1tz33teSuYThPCjlCcm0HEiIF5S9h5FkgVfpJZMkdKP/LOfGf/0hEKOwv7+nlW5Ge6OHG1q4LxwZG4kzzSjDcoENNw4QlN99DlfI34WEKR0FYixn0vgcf+4LiBs3C4Ey/xkb7HM2Ow0iOVVVVb06HGkDE1D0VcQlgwzFKbgtFwpYDGQih6nLsforFoDcffmCvhL2Lwfd0=;ZalB0dNQTP42Rvo/zFJXIA=="
+secured: "pRo0cSsS5SiFYZbhi6GIjjLJ7ChNxik+zssvWCLq97A378OG7ZmJn7MvjQqkmml2RFxDKugb3Rv5eIwMp7I8FYzuC9mgXsPRi7qeuEDvKn6tDvu+N/pRG+owmf1aqMoFYzXhvcduN2pa+DdvIjyd8mvQLTatbiLabCtrpbT4LTNhbye+D5a3EC6iQlYDglmQc0iPP98whfSliBLcCp/wCDVVOQQI08Pql1Z2iaSgo6BFfDg0KR/xwWeOtpDVW1EiVxoIoJnxJMlYW3F+G7wdZ0+bgeeiO6C/R4KnUa8MDtI2Uepw63qVk9oiWkVJQP8LiF7rBqxkJyjlTZ8R3xjf1PM4JAQ6dnwEUPRSH/QrPJs=;swwW0sga1iJcGLE4dGW2CA=="
 ---
 

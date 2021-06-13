@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Drug Developing Platforms by Artificial Intelligence (AI) Market Evolving Technology and Growth Outlook 2021 to 2027"
-excerpt: "The Top Key Market Players for Drug Developing Platforms by Artificial Intelligence (AI) Market Listed are :- , Antidote, Atomwise, Turbine, Cambridge Cancer Genomics, Row Analytics, Deep Genomics, Insilico Medicine,"
-publishedDateTime: 2021-06-09T12:17:00Z
-originalUrl: "https://www.marketwatch.com/press-release/drug-developing-platforms-by-artificial-intelligence-ai-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-09"
-webUrl: "https://www.marketwatch.com/press-release/drug-developing-platforms-by-artificial-intelligence-ai-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-09"
+title: "Contact Center Intelligence Market Evolving Technology and Growth Outlook 2021 to 2027"
+excerpt: "New Analysis Of Contact Center Intelligence Market overview, spend analysis, imports, segmentation, key players"
+publishedDateTime: 2021-06-10T17:36:00Z
+originalUrl: "https://www.marketwatch.com/press-release/contact-center-intelligence-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10"
+webUrl: "https://www.marketwatch.com/press-release/contact-center-intelligence-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10"
 type: article
-quality: 61
+quality: 46
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
 images:
@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Drug Developing Platforms by Artificial Intelligence (AI) Market Evolving Technology and Growth Outlook 2021 to 2027"
+    excerpt: "The Top Key Market Players for Drug Developing Platforms by Artificial Intelligence (AI) Market Listed are :- , Antidote, Atomwise, Turbine, Cambridge Cancer Genomics, Row Analytics, Deep Genomics, Insilico Medicine,"
+    publishedDateTime: 2021-06-09T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/drug-developing-platforms-by-artificial-intelligence-ai-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence (AI) in Power Market to Witness Huge Growth by 2026 | ABB, Alibaba, Alphabet, Amazon"
     excerpt: "HTF MI offers comprehensive outlook on Artificial intelligence AI in Power Market forecasted till 2026 The Artificial intelligence AI in Power market has observed substantial growth over the years owing to noteworthy innovations that created awareness among end users and"
     publishedDateTime: 2021-06-10T16:05:00Z
@@ -87,20 +101,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Contact Center Intelligence Market Evolving Technology and Growth Outlook 2021 to 2027"
-    excerpt: "New Analysis Of Contact Center Intelligence Market overview, spend analysis, imports, segmentation, key players"
-    publishedDateTime: 2021-06-10T17:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/contact-center-intelligence-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition for Automotive Market [ PDF ] To Witness Significant Growth By 2021-2027"
     excerpt: "This research service provides a strategic analysis of the Voice Recognition for Automotive Market 2021-2027. The market study covers the Voice Recognition for Automotive market size across segments."
     publishedDateTime: 2021-06-11T16:39:00Z
@@ -116,6 +116,6 @@ related:
         height: 630
         isCached: true
 
-secured: "j66Sj+ZRDbXVz/dRqVQXmR1KG5jARg0u+ZTJ4vmcpSokKIoSqyqw5wiqLBT0AkARxpx5frgFqfmcIwuNsVGf8OfUqV7IhdVI7fX3A1azITRRknugMGJMzK+aRWFvLL2eIVY68/cQSzzKLm9jFZjYEpVmk/AISBOPaHa5UNPFrEPYaE0pTPXOemWXqvnBNKzgOytn4okNCgQIf52TVFgfJBWP4uODIJfId69DRq1WnwTqD3UkwWkafrFU27BZihNh//d5EM6JleGq1o41G5utRT6Rk8quZuDuAyuxD/qJFE3bk+gA884MwF5Z6P/yJtKlkAHhoPD7EqoHPz8tp+tIhcdSo39daCVwlYjai3ttH6Q=;P6323nHxhMekydv+Ej0Cgg=="
+secured: "EVTDM4iNnIhaDJ4N2aQmF1WAJaPGxLVjEkMoNJpvl8FJgc01QfCESQv7v0gPS0zDsaVryu3pouO0RV74Qr47WSeC4zIQy3lvyBIIHcZiJP2KGzEAiT+n6iRhrD3FY14HoEh2o3+JZRZ6SvUkOAecVHouO31w8u+S1XiHuA3X1muZ/kW4yohXacp68FF8GYCW/Cu8lvxyqQMuvoDDXwfq+hJcuk/TThe8uB2JHcht0liQR0BKeWq6pP8L2+6m+P8Ub2lf29bQh60UvoQcQYP6ukIx1dVRZl9X8r7hMjcq2U2eqMdMYEPif4EARG3+L0PumLOPGZb6EWx36KlvhHjXx2LkKVVMMqIfW/xvFzUnfPY=;LMbHKnVeOW1IVYYie0xw+w=="
 ---
 
