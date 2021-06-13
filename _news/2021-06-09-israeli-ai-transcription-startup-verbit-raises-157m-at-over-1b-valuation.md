@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered transcription startup Verbit raises $157M"
-    excerpt: "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation."
-    publishedDateTime: 2021-06-08T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/"
-    ampWebUrl: "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Verbit Raises $157M for its Transcription and Captioning Platform Powered by AI"
     excerpt: "Transcription is one of the many areas where technology has impacted the future of work. First, global outsourcing sent transcription work to countries with language proficiency and low-cost wages. Now,"
     publishedDateTime: 2021-06-10T15:27:00Z

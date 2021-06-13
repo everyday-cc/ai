@@ -10,7 +10,7 @@
       "originalUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -31,6 +31,49 @@
       "provider": {
         "name": "CNN-News18",
         "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-amazon-india-announces-machine-learning-summer-school-for-engineering-students.md",
+      "title": "Amazon India announces machine learning summer school for engineering students",
+      "excerpt": "The curriculum of ML Summer School will cover the fundamental concepts in ML while linking them to practical industry applications through an immersive 3-day course.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/",
+      "originalUrl": "https://indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2020/08/ML.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/lite/",
+      "publishedDateTime": "2021-06-13T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1386,49 +1429,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-neural-network-performs-complex-hand-movements-in-new-simulation.md",
-      "title": "Neural Network Performs Complex Hand Movements in New Simulation",
-      "excerpt": "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/neural-network-performs-complex-hand-movements-in-new-simulation-349365.jpg?cb=20210603",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

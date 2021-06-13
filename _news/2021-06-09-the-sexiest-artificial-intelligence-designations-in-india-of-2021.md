@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amazon India introduces machine learning summer school"
-    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain a."
-    publishedDateTime: 2021-06-13T08:48:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/articleshow/83480005.cms"
-    ampWebUrl: "https://m.timesofindia.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/amp_articleshow/83480005.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/amp_articleshow/83480005.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-83480210,width-1070,height-580,imgsize-161336,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "As artificial intelligence-based loan apps boom in India, some borrowers miss out"
     excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been"
     publishedDateTime: 2021-06-09T07:26:00Z
@@ -94,6 +78,15 @@ related:
         width: 810
         height: 506
         isCached: true
+  - title: "Amazon India introduces machine learning summer school"
+    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
+    publishedDateTime: 2021-06-13T10:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210613/3771050.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "mcXrOSTJUx72GY5nBbZ/5otJqPfmNBu455ubM2vk+ILMKL3CscwMwZ2tz7cde0YSxEL87t8yNBMxSJWioZC2J6JaZRWg1joFi0uJdJbECJM/vkWYP2UCvztaIUsGT/6Pqe2lbx4aXHD1vkulkCok3bEplEQa/tNeOl3SufaaSViW3tuxQ+MwlcapeLY3XWm/LcRz5AMPwAv8oSBmvrQxMo7GzEgSBqoHzILCs6xx1cTbvKVW5oQrXH3B41/VIoskkIWnTaPQOnVIjoOCy20tFSRxUK/22x7AojUMhV9tY0T7UB2rqOKaUYZO54MFOxDGCDAip9TLEoRpZ21C4vc7ccezQsMD2jog2q6tz5cZYVmWWJyUXiWby4MnZ3uu+CEA6zeEW0pFg+krghO3xmOuvBdL9tEqwon4KEG5dep/oFzoEsdcSmBWOYcip4ZKMSAhpJW4xd/3YPWeNq0mscrdLeCrCblDme8xGSB9wBvJliy/JbXD8Df1R1D/inVP6LOIE+CSLzBNl89Fqq/WqWf7uQ==;pkAnKGy6+96zAi/4UQo3HA=="
 ---

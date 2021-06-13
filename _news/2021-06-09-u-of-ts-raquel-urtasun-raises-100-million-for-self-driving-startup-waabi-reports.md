@@ -7,7 +7,7 @@ originalUrl: "https://www.utoronto.ca/news/u-t-s-raquel-urtasun-raises-100-milli
 webUrl: "https://www.utoronto.ca/news/u-t-s-raquel-urtasun-raises-100-million-self-driving-startup-waabi-reports"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Waabi’s Raquel Urtasun underscores need for AI breakthroughs (Episode 101)"
+    excerpt: "Raquel Urtasun, former head of Uber ATG’s R&D efforts, discusses her new self-driving startup, new ways to utilize machine learning in self-driving systems and why trucks are the natural first use case for automated-driving tech."
+    publishedDateTime: 2021-06-13T12:00:00Z
+    webUrl: "https://www.autonews.com/shift-podcast-about-mobility/waabis-raquel-urtasun-underscores-need-ai-breakthroughs-episode-101"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 35
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Shift101_0.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The road ahead: Raquel Urtasun's startup to ‘unleash full power of AI’ on self-driving cars"
     excerpt: "The list of resources at Raquel Urtasun’s fingertips as she takes the wheel of Waabi, an autonomous vehicle startup, is impressive to say the least. The goal? Use AI to finally resolve the technical and financial challenges that have hindered the full commercialization of self-driving technology."
     publishedDateTime: 2021-06-10T21:49:00Z

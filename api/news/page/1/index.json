@@ -10,7 +10,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "originalUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -82,6 +83,49 @@
       "provider": {
         "name": "CNN-News18",
         "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-amazon-india-announces-machine-learning-summer-school-for-engineering-students.md",
+      "title": "Amazon India announces machine learning summer school for engineering students",
+      "excerpt": "The curriculum of ML Summer School will cover the fundamental concepts in ML while linking them to practical industry applications through an immersive 3-day course.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/",
+      "originalUrl": "https://indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2020/08/ML.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/lite/",
+      "publishedDateTime": "2021-06-13T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -344,58 +388,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-self-driving-startup-waabi-just-managed-to-net-835m-how.md",
-      "title": "Self-driving startup Waabi just managed to net $83.5M — how?",
-      "excerpt": "Waabi aims to solve the “scale” challenge of self-driving car research and “bring commercially viable self-driving technology to society.”",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication",
-      "originalUrl": "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F3BDSF1.jpg&signature=ee711b8cc65af968e475a478d6d76c70",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {

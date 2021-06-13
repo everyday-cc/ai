@@ -2,26 +2,26 @@
 category: news
 title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
 excerpt: "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ..."
-publishedDateTime: 2021-06-10T12:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html"
-webUrl: "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html"
+publishedDateTime: 2021-06-10T12:47:00Z
+originalUrl: "https://www.kpvi.com/news/regional_news/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_b0a003b3-71e0-5175-a018-438915e30a65.html"
+webUrl: "https://www.kpvi.com/news/regional_news/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_b0a003b3-71e0-5175-a018-438915e30a65.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: KPVI
+  domain: kpvi.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook"
-    width: 2700
-    height: 1413
+  - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/c/9d/c9da2710-ef2f-5b44-88d7-ad510e44a79a/60c20655202e8.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
         height: 800
         isCached: true
 
-secured: "5DS802cUZli7k1QNrwUOFyiH0Kj2RLDBj4MbRWKfFtOwi0cVNPDUR5qskSDEhEH7g0SbUyf91ROHjkCNcS1FhfGHDwPTpzrxw2LdLG5tEkLF4sT6o6bRpmQ4hFjO+TFxms7vv+db8TggjRFxH9vuKFNQ+KmGZi0KEoAGRVykv+Z8WzmNlODUxcTinBnqjJcBbJ+ysSDTxtPH9SWBW6dvt7Y2c9wXWthrAkeb71IFUet9Mqx6FHtVgCDrKP7AQFllZ3EqXBKMygszuxWMZ0WrHtOzgy9BwUIMbNM2IOSxYeScuIW+RG8V4k3yMZ7CRiqTYLt778yH7vP+5ULiAOHb0WLWj7BEhAFBpTd1LezUFu4=;dWFEbBynN/M7/LNIT8anSA=="
+secured: "1Q8u9UTbl6qJ2jzUFDOMSBvIsJi1K2LvltqNJ0+EMNAXkPraxgNymt3uAnlaUegpH394nutGMZnjIHT0huSc0meG2s+LgZfT/taOo0DaOGq5d9BJPOPVGVnI+W8m44byckcTRijGdP22PwhwCGi4qYqMUT5jFqYmSlYfjrrFiltDlwmAG6oWPie3vJlXvvZb2QEnZnYtQe+aUVchYMPZwqpyV3+y4R+Ij+L5C5JNjCX56YTEg6NOSXKWRkXrwsS3pJBnEUxHFcF5ZXpJuzSz1NndzBdor9VFSAp/CsZH6SKFyRoq9husxBpUcKzrGStai5iD0dkrXBa+yilv5AIeK1rhniBSDyEyO45W37uDGoc=;C1WRbgTB5SO/+pzaZl5JzA=="
 ---
 

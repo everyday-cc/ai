@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IIT Mandi Offers Online Course on Deep Learning for Working Professionals"
-    excerpt: "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends"
-    publishedDateTime: 2021-06-08T19:22:00Z
-    webUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/"
-    ampWebUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 58
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "ISRO Offers Free Short-term Online Courses in Machine Learning, GIS Technology"
     excerpt: "The Indian Space Research Organization (ISRO) is currently inviting applications for three online certificate courses in Machine Learning, Web GIS Technology, and Earth Observation for Carbon Cycle Studies."
     publishedDateTime: 2021-06-09T10:41:00Z

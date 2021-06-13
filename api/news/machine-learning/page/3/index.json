@@ -46,6 +46,41 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-lattice-sensai-solution-stack-simplifies-deployment-of-aiml-models-on-smart-edge-devices.md",
+      "title": "Lattice sensAI Solution Stack Simplifies Deployment of AI/ML Models on Smart Edge Devices",
+      "excerpt": "Enhancements include support for the Lattice Propel™ design environment for embedded processor-based development and the TensorFlow Lite deep-learning framework for on-device inferencing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices",
+      "originalUrl": "https://www.businesswire.com/news/home/20210525005283/en/Lattice-sensAI-Solution-Stack-Simplifies-Deployment-of-AIML-Models-on-Smart-Edge-Devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-brainchip-highlights-its-akida-neural-processor-at-ai-field-day-2.md",
       "title": "BrainChip Highlights Its Akida Neural Processor at AI Field Day 2",
       "excerpt": "AI Field Day is the latest entry into the long-running series of Tech Field Day events presented by Gestalt IT. BrainChip will discuss recent developments about its Akida event domain neural processor SoC,",
@@ -1362,49 +1397,6 @@
         "Machine Learning",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025.md",
-      "title": "Neural Network Software Market Landscape Assessment By Type, Opportunities and Higher Mortality Rates by 2025",
-      "excerpt": "Snapshot. Thanks to the technological advancements in the field of data analytics, the global market for neutral network software is witness",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/19/neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025/",
-      "originalUrl": "https://ksusentinel.com/2021/05/19/neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.instanttechnews.com/wp-content/uploads/2020/02/9-16.jpg",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

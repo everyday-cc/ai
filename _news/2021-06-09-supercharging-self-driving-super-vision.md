@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/video/supercharging-self-driving-super-visi
 webUrl: "https://techcrunch.com/video/supercharging-self-driving-super-vision/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c292f036bb154568861833%2F0x0.jpg%3FcropX1%3D97%26cropX2%3D869%26cropY1%3D23%26cropY2%3D458"
         width: 772
         height: 435
-        isCached: true
-  - title: "How Graze Mowing’s self-driving mower is disrupting the $100 billion commercial landscaping industry"
-    excerpt: "Listen to this article Although the U.S. commercial landscaping industry is worth $100 billion, it’s trapped in dire financial straits. Its outdated equipment depends on manual labor, whose high turnover results in rising staffing costs."
-    publishedDateTime: 2021-06-08T19:33:00Z
-    webUrl: "https://www.therobotreport.com/how-graze-mowings-self-driving-mower-is-disrupting-the-100-billion-commercial-landscaping-industry/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 39
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/06/graze-sponsored-featured-image-june2021.jpg"
-        width: 770
-        height: 500
         isCached: true
   - title: "Waabi- A new path to commercialising self-driving technology"
     excerpt: "Waabi- the brainchild of Computer Scientist Raquel Urtasun in collaboration with the self-driving program powered by Uber, is all set to revolutionise the economical future of vehicle transport with an $83."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/amazon-offers-onlin
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Mandi Offers Online Course on Deep Learning for Working Professionals"
-    excerpt: "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends"
-    publishedDateTime: 2021-06-08T19:22:00Z
-    webUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/"
-    ampWebUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 58
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "ISRO Offers Free Short-term Online Courses in Machine Learning, GIS Technology"
     excerpt: "The Indian Space Research Organization (ISRO) is currently inviting applications for three online certificate courses in Machine Learning, Web GIS Technology, and Earth Observation for Carbon Cycle Studies."
     publishedDateTime: 2021-06-09T10:41:00Z
@@ -76,6 +60,6 @@ related:
         height: 400
         isCached: true
 
-secured: "gewN2QIr8FOXbmBJiYGpcEnCGw3rTNjiQn0UI12gzcJcw3ahjdIMGHc26Z0Myr5moFEeRj0Faqxr7f5jcAuoOHSCsIKWlKs8WkiB1l+dZ4Pd7NPp7Jr9YtkrCp1oz3Pj6QUO3hCoan0iU29Kavu61x38W0nyjFBylE0zhGTYTa53fi4dVqZSyJG7Dq7kiEqQtH4UBkF4S5StO/TNe20nhuJj1+PekwL44dN1w4cYg1GauO03nupkZQ9+CZH9mAwHb4fXY7PJScHojql+WlEL+jXkRyAwxyKwOktTbEOZXwDRZ46Fz8b8EgGfSU00sIrsvDd7C1DuEHu2hjNQo8Yp+HZqxjVEAd61MfCw3YpaCr0=;vIce0wjs+xo/8QBnb8LAQA=="
+secured: "56OWiHLFbzl5ZvzCUpOP49qNvJaZLCmDYb3hiz27fONV1Zh6WwbUqVjh2ffAtJMmpfCmYdD3X0dRuOUOCTOfouWxo9rF+bCTVc3ULiPzyGiJ2ix3/VprPAGpSZSR67uaogBwk9gYDVSk3wcmco5E74vzBUrPps8FHNdeGG1MKTdhTJLpmD9VmFMR8/+pX6IeBmqpDDtqVYoNbpmHzo6CJgCE0RDSLXoEBHpABCJ7v4huB6/bcqm8jYdoIYSHqvdK6P9rA4FT/3N02aP5hywMpHIwfgFS8R9yCQsrU2rJrVGz+scg5JLHuJfkoreCu9NNUtZ7qgx7U2/iKo8hVbmuK8vmE625Rjg5gFRIAO0vPBnWDJP8wuBRfSIehnXSLo3wIalCV2lnOWAOlbAoHFoHZrGIwF7yANhswgOt4fqGruAuNFxosHEz5HzRkQA0UnASA8c+LxZkfl4vuIEirdbyi88VWoZYeo2qgGGSTZuve2djBvtqs/X/FNQdUSt5LZcs1/1TOyDURCuSIbPGzDanAg==;ieWkgnbMGXCBJFqz1H57NA=="
 ---
 

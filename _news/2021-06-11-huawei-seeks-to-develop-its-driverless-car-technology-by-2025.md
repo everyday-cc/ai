@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-drivi
 webUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "To diversify, China's Huawei to develop self-driving technology"
+    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T10:45:00Z
+    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
     quality: 24
     images:
       - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"

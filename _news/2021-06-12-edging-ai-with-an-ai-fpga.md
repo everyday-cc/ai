@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Keeping a closer eye on seabirds with drones and artificial intelligence"
-    excerpt: "Using drones and artificial intelligence to monitor large colonies of seabirds can be as effective as traditional on-the-ground methods, while reducing costs, labor and the risk of human error, a new study finds."
-    publishedDateTime: 2021-06-08T20:47:00Z
-    webUrl: "https://phys.org/news/2021-06-closer-eye-seabirds-drones-artificial.html"
-    ampWebUrl: "https://phys.org/news/2021-06-closer-eye-seabirds-drones-artificial.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-closer-eye-seabirds-drones-artificial.amp"
+  - title: "FPGA IP accelerates neural network computing for edge and embedded AI applications"
+    excerpt: "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases"
+    publishedDateTime: 2021-06-09T20:55:00Z
+    webUrl: "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 56
+      name: EPT
+      domain: www.ept.ca
+    quality: 50
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/keeping-a-closer-eye-o.jpg"
-        width: 1600
-        height: 700
+      - url: "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg"
+        width: 300
+        height: 400
         isCached: true
 
 secured: "DP/sV0PviaCH4r3sOqeyAD9J5ShE39s3OMwKBo//iW1Upp2bFHO3gzjR04O5qgkxvBvNK5ibq3bFBYtkIV7RC1gxssKgCe1W9e5ms5o9YveUlOG6uFycEAbNyJq6NLLpWromDFe4QI/ROt/CU+9SjcXFtW8S9ugwEcz3X++7FoU712B7BJ9f77q/vnj6ps6WCFrl9neU2xFLwlAXyzAvdb/ILjWzuOk+CY93Ks36losLDu9VIUNhA9wF3uxrzk13TjGGAvAhFKs/Eu9mIb7hC0K+taMbrL0wLpJIb1LZaymQY0xq+zZj6zuhO8I+G5u1X5Gb2UTzji57Psn1ezqGlq9SaXXKIc2v/NMwalRAMhMoRpPjnb7Wem0yrty9tqDvupmaqqcjEdq+NNer7MEjUj34BEmLDUuFZOk6AaIRP16/BRnIohsu0cI11dGJftuNCRdJUME1LzNFq4U1TRQ3z1WthX0AjpIueW7EbrUA77COEGOLj4awS+nQPFnPOWGXzsQUFW7ZVrGx2iGaM58AQA==;nv+n4zJzQ9YLljD9qKp4lg=="

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IIT Mandi Offers Online Course on Deep Learning for Working Professionals"
-    excerpt: "IIT Mandi has invited applications for an online course on deep learning for working professionals that will be conducted on weekends"
-    publishedDateTime: 2021-06-08T19:22:00Z
-    webUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/"
-    ampWebUrl: "https://www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-mandi-offers-online-course-deep-learning-working-professionals/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 58
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "IIT Kharagpur Offers Free Online Course on Machine Learning That Can Be Completed in 8 Weeks"
     excerpt: "IIT Kharagpur has offered a free online course on introduction to machine learning on the NPTEL platform that can be completed in 8 weeks"
     publishedDateTime: 2021-06-13T08:52:00Z

@@ -366,6 +366,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-08-wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models.md",
+      "title": "Wovenware Issued Patent for its Synthetic Data Generation Method for Use in Computer Vision Models",
+      "excerpt": "\"The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,\" said Christian González, CEO, Wovenware. \"The issuance of this new patent recognizes Wovenware's unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386200.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-composeai-raises-21m-to-help-everyone-write-faster.md",
       "title": "Compose.ai raises $2.1M to help everyone write faster",
       "excerpt": "Compose.ai, which built its own language model to help folks write faster, landed a $2.1 million seed round led by Craft Ventures.",
@@ -1209,40 +1243,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-my-pick-for-the-ai-gaming-industry.md",
-      "title": "My Pick for the AI Gaming Industry",
-      "excerpt": "Source: Gorodenkoff / Shutterstock.com But one area of the AI sphere that is often looked over is a fun one: gaming. AI not only improves gaming, but gaming is also a great way for AI to be improved by humans through a similar collective experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08",
-      "originalUrl": "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

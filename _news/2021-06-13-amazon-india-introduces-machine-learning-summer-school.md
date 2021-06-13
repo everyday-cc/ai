@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Amazon India introduces machine learning summer school"
-excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain a."
-publishedDateTime: 2021-06-13T08:48:00Z
-originalUrl: "https://timesofindia.indiatimes.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/articleshow/83480005.cms"
-webUrl: "https://timesofindia.indiatimes.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/articleshow/83480005.cms"
-ampWebUrl: "https://m.timesofindia.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/amp_articleshow/83480005.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/amazon-india-introduces-machine-learning-summer-school/amp_articleshow/83480005.cms"
+excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
+publishedDateTime: 2021-06-13T10:56:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210613/3771050.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210613/3771050.html"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://static.toiimg.com/thumb/msid-83480210,width-1070,height-580,imgsize-161336,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    width: 1069
-    height: 580
-    isCached: true
 
 related:
   - title: "AI-based loan apps are booming in India, but some borrowers miss out"
@@ -97,6 +89,6 @@ related:
       domain: analyticsinsight.net
     quality: 17
 
-secured: "1pnmNuuOhfrl0mEtFWr8GFRgaJyOSDpS5j+bsNwSLCugNJuhSxHpvRvnoL8vsq8hjU9F8sqbi3Y1eXrU93g3sISGhwEcBNzLUQHTuoEnHfbUbrYg5Qrxz+FSARqMWFL7dP3daem7WWRGvSEXBf5zY3JyBYnE7AFpdxJk6Mv9GJqmf7cIx8uXJ1LZO+/NX2nyXbZDr8ZCZk7nXdJgj/STaRdIwW0Foo4PCbGk7OCA5eXhPkWJE1fG71Ta6ngd4KIxWNr541Aj79Z7jA6nZKEXCzs0rIOgAIy6j6MJnXUsfNfVohqAvWpjVOjwxV1pRaWN5Zr3b81N/3xn4wi7S1fhgbYTxrHqtYPUOfx9phjNFo0=;AP8Hcl2l0hZne1CkcQ2Nuw=="
+secured: "F7jHPQwRBOfUgkh1Qgi0UPrSj45CcDujakjFFkU0oiiaUfuIC44jQya1JLzwZDiLLOMY+fa/SBkthVrDcIM9yRVqzeQCy+gyzNAArFw0o2LYvyyzabKC0y4UxJYzpozLjESywg//9Wn7pot5xJuBxaUscg6R8LIr+HBAfUfGLVhlBXlOy57BBsm44cNEPWJQRldo309oQU+CRzfngM9hbN/pZoQ5p8Ak9FtiKWJayZV0W2n2IFry1EdsCmRUSj2AVJ5XOtDiZ28jENAEXioSdH87pdq9/3uvkHQHjZJtB1lzt6FKKlNhgxutJ97NN++sOj5KrOLDCFvmXswrWjJ8vwWIrxM8xyPtrtuPATc1BNo=;QcfELVTx1bPGI5FBwIVung=="
 ---
 

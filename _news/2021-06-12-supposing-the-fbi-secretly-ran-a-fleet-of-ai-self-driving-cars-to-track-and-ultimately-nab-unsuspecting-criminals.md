@@ -43,20 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "How Graze Mowing’s self-driving mower is disrupting the $100 billion commercial landscaping industry"
-    excerpt: "Listen to this article Although the U.S. commercial landscaping industry is worth $100 billion, it’s trapped in dire financial straits. Its outdated equipment depends on manual labor, whose high turnover results in rising staffing costs."
-    publishedDateTime: 2021-06-08T19:33:00Z
-    webUrl: "https://www.therobotreport.com/how-graze-mowings-self-driving-mower-is-disrupting-the-100-billion-commercial-landscaping-industry/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 39
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/06/graze-sponsored-featured-image-june2021.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "Waabi- A new path to commercialising self-driving technology"
     excerpt: "Waabi- the brainchild of Computer Scientist Raquel Urtasun in collaboration with the self-driving program powered by Uber, is all set to revolutionise the economical future of vehicle transport with an $83."
     publishedDateTime: 2021-06-09T12:12:00Z

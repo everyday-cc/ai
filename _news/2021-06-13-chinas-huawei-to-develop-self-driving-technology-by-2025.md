@@ -67,6 +67,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "To diversify, China's Huawei to develop self-driving technology"
+    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T10:45:00Z
+    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "G+hGDo7FIL5M+AQiC+ik2osorwpoRNeq6LOu8eHqKbfxSUBX6TKVjUBUsR7AIWYtMXZeDVVnv3dzII/YogUP84kpap2SqHSa9I47p4CNNViP+eY8UO7E+wQpdRO5j3v15c2WE1oyTJKxt3+XGhfKssBsew7RV3sHb1OBSAnl0iplzRoF/25mJcBujyvV4SZwN/3J3tcpu4/ZzoC0t7P8zuF/SoFwQOsn0y/EYA8NbJJQA0EnFZ0fgvbIeO6PGcJr/ExrnVGzxqU2mpptkaCLUJr1y0I7W33PU1KDfG0pnFXHQ/8EJGH7emvjLdGglyzjMw/xwIVZktI2Gg1Rv1RpeY7vL8I3/04/+p9ExN/PNrA=;luXvuYQUFgVF8uWgQVdEwQ=="
 ---

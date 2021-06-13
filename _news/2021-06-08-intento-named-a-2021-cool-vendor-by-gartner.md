@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Intento Named a 2021 Cool Vendor by Gartner"
-excerpt: "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ..."
-publishedDateTime: 2021-06-07T18:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500788"
-webUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500788"
+excerpt: "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,"
+publishedDateTime: 2021-06-07T20:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500793"
+webUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500793"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: Business Insider
@@ -22,6 +19,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "fXNhFZgOypVUh2g3tvPar7AIW+hBZgFuzAIKEc8VTBoD56tM077jFkOFMO6QaWmk4JXJWPzlg1kfkqzbh1VVp4MLJQqR2g3lKKhG4vm9SMyomUdLnN+uM8HyFRo/Or54T2I8iJF3ZgMc8KR1B7NBzDnC0siIyiJ6cDmCEDJpwCj4X8VF3uc2VVSIK06Llr6pSSe2dlra29o5DOX8R8XMw2HkRcOBrJmBBXMfJ+j383McXv0tDuL+uDTOH8ZNV0DxQS2UKneKjgGwgWOmoAQw59S/zhrxB2YHyIUQhISt8vrUqjJex3gtScH3LfWaK4MVeY2WEUsPzeRwpqx1QOSHThFlV7xLuR7mepg3NxYJ8Ws=;THct+RT78l23VrShXiNfgg=="
+secured: "bKlEZ9m8p7AZldZfiLKKP6Pv9kcSrsibHtE1lu/JVaahl9qWTMnwKh38fzuCuqzHEachCt050kZe9Kz01qO1gertSAqUFbbcd5Bs3R1mn6gS0imlOp8Pt0wFcOFz8HBcqUZl2i/0IA6UQDdBwvHECFhE9wTp2Hn4VzBwOEmntr3RiP9B+B4vTwXlQguGjmudrxt++GHwyqx9k0x9DT0N9E+2BFukGykJP9bEk6kZcedzCPJ97hDQfShjdBR0YIyrWa/Am6LjQPk5Uj6ayyGAv9t2o7FAJjKVoz373/LZF/EG7PTzdnd/L7R/z1EjBG+FrVLk767cT0SzW9w2dPm9BwJ1oAwjyLpqwFCYku43w28=;8g11FXkBR6YHvMAvoCjx3Q=="
 ---
 

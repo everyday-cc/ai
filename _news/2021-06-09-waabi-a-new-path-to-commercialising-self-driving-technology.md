@@ -49,20 +49,6 @@ related:
         width: 772
         height: 435
         isCached: true
-  - title: "How Graze Mowing’s self-driving mower is disrupting the $100 billion commercial landscaping industry"
-    excerpt: "Listen to this article Although the U.S. commercial landscaping industry is worth $100 billion, it’s trapped in dire financial straits. Its outdated equipment depends on manual labor, whose high turnover results in rising staffing costs."
-    publishedDateTime: 2021-06-08T19:33:00Z
-    webUrl: "https://www.therobotreport.com/how-graze-mowings-self-driving-mower-is-disrupting-the-100-billion-commercial-landscaping-industry/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 39
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/06/graze-sponsored-featured-image-june2021.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "Breakthrough Technology Simulates Human Eyes’ Vision for Self-Driving Cars"
     excerpt: "LiDAR sensors are the current solution for making sure that self-driving cars have a safe and accurate perception, but what if something even better and more cost-effective could be out there? This is what recent studies are trying to find out,"
     publishedDateTime: 2021-06-09T15:22:00Z

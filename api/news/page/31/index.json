@@ -2,6 +2,207 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-05-19-best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch.md",
+      "title": "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch",
+      "excerpt": "While investors wonder why stocks are dropping today, artificial intelligence (AI) stocks could be worth watching. Why? For starters, they are likely trading lower in today’s stock market as tech stocks sell-off amidst inflation and crypto-related issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372388",
+      "originalUrl": "https://www.entrepreneur.com/article/372388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-372388.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372388",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372388",
+      "publishedDateTime": "2021-05-19T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-were-not-prepared-for-ai-hackers-security-expert-warns.md",
+      "title": "We're Not Prepared for AI Hackers, Security Expert Warns",
+      "excerpt": "AI promises a future where machines solve problems humans cannot, but can we trust them not to poke around where they don't belong? Bruce Schneier from the Harvard Kennedy School has concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns",
+      "originalUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04qQqxzBnOGSE6poQ896Gju-1.1621439902.fit_lim.size_1200x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns?amp=true",
+      "publishedDateTime": "2021-05-19T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-ibms-research-group-set-to-simplify-enterprise-ai.md",
+      "title": "IBM’s Research Group Set To Simplify Enterprise AI",
+      "excerpt": "We believe IBM is going to bring its AI research for improved power efficient AI to mainstream data centers. To effectively use its reduced precision AI hardware, it's critical that there be the right software support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a47af2feb2016d775ea3fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D21%26cropY2%3D471",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/amp/",
+      "publishedDateTime": "2021-05-19T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-latest-vectra-research-highlights-top-10-threat-detections-across-microsoft-azure-ad-and-office-365.md",
+      "title": "Latest Vectra Research Highlights Top 10 Threat Detections Across Microsoft Azure AD and Office 365",
+      "excerpt": "Vectra AI has released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat Detections for Microsoft Azure AD and Office 365. This new research details the top 10 threat detections that customers receive by relative frequency when Vectra detects abnormal behavior in a customer environment,",
+      "sourceUrl": null,
+      "webUrl": "https://channelvisionmag.com/latest-vectra-research-highlights-top-10-threat-detections-across-microsoft-azure-ad-and-office-365/",
+      "originalUrl": "https://channelvisionmag.com/latest-vectra-research-highlights-top-10-threat-detections-across-microsoft-azure-ad-and-office-365/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://channelvisionmag.com/wp-content/uploads/2020/07/cyber-security-3400657_1280.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ChannelVision Magazine",
+        "domain": "channelvisionmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-maysam-moussalem-teaches-googlers-human-centered-ai.md",
       "title": "Maysam Moussalem teaches Googlers human-centered AI",
       "excerpt": "Originally, Maysam Moussalem dreamed of being an architect. “When I was 10, I looked up to see the Art Nouveau dome over the Galeries Lafayette in Paris, and I knew I wanted to make things like that,” she says. “Growing up between Austin, Paris, Beirut and Istanbul just fed my love of architecture.”",
@@ -987,195 +1188,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-californias-dmv-taking-tesla-to-task-over-misleading-self-driving-claims.md",
-      "title": "California’s DMV taking Tesla to task over misleading ‘self-driving’ claims",
-      "excerpt": "California's DMV reviews Tesla to establish if the company is using misleading advertising regarding its \"Full Self-Driving\" package.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/californias-dmv-taking-tesla-to-task-over-misleading-self-driving-claims",
-      "originalUrl": "https://thenextweb.com/news/californias-dmv-taking-tesla-to-task-over-misleading-self-driving-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FTEESLA.jpg&signature=61a3a55a92e03b82bd654a0328ec9c61",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-otterai-automatically-joins-and-transcribes-calendared-zoom-meetings.md",
-      "title": "Otter.ai automatically joins and transcribes calendared Zoom meetings",
-      "excerpt": "Otter.ai has announced a new integration that automatically joins, records, and transcribes scheduled Zoom meetings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/19/otter-ai-automatically-joins-and-transcribes-calendared-zoom-meetings/",
-      "originalUrl": "https://venturebeat.com/2021/05/19/otter-ai-automatically-joins-and-transcribes-calendared-zoom-meetings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/19/otter-ai-automatically-joins-and-transcribes-calendared-zoom-meetings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/otter-ai-automatically-joins-and-transcribes-calendared-zoom-meetings/amp/",
-      "publishedDateTime": "2021-05-19T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ai-da-robot-artists-self-portraits-on-display-at-the-design-museum.md",
-      "title": "Ai-Da: Robot artist’s self-portraits on display at the Design Museum",
-      "excerpt": "Self-portraits by a robot artist have gone on display at the Design Museum. The life-size “ultra-realistic” android, named Ai-Da and created in 2019, is the first of its kind in the world, according to the London museum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/",
-      "originalUrl": "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2021/05/featureimage-crop-ff8539f.jpg?quality=90&resize=960,413",
-          "width": 960,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/",
-      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/",
-      "publishedDateTime": "2021-05-19T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC Focus",
-        "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars.md",
-      "title": "Baidu Awards Contract to Hesai for Customized Lidar Sensor That Will Power Its Self-Driving Cars",
-      "excerpt": "Baidu Apollo and Shanghai-based laser guidance system developer Hesai Technology have clinched a deal in which Hesai will produce a lidar sensor tailored to Baidu’s fifth-generation driverless vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-05-19/1621415590045976_560_373.jpg",
-          "width": 560,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

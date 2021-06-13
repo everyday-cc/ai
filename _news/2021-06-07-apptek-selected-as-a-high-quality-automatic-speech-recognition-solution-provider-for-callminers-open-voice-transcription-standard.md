@@ -1,45 +1,20 @@
 ---
 category: news
 title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
-excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
-publishedDateTime: 2021-06-07T12:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
+excerpt: "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions."
+publishedDateTime: 2021-06-07T12:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9384888.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/07/9384888.htm"
 type: article
-quality: 9
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-related:
-  - title: "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments"
-    excerpt: "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on"
-    publishedDateTime: 2021-06-08T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments-301307887.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
-secured: "Fy2cbMMTvQ+3pd8K23d/4Np2fDQ2I8utycxHNmiMgmph1JHhgX+wfJHqJzXuAYsjwpNTL5Jq4gXQLPnJtGWKF9GdJXAWzQocyDJjVRjEQ4heoMLoKo7kBZlhyX2QAnIDHRI92OhMo8fxz6mXkeH7vX9Lqnd5ss9Ef+G6wObJSxhSB4Gl8wxDf44ZFzq05iKZ7k8+nG2rpSHAUWMsDTsJVQUnZ19IvlfoJVzd7bVMMJu0pPoSXoMmbAFxRqne3VP1e3hq3ypkKUr85Wcd3jOd32sSNTZdW6aCLSpSHqOFDXnYPhzlXJc549YOQDth/WhilFSAZdgAY19YZCY/Fsyr7GT9OKmVqr7Arw27NaomPac=;8LModsvZmvwDAO1sfqIejA=="
+secured: "ywPT2kidE+OPpc9B8o7n3JLune0MKoafHQsDdBvnbw8KJ0DMom7DEsL4HLW72vGT8ST8SE48hW5mqQEpQqMsu0/3yYWA5la7QoWCaWzIh0hcPtsvD5C4xQKKJJoysNnV7Kebm9KyWe7k0SRNOZDQA8XMSpwDG7AGosSy3gPMCqlYQ1VBrLr3S5eCjCgpBc9iJcYk3NQZSNyLCuCAtjJVp/qm0NT+Xr359CJWLUAEJPvDkd7tuaKVInAd/+KKGFfzHCfLxN/badd3PYxbtcuizL9d4WKRE5a1Xx5YY9zai4vAHD8aN1Gys1r5aoCoxIaWiwfp7ZoYH521jvwtn/exBVML0HOR7rhrfHdYm7tRZrk=;WCyBj27xwwu9kjFZhnhXtQ=="
 ---
 

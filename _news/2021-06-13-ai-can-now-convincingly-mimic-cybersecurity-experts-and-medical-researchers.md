@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-13T11:05:00Z
 originalUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication"
 webUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication"
 type: article
-quality: 65
-heat: 95
+quality: 67
+heat: 87
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-doctor.jpg&signature=0256260c9c534e5cd6e4a501569ac440"
@@ -28,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered cybersecurity provider ExtraHop to be acquired for $900M"
-    excerpt: "Bain Capital Private Equity and Crosspoint are spending $900 million to acquire ExtraHop Networks Inc., a software company that uses hundreds of machine learning models deployed side-by-side to find threats lurking in enterprises’ cloud environments."
-    publishedDateTime: 2021-06-08T19:15:00Z
-    webUrl: "https://siliconangle.com/2021/06/08/ai-powered-cybersecurity-provider-extrahop-acquired-900m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/extrahop.png"
-        width: 924
-        height: 522
-        isCached: true
   - title: "Horizon3.ai Raises $8.5M to Disrupt the Cybersecurity Assessments Market"
     excerpt: "Former Splunk CTO Teams Up with Former U.S. Special Operations Cyber Operator to Deliver Automated Penetration Testing-as-a-Service"
     publishedDateTime: 2021-06-08T21:44:00Z
@@ -66,6 +53,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "BkkyQwPnSG3lyaLinHXrcFf0bRNxSeuy0FP3ydCdt/TFcirsqrU0iUAcLJvqCeIzpgIos1FyGnWXn5DsMWcbn1/fOvmy9QUVugFIhLBS2RGR/KMsmC6d3dvbcC0+CdNdFXvrOPiyRsng5Vkr3wQ9VtoIWHUyDNyPEYUR5EHHvIk2X4V1UjJRIcf21nbrfT3lSjsNjpoht1QdYJTTpVimFp591X0cIyt1M4owpLRKAoBzVetih7T4E5DAMos4oWtDOXbjUZVQJYPNrhczCXd4LR98h+VL4AaN/l/v2zpHDXqgwcRMy8a1pgtHIBtZUXc281MG5Zfz1YF0UEVtzuMkDo1CS4rtCOH9gYpPfQOzVEU=;tP8d3sveKifX0Uy3TS5ZNw=="
+secured: "pfNICVskU/dBrdtLNylUw1v80NsiH3K+H4et+0LJ2AIViPzirpLv0VgShISAdv3vKKI3T6rntbY/DigEi69IDUzIaehUzaAPvmJv5iibiYQb6f9g1gVjKJmAh698gyaXsmbEMxRl6fVEkMTTVnnpxv5+Fz6eOSgpwCQDrFiPMkJat5ZBf7gUxI+I+ZngXJ9JUCGLr0wqxclsFqmnpcf1IdrKx/VKXGuO3s86vzUrdIs4+yBfOgron94lcrkY0wX+uj+GJgpg0YCOhz8guWmQ1bDj/5ubiwdKjOJdqjqqlKAtaZhFAfaXc92SJqY1F+EXTRPM2udkxFjCnfxiz/4CjlsNXqi3KOKCucBx5yS1A3oyzSpPO+G6Yi4cSLlmqFny2FAnLEvx7G1mZwohWefx1t4ssK/152qKYmY6B4FuWXnI4xzHfMJL53cNs8O7Fi3x4shdZ41bzWNM9oju24FWc3rmo9Ft2ZA0XX3Ck/dEyU1RKIC9xUYR3BnzdzPMjSdvNW0T0Egkq7vsL/tVigBPvg==;CoKhJ3x7YSx+tthRPyUz5w=="
 ---
 

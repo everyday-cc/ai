@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-05-18-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
-      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
-      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated \"driver.\" Volvo will design and manufacture the vehicles. The companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/26/volvo-cars-waymo-partner-to-build-self-driving-vehicles",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/26/volvo-cars-waymo-partner-to-build-self-driving-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/26/734158.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-17-artificial-intelligence-ai-in-automotive-market.md",
       "title": "Artificial Intelligence (AI) in Automotive Market",
       "excerpt": "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization.",
@@ -1338,6 +1295,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-these-electric-self-driving-tractors-could-make-farming-much-greener.md",
+      "title": "These electric self-driving tractors could make farming much greener",
+      "excerpt": "A startup based in California says it can help farmers be greener and more profitable by offering what it describes as the world's first fully electric, self-driving tractor. The compact tractor can be programmed to perform tasks such as plowing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506123000-restricted-monarch-tractor-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "publishedDateTime": "2021-05-11T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
