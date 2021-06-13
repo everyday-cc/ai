@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesofisrael.com/voiceitt-launches-speech-recognition-a
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/voiceitt-launches-speech-recognition-app-for-people-with-disabilities/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Times of Israel
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments"
-    excerpt: "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on"
-    publishedDateTime: 2021-06-08T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments-301307887.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Dispel Releases Industry's First Accessible Remote Access Platform Designed for People With Disabilities"
     excerpt: "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities"
     publishedDateTime: 2021-06-09T12:00:00Z

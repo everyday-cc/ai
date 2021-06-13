@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Razer and ClearBot Redesign Autonomous Robot to Clean Up Marine Plastic Waste"
-    excerpt: "In celebration of World Oceans Day, which takes place today, gaming brand Razer announced that it's joining forces with startup ClearBot to help redesign its AI robot that cleans up marine plastics."
-    publishedDateTime: 2021-06-08T12:36:00Z
-    webUrl: "https://www.autoevolution.com/news/razer-and-clearbot-redesign-autonomous-robot-to-clean-up-marine-plastic-waste-162827.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 36
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/razer-and-clearbot-redesign-autonomous-robot-to-clean-up-marine-plastic-waste-162827-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "IjMfVkOxw42sKjwxoa+3FumIVC6Ibygk3i8S6BGj2mq6qsT21BBrbHbYaLTEvVHz6W2WG9YG5iQeJMr9UAr31XcnPCyDDrfE2eoJ1wzqaccrgwuoWBpOihSF1JdkoIYadnUrYAwfMJ22GlmtvylPmBfS5S9TRim9Z97NcBfT/P+tNH0At+cKI6IaloRL7PMBYWPXu8PZpzoBSeomgNzAMJ36VhuaqDlqIFAFQG1uBasYAB2i3Qhw8b6K3qlm9ojPdgjafCl/4+UrJ0EFDC2TvIbnsV1bV4m8Sw0e+jcc+cF8bo8+KEzTu8CAIjkdEvQeeoo7ES3voCB1cDGm2jLDPpEa56zilc2+vwZBZuJGrjkU2tcGm4+YYIl4VOYO0IWyYEMiGqEVNQ/1sxzQp84dCzkr3FfZxF/d1MXvGAn73WjfmRKOCGw7iJL0XbeuZSWq49/K1zz8yhWg4zoNAOpQgN8vpHcq7QXlvhvaOQpqFPo3YwiEuTibt5pJ7MLkBYt00YipSkHYLibccTegRkZR5A==;8zk53POFaxvAW3mIvOgaRQ=="
 ---

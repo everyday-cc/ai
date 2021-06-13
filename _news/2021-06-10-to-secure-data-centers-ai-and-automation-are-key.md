@@ -27,49 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Utilities Can Use Data And AI To Turn Every Interaction Into A Marketing Opportunity"
-    excerpt: "Utilities often collect an enormous amount of customer data that can be extremely valuable for segmenting, targeting and engaging with different audiences. The next step is to use this data to enhance marketing automation and break down the silos between departments."
-    publishedDateTime: 2021-06-08T11:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/amp/"
+  - title: "Can AI and cloud automation slash a cloud bill in half?"
+    excerpt: "Many companies don’t realize how dramatically their cloud spend can increase given that those expenses aren’t charged up-front."
+    publishedDateTime: 2021-06-08T15:30:00Z
+    webUrl: "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/"
+    ampWebUrl: "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c716b9a3e6cd67f92c711%2F0x0.jpg"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "How to Integrate Artificial Intelligence into Your Workflow"
-    excerpt: "MathWorks’ Johanna Pingel talks with Senior Editor Bill Wong about how engineers can use artificial intelligence to optimize their workflows."
-    publishedDateTime: 2021-06-09T20:36:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21166641/electronic-design-how-to-integrate-artificial-intelligence-into-your-workflow"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 37
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/AI_ecosystem_promo.60c1235e8ac9d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1622706374516.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence System Market Emerging Growth Analysis, Future Demand and Business Opportunities 2027"
-    excerpt: "The global Artificial Intelligence System market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
-    publishedDateTime: 2021-06-09T06:40:00Z
-    webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-system-market-emerging-growth-analysis-future-demand-and-business-opportunities-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 18
-    images:
-      - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
-        width: 896
-        height: 411
+        height: 600
         isCached: true
 
 secured: "nmltRy4e66/wH15Erp3DEkqoo7HNadPaQi73RAukdndgAlqiuVk+Pg7u/GQQAbaH0XnRBzu4+lNajuEKQjQHMOLMJ3UXXd5f883QfOvhusqqxu4iiB9AVTxiN+qC4YpS+y8yt5X0jWlnC7fJFRzUzs/BPiWmLz502nR2YkXxeOx6wR1XCXu1Tmp2oHaqc0qh4msReeCz170W8pAz59tD8/phnrGA+uGMHdL+UOVVSACFAy/UENISXvSCQ8/XE0x00ge8gQSWVbNzdwEa0ondVmlJDjnjiWGkioGkMwR0vraLzYacIFZK4rdDP6VkAneCO15DjL7xJPZ/1/kPVvQDRvGAGeK8qLXz0tO8GRcJRj4=;p5nEEB6gpnJXpzWqSc/Igg=="

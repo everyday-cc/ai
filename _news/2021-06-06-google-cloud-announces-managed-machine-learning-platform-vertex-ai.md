@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://res.infoq.com/news/2021/06/google-vortex-ai/en/headerimage/header%2810%29-1622907551574.jpg"

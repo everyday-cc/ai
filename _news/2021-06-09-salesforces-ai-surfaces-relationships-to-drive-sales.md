@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relations
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 800
         height: 412
         isCached: true
-  - title: "Quark.ai Announces Autonomous Customer Support on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
-    excerpt: "Quark.ai today announced it has launched Quark.ai Autonomous Customer Support on Salesforce AppExchange, empowering enterprise customers to interpret complex customer cases and"
-    publishedDateTime: 2021-06-08T11:07:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/quark-ai-announces-autonomous-customer-support-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud-marketplace/article_aa434123-34be-50e5-b8de-e7c38e4f0cd9.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "+ZrxQCPCZhSLv1/zMkZEOzUrUlWfXUV9uvK7g1ZI04Zi5iHWuLXAS7Lcp2TufBo3qqhPjhkhqyzh0NT0+2Oeh+O6hEN/ROFnesAmKwXlM8rfiB95JSZjyUc8YlTrNWfUc3IGqau5jvrHmQ60xMOcfPC8nVWLRp391+a0GuzNjY5Gcslu4qIoOJupUa4wYfxIVgSLZ7zhy93HYlTeOUdQGbyMyxHpyY+0NpPBULLv/ax+3/fyYU/ofbmxqZbJ0/E357ma2f5fSqL8/4DeIukLZIuGs6vHA+gSmCzUiuyfTjX/g9UyKRzIEFLUy5yQoCC6h+xI7AJfymMf9EWvPrd0qR2qvwJQSMiwhK4Bn260+uFnuReO3tsS6Gek/wOPdg3+rBsXW+C7coQGzOz3h8en51UhqnSXmcVVP3MZbz3GekGu76raXs+06KypTev0Ty8paxmIVIm2uAU24KDHrMJCzC6hyU7u3GqHGK3UIueDPsH/zFzHoSFOj9mgbRZzm+Kan9wocthlBqVvvJ/FY/4ZWQ==;QWKBCqbGD5xAf5TF4FkZkQ=="
 ---

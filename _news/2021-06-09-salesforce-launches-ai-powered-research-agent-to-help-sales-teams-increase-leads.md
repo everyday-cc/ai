@@ -61,15 +61,6 @@ related:
         width: 800
         height: 412
         isCached: true
-  - title: "Quark.ai Announces Autonomous Customer Support on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
-    excerpt: "Quark.ai today announced it has launched Quark.ai Autonomous Customer Support on Salesforce AppExchange, empowering enterprise customers to interpret complex customer cases and"
-    publishedDateTime: 2021-06-08T11:07:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/quark-ai-announces-autonomous-customer-support-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud-marketplace/article_aa434123-34be-50e5-b8de-e7c38e4f0cd9.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "QKL61X/lxRzW9zG9ErbHK1Nna8vn2Rd/p4YhYueD4cBAqkuZcP8OLirFbuptrHFcGOXoKI+KCQpAd0LV20uTbByQFFNc8GcpSnUYY3uKPq/voRsr5cAmi3xh4ubzBCZsF/ip5rNo5VsznEv2oKvHWP7MI0bVs3ktThzLGqwfo+oJbqXlRp24y+EeL/r6Soio0nZ/Jd9NC6v8jb8iW9AbXPtqO1nUwhktV9iqSwnbLEZqvh409uH8jA9FOTKq5D6Uep1UM4ekeEVA3Lup6BPlmXxx+Q+bbXHtiR2lOgz+nl7mCIu1l9+t6xr4slj0F3dn2+xttnsFs0V3ijXxOnZGXrsUSKxCHhdvGBr8NCsfYJQ=;E/VmTi0PMcvw4NpikKyqBg=="
 ---

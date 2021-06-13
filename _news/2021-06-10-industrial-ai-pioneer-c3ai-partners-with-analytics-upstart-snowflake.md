@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Before Jumping to Machine Learning, You Need a Solid Analytics Foundation"
-    excerpt: "In this special guest feature, Michael Simms, Practice Director for Data & Analytics at Columbus Global Services, discusses four important elements of an effective data journey. Mapping a data journey provides awareness and understanding of where your organization is to ultimately get where you want to go,"
-    publishedDateTime: 2021-06-08T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/06/08/before-jumping-to-machine-learning-you-need-a-solid-analytics-foundation/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 38
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
-        isCached: true
   - title: "ListenFirst Launches Machine Learning Analytics with Instant Insights"
     excerpt: "ListenFirst, the premier enterprise social analytics solution, today announced the launch of Instant Insights, a new analytics feature that quickly shows how brands perform across social media. Leveraging years of intelligence gathered from working with the largest brands in the world,"
     publishedDateTime: 2021-06-09T17:39:00Z

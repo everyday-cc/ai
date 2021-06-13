@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence System Market Emerging Growth Analysis, Future Demand and Business Opportunities 2027"
+    excerpt: "The global Artificial Intelligence System market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
+    publishedDateTime: 2021-06-09T06:40:00Z
+    webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-system-market-emerging-growth-analysis-future-demand-and-business-opportunities-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
+        width: 896
+        height: 411
+        isCached: true
   - title: "Global Self-driving Submarine Market Precise Scenario Covering Trends, Opportunities and Growth Forecast during 2021 to 2027"
     excerpt: "Market Research Place has released a new report entitled Global Self-driving Submarine Market Research Report 2021-2027 that focuses on the market insights into the current and forecast market situation."
     publishedDateTime: 2021-06-11T10:18:00Z

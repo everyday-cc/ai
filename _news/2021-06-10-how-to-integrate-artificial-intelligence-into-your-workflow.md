@@ -24,51 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Utilities Can Use Data And AI To Turn Every Interaction Into A Marketing Opportunity"
-    excerpt: "Utilities often collect an enormous amount of customer data that can be extremely valuable for segmenting, targeting and engaging with different audiences. The next step is to use this data to enhance marketing automation and break down the silos between departments."
-    publishedDateTime: 2021-06-08T11:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/06/08/how-utilities-can-use-data-and-ai-to-turn-every-interaction-into-a-marketing-opportunity/amp/"
+  - title: "Hidden Workers Helping to Make AI Systems Work Well, Fit Into Workplace"
+    excerpt: "An invisible workforce is behind the scenes helping to make AI programs work in their specific contexts; some feel they are undervalued."
+    publishedDateTime: 2021-06-10T22:01:00Z
+    webUrl: "https://www.aitrends.com/workforce/hidden-workers-helping-to-make-ai-systems-work-well-fit-into-workplace/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c716b9a3e6cd67f92c711%2F0x0.jpg"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "To Secure Data Centers, AI and Automation Are Key"
-    excerpt: "To avoid being next to fall victim to malicious server code, universities and colleges need to secure their data more effectively than ever before. For many universities, this can be achieved through data center automation."
-    publishedDateTime: 2021-06-10T16:09:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key"
-    ampWebUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 59
-    images:
-      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202106/GettyImages-1271247696.jpg?itok=pRl58pZz"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "Artificial Intelligence System Market Emerging Growth Analysis, Future Demand and Business Opportunities 2027"
-    excerpt: "The global Artificial Intelligence System market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
-    publishedDateTime: 2021-06-09T06:40:00Z
-    webUrl: "https://ksusentinel.com/2021/06/09/artificial-intelligence-system-market-emerging-growth-analysis-future-demand-and-business-opportunities-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 18
-    images:
-      - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
-        width: 896
-        height: 411
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-11MechanicalTurk-2.jpeg"
+        width: 550
+        height: 550
         isCached: true
 
 secured: "UQ9RyeVRZhAysgVTzvqSI5Z1MuAVyoRRxvMxTaFf+Ek4MbLTQsqASbJ2W+Y0wITKJuMjwQUbj6jNlXym+UyXoZdtHIPmFfzL/nYYTKF7o7RqMA49GaEQdM55DgfyLWMtVmrxiNnHihl7r2WEZw6CJTjk7rPwB4uLe6Xr5/26IkBLmARDL/3bFgGaJNopWstjmEknHqIPVlAJSVElKeSyNqcSTaMMkZnVHOEB0JjeUL7adSPRL0UxWNKoEng9m1UfnO5rwhxQAH1zbsRZRaATyDNPrXZgb0Pp0kZ7KcvHTgvpgaR18hqqOrJ36M/lCG7NTw0CV6K8TjrGBTDOH0otn52E9jkspDhJcKet5Scdy40=;ys/4dWDrX6w2PnLLIWBlvw=="

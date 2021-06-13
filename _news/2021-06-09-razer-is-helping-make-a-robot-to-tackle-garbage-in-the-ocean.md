@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/razer-is-helping-make-a-robot-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/razer-is-helping-make-a-robot-to-tackle-garbage-in-the-ocean/1100-6492549/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: GameSpot
@@ -40,20 +40,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Frazer-clearbot-world-oceans-day-ocean-cleaning-robot-drone-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 479
-        isCached: true
-  - title: "Razer and ClearBot Redesign Autonomous Robot to Clean Up Marine Plastic Waste"
-    excerpt: "In celebration of World Oceans Day, which takes place today, gaming brand Razer announced that it's joining forces with startup ClearBot to help redesign its AI robot that cleans up marine plastics."
-    publishedDateTime: 2021-06-08T12:36:00Z
-    webUrl: "https://www.autoevolution.com/news/razer-and-clearbot-redesign-autonomous-robot-to-clean-up-marine-plastic-waste-162827.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 36
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/razer-and-clearbot-redesign-autonomous-robot-to-clean-up-marine-plastic-waste-162827-7.jpg"
-        width: 728
-        height: 300
         isCached: true
 
 secured: "3wl0ddStE0TSQ98zLtKk6LzuKlm3dTH36+eN+ohqhYEaUig8U6hHv4ry+4PaKNAEiMkhTgTklQNu7jiS5RzV7UjvNP7Cf93jedfQ2zuilwDiRQxW66d5MkGGk3Xng8me379xZyrinZVkqMDFlgzLDILdslib4aLDeBSYgorST+u53Yhn8Rtxlg9ziy1F6QjpYRVu+56JN9kBNdNgylVX+x4KRvgBphJIz+NafzO4soo9dwn4KPgW6ENk0Pg0aBeLwYj9eSpPjCBVu0XEe/Uwrz/Dwil5ibSpxFsJVvSm1ksx/U2xVC367A7Adb3+gch+SYFuBaCfRg/ejLtYJbJydwUALiAuBRe2GrSuGDo92NHxI+yIyVJvVro2g6qVps4CFK4HA77SNXLy/k85Ru6JtBELWQyJZYjg67gkXWaPMAltQbRyxf/6LDCLODjMU/qJiQ9aJ5WTOk7gdNE6x/yUTqS94KkB+g+AQVw5GH0VYPEAnUrFcLRR7SA6CAF2mfXPhMuaTKPlCPYgbZ2RaVyOYg==;qEtcgkULYX1KT5NgY+Tmgw=="

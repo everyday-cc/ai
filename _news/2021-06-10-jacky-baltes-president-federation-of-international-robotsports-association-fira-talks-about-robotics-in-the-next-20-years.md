@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 MIR1000 Robots Automates the Internal Transportation of Heavy Loads at Florisa"
-    excerpt: "MiR1000 have improved productivity, safety and eliminated storage problems within the Florisa plant, a company that operates in the textile segment, with production focused on the dyeing of natural and artificial fibers."
-    publishedDateTime: 2021-06-08T12:42:00Z
-    webUrl: "https://www.roboticstomorrow.com/article/2021/06/5-mir1000-robots-automates-the-internal-transportation-of-heavy-loads-at-florisa/16957"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
-    images:
-      - url: "https://www.roboticstomorrow.com/images/articles/16957.jpg"
-        width: 680
-        height: 340
-        isCached: true
   - title: "Computer Vision market is booming worldwide | Cognex Corporation, Basler, Omron Corporation, KEYENCE CORPORATION, National Instruments, and more"
     excerpt: "Global Computer Vision Market 2021 Research Report initially provides a basic overview of the industry that covers definition, applications and manufacturing technology, post which the report explores into the international players in the market."
     publishedDateTime: 2021-06-10T20:01:00Z

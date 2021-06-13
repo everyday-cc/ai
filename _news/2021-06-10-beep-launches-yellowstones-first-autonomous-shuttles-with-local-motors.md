@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
-excerpt: "Beep – a provider of multi-passenger, electric, autonomous mobility solutions – today announced the launch of Yellowstone National Park's first-ever autonomous shuttle"
-publishedDateTime: 2021-06-10T12:04:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3f4f85a6-20f8-551b-8512-88681fe82baa.html"
+excerpt: "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ..."
+publishedDateTime: 2021-06-10T12:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/beep-launches-yellowstone-s-first-autonomous-shuttles-with-local-motors-1030511447"
+webUrl: "https://markets.businessinsider.com/news/stocks/beep-launches-yellowstone-s-first-autonomous-shuttles-with-local-motors-1030511447"
 type: article
-quality: 24
-heat: 24
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/7d/d7d01d8a-ed7c-56a9-8d0f-b856ccdcf8be/60c200357d02e.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -51,6 +55,6 @@ related:
         height: 800
         isCached: true
 
-secured: "LnJ4Mc07tAL5nLlWyb21hSP/ZOtP7Aa6Zq0JiKW8NmxVUpHUz78cQ4ugAeo0oVoCniOEN07efN+Dh84gIwCc+QG9r86V5/cegFgBb2SrmeYAjrXbkKJGskjFezc2gFmnjip1U5kHuK1Ymeu7YG5GYcWr6l+wKgufa3boZWa1sOYp89E8OjdEcpwHgRAJiBa99caw3WDz7xPob8NbGUdm0Ejfb/D//lm19kq8eqTEjLl/bCRtZ/+3whgUAIFrrgcIXD6eKz+NAPZggJhZQC28M9dbY3C1Hsvfc+lODaoIYr6VznblMkB34sldiijVdEUFWPS1zevFhzSX4d2PHVdufUYYcrN0vykiG/PkB88551o=;1uJnWk66Jj1X0ND0e4SVMw=="
+secured: "ofIjnr5aEjH+DJKcktUTdTU0aQ2vDL/khMsFNkOFWOUzv+NA/7fKz2rmafE+wlKV1nB33Q1+/uormVudicPh5p9TR6hEgfngO89PhFKzz/F9WuufBB8OyxV04ARGKkr83M01MWGZLO51wRvN6JaKV7o97KmhAibBxdDS1ijFwhU4h0aKyj57L1GTIV3NdX+7UjYh4tmWKY0zCqpszkgZXkn7XntBdztzhz3qyEGe+k40WgltEBKT1Vi4SWO67syrkiAgK4Td30zI8oOah1aG3S8YY6EdCEQZPXpU9zSpWKEmE4vSvKdud1uqzsogzA5nz+tdMJP0NVpTRirwnCPcTWvjNcNkJibH0viD9gYD7A8=;RFtwDZ20Y+8y2t07nR6Whw=="
 ---
 

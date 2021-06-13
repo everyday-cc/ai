@@ -35,20 +35,6 @@ related:
         width: 690
         height: 493
         isCached: true
-  - title: "Canadian fintech Trulioo scores nearly $400m to create end-to-end identity giant"
-    excerpt: "Fintech-focussed identity verification startup Trulioo has raised $394m as part of its Series D funding round with plans to expand its offering dramatically. The funding was led by private equity giant TCV,"
-    publishedDateTime: 2021-06-08T11:06:00Z
-    webUrl: "https://www.altfi.com/article/7978_canadian-fintech-trulioo-scores-nearly-400m-to-create-end-to-end-identity-giant"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 19
-    images:
-      - url: "https://www.altfi.com/images/featured/canadian-fintech-trulioo-scores-nearly-400m-to-create-end-to-end-identity-giant.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "atw7i70JZP0b2GlFcnhsKIWD9ba4dzTN5J45SrKiA+6zLSTIdJ4GKG3vy/9URkt8UOEALeWhUWdmvQgTmNPALvaeEvaCFhMxRUb33Odp6da0sCUxmRObxPpLogmA7g+slsuTGQOqX45AJ+iXByVPP6d//aKwMPku1MAKEcoE51WExrBC2A3/+jr85DBLfqgvDvWFnTD9pcXLWCCLVVG3lpv70zU9fHBiGBG6Dl2OMzJoIV0eeDHXM+VoTD2p4iUuwp1TfUh5RsfQ7GJJd8OtYOsX3KI7cq/EmmzhvZT+beHNTnRwUvGHlEDiRppR+bSgPvba+6bosmTSJJ99ViBTAzfed14/HqPYBbVTwcrWxK5A0tIeqlQ2MvmrAFdlPcHVMrmF8N5zIpyp9R4A5H9iLBamzFiiUWvNxGMpJBfVCTJ2d7J7GIXdvmbon7/mt+93GUUFEM22Wg6c+txZIGzqkc0kHQJTvQfIXIldLzsN0f/wJBOARB67TZR0vZl/xobHsYVLNrdTVbiPU1vqIJjw0A==;MXQU9Ss4r97eTJbVAwpkJA=="
 ---

@@ -30,20 +30,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Before Jumping to Machine Learning, You Need a Solid Analytics Foundation"
-    excerpt: "In this special guest feature, Michael Simms, Practice Director for Data & Analytics at Columbus Global Services, discusses four important elements of an effective data journey. Mapping a data journey provides awareness and understanding of where your organization is to ultimately get where you want to go,"
-    publishedDateTime: 2021-06-08T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/06/08/before-jumping-to-machine-learning-you-need-a-solid-analytics-foundation/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 38
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
-        isCached: true
 
 secured: "6HdC8DPxuSUKxFAESTtdjfrrpUA4nuDGj/yg7fNxAnWpOV4R9qpLJtSy249WafbjZKWFwGa07iajZsk2VgiQKDescUPg/Xnv+me7YoxTaPv2HjAtM2pFmn0/yiEsci8T69zZaL4aAFsU0R0dNP0GXF+GsBQEcsQYo1TZhWxW27McF6zuEKVGuhVsWdc8UWCvq8FRJHcSuCevuow/oVaFq1gPHEgycynpHQ6ilIEGLG0FO3LKLPAd2svjYiv8ALpUXgWKqHqXpLsPIiK9qSr9SPXLiyYiDFWWVMMVYPVRSp//u3tHT5G5vB3m+eJL/cDwQyBTpY8kfsoSGw+wWYc7l205FE3hhtxpTwsxjb0ujg0=;Oc6zsWqcQ8bo47NOf4pRhA=="
 ---

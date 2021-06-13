@@ -53,15 +53,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "BNY Mellon and Saphyre Leverage AI to Revolutionize Client Onboarding"
-    excerpt: "BNY Mellon and Saphyre today announced the firms are working together to utilize AI technology to revolutionize the client experience and substantially automate and expedite client onboarding. This collaboration supports BNY Mellon's OMNISM strategy to work with best-in-breed fintech organizations to innovate and support clients investment objectives."
-    publishedDateTime: 2021-06-08T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bny-mellon-saphyre-leverage-ai-revolutionize-client-onboarding-/2021/06/08/9385766.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "nEyADEmA/iNajR5nski8vsAf8Cm/jwzNkfhrSVGUJf1dr7kmwhaMFC7lNEUAwJU3zCzlbSR+0xP8vomfEy2dI7nViupAFLTVqkpvZ4M7sTJ035xm3kjLQAFxdcZg1q/cfWwYGFtP2XQRRQDyBN6b2HY15TGzqp/tp+04q3cAZlC6sb60dHFEc0mewV9Rgz9KyiWVyfStXTHLYK0cT58mkxLU5DLXNF8iauHPkI881ygB5H0Kkk586yacVSJfW93IKpegMdJrvtsqOqcYs5z0FT9d5W6jExWYsjvxkjiYOuzf1a1kAhnNdpoujBOrCiHwg7tKh+Cn1KATO0wACdGQeW2Jr6KqPcp8GHJUCRylTCc=;JFa2kgQzQvLXzq2Olbgqmw=="
 ---
