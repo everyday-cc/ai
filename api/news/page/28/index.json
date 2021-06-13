@@ -2,6 +2,151 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-05-21-automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Production, Growth, Share, Demand and Applications Forecast to 2025",
+      "excerpt": "Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  By identifying the growth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025-2021-05-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025-2021-05-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-artificial-intelligence-is-americas-achilles-heel-against-china.md",
+      "title": "Artificial Intelligence Is America’s Achilles Heel Against China",
+      "excerpt": "Unless Big Tech, universities and the Pentagon can work together, China’s government-run approach will surpass U.S. efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-20/china-s-artificial-intelligence-advantage-is-america-s-achilles-heel",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-20/china-s-artificial-intelligence-advantage-is-america-s-achilles-heel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iicAif8HY5Z4/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-scientists-bring-the-sense-of-touch-to-a-robotic-arm.md",
+      "title": "Scientists Bring The Sense Of Touch To A Robotic Arm",
+      "excerpt": "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of... A robotic arm with a sense of touch has allowed a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.northcountrypublicradio.org/news/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm",
+      "originalUrl": "https://www.northcountrypublicradio.org/news/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815-493e45de75e2bb62942e5046a4be25f33401bd9b.jpg?s=6",
+          "width": 948,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northcountrypublicradio.org",
+        "domain": "northcountrypublicradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-microsoft-launches-azure-applied-ai-services-toolkit-for-enterprise.md",
       "title": "Microsoft launches Azure Applied AI Services toolkit for enterprise",
       "excerpt": "At Build, Microsoft launched Azure Applied AI Services, a suite of AI tools designed specifically for enterprise scenarios.",
@@ -990,144 +1135,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-these-ex-journalists-are-using-ai-to-catch-online-defamation.md",
-      "title": "These Ex-Journalists Are Using AI to Catch Online Defamation",
-      "excerpt": "CaliberAI wants to help overstretched newsrooms with a tool that’s like spell-check for libel. But its potential uses go far beyond traditional media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/",
-      "originalUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60a5bd465cc021afbbe8fa34/master/pass/business_libel_1202342874.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/amp",
-      "publishedDateTime": "2021-05-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence.md",
-      "title": "A Sustainable Future Is Not Possible Without Sustainable Artificial Intelligence",
-      "excerpt": "Although AI is the future of the world, training AI algorithms still depend on powerful computers, which consume significant energy and emit considerable carbon emissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a57fce790819a3e5723c48%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-05-20T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-lemongrass-and-inawisdom-partner-to-help-clients-accelerate-data-discovery-for-systems-running-on-aws.md",
-      "title": "Lemongrass and Inawisdom Partner to Help Clients Accelerate Data Discovery for Systems Running on AWS",
-      "excerpt": "As two of the leading specialist partners within the AWS Premier Partner ecosystem, Lemongrass and Inawisdom are uniquely capable of helping Enterprises harness the value of data in their SAP systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-lemongrass-inawisdom-partner-help-clients-accelerate-data-discovery-/2021/05/20/9374071.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-lemongrass-inawisdom-partner-help-clients-accelerate-data-discovery-/2021/05/20/9374071.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-11-save-275-on-the-ecovacs-deebot-t8-aivi-robot-vacuum-today-only.md",
+      "title": "Save $275 On The ECOVACS Deebot T8 AIVI Robot Vacuum – Today Only!",
+      "excerpt": "Amazon has the ECOVACS Deebot T8 AIVI Robot Vacuum on sale today in its Gold Box Deal of the Day for just $524.99. That's going to save you $275 off of",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
+      "originalUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-11-at-7.46.28-AM.png",
+          "width": 879,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
+      "publishedDateTime": "2021-06-11T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis.md",
+      "title": "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis",
+      "excerpt": "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-which-robotics-companies-are-going-to-become-unicorns.md",
       "title": "Which Robotics Companies Are Going To Become Unicorns?",
       "excerpt": "There has been an explosion of robotics startup companies during the last two years. Every couple of months, I’m seeing new VC-backed startups coming out of stealth mode with millions of dollars in funding.",
@@ -302,6 +398,48 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-using-ai-to-write-better-faster-smarter.md",
+      "title": "Using AI to write better, faster, smarter",
+      "excerpt": "Computers can write bizarre sci-fi movies about characters who have to “go to the skull,” but can they make us better writers? Compose.ai just raised $2.1m in seed funding to help us write faster, per TechCrunch.",
+      "sourceUrl": null,
+      "webUrl": "https://thehustle.co/06112021-ai-writing/",
+      "originalUrl": "https://thehustle.co/06112021-ai-writing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehustle.co/wp-content/uploads/2021/06/News-Brief_2021-06-11T030244.661Z.jpg",
+          "width": 600,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehustle.co/06112021-ai-writing/amp/",
+      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/06112021-ai-writing/amp/",
+      "publishedDateTime": "2021-06-10T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hustle",
+        "domain": "thehustle.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1089,154 +1227,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot.md",
-      "title": "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot",
-      "excerpt": "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
-      "originalUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
-      "publishedDateTime": "2021-06-10T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-researchers-win-44-million-in-grants-for-projects-using-ai-to-take-on-climate-change.md",
-      "title": "Researchers win $4.4 million in grants for projects using AI to take on climate change",
-      "excerpt": "The C3.ai Digital Transformation Institute announced on Thursday $4.4 million in awards to researchers using everything from offline reinforcement learning and large-scale simulations to soil samples and seaweed to find solutions to climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
-      "originalUrl": "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/23/0910be10-29c0-48e4-abbe-4937f7c93ed6/resize/1200x/603a31e7f68e468b2e6d5830fc2ac6d8/istock-1135081245.jpg",
-          "width": 1200,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
-      "publishedDateTime": "2021-06-10T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-self-driving-technology-company-argo-ai-plans-ipo-within-a-year.md",
-      "title": "Self-driving technology company Argo AI plans IPO within a year",
-      "excerpt": "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
-      "originalUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg",
-          "width": 1920,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

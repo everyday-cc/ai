@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Using AI To Block Unconscious Bias, Widen The Talent Pool And Increase Diversity"
-    excerpt: "DEI is the top talent management priority for CEOs. As more organizations prioritize diversity, the challenge is figuring out how to achieve it. For starters, how can we block unconscious bias in the hiring process?"
-    publishedDateTime: 2021-06-08T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be5936c3c83c5a7cf355c9%2F0x0.jpg"
-        width: 1200
-        height: 796
-        isCached: true
 
 secured: "MNSxIj6vFEo0Ss+edd8RWIdXyUCvwKdVM3s70dkhPFmL/E7qtLRV84j76dhu405vmsEpjdAofQma7sm3sBLCdLScIqev9W8jADe4eSLp3XjNqpw49TS7t7zd8oMqaOFuax2tUvMLfyrKw99+C3N1LwOxYd2BlMc/f6LaKogCgwNomjztN7OM/yH9XP12uNbHZjSWO7kfR/tATr9bKldv9fGbbscTzzssxW/2v1ZkzIGHYbbAiDZd/2kDJHKD0GlzhVScciVhj0Abj1yhLxl3hI53c+HhP38V/JJBneCPcXIn8TFOUsSv9KEj52USAMQ8z/FbShDuWWUTmKoPHgW2IfTa3MH2e28bitiHUJ1WYkV3fFDEJ3Mdb8B0aG8dS3sMNoIvKTOHEbgcSO1rsAS63THEoy5DUDxDZgTtlBfzWmf0C0WveTHDbg6zgwkSiTOfXoDOB0uijK5d3yLn5kSU0uWfSFRlP3Ahoqu7oxnxdDDoouvvIgEVyMqrVqn9HEfH/H4I13wNRqRCGpmXfqVdSQ==;+EgCN98MUcFJ7ogrwqd+yg=="
 ---

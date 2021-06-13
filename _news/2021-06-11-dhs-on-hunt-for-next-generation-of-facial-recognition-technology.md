@@ -66,20 +66,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
-  - title: "King County, Wash. bans use of facial recognition by sheriff's office, other agencies"
-    excerpt: "Agencies could still use facial recognition evidence as long as they don't produce it themselves or ask for it"
-    publishedDateTime: 2021-06-08T14:18:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21225605/king-county-wash-bans-use-of-facial-recognition-by-sheriffs-office-other-agencies"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 32
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_Technology_Co_302610544.60bf7949247d9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 806
-        isCached: true
 
 secured: "2VLtz2OGGrfl1Rv7vzQwgnykg43gSXJum9WKFaHL3rIVlFFcjVZqt3zKY56xSotFkbdP6cVXJjKb/lUJfMlWxFgxTHdOSWUkCeNuw1TEiMoJaQC3Ae9JBp3atlfveaVGbxf6ZF5sOKwYoT+4eJ204cCK12U7stHutoxHbcMs5BEOR0Rwv0hBSI4HU6QokyB2KNbzXNckt3V83wfRtwe+/AjO2/DSTqYczJHkYh+5jlqoLvNmFV0zitEHfPwwkx8oMepyFHm20YXD1cnmyXtZwlY3628e84oeM9WWVGHTKfU8WlOywrCkNEnm4QQVKoxR2E7bDwKoxQAo602V/DJ6U+lgY9yzdg9kWUKHiVRlj5Y=;1qNMAA9dSmpeekoe8p5TKQ=="
 ---

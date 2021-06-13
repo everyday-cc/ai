@@ -87,20 +87,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI Conference Recap: Google, Microsoft, Facebook, and Others at ICLR 2021"
-    excerpt: "At the recent International Conference on Learning Representations (ICLR), research teams from several tech companies, including Google, Microsoft, IBM, Facebook, and Amazon, presented nearly 250 papers out of a total of 860 on a wide variety of AI topics ..."
-    publishedDateTime: 2021-06-08T13:05:00Z
-    webUrl: "https://www.infoq.com/news/2021/06/conference-recap-iclr-2021/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 55
-    images:
-      - url: "https://res.infoq.com/news/2021/06/conference-recap-iclr-2021/en/headerimage/conference-recap-iclr-2021-header-1622991258808.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
     excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."
     publishedDateTime: 2021-06-13T00:22:00Z

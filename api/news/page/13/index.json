@@ -2,6 +2,153 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-01-lead-semantics-collaborates-with-fluree-to-bring-a-secure-natural-language-processing-pipeline-to-market.md",
+      "title": "Lead Semantics collaborates with Fluree to bring a secure natural language processing pipeline to market",
+      "excerpt": "TextDistil extends the scope of data platform strategy to include text assets for enterprise data teams building domain-specific knowledge graphs or governance strategies for unstructured data",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147139",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-text-altering-ai-is-changing-our-culture-try-this-tool-to-find-out-how.md",
+      "title": "Text-altering AI is changing our culture — try this tool to find out how",
+      "excerpt": "Recent research shows that AI is influncing how we use language through these text-altering machines. These tools are a great example of how this is done.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication",
+      "originalUrl": "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-robot-writing-hed-shutterstock_591536696.jpg&signature=eb3fc916c8e4408192846cbf04fdca3f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-edtech-startup-avishkaar-raises-inr-5-cr-in-pre-series-a-round-co-led-by-mumbai-angels-and-auxano.md",
+      "title": "Edtech Startup Avishkaar Raises INR 5 Cr In Pre-Series A Round Co-led By Mumbai Angels And Auxano",
+      "excerpt": "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373331",
+      "originalUrl": "https://www.entrepreneur.com/article/373331",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622549303-compare-fibre-JiOFFI3W7IA-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373331",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373331",
+      "publishedDateTime": "2021-06-01T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-innovate-toward-health-experience-not-just-healthcare.md",
       "title": "Innovate Toward Health Experience, Not Just Healthcare",
       "excerpt": "Pamela Spence, EY Global Health Sciences and Wellness Industry Leader. Technological innovation has pushed the consumer experience forward in banking, retail, entertainment and hospitality (among other industries) but has not yet broken through with health interactions.",
@@ -322,8 +469,8 @@
       "title": "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc.",
       "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317",
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -333,21 +480,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T00:44:00-07:00",
+      "publishedDateTime": "2021-06-01T00:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -356,8 +494,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -972,152 +1111,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-engineers-use-ai-to-create-a-robot-that-can-smile-back.md",
-      "title": "Engineers use AI to create a robot that can smile back",
-      "excerpt": "At some point in the future, engineers foresee a time when robots are a normal part of everyday life, providing care for children and the elderly and providing labor. For humans, facial",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
-      "originalUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/eva-robot.jpg",
-          "width": 1280,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/",
-      "publishedDateTime": "2021-05-31T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-waymo-may-be-disrupted-by-its-inability-to-scale.md",
-      "title": "Waymo May Be Disrupted By Its Inability To Scale",
-      "excerpt": "Much of the attention among the public goes to the performance and reliability of companies’ autonomous driving technology. However, an equally important issue is global scalability.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "originalUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213118320/medium_image_1213118320.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "publishedDateTime": "2021-05-31T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-lets-not-trust-ai-to-profile-people-from-their-head-vibrations.md",
-      "title": "Let’s not trust AI to profile people from their head vibrations",
-      "excerpt": "AI' is being used to profile people from their head vibrations – but is there enough evidence to support it? For the most part, no.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/lets-not-trust-ai-profile-people-from-head-vibrations-syndication",
-      "originalUrl": "https://thenextweb.com/news/lets-not-trust-ai-profile-people-from-head-vibrations-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FAI-head-recognition-hed-shutterstock_1783490738.jpg&signature=2295dc9a82e4a4716445f84e90a7f0bc",
-          "width": 360,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

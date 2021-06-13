@@ -2,6 +2,137 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-05-19-amazon-extends-ban-of-police-using-its-facial-recognition-indefinitely.md",
+      "title": "Amazon extends ban of police using its facial recognition indefinitely",
+      "excerpt": "Amazon Inc (NASDAQ:AMZN) barred police from using its facial-recognition software almost a year ago, saying it would prohibit them from using it for a year. Now the online retailer says it will extend the ban \"until further notice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372432",
+      "originalUrl": "https://www.entrepreneur.com/article/372432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-372432.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372432",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372432",
+      "publishedDateTime": "2021-05-19T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports.md",
+      "title": "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports",
+      "excerpt": "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. LaLiga will offer new experiences such as augmented reality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine",
+      "originalUrl": "https://www.nasdaq.com/press-release/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-researchers-use-hole-y-math-and-machine-learning-to-study-cellular-self-assembly.md",
+      "title": "Researchers use 'hole-y' math and machine learning to study cellular self-assembly",
+      "excerpt": "In recent years, researchers have drawn on mathematical topology to help explain a range of phenomena like phase transitions in matter, aspects of Earth's climate and even how zebrafish form their iconic stripes.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
+      "originalUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-use-hole-y.jpg",
+          "width": 1220,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
+      "publishedDateTime": "2021-05-19T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
       "title": "Alteryx announces new AutoML product and Intelligence Suite",
       "excerpt": "Intelligence Suite also adds some light automated machine learning (AutoML) capabilities. But if AutoML is what you're after, you'll want to take a look at the new Alteryx Machine Learning product ...",
@@ -1029,143 +1160,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-martech-startup-affableai-raises-2-million-in-latest-funding-round.md",
-      "title": "Martech startup Affable.ai raises $2 million in latest funding round",
-      "excerpt": "Singapore-based Martech startup Affable.ai has raised $2 million from Prime Venture Partners, Decacorn Capital, and SGInnovate. Affable’s AI-driven, Self-service SaaS platform helps brands and agencies run high-impact influencer marketing campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchange4media.com/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html",
-      "originalUrl": "https://www.exchange4media.com/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchange4media.com/news-photo/113018-Affable_Logo1.jpg",
-          "width": 730,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html",
-      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html",
-      "publishedDateTime": "2021-05-19T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Exchange 4 Media",
-        "domain": "exchange4media.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-otterais-new-assistant-can-automatically-transcribe-your-zoom-meetings.md",
-      "title": "Otter.ai’s new assistant can automatically transcribe your Zoom meetings",
-      "excerpt": "A.I.-powered voice transcription service Otter.ai wants to make it even easier for its business users to record their meetings. The company is today introducing a new feature, Otter Assistant, which can automatically join the Zoom meetings on your calendar,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/",
-      "originalUrl": "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jzbRLczOk1w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/amp/",
-      "publishedDateTime": "2021-05-19T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ai-driving-game-changing-competitive-differentiation.md",
-      "title": "AI Driving Game-Changing Competitive Differentiation",
-      "excerpt": "Banks leveraging AI are poised to realize game changing differentiation. Over the past three years, AI in corporate banking has moved from",
-      "sourceUrl": null,
-      "webUrl": "https://www.celent.com/insights/563621451",
-      "originalUrl": "https://www.celent.com/insights/563621451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.celent.com/system/insights/logos/563/621/451/large/379341462.jpg?1621459448",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Celent",
-        "domain": "celent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

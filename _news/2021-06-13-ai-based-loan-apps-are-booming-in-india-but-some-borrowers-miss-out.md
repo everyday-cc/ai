@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
         width: 810
         height: 506
+        isCached: true
+  - title: "Amazon India introduces machine learning summer school"
+    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to"
+    publishedDateTime: 2021-06-13T06:40:00Z
+    webUrl: "https://www.glamsham.com/world/technology/amazon-india-introduces-machine-learning-summer-school"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/3a8ac9132d74a8c38417d22923cee3a4-3.jpg"
+        width: 400
+        height: 266
         isCached: true
   - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
     excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."

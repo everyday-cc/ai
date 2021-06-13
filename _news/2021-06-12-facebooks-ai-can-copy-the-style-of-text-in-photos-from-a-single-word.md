@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "AI Conference Recap: Google, Microsoft, Facebook, and Others at ICLR 2021"
-    excerpt: "At the recent International Conference on Learning Representations (ICLR), research teams from several tech companies, including Google, Microsoft, IBM, Facebook, and Amazon, presented nearly 250 papers out of a total of 860 on a wide variety of AI topics ..."
-    publishedDateTime: 2021-06-08T13:05:00Z
-    webUrl: "https://www.infoq.com/news/2021/06/conference-recap-iclr-2021/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 55
-    images:
-      - url: "https://res.infoq.com/news/2021/06/conference-recap-iclr-2021/en/headerimage/conference-recap-iclr-2021-header-1622991258808.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "PyTorch Becomes Facebook’s Default AI Framework"
     excerpt: "Facebook said it would migrate all its AI systems to PyTorch. Facebook’s AI models currently perform trillions of inference operations every day for the billions of people that use its technology. Its AI tools and frameworks help fast track research work at Facebook,"

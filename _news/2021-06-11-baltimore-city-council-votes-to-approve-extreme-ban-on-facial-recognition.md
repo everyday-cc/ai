@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "King County, Wash. bans use of facial recognition by sheriff's office, other agencies"
-    excerpt: "Agencies could still use facial recognition evidence as long as they don't produce it themselves or ask for it"
-    publishedDateTime: 2021-06-08T14:18:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21225605/king-county-wash-bans-use-of-facial-recognition-by-sheriffs-office-other-agencies"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 32
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_Technology_Co_302610544.60bf7949247d9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 806
-        isCached: true
 
 secured: "vmah30Qq9G4HDrybH9PrpzSIS8hJVOS2gT0aAU7QenRExVv4cyFVqfryk3iA67YkGnWb7kGRvwKZNY5vfIA/vOIaATtiLrVJab94dlO8zwM3z7It0SsvTNMEgwq0/clT5FRLsLvGbkB89H1My7TQxOWnQla5kaolUe+EMM64zbcW1ku7XSMlnR6NfeUmdAm3znu0BsFF5wj4fsfadB9+B+O7yIB7V35rxfjqFC5Oi+O6CyNuCmxEz/yBliBhPhgFy0EHR8g8bj2DyNrgZLc6cxj8BMFMMyuEMloHpNBJUtea3UNm4bWuO6m2CNfGP+iw27Mn1IYY4o5wI48lsspA7D5Jfw6I9g6qMAoU7PCNJqQ=;C+eW09VXYeTblym76/1snA=="
 ---

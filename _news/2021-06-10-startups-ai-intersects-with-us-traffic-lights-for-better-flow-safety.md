@@ -7,7 +7,7 @@ originalUrl: "https://www.publicnow.com/view/B67B1E9FB56EF90AA5EFAA34ACBDA12297B
 webUrl: "https://www.publicnow.com/view/B67B1E9FB56EF90AA5EFAA34ACBDA12297BC041D"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,38 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Using AI to write better, faster, smarter"
+    excerpt: "Computers can write bizarre sci-fi movies about characters who have to “go to the skull,” but can they make us better writers? Compose.ai just raised $2.1m in seed funding to help us write faster, per TechCrunch."
+    publishedDateTime: 2021-06-11T03:05:00Z
+    webUrl: "https://thehustle.co/06112021-ai-writing/"
+    ampWebUrl: "https://thehustle.co/06112021-ai-writing/amp/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/06112021-ai-writing/amp/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 57
+    images:
+      - url: "https://thehustle.co/wp-content/uploads/2021/06/News-Brief_2021-06-11T030244.661Z.jpg"
+        width: 600
+        height: 330
+        isCached: true
+  - title: "Innobooster fuels artificial intelligence solutions"
+    excerpt: "Three teams leveraging artificial intelligence to develop solutions for the medical, legal and robotics fields have embarked on a 1.5-year course as part of the Innobooster program. Each team will receive CHF 150’000 to expedite the development of their solutions."
+    publishedDateTime: 2021-06-10T09:00:00Z
+    webUrl: "https://www.startupticker.ch/en/news/june-2021/innobooster-fuels-artificial-intelligence-solutions"
+    type: article
+    provider:
+      name: startupticker.ch
+      domain: startupticker.ch
+    quality: 39
+    images:
+      - url: "https://www.startupticker.ch/images/startupticker/startupticker_logo.gif"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "XkXExc8aXViBQFilzqzTME27jzYUy2MX7OBQVK2/ucZnMrc+6NnUoRbuDwYWxxomfuriGEjgEa9Z+3mDgzV+vVmBqHlkr5BAd9+65CdtFm1PjUGs8rSYmEckYlIIiZxsE8SZkuGPrb/Oz13bFZcOcbxGOs8GFzkrz/4Xmg1IztzqzdIp2yDUC0w/uRzfS5bE3C1PT0B4C7CgLWLZgXBWyMDLCiEmiPUsoGA4uNbLsE2PBtnxpAIU6OwVEdrKf0wH9k2JNcg9hZDOV8daKW4O4DdyokQ/AGbAPBbNVBwblzmoddBN7WuczxjhcZ/9TpDiPL1iez8NTcv+ekN3O+QnkXexzyAw/pZ4fMZIaOVzRh8=;pUKRCwjTD4l1nRU0k7HtLQ=="
 ---

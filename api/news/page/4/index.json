@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-09-how-edge-ai-can-make-enterprises-more-agile.md",
+      "title": "How edge AI can make enterprises more agile",
+      "excerpt": "Edge AI, or AI implemented locally, on edge hardware, can bring about enormous benefits for organizations in key industries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory-e1623189788805.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/amp/",
+      "publishedDateTime": "2021-06-09T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-anti-money-laundering-startup-intellewings-raises-100000-in-seed-round.md",
+      "title": "Anti-money Laundering Startup IntelleWings Raises $100,000 In Seed Round",
+      "excerpt": "The Panchkula-based startup will be utilizing the funds to advance its product, EYE, a product based on machine learning to help regulatory firms with anti-money laundering compliance needs",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/374119",
+      "originalUrl": "https://www.entrepreneur.com/article/374119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623251717-dollar-2891817-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374119",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374119",
+      "publishedDateTime": "2021-06-09T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips.md",
+      "title": "Google used reinforcement learning to design next-gen AI accelerator chips",
+      "excerpt": "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-06-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-the-pandemic-and-its-implications-on-industrial-machine-learning.md",
       "title": "The Pandemic And Its Implications On Industrial Machine Learning",
       "excerpt": "For a moment, let’s set aside the abject tragedy of the Covid-19 pandemic and the demoralizing conditions through which the world continues to persevere. Instead, let’s examine the state of affairs from a dispassionate and scientific position.",
@@ -651,7 +807,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1107,161 +1263,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-croatias-gideon-brothers-raises-31m-for-its-3d-vision-enabled-autonomous-warehouse-robots.md",
-      "title": "Croatia’s Gideon Brothers raises $31M for its 3D vision-enabled autonomous warehouse robots",
-      "excerpt": "Proving that Central and Eastern Europe remains a powerhouse of hardware engineering matched with software, Gideon Brothers (GB), a Zagreb, Croatia-based robotics and AI startup, has raised a $31 million Series A round led by Koch Disruptive Technologies (KDT),",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
-      "originalUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Gideon_Brothers_Autonomous_Mobile_Robots_10.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
-      "publishedDateTime": "2021-06-08T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-why-is-artificial-intelligence-the-fastest-growing-industry.md",
-      "title": "Why is Artificial Intelligence the fastest growing industry?",
-      "excerpt": "In recent years, Artificial Intelligence has become the industry with the highest growth in the world and, consequently, it has transformed our way of living, producing and relating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373983",
-      "originalUrl": "https://www.entrepreneur.com/article/373983",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623160707-inteligencia-artificial.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373983",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373983",
-      "publishedDateTime": "2021-06-08T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-snowflake-previews-data-marketplace-governance-tools-management-features.md",
-      "title": "Snowflake previews data marketplace, governance tools, management features",
-      "excerpt": "Snowflake today previewed a slew of capabilities for its cloud platform to address data monetization, governance, and performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Snowflake-Data-Consumer-Montization-Example-.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
-      "publishedDateTime": "2021-06-08T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

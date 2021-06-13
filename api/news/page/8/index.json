@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-04-20-times-that-ai-has-tried-to-make-it-in-the-music-business.md",
+      "title": "20 times that AI has tried to make it in the music business",
+      "excerpt": "Artificial intelligence (AI) has been trying to carve a name for itself in the music business as a collaborator, composer, artist and lyricist since 1951.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/",
+      "originalUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/amp/",
+      "publishedDateTime": "2021-06-04T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-how-ai-is-addressing-the-enterprise-email-overload-problem.md",
+      "title": "How AI Is Addressing The Enterprise Email Overload Problem",
+      "excerpt": "AI-powered technology is helping businesses deal with their cluttered inboxes and better manage customer expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a0c158094e05a83b59beb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
+      "publishedDateTime": "2021-06-04T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology-and-azure.md",
+      "title": "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure",
+      "excerpt": "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf.md",
       "title": "Indonesian healthcare startup Prixa raises $3M led by MDI and TPTF",
       "excerpt": "Indonesian healthcare startup Prixa has raised $3 million led by MDI Ventures and the Trans-Pacific Technology Fund (TPTF), with participation from returning investors including Siloam Hospitals Group.",
@@ -689,50 +826,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
-      "title": "AWS announces winners of first DeepRacer Women's League in India",
-      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
-      "originalUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-06-04-cities-are-weighing-the-dangers-and-benefits-of-facial-recognition.md",
       "title": "Cities Are Weighing The Dangers And Benefits Of Facial Recognition",
       "excerpt": "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell.",
@@ -868,6 +961,41 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of first DeepRacer Women's League in India",
+      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
+      "originalUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1047,153 +1175,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-tsmcs-5nm-chip-enhancements-steer-ai-driving-5g.md",
-      "title": "TSMC’s 5nm chip enhancements steer AI driving, 5G",
-      "excerpt": "Taiwan Semiconductor Manufacturing Company (TSMC) introduced N5A enhancement to 5-nanometer chips for AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/",
-      "originalUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1256651755-e1622663901654.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/amp/",
-      "publishedDateTime": "2021-06-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-amazon-wants-a-lot-of-new-laws.md",
-      "title": "Amazon Wants a Lot of New Laws",
-      "excerpt": "The tech giant deserves credit for taking on big issues, but what matters is that it follows through to the end.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/03/technology/amazon-laws.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/03/technology/amazon-laws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/03/business/03OnTech-Laws/03OnTech-Laws-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/03/technology/amazon-laws.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/technology/amazon-laws.amp.html",
-      "publishedDateTime": "2021-06-03T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-forget-covid-k-9s-the-new-3d-printed-electric-nose-can-sniff-out-the-virus-in-just-80-seconds-with-94-accuracy.md",
-      "title": "Forget COVID K-9s - the new 3D-printed 'electric nose' can SNIFF out the virus in just 80 seconds with 94% accuracy",
-      "excerpt": "Deep learning algorithms sniff around the nose and return real-time detection of COVID-19 infections – and with 94 percent accuracy. Scroll down for video Project leader Professor Noam Sobel ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9648775/3D-printed-electric-nose-SNIFF-COVID-19-just-80-seconds-94-accuracy.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9648775/3D-printed-electric-nose-SNIFF-COVID-19-just-80-seconds-94-accuracy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/06/03/17/43797155-0-image-a-24_1622736449995.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9648775/amp/3D-printed-electric-nose-SNIFF-COVID-19-just-80-seconds-94-accuracy.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9648775/amp/3D-printed-electric-nose-SNIFF-COVID-19-just-80-seconds-94-accuracy.html",
-      "publishedDateTime": "2021-06-03T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -78,6 +78,20 @@ related:
         width: 810
         height: 506
         isCached: true
+  - title: "Amazon India introduces machine learning summer school"
+    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to"
+    publishedDateTime: 2021-06-13T06:40:00Z
+    webUrl: "https://www.glamsham.com/world/technology/amazon-india-introduces-machine-learning-summer-school"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/3a8ac9132d74a8c38417d22923cee3a4-3.jpg"
+        width: 400
+        height: 266
+        isCached: true
 
 secured: "mcXrOSTJUx72GY5nBbZ/5otJqPfmNBu455ubM2vk+ILMKL3CscwMwZ2tz7cde0YSxEL87t8yNBMxSJWioZC2J6JaZRWg1joFi0uJdJbECJM/vkWYP2UCvztaIUsGT/6Pqe2lbx4aXHD1vkulkCok3bEplEQa/tNeOl3SufaaSViW3tuxQ+MwlcapeLY3XWm/LcRz5AMPwAv8oSBmvrQxMo7GzEgSBqoHzILCs6xx1cTbvKVW5oQrXH3B41/VIoskkIWnTaPQOnVIjoOCy20tFSRxUK/22x7AojUMhV9tY0T7UB2rqOKaUYZO54MFOxDGCDAip9TLEoRpZ21C4vc7ccezQsMD2jog2q6tz5cZYVmWWJyUXiWby4MnZ3uu+CEA6zeEW0pFg+krghO3xmOuvBdL9tEqwon4KEG5dep/oFzoEsdcSmBWOYcip4ZKMSAhpJW4xd/3YPWeNq0mscrdLeCrCblDme8xGSB9wBvJliy/JbXD8Df1R1D/inVP6LOIE+CSLzBNl89Fqq/WqWf7uQ==;pkAnKGy6+96zAi/4UQo3HA=="
 ---

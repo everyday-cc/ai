@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Raquel Urtasun starts Toronto self-driving company Waabi, after leaving Uber"
-    excerpt: "After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car venture, selling it to Silicon Valley startup Aurora."
-    publishedDateTime: 2021-06-08T14:05:00Z
-    webUrl: "https://www.castanet.net/news/Business/336299/Raquel-Urtasun-starts-Toronto-self-driving-company-Waabi-after-leaving-Uber"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 21
-    images:
-      - url: "https://www.castanet.net/content/2021/6/20210607190624-315d6e148abe48a59a63b714c8aa2d5ab239441a9a0eea2e87b375bc1f2edc8b_p3534947.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "zhn80SxBNPjJZkjYXH7OOc2Az1YQ73AdVm7KccCvmhVb/sYDmOiZnrGQOf9Sglx5gRrqB+dtdIK4gkwcaxpIZK6IXwfXMGiUaKuicOjgXzzYpCViy3B3VyPn4d4/KNskNogt1sh+Fosz5h3+CEs2jeTyz4N3kCqqMHhTBpZDXhhFyWI9zs5SFxNpRNwByZ31+iocZ5S+4NXANtv6XDPJ43R9ihKyBMGcD0vTABGKT2tWIPbK8HwRaykweaVkRDnY4pEcy2xNuPUHLmkxPegix9g7EDto8woWyI/oOaNtE6eRrRFA2JSJueJbb2rN5Oo3qNXAA79m48qG1rtYPVYMfthNoToJs8vzkmDERnYWoay5zUcKe9RcnpKMfHlmYqDhdMbQG3JxsCnKNBhfpm4jLMQagu9QvQNL/gy5zh+KlegQ9o5+qA1IgO+etENGP3MOhU56JzZzyVJ7RzPNGHHfn4cE3DdWqgsTyZju+gkEO5vT3gn1itG52P9a/ruC/7RfAG5AZJ/Mpb8Lr7ZRZ0EY5g==;IBo7doSlZyrEJx04xAJP/A=="
 ---

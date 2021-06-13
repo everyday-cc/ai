@@ -1,27 +1,27 @@
 ---
 category: news
-title: "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out"
-excerpt: "Digital lending in India seen reaching $1 trillion in 2023 * Credit algorithms hinder women, the poor, analysts say * Central bank draws up rules for fast-growing sector June 9 (Thomson Reuters Foundation) - As the founder of a consumer rights non-profit in India,"
-publishedDateTime: 2021-06-08T23:00:00Z
-originalUrl: "https://news.trust.org/item/20210608235042-nbooa"
-webUrl: "https://news.trust.org/item/20210608235042-nbooa"
+title: "Amazon India introduces machine learning summer school"
+excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to"
+publishedDateTime: 2021-06-13T06:40:00Z
+originalUrl: "https://www.glamsham.com/world/technology/amazon-india-introduces-machine-learning-summer-school"
+webUrl: "https://www.glamsham.com/world/technology/amazon-india-introduces-machine-learning-summer-school"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/5e22f5bf-6c72-41ab-b40a-0284404d257f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-    width: 1100
-    height: 733
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/06/3a8ac9132d74a8c38417d22923cee3a4-3.jpg"
+    width: 400
+    height: 266
     isCached: true
 
 related:
@@ -57,6 +57,20 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out"
+    excerpt: "Digital lending in India seen reaching $1 trillion in 2023 * Credit algorithms hinder women, the poor, analysts say * Central bank draws up rules for fast-growing sector June 9 (Thomson Reuters Foundation) - As the founder of a consumer rights non-profit in India,"
+    publishedDateTime: 2021-06-08T23:00:00Z
+    webUrl: "https://news.trust.org/item/20210608235042-nbooa"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 39
+    images:
+      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/5e22f5bf-6c72-41ab-b40a-0284404d257f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 733
+        isCached: true
   - title: "As AI-based loan apps boom in India, some borrowers miss out"
     excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
     publishedDateTime: 2021-06-09T09:48:00Z
@@ -71,20 +85,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "Amazon India introduces machine learning summer school"
-    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to"
-    publishedDateTime: 2021-06-13T06:40:00Z
-    webUrl: "https://www.glamsham.com/world/technology/amazon-india-introduces-machine-learning-summer-school"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/3a8ac9132d74a8c38417d22923cee3a4-3.jpg"
-        width: 400
-        height: 266
-        isCached: true
   - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
     excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
     publishedDateTime: 2021-06-09T09:09:00Z
@@ -95,6 +95,6 @@ related:
       domain: analyticsinsight.net
     quality: 17
 
-secured: "y11ACn8FENWg0BFNFR5nbKa5VikPzWW6hOVkgmQakWilJGvHm738+1gRShLyitq9Ofki/sB7ncV94fB/0Zjaf6jldbWxYgZm8PGox2Z5isSdHO/e4SjkoGBgP3KOhh1vyQbGstvi1wpwYCuTbu8zZ4IibqB58QjlJ5MJczI176J/wAqRUw8fb3grJkLzglhmBMhscVK6A3nuIRQymLQcfwbzGlhDk5+5FAY2V5NyACTI0rjnLi3+cc+VajLhAe8THEas3bOZy/agtAFyZgIHxrYBOGoiuruQljEzcO1QR1T35wY339YJkr+ZB1j4DZM78yHSIm3VrAAPdya3QQD5Bcjy3eEhiPvoIyi/MmPc1Rwle/qzqXBROnAnLk/zZWpu5yohzbsiKWVo1wdT5YjgQNVI5QoYBg+MZ/Zc7fnP5nO4u+aOtRW8x4XEpoDdSOFR7wQi41tCOgUTYCKbl7f9EfcMG8fFUtLkr+8YAtz8tdZQRtyVEZo7mcC/byIUiri8iP5ydUFjeSLXi3T3QACZkQ==;hhZNtSWgJa62TMrFHsRgWw=="
+secured: "6mh/Kj0qb86Zl+RzuZPvJc+puQ5PcCU3/aLqj7bKE8vZqHZF3up2YyHdLGtVhW4oBg4BCOe5325F+t86MVHn2R24I6+2TOqabg7b9tFLvLdNS4CpH4cexuLnnQmg1WYFdnVLa5W2JR2xwwRbjlQBViqpjxZIeRK9X6kIxlBgy6YN2u1Z4dq0tGqYcDZaQqq4wzB1HtNf6In4C2KTgqyhm+uEW4xAghE29L8K3cdavKRzBwI6GmZ+GzHcwo3/UfHU5vWk5Yd4a76HKoEc7gxeZeoUrOH9PQZyZSC7dtPLjk6Fwh9BmrCV9z3mUOkBs/CWkxfO6Jk7nZC1a+0IpX4yEEmekZbOlzS1DpOFvFBiXVw=;wRipzRqD1BWRy4AIjdpAog=="
 ---
 

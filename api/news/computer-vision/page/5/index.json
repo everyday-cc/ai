@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-30-false-facial-recognition-sends-innocent-new-jersey-man-to-jail.md",
+      "title": "False facial recognition sends innocent New Jersey man to jail",
+      "excerpt": "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
+      "originalUrl": "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wsfa.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSFA",
+        "domain": "wsfa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-false-facial-recognition-sends-innocent-man-to-jail.md",
       "title": "False facial recognition sends innocent man to jail",
       "excerpt": "False positive facial recognition match sends innocent man to jail.",

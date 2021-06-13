@@ -9,7 +9,7 @@ ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-m
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
-  - title: "King County, Wash. bans use of facial recognition by sheriff's office, other agencies"
-    excerpt: "Agencies could still use facial recognition evidence as long as they don't produce it themselves or ask for it"
-    publishedDateTime: 2021-06-08T14:18:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21225605/king-county-wash-bans-use-of-facial-recognition-by-sheriffs-office-other-agencies"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 32
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_Technology_Co_302610544.60bf7949247d9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 806
-        isCached: true
 
 secured: "nZy5CSuUCNWGmOIULfSECLSVG8Y0aIcy5AiZ4++dgR5fnnumuGkQqMBcAvXw8xy4o67xFyDvA9knQhtNzDQYM80X6cuFiKL2aGc35TvBz4aGnQxsYDcX3OO9sHZLpqo2qnDqkEHDr0wX60qNCdibMBuclAKyPcKimm0EeAMPXgb1k3RO1qkOJM399uAMHUwJ2xqFM7ej/VhpIOVGxIjAe8lJefZwvUCQR7RUHvkVuGV86XjVLTSqAzw/h1obtg36mfX1kXtU5pgzLUZtEtDvZEnjZ98IPvwlsXIcNenPt57AvmGsLx85UQdJEnH9mkc49F2xfvw+yhDeRPGc+/DnUGyxsB9eAlO8J50iPgq92uQ=;XfFonj450m8y1mMUTd5Q2A=="
 ---

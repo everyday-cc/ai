@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndica
 webUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.toronto.com/Contents/Images/Communities/Toronto_1200x630.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Raquel Urtasun starts Toronto self-driving company Waabi, after leaving Uber"
-    excerpt: "After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car venture, selling it to Silicon Valley startup Aurora."
-    publishedDateTime: 2021-06-08T14:05:00Z
-    webUrl: "https://www.castanet.net/news/Business/336299/Raquel-Urtasun-starts-Toronto-self-driving-company-Waabi-after-leaving-Uber"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 21
-    images:
-      - url: "https://www.castanet.net/content/2021/6/20210607190624-315d6e148abe48a59a63b714c8aa2d5ab239441a9a0eea2e87b375bc1f2edc8b_p3534947.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "JIvz+u2866XecR7aUHhRq+DTKYt+rJRIVdKf9EQjKF87wmt/uFIg/49jX+2KzJXXFFD41hkfPuXcniNbyHU89/c/Om5TzqmPTMFxUtxElCeF2SAjf+X4VrB5dLXN5r6rhyyN0QYl0w5IShWu83SpY9pFIIBh0f7z8PEc8Eaih+6wxz7hXhDx8hClhmGoXmlnLZc/ghadTR8Mfgm6I/Sdyv1vUtbOgrqd6svzjaeF5+wLgCcDKb2kKmFHbsi8XSoGZlj3iCuP6zFihaLSl3CwPXt46N+LOtQWSPMsV+kQrQAC8A7ZoEkfmpPBUfsSDBZ7UbLffFvJKtSdKyCogqYpUNK0mr7jYOczpejfaT3aflfOtsaGb38nfxVv96E2CNTeZ2w34Kx+S9kU72f/e4MlG3loyQ17dyJnQlZos+PGbZOFE2bbxaFAPtHs4jdLwFVHGW16TkwM4NI7Fv8Ii+Pzx7tgtW0dtLO7KRcJTzJXq6fjl0lk/IlPADB3PcOmoOXSzW1SDr+Bne4f9kJTijmBrg==;RBWPFivkIdq/mktfUcmgrw=="
