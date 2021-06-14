@@ -7,8 +7,8 @@ originalUrl: "https://www.mckinsey.com/featured-insights/future-of-work/forward-
 webUrl: "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: McKinsey & Company
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says"
+    excerpt: "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,"
+    publishedDateTime: 2021-06-14T11:15:00Z
+    webUrl: "https://www.space.com/orwellian-artifical-intelligence-future"
+    ampWebUrl: "https://www.space.com/amp/orwellian-artifical-intelligence-future"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/orwellian-artifical-intelligence-future"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 75
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AHFXeqRX8gF2R6SHqRpfkj-480-80.jpeg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Microsoft Announce Powerful New Threat Detection Solution in Azure"
     excerpt: "Microsoft has announced new ‘seamless’ integration between their two services: Azure Firewall and Azure Sentinel. Azure Firewall is a Cloud-native network security service. It is a stateful firewall as a service (FaaS),"
     publishedDateTime: 2021-06-11T10:04:00Z

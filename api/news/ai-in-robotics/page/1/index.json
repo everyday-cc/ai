@@ -305,7 +305,7 @@
       "originalUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -347,53 +347,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott.md",
-      "title": "Forward Thinking on artificial intelligence with Microsoft CTO Kevin Scott",
-      "excerpt": "How could AI help create jobs even in rural areas, and what would it take? In this podcast episode, Kevin Scott shares his ideas with James Manyika.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott",
-      "originalUrl": "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/forward%20thinking%20on%20artificial%20intelligence%20with%20microsoft%20cto%20kevin%20scott/mgi_ft_kevin-scott_hero_1536x1536-option1_vf.png",
-          "width": 1536,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "McKinsey & Company",
-        "domain": "mckinsey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1444,6 +1397,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-tesla-ai-process-driving-images-10x-faster-than-humans.md",
+      "title": "Tesla AI Process Driving Images 10X Faster Than Humans",
+      "excerpt": "Andrej Karpathy, Director of artificial intelligence and Autopilot Vision at Tesla, says that the cameras and AI used by Tesla can process visual driving data",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2017/12/7180bfad19f2195c59f8a445e080234a.jpeg",
+          "width": 1600,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "publishedDateTime": "2021-06-02T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     }
   ],

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says"
+    excerpt: "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,"
+    publishedDateTime: 2021-06-14T11:15:00Z
+    webUrl: "https://www.space.com/orwellian-artifical-intelligence-future"
+    ampWebUrl: "https://www.space.com/amp/orwellian-artifical-intelligence-future"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/orwellian-artifical-intelligence-future"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 75
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AHFXeqRX8gF2R6SHqRpfkj-480-80.jpeg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Forward Thinking on artificial intelligence with Microsoft CTO Kevin Scott"
     excerpt: "How could AI help create jobs even in rural areas, and what would it take? In this podcast episode, Kevin Scott shares his ideas with James Manyika."
     publishedDateTime: 2021-06-10T12:00:00Z

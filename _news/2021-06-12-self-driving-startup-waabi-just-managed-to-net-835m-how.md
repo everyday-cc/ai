@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndica
 webUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "AI expert ditches Uber to start Toronto self-driving company, Waabi"
-    excerpt: "Raquel Urtasun's Toronto-based start-up to take artificial intelligence-first approach to self-driving vehicles."
-    publishedDateTime: 2021-06-09T18:44:00Z
-    webUrl: "https://www.design-engineering.com/former-uber-ai-expert-starts-toronto-self-driving-company-waabi-ai-1004036946/"
-    type: article
-    provider:
-      name: design-engineering.com
-      domain: design-engineering.com
-    quality: 39
-    images:
-      - url: "https://www.design-engineering.com/wp-content/uploads/2021/06/21-June-Raquel_Urtasun_Waabi-650.png"
-        width: 650
-        height: 433
-        isCached: true
 
 secured: "JIvz+u2866XecR7aUHhRq+DTKYt+rJRIVdKf9EQjKF87wmt/uFIg/49jX+2KzJXXFFD41hkfPuXcniNbyHU89/c/Om5TzqmPTMFxUtxElCeF2SAjf+X4VrB5dLXN5r6rhyyN0QYl0w5IShWu83SpY9pFIIBh0f7z8PEc8Eaih+6wxz7hXhDx8hClhmGoXmlnLZc/ghadTR8Mfgm6I/Sdyv1vUtbOgrqd6svzjaeF5+wLgCcDKb2kKmFHbsi8XSoGZlj3iCuP6zFihaLSl3CwPXt46N+LOtQWSPMsV+kQrQAC8A7ZoEkfmpPBUfsSDBZ7UbLffFvJKtSdKyCogqYpUNK0mr7jYOczpejfaT3aflfOtsaGb38nfxVv96E2CNTeZ2w34Kx+S9kU72f/e4MlG3loyQ17dyJnQlZos+PGbZOFE2bbxaFAPtHs4jdLwFVHGW16TkwM4NI7Fv8Ii+Pzx7tgtW0dtLO7KRcJTzJXq6fjl0lk/IlPADB3PcOmoOXSzW1SDr+Bne4f9kJTijmBrg==;RBWPFivkIdq/mktfUcmgrw=="
 ---

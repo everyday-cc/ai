@@ -38,17 +38,6 @@ related:
         width: 1920
         height: 1112
         isCached: true
-  - title: "Argo AI's CEO says IPO expected within next year"
-    excerpt: "Self-driving startup Argo AI's founder and CEO, Bryan Salesky, on Wednesday said he expected the company to go public \"within the next year\" and would be raising one more round of private funding before that this summer."
-    publishedDateTime: 2021-06-09T18:12:00Z
-    webUrl: "https://www.reuters.com/article/us-autonomous-argo-ai-ipo-idUSKCN2DL2EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL2EO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL2EO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
   - title: "Self-driving startup Argo AI confirms plans to go public within the next year"
     excerpt: "Bryan Salesky, founder and CEOof self-driving startup Argo AI said he expected the company would go public \"within the next year\" and would raise another round of"
     publishedDateTime: 2021-06-10T14:42:00Z

@@ -53,6 +53,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "self-driving bicycle developed by huawei engineers can operate unmanned"
+    excerpt: "with the concept of autonomous driving systems advancing by the day, huawei engineers have now developed a self-driving bicycle that can operate even if it is unmanned."
+    publishedDateTime: 2021-06-14T11:28:00Z
+    webUrl: "https://www.designboom.com/technology/self-driving-bicycle-huawei-engineers-operate-unmanned-06-14-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 24
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/06/self-driving-bicycle-huawei-engineers-operates-unmanned-designboom-1200.jpg"
+        width: 1200
+        height: 629
+        isCached: true
 
 secured: "HDAJYHjwb9esvI0WxHrDKu/RIDJRcf61PTGrYGcmBIKogWVWb6Vm9GcM9zZG/BJ2bRDGt6erU5D5SHvTflOoX9RI8NpAHEUfNT+fKDl0vuqWqAA/H0lkbDFlw0D/N+jRf8dyWqY29d/KJwzXD0+5hVLxZ4heWHuVdNYWbKSu6MYoQqBf6tQbwoOn4zaG24n4fJljImwXv1VbHJanY60kUPjvswX5V6U46NBQ0DcsAjDn6SZyadOs4oNZL0YjStI6H/+WdsvHt4LUnK6xeAmk+/YKnZ2djdDEj7xLP52r22zrRdv92DLQqsV9EWs16i9jeyylmLNBalV+HaHug/ftwJA47FfW6R9oJScPcjnZT//oSSWxPseFWJ/oTI+YzXM1fTL37iAfnwzvY5RqZ0QllkVkBuAUTETblDjY7rD9fvRuerv2V6/XgKwOQ1YBjvH2CMDsolOau0meBcdoG3bFlfjqRVls0Gmz31IZzuKEjDh/AutvDmJBptDzhLwdB6Q5JWuESCR5/UJ50DkgUUoNig==;EOuMlSiwyyLpSBLRW7n2pA=="
 ---

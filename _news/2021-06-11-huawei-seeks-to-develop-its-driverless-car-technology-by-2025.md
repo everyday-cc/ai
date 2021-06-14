@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-drivi
 webUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/063_1190466188.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "self-driving bicycle developed by huawei engineers can operate unmanned"
+    excerpt: "with the concept of autonomous driving systems advancing by the day, huawei engineers have now developed a self-driving bicycle that can operate even if it is unmanned."
+    publishedDateTime: 2021-06-14T11:28:00Z
+    webUrl: "https://www.designboom.com/technology/self-driving-bicycle-huawei-engineers-operate-unmanned-06-14-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 24
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/06/self-driving-bicycle-huawei-engineers-operates-unmanned-designboom-1200.jpg"
+        width: 1200
+        height: 629
         isCached: true
 
 secured: "vrJNJY4vXJOPyk9qI9WiSLVvrB2ZOIdNVEQE4MXxF8Tfdkk6XBIZLLmTdgEEelveqoEkfsxkg1N1xMVHG8eR5W1nQhjKjp732o65gQpyrcm79LrNdjTSeUAVBWeXa8o7v2iQL0azG9VamwydD2jRwrN5DQx1uvPakYO0C4BIJEXJKTg/D/s6Pzbo/Vss77i1rvkTklzVq0V++zg3WpHsz1f7JT62qs8DPuc4pO4J25YQXAhHcFdUSX4nOcDaiHFMOnIO9vQe04cm+tqzfRP4hmQiTJnr5BnQZhS4qK3eZeYzYRxIdQaLJyG3tMw4HrzO8513rp33AYuBTAWb45QscjpA4mlUtDAmC57SMRVeUqSztDmcfczd5UOUdVpiB8zNXt34lok50FER0HCYfn1c3qhnp7+ARIxf8IvV2MiLLSjBr2XKPrbQsTtYIn5TBKyNvN13j7EurUaRA63tFiNL2HwLqUjoGcRGYlpxFNx+FG5IXmCTnXI+BykmXLc9GXbWMhTaxi1dXykcAWru1XRhvQ==;3QToeQDpDZ49zyjJI652sw=="

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-14-expect-an-orwellian-future-if-ai-isnt-kept-in-check-microsoft-exec-says.md",
+      "title": "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says",
+      "excerpt": "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,",
+      "sourceUrl": null,
+      "webUrl": "https://www.space.com/orwellian-artifical-intelligence-future",
+      "originalUrl": "https://www.space.com/orwellian-artifical-intelligence-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AHFXeqRX8gF2R6SHqRpfkj-480-80.jpeg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.space.com/amp/orwellian-artifical-intelligence-future",
+      "cdnAmpWebUrl": "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/orwellian-artifical-intelligence-future",
+      "publishedDateTime": "2021-06-14T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Space.com",
+        "domain": "space.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand.md",
       "title": "How stakeholder capitalism and AI ethics go hand in hand",
       "excerpt": "With the prevalence of AI technologies across businesses, AI ethics will soon become critical components of stakeholder capitalism.",
@@ -262,7 +306,7 @@
       "originalUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1436,50 +1480,6 @@
       "topics": [
         "AI",
         "Google AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry.md",
-      "title": "It takes a lot of energy for machines to learn – here's why AI is so power-hungry",
-      "excerpt": "One study has found that training BERT once has the carbon footprint of a passenger flying a round trip between New York and San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.britannica.com/story/it-takes-a-lot-of-energy-for-machines-to-learn--heres-why-ai-is-so-power-hungry",
-      "originalUrl": "https://www.britannica.com/story/it-takes-a-lot-of-energy-for-machines-to-learn--heres-why-ai-is-so-power-hungry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.britannica.com/56/222356-131-19F4FC94/geography-travel-health-medicine-science-technology.jpg",
-          "width": 900,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Britannica",
-        "domain": "britannica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "AI Ethics"
       ]
     }

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence Neural Network Mimics the Human Brain on Psychedelics"
-    excerpt: "Artificial intelligence (AI) and the use of psychedelic drugs for legal medical purposes are currently trending."
-    publishedDateTime: 2021-06-09T19:03:00Z
-    webUrl: "https://www.bbntimes.com/science/artificial-intelligence-neural-network-mimics-the-human-brain-on-psychedelics"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 66
-    images:
-      - url: "https://www.bbntimes.com/images/articles/society/AI_Neural_Network_Mimics_the_Human_Brain_on_Psychedelics.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Thriving in an AI world"
     excerpt: "WHEN Covid-19 upended the world, businesses doubled down on digital transformation and raced ahead using artificial intelligence (AI) to meet new challenges. Now, according to our research, many organizations appear to be experiencing Covid-induced AI whiplash."
     publishedDateTime: 2021-06-13T16:49:00Z

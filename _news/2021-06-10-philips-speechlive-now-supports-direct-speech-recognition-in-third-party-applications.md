@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/ap/ap-business/philips-speechlive-now-su
 webUrl: "https://www.wfmz.com/news/ap/ap-business/philips-speechlive-now-supports-direct-speech-recognition-in-third-party-applications/article_77b400e3-fec5-534e-9f7d-5aa267841cbd.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Sber Unveils New SmartBadge Recording System With Speech Recognition Tech"
-    excerpt: "Sber has a new SmartBadge solution that records a conversation between an employee and a client to turn that conversation into actionable data"
-    publishedDateTime: 2021-06-09T18:46:00Z
-    webUrl: "https://mobileidworld.com/sber-unveils-new-smartbadge-recording-system-with-speech-recognition-tech-060904/"
+  - title: "Khmer Automatic Speech Recognition Launched"
+    excerpt: "The Ministry of Post and Telecommunications has announced to launch the Khmer Automatic Speech Recognition (Khmer ASR) empowered by AI (artificial intelligence)."
+    publishedDateTime: 2021-06-13T00:29:00Z
+    webUrl: "https://www.khmertimeskh.com/50873173/khmer-automatic-speech-recognition-launched/"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 38
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
-        width: 800
-        height: 560
-        isCached: true
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 19
 
 secured: "RCTx5Sqqln94MC1P64hbCnAzIJkFEot7RJsmGLkzFbTe0ykEayY05lcDy3IOqxR6a+Y+ZrFh6Senx9DMIXft5PZnbLoaNr4PwKtICSpGpieVbKkGyDskS/b5ljqhsino03M2t54YKWc2jXHQs/bSbXjARNHQqoosmUQXy6Q07YMWWd6huS+sYJyUU4o7wTpB1NxtL5mGGj9y606ovpiM5hMB9j+dHNBFvKUX4jZVWrAc6U11Ody3Op5/Z6AHG7Tj/r89c8fWgmWKdnVEH8XYI4JD0rsnNWQd1N5pd7DTE/beYXXN/u+41pnBLHwyeBBPJ5ujRUUKL2n36aIECX8bAEi4aawAYrtKJA1OjPD3w5Qu/uU6aMfLWsWYsNCbR0aEtdVXFn2K658tT6RFcqKf0nyl8m+C3DHXb8GfObGQwSo3J2svb/7UhbiETSsr1sXxuAgh89rC2ucVEVIGdTJbTVNwSXdzURz/GLz1KiTTHBnjZfdpVNK8nmdm/ixv0j4dCxvVeqI4mkd62REaOwmRyA==;HFZbP/QcOb1VbO1nQfHLgQ=="
 ---

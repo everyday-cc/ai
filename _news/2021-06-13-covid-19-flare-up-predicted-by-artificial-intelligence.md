@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/covid-19-flare-up-predicted-by-art
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,31 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Meet Grace, the healthcare robot COVID-19 created"
-    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
-    publishedDateTime: 2021-06-09T17:33:00Z
-    webUrl: "https://www.metro.us/meet-grace-the-healthcare/"
-    ampWebUrl: "https://www.metro.us/meet-grace-the-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/"
+  - title: "Trending: Generate Huge profit due to COVID-19 in Artificial Intelligence in Agriculture Market"
+    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."
+    publishedDateTime: 2021-06-10T11:42:00Z
+    webUrl: "https://manometcurrent.com/trending-generate-huge-profit-due-to-covid-19-in-artificial-intelligence-in-agriculture-market/"
     type: article
     provider:
-      name: Metro US
-      domain: metro.us
-    quality: 76
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 27
     images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg"
-        width: 800
-        height: 533
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Research-Report-720x470.jpg"
+        width: 720
+        height: 470
         isCached: true
-  - title: "Machine learning applied in SARS-CoV-2 COVID 19 screening using clinical analysis parameters"
-    excerpt: "COVID-19 was considered a pandemic by the World Health Organization. Since then, world governments have coordinated information flows and issued guidelines to contain the overwhelming effects of this disease."
-    publishedDateTime: 2021-06-11T17:05:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9451243"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 8
 
 secured: "ZmKxxOuGsKTMXqV/2Dd4ir1pSDZllkFCrNV6fw1tADPzw8Y/q5tm/JamXm82zJ4S7Vv+RdGSAm5TX1qwotEABHMV8WfKIoYRtUjLOZ1r2++Tpoy3ctfirfRyjYTdTRigh7Hxk2No0fCwVbZhLWmoVoGaiNKtNLNljWl26vj/HqsZ7sus/DAUxoUDt9P37JvPrtNBMG1KLidop4lMfvLuHRbueDkPhGeHAnFDyjtjLlZiBq//rDAeVfdWD82isx5JFT1f/2UvDFIPKRyXKTWRc0uKY8VXPNUzcr3KSgbLYsquzossLOLjbW53wbRJShLK+8TC+6zyYVI3Azj4z4T5jVnHGoOcDo1UGrhhr3y/baX6mFrHYEqGheBRrgW8QjeeDdsxG+hetCRSUHY8kQeBmYeSCaxToFMfsAQxovvM3x+DRzCAIEMHRjgPaGywdD3wxJ4I6nGGyjEP5uML4yT3JlF3wAhsHAavhfKrRsI/jc1guP/0umhV3ITq1A51CvORWry+le9QzxBr87yL8nN9Dw==;a+CVrE+78x4ZUHBlFwY3HQ=="
 ---

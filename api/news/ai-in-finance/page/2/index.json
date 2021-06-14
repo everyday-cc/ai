@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-24-request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning.md",
+      "title": "Request for Information and Comment on Financial Institutions' Use of Artificial Intelligence, Including Machine Learning",
+      "excerpt": "Agency: \"Board of Governors of the Federal Reserve System (Board), Bureau of Consumer Financial Protection (Bureau), Federal Deposit Insurance Corporation (FDIC), National Credit Union ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-how-esaf-small-finance-bank-is-cutting-down-man-hours-through-ai.md",
       "title": "How ESAF Small Finance Bank is cutting down man hours through AI",
       "excerpt": "By deploying AI and machine learning, the micro-financing company is able to take decisions faster. Admitting that hybrid work paradox is here to stay amid the pandemic, Microsoft CEO Satya Nadella on Friday outlined a detailed approach about how his company is going to tackle the biggest shift to global workplace that requires a new operating model,",
@@ -1288,50 +1332,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-tackling-the-new-frontier-of-fraud-with-machine-learning.md",
-      "title": "Tackling the new frontier of fraud with machine learning",
-      "excerpt": "Register for our latest webinar with Sift on Thursday 24 June 2021 at 15:00 BST as industry experts discuss tackling the new frontier of fraud with machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
-      "originalUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/sift-event.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

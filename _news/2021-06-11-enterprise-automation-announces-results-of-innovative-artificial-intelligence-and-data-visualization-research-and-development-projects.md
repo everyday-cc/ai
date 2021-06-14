@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Growing Role Of AI And Machine Learning In Hyperautomation"
+    excerpt: "Before explaining the relationship between automation and hyperautomation, let’s explore the meaning of hyperautomation first. In its annual report on Top 10 Strategic Technology Trends for 2020, Gartner named hyperautomation the first trend that would transform the world."
+    publishedDateTime: 2021-06-14T11:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg"
+        width: 1200
+        height: 960
+        isCached: true
   - title: "To Secure Data Centers, AI and Automation Are Key"
     excerpt: "To avoid being next to fall victim to malicious server code, universities and colleges need to secure their data more effectively than ever before. For many universities, this can be achieved through data center automation."
     publishedDateTime: 2021-06-10T16:09:00Z
@@ -50,7 +66,7 @@ related:
     provider:
       name: securityboulevard.com
       domain: securityboulevard.com
-    quality: 56
+    quality: 58
 
 secured: "CE7a94PI2QkDFv7RLQ7wYehh4Fpcv5tznI03sgJtqcWjvyV4TCSM3ZAwddi0qf9HGJbZuTF4FTkp9qOje9e0xyzeY+etFY5MjGvJ0nQHxl5Z3FY5YWleA+TaY5XZLaxyEl8jrgNVZdIf3fMMf3u04OSJRhYCXUWvQgFRxPN2BFgpJBkmH+66bU8A4FPCpTo7vmTnXv4Fw2OusNxF+0GoHGzl/YKi4GSUbTAPclmyIntP0gCPzc1BPUkvmmMauiAtYe3OFA3mywdjH1H3PmUcTapkga3az4Z6QtT17sZigm20XuzbwnBg0xiFP6gZ5pD81w/eUj47syZ6WsVft1uJep3iRAMNGgflDeqQ3WKL3UE=;5LHh+7v9vNSSeKXhYriacA=="
 ---

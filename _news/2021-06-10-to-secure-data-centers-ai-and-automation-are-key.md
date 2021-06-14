@@ -9,8 +9,8 @@ ampWebUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-center
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: EdTech
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Growing Role Of AI And Machine Learning In Hyperautomation"
+    excerpt: "Before explaining the relationship between automation and hyperautomation, let’s explore the meaning of hyperautomation first. In its annual report on Top 10 Strategic Technology Trends for 2020, Gartner named hyperautomation the first trend that would transform the world."
+    publishedDateTime: 2021-06-14T11:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg"
+        width: 1200
+        height: 960
+        isCached: true
   - title: "Nurturing a Relationship between AI and the Security Team"
     excerpt: "No matter the industry, adding AI technologies to work processes has made a lot of employees nervous. There is fear that automation is taking over and that robots will eventually push out the human workforce."
     publishedDateTime: 2021-06-14T08:50:00Z
@@ -37,7 +53,7 @@ related:
     provider:
       name: securityboulevard.com
       domain: securityboulevard.com
-    quality: 56
+    quality: 58
   - title: "Enterprise Automation Announces Results of Innovative Artificial Intelligence and Data Visualization Research and Development Projects"
     excerpt: "North America's premier control systems integration firm serving the water and wastewater and life sciences industries today announced its most recent"
     publishedDateTime: 2021-06-10T19:25:00Z

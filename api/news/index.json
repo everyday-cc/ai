@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-14-the-growing-role-of-ai-and-machine-learning-in-hyperautomation.md",
+      "title": "The Growing Role Of AI And Machine Learning In Hyperautomation",
+      "excerpt": "Before explaining the relationship between automation and hyperautomation, let’s explore the meaning of hyperautomation first. In its annual report on Top 10 Strategic Technology Trends for 2020, Gartner named hyperautomation the first trend that would transform the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/",
+      "publishedDateTime": "2021-06-14T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-building-stronger-teams-with-human-and-machine-intelligence.md",
+      "title": "Building Stronger Teams With Human And Machine Intelligence",
+      "excerpt": "Stay away from solutions that make it difficult to communicate across teams and collaborate with individuals and teams outside the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef62f48c7e8ff000777bb2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/amp/",
+      "publishedDateTime": "2021-06-14T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-expect-an-orwellian-future-if-ai-isnt-kept-in-check-microsoft-exec-says.md",
+      "title": "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says",
+      "excerpt": "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,",
+      "sourceUrl": null,
+      "webUrl": "https://www.space.com/orwellian-artifical-intelligence-future",
+      "originalUrl": "https://www.space.com/orwellian-artifical-intelligence-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AHFXeqRX8gF2R6SHqRpfkj-480-80.jpeg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.space.com/amp/orwellian-artifical-intelligence-future",
+      "cdnAmpWebUrl": "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/orwellian-artifical-intelligence-future",
+      "publishedDateTime": "2021-06-14T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Space.com",
+        "domain": "space.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-google-believes-ai-will-help-design-next-gen-chips.md",
+      "title": "Google Believes AI Will Help Design Next-Gen Chips",
+      "excerpt": "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-1.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp",
+      "publishedDateTime": "2021-06-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-webinar-to-explore-impact-of-ai-and-analytics-on-physical-security.md",
       "title": "Webinar to explore impact of AI and analytics on physical security",
       "excerpt": "Benefits include faster reactions and investigation, more reliable detection of risksHow can video combined with artificial intelligence (AI) and analytics bring ground-breaking improvements to",
@@ -1034,204 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Outlook, Competitive Strategies And Forecast up to 2025",
-      "excerpt": "Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-covid-19-linked-to-alzheimers-disease-like-cognitive-impairment.md",
-      "title": "COVID-19 Linked to Alzheimer’s Disease-Like Cognitive Impairment",
-      "excerpt": "Combining artificial intelligence technology with data sets related to both Alzheimer's and COVID-19, researchers were able to identify a mechanism by which coronavirus can lead to Alzheimer's-like symptoms.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/covid-19-alzheimers-18610/",
-      "originalUrl": "https://neurosciencenews.com/covid-19-alzheimers-18610/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/06/covid-alzheimers-neurosceinecs-public.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/covid-19-alzheimers-18610/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/covid-19-alzheimers-18610/amp/",
-      "publishedDateTime": "2021-06-11T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-transform-2021-puts-the-spotlight-on-women-in-ai.md",
-      "title": "Transform 2021 puts the spotlight on women in AI",
-      "excerpt": "VB Event Elevate your enterprise data technology and strategy at Transform 2021. VentureBeat is proud to bring back the Women in AI Breakfast and Awards online for Transform 2021. In the male-dominated tech industry,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/VB-Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/",
-      "publishedDateTime": "2021-06-11T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-billionaire-larry-pages-kitty-hawk-is-making-an-all-in-bet-on-robot-air-taxis-its-program-head-is-out-in-disagreement-over-it.md",
-      "title": "Billionaire Larry Page’s Kitty Hawk Is Making An All-In Bet On Robot Air Taxis. Its Program Head Is Out In Disagreement Over It.",
-      "excerpt": "Kitty Hawk has an ambitious plan to leapfrog rivals by convincing regulators to let it fly passengers in electric air taxis without pilots -- within the next 3 years. The head of its aircraft program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "originalUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3a37d601a34eec048fbed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D630%26cropY1%3D47%26cropY2%3D402",
-          "width": 630,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "publishedDateTime": "2021-06-11T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

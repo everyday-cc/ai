@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
-excerpt: "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,"
-publishedDateTime: 2021-06-07T12:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html"
+excerpt: "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions."
+publishedDateTime: 2021-06-07T07:34:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "x1XIa3RoKGsvORy0oBjZ3ZFwbbkLDJP2gkZJ8srcnD2DqVJLTUto6in7BRJ5yFpZijwyCOsFlh4OVrWJGiaIK4FMNVzuEwXl4Nz3imNeFdd0JrM+m4waINvj8n5/7QL1scWig+CoR43reVj6Hbq3LU6r2jYpFKtb/GH2PN3kMb+ArofiNUD0kKXZ6Jv+TN2qCnST4HxORm/Tq3rCfiAN2k25FaJdV+o0as0sDafqzHTg46J+0snBSW96E/b9DskKZ83xCo8wKNwDOnWuxgxUzOwVB8ZOgwhgESJIqbiqYaMxgAiY1j93h2N8ToEGNTRcK9/+YxJB9FA6Anz56k69rB/MXRg3WlD21UMDwB0uA2M=;CpkfP+VbMxq1ACRAws8/QQ=="
+secured: "hK6Fk5sfhWTJ5y8HnnfplxMvsu3Dgzj5Nxxuqd/OPUWNEzdhxS7Ag2hn6isKCWbkDupgloqTPd2qME7L3hQM355PJ5KnG1CiINc1MMbjqORqBuqhP7LciKDwuMehrX6YwfpowrR2U4GrjclBm4R3vHtxMJ6nB0eDrH8AK1HIcqwq2oaF7riQmSJnok2lS3fwW8+YtE5XXySlXaC40WH0YauKDdHdugBW3mQn/j1ieRLcBydfcy9JAqZP/v9Dnwan/x0w5OoioCEIfod4GDo00xLK2GPzsJ37XYI4aPjKifMTnOwosjQfEfboAxsmCyqDQXmoeVumXZSa3WB4FoAHedjg+Toxl1aq68CltQC0dk8=;qqb46N9wXTixILD/iV3KEw=="
 ---
 

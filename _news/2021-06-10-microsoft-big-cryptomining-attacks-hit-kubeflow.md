@@ -58,36 +58,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Microsoft warns of cryptomining attacks on Kubernetes clusters"
-    excerpt: "Microsoft warns of an ongoing series of attacks compromising Kubernetes clusters running Kubeflow machine learning (ML) instances to deploy malicious containers that mine for Monero and Ethereum cryptocurrency."
-    publishedDateTime: 2021-06-09T17:05:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-warns-of-cryptomining-attacks-on-kubernetes-clusters/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 61
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/06/09/Kubeflow.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Kubeflow Deployments Targeted in New Crypto-mining Campaign"
-    excerpt: "A newly observed malicious campaign is targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine for crypto-currency, according to a warning from security researchers at Microsoft."
-    publishedDateTime: 2021-06-09T17:56:00Z
-    webUrl: "https://www.securityweek.com/kubeflow-deployments-targeted-new-crypto-mining-campaign"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 39
-    images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Crypto-mining campaign targets Kubeflow installs on a large scale"
     excerpt: "Microsoft uncovered a malicious campaign targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine cryptocurrency. Microsoft researchers uncovered a malicious campaign targeting Kub"
     publishedDateTime: 2021-06-10T21:42:00Z

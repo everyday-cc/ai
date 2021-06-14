@@ -8,7 +8,7 @@ webUrl: "https://securityboulevard.com/2021/06/nurturing-a-relationship-between-
 ampWebUrl: "https://securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/amp/"
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/amp/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -20,8 +20,25 @@ topics:
   - AI
   - AI in Security
   - AI in Robotics
+  - AI Ethics
 
 related:
+  - title: "The Growing Role Of AI And Machine Learning In Hyperautomation"
+    excerpt: "Before explaining the relationship between automation and hyperautomation, let’s explore the meaning of hyperautomation first. In its annual report on Top 10 Strategic Technology Trends for 2020, Gartner named hyperautomation the first trend that would transform the world."
+    publishedDateTime: 2021-06-14T11:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg"
+        width: 1200
+        height: 960
+        isCached: true
   - title: "To Secure Data Centers, AI and Automation Are Key"
     excerpt: "To avoid being next to fall victim to malicious server code, universities and colleges need to secure their data more effectively than ever before. For many universities, this can be achieved through data center automation."
     publishedDateTime: 2021-06-10T16:09:00Z
