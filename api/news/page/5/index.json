@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
+      "title": "Element adds AWS integration for industrial sensor data",
+      "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1212287865.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
+      "publishedDateTime": "2021-06-08T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-ai-powered-transcription-startup-verbit-raises-157m.md",
       "title": "AI-powered transcription startup Verbit raises $157M",
       "excerpt": "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation.",
@@ -1182,58 +1234,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation.md",
-      "title": "Remote-Controlled Labs? Strateos Raises $56 Million To Build Out Its Vision Of Scientific Automation",
-      "excerpt": "Strateos CEO Mark Fischer-Colbrie wants to build out a worldwide network of remote-controlled labs that can work with chemistry and biology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/06/08/remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/06/08/remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bea31534e64e5db19645a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1280%26cropY1%3D132%26cropY2%3D851",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/06/08/remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/06/08/remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation/amp/",
-      "publishedDateTime": "2021-06-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

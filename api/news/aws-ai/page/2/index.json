@@ -2,6 +2,112 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-few-shot-learning.md",
+      "title": "Amazon AWS Machine Learning Summit keynote kicks off with ‘few-shot learning’",
+      "excerpt": "Amazon AWS's AI and machine learning executives Swami Sivasubramanian and Bratin Saha lead the morning keynote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
+          "width": 1782,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
+      "publishedDateTime": "2021-06-02T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-use-amazon-translate-in-amazon-sagemaker-notebooks.md",
+      "title": "Use Amazon Translate in Amazon SageMaker Notebooks",
+      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation in 71 languages and 4,970 language pairs. Amazon Translate is great for performing batch translation when you have large quantities of pre-existing text to translate and real-time",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-in-amazon-sagemaker-notebooks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-in-amazon-sagemaker-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T12:45:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-nvidia-continues-to-evolve-from-chips-to-software-to-ai-data-centers.md",
       "title": "NVIDIA Continues To Evolve, From Chips To Software To AI Data Centers",
       "excerpt": "At Computex, new Base Command platform, expanded NVIDIA Certified program, and significant traction for DGX Servers NVIDIA made several announcements this week at the annual Computex conference in Taiwan,",
@@ -1277,84 +1383,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce.md",
-      "title": "Artificial Intelligence in IoT Market Size and Growth 2021-2027 | Top Companies – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce",
-      "excerpt": "Verified market reports recently published a research report on the Artificial Intelligence in IoT Market that provides an in-depth analysis of the key factors that can help well-known companies in the industry formulate appropriate future action plans.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/20/artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/",
-      "originalUrl": "https://ksusentinel.com/2021/05/20/artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-aws-21st-century-forecasting-for-the-travel-hospitality-industry.md",
-      "title": "AWS: 21st Century forecasting for the travel & hospitality industry",
-      "excerpt": "Notably, it serves to review improvements in forecasting, the use of machine learning and artificial intelligence, and metrics, to assess a forecast's value, as Wesley Story, enterprise strategist at AWS explains. “Travel and Hospitality companies have ...",
-      "sourceUrl": null,
-      "webUrl": "https://centreforaviation.com/analysis/reports/aws-21st-century-forecasting-for-the-travel--hospitality-industry-561544",
-      "originalUrl": "https://centreforaviation.com/analysis/reports/aws-21st-century-forecasting-for-the-travel--hospitality-industry-561544",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cdn.centreforaviation.com/stories/GettyImages-1205428317-1024x.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Centreforaviation.com",
-        "domain": "centreforaviation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

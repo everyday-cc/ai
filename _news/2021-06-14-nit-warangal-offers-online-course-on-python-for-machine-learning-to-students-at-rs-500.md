@@ -1,0 +1,65 @@
+---
+category: news
+title: "NIT Warangal Offers Online Course on Python for Machine Learning to Students at Rs 500"
+excerpt: "NIT Warangal has invited applications from students and professionals for a short-term online course on Python for Machine Learning"
+publishedDateTime: 2021-06-14T02:53:00Z
+originalUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/"
+webUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/"
+ampWebUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/amp/"
+cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/amp/"
+type: article
+quality: 51
+heat: -1
+published: false
+
+provider:
+  name: Dataquest
+  domain: dqindia.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
+    width: 850
+    height: 400
+    isCached: true
+
+related:
+  - title: "Amazon Offers Online Course in Machine Learning"
+    excerpt: "Amazon India has launched the ML Summer School, which is an integrated learning experience for students to learn applied Machine Learning (ML) skills. The three-day course will cover the fundamental concepts in Machine Learning besides offering practical industry applications."
+    publishedDateTime: 2021-06-13T10:22:00Z
+    webUrl: "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 59
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623578039_online-learning.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IIT Kharagpur Offers Free Online Course on Machine Learning That Can Be Completed in 8 Weeks"
+    excerpt: "IIT Kharagpur has offered a free online course on introduction to machine learning on the NPTEL platform that can be completed in 8 weeks"
+    publishedDateTime: 2021-06-13T08:52:00Z
+    webUrl: "https://www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/"
+    ampWebUrl: "https://www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 48
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
+        width: 640
+        height: 400
+        isCached: true
+
+secured: "SERqOEof+t9ePyv8dkZpy63cVglIj9aOoJLFL6TlAmORYzxkxs2dDh/0cZcVoR60DISSzUkaq5GIIUm223CTCmV7qsA+yedtQILkR54ms+GSCzWxzdb947A0wR5X01KPCuiKFmLxnXK/0VQZ9APemQhXjByrY+3sMV/JevFStN2b2ujj/SBxQMu9r/GPTAWsfgjQ3DmWkBzEPnQE5R9nf8AoowGMdZGxGmB42lv+hKLJPSjvw7ZfXs9hZsxQzlvOakPSKvM88JCfOzRj08bPtSA99Ga4gTq4qma+pQNvODiLTjLUgoZH2Yf5NIiUmUf1+dR55vSSlcJxSJ9IWJcWc5fTIva0pOU1D9CnUXVGXWM=;5IwCweTB3SiGiz/U2im23Q=="
+---
+

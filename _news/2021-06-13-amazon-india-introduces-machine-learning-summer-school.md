@@ -51,6 +51,20 @@ related:
         width: 760
         height: 426
         isCached: true
+  - title: "IITians Spearheading The AI Revolution In India"
+    excerpt: "The IITians are making a mark in the domain of artificial intelligence. In this article, we are celebrating 20 IIT alumni currently leading AI in India. While some hold key positions in tech companies,"
+    publishedDateTime: 2021-06-14T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/iitians-spearheading-the-ai-revolution-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/IIT.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "F7jHPQwRBOfUgkh1Qgi0UPrSj45CcDujakjFFkU0oiiaUfuIC44jQya1JLzwZDiLLOMY+fa/SBkthVrDcIM9yRVqzeQCy+gyzNAArFw0o2LYvyyzabKC0y4UxJYzpozLjESywg//9Wn7pot5xJuBxaUscg6R8LIr+HBAfUfGLVhlBXlOy57BBsm44cNEPWJQRldo309oQU+CRzfngM9hbN/pZoQ5p8Ak9FtiKWJayZV0W2n2IFry1EdsCmRUSj2AVJ5XOtDiZ28jENAEXioSdH87pdq9/3uvkHQHjZJtB1lzt6FKKlNhgxutJ97NN++sOj5KrOLDCFvmXswrWjJ8vwWIrxM8xyPtrtuPATc1BNo=;QcfELVTx1bPGI5FBwIVung=="
 ---

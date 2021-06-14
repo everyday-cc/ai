@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Drug Developing Platforms by Artificial Intelligence (AI) Market Evolving Technology and Growth Outlook 2021 to 2027"
-    excerpt: "The Top Key Market Players for Drug Developing Platforms by Artificial Intelligence (AI) Market Listed are :- , Antidote, Atomwise, Turbine, Cambridge Cancer Genomics, Row Analytics, Deep Genomics, Insilico Medicine,"
-    publishedDateTime: 2021-06-09T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/drug-developing-platforms-by-artificial-intelligence-ai-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Contact Center Intelligence Market Evolving Technology and Growth Outlook 2021 to 2027"
     excerpt: "New Analysis Of Contact Center Intelligence Market overview, spend analysis, imports, segmentation, key players"
     publishedDateTime: 2021-06-10T17:36:00Z

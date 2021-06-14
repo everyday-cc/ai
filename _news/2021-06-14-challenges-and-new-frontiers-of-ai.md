@@ -8,7 +8,7 @@ webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/cha
 ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687"
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI Ethics
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-83500687,imgsize-130172,width-800,height-434,overlay-etcio/challenges-and-new-frontiers-of-ai.jpg"
@@ -44,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "RofH24g3bAoYs3bf1+Zpry1az68qnXm9PGaFJPRKFCmuid0dSepiYZ8HYHQY+i0pJ0g/ZRA4PBSu5c7lfH4fRoc+KNo6uabzNOzWkY+rZct3JzYa+bUnWLO3U1p66mlJd7EtVLBiFt9jrTZQp5mz7BStA0ZAOOZPlJx/Y3B2vK9H3f1+coPs33T9s3vzcgKowrGvzPFx+XfrNRfAWIOYm1b7DN1LycgDz4VHJxPDWXQaaniN1UKXpt6whlwX2pOzLCzO4RqwMFvWiI1UQZadH9WrHbAehD8iew/T6UFdbslIsS3T9NIhayfzTapwDYkgm0Q4D3tHGReLRt/b9URlUsJSUg6214diKxKcOWkQHHY=;mivf4msPaC5JY0pmYJIolA=="
+secured: "viZQug5qUXx6M80MQwSwJKO0aQlnGDeVODBXevN2u3c5Z+IqXTwK8nfQ524xtXF63UYC8kYulm36Cnw2QwM44sfLgSpNjvV+OhbvzhmeRtQlc8rv80jHmdjd4fSqZaDJF2Wf4QoCRIqXmAdDjevTvfTZ3UjpQ1BPgY5RyR88k7h+WhB89QRvA8evLDis9HzmPLx3D/Dqt5Sc7WKK0OPNI4LZXee5pJHTeWvTBot/iBiQCT5N39EZFXw3czdALt2fZPoM+wqe3hs3ooSm3h4k+805iO8ref/8Uy8WRnScavuoaPNQqVSCKefF6HZHk+JIL7nx7ZqoTSLb7/n75q6jujnp8EgzYaEDUq43w/A5r4AKnGwFZ6hRu9lsLUE2soaT4Me0z79V4oDzgGU8KwO+QaRbb1PLKQtYW8sZz2Xp3nRcSWTN0uFG5hG/jfkfu642T3S/apBBAN5rVZrjqMpJaZS2SN19du1Cel6+uViBJAIMo4Bgfd/YjXVI611ZHDsOMqWPlFJHGiO9Z5tGtBIXoA==;7CJ2sSoeI/+Yv7cl4JGkAg=="
 ---
 

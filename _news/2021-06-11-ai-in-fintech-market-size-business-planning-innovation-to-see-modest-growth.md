@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-siz
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth-2021-06-11"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Running a fintech from India during a pandemic"
+    excerpt: "The experience of running a fintech from abroad during the pandemic has prompted a wider debate on the opportunities remote work may create for UK fintechs, writes Chirag Shah, CEO, Nucleus Commercial Finance."
+    publishedDateTime: 2021-06-14T04:31:00Z
+    webUrl: "https://www.altfi.com/article/7994_running-a-fintech-from-india-during-a-pandemic"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/running-a-fintech-from-india-during-a-pandemic.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "f7mwi5/T9Td5QhDWTUQ9NIyTFmIBCQnXKcN/Kyssg5Gp8iCShF3JAaf11ZbkQPs0sLsWNGII/MvG2Q7nkS30Fatkg36eguxcw/hTm76XXrbvQxstNeohVC9gXs4jKRlpmyn6JcGRi+N7A9bJQFWnA2MYyIx5AWIVZDuJBLCx/WeGtzF2R8F3ilHEwjlvDehN61zI6qIjVxHABYeJpioTTpMZtSyaxFOYNKr5Q5WH2fmM4fXnm2K9FSYZM4Mjq/lycMY+HU3IK4oVjbNbzumDR7Dl5QnsKSfFbLF1SMGyTcq0HC5ygf/WLylrxlSZbCliekl6i2oaPSCGVd53QYFZoRMkHibw06GGsA4iO67mw14=;alihOChnvM4jwA07cTJQHA=="

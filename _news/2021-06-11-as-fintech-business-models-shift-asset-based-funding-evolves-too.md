@@ -73,6 +73,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Running a fintech from India during a pandemic"
+    excerpt: "The experience of running a fintech from abroad during the pandemic has prompted a wider debate on the opportunities remote work may create for UK fintechs, writes Chirag Shah, CEO, Nucleus Commercial Finance."
+    publishedDateTime: 2021-06-14T04:31:00Z
+    webUrl: "https://www.altfi.com/article/7994_running-a-fintech-from-india-during-a-pandemic"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/running-a-fintech-from-india-during-a-pandemic.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "Lj3bM3Qz84muga+m0GHlA6vU5/POwAO+1mXxpKWyEkoFgfARjPGG4qsrA6bT53bqNLVyuQFTKIifJ/CyPViEJ5KJ0naPA4nRvOFvT4ykLtncxVVmdnrrEUVRfgJ1yLrOLjrO8L2Aj/uUam+8MxqBMPszKQFDIy33bFfMdbeV/lh1CXz3oZGTrkIo0e6MRWMIRwt/6iqMeV/hCVeQz2q9mJXkDu1JARxLQdtyETpjMUlbO7weV04j3W3htMn3Wv7FzFroRJ5791NRkWfNhce+Us+oK1xyrUER2rdxLVcGt4viVghNZGQ9lAv+lqqwVjpQtiSDC7fyT9pLNvqUYUZaY4ryFg6O1lf/Z1yc2WNvluRMmi9sVmY2+5+JgBHJcB9lu/C0/WRVDM8oSvbetcSoopPLrW1m8DceZcQmczGlNTbzmfMAx+p0r4i6raFuX1vPeqcDFkuJHE2ZkpoDv8ZCrOW3EBLxl9fj9RDU0KREeVqwMBxTk6HuShSh+MdLoTqE5aRrwpvqoioVIUDcq5bl1A==;L1QbXgf5UtE3dLJUeLXXXQ=="
 ---

@@ -2,21 +2,21 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-06-07-apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard.md",
-      "title": "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard",
-      "excerpt": "Company's award-recognized multilingual automatic speech recognition technology integrates with CallMiner to deliver accurate recognition of voice-based customer interactions across 30+ languages and dialects,",
+      "path": "_news/2021-06-07-new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use.md",
+      "title": "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use",
+      "excerpt": "C3 AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI® Ex Machina, its no-code solution that anyone can use to",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard-301306184.html",
+      "webUrl": "https://www.marketwatch.com/press-release/new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use-2021-06-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use-2021-06-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T05:34:00-07:00",
+      "publishedDateTime": "2021-06-07T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard.md",
+      "title": "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard",
+      "excerpt": "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/07/9384888.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/07/9384888.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1162,50 +1205,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time.md",
-      "title": "Neuromorphic Chip: Artificial Neurons Recognize Biosignals in Real Time",
-      "excerpt": "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
-      "originalUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg",
-          "width": 777,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
-      "publishedDateTime": "2021-06-04T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

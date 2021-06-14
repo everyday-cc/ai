@@ -54,6 +54,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-10-c3ai-ai-partners-snowflake-for-enterprise-ai-applications.md",
+      "title": "C3.ai (AI) Partners Snowflake for Enterprise AI Applications",
+      "excerpt": "C3.ai AI recently announced a partnership with data cloud company, Snowflake SNOW. The partnership aims to integrate the latter’s unique architecture - that enables customers to run their data platforms seamlessly across multiple clouds and regions at scale - with C3 AI’s robust enterprise AI development suite and family of industry-specific enterprise AI applications and deliver next generation Enterprise AI Applications at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
+      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
+      "publishedDateTime": "2021-06-10T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-researchers-win-44-million-in-grants-for-projects-using-ai-to-take-on-climate-change.md",
       "title": "Researchers win $4.4 million in grants for projects using AI to take on climate change",
       "excerpt": "The C3.ai Digital Transformation Institute announced on Thursday $4.4 million in awards to researchers using everything from offline reinforcement learning and large-scale simulations to soil samples and seaweed to find solutions to climate change.",
@@ -1052,33 +1086,24 @@
     {
       "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft",
+      "excerpt": "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/dataiku-now-available-in-the-microsoft-azure-marketplace-896936472.html",
+      "webUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "originalUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1522896/Dataiku.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T16:00:00-07:00",
+      "publishedDateTime": "2021-06-01T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1362,58 +1387,6 @@
         "AI",
         "Microsoft AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-applied-ai-takes-the-spotlight-at-build-2021.md",
-      "title": "Applied AI takes the spotlight at Build 2021",
-      "excerpt": "Microsoft's growing push into higher-level services for applied AI and business scenarios was front and center at its Build event this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/",
-      "originalUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/",
-      "publishedDateTime": "2021-05-27T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

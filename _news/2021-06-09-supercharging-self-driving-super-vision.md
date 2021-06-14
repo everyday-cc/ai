@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/video/supercharging-self-driving-super-visi
 webUrl: "https://techcrunch.com/video/supercharging-self-driving-super-vision/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 772
         height: 435
         isCached: true
-  - title: "Waabi- A new path to commercialising self-driving technology"
-    excerpt: "Waabi- the brainchild of Computer Scientist Raquel Urtasun in collaboration with the self-driving program powered by Uber, is all set to revolutionise the economical future of vehicle transport with an $83."
-    publishedDateTime: 2021-06-09T12:12:00Z
-    webUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology"
-    ampWebUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 24
   - title: "Breakthrough Technology Simulates Human Eyes’ Vision for Self-Driving Cars"
     excerpt: "LiDAR sensors are the current solution for making sure that self-driving cars have a safe and accurate perception, but what if something even better and more cost-effective could be out there? This is what recent studies are trying to find out,"
     publishedDateTime: 2021-06-09T15:22:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2021/06/ai-drug-discovery-biotech-valo-hea
 webUrl: "https://medcitynews.com/2021/06/ai-drug-discovery-biotech-valo-health-is-going-public-via-a-2-8b-spac-merger/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "AI drug discovery startup latest to go public via $2.8B SPAC merger"
+    excerpt: "Pharma companies are finding it difficult to hire data science talent—we think it’ll make AI drug discovery startups like Valo (who is going public via a $2.8B SPAC merger) attractive partners."
+    publishedDateTime: 2021-06-14T05:12:00Z
+    webUrl: "https://www.emarketer.com/content/ai-drug-discovery-startup-latest-go-public-via-2-8b-spac-merger"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 37
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/1bab3562a0efddba5903750d6f76d216/default-image-share.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DrPR14Yy6SjkQa7rVZD/jaGduUlIS1RfwSkcbLvyWYftbekO/kKSvzXDKs+SpZb2JRNj9Wxg2Ki+bUxQLDVJj16TPmL8RZwP+CZsn4kv/lj6QsLW9fNS01Noq8Auxcb67IassnBEot1WBSjtHH07xNxoR2aj1hbvQiwHrAaNdntD1b+WrT9CYQWoCb9FgmWG0QWUNBnk3UiWrwgz03sJC6HvefNclO16cEtZHhePNS03LZGhutIhO94gMWqKbM9969Oi49EeapYJ5UCD9AWysBnl8MG31EAtFuhw9KPWYqLM6jxDYMpe7OnBgv/EGpdZShTYbc5ZuqiPhCzVnw/gf5gq4b+IsHKw/ZMKr3SruDtcW4j7HtCvBEeorteht0Tl2CcMTyV7mturGNsozOLKhyweLfsxIpT27quWp1gbXaKkn9zmUyKUAYYxPFpVAJIAvOFdmFz2UmOV6Bba8jT1y0j/AGMTdrz0llT7BrEDlSnNZoKQmyAj4xUFGx5Mj7Qn6LWTtk7lqE8Svs1Kvy+MVg==;hG8cNNLVlDnoEn9bxUBmfw=="
 ---

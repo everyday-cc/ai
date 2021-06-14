@@ -40,7 +40,7 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://etimg.etb2bimg.com/thumb/msid-83500687,imgsize-130172,width-800,height-434,overlay-etcio/challenges-and-new-frontiers-of-ai.jpg"
         width: 800

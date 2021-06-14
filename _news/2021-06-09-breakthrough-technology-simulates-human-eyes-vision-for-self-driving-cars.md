@@ -53,17 +53,6 @@ related:
         width: 772
         height: 435
         isCached: true
-  - title: "Waabi- A new path to commercialising self-driving technology"
-    excerpt: "Waabi- the brainchild of Computer Scientist Raquel Urtasun in collaboration with the self-driving program powered by Uber, is all set to revolutionise the economical future of vehicle transport with an $83."
-    publishedDateTime: 2021-06-09T12:12:00Z
-    webUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology"
-    ampWebUrl: "https://www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98158-waabi-a-new-path-to-commercialising-self-driving-technology?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 24
 
 secured: "z2Z25ot9geR0ftfME6PcJao/Ihu9igaXNLVkaZ5GvRzXoBW/WwdwP6SbFq8jQahwTLeTroIrri1wlaL9uQNl1QImakYpQrAlE3aF1y6uC4iC8ETvSaMlogKAwL1yWx5fCqW2ORR7Jru0EnyR5nJ2fTaMBx886W+U9n4pEX6cRYUVpweUSkIlHZnjZtfkiSAKXmHt0oi6Qd32UWyYaffUv5iexhciKf+kv47DczAoUe8Z36cbNU8tWxcKg+mSzeZvKTXctMJGAALm9Cs8mcOOzuvYQ7LbFXJeOh2jNSo051l4YLWY1ts6Tmwm9edk2lWzb/QBGk0mFVoekTtJYmzPcEWvSr2ivYg5uffgOUpFP3VuAyCzL2XN400VMCc6ych09UC9lSt5tvahGvLNnHVbxC42UsgSsRWR0Y0AECgr48mJjFTq3MH10Wxe1MxYQaD4o++HZ7+BO9WaRIbYgk46vA2KNQUBbrrs2hkYaC1npWJKRJFThGV1/Ob+Y1RUzgkoKEndDrQW7cQtVhYpey53Eg==;6QQwaHrATqSX6Oxssxgc7g=="
 ---

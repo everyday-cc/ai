@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google team uses AI to create next-gen chips faster than humans"
-excerpt: "New Delhi: As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI ..."
-publishedDateTime: 2021-06-13T03:31:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463745"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463745"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463745"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463745"
+excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
+publishedDateTime: 2021-06-12T18:46:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+webUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-83463745,imgsize-318247,width-800,height-434,overlay-etcio/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.jpg"
-    width: 800
-    height: 434
+  - url: "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -312,6 +312,6 @@ related:
       domain: natureasia.com
     quality: 35
 
-secured: "56rRQFdWBvqf0LyPvaesTPa35reN/NgdggMwmue9LWElxiezZ16bcDqjvClOFftTVTt4nHGu+6PEJRiACR+oK6LYPqJfpqjKBWi7xStFfkL6Q6qKtLpxQFltqWETLESFhbA3hWKMfl8+TVCUwkRZZlBhGXSnT98Fpdq83gJuSOg+AF/r9Q5LO//Qbkpr6YcUzpPwM6bIAcvqf1eHTwlX/C/rfG5cxx3WvQvcRxoSFvHeVS9MyheoB+gKd1LJL0jWmL/6UQMIjMTSSUk29GeE/cobCHw45JpGaPADgxJcCT9qh56j27xxbrzSl75ovocRbqZCIwMJDPd0sZqoapJyZ5mvULhWJOS/K419zly4J+QJX9pu90a4B13dSJHsLLeoA2MGDRugyRrxVsH01j0kMNYUnKrUR0x72acc4YPwPmLezomrCICDnd1tkKqfamn8AbA+aZ9WCMKn8EQmfu6ESNWug1xFPDI9DI1Q7Cbdui1fJ4g3XFliEAxHNtQCsp689X38BfepqkxSkpWwWmYLHA==;NkRoi2ntpL1P4efvgSw6pA=="
+secured: "uyaQxSSc4dzt34mDsWrW+13AYEk3QNHLsMbmX6sFQEXNLkpQ1kBq37CNgwzTWtU0BOPQXgc5DDZkuL3P5LkcaSEieFUhLh4UspWTqZCE92Wt2e4aNTbUUVx8duZookMFOZOpgpGwJZjKSehOUnikwGND91mVdsQGrtUww9l5U9hdtl3i1L4F1KsBDnioJlPsiyh4HQ3yYRXCOjX7auIxikwTId9tiq819Kd0x9+t2Jts9r7F5FsIYoa19XciC8pfMoxFKib9PPfaCIRHdp4WjI2cq1kU+gOvcJSi4Fp1YEx/EuOhYUiSSg/1vIw63sFwWcVi4ERJOS2WztK76RRS7w8Mrvkq6GgfVTio2YvjLY0=;NJcbyHICpOXkE7zvhlPJtw=="
 ---
 

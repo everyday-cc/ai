@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - Microsoft AI
   - Computer Vision
+  - AWS AI
 
 related:
   - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"

@@ -2,6 +2,91 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-05-14-4-artificial-intelligence-stocks-to-watch-right-now.md",
+      "title": "4 Artificial Intelligence Stocks To Watch Right Now",
+      "excerpt": "Top Artificial Intelligence Stocks To Watch In May 2021. As tech stocks continue to recover from this week’s losses, investors may be looking towards Artificial Intelligence (AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14",
+      "originalUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14?amp",
+      "publishedDateTime": "2021-05-14T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts.md",
+      "title": "One Drop Receives CE Mark For AI-Powered Blood Glucose Forecasts",
+      "excerpt": "One Drop, a leader in precision health solutions for people living with chronic conditions, today announced it has achieved the Conformité Européenne (CE) Mark for its Blood Glucose Prediction Analysis Engine to accurately forecast glucose levels up to eight hours in advance for people living with prediabetes,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts-1030430512",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts-1030430512",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/837526/One_Drop___Automated_Decision_Support.jpg",
+          "width": 400,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-facebook-has-trained-an-ai-to-treat-irrelevant-data-like-spoiled-milk.md",
       "title": "Facebook has trained an AI to treat irrelevant data like spoiled milk",
       "excerpt": "Facebook researchers hope to help future ... Though still in the early stages of research, “As a next step in our research toward more humanlike AI systems, we're studying how to incorporate ...",
@@ -1092,83 +1177,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
-      "title": "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
-      "excerpt": "Windows Virtual Desktop is a Microsoft solution that seamlessly ... consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-72975.html",
-      "originalUrl": "https://www.businesswireindia.com/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-72975.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs.md",
-      "title": "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs",
-      "excerpt": "These advanced analytics are the result of the new partnership announced in February 2021 when AWS was named the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IITians Spearheading The AI Revolution In India"
+    excerpt: "The IITians are making a mark in the domain of artificial intelligence. In this article, we are celebrating 20 IIT alumni currently leading AI in India. While some hold key positions in tech companies,"
+    publishedDateTime: 2021-06-14T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/iitians-spearheading-the-ai-revolution-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/IIT.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Amazon India introduces machine learning summer school"
     excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
     publishedDateTime: 2021-06-13T10:56:00Z

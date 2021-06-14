@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-listenfirst-launches-machine-learn
 webUrl: "https://www.tmcnet.com/usubmit/-listenfirst-launches-machine-learning-analytics-with-instant-insights-/2021/06/09/9387504.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Industrial AI pioneer C3.ai partners with analytics upstart Snowflake"
-    excerpt: "C3.ai, the twelve-year-old Silicon Valley startup that is bringing machine learning forms of AI to various industries such as oil and gas, on Wednesday said it is partnering with data analytics upstart Snowflake,"
-    publishedDateTime: 2021-06-10T05:01:00Z
-    webUrl: "https://www.zdnet.com/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
 
 secured: "6HdC8DPxuSUKxFAESTtdjfrrpUA4nuDGj/yg7fNxAnWpOV4R9qpLJtSy249WafbjZKWFwGa07iajZsk2VgiQKDescUPg/Xnv+me7YoxTaPv2HjAtM2pFmn0/yiEsci8T69zZaL4aAFsU0R0dNP0GXF+GsBQEcsQYo1TZhWxW27McF6zuEKVGuhVsWdc8UWCvq8FRJHcSuCevuow/oVaFq1gPHEgycynpHQ6ilIEGLG0FO3LKLPAd2svjYiv8ALpUXgWKqHqXpLsPIiK9qSr9SPXLiyYiDFWWVMMVYPVRSp//u3tHT5G5vB3m+eJL/cDwQyBTpY8kfsoSGw+wWYc7l205FE3hhtxpTwsxjb0ujg0=;Oc6zsWqcQ8bo47NOf4pRhA=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-28-applied-ai-takes-the-spotlight-at-build-2021.md",
+      "title": "Applied AI takes the spotlight at Build 2021",
+      "excerpt": "Microsoft's growing push into higher-level services for applied AI and business scenarios was front and center at its Build event this week.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/",
+      "publishedDateTime": "2021-05-27T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada.md",
       "title": "Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada",
       "excerpt": "“The new 6 GHz spectrum allocation for Wi-Fi 6E provides exactly what future Wi-Fi-based services need, and that is more bandwidth,” said Chris Beg, wireless systems architect at Cognitive ...",
@@ -1375,50 +1427,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-sofic-news-microsoft-socom-highlight-need-for-ethical-use-of-artificial-intelligence.md",
-      "title": "SOFIC NEWS: Microsoft, SOCOM Highlight Need for Ethical Use of Artificial Intelligence",
-      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/05/istock-1150199386_resave.ashx?h=500&w=878&la=en&hash=279D049267A88C2C38978D40F816A53C",
-          "width": 878,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-22T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

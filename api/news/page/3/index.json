@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
+      "title": "How AI could radically change education and standardized testing",
+      "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "publishedDateTime": "2021-06-10T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-canada-police-broke-law-with-facial-recognition-software-regulator-finds.md",
       "title": "Canada police broke law with facial recognition software, regulator finds",
       "excerpt": "A Royal Canadian Mounted Police (RCMP) crest is seen on a member's uniform, at the RCMP \"D\" Division Headquarters in Winnipeg, Manitoba Canada, July 24, 2019. REUTERS/Shannon VanRaes",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -344,6 +397,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-c3ai-ai-partners-snowflake-for-enterprise-ai-applications.md",
+      "title": "C3.ai (AI) Partners Snowflake for Enterprise AI Applications",
+      "excerpt": "C3.ai AI recently announced a partnership with data cloud company, Snowflake SNOW. The partnership aims to integrate the latter’s unique architecture - that enables customers to run their data platforms seamlessly across multiple clouds and regions at scale - with C3 AI’s robust enterprise AI development suite and family of industry-specific enterprise AI applications and deliver next generation Enterprise AI Applications at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
+      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
+      "publishedDateTime": "2021-06-10T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1026,48 +1113,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-10-industrial-ai-pioneer-c3ai-partners-with-analytics-upstart-snowflake.md",
-      "title": "Industrial AI pioneer C3.ai partners with analytics upstart Snowflake",
-      "excerpt": "C3.ai, the twelve-year-old Silicon Valley startup that is bringing machine learning forms of AI to various industries such as oil and gas, on Wednesday said it is partnering with data analytics upstart Snowflake,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/",
-      "originalUrl": "https://www.zdnet.com/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/",
-      "publishedDateTime": "2021-06-09T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-10-deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.md",
       "title": "Deep neural network model can accurately predict the brain age of healthy patients",
       "excerpt": "A study shows that a deep neural network model can accurately predict the brain age of healthy patients based on electroencephalogram data recorded during an overnight sleep study, and EEG-predicted brain age indices display unique characteristics within populations with different diseases.",
@@ -1161,57 +1206,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer.md",
-      "title": "Daily Crunch: A crowded market for exits and acquisitions forecasts a hot AI summer",
-      "excerpt": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/",
-      "originalUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Generic-WP-Header.png?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/",
-      "publishedDateTime": "2021-06-09T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

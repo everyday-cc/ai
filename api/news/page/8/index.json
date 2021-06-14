@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-05-neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time.md",
+      "title": "Neuromorphic Chip: Artificial Neurons Recognize Biosignals in Real Time",
+      "excerpt": "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "originalUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg",
+          "width": 777,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "publishedDateTime": "2021-06-04T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-deepak-chopra-plans-to-live-forever-through-ai-heres-how.md",
       "title": "Deepak Chopra Plans To Live Forever Through AI, Here’s How",
       "excerpt": "Before the pandemic, meditation guru Deepak Chopra uploaded his \"consciousness\" to the AI Foundation to ensure he could talk to future generations. Virgin Galactic's Richard Branson, Twitter's Biz Stone and VC Cyan Bannister did the same.",
@@ -828,7 +872,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1163,40 +1208,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030.md",
-      "title": "Artificial Intelligence (AI) Chip Market 2021: Market Definition, Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2030",
-      "excerpt": "Chip Market was valued at USD 9.29 billion in 2019, and is estimated to garner USD 253.30 billion by 2030, at a CAGR of 35.0% during the forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/44032175/artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030",
-      "originalUrl": "https://www.wicz.com/story/44032175/artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
