@@ -2,7 +2,7 @@
 name: "Skydio"
 overview: "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!"
 type: "profile"
-heat: 197
+heat: 96
 
 website: https://www.skydio.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gsfkGlSajHQ"
 
-secured: "NicE6vNZNvv6PerkdIn2fSxNG/KEI+IqbTX37djCn199EHWUD5+WkEJTUNexSqkCwgStTVJUkCALk+mMQ5mSTemXGRXJvoZ/216+PWwXZVqzwHhW6ZcxsG3PFHyEfWOHLrXbdNgGDz198opIcFpNTzq2Sj+OE97lCakyTHwIx9KkP4u03wTDrvsf3FbmM1Vxnec7q6lt8Q38pLBJdDgLtvqq2LzAZs0GbcA1kC+5kDz5aArX02IncBxarLNphXXBVft0Rq8WG1GNiVGByckd+/ihgl7xxrvYlqZNj0jRRudiQWEic8Mv/aGTH/fiyrvjtteQZB1laZLr0H9ar/pcNm9kJ45oWMFUhosJmv7nQyjO+UtYO5JQHsk7rG/eG/kTEw/xptINO+C/IscbT/YIaRc5yHZuN/kYLSfSoemiIks=;506oqRRF8Ul1QWDw30yO0g=="
+secured: "1dINJSvCrq4PLuBGST7k9H9YpDZDmt/jldYrM35GblII2/J065zbSZvvogs9BuajAhzgpau5FBHax24w7lUAclAZHaQ+EPkbsBV+///Y+KQDt8rNaGOA+qsOnaCPd7TPvSU6qYlTxXmNzqi+VFcI89SZvwxNvYNj3fsyYwi2oRFJCKLq47Kaidp7815lz/alrmW9+l1ySjTMtngHCDKE26XbbHtBpRZNidBQfPZd7C5EWAUbXe8XCrkPyEci27BwbjvqoOcIUYDjDot819RCpvSMtT9nt9DgTKYmMOWuWKzf0/6cG45XstdAYh1BkZFPQgUPnmfEd4hrQQOtLJuam2MfOr+78uEk9HseENpLfNa3i8cxesnwrbSWgEP84HJLD9PUcO3P5LO22xYxILjOXSykL0cvf66Jrp3Ob5CXoKQ=;BHW+gAnTDM17vzK4Zo5t6w=="
 ---
 
