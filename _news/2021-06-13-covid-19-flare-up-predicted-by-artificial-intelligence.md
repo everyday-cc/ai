@@ -69,22 +69,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "How wearable AI could help you recover from covid"
-    excerpt: "A Chicago-based pilot program is testing a body sensor that monitors covid patients remotely. Angela Mitchell still remembers the night she nearly died. It was almost one year ago in July. Mitchell—who turns 60 this June—tested positive for covid-19 at her job as a pharmacy technician at the University of Illinois Hospital in Chicago."
-    publishedDateTime: 2021-06-09T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/"
-    ampWebUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1277116422.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Machine learning applied in SARS-CoV-2 COVID 19 screening using clinical analysis parameters"
     excerpt: "COVID-19 was considered a pandemic by the World Health Organization. Since then, world governments have coordinated information flows and issued guidelines to contain the overwhelming effects of this disease."
     publishedDateTime: 2021-06-11T17:05:00Z

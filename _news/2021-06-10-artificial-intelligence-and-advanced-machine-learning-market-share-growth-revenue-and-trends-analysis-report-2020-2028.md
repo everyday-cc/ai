@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "June 2021 Report On Global Edge Artificial Intelligence (AI) Chip Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "The research report includes specific segments by region (country), by manufacturers, by Type and by Application. Each"
-    publishedDateTime: 2021-06-09T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-edge-artificial-intelligence-ai-chip-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge Artificial Intelligence Software Market Growth, Industry Analysis | Global and Regional Market Forecast to 2020-2028"
     excerpt: "The global edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected"
     publishedDateTime: 2021-06-11T08:12:00Z

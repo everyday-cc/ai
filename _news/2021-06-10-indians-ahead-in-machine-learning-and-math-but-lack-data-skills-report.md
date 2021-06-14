@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbctv18.com/technology/indians-ahead-in-machine-learnin
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/indians-ahead-in-machine-learning-and-math-but-lack-data-skills-report-9609521.htm/amp"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: cnbctv18
@@ -22,22 +22,6 @@ topics:
   - Math for AI
 
 related:
-  - title: "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report"
-    excerpt: "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses."
-    publishedDateTime: 2021-06-09T09:08:00Z
-    webUrl: "https://www.news18.com/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 83
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623229612_shutterstock_1831313974.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Amazon India to impart core machine learning skills to make students industry-ready"
     excerpt: "ML algorithms for improving address quality in India are being leveraged in other marketplaces to identify poor quality addresses and categorise addresses as Residential or Commercial, it added."
     publishedDateTime: 2021-06-13T09:28:00Z

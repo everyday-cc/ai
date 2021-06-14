@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://qtxasset.com/fiercebiotech/1621968554/analysis-2030266_1280.jpg/analysis-2030266_1280.jpg?B5RYBSIuCxzMikC96TGdugo4OvZL.WMg"

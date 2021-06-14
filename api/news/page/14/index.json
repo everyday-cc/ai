@@ -2,6 +2,109 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-01-innovate-toward-health-experience-not-just-healthcare.md",
+      "title": "Innovate Toward Health Experience, Not Just Healthcare",
+      "excerpt": "Pamela Spence, EY Global Health Sciences and Wellness Industry Leader. Technological innovation has pushed the consumer experience forward in banking, retail, entertainment and hospitality (among other industries) but has not yet broken through with health interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0f516da9fc3e34e99c61f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/",
+      "publishedDateTime": "2021-06-01T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-these-are-the-10-most-in-demand-ai-jobs-according-to-indeedand-they-all-pay-at-least-95000.md",
+      "title": "These are the 10 most in-demand AI jobs according to Indeed—and they all pay at least $95,000",
+      "excerpt": "But, one industry that has remained in high demand despite the pandemic is artificial intelligence, with hiring growth for these jobs increasing by 32% since 2019, according to LinkedIn. “AI covers a vast range of use cases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html",
+      "originalUrl": "https://www.cnbc.com/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106291052-1576090768440gettyimages-1086208762.jpg?v=1622131716",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html",
+      "publishedDateTime": "2021-06-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
       "title": "Computer vision is like investing in the internet in the ‘90s",
       "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
@@ -219,8 +322,8 @@
       "title": "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc.",
       "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480317",
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -230,21 +333,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T00:44:00-07:00",
+      "publishedDateTime": "2021-06-01T00:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -253,8 +347,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1030,74 +1125,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-top-start-ups-to-use-artificial-intelligence-in-mental-healthcare.md",
-      "title": "Top Start-ups to Use Artificial Intelligence in Mental Healthcare",
-      "excerpt": "Around the world, startups are gearing up for treating mental healthcare issues with more seriousness than ever. Using artificial intelligence for healthcare is not new and nowadays this technology is also being used by companies treating mental health issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-start-ups-to-use-artificial-intelligence-in-mental-healthcare/",
-      "originalUrl": "https://www.analyticsinsight.net/top-start-ups-to-use-artificial-intelligence-in-mental-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-whitelab-genomics-and-the-accelerator-for-technological-research-in-genomic-therapies-announce-their-collaboration-on-artificial-intelligence.md",
-      "title": "WhiteLab Genomics and the Accelerator for Technological Research in Genomic Therapies Announce Their Collaboration on Artificial Intelligence for the Bioproduction of Gene ...",
-      "excerpt": "WhiteLab Gx and the Accelerator for Technological Research in Genomic Therapies announce their collaboration on AI for gene therapy Bioproduction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210531005131/en/WhiteLab-Genomics-and-the-Accelerator-for-Technological-Research-in-Genomic-Therapies-Announce-Their-Collaboration-on-Artificial-Intelligence-for-the-Bioproduction-of-Gene-Therapies",
-      "originalUrl": "https://www.businesswire.com/news/home/20210531005131/en/WhiteLab-Genomics-and-the-Accelerator-for-Technological-Research-in-Genomic-Therapies-Announce-Their-Collaboration-on-Artificial-Intelligence-for-the-Bioproduction-of-Gene-Therapies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

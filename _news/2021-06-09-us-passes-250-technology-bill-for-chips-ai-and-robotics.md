@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 602
     height: 334
     isCached: true
-
-related:
-  - title: "$50bn is Approved for Computer Chip and AI Technology by US Senate"
-    excerpt: "The US senate has approved a bill of $50 to boost American semiconductor production and artificial intelligence."
-    publishedDateTime: 2021-06-09T09:47:00Z
-    webUrl: "https://www.phoneworld.com.pk/50bn-is-approved-for-computer-chip-and-ai-technology-by-us-senate/"
-    ampWebUrl: "https://www.phoneworld.com.pk/50bn-is-approved-for-computer-chip-and-ai-technology-by-us-senate/amp/"
-    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/50bn-is-approved-for-computer-chip-and-ai-technology-by-us-senate/amp/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 74
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2021/06/Add-a-heading-3.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "YdrX8738Zqm/gD0zeBEHKxaSwExq2BOw6Gm1BeQHL1Ke9oIXxPOEdYIBx24D03yXEFSAwIY0Ezw1OYQKVgtzA7/FAmmaHxxjp5bIFDgbpBEvORGHZb3w+ANmKCEEe3UbpTBJdIYNy/TSJ1KCGPCVIPh/hgqvs87hTivK10bNxSA6j3V5jjhURkFtNYbRbFjFu+Bg7BQc7Lr9cQSRgOi0ypt/a41eCGaR6vYR0XgJpXZ5pl3PPtuBbAXWZ20ACmbNyTYxRPSZsXNrkdvsxIpGfSVuO4/cu0WUOMfNPjT0C4UMoUgyAAScheuIU5o0EtLyHGWN2oiMpOwV8ZAbtmtn9MUerJFj/K+2sWi31cxZsss+iC5TKY9VQRIYlMrtTQAoDk/k2qgaZ4eH1tIoCrVSJCv/ScIgK5XFQlY3K+hDBzFmVWeE95M1gzRX+8XHyZPWIbGNTaZrA/mDWKK6mfeVVgiq/CoA//Vo4OrTjv3Z+QFB1UccoeoLE1Z+NXBxs/n8uiR4saQDpwmjGDeG8q+kXg==;UuGfeONTkTH48fIbpsgzqg=="
 ---

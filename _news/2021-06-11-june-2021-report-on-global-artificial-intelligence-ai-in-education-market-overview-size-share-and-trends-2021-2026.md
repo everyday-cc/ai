@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-glob
 webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11"
 type: article
 quality: 75
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "June 2021 Report On Global Edge Artificial Intelligence (AI) Chip Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "The research report includes specific segments by region (country), by manufacturers, by Type and by Application. Each"
-    publishedDateTime: 2021-06-09T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-edge-artificial-intelligence-ai-chip-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence and Advanced Machine Learning Market Share, Growth, Revenue and Trends Analysis Report 2020 – 2028"
     excerpt: "The latest market study titled Global Artificial intelligence and Advanced Machine Learning Market, released by Emergen Research, takes note of the most prominent growth potentials of the market, which assists industry stakeholders in comprehending the most recent market trends and growth prospects,"
     publishedDateTime: 2021-06-09T17:11:00Z

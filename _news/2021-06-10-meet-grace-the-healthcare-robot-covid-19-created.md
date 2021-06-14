@@ -60,22 +60,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "How wearable AI could help you recover from covid"
-    excerpt: "A Chicago-based pilot program is testing a body sensor that monitors covid patients remotely. Angela Mitchell still remembers the night she nearly died. It was almost one year ago in July. Mitchell—who turns 60 this June—tested positive for covid-19 at her job as a pharmacy technician at the University of Illinois Hospital in Chicago."
-    publishedDateTime: 2021-06-09T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/"
-    ampWebUrl: "https://www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/09/1025889/wearable-ai-body-sensor-covid-chicago/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1277116422.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "COVID-19 Flare-up Predicted by Artificial Intelligence"
     excerpt: "Artificial Intelligence predicts how patients with viral infections, including COVID-19, will fare. Gene expression patterns associated with pandemic viral infections provide a map to help define patients' immune responses,"
     publishedDateTime: 2021-06-12T18:26:00Z

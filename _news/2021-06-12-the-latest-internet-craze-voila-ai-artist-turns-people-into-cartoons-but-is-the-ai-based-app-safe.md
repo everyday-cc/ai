@@ -26,6 +26,17 @@ images:
     height: 641
     isCached: true
 
+related:
+  - title: "The Internet, intranets, and the AI renaissance"
+    excerpt: "Virtually cost-free publication on the World Wide Web has led to information overload. Artificial intelligence (AI), with its roots in knowledge representation, is experiencing a renaissance as new tools emerge to make the Web more tractable."
+    publishedDateTime: 2021-06-10T13:49:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/562929"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
+
 secured: "FlkLHmofZSXNY7vRO/NvDMPR4BsoAYdLSCh9sonke2fVRtqVVFdZlS/Q7ry54XGGu+nvM1tlVcmv7XmLk4Qr/18FbB8U1YDpdE2XrnKJUBU+1Zf7MLTXrEl2AGLG+FbwH+vC8tnJwLkiexuVp+nxrwrE5nCU5/vnFlGPgji9Mvnf2RWcjSikGU2VWzv09IPHQ7M3rPXfXlOg48eERS/4QfzVMlsLhmXXt8ypfSljaQ9XMnDUY03Oyg6asxSatLF8QnmvQnAiBXC7Z3+ga4wnheG8534ULnuwPVtMLhlNpaxZMU8NyITXTMym/T/1q9/QGJEIMIa1sYLGoOeoIlwMAatw6OCDFn4j56AeJJ8/plf7wszWO2Cr5JVuIEQgDHW+amGL/Rp/2DFjKU5un7rWRKlV2B3ku3hXQo62sh7NkQOOP44CNjiFsWCUoAeZ68GT2j/c2emD8tDdj4viQJxQhT+Tqhx27JV9eOK8TnS5YWoqrx7qHNEWNYDB9hCXSxG448EI5ewLxMAPUUsK1CfuXw==;eERPZ55taEkZ03BPrMolOA=="
 ---
 

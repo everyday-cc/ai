@@ -51,29 +51,6 @@ related:
         width: 760
         height: 426
         isCached: true
-  - title: "As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
-    publishedDateTime: 2021-06-09T09:48:00Z
-    webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
-        width: 810
-        height: 506
-        isCached: true
-  - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
-    excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
-    publishedDateTime: 2021-06-09T09:09:00Z
-    webUrl: "https://www.analyticsinsight.net/the-sexiest-artificial-intelligence-designations-in-india-of-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 17
 
 secured: "F7jHPQwRBOfUgkh1Qgi0UPrSj45CcDujakjFFkU0oiiaUfuIC44jQya1JLzwZDiLLOMY+fa/SBkthVrDcIM9yRVqzeQCy+gyzNAArFw0o2LYvyyzabKC0y4UxJYzpozLjESywg//9Wn7pot5xJuBxaUscg6R8LIr+HBAfUfGLVhlBXlOy57BBsm44cNEPWJQRldo309oQU+CRzfngM9hbN/pZoQ5p8Ak9FtiKWJayZV0W2n2IFry1EdsCmRUSj2AVJ5XOtDiZ28jENAEXioSdH87pdq9/3uvkHQHjZJtB1lzt6FKKlNhgxutJ97NN++sOj5KrOLDCFvmXswrWjJ8vwWIrxM8xyPtrtuPATc1BNo=;QcfELVTx1bPGI5FBwIVung=="
 ---

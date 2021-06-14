@@ -74,22 +74,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Crypto-Mining Attacks Targeting Kubernetes Clusters via Kubeflow Instances"
-    excerpt: "Microsoft warns of a large-scale cryptocurrency mining malware campaign that targets Kubernetes clusters through Kubeflow machine learning instances."
-    publishedDateTime: 2021-06-09T10:43:00Z
-    webUrl: "https://thehackernews.com/2021/06/crypto-mining-attacks-targeting.html"
-    ampWebUrl: "https://thehackernews.com/2021/06/crypto-mining-attacks-targeting.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/06/crypto-mining-attacks-targeting.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 42
-    images:
-      - url: "https://thehackernews.com/images/-zOlEApVOiSg/YMCbAoxckBI/AAAAAAAACzY/BDUdtmDiujsWEVKdp_qfBuwh9ihFnvWkgCLcBGAsYHQ/s0/kubeflow-malware.jpg"
-        width: 728
-        height: 380
-        isCached: true
   - title: "Kubeflow Deployments Targeted in New Crypto-mining Campaign"
     excerpt: "A newly observed malicious campaign is targeting Kubeflow workloads to deploy TensorFlow pods that are used to mine for crypto-currency, according to a warning from security researchers at Microsoft."
     publishedDateTime: 2021-06-09T17:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/amazon-offers-onlin
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ISRO Offers Free Short-term Online Courses in Machine Learning, GIS Technology"
-    excerpt: "The Indian Space Research Organization (ISRO) is currently inviting applications for three online certificate courses in Machine Learning, Web GIS Technology, and Earth Observation for Carbon Cycle Studies."
-    publishedDateTime: 2021-06-09T10:41:00Z
-    webUrl: "https://www.news18.com/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 55
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623235143_college3.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "IIT Kharagpur Offers Free Online Course on Machine Learning That Can Be Completed in 8 Weeks"
     excerpt: "IIT Kharagpur has offered a free online course on introduction to machine learning on the NPTEL platform that can be completed in 8 weeks"
     publishedDateTime: 2021-06-13T08:52:00Z

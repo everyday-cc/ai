@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ISRO Offers Free Short-term Online Courses in Machine Learning, GIS Technology"
-    excerpt: "The Indian Space Research Organization (ISRO) is currently inviting applications for three online certificate courses in Machine Learning, Web GIS Technology, and Earth Observation for Carbon Cycle Studies."
-    publishedDateTime: 2021-06-09T10:41:00Z
-    webUrl: "https://www.news18.com/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/isro-offers-free-short-term-online-courses-in-machine-learning-gis-technology-3825728.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 55
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623235143_college3.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "brtsdLtrKXqhv67RXZ+YOojesHJRBd7hf+C84Mr8l/jAElioM6DdJEzV8/8VxS5zf3txMwaU9BcYVZAR/wvuXy6ATVHlUiB3xyDRsoruOWt0a4snpBelY67jl+K+5Y6E2/8lFMbF3P66KIGWft7Tx/gpp4fBNgiO64ri38YQ3mDkpnepW0jOp/A3EU5ydv2TJvWHmzr3enrOlOSS7lqyVMWBmQhmqTqtDZ3E5kMjWqbNrK0pe8Pn/jzHL6cvXoylNXjJukpf5oWBuj8fmJwGBBDl+5I2UA4hOaGYGOFgUQOG0im2eujIN8zMb1kcUGOHnAY+jpNNa7+Xl9hK0rToEaING8QTUURmIz6O7iTIP/X3jhaPiKgY0lO5qqMvSY9qjAn3ifObDomPmafqkFAy4wjLy9NIE4UoiL//+BlDdA0N83rsNmxirX3BtMRd+UUbACORNoqbphgXzlI5vI34HAjA/OUr+76AEuFjcky8JOWzCyHiycE0uzNx0c65KpxAiF1ROK+rIp+MeT9UuVuYoQ==;mSc6dVdWXd60ZlinXcYzJA=="
 ---

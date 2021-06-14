@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Facebook wants an AI that can beat the 'hardest game in the world'"
-    excerpt: "Facebook is asking for the AI community’s help in bringing low NetHack — one of the most notoriously difficult titles in gaming history — and maybe help computers learn to simulate instances faster using fewer resources."
-    publishedDateTime: 2021-06-09T10:33:00Z
-    webUrl: "https://www.engadget.com/facebook-wants-an-ai-that-can-pwn-the-hardest-game-in-the-world-100041653.html"
-    ampWebUrl: "https://www.engadget.com/amp/facebook-wants-an-ai-that-can-pwn-the-hardest-game-in-the-world-100041653.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-wants-an-ai-that-can-pwn-the-hardest-game-in-the-world-100041653.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bf6bd2a0-c89c-11eb-aeab-eddcf4a62c67"
-        width: 2400
-        height: 1260
-        isCached: true
   - title: "Facebook Planning To Create An AI To Beat NetHack"
     excerpt: "Facebook wants to develop an AI (artificial intelligence) that is capable of beating the hardest game in the world. The social media giant wants to leave"
     publishedDateTime: 2021-06-09T15:44:00Z

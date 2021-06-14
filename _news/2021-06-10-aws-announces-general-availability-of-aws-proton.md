@@ -47,20 +47,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "KT signs with AWS, talks other opportunities with Amazon"
-    excerpt: "KT partnered with Amazon Web Services (AWS), the world’s largest cloud provider, to collaborate on artificial intelligence (AI) and cloud-related endeavors."
-    publishedDateTime: 2021-06-09T09:46:00Z
-    webUrl: "https://koreajoongangdaily.joins.com/2021/06/09/business/tech/kt/20210609181607036.html"
-    type: article
-    provider:
-      name: joongang
-      domain: joins.com
-    quality: 39
-    images:
-      - url: "https://koreajoongangdaily.joins.com/data/photo/2021/06/09/5dc305d6-c118-49e2-9a4e-1ca649b862ab.jpg"
-        width: 559
-        height: 395
-        isCached: true
   - title: "BMO Financial Group Selects AWS as Its Preferred Cloud Provider"
     excerpt: "One of Canada’s largest financial institutions is using AWS to modernize banking platforms and transform into a cloud-first organization"
     publishedDateTime: 2021-06-10T04:01:00Z

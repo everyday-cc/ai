@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "As AI-based loan apps boom in India, some borrowers miss out"
-    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers."
-    publishedDateTime: 2021-06-09T09:48:00Z
-    webUrl: "https://www.vccircle.com/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/02/mobile_business-3150423_1280.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Amazon India introduces machine learning summer school"
     excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
     publishedDateTime: 2021-06-13T10:56:00Z
@@ -66,15 +52,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "The Sexiest Artificial Intelligence Designations in India of 2021"
-    excerpt: "Artificial intelligence has become a major part of global technology and India is not far behind. A great number of high-paying jobs are available here and Analytics Insight has selected the most popular ones among them."
-    publishedDateTime: 2021-06-09T09:09:00Z
-    webUrl: "https://www.analyticsinsight.net/the-sexiest-artificial-intelligence-designations-in-india-of-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 17
 
 secured: "TGOeJSsUgLdlqM/8wxFVErd78oiGVvexuLitk8hXVqkGLcl06C6RkD73Az7foy06UkXmmyvUHvKDIkL1ka8tp8Ehw9zgcSKa9SNuChk+wVTzFyVSTj4bz0IEpgnGykzc/zARdDgR8FtMdFwhEJB7vleqd6gui8LpcPclkUljRzZlCieX0VfzWqt4apgnO6UGz6DT/AIB3L+57ETwGT9kefUE5CvpJbhqyiwsxJ0CBkdO0dOSgpJ908rHmjAg2JJ9iVJIGljDa0kM5EC4bxUrRkc5flATLyW6vj6nywOoSOJ+8qYpxqs3diR/pUeKSyuSREF+seWYHZU/GlzZdCQDzU8rnMTRVkhYOQN0WyUBhoyC4fpGEkYG01bR630WrSTosPD3iN4EhBz9rfrseIhAqYS4AmQdFTa8IIKl8hxQUq5m0vYQX77dwLgAHvcZ3eLTg1wggQRMljWnWGCnFEmqB2v7CYXPOUWUlJ8RzdmY0dh1D6CgrnkkzxVxRWXvP0Vp+icAfl2sEqsUxyKiNJhvcA==;6VEYdm9M8O7ObMKONFuvHQ=="
 ---

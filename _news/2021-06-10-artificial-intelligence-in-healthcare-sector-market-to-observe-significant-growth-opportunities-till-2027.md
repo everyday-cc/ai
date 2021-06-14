@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Accelerator Market [ PDF ] To Witness Significant Growth By 2021-2027"
-    excerpt: "New Analysis Of Artificial Intelligence (AI) Accelerator Market overview, spend analysis, imports, segmentation,"
-    publishedDateTime: 2021-06-09T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Supply Chain Market Evolving Technology and Growth Outlook 2021 to 2027"
     excerpt: "New Analysis Of Artificial Intelligence in Supply Chain Market overview, spend analysis, imports, segmentation,"
     publishedDateTime: 2021-06-10T17:02:00Z
@@ -71,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) in Power Market to Witness Huge Growth by 2026 | ABB, Alibaba, Alphabet, Amazon"
-    excerpt: "HTF MI offers comprehensive outlook on Artificial intelligence AI in Power Market forecasted till 2026 The Artificial intelligence AI in Power market has observed substantial growth over the years owing to noteworthy innovations that created awareness among end users and"
-    publishedDateTime: 2021-06-10T16:05:00Z
-    webUrl: "https://www.openpr.com/news/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
-    ampWebUrl: "https://www.openpr.com/amp/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302837/artificial-intelligence-ai-in-power-market-to-witness-huge"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/6/U610601671_g.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Contact Center Intelligence Market Evolving Technology and Growth Outlook 2021 to 2027"
     excerpt: "New Analysis Of Contact Center Intelligence Market overview, spend analysis, imports, segmentation, key players"
     publishedDateTime: 2021-06-10T17:36:00Z
@@ -101,19 +71,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition for Automotive Market [ PDF ] To Witness Significant Growth By 2021-2027"
-    excerpt: "This research service provides a strategic analysis of the Voice Recognition for Automotive Market 2021-2027. The market study covers the Voice Recognition for Automotive market size across segments."
-    publishedDateTime: 2021-06-11T16:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-automotive-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-11"
+  - title: "Speech-to-text API Market 2021 : Top 20 Countries Data with SWOT Analysis, Market Size, Definition, Share, Growth, Technology and Forecasts to 2026"
+    excerpt: "According to this latest study, in 2021 the growth of Speech-to-text API Market will have significant change from previous year. Over the next five years the Speech-to-text API Market will register a magnificent spike in CAGR in terms of revenue,"
+    publishedDateTime: 2021-06-11T00:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-2021-top-20-countries-data-with-swot-analysis-market-size-definition-share-growth-technology-and-forecasts-to-2026-2021-06-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 16
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Self-driving Submarine Market Precise Scenario Covering Trends, Opportunities and Growth Forecast during 2021 to 2027"
+    excerpt: "Market Research Place has released a new report entitled Global Self-driving Submarine Market Research Report 2021-2027 that focuses on the market insights into the current and forecast market situation."
+    publishedDateTime: 2021-06-11T10:18:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/global-self-driving-submarine-market-precise-scenario-covering-trends-opportunities-and-growth-forecast-during-2021-to-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/28/10/submarine-designs.jpg?width=982&height=726&auto=webp&quality=75"
+        width: 982
+        height: 726
         isCached: true
 
 secured: "9ikiVJNfpx1lfSCch8Up5nW5oEV66q4wbGrJ47s0An0T+WNWUv85wACOuTDnOaDLzbVYUCo9uITnovY1RZ7CpcQH0zhba5s4svRJOe5paXRBv0aCWa6+GJWiy6PXj3pflgTPfkJ6ERiREXn8h9Kk7zrfVWANnq2DCd5bN/e/eabIf++clDDyGDaPUfdP06E1gy0Ec+Hz6el97J1QYuwqi/KC/SbObFo/QukK6w02PBEU1tDrqAFAE6R1GINGX8D49xKmWPE0ka5F5vW2LTFIcyXnQU1rHf5rm+unB4rZiPs371R2RpO1XJFt+Ewb7M5Rj2LErBmKJhEfqv3MchxtYXDbJNpmiAFO2c0FJVii7GY=;zd7JdY5EGoR6H7MB0TU5MA=="
