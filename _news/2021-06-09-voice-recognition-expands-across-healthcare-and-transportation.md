@@ -72,22 +72,6 @@ related:
         width: 1050
         height: 600
         isCached: true
-  - title: "Voice Recognition Market: Emerging Economies Expected to Influence Growth until 2026"
-    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2024 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
-    publishedDateTime: 2021-06-09T06:33:00Z
-    webUrl: "https://www.openpr.com/news/2301143/voice-recognition-market-emerging-economies-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/U/6/U609941609_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
     publishedDateTime: 2021-06-10T04:44:00Z

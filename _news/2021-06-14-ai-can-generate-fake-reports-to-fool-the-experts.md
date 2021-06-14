@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Special operations experience is at the core of this cybersecurity startup"
-excerpt: "Culture matters. \"Quiet professionals that let results do the talking is oftentimes the antithesis of how Silicon Valley company operates,\" Horizon3.ai's founder says."
-publishedDateTime: 2021-06-09T14:54:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/06/09/horizon3ai-uses-ai-to-prevent-hackers.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/06/09/horizon3ai-uses-ai-to-prevent-hackers.html"
+title: "AI can generate fake reports to fool the experts"
+excerpt: "There is growing concern about misinformation spreading in the critical fields of cyber security and medical research. Read more at straitstimes.com."
+publishedDateTime: 2021-06-13T21:47:00Z
+originalUrl: "https://www.straitstimes.com/opinion/ai-can-generate-fake-reports-to-fool-the-experts"
+webUrl: "https://www.straitstimes.com/opinion/ai-can-generate-fake-reports-to-fool-the-experts"
 type: article
-quality: 0
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
+  - Facebook AI
   - AI
+
+images:
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/13/md-fake-130621.jpg?itok=yP6yiZ1O"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "AI can now convincingly mimic cybersecurity experts and medical researchers"
@@ -32,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI can generate fake reports to fool the experts"
-    excerpt: "There is growing concern about misinformation spreading in the critical fields of cyber security and medical research. Read more at straitstimes.com."
-    publishedDateTime: 2021-06-13T21:47:00Z
-    webUrl: "https://www.straitstimes.com/opinion/ai-can-generate-fake-reports-to-fool-the-experts"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/13/md-fake-130621.jpg?itok=yP6yiZ1O"
-        width: 763
-        height: 509
-        isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"
     publishedDateTime: 2021-06-13T13:00:00Z
@@ -60,7 +53,16 @@ related:
         width: 420
         height: 630
         isCached: true
+  - title: "Special operations experience is at the core of this cybersecurity startup"
+    excerpt: "Culture matters. \"Quiet professionals that let results do the talking is oftentimes the antithesis of how Silicon Valley company operates,\" Horizon3.ai's founder says."
+    publishedDateTime: 2021-06-09T14:54:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/06/09/horizon3ai-uses-ai-to-prevent-hackers.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "Q3TpdD6ekflmGo4Mn4ULzOLCCtVSFK+EZVbdEF1dtoawXxaWfu9m3mCgDwZO0lG0K0Rb9/jyMZtQoHMTIvXXgs28agXdjJUQUFgUdqW5j6CBlMTzJRavcpIbF8OtvOxgemiEK/iQjVA1RE9aE28fU52NPTXAPSybqQgJNbcHdsJG38jS3fRYehbTLTemCc9Cf6H2lMwCb68Mx+JD+hF6bCnEK1j+qkZUL9jNtHob6MJTmTqWJ54Y7EPh5ZaTRRmg/LjqmWOfhh/upthqzPNBu+WPUt25TkTrF25BrXo9b8Rxaz7N+rci8EEtNDgW1pBScYn5EBBW+OgjUYRG8/uqvHDiAPMECh6rG1oeGiO2zCghld3MQydcNVYgTFiDcJ2BtAxE+u4RglsVJZGv0MpPP1weQcweoPuSJghZZlgc75J06JZlc6lnIFxKhZt2FRd7y7QCbfY0meE7nnzpph/26gwrZQnaNmAujB9ralN83jrwsdwgmYmUsdH840W/UBmSnu0f8Nwy78DEGsqWdbtldw==;7m6PJBmXp1bjLCq3l/EeEw=="
+secured: "nX7H9pcb0FRcdwZkSOVT969R8UqBIPbcmiwoYvmFZ/VucpfdnmlsUNssfr8JlVQ0VI1g2doIbB8d5TaqkcaREwlGJnJOpHHEMlt3G2z7ddXWz+6X4gKNOA6FXezmEcvOWfTps+HEIwVIv9eb0pz2iDlhEqE8oltQDr/UZgq0IEgv/h0jQQRnoQKkgtTK6jNZ4ZUkk8SMkNR97ySyIdabkJjf93qcc9e+m7kiMRPLovCjsPdSfGkkJxFcCmGYUlj29oYpnhzkoiogUQ/DdEmIl83Osz0xRwr5CjLVGxEWSqMyVtNw7TUxgs/nXrdzBGXOuxkoI72GUns3/KhIYy/fd87vSpMBUzhYPgY6nMJC0qc=;+CBW5Rf3Kv1ECL9yWKk5UQ=="
 ---
 

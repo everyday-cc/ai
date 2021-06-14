@@ -144,17 +144,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Google has used AI to gamify the design of computer chips"
-    excerpt: "Google researchers have found through the development of an AI model, the technology could design the layout of a computer chip faster and more efficiently than those designed by humans."
-    publishedDateTime: 2021-06-09T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Google Claims Its AI Tech Can Design Computer Chips Much Quicker Than Puny Humans"
     excerpt: "Google has decided to use AI to design microchips for its next generation of Google Tensor Processing Unit, and it can be done in 6 hours, whereas humans take several months."
     publishedDateTime: 2021-06-10T18:32:00Z

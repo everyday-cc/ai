@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-med
 webUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI can generate fake reports to fool the experts"
+    excerpt: "There is growing concern about misinformation spreading in the critical fields of cyber security and medical research. Read more at straitstimes.com."
+    publishedDateTime: 2021-06-13T21:47:00Z
+    webUrl: "https://www.straitstimes.com/opinion/ai-can-generate-fake-reports-to-fool-the-experts"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/13/md-fake-130621.jpg?itok=yP6yiZ1O"
+        width: 763
+        height: 509
+        isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"
     publishedDateTime: 2021-06-13T13:00:00Z

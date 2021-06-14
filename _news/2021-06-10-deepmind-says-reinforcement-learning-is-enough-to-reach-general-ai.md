@@ -147,17 +147,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Google has used AI to gamify the design of computer chips"
-    excerpt: "Google researchers have found through the development of an AI model, the technology could design the layout of a computer chip faster and more efficiently than those designed by humans."
-    publishedDateTime: 2021-06-09T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Google Claims Its AI Tech Can Design Computer Chips Much Quicker Than Puny Humans"
     excerpt: "Google has decided to use AI to design microchips for its next generation of Google Tensor Processing Unit, and it can be done in 6 hours, whereas humans take several months."
     publishedDateTime: 2021-06-10T18:32:00Z
@@ -326,6 +315,6 @@ related:
       domain: natureasia.com
     quality: 35
 
-secured: "wB7ooWZqnDOL/MIcEObR2pYU4Vx79Xp9pMm1liPZUsVNq3Z6k6HFmPrN6mjUJxwqaz61nXicx0yyYJHavUABkiuAE6dUa8GNgH6MCARNn4k0mDJDlkPV2QxF7zFl8G/Jk+EneTaCULN47h8v8vwWt7VMWfkL3NCuX2It8UidJAkboZUktFTmDVZ+4+1HsvgZb81MVBrx/4dqfK0hlxrqqscdbRT4pv7fb4Ap5z44aRAEKqx6QJjIutPB9Y7phndA2QzrgPz28pkZSWh3EXeNDnMNDX58+/iGmLk5wcRTgGk4oePFgJ6kZyoLchVwg9+/PY5lZmssOaxseRvssKJ3cciSDm3q7fw1tDTRDdXOZSk=;RbpE1FMYlSZ2e0YWWAVNBw=="
+secured: "bv8BLbG7EdD1hUFXjwl1tkVbzx5K5w2pQyJn43pE/p99H+d9ZWR8fngBPS4KKqEsVKtir54ARhfYgd7WjBBSAxXuhkS0DdU35ilpHHCWXEKPKdhvwfGK79Ig0AFa7w63vhN1Tc95CVEX8lfKBhAMcn8jG1j59O0wHpWGSGioR9HphIIRJwVSkauvIIoW0EE+HBrmQ2ddu8hDpuKtJ1CD1MPA5+t6OCHFqPfRLfvPW38EiISXoTdh5+pE7EDxqsZs6AR98TMzztB6v54KHjxIlpzf+ouyWqq6QJ/abH01QgVIYb1J0GBJ9Y6cVKULwgz8wJNWGm/d05MbneGp+EeLx+Jz63M1350iA43tsqjirJ0=;1vWKH53rwPIs0CocAF2BnA=="
 ---
 

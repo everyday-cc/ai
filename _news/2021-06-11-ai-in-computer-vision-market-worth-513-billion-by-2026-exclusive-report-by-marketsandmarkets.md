@@ -79,22 +79,6 @@ related:
         width: 1050
         height: 600
         isCached: true
-  - title: "Voice Recognition Market: Emerging Economies Expected to Influence Growth until 2026"
-    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2024 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
-    publishedDateTime: 2021-06-09T06:33:00Z
-    webUrl: "https://www.openpr.com/news/2301143/voice-recognition-market-emerging-economies-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301143/voice-recognition-market-emerging-economies-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/U/6/U609941609_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
     publishedDateTime: 2021-06-10T04:44:00Z
@@ -124,6 +108,6 @@ related:
         height: 630
         isCached: true
 
-secured: "p30o2rhsEVueX27gFhl+Ac0/iFL3SzJbbxGeA0mjiiPZFXzbHH/rOufY8hzqJzWoiDH0BzdyeN7Pm9Qh60XhfTDdSN+RE4O1Lps9iUG+e9JUyN/LGo+TxAUh5NwERtahlm7IaSIXFDhtqAGanWjQDojTKlMcpHEorXKv+9lqVeXeGKX6JrKqjlig2xHX8yYHOmtCnozAXERnp8FltGpaPeC0FwKIJRFJk7b8dbNTSzxHhklV7oEDWaYmALu82zG93pxsID598JXUoY9wNtp69+UktjqnASzVSb6j9eN290f/BsDU1aSXRCP7JZORDxC1Rg8b/juNlYzJe1UCcLv+hymTUgD1Ofugfz4afw0VpzU=;Fo72Lhn396ExO4TL5Oj7cw=="
+secured: "ubFqr7X4uajrt5eJahhdERRVc2NvDAdVV/nRn1VZPUxWFkiW2KbGatqgOogxuBtRqKQ1nCtmxtI+RHJA3W96u3Vbj9ioYcWfdHJzv4AQhtoL+hz4UUO0qKNXz8SZ5Op6maHeFW27XQtQssLA404KokxlTuZfO8I53Iy4I0ThPqxUCYqdznQjfCpTyDxItZZUsQyNP/scS0ylaMrqrxc80PQhGy4uvGeckoVoFbgEC/Wb26D0629euje0QSvIE5gxKOzjk4IYhLbBPFCHoy7NMN484wCAekJ2/iKBvvhmhQk/VV8LQB3zQ7MaXvzzizUxIEEic7ZNZmH2CPtXRtRthsH4Q3Yn21MRk247t3VmGhs=;5Nx8VnpwJ7F5e13l2rF6Rw=="
 ---
 

@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI can generate fake reports to fool the experts"
+    excerpt: "There is growing concern about misinformation spreading in the critical fields of cyber security and medical research. Read more at straitstimes.com."
+    publishedDateTime: 2021-06-13T21:47:00Z
+    webUrl: "https://www.straitstimes.com/opinion/ai-can-generate-fake-reports-to-fool-the-experts"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/13/md-fake-130621.jpg?itok=yP6yiZ1O"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Special operations experience is at the core of this cybersecurity startup"
     excerpt: "Culture matters. \"Quiet professionals that let results do the talking is oftentimes the antithesis of how Silicon Valley company operates,\" Horizon3.ai's founder says."
     publishedDateTime: 2021-06-09T14:54:00Z

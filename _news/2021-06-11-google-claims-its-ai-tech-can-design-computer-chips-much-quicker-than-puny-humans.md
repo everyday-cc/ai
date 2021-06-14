@@ -151,17 +151,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Google has used AI to gamify the design of computer chips"
-    excerpt: "Google researchers have found through the development of an AI model, the technology could design the layout of a computer chip faster and more efficiently than those designed by humans."
-    publishedDateTime: 2021-06-09T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-has-used-ai-to-gamify-the-design-of-computer-chips/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "DeepMind says reinforcement learning is ‘enough’ to reach general AI"
     excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from ..."
     publishedDateTime: 2021-06-10T05:58:00Z
