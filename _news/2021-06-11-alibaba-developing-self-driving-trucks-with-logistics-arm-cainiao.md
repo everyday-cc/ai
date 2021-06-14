@@ -57,6 +57,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao"
+    excerpt: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ..."
+    publishedDateTime: 2021-06-10T04:27:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side"
     excerpt: "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year."
     publishedDateTime: 2021-06-10T18:29:00Z
@@ -86,20 +97,6 @@ related:
       - url: "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2021/06/15-7.jpg?fit=959%2C539&#038;ssl=1"
         width: 959
         height: 539
-        isCached: true
-  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
-    excerpt: "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng Li, chief ..."
-    publishedDateTime: 2021-06-10T05:08:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14985580/16x9/991/557/348d4a21b4c91d2ba3e7633fc6d2a77d/tM/alibaba-group-cto-cheng-li-attends-the-global-smart-logistics-summit-in-hangzhou-4.jpg"
-        width: 991
-        height: 557
         isCached: true
   - title: "Alibaba set to roll out self-driving delivery trucks and robots"
     excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"

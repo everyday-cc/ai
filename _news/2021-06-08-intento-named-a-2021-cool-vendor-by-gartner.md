@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intento Named a 2021 Cool Vendor by Gartner"
-excerpt: "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ..."
-publishedDateTime: 2021-06-07T18:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500788"
-webUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500788"
+excerpt: "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,"
+publishedDateTime: 2021-06-07T20:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500793"
+webUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500793"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "KMuOp0ftacRT5e5Q3gxtASEEeSgvSsc1C4wkC4vnHUmWFGj77vCDN15XbYPVx06Iu/3yEXUCaI1e1+4MIENXvYEzgp1oPn4ilS9uZGRU+SH3AW5xd/5ITGbJPR3I5fR8jVQSf9gANurKkflnudiKdTWOXbSueBnYcFY5gSJZNUwI1IGGytGVTWkOovOj9AFcPZC7SkrZHM0x/yPIcXV6jEeHvjhaV0wgI/Rnz6D0AInW8jwTOc3RAa397k0BkKP7mwSWwINHuxgTCfeR339oSFldfv6a3lkQ6f0qKPJFjfb/ayAOpxlKG0dSweq6sl9a9W0SzQykJb8NoNaDCs7oYRBmjjheHvIvvtce/JabLdE=;MGHXO7I73wzo06hn08TboA=="
+secured: "W8r/qDN8BJzg+YZL4s1e4IlQThfSEUI4WnkNIuac8xl1R1r46Rtoc/zu6KEJgsoZYfY6YkFpAiZ0+XB5SH5v7jjzuru+10sTeyArlwKKQF638gcwt90xyvz1+67pgKxusucLF13EpfapS+kTINSUIqOz2tXsyXrvYnZuCkZN5Uyj9LuDQuMOJ/8itNtndSJg9rczO2T/4btLqRUv9G4dnjSgFgFUCsit4tsiulfGsSKoxRt2Wffp5+SR97F4KAGBXRmoCzptSAWd4hvQnf678eJmqvg6NIyAxhKT6vgs4xBi9/p48F+4+KNfwkQ1uTdPbs644H8CzoOhL9kh+uVn0v+kzU6WyNbU/tJ3mpH6HZA=;vP1YrICUkZ0FYoNeZVxeFg=="
 ---
 

@@ -39,17 +39,6 @@ related:
         width: 2700
         height: 1413
         isCached: true
-  - title: "Watch Now: T.E.D.D.Y. self-driving shuttles at Yellowstone"
-    excerpt: "Yellowstone National Park has unveiled \"The Electric Driverless Demonstration at Yellowstone,\" or T.E.D.D.Y., an automated shuttle test that could one day be expanded to reduce traffic in popular area"
-    publishedDateTime: 2021-06-09T23:51:00Z
-    webUrl: "https://billingsgazette.com/gallery/watch-now-t-e-d-d-y-self-driving-shuttles-at-yellowstone/video_e95a368e-cd9b-573a-aac3-25369108e596.html"
-    ampWebUrl: "https://billingsgazette.com/video/watch-now-t-e-d-d-y-self-driving-shuttles-at-yellowstone/video_e95a368e-cd9b-573a-aac3-25369108e596.amp.html"
-    cdnAmpWebUrl: "https://billingsgazette-com.cdn.ampproject.org/c/s/billingsgazette.com/video/watch-now-t-e-d-d-y-self-driving-shuttles-at-yellowstone/video_e95a368e-cd9b-573a-aac3-25369108e596.amp.html"
-    type: article
-    provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
-    quality: 24
 
 secured: "oufL/ptkdOyyluHCOTJEZ9ICtnBzkQSMww7hp8gt//JS8wCmOmJusqRIfLWtTQ/rUXlGZuCSPbNe6AhDfuPeyK4oog9x0J9uMq1hxA7bLhn9cnekDi9lB4BKtkAWqKGywePbx4uDsC027Kr5sHa3jYWkh1H8sJXgh+zKh0qL9cLPAVH+k7gRFdmySyLa04pJc4h6mEMw03RPguxUXN/MI11alaZq/Y9yrXGRobpO7np8K2TVE8Rwx+qqiB+uGa5tuqpILNpfO/pux5wjJyHyjqB0//S8ZLJY2wbJ60TJlDn4saSZ+XkR4j64HaBevskwWRB//KrsRF4Ab8n4m77xDpTbxd/x/xcoAsMu+8YqOEI80MbmylTnRjz0zw+fzNMPdx99wLw/zpjaVlpvaa+1/SlcfGTztiZ55O0mKk3eDN85MCDS97Ghwa0VH4f8/97uNpVF8R0fEJTXPH/GZpLVjY1QfuVRmCDi912hrQXqpAxsTwkSrR/UCoPcaPHlGPd/Tvl0gO+dqv2f1Jb2ekuADg==;hFNW9eqsFGyms04UInf8gQ=="
 ---

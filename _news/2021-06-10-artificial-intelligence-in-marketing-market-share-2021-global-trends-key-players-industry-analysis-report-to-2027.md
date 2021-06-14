@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cooking Robotics Market: Global Size, Share, Growth, Overview, Opportunities, Top Leading Company Analysis and Forecast till 2028"
+    excerpt: "Research Nester has released a report titled \"Cooking Robotics Market - Global Demand Analysis & Opportunity Outlook 2028\" which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
+    publishedDateTime: 2021-06-14T15:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cooking-robotics-market-global-size-share-growth-overview-opportunities-top-leading-company-analysis-and-forecast-till-2028-2021-06-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Analysis Market is slated to grow rapidly in the coming years"
     excerpt: "This research service provides a strategic analysis of the Cognitive Analysis Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,"
     publishedDateTime: 2021-06-10T16:47:00Z

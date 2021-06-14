@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Service Robotics Market Covid-19 Impact, Growth Rate, Size, Demands, Trend, Key Players Analysis and Forecasts to 2025"
+    excerpt: "The global service robotics market was valued US 20 4 Billion in 2020 and is expected to show significant growth during the forecast period Service robots have witnessed widespread acceptance among various professional and personal applications owing to benefits such"
+    publishedDateTime: 2021-06-14T16:51:00Z
+    webUrl: "https://www.openpr.com/news/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
+    ampWebUrl: "https://www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
 
 secured: "G7MbHQ9Aqh5fvmFMJa7YDmWlLYT1a60qEFnn25lCOhN/8kuSrV/qQbsEyBl99a4Zjf1DW6HtU2LKIebElCMyYB74BjT5k2budZ53XTNlC8ANhl/TMZfGOK/FpiTohqP2ePl2TKyJaFDHA6TI6CW1jF0JKjgbM5KU9eRtiQv7fEXt4mcbB/9pLK0rLIBcqXnwNbZywMm597647ICZgXY+Ugh/Q1ZOSCtZXDKQutg5nFI4fNsB/BBmWF95oyPkwGF/rpMGWigZiIxgzGfZj7SclqEH+MIijdjyGNcJhKx0DpjsTUEHYhiPI9zrvnrDSA9Xv3PQx6yGfg0ubUB65NFFgMEIEIh/Eon7waPpYHy/u34=;F2XUajJz9nirtvJlRe6VgQ=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cooking Robotics Market: Global Size, Share, Growth, Overview, Opportunities, Top Leading Company Analysis and Forecast till 2028"
+    excerpt: "Research Nester has released a report titled \"Cooking Robotics Market - Global Demand Analysis & Opportunity Outlook 2028\" which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
+    publishedDateTime: 2021-06-14T15:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cooking-robotics-market-global-size-share-growth-overview-opportunities-top-leading-company-analysis-and-forecast-till-2028-2021-06-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Marketing Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Artificial Intelligence AI in Marketing Market was valued at USD 5 billion in 2017 and is projected to reach USD 400 9 billion by 2025 at a CAGR of 29 during the forecast period Major factors propelling the growth of"
     publishedDateTime: 2021-06-10T09:40:00Z

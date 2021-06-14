@@ -81,6 +81,20 @@ related:
         width: 702
         height: 677
         isCached: true
+  - title: "Huawei wants to have autonomous cars on roads by 2025"
+    excerpt: "Apple, Amazon, and Google, are among the many tech giants looking to launch self-driving cars. Chinese alternatives such as Baidu and Alibaba have also been testing autonomous vehicles including long-distance trucks and local delivery vans. During an ..."
+    publishedDateTime: 2021-06-14T16:04:00Z
+    webUrl: "https://iottechnews.com/news/2021/jun/14/huawei-wants-to-have-autonomous-cars-on-roads-by-2025/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 24
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/06/huawei-self-driving-autonomous-cars-2025.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "NjtnSsIvS6GqoJ784XnpKmyHdaJd7rTtmVSV6dIVx6m97MOMJTh3p2uqvbaIqnAm0lFuFEAOm94ubCkZ9jH3m8mq/9wBeFDroKTtOb13vmeuQ+9HHIilHFyl8F8Jmuv24AFbc3kYOKqCeHrqkYhtMaP5VCqMj1ondtJFarsSEBMEKwVuH8pBoHCO3AZk1g3IoaTfDgOgkXjv3sMbb3AiqJQu6gxeOGF0D2oW7kotxdSHn0hIQDHlU/51QZQmCGWB4wQy8MUpmsa1kdD1q0kWJUBohYMygoWROG0xAa7v8RGPFn/oU73cAixhW2G8BG0xe+426WpBCasKhdh0G9B1CzQbnrwHyhuXfPSiCU2AzfWOHXql2ZNqz/nothUveZjrcLW4lXgcNJLsFxAr100bukrE8Q8zJ1WQkmiPDG2KfbyTtOmR1eLfF9t93OQ4o4k47mjk+uGJxsJhKZWu7/tproHbNW+kqym6sUO6EslcuxxhwgNaUawNNK0dNTTTo1ebFmwKbFdAmNifVW/tg/N7HQ==;xEwPoMnSiwAY17j3h6UGfA=="
 ---

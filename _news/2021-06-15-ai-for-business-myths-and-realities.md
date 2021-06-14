@@ -1,0 +1,80 @@
+---
+category: news
+title: "AI For Business: Myths And Realities"
+excerpt: "There is a lot of hype around AI, but for a business new to AI, there is little information about how to get started and how to generate the first dollar of ROI from an AI project. We share common myths,"
+publishedDateTime: 2021-06-14T17:02:00Z
+originalUrl: "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/"
+webUrl: "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/"
+ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/amp/"
+type: article
+quality: 87
+heat: 117
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c785a5fb3c0ddc32b7a3f5%2F0x0.jpg"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "How AI is Revolutionizing Business’ Approaches to Accounting"
+    excerpt: "Artificial intelligence isn’t science fiction any more. Innovative AI is currently revolutionizing a wide range of industries and fields. Those who plan on"
+    publishedDateTime: 2021-06-14T06:39:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/06/how-ai-is-revolutionizing-business-approaches-to-accounting.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/06/how-ai-is-revolutionizing-business-approaches-to-accounting.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/how-ai-is-revolutionizing-business-approaches-to-accounting.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 57
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2018/05/0c5b3932e8a3c55634f939b1bee631c7.jpg"
+        width: 683
+        height: 512
+        isCached: true
+  - title: "AI Guide for Businesses Created by CompTIA Artificial Intelligence Advisory Council"
+    excerpt: "As more companies explore the viability of adding artificial intelligence into their business processes, a new resource from CompTIA,"
+    publishedDateTime: 2021-06-10T13:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-301309930.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/320820/comptia_logo.jpg?p=facebook"
+        width: 1400
+        height: 733
+        isCached: true
+  - title: "Artificial Intelligence Market Overview, Merger and Acquisitions, Business Opportunities, Segments and Industry Forecast By 2027"
+    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report"
+    publishedDateTime: 2021-06-10T14:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-merger-and-acquisitions-business-opportunities-segments-and-industry-forecast-by-2027-2021-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "vqiaI1f/xFab4Wg0up7T02MG4nxKbm2m7NM9WhxfVOQMlkPgvZBolUQJZc0DBiu2pKLjRPP6hlwg3pDSOsAlrzTiWptftY78HDBcKzFL/PLjHRdszeqdf972RgHgG7BI7YMsybvb/l1fDXsGSDVSJE8hP63EVtUhoMHYVyHo+AMFVsrhpwjANY5kJc0G5prwWQynmDGgGAd6vSaDVy045BXIkXEVIcUdEpxz2rvzf2QrbHTd8wgN2dsHeqczds5QJMkfjCvCL61rX3xhFVK73edRsUqGx4k0zGvGFwpu4F9iCJuoSm86T3cyD5dyP+hjOcSUStTOW6U67zs5pwnFzPo2u3OjpfODiF7xl/fsPWg=;XBm3Q4ql++UyOkuhJcQ+9w=="
+---
+

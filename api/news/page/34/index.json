@@ -2,6 +2,144 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-05-19-ai-driving-game-changing-competitive-differentiation.md",
+      "title": "AI Driving Game-Changing Competitive Differentiation",
+      "excerpt": "Banks leveraging AI are poised to realize game changing differentiation. Over the past three years, AI in corporate banking has moved from",
+      "sourceUrl": null,
+      "webUrl": "https://www.celent.com/insights/563621451",
+      "originalUrl": "https://www.celent.com/insights/563621451",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.celent.com/system/insights/logos/563/621/451/large/379341462.jpg?1621459448",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Celent",
+        "domain": "celent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-im-not-a-robot-so-why-wont-captchas-believe-me.md",
+      "title": "I’m Not a Robot! So Why Won’t Captchas Believe Me?",
+      "excerpt": "If clicking crosswalks makes your blood boil, you’re not alone. Fortunately, there are some tips that make solving those challenges way less frustrating.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/",
+      "originalUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60a433cd350a66847bed9422/master/pass/Sec_Captcha_GettyImages-90404009.jpg",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/amp",
+      "publishedDateTime": "2021-05-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025.md",
+      "title": "Neural Network Software Market Landscape Assessment By Type, Opportunities and Higher Mortality Rates by 2025",
+      "excerpt": "Snapshot. Thanks to the technological advancements in the field of data analytics, the global market for neutral network software is witness",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/19/neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025/",
+      "originalUrl": "https://ksusentinel.com/2021/05/19/neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.instanttechnews.com/wp-content/uploads/2020/02/9-16.jpg",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus.md",
       "title": "Xilinx and Numenta claim dramatic speed-up of neural nets versus Nvidia GPUs",
       "excerpt": "Numenta, the Silicon Valley artificial intelligence firm founded by Palm Pilot creator Jeff Hawkins, has been able to achieve a dramatic speed up in conventional neural networks using Xilinx ...",
@@ -1032,155 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-cognitive-computer-market-2021-2027-cumulative-impact-of-covid-19-cognitivescale-google-ibm-watson-microsoft-numenta.md",
-      "title": "Cognitive Computer Market 2021 – 2027 Cumulative Impact of COVID-19| CognitiveScale, Google, IBM Watson, Microsoft, Numenta",
-      "excerpt": "Cognitive Computer Market is growing at a 31.58% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/18/cognitive-computer-market-2021-2027-cumulative-impact-of-covid-19-cognitivescale-google-ibm-watson-microsoft-numenta/",
-      "originalUrl": "https://ksusentinel.com/2021/05/18/cognitive-computer-market-2021-2027-cumulative-impact-of-covid-19-cognitivescale-google-ibm-watson-microsoft-numenta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-1-229.png",
-          "width": 502,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-io-2021-being-helpful-in-moments-that-matter.md",
-      "title": "Google I/O 2021: Being helpful in moments that matter",
-      "excerpt": "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/developers/io21-helpful-google/",
-      "originalUrl": "https://blog.google/technology/developers/io21-helpful-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
-      "publishedDateTime": "2021-05-18T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
-      "title": "Google details new AI accelerator chips",
-      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "publishedDateTime": "2021-05-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

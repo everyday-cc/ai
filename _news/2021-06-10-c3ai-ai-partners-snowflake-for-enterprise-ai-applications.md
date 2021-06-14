@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-ente
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "TCS recognized as Leader in Artificial Intelligence (AI) Services"
+    excerpt: "Tata Consultancy Services has been recognized as a Leader in the IDC MarketScape for Worldwide Artificial Intelligence (AI) Services. According to the report, Buyers spoke highly of TCS' breadth and depth of IP and tools to deliver AI"
+    publishedDateTime: 2021-06-14T16:21:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tcs-recognized-as-leader-in-artificial-intelligence-ai-services-121061401532_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-recognized-as-leader-in-artificial-intelligence-ai-services-121061401532_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-recognized-as-leader-in-artificial-intelligence-ai-services-121061401532_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 52
   - title: "OnSolve and Base Operations partner to provide customers with contextual based, risk assessment capabilities powered by artificial intelligence"
     excerpt: "OnSolve has announced a partnership with Base Operations, a risk intelligence company offering street-level threat assessment for global companies powered by artificial intelligence (AI). The partnership creates a new AI-driven risk analysis capability that provides context and relativity to a targeted region before an event,"
     publishedDateTime: 2021-06-10T09:36:00Z

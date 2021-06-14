@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "How Game Theory Automates: From Self-Driving Cars to Fire-Extinguishing Robots"
+    excerpt: "Game theory is an area of applied mathematics that deals with how participants use strategies and logical reasoning to make decisions in strategic situations like games. Game theory and Artificial Intelligence (AI) are implemented in online games and offline games,"
+    publishedDateTime: 2021-06-14T17:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/374068"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/374068"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374068"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 65
   - title: "To Secure Data Centers, AI and Automation Are Key"
     excerpt: "To avoid being next to fall victim to malicious server code, universities and colleges need to secure their data more effectively than ever before. For many universities, this can be achieved through data center automation."
     publishedDateTime: 2021-06-10T16:09:00Z
@@ -58,6 +69,20 @@ related:
       name: securityboulevard.com
       domain: securityboulevard.com
     quality: 58
+  - title: "AI-Powered Automation is Enterprise Automation 2.0"
+    excerpt: "To meet this demand, we are turbocharging automation with artificial intelligence (AI) to enable enterprises to automate a broader set of tasks, as the following examples illustrate: Task elimination targets simple,"
+    publishedDateTime: 2021-06-14T16:27:00Z
+    webUrl: "https://www.cio.com/article/3621994/ai-powered-automation-is-enterprise-automation-2-0.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/istock-1205896326-100892145-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Enterprise Automation Announces Results of Innovative Artificial Intelligence and Data Visualization Research and Development Projects"
     excerpt: "North America's premier control systems integration firm serving the water and wastewater and life sciences industries today announced its most recent"
     publishedDateTime: 2021-06-10T19:25:00Z

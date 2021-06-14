@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-drivi
 webUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://www.totaltele.com/res/image/tech%20stuff/road%20lights.jpg"
         width: 702
         height: 677
+        isCached: true
+  - title: "Huawei wants to have autonomous cars on roads by 2025"
+    excerpt: "Apple, Amazon, and Google, are among the many tech giants looking to launch self-driving cars. Chinese alternatives such as Baidu and Alibaba have also been testing autonomous vehicles including long-distance trucks and local delivery vans. During an ..."
+    publishedDateTime: 2021-06-14T16:04:00Z
+    webUrl: "https://iottechnews.com/news/2021/jun/14/huawei-wants-to-have-autonomous-cars-on-roads-by-2025/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 24
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/06/huawei-self-driving-autonomous-cars-2025.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "self-driving bicycle developed by huawei engineers can operate unmanned"
     excerpt: "with the concept of autonomous driving systems advancing by the day, huawei engineers have now developed a self-driving bicycle that can operate even if it is unmanned."
