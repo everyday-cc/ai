@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/micro-key-solutions-dice-cor
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/micro-key-solutions-dice-corporation-integrated-matrix-interactive-platform-millennium-monitoring-stations-co-2662-ga-co-9763-ga-npr.1623660331.html"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Clinical Natural Language Processing Market Research & Clinical Advancements by 2028 | Artificial Solutions, Verint Systems Inc., NEC Corporation"
-    excerpt: "In addition, production and supply chain delays were also witnessed during the second quarter which poised a challenge to the Clinical Natural Language Processing market, since end-user industries were still not operating at their full capacity."
-    publishedDateTime: 2021-06-11T17:44:00Z
-    webUrl: "https://manometcurrent.com/clinical-natural-language-processing-market-research-clinical-advancements-by-2028-artificial-solutions-verint-systems-inc-nec-corporation/"
+  - title: "Stripe goes beyond payments with Stripe Identity to provide AI-based ID verification for transactions and much more"
+    excerpt: "A number of startups (eg, here, here, here and here) have fashioned themselves as the “Stripe for identity verification”, providing an easy way for developers to integrate ID authentication into a platform."
+    publishedDateTime: 2021-06-14T14:30:00Z
+    webUrl: "https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/"
+    ampWebUrl: "https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/amp/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 2
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Global-Clinical-Natural-Language-Processing-Market-2-780x470.jpg"
-        width: 780
-        height: 470
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
+        width: 1024
+        height: 563
         isCached: true
+  - title: "Digital Identity: Payments Giant Mastercard Finalizes Acquisition of ID Verification Service Ekata"
+    excerpt: "Mastercard revealed on Friday (June 11, 2021) that it has finalized its acquisition of Ekata, a provider of identity verification services that assist companies or businesses with"
+    publishedDateTime: 2021-06-12T23:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 10
 
 secured: "mky00Kr/WtUvVHddPsFxO1nosGPLV9KSIDfpLDjsbK5Uz120icuq4GR/Z7vYqavarmSEi3NXtKKImSRlqoIgXGD8aZQ0JubW4gGc1mmUK8i3G6K/3jID3ZKKLfEs+piTdtAklwdoXNTYHWGQJnx1EIbVRb/HYbBHImoOd1Wzl/oc+RQPzOmDhNvJLLD6tvBrefFpApxeutSpWVTeLiF2IH+UW/9mRHcgQPxVliTsgHGdpq/YQ/kMk9+JhB8W6QUrj8IN+kDA1tQVNvc+SaQ3pfkndsd+72xsY02a3iii/mY72ZDeJh6nTbOSfc0C2THELTWaEanvwLrX8cGn4DiqwlTp4J3rDRR0Q2UruBmsG6k=;wbCJZT71uDUzw73ryEAYRA=="
 ---

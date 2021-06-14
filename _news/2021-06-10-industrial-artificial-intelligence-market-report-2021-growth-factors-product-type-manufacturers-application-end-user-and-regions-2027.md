@@ -84,6 +84,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
+    publishedDateTime: 2021-06-14T15:12:00Z
+    webUrl: "https://www.openpr.com/news/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
+    ampWebUrl: "https://www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
   - title: "COVID-19 Impact on Mobile Artificial Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Mobile Artificial Intelligence Market size is expected to grow at an annual average of 26 3 during 2021 2027 Virtual assistants and bots will become more prevalent and smarter in the near future freeing employees from monotonous tasks"
     publishedDateTime: 2021-06-11T12:37:00Z

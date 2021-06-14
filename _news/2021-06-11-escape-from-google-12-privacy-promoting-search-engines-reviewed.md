@@ -24,6 +24,22 @@ images:
     height: 229
     isCached: true
 
+related:
+  - title: "Escape from Google: 12 privacy-promoting search engines reviewed"
+    excerpt: "Yippy ‘s core business is enterprise search, but it offers a free web search engine too. Originally released as Vivisimo Clusty before being spun out as Yippy, the company touts its use of IBM's Watson AI platform to cluster search results into meaningful categories."
+    publishedDateTime: 2021-06-14T07:22:00Z
+    webUrl: "https://www.computing.co.uk/feature/3084966/escape-from-google-12-privacy-search-engines-review/page/5?p=864718%2527"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 24
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/48e802a/cc056ac5-2e2b-4673-afda-6230413d9e1b/1/Google-push-pages-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+
 secured: "wBjscrouyo1rSoA4Vqa50rAOhvGGBye7l8uId/5T7irxyXtL/LP9vYupNvBBkhfujVJD2TUNPCWStlaexLEhMZMX9wmNsy/VSyUouD78rVuc+trLIv5qYS53HLi+sGp1l3TmWW2uM2ZZ283aehH2GjLeraqRlzDJjETr5KihpltMP6lczOCrDivdtDJLL6VJCT5JOzRl5vGcViuFPSu0cS22xAet4nPc8f4e9K9Nn8GPFwTRO6ukIrcpKPOfeUftLj8FkgvJJrYKjNfixKGlA9IqmNlkhD5H4HbHNkcWvBfG0zGuzju3JJfwZXQEzxnl8F9coMN6tiqfjTzZzl+luiIZULvtqrPzuOwY59mnQ8I=;Afa6z+fFUSCEVau3ZxA7mA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/covid-19-flare-up-predicted-by-art
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Trending: Generate Huge profit due to COVID-19 in Artificial Intelligence in Agriculture Market"
-    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."
-    publishedDateTime: 2021-06-10T11:42:00Z
-    webUrl: "https://manometcurrent.com/trending-generate-huge-profit-due-to-covid-19-in-artificial-intelligence-in-agriculture-market/"
+  - title: "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare"
+    excerpt: "During the pandemic, the scientific community took a remarkable step forward by sharing large sets of public data on COVID-19 with researchers and healthcare professionals engaged in treatments and"
+    publishedDateTime: 2021-06-14T12:54:00Z
+    webUrl: "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 27
+      name: Jurist
+      domain: jurist.org
+    quality: 71
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Research-Report-720x470.jpg"
-        width: 720
-        height: 470
+      - url: "https://justatic.com/v/20210216aa/external/jurist/images/assets/myanmar-coup-coverage.png"
+        width: 940
+        height: 788
         isCached: true
 
 secured: "ZmKxxOuGsKTMXqV/2Dd4ir1pSDZllkFCrNV6fw1tADPzw8Y/q5tm/JamXm82zJ4S7Vv+RdGSAm5TX1qwotEABHMV8WfKIoYRtUjLOZ1r2++Tpoy3ctfirfRyjYTdTRigh7Hxk2No0fCwVbZhLWmoVoGaiNKtNLNljWl26vj/HqsZ7sus/DAUxoUDt9P37JvPrtNBMG1KLidop4lMfvLuHRbueDkPhGeHAnFDyjtjLlZiBq//rDAeVfdWD82isx5JFT1f/2UvDFIPKRyXKTWRc0uKY8VXPNUzcr3KSgbLYsquzossLOLjbW53wbRJShLK+8TC+6zyYVI3Azj4z4T5jVnHGoOcDo1UGrhhr3y/baX6mFrHYEqGheBRrgW8QjeeDdsxG+hetCRSUHY8kQeBmYeSCaxToFMfsAQxovvM3x+DRzCAIEMHRjgPaGywdD3wxJ4I6nGGyjEP5uML4yT3JlF3wAhsHAavhfKrRsI/jc1guP/0umhV3ITq1A51CvORWry+le9QzxBr87yL8nN9Dw==;a+CVrE+78x4ZUHBlFwY3HQ=="

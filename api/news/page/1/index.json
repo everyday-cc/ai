@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-14-stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour.md",
+      "title": "STEM, Artificial Intelligence, robotics, and mechatronics high on education agenda – Ntim Fordjour",
+      "excerpt": "The Deputy Education Minister-designate, Rev John Ntim Fordjour, has reiterated the commitment of the government to invest in the learning of STEM, robotics, Artificial Intelligence Mechatronics, the Internet of Things etc. which are critical skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "originalUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.myjoyonline.com/wp-content/uploads/2021/06/GH.jpeg",
+          "width": 960,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "cdnAmpWebUrl": "https://www-myjoyonline-com.cdn.ampproject.org/c/s/www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "publishedDateTime": "2021-06-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyJoyOnline",
+        "domain": "myjoyonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights.md",
+      "title": "The Station: Robotaxi apps on the rise, an AI pioneer’s new startup and mobility event highlights",
+      "excerpt": "Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from Point A to Point B. Welp, the mobility event is over and we had loads of interesting interviews and anyone with an Extra Crunch subscription can access the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/14/the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights/",
+      "originalUrl": "https://techcrunch.com/2021/06/14/the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Argo-MIAMI-testing-ford.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/14/the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights/amp/",
+      "publishedDateTime": "2021-06-14T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars.md",
+      "title": "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars",
+      "excerpt": "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1262ac06e9d217142d1ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5995%26cropY1%3D372%26cropY2%3D4369",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more.md",
+      "title": "Stripe goes beyond payments with Stripe Identity to provide AI-based ID verification for transactions and much more",
+      "excerpt": "A number of startups (eg, here, here, here and here) have fashioned themselves as the “Stripe for identity verification”, providing an easy way for developers to integrate ID authentication into a platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/",
+      "originalUrl": "https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/amp/",
+      "publishedDateTime": "2021-06-14T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies.md",
       "title": "Enterprise AI platform Dataiku launches managed service for smaller companies",
       "excerpt": "Dataiku is going downstream with a new product today called Dataiku Online. As the name suggests, Dataiku Online is a fully managed version of Dataiku. It lets you take advantage of the data science platform without going through a complicated setup process that involves a system administrator and",
@@ -50,6 +248,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare.md",
+      "title": "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare",
+      "excerpt": "During the pandemic, the scientific community took a remarkable step forward by sharing large sets of public data on COVID-19 with researchers and healthcare professionals engaged in treatments and",
+      "sourceUrl": null,
+      "webUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
+      "originalUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://justatic.com/v/20210216aa/external/jurist/images/assets/myanmar-coup-coverage.png",
+          "width": 940,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jurist",
+        "domain": "jurist.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -345,6 +587,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-14-excel-python-and-the-future-of-data-science.md",
+      "title": "Excel, Python, and the future of data science",
+      "excerpt": "PyTorch, TensorFlow, Python, R, and much more. But the most widely used tool in data science isn’t open source, and it’s usually not even considered a data science tool at all. It’s Excel, and it’s running on your laptop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3620913/excel-python-and-data-science.html",
+      "originalUrl": "https://www.infoworld.com/article/3620913/excel-python-and-data-science.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/02/conceptual_trend_lines_data_tracking_monitoring_analytics_forecasting_future_whats_next_by_solarseven_gettyimages-1213574690_2400x1600-100877726-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3620913/excel-python-and-data-science.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620913/excel-python-and-data-science.amp.html",
+      "publishedDateTime": "2021-06-14T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-webinar-to-explore-impact-of-ai-and-analytics-on-physical-security.md",
       "title": "Webinar to explore impact of AI and analytics on physical security",
       "excerpt": "Benefits include faster reactions and investigation, more reliable detection of risksHow can video combined with artificial intelligence (AI) and analytics bring ground-breaking improvements to",
@@ -574,6 +868,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-what-waabis-launch-means-for-the-self-driving-car-industry.md",
+      "title": "What Waabi’s launch means for the self-driving car industry",
+      "excerpt": "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
+      "originalUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
+      "publishedDateTime": "2021-06-12T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -881,358 +1227,6 @@
         "Google AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-the-hard-truth-why-we-push-back-on-ai-when-discussing-diversity-and-recruitment.md",
-      "title": "The Hard Truth - Why We Push Back On AI When Discussing Diversity And Recruitment",
-      "excerpt": "The processes around recruitment are continuously scrutinized as organizations consciously implement interventions to minimize biases; for example, blind CVs and unconscious bias training for individuals on interview panels are two of the most common examples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c47dead5a2f25eacb4012e%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/",
-      "publishedDateTime": "2021-06-12T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-samsung-jetbot-80-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-launched-in-europe.md",
-      "title": "Samsung JetBot 80, JetBot 80+ & JetBot 95 AI+ Robot Vacuum Cleaners launched in Europe",
-      "excerpt": "Samsung has announced the release of its impressive and affordable robot vacuum cleaners, the Samsung Jet Bot series for the European market. The Jet Bot series starts at 499 Euros for the base model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
-      "originalUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Samsung-Jet-Bot-95-AI.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ufc-263-recognition-rematches-and-revenge-on-the-line-in-arizona.md",
-      "title": "UFC 263: Recognition, rematches and revenge on the line in Arizona",
-      "excerpt": "UFC 263 looks set to deliver a spectacular night of action, with two world titles on the line in front of a capacity crowd in Glendale, Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "originalUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/F4AE/production/_118883626_adesanya_vettori_getty.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "publishedDateTime": "2021-06-12T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree.md",
-      "title": "University of Toronto deep learning pioneer Geoffrey Hinton receives honorary degree",
-      "excerpt": "When you translate a sentence using Google, or ask Siri to send a text, or play a song recommended by Spotify, you are using a technology that owes much to the innovative research of Geoffrey Hinton.T",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "publishedDateTime": "2021-06-11T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ai-dominated-scientific-output-in-recent-years-unesco-report-shows.md",
-      "title": "AI ‘dominated scientific output’ in recent years, UNESCO report shows",
-      "excerpt": "The UNESCO Science Report 2021 discusses AI, robitics, Industry 4.0, and a spike in scientific reserach, patents, and spending.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "publishedDateTime": "2021-06-11T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-can-ai-solve-your-hiring-problems.md",
-      "title": "Can AI Solve Your Hiring Problems?",
-      "excerpt": "So then can AI (Artificial Intelligence) help out? Well, it definitely can. The irony is that many companies are using the technology—and don’t even realize it! The reason is that AI is built into the top online job sites.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c407078098c83d5373a60b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/",
-      "publishedDateTime": "2021-06-11T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-can-we-afford-ai.md",
-      "title": "Can we afford AI?",
-      "excerpt": "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/market-analyze-e1623419360531.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "publishedDateTime": "2021-06-11T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

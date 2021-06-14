@@ -1,24 +1,26 @@
 ---
 category: news
 title: "AppTek Named Among Pure-Play Vendors Targeting Best of Breed Intelligence in New Now Tech Report for Conversational Intelligence"
-excerpt: "\"We believe AppTek's inclusion in Forrester's Now Tech report reflects our commitment to delivering the best-in-class AI-enabled speech and language technology solutions that cover the full spectrum of conversational intelligence,"
-publishedDateTime: 2021-06-09T14:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence-1030507572"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence-1030507572"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today"
+publishedDateTime: 2021-06-09T12:47:00Z
+originalUrl: "https://www.lelezard.com/en/news-19847777.html"
+webUrl: "https://www.lelezard.com/en/news-19847777.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Rq3skydftq2l+++Ii2BpuL1llv4NcMAzljUOQ8GB050Qp8YQVqrKhP+r88WDtVKa3BEerOqnraK8u/thw/yt/radgMmmvN4Lz8S5xgBioNihjcf/egvu8+ZljQ9mT5HOAHdWH7L18AT9usYd6JSPs4LYAGCMSl8QHQX/fBpw/vaqS+p+gvwO1svKDMnygNqMHGdd59TftzEIIi7PCCX0u4/t0hN2lI4zsejX4KkyUfitPoRZjPgDC/Mwh/sVh6C7omPPFH4a5uZ65bRJZ26Jii338oVtLLnyG0/cJ1vBru6vXP6S0TcFll/wpvUBjpJC4ADwFPuNbeLIJx8XDN6GM7zDu7bwgFreWxWPBlT20c8=;f/D7gzPOCPiUkJAJ5VZYFA=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "NUcQuJ0f66412AdpghqS1WAM391jTFG248QeqK+UPTgkOKJDKJsLJPeHrhwnnOQfasbZr3WGAXvqHpH7ZE9w7ew0lbf6yWavOjC0/Pws/22vRtXOKGIdkQASaLnu5IKZ5JXlmk1csm6SsnrhY6Xt6jbOI3tgvrh0BJl3sVZZ5IRi6t6DNryoingJuSbQx92aPam7NuLbihtOBJOQfcy1VHvKglYRe6Sx/PpeYdGQ1qW6vRva7QVXmFBfryz9kWxKuDnbaw4FISn7ZOH7h8cxeeF2TlPdD6MFUgK5MqAfziWCiFWdg3930saUT9QF+XGPJNn9OYHHmWb2gbdEJ0kNwbtrQPLz0Nuf6UJAjcDgpFA=;zsz/JKjc9U7ZutzE6mfwig=="
 ---
 

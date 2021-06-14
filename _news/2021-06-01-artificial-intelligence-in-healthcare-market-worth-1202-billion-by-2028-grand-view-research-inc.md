@@ -1,22 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc."
-excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to"
-publishedDateTime: 2021-06-01T07:35:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21361551/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21361551/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc"
-ampWebUrl: "https://www.benzinga.com/amp/content/21361551"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21361551"
+excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,"
+publishedDateTime: 2021-06-01T07:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
+  - AI in Healthcare
 
-secured: "C92y7MbK0l0ZwsRi4H42TYj4GmUHf69SAYHtonkdJwEuJebSPZ0PioqT+7rJG+hyuTqGqmziuvyehyl+UN2xfTH/G3+Zyn4dfkfazjy29MTekYgw+5gjyh/AFvRSR2/OYPbcYKZpoxZPsczroEoE0Egfq5ErdDM4Zeg+1frlfRzfkgD0rXzW+kEH4BXqIQkhAftPdd/6OYezBpELdjuk8uzthuqReUI26IJFXULN3eRLY7mEABIDm/tXdzXfGzwzYoLigzIAluvdRsZFD8mOSSWnGUG7UCq7lusvU4deKwghaaj8unp63WNc3yh7ugGRsU9QF40ZyjWj98vePTtvabHExovOZ28McoPYKoGA/1w=;6WGz3ZHfvMKD4ZOEEaRDmA=="
+secured: "fpZ+UhiAVRvAchH3jvqKA4OmarWn71IlzV1AtuDk4/hsAe/FKUi1PLsDVByHOxmyJ+AYKdkdx7ejC2J9H/Kge7U2/IC0h0eFVjAs9MweMGAR40xH+tGNZ1iKQGKYC4Ns6DbofWXxy8rzOBnwJ6wF27oDj84WQQzQKo0oz/dDuymMRk0SRsyxAPKlptDf2dFkIfpmXKofPZdWPPpT7l0MwWYjS2OVxzDF+yUhK3r5XTaZfQowbn2v25QCC5yWjkK9yQAYVN9KUpgaE+0fZcbbA7Kz20Nyqp5QKH01yRMvpXUBM2SYcMZx6crYuj+CbOlJW/nsXcics7cxDBGldNs7pvu3lhp4r7vSyAqxl2GJolk=;rs35lL4iZFe2Uu2VXZ//1A=="
 ---
 

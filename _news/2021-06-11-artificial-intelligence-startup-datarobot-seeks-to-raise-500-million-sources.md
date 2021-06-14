@@ -34,6 +34,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
+  - title: "DataRobot exec talks ‘humble’ AI, regulation"
+    excerpt: "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant."
+    publishedDateTime: 2021-06-14T14:50:00Z
+    webUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/"
+    ampWebUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Talent matching startup Eightfold AI raises $220 mln in round led by SoftBank Vision Fund 2"
     excerpt: "Eightfold AI, a talent matching platform, said on Thursday it raised $220 million in a funding round led by SoftBank Group Corp's (9984.T) Vision Fund 2 that doubled the company's valuation since the previous funding round to over $2 billion."
     publishedDateTime: 2021-06-10T08:00:00Z

@@ -35,6 +35,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
+  - title: "DataRobot exec talks ‘humble’ AI, regulation"
+    excerpt: "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant."
+    publishedDateTime: 2021-06-14T14:50:00Z
+    webUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/"
+    ampWebUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Startup DataRobot Seeks to Raise $500 Million - Sources"
     excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
     publishedDateTime: 2021-06-10T19:55:00Z

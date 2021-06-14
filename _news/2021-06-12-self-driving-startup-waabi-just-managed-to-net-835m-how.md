@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndica
 webUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "What Waabi’s launch means for the self-driving car industry"
+    excerpt: "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable."
+    publishedDateTime: 2021-06-12T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/"
+    ampWebUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
 
 secured: "JIvz+u2866XecR7aUHhRq+DTKYt+rJRIVdKf9EQjKF87wmt/uFIg/49jX+2KzJXXFFD41hkfPuXcniNbyHU89/c/Om5TzqmPTMFxUtxElCeF2SAjf+X4VrB5dLXN5r6rhyyN0QYl0w5IShWu83SpY9pFIIBh0f7z8PEc8Eaih+6wxz7hXhDx8hClhmGoXmlnLZc/ghadTR8Mfgm6I/Sdyv1vUtbOgrqd6svzjaeF5+wLgCcDKb2kKmFHbsi8XSoGZlj3iCuP6zFihaLSl3CwPXt46N+LOtQWSPMsV+kQrQAC8A7ZoEkfmpPBUfsSDBZ7UbLffFvJKtSdKyCogqYpUNK0mr7jYOczpejfaT3aflfOtsaGb38nfxVv96E2CNTeZ2w34Kx+S9kU72f/e4MlG3loyQ17dyJnQlZos+PGbZOFE2bbxaFAPtHs4jdLwFVHGW16TkwM4NI7Fv8Ii+Pzx7tgtW0dtLO7KRcJTzJXq6fjl0lk/IlPADB3PcOmoOXSzW1SDr+Bne4f9kJTijmBrg==;RBWPFivkIdq/mktfUcmgrw=="
 ---

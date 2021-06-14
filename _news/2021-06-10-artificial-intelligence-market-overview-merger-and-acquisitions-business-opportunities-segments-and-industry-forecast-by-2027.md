@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-merger-and-acquisitions-business-opportunities-segments-and-industry-forecast-by-2027-2021-06-10"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Daily Crunch: A crowded market for exits and acquisitions forecasts a hot AI summer"
-    excerpt: "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
-    publishedDateTime: 2021-06-09T22:10:00Z
-    webUrl: "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/"
-    ampWebUrl: "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/"
+  - title: "Artificial Intelligence In Genomics Market 2021 Research on Import-Export Details, Business Standards and Forecast to 2027"
+    excerpt: "The global Artificial Intelligence In Genomics market forecast for 2020-2027 tracks the latest market dynamics, such as concluding factors, restrictive factors, and industry updates such as product innovation,"
+    publishedDateTime: 2021-06-10T15:27:00Z
+    webUrl: "https://ksusentinel.com/2021/06/10/artificial-intelligence-in-genomics-market-2021-research-on-import-export-details-business-standards-and-forecast-to-2027/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 26
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/Generic-WP-Header.png?w=680"
-        width: 680
-        height: 383
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/05/Market-Research-Outlet-Research-Report-2021-1.png"
+        width: 896
+        height: 411
         isCached: true
 
 secured: "YqJ4lZLmFwc3xnzNByusfBtC8RMMORKsiycxI5bDbYg793xidsYO3OOaZ3i5FOg9gkpWnXA7vRuvpu2EfanPNzSLp4dECz6vpORR7R/K+AkW20nFTyBLQEXWB8YGYonKEOmZHaRIkdl7dvUgW8DY1gmve+ZnkpC6x4mJx84tNNhbEVF46IDC05+RVd0NB7yyfwZarqGsQdf1g9hYCPb1wtl4iV7fr97CYt1368mjTisoabAHL+fW8QN0JFI+FrMK+Ax2rTZozGdpUUlm3ksc8+bsLtOvK6pQbsm+Owa+dCnDWzzXLn3iAolZKVmypkrcfD5vPo1bZ/vs+lXgUGqplFae1kDk4WfpnJdKv+l+uY4=;Dw3q44jjO0wAcm5+Jnj0Qg=="

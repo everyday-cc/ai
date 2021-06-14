@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automotive-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Machine Learning as a Service Market 2021 Research Objectives, Major Competitor and Strategies Regional Outlook by 2026"
+    excerpt: "MRInsightsbiz has published a new report titled Global Machine Learning as a Service Market Growth Status and Outlook 2021-2026"
+    publishedDateTime: 2021-06-12T04:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269855745/global-machine-learning-as-a-service-market-2021-research-objectives-major-competitor-and-strategies-regional-outlook-by-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 13
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623507578758.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "z3kDgFOL7H+Ka95QJTgro4DyloCK42TmsnWCBjN3TCra3ilEqiW/SFKB3whwA+GNOLiE3HQBCJFe9KerwQY/cC731jhUEr6jq0uoQUG22ri2lrkHgZNNA1Yrs4FA8ezJ1JR8ir0BSTRUvPX8Qqew9eoP29Z0WzfABZfK+E4YF9ITvVaLOhdsh75X+TmF4cLPko2/Ki9X9IW2tqlcEGAMfUE5QJtPINSOTkc4eHFlicngJXn7zzP0T6LCm1aOcDt0JQ7becb0CJGbK0ErdPhTb9uzj4J9KSHz5qw4eit47vSmS0CdJkkknH0IlvgR1R+joCX/KUlARuV4NJE2K7ShkCUZux0RiDOfemgt/qKh8Wg=;cXkx3QobJiUAK4RiN63ndA=="

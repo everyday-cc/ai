@@ -267,34 +267,34 @@
     {
       "path": "_news/2021-06-09-apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence.md",
       "title": "AppTek Named Among Pure-Play Vendors Targeting Best of Breed Intelligence in New Now Tech Report for Conversational Intelligence",
-      "excerpt": "\"We believe AppTek's inclusion in Forrester's Now Tech report reflects our commitment to delivering the best-in-class AI-enabled speech and language technology solutions that cover the full spectrum of conversational intelligence,",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence-1030507572",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence-1030507572",
+      "webUrl": "https://www.lelezard.com/en/news-19847777.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19847777.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T07:38:00-07:00",
+      "publishedDateTime": "2021-06-09T05:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1067,7 +1067,7 @@
     {
       "path": "_news/2021-06-02-apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies.md",
       "title": "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies",
-      "excerpt": "a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing ...",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program.",
       "sourceUrl": null,
       "webUrl": "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html",
@@ -1089,7 +1089,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T05:43:00-07:00",
+      "publishedDateTime": "2021-06-02T05:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",

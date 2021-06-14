@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-14-stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour.md",
+      "title": "STEM, Artificial Intelligence, robotics, and mechatronics high on education agenda – Ntim Fordjour",
+      "excerpt": "The Deputy Education Minister-designate, Rev John Ntim Fordjour, has reiterated the commitment of the government to invest in the learning of STEM, robotics, Artificial Intelligence Mechatronics, the Internet of Things etc. which are critical skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "originalUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.myjoyonline.com/wp-content/uploads/2021/06/GH.jpeg",
+          "width": 960,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "cdnAmpWebUrl": "https://www-myjoyonline-com.cdn.ampproject.org/c/s/www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "publishedDateTime": "2021-06-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyJoyOnline",
+        "domain": "myjoyonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-samsung-jetbot-80-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-launched-in-europe.md",
       "title": "Samsung JetBot 80, JetBot 80+ & JetBot 95 AI+ Robot Vacuum Cleaners launched in Europe",
       "excerpt": "Samsung has announced the release of its impressive and affordable robot vacuum cleaners, the Samsung Jet Bot series for the European market. The Jet Bot series starts at 499 Euros for the base model,",
@@ -262,7 +306,7 @@
       "originalUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1397,50 +1441,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-tesla-ai-process-driving-images-10x-faster-than-humans.md",
-      "title": "Tesla AI Process Driving Images 10X Faster Than Humans",
-      "excerpt": "Andrej Karpathy, Director of artificial intelligence and Autopilot Vision at Tesla, says that the cameras and AI used by Tesla can process visual driving data",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2017/12/7180bfad19f2195c59f8a445e080234a.jpeg",
-          "width": 1600,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
-      "publishedDateTime": "2021-06-02T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

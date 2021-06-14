@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-
 ampWebUrl: "https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/04/mit-ai-final-2-SA-web-e1623352983127.jpg?w=3000"

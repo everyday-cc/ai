@@ -2,6 +2,266 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-09-anti-money-laundering-startup-intellewings-raises-100000-in-seed-round.md",
+      "title": "Anti-money Laundering Startup IntelleWings Raises $100,000 In Seed Round",
+      "excerpt": "The Panchkula-based startup will be utilizing the funds to advance its product, EYE, a product based on machine learning to help regulatory firms with anti-money laundering compliance needs",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/374119",
+      "originalUrl": "https://www.entrepreneur.com/article/374119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623251717-dollar-2891817-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374119",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374119",
+      "publishedDateTime": "2021-06-09T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips.md",
+      "title": "Google used reinforcement learning to design next-gen AI accelerator chips",
+      "excerpt": "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-06-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-the-pandemic-and-its-implications-on-industrial-machine-learning.md",
+      "title": "The Pandemic And Its Implications On Industrial Machine Learning",
+      "excerpt": "For a moment, let’s set aside the abject tragedy of the Covid-19 pandemic and the demoralizing conditions through which the world continues to persevere. Instead, let’s examine the state of affairs from a dispassionate and scientific position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/",
+      "publishedDateTime": "2021-06-09T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people.md",
+      "title": "When It Comes to Money, More People Trust AI Than They Do Other People",
+      "excerpt": "Oracle released its Money and Machines Report 2021, and after a year during which we've seen some people work against the collective good, it looks like AI has emerged as a more trustworthy choice when it comes to managing finances.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "originalUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/w/when-it-co/when-it-comes-to-money-more-people-trust-ai-than-they-do-oth_k1aq.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds.md",
+      "title": "The pandemic led to ‘significant’ increase in AI adoption across manufacturing, survey finds",
+      "excerpt": "A survey commissioned by Google Cloud found that the manufacturing industry's use of AI increased 'significantly' due to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory-e1623189788805.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-pandemic-led-to-significant-increase-in-ai-adoption-across-manufacturing-survey-finds/amp/",
+      "publishedDateTime": "2021-06-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-xilinx-readies-versal-ai-edge-for-2022-availability.md",
       "title": "Xilinx Readies Versal AI Edge For 2022 Availability",
       "excerpt": "Versal AI Edge Design includes a new AI Engine that doubles performance with 8-bit integer math and offers reconfigurable logic for vastly more flexibility than ASICs,",
@@ -50,6 +310,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence.md",
+      "title": "AppTek Named Among Pure-Play Vendors Targeting Best of Breed Intelligence in New Now Tech Report for Conversational Intelligence",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19847777.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19847777.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -887,320 +1190,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler",
-      "excerpt": "Data preparation remains a major challenge in the machine learning (ML) space. Data scientists and engineers need to write queries and code to get data from source data stores, and then write the queries to transform this data, to create features to be used in model development and training. All of this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/22-4153-menu_1.jpg",
-          "width": 700,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T09:12:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks.md",
-      "title": "ISEE brings autonomy to shipping yards with self-driving container trucks",
-      "excerpt": "Robotaxis may still be a few years out, but there are other industries that can be transformed by autonomous vehicles as they are today. MIT spin-off ISEE has identified one in the common shipping yard,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/",
-      "originalUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/ISEE-Yard-Truck-Group.jpg?w=1024",
-          "width": 1024,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/amp/",
-      "publishedDateTime": "2021-06-08T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-who-won-the-latest-ai-drag-race-aws-or-nvidia.md",
-      "title": "Who Won The Latest AI Drag Race? AWS Or NVIDIA?",
-      "excerpt": "There is a quiet drama simmering over AI chip benchmarks. This isn’t the first time, and will certainly not be the last. Keeps me busy. This time, it is between Amazon Web Services (AWS) and NVIDIA. It is always NVIDIA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609be739b8030e51b55f606a%2F0x0.png",
-          "width": 627,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/",
-      "publishedDateTime": "2021-06-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-foundations-of-trustworthy-ai-how-mature-is-your-ai-governance.md",
-      "title": "Foundations of trustworthy AI: How mature is your AI governance?",
-      "excerpt": "As organizations scale their use of AI, they increasingly need to do so in a responsible and governed manner. This is driven by many complementary forces: brand reputation, anticipated regulations [1,2,3], AI complexity, and social justice. Each of these alone would merit the need for AI governance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_implement-governance_2000x1000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T08:30:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-can-ai-and-cloud-automation-slash-a-cloud-bill-in-half.md",
-      "title": "Can AI and cloud automation slash a cloud bill in half?",
-      "excerpt": "Many companies don’t realize how dramatically their cloud spend can increase given that those expenses aren’t charged up-front.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1622706374516.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/",
-      "publishedDateTime": "2021-06-08T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-croatias-gideon-brothers-raises-31m-for-its-3d-vision-enabled-autonomous-warehouse-robots.md",
-      "title": "Croatia’s Gideon Brothers raises $31M for its 3D vision-enabled autonomous warehouse robots",
-      "excerpt": "Proving that Central and Eastern Europe remains a powerhouse of hardware engineering matched with software, Gideon Brothers (GB), a Zagreb, Croatia-based robotics and AI startup, has raised a $31 million Series A round led by Koch Disruptive Technologies (KDT),",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
-      "originalUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Gideon_Brothers_Autonomous_Mobile_Robots_10.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
-      "publishedDateTime": "2021-06-08T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

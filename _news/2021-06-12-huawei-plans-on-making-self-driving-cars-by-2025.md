@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars"
+    excerpt: "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so."
+    publishedDateTime: 2021-06-14T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1262ac06e9d217142d1ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5995%26cropY1%3D372%26cropY2%3D4369"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla is now looking to hire self-driving car test drivers around the world"
     excerpt: "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world."
     publishedDateTime: 2021-06-10T10:22:00Z
@@ -43,77 +59,20 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "What Waabi’s launch means for the self-driving car industry"
-    excerpt: "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable."
-    publishedDateTime: 2021-06-12T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/"
-    ampWebUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
+  - title: "Supposing The FBI Secretly Ran A Fleet Of AI Self-Driving Cars To Track And Ultimately Nab Unsuspecting Criminals"
+    excerpt: "Recent news about the FBI sting operation using an encrypted messaging platform gives rise to other high-tech leveraging for crimefighting such as the use of AI self-driving cars."
+    publishedDateTime: 2021-06-12T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/12/supposing-the-fbi-secretly-ran-a-fleet-of-ai-self-driving-cars-to-track-and-ultimately-nab-unsuspecting-criminals/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 48
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c292f036bb154568861833%2F0x0.jpg%3FcropX1%3D97%26cropX2%3D869%26cropY1%3D23%26cropY2%3D458"
+        width: 772
+        height: 435
         isCached: true
-  - title: "Apple Hires Canoo Co-Founder to Work on Self-Driving Car"
-    excerpt: "Apple has hired Canoo co-founder Ulrich Kranz to help lead its autonomous car project, according to a Bloomberg report. About a month ago, Kranz stepped down as CEO of Canoo, a self-driving electric vehicle startup."
-    publishedDateTime: 2021-06-10T21:39:00Z
-    webUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car"
-    ampWebUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
-    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
-    type: article
-    provider:
-      name: iClarified
-      domain: iclarified.com
-    quality: 44
-    images:
-      - url: "https://www.iclarified.com/images/news/81339/81339/81339-640.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Apple Hires Self-Driving Car Startup Founder and Former BMW Exec Ulrich Kranz"
-    excerpt: "Former BMW senior executive and self-driving vehicle startup founder Ulrich Kranz has taken on a role at Apple working on the"
-    publishedDateTime: 2021-06-10T20:06:00Z
-    webUrl: "https://www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/"
-    ampWebUrl: "https://www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 41
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
-  - title: "Self-driving Cars Market Size to Expand Notable Returns Through 2027"
-    excerpt: "The Latest Research study about Self-driving Cars Market includes some significant activities of the current effective segment overview, for the worldwide Self-driving Cars Market. It presents a point to point analysis dependent on the exhaustive research of the market elements like market size,"
-    publishedDateTime: 2021-06-10T15:29:00Z
-    webUrl: "https://ksusentinel.com/2021/06/10/self-driving-cars-market-size-to-expand-notable-returns-through-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 24
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Self-driving-Cars.jpg"
-        width: 715
-        height: 389
-        isCached: true
-  - title: "Apple hires key executive for self-driving car project"
-    excerpt: "Apple has asked Ulrich Kranz to help develop self-driving and electric cars, Bloomberg, Kranz recently stepped down as CEO of Canoo, a developer of self-driving vehicles. Before co-founding that company,"
-    publishedDateTime: 2021-06-11T07:20:00Z
-    webUrl: "https://www.telecompaper.com/news/apple-hires-key-executive-for-self-driving-car-project--1386347"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "7hralG5HU+0eTWeL7K02NmmlWkx1uh4/ra0qHkvLcrXKi1/CJn5vZOz+F3UgEo6/OOmIakfDE2ZnxXQGLjX8ggtorg6UtnP6uvni9pfddHl3Fg5i7HMfGahKHKYZryb84UAoO9NAP1QYihgDrg2DKcXResxyPyqvInUEVkdOsKXR3FE1RJlpVqBqXpz/z3L4jAK8/tccqQy1/uYgkRJZi4FjAhGPxljEM7p3fjiEWDmmfg8VM29uxBLkCPBusXnQGtlPB06KWbn+l4zPOefmrco+Fd5vBmLi00fEviBLnPtpC2yB+Vxta5sj4ILlB92Qcj3c1QXaoIoeAMljgbm0oI/LTqjEVYLgQXH5x3Qpeu1Mz28ZfMoATkHXy5o3jStxfliYkWtI/1ViZ7KCpRe8zFaL6eJMMQ3f5iFCDBmXFeYyU1a1BiP431DuFVKKC8dB4Gw30Bm+IcF2owyqpj62uQoApvlSOKolnNuZktSr/zJDAUfgXThd+/7GUN00otPA7x8g/SrkEXpqmjQikp/F5Q==;MU2Hyn4AIk2KJ3ArNEgJrQ=="
 ---

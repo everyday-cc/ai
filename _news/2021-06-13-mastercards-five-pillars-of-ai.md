@@ -18,19 +18,6 @@ topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "Digital Identity: Payments Giant Mastercard Finalizes Acquisition of ID Verification Service Ekata"
-    excerpt: "Mastercard revealed on Friday (June 11, 2021) that it has finalized its acquisition of Ekata, a provider of identity verification services that assist companies or businesses with"
-    publishedDateTime: 2021-06-12T23:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 10
-
 secured: "r1tO7mf0ncRSh7Rx9LsFOCoZRROxcqk40X2DMuzeFI7oBP9mdz6akIcVoXEa0g8s7j1ujPElw4rDosgtn4oVkl+chdefxuTFsuIJwM88upfRIJ0V2JMqC7XVatkqFX+qmBZUnxrv2p6x3/S+EsXWB+B4KhwwhAs7xiS8lqtuNSoiWiB3IKogkrsCOvNzSUUHDaenuBKuDVFSHK7ajgiBORF3fAz0hitM6exucJOoPLVDySbL3Vv5ulY7uRGxU/+5WewQcRrEeAvisdb18Q/Q4636VTH3ayF0nmtqcLJFKibIHtMOwFDAk66VhygfImIt2ajyqe4l8yrBoMK1i1KDUAL/jZ/kGyk9zGdMUW0wUeEB6Og9i3cLIbnx4Uhg5dnlDQC898ACQsuRdMTgd64vgpX22H9sIXZJbRcqG6JqrFh8fXF6LaIbHdHp7tkQi1OWIAUHC9LvFQb2sI5qE6MTO+G3zKtzsr3eBnAGZIWLqJtz5x8AQ4uYxPXH3GQcXA9vxdSLD06leQ2gQVfKWnr3Zw==;RKkzWQuc6rb/tFzWeIMoDw=="
 ---
 
