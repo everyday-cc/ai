@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-med
 webUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication"
 type: article
 quality: 67
-heat: 97
+heat: 98
 published: true
 
 provider:

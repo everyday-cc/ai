@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 42
+  - title: "Facebook Unveils AI Model That Copies Text Style From Images"
+    excerpt: "AI model created by Facebook researchers can imitate, edit, and replace handwritten and scene text using just a single word in an image."
+    publishedDateTime: 2021-06-14T18:08:00Z
+    webUrl: "https://techstory.in/facebook-unveils-ai-model-that-copies-text-style-from-images/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
+        width: 965
+        height: 543
+        isCached: true
   - title: "AI Can Now Copy Text Style in Images Using Just a Single Word"
     excerpt: "We're introducing TextStyleBrush, an AI research project that can copy the style of text in a photo using just a single word. With this AI model, you can edit and replace text in images. Unlike most AI systems that can do this for well-defined,"
     publishedDateTime: 2021-06-11T16:08:00Z

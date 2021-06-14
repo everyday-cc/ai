@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-underst
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

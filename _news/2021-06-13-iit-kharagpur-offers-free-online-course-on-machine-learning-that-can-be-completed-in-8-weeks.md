@@ -59,6 +59,22 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "NIT Karnataka Offers Free Online Summer School on Machine and Deep Learning for Remote Sensing Applications"
+    excerpt: "NIT Karnataka has invited applications for a free online summer school on Machine and Deep Learning for Remote Sensing Applications"
+    publishedDateTime: 2021-06-14T19:04:00Z
+    webUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/"
+    ampWebUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 41
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "brtsdLtrKXqhv67RXZ+YOojesHJRBd7hf+C84Mr8l/jAElioM6DdJEzV8/8VxS5zf3txMwaU9BcYVZAR/wvuXy6ATVHlUiB3xyDRsoruOWt0a4snpBelY67jl+K+5Y6E2/8lFMbF3P66KIGWft7Tx/gpp4fBNgiO64ri38YQ3mDkpnepW0jOp/A3EU5ydv2TJvWHmzr3enrOlOSS7lqyVMWBmQhmqTqtDZ3E5kMjWqbNrK0pe8Pn/jzHL6cvXoylNXjJukpf5oWBuj8fmJwGBBDl+5I2UA4hOaGYGOFgUQOG0im2eujIN8zMb1kcUGOHnAY+jpNNa7+Xl9hK0rToEaING8QTUURmIz6O7iTIP/X3jhaPiKgY0lO5qqMvSY9qjAn3ifObDomPmafqkFAy4wjLy9NIE4UoiL//+BlDdA0N83rsNmxirX3BtMRd+UUbACORNoqbphgXzlI5vI34HAjA/OUr+76AEuFjcky8JOWzCyHiycE0uzNx0c65KpxAiF1ROK+rIp+MeT9UuVuYoQ==;mSc6dVdWXd60ZlinXcYzJA=="
 ---

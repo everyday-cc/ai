@@ -2,27 +2,27 @@
 category: news
 title: "How Game Theory Automates: From Self-Driving Cars to Fire-Extinguishing Robots"
 excerpt: "Game theory is an area of applied mathematics that deals with how participants use strategies and logical reasoning to make decisions in strategic situations like games. Game theory and Artificial Intelligence (AI) are implemented in online games and offline games,"
-publishedDateTime: 2021-06-14T17:30:00Z
-originalUrl: "https://www.entrepreneur.com/article/374068"
-webUrl: "https://www.entrepreneur.com/article/374068"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/374068"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374068"
+publishedDateTime: 2021-06-14T18:17:00Z
+originalUrl: "https://www.chron.com/business/article/How-Game-Theory-Automates-From-Self-Driving-Cars-16246731.php"
+webUrl: "https://www.chron.com/business/article/How-Game-Theory-Automates-From-Self-Driving-Cars-16246731.php"
 type: article
-quality: 65
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/20/44/67/21122535/3/rawImage.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
 
 related:
   - title: "The Growing Role Of AI And Machine Learning In Hyperautomation"
@@ -97,6 +97,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Yg7t9XPsaQk+ConxrdmiXXHGZ+D9HUZY2ckcG4W0CPYCY+zqrEa716u0tQlJG5uPe83atiEgFANPixvkrQSUPiCHbRy9BNEX9Db4i555wkvDU3hf3ayqS0PzrCcXM/XXlxIeuHyrIC4BL3jzsGKKEm2hl/IQTNx3UpEng257nOCqfg+cKZW9BmMHv2QYF0iec2ez8y0SPKqux7n4X6dY9cDsbDA4lBYTJOHaHehr+n1gO/tKFcNC4emp1HlfsJtu+GwCechoTEdEjuhr6WuHD6T0JAaytgdU4Bok0kkj8tQ+nxE8zpmmCSO10Jy3OAJ3xA8l4Pg8P99Z12KdkCG+zoiMSymUz62T1P0el0yVlz3gxXJIO7YcPZTD/jinwSKhm85+kO33N1NQVk3REyWJ5SG5Rg8wOQYMhxA0X+nmROECz76Ta5uCBhvTift0B5WoWkUYAXht3SmLPppX+MBU8PGlKZbhSZYWvZlhVzDRVco7cKvhU/vooySifX8+zhcUeYFk1ymTzL3eV3/AA8BGLQ==;TLl3rfLS8b3yKjoS3onoGA=="
+secured: "xx19eFcjFPkU91Rfy2PUibfXEsiWb4UY/ZbiA58BIB1FE/iRmHcWekiLy+cYFPZBcJ21/6gs6XIHv9i2LV0Q5kaaBZ/MTRVhYlFSkmvAsDfpTEmxMBepkDnpaSg2y/PORBvwve95o2Xg/4FkOuaJDXdyVgRSytZ9pkuIWWRryT0Mm5eIwHHxrnAYt2+KoFZrSSPmp3oIX3WWhuJ0/UVSitnB8fqiywP2CakJw6Hb6Iu0V5egnZGJ8SSQ/cfAOeamO17Omot7NU8pICzRjsIzhtjgIB3Ak89pYFkmNLTR4VZRTi2Z1VfjctRhsT0OdvRtAo5hq2YYTywksjGkVtCFkP4/N69xcam+k5M5+p6kfq8=;Xi/6MDMGLTdRpQL7+1uA+w=="
 ---
 

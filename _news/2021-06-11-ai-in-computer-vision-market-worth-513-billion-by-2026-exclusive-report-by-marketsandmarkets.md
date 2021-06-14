@@ -51,20 +51,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
-    excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
-    publishedDateTime: 2021-06-10T01:50:00Z
-    webUrl: "https://manometcurrent.com/face-recognition-systems-market-to-eyewitness-stunning-growth-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 39
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Monitor-Featured-Image.gif"
-        width: 1050
-        height: 600
-        isCached: true
   - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
     publishedDateTime: 2021-06-10T04:44:00Z
@@ -94,6 +80,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cDRufN+qi0Z9C+5Vv/tbZJ9C23CKVEScAXn1d88MqJEdDfuiJK384tPzckrKgZhsXhbYLHtmn1x7gj0jYjB8Hgqm5zr9/fQ3v2vEFiqtt2bm7vera8lxm8io23NVHvZV9FYy5x9hFTmUeJBYnaNh79Kll+kulcvvUSMFZzTWMXcoWitdhShz4rHi9fV+sYRGp/EZ7HDV6EGZpetm4qqxpNmRpRK97gVqPK0tK46jdFuqxxmJ2FzBpwveHrBPfLDFVdVORwwLYaO/geimQc14U1BhTa5xvGAIodzMARm+hXRpulevHlrHg4llj8sZXLhohF4qzpzQmE8zlL9hFPJlHrV9kLS7RRI1zwRRPSrLxvY=;qXa3Y0EleA5/VEZ7cRRIzA=="
+secured: "+p5rbiK/YlNfXQV7I4tggr+2bZTFR6b1eupB4vCcS3bhmaNfMTtuxWiype74eY5S80IZw0GPBILQtE5NsWwR5baPt2P9MUZSVphfcngXvClg5CN9N/dSdruijhYrEvkm6C+ZiCOWVYS6q6vHrz1ACjPcOxlit2kJ5NgZ4S+B3wMdELp5hDjpw3Os/JU4hYgYrrlcn+TDF0PcwQUP7PEFCwPaGiQXwqYJiy6S/NlFSRSMKYHBJRHg8rRlfm9WOZi53T/J6Ebtf6ViEBx79N2mSGJtxuzwpe/3h45l2KtuVIrtU2fSvh6v8+RbFQxYZ27gB0/WTFSD8136649ZLFr9/6I/8C09QWA8IBNUqhkso3M=;zv1U6HwCC1GetRoN3SMNnw=="
 ---
 

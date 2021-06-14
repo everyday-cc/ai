@@ -73,6 +73,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "10 European FinTech Companies in the Real Estate Space to Watch Out For"
+    excerpt: "FinTech (financial technology) is a swiftly growing global field that has naturally entered into a significant crossover with the property industry as it continues to revolutionize the way we invest and save."
+    publishedDateTime: 2021-06-14T19:52:00Z
+    webUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/"
+    ampWebUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/06/fintech-real-estate.png"
+        width: 1005
+        height: 575
+        isCached: true
   - title: "Running a fintech from India during a pandemic"
     excerpt: "The experience of running a fintech from abroad during the pandemic has prompted a wider debate on the opportunities remote work may create for UK fintechs, writes Chirag Shah, CEO, Nucleus Commercial Finance."
     publishedDateTime: 2021-06-14T04:31:00Z
@@ -87,6 +103,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Enzyme Replacement Therapy Market to Eyewitness Stunning Growth by 2026 Covid-19 Analysis"
+    excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” Enzyme Replacement Therapy Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2021 COVID-19 Worldwide Spread) “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
+    publishedDateTime: 2021-06-11T09:11:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/enzyme-replacement-therapy-market-to-eyewitness-stunning-growth-by-2026-covid-19-analysis/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 10
 
 secured: "Lj3bM3Qz84muga+m0GHlA6vU5/POwAO+1mXxpKWyEkoFgfARjPGG4qsrA6bT53bqNLVyuQFTKIifJ/CyPViEJ5KJ0naPA4nRvOFvT4ykLtncxVVmdnrrEUVRfgJ1yLrOLjrO8L2Aj/uUam+8MxqBMPszKQFDIy33bFfMdbeV/lh1CXz3oZGTrkIo0e6MRWMIRwt/6iqMeV/hCVeQz2q9mJXkDu1JARxLQdtyETpjMUlbO7weV04j3W3htMn3Wv7FzFroRJ5791NRkWfNhce+Us+oK1xyrUER2rdxLVcGt4viVghNZGQ9lAv+lqqwVjpQtiSDC7fyT9pLNvqUYUZaY4ryFg6O1lf/Z1yc2WNvluRMmi9sVmY2+5+JgBHJcB9lu/C0/WRVDM8oSvbetcSoopPLrW1m8DceZcQmczGlNTbzmfMAx+p0r4i6raFuX1vPeqcDFkuJHE2ZkpoDv8ZCrOW3EBLxl9fj9RDU0KREeVqwMBxTk6HuShSh+MdLoTqE5aRrwpvqoioVIUDcq5bl1A==;L1QbXgf5UtE3dLJUeLXXXQ=="
 ---

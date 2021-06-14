@@ -64,6 +64,15 @@ related:
         width: 480
         height: 306
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021-2027 Business Growth Updates | Top Players – Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-14T16:40:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/artificial-intelligence-ai-in-drug-discovery-market-2021-2027-business-growth-updates-top-players-microsoft-nvidia-corporation-ibm-atomwise/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 12
 
 secured: "ZNfpU78RvOH3iXKszLUn4RR+DlGx6+wsphKEsuW4rTemNsQ4RmzK4QwU+KFXaVkh9zsrkDcd7Ng/ktV9qs9dwEUPie5Gevjk+Vleg7bSqABvJBbvg6k7FRw9v84QoJQAITOVj3mhqFN1L5S4JIO5XOsyYywxN7USmCoJq4ik2RDS8hVjWFAm3L3yJPy/5tjU9RprkV6T8oJfx4p2axxayo5rxrHoFyf3ulJTfj00gxc0nOfo11Yg/scWaMEs0aTcBuAlVDUU4+D58ZFA948IG7CXBa9tnE7Te8Mnl8YT9q90ahdgBIVnulnjpLcDFfkrWKqW5S1zxi3NEgIWw8bL8lj3rAocCieETcVCWvQIVUM=;BmJ43903sjn/+pj+oEpxxA=="
 ---

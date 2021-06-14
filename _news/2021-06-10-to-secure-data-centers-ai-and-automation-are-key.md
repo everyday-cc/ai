@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "How Game Theory Automates: From Self-Driving Cars to Fire-Extinguishing Robots"
-    excerpt: "Game theory is an area of applied mathematics that deals with how participants use strategies and logical reasoning to make decisions in strategic situations like games. Game theory and Artificial Intelligence (AI) are implemented in online games and offline games,"
-    publishedDateTime: 2021-06-14T17:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/374068"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/374068"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374068"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 65
   - title: "Nurturing a Relationship between AI and the Security Team"
     excerpt: "No matter the industry, adding AI technologies to work processes has made a lot of employees nervous. There is fear that automation is taking over and that robots will eventually push out the human workforce."
     publishedDateTime: 2021-06-14T08:50:00Z
@@ -78,6 +67,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/06/istock-1205896326-100892145-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How Game Theory Automates: From Self-Driving Cars to Fire-Extinguishing Robots"
+    excerpt: "Game theory is an area of applied mathematics that deals with how participants use strategies and logical reasoning to make decisions in strategic situations like games. Game theory and Artificial Intelligence (AI) are implemented in online games and offline games,"
+    publishedDateTime: 2021-06-14T18:17:00Z
+    webUrl: "https://www.chron.com/business/article/How-Game-Theory-Automates-From-Self-Driving-Cars-16246731.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 20
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/44/67/21122535/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Enterprise Automation Announces Results of Innovative Artificial Intelligence and Data Visualization Research and Development Projects"
     excerpt: "North America's premier control systems integration firm serving the water and wastewater and life sciences industries today announced its most recent"

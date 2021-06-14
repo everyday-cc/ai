@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortan
 cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Who Is That Mystery AI In The E3 2021 Halo Infinite Trailer"
+    excerpt: "She resembles Cortana but it's not her. So who is it? During the E3 2021 Xbox & Bethesda Showcase, we finally got to see new footage of Halo Infinite. And while we were picking out jaws off the ground,"
+    publishedDateTime: 2021-06-14T19:02:00Z
+    webUrl: "https://www.theouterhaven.net/2021/06/who-is-that-mystery-ai-in-the-e3-2021-halo-infinite-trailer/"
+    type: article
+    provider:
+      name: theouterhaven.net
+      domain: theouterhaven.net
+    quality: 39
+    images:
+      - url: "https://theouterhaven.b-cdn.net/wp-content/uploads/2021/06/Halo-Infinite-Thats-not-Cortana-4.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "Aja0USh9vEuhiHv9sMLUIad6moj5TRKEGP/VWRx7aY/FDw3wrkoy6H7ICrQEKs/7r+M/nFS82oa46veGu7WN4dZi7AoQ7C9SSEpXej4c3FG3TXKgf6tDjzOD8o/2F7wWjbOq1ZAN8uBUmNbDOUfsJ/9RqBPTzoVag4hL+AXX44D3qUqL0dGlV4aAQEr6/wQJlCD9qOERGgbxwkA/GOyK4G1ipaExPV+NWKJ9TnWrmLBQAt05uQOo2xmEIC/GeNMYa7cN2Hcel/fXSHOdml4OIpK7eDJHXQY6tO/LJRjuowK387stmnsvW8sKA0VFD1uvwXHqGVbvt4QSbU2oSc+gSTjK+aNCCTZGQIl7jthstoiK6BFSv7hMzZtnIaawoLtsoTpP4a1gYVLnl/I+lR5kxy4Rw8/b5vSx/CKQxRODH73FyJ+jqH3mynWNI7MuaC83uJ+llolfh0+fOKoyVjn2TB4FKi0fQLyugyNC2usYVt0m27b5WbUDZadOc59ilSfVZQg4HhR062wUcHpFPRl/FA==;+iNLWRTu6XVciU0yco9lzA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -184,6 +184,20 @@ related:
       - url: "https://ummid.com/news/2021/june/12.06.2021/google-ai-chip.jpg"
         width: 790
         height: 530
+        isCached: true
+  - title: "Google team uses AI to create next-gen chips faster than humans"
+    excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
+    publishedDateTime: 2021-06-14T18:35:00Z
+    webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 54
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
+        width: 700
+        height: 535
         isCached: true
   - title: "Google Claims To Be Using A.I. To Design Computer Chips In Under 6 Hours"
     excerpt: "Google claims to have created a deep reinforcement learning software that can produce AI chips much faster than humans can, according to a paper in the Nature journal on Wednesday. “Our method has been used in production to design the next generation of Google TPU,"

@@ -89,6 +89,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 42
+  - title: "Facebook Unveils AI Model That Copies Text Style From Images"
+    excerpt: "AI model created by Facebook researchers can imitate, edit, and replace handwritten and scene text using just a single word in an image."
+    publishedDateTime: 2021-06-14T18:08:00Z
+    webUrl: "https://techstory.in/facebook-unveils-ai-model-that-copies-text-style-from-images/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
+        width: 965
+        height: 543
+        isCached: true
 
 secured: "E5kjF2aEWKbG+Q+GSKkviJMWtWnuk0XztPubkcZR4IOKJ/nfpYsO4mkUmFK5WjZ5oTNCGT87bU73Kl2ithzFhLuDpR1cCtP5YR7c8eKvf0uM8QTC681DUmunJ1WlpC8Z8MoAKPUdAFa6lVDlOS0OuPHp119O4Q1uTBn6pkjVQ5kJAoe3nkngr8IB/yi7aLVDHMULZG8EORNCFJhlMoQCqBiH317dAK47woS94liMgBe5ZnkL8Xd0hX2LUxXGfLedHSBMFVUU/E7K5NTvhZ9sH7uFXG7CfMKAM7T9vvbbFfbWTxv28y1RQ9TBHMmj67NSEkka0KHsOFIVa+HkkDi1/I4/DCOYD/MdUah8iszpo4U=;ib+z8pwYnd9CkYdeEp7kMw=="
 ---

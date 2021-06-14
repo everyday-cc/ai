@@ -87,6 +87,31 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "10 European FinTech Companies in the Real Estate Space to Watch Out For"
+    excerpt: "FinTech (financial technology) is a swiftly growing global field that has naturally entered into a significant crossover with the property industry as it continues to revolutionize the way we invest and save."
+    publishedDateTime: 2021-06-14T19:52:00Z
+    webUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/"
+    ampWebUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/06/fintech-real-estate.png"
+        width: 1005
+        height: 575
+        isCached: true
+  - title: "Enzyme Replacement Therapy Market to Eyewitness Stunning Growth by 2026 Covid-19 Analysis"
+    excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” Enzyme Replacement Therapy Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2021 COVID-19 Worldwide Spread) “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
+    publishedDateTime: 2021-06-11T09:11:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/enzyme-replacement-therapy-market-to-eyewitness-stunning-growth-by-2026-covid-19-analysis/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 10
 
 secured: "dcjGceP3RHRGxCuc62wyoA1QnWmMlV7F7RplYo+9zSe16DjEVM8HaGMAsMe9gSAgvc9qrCAAE0DmhCc4m1d9LYnwz503xwW7e8peff4yzKAEGHRsDzi8vshBDG7bHZyg/nipbf+g1Um4m2KuB9QnDpKQaFoR9DmuHUOfsXRPNERv0nU4JvqbhD8dV+r0rygOeP9fcZvWtobhh6r+wZ0XZKJiEjDYzmfZtyjLs4riXdryJLKsdlfxXk93XRgIw7RYHmaVt+UEtwb1gTHIXG3Bf72DP5h21teggaERw5vpKuWWNP+B3Fbsl9hHuQ5r8ayTVAz5ujEVcqEqVaveNqXPbujged8FQ97icTCR4CTFqKSIHjSj6xzdNnn4EtfHjT+qq+oubq9k6+BWQZp/GJ5SklNLNaNWN9bGGm38EYuEALsNG1Jotj2Y4bOGcValQyeVTtvo7CC0gQXLesRwT5vfZ9hireHYw5hAGxzzznLjWIa+bVODcMTN9aW0yMmNtQO2MBV6QP99GW9O1dglmbzriw==;Hcb+yw2q/HbhOC8XHySEvA=="
 ---

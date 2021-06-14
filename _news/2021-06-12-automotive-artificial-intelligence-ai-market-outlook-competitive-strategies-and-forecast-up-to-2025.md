@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automotive-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market 2021 : Latest Industry Trends, Size, Share, Statistics, Applications and Competition Strategies by 2025 with Top Countries Data"
-    excerpt: "With a CAGR of 22.6% in the forecast period of 2021 to 2025, Deep Learning Market Size will expected to reach USD"
-    publishedDateTime: 2021-06-10T02:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2021-latest-industry-trends-size-share-statistics-applications-and-competition-strategies-by-2025-with-top-countries-data-2021-06-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

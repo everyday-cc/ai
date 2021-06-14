@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/commercial-robotics-mark
 webUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
         width: 455
         height: 250
         isCached: true
+  - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
+    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-06-14T13:51:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/graphics-processing-units-gpu-database-market-with-report-in-depth-industry-analysis-on-trends-opportunities-and-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "CZW5xzoUEJl9GhhIMW6gElCx+cfPid8os6shlh3DWdWgTrtWUpfHJptzfn/rMA2iubAwXbi83JWIVOybX5XK4EY+OiwJZMQZOPZjvcl3Tm/IjjjPkgPT0XHzOpy/JkFQguPdsvaAKymr9302RjEnKl3ryNVHQF+HwWBnOw5CnhlkPW2xLTo8ekrGhevhvI4OANvMBkI6SxjvJZ4btA6mO9rXgEM2IoMTS4OGGlCGNEuJrFTBqe1Hh5Hk6KWCcNUT6UTJeszJ18w294wxu66eJaumRUQdXh0NXlqUx8HpbJsb8UHBY7T2JtKRnbtAqKi//3u4GRKWtYn5e05VtzdHlgaJPkjosN/+vIreYjormYY=;q0ZZDjhY193tDJsUmWVw6A=="
 ---
