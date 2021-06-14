@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao"
-excerpt: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ..."
-publishedDateTime: 2021-06-10T04:27:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
+title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
+excerpt: "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng Li, chief ..."
+publishedDateTime: 2021-06-10T05:08:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582"
+webUrl: "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14985580/16x9/991/557/348d4a21b4c91d2ba3e7633fc6d2a77d/tM/alibaba-group-cto-cheng-li-attends-the-global-smart-logistics-summit-in-hangzhou-4.jpg"
+    width: 991
+    height: 557
+    isCached: true
 
 related:
   - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
@@ -153,6 +153,6 @@ related:
         height: 420
         isCached: true
 
-secured: "TBbOldKOGL1lsdW3NALZ9EHOa1OhOm0lLgQ6gMtvP68CzkX6aD6VtOzWYoyLoshFigTOnErAD+1CWIFnI+47TUr7I5umGx651H4lKpFAlrP0XaAy9iVjOtMbCrb3EyIMCU3kgphTbI7fKrVQM4vvk5b1GTF94cdazTcoXpyGlXyW1bfixy7lTN3NYutZKCwz/PdH3A4/O4mxfzXXtUyB/jVidyndUB0KbngjXdCFj6FtBJp4PdKiGScaiB/lDvBOrocum0M2MQfvFVUB4vSL3TVOfYX/DjBOZmbpIFzZ+kYPm1tb3NLQhuCy1mc+NpbObhA53+ba9PxwKoAaR2cBCUXkdXMAl/V1uvMG5V3AqSk=;vfOdHY7q61IXpkKPB6ceVw=="
+secured: "xqUr9pZwWz4n+AM5CvkLapwLLcaJzaGBe+ho4MCnFWyxHuNKykAd1YaQL91exZfbCdsFex2hVtX6m9dJG2yUxco9W72ZOdAvsIOoCOGaPYjJ3HIAtHJ6csVsCUcK2bNGjzfpzBrX37QvtgzOmgWnsPoC7FyNtyh70USwhnIJeJb5N/KWftHG3unPeyR5Q+fDVEoya+3oe+Q5rD6zJuGlebzD4bAtV0N///PdwvjLDc2z9HjFzjjERjx0tZnch8Jgn0/ilTPsBuy+P9EqzRWF3GU9U9kH2xWxoOYcjFcO5AfYH18pMKJN/B8iEYHZwT6q9wUkekevmq0FGsebosMS+MrzWXjU5KgdriLoZb6mCzo=;JDWADwVC9nDFHAQrryOnBg=="
 ---
 

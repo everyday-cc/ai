@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 603
         isCached: true
-  - title: "AWS Announces General Availability of AWS Proton"
-    excerpt: "(NASDAQ: AMZN), announced the general availability of AWS Proton, an application delivery service that makes it easier for customers to provision, deploy, and monitor the microservices that form the basis of modern container and serverless applications."
-    publishedDateTime: 2021-06-09T19:20:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-aws-proton/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
   - title: "BMO Financial Group Selects AWS as Its Preferred Cloud Provider"
     excerpt: "One of Canada’s largest financial institutions is using AWS to modernize banking platforms and transform into a cloud-first organization"
     publishedDateTime: 2021-06-10T04:01:00Z

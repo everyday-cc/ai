@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin"
-excerpt: "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,"
-publishedDateTime: 2021-06-03T10:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm"
+excerpt: "AUSTIN, Texas, June 3, 2021 /PRNewswire/ -- Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,"
+publishedDateTime: 2021-06-03T10:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-2021-06-03"
+webUrl: "https://www.marketwatch.com/press-release/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-2021-06-03"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/483540/Digital_Realty_Trust_Logo.jpg"
-    width: 400
-    height: 242
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "Q6ZdwgB+r7qukzH+65lYr9n6/80bzVEl6lby5rUirs5owwS7TaqiQ9xpyjCrBx6S17qCTKe96+nxW65FWWCTHY+tuhIhYKE2oHRXQVewFUP2ryDljHaGmpoAb4DdOghn2lToA2ezT+tyR6uwlM5aJ9iDi/3xJx0kBR8boszV0eL8KZOHhtbkMJZcqy4N4UVZAAjDTUaTbwirzxqXib9ZcWLOG2NC6CJEvRyyq3wgI+5Q40UkiFSKhhAQgHczqk1iaQ5jCZSWN7Nsaqbawmjajrf2jjQVMx2l0eg7iPY4HSQe27cnXrnVErgmEbbXoglI1Z1LP0LUyhWOnDpVU1GCdzRSXplytM7ngwHX6Ap3TuBLj5HxhPXeSPDY7j+deCPxqWUawmZsqDPdwn5ARfoyN2jqAN8xODdwjkMKxiV6cCqlcNAeRJNCS3fk5zdDqvDpimYyx1xxgBMkejJ3TipXFYMryX3z5IihmFmgSU0nSwh/P4b2+WEyd9VhLGkDnyD1Lxd453ewPircXNmYC23Lsg==;eGcuAeAcAcznA4JdpQbVrw=="
+secured: "+etipJuWeR6eBZy3MPs5WiKL1CXHRu503Z9UHs22Fpv5IjsRJlW3ORZf4rFaSSRIoiV7hgvwm2Yiz/El8OHMoxDw4mjTFHfbO0y/2qWWzTW2/25Zbv5JjMCbSHtjsgtwhdt+MPeUA5vXS4muFKnH6IM9FYsmWNq0L17lu6iBDAo8tCkilA2CWydPkByZ8CqdK+j+cJT+m48rfbsihqZn0uCR8cHhLIfHUSAgvTOrw+s9jr8eMJrmF/oAHmFla7sSWzWC+iIc/Hsc3K/Fnay3P+QGJLzzm0r0QmY8YMsPhQm4JlvMZPh+o6jZ+ZLx5MQe0QksX0DRpZnojq8lqilT7GEp1DUn5v/b6vUwoPRQKl4=;KXTuK3nE1bywJupIVL+qzg=="
 ---
 

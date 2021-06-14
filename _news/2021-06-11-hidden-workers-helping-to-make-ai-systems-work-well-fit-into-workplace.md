@@ -7,7 +7,7 @@ originalUrl: "https://www.aitrends.com/workforce/hidden-workers-helping-to-make-
 webUrl: "https://www.aitrends.com/workforce/hidden-workers-helping-to-make-ai-systems-work-well-fit-into-workplace/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How to Integrate Artificial Intelligence into Your Workflow"
-    excerpt: "MathWorks’ Johanna Pingel talks with Senior Editor Bill Wong about how engineers can use artificial intelligence to optimize their workflows."
-    publishedDateTime: 2021-06-09T20:36:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21166641/electronic-design-how-to-integrate-artificial-intelligence-into-your-workflow"
+  - title: "How To Make Sure That Diversity In AI Works"
+    excerpt: "Transparency around talent pipelines, hiring practices and publishing compensation bands are table stakes D&I initiatives that can go a long way toward establishing diversity in the field of artificial intelligence."
+    publishedDateTime: 2021-06-14T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/AI_ecosystem_promo.60c1235e8ac9d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1124741602%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
 
 secured: "xUg+XSk4HRFmnfys55lzGC2hB1hMmvRIBee94gD89h/LzT1Cxde74RvEqhogcGSlSEZUpPWTMmvbEyWrEcOXILZ6v0jECg5m4wdw1B+HUHm7O79/h7RwCfC/Pbk8ARtE6ZkBVtF5TvxRgiYpnA+Vk78AgKB+R5Zke+YrlNP22dK8dFV1bbpMyhHxuhfwIHRwBz9RfeR5hE8gLtxmPawbl6cYN1jzSOc7iwFGv1pHjeb9LrjeHfWBoQ5+SpvOWjmbUieMqHq4rANu3++HMx57WahUj1ABuQnpEMraoSd8IdnupgTbTVVjSzkQC3+1qqjwmXtWK7Pm2aeXmRCY8ufRjRU6nVyfPfNfHqNRL+/t3djL9O/l2Pwnspe8X09jkxQ+EyHouxUOEaLFfIPZnklD59ZV40HJ5PM6yfFUY3MmKUp9UMKl1Z1S/+/4FBpebaPxvMkoqIdTJAEnSUCiEog5reh188f/WtN8XSnp5foTY5FTILUb0u0C9Z09JDu87+2CkrosRGTAA4+5PvZ0vbubkQ==;jYmCWQO26+eaapBhtYpdAw=="

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Getinge's New Torin Artificial Intelligence Solution Improves Hospital Efficiency"
-excerpt: "The introduction of the Torin Artificial Intelligence functionality is designed to improve efficiency in managing schedules for surgical procedures and comes in the wake of a new Getinge survey. GÖTEBORG,"
-publishedDateTime: 2021-06-10T11:10:00Z
-originalUrl: "https://www.nasdaq.com/press-release/getinges-new-torin-artificial-intelligence-solution-improves-hospital-efficiency-2021"
-webUrl: "https://www.nasdaq.com/press-release/getinges-new-torin-artificial-intelligence-solution-improves-hospital-efficiency-2021"
+excerpt: "The introduction of the Torin Artificial Intelligence (AI) functionality is designed to improve efficiency in managing schedules for surgical procedures and comes in the wake of a new Getinge survey."
+publishedDateTime: 2021-06-10T06:10:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210610io07143/getinges-new-torin-artificial-intelligence-solution-improves-hospital-efficiency"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210610io07143/getinges-new-torin-artificial-intelligence-solution-improves-hospital-efficiency"
 type: article
-quality: 42
-heat: 42
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
 
-secured: "qlSv4iPFWCfVD234ju0rBbTxxZrfCQExXpgS3Yc1Jv663z5J3w2xirPxqZhF2IRwwzgplk0meN+HWJttcMoxZjUrTU3QQG70j3jiPH+/ZvDZ68xbs7p+HS/Me4dgmfDpLMVhMnVhI7GWEtnqPRDxPiYsCvfkBi4ZFTnVaiEOJmaSEPAtC+E0QmZGYcHxYOZh4AAHi7Mt5rKDi0J0lPpxUHd1hZC5fEjP0jskGp5KgxNcJ1kaVNysXWLZqIBFPhuowXGYfEckpMOWs/BQisTuCpzJiPOca+l7oz2sV8aR5iJpJf5rmbf9DtouXXVMA1ak4Q3k1XJPzFBBo2i2BtUfIh6z+0YmVmlf42DTpx3gfDI=;Cxx4qWhSABuZkEFamaSSeg=="
+secured: "wHsP4oeC+s7wwQKw6rEJQsFRC3NqJJDU8oOYpRflb0jkRhJ4yTlbuuqB6EtGbS3dKN6u9QGdTju0BAAtnwTs5vjVcTSi0Rk+yAdSeQLk6B8PUaAMtJ60EF6J6lILG+HmFxAiKcvr2GEcpyw4vl70KK1gjtU0L8JxKfbJIU+9bhUGKpFSXKvl/KII4f3G91B8fRg08spiit1u2wJ9P7wPYJFn3xqa0zR5KlXImQa+Cr16qzenD00L+3tQ6kcTwYvTi8tBh8qvZZLhN/EPuqMXJPzNZ0aHjGzEAYLtl1RG/Up7w9jggRm5gOQBZZKEtNZZoE3mQ3EyufP8ZyAYXeiNW1QqhbVTJIVEoEofYf51igg=;UrWnvkLJBDswIV7Mv6ukcw=="
 ---
 

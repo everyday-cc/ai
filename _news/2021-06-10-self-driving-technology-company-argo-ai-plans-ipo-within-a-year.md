@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1132546_self-driving-technolog
 webUrl: "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo"
 type: article
 quality: 139
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1265201416/medium_image_1265201416.jpg"
         width: 768
         height: 432
-        isCached: true
-  - title: "Argo AI's CEO says IPO expected within a year"
-    excerpt: "Self-driving startup Argo AI, backed by Ford Motor Co. and Volkswagen AG, expects to pursue a public listing within the next year, founder and CEO Bryan Salesky said on Wednesday. \"So we're actively fundraising and are going out this summer to raise a private round initially,"
-    publishedDateTime: 2021-06-09T20:52:00Z
-    webUrl: "https://www.autonews.com/mobility-report/argo-ais-ceo-says-ipo-expected-within-year"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/fordargo_0.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "As IPO Nears, Argo CEO Says Self-Driving-Car Prototypes Are ‘Regularly Beating’ Human Drivers"
     excerpt: "Prototype self-driving cars developed by Argo AI “regularly” have lower collision rates than human drivers in metro areas such as Miami, said Bryan Salesky, Argo’s CEO, during The Information’s fifth annual Autonomous Vehicle Summit on Wednesday."

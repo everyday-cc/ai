@@ -57,15 +57,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Rezolve.ai Introduces New Features for Its Microsoft Teams Enterprise Service Management Platform"
-    excerpt: "Rezolve.ai, a leading AI-powered Microsoft Teams employee support and engagement solution, announces new advanced features in the platform’s latest release."
-    publishedDateTime: 2021-06-11T07:06:00Z
-    webUrl: "https://www.pr.com/press-release/838162"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 21
   - title: "Artificial Intelligence Chipsets Market : Strong Quarterly and Yearly Performance | Google, Samsung Electronics, Microsoft, Micron Technology"
     excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD XX Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. Latest added Artificial Intelligence Chipsets Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-06-11T17:03:00Z

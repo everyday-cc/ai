@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "June 2021 Report on Global AI in Fintech Market Overview, Size, Share and Trends 2021-2026"
+    excerpt: "Due to the high popularity of this product/service in North America and Asia, the growth trend of AI in Fintech in"
+    publishedDateTime: 2021-06-14T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-ai-in-fintech-market-overview-size-share-and-trends-2021-2026-2021-06-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge Artificial Intelligence Software Market Growth, Industry Analysis | Global and Regional Market Forecast to 2020-2028"
     excerpt: "The global edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected"
     publishedDateTime: 2021-06-11T08:12:00Z

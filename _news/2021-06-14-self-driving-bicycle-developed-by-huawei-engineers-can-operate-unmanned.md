@@ -67,7 +67,21 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Huawei targeting self-driving cars by 2025"
+    excerpt: "With the vendor’s smartphone business suffering as a result of US sanctions, emerging technologies in the automotive sector could prove fruitful"
+    publishedDateTime: 2021-06-14T13:14:00Z
+    webUrl: "https://www.totaltele.com/509941/Huawei-targeting-self-driving-cars-by-2025"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 24
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/road%20lights.jpg"
+        width: 702
+        height: 677
+        isCached: true
 
-secured: "Kl1MiPyrd+w9J6UKKkB4Xt8mVdNdtnYgaZ0hcn0/4S40yOj6RdFsIzy7wcL6GI3Xy5InYDB9Y8lQz7wJYNO8Bj6P7+Q9zE7EWoN2Yom7t2M64iyJg4p0JCZv2iMfljYbN1cUI4ojYEqSmc78zOh8xExwEXjSSqyiR7xtBNJKMMcAxgLzSScNjfhVnb1wHbBvfDDIv8PR3+G65sYZMJiqQhaOlPU44DB4ulbqqJW3KD21moXTTbLKNW05aK1q9QgKy+w2UXYAWc/nxwL5nRkMfSn0pPB5GMIPa+pPeSas00FAT9sHA+pHqV9bAEqxRpbOm6mxmaaU1BleD63Na00sKzAJH3wQBfJkaXWXXe+Rlh4=;hQ04yiJ6fskO1wi+snSrMA=="
+secured: "NjtnSsIvS6GqoJ784XnpKmyHdaJd7rTtmVSV6dIVx6m97MOMJTh3p2uqvbaIqnAm0lFuFEAOm94ubCkZ9jH3m8mq/9wBeFDroKTtOb13vmeuQ+9HHIilHFyl8F8Jmuv24AFbc3kYOKqCeHrqkYhtMaP5VCqMj1ondtJFarsSEBMEKwVuH8pBoHCO3AZk1g3IoaTfDgOgkXjv3sMbb3AiqJQu6gxeOGF0D2oW7kotxdSHn0hIQDHlU/51QZQmCGWB4wQy8MUpmsa1kdD1q0kWJUBohYMygoWROG0xAa7v8RGPFn/oU73cAixhW2G8BG0xe+426WpBCasKhdh0G9B1CzQbnrwHyhuXfPSiCU2AzfWOHXql2ZNqz/nothUveZjrcLW4lXgcNJLsFxAr100bukrE8Q8zJ1WQkmiPDG2KfbyTtOmR1eLfF9t93OQ4o4k47mjk+uGJxsJhKZWu7/tproHbNW+kqym6sUO6EslcuxxhwgNaUawNNK0dNTTTo1ebFmwKbFdAmNifVW/tg/N7HQ==;xEwPoMnSiwAY17j3h6UGfA=="
 ---
 

@@ -47,15 +47,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AWS Announces General Availability of AWS Proton"
-    excerpt: "(NASDAQ: AMZN), announced the general availability of AWS Proton, an application delivery service that makes it easier for customers to provision, deploy, and monitor the microservices that form the basis of modern container and serverless applications."
-    publishedDateTime: 2021-06-09T19:20:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-aws-proton/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
 
 secured: "GDWDVwzPRywyuG+O4tfJgRa2wfHYSiv+SKo8d+6ajWjdQRsKTKNkUdJ/3fYNBw7dgnqeKcRUkO62rOA95cWb14omf1Ev129p1wF2aiQPT8QQw9B44jk2br8gtACzBRUxuiIxMVC1s9tBUveWX9YHEef3utZmlC1xT8GVX4ak7aUZ7CwkRn4aKLBFu8B+5CPTBteg+Fl8lWhqJftvewI0zskVwhzSeuY4Ja3gOJd/fqF7OMngzzrDJyNU3EAKX82s0X5aI5F4+Bav1sJjtoQbf/qOQDwzc8GOY7ovtVtywYPRn1mtsnZRjENU5eW5V5W+NrcsLhpJxt8SyP95NrupRE8sVF2J1EqoNlPAhLhkmJU=;/K+rrelNkTEEMT09MmCZUg=="
 ---

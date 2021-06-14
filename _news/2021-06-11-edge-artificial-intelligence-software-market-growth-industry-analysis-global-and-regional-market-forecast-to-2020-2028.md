@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "June 2021 Report on Global AI in Fintech Market Overview, Size, Share and Trends 2021-2026"
+    excerpt: "Due to the high popularity of this product/service in North America and Asia, the growth trend of AI in Fintech in"
+    publishedDateTime: 2021-06-14T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-ai-in-fintech-market-overview-size-share-and-trends-2021-2026-2021-06-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning System Market Size Report 2021 by Global Industry Trends, Future Growth, Share Estimation, Revenue and Outlook till 2027"
     excerpt: "Jun 10, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning System"
     publishedDateTime: 2021-06-10T11:41:00Z

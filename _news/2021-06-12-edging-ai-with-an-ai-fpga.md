@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/technologies/iot/article/21166800
 webUrl: "https://www.electronicdesign.com/technologies/iot/article/21166800/electronic-design-edging-ai-with-an-ai-fpga"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FPGA IP accelerates neural network computing for edge and embedded AI applications"
-    excerpt: "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases"
-    publishedDateTime: 2021-06-09T20:55:00Z
-    webUrl: "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 50
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg"
-        width: 300
-        height: 400
-        isCached: true
   - title: "Mipsology’s New Zebra FPGA IP Accelerates Neural Network Computing for Edge and Embedded AI Applications"
     excerpt: "AI software innovator Mipsology today announced the availability of Zebra FPGA IP, a solution that accelerates the development and deployment of FPGA and adaptive SoC-based machine learning systems. Zebra FPGA IP is optimised to power edge applications spanning industrial automation,"
     publishedDateTime: 2021-06-14T09:32:00Z

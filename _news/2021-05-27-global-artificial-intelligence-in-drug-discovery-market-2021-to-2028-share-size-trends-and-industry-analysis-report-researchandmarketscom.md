@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com"
-excerpt: "Artificial intelligence plays an important role in ... In this direction, in January 2021, the US-based provider of biomarkers-based therapy, Nucleai signed a collaboration agreement with ..."
-publishedDateTime: 2021-05-27T13:58:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210527005561/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarketscom"
-webUrl: "https://www.morningstar.com/news/business-wire/20210527005561/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarketscom"
+excerpt: "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2021-05-27T16:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210527005561/en/"
+webUrl: "https://www.businesswire.com/news/home/20210527005561/en/"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "DeL16ebtcR/zPm8uEEeN0DOlCsdehaBoUu6YpLBCy6gyIuoMw+uYbBgzgfK+R2BMzWAvJFYy7XHiqoUK+TdvAZ9vQO2wOoaUWFdtUZ0ljgwbZQnNc6VqDU4eDKMsBIcTGTkIQ3EAcfUcgl/EOaFiV0TDkxHUrAqbjeisc0vEssmmuG47akmLJ4GJFGHru0dByV/bDrrl/HsxcykhaUOya75IXlUGhkTprUmNk7LYNPd9sNYmM3adtzMsnmmRuDH5pCCmOOXoaFWnLAF6WmJJ69oKO9xwAe/Hh+PxVowIpVjXRfMk0yvBo4FLttHibj8b0J+JTXNtbRglLsNkf7pxBeUa8urpq+8yDxVlsyVnYDo=;gl4BRAa55CtYUiM9b/GH8Q=="
+secured: "fKjMyZQLxKFW14o/Xcr5b/yPfFgvYd97M7KmLbSPxuWvmPRJneYwl+jlNV/xnPDKHrN7Vf3xk4NdRwRQ2HjYPSD0G7igxCvvGkKAZh/S1ngJzGR3t1Fk34qtepC+5cMTVkH4HKulRrw4Hp07zzV8FbgOjJMOEXK4oq8RF/Z4yolKKWqds5GFoPBZ5DDBfQedEIvveNwnIpKQejoQJBO2CP0kpa2AaKzpXXcZULy7EWY+rYXG1h6u2ffB8jzoCE2eSVXvwRA4TFv1YQ8p8FT0mWNPKWC9M/FeJ90/LAmX8QaYdpJnlcd+hyqOkPL1SnfeWoQZePkrB3bmEjvQWOT5m/WDAmxW515ofOeeD3zQsqI=;LBD3qgtYKTvoCeDpgnY5Vw=="
 ---
 

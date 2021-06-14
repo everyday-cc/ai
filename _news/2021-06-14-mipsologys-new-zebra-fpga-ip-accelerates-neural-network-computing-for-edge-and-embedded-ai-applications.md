@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "FPGA IP accelerates neural network computing for edge and embedded AI applications"
-    excerpt: "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases"
-    publishedDateTime: 2021-06-09T20:55:00Z
-    webUrl: "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 50
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg"
-        width: 300
-        height: 400
-        isCached: true
   - title: "Edging AI with an AI FPGA"
     excerpt: "The Versal AI Edge series uses the architecture like the rest of the Versal family. A programmable-network-on-chip connects major components such as the adaptable hardware, which is Xilinx’s flagship FPGA fabric (Fig."
     publishedDateTime: 2021-06-11T17:12:00Z

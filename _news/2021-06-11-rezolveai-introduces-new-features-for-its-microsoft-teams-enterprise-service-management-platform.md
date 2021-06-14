@@ -19,59 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise"
-    excerpt: "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market."
-    publishedDateTime: 2021-06-11T00:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
+  - title: "Enterprise AI platform Dataiku launches managed service for smaller companies"
+    excerpt: "Dataiku is going downstream with a new product today called Dataiku Online. As the name suggests, Dataiku Online is a fully managed version of Dataiku. It lets you take advantage of the data science platform without going through a complicated setup process that involves a system administrator and"
+    publishedDateTime: 2021-06-14T13:23:00Z
+    webUrl: "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/"
+    ampWebUrl: "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/jason-coudriet-eQux_nmDew0-unsplash.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft"
-    excerpt: "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
-    publishedDateTime: 2021-06-11T12:55:00Z
-    webUrl: "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    ampWebUrl: "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
+  - title: "AI unicorn Dataiku takes its machine learning platform to the cloud"
+    excerpt: "Dataiku Inc. today introduced a managed cloud edition of its artificial intelligence development platform that promises to reduce the amount of work involved in building custom machine learning models."
+    publishedDateTime: 2021-06-14T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/14/ai-unicorn-dataiku-takes-machine-learning-platform-cloud/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 61
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/6/U611505535_g.jpg"
-        width: 600
-        height: 315
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/image-2.png"
+        width: 931
+        height: 520
         isCached: true
-  - title: "AI in Social Media Market Detailed Insights on Upcoming Trends 2021 to 2031 | Google LLC, Microsoft Corporation, Facebook, Inc., Amazon Web Services"
-    excerpt: "(Trending Report Jun 2021) insightSLICE has recently published the AI in Social Media Market informational report which presents a large-scale guideline concerning present and past market trends, market size,"
-    publishedDateTime: 2021-06-10T11:56:00Z
-    webUrl: "https://ksusentinel.com/2021/06/10/ai-in-social-media-market-detailed-insights-on-upcoming-trends-2021-to-2031-google-llc-microsoft-corporation-facebook-inc-amazon-web-services/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 34
-    images:
-      - url: "https://giffiles.alphacoders.com/120/120251.gif"
-        width: 480
-        height: 306
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market : Strong Quarterly and Yearly Performance | Google, Samsung Electronics, Microsoft, Micron Technology"
-    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD XX Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. Latest added Artificial Intelligence Chipsets Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
-    publishedDateTime: 2021-06-11T17:03:00Z
-    webUrl: "https://ksusentinel.com/2021/06/11/artificial-intelligence-chipsets-market-strong-quarterly-and-yearly-performance-google-samsung-electronics-microsoft-micron-technology/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 1
 
 secured: "NsSiGQ7FmrswHrJlFOIBzUAxLzSzuSTkendtsWzpboIbl4IAlUYVPvxagEeq/OYdY7DN0wb5sWnwHDgTFhqPTsWj2+YpOKTy9LukYLM9+pOGHoizw3sFBnJhE19GpAmbmPATOzb8g/rRn6pcO8YL3w2ZxL+lhYSCbBbRPGK2FOxJ+WyAdOU5Sg1ICAex92vg3TqUO/oUt8t1ZUOriN8vNGvZ/BcGph+kOcCkgL9Kp2jJakzzelZY/dO2rIylUmThTxUPSKKim3jQXWHX4u6R/zGMwbhOo+IWpqkdfjcIEAYP6dj6thNnuywJu/0TVoYLydoVUMdR0SLjWO+fVhi0dK8YkqiqtGxXvnk+4GRaTP8=;8TDyx9r0cTLlB8XvL+DYMQ=="
 ---

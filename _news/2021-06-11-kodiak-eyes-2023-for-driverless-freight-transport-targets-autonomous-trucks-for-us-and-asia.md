@@ -53,6 +53,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Huawei targeting self-driving cars by 2025"
+    excerpt: "With the vendor’s smartphone business suffering as a result of US sanctions, emerging technologies in the automotive sector could prove fruitful"
+    publishedDateTime: 2021-06-14T13:14:00Z
+    webUrl: "https://www.totaltele.com/509941/Huawei-targeting-self-driving-cars-by-2025"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 24
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/road%20lights.jpg"
+        width: 702
+        height: 677
+        isCached: true
   - title: "self-driving bicycle developed by huawei engineers can operate unmanned"
     excerpt: "with the concept of autonomous driving systems advancing by the day, huawei engineers have now developed a self-driving bicycle that can operate even if it is unmanned."
     publishedDateTime: 2021-06-14T11:28:00Z

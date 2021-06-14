@@ -55,20 +55,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "Argo AI's CEO says IPO expected within a year"
-    excerpt: "Self-driving startup Argo AI, backed by Ford Motor Co. and Volkswagen AG, expects to pursue a public listing within the next year, founder and CEO Bryan Salesky said on Wednesday. \"So we're actively fundraising and are going out this summer to raise a private round initially,"
-    publishedDateTime: 2021-06-09T20:52:00Z
-    webUrl: "https://www.autonews.com/mobility-report/argo-ais-ceo-says-ipo-expected-within-year"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/fordargo_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "CNXHoXTkzLACuCUUuxOuS1bPE817bxPnfT8pUVtvZQG3TrueD8KqOwvI/bZZf0GwQ5ZCdQpUjHmS02FPsTSNJT7R+oS4kiq3COZyznfFtyTU8CDWDy5EYPa7d6MF2gUzwMK52KR9fO1urnsIfJrzmkiYg6ck0WAgNURt2sE7aSApDWzZFWKdVZsbd2VsLkKRXNfYEWmByVkPb1jM0xv5xH7istirtDn1Oh1CUznox48O4oBmVrrv0WxB3avXa+09xjqXqH3s9fww87DF0Fsh9mj75tHtryUmirysiD3FaeCaQdqXq1w9YAjZFn4ZBbWSMfbVvhlhJNbziseGpG0y53DyxKP55tW0vB4aVxgN5NWmSDkpKsNzPlmeYeGHviKCWBtMTROahCKAVHfcMZK0TmNxmgWjo+zoZcYRFjID9Z/hZCACz+Nxsz3Wxosr4Z49wJp+1G2KltpCf5d1v0fxYi8QfTwcpMV0cUfTIzugpEP+K7WGogbeWVgV87Ldy06cSOysQ3I28L7ZpusByxKPxw==;LLm8xgDNVwOEukQlbq4zNQ=="
 ---
