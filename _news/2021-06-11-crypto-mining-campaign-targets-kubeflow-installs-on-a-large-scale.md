@@ -82,8 +82,8 @@ related:
     quality: 33
   - title: "Crypto-mining hackers hit Kubernetes clusters"
     excerpt: "Security researchers have warned of hackers’ continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
-    publishedDateTime: 2021-06-11T09:31:00Z
-    webUrl: "https://www.techcentral.ie/YqGJH"
+    publishedDateTime: 2021-06-11T10:44:00Z
+    webUrl: "https://www.techcentral.ie/crypto-mining-hackers-hit-kubernetes-clusters/"
     type: article
     provider:
       name: Mozilla

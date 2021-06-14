@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "United States Artificial Intelligence Market Report 2021, Share, Size, Industry Trends and Forecast by 2026"
+    excerpt: "According to the latest report by IMARC Group, titled “United States Artificial Intelligence Market, Opportunity and Forecast 2021-2026,” the united states artificial intelligence market expected to witness robust growth during the forecast period (2021-2026)."
+    publishedDateTime: 2021-06-14T21:16:00Z
+    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-report-2021-share-size-industry-trends-and-forecast-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.abnewswire.com/uploads/1623663031.jpeg"
+        width: 1800
+        height: 1202
+        isCached: true
   - title: "COVID-19 Impact on Mobile Artificial Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Mobile Artificial Intelligence Market size is expected to grow at an annual average of 26 3 during 2021 2027 Virtual assistants and bots will become more prevalent and smarter in the near future freeing employees from monotonous tasks"
     publishedDateTime: 2021-06-11T12:37:00Z

@@ -51,20 +51,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
-    publishedDateTime: 2021-06-10T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
     excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
     publishedDateTime: 2021-06-11T22:58:00Z
@@ -80,6 +66,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+p5rbiK/YlNfXQV7I4tggr+2bZTFR6b1eupB4vCcS3bhmaNfMTtuxWiype74eY5S80IZw0GPBILQtE5NsWwR5baPt2P9MUZSVphfcngXvClg5CN9N/dSdruijhYrEvkm6C+ZiCOWVYS6q6vHrz1ACjPcOxlit2kJ5NgZ4S+B3wMdELp5hDjpw3Os/JU4hYgYrrlcn+TDF0PcwQUP7PEFCwPaGiQXwqYJiy6S/NlFSRSMKYHBJRHg8rRlfm9WOZi53T/J6Ebtf6ViEBx79N2mSGJtxuzwpe/3h45l2KtuVIrtU2fSvh6v8+RbFQxYZ27gB0/WTFSD8136649ZLFr9/6I/8C09QWA8IBNUqhkso3M=;zv1U6HwCC1GetRoN3SMNnw=="
+secured: "XDeH/UOALzN0DGYVvqUZZNLJlBlqZAyDJUd5eTrPeOb9aDbddqNhKechJSfMqPO4YtEjOimOcAocTJrQF1eaav+q8B4w0LfXcoec7rey7oi/JW78frWpro0IhHx6x0OgW6ru3qfgFYjjpDXETnT3zHJ9V8QM1dyvg6rfcZxYBlj5Fvo5fp4vIRnRJWh717szpyPRKZBfblTc3/C2fpzyyP9URC3+tfsf7E6938g+X1F8ESdxdpkpVxqXK4R3k8MslnCROhTVcz1NW+GRWAyTzAmaQLSWmE0N0eGkSMx2gQdnmSAwltK2VidWDgm2oeRrVsBkbzZ0+yElZ35esJCucLaAO+rzMRs9CIFBjMM1v1c=;Pgc3u3kWK4F38T6TeFM1Jw=="
 ---
 

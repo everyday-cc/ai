@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-call
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Comparitech facial recognition report highlights growing, variable global market"
+    excerpt: "Comparitech analyzed 100 countries’ facial recognition technology use within government, police, airports, schools, banking, workplaces, and public transport."
+    publishedDateTime: 2021-06-14T21:11:00Z
+    webUrl: "https://www.biometricupdate.com/202106/comparitech-facial-recognition-report-highlights-growing-variable-global-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "YeNZ7HHh+BqTMocmOLRvTY6Y6bvlk52/OmukMV9jRJYmGhLDxkwfbTDtPmxnFtKx+Vgrfq9ZeezZiSL9OIKcnkKtgcvty3cDUnF9uJ10OjluMsv5t3fIaCSt3spkMiIOjcxmEAtb2XMxcuKxgXCnAbFDecvLHr40Esh/fht2AZJ76IV6vaf7UspLanc45j2HZu43+SdnLOVgO3Y9MIKQxQAp0BDaUTArWb+ekdp2mbhNADKp7/ujqrRIe86WndZ4LlWYfrGDTMq2Lt2ZUdFA3GmXCGV9+7cc7T5lrYCL4a1IAsdOdaKLgeKdBxnCLKcpviqdwsdS7IPHS/abRr5VNRVrvD1SnVvBrSeLl0j1K3xxotW6HDZBUpVEPMuRckJcdlM9Qrymb4nZT4wluxZHl0SK9Dl4v79OyFsOl1b1Z7W7kLJnlij0M6eH9OXg9YTMhJP2j+itOjuwdKBitCkJHvsfDAr/sVQiktEbhuWdh7Y3UCqCm1QlSsNPY6ifkO48gKe1ecB2IQhE5RNhDtaI2w==;I1zCG0bP6eTLaJevr9XIxg=="

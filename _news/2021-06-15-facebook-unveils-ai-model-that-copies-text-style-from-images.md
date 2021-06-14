@@ -69,22 +69,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facebook Plans Smartwatch With Detachable Dual Cameras"
-    excerpt: "Facebook is reportedly planning to launch a smartwatch, possibly next summer, with a dual-camera display that can be detached for taking photos and videos."
-    publishedDateTime: 2021-06-10T04:25:00Z
-    webUrl: "https://www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/"
-    ampWebUrl: "https://www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/smartwatch-Facebook-camera-wearables-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
     excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."
     publishedDateTime: 2021-06-13T00:22:00Z
@@ -104,6 +88,6 @@ related:
       domain: publicnow.com
     quality: 21
 
-secured: "g0rDqD12NYIRHom+RzbCRsqfFlRVA0K7gqra96hpGlZ2Az9rSVVhjcGOe9eaE9Ab/YTX6G+kGm0ZxpiKLJU9CcqdtCT1dl3/GRhXAORzfOlfccyyI/9XZkwVYYJAqChsmYfglZ3febfJIeijhhjzQJc3NL8cfKcJPvW7fJct7zzDBJ57XxJa5+0KyqgksLAahTrDpg1hBtg7h0ZFEeBTtlt8tNzY8waguAaiWVdvfkp5MLknuD3sAZ+iiMh0vs82tPKxhgKR/Ai+358+Ugr97aTCLhQNfIAhRwv5GjVlijpv3BkwJyVsAvE73DV2KlM8vclkr/V5CNo43uQ/1tcOiPaVcqtI3RWk2bHUYE+44JE=;z6J3lJTWyTvx6Hf0OTKXBQ=="
+secured: "Z9XTgaR48+M84fukGdidYsfdRNuIvHIdyqI427iKM2Pn9kAetXoqNCbhkDh5HSUYAfavJSh/S27m8oku0cVENOeImcXs8IKaRdfJsKVr/cyRzQ3UsfojEdV2pp++wG7zj4TkWn+lXNpu53K+OnZMDbgKXYKc9riTyDfhJSEcqJce6N5lvLMP9plYNXIiYjHaVrwJBIqlvHqOsngv8/xoC22FD6deR5mX1e9CdK1KCCHTdFDQSq32Wv6Ci5IUoBy5QYQqEw8o2dn0xpzkHHkZ1dE8Wdha5fPIEiDhoyofjH/QJjJARqebMHjGrLya/6R4DvWWmmYxrI6JXQrypbimZJGoMqVzwFcK1FjnoTAojOq83ViiFOvT+IUiFBzTNqgj8L2s9YOep614Xb3q0OwWW3FtFRlTbpkYdFLomJzH6pLBjxIaaKLS7sEHVI/Dx4O4wyq4No3DJH75Ej5sydQLq6CYvGaELa6o6JjFWeHThzHqL8x+sgBVMFX9FDUJeE1AiLLHNUV+BszRCjb3BB4xMQ==;HVbCr7SjRe9j89PJEMWjLQ=="
 ---
 

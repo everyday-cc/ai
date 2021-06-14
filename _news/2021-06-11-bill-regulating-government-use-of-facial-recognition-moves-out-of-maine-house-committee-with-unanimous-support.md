@@ -41,6 +41,20 @@ related:
         width: 3065
         height: 2043
         isCached: true
+  - title: "Comparitech facial recognition report highlights growing, variable global market"
+    excerpt: "Comparitech analyzed 100 countries’ facial recognition technology use within government, police, airports, schools, banking, workplaces, and public transport."
+    publishedDateTime: 2021-06-14T21:11:00Z
+    webUrl: "https://www.biometricupdate.com/202106/comparitech-facial-recognition-report-highlights-growing-variable-global-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "qqJ0F7w/6ImzKt+2hwK3KBR6NGGiyG7KlmY9qyM/SFGEAmByX7GWlcq+D5qDDS6m7dFesfYT+lYlRg3l9JKB+DjTZDRRjN0N++qPX8xLEHHrg6myXKQn8dKb7+OFGjq0w8+xBvGsEvyknES+7YdmPsPhJNq9vRdsnM7VH7EgoLXOdhVteskl6rvkGy/Kplr5DO1mPdFBIhd1kj7zcd/sDHt9aTKZwdD7nsfkQiR5hUnnUgDHMeoz1+QMa5RrYEDvSDqJeEMKFz3l4x4S9aOHRYB8HnbnY21u1Xwi5xQgscmPjovgvvHt5Oa/GFWmpFEoTa9ufqyTGJDd88xAWnqTqk5AwxlJ8SPe6tC8bBKVgpQ=;HRz1Zb6mKCcH6SX0Lb4RWg=="
 ---

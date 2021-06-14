@@ -7,7 +7,7 @@ originalUrl: "https://www.jurist.org/features/2021/06/14/explainer-ethical-issue
 webUrl: "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Meet Grace, the Healthcare Robot COVID-19 Created"
+    excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
+    publishedDateTime: 2021-06-14T20:10:00Z
+    webUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 36
 
 secured: "VmCEnViwZ5Q3gAV7s1O4rs5BLTIWyWigRsu91PrsX0SzUPg5o1uYYGW1wY/T9154ia9crmloRIpz5V//r4BXFuaRCgd4guoKDNazMN6udEgWuYDlhv67ReWILxRSmX0v2QjZY77wTOYz95lXAQ83t++YbNV+u2uxy2zA+THk+26wnpMbrHn/8btH3P7wT0DJWhWN5jQwWLrNRqZJuPCmFIbSYu3tuHIyw2KggY+tmXiYf2PAyzPqXKv0jlUkt1FoZj0q7UCPbV4IjeEey+QxBNP6n8f3PRMIUlKR/oPA6Jbx8BwPi0AR4Q+ymGa6X63N7Fqf0yBe+idXUJE4uqk9c/nFPECeDnfXdNI41IC5eSY=;kFYTKwvp1Y8w6kAWE8bbBQ=="
 ---

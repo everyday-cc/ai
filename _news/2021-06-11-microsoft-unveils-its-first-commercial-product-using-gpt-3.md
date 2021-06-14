@@ -24,17 +24,6 @@ images:
     height: 550
     isCached: true
 
-related:
-  - title: "AI-powered FifthEdge joins Global Microsoft for Startups programme"
-    excerpt: "FifthEdge will use the Microsoft Azure global marketplace to scale quickly and reach a global audience in a short time"
-    publishedDateTime: 2021-06-14T06:30:00Z
-    webUrl: "https://www.constructionweekonline.com/business/272936-ai-powered-fifthedge-joins-global-microsoft-for-startups-programme"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 34
-
 secured: "GEEtR3sKdDyGvrRza5oRQCq3KyGXsn1se7ETSaMdXGpKaiY3uOC+epSSNblBi9Pm+WS51NHnEDjPzeseOJCc1eRDTz4yDKGmSkYLSYmTGyue/PEvrQTI9PvXLFdPFj9VK+z7nsQ6h3vRY0yIr374nDb0pJLjQIM9zVP5r5A/ESmYj6rRV0oj/4BXsbYSXPuKzhB/iSWEpOwKzxEvCloI7mbqq2h64htZN4wSIrMSbBxdm/4DoTHb7OafIILUY+B2R95eYm2Er+/HOqR/m312cDaZfsNOwpf0WN/EmpDdm0Xdvo01jKDFp5VN0edQ2/HIaOlDNpA/gQeidjC6QmbCWLyOHQexz4D2/IvsEzSqioE=;D0N+wClaA9+lulFq0OvsbA=="
 ---
 

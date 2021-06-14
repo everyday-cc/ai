@@ -1,29 +1,29 @@
 ---
 category: news
 title: "KT and NeuroSigma Announce Strategic Digital Health Partnership"
-excerpt: "SEOUL, South Korea and LOS ANGELES, June 14, 2021 /PRNewswire/ -- KT Corporation and NeuroSigma, Inc. jointly announced signing of a memorandum of understanding, forming a strategic partnership to dev"
-publishedDateTime: 2021-06-14T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/kt-and-neurosigma-announce-strategic-digital-health-partnership/article_707922d5-a3eb-5d3a-8eb7-9ecbdbec6b9a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/kt-and-neurosigma-announce-strategic-digital-health-partnership/article_707922d5-a3eb-5d3a-8eb7-9ecbdbec6b9a.html"
+excerpt: "SEOUL, South Korea and LOS ANGELES, June 14, 2021 /PRNewswire/ -- KT Corporation and NeuroSigma, Inc. jointly announced signing of a memorandum of understanding, forming a strategic partnership to develop and commercialize,"
+publishedDateTime: 2021-06-14T12:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kt-neurosigma-announce-strategic-digital-health-partnership-/2021/06/14/9389461.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kt-neurosigma-announce-strategic-digital-health-partnership-/2021/06/14/9389461.htm"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/a9/3a9324f6-97c5-5102-8601-bdbd51ef0471/60c745974b69f.image.jpg?resize=887%2C630"
-    width: 887
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1532133/KT_Corp.jpg"
+    width: 400
+    height: 284
     isCached: true
 
-secured: "AEtq1otZNFKJ/n18PwA2vF7aB68wG/MiMjfWUa+Fmd7IszChs24zuAp7zWXNnAvicX4PRwZuql5ao/yBqkcAK6xCIyNHm6F8GzeZtRm4kPNekMvUctZrP+b4xRy3mT2qlKC6+cMLZ2NFW8U4gYWP3oulRFMF4jTFa0BRYGydQ7Z6m9quo/1G/53U1sGrvuV0MFHRWcCATo0xKAlGmOtl3ZPsPl4QgHiNxis35VzKRyrqONaQfw5nqIpWPkuys2DWfpzAwGX4AgmVuWm2diPKZbqZbOodVov0MjE71mI0NKC3LwOPRXK2YPOA3bbLmbkt0cNGLYeZPOtzRZ3a5tBE+1vU4i2QGHfyTFjjs58d+ao=;USkDetz4cA4TING9vZ+ZJQ=="
+secured: "rQclMNl4wy8fn3ezjzLUi6VKxyMjyyIYSokX1P7VThEPh0nygGc5ZLJHKLc7t1TaviBP9XaRjIPmAIQG+u/6DbMj70JoUuiTpXcoyH67nTIIyG3GmTJJADq4JlSkYUTzcMpR7XNUyzQq3mVukMVAaSgY+AQl+ucsShZdtLhkh7BRNDcn5K4RhrX2dJYuVxQV9u45OYjYUQrSJ3PQ+KxWewGiUK6d1j6HVLvM/QX/cKkQWg6ZDKW51xOb53ps/AoPndNAXGhG9WhNjBkgiKk6o5AV6MkRH1SDJnLWpbjCKhvpbVc0x0bZdxKIU1A+b8IbuFIl2SHHxRzmrE61N6O8wudQotEm7LabB3ipJhzc2C4=;S8Am7pW9tgm8Hz/3NdsWXw=="
 ---
 

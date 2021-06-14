@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-m
 ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c785a5fb3c0ddc32b7a3f5%2F0x0.jpg"

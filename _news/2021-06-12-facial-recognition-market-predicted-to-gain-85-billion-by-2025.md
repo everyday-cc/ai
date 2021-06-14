@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2303777/facial-recognition-market-predict
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://uploads.dailydot.com/2021/06/amazon-police-facial-recognition-ban.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
         width: 2000
         height: 1000
-        isCached: true
-  - title: "Voice Recognition Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021"
-    publishedDateTime: 2021-06-10T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2030-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
     excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
