@@ -346,49 +346,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
-      "title": "Intento Named a 2021 Cool Vendor by Gartner",
-      "excerpt": "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500788",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500788",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-07-new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use.md",
       "title": "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use",
       "excerpt": "C3 AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI® Ex Machina, its no-code solution that anyone can use to",
@@ -1405,6 +1362,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada.md",
+      "title": "Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada",
+      "excerpt": "“The new 6 GHz spectrum allocation for Wi-Fi 6E provides exactly what future Wi-Fi-based services need, and that is more bandwidth,” said Chris Beg, wireless systems architect at Cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
+      "originalUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/wi-fi-wifi-flat-featured-image.jpg",
+          "width": 699,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
+      "publishedDateTime": "2021-05-27T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

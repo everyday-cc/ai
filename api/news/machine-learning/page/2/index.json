@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-02-can-artificial-intelligence-machine-learning-enable-robot-empathy.md",
+      "title": "Can Artificial Intelligence Machine Learning Enable Robot Empathy?",
+      "excerpt": "Artificial intelligence (AI) machine learning is fueling the current commercial boom in automation, and robots are becoming increasingly more sophisticated. In a step forward in endowing robots with human-like behavior,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/can-artificial-intelligence-machine-learning-enable-robot-empathy",
+      "originalUrl": "https://www.bbntimes.com/technology/can-artificial-intelligence-machine-learning-enable-robot-empathy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/society/Robot_Empathy.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-neural-network-performs-complex-hand-movements-in-new-simulation.md",
       "title": "Neural Network Performs Complex Hand Movements in New Simulation",
       "excerpt": "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations",
@@ -1278,52 +1322,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai.md",
-      "title": "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI",
-      "excerpt": "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/",
-      "originalUrl": "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thenewstack.io",
-        "domain": "thenewstack.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "Google AI"
       ]
     }
   ],

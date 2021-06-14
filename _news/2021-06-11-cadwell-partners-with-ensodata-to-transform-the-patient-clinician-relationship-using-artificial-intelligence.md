@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Cadwell Partners with EnsoData to Transform the Patient-Clinician Relationship Using Artificial Intelligence"
-excerpt: "\"We are very excited about the partnership between Cadwell and EnsoData and believe that AI will help us work toward unlocking clinical insights that have been hidden in sleep study data for decades,\" said Cadwell CEO Patrick Jensen."
-publishedDateTime: 2021-06-11T10:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9388778.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/11/9388778.htm"
+excerpt: "Cadwell Industries, Inc., a global leader in neurodiagnostic and neuromonitoring solutions, today announces a partnership"
+publishedDateTime: 2021-06-11T10:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21525433/cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-in"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21525433/cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-in"
+ampWebUrl: "https://www.benzinga.com/amp/content/21525433"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21525433"
 type: article
-quality: 0
-heat: 0
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "V3Tra3v56p/4AnFBaY2lxrExMIH0RRVj1Xc+FOWiVumfbuMzqTrIAUu4RP/WaUQUSA3jdaBlEBRaLA4ChPZLOdefxRNeiMO9sC+77z3VXd7sSdQ+ubQGLko0a1E2U/6uRJ7XgkA3Y2RRYx7v9gF3o8LGQHjZ6GUObx5IP5ElY2soMNVogF1z6WKg/o828sJVGYIvT8hfVy0ktAIvY3sdSoeqhEum9yubUhxhhhPFr3oGqvAZPWMd01VwLVefXifGPr/B4Iai/BtHJGPq2F/azK3lsCisiJHVvDSgvMgxjfFfmC9/282I4fG7Glito4SC3jfExxpgRpjKDQyCie5QGDloz4hGAkFS7afIvg+KE9Q=;ZdLE4GxVDvJ771+Lo9tA8Q=="
+secured: "DNM7YVvZUVB9YLJUArd3sqoZ5Y1rdD6i1+HWP6orP9QULNUZfeHRPGKKxoVKENReW1H+Tcg7P2Bqstq7MU0Jp70zM3M30znVRikoni1+KhjcpUNO1OZ6y9xVL6V/II7nBxgLivelaO21Wh99YFTul9XH5ozhualMtPSP18iiSIRMurWib2K9510MmT34lQqgLroqKV72A4ijlm6NnmfHNZVdBNE6WBcFfh84+Bba02pLWBbfCX+VqgGBB7u0b5RLGseTqVdv0oBWlCBg4eG8UyQKTr+ncn3m9SGQpZcqjCXbckKc0Il9xgAYtpXnCDNrzyDq6Mst5Jeslj1bRowhFrxL0l8/ATI0JtvjVZajc+Q=;skiJvt+y7JtiHuwQ/OJlIQ=="
 ---
 

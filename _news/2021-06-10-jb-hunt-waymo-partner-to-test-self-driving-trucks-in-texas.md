@@ -133,12 +133,12 @@ related:
         isCached: true
   - title: "Hunt sets driverless truck test in Texas"
     excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ..."
-    publishedDateTime: 2021-06-11T07:15:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/?news-arkansas-nwa-academicstars"
+    publishedDateTime: 2021-06-11T07:32:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 39
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"

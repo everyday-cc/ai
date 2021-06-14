@@ -7,7 +7,7 @@ originalUrl: "https://www.hjnews.com/opinion/columns/beware-ai-fake-news-it-fool
 webUrl: "https://www.hjnews.com/opinion/columns/beware-ai-fake-news-it-fools-even-experts/article_8ad6eeab-1fdb-58a0-9c8e-e39a5116f30b.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "Study shows AI-generated fake reports fool experts"
-    excerpt: "Takeaways   ·  AIs can generate fake reports that are convincing enough to trick cybersecurity experts.   ·  If widely used, these AIs could hinder efforts to defend against cyberattacks.   ·  These s"
-    publishedDateTime: 2021-06-09T08:11:00Z
-    webUrl: "https://menafn.com/1102229060/Study-shows-AI-generated-fake-reports-fool-experts"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-06/07/TC_0b45ddec-6image_story.jpg"
-        width: 1750
-        height: 1125
-        isCached: true
 
 secured: "bYWLe+yCQ5k9YjD87xixZ240/vD+RxX84y50qiDRuadbMyPM3CYbnrf2PLwtqWIOoVCaKWjrpe/8YTI2f4NxFceopPDQ8f2dRgMs58YVmHucREFOlM0Cuhekm7ewfEo1hlnqEK3yVosLg6oOzUXJNM+TN2PLQWa/LhGv3YgybZBgL+ZofCbO0ZWaGg6ijqVsM9d9EMzsZSnyv/o3peKS2d4CUBTkSBfsUfS6YW/+Z/xwjr0WK3tyRaqUjjQtCvL0vmCIM2nETsScoCgb4LW8GFVJ6VSiHGte70sgQsZPcHwb/yNPy3sSE1mzdCA1cW3XnzAAbkbWaZUOTW4Hqkhr+vF1pogIleheEqB3IpM8GDK1VQJRMCbn8KXs6sNvG13vMBibMyS9t20++rMvP5d8RzKmcNAIVCx398IFi8VxrJU7fSSeqeDSuOXFhUwKf9vhj6bJJGRbWdOCvidt/UOHR/yso6jb2IbgIUpZGKj6/CTcTXvlnkX2GECXoENjdKUOKool22vlwI7aKNSKvFT8cA==;WPUwliiujK3Ji8+g4lhkXQ=="
 ---

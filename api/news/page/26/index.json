@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-05-23-new-olivia-rodrigo-album-sour-stakes-her-claim-to-being-the-voice-of-gen-z-raw-and-real.md",
+      "title": "New Olivia Rodrigo album 'Sour' stakes her claim to being the voice of Gen Z: Raw and real",
+      "excerpt": "Sour' succeeds largely because it feels like reading pages torn out of a diary, or spending time with a close friend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/new-olivia-rodrigo-album-sour-stakes-her-claim-being-voice-ncna1268211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_20/3476822/210521-olivia-rodrigo-ew-438p_a020ba8b7d87be39e628a05a320d3347.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1268211",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1268211",
+      "publishedDateTime": "2021-05-22T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-whats-next-machine-learning-at-scale-through-unified-modeling.md",
       "title": "What’s next: Machine learning at scale through unified modeling",
       "excerpt": "Here's how to create a single model, rather than a set of related but separate models, to power a process or product.",
@@ -1123,58 +1166,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-chinese-startup-ponyai-can-now-test-driverless-vehicles-in-three-california-cities.md",
-      "title": "Chinese startup Pony.ai can now test driverless vehicles in three California cities",
-      "excerpt": "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous vehicles with a safety",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/",
-      "originalUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/",
-      "publishedDateTime": "2021-05-21T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

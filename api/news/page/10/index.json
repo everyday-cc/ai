@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-03-alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone.md",
+      "title": "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne",
+      "excerpt": "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor managemen",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210603005190/en/ALICE-Receptionist-Offers-Global-Customers-Greater-Access-to-the-AI-driven-Customer-Experience-through-Expanded-Relationship-with-HourOne",
+      "originalUrl": "https://www.businesswire.com/news/home/20210603005190/en/ALICE-Receptionist-Offers-Global-Customers-Greater-Access-to-the-AI-driven-Customer-Experience-through-Expanded-Relationship-with-HourOne",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-deepgram-beefs-up-conversational-ai-engagement-with-new-apis.md",
       "title": "Deepgram beefs up conversational AI engagement with new APIs",
       "excerpt": "Deepgram adds real-time capabilties to conversational AI platform to extend the number of potential use cases.",
@@ -1129,57 +1163,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-how-to-start-your-career-as-a-programmer-in-artificial-intelligence.md",
-      "title": "How to start your career as a programmer in artificial intelligence?",
-      "excerpt": "From free online courses to specialized trainings that provide the opportunity for job placement, today there are different types of learning available for you to start your career as a programmer in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373586",
-      "originalUrl": "https://www.entrepreneur.com/article/373586",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622658709-inteligencia-artificial.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373586",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373586",
-      "publishedDateTime": "2021-06-02T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

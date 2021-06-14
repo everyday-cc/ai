@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/amazon-offers-onlin
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

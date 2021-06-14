@@ -1,28 +1,21 @@
 ---
 category: news
 title: "AI Guide for Businesses Created by CompTIA Artificial Intelligence Advisory Council"
-excerpt: "As more companies explore the viability of adding artificial intelligence into their business processes, a new resource from CompTIA,"
-publishedDateTime: 2021-06-10T13:35:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-301309930.html"
-webUrl: "https://www.prnewswire.com/news-releases/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-301309930.html"
+excerpt: "Top Considerations Before Implementing AI\" was produced by the CompTIA Artificial Intelligence Advisory Council, a group of thought leaders and innovators committed to accelerating the adoption of AI and machine learning technologies."
+publishedDateTime: 2021-06-10T13:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-guide-businesses-created-comptia-artificial-intelligence-advisory-/2021/06/10/9388281.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-guide-businesses-created-comptia-artificial-intelligence-advisory-/2021/06/10/9388281.htm"
 type: article
-quality: 48
-heat: 48
+quality: 26
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - IBM AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/320820/comptia_logo.jpg?p=facebook"
-    width: 1400
-    height: 733
-    isCached: true
 
 related:
   - title: "CompTIA Updates Cloud+ Certification, Drops New AI Guide for Businesses"
@@ -40,6 +33,6 @@ related:
         height: 667
         isCached: true
 
-secured: "b9m3vrZ6hlPVaJwPxwrATaYf17+614SCXtYdCITRH/92LF5zAeEGLefUaq3JPq7g0IisC0R7xGBZCO0M36DNOGOqL5dF8i3MzlrO19ymV9BJDnUgLPtEO3SqamhH8fJv+66Q2TYAcRjV2Af5mP/PVs9UVedwJgkUS51srWS5S+yOVsORppR0av4i5FFogUujrLTPTyqeVwfrFtLMf8jBKmn+u7Bti48ekMpCipJbgQAQW1bCwAmgfkp6yS6BU7Jti7CfIL20aR3katDfbzpriKiVuwo3OxxpijDiQ5WxukYuAnV6ngeJYtfhiYDKzc7XC43s8ZyILgWz03Jp5L6kRROZ7xY6e9V+p1dRTg2jj/4=;WJcOODblHNPx3c3yfLRbiQ=="
+secured: "V9Fc9EbN7n7XNZ5XWIWqTkGvh+sIBPVH6giY99ugrF0DKIgX/7DLzAPdVhOY/nM6XbyY2aEg0ObF1RshtwPedumGJmxRzTPvLh3mCCA9NFCpbz4PwmzM3j23nru08LiuspVFsS2n9mWWbFLHd9zpRmUdFdvFyl7pSAYFLsGtfd0Jv8BN2eN8uIpkChwbBI+QwGFyUL6GN5s3ou4ST+YhLp33KQwSu7ORc0NGP7VKkVnLJa19INAqzF3Q2DgnfxSkslSkm+R140oJ9lt9hWhEOb1x6BCb+5ltzMrVGfByvGY3iXDwyN4PwdHKzIsbiq2Cy8MvVaXTOM47tR4uUtkR+LZYmv4Pd7UgDGX2o7+/u7g=;TctpQn5Qjd1QvZoQQ1MTuw=="
 ---
 

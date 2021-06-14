@@ -57,22 +57,6 @@ related:
         width: 760
         height: 426
         isCached: true
-  - title: "As artificial intelligence-based loan apps boom in India, some borrowers miss out"
-    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been"
-    publishedDateTime: 2021-06-09T07:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/articleshow/83364025.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/as-artificial-intelligence-based-loan-apps-boom-in-india-some-borrowers-miss-out/amp_articleshow/83364025.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-83364067,width-1070,height-580,imgsize-39145,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Amazon India introduces machine learning summer school"
     excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
     publishedDateTime: 2021-06-13T10:56:00Z

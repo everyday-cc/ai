@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Despite proficiency in machine learning and math, India trails in data skills: Report"
-    excerpt: "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally."
-    publishedDateTime: 2021-06-09T08:28:00Z
-    webUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/"
-    ampWebUrl: "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 84
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report"
     excerpt: "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses."
     publishedDateTime: 2021-06-09T09:08:00Z
@@ -50,22 +34,6 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/06/1623229612_shutterstock_1831313974.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Indians have high skills in machine learning, Math but lack data skills: Coursera’s Global Skills Report 2021"
-    excerpt: "The Coursera’s Global Skills Report 2021 by global online learning platform Coursera said that overall, India ranks 67th globally. It ranks 55 in business, at 66 in both technology and data science."
-    publishedDateTime: 2021-06-09T08:55:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/economy/indians-have-high-skills-in-machine-learning-math-but-lack-data-skills-courseras-global-skills-report-2021-7008371.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/economy/indians-have-high-skills-in-machine-learning-math-but-lack-data-skills-courseras-global-skills-report-2021-7008371.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/economy/indians-have-high-skills-in-machine-learning-math-but-lack-data-skills-courseras-global-skills-report-2021-7008371.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Online_Degree-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
         isCached: true
   - title: "Indians ahead in machine learning and Math, but lack data skills: Report"
     excerpt: "Within Asia, India is ranked 16 behind technologically advanced countries like Singapore and Japan while being ahead of other South-East Asian countries like the Philippines and Thailand. Get latest Technology online at cnbctv18."

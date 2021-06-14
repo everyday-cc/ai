@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-28-expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada.md",
-      "title": "Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada",
-      "excerpt": "“The new 6 GHz spectrum allocation for Wi-Fi 6E provides exactly what future Wi-Fi-based services need, and that is more bandwidth,” said Chris Beg, wireless systems architect at Cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
-      "originalUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/wi-fi-wifi-flat-featured-image.jpg",
-          "width": 699,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
-      "publishedDateTime": "2021-05-27T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-senseye-pdm-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Senseye PdM Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime.",
@@ -1419,6 +1376,58 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen.md",
+      "title": "You’ll Soon be Able to Use Your Apple Watch Without Touching the Screen",
+      "excerpt": "Companies like Apple and Spotify are making it easier for people with disabilities to use their products. Accessibility advocates hope more follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "originalUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342069?width=620&size=custom_495x278",
+          "width": 495,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "publishedDateTime": "2021-05-21T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],
