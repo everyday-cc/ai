@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/12/supposing-the-f
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/12/supposing-the-fbi-secretly-ran-a-fleet-of-ai-self-driving-cars-to-track-and-ultimately-nab-unsuspecting-criminals/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Supercharging Self-Driving Super Vision"
-    excerpt: "Few startups were as prescient as Scale AI when it came to anticipating the need for massive sets of tagged data for use in AI. Co-founder and CEO Alex Wang also made a great bet on addressing the needs of lidar sensing companies early on,"
-    publishedDateTime: 2021-06-09T16:55:00Z
-    webUrl: "https://techcrunch.com/video/supercharging-self-driving-super-vision/"
+  - title: "Supporting the AI Boom: Facing the Challenges of Hardware and Deployment"
+    excerpt: "AI has been a hot topic recently, especially this week. With all the efforts coming out, there is a growing need for better hardware, collaborating, and easing deployment."
+    publishedDateTime: 2021-06-11T17:22:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/supporting-the-ai-boom-challenges-of-hardware-and-deployment/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 38
     images:
-      - url: "https://img.vidible.tv/prod/2021-06/09/60c0627031cb5a6fc9ad060c/60c0658866a5ff0c1d575a0e_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Breakthrough Technology Simulates Human Eyes’ Vision for Self-Driving Cars"
-    excerpt: "LiDAR sensors are the current solution for making sure that self-driving cars have a safe and accurate perception, but what if something even better and more cost-effective could be out there? This is what recent studies are trying to find out,"
-    publishedDateTime: 2021-06-09T15:22:00Z
-    webUrl: "https://www.autoevolution.com/news/breakthrough-technology-simulates-human-eyes-vision-for-self-driving-cars-162914.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/breakthrough-technology-simulates-human-eyes-vision-for-self-driving-cars-162914-7.jpg"
-        width: 728
-        height: 300
+      - url: "https://www.allaboutcircuits.com/uploads/articles/LEC-2290_angle2.jpeg"
+        width: 700
+        height: 525
         isCached: true
 
 secured: "5zmRaYsymTy34M2kBeBw+8sonxn8G2QsR3joO2bmNWHIOfd2zDf6BTTo8+EYGcrAKm18EERBTIpu8/rCUQVqjUjSxfev1CAb9878nQ1Fxv2/hIygv/rpt7GrXZtNxL9zFy5sr772rtyXxzuB+ShgyIjYvQlnMSIVSGEyPqL0n0w5LLjglHjcq9J4Oo/WCLoN7v0vuiq00V1RBs0DWDviXXqxtFRiu+uRMxV25wH353zZp55CZZVgx9ZGwmtY7ZvB9ukWsGUF9cV1o4nVrk2X5dTUbY2SQRYPT/n90dIo8STawIrNid7VVV0YwPXFfzSAmppP+x6Pd7kwDbItLqntTTq6Y41QgO0jk18aMFTT75R2uXuX9S2ua8U68rIsO4Qi6mJkjov8OBu+fU105M8cCNYBRUkaoVhTnMd1lC/0AgxrRuOiej6/vNQcXwzaV1Snl8P4ZuuEo+T0vn00nQuqoIa0HdwH6sflhiSkNlB6ibevQD5/siEtEOKC1CALN+/Q7UxlXdrj7E9OP1X+lyZYNA==;41xdhQjOBmVkEbd8me2imQ=="

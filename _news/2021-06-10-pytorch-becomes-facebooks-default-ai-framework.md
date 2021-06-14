@@ -55,22 +55,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Facebook Planning To Create An AI To Beat NetHack"
-    excerpt: "Facebook wants to develop an AI (artificial intelligence) that is capable of beating the hardest game in the world. The social media giant wants to leave"
-    publishedDateTime: 2021-06-09T15:44:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Facebook Plans Smartwatch With Detachable Dual Cameras"
     excerpt: "Facebook is reportedly planning to launch a smartwatch, possibly next summer, with a dual-camera display that can be detached for taking photos and videos."
     publishedDateTime: 2021-06-10T04:25:00Z

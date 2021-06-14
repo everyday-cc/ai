@@ -39,6 +39,20 @@ related:
         width: 300
         height: 400
         isCached: true
+  - title: "Mipsology’s New Zebra FPGA IP Accelerates Neural Network Computing for Edge and Embedded AI Applications"
+    excerpt: "AI software innovator Mipsology today announced the availability of Zebra FPGA IP, a solution that accelerates the development and deployment of FPGA and adaptive SoC-based machine learning systems. Zebra FPGA IP is optimised to power edge applications spanning industrial automation,"
+    publishedDateTime: 2021-06-14T09:32:00Z
+    webUrl: "https://www.cieonline.co.uk/mipsologys-new-zebra-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/"
+    type: article
+    provider:
+      name: Components In Electronics  Online
+      domain: cieonline.co.uk
+    quality: 39
+    images:
+      - url: "https://www.cieonline.co.uk/wp-content/uploads/Mipsology-960x540-1-660x330.jpeg"
+        width: 660
+        height: 330
+        isCached: true
 
 secured: "DP/sV0PviaCH4r3sOqeyAD9J5ShE39s3OMwKBo//iW1Upp2bFHO3gzjR04O5qgkxvBvNK5ibq3bFBYtkIV7RC1gxssKgCe1W9e5ms5o9YveUlOG6uFycEAbNyJq6NLLpWromDFe4QI/ROt/CU+9SjcXFtW8S9ugwEcz3X++7FoU712B7BJ9f77q/vnj6ps6WCFrl9neU2xFLwlAXyzAvdb/ILjWzuOk+CY93Ks36losLDu9VIUNhA9wF3uxrzk13TjGGAvAhFKs/Eu9mIb7hC0K+taMbrL0wLpJIb1LZaymQY0xq+zZj6zuhO8I+G5u1X5Gb2UTzji57Psn1ezqGlq9SaXXKIc2v/NMwalRAMhMoRpPjnb7Wem0yrty9tqDvupmaqqcjEdq+NNer7MEjUj34BEmLDUuFZOk6AaIRP16/BRnIohsu0cI11dGJftuNCRdJUME1LzNFq4U1TRQ3z1WthX0AjpIueW7EbrUA77COEGOLj4awS+nQPFnPOWGXzsQUFW7ZVrGx2iGaM58AQA==;nv+n4zJzQ9YLljD9qKp4lg=="
 ---

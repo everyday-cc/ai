@@ -51,6 +51,20 @@ related:
         width: 1440
         height: 700
         isCached: true
+  - title: "Farmers Insurance® Adopts Innovative Technology by Zesty.ai to Increase Homes Eligible for Insurance in High Wildfire-Risk Areas in California"
+    excerpt: "With recent approval from the California Department of Insurance (CDI), Farmers Insurance ® today announced it has integrated Zesty.ai's wildfire risk scoring model (Z-FIRE™) into its homeowners insurance underwriting processes --- selectively expanding opportunities for coverage for residences located in certain wildfire-risk areas."
+    publishedDateTime: 2021-06-14T09:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/farmers-insurance-adopts-innovative-technology-by-zesty-ai-to-increase-homes-eligible-for-insurance-in-high-wildfire-risk-areas-in-california-1030518890"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/359564/farmers_insurance_logo.jpg"
+        width: 400
+        height: 217
+        isCached: true
 
 secured: "IOVeAkxG3RCWuHftPRxvHygh1iKSprh2BAOfQSwlPiuTJsfDGGWE42gb0MHau1Prll/WB9TfjWglUCa6atkIAXNKjQfec9FkL1qOKwtFYlez/LoQf1UuGnb9fYuj4bcuXguxDDxjTpE6XVMqnVJOPb9AREcIq4JNkxtldfZP4zzqyf15Ur3j+STYel4umVvsOvmVxhQydIY2G7pxc/HaWn/kYJ065E/8V6YI3plLTziYI7BMacbw3rbYhe5KHKJTNAYlEYUkwekXIDL/1IiEf/ZelFlJSDPerjkkofPeBOQKJ9nKoloOYYjkgja/peOIW6N2YwOSqCvr54Ww2OZCaGO5VxxX6jg6ypojcy6rskXpLRWAEHCZe58Q2uAF7dH3YdoIO7+brzIUmCm8LjLo7usS3dW+hn0dsH7E9uB4fg8OIuJtEnyyKskxRfyHtz280cO7rsgF52/tci0WuOtQEpN0krPWotkhWmMexalilqLdKaMUjXou7M2D3Kexfl4nq3VXLgeaijhk5+9BEU6tZg==;ZHP8Ti1yDgIBLnyeHicyNQ=="
 ---

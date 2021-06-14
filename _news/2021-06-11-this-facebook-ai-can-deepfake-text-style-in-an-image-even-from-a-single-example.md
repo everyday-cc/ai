@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Facebook Planning To Create An AI To Beat NetHack"
-    excerpt: "Facebook wants to develop an AI (artificial intelligence) that is capable of beating the hardest game in the world. The social media giant wants to leave"
-    publishedDateTime: 2021-06-09T15:44:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "PyTorch Becomes Facebook’s Default AI Framework"
     excerpt: "Facebook said it would migrate all its AI systems to PyTorch. Facebook’s AI models currently perform trillions of inference operations every day for the billions of people that use its technology. Its AI tools and frameworks help fast track research work at Facebook,"
     publishedDateTime: 2021-06-10T12:30:00Z

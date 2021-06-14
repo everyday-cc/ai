@@ -57,22 +57,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Facebook Planning To Create An AI To Beat NetHack"
-    excerpt: "Facebook wants to develop an AI (artificial intelligence) that is capable of beating the hardest game in the world. The social media giant wants to leave"
-    publishedDateTime: 2021-06-09T15:44:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/facebook-planning-to-create-an-ai-to-beat-nethack.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "PyTorch Becomes Facebook’s Default AI Framework"
     excerpt: "Facebook said it would migrate all its AI systems to PyTorch. Facebook’s AI models currently perform trillions of inference operations every day for the billions of people that use its technology. Its AI tools and frameworks help fast track research work at Facebook,"
     publishedDateTime: 2021-06-10T12:30:00Z
@@ -106,6 +90,6 @@ related:
       domain: publicnow.com
     quality: 21
 
-secured: "KtcEBV8Lbp4hcaZzVkx8aZrcDWelDr8To5Lnj8gn933UNIusIQ3TWXcx5FGQCRbFLWQPZegceRedtMx9L0+LWgOnJMSVd/6ygCFlpBjJ1Z0uTWDdJ/7pdjNiaXOUCMJcdK+w8OyOTPi5rTnNUG6oJAXTmov68whG/LrBgYIaeozh7kUU/xZYq+xNgmgB/eOTjZwz0nwTxhpQwkxVj+WqXWyOW+eox3b+mKjqxmcT/iEhCja+rMkvUNPGih0qodmUJcQ0OlBGQ+2Bs5ZDdfvAuRcIwii2S32EicYvqfBhUnj+zJ20BcO8EdEfQVzmAH5qSd3YL3mrsef1cVk1ak9BWnsdlqnKab740w3n3iuv1Dk=;PECITibt3OqhARuO6r2CJg=="
+secured: "DkqAfzQAhT5vOabdvnmrEZdORHKIrSa4oFjJe2wEHeowQuyA3WUsFhDmtHdHYRcxuUBam80+HmConWCIL/nPFdmBjXPxVzicSqFpeSasmdP0xblFURlmDZsIxl1hfrPNNVjprqSNSoUDvIKdjaqs5jjhSIZURZKLVS1m0GfMkwA53uubTPC+vA2VdrhiKONSWmTunEz+RsxlFiT28+f90YqXqwy8lb8H3z4zyHrGYXu5bzhw+dya873ohLann2S0T4fMlxKro+RXpIYFjGZ7W0zm1yfoErXMPrcvY5/4sGgEb+jdtHCSNT6jjGS0oyJ0FBfAKP/pVr5TK/tYT3Gax2JOVQ9ZALC9Yj52fmhJd0XBCAPjTi8zBWoEMLVdjTjmrnHuHE+G2Nl4Ef+kEA4/4i1IFLcPcK/LtxIJgpQeqhNMNJihju35ehoCrqlH+NzlVpeboPKZM3uGMo3gRjtzpWtKGWHZ2lSkNECL98+uvbuGQJrfKaDUmYTsFySvwwA/9U43Un2DLFOVfj6Ivn/zuQ==;DG0buD/VLwZhH2ppbO+waQ=="
 ---
 

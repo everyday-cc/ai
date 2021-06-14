@@ -9,8 +9,8 @@ ampWebUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-center
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: EdTech
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Nurturing a Relationship between AI and the Security Team"
+    excerpt: "No matter the industry, adding AI technologies to work processes has made a lot of employees nervous. There is fear that automation is taking over and that robots will eventually push out the human workforce."
+    publishedDateTime: 2021-06-14T08:50:00Z
+    webUrl: "https://securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/"
+    ampWebUrl: "https://securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/amp/"
+    type: article
+    provider:
+      name: securityboulevard.com
+      domain: securityboulevard.com
+    quality: 56
   - title: "Enterprise Automation Announces Results of Innovative Artificial Intelligence and Data Visualization Research and Development Projects"
     excerpt: "North America's premier control systems integration firm serving the water and wastewater and life sciences industries today announced its most recent"
     publishedDateTime: 2021-06-10T19:25:00Z

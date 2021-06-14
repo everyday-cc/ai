@@ -35,17 +35,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Industrial AI pioneer C3.ai partners with analytics upstart Snowflake"
-    excerpt: "C3.ai, the twelve-year-old Silicon Valley startup that is bringing machine learning forms of AI to various industries such as oil and gas, on Wednesday said it is partnering with data analytics upstart Snowflake,"
-    publishedDateTime: 2021-06-10T05:01:00Z
-    webUrl: "https://www.zdnet.com/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
 
 secured: "Z+B29fXUm6QcA0JYr8xvQP3OXtGs00LtlFe7XzD5ycuYRKN29U5pFzdA/1qoYKHqiCNXHZMowIXczF9NOE1fZW3FjBUKrQNBTYMfMlA0NfhoTx96xdqxeXumtuHVJFCSqh3aYZZFWej4OMA3qDZBxKc6Qev9zo5WeAqkMngZ3ghkWhZg0XQUZ0kx9NE+r/GxgRODwOTaZ9aJzNU6Aug0Fly/dCn8Fmq+NZpalMm8RaP5o8aHu7vmjA5epB8bzcmiE3+dMxRyZBhasEApI1iWQhSEHmCQCfufRK6S5lNVgeAZjXpFv65O1dSZD18i5T3TwG0q1lG+eSz4svelI+c6ddQ16qBnAJmeqz4YUMonGeo=;o66v43wGxbFyjIaKCyJYZw=="
 ---

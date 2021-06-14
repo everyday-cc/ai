@@ -21,22 +21,6 @@ topics:
 related:
   - title: "Meet Grace, the healthcare robot COVID-19 created"
     excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
-    publishedDateTime: 2021-06-09T16:33:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 106
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210609&t=2&i=1565004665&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5805D"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Meet Grace, the healthcare robot COVID-19 created"
-    excerpt: "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic."
     publishedDateTime: 2021-06-09T17:33:00Z
     webUrl: "https://www.metro.us/meet-grace-the-healthcare/"
     ampWebUrl: "https://www.metro.us/meet-grace-the-healthcare/amp/"

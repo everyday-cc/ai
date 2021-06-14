@@ -137,36 +137,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Google is using AI to design processors that run AI more efficiently"
-    excerpt: "Google creates custom processors to run its various artificial intelligence algorithms, and now it has tasked an AI with speeding up the process of designing more efficient chips"
-    publishedDateTime: 2021-06-09T15:19:00Z
-    webUrl: "https://www.newscientist.com/article/2280321-google-is-using-ai-to-design-processors-that-run-ai-more-efficiently/"
-    ampWebUrl: "https://www.newscientist.com/article/2280321-google-is-using-ai-to-design-processors-that-run-ai-more-efficiently/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2280321-google-is-using-ai-to-design-processors-that-run-ai-more-efficiently/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/09150122/09-june_google-ai.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Google AI beats humans at designing computer chips"
-    excerpt: "An AI computer microchip designer. Working out where to place the billions of components that a modern computer chip needs can take human designers months a"
-    publishedDateTime: 2021-06-09T15:24:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01558-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01558-y/d41586-021-01558-y_19235132.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google uses AI to speed up chip design"
     excerpt: "Google has trained a machine-learning system to place elements in a microchip design - and it does it much better and faster than its human colleagues, saving space and power, while improving performance."
     publishedDateTime: 2021-06-10T12:25:00Z
@@ -222,20 +192,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2FGoogle-Claims-To-Be-Using-A.I.-To-Design-Computer-Chips-Faster-Than-Humans-TW.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
-        isCached: true
-  - title: "AI system outperforms humans in designing floorplans for microchips"
-    excerpt: "A machine-learning system has been trained to place memory blocks in microchip designs. The system beats human experts at the task, and offers the promise of better, more-rapidly produced chip designs than are currently possible."
-    publishedDateTime: 2021-06-09T15:25:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01515-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01515-9/d41586-021-01515-9_19234274.png"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "aZPxcuNkqlNgUhF8NpDUPxKZDoymPS8rDCcBKQzvZSF+mQ07Dmy2LkZIvylC8y/1t/6WSz2nX4KHYXEfgADRAk8/92eVJ9pYvoWKO9wIIiP9am4JvYJ2d+xgaCgA+cZ9pfEgxjvZfiPtztpFvWIokQRt2f6sRqt3YFio2j8IsDpisvcgsgolTkzI8QxgKSPd+65NLv+ZDAJtX00tFNuQSSurLKPwCmrhXe0bKhLcbPhRFD2QVT8ikWGbx/5YGsm/B+rCPGxduyXJ10hKjUKvzarO7b/n3mpb/9q9edS3s2fHN9Yc3SO6MuuL0da1D9BhAd6Afsf/5nGgTjiGFF6bsgZtpKgAmsPBY3QfEnA9b1vLgItMpcSUL3SUgNCrl/jRKeMfCO6Nm6MOfEFcKXKYX00VNB2SqbGWBBx5nw1x2lAcO9KQ6iLW+L9VP4HWFTv9z/LJVapVMgTdsb9GZQ9uOd8KEnLWqn9OQclmzjkiXxCIeJCqwdgwHEMvAdtrJ4Luq2vLZQq5bKNCR9HEvCzeiQ==;AXg7iPRs4QqHOyMydYPaIA=="

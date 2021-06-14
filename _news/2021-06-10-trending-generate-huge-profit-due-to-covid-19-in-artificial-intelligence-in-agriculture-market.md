@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/trending-generate-huge-profit-due-to-co
 webUrl: "https://manometcurrent.com/trending-generate-huge-profit-due-to-covid-19-in-artificial-intelligence-in-agriculture-market/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 720
     height: 470
     isCached: true
-
-related:
-  - title: "Google Cloud: COVID-19 accelerates AI use by manufacturers"
-    excerpt: "According to new research from Google Cloud, manufacturers around the globe have accelerated their use of digital technologies due to the COVID-19 pandemic. Of the 1,154 senior manufacturing executives polled for the report,"
-    publishedDateTime: 2021-06-09T16:55:00Z
-    webUrl: "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/09/2f2eef0d-bb1e-4a07-979d-c608766920f6/resize/1200x/a93862840fbc4e067f58b28c7af79464/google-cloud.jpg"
-        width: 1200
-        height: 706
-        isCached: true
 
 secured: "KP4UVwV5nSaMOJ1/LQRJk4Nq5EmYjGRtA84syCDUM2jJxj9RqOsK27XiMwBUTfliYdITuo5/ToA08hvK8kvdFIiH0C1c16NEEqVvePSCNNP+osVeVPxc8sYGOrgPuJgKi+zHz69r9x47yVzDPVQgaPbt3VHMj0Aw+pfz9+kKZypqWn1ZUVtDbZDhPD+3i2+p4bpWuXzg+8sNmNBkzvu+H/ak3sL+oj07m4ZIBP2cUyGq2AYff6OrznlYZRO0RAG61HwA7tMw4v3b2tEm6SSqKhr29ScxE0HmBYaomLdl7XRTDCZo0A+9KKEhheAt+OhPZrpIziEdOPYON3bM8D0B70jzrikEqkCpr8/SJadXcBlc6XDbz5ByijZ79+ArJCRanbNifWB4FWb/os0z6O1Ed5Ny4LIjU4Pc1MrfboFfB/YcGa4tQkwXGlZOPD4P3mGLuQ4jbHQRC5bq6c5BmP9wD+PBGZXd4qmTF+SuLAOIGhwTh9EA8NDeP2kG2vcpebjLbGpg3aKw5DVIw9ST0NFOTg==;OIEWgfAHiTxp+8675Bn2fg=="
 ---

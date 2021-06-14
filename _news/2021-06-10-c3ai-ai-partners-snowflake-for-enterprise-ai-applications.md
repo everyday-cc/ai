@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-ente
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Industrial AI pioneer C3.ai partners with analytics upstart Snowflake"
-    excerpt: "C3.ai, the twelve-year-old Silicon Valley startup that is bringing machine learning forms of AI to various industries such as oil and gas, on Wednesday said it is partnering with data analytics upstart Snowflake,"
-    publishedDateTime: 2021-06-10T05:01:00Z
-    webUrl: "https://www.zdnet.com/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/industrial-ai-pioneer-c3-ai-partners-with-analytics-upstart-snowflake/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "OnSolve and Base Operations partner to provide customers with contextual based, risk assessment capabilities powered by artificial intelligence"
     excerpt: "OnSolve has announced a partnership with Base Operations, a risk intelligence company offering street-level threat assessment for global companies powered by artificial intelligence (AI). The partnership creates a new AI-driven risk analysis capability that provides context and relativity to a targeted region before an event,"
     publishedDateTime: 2021-06-10T09:36:00Z
