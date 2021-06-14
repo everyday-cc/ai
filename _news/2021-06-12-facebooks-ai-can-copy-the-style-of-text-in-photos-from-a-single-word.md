@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/facebook-AI.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Facebook Plans Smartwatch With Detachable Dual Cameras"
+    excerpt: "Facebook is reportedly planning to launch a smartwatch, possibly next summer, with a dual-camera display that can be detached for taking photos and videos."
+    publishedDateTime: 2021-06-10T04:25:00Z
+    webUrl: "https://www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/"
+    ampWebUrl: "https://www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/smartwatch-Facebook-camera-wearables-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
     excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."

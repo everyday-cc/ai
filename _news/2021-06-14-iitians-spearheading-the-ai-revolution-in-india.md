@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-14T05:30:00Z
 originalUrl: "https://analyticsindiamag.com/iitians-spearheading-the-ai-revolution-in-india/"
 webUrl: "https://analyticsindiamag.com/iitians-spearheading-the-ai-revolution-in-india/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/IIT.jpg"
@@ -56,6 +57,20 @@ related:
         width: 760
         height: 426
         isCached: true
+  - title: "As AI-based loan apps boom in India, some borrowers miss out"
+    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years."
+    publishedDateTime: 2021-06-14T06:49:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/06/14/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/06/14/1183387.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Amazon India introduces machine learning summer school"
     excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
     publishedDateTime: 2021-06-13T10:56:00Z
@@ -66,6 +81,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "9h4vb/K3OJTkBJL0hHEqiMeNJsgYD0sMTrWm6pU+I2T372ly8gPaa2D6QyftThE+gSpWfNjfJVLtzYZ1pJzLvfQbU8nzbAIJwsM3nmfstf8b/8Cz0lpE0NIWqgWwmdTs2Pn1YKX5OMd5QCFcvi1ba75XvHCV1PGq01EtULNsPdrCUBa5dDtLvHzNEzdbA8Eezesx+IbZKydVaoEB/Jdox5LQSd5JLKBhKSKufHNeTBGQoob8V5KyACqFF1NOHqtZTJ2doM0/Y05BbbbMzQxB3BjCB2J9qjtXxSYqX4LvTlVR2+jLtIkuBXnQXuQF3Ycfq7GR60IkBQXQOJ4g9Nv6s23m7hhKlvua/+RzwF3DBsI=;XZ6yj1wwrBuapDw/51PzUA=="
+secured: "TsBYgfbAk22UQ+mhwSReXdShFqcAfAw1LpP3uQtmFaDJaMht7T88ICzp3MRCtoQnvUMpP0y8a0o3cKbRCVroDj2b1yZGOzYjmurZAx8npRU8OQiABXPm+yIP0i+9Y+N4tPwmC62BQEpd0ZT8DRtUc+QQpLrwDwD8lNctZ+AuRAgm5Aa8nxG0L86HzHc5fUzWnLpvGD95Cq6f/fqMPPekLJfOsTYr37FBm22Kh/GKyLhTjNZVziw60b6BOSQWbNP1gb920efLeK4ERUCXTUPyZ0rtlmHcRk7KlEkpRbcVzLtD6EvTdhQHY/Q+OJwhHZtlONJFJvObJxbEHjvnqKDXjTnKx93FBfhBHrMVxpKTK3aFvi12EcyNGb2PcmZD2fPS8AXLqenW+WQGo0fGs4A5NEIMmCKjGy0nitbQMiwX99Rq3YQ3qlA5xE0bRyApLXYwAB4IX+lojj8CHfYU0EhGyR66Dm36pZWYu3zYOuFoNrO6G5vQGYRo12xpJT7HpvATTQyRWxnI5WyfS5DEQIBn0w==;qt/P/1AsZYffK2TbJ3Wzdw=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 600
         height: 330
         isCached: true
+  - title: "Google Deploys AI to Build Better AI Hardware Accelerators"
+    excerpt: "Google reports that it is now using AI to build its future Tensor Processing Units. The company has published some work in this area before, about a year ago, but the announcement today indicates the technology has matured."
+    publishedDateTime: 2021-06-11T11:00:00Z
+    webUrl: "https://www.extremetech.com/extreme/323638-google-deploys-ai-to-build-better-ai-hardware-accelerators"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2017/04/TPU-Feature.jpg"
+        width: 1344
+        height: 742
+        isCached: true
   - title: "Startup’s AI Intersects With U.S. Traffic Lights for Better Flow, Safety"
     excerpt: "Thousands of U.S. traffic lights may soon be getting the green light on AI for safer streets. That's because startup CVEDIA has designed better and faster vehicle and pedestrian detections to improve traffic flow and pedestrian safety for Cubic Transportation Systems."
     publishedDateTime: 2021-06-10T16:31:00Z

@@ -51,20 +51,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Voice Recognition Expands Across Healthcare and Transportation"
-    excerpt: "Voice recognition has gained momentum across key application areas like digital banking, automotive control, healthcare, and consumer electronics."
-    publishedDateTime: 2021-06-09T14:22:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21166549/global-market-insights-voice-recognition-expands-across-healthcare-and-transportation"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/Voice_recognition_promo.60c0c0cb43e4c.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market to Eyewitness Stunning Growth by 2027"
     excerpt: "Industry analysis, growth development and current trends depicted in the Face Recognition Systems market report are of great help for the new industry players entering into the market. This market report delivers complete overview of the significant factors that will imapct the market growth such as drivers,"
     publishedDateTime: 2021-06-10T01:50:00Z
@@ -108,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "JbicAHT08mnLt4xluO/q8AXXJuk/BxdmVeBuYgsMeXPJHw7Rt10upR9f0CggyFIpNswm8ldxPHwCCYXxNVcfREvzQbFUuJPmLOYvrOkhySVqMbohh3KZJGZOeot1S4DLSlWCE9bz9ZqhxnXntkINmV15J8HH6OBJFPq+aT/JRPf4oZqogoQeW3H+nOHwYL0eWN3jCu5Z8PLl6thigrabYrPuv7iSfC+fFHW2g/+Fai7vTJ4akePgpAxQNCASkfK+53i/uKdRGaJCc35pWiVj0ZuCBxrVkk785NijUb3US9Y/1nJCXKr+19Ln2xoOJn2h2+ibXkmmBEjUYGbrQRhER7xrKukn8/mfW022gl7D5Bo=;E+KN/mOt3LwbR7I6RIi6UA=="
+secured: "ehqF/JHj6q1/iEVOqgA+eLioDaTN9A6SS9u8cuXW/7zMJNFNNYUlGlrMCA/mLNfvUkjUTl4yJWFpGymXlU57HfkDCnXUqoD5v8XoRTw1nnT8zoihXPjevau/wyZGeemwQhWt9EDlGcCgyR9zRADm0VLMePtgdykYPq88AA2Qc5fzuTBLuhxIWBwp6PRMN5XXsmZ/O7IfO3xIxH6eAMVdjSRAQcMZ1l5OhWbS7QoaoDJCbAZqK/uhEFQ5JnaoDr19vvGbYNn3OIRe1Sxoa4DHC3BqphUOG6zBydCx9VAtY4WQgHq5+2J3X++QFkEgBxVN+LF2WmYGDt/iPLIknwtxhVV0kODTTTvkSgQFF5tN0xw=;LpO29pSZfhAPccb1iVd8iA=="
 ---
 

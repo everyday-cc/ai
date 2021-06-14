@@ -51,6 +51,20 @@ related:
         width: 760
         height: 426
         isCached: true
+  - title: "As AI-based loan apps boom in India, some borrowers miss out"
+    excerpt: "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years."
+    publishedDateTime: 2021-06-14T06:49:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/06/14/as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/06/14/1183387.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "IITians Spearheading The AI Revolution In India"
     excerpt: "The IITians are making a mark in the domain of artificial intelligence. In this article, we are celebrating 20 IIT alumni currently leading AI in India. While some hold key positions in tech companies,"
     publishedDateTime: 2021-06-14T05:30:00Z
@@ -59,7 +73,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/IIT.jpg"
         width: 1600

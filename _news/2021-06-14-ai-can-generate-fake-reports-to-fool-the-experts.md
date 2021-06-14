@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence can now reproduce medical reports that can fool cyber experts and medical researchers"
+    excerpt: "Have you received alerts on social media informing you that a post may contain misinformation? Social media companies like Facebook and Twitter, among others have started flagging obviously polarized content."
+    publishedDateTime: 2021-06-14T06:21:00Z
+    webUrl: "https://www.timesnownews.com/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
+    ampWebUrl: "https://www.timesnownews.com/amp/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 38
+    images:
+      - url: "https://imgk.timesnownews.com/story/ArtificialIntelligence_istock.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"
     publishedDateTime: 2021-06-13T13:00:00Z
@@ -53,15 +69,6 @@ related:
         width: 420
         height: 630
         isCached: true
-  - title: "Special operations experience is at the core of this cybersecurity startup"
-    excerpt: "Culture matters. \"Quiet professionals that let results do the talking is oftentimes the antithesis of how Silicon Valley company operates,\" Horizon3.ai's founder says."
-    publishedDateTime: 2021-06-09T14:54:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/06/09/horizon3ai-uses-ai-to-prevent-hackers.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "nX7H9pcb0FRcdwZkSOVT969R8UqBIPbcmiwoYvmFZ/VucpfdnmlsUNssfr8JlVQ0VI1g2doIbB8d5TaqkcaREwlGJnJOpHHEMlt3G2z7ddXWz+6X4gKNOA6FXezmEcvOWfTps+HEIwVIv9eb0pz2iDlhEqE8oltQDr/UZgq0IEgv/h0jQQRnoQKkgtTK6jNZ4ZUkk8SMkNR97ySyIdabkJjf93qcc9e+m7kiMRPLovCjsPdSfGkkJxFcCmGYUlj29oYpnhzkoiogUQ/DdEmIl83Osz0xRwr5CjLVGxEWSqMyVtNw7TUxgs/nXrdzBGXOuxkoI72GUns3/KhIYy/fd87vSpMBUzhYPgY6nMJC0qc=;+CBW5Rf3Kv1ECL9yWKk5UQ=="
 ---

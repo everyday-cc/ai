@@ -52,15 +52,22 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Special operations experience is at the core of this cybersecurity startup"
-    excerpt: "Culture matters. \"Quiet professionals that let results do the talking is oftentimes the antithesis of how Silicon Valley company operates,\" Horizon3.ai's founder says."
-    publishedDateTime: 2021-06-09T14:54:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/06/09/horizon3ai-uses-ai-to-prevent-hackers.html"
+  - title: "Artificial Intelligence can now reproduce medical reports that can fool cyber experts and medical researchers"
+    excerpt: "Have you received alerts on social media informing you that a post may contain misinformation? Social media companies like Facebook and Twitter, among others have started flagging obviously polarized content."
+    publishedDateTime: 2021-06-14T06:21:00Z
+    webUrl: "https://www.timesnownews.com/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
+    ampWebUrl: "https://www.timesnownews.com/amp/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 38
+    images:
+      - url: "https://imgk.timesnownews.com/story/ArtificialIntelligence_istock.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "oRAw07rBTaK9wVBZbI6axw86b1wl0NYvdgMFQzI7NbrulojpEKQBfa/DSTCTzRqvN11DjBRSB5HBZQICJEA6wJQH1Nij6qA5gcsd0RL8kpm2mg3M68wpLY/KH9P8wVqVnmUDYEmwApNZ4b7lY8fmFPUvl0fT5ZYYO8qOvcl4kQByf8MyQQXcdSAX8t9bprRTsmBZAE6JVBG3sZjvtkRRzyCyTLg0hNvJB+Z8xZXqlUEO2lTY1fQjO5IyQ6exdb+RddP09qTHTMW5mPP0hxVEH0HmZD2OPqIN09095Gasvx7+Xlkp01QyW7e8xiuaImvpsodDrJ74AKiQnvJG4CkR3W8JYkpeb6lAA+F26dpVeTrW+HrfAv8Qy4Mn3rYZhf6smlvd28kV6qo7IXlrpPOIqtIhk9t8MrK+9bM14ih7C0Q/TRxs9JlhCDfWZOAasJYkdkYfTkXhhfksXXXVpXmWCCaw1+NQgmtskprYDC2kedYEYXWnUJKeiqdogVGJsdyPgan5K4lrg858ONhQh42uxw==;HGpM6SFngV3L44S8azA1Vg=="
 ---

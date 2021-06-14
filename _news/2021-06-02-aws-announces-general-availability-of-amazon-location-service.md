@@ -3,12 +3,9 @@ category: news
 title: "AWS Announces General Availability of Amazon Location Service"
 excerpt: "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications."
 publishedDateTime: 2021-06-01T23:48:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210601006014/en/"
-webUrl: "https://www.businesswire.com/news/home/20210601006014/en/"
+originalUrl: "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service"
+webUrl: "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: Business Wire
@@ -18,22 +15,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin"
-    excerpt: "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions,"
-    publishedDateTime: 2021-06-03T10:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-301304923.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1524928/Digital_Realty_Westin_Building_Exchange.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
-
-secured: "Dk/IsuPb9X0DfTMoi0jZefMF9yuuxbWHGQ/6rbtghO0biTN5hHFVsKEZhaOLasHTS2OAxrv+YCFLAnjFsyA24NmDpxwnTMi0SCZ/4NYnvXr9wvabNJqqiuZYOI4YrMaohjKJaFxJvWgoPwmIWtod/dYn5q3I6gOSZaurdBtlA6T5gp4QpEBPhIgSsMbOhb6kTUz5TBKvhhO2HhPlmQtEuA+0V95HZLOGDO2mj8ie80PxZSxVJiXVok+Fo58VtZ7vE/0rxYum8CFVJ7IN5hKYyo1fQwI3XCNapFxU6PjGQdAJ3PHno+uPXxbyfob33WjAaAaW3pNmNj8IMP3kiLVMLI2UEfl1jEu931p2bRTTTNk=;JzkhPruTRfB47NOSfn6how=="
+secured: "tCrN0Zar+Qyl5MQtKr4EzxuGVYrmu41aarLgKbx0xMAW14wj/bs6HD3fWQsmypB/R+eASv4sLlqaabvBa1+MD0ebQDuYJPjcn7Z0sF3w6E6Sd/0JVBuDsWIHH/g4Pjs0MhdhYapGYFzDvViw1ciLCsaiUvXmNWp33d0znC/Abz45mYSXrAjvtXN5pX9eQ4Hq+clp8b3NzMj3LbrZ1oR5c4Dt8kal/ZCIunzhuf5Yy6k0usGcmyZIsUOVtPHv4GS5L7TdKNfuQMlvVTzc6mOnXgAZEYgSEYRigoSeNYUbOI7jB/Wemwv4PIh5m/ClMMsf2FCAnmTQqtHoRzW4TTUBhTQUH+G/hYTUIApfdsXTdOU=;T/v4DGYJbGb0ZPt8uK3wGQ=="
 ---
 

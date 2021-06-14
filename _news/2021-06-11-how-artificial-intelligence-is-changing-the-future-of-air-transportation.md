@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How Advances in Artificial Intelligence and 3D Printing Are Changing Manufacturing"
-    excerpt: "Additive manufacturing, artificial intelligence, and machine learning are disrupting every industry—most notably manufacturing and aerospace and defense industries."
-    publishedDateTime: 2021-06-09T13:04:00Z
-    webUrl: "https://www.automationworld.com/factory/3d-printing-additive-manufacturing/article/21496905/3d-printing-technologies-in-aerospace-and-defense-industries"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 33
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Dick_Slanksy.5f246d27ae664.5fc66a75d84b7.601973ef45082.60632e4ecb1f2.60be36e010e97.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 730
-        isCached: true
 
 secured: "7UqF6RTA+Hrk71V82Q92XyRTNhfIYj2Ti6FKFXf7fpHFlkVyU5Yo+bfR68a1Z23IL29Aigu7ecLV40BoUC0I4EMBetO/8GFpx8rv8RKsjEiIJ2cyblUFhioOpnKqsypyL21PuS+rVPnl42KxA2mMvdwbaw98QU10IvLbGePZTgrRWAYROW2+OEfTMSDfZrYRCDAMWyTQekdB2HQVMjLj2EuUaBM05EcQKEfhoZHNfEzTNTpYKrFgHUMdrIgrP1mz1aA3josAEEho/kg82Ogz88LRMfnAL8cCywFIW3+9A0vnlL1/DIXY8Fl46GCmd8LCPY+nNnkBH2OEOdThWJ7+bL5W/LJ9Igdg79RmVNdfH4cEsK+brwCGrS2bCt6RFVHcUrxFMkW9+2Z0OaSakvY5aMH29RxGLo4uDvnbFHnho3a+1vOwViO6+ht2SJthZVIcZ9Va89PgjslG9t4DSJIBm+8YmJsgAKJxm3LnIR0f+xzOFWRGshlEwebVitXt2chpIOmyvBsj678tniYAFbhODw==;SZfCtC60IQnJJ8eXOj54Iw=="
 ---

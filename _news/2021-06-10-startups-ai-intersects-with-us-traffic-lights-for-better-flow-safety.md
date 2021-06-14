@@ -48,6 +48,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Google Deploys AI to Build Better AI Hardware Accelerators"
+    excerpt: "Google reports that it is now using AI to build its future Tensor Processing Units. The company has published some work in this area before, about a year ago, but the announcement today indicates the technology has matured."
+    publishedDateTime: 2021-06-11T11:00:00Z
+    webUrl: "https://www.extremetech.com/extreme/323638-google-deploys-ai-to-build-better-ai-hardware-accelerators"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2017/04/TPU-Feature.jpg"
+        width: 1344
+        height: 742
+        isCached: true
 
 secured: "XkXExc8aXViBQFilzqzTME27jzYUy2MX7OBQVK2/ucZnMrc+6NnUoRbuDwYWxxomfuriGEjgEa9Z+3mDgzV+vVmBqHlkr5BAd9+65CdtFm1PjUGs8rSYmEckYlIIiZxsE8SZkuGPrb/Oz13bFZcOcbxGOs8GFzkrz/4Xmg1IztzqzdIp2yDUC0w/uRzfS5bE3C1PT0B4C7CgLWLZgXBWyMDLCiEmiPUsoGA4uNbLsE2PBtnxpAIU6OwVEdrKf0wH9k2JNcg9hZDOV8daKW4O4DdyokQ/AGbAPBbNVBwblzmoddBN7WuczxjhcZ/9TpDiPL1iez8NTcv+ekN3O+QnkXexzyAw/pZ4fMZIaOVzRh8=;pUKRCwjTD4l1nRU0k7HtLQ=="
 ---

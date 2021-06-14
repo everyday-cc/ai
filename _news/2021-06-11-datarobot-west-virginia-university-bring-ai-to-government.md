@@ -28,12 +28,14 @@ related:
   - title: "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources"
     excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
     publishedDateTime: 2021-06-10T18:44:00Z
-    webUrl: "https://www.reuters.com/article/us-datarobot-funding/artificial-intelligence-startup-datarobot-seeks-to-raise-500-million-sources-idUSKCN2DM2KQ"
+    webUrl: "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NR1QC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NR1QC"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 78
+    quality: 98
   - title: "Artificial Intelligence Startup DataRobot Seeks to Raise $500 Million - Sources"
     excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
     publishedDateTime: 2021-06-10T19:55:00Z
@@ -43,6 +45,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 75
+  - title: "Talent matching startup Eightfold AI raises $220 mln in round led by SoftBank Vision Fund 2"
+    excerpt: "Eightfold AI, a talent matching platform, said on Thursday it raised $220 million in a funding round led by SoftBank Group Corp's (9984.T) Vision Fund 2 that doubled the company's valuation since the previous funding round to over $2 billion."
+    publishedDateTime: 2021-06-10T08:00:00Z
+    webUrl: "https://www.reuters.com/business/talent-matching-startup-eightfold-ai-raises-220-mln-round-led-by-softbank-vision-2021-06-10/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 57
+    images:
+      - url: "https://www.reuters.com/resizer/W1JocnNLqZ9H6Tu23ejAWRt-sIg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3EZBALS5SBPH5HCFFLUS6YWONE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial intelligence startup DataRobot seeks to raise US$500 million: Report"
     excerpt: "LONDON: DataRobot is in advanced discussions to raise fresh capital of about US$500 million in a funding round that could value the machine"
     publishedDateTime: 2021-06-10T21:10:00Z

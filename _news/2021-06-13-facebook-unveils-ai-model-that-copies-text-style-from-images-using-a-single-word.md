@@ -82,6 +82,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facebook Plans Smartwatch With Detachable Dual Cameras"
+    excerpt: "Facebook is reportedly planning to launch a smartwatch, possibly next summer, with a dual-camera display that can be detached for taking photos and videos."
+    publishedDateTime: 2021-06-10T04:25:00Z
+    webUrl: "https://www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/"
+    ampWebUrl: "https://www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/wearables/2021/facebook-plans-smartwatch-with-detachable-dual-cameras/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/smartwatch-Facebook-camera-wearables-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "AI Can Now Copy Text Style in Images Using Just a Single Word"
     excerpt: "We're introducing TextStyleBrush, an AI research project that can copy the style of text in a photo using just a single word. With this AI model, you can edit and replace text in images. Unlike most AI systems that can do this for well-defined,"
     publishedDateTime: 2021-06-11T16:08:00Z

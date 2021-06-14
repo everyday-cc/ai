@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-could-radical
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
         width: 1920
         height: 1897
-        isCached: true
-  - title: "How Advances in Artificial Intelligence and 3D Printing Are Changing Manufacturing"
-    excerpt: "Additive manufacturing, artificial intelligence, and machine learning are disrupting every industry—most notably manufacturing and aerospace and defense industries."
-    publishedDateTime: 2021-06-09T13:04:00Z
-    webUrl: "https://www.automationworld.com/factory/3d-printing-additive-manufacturing/article/21496905/3d-printing-technologies-in-aerospace-and-defense-industries"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 33
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Dick_Slanksy.5f246d27ae664.5fc66a75d84b7.601973ef45082.60632e4ecb1f2.60be36e010e97.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 730
         isCached: true
 
 secured: "GprhHe/JOwtsLHUNtPXXbeKAafTXqZizBS0IELZvJZVPHPaW54CLblONarsEMThLeUiSzEmTt5fafj1yN1Fdo9tCKWGkudHurAnWS0EFDL4SwoyU08RIBy35RuzXfCmPzU4Wb1HPMk8tRTG8KS26l1y8hCfqXPww43pn+uWgLrNtdDapeNCZl698/8NKctqBmL0gdl5VMhjcf0zwrdPOOrb22EPmjZYinwLeWKeBt3A1foqyekDT/sWuZafwqEEXJwV/mUaSkP2T/WjVGcce5fxxXksu/NkMv6xjN5XCdtj1Y/Kf+qXhw2/FqdruYaqjExwImtBhImxQVFXF7+GATo8r6V5dTfMGlj0ajFwUKCg=;o7i37SbdFu9jRbZnfXrQqQ=="

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon India launches 'ML Summer School' to impart core machine learning skills to students"
+    excerpt: "The curriculum will cover the fundamental concepts in ML, while linking them to practical industry applications through an immersive three-day course, it added. Participants of the ML Summer School wi"
+    publishedDateTime: 2021-06-14T06:55:00Z
+    webUrl: "https://www.indiatvnews.com/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609"
+    ampWebUrl: "https://www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 64
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/amazon-1200-1623653585.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon launches Machine Learning Summer School"
     excerpt: "Amazon India has launched ML Summer School to help train students in ML and address the growing demand for talent with this skill set across various industries, Amazon India said in a statement."
     publishedDateTime: 2021-06-13T19:39:00Z
@@ -59,6 +75,38 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Amazon India Invites Applications for Free Online Machine Learning Summer School for Students, Check Details"
+    excerpt: "Amazon India has invited applications from students for a three day free online machine learning summer school to be conducted from 9 to 11 July 2021"
+    publishedDateTime: 2021-06-14T05:15:00Z
+    webUrl: "https://www.dqindia.com/amazon-india-invites-applications-free-online-machine-learning-summer-school-students-check-details/"
+    ampWebUrl: "https://www.dqindia.com/amazon-india-invites-applications-free-online-machine-learning-summer-school-students-check-details/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/amazon-india-invites-applications-free-online-machine-learning-summer-school-students-check-details/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 55
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/AI_opt.jpg"
+        width: 850
+        height: 576
+        isCached: true
+  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
+    excerpt: "ML algorithms for improving address quality in India are being leveraged in other marketplaces to identify poor quality addresses and categorise addresses as Residential or Commercial, it added."
+    publishedDateTime: 2021-06-13T09:28:00Z
+    webUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/"
+    ampWebUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 53
+    images:
+      - url: "https://images.financialexpress.com/2021/06/amazon1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Amazon India Announces Machine Learning Summer School"
     excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
     publishedDateTime: 2021-06-13T11:48:00Z
@@ -87,6 +135,29 @@ related:
         width: 768
         height: 437
         isCached: true
+  - title: "Amazon India Launches Machine Learning Summer School"
+    excerpt: "The programme is open to engineering students in their pre-final and final year Bachelors, Masters, or PhD studies."
+    publishedDateTime: 2021-06-14T06:52:00Z
+    webUrl: "https://analyticsindiamag.com/amazon-india-launches-machine-learning-summer-school/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/amazon-India.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
+    excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML)"
+    publishedDateTime: 2021-06-13T19:24:00Z
+    webUrl: "https://www.dailyexcelsior.com/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 13
 
 secured: "6d5C/10d5Y9z8K+j8f+Umd4zEKbACgb5wmIl1hSyZgxJE4LxzoTu65/ikaqxFEe7tVvjnrT9QGrBpinIX/EpXWqdJ4ztOukjawuumYERuZYkui1uZs+8P2ewk1k+Q7RrUzJuNMJteS5i9rt9uN4ILbbcPpo1Yni5ivR/l+kFUNnBaz/2gq/OoSjx8QEP98Tehf3sQ4+D7iih/U9/toDxraPokxgn62F4eSvto0tV4sHQ6STUhGxeZzdMr9vf2pRk8Uo+9EiXCFeWlVYpvY4Kc8NqPTRJQNZjcJYMqbyGnkFVlaWKEuLQ3ZpJZKWGxPCvCThBm+YQg1pz5AEilBmb1UHa2XXUkMQqicnGPKdKzCM=;WtmmtVam+SA+Uh3SjIP39A=="
 ---
