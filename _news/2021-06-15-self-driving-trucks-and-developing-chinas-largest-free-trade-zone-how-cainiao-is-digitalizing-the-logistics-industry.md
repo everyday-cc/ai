@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
-    excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"
-    publishedDateTime: 2021-06-10T22:52:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 53
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/QyLB9ZxvxXi9dJVjl7-UuBVJvRk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/H6FJ6MFQQRBBVMJ4SWHMMSVTLY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
     excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
     publishedDateTime: 2021-06-11T11:22:00Z

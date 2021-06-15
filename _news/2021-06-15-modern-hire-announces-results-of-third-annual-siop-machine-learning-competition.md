@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Modern Hire Announces Results of Third Annual SIOP Machine Learning Competition"
-excerpt: "Modern Hire, a science-based hiring platform that enables organizations to continuously improve hiring experiences and outcomes with"
-publishedDateTime: 2021-06-15T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/modern-hire-announces-results-of-third-annual-siop-machine-learning-competition-301312038.html"
-webUrl: "https://www.prnewswire.com/news-releases/modern-hire-announces-results-of-third-annual-siop-machine-learning-competition-301312038.html"
+excerpt: "Modern Hire, a science-based hiring platform that enables organizations to continuously improve hiring experiences and outcomes with trusted science and technology, today revealed the winners of the third annual Society for Industrial"
+publishedDateTime: 2021-06-15T11:25:00Z
+originalUrl: "https://www.lelezard.com/en/news-19855838.html"
+webUrl: "https://www.lelezard.com/en/news-19855838.html"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1002767/Modern_Hire_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "rTt+I84iVtIx/6NzAw73IKUPcA36umJkDSu5yOHI08hguwETVD1ANWRf5ZCMW6iLFNPQdMMdEQ9amE6b0j8L2UfzqWddHOLJ5bkcw4H0VoYttDUjRIro05ZHL9FMa3O5QD3TdK8dgqDSjgqOvhElooD/Hd2w0b8CKooEbwTmxo8I1odXZFFYFL92CCNfGAXXMR1Fc/47qlX1zzjYPt5eqtWRVdPC5ydGOpZGJr8bmEFAOJ+tRezP+QAN8BzLvC7h+1GwmFs2F6Wxl7P3UiVK8RaeK+2WmFRFIx2KjzdE0NpJ/4nS8yI19dWNCUIEYMWv9wbNCZrQ6NnNCJdh1WCrqysfCX1r60s3gTnEi/dwpic=;umIgnFr/ICB/azIYeTrIgQ=="
+secured: "zaGn7pB0/zFibgJGUit341Rsa9G2e6f9jPUbfW9q7lnPdk3gt3FJ6UsC7hb27yC52wQ6VZicEqCza0tpfBwveZdq2/tH+a+0XpYAm+ZknOdm2k3Dy3CYbELbMRcDOQnEySXTVAZAvZx5FLApnKE/telZQDVtWBaPmwH/T85YW+xu3VuQB6nCrzaNYSMCar80ThWaoEiiJtz1woVx4MOHrf1OkhFN/WfTFRFoV5tqOuPCrWeWtceUG2tcAX/vjetAD7Q1QJeNvr4gQ0gqQGh+n9I9v7J1ixYPtefrvY7uiKBhOggi6ZIyy0RmtMJorX1y9PFzF03uDrkawjTFZ0TWkeheNhMCZ20PLA/vNqtnIFE=;uRdxoWAV4TxVmaj82JVjeg=="
 ---
 

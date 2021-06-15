@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 42
+  - title: "Facebook AI project works on turning your handwriting into a font"
+    excerpt: "Facebook's AI research project is “TextStyleBrush” and it is capable of copying text styles from images just by looking at one for reference."
+    publishedDateTime: 2021-06-15T15:35:00Z
+    webUrl: "https://techstory.in/facebook-ai-project-works-on-turning-your-handwriting-into-a-font/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/Facebook-TextStyleBrush.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook Open-Sources Expire-Span Method for Scaling Transformer AI"
     excerpt: "Span, a deep-learning technique that learns which items in an input sequence should be remembered, reducing the memory and computation requirements for AI. FAIR showed that Transformer models that incorporate Expire-Span can scale to sequences of tens of thousands of items with improved performance compared to previous models."
     publishedDateTime: 2021-06-15T13:07:00Z

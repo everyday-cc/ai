@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://static.tweaktown.com/news/7/9/79935_07_google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow.jpg"
         width: 620
         height: 348
+        isCached: true
+  - title: "A Google AI Designed a Computer Chip as Well as a Human Engineer—But Much Faster"
+    excerpt: "The team trained their agent with over 10,000 chip floorplans. With that library of knowledge, the agent could then explore various alternatives."
+    publishedDateTime: 2021-06-15T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/"
+    ampWebUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 69
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/06/google-AI-computer-chip.jpg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "Google’s AI Designs AI Chips Better Than Human Engineers"
     excerpt: "Google has proven that it uses AI algorithms to design AI chips. It takes 6 hours instead of a few months if people do."

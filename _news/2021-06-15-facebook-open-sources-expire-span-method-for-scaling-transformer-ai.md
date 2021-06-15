@@ -80,6 +80,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 42
+  - title: "Facebook AI project works on turning your handwriting into a font"
+    excerpt: "Facebook's AI research project is “TextStyleBrush” and it is capable of copying text styles from images just by looking at one for reference."
+    publishedDateTime: 2021-06-15T15:35:00Z
+    webUrl: "https://techstory.in/facebook-ai-project-works-on-turning-your-handwriting-into-a-font/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/Facebook-TextStyleBrush.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images"
     excerpt: "AI model created by Facebook researchers can imitate, edit, and replace handwritten and scene text using just a single word in an image."
     publishedDateTime: 2021-06-14T18:08:00Z

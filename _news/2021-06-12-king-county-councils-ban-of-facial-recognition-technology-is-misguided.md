@@ -9,7 +9,7 @@ ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-m
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_And_Personal__379967281.60c37fc0560ca.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Cops Elude Baltimore Ban on Facial Recognition Technology"
+    excerpt: "Critics say exempting police from a bill banning the use of facial recognition technology by residents, businesses and most of city government fails to take into account the potential for  racial bias identified as a key software issue."
+    publishedDateTime: 2021-06-15T15:20:00Z
+    webUrl: "https://thecrimereport.org/2021/06/15/cops-elude-baltimore-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
         isCached: true
   - title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
     excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial"

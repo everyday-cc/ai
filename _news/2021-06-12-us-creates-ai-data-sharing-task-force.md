@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force?amp"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Launches Task Force to Study Opening Government Data for AI Research"
-    excerpt: "The task force will draft a strategy for creating an AI research resource that could give researchers secure access to stores of anonymous data about Americans."
-    publishedDateTime: 2021-06-10T22:36:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 86
-    images:
-      - url: "https://images.wsj.net/im-352014/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google team creates next-gen chips using AI"
     excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
     publishedDateTime: 2021-06-12T14:44:00Z

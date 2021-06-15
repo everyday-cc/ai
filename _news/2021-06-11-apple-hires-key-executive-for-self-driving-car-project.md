@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/apple-hires-key-executive-for-se
 webUrl: "https://www.telecompaper.com/news/apple-hires-key-executive-for-self-driving-car-project--1386347"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Apple Hires Canoo Co-Founder to Work on Self-Driving Car"
-    excerpt: "Apple has hired Canoo co-founder Ulrich Kranz to help lead its autonomous car project, according to a Bloomberg report. About a month ago, Kranz stepped down as CEO of Canoo, a self-driving electric vehicle startup."
-    publishedDateTime: 2021-06-10T21:39:00Z
-    webUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car"
-    ampWebUrl: "https://www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
-    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/81339/apple-hires-canoo-cofounder-to-work-on-selfdriving-car/amp"
-    type: article
-    provider:
-      name: iClarified
-      domain: iclarified.com
-    quality: 44
-    images:
-      - url: "https://www.iclarified.com/images/news/81339/81339/81339-640.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "4mL/n3Q9j/rDFNW1HGcSUJnlPWJBwYG+KEEg5gogo9jyaeWAzHwld5CX6velqDCDcJRYX0OyQiUYwD56XVnbUtuf9KSDfpjVBPfhk54u2EEQ0Oc9SrohDV2TqolTjwg3uqI4RJQNra4cddVN0BcEQ1iuOWW2O5LK9aZRfvoLiW2Hbu/a1GzNdlaLtfofYkf+2ZXZ96brRQM6tq0KqiOWX+XMctHtsR34w1+jjQtgXy90SqMjslfl/aoOKAj4j1RdfWkk1xd7hHtQKpbMiP0oElRyLiCwnnPnLqNYF9d9m/nxUciixGplebgnItnaaknvuAoeMdCKsJAJWINsjPc3khOfJ3GU+CjyudpKFxYEt8Y=;kpZHOpXGkZi+acfzF0VvbA=="
 ---

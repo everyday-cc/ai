@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-mak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hidden Workers Helping to Make AI Systems Work Well, Fit Into Workplace"
-    excerpt: "An invisible workforce is behind the scenes helping to make AI programs work in their specific contexts; some feel they are undervalued."
-    publishedDateTime: 2021-06-10T22:01:00Z
-    webUrl: "https://www.aitrends.com/workforce/hidden-workers-helping-to-make-ai-systems-work-well-fit-into-workplace/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-11MechanicalTurk-2.jpeg"
-        width: 550
-        height: 550
-        isCached: true
   - title: "Thriving in an AI world"
     excerpt: "WHEN Covid-19 upended the world, businesses doubled down on digital transformation and raced ahead using artificial intelligence (AI) to meet new challenges. Now, according to our research, many organizations appear to be experiencing Covid-induced AI whiplash."
     publishedDateTime: 2021-06-13T16:49:00Z

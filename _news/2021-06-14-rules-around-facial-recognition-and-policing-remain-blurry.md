@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-call
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://images.wsj.net/im-353752/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "We must regulate the use of DNA data and facial recognition technology | COMMENTARY"
-    excerpt: "The use of facial recognition technology needs fixing. There’s no doubt about. Let’s fix it rather than throw it out the door."
-    publishedDateTime: 2021-06-10T21:08:00Z
-    webUrl: "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 53
-    images:
-      - url: "https://www.baltimoresun.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Canada Privacy Watchdog Slams Police Use of Facial Recognition Tool"
     excerpt: "Federal police broke Canada's privacy laws by using a US company's controversial facial recognition software in hundreds of searches, an independent parliamentary watchdog ruled Thursday. In a report to lawmakers,"
@@ -178,6 +162,6 @@ related:
         height: 267
         isCached: true
 
-secured: "U+50B96/fxrop+gW+WHIj6HHpASIN4EfEMPkwGsBJAc07M+Nl+08PAmOwCBfc+DKcaviO0qV/NXBP4vPf6dcLsB7BXEXgWWWYPg4bApHRizLCvtCVOdWoCaEviNc454SNhinO1IHL11b5VBBzb4wV4tzmD0r2+qUvnPikP9euzlsjGcLnK0cZxBsK92m/rudy//HCZVW3Ue0ndybXnCwN9ylNasGKc44GwGuWUrA4yEBJN1c2hRO86PVYEQrG1etYGx8KaU+mYkvaqV2CGNzVtOY4tYRXcU2A3yojZ29ZjuUtAYFXWAae1fvMZCpK/ad9AybrNc81EkMykoHQVY7IPvXYdpHV2ThUxXPFcKiL8w=;/uZp4TrUEdVzi7Rzw2CguQ=="
+secured: "wkOfbhH2xYgYhdqPs0nsx/K0LChmYvndw3oT+osLoeD2mA69TauJhhzrHdbxr6iXZBGACVHLvjIUNyEeMFHIjbnJTgfg+Cq6Mzm/pKJQqlTU2JOoQNM9kHFEhfQuaoawVV6ax6q0nhyrbJ45ieZKZfkG61zZwn9gHm86zbw/NUUovLCgTW4g7U2oH8zF3fZu6sNckLTSgb2K2TsgZaBp1BNCz/YfyOuOL9+H4CnpD5NyrmiaX3UbrMuR8MxHKFpd8ls1XgMAJ9eXjlIO5g7+gbb7NshcOaopkrhJl3qxqia7eFqeP+fGtvwTB/SppLCunnnmH7s0XBQ0LMkZ1Vl9QpNx6N5/ferZBX7SwK3M8+w4W1hqsLT/KTzhw+DZ+udxMvh0czC0nqjrgNcBxtYsON5hrba794DTlu20QqE+pdQe8yRT00J/Zr/4BjqV0uM4VO17JQflISWG8V7makAHIXnIGfhCmGJ5aplrTBOGlfeHkat0TrBF6wKDyrDopKd5Uo2Erq5M+KDCO1uPlNzCEQ==;UxKgQpDOVp9BfJ6KTv5CmQ=="
 ---
 

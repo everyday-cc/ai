@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: securityboulevard.com
       domain: securityboulevard.com
     quality: 58
+  - title: "Unlocking Value with AI-Powered Automation."
+    excerpt: "Adding AI to the automation toolkit helps organizations decide where to best apply automation to digital transformation."
+    publishedDateTime: 2021-06-15T15:29:00Z
+    webUrl: "https://www.cio.com/article/3622015/unlocking-value-with-ai-powered-automation.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/istock-1223005887-100892367-large.jpg"
+        width: 1199
+        height: 499
+        isCached: true
   - title: "AI-Powered Automation is Enterprise Automation 2.0"
     excerpt: "To meet this demand, we are turbocharging automation with artificial intelligence (AI) to enable enterprises to automate a broader set of tasks, as the following examples illustrate: Task elimination targets simple,"
     publishedDateTime: 2021-06-14T16:27:00Z
@@ -55,6 +69,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/06/istock-1205896326-100892145-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI-Powered Automation for Driving Business Performance"
+    excerpt: "Will AI and automation “replace” jobs? Some of the more hyperbolic headlines would have you believe that millions of jobs are being superseded by AI and machines. McKinsey cites studies that suggest that between 75 million and 375 million people around the world will need to change occupational categories and acquire new skills by 2030,"
+    publishedDateTime: 2021-06-15T15:22:00Z
+    webUrl: "https://www.cio.com/article/3621783/ai-powered-automation-for-driving-business-performance.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/picture1-100892365-orig.jpg"
+        width: 907
+        height: 605
         isCached: true
   - title: "How Game Theory Automates: From Self-Driving Cars to Fire-Extinguishing Robots"
     excerpt: "Game theory is an area of applied mathematics that deals with how participants use strategies and logical reasoning to make decisions in strategic situations like games. Game theory and Artificial Intelligence (AI) are implemented in online games and offline games,"

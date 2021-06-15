@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hidden Workers Helping to Make AI Systems Work Well, Fit Into Workplace"
-    excerpt: "An invisible workforce is behind the scenes helping to make AI programs work in their specific contexts; some feel they are undervalued."
-    publishedDateTime: 2021-06-10T22:01:00Z
-    webUrl: "https://www.aitrends.com/workforce/hidden-workers-helping-to-make-ai-systems-work-well-fit-into-workplace/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-11MechanicalTurk-2.jpeg"
-        width: 550
-        height: 550
-        isCached: true
 
 secured: "BDYAGySb/AjXBm5ERdpko/d/jL9AjdEGyLcZcyp5iZuO9KPn2J9aZhaddtmAajNnd2oI+jO0umY4A/CY+sdagSx5H96i+lUBtQ73q4rqFi6PbOEgtGRU0bbBQhTRCQ/JRz65WE0/jPtYb7aJnTrVLDITn3m3mH9H/ezyTQSIAa105qGwbGYeFH7bdf26tkGiARAj9DsDhrOTP3kWVcMmLxSmwI48O+u7+RVK4vEiQLpuHUBJETfSYpEZuJ2Lm5sJFIq5aQKmpLFshoZ9Xc8sf6wb+Ma/rQYNrj5u5LlK4dCRr8ESQOoCxZ0J8m91BG9rtqKyuJ0p95kdFoNKxx4oeYoemCYWfq0BfZV31RZzEmE=;DFITS08S9mhaC4u6TKU8uQ=="
 ---

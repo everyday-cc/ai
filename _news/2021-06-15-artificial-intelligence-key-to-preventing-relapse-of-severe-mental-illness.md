@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-key-rela
 ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-key-relapse-severe.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-key-relapse-severe.amp"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/is-artificial-intellig.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1176
     isCached: true
 
-secured: "qboYGyZxLUvAw2f55a5iEEaJxnqEoFMYod3qtRfBkEx8ZcufkTMlmdlRwOV4co6i/9D3RnZGdH5s14hgfqJhSwaGTh8d56PmrRkAzDbeJ11gfRWt3DOCtlusI0NOAiGmC0FpCWeIYd9RpT8Ig1HXjNWwaLkV8F/fjKJeFU6zsvGje+iG1wMurPiMfHQZYmCP0uaUUdS948I89JbO7HimpJEU98x+ij+p3r0cjsig4O4nQBkL+Fwfjtvaf6MUxItcmhKnTJreQds0Mt9Z/w14Zrx38sPWiw+9GJhCyIy/8vLJPbACP3SF1ZhOASJLsNCNH5Jy+O2GFLhA/IcmJohj+ZfuJmxfpN5+Jb1dv3LjwpA=;WyX2qezM2FXrcn8ePvTnaQ=="
+secured: "nHzxRH25V9uSU5UboqVfC3BkSRKqaxOSW3XoqohHs9ovKnjLhLSyjuC6sW/CV3ijv9yINsjfMFM/D/h1ejvv5ls0T8O+UcYWOFMbtvdfgKNYCMvr51iY5u6/VJVBHGc+RpZyF+iK2KgjhxR/8GW8i2x4mgV7tHweSDhLt+SsVAwcFGNpVzWpEzwA0DxtqK3ZzRW9XqCXi9GHUiFv8Atebk5DEmB3jYaUw9f8DcsDJda5YJHSkjrAH49gIHz5m959OpvS6Zg8zdYbtSAYmBVi0+TtqZdgxZdCgRz6fN8QnPa++IdvbM5C4hje/ioMK7ZRvNR6Y5KDyL/erXkzCN8M0uzdgD7KfM3AIEC1u58UMF7OBRDQAXNYvQ+CPoM4AcNAjZv18U66Qr25k+B4T2vrl+AevIq2KcHRivY9BcEXulDinCfHGf58GZlXM18wO5am7cJkFz0B3nKmi0W5/ykPBbZ+iqxPhKz34h+2pn5ciPPQRGsq5puFYWp5WellytGMvTm3AhRep9cphVheE3RVhA==;ZPkmajKlignB5nHyGkYuXw=="
 ---
 

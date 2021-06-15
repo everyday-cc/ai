@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence startup DataRobot seeks to raise US$500 million: Report"
-    excerpt: "LONDON: DataRobot is in advanced discussions to raise fresh capital of about US$500 million in a funding round that could value the machine"
-    publishedDateTime: 2021-06-10T21:10:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/artificial-intelligence-startup-datarobot-seeks-to-raise-us-500-14990512"
+  - title: "DataRobot adds automated AI reports, Snowflake integration"
+    excerpt: "The newest version of the DataRobot platform introduces time series model enhancements, automated AI reports, and more."
+    publishedDateTime: 2021-06-15T15:55:00Z
+    webUrl: "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/"
+    ampWebUrl: "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 48
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8695368/16x9/991/557/e9615d3f8fac5a826ae3bfa657aec6ec/or/business.png"
-        width: 991
-        height: 557
+      - url: "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all"
+        width: 1000
+        height: 620
         isCached: true
 
 secured: "TmKZbnVvZQkkWgRFPINQtKabM6aCmi6/o/ZeHpvcPYUIcxXIJWjeN991xRjkGC3nM9R8jjfIPx0R4ORhgPo/zJ345knmG1V+8hdrklonjtW+z7NndsSQhmHVmsYBxg+i34sHpx+dqE69T+VyCIV9tH5+kYz2g5Tyo1LTTe/bSPJLdoevtAlHkFYUkPQW6s/WFovPTrMzaRAMrAiIZdMFlMknoxDLhy0Zss1kduJkpfkpPcY0RCPWXnBcnnX4AkmoHjVYG211JnIZ6U65Vrqt8Y+VVn4Mgo89rtcs7UIgGz3OqUNH7Q5wCNQtuHlyw7UeYcEV5h5XJL7uledzeeSKedC7dakx3/QM5DRJzD0ADHqdArZUo1wsylOdkGgPDpueJjt0dCug57oxvAzDYquiKnJ+J4PFLT6ijP0ddq+lzGHKGZOsHbOwz+e8lfz/zfCcUAnPkcoZ/iJtraiah+YREeHwMnoHJ5lcTzSwwEBLjNtXMov/ETCjqhTqXo9Vokzsh4LmZ8Kuu7St9+MuUuT/EQ==;X8/Hav9Gd7ruPfcqiWUMnw=="

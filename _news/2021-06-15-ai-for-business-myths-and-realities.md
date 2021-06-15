@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-busines
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/amp/"
 type: article
 quality: 89
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is Revolutionizing Business’ Approaches to Accounting"
-    excerpt: "Artificial intelligence isn’t science fiction any more. Innovative AI is currently revolutionizing a wide range of industries and fields. Those who plan on"
-    publishedDateTime: 2021-06-14T06:39:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/06/how-ai-is-revolutionizing-business-approaches-to-accounting.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/06/how-ai-is-revolutionizing-business-approaches-to-accounting.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/how-ai-is-revolutionizing-business-approaches-to-accounting.html"
+  - title: "How GPUs can boost AI for your business"
+    excerpt: "Big data, HPC and cloud computing are starting to dominate IT, providing the bedrock for AI and ML processing. A solid hardware platform such as that provided by the Gigabyte G482-Z54 can deliver the CPU power and GPU density to meet the demands ..."
+    publishedDateTime: 2021-06-15T15:32:00Z
+    webUrl: "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business"
+    ampWebUrl: "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 57
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2018/05/0c5b3932e8a3c55634f939b1bee631c7.jpg"
-        width: 683
-        height: 512
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623768264/Gigabyte_G482-Z54_AMD_logo.jpg"
+        width: 1260
+        height: 710
         isCached: true
 
 secured: "9+fnM0p0ARyUiZST7kazhQqx7v/khXKV0WSD5y3JLQoBtI1/CEe7D6EfXqA7gQX5bWUrm9QTGQhKRyyRlRQHaATW6UgqhcID/jpVbgkbzN3yMuWWQWGbL6Q8o3zCiltNXiECHJBE1qlvVi+RxXx79PPp6wuS5CTt+3KUkfOMv2yEv798FAMfvcC4avYIo5DbLKS8IqSlaBcwlQCHe+7qKnIYBCz3dLwcpF7In/iesi5zhPpKeKMN4dDG2o/j+14LXXwpeSjFy+4cYgrBZHHSRpqc+mx0qKGM/y5Vf3p6lgrLpI9mzC76zgEfwTekF+nP0IxtIGgpk4UxWK98S50Cohj/cgTtQb6+dNPoZUCtheo7acUecgZ93SAT/NdG2bDpHvvwIf5013YyiPf8VRtkx/3G9R7I8N5cReLFp+tbu+FQ8pPYrIFLPvKk1PL+svo8fEb6wouS1baamOYbpBJNkWd2B0vJ8MjvLGrDpTFYFmyqgHIYpKejCq4fWAwl/WbF0xauSMQbxsC6KpxgGVg01w==;D2sTmcl3QgbI8cUZtA2Drw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-lau
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:

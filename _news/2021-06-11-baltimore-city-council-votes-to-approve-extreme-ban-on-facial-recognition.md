@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cops Elude Baltimore Ban on Facial Recognition Technology"
+    excerpt: "Critics say exempting police from a bill banning the use of facial recognition technology by residents, businesses and most of city government fails to take into account the potential for  racial bias identified as a key software issue."
+    publishedDateTime: 2021-06-15T15:20:00Z
+    webUrl: "https://thecrimereport.org/2021/06/15/cops-elude-baltimore-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
+        isCached: true
 
 secured: "vmah30Qq9G4HDrybH9PrpzSIS8hJVOS2gT0aAU7QenRExVv4cyFVqfryk3iA67YkGnWb7kGRvwKZNY5vfIA/vOIaATtiLrVJab94dlO8zwM3z7It0SsvTNMEgwq0/clT5FRLsLvGbkB89H1My7TQxOWnQla5kaolUe+EMM64zbcW1ku7XSMlnR6NfeUmdAm3znu0BsFF5wj4fsfadB9+B+O7yIB7V35rxfjqFC5Oi+O6CyNuCmxEz/yBliBhPhgFy0EHR8g8bj2DyNrgZLc6cxj8BMFMMyuEMloHpNBJUtea3UNm4bWuO6m2CNfGP+iw27Mn1IYY4o5wI48lsspA7D5Jfw6I9g6qMAoU7PCNJqQ=;C+eW09VXYeTblym76/1snA=="
 ---

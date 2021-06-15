@@ -24,6 +24,22 @@ images:
     height: 564
     isCached: true
 
-secured: "B1PIWk/n3PixgHqL14nP+5OM2NrTx/3pDsnC77hPgpWYrKcxvSy4zB+Y7CJjv3e276RK/xzglR0aFpjQiMX4vOa8rdabzCRWVVtBXO5SpC6mexLNZx8WzamdNilJqte7G+Ic92Cw9fGt1sWYGezYM5TxkewQpgTV8Ns7/FFXiISZ/KjlPwbECmt5AcCv2OTfLm9fOPCroDuVouIVcCv5il8doG8DqbgOUfjVdJ4PYagLZWT+90EKToUPmhsvlFuwte5y4GU4Zk2R/T2aHTIwFNH2j0e+vBGw6yu4pKnQIj+wdQdkKDEISCzQln3WSdhmjJ1u5GJ2Qm3/bzTnZZkUptyUGAJGyMERj1B3JKjb37A=;IlHgcCpyBNwh4OEi3X4Myg=="
+related:
+  - title: "Zillow Launches Zestimate With Neural Enhancements"
+    excerpt: "Zillow launched major updates to its Zestimate home valuation model, including an updated algorithm. The changes allow the algorithm to react more quickly to current market trends and improve the national median error rate to 6."
+    publishedDateTime: 2021-06-15T13:58:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/zillow-launches-zestimate-neural-enhancements"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 24
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-06/Zillow%20Logo%20%281%29.png"
+        width: 600
+        height: 300
+        isCached: true
+
+secured: "IV1QZBTVqQq8Qb6umUJ3dyBHUCr47n3TAM4sTfbhEhrTFuGq3WmMdD2ywQ2zOVyIBJHYDRDyJQx01TGgOm+XfOBlHPmI55XH+jsBxaTk6u6MkzYl+X8lGqMIeJSWE01abb+qE7m4CJea1icfQUrQz/IpORCq/phSTRRhbfPiVeiZRcxfjklV7PnDaorsLeIgbfj4YEBrx/IhYfY02r0VY81PBjyOZLdprO9OdvX2JPPdtnC/ZjxLVt/B9VMDu51GaHIb/CV3DtEAUgSRe5iG2uW3GK4LMVGi5lQ5Fab38We8zmrdLT5aZM6ExV0pX0Ft7f7i4dmBPVg3+urV5AuqlX3iz1CbbqRrMm+V/2W7+Dl5G2CFlMoa/S5oJg1Uz+Bq7S/2h1dPS1b/Yb0i+N3c/clrhDyJ4BPuPMn+SJKb7SPPN7j7iWOAUMw/eiBCTaRiq5u+Fl2mcTITGFk/YUAEk+/h2PY9TeTQrAjv8reUZs+m3Q8j3NbaRO40z7k3NcHpTVxcPmca3Wr2xA/m/s5yeQ==;MNvvxgRw6k2r9Ord0oCANQ=="
 ---
 
