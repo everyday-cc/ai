@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-multi-class-cl
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 768
     height: 385
     isCached: true
+
+related:
+  - title: "Artificial intelligence speeds land-use classification"
+    excerpt: "An EPFL Master's student has shown that artificial intelligence can be used to further automate the process of land-use classification in"
+    publishedDateTime: 2021-06-15T04:00:00Z
+    webUrl: "https://www.miragenews.com/artificial-intelligence-speeds-land-use-577777/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 37
+    images:
+      - url: "https://actu.epfl.ch/public/upload/fckeditorimage/17/c3/3875eeab.jpg"
+        width: 1168
+        height: 1168
+        isCached: true
 
 secured: "YHisWwIhsBOAuHVL4/2PmTgxYIkKh4nTrosIfBfostPquT2QjOSm/41vX6m2RDQQQZFj5OGS6cN1vjtSZxTCBClilVrnURCUyox9yiMNmIP4a5hcdCnpKkYqE3nfQvpKmz8oj4FPANvRG2LYEZ+L1hgLegDi1MjVpZtlvlOFsdCl2QUnjYg2OlXh7D7gCL0oxvTGESYDmukFdTftgcJ5Gi8GhSi0lUTsGuZjk2/IEiabBb/ZG7pwGaYG5KFi2MfekjkfeuRryCbl7Rw2yxuERCF0Vh82n3GHoYkIRt5p+KOfZl8uPxeOK/MeYQwj1kgfkhVLEBQHEMxfNa7XsKlMoamjcLIq1vg4k30X6a4ZKLc=;FalwEWr/3dAjr+uuivvOFQ=="
 ---

@@ -1,45 +1,26 @@
 ---
 category: news
 title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
-excerpt: "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ..."
-publishedDateTime: 2021-06-10T12:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html"
-webUrl: "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html"
+excerpt: "Beep – a provider of multi-passenger, electric, autonomous mobility solutions – today announced the launch of Yellowstone National Park's first-ever autonomous shuttle"
+publishedDateTime: 2021-06-10T12:04:00Z
+originalUrl: "https://www.wyomingnews.com/news/state/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3cf0caa3-6f67-5d42-a398-782dc1c8650f.html"
+webUrl: "https://www.wyomingnews.com/news/state/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3cf0caa3-6f67-5d42-a398-782dc1c8650f.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Wyoming News
+  domain: wyomingnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook"
-    width: 2700
-    height: 1413
+  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/e/8a/e8a6063f-fe16-5c8a-95f4-41e909d3a96b/60c20683c99ee.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
+    width: 840
+    height: 630
     isCached: true
 
-related:
-  - title: "Yellowstone National Park unveils self-driving electric cars"
-    excerpt: "Park officials have launched the first tests of electric vehicles in Yellowstone National Park that are capable of operating without drivers. The park on Wednesday launched a $360,000 public experiment into the potential future of visitor transportation,"
-    publishedDateTime: 2021-06-11T17:01:00Z
-    webUrl: "https://www.eastidahonews.com/2021/06/yellowstone-national-park-unveils-self-driving-electric-cars/"
-    type: article
-    provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 24
-    images:
-      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/06/11105733/Self-driving-shuttle.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "sy5uCiITpVIsZmWiG3KIkPUKOvDy2TEPW842zerY+vvKoqifEuCUUbECIUdNgiiDyh3y6EOW37K75NJUQ4QigXjeYqeprb3k8th3GfOI0IpQRMbIy7Blan6gGEgwGDh8oVDpmwpu2KcYO2oF+RnEPcg/K9qk1Bzo1b6c5mmB8Fx6iX2i3L0ATTY3nkce8gOdLN1z+WmFAEMcGOoRTAdJTpE91tMc4czLDWuxBtJUVRlDImRXI2lnkY7aSGBV+T/6lt2AZxlgI2JRctogJgS2lyoE7JtYmPWeIMjmCcj5fHvBukFmcKtCHIfFzPSOVKibQHmm3hNI47uO7s+Dxt49hkUGCfbymC5/EvKYhXlwlzU=;Q1l7dPl88gTqJYxd3nhsgA=="
+secured: "bjP1Tr2rF2oUlRskLyZC1ZY2a8aSumwJuOU7e/GOaWYWiA5nKVXmOsMRUirpHJbKBy08GxgYa3xHU4QwMg7mb2imZFuMsJAFlPXDafxzS9GWsYp/MaE/acrTSHNiBQRwaYydBct5KSEiRkzSX0Gv5LPidrWzgA+GXKXK8yyRVcGQBZVzF30NuBm6oZ7ZKG27qlKI0jyt8Zx3il2os7OoKFHWsnnlbmTwH4TMtXbN2FBdljTkiedfpSfQEZDUNlK1Z4zxJP9NHz2pitqLOC2gLDLh4GWTJ3/+pplo4hCFvCYDyfOOAdCYdoHWRmUeAdCU5cal8hQo2vXyOvMqE1/jAJD2H92mt73HGT5t+kHp1NE=;ESwbY07sOTtuTsi1XruU4g=="
 ---
 

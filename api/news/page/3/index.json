@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-11-ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth.md",
+      "title": "AI in Fintech Market Size & Business Planning, Innovation to See Modest Growth",
+      "excerpt": "AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast \"A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth-2021-06-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth-2021-06-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-three-challenges-ai-saas-startups-must-overcome.md",
       "title": "Three Challenges AI SaaS Startups Must Overcome",
       "excerpt": "The number of AI startups that offer unique business solutions is growing exponentially. A popular practice among these startups is to develop their algorithms or models by training them on the data from open sources.",
@@ -209,7 +261,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -364,7 +416,7 @@
       "originalUrl": "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -597,7 +649,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -992,7 +1044,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1172,59 +1224,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
-      "title": "How AI could radically change education and standardized testing",
-      "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "publishedDateTime": "2021-06-10T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

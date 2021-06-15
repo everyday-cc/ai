@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/374220"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374220"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/12/softbank.jpg"
         width: 974
         height: 550
-        isCached: true
-  - title: "The Briefing: Eightfold AI Raises $220M, PostHog Lands Series B, And More"
-    excerpt: "Mountain View, California-based Eightfold AI, developer of an artificial intelligence-powered platform for HR, raised $220 million in a Series E round led by SoftBank Vision Fund II. Founded in 2016,"
-    publishedDateTime: 2021-06-10T12:55:00Z
-    webUrl: "https://news.crunchbase.com/news/briefing-6-10-21/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 36
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2020/08/Breaking_News.png"
-        width: 900
-        height: 506
         isCached: true
 
 secured: "D8GtRwwHQhGvF5bQhdoN194DKSKeiutYGJGbgIzAU+GZKcmGafRgfxI15dm4Ux9yi/KjpidEQmV2o24+U//DffFAJOfw6fkGqmI7+KPXCv6crra/e/yL+P6ycpQXH+g3ofOQF3CPFJ67xbI+y5eyBLAcXooXdry0Te0Q0FMC7HzkJmE+OJlIKfXyZxMQq8VSoephTJlQW93cewWRtDnUHI5wZrn0JBl6NmwF84N5mp8XWZ5Ylhwqzbcee6/yS72vMqi3HaHWVpI8aHH+gbTspKOEYRBKdRbBDs5vbqQDi1R7z/z55DyNVdcFK2Ni1wjsKp42IQPCDK+IV3PlNu+FSTo2v308lO4xUHfuu4IEB5uVI/gbFGhNBsJ2RnTY2sFmLZszWufpiDMTQ8mH5U2x6oIgola+oev4c0HmE89z6VMUflWn+o/xI3mpSuf1H88WsgU0iziH8VD2bs4FBvDYvAOaYuvgYe7BBvSKNGObNX0igPQEcscVj2pppp9WoFyY6AITbRQnVA97xV404midKQ==;GqoGmAFMfsThCcPiB8wfjQ=="

@@ -158,15 +158,15 @@
       ]
     },
     {
-      "path": "_news/2021-06-15-fraud-protection-startup-nsureai-raises-68m-in-seed-funding.md",
-      "title": "Fraud protection startup nSure.ai raises $6.8M in seed funding",
-      "excerpt": "Fraud protection startup nSure.ai has raised $6.8 million in seed funding, led by DisruptiveAI, Phoenix Insurance, AXA-backed venture builder Kamet, Moneta Seeds and private investors. The round will help the company bolster the predictive AI and machine learning algorithms that power nSure.",
+      "path": "_news/2021-06-15-fraud-protection-startup-nsure-ai-raises-68m-in-seed-funding.md",
+      "title": "Fraud protection startup nSure AI raises $6.8M in seed funding",
+      "excerpt": "Fraud protection startup nSure AI has raised $6.8 million in seed funding, led by DisruptiveAI, Phoenix Insurance, AXA-backed venture builder Kamet, Moneta Seeds and private inves",
       "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/",
       "originalUrl": "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -217,7 +217,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -767,7 +767,7 @@
       "originalUrl": "https://www.space.com/orwellian-artifical-intelligence-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -941,6 +941,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-14-koreai-enables-mashreq-bank-to-enhance-customer-experience-through-ai.md",
+      "title": "Kore.ai enables Mashreq Bank to enhance customer experience through AI",
+      "excerpt": "Kore.ai, a conversational AI software company, announced its partnership with Mashreq Bank, one of the financial institutions in the UAE.",
+      "sourceUrl": null,
+      "webUrl": "https://ibsintelligence.com/ibsi-news/kore-ai-enables-mashreq-bank-to-enhance-customer-experience-through-ai/",
+      "originalUrl": "https://ibsintelligence.com/ibsi-news/kore-ai-enables-mashreq-bank-to-enhance-customer-experience-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ibsintelligence.com/wp-content/uploads/2017/10/Mashreq-Bank-Square.png",
+          "width": 589,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-13T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBS",
+        "domain": "ibsintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students.md",
       "title": "Amazon India launches 'ML Summer School' to impart core machine learning skills to students",
       "excerpt": "The curriculum will cover the fundamental concepts in ML, while linking them to practical industry applications through an immersive three-day course, it added. Participants of the ML Summer School wi",
@@ -1025,7 +1068,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1160,58 +1203,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-what-waabis-launch-means-for-the-self-driving-car-industry.md",
-      "title": "What Waabi’s launch means for the self-driving car industry",
-      "excerpt": "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
-      "originalUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
-      "publishedDateTime": "2021-06-12T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

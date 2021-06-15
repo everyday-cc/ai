@@ -40,20 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "The Briefing: Eightfold AI Raises $220M, PostHog Lands Series B, And More"
-    excerpt: "Mountain View, California-based Eightfold AI, developer of an artificial intelligence-powered platform for HR, raised $220 million in a Series E round led by SoftBank Vision Fund II. Founded in 2016,"
-    publishedDateTime: 2021-06-10T12:55:00Z
-    webUrl: "https://news.crunchbase.com/news/briefing-6-10-21/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 36
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2020/08/Breaking_News.png"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "S6k/vavjMnOdggs/vuxQ97Vs89HoZH4ak8LNiq776NK9QRDPMYWqFmF5yyaMAHRI7oJYQxZ8z7BJZ1iEE5terZGufp48fCOaiH3aitU5i2XM6E2H2X2/5yLHWlYllw1MyPaA5/82/n65+AjiNYbiL1qKIYpF0/rbFF5TA83WPs/wxbvKPYkPdO6kb5PBuSj5BUz60ZyuTOm+y9ERc9zJWbEATo5qLtw7ssBQJdXRTiPF4iLplzH39td+AeqMOzjI6NsjMgLZQ9QAelv7Nf+aYwORtwxbmbcoUxRV7FOVSi3fA7o7P0j4KKNU+zDN8IaxDrYENh2thHjetj3dmumCr82JRTjXMbgVXhMCm6JEl18=;hN+0nFW0dePPFO/PH/M6bw=="
 ---

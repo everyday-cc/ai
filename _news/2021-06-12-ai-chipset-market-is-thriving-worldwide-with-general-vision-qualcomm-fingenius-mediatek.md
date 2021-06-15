@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2303890/ai-chipset-market-is-thriving-world
 ampWebUrl: "https://www.openpr.com/amp/2303890/ai-chipset-market-is-thriving-worldwide-with-general-vision"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303890/ai-chipset-market-is-thriving-worldwide-with-general-vision"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.openpr.com/U/6/U612179940_g.jpg"

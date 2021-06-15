@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U611505535_g.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "AI in Social Media Market Detailed Insights on Upcoming Trends 2021 to 2031 | Google LLC, Microsoft Corporation, Facebook, Inc., Amazon Web Services"
-    excerpt: "(Trending Report Jun 2021) insightSLICE has recently published the AI in Social Media Market informational report which presents a large-scale guideline concerning present and past market trends, market size,"
-    publishedDateTime: 2021-06-10T11:56:00Z
-    webUrl: "https://ksusentinel.com/2021/06/10/ai-in-social-media-market-detailed-insights-on-upcoming-trends-2021-to-2031-google-llc-microsoft-corporation-facebook-inc-amazon-web-services/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 34
-    images:
-      - url: "https://giffiles.alphacoders.com/120/120251.gif"
-        width: 480
-        height: 306
         isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021-2027 Business Growth Updates | Top Players – Microsoft, NVIDIA Corporation, IBM, Atomwise"
     excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."

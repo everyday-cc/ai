@@ -166,7 +166,7 @@
       "originalUrl": "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -218,7 +218,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -291,6 +291,49 @@
       "provider": {
         "name": "Motor Authority",
         "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors.md",
+      "title": "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors",
+      "excerpt": "Beep – a provider of multi-passenger, electric, autonomous mobility solutions – today announced the launch of Yellowstone National Park's first-ever autonomous shuttle",
+      "sourceUrl": null,
+      "webUrl": "https://www.wyomingnews.com/news/state/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3cf0caa3-6f67-5d42-a398-782dc1c8650f.html",
+      "originalUrl": "https://www.wyomingnews.com/news/state/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3cf0caa3-6f67-5d42-a398-782dc1c8650f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/e/8a/e8a6063f-fe16-5c8a-95f4-41e909d3a96b/60c20683c99ee.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wyoming News",
+        "domain": "wyomingnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -986,24 +1029,33 @@
     {
       "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
       "title": "AWS announces winners of first DeepRacer Women's League in India",
-      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ...",
+      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
-      "originalUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
+      "webUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
+      "originalUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T12:21:00-07:00",
+      "publishedDateTime": "2021-06-03T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1380,58 +1432,6 @@
         "name": "poandpo.com",
         "domain": "poandpo.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-five-industries-reaping-the-benefits-of-artificial-intelligence.md",
-      "title": "Five Industries Reaping The Benefits Of Artificial Intelligence",
-      "excerpt": "AI (artificial intelligence) offers numerous opportunities ... It's not science fiction anymore; the driverless experience is a reality now. According to recent reports, it’s expected that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

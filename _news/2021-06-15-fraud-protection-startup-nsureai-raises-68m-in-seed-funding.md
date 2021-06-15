@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fraud protection startup nSure AI raises $6.8M in seed funding"
+    excerpt: "Fraud protection startup nSure AI has raised $6.8 million in seed funding, led by DisruptiveAI, Phoenix Insurance, AXA-backed venture builder Kamet, Moneta Seeds and private inves"
+    publishedDateTime: 2021-06-14T17:13:00Z
+    webUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/"
+    ampWebUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-613935822.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Israeli predictive AI fraud protection startup nSure.ai raises $6.8M"
     excerpt: "Israeli predictive artificial intelligence fraud protection startup nSure.ai Ltd. has raised $6.8 million in new funding to develop its AI and machine learning algorithms further. The seed round included DisruptiveAI,"
     publishedDateTime: 2021-06-15T01:56:00Z

@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.
 ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"

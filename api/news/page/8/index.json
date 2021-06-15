@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-08-localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.md",
+      "title": "Localized Prostate Cancer Therapy: Interview with Shyam Natarajan, CEO of Avenda Health",
+      "excerpt": "Avenda Health, a medtech company based in Santa Monica, California has developed the Focal Therapy System. It provides AI-powered prostate cancer therapy with the aim of treating only tumorous tissues,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2021/06/localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.html",
+      "originalUrl": "https://www.medgadget.com/2021/06/localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-computer-vision-firm-grabango-raises-39m-in-new-funding.md",
+      "title": "Computer Vision Firm Grabango Raises $39M in New Funding",
+      "excerpt": "The technology that allows retail stores to offer checkout-free shopping is coming to 4 additional Giant Eagle outlets this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/Grabango-GetGo-Checkout-CloseUp_1598964895_1623092600.jpg?L1Ub1ks4_v8DcUa4pkshmYjDGsptMGr.",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "publishedDateTime": "2021-06-07T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winsight Grocery Business",
+        "domain": "winsightgrocerybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-apple-moves-siris-speech-recognition-offline-with-new-privacy-updates.md",
+      "title": "Apple moves Siri's speech recognition offline with new privacy updates",
+      "excerpt": "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. For Siri, processing audio locally will alleviate some of the privacy concerns associated with audio recordings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html",
+      "originalUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bafadb70-c7c1-11eb-bd2f-9e1d51125afc",
+          "width": 2400,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
       "title": "Intento Named a 2021 Cool Vendor by Gartner",
       "excerpt": "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ...",
@@ -1008,152 +1137,6 @@
       "provider": {
         "name": "MD&M East",
         "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
-      "title": "2 Leading Tech Stocks to Buy in 2021",
-      "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F629373%2Fgrowth-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "publishedDateTime": "2021-06-06T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
-      "title": "Artificial Intelligence Market is slated to grow rapidly in the coming years",
-      "excerpt": "This research service provides a strategic analysis of the Artificial Intelligence Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-elon-musk-hails-israeli-startup-as-the-robot-future.md",
-      "title": "Elon Musk hails Israeli startup as the ‘robot future’",
-      "excerpt": "Fast-growing BionicHIVE transforms warehouses into automated hubs, with robots scaling shelves to retrieve and distribute packages",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/",
-      "originalUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/06/BionicHIVE-1-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/",
-      "publishedDateTime": "2021-06-06T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
         "images": null,
         "publishers": null,
         "authors": null

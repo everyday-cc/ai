@@ -2,9 +2,9 @@
 category: news
 title: "Meet Grace, the Healthcare Robot COVID-19 Created"
 excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
-publishedDateTime: 2021-06-14T20:20:00Z
-originalUrl: "https://m-cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created"
-webUrl: "https://m-cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created"
+publishedDateTime: 2021-06-14T20:10:00Z
+originalUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
+webUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
 type: article
 quality: 36
 heat: -1
@@ -46,6 +46,6 @@ related:
       domain: medindia.net
     quality: 39
 
-secured: "CVXvP4LBQZV4iuSPKEwSqLM69WTBIgLxkIEtF1TIgpwPGPN5KhJyGqyHJZdLYDDlPOOwfDA6fdALMAJDbLZ2Jyavq99Id0G+D1hJXUnESH93sdHmZ5O23roe0xubX58L0VY0j+NuZuKPY6wK9INGLSP+yMDm4+NZF1A7oAVvQNrUsGJlaNDF2aGQDNc0x9f/heevLvvbTAxb6wSEX3bwc3rhpZqnCnJQ4u1YlhARYF9ke0PJeOjhzVslFAytFzEXhQTSSl3XMYtDen9xmW0AxooO1lrou7FTJE+x2+YSMPDFfgwCoE3Qb+HGzM1ocCTTI76kwLRw9G3CAFwkhOu4Uc9+SKF0dIcR3cbTQ4YZyHz3ZYQ1pr9hzgUdZGvNMHosE5ZfC5DJgll/MWHRmvdoQQGshB05RHqO2yLAlo50nVM/SOdFhVLBF+P7t3F3qfDzIpMIVbMbIxVVhdWP6PAamWF9wX/6OHiiR/QOhYd77FkothxQEqPTB6DMGjJCvBpBkZG95daQCDJX7i0qvidwnA==;RgyGq2zl4CY/zEbYefwqrw=="
+secured: "ca8T0l0gOJukGRQvIkyzW5ZtperUpj8pmr2ujp1hNo5RAx9UCKCz7L/u2H2FDrXSWBWWqPxsIMSNFJFbDC5DolLHuhj8iQRaoPWvpIov4aG3uc/Rd9UkQsQUhQnFCGBBCZohoIVLIBrLVQ9oy0SNDLba5pW7EU0DbtrhOTqldosMyck1g2Be1lSGOIJJrENfE7wdVWEjmP95TdtXvWhv3I+bIOzEAU8+s3/fK+jhjRY+g7VixUllgXPRhfsfNbDR62hjJksQRCaoMCKGcZ9iwv3WW+st11/NMAKGP/0oa1oPfNIPPGp223EWuvwI9/BAwGVcs0UaEmBYOPBDE357TBSsnzcdSwlWYcNNHCExWvRUMmOcmG5g/l9bV7cxwejSfLdfDYh0kiqIKJyVSO66Kt5mLISpfPQcTIboHe4BqphuahaQ0nbpy2Stxms047TpZTR2cnhWtYSsr5sINQfNY4Xv10t569FFcsdfBjsDtKPnh4A4JtnLtAMAJEyQ2qZUKr2Ip/v9O7s9yz0EDwJnyw==;Zu7AcQdEd0MYWxbRUg0L5Q=="
 ---
 

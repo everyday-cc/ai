@@ -2,6 +2,152 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
+      "title": "2 Leading Tech Stocks to Buy in 2021",
+      "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F629373%2Fgrowth-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "publishedDateTime": "2021-06-06T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
+      "title": "Artificial Intelligence Market is slated to grow rapidly in the coming years",
+      "excerpt": "This research service provides a strategic analysis of the Artificial Intelligence Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-06T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-elon-musk-hails-israeli-startup-as-the-robot-future.md",
+      "title": "Elon Musk hails Israeli startup as the ‘robot future’",
+      "excerpt": "Fast-growing BionicHIVE transforms warehouses into automated hubs, with robots scaling shelves to retrieve and distribute packages",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/",
+      "originalUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/06/BionicHIVE-1-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/",
+      "publishedDateTime": "2021-06-06T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-the-rush-to-commercialize-ai-is-creating-major-security-risks.md",
       "title": "The rush to commercialize AI is creating major security risks",
       "excerpt": "Researchers from the University of Maryland presented an attack technique meant to slow down deep learning models that have been optimized for fast and sensitive operations.",
@@ -1085,152 +1231,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-transcript-ezra-klein-interviews-brian-christian.md",
-      "title": "Transcript: Ezra Klein Interviews Brian Christian",
-      "excerpt": "People hear about Google’s DeepMind. They hear about OpenAI. There’s obviously a lot of work at Tesla. And then, of course, also at Uber on how to do driverless cars. It’s not going to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.amp.html",
-      "publishedDateTime": "2021-06-04T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic.md",
-      "title": "How do you travel abroad safely during the covid-19 pandemic?",
-      "excerpt": "As countries start to open their borders to holiday-makers, confusion remains over which countries are safe, and what entrance requirements are necessary. If you plan to travel soon, here's what you s",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/",
-      "originalUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/06/04160028/04-june_covid-travel.jpg?width=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/amp/",
-      "publishedDateTime": "2021-06-04T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-ai-has-a-long-way-to-go-before-doctors-can-trust-it-with-your-life.md",
-      "title": "AI has a long way to go before doctors can trust it with your life",
-      "excerpt": "The FDA has approved 80 algorithms for radiology to scan images for signs of disease, but doctors can't trust them.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/",
-      "originalUrl": "https://qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/06/Radiology-chest-xray-e1622815265129.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/amp/",
-      "publishedDateTime": "2021-06-04T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

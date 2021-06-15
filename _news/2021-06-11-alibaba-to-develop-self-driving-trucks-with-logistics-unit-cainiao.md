@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL2N2NS05C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C"
 type: article
 quality: 89
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -62,6 +62,36 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Alibaba to develop self-driving trucks; aims to disrupt transportation sector"
+    excerpt: "Alibaba has said it intends to develop self-driving trucks. The Chinese e-commerce giant will work with its logistics subsidiary Cainiao, which expects to roll out 1,000 delivery robots next year, the firm's Chief Technology Officer Cheng Li said,"
+    publishedDateTime: 2021-06-11T07:47:00Z
+    webUrl: "https://www.businesstoday.in/sectors/auto/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/story/441378.html"
+    ampWebUrl: "https://m.businesstoday.in/lite/story/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/1/441378.html"
+    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/1/441378.html"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 56
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/alibaba_505_100621103106.jpg?size=1200:675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
+    excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
+    publishedDateTime: 2021-06-15T05:02:00Z
+    webUrl: "https://www.scmp.com/presented/business/topics/e-commerce-logistics/article/3136918/self-driving-trucks-and-developing"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 45
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/06/11/pic_1.png?itok=apb3nyzS"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
     excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."

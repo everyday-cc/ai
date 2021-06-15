@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1623430856_facebook_textstylebrush_examples_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "PyTorch Becomes Facebook’s Default AI Framework"
-    excerpt: "Facebook said it would migrate all its AI systems to PyTorch. Facebook’s AI models currently perform trillions of inference operations every day for the billions of people that use its technology. Its AI tools and frameworks help fast track research work at Facebook,"
-    publishedDateTime: 2021-06-10T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/pytorch-becomes-facebooks-default-ai-framework/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/facebook-AI.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
     excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."

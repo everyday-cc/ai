@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-busines
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:

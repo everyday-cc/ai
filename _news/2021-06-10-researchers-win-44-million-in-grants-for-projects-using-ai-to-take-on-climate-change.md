@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/researchers-win-4-4-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
-    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence"
-    publishedDateTime: 2021-06-10T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-ai-for-energy-and-climate-security-grantees-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
     publishedDateTime: 2021-06-10T17:00:00Z

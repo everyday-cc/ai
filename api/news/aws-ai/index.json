@@ -168,7 +168,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -368,6 +368,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-amazon-adds-global-clusters-to-documentdb.md",
+      "title": "Amazon Adds Global Clusters to DocumentDB",
+      "excerpt": "Amazon recently announced support for global clusters on DocumentDB, the document-oriented database compatible with MongoDB. The new feature allows users to deploy clusters that span across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/06/documentdb-global-clusters/",
+      "originalUrl": "https://www.infoq.com/news/2021/06/documentdb-global-clusters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/06/documentdb-global-clusters/en/headerimage/header-1623155564489.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1013,24 +1056,33 @@
     {
       "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
       "title": "AWS announces winners of first DeepRacer Women's League in India",
-      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ...",
+      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
-      "originalUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
+      "webUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
+      "originalUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T12:21:00-07:00",
+      "publishedDateTime": "2021-06-03T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1179,19 +1231,19 @@
     {
       "path": "_news/2021-06-03-digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin.md",
       "title": "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin",
-      "excerpt": "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,",
+      "excerpt": "AUSTIN, Texas, June 3, 2021 /PRNewswire/ -- Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm",
+      "webUrl": "https://www.marketwatch.com/press-release/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-2021-06-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-2021-06-03",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/483540/Digital_Realty_Trust_Logo.jpg",
-          "width": 400,
-          "height": 242,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1201,12 +1253,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T03:36:00-07:00",
+      "publishedDateTime": "2021-06-03T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1397,50 +1458,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-aws-deeplearningai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization.md",
-      "title": "AWS, DeepLearning.ai aim to bridge scaling gap with machine learning models via Coursera specialization",
-      "excerpt": "Primers: What is AI? | What is machine learning? | What is deep learning? | What is artificial general intelligence? In an interview with Ng and Saha, we touched on a few notable points ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "publishedDateTime": "2021-06-02T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AWS AI"
       ]

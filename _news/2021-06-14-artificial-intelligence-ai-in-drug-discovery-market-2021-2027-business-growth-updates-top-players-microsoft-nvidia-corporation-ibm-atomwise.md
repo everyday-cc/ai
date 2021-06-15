@@ -50,20 +50,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "AI in Social Media Market Detailed Insights on Upcoming Trends 2021 to 2031 | Google LLC, Microsoft Corporation, Facebook, Inc., Amazon Web Services"
-    excerpt: "(Trending Report Jun 2021) insightSLICE has recently published the AI in Social Media Market informational report which presents a large-scale guideline concerning present and past market trends, market size,"
-    publishedDateTime: 2021-06-10T11:56:00Z
-    webUrl: "https://ksusentinel.com/2021/06/10/ai-in-social-media-market-detailed-insights-on-upcoming-trends-2021-to-2031-google-llc-microsoft-corporation-facebook-inc-amazon-web-services/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 34
-    images:
-      - url: "https://giffiles.alphacoders.com/120/120251.gif"
-        width: 480
-        height: 306
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market : Strong Quarterly and Yearly Performance | Google, Samsung Electronics, Microsoft, Micron Technology"
     excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD XX Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. Latest added Artificial Intelligence Chipsets Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-06-11T17:03:00Z

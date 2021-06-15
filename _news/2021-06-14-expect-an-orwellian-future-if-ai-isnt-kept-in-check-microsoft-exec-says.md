@@ -9,7 +9,7 @@ ampWebUrl: "https://www.space.com/amp/orwellian-artifical-intelligence-future"
 cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/orwellian-artifical-intelligence-future"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forward Thinking on artificial intelligence with Microsoft CTO Kevin Scott"
-    excerpt: "How could AI help create jobs even in rural areas, and what would it take? In this podcast episode, Kevin Scott shares his ideas with James Manyika."
-    publishedDateTime: 2021-06-10T12:00:00Z
-    webUrl: "https://www.mckinsey.com/featured-insights/future-of-work/forward-thinking-on-artificial-intelligence-with-microsoft-cto-kevin-scott"
-    type: article
-    provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 60
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/forward%20thinking%20on%20artificial%20intelligence%20with%20microsoft%20cto%20kevin%20scott/mgi_ft_kevin-scott_hero_1536x1536-option1_vf.png"
-        width: 1536
-        height: 1536
-        isCached: true
   - title: "Microsoft Announce Powerful New Threat Detection Solution in Azure"
     excerpt: "Microsoft has announced new ‘seamless’ integration between their two services: Azure Firewall and Azure Sentinel. Azure Firewall is a Cloud-native network security service. It is a stateful firewall as a service (FaaS),"
     publishedDateTime: 2021-06-11T10:04:00Z

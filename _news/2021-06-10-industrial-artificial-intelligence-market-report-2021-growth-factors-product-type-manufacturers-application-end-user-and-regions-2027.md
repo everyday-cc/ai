@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning System Market Size Report 2021 by Global Industry Trends, Future Growth, Share Estimation, Revenue and Outlook till 2027"
-    excerpt: "Jun 10, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning System"
-    publishedDateTime: 2021-06-10T11:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-report-2021-by-global-industry-trends-future-growth-share-estimation-revenue-and-outlook-till-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "United States Artificial Intelligence Market Report 2021, Share, Size, Industry Trends and Forecast by 2026"
     excerpt: "According to the latest report by IMARC Group, titled “United States Artificial Intelligence Market, Opportunity and Forecast 2021-2026,” the united states artificial intelligence market expected to witness robust growth during the forecast period (2021-2026)."
     publishedDateTime: 2021-06-14T21:16:00Z
