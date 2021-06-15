@@ -39,8 +39,8 @@ related:
     quality: 39
   - title: "Meet Grace, the Healthcare Robot COVID-19 Created"
     excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
-    publishedDateTime: 2021-06-14T20:20:00Z
-    webUrl: "https://m-cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created"
+    publishedDateTime: 2021-06-14T20:10:00Z
+    webUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
     type: article
     provider:
       name: acm.org

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-10-mega-man-11-review-i-hate-bounce-man.md",
+      "title": "'Mega Man 11' Review: I Hate Bounce Man",
+      "excerpt": "The eight robot masters have been taken by the evil Dr. Wily, and it's up to you to get him back. You'll jump, dash and bounce in levels themed around each one of these mind-controlled bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
+      "originalUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings.md",
       "title": "Jobs Lost To Industrial Robots Amidst COVID-19 May Never Come Back To Human Beings",
       "excerpt": "With intelligent machines on the horizon and with an industrial focus on enhancing productivity and lowering costs in the post-pandemic era, artificial intelligence (AI) and autonomous robots are destined to win this bid of the future job market.",
@@ -1383,50 +1435,7 @@
         "AI",
         "AI in Robotics"
       ]
-    },
-    {
-      "path": "_news/2021-04-30-plus-one-robotics-raised-33m-from-investors.md",
-      "title": "Plus One Robotics raised $33M from investors",
-      "excerpt": "The funding round is the latest win for Plus One Robotics after strong growth throughout 2020. This year, it doubled the size of its Port San Antonio facilities. The funding will help the 44-employee company expand its operations in the United States and Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "originalUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/63/26/20919720/5/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "publishedDateTime": "2021-04-29T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 6
 }

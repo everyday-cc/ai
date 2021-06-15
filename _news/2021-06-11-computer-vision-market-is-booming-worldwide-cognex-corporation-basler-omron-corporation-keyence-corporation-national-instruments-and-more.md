@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Jacky Baltes, President, Federation of International Robotsports Association (FIRA) talks about robotics in the next 20 years"
-    excerpt: "The goal is to develop Olympic caliber robot athletes, to better understand human intelligence and the way that humans are interacting with and reasoning about the physical world around them."
-    publishedDateTime: 2021-06-10T08:00:00Z
-    webUrl: "https://www.digit.in/features/general/jacky-baltes-president-federation-of-international-robotsports-association-fira-talks-about-robotics-59723.html"
-    ampWebUrl: "https://www.digit.in/article/amp/general/59723/jacky-baltes-president-federation-of-international-robotsports-association-fira-talks-about-robotics"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/59723/jacky-baltes-president-federation-of-international-robotsports-association-fira-talks-about-robotics"
+  - title: "Clinical Natural Language Processing Market Research & Clinical Advancements by 2028 | Artificial Solutions, Verint Systems Inc., NEC Corporation"
+    excerpt: "In addition, production and supply chain delays were also witnessed during the second quarter which poised a challenge to the Clinical Natural Language Processing market, since end-user industries were still not operating at their full capacity."
+    publishedDateTime: 2021-06-11T17:44:00Z
+    webUrl: "https://manometcurrent.com/clinical-natural-language-processing-market-research-clinical-advancements-by-2028-artificial-solutions-verint-systems-inc-nec-corporation/"
     type: article
     provider:
-      name: Digit
-      domain: digit.in
-    quality: 47
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 2
     images:
-      - url: "https://static.digit.in/default/9070723c03493078108753c664309fe47a86e25c.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Global-Clinical-Natural-Language-Processing-Market-2-780x470.jpg"
+        width: 780
+        height: 470
         isCached: true
 
 secured: "/aApNsHqfXlStRiu/pEc2VCY26cjM//XrSPTQ3MIprLOr0CQtrApe8yfSgJ6M7sqI0k68J0hkRERbbmxZa5SJfYNZsejaJjE3GwB2zqYmnryIevgXr1tPQtfQHU/SgFh5Nuo+cI4sYjzioNoeWWQh3ic3WASLZ7mzYKCB7RU7/cow3tiH5izmyIsxfsMxTUyw4uB0zT7x22HuIsMrEim40STmJJmINQf8vLEQLO4gEKCN1afOx1HteHBY84uY14nKk9NNgiJVXkB4utEWMvJW48BqRmoIaqzDju5j5xg7I9+qZE4Ijy8SbMxfo8gFlqMTn2uPcVL8H74M/ouj2acSudjh1WnDp2Dxf2/kw1kWTE=;ZE9EQ8kfRlI6hd7egh3boQ=="

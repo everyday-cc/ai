@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-14T22:02:00Z
 originalUrl: "https://www.digitaljournal.com/pr/how-new-artificial-intelligence-ai-in-retail-can-adapt-to-an-evolving-market-amazon-web-series-llcgoogle-llcibm-corp-intel-corp"
 webUrl: "https://www.digitaljournal.com/pr/how-new-artificial-intelligence-ai-in-retail-can-adapt-to-an-evolving-market-amazon-web-series-llcgoogle-llcibm-corp-intel-corp"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
@@ -34,6 +35,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "4Jfa2cOLidi29qhfQMe9Ea/3Pf+1AHU6NUncj/uhrRc3xXkcS89ew6daa4IXLnzvqyuI9mvYPFBaG/sgWQOWJxOosiX/HNMDsAcqOZwWdrvYNdlDcdShVYeAKp0f56EjyJHUuVMNJ8G/UQZT2nMuBkkGAztig0kpKT2bA25GimT52OrV3AFxQup7XpJqw7VtEdWxUcN1MhV8FnsnMdETAAjinj1rQd2jJZ/FzwSXpVlVhnoaRDGBJhVidHcmirq+yBSea4J71ub7EC9j6VzEdFh8biuHCyi3jit96Ew/Q8KVXSG4IsDMgwJHCAvJz30D1JYDXS9iscf5Q8xv3JDDw9IUp4rDucBcfZLxdFx0m+k=;raDJUEorFYXHaHumPo6xeQ=="
+secured: "4RtFcZUCdiI7IrVLFhYAaYfwG8f456bdn/7BNkkaLcAY8zso3Y6XKtllMOwgU6nj9ysguu4Qz8CILWVDo+35dcwdo3D5HrxJ35qvOTusXpNiIf66M6v5TVz5ZlerVlkFf2+JeUAY8R0Cxsqxe5RzXEL+3FtrHSW9r9Sz+7mS4JKinqhANWJs3LqxeHSqsoEZGpS20bWCbCbAX8GF3jIM6pptnjB1UfB+ujRhdrEAQTLBHQAoNDkFcpqrNLq6wiV1OeXlDR1+vzZkYpZk9KxBH6ho5V/Ht7iRMmjZfQLwOgMB5LaDgfML9BsUiLqPPYefpRPmK4Wm03wewyQTSAFY30+NzV/UjbZQPxCy42DCoTw9+VKTg4gmEfBzlFBt9wemfMiM/69JN30Vuq/Ta38xyJ+Nqq6DWJU7nEi3qF0a3OyNJE+/Bze+XoNEUV/0ETygX4qhayImSCrt8Zv/96Xb8O8jg8VD3KkppnXNxJgINxo5RZkCuq6SdqzjO3ESQZsTWlRuWifjjKVza86PSfzt+A==;wFFkmIEuMeMFbossFi1UNw=="
 ---
 

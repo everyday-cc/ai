@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-05-17-3u-vpx-embedded-computing-for-artificial-intelligence-ai-electronic-warfare-ew-offered-by-curtiss-wright.md",
+      "title": "3U VPX embedded computing for artificial intelligence (AI), electronic warfare (EW) offered by Curtiss-Wright",
+      "excerpt": "The VPX3-4935 SOSA aligned module feature an NVIDIA Quadro Turing TU104 (RTX5000E) GPU that delivers 11.2 TFLOPS/TIPS performance. It provides 3072 CUDA cores, 384 tensor cores, and 48 ray-tracing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
+      "originalUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/05/Curtiss_19_May_2021.609ade048a9db.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Military",
+        "domain": "militaryaerospace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-how-crocs-used-robots-to-rule-the-comfort-economy.md",
       "title": "How Crocs used robots to rule the comfort economy",
       "excerpt": "Crocs emerged as a stay-at-home comfort essential and experienced unprecedented demand. As a result, the company quickly outgrew their distribution center and",
@@ -1099,40 +1142,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse.md",
-      "title": "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse",
-      "excerpt": "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21139096",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096",
-      "publishedDateTime": "2021-05-14T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

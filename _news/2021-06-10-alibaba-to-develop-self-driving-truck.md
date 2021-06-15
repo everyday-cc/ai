@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Alibaba plans self-driving trucks with logistics unit Cainiao"
-    excerpt: "Monitoring Desk Chinese e-commerce leader Alibaba Group Holding Ltd (9988.HK) plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
-    publishedDateTime: 2021-06-10T08:33:00Z
-    webUrl: "https://thefrontierpost.com/alibaba-plans-self-driving-trucks-with-logistics-unit-cainiao/"
-    type: article
-    provider:
-      name: The Frontier Post
-      domain: thefrontierpost.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2021/06/15-7.jpg?fit=959%2C539&#038;ssl=1"
-        width: 959
-        height: 539
-        isCached: true
   - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
     excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
     publishedDateTime: 2021-06-11T11:22:00Z

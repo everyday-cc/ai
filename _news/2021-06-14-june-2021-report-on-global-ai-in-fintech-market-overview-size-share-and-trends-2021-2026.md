@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Towards Broad Artificial Intelligence (AI) & The Edge in 2021"
+    excerpt: "Artificial intelligence (AI) has quickened its progress in 2021. A new administration is in place in the US and the talk is about a major push for Green Technology and the need to stimulate next generation infrastructure including AI and 5G to generate economic recovery with David Knight forecasting that 5G has the potential - the potential - to drive GDP growth of 40% or more by 2030."
+    publishedDateTime: 2021-06-14T20:57:00Z
+    webUrl: "https://www.bbntimes.com/science/towards-broad-artificial-intelligence-ai-the-edge-in-2021"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 54
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Developments.jpg"
+        width: 1200
+        height: 778
+        isCached: true
   - title: "Edge Artificial Intelligence Software Market Growth, Industry Analysis | Global and Regional Market Forecast to 2020-2028"
     excerpt: "The global edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected"
     publishedDateTime: 2021-06-11T08:12:00Z
@@ -121,6 +135,42 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 5
+  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
+    publishedDateTime: 2021-06-15T00:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548667-deep-learning-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
+    publishedDateTime: 2021-06-15T00:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
+    publishedDateTime: 2021-06-15T00:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "nDnk4wnrnjc27sAgdXygGu/ZY60KRfAU58r4iUTXa5HNb9hVG+RkBLkSMxOuyeXz6Zeeq7rgzSzHUhEVEKeOlgNyzxm1JQj/Zesq6IOPe04Pq94CkLwy0YZqR13kwMXWKOP3d381Ho3rLyn7VrD4IEtAnFAfmd+DhVzy3XfJjk+ZFaRe3wp7C69YwMHVF4RWi1U1xQi6Xi0vmBGX5PBr3/5A+Ge8QmKAE8NGatO2zSwB9R3t1wz03PujPTGYwKXLzj+04my02hT45zFlFDYrPOUfC7P/As45FjGila5drndnSH6UnRjQcxxJu/Ovw4G+7Rz1Gp2NZT8yYRLKboNLiJ4vxQ3tEmmwWq7386rtlfU=;EaBhngBXrkUf91eVXI3Ezg=="
 ---

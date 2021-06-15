@@ -94,6 +94,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Service Robotics market overview  Service Robotics market illustrates an"
+    publishedDateTime: 2021-06-15T00:03:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548505-service-robotics-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 6
   - title: "Industrial Robots for Automotive Market by Latest Trends, Future Scope of Key Players, CAGR Status, and SWOT Analysis by Regions Forecast To 2023"
     excerpt: "In a recent published report, Kenneth Research has updated the   report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
     publishedDateTime: 2021-06-11T09:33:00Z

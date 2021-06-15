@@ -104,6 +104,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "originalUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-tfl-considers-driverless-trains-as-part-of-108bn-emergency-funding.md",
       "title": "TfL considers driverless trains as part of £1.08bn emergency funding",
       "excerpt": "The Government has agreed a £1.08bn funding package for Transport for London (TfL) which will oblige it to develop a business case for driverless trains. The money will go towards plugging a hole in TfL’s funds that occurred following the drastic drop ...",
@@ -845,49 +879,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-01-artificial-intelligence-in-healthcare-market-worth-1202-billion-by-2028-grand-view-research-inc.md",
-      "title": "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc.",
-      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480318",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-120-2-billion-by-2028-grand-view-research-inc-1030480318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-01-instacart-bets-on-robots-to-shrink-ranks-of-500000-gig-shoppers.md",
       "title": "Instacart Bets on Robots to Shrink Ranks of 500,000 Gig Shoppers",
       "excerpt": "Automating much of its operations could help the company lower prices and appeal to a mass market. But Instacart needs industry buy-in.",
@@ -1025,6 +1016,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-01-artificial-intelligence-in-healthcare-market-worth-1202-billion-by-2028-grand-view-research-inc.md",
+      "title": "Artificial Intelligence In Healthcare Market Worth $120.2 Billion By 2028: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 120.2 billion by 2028 and is expected to expand at a CAGR of 41.8% over the forecast period, according to a new report by Grand View Research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-worth-1202-billion-2028-/2021/06/01/9380841.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-eib-sees-up-to-10-bln-euro-investment-shortfall-in-ai-and-blockchain.md",
       "title": "EIB sees up to 10 bln euro investment shortfall in AI and blockchain",
       "excerpt": "The European Union's attempts to catch China and the United States in artificial intelligence and blockchain technologies are set to be hobbled by an investment shortfall of as much as 10 billion euros ($12 billion) annually,",
@@ -1126,58 +1151,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-azure-arc-bringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments.md",
-      "title": "Azure Arc - Bringing The Best Of The Public Cloud To Hybrid And Multi-Cloud Environments",
-      "excerpt": "Microsoft is one of the first companies to exploit Kubernetes as the foundation for its hybrid and multi-cloud strategy. In just two years, it ported a dozen managed services to Kubernetes, branding them as Arc-enabled services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b5c3a5b8ac6ccbc84c9ae8%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/amp/",
-      "publishedDateTime": "2021-05-31T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

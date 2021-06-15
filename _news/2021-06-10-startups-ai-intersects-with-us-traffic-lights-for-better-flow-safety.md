@@ -34,20 +34,6 @@ related:
         width: 600
         height: 330
         isCached: true
-  - title: "Innobooster fuels artificial intelligence solutions"
-    excerpt: "Three teams leveraging artificial intelligence to develop solutions for the medical, legal and robotics fields have embarked on a 1.5-year course as part of the Innobooster program. Each team will receive CHF 150’000 to expedite the development of their solutions."
-    publishedDateTime: 2021-06-10T09:00:00Z
-    webUrl: "https://www.startupticker.ch/en/news/june-2021/innobooster-fuels-artificial-intelligence-solutions"
-    type: article
-    provider:
-      name: startupticker.ch
-      domain: startupticker.ch
-    quality: 39
-    images:
-      - url: "https://www.startupticker.ch/images/startupticker/startupticker_logo.gif"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Google Deploys AI to Build Better AI Hardware Accelerators"
     excerpt: "Google reports that it is now using AI to build its future Tensor Processing Units. The company has published some work in this area before, about a year ago, but the announcement today indicates the technology has matured."
     publishedDateTime: 2021-06-11T11:00:00Z

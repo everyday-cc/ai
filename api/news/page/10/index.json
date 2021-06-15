@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-04-global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031.md",
+      "title": "Global Light Therapy Market 2021 – Growth statistics, top trends, covid-19 impact and forecast 2031",
+      "excerpt": "ESOMAR-certified consulting firm Future Market Insights projects a positive growth outlook for the global light therapy market over the forecast period of 2021 and 2021. The market posted expansion at an impressive pace in the past,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2021-06-04/global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2021-06-04/global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-how-ai-is-addressing-the-enterprise-email-overload-problem.md",
       "title": "How AI Is Addressing The Enterprise Email Overload Problem",
       "excerpt": "AI-powered technology is helping businesses deal with their cluttered inboxes and better manage customer expectations.",
@@ -49,6 +92,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology-and-azure.md",
+      "title": "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure",
+      "excerpt": "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -230,40 +316,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology-and-azure.md",
-      "title": "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure",
-      "excerpt": "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1114,49 +1166,6 @@
       "provider": {
         "name": "American College of Cardiology",
         "domain": "acc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-discover-the-power-of-your-sexuality-with-artificial-intelligence.md",
-      "title": "Discover The Power Of Your Sexuality With Artificial Intelligence",
-      "excerpt": "Chances are that you have an app tailored to improve pretty much every aspect of your life, from diet and exercise to state of mind. So why not do the same for your sexual well-being? [...]",
-      "sourceUrl": null,
-      "webUrl": "https://thewestsidegazette.com/discover-the-power-of-your-sexuality-with-artificial-intelligence/",
-      "originalUrl": "https://thewestsidegazette.com/discover-the-power-of-your-sexuality-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/prod-zenger-storage/image/16-9_9e9b8fb8-437d-4806-8695-be81d4eeb447.jpg?20210528102637",
-          "width": 1023,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Westside Gazette",
-        "domain": "thewestsidegazette.com",
         "images": null,
         "publishers": null,
         "authors": null

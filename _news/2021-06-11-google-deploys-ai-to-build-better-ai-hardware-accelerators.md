@@ -41,20 +41,6 @@ related:
         width: 600
         height: 330
         isCached: true
-  - title: "Innobooster fuels artificial intelligence solutions"
-    excerpt: "Three teams leveraging artificial intelligence to develop solutions for the medical, legal and robotics fields have embarked on a 1.5-year course as part of the Innobooster program. Each team will receive CHF 150’000 to expedite the development of their solutions."
-    publishedDateTime: 2021-06-10T09:00:00Z
-    webUrl: "https://www.startupticker.ch/en/news/june-2021/innobooster-fuels-artificial-intelligence-solutions"
-    type: article
-    provider:
-      name: startupticker.ch
-      domain: startupticker.ch
-    quality: 39
-    images:
-      - url: "https://www.startupticker.ch/images/startupticker/startupticker_logo.gif"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Startup’s AI Intersects With U.S. Traffic Lights for Better Flow, Safety"
     excerpt: "Thousands of U.S. traffic lights may soon be getting the green light on AI for safer streets. That's because startup CVEDIA has designed better and faster vehicle and pedestrian detections to improve traffic flow and pedestrian safety for Cubic Transportation Systems."
     publishedDateTime: 2021-06-10T16:31:00Z

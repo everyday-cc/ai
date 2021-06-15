@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-11-three-challenges-ai-saas-startups-must-overcome.md",
+      "title": "Three Challenges AI SaaS Startups Must Overcome",
+      "excerpt": "The number of AI startups that offer unique business solutions is growing exponentially. A popular practice among these startups is to develop their algorithms or models by training them on the data from open sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2271c30081d6b6b1d53b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/amp/",
+      "publishedDateTime": "2021-06-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-save-275-on-the-ecovacs-deebot-t8-aivi-robot-vacuum-today-only.md",
       "title": "Save $275 On The ECOVACS Deebot T8 AIVI Robot Vacuum – Today Only!",
       "excerpt": "Amazon has the ECOVACS Deebot T8 AIVI Robot Vacuum on sale today in its Gold Box Deal of the Day for just $524.99. That's going to save you $275 off of",
@@ -54,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -158,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -313,7 +364,7 @@
       "originalUrl": "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -462,7 +513,7 @@
       "originalUrl": "https://thehustle.co/06112021-ai-writing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1046,7 +1097,7 @@
       "originalUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1174,58 +1225,6 @@
         "AI Ethics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-canada-police-broke-law-with-facial-recognition-software-regulator-finds.md",
-      "title": "Canada police broke law with facial recognition software, regulator finds",
-      "excerpt": "A Royal Canadian Mounted Police (RCMP) crest is seen on a member's uniform, at the RCMP \"D\" Division Headquarters in Winnipeg, Manitoba Canada, July 24, 2019. REUTERS/Shannon VanRaes",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/canada-police-broke-law-with-facial-reco-idUSKCN2DM208",
-      "originalUrl": "https://www.reuters.com/news/picture/canada-police-broke-law-with-facial-reco-idUSKCN2DM208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565225291&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH590UX",
-          "width": 810,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
+    excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"
+    publishedDateTime: 2021-06-14T18:13:00Z
+    webUrl: "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-353752/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Canada police broke law with facial recognition software, regulator finds"
     excerpt: "A Royal Canadian Mounted Police (RCMP) crest is seen on a member's uniform, at the RCMP \"D\" Division Headquarters in Winnipeg, Manitoba Canada, July 24, 2019. REUTERS/Shannon VanRaes"
     publishedDateTime: 2021-06-10T17:06:00Z

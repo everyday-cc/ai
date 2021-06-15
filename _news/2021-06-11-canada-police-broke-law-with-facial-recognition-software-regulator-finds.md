@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/news/picture/canada-police-broke-law-with-
 webUrl: "https://www.reuters.com/news/picture/canada-police-broke-law-with-facial-reco-idUSKCN2DM208"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
+    excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"
+    publishedDateTime: 2021-06-14T18:13:00Z
+    webUrl: "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-353752/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Canada privacy regulator says federal police broke laws using facial recognition software"
     excerpt: "(Reuters) – The Canadian federal police force broke the law when they used facial recognition software, the country’s top privacy regulator found in a report released on Thursday. The Royal Canadian Mounted Police (RCMP) said in February 2020 that for ..."
     publishedDateTime: 2021-06-10T15:57:00Z

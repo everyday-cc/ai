@@ -27,7 +27,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
         width: 600

@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-05-27-the-future-of-work-now-ethical-ai-at-salesforce.md",
+      "title": "The Future Of Work Now: Ethical AI At Salesforce",
+      "excerpt": "Baxter dove deeper into the nascent field of AI ethics, including how to educate fellow employees about ethical issues associated with AI, and guide product engineering teams about how to design technology in ethical ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afaecdf8d262169a8cdfe8%2F0x0.jpg",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/amp/",
+      "publishedDateTime": "2021-05-27T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-artificial-intelligence-workout-device-goes-global.md",
       "title": "Artificial Intelligence Workout Device Goes Global",
       "excerpt": "The product is a hand-held device that leverages pose recognition and other advanced technologies to create an optimal and customized workout based on an individual's goals and movement. The hardware boasts one of the latest chips from hailed GPU company Nvidia,",
@@ -1059,50 +1111,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lattice-looks-to-simplify-deployment-of-aiml-models-on-edge-devices.md",
-      "title": "Lattice looks to simplify deployment of AI/ML models on Edge devices",
-      "excerpt": "Enhancements include support for the Lattice Propel design environment for embedded processor-based development and the TensorFlow Lite deep-learning framework for on-device inferencing. The new version includes the Lattice sensAI Studio design environment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/lattice-looks-to-simplify-deployment-of-ai-ml-models-on-edge-devices/237549/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/lattice-looks-to-simplify-deployment-of-ai-ml-models-on-edge-devices/237549/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/237549/lattice.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

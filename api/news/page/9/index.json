@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-05-streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data.md",
+      "title": "Streamlytics aims to reduce AI bias by helping users sell their data",
+      "excerpt": "Streamlytics founder Angela Benton discusses her Clture app and why she believes \"democratizing\" data can help reduce AI bias.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/",
+      "originalUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/personal_data-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/05/streamlytics-aims-to-reduce-ai-bias-by-helping-users-sell-their-data/amp/",
+      "publishedDateTime": "2021-06-05T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-microsofts-first-gpt-3-product-hints-at-the-commercial-future-of-openai.md",
       "title": "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI",
       "excerpt": "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI.",
@@ -1159,49 +1210,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031.md",
-      "title": "Global Light Therapy Market 2021 – Growth statistics, top trends, covid-19 impact and forecast 2031",
-      "excerpt": "ESOMAR-certified consulting firm Future Market Insights projects a positive growth outlook for the global light therapy market over the forecast period of 2021 and 2021. The market posted expansion at an impressive pace in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2021-06-04/global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2021-06-04/global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

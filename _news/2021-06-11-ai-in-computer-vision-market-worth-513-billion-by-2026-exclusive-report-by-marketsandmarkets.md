@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
-excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application"
-publishedDateTime: 2021-06-11T13:34:00Z
+excerpt: "CHICAGO, June 11, 2021 /PRNewswire/ -- According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application ..."
+publishedDateTime: 2021-06-11T13:33:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
@@ -66,6 +66,6 @@ related:
         height: 630
         isCached: true
 
-secured: "r1aNoI9H5uUJH09Ja7p4CuOR+T0lkLUbYCekT5X0TkNLKtJVALXVJ3MJKSgp/aSJnmtKs/pzxVziz5FC/eFUBccIa3rhv4+a7W/upmIu5g90YiwTM9HSED1Dt0wFHjSPuEeb07bj98s91JPlQEm70kdH2HnlOqtxbM3wniuKE/oWZnSNIh+h/LzckOFTSnnakDa5UB6efLXqLbqKur5/1mzEDBfHSJh4v6UitHJi7peFAQX9k2aNyllDIaH1OpEfid0HQCR+yiIx8A3c4WyTrsZcxivrq9ys5m2lFTf8nO4V2OepbFMG33Sn4rZrBvMZKTbjXNBUglMgws0PiWoLw1IC87IdpkeYVy5a24UvmzA=;p0qWu76NOnt5VkoJpYn/nQ=="
+secured: "i0NJF/xFy4FgU8IFqwqZrWDBkDI25gv92Dw2eP2was/B7+Vs47jdLs9Fx1LomIhkWLw7DDEgQxTr52W4zhNdtQJvIKq2qg6R2rrpbiHadwNPfW8BI0SoGvDsRGFzlVswG62A4DruMy5TdxYdKHKY6kT2oJrcjmhszURQs0inWRpNe+AzcjOmj2hRKN6qA3n4+Vd34crEhxFqNlg0lS+rJ1Md0fLUfgBH3GO+C9T32P21S4M/4Nt5S/dKseDcLK7bbF0JLN1e/JSBHJqfypbw7MXVOL8pf+ISrYIdNu4spAzfJbSLufOkOOSa7m4EovOX25bMzYB9wbhaJAt1z4ZPKn0I3UxTQMi2LkkcvLEwgsc=;ghpo9TAKxo9g7iiOdrobaA=="
 ---
 
