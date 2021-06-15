@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia acquires hi-def mapping startup DeepMap to bolster AV technology"
-    excerpt: "Chipmaker Nvidia is acquiring DeepMap, the high-definition mapping startup announced. The company said its mapping IP will help Nvidia’s autonomous vehicle technology sector, Nvidia Drive. “The acquisition is an endorsement of DeepMap’s unique vision,"
-    publishedDateTime: 2021-06-10T23:52:00Z
-    webUrl: "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/"
-    ampWebUrl: "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 172
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-10-at-2.54.41-PM.png?w=1024"
-        width: 1024
-        height: 560
-        isCached: true
   - title: "Nvidia to acquire high-definition map maker DeepMap"
     excerpt: "Nvidia has agreed to acquire precision mapping technology provider DeepMaps for an undisclosed amount. The deal should close in Q3"
     publishedDateTime: 2021-06-12T00:39:00Z

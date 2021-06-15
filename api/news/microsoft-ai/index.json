@@ -46,6 +46,50 @@
       ]
     },
     {
+      "path": "_news/2021-06-11-vehicle-speech-recognition-system-market-to-see-thriving-worldwide-apple-mercedes-benz-microsoft.md",
+      "title": "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft",
+      "excerpt": "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
+      "originalUrl": "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U611505535_g.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
+      "publishedDateTime": "2021-06-11T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-artificial-intelligence-in-drug-discovery-market-current-impact-to-make-big-changes-microsoft-google-atomwise.md",
       "title": "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise",
       "excerpt": "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market.",
@@ -766,8 +810,8 @@
       "title": "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure",
       "excerpt": "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -777,21 +821,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T04:00:00-07:00",
+      "publishedDateTime": "2021-06-04T02:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1319,52 +1354,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
-      "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
-      "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
-      "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-Illustration-2.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-30T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Google AI"
       ]
     }
   ],

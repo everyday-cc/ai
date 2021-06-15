@@ -1,23 +1,23 @@
 ---
 category: news
-title: "Appen's Annual State of AI Report Finds a Shift to Internal Efficiencies"
-excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released its seventh annual State of AI report. This year's report reveals a significant year-over-year increase in AI budgets,"
-publishedDateTime: 2021-06-15T12:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-appens-annual-state-ai-report-finds-shift-internal-/2021/06/15/9390378.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-appens-annual-state-ai-report-finds-shift-internal-/2021/06/15/9390378.htm"
+title: "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies"
+excerpt: "State of AI Report Finds a Shift to Internal Efficiencies. AI budgets up significantly and decisions moving from C-suite to technologists, away from “silver bul"
+publishedDateTime: 2021-06-15T07:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210615005050/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies"
+webUrl: "https://www.morningstar.com/news/business-wire/20210615005050/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "hrMJQF4zlUh2c+MTbra6bFb7nXlTJaySdAWmYefDss++DrZilNinGrav7oVzMRlEzdmxIaEKlVbnzgrHPJpA5D0ryrzByxGNXBd1VeBr4Ya+OJ6O3IqvTjgb1WRBEleEU7WyBiWKoBn6y4KoApNzuH4cGd9Y7gq5YffburkfwiijyYrhesd1Llx11koGLahftKvcE5c9vkjBMKjO/SLzeSUcrhEtgmnGRe179Wd7OVT4jqMQcJDznn0U71kqyoGBoe/ISGwvK4qSbuuUn+OG37GHoBXVq+bKij/fkAgU/fb5yg++zXBPRoHVPLHKTXVbAZt8FQ+EYCrHlTSNCj/0zotCeW1xfkmq8EI1FnHhO4w=;v+8ph57iT09i1zxKhqXmaQ=="
+secured: "Q1e+wXYvznU7fRLd5WPHeqtlN854zNDz33o915MfiysQQb84mz2dcnNUkkJELdw4qGfsuVQ+gEWIUdYsiIKfdyagGdB7ueOYvoZ9+Ivirg0sFaR0ZbP+w6+KFTi3DhCTR9Xv4fQOqKFNE1Wj4LK2xggoHTHw+plYA2fpEuy7p5kL8qy6/pCw5a61systWIoun7iYtcD5G5i3rghpXkMa2UtZkXgBoXhlxDg+1wbjSk+esb9gFQVD5zDWQCHzAdqqdecGnemqj1dooK2vF70tMMnzgvA9PL2j31L5ZaeJxWdlWBkKtHs12VTKJE0LoTdamqvXrQ1ubDccqwjM1WerJB7ifni15GZ4c2MGcW0YxHk=;7gwqgDaFfKkbgNZslnBy+w=="
 ---
 

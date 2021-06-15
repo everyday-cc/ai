@@ -2,100 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-06-12-university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree.md",
-      "title": "University of Toronto deep learning pioneer Geoffrey Hinton receives honorary degree",
-      "excerpt": "When you translate a sentence using Google, or ask Siri to send a text, or play a song recommended by Spotify, you are using a technology that owes much to the innovative research of Geoffrey Hinton.T",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "publishedDateTime": "2021-06-11T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ai-dominated-scientific-output-in-recent-years-unesco-report-shows.md",
-      "title": "AI ‘dominated scientific output’ in recent years, UNESCO report shows",
-      "excerpt": "The UNESCO Science Report 2021 discusses AI, robitics, Industry 4.0, and a spike in scientific reserach, patents, and spending.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "publishedDateTime": "2021-06-11T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-12-can-ai-solve-your-hiring-problems.md",
       "title": "Can AI Solve Your Hiring Problems?",
       "excerpt": "So then can AI (Artificial Intelligence) help out? Well, it definitely can. The irony is that many companies are using the technology—and don’t even realize it! The reason is that AI is built into the top online job sites.",
@@ -147,6 +53,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-12-nvidia-to-acquire-high-definition-map-maker-deepmap.md",
+      "title": "Nvidia to acquire high-definition map maker DeepMap",
+      "excerpt": "Nvidia has agreed to acquire precision mapping technology provider DeepMaps for an undisclosed amount. The deal should close in Q3",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/",
+      "originalUrl": "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/06/Deepmap-nvidia-featured-web.jpg",
+          "width": 780,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-can-we-afford-ai.md",
       "title": "Can we afford AI?",
       "excerpt": "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy.",
@@ -155,7 +104,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -404,7 +353,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -561,7 +510,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -748,6 +697,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-vehicle-speech-recognition-system-market-to-see-thriving-worldwide-apple-mercedes-benz-microsoft.md",
+      "title": "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft",
+      "excerpt": "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
+      "originalUrl": "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U611505535_g.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
+      "publishedDateTime": "2021-06-11T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -948,6 +941,50 @@
       "topics": [
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
+      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
+      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "publishedDateTime": "2021-06-11T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1199,48 +1236,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-google-updates-search-algorithms-to-combat-online-slander.md",
-      "title": "Google updates search algorithms to combat online slander",
-      "excerpt": "It's a rare move for a company that's been historically reluctant to intercede when it comes to search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/google-updates-search-algorithms-to-combat-online-slander/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/google-updates-search-algorithms-to-combat-online-slander/ar-AAKUPrc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/UYThjzdVAjxEti6VUxLuSxvyLjE=/1200x630/2021/06/10/8905b9f4-0c58-40ad-882b-4a33200835ad/gettyimages-1191438752.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-updates-search-algorithms-to-combat-online-slander/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-updates-search-algorithms-to-combat-online-slander/",
-      "publishedDateTime": "2021-06-10T17:51:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnet.com/news/google-updates-search-algorithms-to-combat-online-slander/",
-        "domain": "cnet.com/news/google-updates-search-algorithms-to-combat-online-slander/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

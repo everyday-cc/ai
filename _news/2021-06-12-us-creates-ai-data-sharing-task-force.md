@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force?amp"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/12/637b96f2-baff-40c9-8a3e-e52cc3d25007/thumbnail/1200x630/9a0e4a50d7bf6eb0ce3ece37e29a0481/0612-satmo-aiart-slivabraga-733346-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Task force to find ways to make U.S. government data available for AI research"
-    excerpt: "A U.S. government task force launched today is working on a strategy to provide artificial intelligence researchers with access to massive amounts of data on American citizens. The National Artificial Intelligence Research Resource Task Force is part of a broader effort to ensure the U."
-    publishedDateTime: 2021-06-11T00:13:00Z
-    webUrl: "https://siliconangle.com/2021/06/10/task-force-established-find-ways-make-u-s-government-data-available-ai-research/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/open-government-5450141_960_720.png"
-        width: 960
-        height: 593
         isCached: true
   - title: "White House partners with NSF to stand up National AI Research Resource Task Force"
     excerpt: "The task force will look at how to expand access to AI education and other critical resources, and it includes members from NIST, Energy and top universities."

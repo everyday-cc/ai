@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-09-six-of-the-smartest-applications-of-artificial-intelligence-in-business.md",
+      "title": "Six Of The Smartest Applications Of Artificial Intelligence In Business",
+      "excerpt": "Businesses that want to figure out how to best leverage artificial intelligence can experiment with unique ways of using it. Through trial and error, a company can track its results with AI initiatives and find out what works best for its specific needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/06/08/six-of-the-smartest-applications-of-artificial-intelligence-in-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/06/08/six-of-the-smartest-applications-of-artificial-intelligence-in-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be411afd2c34f23138d7e0%2F0x0.jpg",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/06/08/six-of-the-smartest-applications-of-artificial-intelligence-in-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/06/08/six-of-the-smartest-applications-of-artificial-intelligence-in-business/amp/",
+      "publishedDateTime": "2021-06-08T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud.md",
       "title": "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud",
       "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its",
@@ -1166,59 +1217,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-man-group-oxford-quants-say-their-ai-can-predict-stock-moves.md",
-      "title": "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves",
-      "excerpt": "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

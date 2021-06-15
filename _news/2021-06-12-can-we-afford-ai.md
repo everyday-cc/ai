@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "What’s Next for Conversational AI?"
+    excerpt: "But this barely scrapes the surface of what conversational chatbots can do. So what comes next for conversational AI (CAI)? Conversational AI solutions play a critical role in connecting the dots between various elements of customer experience (CX)."
+    publishedDateTime: 2021-06-15T17:18:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/whats-next-for-conversational-ai/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/whats-next-for-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/whats-next-for-conversational-ai/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/caaef8bed56a4fd49add84d98adbc896.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Should Organizations Fear Artificial Intelligence? 9 Reasons Humanity Should Fear an AI Takeover"
     excerpt: "Artificial Intelligence (AI) is a transformative technology. It may undoubtedly prove beneficial for the future but a complete AI takeover is also highly likely, if due measures aren’t taken now. AI is creating fear and excitement by disrupting several industries."
     publishedDateTime: 2021-06-11T10:55:00Z

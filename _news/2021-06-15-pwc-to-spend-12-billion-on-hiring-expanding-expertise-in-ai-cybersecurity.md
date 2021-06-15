@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-e
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Elisity raises $26M Series A to scale its AI cybersecurity platform"
+    excerpt: "Elisity, a self-styled innovator that provides behavior-based enterprise cybersecurity, has raised $26 million in Series A funding. The funding round was co-led by Two Bear Capital and AllegisCyber Capital,"
+    publishedDateTime: 2021-06-15T16:55:00Z
+    webUrl: "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-847829192.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Zero trust networking startup Elisity raises $26M"
+    excerpt: "Elisity, an AI-powered zero trust networking startup, has raised $26 million in a venture capital equity round."
+    publishedDateTime: 2021-06-15T12:30:00Z
+    webUrl: "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/"
+    ampWebUrl: "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI can now convincingly mimic cybersecurity experts and medical researchers"
     excerpt: "Misinformation within communities of expertise has the potential for scary outcomes such as delivering incorrect medical advice to doctors and patients. This could put lives at risk. To test this threat,"
     publishedDateTime: 2021-06-13T11:05:00Z

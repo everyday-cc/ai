@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-03-face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg.md",
+      "title": "Face recognition is just the tip of the AI Computer Vision iceberg",
+      "excerpt": "Flaws in AI training give as bad a name to face recognition. But as Giacomo Lee discovers, computer vision gives more than just a reflection of societal biases. When artificial intelligence (AI) hits the headlines,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mining-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/",
+      "originalUrl": "https://www.mining-technology.com/features/face-recognition-is-just-the-tip-of-the-ai-computer-vision-iceberg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/06/yulia-reznikov-GettyImages-1285131679-1.jpg",
+          "width": 2121,
+          "height": 1193,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mining Technology",
+        "domain": "mining-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-machine-learning-as-a-service-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
       "title": "Machine Learning as a Service Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
       "excerpt": "The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
@@ -1066,19 +1109,19 @@
     {
       "path": "_news/2021-06-03-digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin.md",
       "title": "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin",
-      "excerpt": "AUSTIN, Texas, June 3, 2021 /PRNewswire/ -- Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,",
+      "excerpt": "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-2021-06-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-2021-06-03",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/483540/Digital_Realty_Trust_Logo.jpg",
+          "width": 400,
+          "height": 242,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1088,21 +1131,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T03:30:00-07:00",
+      "publishedDateTime": "2021-06-03T03:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1166,40 +1200,6 @@
         "Google AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain.md",
-      "title": "Indian Scientists Construct a Powerful Artificial Synaptic Network to Imitate the Human Brain",
-      "excerpt": "Scientists at the Jawaharlal Nehru Centre for Advanced Scientific Research in Bengaluru, an autonomous institute of the Indian government's Department of Science and Technology, developed a new approach for fabricating an artificial synaptic network (ASN) that resemble the biological neural network using a simple self-forming technique (the device structure is formed by itself while heating).",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain/",
-      "originalUrl": "https://www.analyticsinsight.net/indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

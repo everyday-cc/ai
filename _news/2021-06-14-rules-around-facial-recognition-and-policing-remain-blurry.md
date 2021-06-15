@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-call
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -146,20 +146,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/e20ed22/2147483647/strip/true/crop/2880x1512+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F21%2F7f%2Fa28876dd4bf8be85d3b63a70ca2f%2Fscreen-shot-2021-06-11-at-6.13.12%20PM.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Fine Arts Center Wins National Recognition"
-    excerpt: "The Fine Arts Center for the New River Valley received the Gold Key for Excellence in the Field Award from Scholastic sponsored by the Alliance for Young"
-    publishedDateTime: 2021-06-10T23:12:00Z
-    webUrl: "https://nrvnews.com/fine-arts-center-wins-national-recognition/"
-    type: article
-    provider:
-      name: New River Valley News
-      domain: nrvnews.com
-    quality: 24
-    images:
-      - url: "https://nrvnews.com/wp-content/uploads/2021/06/Gold-Key-Award-Scholastic.jpg"
-        width: 400
-        height: 267
         isCached: true
 
 secured: "wkOfbhH2xYgYhdqPs0nsx/K0LChmYvndw3oT+osLoeD2mA69TauJhhzrHdbxr6iXZBGACVHLvjIUNyEeMFHIjbnJTgfg+Cq6Mzm/pKJQqlTU2JOoQNM9kHFEhfQuaoawVV6ax6q0nhyrbJ45ieZKZfkG61zZwn9gHm86zbw/NUUovLCgTW4g7U2oH8zF3fZu6sNckLTSgb2K2TsgZaBp1BNCz/YfyOuOL9+H4CnpD5NyrmiaX3UbrMuR8MxHKFpd8ls1XgMAJ9eXjlIO5g7+gbb7NshcOaopkrhJl3qxqia7eFqeP+fGtvwTB/SppLCunnnmH7s0XBQ0LMkZ1Vl9QpNx6N5/ferZBX7SwK3M8+w4W1hqsLT/KTzhw+DZ+udxMvh0czC0nqjrgNcBxtYsON5hrba794DTlu20QqE+pdQe8yRT00J/Zr/4BjqV0uM4VO17JQflISWG8V7makAHIXnIGfhCmGJ5aplrTBOGlfeHkat0TrBF6wKDyrDopKd5Uo2Erq5M+KDCO1uPlNzCEQ==;UxKgQpDOVp9BfJ6KTv5CmQ=="

@@ -28,15 +28,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "Talkdesk Retail Smart Service Brings the Power of Artificial Intelligence to Customer Self-Service and Agent Interactions"
-    excerpt: "Talkdesk®, Inc., the global customer experience leader for customer-obsessed companies, today at Opentalk 2021 is announcing Talkdesk Retail Smart Service. The new AI-powered industry solution helps retailers deliver quality,"
-    publishedDateTime: 2021-06-15T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-talkdesk-retail-smart-service-brings-power-artificial-intelligence-/2021/06/15/9390979.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "vhcNFvhOmOhqwTmQVWE7xty2Q5pT5fspN/zXsS8UPljmjoGsXhgteX27CF9zXPul5OXO3WVhD5XrmsLRFU7yGzCKwhTCWhp4c65B9jhGSnJawVJy6Q9Inocbd2ore8KnQCWXKEO0GWVMIWLhT8tLui73In4qX97r/AGO2VYAJoAjCqpV08naRDLuRdF6bQBIHiby+EQAof+r9x4VCsmEVAXpGaBbuaJ7OOvpHVEO6MVhDk9DThEMrIkyOp2AhauTCzcdLAnc+FCxZkkPBspgtmwMrRz07tVzIX6/hRf1ZOjFowdVT4bTtF9cj0wXgRfKkzo0+mJ+GCcyiFPbv9zX5ZlqTyJLYdoXJ34MY1EIh4A=;Dp7LqorzVRBHZb9KdeMiUw=="
 ---

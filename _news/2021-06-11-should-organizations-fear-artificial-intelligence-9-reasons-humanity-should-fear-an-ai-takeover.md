@@ -41,6 +41,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "What’s Next for Conversational AI?"
+    excerpt: "But this barely scrapes the surface of what conversational chatbots can do. So what comes next for conversational AI (CAI)? Conversational AI solutions play a critical role in connecting the dots between various elements of customer experience (CX)."
+    publishedDateTime: 2021-06-15T17:18:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/whats-next-for-conversational-ai/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/whats-next-for-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/whats-next-for-conversational-ai/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/caaef8bed56a4fd49add84d98adbc896.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "khnUdSfjZ0d/ejGeM6EhjvaqGjhVAK5DH4NKpj9Qk1wMTt5bWFAN8tZbTND0fHnZLA+VrrlGV5vCpKkJtAe8K3u0TqYPBnOimBHHNCroaWe1XjGniir4B8PbMd4DFr3zR6PjVYCKtmUoJMFL+8WU+ZMyMq7wwcOqIuf4PsKR4YUcHgdyHp/udi+ecOfJyVELiHgbgdgBcHbY3zeRjZFDmMTOPGXPtwjdLoKuVAve+Nz3cVEGIDLoul4GB7WN/dfcrmsAOT+ChxFpXE6WP1YGSDOYAj3sVdEKsQuzxHE2kAn2odK0LxzRi9N1jZUie1omvNHiaZkk8++T4RK3dcwjcwohU6YkgQfmMzQbMmK0SYsmqID8+KhubPdcCKTs78qsGCXn/zAP8jme4GPBH1ocneYLBowx73icskwz5LyLJ8L6m6d/fTiCV0fU4yrAWKm59jSHhPJoRHA5g0JDa98/F0NsA8m2Ec+wPAavmKe2I3c5SORRv1ZAEsV98FPLE1viOMq+NEa5G8Sd61T0ZYjIyA==;OiZoeLHrG9XL0o8mLIiKSg=="
 ---

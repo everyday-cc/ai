@@ -143,20 +143,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Fine Arts Center Wins National Recognition"
-    excerpt: "The Fine Arts Center for the New River Valley received the Gold Key for Excellence in the Field Award from Scholastic sponsored by the Alliance for Young"
-    publishedDateTime: 2021-06-10T23:12:00Z
-    webUrl: "https://nrvnews.com/fine-arts-center-wins-national-recognition/"
-    type: article
-    provider:
-      name: New River Valley News
-      domain: nrvnews.com
-    quality: 24
-    images:
-      - url: "https://nrvnews.com/wp-content/uploads/2021/06/Gold-Key-Award-Scholastic.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "JXl7SDoCkSGAgdnrWW5ZHrih7KhwmCHPsjM5RurNVQGbnLIfbPHGSfq2W+V29/NU1qPNLSxhLDzlbxWoAuP2LZKdeAsD1UnuHYE50m+pZoYng4vdLUlZjUFN8LDjcGxFQY7eI84ToPKK8Y+0ktewPHpAyigyHrFj/kcnKVenLzVPW9KHXWHpFLUM/AqTujMiYe6u0WhTsL6TSEzbk72gQVIxSfu8WU1MkAoSV2YU3NyW92yNVz0CshAJJdLuaN/OhwD2Lpq9CDuamvHM19EYQVjlgusRAy6Ct/sStaEYvc5gr8/T333eIGyhdI1qi+oK9XfK92zvAEfFfIJnfgUFc7Wy3luVKIi+O/VFy2fdh3YDvRurrmXGEm71uFGZ2AQdBabRQ2CBMmknG3LolK7mxw0fUCWwq7wlcFTxAF9cj9PLuB1SMzEN+F/swbhpa/ktkRn4qHZyiYP3PMWacC0XssFp6uThTw9eLKcwsHn68qPp5WgmHOaU2/+XFEtF4y1cELy0eLkYj7fi2DBzfgzpjA==;6y5hS+jvLqrUwEwhVHEDHw=="
 ---

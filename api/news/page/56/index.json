@@ -2,6 +2,57 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-05-04-genpact-and-fast-company-partner-to-digitally-transform-a-world-changing-ideas-honoree.md",
+      "title": "Genpact and Fast Company Partner to Digitally Transform a World Changing Ideas Honoree",
+      "excerpt": "Genpact(NYSE: G), a global professional services firm focused on delivering digital transformation, today announced a partnership with Fast C",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/apply/world-changing-ideas",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/genpact-and-fast-company-partner-to-digitally-transform-a-world-changing-ideas-honoree-1030385367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-ibm-details-planned-2-nanometer-chip-process.md",
       "title": "IBM details planned 2-nanometer chip process",
       "excerpt": "During a press conference, IBM detailed its 2-nanometer chip process, which it expects will come into production in the next several years.",
@@ -1093,48 +1144,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-artificial-intelligence-ai-in-bfsi-market.md",
-      "title": "Artificial Intelligence (AI) in BFSI Market",
-      "excerpt": "Allied Market Research published a new report titled Artificial Intelligence in BFSI Market By Offerings Hardware Software and Services Solution Chatbots Fraud Detection Prevention Anti Money Laundering Customer Relationship Management Data Analytics Prediction and Others Technology Deep Learning Querying Method",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
-      "originalUrl": "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U503568929_g.jpg",
-          "width": 790,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
-      "publishedDateTime": "2021-05-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

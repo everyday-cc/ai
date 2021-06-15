@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/nvidia-to-acquire-high-definition-m
 webUrl: "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: The Robot Report
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia acquires hi-def mapping startup DeepMap to bolster AV technology"
-    excerpt: "Chipmaker Nvidia is acquiring DeepMap, the high-definition mapping startup announced. The company said its mapping IP will help Nvidia’s autonomous vehicle technology sector, Nvidia Drive. “The acquisition is an endorsement of DeepMap’s unique vision,"
-    publishedDateTime: 2021-06-10T23:52:00Z
-    webUrl: "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/"
-    ampWebUrl: "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 172
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-10-at-2.54.41-PM.png?w=1024"
-        width: 1024
-        height: 560
-        isCached: true
   - title: "NVIDIA to Acquire DeepMap, a Silicon Valley Startup Building HD Maps for Self-Driving Vehicles"
     excerpt: "Technology giant NVIDIA Corp. has agreed to acquire autonomous vehicle mapping startup DeepMap, a company that’s using crowdsourced data to build high-definition maps for autonomous vehicles. The acquisition is expected to close in the third calendar quarter of 2021."
     publishedDateTime: 2021-06-11T23:00:00Z

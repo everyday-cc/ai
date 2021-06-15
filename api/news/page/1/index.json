@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-15-elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform.md",
+      "title": "Elisity raises $26M Series A to scale its AI cybersecurity platform",
+      "excerpt": "Elisity, a self-styled innovator that provides behavior-based enterprise cybersecurity, has raised $26 million in Series A funding. The funding round was co-led by Two Bear Capital and AllegisCyber Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/",
+      "originalUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-847829192.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/",
+      "publishedDateTime": "2021-06-15T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-ai-moving-from-pocs-and-pilots-into-operations.md",
       "title": "AI moving from POCs and pilots into operations",
       "excerpt": "The COVID-19 pandemic accelerated the adoption of artificial intelligence and its use in day-to-day operations.",
@@ -366,57 +417,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-15-zero-trust-networking-startup-elisity-raises-26m.md",
-      "title": "Zero trust networking startup Elisity raises $26M",
-      "excerpt": "Elisity, an AI-powered zero trust networking startup, has raised $26 million in a venture capital equity round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/",
-      "publishedDateTime": "2021-06-15T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "Artificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
@@ -563,57 +563,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-15-pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity.md",
-      "title": "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity",
-      "excerpt": "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "originalUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-353929/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "publishedDateTime": "2021-06-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-15-artificial-intelligence-in-supply-chain-market-forecast-2026.md",
       "title": "Artificial Intelligence in Supply Chain Market Forecast 2026",
       "excerpt": "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a",
@@ -705,58 +654,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2.md",
-      "title": "Automotive marketplace Carro hits unicorn status with $360M Series C led by SoftBank Vision Fund 2",
-      "excerpt": "Carro, one of the largest automotive marketplaces in Southeast Asia, announced it has hit unicorn valuation after raising a $360 million Series C led by SoftBank Vision Fund 2. Other participants include insurance giant MSIG and Indonesian-based funds like EV Growth,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/14/automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2/",
-      "originalUrl": "https://techcrunch.com/2021/06/14/automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Team-Photo-of-Carro.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/14/automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2/amp/",
-      "publishedDateTime": "2021-06-14T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1258,6 +1155,109 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-rules-around-facial-recognition-and-policing-remain-blurry.md",
+      "title": "Rules around facial recognition and policing remain blurry",
+      "excerpt": "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
+      "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462",
+          "width": 3065,
+          "height": 2043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
+      "publishedDateTime": "2021-06-14T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-how-to-make-sure-that-diversity-in-ai-works.md",
+      "title": "How To Make Sure That Diversity In AI Works",
+      "excerpt": "Transparency around talent pipelines, hiring practices and publishing compensation bands are table stakes D&I initiatives that can go a long way toward establishing diversity in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1124741602%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/",
+      "publishedDateTime": "2021-06-14T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-15-automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2.md",
-      "title": "Automotive marketplace Carro hits unicorn status with $360M Series C led by SoftBank Vision Fund 2",
-      "excerpt": "Carro, one of the largest automotive marketplaces in Southeast Asia, announced it has hit unicorn valuation after raising a $360 million Series C led by SoftBank Vision Fund 2. Other participants include insurance giant MSIG and Indonesian-based funds like EV Growth,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/14/automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2/",
-      "originalUrl": "https://techcrunch.com/2021/06/14/automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Team-Photo-of-Carro.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/14/automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/automotive-marketplace-carro-hits-unicorn-status-with-360m-series-c-led-by-softbank-vision-fund-2/amp/",
-      "publishedDateTime": "2021-06-14T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-14-rules-around-facial-recognition-and-policing-remain-blurry.md",
       "title": "Rules around facial recognition and policing remain blurry",
       "excerpt": "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance.",
@@ -114,7 +62,7 @@
       "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1361,6 +1309,58 @@
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-banned-gamblers-in-south-australia-to-be-found-using-facial-recognition-tech.md",
+      "title": "Banned gamblers in South Australia to be found using facial recognition tech",
+      "excerpt": "A number of gaming rooms in South Australia have adopted facial recognition tech from Vix Vizion as part of the state's gambling reforms that went live in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/90403232-2d0f-455a-ad7d-5d02bf0fce3f/man-gambling.jpg",
+          "width": 6720,
+          "height": 4480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
+      "publishedDateTime": "2021-06-01T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

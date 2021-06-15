@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Machine Learning Model Doubles Accuracy of Global Landslide \"Nowcasts\""
-excerpt: "Every year, landslides – the movement of rock, soil and debris down a slope – cause thousands of deaths and billions of dollars in"
-publishedDateTime: 2021-06-15T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/machine-learning-model-doubles-accuracy-of-global-landslide-nowcasts-301312433.html"
-webUrl: "https://www.prnewswire.com/news-releases/machine-learning-model-doubles-accuracy-of-global-landslide-nowcasts-301312433.html"
+excerpt: "The NASA global Landslide Hazard Assessment for Situational Awareness (LHASA) model, developed by a team of scientists led by Universities Space Research Association's Thomas Stanley, addresses this issue."
+publishedDateTime: 2021-06-15T12:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-machine-learning-model-doubles-accuracy-global-landslide-nowcasts-/2021/06/15/9390488.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-machine-learning-model-doubles-accuracy-global-landslide-nowcasts-/2021/06/15/9390488.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/808782/USRA___Logo.jpg?p=facebook"
-    width: 2055
-    height: 1079
-    isCached: true
-
-secured: "XlrvmNOtuCriDsmIedby/qMVnKTYo4ha+W04HeHNOKXbxEXvVLh5llDOrRvUF1p+Kp5tc6BVW8Yr4oIgDLS1SJJvdS+qoeDuwyNKz9NkfIugAe3L1xdd55bgCdOkb2LT/Ab0Uzzzw8frRtlQBnHhHbRgR3zWyoD1IlgCyqq8k0gGmkCiLkeeaeSHfxBApLebvxTHDrlFC6f6AqlDV4JHPyQ/ERSI8LWpqHV4l6SGT8c22egJwfEJ1W0M0bellYW7vyzXFDfRHigthQSjV9hYjfcD2WHizm5nMuX5EfVrTzPGnyoDb6fRfjUsYPQmc+/O24sB/AcIecBevMosNufv1LeIYcORLcVFYFdXbHOPqEo=;305NIO2GsYQguTHrKDCP1w=="
+secured: "c47jitcu5tUOkZ7MmeH5su7x5vsdzA1o1MLaphFbLYw9reVlm1IlrMQbVx+57j8JPKczfGeLEB7q5yS6nKU7+hftygvBgyW+DkX4RBUINs0eNmZDGUAz2Sc7JVrGHXfqWGPf++rkGivrMnogCGhN5rbVlAKO4hhewNZOezTSD7d2CsYZjjie4+XIUqP35YXj/XOJgxJ/pTIOcnVaOnVCb4p2Qka8FEcUbRfvc7KjNZ+sp/2EWH+THikDEejKDc7wUBleBMcgpm2P13bgQclU/AQzNc6UzW2KMKptSu7GPnOxENfRdpB8xHX+eFhz4KO5J+XKbhuvAUZZj8ROOhcsgodrRn/AB68DYCtmBFCxHh4=;ZW0rWzPGhwmczYeunY8Riw=="
 ---
 

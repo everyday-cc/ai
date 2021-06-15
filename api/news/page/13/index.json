@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-03-indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain.md",
+      "title": "Indian Scientists Construct a Powerful Artificial Synaptic Network to Imitate the Human Brain",
+      "excerpt": "Scientists at the Jawaharlal Nehru Centre for Advanced Scientific Research in Bengaluru, an autonomous institute of the Indian government's Department of Science and Technology, developed a new approach for fabricating an artificial synaptic network (ASN) that resemble the biological neural network using a simple self-forming technique (the device structure is formed by itself while heating).",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain/",
+      "originalUrl": "https://www.analyticsinsight.net/indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-grimes-says-ai-will-give-us-communism-in-confusing-new-tiktok-video.md",
       "title": "Grimes Says AI Will Give Us Communism in Confusing New TikTok Video",
       "excerpt": "Grimes, the musician and romantic partner of billionaire Elon Musk, is a big believer in artificial intelligence, according to a new TikTok video she posted late Wednesday. What can AI do for humanity?",
@@ -1084,40 +1118,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace.md",
-      "title": "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace",
-      "excerpt": "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

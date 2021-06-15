@@ -20,54 +20,20 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise"
-    excerpt: "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market."
-    publishedDateTime: 2021-06-11T00:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
+  - title: "Healthcare Business Intelligence set to grow according to forecast 2026 | Key Players – Microsoft ,IBM ,SAP SE ,Oracle ,Cloudera ,Enigma"
+    excerpt: "Healthcare organizations are implementing healthcare business intelligence solutions to improve efficiency and patient care. Business intelligence software industry allowing unique recommendation, personalization,"
+    publishedDateTime: 2021-06-14T21:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-business-intelligence-set-to-grow-according-to-forecast-2026-key-players-microsoft-ibm-sap-se-oracle-cloudera-enigma"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft"
-    excerpt: "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
-    publishedDateTime: 2021-06-11T12:55:00Z
-    webUrl: "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    ampWebUrl: "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 61
-    images:
-      - url: "https://cdn.openpr.com/U/6/U611505535_g.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
         width: 600
-        height: 315
+        height: 337
         isCached: true
-  - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
-    excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-06-15T11:13:00Z
-    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-robots-market-unbelievable-growth-google-inc-ibm-microsoft-corporation-general-vision/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
-  - title: "Artificial Intelligence Chipsets Market : Strong Quarterly and Yearly Performance | Google, Samsung Electronics, Microsoft, Micron Technology"
-    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD XX Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. Latest added Artificial Intelligence Chipsets Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
-    publishedDateTime: 2021-06-11T17:03:00Z
-    webUrl: "https://ksusentinel.com/2021/06/11/artificial-intelligence-chipsets-market-strong-quarterly-and-yearly-performance-google-samsung-electronics-microsoft-micron-technology/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 1
 
 secured: "jWnhgz3mUfE5OMuPx8YWZosMVv8fVM3S1UJBR0nNHKnM/WMOW2ZBRLjjQVuA4PLUX4/24ElsplqPr4XC0aof+3/LXytGZ+NxV5Y3/ojF/7jBp0p3QbDW54wsiognOKHygzs3+J4iTUTfJS9hGCdEza2QmRQkw9FN5uPxqQDR/azuvz2pGs7pYC7IlDtglNMr1IBFdCVKb9MdonqaxSUkQCJJhwh3XYMHC0S6sd0e6vDPKn8WoOdjwG9GPeG5l3IbdmEHvcIVI/IFM0/G98AqOwDvxTm8gbRxHTX7cQsk/lN2Y7+5eFkXsR6NDIWnZKhZs3LxJg8YrK1KR5pqBGsX95hN6r9+jukBPOn5W/qo/JM=;HrnqQTbmcfeeoc7XS/44Kg=="
 ---

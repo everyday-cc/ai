@@ -20,54 +20,29 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise"
-    excerpt: "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market."
-    publishedDateTime: 2021-06-11T00:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10"
+  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
+    excerpt: "AALBORG, Denmark, June 14, 2021 /PRNewswire/ -- Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+    publishedDateTime: 2021-06-15T10:02:00Z
+    webUrl: "https://menafn.com/1102275962/Inropa-leverages-Microsoft-ToF-technology-and-AI-for-on-the-fly-programming-of-painting-robots"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft"
-    excerpt: "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
-    publishedDateTime: 2021-06-11T12:55:00Z
-    webUrl: "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    ampWebUrl: "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
+  - title: "AI-powered FifthEdge joins Global Microsoft for Startups programme"
+    excerpt: "FifthEdge will use the Microsoft Azure global marketplace to scale quickly and reach a global audience in a short time"
+    publishedDateTime: 2021-06-14T06:30:00Z
+    webUrl: "https://www.constructionweekonline.com/business/272936-ai-powered-fifthedge-joins-global-microsoft-for-startups-programme"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 61
-    images:
-      - url: "https://cdn.openpr.com/U/6/U611505535_g.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
-    excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-06-15T11:13:00Z
-    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-robots-market-unbelievable-growth-google-inc-ibm-microsoft-corporation-general-vision/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021-2027 Business Growth Updates | Top Players – Microsoft, NVIDIA Corporation, IBM, Atomwise"
-    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
-    publishedDateTime: 2021-06-14T16:40:00Z
-    webUrl: "https://ksusentinel.com/2021/06/14/artificial-intelligence-ai-in-drug-discovery-market-2021-2027-business-growth-updates-top-players-microsoft-nvidia-corporation-ibm-atomwise/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 12
+      name: Construction Week Online
+      domain: constructionweekonline.com
+    quality: 34
 
 secured: "ZNfpU78RvOH3iXKszLUn4RR+DlGx6+wsphKEsuW4rTemNsQ4RmzK4QwU+KFXaVkh9zsrkDcd7Ng/ktV9qs9dwEUPie5Gevjk+Vleg7bSqABvJBbvg6k7FRw9v84QoJQAITOVj3mhqFN1L5S4JIO5XOsyYywxN7USmCoJq4ik2RDS8hVjWFAm3L3yJPy/5tjU9RprkV6T8oJfx4p2axxayo5rxrHoFyf3ulJTfj00gxc0nOfo11Yg/scWaMEs0aTcBuAlVDUU4+D58ZFA948IG7CXBa9tnE7Te8Mnl8YT9q90ahdgBIVnulnjpLcDFfkrWKqW5S1zxi3NEgIWw8bL8lj3rAocCieETcVCWvQIVUM=;BmJ43903sjn/+pj+oEpxxA=="
 ---

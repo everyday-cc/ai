@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Task force to find ways to make U.S. government data available for AI research"
-    excerpt: "A U.S. government task force launched today is working on a strategy to provide artificial intelligence researchers with access to massive amounts of data on American citizens. The National Artificial Intelligence Research Resource Task Force is part of a broader effort to ensure the U."
-    publishedDateTime: 2021-06-11T00:13:00Z
-    webUrl: "https://siliconangle.com/2021/06/10/task-force-established-find-ways-make-u-s-government-data-available-ai-research/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/open-government-5450141_960_720.png"
-        width: 960
-        height: 593
-        isCached: true
 
 secured: "vRNydmeK0qM7G9vq+BHIUaJbgrLuCEGjNg+1AHIECZAKZNuj3EVnkdQ8tShLqOgYL18LjTfKZxIIpU16MTlUl+LPgLAQHyxHcNl61N3PlvNRGmD/MiL0udHq7bSQnDO6a1MLMzPNGz/L255KdJWhm+3dThfA75NP1w+z75QggU27sAOKu3pKrhzOba5twUzilaVenC1ESz0USZcd+9rswPZv7LfEIit//ggd54bk8NQ5BU/5cA1S8Q+q/b7zBevI1shk71MbJPMOHZV1/WNF0V+QL9WJjmaGKzxDDwQGCnMtzzbVQkthtqXZZoCJwDG+dwTddV/Wh5JpPR9nK7zFw6o3TiDa9NaguMZ+OviKbBs=;fkh8hpnlnqxlb3Bfn5/63Q=="
 ---

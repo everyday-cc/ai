@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -146,6 +146,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
+      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
+      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "publishedDateTime": "2021-06-11T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1413,58 +1457,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials.md",
-      "title": "Future of chip making to lean heavily on AI for spotting defects, says Applied Materials",
-      "excerpt": "For the first time, a machine learning program will tell a scanning electron microscope where to look closer for defects in a silicon wafer",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
-      "originalUrl": "https://www.zdnet.com/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/31/dba100ab-4cc9-444c-beec-c9de99f3a1e4/applied-materials-extractai-slide-12-2021.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
-      "publishedDateTime": "2021-05-31T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -1,42 +1,22 @@
 ---
 category: news
 title: "Talkdesk Retail Smart Service Brings the Power of Artificial Intelligence to Customer Self-Service and Agent Interactions"
-excerpt: "Talkdesk®, Inc., the global customer experience leader for customer-obsessed companies, today at Opentalk 2021 is announcing Talkdesk Retail Smart Service. The new AI-powered industry solution helps retailers deliver quality,"
-publishedDateTime: 2021-06-15T15:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-talkdesk-retail-smart-service-brings-power-artificial-intelligence-/2021/06/15/9390979.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-talkdesk-retail-smart-service-brings-power-artificial-intelligence-/2021/06/15/9390979.htm"
+excerpt: "Talkdesk Retail Smart Service brings the power of artificial intelligence to customer self-service and agent interactions."
+publishedDateTime: 2021-06-15T15:15:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210615005245/en/Talkdesk-Retail-Smart-Service-Brings-the-Power-of-Artificial-Intelligence-to-Customer-Self-Service-and-Agent-Interactions"
+webUrl: "https://www.businesswire.com/news/home/20210615005245/en/Talkdesk-Retail-Smart-Service-Brings-the-Power-of-Artificial-Intelligence-to-Customer-Self-Service-and-Agent-Interactions"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
-related:
-  - title: "Talkdesk Healthcare Experience Cloud™ Reimagines the Patient Experience"
-    excerpt: "Connects patient data from all channels to power synchronized, intelligent interactions that are personalized and convenient The launch of Talkdesk Healthcare Experience Cloud and coinciding launch of Financial Services Experience Cloud™ signal a game-changing moment for customer experience,"
-    publishedDateTime: 2021-06-15T10:15:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210615005241/talkdesk-healthcare-experience-cloud-reimagines-the-patient-experience"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
-  - title: "Talkdesk Financial Services Experience Cloud™ Reimagines the Banking Experience"
-    excerpt: "Talkdesk®, Inc., the global customer experience leader for customer-obsessed companies, today at Opentalk 2021 is announcing Talkdesk Financial Services Experience Cloud, the industry's first enterprise-grade contact center product built for financial services."
-    publishedDateTime: 2021-06-15T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-talkdesk-financial-services-experience-cloudtrade-reimagines-banking-experience-/2021/06/15/9390978.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-
-secured: "/6sB8gC2V8feDt5SoGk8RkOEL4XVqRcJNt6z+VPXSdscZj1gXYUUdXlvEadiIR23m5cXOVZ9k/Df7aXN1GIkt7PWvbVVHV+wfce83vhCIoAmzu8JZhakg3cU6jnHggvc8QQ8MoXak9rUiG+hAIxE3HgA8XSzRGSzrtYUNAM1V0eOoBS7O1Duq3Qrj1h6to6WFUQIa1U+60HWN3GdwxxcggBTiihT7h0vJzY850tkf4u7cRg3ZQgEa0d/q2Q9tfsU7VQBL1p3pltILKBcnqY+O/4ceAk09lmdFlGONuW7TjFWPHthQcXQSs99Y2i9AUBvgOBxqi5BQqicIa6dH4afaOx04UPB3+VQhRg2EAw8W4I=;XjWYPdwQGVWKdQOivSjQ4w=="
+secured: "yPEVHiIIhnKRKvRWZ7IE+XCfnlmHTdYumLsj1QIvpozqoTa6M34G5OM3OABkykO1gOoHjJSwseNO25Hh1tKNVrYXbVzxFR6q8A4ggf/IMiQlfkEho2mu2Z+uXhwTL7oVX6J2q/ovOiQRL96pa4KUCUb3S6maqOxKy+KuiDIL91ItGku5A4iUa3Fj60WaM9tzZ2KHPh63vc3NCYYrL7uN9pHfLj6BvuJGb/dA+fuByU52A8U6oB19J/VI2RSVlRynlzvjNdRtxPZtzAGlMMe15wAM0WN2YRIYCoWqbyvrrzllJtR0cvN69vZgzBqiL+VjMImuS0sINlNR6yNnP8Z+cJ41H5NBmOenz3YVabCLJJw=;xSwnlMyhPJInJi/E4e146Q=="
 ---
 
