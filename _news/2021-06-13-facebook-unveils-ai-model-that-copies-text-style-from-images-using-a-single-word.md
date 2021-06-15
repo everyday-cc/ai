@@ -68,6 +68,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Facebook's new AI text tool is incredible (and slightly creepy)"
+    excerpt: "Facebook's new TextStyleBrush tool is an AI research project that can copy the style of text in a photo, based on just a single word. It means everything from handwriting to unusual fonts can be recreated with eerily impressive accuracy."
+    publishedDateTime: 2021-06-15T16:31:00Z
+    webUrl: "https://www.creativebloq.com/news/facebook-textstylebrush-typography"
+    ampWebUrl: "https://www.creativebloq.com/amp/news/facebook-textstylebrush-typography"
+    cdnAmpWebUrl: "https://www-creativebloq-com.cdn.ampproject.org/c/s/www.creativebloq.com/amp/news/facebook-textstylebrush-typography"
+    type: article
+    provider:
+      name: Creative Bloq
+      domain: creativebloq.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/CTDoFTKpnyaAwYHmSigCQd-480-80.png"
+        width: 480
+        height: 265
+        isCached: true
   - title: "Facebook AI project works on turning your handwriting into a font"
     excerpt: "Facebook's AI research project is “TextStyleBrush” and it is capable of copying text styles from images just by looking at one for reference."
     publishedDateTime: 2021-06-15T15:35:00Z

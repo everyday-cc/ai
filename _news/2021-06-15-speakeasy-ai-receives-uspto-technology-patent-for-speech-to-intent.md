@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Clinc launches Artificial Intelligence technology for Banks & Credit Unions"
+    excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI"
+    publishedDateTime: 2021-06-15T21:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/clinc-launches-artificial-intelligence-technology-for-banks--credit-unions-301313153.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1534083/Clinc_AI_Logo.jpg?p=facebook"
+        width: 599
+        height: 315
+        isCached: true
   - title: "Cross River Launches Venture Capital Arm to Propel the Next Generation of Fintech Startups"
     excerpt: "Cross River Bank (\"Cross River\"), a technology-driven financial services organization that provides core infrastructure and embedded financial solutions, today announced Cross River Digital Ventures,"
     publishedDateTime: 2021-06-15T11:46:00Z

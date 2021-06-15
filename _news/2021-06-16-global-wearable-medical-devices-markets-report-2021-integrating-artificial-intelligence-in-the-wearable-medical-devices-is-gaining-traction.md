@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-15T19:30:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/global-wearable-medical-devices-markets-report-2021-integrating-artificial-intelligence-in-the-wearable-medical-devices-is-gaining-traction-301312837.html"
 webUrl: "https://www.prnewswire.com/news-releases/global-wearable-medical-devices-markets-report-2021-integrating-artificial-intelligence-in-the-wearable-medical-devices-is-gaining-traction-301312837.html"
 type: article
-quality: 19
-heat: 19
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -35,6 +34,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "3Zq8Aa/DPCenDmRHXCBQWWOw8h9DaOPKd5wCl801+0OiYM5YjHPQdYVucXhyGR1ClTQ8D0JkpN/3OGoC+HBe7WyqnYgADexZjTPdE6clOu/29FHlXoOVv9JTplMic38bTyNs0YeOxsamKjLpjsUHkm4+UQG9PhfsnID3X6zUeWgcCQIuzHIGDwSK3gb1wEaSsOtbH1EPzW9n38qyb62U9i3WHTh11Utv9L+U7x7ixSdbTxfZPx7XJI5ilppuiMQ8cYUL9+BdI8hh1IOa/2YVhJCWrAOqh3e/pIRmWaGqtCofn2iqeTmdvCBe65jkdTw6YzSePLBanVsVqLbL8S4DOlTa0BE/aIsBbCBn56Bb3IE=;jSP8KMnsmd1XHgQrbYbD0w=="
+secured: "afgkWK+BqGDzfd7Hby03UExsXIpgKZwE0OVABXbT2cWQ+DgjR1NryjhdFk+bxZWV5PDYOYPFdmg6JBogvbxYfXafevBZwDZ3x7T43c53EeNaZ4fUpeLMFSQS57e53j5CZ7BWVD2ulr/O/h+dE9jEHLCvmKXGou6tghYeQNPidWp7PfVVnxkIhClR/jvSZ/Wp6Qu1sYRMBdiq+t5flh7H6/O3k1gtYyghyuztxFOlbrcT5j4i01OYwk+97+3vbwt4K5L38aZk7VCTHZDw4W7V/UStFtNxUd2jwqFlqlRVK/TNUTKtpK2GNvQNGaM1OVJ3p3uZuk0I9fiwmseuWp6v4HUtDXxdXNx9N/KhkCGWy4Y=;SJDE6o5F0h0nhFT12b6OPw=="
 ---
 

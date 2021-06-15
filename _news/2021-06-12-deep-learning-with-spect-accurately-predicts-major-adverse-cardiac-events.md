@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-a
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning with SPECT accurately predicts major adverse cardiac events"
-    excerpt: "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting."
-    publishedDateTime: 2021-06-11T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/sonm-dlw061021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 40
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/267652_web.jpg"
-        width: 720
-        height: 442
-        isCached: true
   - title: "Deep Learning Network Predicts Adverse Cardiac Events"
     excerpt: "Researchers developed a deep learning network that predicts a patient's risk of major adverse cardiac events, using a SPECT database."
     publishedDateTime: 2021-06-15T17:00:00Z

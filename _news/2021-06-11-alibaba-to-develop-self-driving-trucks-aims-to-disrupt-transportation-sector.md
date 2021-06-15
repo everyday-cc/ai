@@ -43,22 +43,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program"
-    excerpt: "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J."
-    publishedDateTime: 2021-06-11T03:54:00Z
-    webUrl: "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630437%2Fwaymo-truck.jpg&w=1200&op=resize"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
     excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
     publishedDateTime: 2021-06-15T05:02:00Z

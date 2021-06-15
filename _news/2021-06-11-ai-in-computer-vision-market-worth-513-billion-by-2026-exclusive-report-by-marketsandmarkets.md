@@ -1,28 +1,22 @@
 ---
 category: news
-title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models,"
-publishedDateTime: 2021-06-11T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html"
-webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html"
+title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
+excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application"
+publishedDateTime: 2021-06-11T13:34:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-    width: 669
-    height: 229
-    isCached: true
 
 related:
   - title: "Artificial Intelligence in Supply Chain Market Forecast 2026"
@@ -56,6 +50,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EZA60lSo2YARmT9MFAezZqzgEVWHaduNqAYmee0KJf5EERfnI3raeq2XBCGpMvO+PTQg5QIKZD5vn//EpNMHHeT2spF2OC4shrLU8ZJk7Ka1IzVMvPC+pxhEmQAYev5Tyig9AYP/X1jsg5XRgIXzlGZKwIkNm7KMAGnaQ2jyvHJyCGVoGZgKsS4XepeBbq82DohvX9jvZEtzv3iulS2kWfJKbb5OA0fHJRSbLM1cmBLOWqbvfevs6NRXQKj3n7R3bYt6DZalBHgMJJRvnuzt3S80eEVS9vUK48iMGRyFcsYQ/wws+q0olY9rVdxTtNtnYAT2aLpQqeIOjzQh317gD/jSsQhQwnuh81iWUkSnzp16U0Kc1w+RaDfN0oTzPWZ0k+pD9ZxD1USww7KE8XTroY3sKuJVD/OJB2+sIUvfqUpxtZzoaz+4/b03VtMsIstsGmvQoi7e0h5Qum8YvDYzhyLH3pNo3ctspZOlpPnNXJBcNVeg3+wDIlntpru3JyueA9HGiU8FcSZJRXrrwIfDYQ==;FtX5YdY63dxTC1nf6YyMjA=="
+secured: "aI5mpHZSCDvxYGg7aMxrvaDM30FrKnAnb3HL/c+BKlKG0eGmgpfRJ+e1IwmJcz1p21tdyOHLy9u8TdyD7R8EY01CYYM+XkszRq1PU/sNLjAfi+xmXjplBsc3u4LFQvo75HKdWrSQ+F3LeW1SgaIq+i62Fdqzs7pXInCCgOHIydDKw+mFU6SYC7BGlpbLYFdT8lyCcYlPvjo1aDX4DBDqSeiUF2dfz951VQdKTVY8CLseNp6qmuCCy9/H+h+AFmHmGyyukcZDQaqRgc7IvFE46A/b34aSqf5pf5mGUIxaeIji520W6pH/bcH+aG3RlfDdrR2p2mV0G1h44aS1dK4t7Y1l4qjH7dOgRpLGa9Xe1Ug=;ZYiqp7VKzp0koGjrcPXNiQ=="
 ---
 

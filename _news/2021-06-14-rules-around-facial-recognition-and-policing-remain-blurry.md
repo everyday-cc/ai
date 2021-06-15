@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-call
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -178,6 +178,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/e20ed22/2147483647/strip/true/crop/2880x1512+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F21%2F7f%2Fa28876dd4bf8be85d3b63a70ca2f%2Fscreen-shot-2021-06-11-at-6.13.12%20PM.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Privacy commissioners issue draft guidance on police use of facial recognition technology"
+    excerpt: "The Office of the Privacy Commissioner of Canada and the provincial and territorial privacy regulators have jointly released draft guidance on the use of facial recognition technology by police agencies so that stakeholders and the public can comment on it."
+    publishedDateTime: 2021-06-15T19:40:00Z
+    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/privacy-commissioners-issue-draft-guidance-on-police-use-of-facial-recognition-technology/357183"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 30
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0382_637593841165545028.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "wkOfbhH2xYgYhdqPs0nsx/K0LChmYvndw3oT+osLoeD2mA69TauJhhzrHdbxr6iXZBGACVHLvjIUNyEeMFHIjbnJTgfg+Cq6Mzm/pKJQqlTU2JOoQNM9kHFEhfQuaoawVV6ax6q0nhyrbJ45ieZKZfkG61zZwn9gHm86zbw/NUUovLCgTW4g7U2oH8zF3fZu6sNckLTSgb2K2TsgZaBp1BNCz/YfyOuOL9+H4CnpD5NyrmiaX3UbrMuR8MxHKFpd8ls1XgMAJ9eXjlIO5g7+gbb7NshcOaopkrhJl3qxqia7eFqeP+fGtvwTB/SppLCunnnmH7s0XBQ0LMkZ1Vl9QpNx6N5/ferZBX7SwK3M8+w4W1hqsLT/KTzhw+DZ+udxMvh0czC0nqjrgNcBxtYsON5hrba794DTlu20QqE+pdQe8yRT00J/Zr/4BjqV0uM4VO17JQflISWG8V7makAHIXnIGfhCmGJ5aplrTBOGlfeHkat0TrBF6wKDyrDopKd5Uo2Erq5M+KDCO1uPlNzCEQ==;UxKgQpDOVp9BfJ6KTv5CmQ=="

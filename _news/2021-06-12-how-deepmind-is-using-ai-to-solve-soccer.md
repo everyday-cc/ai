@@ -42,7 +42,7 @@ related:
   - title: "DeepMind AI Taught Digital People to Play Football from Scratch"
     excerpt: "An a (AI)-trained computer learned to play football from scratch, using digital players. Researchers at Alphabet's U.K.-based AI subsidiary DeepMind used motion-capture data from real players to teach the digital footballers to get up and run."
     publishedDateTime: 2021-06-15T18:57:00Z
-    webUrl: "https://cacm.acm.org/news/253322-deepmind-ai-taught-digital-people-to-play-football-from-scratch"
+    webUrl: "https://cacm.acm.org/news/253322-deepmind-ai-taught-digital-people-to-play-football-from-scratch/fulltext"
     type: article
     provider:
       name: acm.org

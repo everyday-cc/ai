@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1623430856_facebook_textstylebrush_examples_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Facebook's new AI text tool is incredible (and slightly creepy)"
+    excerpt: "Facebook's new TextStyleBrush tool is an AI research project that can copy the style of text in a photo, based on just a single word. It means everything from handwriting to unusual fonts can be recreated with eerily impressive accuracy."
+    publishedDateTime: 2021-06-15T16:31:00Z
+    webUrl: "https://www.creativebloq.com/news/facebook-textstylebrush-typography"
+    ampWebUrl: "https://www.creativebloq.com/amp/news/facebook-textstylebrush-typography"
+    cdnAmpWebUrl: "https://www-creativebloq-com.cdn.ampproject.org/c/s/www.creativebloq.com/amp/news/facebook-textstylebrush-typography"
+    type: article
+    provider:
+      name: Creative Bloq
+      domain: creativebloq.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/CTDoFTKpnyaAwYHmSigCQd-480-80.png"
+        width: 480
+        height: 265
         isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
     excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."

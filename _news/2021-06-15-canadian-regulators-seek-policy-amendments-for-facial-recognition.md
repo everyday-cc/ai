@@ -179,6 +179,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Privacy commissioners issue draft guidance on police use of facial recognition technology"
+    excerpt: "The Office of the Privacy Commissioner of Canada and the provincial and territorial privacy regulators have jointly released draft guidance on the use of facial recognition technology by police agencies so that stakeholders and the public can comment on it."
+    publishedDateTime: 2021-06-15T19:40:00Z
+    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/privacy-commissioners-issue-draft-guidance-on-police-use-of-facial-recognition-technology/357183"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 30
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0382_637593841165545028.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "XdwNmX7iJ6pAuBmK3Bt1f5Zs2E5Zx19UAuOtp+JWSor8WRcUphMOrXiGohP4CkysEt2/ktsr10GhI7IH7tseai4z542t7j46lvS0WrGpmBCObAiV7ChwjNLJcSkt5YoaZLBUxI8AtjCzEzCdPE18OBbNoUtABYQfr8XDqRj7ROkmw98vpVxDP9D07iVKNPriM8xan5FB/KbQihM/spcKBmbjaRMY7d7SX56+48p/7EzBh+XB/NG9F54ocAkoJTwPgTJkXAg9MTHJAci+QrpNd4XmtEBesYr1nA0GinZ1baidN3DNSlkFEElUzcS0Ssaam80KabUBy+igZvUGbRPAWv1WvipNf66iJVvO1f8Un0evbaafn77MJXCrKqujgxFH9m4kf6Xa5DWClh63lkNoe4UOCkeufd83PSrKu99balAO9OuMPvZ+SIi9f3ICySfJ71ubCu+wWasgUI6KoACSVeHYsdj9lsYwsyKBUHTT34NR8PfhPFepdkJ7R01XRczAnCPXHCHQ5Q4eqF6XJ44YkQ==;gkyfSKh3uESSdZdvDjQ64A=="
 ---

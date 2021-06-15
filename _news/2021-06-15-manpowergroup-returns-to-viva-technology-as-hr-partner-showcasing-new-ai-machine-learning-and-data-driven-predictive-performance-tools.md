@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-15T13:32:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 webUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -27,6 +28,6 @@ images:
     height: 217
     isCached: true
 
-secured: "BlABqG/c6HK0zlF7o6wCO58Q/fGaKd+DELfdF+Qea4QO7TbrxCQqduYImWW2ppSLU3O7K/viHIz6cDcU1O14gdWEIJoi8wGZo8enYdRg8xt6MCzmbx7ZN8YNw2txu3tq/FsnrLXPnIIso9CnsKtcNaXugbF71WrPAzaADAM39/P51k6qaOvWRU2n5iIc7mxUELBU7mFgqPacLjuEw85GUCFGkip6yPKmV0wh9+XIR81/vHI8Vy7+1EBevT/ztXMNoQ/A1RTrJZo2Uv8qJpbrEUty4bIrD6XVl8nJtssbzA83I0Jgu4gTVvHz6OxrLJONbje2doGcYe6tUqogdP+lC78vF0IZCzOnhgmsFkMEZ8A=;mh6B83pc1cBJS6VhimemZQ=="
+secured: "/sELEjL7FPswWEJwnfC6wUH5nm9VcqZf+0AbhnMPadOBSGTygS8OAyAqGsO5F0hgoI+vy+89xkQ3Ujz107arHOvwr4uYFmmhHtF6bDw7To5WzQixemvimCG2hvepQPOVzQW79JMwtgbb4X/qIOKIC+zbOvbNzDxLHZJtPEY60uGq0ecp4S/UkSVkMnjUnjnaJpJ5Agev6O640OtuUlDP45Iy6uBwq8kj5Fa59ChPjY5jad7aDCN8yShwK8UiujQK55CF0vQ87JukeDtvMUb5nQ00tjWmApKphnWAuhC5TKE3j8SVifdu0iP6bXQIJ/e0JG+65ixycnOe1yq/mDjF6g2p1wcq6BG5PNirrcjdw8A=;QNo5grLzsZ8avbiI8LzwgA=="
 ---
 

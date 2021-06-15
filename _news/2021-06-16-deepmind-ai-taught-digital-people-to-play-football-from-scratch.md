@@ -3,8 +3,8 @@ category: news
 title: "DeepMind AI Taught Digital People to Play Football from Scratch"
 excerpt: "An a (AI)-trained computer learned to play football from scratch, using digital players. Researchers at Alphabet's U.K.-based AI subsidiary DeepMind used motion-capture data from real players to teach the digital footballers to get up and run."
 publishedDateTime: 2021-06-15T18:57:00Z
-originalUrl: "https://cacm.acm.org/news/253322-deepmind-ai-taught-digital-people-to-play-football-from-scratch"
-webUrl: "https://cacm.acm.org/news/253322-deepmind-ai-taught-digital-people-to-play-football-from-scratch"
+originalUrl: "https://cacm.acm.org/news/253322-deepmind-ai-taught-digital-people-to-play-football-from-scratch/fulltext"
+webUrl: "https://cacm.acm.org/news/253322-deepmind-ai-taught-digital-people-to-play-football-from-scratch/fulltext"
 type: article
 quality: 34
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 583
         isCached: true
 
-secured: "qM5D87kIBj1asqvEjwX/Nq05nLDxoQkznBb8YQQkokaVlllpWCrJr/VLqLRCPI8vQLystebd54OuBT/8Yk6yTgiORdoVRmoBUa06a32YXSkytWYCJwCPGqpbmNvkrpcB+agTditE4N0H6CqCjcrQgSmiKborTiZVO8i4kDyl/5iH6HjGgDJGtniEQ0YwxPEqB0Qgz3ClFiOyndUtUjgLxYPq0lqD9Ph/NMjhRO9mwR0FM214S4z2/OxBTQehuPmgMpTbVQVajcT/1DrmQnzeCo6taiADEc2luh7HtFUmT9loUXup2dlWJlkTHPZPCKHWeIgVkMKkej8r+jbQkobBa/6Z5Id8sYk/r26Ybopm0BM=;kanrJESF8Bxb43BF8EKIbQ=="
+secured: "TbN8O0uhQlQ1gt4DpTtNC6cRbFZqQtHZAJ4WxIHKeJhY5QgPhTG9XgDQnfpfbfRQs49JbDl6VPlnUoPoAuIcENDKNXpLVYxgIh3deuJ+M/zBF49FDpFu0eQLxVDHW+7p78fg3Nf3v8Y7aAE2SYVm9nuO/QoTkBovBUKWSBY7Xox+ki59jHwPInk2ozmZFKT+itZfl+z+jkDyPiPh5ub7CadKdhZ+Tc7xEwTuvXWCiUPUfk2wFHEo4RbOyB4Z2uMXaVXhkzBEz2kHqyHb+5D2qW9rbFx2U6P1qO4Qsk0LRcu5snlJtdazOW6rMDCkNqzUflNz+9r80t345LhMgjeAIJB1haiGFOkzGYuJdGUiVLw=;rYZHIbLclSivgulqg+KchA=="
 ---
 

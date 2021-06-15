@@ -86,6 +86,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Congress Weighs a Moratorium on Facial Recognition and Biometric Surveillance Technologies"
+    excerpt: "Today, a group of congressional Democrats re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021. And it's not a moment too soon. Earlier this month a coalition of more than 40 privacy advocacy organizations including the Electronic Frontier Foundation,"
+    publishedDateTime: 2021-06-15T20:56:00Z
+    webUrl: "https://reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/"
+    ampWebUrl: "https://reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 29
   - title: "Congress Re-introduces Bill that Effectively Bans Law Enforcement Use of Facial Recognition Technology"
     excerpt: "Today lawmakers in the House and Senate jointly re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021, which would effectively ban law enforcement use of facial recognition in the United States."
     publishedDateTime: 2021-06-15T17:47:00Z
@@ -101,6 +112,6 @@ related:
         height: 304
         isCached: true
 
-secured: "8C9glqMRIOo+Cos5P0HKpgdL2u+hJol2F1EEqV8WpWuFuTOMy4uK1L7+J2ZAtfLZMuyAK5mFztHwRIT9DJ7C2yjENIK1GQHXsze2klA68juy4kiAxPg3f2q37ySvzsEss2LDkRLLHyCsLtCuDI3L/Ov3IJEPHW3MsINLHsqII/+O6Za6HPmHJ242jUgleQ/3mwQLissKDhHqZTJnPTtHKrVIDcNCVyxZRx4UTYq/Np8AgtJQYed4ZHeURmZHq/Nj1del+PMJxW5axff949AhM+HmW5margm1Kbd2pRB/dE56BF64i/u+cMTpE9MxKF7LPAwt9RIrEMDlZLJiji1JoJlNKci/8z7ZjjwZNb6YV7s=;/BC0ge0CEErvQ9iF79il8Q=="
+secured: "wOLab7ROsd7TYRYXSuWdiZfwmHbUOJlH5wp8Fgh49bO05uXuNIyX++o2L1N6nZLufGM9BKA2fBX/Wn678uG6czuyAFGPwG0gnHqti9a5ja1ojQrQz1YeNH8JSE12+ILpzdTNJpgWLq4tG18gQwABmk94g+lBSKHEB/fPoeHzsWj4ymhhg/XAO5IZaj6ON2vlgG/OXL//SUOaTSkBXTbbRGuOTT7xbXn5EbwT2tX7ul6ML6CjqwTyt2Sw+4Tmpu8OaeIJU0VhvYBrwWJCrJ8JaCT2qyiJZ4bz17H+9eUJ+neW+E0PdVKR6KLwYVP5qwW1m1+1KMK/2NBAAeoGxZvefGtJmekKP4pL3W6RSSDbh5eKqw4fVr5QQrBJrMoDmNUjDTxDaB5fwOr1CzZg/bHvYTx8WPGUgLiEQYo3LlIWhgnurDxTTA7m7xKbC19wBTXrxFwOZ//zfQzi4WPWd2sTUvgHC2F+oFLZZstXrO0uZtVaAFKMBHPnLU6lFGoECryYNk8LwKoaDs4gYb9Rg8yY0w==;zEyUvf6VKy4JXgFPiD4b9g=="
 ---
 

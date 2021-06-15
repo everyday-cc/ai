@@ -2,6 +2,152 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-05-27-databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh.md",
+      "title": "Databricks unifies data science and engineering with a federated data mesh",
+      "excerpt": "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
+      "title": "Databricks ups AI ante with new AutoML engine and feature store",
+      "excerpt": "For the developer crowd as well as sophisticated business users, Databricks is introducing an AutoML (automated machine learning) engine; for data scientists, the company is adding a feature store.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-baidu-debuts-updated-ai-framework-and-rd-initiative.md",
+      "title": "Baidu debuts updated AI framework and R&D initiative",
+      "excerpt": "At its Wave Summit deep learning conference, Baidu announced updates to its PaddlePaddle machine learning framework and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/amp/",
+      "publishedDateTime": "2021-05-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms.md",
       "title": "AI Ethics Teams Bulk Up in Size, Influence at Tech Firms",
       "excerpt": "Artificial intelligence ethics teams are playing a greater role at tech companies and helping them deal with bias and fairness issues that have cropped up at companies such as Twitter.",
@@ -1000,134 +1146,6 @@
         "AI",
         "AI in Security",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-how-supply-chain-digitisation-is-paving-the-way-to-gene-therapy.md",
-      "title": "How supply chain digitisation is paving the way to gene therapy",
-      "excerpt": "Big pharma has been on the frontline to vaccinate the world against Covid-19. Digitising supply chains sets them up to personalise patient care",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy",
-      "originalUrl": "https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy?amp=1",
-      "publishedDateTime": "2021-05-26T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-scared-human-emotion-detection-ai-meets-eye-tracking-technology.md",
-      "title": "Scared, human? Emotion-detection AI meets eye-tracking technology",
-      "excerpt": "Benefits and risks of artificial intelligence The increasing scale of AI is raising the stakes for major ethical questions. Read More That reality is closer than ever after an eye-tracking AI company has agreed to acquire emotion-detection software firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/26/cf8ae2ae-d7f1-441c-bd07-269f57b1c255/facial-recognition-emotion.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
-      "publishedDateTime": "2021-05-26T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-nvidias-next-major-wave-of-ai-revenues.md",
-      "title": "Nvidia’s Next Major Wave Of AI Revenues",
-      "excerpt": "It is a good thing for Nvidia that most of the hyperscalers in the world – or at least the ones that matter – also have substantial public cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/",
-      "originalUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg",
-          "width": 937,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/",
-      "publishedDateTime": "2021-05-26T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

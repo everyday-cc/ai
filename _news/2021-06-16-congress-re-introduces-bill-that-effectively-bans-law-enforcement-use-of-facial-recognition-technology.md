@@ -85,6 +85,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Congress Weighs a Moratorium on Facial Recognition and Biometric Surveillance Technologies"
+    excerpt: "Today, a group of congressional Democrats re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021. And it's not a moment too soon. Earlier this month a coalition of more than 40 privacy advocacy organizations including the Electronic Frontier Foundation,"
+    publishedDateTime: 2021-06-15T20:56:00Z
+    webUrl: "https://reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/"
+    ampWebUrl: "https://reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 29
   - title: "Senators Markey, Merkley Lead Colleagues on Legislation to Ban Government Use of Facial Recognition, Other Biometric Technology"
     excerpt: "Legislation stops federal entities’ use of facial recognition tools and effectively strips federal support for state and local law enforcement entities that use biometric technology · Place a prohibition on the use of facial recognition technology by federal entities,"
     publishedDateTime: 2021-06-15T17:31:00Z

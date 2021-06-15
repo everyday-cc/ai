@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao"
-excerpt: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ..."
-publishedDateTime: 2021-06-10T04:27:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
+title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
+excerpt: "\"at-above-post addthis_tool\" data-url=\" China/BEIJING (Reuters) – Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
+publishedDateTime: 2021-06-10T04:20:00Z
+originalUrl: "https://www.metro.us/alibaba-to-develop-self-driving/"
+webUrl: "https://www.metro.us/alibaba-to-develop-self-driving/"
+ampWebUrl: "https://www.metro.us/alibaba-to-develop-self-driving/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/alibaba-to-develop-self-driving/amp/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Autos
   - AI
 
-secured: "jj87KJbUFKFct9w56jWkEx0rADLV0x7nx7DiY1lzLj4uYD6oyy0raFld3xxmiWVw+G6UGbh4yjTuNjJ4CDugdEYwhwtIgJDZn9VuTelnXu8xXg3vK3QH5KtJwBn2OHBpe3meDenvNSsyyO2YgfFNildWTmbHj7abfGmoj3RubDBQvbFXsk3y8v9VM/nnRwUNGx9MMGAU69dQ8yoku2QDxNcS640Q1Q5Jg28eETvryZvkofwPH8X7RceNx5Ssvr7b6Sh1Y1a9QtK2jlYC8lCSwRXmmLsZpFBYtoxNr+qgo6IkOx/3qq0kYEBDMK0Xsxv8KsUCGNk8fHfcNY0Ellv/YMYos1UhFRWT3U+m+gNMeg4=;0mnjX7Zr3jmxlH0yjs/LKA=="
+images:
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5903O-BASEIMAGE.jpg"
+    width: 800
+    height: 533
+    isCached: true
+
+secured: "ugR5ATZwYyYxsA101txlJT7iI8FnfVQet/QMn+y2hG9IXwnJwOuGUqav8jsaH1I9OHhfSSTUiy0gXN9372krlAVIAZbqb/KIBvjHgsRGv9lNwTkNh/uCdc9JB2UM10EXiu9R9tm1ZNaZK8C3G1VR4j7Dx5+kgQsj6YtOsKfmJM3s1fX/bxMaq8AmMdD9K6AY/j2mtJIyH8DTfAjYamL+7kLk/iREfuhMxsN6bppTvzP9pA2LtbGN20A73oF5CchwaqZGzXmPVdxO/dv2qafs1i68crAY0d4eDpKXE8+p8VN2i8DXDHsG8+XEOXpT476YQBseD7REUvMyBEX9bYoBHl+e+zAmKZ800efrw/ISJis=;XXtjwBsCsY/3qzUBonDZnA=="
 ---
 

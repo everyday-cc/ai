@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Breaking Down the World’s First Proposal for Regulating Artificial Intelligence"
-    excerpt: "Today, artificial intelligence and machine learning tools are ubiquitous across sectors—used for everything from determining an individual’s credit worthiness to enabling law enforcement surveillance—and rapidly evolving."
-    publishedDateTime: 2021-06-11T04:55:00Z
-    webUrl: "https://www.newamerica.org/oti/blog/breaking-down-the-worlds-first-proposal-for-regulating-artificial-intelligence/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
-    quality: 33
-    images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_637827229.width-800.png"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "Fedp/e4lQj7xIDHEFa0d/btwt2SGsItJRPPZnVo7DbMu+n6D3XEug4AjZflYcx0tELvhAAXk4Qi2TXSA9ODhgIj5cmDftQNsaOrd3cHh0h/JxbkgbZrTRLxCer0tJ2n/1a0B8ndlfAHwcDo6BusswfvcUh7PuiTl6H1r3kgx6MLOefbYijb5AISZTanWbhB/jTsNna2m7ADXPH5fs3H1yATTwAYCetKesTTTUkrAoakI2qlSi2ZvgWvw+bnunvQ82sdrKT5LgUdKWzENP/7ayrfgJHT1+mvoaf9S9pmPY6t5z1Q4S8Bj8mQ73fXpI512cghRE8vBLhiLOXS8r9VW79Rju19wW7N2FzuVbbSOs6o72aBHwRsnajqnHTLz1/7IBoZbZXlOVkhfGPjYnWeY4wFfZR5ct0DH61+rJpW7FVyWgQOZawG0OvuyomAqKJADVFPCJ8yfGYxqXVwFWRlGZVN1xmr7eHxtHJN5ligu8SDPmr7matTFMsqMcwNyE5Sp8hBIMoXbMsmFfdjdyNHkwg==;NGSCEw6W+1NTKoRjxn/K5w=="
 ---

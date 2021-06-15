@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2
 ampWebUrl: "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/15/understand
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.allaboutcircuits.com/uploads/articles/LEC-2290_angle2.jpeg"
         width: 700
         height: 525
-        isCached: true
-  - title: "Breaking Down the World’s First Proposal for Regulating Artificial Intelligence"
-    excerpt: "Today, artificial intelligence and machine learning tools are ubiquitous across sectors—used for everything from determining an individual’s credit worthiness to enabling law enforcement surveillance—and rapidly evolving."
-    publishedDateTime: 2021-06-11T04:55:00Z
-    webUrl: "https://www.newamerica.org/oti/blog/breaking-down-the-worlds-first-proposal-for-regulating-artificial-intelligence/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
-    quality: 33
-    images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_637827229.width-800.png"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "dhhBYcfqHvkuog0m0XIZQyuXYKXDAoohZOPtnH0G2ZGocFFvhuYJH6rqyg6gZmfrm2WdWGOVaZWIA7hboz1WkTDfdWsg3sg5QC808Fe8xcIIn6HZK92UuGHdQRZ5z7xQo3OlwQhhBFu8V+LbN+CEj8ltA+3UvDo4tZG+P4Diewa6PMp1wcRDZX216gMtNnZRJFiIMBaB4XLmfuBxH4Fn8nRjWgm652+EM5mTXQ76iamHNjxhWzGqNSHQZq+/sSfSlJlySu5IbbtJ36l5bKms5Cp14yldmjJKB/QZQr9R2GnX+s1qoqQfy7xnedQPX8hllX87tcxlb1DRv8aZnYQaj/MW+2/UUwQ8BePncKs8Ea2/ODqh2kKUx1zuuCJWwGrGzMdYBxI9xGGTslw0IrYUF8Or9dlANTezNKf8YchnUyUTqoUOm/bHeFd99picwc+a/VO6vuM8Q1tItZWxcBx5vJd3goYQxMGrgRc2pkmD9mZyhOZi/ZMB0ga7YMeQN8qYBx/g5J3nV5KRNjgNaDtxVw==;vtVAxD5JiORQijfO+uJi1Q=="
