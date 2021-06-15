@@ -21,14 +21,14 @@ website: https://research.google/people/RajatMonga/
 twitter:
   username: rajatmonga
   url: https://twitter.com/rajatmonga
-  followers: 14095
+  followers: 14096
 
 linkedin:
   url: https://www.linkedin.com/in/rajatmonga/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=W8yZCNsAAAAJ
-  citations: 39053
+  citations: 39142
 
 topics:
   - AI
