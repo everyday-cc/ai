@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
+    excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"
+    publishedDateTime: 2021-06-15T12:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-19856354.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "United Fintech has six experts in its Advisory Board"
     excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
     publishedDateTime: 2021-06-15T09:37:00Z

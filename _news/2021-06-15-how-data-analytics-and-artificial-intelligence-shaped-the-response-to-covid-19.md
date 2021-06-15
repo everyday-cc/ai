@@ -57,7 +57,21 @@ related:
         width: 800
         height: 395
         isCached: true
+  - title: "American Licorice Company Selects AnswerRocket's AI-Driven Analytics Platform to Accelerate Insights Generation"
+    excerpt: "AnswerRocket announced today that American Licorice Company is leveraging its augmented analytics platform to enable streamlined data discovery and automated"
+    publishedDateTime: 2021-06-15T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/american-licorice-company-selects-answerrockets-ai-driven-analytics-platform-to-accelerate-insights-generation/article_b086e2c3-6bfd-5963-9a26-c90089662e7a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/dd/3dd1b7c5-c7c6-59ba-b818-5071a55f7840/60c8a50db8e17.image.jpg?resize=699%2C392"
+        width: 699
+        height: 392
+        isCached: true
 
-secured: "7cgu5+VPWq201w92CkqUY2Qr2Vpddpm+AYbCKOcwegVJtb4qDgondqmQfjnefMiUMyCbDMVraH82jVQ64jYpG5Lbeu8XoCQjU3Nr8Icok5+gTK/zhXi0M9eJagGp1iI1OfA5ZLnO0W/hoOn7WzVm67bocqgRxIDU8fwZvE1lrQR8K6qujtJsc7l3KDmNoUheA1vbtwIU7auAA9KZcikg8ADQk3lN8IyvJ+hatJIFhjqxA9cxAukuVw11IP/B3R6PPf7Na4JK9dNJ7q/LcOcA4KxwSxNRJW3D1hXkt2SUynCCO2cDibj11jVh/X1QwcYXRwlqDOCDatgIZ0eWlCj83vJAlMGXMPxjkAt+9ngDH4U=;0zPmTgsT5a4nm5ec3DvKpw=="
+secured: "LFvZaPoNnXMg02Q52ssSgQroAjLp4VeNoQgMfiQbRrgJKPtQN+IANq1I1cpfX+ITWbE48XkhdO+4FKiErDvyVZZ4Eo8EpK+V4mOvT2usE+sOHBcgMPmgGtFn0Gujpdazun1euMhukHNA1Eu160fEi2jXO6ILnZuz+nMhIhjm8zGJtTp9fVTlBtQvxCDGpUhwaDhcWXlLQ3KNgUjnGD25VRrF3JBj2lrP92ovW32DeT+PG3YmUnaGVhy12n59KGLPKnFw1F5zJqxlJRr0F6fOFAhk4wji/soKJjCYKy1NxmU5gsdHAgGMV2nXQ00Ifuqns+u+KYHu7z5Vh4zKF2GDiCcHRrMTe0ScgmtytBVz7mxo4lKk0SPC0ucbe3L/pCYfx3E3WIEsLUxGyNM1gP9S1WcWPUnr+UT0I1nMtRmnCOqEBKc++/6EBgPx8XG9WRk5YdL9NZ1jVkMmMUVH1PsXqtYygD0aJv3KK+CN2SXdIgTE0oC56KHnf152KUma5ZPAwgqe1lKnjpYMYzfrQwkSZg==;RSZy3O1/PPG9Jg/iGGsVCQ=="
 ---
 

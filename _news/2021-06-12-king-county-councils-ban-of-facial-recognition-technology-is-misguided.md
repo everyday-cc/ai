@@ -9,7 +9,7 @@ ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-m
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_And_Personal__379967281.60c37fc0560ca.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "DHS on hunt for next generation of facial recognition technology"
-    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
-    publishedDateTime: 2021-06-11T10:45:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
     excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "Report: Intel has offered $2B+ to acquire chip startup SiFive"
-    excerpt: "Intel Corp. is said to have made a more than $2 billion offer to buy SiFive Inc., a startup developing processor technology based on the open-source RISC-V instruction set architecture. Bloomberg reported the acquisitions talks today,"
-    publishedDateTime: 2021-06-10T20:53:00Z
-    webUrl: "https://siliconangle.com/2021/06/10/report-intel-offered-2b-acquire-chip-startup-sifive/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/intel-1.png"
-        width: 718
-        height: 398
         isCached: true
 
 secured: "ru6ZU+nH+9W9ZEbZSmy8nwvSOCRxHmeahOZyzQXn4Bnq9r1f7NCwL30RvARUMQN3UjxRGjECMKD/cPj8nvIM43AyImbUi7jb2HlBpIInSs0S+y8t9HAjFtnouE6jNDzQfrGst22N1dhsZ2zN7uJYZSfLlpKQ520MNSHlgXumlQuvEi//o5p3mfm6lqhqE8K/1s8j2F6lQZK3lnPHiTUpbRaxFxFYMbz/ZB5Xm5Wd8uo8DMNyL7jyQ1pxs9aocFrpNWYPrjidiMRAdkUttcOn/yWaveF9H7YQcrSzb75viT0G5xvtfJQKfK2A6luHPGzquXoxbBmwHL4rTkw6dl/JbeY7d+VKSQxbfbT5n9ZbAfZJAAnvsgMpsESmDRQGfMb9lnc/6CXbCZIwgJ4Mlr3vIzDfF5OhSswQPinczEzpUecxtzsChHRgZyey0szb+DO+9KOXoxXy8dLaPES/zp0PxrtynJ6IzjF70pWPhBHF0qzTe/1ogVxYTE5r2U0YR3Ece0bxhkFISmxdibXuGojd1w==;/PDw8wN+kXDd/Q49qH/7hg=="

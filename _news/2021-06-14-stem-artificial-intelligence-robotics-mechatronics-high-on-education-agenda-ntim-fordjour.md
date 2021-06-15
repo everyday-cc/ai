@@ -42,6 +42,20 @@ related:
         width: 960
         height: 688
         isCached: true
+  - title: "Stem, Artificial Intelligence High On Education Agenda — Rev. Ntim Fordjour"
+    excerpt: "A Deputy Minister Designate for Education, Rev. John Ntim Fordjour, has reiterated the government’s commitment to invest in the learning of Science, Technology, Engineering, and Mathematic (STEM), Robotics,"
+    publishedDateTime: 2021-06-15T13:14:00Z
+    webUrl: "https://www.peacefmonline.com/pages/local/news/202106/446697.php"
+    type: article
+    provider:
+      name: Peace FM Online
+      domain: peacefmonline.com
+    quality: 54
+    images:
+      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/201906/329672580_909606.jpg"
+        width: 600
+        height: 469
+        isCached: true
 
 secured: "Bv09h7m2rsi/ExEr7Jqjo1W3lcScIMVDFvbHXzY21uEXrdyJmHRKMVqFWDWwjTNv5bRaP9tIvvNGODP4qUElY8hG2KX/tiJfmGLmJuMb4H7RLXGyDYbNs4OhQDzxBjDCW3QpBO3M6L052Aooh6Quadn81GkBFoiaP8HnYPRH/t5LuZknlpAWFGNSYbwDzmsbkjpSKtK6X4otc5H5I2QrsRuGvsydX3+zwTOL5Sj97rFlsitwZkecAPffixOHwrZQr59iIaHJXKlfGdLsvikumrvyMS6n10T1XIOI3gPxmA2KYvnwPrNtpRDQE+D2cIQnP1QoeIMeVGmtpJIvKW8gMVMJnP+UvECHCaURmSMFxYiMDktMgZH6X+eQsv9GGRaxgROEogO2D/yxLjgPCdb/zTiX+0C1argLP8T7QunMRBRdQdoGvaqP2KwcT4k+4YENVnxkz48bgUH2oq7mNfxLGB7xtsrwGtVLNJq1nZyRg8nXP/3nhv2KF+sf33gQ06beICuDWawB/+0HzswlFZNqMQ==;N8MLNbNcPjIwXZFcF3xiQg=="
 ---

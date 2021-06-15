@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-an
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.abnewswire.com/uploads/1623672786.jpeg"
         width: 800
         height: 395
+        isCached: true
+  - title: "American Licorice Company Selects AnswerRocket's AI-Driven Analytics Platform to Accelerate Insights Generation"
+    excerpt: "AnswerRocket announced today that American Licorice Company is leveraging its augmented analytics platform to enable streamlined data discovery and automated"
+    publishedDateTime: 2021-06-15T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/american-licorice-company-selects-answerrockets-ai-driven-analytics-platform-to-accelerate-insights-generation/article_b086e2c3-6bfd-5963-9a26-c90089662e7a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/dd/3dd1b7c5-c7c6-59ba-b818-5071a55f7840/60c8a50db8e17.image.jpg?resize=699%2C392"
+        width: 699
+        height: 392
         isCached: true
 
 secured: "uuQxt4O+pM7JjiZF2EH5Lzszl01krWgjGU2oYmDKxGkkJbyDBKsTL2VZK5qXyzvySNFXpiXPjXn1wn1+h2JLnV6pMuDQBXoKCj+zFIhLIl0yvtcXOxq50OBNrewhejW0lui+P+PMDcQbrb9+L04trdg9RYZUAn/sVaTsvM4wMVxLSwq2VGoB2plSDg3GKitnSi1ulvCT2adFMvFBe3arr+0f1uW3VvP3oHeBcvBGxen8tKp4fUcfHR9AWRsY5tz+Eygiv+uZ/5KHZQ/oZQKDmWkpM6z+xlD6tcKCVX/sxmJjaDwmJhid7aZQsfdvWV80vaGsyIVnEz4SfPsWpiH73aShxdlaHn1zIBgD/Z8ByoY=;uLIx8xtAOoWjbKam8vk2XA=="

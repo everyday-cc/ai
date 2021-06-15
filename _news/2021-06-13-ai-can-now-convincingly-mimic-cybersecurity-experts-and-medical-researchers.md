@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-med
 webUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication"
 type: article
 quality: 67
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -29,35 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI can generate fake reports to fool the experts"
-    excerpt: "There is growing concern about misinformation spreading in the critical fields of cyber security and medical research. Read more at straitstimes.com."
-    publishedDateTime: 2021-06-13T21:47:00Z
-    webUrl: "https://www.straitstimes.com/opinion/ai-can-generate-fake-reports-to-fool-the-experts"
+  - title: "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity"
+    excerpt: "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology."
+    publishedDateTime: 2021-06-15T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/13/md-fake-130621.jpg?itok=yP6yiZ1O"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Artificial Intelligence can now reproduce medical reports that can fool cyber experts and medical researchers"
-    excerpt: "Have you received alerts on social media informing you that a post may contain misinformation? Social media companies like Facebook and Twitter, among others have started flagging obviously polarized content."
-    publishedDateTime: 2021-06-14T06:21:00Z
-    webUrl: "https://www.timesnownews.com/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
-    ampWebUrl: "https://www.timesnownews.com/amp/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/business-economy/industry/article/artificial-intelligence-can-now-reproduce-medical-reports-that-can-fool-cyber-experts-and-medical-researchers/770298"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 38
-    images:
-      - url: "https://imgk.timesnownews.com/story/ArtificialIntelligence_istock.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
+      - url: "https://images.wsj.net/im-353929/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Raquel Urtasun starts Toronto self driving company Waabi, after leaving Uber"
+    excerpt: "TORONTO - After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car"
+    publishedDateTime: 2021-06-15T13:54:00Z
+    webUrl: "https://www.plant.ca/business-operations/raquel-urtasun-starts-toronto-self-driving-company-waabi-after-leaving-uber-213251/"
+    type: article
+    provider:
+      name: plant.ca
+      domain: plant.ca
+    quality: 36
+    images:
+      - url: "https://www.plant.ca/wp-content/uploads/2021/06/plant-news-new-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "JIvz+u2866XecR7aUHhRq+DTKYt+rJRIVdKf9EQjKF87wmt/uFIg/49jX+2KzJXXFFD41hkfPuXcniNbyHU89/c/Om5TzqmPTMFxUtxElCeF2SAjf+X4VrB5dLXN5r6rhyyN0QYl0w5IShWu83SpY9pFIIBh0f7z8PEc8Eaih+6wxz7hXhDx8hClhmGoXmlnLZc/ghadTR8Mfgm6I/Sdyv1vUtbOgrqd6svzjaeF5+wLgCcDKb2kKmFHbsi8XSoGZlj3iCuP6zFihaLSl3CwPXt46N+LOtQWSPMsV+kQrQAC8A7ZoEkfmpPBUfsSDBZ7UbLffFvJKtSdKyCogqYpUNK0mr7jYOczpejfaT3aflfOtsaGb38nfxVv96E2CNTeZ2w34Kx+S9kU72f/e4MlG3loyQ17dyJnQlZos+PGbZOFE2bbxaFAPtHs4jdLwFVHGW16TkwM4NI7Fv8Ii+Pzx7tgtW0dtLO7KRcJTzJXq6fjl0lk/IlPADB3PcOmoOXSzW1SDr+Bne4f9kJTijmBrg==;RBWPFivkIdq/mktfUcmgrw=="
 ---

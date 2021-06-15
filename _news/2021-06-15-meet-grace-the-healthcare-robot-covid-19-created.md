@@ -45,6 +45,17 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Artificial Intelligence for Rapid Exclusion of COVID-19 Infection"
+    excerpt: "(AI) may offer a way to accurately determine that a person is not infected with COVID-19. An international retrospective study finds that infection with SARS-CoV-2, the virus that causes COVID-19, creates subtle electrical changes in the heart."
+    publishedDateTime: 2021-06-15T12:00:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
 
 secured: "ca8T0l0gOJukGRQvIkyzW5ZtperUpj8pmr2ujp1hNo5RAx9UCKCz7L/u2H2FDrXSWBWWqPxsIMSNFJFbDC5DolLHuhj8iQRaoPWvpIov4aG3uc/Rd9UkQsQUhQnFCGBBCZohoIVLIBrLVQ9oy0SNDLba5pW7EU0DbtrhOTqldosMyck1g2Be1lSGOIJJrENfE7wdVWEjmP95TdtXvWhv3I+bIOzEAU8+s3/fK+jhjRY+g7VixUllgXPRhfsfNbDR62hjJksQRCaoMCKGcZ9iwv3WW+st11/NMAKGP/0oa1oPfNIPPGp223EWuvwI9/BAwGVcs0UaEmBYOPBDE357TBSsnzcdSwlWYcNNHCExWvRUMmOcmG5g/l9bV7cxwejSfLdfDYh0kiqIKJyVSO66Kt5mLISpfPQcTIboHe4BqphuahaQ0nbpy2Stxms047TpZTR2cnhWtYSsr5sINQfNY4Xv10t569FFcsdfBjsDtKPnh4A4JtnLtAMAJEyQ2qZUKr2Ip/v9O7s9yz0EDwJnyw==;Zu7AcQdEd0MYWxbRUg0L5Q=="
 ---

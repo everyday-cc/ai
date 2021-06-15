@@ -35,22 +35,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Apple Hires Self-Driving Car Startup Founder and Former BMW Exec Ulrich Kranz"
-    excerpt: "Former BMW senior executive and self-driving vehicle startup founder Ulrich Kranz has taken on a role at Apple working on the"
-    publishedDateTime: 2021-06-10T20:06:00Z
-    webUrl: "https://www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/"
-    ampWebUrl: "https://www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/06/10/apple-hires-former-bmw-exec-car-project/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 41
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
 
 secured: "4mL/n3Q9j/rDFNW1HGcSUJnlPWJBwYG+KEEg5gogo9jyaeWAzHwld5CX6velqDCDcJRYX0OyQiUYwD56XVnbUtuf9KSDfpjVBPfhk54u2EEQ0Oc9SrohDV2TqolTjwg3uqI4RJQNra4cddVN0BcEQ1iuOWW2O5LK9aZRfvoLiW2Hbu/a1GzNdlaLtfofYkf+2ZXZ96brRQM6tq0KqiOWX+XMctHtsR34w1+jjQtgXy90SqMjslfl/aoOKAj4j1RdfWkk1xd7hHtQKpbMiP0oElRyLiCwnnPnLqNYF9d9m/nxUciixGplebgnItnaaknvuAoeMdCKsJAJWINsjPc3khOfJ3GU+CjyudpKFxYEt8Y=;kpZHOpXGkZi+acfzF0VvbA=="
 ---

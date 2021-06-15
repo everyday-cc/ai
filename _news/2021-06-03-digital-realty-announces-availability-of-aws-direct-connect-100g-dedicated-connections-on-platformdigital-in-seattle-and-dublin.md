@@ -2,18 +2,14 @@
 category: news
 title: "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin"
 excerpt: "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,"
-publishedDateTime: 2021-06-03T10:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-1030490539"
-webUrl: "https://markets.businessinsider.com/news/stocks/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin-1030490539"
+publishedDateTime: 2021-06-03T10:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -25,6 +21,6 @@ images:
     height: 242
     isCached: true
 
-secured: "BwcqRUvUW5vdxusG89gGGWEP263HJ2nJQPEPHrbu2gLMx/LsNjsQ/f0FmrfnzCIfeZpRuypQf6ZE8AXX+twaDIaT2a+TrLa1/Nv6MxQOP3v0QeoWza/s3wWEtYKjMfwyBYVpn9vE5v158/YQqh9OtBBO++ilivEQ5wkVIBuH/l2glxTWFUL5fPLhDHeCsEdf6QTHIzkcVM8sM7v7GyKD1x44eDQN2P8PUSHW4ptfsb7l9aK65n6pr4Xn8hJuBQuq2I/NjN7qpUZJ3yms54luhKBcTp6veza2AL8Wtz7eHzZi/I+f7QslfdC20l1u8MLq97Qnt9Rrnc7EHFWwjfmCaEmob7o+cDEZbtc2PWAGX48=;XWolnZfUz22SkD/TxtUMBQ=="
+secured: "l5NLy2lRxJeeWq4zNq5hQb1VUcyS3OpMB46v6m86nWpFDGPczOjI7oO08w16+aw2uqOoZBGJ+Uhs8P9HDOhJStGK0g8SnqTOWBq7bBJlrfSU+ncXdpojyFvLc9HrJQGzoO2YgDLsFsJIMDFqJ9/vxysspGPlzOdmPct0lACVX8JMaj0wJPr77v2xRRhcq5wLg7q8i965SxPjBjgBtxnmz+79bmi2vZ2WeBJdUjVsoVr8+slmQOanjEYNV3ui99t7LlkCg+yqfktD4zZUIvIPchgu0MyzQOMA+j8GeCo2/JdZ0BOwW3ZMkVv4UBLmVUN8T6YioBQDW2ug58R80sNMpOAfNEsabtQlApjpYRfCjL0=;fwLFIs1CjMiuIvNqQgg3Vw=="
 ---
 

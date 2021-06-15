@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-05-12-can-federated-learning-save-the-world.md",
-      "title": "Can federated learning save the world?",
-      "excerpt": "Working with collaborators at the University of Oxford, University College London, and Avignon Université, they explored the environmental impact of a different form of training – called federated learning – and discovered that it had a significantly greener impact.",
-      "sourceUrl": null,
-      "webUrl": "https://cambridgenetwork.co.uk/news/can-federated-learning-save-world",
-      "originalUrl": "https://cambridgenetwork.co.uk/news/can-federated-learning-save-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cambridgenetwork.co.uk/sites/default/files/42271822770927eb47fe0o.jpg",
-          "width": 700,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
       "title": "Machine learning & Artificial intelligence to Gain traction!",
       "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
@@ -1422,6 +1379,49 @@
         "AI",
         "AI Hardware",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-einride-raises-110m-to-build-autonomous-freight-transport-vehicles.md",
+      "title": "Einride raises $110M to build autonomous freight transport vehicles",
+      "excerpt": "Startup Einride AB today announced that it has raised $110 million in funding to support the rollout of its autonomous freight vehicles, which have no driver cabin and promise to reduce shipping-related carbon emissions by more than 90%.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/05/06/einride-raises-110m-build-autonomous-freight-transport-vehicles/",
+      "originalUrl": "https://siliconangle.com/2021/05/06/einride-raises-110m-build-autonomous-freight-transport-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/einride.png",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

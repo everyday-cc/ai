@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-siz
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth-2021-06-11"
 type: article
 quality: 65
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.altfi.com/images/featured/running-a-fintech-from-india-during-a-pandemic.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
+    excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"
+    publishedDateTime: 2021-06-15T12:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-19856354.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Enzyme Replacement Therapy Market to Eyewitness Stunning Growth by 2026 Covid-19 Analysis"
     excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” Enzyme Replacement Therapy Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2021 COVID-19 Worldwide Spread) “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"

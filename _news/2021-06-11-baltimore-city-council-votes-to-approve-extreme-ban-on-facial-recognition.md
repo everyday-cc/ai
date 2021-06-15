@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DHS on hunt for next generation of facial recognition technology"
-    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
-    publishedDateTime: 2021-06-11T10:45:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "vmah30Qq9G4HDrybH9PrpzSIS8hJVOS2gT0aAU7QenRExVv4cyFVqfryk3iA67YkGnWb7kGRvwKZNY5vfIA/vOIaATtiLrVJab94dlO8zwM3z7It0SsvTNMEgwq0/clT5FRLsLvGbkB89H1My7TQxOWnQla5kaolUe+EMM64zbcW1ku7XSMlnR6NfeUmdAm3znu0BsFF5wj4fsfadB9+B+O7yIB7V35rxfjqFC5Oi+O6CyNuCmxEz/yBliBhPhgFy0EHR8g8bj2DyNrgZLc6cxj8BMFMMyuEMloHpNBJUtea3UNm4bWuO6m2CNfGP+iw27Mn1IYY4o5wI48lsspA7D5Jfw6I9g6qMAoU7PCNJqQ=;C+eW09VXYeTblym76/1snA=="
 ---

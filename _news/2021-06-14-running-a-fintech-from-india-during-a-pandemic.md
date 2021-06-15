@@ -103,6 +103,20 @@ related:
         width: 1005
         height: 575
         isCached: true
+  - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
+    excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"
+    publishedDateTime: 2021-06-15T12:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-19856354.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Enzyme Replacement Therapy Market to Eyewitness Stunning Growth by 2026 Covid-19 Analysis"
     excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” Enzyme Replacement Therapy Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2021 COVID-19 Worldwide Spread) “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
     publishedDateTime: 2021-06-11T09:11:00Z

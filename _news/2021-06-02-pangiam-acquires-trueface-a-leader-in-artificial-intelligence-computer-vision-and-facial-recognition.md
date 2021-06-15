@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition"
-excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused on facial recognition, weapon detection and age verification technologies."
-publishedDateTime: 2021-06-02T11:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pangiam-acquires-trueface-leader-artificial-intelligence-computer-vision-/2021/06/02/9381927.htm"
+excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused"
+publishedDateTime: 2021-06-02T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Fkm7Iu6DXrcruEB24PB/0DB+f55H98G03KBy6GTriS6C+6hT/3L/b3wcSYGmtXA1nYU5Znxnc+0FgS4IH9tizHjALBjghSLBDLLKMjPzDh8x8FjO+O1l7Cirpt77/WPsCRDtdwho4pdHEff18d7DkZDJ2E9PHgdVaDV5IGGHEy49dDZf62pu6pm3DX+YbZibS6hUkeVBXQ+Z2WQTC5wFSmTMt4Lyi2PcM406LjdOXIZSUn5uA5s+/r/V/HdzkU7ykk0WP2NgPazYRirZkt+zgNQu5MuwDjuyVjJnjvu1tlE3D7v/8YvebemO4SCir6qvHLrs5sw8FtqWOF9PJUIbabG91NXUKBbzOVb3j3Qf5lQ=;nx1SO8ZfllLoh6l1DjZ2nw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "DJPk7TfmTw3Q48qqnsdtJjYAqyof0KhJvpezizp5LjSDNvOLNh6F1nFZPndr3dN3aIL7jX8pLtrx/m7ZbaqePsmmkco3VRWHuspTeTCOJhzj53aBus04tVPC/9t88Vy9SmqpBz85vrhJSXX+7NZ9++hg27BmZw4f3HVc9Ck8qXsuLE5w+aeJZdIULG0olvVVOSPOIs6nTwOnhOdKdqLeCMTz45kBdpcUyDzQAadoqguB2SO5ertS826IhdezjLabcHzKh+pgdmtZ3BkDCawAz+Ca7T9lRGwz5wQDe22/m7iSbx6214DppYjAFUahpFIZuSQ1D0I6HPIejO1FqdwsDEGIJ9g+cKGZVe2mUysqoCk=;ITHkZ+ntUfOooq73b2fe+g=="
 ---
 

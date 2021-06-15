@@ -35,6 +35,17 @@ related:
         width: 940
         height: 788
         isCached: true
+  - title: "Artificial Intelligence for Rapid Exclusion of COVID-19 Infection"
+    excerpt: "(AI) may offer a way to accurately determine that a person is not infected with COVID-19. An international retrospective study finds that infection with SARS-CoV-2, the virus that causes COVID-19, creates subtle electrical changes in the heart."
+    publishedDateTime: 2021-06-15T12:00:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
   - title: "Meet Grace, the Healthcare Robot COVID-19 Created"
     excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
     publishedDateTime: 2021-06-14T20:10:00Z

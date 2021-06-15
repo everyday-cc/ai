@@ -65,20 +65,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Enterprise Automation Announces Results of Innovative Artificial Intelligence and Data Visualization Research and Development Projects"
-    excerpt: "North America's premier control systems integration firm serving the water and wastewater and life sciences industries today announced its most recent"
-    publishedDateTime: 2021-06-10T19:25:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/enterprise-automation-announces-results-of-innovative-artificial-intelligence-and-data-visualization-research-and-development-projects/article_b4391391-ac47-5f02-90e7-cbfb970ec657.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "yD42yEEMj+3JmMH6EJEJ+FeA7ekd0h1/RZrHEqvZD27/zA2AYdplfnDdWJ0abvcEwhIC2p4QMJvJ4RSd7iT8n0p2gssmjp+ayhr5BEDxCwG8SNkoMgySrgGjGM1qXhnp4hdoVOVJ8NPYv1JHOmcDO62PpmqjSfesduFv7d/yWYDriJXQBIJPF3nmCBBzt8xAp013VbR0uMlAx2XBUFEfwfCskBWO5Etr+U26t33yvWYH+ge49i5ZaY5adlVMEyKYoCH0JwK+5CoO5YzdXcxKirOvtPhZLqsAH8wZLMOjG3FfpIN8h16hlciRJSlm8wR1rrLUAQ+GxR8JVGMRrDMs1v5b3TCBwZGcrAjSybgwyZc=;5sqwIGYTJmW5HrMXbU7MYw=="
 ---

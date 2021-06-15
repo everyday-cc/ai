@@ -41,34 +41,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Online Exclusive: Waymo, J.B. Hunt partner on self-driving big rigs"
-    excerpt: "Waymo L.L.C.'s autonomous big rigs soon will be hauling goods along one of the busiest freight corridors in the country. The Google affiliate has partnered with trucking and logistics firm J.B. Hunt Transportation Services Inc."
-    publishedDateTime: 2021-06-10T19:09:00Z
-    webUrl: "https://www.rubbernews.com/online-exclusive/online-exclusive-waymo-jb-hunt-partner-self-driving-big-rigs"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo%20semi_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-driving robotrucks to be put to the test in Texas’ deadliest highway"
-    excerpt: "J.B. Hunt’s robotrucks will be able to drive themselves on the freeway and will each have a licensed driver and a software technician onboard. The tests on I-45 conform to the Society of Safety Engineers’ definition of Level 4 AVs,"
-    publishedDateTime: 2021-06-10T21:01:00Z
-    webUrl: "https://www.emarketer.com/content/self-driving-robotrucks-put-test-texas-deadliest-highway"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 23
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/36055703215ab1325cea60f57933ddd7/default-image-share.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "tY+BvtCJiRlPBjGHRfgBIOpbqtw0p6YYmOAycuBUlpOsTIt9PlZAVncs5km+oOfK+slfNUU2JNlziOgONTKtXY+p6pFHseYHVjox8QDWNxTb1G3e20NpoLvurmecSyyQKkMasYObhu57ZVjugQ1n4fxTT4Dg8SB/lXFOjCWk23KXvGfMqf+0OJiu6wPDXW+8HT7nk3GpZ6LqfjQitKiyn5oHb4iD+SQNw4Alp5LB8Pu3gTPxmlA9srXyPGWqjzEEfvTYqcn+Ar05GKm3HpF/CFsg78nm7d90+Ytdbb30wDZgIFZMf+BnqGCpqqSiYUiQ+YBnkB9qAUG4/rNk2W3uWavhsD4KcpwYrK1pSuN8Jq9Klav+CbBnhODzWhMqw7tvXUEE6aWM2AK/vTWq7W/MbFexGXseXM4LHcctBRR8o78ETYn0uZfLWy6dtSlwzL0MbvP4ZT+OlKKAgA+7r+CeKF6xP0jxPUdii/nDqY/LctdpHbBtarGNIbuo0lWKj1PneB9Adyzd55/HzX6L+3DKfQ==;eWdZp50/uSrP2HKyzz9aCw=="
 ---

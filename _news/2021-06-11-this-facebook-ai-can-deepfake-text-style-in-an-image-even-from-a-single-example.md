@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Facebook's new AI project: Copy text style from image using a single word"
+    excerpt: "Facebook is working on a new Artificial Intelligence model through which users can rewrite any text the way it is written in any picture. All that will be needed to copy the writing style is just one word."
+    publishedDateTime: 2021-06-15T13:10:00Z
+    webUrl: "https://www.techradar.com/in/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 90
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/qn7ZeiZSaCtMLVWJuQWpEU-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
     excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."
     publishedDateTime: 2021-06-13T00:22:00Z
@@ -54,6 +70,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 42
+  - title: "Facebook Open-Sources Expire-Span Method for Scaling Transformer AI"
+    excerpt: "Span, a deep-learning technique that learns which items in an input sequence should be remembered, reducing the memory and computation requirements for AI. FAIR showed that Transformer models that incorporate Expire-Span can scale to sequences of tens of thousands of items with improved performance compared to previous models."
+    publishedDateTime: 2021-06-15T13:07:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/facebook-expire-span-ai/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2021/06/facebook-expire-span-ai/en/headerimage/facebook-expire-span-ai-header-1623589196231.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images"
     excerpt: "AI model created by Facebook researchers can imitate, edit, and replace handwritten and scene text using just a single word in an image."
     publishedDateTime: 2021-06-14T18:08:00Z

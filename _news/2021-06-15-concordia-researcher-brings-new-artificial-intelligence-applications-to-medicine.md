@@ -23,22 +23,6 @@ images:
     height: 613
     isCached: true
 
-related:
-  - title: "Concordia lands $1.6M grant for artificial intelligence and software engineering research"
-    excerpt: "Concordia has earned another prestigious Natural Sciences and Engineering Research Council of Canada (NSERC) Collaborative Research and Training Experience (CREATE) program grant, valued at $1.6 million over six years."
-    publishedDateTime: 2021-06-10T19:56:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2021/06/10/concordia-lands-1-6m-grant-for-artificial-intelligence-and-software-engineering-research.html"
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 30
-    images:
-      - url: "https://www.concordia.ca/news/stories/2021/06/10/concordia-lands-1-6m-grant-for-artificial-intelligence-and-software-engineering-research/_jcr_content/top-image.img.768.medium.jpg/1623336180788.jpg"
-        width: 768
-        height: 378
-        isCached: true
-
 secured: "r1NlPQsBceK6NAyI+c1kEFY18hq5lB87X31vXxRDaYGKhTxTo6DodYzSRu3mCU5cP0xMyiXtcH30WszqJoHpn3ANnAbXa3QQaswNsQHjPsVlHYTiyfKW56m7ug8zNeR1bPVZWGItnlw6PVGlARuyfp0wXfQekBk3t93bRwsA+3GGC0KhBQsj8/XE8MN7RcjDGB54EyDgLqR8EBrKKNeChEgX9XKNgklW8h66loezbTJAMIfCqmzSnffLaFjsa7xtrOmHbLODix+AMGK7WJkeAhy5NggXuxO1MxLROU6j5Lv85x4nvpeVEQGG4rRbLLNYcvS+W8QNttSuHWq9Q1UWe3wA/omLq/joF+UHHBIbqm4=;L6BFIOy/Zl9vxiSjG4X3Hw=="
 ---
 

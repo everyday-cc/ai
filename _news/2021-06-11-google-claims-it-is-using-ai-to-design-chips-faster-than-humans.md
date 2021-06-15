@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -156,22 +156,6 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/06/googleAI-1280x720-1-1024x576.png"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Google's new artificial intelligence can design computer chips in under six hours"
-    excerpt: "Google has developed an artificial intelligence that it says is capable of creating computer chips for AI in 'under six hours,' significantly faster than humans, according to a new study."
-    publishedDateTime: 2021-06-10T20:21:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9674057/Googles-new-artificial-intelligence-designing-computer-chips-six-hours.html?fbclid=IwAR3pUhmSbQtY6zrdneFxgT9EH3vD6hjyM4cURZfsopZPOceKE0xmCef-j6k"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9674057/amp/Googles-new-artificial-intelligence-designing-computer-chips-six-hours.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9674057/amp/Googles-new-artificial-intelligence-designing-computer-chips-six-hours.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 54
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/06/10/21/44075945-0-image-a-118_1623356414008.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Google AI team creates next-gen chips faster than humans"
     excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation Artificial-Intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
