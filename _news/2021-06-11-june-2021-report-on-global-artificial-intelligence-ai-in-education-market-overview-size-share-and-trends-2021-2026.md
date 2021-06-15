@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-glob
 webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11"
 type: article
 quality: 75
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Industrial Artificial Intelligence Market Report 2021 Growth Factors, Product Type, Manufacturers, Application, End User and Regions 2027"
-    excerpt: "Jun 10, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Industrial Artificial Intelligence"
-    publishedDateTime: 2021-06-10T13:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-report-2021-growth-factors-product-type-manufacturers-application-end-user-and-regions-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

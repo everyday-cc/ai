@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industrial Artificial Intelligence Market Report 2021 Growth Factors, Product Type, Manufacturers, Application, End User and Regions 2027"
-    excerpt: "Jun 10, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Industrial Artificial Intelligence"
-    publishedDateTime: 2021-06-10T13:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-report-2021-growth-factors-product-type-manufacturers-application-end-user-and-regions-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
     excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
     publishedDateTime: 2021-06-14T15:12:00Z

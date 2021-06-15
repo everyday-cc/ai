@@ -25,17 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "New AI-Based Clinical Trial Matching Solution, Deep Lens' Viper™, Expanding Offering to Cancer Patients at Norton Healthcare"
-    excerpt: "Deep Lens today announced a collaboration that will integrate Deep Lens' artificial intelligence (AI)-based clinical trial screening and matching solution VIPER™ , into cancer research. VIPER uses proprietary cloud-based technology to facilitate,"
-    publishedDateTime: 2021-06-10T14:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/10/9388345.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-
 secured: "ZXQp4ez6tmMkrTHQuXfs4PckkQLQ77DvU9agXlmyUApeniPFWLmVnUl8HurbYlKiDV1jIC9nHMqAv2QI3OmMHWAoHnlcGrOYBnbL6a1oGSjKAnc054XLPs9A5A96I77daMKMbYyHAqNNMylt+RdJs1cHnvOezW32T6qnvr+mHkGgTIwMbPMlY4xIGOa7IkK2yMtdNxXvvoNiIQjPoKIeSZHQNbEZYf/m5lrZWrDN+czx7WPCsrWi6gOGaraNnQ946IXMYtkt1Dx05Atk3W1m3BKuGQKzYzjK5MWSilPoC6gjNhrV3eZsdtd7UMWZfD9lK+WWORQsdyd2tI97MC6KEVfntMJ0zAHpn+Is2wJ0E2CgkqG1fO25dnCKu/FQ1+SD/RwIOwRv6YASAPdAAC21kGm7kyV2vcv6przNex17wehB5zm3nHjSaQKyG0+le3/sb1zz8rP9bA5D36/C26VDJxyOoYTY6ewei7U3bY8Yv+W1Ql5JkfRDCjRT7b+fCtAND+zmSwMqMj+NZcedXrT4Aw==;aEhwCWo3apzSAHA/NzHfKQ=="
 ---
 

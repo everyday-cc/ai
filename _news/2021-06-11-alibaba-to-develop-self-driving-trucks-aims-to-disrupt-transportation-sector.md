@@ -43,6 +43,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program"
+    excerpt: "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J."
+    publishedDateTime: 2021-06-11T03:54:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630437%2Fwaymo-truck.jpg&w=1200&op=resize"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
     excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
     publishedDateTime: 2021-06-10T17:22:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
+    excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"
+    publishedDateTime: 2021-06-10T22:52:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 53
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/QyLB9ZxvxXi9dJVjl7-UuBVJvRk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/H6FJ6MFQQRBBVMJ4SWHMMSVTLY.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
     excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
@@ -155,6 +187,6 @@ related:
         height: 420
         isCached: true
 
-secured: "8WVGR9J9PLGfotWCpntg9oRJgppU7L3l3w9tghU/DEmVLN3ss8sy18Wq4tiIFabtnhZ5hfwv7OjfESxnQ4wvKP4lOsm1MUvpTv6LsvC2404MixMxle+1NHJEAgZtlWBH1BVDkIm4QnmtWYeupJYyDqdsVUH2vaqEk3s2l/tgUAmaWXfl2DhKJfudS8Dk9c1B4s8UjwFQihhzLU64GIdjLyJvwGd52bdfWtDeR62eIvEqqM3OFgiUok2itcw9byQUSLGfFoFQSjzk6zahvmFueciKsOcQbcPP0T9Eq9dVmEfLyF71vgwRLIarSOVX//KFirJWYeiNNzgviju/Avf4tSyY4wCqJPZWpt6zgIl/j2k=;sPMgB8615xfVRzkYV9zZJw=="
+secured: "XiS66eg7vcjBxL5cBr+BcBAR43ufiyJZPEwhQz960hOwWP3dh35SPfwDx0h1ceyVXK3DwD5S5CdgQT84K89RqbTUwytlCwkepoI1hzrx5jBIf5crI3AeNaDhTh31h7HWztBSmuWTRZPCU/7J6muwWoV5ySB/d0uSAgxqkJw/bqBxxUuCLsaHQztR+TBcM9QV7xAtz/rxyN+9eQ5FxON+7Vx4Gkj4i4CDa1O+hw+sZR1cJxhAAQfYUAocjwMdSmHi/biQUAyHEW7qeXTi16p/yLRnU25yN4yc66ArROQ1nSsToueF4RjiENvYJ6Lk2gWf8cZ1fk1gG4Q4ejjlFilbpWoJj4Li+50fTWnK2ilNYO3+eGt5jIOffMYDt8j3GYILHROsAO8B6QemzHRI9/A5AAdr0KDTY2+ygSAiJ3mVYRDNH27s1HRA/JI92hWE/fSADd/9cRxO3Gphvwn/W4EFdrqwgh16OsQaGMidh140xFY9oHIytZpX1PbeQ3R1fWg1az8wCIwQAoD80R86/KqNHg==;sTgZKps9AeX/+1co9dNFXg=="
 ---
 

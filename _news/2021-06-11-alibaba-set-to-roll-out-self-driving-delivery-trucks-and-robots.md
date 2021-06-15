@@ -39,6 +39,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program"
+    excerpt: "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J."
+    publishedDateTime: 2021-06-11T03:54:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630437%2Fwaymo-truck.jpg&w=1200&op=resize"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
     excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
     publishedDateTime: 2021-06-10T17:22:00Z
@@ -86,6 +102,22 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/alibaba_505_100621103106.jpg?size=1200:675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
+    excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"
+    publishedDateTime: 2021-06-10T22:52:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 53
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/QyLB9ZxvxXi9dJVjl7-UuBVJvRk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/H6FJ6MFQQRBBVMJ4SWHMMSVTLY.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
     excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"

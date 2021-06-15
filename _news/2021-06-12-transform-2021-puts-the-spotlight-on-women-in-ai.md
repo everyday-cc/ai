@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Companies Can Keep AI In Their Digital Transformation Plans"
-    excerpt: "Whether is it now or in the next phase of your company’s digital growth plan, AI should be part of the conversation."
-    publishedDateTime: 2021-06-10T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The impacts of artificial intelligence on the workplace"
     excerpt: "As part of this programme of work, the OECD is conducting firm-level case studies to understand what happens when a specific AI-based technology is implemented in a workplace from the perspectives of those most impacted by the changes."
     publishedDateTime: 2021-06-11T00:18:00Z

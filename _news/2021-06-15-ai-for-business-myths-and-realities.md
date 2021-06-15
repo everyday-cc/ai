@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-busines
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/06/14/ai-for-business-myths-and-realities/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -46,34 +46,6 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2018/05/0c5b3932e8a3c55634f939b1bee631c7.jpg"
         width: 683
         height: 512
-        isCached: true
-  - title: "AI Guide for Businesses Created by CompTIA Artificial Intelligence Advisory Council"
-    excerpt: "As more companies explore the viability of adding artificial intelligence into their business processes, a new resource from CompTIA,"
-    publishedDateTime: 2021-06-10T13:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-301309930.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/320820/comptia_logo.jpg?p=facebook"
-        width: 1400
-        height: 733
-        isCached: true
-  - title: "Artificial Intelligence Market Overview, Merger and Acquisitions, Business Opportunities, Segments and Industry Forecast By 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report"
-    publishedDateTime: 2021-06-10T14:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-merger-and-acquisitions-business-opportunities-segments-and-industry-forecast-by-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "9+fnM0p0ARyUiZST7kazhQqx7v/khXKV0WSD5y3JLQoBtI1/CEe7D6EfXqA7gQX5bWUrm9QTGQhKRyyRlRQHaATW6UgqhcID/jpVbgkbzN3yMuWWQWGbL6Q8o3zCiltNXiECHJBE1qlvVi+RxXx79PPp6wuS5CTt+3KUkfOMv2yEv798FAMfvcC4avYIo5DbLKS8IqSlaBcwlQCHe+7qKnIYBCz3dLwcpF7In/iesi5zhPpKeKMN4dDG2o/j+14LXXwpeSjFy+4cYgrBZHHSRpqc+mx0qKGM/y5Vf3p6lgrLpI9mzC76zgEfwTekF+nP0IxtIGgpk4UxWK98S50Cohj/cgTtQb6+dNPoZUCtheo7acUecgZ93SAT/NdG2bDpHvvwIf5013YyiPf8VRtkx/3G9R7I8N5cReLFp+tbu+FQ8pPYrIFLPvKk1PL+svo8fEb6wouS1baamOYbpBJNkWd2B0vJ8MjvLGrDpTFYFmyqgHIYpKejCq4fWAwl/WbF0xauSMQbxsC6KpxgGVg01w==;D2sTmcl3QgbI8cUZtA2Drw=="

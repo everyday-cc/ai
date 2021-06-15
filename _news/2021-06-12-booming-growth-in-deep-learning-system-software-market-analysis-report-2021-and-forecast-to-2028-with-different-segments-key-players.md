@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Personal Robots Market Analysis by Industry Segments, Share, Application, Development, Growing Demand, and Top Key Players"
-    excerpt: "The global personal robots market generated a revenue of 21 5 billion in 2019 and it is predicted to progress at a CAGR of 7 8 between 2020 and 2030 Furthermore the market will reach a valuation of 51 5"
-    publishedDateTime: 2021-06-10T14:38:00Z
-    webUrl: "https://www.openpr.com/news/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    ampWebUrl: "https://www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2302727/personal-robots-market-analysis-by-industry-segments-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/6/U610374387_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
   - title: "Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Pages Report] Check for Discount on Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Service Robotics market overview  Service Robotics market illustrates an"
     publishedDateTime: 2021-06-15T00:03:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-powered-construction-supervisor-app
 webUrl: "https://thenextweb.com/news/ai-powered-construction-supervisor-app-earthquake-safe"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Next Web
@@ -26,17 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "New Open Source Project Uses Machine Learning to Inform Quality Assurance for Construction in Emerging Nations"
-    excerpt: "Linux Foundation with support from IBM and Call for Code hosts ‘Intelligent Supervision Assistant for Construction’ project from Build Change to help builders identify structural issues in masonry walls or concrete columns,"
-    publishedDateTime: 2021-06-10T15:00:00Z
-    webUrl: "https://www.linuxfoundation.org/press-release/new-open-source-project-uses-machine-learning-to-inform-quality-assurance-for-construction-in-emerging-nations/"
-    type: article
-    provider:
-      name: Linux Foundation
-      domain: linuxfoundation.org
-    quality: 0
 
 secured: "YTUvEw+O+8No9GDUvZhtRZv5kSTx2mZEKxnNI1mMFtlQjTviXQhq3zQ+zYo/jDF8RfqUeakjm8OIV7vNMZ9Wu6WNuiv5M0nWmHtElkdLcamQqtxhx6TvzPa6AenemAfKfVnZbZAbrsg/g1l7+FMA7KERFU7QUct7wSg7xOfHZIzFw5QxaOMlmgBd2Ja4Q1Ig/707Hh11dDGG1K79vElmLkFCpBx2AvkvKAa4wttwHUH0Jg7HU4kTX7U+bxWm2oCDYuo9FKMnau3sbAP/DzWR11aoSOAKw29MRRAZnOsYoAc+j+V2/046O1ICnCJuaOw5n3eOpPFGYOnyaCuhIILU3kHLPyP27PhlH+8CPjIph7lG/cL1vrifd36w+22GMzua2p0mEl+xoffL4bryW+ahxACOUr6WuYYeGJf2Krrc4B1obQABYy2on96oA+Py750NFlxayIOOofS1LInQZkObqZpnfZEx3JqlvkUbeiRRYLR5Dk2/fF8Hukrne3p+hTyeBImijT/FUivjaovemhl4Zg==;ebIbwc5BzuPVrNqzz0jjGA=="
 ---

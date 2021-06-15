@@ -42,34 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI Guide for Businesses Created by CompTIA Artificial Intelligence Advisory Council"
-    excerpt: "As more companies explore the viability of adding artificial intelligence into their business processes, a new resource from CompTIA,"
-    publishedDateTime: 2021-06-10T13:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-guide-for-businesses-created-by-comptia-artificial-intelligence-advisory-council-301309930.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/320820/comptia_logo.jpg?p=facebook"
-        width: 1400
-        height: 733
-        isCached: true
-  - title: "Artificial Intelligence Market Overview, Merger and Acquisitions, Business Opportunities, Segments and Industry Forecast By 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report"
-    publishedDateTime: 2021-06-10T14:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-merger-and-acquisitions-business-opportunities-segments-and-industry-forecast-by-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vq9uyYsakFdLKc4G4+Onv1lVurkoZH+cYju78hQe9JBvOFNCCe9XqgBMNJ7ws6b4vakWUXJUTHSJq/ikaOEr3fhL4UP8rHgyI9xNmXPVegMsCGsSKHBV0OhLben93Fk/IZMypkKwoDyRm418zbjQMWowtd/Fk/MOgDmYRHh6SvoU+1bkl6hFkpL7wrAdgOPQMYCkFqGhln4aKJ5ZyXcEH0vZMTPMOL8IQLEtx99Ty5bIiyEaK7GC0pXR6BGKsDMMNbDwhpLeXu2g5XyrLYFDttN57YPVJjpoVX6vIQCyAaqrVD28CV8bWl2ZtU389ofmC5vJ6ZmhwXUV2hetJOItjS/iVqEZ5oyu2W3LtD+K4h9dgMmRFnDweWjLaGK1O0XutQ8aH+x5KwFmUE8tFKOC/2Chz1438Da7BQdE9qd0h4aXinatUxFKA4GhuHyHam3d6lzzirgWmazxIvyz8EjFbHkzJ11OMH8qG53ZI518l+di7AUG1ABtLHRhAokE1OJVHWldbAvDZz69emBQ0cla0g==;XD7x7StNSYL5ceIBY/PLxQ=="
 ---

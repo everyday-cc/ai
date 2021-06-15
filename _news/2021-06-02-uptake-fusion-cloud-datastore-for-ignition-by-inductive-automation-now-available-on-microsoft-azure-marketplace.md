@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace"
-excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition"
-publishedDateTime: 2021-06-02T15:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur"
-ampWebUrl: "https://www.benzinga.com/amp/content/21392407"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21392407"
+excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition by Inductive Automation on the Microsoft Azure Marketplace. In just three minutes,"
+publishedDateTime: 2021-06-02T15:31:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/02/9382597.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Vo4lG63YdvGE8s61gdw6+XqRSxzFoMHNt2aFjPLPvEop0uB6q8W8JMLEYkdBwh8e6cj5N69isIXcbyzhmVxthWjv6dyBp5qt3MQzPToEGEEJsSYqZZqqa8yAAy0F7srTgfHR6BWGI5YxwoQcoCSTz55PMMGtd7Z14v6As1u2KKqu7wz8UnLHvpXKSIXTny/7oSW9V0sMHIN4C6sAIcOJ/FmbV3U7Tg2ANLg+AgGRZaZgDfs7UHmE/xkqBWq2S7qhmTckeRobqG7UdFKj/61zhu6Cx8rsJFtr6I9hpba5joX2rF6XfBGaoVOfLK2IuMOBnYkPBEW+i0F/rGJ3eBPTlIzvBFUEef9bt/AAP+2rXM8=;Nhz2+njvWlEodB/+hXBRHg=="
+secured: "EvdJ0e3SdMF+4LLHf/eHSLKbtxbZdye1j0CWondCZAs7Xig4tauHpMX7/XxOheG9JBblRgc3/BMvoFzAIY9lN/gqfYjCtuI4jCIiTz3kX1sWYAy2jKB7+6baHI3FSMxR8ZGMcRYIRy43Cz819PA8s41vwDbF3rG61506gedVte7EGlFaObBxJm14Vo6wVdNTYi3hge+Hh0Edah6WRkNxzYKRsEIuj7JgBxJYLb8wR75j8fE1qvQruyp94guEoJZDa/iP3NJNbsbVhRSNwCy21BLlUnQJ/9pHlT91uZsBy3MxrzexNoi4H1qAs8fJuS6jW7ddExrFDQXD4gvIM6i/NuXc601ULpNc1BwV6QC2kTw=;dNg3d9sp6r5vH6M9osajqw=="
 ---
 

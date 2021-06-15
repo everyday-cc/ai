@@ -7,7 +7,7 @@ originalUrl: "https://www.theinformation.com/articles/as-ipo-nears-argo-ceo-says
 webUrl: "https://www.theinformation.com/articles/as-ipo-nears-argo-ceo-says-self-driving-car-prototypes-are-regularly-beating-human-drivers"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1200
     height: 674
     isCached: true
-
-related:
-  - title: "Self-driving technology company Argo AI plans IPO within a year"
-    excerpt: "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out."
-    publishedDateTime: 2021-06-10T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 139
-    images:
-      - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg"
-        width: 1920
-        height: 1112
-        isCached: true
-  - title: "Self-driving startup Argo AI confirms plans to go public within the next year"
-    excerpt: "Bryan Salesky, founder and CEOof self-driving startup Argo AI said he expected the company would go public \"within the next year\" and would raise another round of"
-    publishedDateTime: 2021-06-10T14:42:00Z
-    webUrl: "https://seekingalpha.com/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3704756-self-driving-startup-argo-ai-confirms-plans-to-go-public-within-the-next-year"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1265201416/medium_image_1265201416.jpg"
-        width: 768
-        height: 432
-        isCached: true
 
 secured: "CNXHoXTkzLACuCUUuxOuS1bPE817bxPnfT8pUVtvZQG3TrueD8KqOwvI/bZZf0GwQ5ZCdQpUjHmS02FPsTSNJT7R+oS4kiq3COZyznfFtyTU8CDWDy5EYPa7d6MF2gUzwMK52KR9fO1urnsIfJrzmkiYg6ck0WAgNURt2sE7aSApDWzZFWKdVZsbd2VsLkKRXNfYEWmByVkPb1jM0xv5xH7istirtDn1Oh1CUznox48O4oBmVrrv0WxB3avXa+09xjqXqH3s9fww87DF0Fsh9mj75tHtryUmirysiD3FaeCaQdqXq1w9YAjZFn4ZBbWSMfbVvhlhJNbziseGpG0y53DyxKP55tW0vB4aVxgN5NWmSDkpKsNzPlmeYeGHviKCWBtMTROahCKAVHfcMZK0TmNxmgWjo+zoZcYRFjID9Z/hZCACz+Nxsz3Wxosr4Z49wJp+1G2KltpCf5d1v0fxYi8QfTwcpMV0cUfTIzugpEP+K7WGogbeWVgV87Ldy06cSOysQ3I28L7ZpusByxKPxw==;LLm8xgDNVwOEukQlbq4zNQ=="
 ---

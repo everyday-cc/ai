@@ -31,51 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot"
-    excerpt: "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors."
-    publishedDateTime: 2021-06-10T14:03:00Z
-    webUrl: "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/"
-    ampWebUrl: "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/"
+  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
+    excerpt: "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry."
+    publishedDateTime: 2021-06-11T05:48:00Z
+    webUrl: "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL2N2NS05C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 186
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024"
-        width: 1024
-        height: 512
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565145295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5903O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Self-driving Waymo trucks to haul loads between Houston and Fort Worth"
-    excerpt: "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,"
-    publishedDateTime: 2021-06-10T14:16:00Z
-    webUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/"
+  - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
+    excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
+    publishedDateTime: 2021-06-10T17:22:00Z
+    webUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/"
+    ampWebUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 74
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/06/Truck_1-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://cdn.motor1.com/images/mgl/QMR9Z/s1/tesla-fsd-beta-180-left-turn.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
-    excerpt: "The first route they’ll drive is between Houston and Fort Worth, which Waymo claims is one of the most highly utilized freight corridors in the country."
-    publishedDateTime: 2021-06-11T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/"
-    ampWebUrl: "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/"
+  - title: "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side"
+    excerpt: "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year."
+    publishedDateTime: 2021-06-10T18:29:00Z
+    webUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761"
+    ampWebUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 59
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/06/waymo2.jpg"
-        width: 1068
-        height: 601
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Alibaba to develop self-driving trucks; aims to disrupt transportation sector"
+    excerpt: "Alibaba has said it intends to develop self-driving trucks. The Chinese e-commerce giant will work with its logistics subsidiary Cainiao, which expects to roll out 1,000 delivery robots next year, the firm's Chief Technology Officer Cheng Li said,"
+    publishedDateTime: 2021-06-11T07:47:00Z
+    webUrl: "https://www.businesstoday.in/sectors/auto/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/story/441378.html"
+    ampWebUrl: "https://m.businesstoday.in/lite/story/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/1/441378.html"
+    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/1/441378.html"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 56
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/alibaba_505_100621103106.jpg?size=1200:675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
     excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"
@@ -93,61 +111,84 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
-    excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
-    publishedDateTime: 2021-06-10T14:21:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15065975/jb-hunt-waymo-team-up-for-selfdriving-deliveries-in-texas"
+  - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
+    excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
+    publishedDateTime: 2021-06-15T05:02:00Z
+    webUrl: "https://www.scmp.com/presented/business/topics/e-commerce-logistics/article/3136918/self-driving-trucks-and-developing"
     type: article
     provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 45
     images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/06/jb_hunt_waymo.60c1306ebb2fc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/06/11/pic_1.png?itok=apb3nyzS"
         width: 1200
-        height: 674
+        height: 630
         isCached: true
-  - title: "Hunt sets driverless truck test in Texas"
-    excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas to deliver goods between Houston and Fort Worth, the company said Thursday."
-    publishedDateTime: 2021-06-11T06:55:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
+  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
+    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
+    publishedDateTime: 2021-06-11T11:22:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Caixin Global
+      domain: caixinglobal.com
     quality: 39
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
+      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
+        width: 560
+        height: 306
         isCached: true
-  - title: "Online Exclusive: Waymo, J.B. Hunt partner on self-driving big rigs"
-    excerpt: "Waymo L.L.C.'s autonomous big rigs soon will be hauling goods along one of the busiest freight corridors in the country. The Google affiliate has partnered with trucking and logistics firm J.B. Hunt Transportation Services Inc."
-    publishedDateTime: 2021-06-10T19:09:00Z
-    webUrl: "https://www.rubbernews.com/online-exclusive/online-exclusive-waymo-jb-hunt-partner-self-driving-big-rigs"
+  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
+    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
+    publishedDateTime: 2021-06-11T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
     type: article
     provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Alibaba to develop self-driving truck"
+    excerpt: "The truck will become Alibaba’s second self-developed unmanned vehicle, following a small, full-electric van. Since it was launched in 2020, the van, jointly developed by Alibaba’s research institute and logistics unit,"
+    publishedDateTime: 2021-06-10T16:58:00Z
+    webUrl: "https://www.autonews.com/china/alibaba-develop-self-driving-truck"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Waymo%20semi_i.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Alibaba%27s%20delivery%20van.png"
         width: 800
         height: 600
         isCached: true
-  - title: "Waymo, J.B. Hunt Teaming Up on Self-Driving Experiment"
-    excerpt: "Autonomous tech company Waymo plans to team up with trucking company J.B. Hunt to haul freight using trucks equipped with AV systems between Houston and Fort Worth along the I-45 corridor. Get the story at TheDetroitBureau."
-    publishedDateTime: 2021-06-11T19:12:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/06/waymo-j-b-hunt-teaming-up-on-self-driving-experiment/"
+  - title: "China's Huawei to develop self-driving technology by 2025"
+    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T11:18:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
     type: article
     provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
     images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/06/Waymo-Via-truck.jpg"
-        width: 1600
-        height: 1355
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "To diversify, China's Huawei to develop self-driving technology"
+    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T10:45:00Z
+    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "w6I7ICf/SWCDhQOHEPdbI2d0FhPn8gc9YzYtZovJomY/4xTi70AVsOJ+CzN7jLoPNR6PEUrRYdt2Ro0mDXCojn8WY4hksfsyq4dr1Ty15E0eiVDMHiBb39CjmZ2H5m1w+9tdavGmv/Lwv/pcC/SBqOLPWHCM5f7blWQMbzzVB6Fok4ofdjHG3f9khtZiFWyXP2Ow9AQsykPGjFNHk5s+DFxm4PxymeMZGzmG1hj1BWUBHUvMMnflaa3VMoWj4MJiZnEmDL12bXOwRA9qa+i3PW/Mia1C+ANpALQ4G7sGWco+6Z5jlLz5cmQ0D5TQBMl0vRsJIS8j2cvtcVp0+LbwHI72hECcuuAtMKFd8arkG2yF2DTKoShgSn27gpuWp1XahmgEv/75wTb5SLLwsBCDa2+mV7ZPKzvzxETiN/04u482NeM9WTu/7fBuq8V8XZkViHTAI8sV+wAVolG4z4tokAqcaPnCvQ+uIE4k7ad/A2vrn0hG/6hDjV6ZhNHhRAmSPjSSmcagrmOz5qhQ8X65aQ==;atCZu5I4IWXJWNy66TxuDw=="

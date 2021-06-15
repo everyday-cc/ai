@@ -43,20 +43,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "More Than 20 Civil Rights Groups and 10,000 Supporters Protest to Shut Down Amazon’s Surveillance Empire"
-    excerpt: "June 10th marks the anniversary of Amazon’s initial one year temporary moratorium on the sale of Rekognition to law enforcement. Civil Rights group Fight for the Future has launched Protest Amazon, a digital protest calling on Amazon to permanently divest from surveillance technology and end relationships with law enforcement."
-    publishedDateTime: 2021-06-10T13:54:00Z
-    webUrl: "https://www.commondreams.org/newswire/2021/06/10/more-20-civil-rights-groups-and-10000-supporters-protest-shut-down-amazons"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 7
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xs/public/2021-06/Ilhan-Omar-2600x1361..jpg?h=2107a5a6&itok=VudEBMTO"
-        width: 537
-        height: 304
-        isCached: true
 
 secured: "n9hmXeNw5iHou1dRVBeLK/+qd3DzJ7QoB249AmCiOchSYe5m5BnF1V8GKE1Cbx6hLLpEooIb1lh23qJ95Y9p3I996WFVZA2o+VFSvxcL6K3W+xflUzu54mKva6XkZue7ngB77da1hd9QQRpwmrj8COrDUy3pPvGR/lv09hxEJE31atpWmr+6Psx5Cwahvk9/hHV6JtOkLw+m5xGA7rt9aKdg9JytOEITbWc8N0mi9UU4LsU8Ei9e01Ikg3t3HtsRfo0FzUKLaqqVH2DsxwmsAvhySvd3sxgEViCOEjF8dZJlULuIR+RTvthY6u5riZaEf7njhXEfHO/i+QLTEUG9uTfRG8RIrKdM07/4GYJ5AFqd00UgLibBYAYIyNdZfJx5BrSHJhGIjBbFprVmpSlVBMq1CZN3KuZnFx+HHeauC64SU8rWmbYrozaIZa7kdZALCYeLrwnOwCr2G7PPlLjF/xEY8YPbm22AnGAb0WtACIp3W/TyYA32PV2v11/vpe8kzmCisTItYdVlyVXsqsILZQ==;DEmeNJYFE6A+M+rWAz2Pbw=="
 ---

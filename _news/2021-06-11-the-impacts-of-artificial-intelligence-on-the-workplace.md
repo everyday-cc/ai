@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Companies Can Keep AI In Their Digital Transformation Plans"
-    excerpt: "Whether is it now or in the next phase of your company’s digital growth plan, AI should be part of the conversation."
-    publishedDateTime: 2021-06-10T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/10/how-companies-can-keep-ai-in-their-digital-transformation-plans/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "Izx1DPv0DBV5gsGtHkKIUIrHuE7LWyuBItOLrRHiKpLruDgYkcEwTmY//RoWVqrT9n0wmsWSVqV3SpretttJy++itA6S5d/BrVNv8SdhmlTRE42FNIDiy7jXJg+yXMQFVdJAhWNv6mZ/b2IGMwr+PluyqxIbqMITIivviEpVHUvFspSaBUQ+kPFt8Fq5Xw5OkRFJJjHDMdgzmlQ/ApeLC9DpwbdRk9SjtLjF/Cagj0D4MRBdq0Qrbz6JICRafivid5FgOR+9EiiIGVtzCSHik6uK9CpFAm588paWqpz+8/3ZRpAn6NnrxxMwv7Vv2fn+vi1Q0C7AxjWD5CfSUxET5IU9LLoR7OFpoIjDHp1ffPg=;kHb2VnmJchshOtzQg7oKCg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,96 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot"
-    excerpt: "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors."
-    publishedDateTime: 2021-06-10T14:03:00Z
-    webUrl: "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/"
-    ampWebUrl: "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 186
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Alphabet's Waymo Teams With J.B. Hunt on Self-Driving Truck Testing Program"
-    excerpt: "Waymo, the self-driving vehicle unit of Google owner Alphabet ( NASDAQ:GOOG) ( NASDAQ:GOOGL), is accelerating the development of its autonomous truck program. On Thursday, Waymo's Waymo Via trucking division and J."
-    publishedDateTime: 2021-06-11T03:54:00Z
-    webUrl: "https://www.fool.com/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/10/alphabets-waymo-teams-with-jb-hunt-on-self-driving/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630437%2Fwaymo-truck.jpg&w=1200&op=resize"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Self-driving Waymo trucks to haul loads between Houston and Fort Worth"
-    excerpt: "Waymo announced that it's working with trucking company JB Hunt to autonomously haul cargo loads in Texas. Class 8 JB Hunt trucks equipped with the autonomous driving software and hardware system called Waymo Driver will operate on I-45 in Texas,"
-    publishedDateTime: 2021-06-10T14:16:00Z
-    webUrl: "https://arstechnica.com/cars/2021/06/self-driving-waymo-trucks-to-haul-loads-between-houston-and-fort-worth/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/06/Truck_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Major trucking company joins with Waymo on Fort Worth-to-Houston self-driving tests"
-    excerpt: "Trucking company J.B. Hunt Transport Services Inc. is teaming up with autonomous driving technology developer Waymo to test self-driving freight"
-    publishedDateTime: 2021-06-10T22:52:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/06/10/major-trucking-company-joins-with-waymo-on-fort-worth-to-houston-self-driving-tests/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 53
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/QyLB9ZxvxXi9dJVjl7-UuBVJvRk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/H6FJ6MFQQRBBVMJ4SWHMMSVTLY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "J.B. Hunt partnering with Waymo on self-driving deliveries in Texas"
-    excerpt: "The self-driving run through Texas will be J.B. Hunt's first opportunity to collect data on freight moved with a Class 8 tractor operating at this level of autonomy."
-    publishedDateTime: 2021-06-10T14:21:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15065975/jb-hunt-waymo-team-up-for-selfdriving-deliveries-in-texas"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/06/jb_hunt_waymo.60c1306ebb2fc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Hunt sets driverless truck test in Texas"
-    excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas to deliver goods between Houston and Fort Worth, the company said Thursday."
-    publishedDateTime: 2021-06-11T06:55:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Online Exclusive: Waymo, J.B. Hunt partner on self-driving big rigs"
     excerpt: "Waymo L.L.C.'s autonomous big rigs soon will be hauling goods along one of the busiest freight corridors in the country. The Google affiliate has partnered with trucking and logistics firm J.B. Hunt Transportation Services Inc."
     publishedDateTime: 2021-06-10T19:09:00Z
@@ -144,6 +54,20 @@ related:
       - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/06/Waymo-Via-truck.jpg"
         width: 1600
         height: 1355
+        isCached: true
+  - title: "Self-driving robotrucks to be put to the test in Texas’ deadliest highway"
+    excerpt: "J.B. Hunt’s robotrucks will be able to drive themselves on the freeway and will each have a licensed driver and a software technician onboard. The tests on I-45 conform to the Society of Safety Engineers’ definition of Level 4 AVs,"
+    publishedDateTime: 2021-06-10T21:01:00Z
+    webUrl: "https://www.emarketer.com/content/self-driving-robotrucks-put-test-texas-deadliest-highway"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 23
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/36055703215ab1325cea60f57933ddd7/default-image-share.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "TKC98TqNgvmFwfvvdvy301JT5I9STrhm2kMEELyWOKTs4K4kTx6N29/4q1DDwOqz36f3OKLrFfFq892EpEXctjp3HZI57s8VPeTQ8rcrIWBfhhTG5PehZc6Cbforo6WhQ+Q8ehLu6jSBsRRHEoJormcYeM7bD2BZNRok/3SK8za/4mXSfyex7kZm3UbknS1jxx8+sNHsYk9Xa3+Zdy4Z4RavY2MiLKmTe7Kct55RN/oA8FojaS1P5DcWnbPhUFckzYGTvj1iNdbJd9eDELO+oJCdjGLDe8hTbUvLbM4HYMPfQmKWO0tdfeRBaflKcnJjBNYQw1pS/eHIEDer9RdzyvEF6LKqb9ZJ7z+QKEubmngjKWkLcE8+abGFgXtrI/F73OwO+rwT26gYmpM67ecMfFS+ZRKtuQUgQ+GVdqvTm1UuyVaPqo1toL4UFofZ9Qra0m4G4mxoNt2jAUoLyFdbaO6AGP3raAF/BLhzJLanv59kgxeObp2Xi3AF7hZigtVcToO7xCDRIe+tPmARamIzUw==;il+puLXItycDBkbtZJMUhA=="
