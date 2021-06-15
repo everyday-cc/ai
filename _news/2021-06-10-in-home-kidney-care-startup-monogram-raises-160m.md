@@ -23,22 +23,6 @@ images:
     height: 483
     isCached: true
 
-related:
-  - title: "Here's why Humana helped a kidney disease management startup raise $160 million"
-    excerpt: "Tech-enabled kidney disease management startup Monogram Health scored $160 million in Series B funding from investors including massive health insurer Humana. What it does: Monogram Health teams up with insurers to give members affected with chronic kidney disease (CKD) and end-stage renal disease AI-enabled services to manage their condition,"
-    publishedDateTime: 2021-06-10T05:08:00Z
-    webUrl: "https://www.emarketer.com/content/here-s-why-humana-helped-kidney-disease-management-startup-raise-160-million"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 33
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/7e79260cc56327ab626ee6af07292ef6/default-image-share.png"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "MRU5mwUWH5WviLKcfMHAH+Vqa4p4dc71Tj3m9kbnK4YRTH5Pt0ZZkzlF6Z6yunjPfJPtIM891xMHNu8jdC5NoOC8N0FX1GCcwv593fCsKktsHcZ7xG5H/PLiHQ1cyt/4ddqGfAbtX+Nneynp+xKFu8IexJ+bXvg0B42Gf7L14AD+aEMcAr5zoxvCNDA0sHDtBVThvPznNnrwrewZcu8YhG6unjwks5VcFK/1e9EYIFgL29pqYTX5CUxPJLJj+aVsmLklAZCZU2NcCmJuvfZM/n+v9A8gGXPWGj3KOi/YO1/EMFe6oR7rKyNB/TbyWcmSnZKfWfCgGZKbEPlheAF/mWdvyqNNGbEaCVMtBdSRgYU=;7bgt5QZtm8yP+rGpPslYRA=="
 ---
 

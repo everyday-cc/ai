@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Fraud protection startup nSure AI raises $6.8M in seed funding – TechCrunch"
+    excerpt: "Fraud safety startup nSure AI has raised $6.eight million in seed funding, led by DisruptiveAI, Phoenix Insurance coverage, AXA-backed enterprise builder Kamet, Moneta Seeds and personal buyers. The spherical will assist the corporate bolster the predictive AI and machine studying algorithms that energy nSure AI’s “first of its variety” fraud safety platform."
+    publishedDateTime: 2021-06-14T17:00:00Z
+    webUrl: "https://bestgamingpro.com/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 35
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/Fraud-protection-startup-nSure-AI-raises-6.8M-in-seed-funding.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "h409pEe9rCdptRPQ6tBQNrmT3Tf3jjCIKbou8AtSxmu0TdsArArqV5KbDTPfQA9OqqT0DH7Dbd8rwPMqq1wY/4ar9lo/kDDtn6Z4ctB6ntFrsozsrEQnMNWrSOAp7cJCF0rw/AwgvTNRjmrcDxQrKGW59aywsr7nrN70TqYHA5ZkMl9+7g348Pv0IdrSmkpdLX/27l12gQJWQPnxYqITdOtAuJGpmZujJezsfkrYKSLjKa8korIMLj3bHyvRpCthbEgviaDRkebEqVDMXBUw9ofkNdSELnjW+r0Xgm/qtTycKsAd+n1si2huRnrA8J+teH6ym8K42cM/FI4NiAMFtpUt53nQob5Q5EtaMxkaIo/9jNVNBZyQbtCQ0S/POy8XJJu3GGnMBDoLMVu+tK+8a1Ms+HqXDaXHPYK71xDSeh2BznBF8w7kGN9KZ9DZGI011Q2koaS0GmT1829TT0Tii24NYPVeYn04fThW+6mG7Rd61XtiNqOD1sOvbVYf7axpPqJZLrj2s3wBdNdg0mRKJw==;6vyAKOqA0lki0dejLbHO/A=="
 ---

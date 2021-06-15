@@ -18,17 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Philips SpeechLive Now Supports Direct Speech Recognition in Third-party Applications"
-    excerpt: "Speech Processing Solutions, the world’s number one in professional dictation, announced the latest innovation to their web-based dictation and transcription solution, Philips SpeechLive: Thanks to the new desktop app for Windows,"
-    publishedDateTime: 2021-06-10T07:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210610005021/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
-
 secured: "d8TTVJlC8op2xRuAt96wtpmovB73fGmlSagcdCDpNWJzXLb6QUW4K9qmDvdqwMdx0HO+tNfNNA2iKKfHGrv6sYLvwkMAeEKPQoeqiUfSomnrXEt+qqmIK08spmqidzQQ8IFfA3C5pXOyWq+TsIA8mgpcUYy/cRFsSwALNiHUKnTUTOtRtapx7b/kvxnXOlxxEzTOJEgHRe1ux7Vli5wqFz1lS5pIO7vZHwFV0oqG0AAax7VJbtXuUF8Z86yIUezIYzxw0Yxj6Y43rN7Y8YZIZDFnukaXtjp/NajtgZbBnmEhBfwdRghBlIf6Zfqj4EZBOlyWm0ASKUenmMqpU/YWlwnMnYON3Q43hC7SyVEayi0xK4ZVvGmI1kk9WcyUUnIxUuRum3Jph4ytGsxpvU/FkoQXqRDXI+vcctHxRXmF7NK9KokmNvCpknROaoCXLja//VdLGCBiUhI/JvJs1PtrMcLOztC5v8F/Medu/X33e6YUaJOlHCos5PkuixfMUjfA+cOXjfb7V5xsoLeLBq7sfA==;NRwaXfuoPsjWAYNxZbScPA=="
 ---
 

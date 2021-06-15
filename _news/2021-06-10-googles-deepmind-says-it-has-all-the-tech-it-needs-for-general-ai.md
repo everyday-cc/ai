@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "DeepMind says reinforcement learning is ‘enough’ to reach general AI"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from ..."
-    publishedDateTime: 2021-06-10T05:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "How Deepmind Is Using AI To 'Solve' Soccer"
     excerpt: "After Go, Chess, and protein folding, the world's most famous AI company is taking on the challenge of a uniquely human sport."
     publishedDateTime: 2021-06-11T22:00:00Z

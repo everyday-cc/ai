@@ -2,9 +2,9 @@
 category: news
 title: "Meet Grace, the Healthcare Robot COVID-19 Created"
 excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
-publishedDateTime: 2021-06-14T20:10:00Z
-originalUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
-webUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
+publishedDateTime: 2021-06-14T20:20:00Z
+originalUrl: "https://m-cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created"
+webUrl: "https://m-cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created"
 type: article
 quality: 36
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: acm.org
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Robotics
+  - AI
+  - AI in Healthcare
 
 related:
   - title: "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare"
@@ -46,6 +46,6 @@ related:
       domain: medindia.net
     quality: 39
 
-secured: "ITVw6mDEcuJOqzsEYU+374m6jjRi36AX7kiFnp/Un84Vl0LlRVUKlZnXsuDyjvaBiZaXVtxPOnIwIAqI7YBxs3193M/PGCKUHYwLR7iMw4i7DFQdHte1/6pDJArlG0nVddFUFQYdfg0DoyAjj+T6fuOVjuhtus0JfHBiRogMB2kT1phzgsgcuFolBrUY4OR+OQWiwtVptBQuZ5i4mAtd+l4n4pdgj9iuIOmjNItUV6qxEpfiy1+V1+KScR/tQ2ChI4P2pt3aKRlg15FQIqpyoj6SqE/+9kUok4axL9h3GeYTrbjtDV/wJzLDV+FbCPhaU6iB4/BV/CqHtNwAkkD3ETDgGw/IBMJn2+0XpiTiKQxfUADYgPRsySkT9uVwm/oqEP6lypwzmZkm6vaZbvKXxj8oUdJBmngDzNeq3d/5gcqqj1LOvImxz3uBVU4oGvba+GCp7tMb7VcSXQvKR7mj/ZpsvbWoEim+pTk1XTQcN1eZ4tUACxdrcMgM6r5Nidc4/sxHSkDaoRMbiKG83H0C4A==;z3o55xMXXYU//tn9P+jtWw=="
+secured: "4V/o2sKZiURSh3lKuKpYYJ6xOTFAVPr6eB8ET/P/RpROSpQnFcZXCi0RIoHCSacrrIEM9YHQ/gUWb6muyOCBvOP02ACx/nlYpmvmfjs1vX9om7ik3PaEOGX5iSbYeFgdeuluFsw0cO1HwwqK4jgAIgdEJn8GeKVAmaN66tSmIwmBaPJyyLizkGAGhEpAGIcdNsvzzYTvGE3MKPn53ZF7bIkewSaMzcTGYl8v/BVyG+eYSnk+gGdXNLsUYtW0DCKzKSG1uWZkK1Nmt/o8FnDZyzejNM+dfCO9HqdMOBX4rQuVDN1uOPpd3POquhYckiEfkPp/qAf+11AOcXd3SpNyhRNniGXAQkgpAbIvl4elI80XP3knGDvxhHdlolmE//YW1pir5PuoArTW0wCqOjyISvV3LWIT/1BABEpNRpP4D9DJ4Vg+50ipoyKaPoaO3idT4qhKOiRiPBj8xbDJ/yay+TLmaIMDQQs5SDdKtjoq/VCp0yEacSNgqeW3a65xExtlxWxFU6ugwnqvY6oQfHcbjA==;CcMERe4RuRpkQ+m6zOXqIg=="
 ---
 

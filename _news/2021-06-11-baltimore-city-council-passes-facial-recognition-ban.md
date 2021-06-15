@@ -41,6 +41,22 @@ related:
         width: 620
         height: 370
         isCached: true
+  - title: "Baltimore City Council approves moratorium on facial recognition technology; City police exempt from ban"
+    excerpt: "Democratic Councilman Kristerfer Burnett's bill would bar the use of the technology by residents, businesses and most of Baltimore city government until December 2022."
+    publishedDateTime: 2021-06-14T22:19:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 42
+    images:
+      - url: "https://www.baltimoresun.com/resizer/2L2KxRRbQM7wzzqQV_i-mHI5q_c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AXZJVITSDNBCRMZM3PDFDCYEZI.jpg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "DHS on hunt for next generation of facial recognition technology"
     excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
     publishedDateTime: 2021-06-11T10:45:00Z

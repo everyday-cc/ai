@@ -73,6 +73,20 @@ related:
         width: 772
         height: 435
         isCached: true
+  - title: "How AI Is Transforming Venture Capital"
+    excerpt: "AI is uniquely suited to solve the aforementioned challenges and create value for investors. The hype is real — from automating screening to save time and human resources, to augmenting investment decisions for higher returns,"
+    publishedDateTime: 2021-06-14T22:00:00Z
+    webUrl: "https://www.brinknews.com/how-ai-is-transforming-venture-capital/"
+    type: article
+    provider:
+      name: Brink – The Edge of Risk
+      domain: brinknews.com
+    quality: 37
+    images:
+      - url: "https://www.brinknews.com/wp-content/uploads/2021/06/pexels-photo-3861969.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "7hralG5HU+0eTWeL7K02NmmlWkx1uh4/ra0qHkvLcrXKi1/CJn5vZOz+F3UgEo6/OOmIakfDE2ZnxXQGLjX8ggtorg6UtnP6uvni9pfddHl3Fg5i7HMfGahKHKYZryb84UAoO9NAP1QYihgDrg2DKcXResxyPyqvInUEVkdOsKXR3FE1RJlpVqBqXpz/z3L4jAK8/tccqQy1/uYgkRJZi4FjAhGPxljEM7p3fjiEWDmmfg8VM29uxBLkCPBusXnQGtlPB06KWbn+l4zPOefmrco+Fd5vBmLi00fEviBLnPtpC2yB+Vxta5sj4ILlB92Qcj3c1QXaoIoeAMljgbm0oI/LTqjEVYLgQXH5x3Qpeu1Mz28ZfMoATkHXy5o3jStxfliYkWtI/1ViZ7KCpRe8zFaL6eJMMQ3f5iFCDBmXFeYyU1a1BiP431DuFVKKC8dB4Gw30Bm+IcF2owyqpj62uQoApvlSOKolnNuZktSr/zJDAUfgXThd+/7GUN00otPA7x8g/SrkEXpqmjQikp/F5Q==;MU2Hyn4AIk2KJ3ArNEgJrQ=="
 ---

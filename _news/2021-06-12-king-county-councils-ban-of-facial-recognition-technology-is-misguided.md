@@ -9,7 +9,7 @@ ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-m
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baltimore City Council approves moratorium on facial recognition technology; City police exempt from ban"
+    excerpt: "Democratic Councilman Kristerfer Burnett's bill would bar the use of the technology by residents, businesses and most of Baltimore city government until December 2022."
+    publishedDateTime: 2021-06-14T22:19:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 42
+    images:
+      - url: "https://www.baltimoresun.com/resizer/2L2KxRRbQM7wzzqQV_i-mHI5q_c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AXZJVITSDNBCRMZM3PDFDCYEZI.jpg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Baltimore City Council passes facial recognition ban"
     excerpt: "The Baltimore City Council voted overwhelmingly earlier this week to pass one of the nation’s strictest facial recognition bans, which not only prohibits law enforcement and municipal agencies from procuring and using the technology but also bars private citizens in the city from leveraging it."
     publishedDateTime: 2021-06-11T15:26:00Z

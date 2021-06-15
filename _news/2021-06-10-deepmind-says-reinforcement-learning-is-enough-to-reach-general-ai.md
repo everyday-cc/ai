@@ -6,9 +6,6 @@ publishedDateTime: 2021-06-10T05:58:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799"
 webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799"
 type: article
-quality: 64
-heat: -1
-published: false
 
 provider:
   name: Business Insider
@@ -22,52 +19,6 @@ topics:
   - Google AI
   - AI
 
-related:
-  - title: "DeepMind researchers say reinforcement learning is the key to cracking general AI"
-    excerpt: "DeepMind scientist suggest that reward maximization and trial-and-error experience are enough to lead to the development of artificial general intelligence."
-    publishedDateTime: 2021-06-12T10:03:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 81
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F2BDSF.jpg&signature=c72563bebf471ce23430f8ec3480edde"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Google’s DeepMind Says It Has All the Tech It Needs for General AI"
-    excerpt: "In order to develop artificial general intelligence (AGI), the sort of all-encompassing AI that we see in science fiction, we might need to merely sit back and let a simple algorithm develop on its own."
-    publishedDateTime: 2021-06-10T15:48:00Z
-    webUrl: "https://futurism.com/the-byte/google-deepmind-tech-general-ai"
-    ampWebUrl: "https://futurism.com/google-deepmind-tech-general-ai/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-tech-general-ai/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
-    images:
-      - url: "https://wp-assets.futurism.com/2021/06/AI-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "How Deepmind Is Using AI To 'Solve' Soccer"
-    excerpt: "After Go, Chess, and protein folding, the world's most famous AI company is taking on the challenge of a uniquely human sport."
-    publishedDateTime: 2021-06-11T22:00:00Z
-    webUrl: "https://www.discovermagazine.com/technology/how-deepmind-is-using-ai-to-solve-soccer"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 54
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/6pkoPvmj1WFVtAfXLVogrT/9eac0bd4fc9b8ee8550901fac6693058/shutterstock_652647784.jpg"
-        width: 1000
-        height: 583
-        isCached: true
-
-secured: "3h2SCdlNGMK5oc5RZeiD0iYCXAxTBR2CyDA0AjZpxjBHaUQnrbZpsQ/uaS8XXLut8D2EYkRpyKcYL2erOa+Iy+JSKA2XLDLV96cuSnS3UJJOQxfUi+kSVyAGYEzmjYYumw9UuYkN9JvOZ7+SFXFLLNts4jJBBGswvZDy2VQmZ0y8LIRAZoT7/rNje9tLuEzZoXsvLHbqpXKvOP+61KyTEDQw+8e/HG646slAgHhjJ4bBPZVE8ptBBxtVjuFAfmcrRvKqNkR1n9A3KPmNyON3y41yf+TP0WdshpzE8V9zHw5huKyL1OSG+50TWgACCQYOnz7Dg52rfKeKWCZADYDtWVm4rhTw274tFKq7aKdtLiI=;nOFedvpU0tVsscYlmxadJA=="
+secured: "BIyuw5zN9uacN5mN8l6s1Vs8C7MArr73l7dmJUoTKQXcvQgscOknSIjfzTEeEYR/PkOctVpf9bxmTBerOmUwlKeC6XN293CD7Q1Z7o60nQUkUxqtItvRKsZ3X/eXQoLrRyupVb96QyEGCTzQ/Lb8n4SaKmqxSeebv/E2ZfMd1HdvqOKwF7p6LkglzoFOnm00+mYZfBLA1PxzQ0Wkft5iT5/aMkBWNY7aqAyfEqSxkPMv0F9cL04tftAGUUFg1auJVX4KYi7hYD6PnpWUlTZG4jl+K14dwAJsy4bG88yItOO6JPfFcv7B8KQxF/KNsYCKN1O7zJ2oa0BDztBy9vDJOz/wb5OVs5bWdYv/lbnNBi0=;QF/7E0uXnGve8MxxaE81dQ=="
 ---
 

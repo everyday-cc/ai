@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomw
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2018/01/Huawei-logo-2018-AM-AH-2.jpg"
         width: 1366
         height: 913
+        isCached: true
+  - title: "How AI Is Transforming Venture Capital"
+    excerpt: "AI is uniquely suited to solve the aforementioned challenges and create value for investors. The hype is real — from automating screening to save time and human resources, to augmenting investment decisions for higher returns,"
+    publishedDateTime: 2021-06-14T22:00:00Z
+    webUrl: "https://www.brinknews.com/how-ai-is-transforming-venture-capital/"
+    type: article
+    provider:
+      name: Brink – The Edge of Risk
+      domain: brinknews.com
+    quality: 37
+    images:
+      - url: "https://www.brinknews.com/wp-content/uploads/2021/06/pexels-photo-3861969.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "hcmaH1uQE5de6TOoOtN9fC8BBv4hVqx6yXG6dOq011UcEWGTi4S+ygYuIMjG2uoJ6Yov46khdiurRcfau2RUmrjV7HlhQ/WCDY/cN1fiivxITKq/YNaZ0z2V1e9iLjwLAMhtre++hmIFZ0umUfGfTWAvuj1UMANnVMmxIWDqZDjKtiW9UBbllM8ca3ZAupDBbdaXOIppvVx8IhpNvsmz+mKAdYakboh3nfClyiCtrYQG0EmSaLkU5H2S/XkzO3ls65/jnlcRhl6ZYvg71KX9itzp1D+nIyuyD5C2xyRdQdqkyi/roDG4PjSEHcUI4SuuvEXiZYgkYHSaYn2osd7GRxz1loDdROAeped+kSPYyDQSElGRmXyIvMhokWKPfZCqYiv0xQIehyimiKs9ekV8++TawVE5dkUprouHOgIvvPKLHjWiYLRo00l558D3ZcLL6ulzctbIXPRVS14V+I5TCRsqunM5H/e5ZZX5wunA5DiHncJShY4Gfus2oRHvQqZfeSldqldhuuYiRGDb8tvscQ==;3Wd9wAVSKSJLAHO3jc7IEg=="
