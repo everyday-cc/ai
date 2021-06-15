@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google using AI to make next-gen AI chips, humans are now far too slow"
+    excerpt: "Google's new AI software can make design next-gen chips in 6 hours, a task that is mammoth for humans and would take months."
+    publishedDateTime: 2021-06-15T01:47:00Z
+    webUrl: "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 74
+    images:
+      - url: "https://static.tweaktown.com/news/7/9/79935_07_google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow.jpg"
+        width: 620
+        height: 348
+        isCached: true
   - title: "Google Claims Its AI Tech Can Design Computer Chips Much Quicker Than Puny Humans"
     excerpt: "Google has decided to use AI to design microchips for its next generation of Google Tensor Processing Unit, and it can be done in 6 hours, whereas humans take several months."
     publishedDateTime: 2021-06-10T18:32:00Z

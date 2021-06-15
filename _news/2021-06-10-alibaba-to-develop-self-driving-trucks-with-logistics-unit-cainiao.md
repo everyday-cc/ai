@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
-excerpt: "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng Li, chief ..."
-publishedDateTime: 2021-06-10T05:08:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582"
-webUrl: "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582"
+excerpt: "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng also said ..."
+publishedDateTime: 2021-06-10T04:29:00Z
+originalUrl: "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html"
+webUrl: "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html"
+ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-7012821.html/amp"
 type: article
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14985580/16x9/991/557/348d4a21b4c91d2ba3e7633fc6d2a77d/tM/alibaba-group-cto-cheng-li-attends-the-global-smart-logistics-summit-in-hangzhou-4.jpg"
-    width: 991
-    height: 557
+  - url: "https://images.moneycontrol.com/static-mcnews/2021/06/2021-06-10T042250Z_1_LYNXNPEH5903Q_RTROPTP_4_CHINA-LOGISTICS-652x435.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
     isCached: true
 
-secured: "wybwl+p0a2y9bb9G0vGaHxxi6Q/ffwQ5IrpriHzuEPNmFThBWa4TAubvzNPL+1WVPXcqycj4M282BLWhGG9/sQl82M60Zf3qayqrvv+CsQaFPc1d/rfVw4hK6MHoiIDHoZHaUn689cm5QzvsuaK3t3vEpdZi92cifmwQgONKyJSPgl85VlDqhz/huek86LJAmQ9DgQis8quxkLP5cE305yyzQjppgG4qCg32ClL7bd36/Elt6X4uXfzJCBJ9sMlczqXb9y4ylvxlBtD4187xQjeXZDW76OTthY0ZEdpBjz7JsEj2Tu7aNsXIAzNE8q6nR0HbInoJ5tU7VvCFXb5AFV2PRSK+UHgoktiMRysWvK8=;lYPNFaiW9+GGlF5b4D2Syw=="
+secured: "BrMsgGy3c+3HQn8kLD79HJd4SX13l6CgEWl9fpkaeyAILME/x4mUnwkmZjBZsPVaNQwYyJLd5AJnsz4MbRxn3LdbhgNmGo1E7PCiB7QyTqoFh38Uo1b1D7gSo+q4wCK7Iu2tlM7/+ilWYXLREeNcerFH3aQF9Gp6fcNafb3fleo+wTLA9Haz+S6bdrTe0/sIMBJ4vRLUzggVfUp6g7+w4wDnSZCkSSGBiDUfX9QpmN8kslJdyFzVQusXA9Sx/x4kznPh8jsgRcznLjtVNc6dB2vzKTOa9LS352KDhZQTVSsAym8ao/bEndcpPHoKkpzwUk4yca8EVgn9i6GfD4lIGHP8QBbwJ7lpfKIX7hcTiM0=;BmmvuvybicHS3Tzp2HQmGA=="
 ---
 

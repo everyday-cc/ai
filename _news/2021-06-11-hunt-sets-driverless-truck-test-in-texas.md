@@ -2,17 +2,17 @@
 category: news
 title: "Hunt sets driverless truck test in Texas"
 excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ..."
-publishedDateTime: 2021-06-11T07:32:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
-webUrl: "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
+publishedDateTime: 2021-06-11T07:15:00Z
+originalUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/?news-arkansas-nwa-academicstars"
+webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/?news-arkansas-nwa-academicstars"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - AI in Autos
@@ -174,6 +174,6 @@ related:
         height: 1355
         isCached: true
 
-secured: "hzn3AR/En0vRNoI4/2knDm8lnol7/OCtwU2Ra+xGU/7AdCMmKMxrrX7JC0k0UaJe8mgCvZPheSlMu92rYFwS1bRqBqSqVOiIO/iX7FZ9HI6ZAuxJQphgHr94QoayGGc66VaQyoMt9gPhuwXaYs+SQX/9R8Y0tcPK+4tsy35G0Vxwa1SwyJn3ZlfOdBx4yUHspNbUCynpHRSFg16d0ijnNjqf0gy8oJRKTGINsxGd6X8jk6MuxkDdIz12kE8MeyIImzyHnERtmgvUmJX9/4YF1+6s2XxJor1B+kHxP63I8cKS3fMKH1ztUT2Vq5OpuyD56B5KI2uYH7UeMcJEtArghH+96BODLk0URKMeAIf2btY=;jfpFR/4jmTxBKEnzHPqrYw=="
+secured: "9EHLQcjDifScfuQ01C1b2HYQToYoJ9OJ53uAblTuxbm/vm4YYuHADAlQBMXm/AqYQCyP+WgSv8O3zJWGGR2BcV5aVmeIQlSQseAaDjay3YeI1k13puwEnUMqXc1QHSdA6ZlwVr4IR1I7NYT6cwjNf5Vv2yDAeBhEXLNm50j5QZbD79OYGtHkCCDcWxdCtnb9jefyru8zKcOVyDcRcVkJSLZCtFG/m7OKNyFM2JNPvp2S+D3jas4PW9TtsYsEeVjn4/N/w7VM/gTQyaHQObr2PnufPritYeyKxrkHGkM/eAcR53V8dVfn9w4aOIS7+OWvCiFlvrEN6OpN9IO2elTqr76mUsxKbjjiYJ176kZa4jM=;mfaI+sqKbL6ilrns4S3bXw=="
 ---
 

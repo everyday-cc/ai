@@ -1,31 +1,26 @@
 ---
 category: news
 title: "Machine learning speeds up simulations in material science"
-excerpt: "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence (AI) autonomously acquires and applies new knowledge,"
-publishedDateTime: 2021-06-09T12:42:00Z
-originalUrl: "https://phys.org/news/2021-06-machine-simulations-material-science.html"
-webUrl: "https://phys.org/news/2021-06-machine-simulations-material-science.html"
-ampWebUrl: "https://phys.org/news/2021-06-machine-simulations-material-science.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-simulations-material-science.amp"
+excerpt: "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence autonomously acquires and applies new knowledge,"
+publishedDateTime: 2021-06-09T04:00:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-06/kift-mls060921.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-06/kift-mls060921.php"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-speed.jpg"
+  - url: "https://www.eurekalert.org/multimedia/pub/web/267380_web.jpg"
     width: 1440
-    height: 810
+    height: 966
     isCached: true
 
-secured: "IOGe/0Mri2YaLmb/PbSjwiEMqGYcIyT/IVVKPpAnpufi/VdVndSne93l/rNfJjgytT4NICmtWTb0JoPquMAix22Utp6/I4yEoHkVZieMDzKXDmWlPuz8fKQ2LELH5Xu6QQ3IXC0P928GDAShod+VRHZFXjw1qXk0tBPaUBheO1mSWQGKs+FgT00SwDDapRmt1e97VhfSQmYNKzsnkL+Ale/OAt5hVckgXu0sq86NBWO+kL3xjctn3eus/IJ8gse07kJxeXvXci8ycIV2CcskdspzoyCwJrj+TEhOk7RR5GLzJS29aTzZIitv8CeHyOK4JY+zPg3vm2pbCyAV0CAs7uDZ424e38SL8rMHVZhsGyVxoS2zVkGyaNc2+bivwnTmod2muH04YFkw4EJ50eo3mpCTE1F9YWsWy8wsfHzgIbm7vxfNuoeqLnqdYPM99XMVtKh+fuCwUyCfFxYySSmfEFX5U9IjW8iX2+olSQqgLuE0o6YPy2gbnPcGKn12lL4NKZhtWzoDQv2TQMvVzaco2g==;ZVOW+a/KNIQ9JGZvuEgl/Q=="
+secured: "WzVuJBcGEEoXssO5zDPxjolcg1xQpmlMXGzVVcN7AbUk+HzaWaNUrUXSOJrIa9gsW2EHwzK8gdee4bEakTyro+OzMiRkPirmvxVU6NKbiNi9haY3+go8MtYp+BkrZrQJX/ftDFSEYSimQKDYm3tJbO/Klu1h0fggCxjetbZStesIH72BVljLmqIQMEH4DtnZDXuvbph/dDHi48W9h9Lr6O/uGbqNPNQs+mp4h6C5TRy7JvVGBUdKsyBbJ8zs+MhvPSFyG6FMpgMpGA5EY6mecl5GLON7ZlYG8Kpyqx2LOkREqzHgvbqc07mhcl0e8zNAj7Ru2kplWEDhe2fsRAykTVZMCNyw6n9Ori30UGrZbzU=;j/Gk2vzGi054sBpr4OWboA=="
 ---
 

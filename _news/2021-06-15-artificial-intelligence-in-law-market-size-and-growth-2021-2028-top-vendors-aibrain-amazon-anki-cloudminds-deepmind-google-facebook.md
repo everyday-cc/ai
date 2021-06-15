@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-15T01:19:00Z
 originalUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-in-law-market-size-and-growth-2021-2028-top-vendors-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm/"
 webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-in-law-market-size-and-growth-2021-2028-top-vendors-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm/"
 type: article
-quality: 11
-heat: 11
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Facebook AI
 
 related:
   - title: "Artificial Intelligence in Accounting Market Is Likely to Experience a Tremendous Growth by 2027 | IBM (US), EY (UK), AppZen (US)"

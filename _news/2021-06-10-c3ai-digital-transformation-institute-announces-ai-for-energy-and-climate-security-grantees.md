@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 854
         isCached: true
-  - title: "President highlights freedom of speech challenge in AI era"
-    excerpt: "President Nicos Anastasiades on Thursday stressed the need to ensure freedom of speech but also to present correct, factual information in the ever-changing environment of social media and artificial intelligence that has led to the proliferation of fake news and misinformation."
-    publishedDateTime: 2021-06-10T10:18:00Z
-    webUrl: "https://cyprus-mail.com/2021/06/10/president-highlights-freedom-of-speech-challenge-in-ai-era/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 39
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/06/nouris-AI-conference-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces AI for Energy and Climate Security Grantees"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the second round of C3.ai DTI awards, focused on using artificial intelligence (AI)"
     publishedDateTime: 2021-06-10T17:00:00Z

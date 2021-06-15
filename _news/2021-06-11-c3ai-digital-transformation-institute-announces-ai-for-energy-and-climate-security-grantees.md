@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "President highlights freedom of speech challenge in AI era"
-    excerpt: "President Nicos Anastasiades on Thursday stressed the need to ensure freedom of speech but also to present correct, factual information in the ever-changing environment of social media and artificial intelligence that has led to the proliferation of fake news and misinformation."
-    publishedDateTime: 2021-06-10T10:18:00Z
-    webUrl: "https://cyprus-mail.com/2021/06/10/president-highlights-freedom-of-speech-challenge-in-ai-era/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 39
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/06/nouris-AI-conference-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "WV8W7FZDjphRYMBkHa894H/wU3qE7s3DSAcZniNSJz+Z/XbZqvX4lsGcVvUiIih6UAsfc05fm8AcPWmf6cDilaJxqk6g5rm1qSXIga43jmuZ+qsuRO1My5wd7DzN6eWz69KJHxiY6VPYpeJT2wH/GjFJX+WJcomXuQrUc/Z/QJRzo5nBtoLCyEUbuZq4NQCvFtrq3QCmp4EbomCYo+pRYuXrlXHWsHm2goshnIErO4yq7qNPpvyBTcJTJuTGB1biMjKN2FvXvHmWigI228+KdhMWnFKzogpr0Cwy4JYGlCr4/zzFOkeI9jbyQOqFbnbjDu5GxykqyxYdoPb7sZgnBdF5KTyegBs2bvq33k0Q8yE=;Pt698t5DSZm8hXclI5cFeQ=="
 ---

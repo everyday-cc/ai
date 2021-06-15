@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla is now looking to hire self-driving car test drivers around the world"
-    excerpt: "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world."
-    publishedDateTime: 2021-06-10T10:22:00Z
-    webUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/"
-    ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Huawei Plans On Making Self-Driving Cars By 2025"
     excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
     publishedDateTime: 2021-06-11T18:06:00Z

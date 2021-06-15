@@ -31,20 +31,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "OnSolve and Base Operations partner to provide customers with contextual based, risk assessment capabilities powered by artificial intelligence"
-    excerpt: "OnSolve has announced a partnership with Base Operations, a risk intelligence company offering street-level threat assessment for global companies powered by artificial intelligence (AI). The partnership creates a new AI-driven risk analysis capability that provides context and relativity to a targeted region before an event,"
-    publishedDateTime: 2021-06-10T09:36:00Z
-    webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/6353-onsolve-and-base-operations-partner-to-provide-customers-with-contextual-based-risk-assessment-capabilities-powered-by-artificial-intelligence"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 1
-    images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "3uAnKvkNYfQH94oUFVu041yvqpC3FmKgUZ38DY+iPeV5x29CSQrx5UHJEC3/HfWoiZbyVR9XoXqEhL2Ohz3uMBqgHKiHHVelKVOZ8hsktcHZBmXCgWl+leH4BKIv+R60y7IzqF9ht8ai1jbDtbbyEjQr/tmO2RSy91etYJwNJEW0qUEkVcmR5IWqvSteFWnT09Gr2bN27N/CZ83hH1nHSp2oDWuHzcoWD4n1hiT3kZRYdDhWNDqtPCJ+6HE35661K5D63X32kqAo3+awSkibYT2kS5AIKLTDYKRXXCR02TAno8+PIVsWm/uYZr0hdBrWyIrSJAohNfP5Jhmld/luidX8jGgzjfNCmLRfjFGaKN0=;v1BR+BvGTZyxki5VjIlMlg=="
 ---

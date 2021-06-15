@@ -44,6 +44,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models,"
+    publishedDateTime: 2021-06-11T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
+        isCached: true
   - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
     excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
     publishedDateTime: 2021-06-11T22:58:00Z
@@ -58,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
-    excerpt: "CHICAGO, June 11, 2021 /PRNewswire/ -- According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application ..."
-    publishedDateTime: 2021-06-11T13:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 21
 
 secured: "/I2MLDj4zyrdy00n0UekP/ahY1E5UpZ88TleNNLT06KVvX1p8G0pKuEtfhnpwrXTfVMTKrBjez8W4SHW7kdO79SFUJUKumLbf4h56bsf5eYI9u3qqsLipxQ2hRr/t0wgZUaof07IPaQ2jN7J8jt3DfJOJAkINqMmQ/NA/WBHoYqOPf0m3vFrOuMCfyZMFF1SwwxH8fq0i4X7hZ8YM4ZLumRHeEZg6C3NyXMvfIKI+756js3aoalNDNFXqpIb1kEE2gLKI1TolcUum13nChkL4XpG3Av3iCXQibVZx3UAf9KB59bfj+3gih3JwnyQpfR6zwSDRhcgqTMx4+3OobaLNIqv3pzXYJmIYmCGgu/4kZHodXkz53a29srwr0ihAbMTOAWREucpa5AxHfjBh+Hl+4mdG/4J6nc/8BUXegAAM7jxd3JcfNHYYR8Z+1uCrwOos5cooUnWuGe0a784vYI8vG2RBN6a+q+sh1dYlN71I0bfZ2CVvg0eoTzmtnt5H75W195bV6ezukUu3Y3p4G2tmQ==;+h7BnfBKZzLl1ldOVY33ug=="
 ---

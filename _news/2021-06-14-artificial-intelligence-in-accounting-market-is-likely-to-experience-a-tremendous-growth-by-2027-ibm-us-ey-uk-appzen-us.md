@@ -28,7 +28,7 @@ related:
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 11
+    quality: 13
 
 secured: "RcZYQ+GBAKlgO16X12sDQ3vU9kwHOYHUTbAYr3mgJMoZrRWG6MHmzWwcSbZbP8yGK2THNvwUQ0cgSO366ibAWdXuYFlTMh8Etmf4B3TtDXwi5UGT1rUECexk+6Chq9Y/w2CDT1yZ6BW240+M+0s4a5d68az/o11pjL9LhP1zC3PYXt5xCdtcvVpMckTZDIOeQucvRcavYWOgTCuenuRcZP2hrpmINQVjud2Ib//EcN1cPp2GLzCNh+in9so5vyn1hp0w4N03VtGu5sQe6wWe2HWIiBZ/LIlKfTIijDWwAud6S5Fo829rupk2eKjAmkY9oNJAQRXVUVCg+IHTLICVB5H8N3q0YtSNzseO8M3xlcU=;oQJqALJhBnXRCCJgTUey7w=="
 ---

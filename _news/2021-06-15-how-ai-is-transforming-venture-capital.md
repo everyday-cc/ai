@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla is now looking to hire self-driving car test drivers around the world"
-    excerpt: "Do you want to work for Tesla remotely and test its latest Autopilot and Full Self-Driving features? You may be in luck as we learn that the automaker is now looking to hire self-driving car test drivers around the world."
-    publishedDateTime: 2021-06-10T10:22:00Z
-    webUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/"
-    ampWebUrl: "https://electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/10/tesla-hire-self-driving-car-test-drivers-around-the-world/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Supposing The FBI Secretly Ran A Fleet Of AI Self-Driving Cars To Track And Ultimately Nab Unsuspecting Criminals"
     excerpt: "Recent news about the FBI sting operation using an encrypted messaging platform gives rise to other high-tech leveraging for crimefighting such as the use of AI self-driving cars."
     publishedDateTime: 2021-06-12T15:30:00Z

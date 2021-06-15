@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft says cryptomining attacks are targeting Kubernetes"
-    excerpt: "Cybersecurity experts at Microsoft have shared details about a new campaign that is attacking Kubeflow workloads to deploy malicious pods in Kubernetes clusters that are then used for mining cryptocurrency."
-    publishedDateTime: 2021-06-10T11:03:00Z
-    webUrl: "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 91
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Crypto mining hackers hit Kubernetes clusters"
     excerpt: "Security researchers have warned of hackers ' continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
     publishedDateTime: 2021-06-10T14:32:00Z
@@ -85,15 +69,6 @@ related:
         width: 697
         height: 526
         isCached: true
-  - title: "Microsoft – Voice Assistants Gain Ground After Microsoft’s Nuance Acquisition"
-    excerpt: "Microsoft is solidifying the voice component of its Azure health care offering just as voice assistants are set to impact more industry verticals. Voice assistants are on the cusp of a new phase of enterprise empowerment."
-    publishedDateTime: 2021-06-10T09:45:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-voice-assistants-gain-ground-after-microsofts-nuance-acquisition/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 33
 
 secured: "TXg1+vy3YvqV1QdtOwtCYWgOY8piUFnihEI5uXGg/O+ZWQ63xL1zZ+3TNNRXDEb6OeYrVZHliKDe9aAEwftjzi2hgMFIJjyJr/k+S1/W5kIqzsOcxeABnQxVcr9fZzfNTgjQpjhdYTAHHL2sN5jlgAdjBFnrgNMNeX/oGbR5Z+WxGK2fIBBOPunU2rpDxQNAlUwA5dhXLcu5t2gyO2p/q73lQ1D54nMz8KLbIeQ8SfSGzIdYsXB0JXv97xytkBunU2OIi92uwEAk2d13sqaYd1h64t0JnEkDie9yPJuQpbbaeQrVo4GF2Syl8CLW587yBihdp8V8q3BXJDEI21fG1t2B95xMEgAq3jlRj+ykao8pCAL/GZO7I0DFMBdHnfLeN1kUM5og3pJM5b5QO6ja0HtOwf40+EXeXDQ0rDCZunJbmndCGNGsQt645wb2zEWdFnBH0vyjabkVVxdiByMqsw2BKVkx3dB5uCHiY0v2xRPAVVBauj4dMMzQxvRItwof2EZBSHfeb0PJwGK4dVHeJA==;h4Ahcrq0MoQMI9O6CHh2ug=="
 ---

@@ -1,27 +1,26 @@
 ---
 category: news
 title: "How New Artificial Intelligence (AI) in Retail Can Adapt to an Evolving Market | Amazon Web Series LLC,Google LLC,IBM Corp.,Intel Corp."
-excerpt: "Artificial Intelligence (AI) in Retail Market” Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
-publishedDateTime: 2021-06-14T22:02:00Z
-originalUrl: "https://www.digitaljournal.com/pr/how-new-artificial-intelligence-ai-in-retail-can-adapt-to-an-evolving-market-amazon-web-series-llcgoogle-llcibm-corp-intel-corp"
-webUrl: "https://www.digitaljournal.com/pr/how-new-artificial-intelligence-ai-in-retail-can-adapt-to-an-evolving-market-amazon-web-series-llcgoogle-llcibm-corp-intel-corp"
+excerpt: "Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth"
+publishedDateTime: 2021-06-15T02:00:00Z
+originalUrl: "https://menafn.com/1102275691/How-New-Artificial-Intelligence-AI-in-Retail-Can-Adapt-to-an-Evolving-Market-Amazon-Web-Series-LLCGoogle-LLCIBM-CorpIntel-Corp"
+webUrl: "https://menafn.com/1102275691/How-New-Artificial-Intelligence-AI-in-Retail-Can-Adapt-to-an-Evolving-Market-Amazon-Web-Series-LLCGoogle-LLCIBM-CorpIntel-Corp"
 type: article
-quality: 22
-heat: 22
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?464632"
+    width: 444
+    height: 250
     isCached: true
 
 related:
@@ -35,6 +34,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "4RtFcZUCdiI7IrVLFhYAaYfwG8f456bdn/7BNkkaLcAY8zso3Y6XKtllMOwgU6nj9ysguu4Qz8CILWVDo+35dcwdo3D5HrxJ35qvOTusXpNiIf66M6v5TVz5ZlerVlkFf2+JeUAY8R0Cxsqxe5RzXEL+3FtrHSW9r9Sz+7mS4JKinqhANWJs3LqxeHSqsoEZGpS20bWCbCbAX8GF3jIM6pptnjB1UfB+ujRhdrEAQTLBHQAoNDkFcpqrNLq6wiV1OeXlDR1+vzZkYpZk9KxBH6ho5V/Ht7iRMmjZfQLwOgMB5LaDgfML9BsUiLqPPYefpRPmK4Wm03wewyQTSAFY30+NzV/UjbZQPxCy42DCoTw9+VKTg4gmEfBzlFBt9wemfMiM/69JN30Vuq/Ta38xyJ+Nqq6DWJU7nEi3qF0a3OyNJE+/Bze+XoNEUV/0ETygX4qhayImSCrt8Zv/96Xb8O8jg8VD3KkppnXNxJgINxo5RZkCuq6SdqzjO3ESQZsTWlRuWifjjKVza86PSfzt+A==;wFFkmIEuMeMFbossFi1UNw=="
+secured: "9Ebi0zLbHpoBKTCxW3ShCwuKcxvFMuxFZuBr32Nw+3b/4DkensxfWzrjpXEZotjXBqqg6/cPEi7CrAxGCsZNacgszzGY2xKlxixVkHfI5DgI4Qq54IbyucE7RBUgLMWHUuLFERqm0V/nsfLtokrTd2h12PQ004oDpGDr8K0HeKtd9hc0NcRlfIMSbmgzRFPpv4f2j7RCLVyGAooRFRAZCy+DTty1qMlR/E5nyGAE1aKphV4P8wdFkXwAjVaskOhx4xGn8LlPgEPsSZwbNcaHxc5m8Y63gJ17787HQfZCQI4cN/9yuJPvM2fZZtSZ3+QfK8aqm54tGhAxvmK/66YAzS15i+9H3iO6PNcnudaFR4M=;cDyitMpk8ChfI2wM3rod0Q=="
 ---
 

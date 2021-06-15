@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Eightfold valued at $2.1B in SoftBank-led $220M funding"
-    excerpt: "Eightfold AI, a startup which uses deep learning and artificial intelligence to help companies find, recruit and retain workers, said on Thursday it has raised $220 million in a new round as it looks to accelerate its growth."
-    publishedDateTime: 2021-06-10T11:01:00Z
-    webUrl: "https://techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1b-in-softbank-led-220m-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1b-in-softbank-led-220m-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1b-in-softbank-led-220m-funding/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Eightfold_Building.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI Startup Eightfold AI Valued At $2.1 Bn In SoftBank-led $220 Mn Funding"
     excerpt: "The funds will be used to continue the rapid growth and development of Eightfold's AI-powered talent intelligence platform and expand its growing partner ecosystem"
     publishedDateTime: 2021-06-10T13:25:00Z
@@ -69,20 +53,6 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/2020/08/Breaking_News.png"
         width: 900
         height: 506
-        isCached: true
-  - title: "Talent matching startup Eightfold AI raises US$220 million in round led by SoftBank Vision Fund 2"
-    excerpt: "Eightfold AI, a talent matching platform, said on Thursday it raised US$220 million in a funding round led by SoftBank Group Corp's Vision Fund 2"
-    publishedDateTime: 2021-06-10T09:20:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/talent-matching-startup-eightfold-ai-raises-us-220-million-in-round-led-by-softbank-vision-fund-2-14986612"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14986610/16x9/991/557/9f76d61fbf61c357457e30831ad94d20/QD/talent-matching-startup-eightfold-ai-s-logo-is-seen-outside-its-office-building-in-mountain-view--california-3.jpg"
-        width: 991
-        height: 557
         isCached: true
 
 secured: "S6k/vavjMnOdggs/vuxQ97Vs89HoZH4ak8LNiq776NK9QRDPMYWqFmF5yyaMAHRI7oJYQxZ8z7BJZ1iEE5terZGufp48fCOaiH3aitU5i2XM6E2H2X2/5yLHWlYllw1MyPaA5/82/n65+AjiNYbiL1qKIYpF0/rbFF5TA83WPs/wxbvKPYkPdO6kb5PBuSj5BUz60ZyuTOm+y9ERc9zJWbEATo5qLtw7ssBQJdXRTiPF4iLplzH39td+AeqMOzjI6NsjMgLZQ9QAelv7Nf+aYwORtwxbmbcoUxRV7FOVSi3fA7o7P0j4KKNU+zDN8IaxDrYENh2thHjetj3dmumCr82JRTjXMbgVXhMCm6JEl18=;hN+0nFW0dePPFO/PH/M6bw=="

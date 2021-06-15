@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mi
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: IT Pro
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft says cryptomining attacks are targeting Kubernetes"
-    excerpt: "Cybersecurity experts at Microsoft have shared details about a new campaign that is attacking Kubeflow workloads to deploy malicious pods in Kubernetes clusters that are then used for mining cryptocurrency."
-    publishedDateTime: 2021-06-10T11:03:00Z
-    webUrl: "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 91
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Microsoft: Big Cryptomining Attacks Hit Kubeflow"
     excerpt: "Misconfigured dashboards are yet again at the heart of a widespread, ongoing cryptocurrency campaign squeezing Monero and Ethereum from Kubernetes clusters."
     publishedDateTime: 2021-06-10T16:26:00Z
@@ -75,15 +59,6 @@ related:
         width: 697
         height: 526
         isCached: true
-  - title: "Microsoft – Voice Assistants Gain Ground After Microsoft’s Nuance Acquisition"
-    excerpt: "Microsoft is solidifying the voice component of its Azure health care offering just as voice assistants are set to impact more industry verticals. Voice assistants are on the cusp of a new phase of enterprise empowerment."
-    publishedDateTime: 2021-06-10T09:45:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-voice-assistants-gain-ground-after-microsofts-nuance-acquisition/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 33
   - title: "Crypto-mining hackers hit Kubernetes clusters"
     excerpt: "Security researchers have warned of hackers’ continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
     publishedDateTime: 2021-06-11T10:44:00Z

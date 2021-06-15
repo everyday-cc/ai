@@ -57,15 +57,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
-    excerpt: "CHICAGO, June 11, 2021 /PRNewswire/ -- According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application ..."
-    publishedDateTime: 2021-06-11T13:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models,"
+    publishedDateTime: 2021-06-11T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 21
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
+        isCached: true
 
 secured: "JXl7SDoCkSGAgdnrWW5ZHrih7KhwmCHPsjM5RurNVQGbnLIfbPHGSfq2W+V29/NU1qPNLSxhLDzlbxWoAuP2LZKdeAsD1UnuHYE50m+pZoYng4vdLUlZjUFN8LDjcGxFQY7eI84ToPKK8Y+0ktewPHpAyigyHrFj/kcnKVenLzVPW9KHXWHpFLUM/AqTujMiYe6u0WhTsL6TSEzbk72gQVIxSfu8WU1MkAoSV2YU3NyW92yNVz0CshAJJdLuaN/OhwD2Lpq9CDuamvHM19EYQVjlgusRAy6Ct/sStaEYvc5gr8/T333eIGyhdI1qi+oK9XfK92zvAEfFfIJnfgUFc7Wy3luVKIi+O/VFy2fdh3YDvRurrmXGEm71uFGZ2AQdBabRQ2CBMmknG3LolK7mxw0fUCWwq7wlcFTxAF9cj9PLuB1SMzEN+F/swbhpa/ktkRn4qHZyiYP3PMWacC0XssFp6uThTw9eLKcwsHn68qPp5WgmHOaU2/+XFEtF4y1cELy0eLkYj7fi2DBzfgzpjA==;6y5hS+jvLqrUwEwhVHEDHw=="
 ---

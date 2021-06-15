@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Bot Revolution Stalls As AI Is Difficult To Scale"
-    excerpt: "When a company can evaluate and quantify the impact of automation, it can identify why the AI was or wasn’t successful."
-    publishedDateTime: 2021-06-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/"
+  - title: "Can AI Solve Your Hiring Problems?"
+    excerpt: "So then can AI (Artificial Intelligence) help out? Well, it definitely can. The irony is that many companies are using the technology—and don’t even realize it! The reason is that AI is built into the top online job sites."
+    publishedDateTime: 2021-06-12T01:12:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfd681bb1be6b81e45c9fe%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c407078098c83d5373a60b%2F0x0.jpg"
         width: 1200
-        height: 835
+        height: 800
         isCached: true
 
 secured: "lir6/pmyabbVt9nZXCvnqt25JBnDROjqqw0VLjRICkAetUZJM4KnXVHGOXROsL3xlfOubtEp4iwh8rnDrG50CZllhdfUjOi5GWS6Hi8tc1apRO6hPGZpFeBY3MTNIL2lH7jtHCJ5OlQZmzEsaqBoIkqDt9KAe2FcoOjjND0HHnwVJCHUrqt/bPHj7Jqxj9uNC3bHxsz4jIEGZLr/jgbTpp8X8wnVlExWERT2POdblp96N5GTW8lbqupaLODJYiJRsPzVFNQsx2TqTlGle6d+D2Xh6zCDsROkDH9m1RJfYpj6DUh49ezfEabpx07JAqJZPfR56GVRKt839pmdUnZooJAWnF/nPVYJZB+rzD6KKsl9HdoA7Cq+Us44SirBbG7yYcpZPeP2eoDS/7ojCKz7PJG7d+OAQXMixTPFiZ8KhNyKEfPPNE/bCW8aqeaiExmJY2d+81MeB6vWEPd6FPoUhlfOxcnHw7490aYD72oAhCeuCR7K4AlX0D2wkiEyEU5npBy6Q/WxXzhlr8tvNJVjDA==;eplLpnODwTr3/iJkllsIPg=="
