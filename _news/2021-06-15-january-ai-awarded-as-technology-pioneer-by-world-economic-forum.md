@@ -25,13 +25,13 @@ images:
 
 related:
   - title: "Diligent Robotics Awarded as Technology Pioneer by World Economic Forum"
-    excerpt: "Diligent Robotics, a company based in Austin, TX that was founded in 2017, was selected among hundreds of candidates as one of the"
-    publishedDateTime: 2021-06-15T17:37:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/diligent-robotics-awarded-as-technology-pioneer-by-world-economic-forum-301312969.html"
+    excerpt: "Diligent Robotics, a company based in Austin, TX that was founded in 2017, was selected among hundreds of candidates as one of the World Economic Forum's \"Technology Pioneers.\" Diligent Robotics, led by two female founders,"
+    publishedDateTime: 2021-06-15T18:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391095.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 34
 
 secured: "ASOkPtizXx1mjZZQn9ihWWeR6FhnTn1zStRTJ/H89BkuQa0jacgeJXT4uqRjYkId3W4WZUfw+mZHNspOH12k9bKEB9ZRUR08Xk2LNGm1Ju9edqhOGBNk/5itPmoh+8tERokjbdiTC7qX+egr+3TJpu8P+lcU+ESgCei5jItrAD8DK9mGqtt0a09tBxoIQJAHinuPHnBpDQND3xr2kOfuX/M/rrmXqAOBmDjLRHNUivAwidcGOPzxHZagdUCvY4JHWLjEd+AIs6yufiNiu95uDJ36be8pvFSLRohQOuo1dfTEyEZvZHj01kU/fWYBvr1P+eM8bZyErUm2DrMXezX/zKcUokKW+TWgyw0DCM/q1lk=;EoTjvwZX736k0JmDAqlaBA=="

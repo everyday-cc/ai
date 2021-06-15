@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
-    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
-    publishedDateTime: 2021-06-12T15:12:00Z
-    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
-    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+  - title: "Democrats reintroduce bill to ban government use of facial recognition"
+    excerpt: "A group of lawmakers in Congress reintroduced the Facial Recognition and Biometric Technology Moratorium Act on Tuesday."
+    publishedDateTime: 2021-06-15T18:43:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 58
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 61
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
-        width: 620
-        height: 370
-        isCached: true
-  - title: "Baltimore City Council passes facial recognition ban"
-    excerpt: "The Baltimore City Council voted overwhelmingly earlier this week to pass one of the nation’s strictest facial recognition bans, which not only prohibits law enforcement and municipal agencies from procuring and using the technology but also bars private citizens in the city from leveraging it."
-    publishedDateTime: 2021-06-11T15:26:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21226436/baltimore-city-council-passes-facial-recognition-ban"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Face_Recognition_And_Personal__379967281.60c37fc0560ca.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://uploads.dailydot.com/2021/06/Facial-Recognition-and-Biometric-Technology-Moratorium-Act.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Cops Elude Baltimore Ban on Facial Recognition Technology"
     excerpt: "Critics say exempting police from a bill banning the use of facial recognition technology by residents, businesses and most of city government fails to take into account the potential for  racial bias identified as a key software issue."
@@ -71,17 +57,48 @@ related:
         width: 720
         height: 393
         isCached: true
-  - title: "Baltimore City Council Votes to Approve Extreme Ban on Facial Recognition"
-    excerpt: "On June 8, the Baltimore City Council voted 13-2 to approve what would be the most extreme ban by a local jurisdiction on personal and business applications of facial"
-    publishedDateTime: 2021-06-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21531581/baltimore-city-council-votes-to-approve-extreme-ban-on-facial-recognition"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21531581"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21531581"
+  - title: "ACLU Comment on Facial Recognition and Biometric Technology Moratorium Act"
+    excerpt: "Ayanna Pressley (D-Mass.) today introduced legislation to stop government use of biometric technology, including facial recognition. The Facial Recognition and Biometric Technology Moratorium Act, which is endorsed by the American Civil Liberties Union,"
+    publishedDateTime: 2021-06-15T16:43:00Z
+    webUrl: "https://www.aclu.org/press-releases/aclu-comment-facial-recognition-and-biometric-technology-moratorium-act"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
+      name: Aclu.org
+      domain: aclu.org
+    quality: 37
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Congress Re-introduces Bill that Effectively Bans Law Enforcement Use of Facial Recognition Technology"
+    excerpt: "Today lawmakers in the House and Senate jointly re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021, which would effectively ban law enforcement use of facial recognition in the United States."
+    publishedDateTime: 2021-06-15T17:47:00Z
+    webUrl: "https://www.commondreams.org/newswire/2021/06/15/congress-re-introduces-bill-effectively-bans-law-enforcement-use-facial"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 23
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xs/public/2021-06/national-academies-science-3600x2402.jpg?h=6ac591db&itok=jxDzBbsX"
+        width: 537
+        height: 304
+        isCached: true
+  - title: "Senators Markey, Merkley Lead Colleagues on Legislation to Ban Government Use of Facial Recognition, Other Biometric Technology"
+    excerpt: "Legislation stops federal entities’ use of facial recognition tools and effectively strips federal support for state and local law enforcement entities that use biometric technology · Place a prohibition on the use of facial recognition technology by federal entities,"
+    publishedDateTime: 2021-06-15T17:31:00Z
+    webUrl: "https://www.markey.senate.gov/news/press-releases/senators-markey-merkley-lead-colleagues-on-legislation-to-ban-government-use-of-facial-recognition-other-biometric-technology"
+    type: article
+    provider:
+      name: US Senate
+      domain: senate.gov
+    quality: 13
+    images:
+      - url: "https://www.markey.senate.gov/assets/images/sharelogo.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HqZ5lt2LmlOvwBS2/eWCpazektY6hOD3OyqMRtlykAB7tpPRYkHAnXPLV8gJUgLRWL5yf6kq174OXayxyI+qtC9BcWjB7WHR+3UN0EqzoXO9LQeFzcqf5Dn0srar0fPh4EOx7xHEnKt1AMrUk4DMRZ26izHo+CfTXSuDDxtNfnvU4kqljKhSRt9W91NG7v85o4858Hnn6k+HyuMnEBlyyPVnhnbURrX0nuQTsei6dAczcMKs2ILXu2l59w7mUOgadOhzRQgxBGzG/fSoah1AkHxfnYSWLn9sihfzqsCkii8I9nwchuiacvv/M44d90eh6L/rVDceA/dI4U/wNHNN5UyGJJ3VkCTaX48aQm4aGsFFec3vdoNsO1Dt94CEn9pNMhe8uVYuemWnjeeDivWZGWjdtrcSGU6keFGkumHqHripfkqNNsrxWYUT282tkHmUpulGlDeJU+iwMGpZxiQZLkkzefDke/wwg9SEWvadzTu+9xOilA8FRTIfpG7xefFgHdbb0X9aFiq6u3fYBv6wrA==;OBx8l5kDSRGXdUQzObqZgg=="
 ---

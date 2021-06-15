@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Diligent Robotics Awarded as Technology Pioneer by World Economic Forum"
-excerpt: "Diligent Robotics, a company based in Austin, TX that was founded in 2017, was selected among hundreds of candidates as one of the"
-publishedDateTime: 2021-06-15T17:37:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/diligent-robotics-awarded-as-technology-pioneer-by-world-economic-forum-301312969.html"
-webUrl: "https://www.prnewswire.com/news-releases/diligent-robotics-awarded-as-technology-pioneer-by-world-economic-forum-301312969.html"
+excerpt: "Diligent Robotics, a company based in Austin, TX that was founded in 2017, was selected among hundreds of candidates as one of the World Economic Forum's \"Technology Pioneers.\" Diligent Robotics, led by two female founders,"
+publishedDateTime: 2021-06-15T18:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391095.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391095.htm"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -34,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "4eVaW9xdsFptRuxh8wlVncv0vBMfrMWcEE5gzXKfrTvBNlmtIp5l+mJ/5ZGY69qRAcF+CSuesNdHoVsW1EpB/CRqCn4utKbCZEqCpVLFoFuVJ1mBcPNEraNqNEHOwvjJsM0NI4N0riL1tN06OZCFQmQefXOtluNAFc51PU9hQD2FwU+PmK/oGgrJOyoO95Tq8jPr8x4gkBGNiDpljzsap0IYCIEjZ73+VegrhbWa9QuW5LYp4mzo9Yixd3wUNusDS7am7QBhG1ZFHFLkBOyPfaxOA2CnQwo3NDNk2D30qqkzXTDNav8/yikssTzxYhjG71LlP0wb4bx0n6IFJFLXjhe/UDQDnAublDM3HkU9aAI=;DIwghmh33i94lUKKWormzQ=="
+secured: "zsZOhTbJiUJER3xSoeHJRb/lUIn0A3Drx7n3PekDYC6CRvG4A1Fm8uTzw0I707Dyr+5mBISvFMljRbZv0wnSXPLeaay3jeEcPy2AnW14bQj8kWp+zD/czyugFrZU6MDwNY94xkgst8K7ekI5T5sEhTwbvnnT+IzFbjcadnzJxvIJBZsPQRQ+xPp7VPbJYaM0+q56Ymf+JRxzkjRmHGVJQl92INWVi50tDlzjO/w4tN3ZuJNpPOkVMJPByxjH6dPNp87gC+7PkwToFmOLB49hvGEcQ39+UAra8+DjC+1/pac3l4A5Xl4XmK42mD2o0pjYA1rzazUYefuurlCLnQuaavsXtaHecLVh7RKb01r51ts=;vQohwZTMM8a5To6FHHwQzQ=="
 ---
 

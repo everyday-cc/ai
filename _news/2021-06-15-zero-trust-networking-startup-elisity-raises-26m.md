@@ -76,6 +76,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Iterable raises $200M at $2B valuation for its AI-powered marketing platform"
+    excerpt: "Iterable Inc., a startup that uses artificial intelligence to improve the effectiveness of enterprises’ marketing campaigns, has raised a $200 million funding round at a $2 billion valuation from a group of prominent investors."
+    publishedDateTime: 2021-06-15T19:29:00Z
+    webUrl: "https://siliconangle.com/2021/06/15/iterable-raises-200m-2b-valuation-ai-powered-marketing-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/iterable.png"
+        width: 932
+        height: 521
+        isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"
     publishedDateTime: 2021-06-13T13:00:00Z
@@ -91,6 +105,6 @@ related:
         height: 630
         isCached: true
 
-secured: "U/iguqcEUml/Y51ZgS6xGffVCxIuGGe++Jyl0S3TNibvKOnnbqMFjM29wm0/PjRFKLe4WmTXjlS1b4CvukIHYffu4gq/clubA+ak7UI4SS+b6V/kqdPq6z5IQ2zuoIYUwt4exJZNRAIjmLnDc/tBDRxgLP+ggbCZD1jfkHqJwySU3rA+FbpenUJPH6W+szD5OoK4DeRECZcE4slfBCmWLAhpRk3svxzboOUlACnhGkWX+UmkbaS3reYUruwjVmS06fSHSHMdHx4tmNiGV+AA3PDLOeTcagMC9zyX0XsMmF0Am2Ro4EK6GngRjiEGPciKgiyGisLQucaNRQYg/7qwf1YPXzyrRloFr65ik+PQB1E=;Oq9DCMc7lEigj5cFstD+Yg=="
+secured: "7IqQxJGtt8AKbg7z08QSLkFDifXo7papBqf0fdtAohHUjlnLfnfgS4SE3uvn5bLKSY5BRsh922YAO3pTUXY9fukIGLoZXFG8y5XIl48s5uK4o319H3H51Kzt4pZzaee8e5DoK1zSeNmADGHuqqraN7v/ajsiLFdHKK5/OGHr4FrdZGq9Z5y/JA89XU/1CQSkn4qNNLL4N8I7dAFatYg+CJcccgrZ0RAf4Gkk7ha9+Z8gsPPm86UHNOtopE6Ja61LroCqrBUt5fP5ts89PaqqjHpvJjaxQlGc+Cx1GcRzNrLVtqeS8yzS7vPYRhI9FKJ7CzUWaSU/zK77e9wh2Wi2akxvhCDwac+nfhmP+UQtF1jPMO+wlFrEy6QSbLR4QFvVTrJmVyOC9ucrm+CNGXnCLIFFjDl3BnBysJXV2cFcF7s/RlRP/SXBp3SyS+f0TCNAbyCX34DIoHlTotafxpUnQluPDbN7ia5ibNayYGOfFpjSuOjJkAZ1d0am01sa1C3hgSyVoNfW1edNVjyAzFek9g==;JDQyDONWlyDxHINyjbRBcQ=="
 ---
 

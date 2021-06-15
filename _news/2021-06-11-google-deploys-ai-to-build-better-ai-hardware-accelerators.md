@@ -7,7 +7,7 @@ originalUrl: "https://www.extremetech.com/extreme/323638-google-deploys-ai-to-bu
 webUrl: "https://www.extremetech.com/extreme/323638-google-deploys-ai-to-build-better-ai-hardware-accelerators"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1344
     height: 742
     isCached: true
-
-related:
-  - title: "Using AI to write better, faster, smarter"
-    excerpt: "Computers can write bizarre sci-fi movies about characters who have to “go to the skull,” but can they make us better writers? Compose.ai just raised $2.1m in seed funding to help us write faster, per TechCrunch."
-    publishedDateTime: 2021-06-11T03:05:00Z
-    webUrl: "https://thehustle.co/06112021-ai-writing/"
-    ampWebUrl: "https://thehustle.co/06112021-ai-writing/amp/"
-    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/06112021-ai-writing/amp/"
-    type: article
-    provider:
-      name: The Hustle
-      domain: thehustle.co
-    quality: 57
-    images:
-      - url: "https://thehustle.co/wp-content/uploads/2021/06/News-Brief_2021-06-11T030244.661Z.jpg"
-        width: 600
-        height: 330
-        isCached: true
 
 secured: "Y5B9RnxkXrIg1POsw9AtGTOzGqm/XY9pzrmzwbiCdWcB4jNZtuXp7A7oAJ4cK2GlDhx6dpapYEXMJJQDBPSAqhc8KCbWaL3oayAhiStdUZ+TJrUNTOaZELA9YhNbxxnRUGhrAg/Rxn7owBw+Tj1CblKq/nWvvnPmBTVCFySiMf6807xb/MWXTHerdAIuI9nmRKowYZucrIgll76zGDqPW86Cck8uK9fKoAIA8ym8xGa/x7ZdYGRg0L1zbBoc7T+KDxrYnBAdqWSCUOdIzHCZjCNgNNcZN1JSt4hueFyI2k4fgwnjIaK8scFju/zWxbi95MT1N15yt5kZ5/aqUaKNWsQijJixEh7Av8TeUDhmHsXwihcXLXBsk8ySvUc94o8fFcSWCgAX5KsQ/fw63IpKWMGYWUXRfGQgtethkFMorH8y+zRmpk1fSbMlycmfcgj2Z8aOx5emV9C9PdzxL1WryHs7SQHC+bpniuI874gkbPKbnz3sgMhHv02XCXUMTcr74psIThXm6L6Ov2LGLaCUaA==;qL6lcnk1CnVs4vG8UHGzoA=="
 ---

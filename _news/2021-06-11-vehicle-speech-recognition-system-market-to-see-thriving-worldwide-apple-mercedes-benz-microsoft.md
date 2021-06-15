@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 30
+  - title: "Worldwide Voice and Speech Recognition Industry to 2026 - Featuring Nuance Communication, Microsoft and Google Among Others"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global voice and speech recognition market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-06-15T18:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-voice-and-speech-recognition-industry-to-2026---featuring-nuance-communication-microsoft-and-google-among-others-301312688.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "M3nal0dtQ0Ml4KlGnUSbniuQFPzfXgwMrRjoXXI2prSFBqENBD+l4BwiHFMzKdwQamK5MTkmwzP+j1LhLs4Mjgjo9nmRoFiwNB2UMR0xwv1Tumf4vzSt4BUSbPOVxQUSwRMAtjG9bgIekBuEuR9xHszkNQFSLakDbiBu7gpCdddzntKbAlU1VZmP8qSPfbvDT7oCsT3dlNxCmOP7ycOZ81lMqrM8KwGVr0VeWd0HISOJM5oNi19edTAtnT/Bf2RvCvzBT5XmhxlMS2zOk2Z7T5qbcAZ1YlJufv2SQRZ1AVO3mdQ7Po+PLwdyztAA2dRXnYhja8sSzYyGC3qwClhU5Zzhbd8D0ZcKA9IdAcLA54ndWBhsKIq2Jlbk5uIwK8ruiLnpFUqyoUVe/Nl1sTURmsBBAi69i9NzMPSdpUOsP7/mfmGSzY9daDSgekujX96GPJU8xsZE5sx4H2aVo6T6wIhQbkUd6L1kxuKisywQxyxe6soF+UURUIQ1V9smsMslFd+gD/jIKawB8RaF45wIwQ==;MnZpupdikAoHM7QRQEOClg=="
 ---

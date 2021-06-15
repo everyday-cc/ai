@@ -907,6 +907,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-alphabet-inc-goog-presents-at-deutsche-bank-global-financial-services-conference-transcript.md",
+      "title": "Alphabet Inc. (GOOG) Presents at Deutsche Bank Global Financial Services Conference (Transcript)",
+      "excerpt": "And we have also been testing Google's AI and machine learning capabilities ... this reflects my core belief that the future of financial services will not be based on let's say integrated ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "publishedDateTime": "2021-06-01T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-can-finance-companies-trust-ai-interview-with-sravan-kasarla-cdo-thrivent.md",
       "title": "Can Finance Companies Trust AI? Interview With Sravan Kasarla, CDO, Thrivent",
       "excerpt": "Understanding business success is not simply about transactions or policies, but about establishing and strengthening long term relationships with the customers. Can finance companies trust AI to help manage customer relationships and enhance trust?",
@@ -1328,59 +1371,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-baker-mckenzie-creates-data-and-machine-learning-team-deepening-ai-partnership.md",
-      "title": "Baker McKenzie creates data and machine learning team, deepening AI partnership",
-      "excerpt": "Building on a pilot partnership with an artificial intelligence company it launched last year, Baker McKenzie is upping its bet that machine ... serves the financial services, insurance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/legal/baker-mckenzie-creates-data-machine-learning-team-deepening-ai-partnership-2021-05-24/",
-      "originalUrl": "https://www.reuters.com/business/legal/baker-mckenzie-creates-data-machine-learning-team-deepening-ai-partnership-2021-05-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1rAibnhqhVmUcFul2i3Rclr3ogM=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XFDX2GJXD5HDFEGRW65ZP5WGP4.jpg",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-reinforcement-learning-enough
 webUrl: "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1000
         height: 583
         isCached: true
+  - title: "DeepMind AI Taught Digital People to Play Football from Scratch"
+    excerpt: "An a (AI)-trained computer learned to play football from scratch, using digital players. Researchers at Alphabet's U.K.-based AI subsidiary DeepMind used motion-capture data from real players to teach the digital footballers to get up and run."
+    publishedDateTime: 2021-06-15T18:57:00Z
+    webUrl: "https://cacm.acm.org/news/253322-deepmind-ai-taught-digital-people-to-play-football-from-scratch"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 34
 
 secured: "eZ9UFLWHHOGOyig8FLHFB96Iyce84/iK9Fv2yh6eSWtzXlAzWRmaxSO6kYkHQGMxsvwD0WOj1T2wq6ZBn4j+MX/X3VGczUgtG9WmfgqeS/mWHt2MGY8/06N+pD3lNCaA33ftmAJhcRnFR0LuwKhyo/P9faVJfqse7Ig46YHSoG8eXyKrGxcbInfIUuWq9cxbOt6RGb8zY0NmJX7Kxo1u7j9EpUe9JkSLxIB1ZCdsvAlpCjMNAZp2BZyn2v2+TG54eDi2JxPXEd7nUnjFhEZQpjaeiY44sxDv3XXC+SCuustA9GWLIZogz9y20bFs1sAA/NZD+4/mTj09R5SIBgtvOezfVnDQUrLkXOeyuhXO5YZnqcLRXgCNxuch73I29K58rPAGB6pDyBCAaAUvheYSgEZqKK/qSroR8u/KV5uVE6t0tLg7/WfdJ+U3zx6j5yXIV233nVlz1jfGzABdGq4dPbHLeWO7PHSP8+BjegQZHaRQvzsdEpAZmSB+jLCqE/P15a0WL7QeT3kcQ5zoDwRkTQ==;Mjt08oFH+xdf+kNsZtq/TA=="
 ---

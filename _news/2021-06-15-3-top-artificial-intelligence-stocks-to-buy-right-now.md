@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/06/15/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "6 AI Stocks to Watch for Rapid Growth"
+    excerpt: "AI is transformative not just for the investment landscape, but it will change how we live and work. As demand for this technology grows, it seems likely that so too will interest in AI stocks. There will be winners and losers to be sure,"
+    publishedDateTime: 2021-06-15T19:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "vcjUhKGMJicKSNWuRjq+l3vyGXTjkxs26wt6ig11Ny6fQtlVZbpf/oQh4+ECpS6zXXHDdyBLrtlBPxyPyQBnVVA3VbZzbQBsE8JEDQsUvNAdxPNzfwXMaJ7yiEOZBJqjaDypV4vzbzyra7ShsLHpR1jazACvnxgXINmmMMiNeMb+mQ4qd5O7Egymdlx7tCoIstCGNWRPAtD5Q5quRWQ6r86vvOeCkgxXEDlArLKOdkpmVMVoOTfRG8kt89u+qssHq/JZbz10kif79kWHXHYvqVvBoF6X1S94dUUfwJFvaMsLlfM67Smpijj6IJaYN2lPCWLfPZtZZ8+bmUCbe2AOWGQU+a3QJecnf3FUq6MhPDw=;1iMcDhk4Nqr2CzsMLS2FtQ=="
 ---

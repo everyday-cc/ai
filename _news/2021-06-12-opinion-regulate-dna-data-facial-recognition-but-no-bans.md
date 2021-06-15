@@ -87,6 +87,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Federal, state lawmakers push for stricter rules on controversial facial recognition technology"
+    excerpt: "Facial recognition is a largely unregulated technology that has been lambasted for its potential civil liberty violations and inaccuracies."
+    publishedDateTime: 2021-06-15T18:52:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 49
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V5FOWDM2M5E5HOZMLC5N4YGSSE.jpg"
+        width: 2811
+        height: 1582
+        isCached: true
   - title: "Canada Privacy Watchdog Slams Police Use of Facial Recognition Tool"
     excerpt: "Federal police broke Canada's privacy laws by using a US company's controversial facial recognition software in hundreds of searches, an independent parliamentary watchdog ruled Thursday. In a report to lawmakers,"
     publishedDateTime: 2021-06-11T13:43:00Z
@@ -114,6 +130,22 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
         width: 1200
         height: 800
+        isCached: true
+  - title: "New legislation would ban facial recognition on federal level, withhold funds from cities like Detroit that use it"
+    excerpt: "Democratic lawmakers on Tuesday reintroduced legislation that would ban facial recognition technology on the federal level and withhold money from state and local police"
+    publishedDateTime: 2021-06-15T19:05:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it"
+    ampWebUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
+    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 37
+    images:
+      - url: "https://media2.fdncms.com/metrotimes/imager/u/original/27387219/facial_recognition_photo_neavling.jpg"
+        width: 4032
+        height: 3024
         isCached: true
   - title: "Bill Regulating Government Use of Facial Recognition Moves Out of Maine House Committee with Unanimous Support"
     excerpt: "Maine is on its way to becoming the first state in the nation to regulate the use of facial recognition technology by public officials. The bill, LD 1585, received unanimous and bipartisan support from the nine members present at the Criminal Justice and Public Safety Committee’s work session yesterday."

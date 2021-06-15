@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-15T17:41:00Z
 originalUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-as-a-service-market-in-depth-analysis-including-key-players-ibm-google-amazon-web-services/"
 webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-as-a-service-market-in-depth-analysis-including-key-players-ibm-google-amazon-web-services/"
 type: article
-quality: 31
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
+  - AI in Healthcare
 
 images:
   - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-as-a-Service-719x470.jpg"
@@ -25,21 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Solutions Market Is Booming Worldwide | Google, Baidu, IBM"
-    excerpt: "A new research study from JCMR with title Global Artificial Intelligence Solutions Market Research Report 2029 provides an in-depth assessment of the Artificial Intelligence Solutions including key market trends,"
-    publishedDateTime: 2021-06-14T04:46:00Z
-    webUrl: "https://ksusentinel.com/2021/06/14/artificial-intelligence-solutions-market-is-booming-worldwide-google-baidu-ibm/"
+  - title: "Call Center AI Market May See a Big Move | Major Giants| IBM ,Google ,Microsoft Oracle ,SAP,AWS ,Nuance Communications"
+    excerpt: "The increasing service sector and e commerce technological developments in cloud computing and a growing emphasis on customer centric services are the key factors expected to grow the call center AI market utmost for the forecasted period According to Canam"
+    publishedDateTime: 2021-06-15T19:58:00Z
+    webUrl: "https://www.openpr.com/news/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    ampWebUrl: "https://www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+  - title: "Artificial Intelligence for Marketing Market May Set New Growth Story | IBM Corporation, Google"
+    excerpt: "The artificial intelligence technology is helping the transformation of the marketing departments this allows marketing professionals to quick access to the insights According to IBM near about nearly 40 of CMOs are planning to reinvent customer experiences with AI The"
+    publishedDateTime: 2021-06-15T19:58:00Z
+    webUrl: "https://www.openpr.com/news/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+  - title: "Healthcare Business Intelligence set to grow according to forecast 2026 | Key Players – Microsoft ,IBM ,SAP SE ,Oracle ,Cloudera ,Enigma"
+    excerpt: "Healthcare organizations are implementing healthcare business intelligence solutions to improve efficiency and patient care. Business intelligence software industry allowing unique recommendation, personalization,"
+    publishedDateTime: 2021-06-14T21:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-business-intelligence-set-to-grow-according-to-forecast-2026-key-players-microsoft-ibm-sap-se-oracle-cloudera-enigma"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021-2027 Business Growth Updates | Top Players – Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-14T16:40:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/artificial-intelligence-ai-in-drug-discovery-market-2021-2027-business-growth-updates-top-players-microsoft-nvidia-corporation-ibm-atomwise/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 46
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Global-Artificial-Intelligence-Solutions-Market.jpg"
-        width: 600
-        height: 400
-        isCached: true
+    quality: 12
+  - title: "Artificial Intelligence Chipsets Market : Strong Quarterly and Yearly Performance | Google, Samsung Electronics, Microsoft, Micron Technology"
+    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD XX Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. Latest added Artificial Intelligence Chipsets Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-06-11T17:03:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/artificial-intelligence-chipsets-market-strong-quarterly-and-yearly-performance-google-samsung-electronics-microsoft-micron-technology/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
-secured: "Wf+ZeyWli73JDf9b1c++J/s04Tsm38N5Ebpnncd/G39cJ00F/CfadDX7Ih+bL53aDLGQ0lwaELb73lQgP4g3HYaYQ6Yaf/ZxPZNNV+v/OaVDZYeJCwa4VpqFAL9JF/3YbPHvEFMFqPS0P/zUs9w+oUHx0vhvqsfs/m9c9YKFaHyIpaYfnyUNpoRT9e0XDZpHqZBu2wEmPrDw3UpLw83Bfm/9Im/Kv5rlsxl/YWaqW8LhfLdc2oU3k1AnDEfwNYC6rIK28mzvbU7ZdgdvriuE6uOdIbd+BHyqFhAugSWIrPaTCrBWWo3dR0azMu6POoQ/ErNy6USjH1TMk/wH95YgRXt/baWb3X4FnEsibLU3Q7A=;N1nc55KHPLPkgKMR4oUeZQ=="
+secured: "IoznkpbSKBxM3qiRlCNxz0Vc9VJKNIjMRPDKP3QynadSSIkME+747+bca0czBI81X/FDL97Ziq2ZV4Lj/LLEuZIi8kDJN4qaOj12sjEiHuRdHDF8msIkML4k15t4uENUNQTYU/mA0Gs0knq35KwqMRHsav2OVjPZBIXHvr0/zP4wRshJ0boUmzd6nOMCIqdHtd/of6O60ggxsE3bTSAJSHFL5QK3WDAidZ8+0KDExbN8fAQVLjBxiYfsfVIIIS8OCZV18xIQwld8MgyIVUiulBRYsF7Kg2YavAdzUM6iHHLNDPPwVipRe8LsmJHtCVEyyyPO5Z7658cm6tun1pCKv8x5Pg3H37eec3VFplzEXe7S+quLs7I6DU47h8VL4i0RMRn/anjyIjvjTBBWc2/If0dqSaIzJ8bvLixvzLZ3biEdHRiWhfzLZ6erUiGA2T6+/MKB7yB0wUFksVofhe6k3SdNaljQVYbcc2Z/DUh8WqiyXegaAcyJMIxxHBrQFpA3vI1d6LdWxiCcrNKPY34h3w==;zxpeNUlvoqEd89Sg99Auag=="
 ---
 
