@@ -41,22 +41,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
-    excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
-    publishedDateTime: 2021-06-10T15:13:00Z
-    webUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/"
-    ampWebUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 54
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/amazon-police-facial-recognition-ban.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
     excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application"
     publishedDateTime: 2021-06-11T13:34:00Z

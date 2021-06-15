@@ -26,29 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence (AI) Market Outlook, Competitive Strategies And Forecast up to 2025"
-    excerpt: "Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10."
-    publishedDateTime: 2021-06-11T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11"
+  - title: "Voice Recognition for Automotive Market [ PDF ] To Witness Significant Growth By 2021-2027"
+    excerpt: "This research service provides a strategic analysis of the Voice Recognition for Automotive Market 2021-2027. The market study covers the Voice Recognition for Automotive market size across segments."
+    publishedDateTime: 2021-06-11T16:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-automotive-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Market by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2025"
-    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
-    publishedDateTime: 2021-06-11T19:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
+  - title: "Voice Recognition for Smartphones MarketVoice Recognition for Smartphones Market Will Witness Substantial Growth in the Upcoming years"
+    excerpt: "The report titled Global Voice Recognition for Smartphones Market showcases an in-depth analysis of the overall Voice Recognition for Smartphones market in terms of market size, segmentation for Voice Recognition for Smartphones providers,"
+    publishedDateTime: 2021-06-11T16:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-marketvoice-recognition-for-smartphones-market-will-witness-substantial-growth-in-the-upcoming-years-2021-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

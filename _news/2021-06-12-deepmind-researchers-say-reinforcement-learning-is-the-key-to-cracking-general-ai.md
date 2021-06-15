@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-reinforcement-learning-enough
 webUrl: "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s DeepMind Says It Has All the Tech It Needs for General AI"
-    excerpt: "In order to develop artificial general intelligence (AGI), the sort of all-encompassing AI that we see in science fiction, we might need to merely sit back and let a simple algorithm develop on its own."
-    publishedDateTime: 2021-06-10T15:48:00Z
-    webUrl: "https://futurism.com/the-byte/google-deepmind-tech-general-ai"
-    ampWebUrl: "https://futurism.com/google-deepmind-tech-general-ai/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-tech-general-ai/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
-    images:
-      - url: "https://wp-assets.futurism.com/2021/06/AI-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "How Deepmind Is Using AI To 'Solve' Soccer"
     excerpt: "After Go, Chess, and protein folding, the world's most famous AI company is taking on the challenge of a uniquely human sport."
     publishedDateTime: 2021-06-11T22:00:00Z

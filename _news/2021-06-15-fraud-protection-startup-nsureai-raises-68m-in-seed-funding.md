@@ -46,6 +46,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "nSure.ai Raises $6.8M to Intro Advanced Fraud Prevention"
+    excerpt: "Sure.ai, a predictive AI fraud protection company on Monday announced a successful seed fundraising round of $6.8 million."
+    publishedDateTime: 2021-06-15T09:18:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/19990-nsure-ai-raises-6-8m-to-intro-advanced-fraud-prevention"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/26a3183946d0e173ab35620150f2a05e.jpg?t=20210615_022720"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Israeli predictive AI fraud protection startup nSure.ai raises $6.8M"
     excerpt: "Israeli predictive artificial intelligence fraud protection startup nSure.ai Ltd. has raised $6.8 million in new funding to develop its AI and machine learning algorithms further. The seed round included DisruptiveAI,"
     publishedDateTime: 2021-06-15T01:56:00Z
@@ -73,6 +87,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/Fraud-protection-startup-nSure-AI-raises-6.8M-in-seed-funding.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "London’s debt collection startup Ophelos raises $2.3 million in pre-seed investment"
+    excerpt: "London-based debt collection startup Ophelos has raised $2.3 million in pre-seed investment co-led by Connect Ventures and Fly Ventures. The company reports that the pre-seed investment will be used to continue building out its debt management platform,"
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://tech.eu/brief/londons-debt-collection-startup-ophelos-raises-2-3-million-in-pre-seed-investment/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 31
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/06/debt-1.jpg"
+        width: 1600
+        height: 700
         isCached: true
 
 secured: "h409pEe9rCdptRPQ6tBQNrmT3Tf3jjCIKbou8AtSxmu0TdsArArqV5KbDTPfQA9OqqT0DH7Dbd8rwPMqq1wY/4ar9lo/kDDtn6Z4ctB6ntFrsozsrEQnMNWrSOAp7cJCF0rw/AwgvTNRjmrcDxQrKGW59aywsr7nrN70TqYHA5ZkMl9+7g348Pv0IdrSmkpdLX/27l12gQJWQPnxYqITdOtAuJGpmZujJezsfkrYKSLjKa8korIMLj3bHyvRpCthbEgviaDRkebEqVDMXBUw9ofkNdSELnjW+r0Xgm/qtTycKsAd+n1si2huRnrA8J+teH6ym8K42cM/FI4NiAMFtpUt53nQob5Q5EtaMxkaIo/9jNVNBZyQbtCQ0S/POy8XJJu3GGnMBDoLMVu+tK+8a1Ms+HqXDaXHPYK71xDSeh2BznBF8w7kGN9KZ9DZGI011Q2koaS0GmT1829TT0Tii24NYPVeYn04fThW+6mG7Rd61XtiNqOD1sOvbVYf7axpPqJZLrj2s3wBdNdg0mRKJw==;6vyAKOqA0lki0dejLbHO/A=="

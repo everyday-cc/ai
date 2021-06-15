@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-06-ai-driven-soldier-technology-societ
 ampWebUrl: "https://techxplore.com/news/2021-06-ai-driven-soldier-technology-society.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-driven-soldier-technology-society.amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-driven-soldier-tech.jpg"
@@ -41,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "cVKS/Skm8jpkzdMM8YgXDzWVoUbjVOf93sFTKyEwCb2bJGORipeF3lZqApH5smkkXlM15DBS5Ip0lZ0ga3JRfqNs9ka2zUNdehIghIstzfietBVwCE6B41jfjYNix598TvIP2r68iH2Ue72qewY3D45/mJff1osKZdwW8GcYrGxT8fueM/x4oFszIRRVpAGOPjLJyAH+UwGzJ9UzPvghDZ/3PiHNtP0IG/fFz6UQykow6vuaiJfxGX3tBVQyMUmGtTlhOHuW1MGa7YIjJZyF47xDh21vudyKPYV5BffCUN7wlJDQc9Gd79tWyJ0j9ZfxyQ6sXxcsTGICcXediw9fvagNg9VXI4E3SXUSSXLqCJs=;1RodNByZS2WnesrkWp+iuA=="
+secured: "YzvgqpuT8FY8kiFrv+b5I+KjsCyqfE6/GfPHTMGz0I/nI8po5PNGbfe+LJQ4Z7aONHt74fNMdcDwVzFc9AoOoHgqPzBvtjmf5Xo7nf0PXUSvPjQksRz4ZlT8dEpICmvqb/9QsX27jgOmt5evd/mgOwx/LdJ+vX2AWg5gwKEHJsDAZJXVsWqAbvlMWYUJLt+doIT1E8x2YwhpI2mb7Qbpd4DN5TLtLxy5wr7qIDGJpBBeFdAABIvLSp/cxzp+ovAiIb4NqqH7VfGydC4/jnlF+BI+eezZ2bKVr1RCDj8Gw7USXJF3EoZBWFpEJQ2W5ARbI4Xv59gTNPF12JzQjzNVE+B9lI/5dC7siIZRP0rEPQDp0Jsw8WCkG/KJ77gZwtkAUqteLbWJMUA7itBgxlyCfmZx8AqWh+Ccg9B4fQzCdyHoDql+q93wGf0Cbh7hRy/j4WBBl7k/RzSVC/I49yeEyP07B5EJ2f4xxmU/zI0llpqHuHLdzk/+D6HJAsaVZZALlV3kLsflTgkSNeyOOLrdgg==;/3eqTlg/+tEd4HhCTB//gQ=="
 ---
 

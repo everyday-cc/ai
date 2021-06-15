@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-mak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 550
         height: 550
         isCached: true
+  - title: "Thriving in an AI world"
+    excerpt: "WHEN Covid-19 upended the world, businesses doubled down on digital transformation and raced ahead using artificial intelligence (AI) to meet new challenges. Now, according to our research, many organizations appear to be experiencing Covid-induced AI whiplash."
+    publishedDateTime: 2021-06-13T16:49:00Z
+    webUrl: "https://businessmirror.com.ph/2021/06/14/thriving-in-an-ai-world/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 17
 
 secured: "qI6lY3wAOIRhcnupzchsJaVTZdFgkPR3lwLJxlM+lFIFH4T9OWp1f3fhW6dw9sSoY+N57KJuIyVp6YhLdGZa6luJ8qDGin8L1EQ3dBFjQm1G6CwoS5xG4U0Vvtlmb1/ecpikwQezk1zQLxvdGcF+XjHfSYnrhRUqW93P0GcX2GH6RN+w2FBYyEow+jsNtblA7IEkPapcRn11/K2POgo6aihNDhHaorqXkn1C4+dV+3l9c5C+XAxCOkVKsOXpx3FaWqX5zLBHzl6rcjBH1Fsq+dvsV2g/vTO6hx5uFvxEmngipOA2xwG2GlAdvfSeXeZwmjdAeGo8M5/wOeC2grKc+dnooD1KI2uRdyn7F4GCKWc=;2zJqybptYdKmMPrp3QKhRw=="
 ---

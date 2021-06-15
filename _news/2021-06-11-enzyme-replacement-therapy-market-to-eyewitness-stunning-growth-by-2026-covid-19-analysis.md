@@ -111,6 +111,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "United Fintech has six experts to its Advisory Board"
+    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
+    publishedDateTime: 2021-06-15T09:44:00Z
+    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-to-its-advisory-board/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 4
 
 secured: "p0Htc4m1DH6IG1vuKwJ+4AxEg/e9/byW1DQcF8DDydSRUBKT0PFYHebhAMY74h+Hck5H6+G187eLZFkAOhIcMfYAO2oJkfJjgbYVmLTWh5f5+kMd+ISPax89JjM5uCQnSs10WO+3fe5z/IDB1NfiasjUKVxGqsn5RT0oWi5IUGqUqm0q4mOf/qOGHPtapQvZzlXpuCyTxZGZhvHi1WT0WzJ2lBk7ftE012vx01midP23Fq0dx7c6dyWrX5MbOAJDDAMePXaReQ2Po3rNtyTrUsALn8zYIM0PgCtbSun0logiFB/au+/WPJGFzYTwNv1Bj0vr7eU+T2NyhqRyeF01smvbSmvyNU0VKxlen2EftYs=;HyGyH0No3ZvjdfxT9Km1CA=="
 ---

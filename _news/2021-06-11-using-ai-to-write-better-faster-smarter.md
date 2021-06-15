@@ -9,8 +9,8 @@ ampWebUrl: "https://thehustle.co/06112021-ai-writing/amp/"
 cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/06112021-ai-writing/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Hustle
@@ -40,15 +40,6 @@ related:
         width: 1344
         height: 742
         isCached: true
-  - title: "Startup’s AI Intersects With U.S. Traffic Lights for Better Flow, Safety"
-    excerpt: "Thousands of U.S. traffic lights may soon be getting the green light on AI for safer streets. That's because startup CVEDIA has designed better and faster vehicle and pedestrian detections to improve traffic flow and pedestrian safety for Cubic Transportation Systems."
-    publishedDateTime: 2021-06-10T16:31:00Z
-    webUrl: "https://www.publicnow.com/view/B67B1E9FB56EF90AA5EFAA34ACBDA12297BC041D"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 16
 
 secured: "LGQ84TRHuosh97FwVm3ZeOnkk94VixMw2r0DLlysMZN/69RrHQOaXGAvBMMVBQsxdH2+sqaFZmtcHvvMh2ZiMWB9eWWGohS80KApfhXaCtBeY15hRmKi2GY0/CSs7ozGPkotfwmgjN8UC5GTFyVXzGSwQpwRXH+n1KAew0Qfeib2G7G55wpStFe+bVOWlbxhMH4eRLvPW1ot8iPf6nodJMowwq+n1SbZP/qZ5pT+hq2UiW3guZfvutup2QDD7z6C2n0tTXGbh2Lq/i4TmlOKKSF2kffv5Jvs27iyYu6MeHL8xHWi3EwJdg60dWh/YddaibISFkedCtWWTMGR/sStFpE1+knIKO57fZCQPa7cvB0wH1hMqLSlmrggWV2nNtvL7G5gCcOyWcT4HjW4v6j4MkBXch6rQeJEzBIAWmvpcaq/BUEWauWA/Tprgx9utMdm6iaFyJM/HF5tsN5zoC6/ngFdikDVLXcCwrDqugnp0faJRobXfKkgVo+mKlHihK/R+Zf5m9hSzQI4ywD4r1IkVA==;EZfvMum6qQcn5Ix3LplJ8w=="
 ---

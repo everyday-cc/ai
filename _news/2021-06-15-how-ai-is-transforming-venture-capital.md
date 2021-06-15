@@ -70,6 +70,20 @@ related:
         width: 1366
         height: 913
         isCached: true
+  - title: "Watch This Guy Make a Self-Driving Bike that Can Stand on Its Own"
+    excerpt: "The buzz around self-driving cars has exploded in recent years, with many big names, including Waymo, GM, and Elon Musk's Tesla, getting behind the concept. While everyone's attention is focused on four-wheel vehicles,"
+    publishedDateTime: 2021-06-15T03:34:00Z
+    webUrl: "https://www.autoevolution.com/news/watch-this-guy-make-a-self-driving-bike-that-can-stand-on-its-own-163251.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/watch-this-guy-make-a-self-driving-bike-can-stand-on-its-own-too-163251-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "qt6v4kjfHvRvSuXE9qbjwOmOM4kQdCGXUlMfPH1U4tpD5eExFznZTJWLLyLde5YkL220kDokUYpRcFNEVxJDntUJB+goyMmgl9r6rDKOu+Jyk5jFdDTm6xq8lIhgo9rHinKLr7lrto0Ga2TvBZiX8ubxKIZQxj0TxhIl8Of+r6WhQ6UKTQhbwpWlgffHsCRXBJrzHlqE3CIQCVbB4kOzgKj1SFker8WrkgmcNMMv3MIzmHB4XYmf0AgCj4ixEQJ5KpBvclJy5eczrSFewEqsjK8U+No8S1+GHurlnGB1E4iAcrNe2wBKg7uOFL6WWERTo0fDloTpp9g57YwvH1GfxzlYXMQSa4v5L5ATSdEtQnr9iOHtdrlJ1XJgtlamRMm9lp1jOzvr1TNQPWCd1whGG/sbT7busqVQ8lFIbOCc22usMS3iX29wDfZCWleP2V1n5Y3gxO8WVXBowaZemYep3CogzOKriWShfn2DdltP0uCpAf7IvhDoy9VMx/oRQJAeZgdt0D7y5NYc7fbrLinvZA==;iMOzQzy8zc58rZhiR9wcCA=="
 ---

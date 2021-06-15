@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/automotive-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Market by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2025"
-    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
-    publishedDateTime: 2021-06-11T19:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
+  - title: "Artificial Intelligence in Supply Chain Market Forecast 2026"
+    excerpt: "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a"
+    publishedDateTime: 2021-06-15T09:38:00Z
+    webUrl: "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning as a Service Market 2021 Research Objectives, Major Competitor and Strategies Regional Outlook by 2026"
-    excerpt: "MRInsightsbiz has published a new report titled Global Machine Learning as a Service Market Growth Status and Outlook 2021-2026"
-    publishedDateTime: 2021-06-12T04:52:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269855745/global-machine-learning-as-a-service-market-2021-research-objectives-major-competitor-and-strategies-regional-outlook-by-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 13
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623507578758.jpg"
-        width: 630
-        height: 420
+      - url: "https://cdn.openpr.com/U/6/U615488872_g.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "z3kDgFOL7H+Ka95QJTgro4DyloCK42TmsnWCBjN3TCra3ilEqiW/SFKB3whwA+GNOLiE3HQBCJFe9KerwQY/cC731jhUEr6jq0uoQUG22ri2lrkHgZNNA1Yrs4FA8ezJ1JR8ir0BSTRUvPX8Qqew9eoP29Z0WzfABZfK+E4YF9ITvVaLOhdsh75X+TmF4cLPko2/Ki9X9IW2tqlcEGAMfUE5QJtPINSOTkc4eHFlicngJXn7zzP0T6LCm1aOcDt0JQ7becb0CJGbK0ErdPhTb9uzj4J9KSHz5qw4eit47vSmS0CdJkkknH0IlvgR1R+joCX/KUlARuV4NJE2K7ShkCUZux0RiDOfemgt/qKh8Wg=;cXkx3QobJiUAK4RiN63ndA=="

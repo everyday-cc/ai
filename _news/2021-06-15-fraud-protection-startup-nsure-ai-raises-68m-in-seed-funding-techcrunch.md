@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "nSure.ai Raises $6.8M to Intro Advanced Fraud Prevention"
+    excerpt: "Sure.ai, a predictive AI fraud protection company on Monday announced a successful seed fundraising round of $6.8 million."
+    publishedDateTime: 2021-06-15T09:18:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/19990-nsure-ai-raises-6-8m-to-intro-advanced-fraud-prevention"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/26a3183946d0e173ab35620150f2a05e.jpg?t=20210615_022720"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Israeli predictive AI fraud protection startup nSure.ai raises $6.8M"
     excerpt: "Israeli predictive artificial intelligence fraud protection startup nSure.ai Ltd. has raised $6.8 million in new funding to develop its AI and machine learning algorithms further. The seed round included DisruptiveAI,"
     publishedDateTime: 2021-06-15T01:56:00Z
@@ -69,6 +83,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/nsure.png"
         width: 820
         height: 312
+        isCached: true
+  - title: "London’s debt collection startup Ophelos raises $2.3 million in pre-seed investment"
+    excerpt: "London-based debt collection startup Ophelos has raised $2.3 million in pre-seed investment co-led by Connect Ventures and Fly Ventures. The company reports that the pre-seed investment will be used to continue building out its debt management platform,"
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://tech.eu/brief/londons-debt-collection-startup-ophelos-raises-2-3-million-in-pre-seed-investment/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 31
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/06/debt-1.jpg"
+        width: 1600
+        height: 700
         isCached: true
 
 secured: "+M+fzNWrW3sp7YnUtn9MorZsruJfHW8mvD05LuvBLci+CwRYeeFqyEv5XH5sb0B2PoN61rUOFUg4egoiQuRoSDQFLBCWaVULdsFdBWvTN0jXRwihYbcFnufq1Jkr5tHBEH87o0gAqTLh0K1EHHeyjdVy2Vo4cOBf971SnSc9ASI2KUS54OvxZBnUe+51zmUd624uRSOtoqnBT0RyLx8jtEM7oBKQfvAIeMXmSSw41nVQi/hvj+L1wfreYvFky5TmwUwewmSLm6rADwy2Zb+hK398TAPKIawoHHIC8lQPGQWTXE7J6CeS0Fnbkn7+rvKN3qfuxagclTjbRzh/CExr5sgqCYt1lfR9mDduCOkmZjDYeB3J9zXvek3bUx/gho0gReT6BeaJVxI4DG0Y7a2AvlnsGgv9ln46um6mGrdp3wJFrO5F+E44Ox2n3KyBzMzT3kGnA0YR8m1DaBw1x33LSiVwkTfgNTvt82GWIFO8vDgT5vu6zw2h4tVjBaQyOm1FEXPXeHs4rHSAYv2hiQaQcw==;bzecdDklbU4GojyYg364Gg=="

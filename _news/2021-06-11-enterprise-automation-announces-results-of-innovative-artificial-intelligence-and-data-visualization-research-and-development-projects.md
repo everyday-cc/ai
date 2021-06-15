@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "To Secure Data Centers, AI and Automation Are Key"
-    excerpt: "To avoid being next to fall victim to malicious server code, universities and colleges need to secure their data more effectively than ever before. For many universities, this can be achieved through data center automation."
-    publishedDateTime: 2021-06-10T16:09:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key"
-    ampWebUrl: "https://edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2021/06/secure-data-centers-ai-and-automation-are-key?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 59
-    images:
-      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202106/GettyImages-1271247696.jpg?itok=pRl58pZz"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Nurturing a Relationship between AI and the Security Team"
     excerpt: "No matter the industry, adding AI technologies to work processes has made a lot of employees nervous. There is fear that automation is taking over and that robots will eventually push out the human workforce."
     publishedDateTime: 2021-06-14T08:50:00Z

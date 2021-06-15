@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/canadian-regulators-seek-policy-amend
 webUrl: "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032"
 type: article
 quality: 69
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
         width: 810
         height: 566
         isCached: true
-  - title: "Canada privacy regulator says federal police broke laws using facial recognition software"
-    excerpt: "(Reuters) – The Canadian federal police force broke the law when they used facial recognition software, the country’s top privacy regulator found in a report released on Thursday. The Royal Canadian Mounted Police (RCMP) said in February 2020 that for ..."
-    publishedDateTime: 2021-06-10T15:57:00Z
-    webUrl: "https://www.metro.us/canada-privacy-regulator-says/"
-    ampWebUrl: "https://www.metro.us/canada-privacy-regulator-says/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/canada-privacy-regulator-says/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 50
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH590UX-BASEIMAGE.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "Canada Privacy Watchdog Slams Police Use of Facial Recognition Tool"
     excerpt: "Federal police broke Canada's privacy laws by using a US company's controversial facial recognition software in hundreds of searches, an independent parliamentary watchdog ruled Thursday. In a report to lawmakers,"
     publishedDateTime: 2021-06-11T13:43:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "Privacy Commissioner says RCMP broke the law with facial recognition software"
-    excerpt: "Canada’s privacy watchdog says the RCMP’s use of facial recognition technology (FRT) violated Canada’s federal private […]"
-    publishedDateTime: 2021-06-10T15:39:00Z
-    webUrl: "https://barrie360.com/privacy-commissioner-says-rcmp-broke-the-law-with-facial-recognition-software/"
-    type: article
-    provider:
-      name: barrie360
-      domain: barrie360.com
-    quality: 36
-    images:
-      - url: "https://barrie360.com/wp-content/uploads/2021/06/pexels-cottonbro-5474033-1000x500.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "XdwNmX7iJ6pAuBmK3Bt1f5Zs2E5Zx19UAuOtp+JWSor8WRcUphMOrXiGohP4CkysEt2/ktsr10GhI7IH7tseai4z542t7j46lvS0WrGpmBCObAiV7ChwjNLJcSkt5YoaZLBUxI8AtjCzEzCdPE18OBbNoUtABYQfr8XDqRj7ROkmw98vpVxDP9D07iVKNPriM8xan5FB/KbQihM/spcKBmbjaRMY7d7SX56+48p/7EzBh+XB/NG9F54ocAkoJTwPgTJkXAg9MTHJAci+QrpNd4XmtEBesYr1nA0GinZ1baidN3DNSlkFEElUzcS0Ssaam80KabUBy+igZvUGbRPAWv1WvipNf66iJVvO1f8Un0evbaafn77MJXCrKqujgxFH9m4kf6Xa5DWClh63lkNoe4UOCkeufd83PSrKu99balAO9OuMPvZ+SIi9f3ICySfJ71ubCu+wWasgUI6KoACSVeHYsdj9lsYwsyKBUHTT34NR8PfhPFepdkJ7R01XRczAnCPXHCHQ5Q4eqF6XJ44YkQ==;gkyfSKh3uESSdZdvDjQ64A=="

@@ -148,20 +148,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Alibaba to develop self-driving truck"
-    excerpt: "The truck will become Alibaba’s second self-developed unmanned vehicle, following a small, full-electric van. Since it was launched in 2020, the van, jointly developed by Alibaba’s research institute and logistics unit,"
-    publishedDateTime: 2021-06-10T16:58:00Z
-    webUrl: "https://www.autonews.com/china/alibaba-develop-self-driving-truck"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Alibaba%27s%20delivery%20van.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "China's Huawei to develop self-driving technology by 2025"
     excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
     publishedDateTime: 2021-06-13T11:18:00Z

@@ -18,37 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Protecting The Human: Ethics In AI"
-    excerpt: "Advancements in AI and technology are meant to make our lives easier, yet they pose a threat to society when they are not perfect."
-    publishedDateTime: 2021-06-10T15:54:00Z
-    webUrl: "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/"
+  - title: "How To Make Sure That Diversity In AI Works"
+    excerpt: "Transparency around talent pipelines, hiring practices and publishing compensation bands are table stakes D&I initiatives that can go a long way toward establishing diversity in the field of artificial intelligence."
+    publishedDateTime: 2021-06-14T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c232b13b1cc34a5d1d53b8%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1124741602%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "These creepy fake humans herald a new age in AI"
-    excerpt: "These humans are not gaming avatars or animated characters for movies. They are synthetic data designed to feed the growing appetite of deep-learning algorithms. Firms like Datagen offer a compelling alternative to the expensive and time-consuming process of gathering real-world data."
-    publishedDateTime: 2021-06-11T09:03:00Z
-    webUrl: "https://www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/"
-    ampWebUrl: "https://www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/11/1026135/ai-synthetic-data/amp/"
+  - title: "Hidden Workers Helping to Make AI Systems Work Well, Fit Into Workplace"
+    excerpt: "An invisible workforce is behind the scenes helping to make AI programs work in their specific contexts; some feel they are undervalued."
+    publishedDateTime: 2021-06-10T22:01:00Z
+    webUrl: "https://www.aitrends.com/workforce/hidden-workers-helping-to-make-ai-systems-work-well-fit-into-workplace/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/06/ContactSheet-001.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-11MechanicalTurk-2.jpeg"
+        width: 550
+        height: 550
         isCached: true
 
 secured: "BDYAGySb/AjXBm5ERdpko/d/jL9AjdEGyLcZcyp5iZuO9KPn2J9aZhaddtmAajNnd2oI+jO0umY4A/CY+sdagSx5H96i+lUBtQ73q4rqFi6PbOEgtGRU0bbBQhTRCQ/JRz65WE0/jPtYb7aJnTrVLDITn3m3mH9H/ezyTQSIAa105qGwbGYeFH7bdf26tkGiARAj9DsDhrOTP3kWVcMmLxSmwI48O+u7+RVK4vEiQLpuHUBJETfSYpEZuJ2Lm5sJFIq5aQKmpLFshoZ9Xc8sf6wb+Ma/rQYNrj5u5LlK4dCRr8ESQOoCxZ0J8m91BG9rtqKyuJ0p95kdFoNKxx4oeYoemCYWfq0BfZV31RZzEmE=;DFITS08S9mhaC4u6TKU8uQ=="

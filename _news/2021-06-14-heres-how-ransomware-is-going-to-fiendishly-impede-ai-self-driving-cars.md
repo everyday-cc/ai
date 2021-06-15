@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomw
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.brinknews.com/wp-content/uploads/2021/06/pexels-photo-3861969.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Watch This Guy Make a Self-Driving Bike that Can Stand on Its Own"
+    excerpt: "The buzz around self-driving cars has exploded in recent years, with many big names, including Waymo, GM, and Elon Musk's Tesla, getting behind the concept. While everyone's attention is focused on four-wheel vehicles,"
+    publishedDateTime: 2021-06-15T03:34:00Z
+    webUrl: "https://www.autoevolution.com/news/watch-this-guy-make-a-self-driving-bike-that-can-stand-on-its-own-163251.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/watch-this-guy-make-a-self-driving-bike-can-stand-on-its-own-too-163251-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "hcmaH1uQE5de6TOoOtN9fC8BBv4hVqx6yXG6dOq011UcEWGTi4S+ygYuIMjG2uoJ6Yov46khdiurRcfau2RUmrjV7HlhQ/WCDY/cN1fiivxITKq/YNaZ0z2V1e9iLjwLAMhtre++hmIFZ0umUfGfTWAvuj1UMANnVMmxIWDqZDjKtiW9UBbllM8ca3ZAupDBbdaXOIppvVx8IhpNvsmz+mKAdYakboh3nfClyiCtrYQG0EmSaLkU5H2S/XkzO3ls65/jnlcRhl6ZYvg71KX9itzp1D+nIyuyD5C2xyRdQdqkyi/roDG4PjSEHcUI4SuuvEXiZYgkYHSaYn2osd7GRxz1loDdROAeped+kSPYyDQSElGRmXyIvMhokWKPfZCqYiv0xQIehyimiKs9ekV8++TawVE5dkUprouHOgIvvPKLHjWiYLRo00l558D3ZcLL6ulzctbIXPRVS14V+I5TCRsqunM5H/e5ZZX5wunA5DiHncJShY4Gfus2oRHvQqZfeSldqldhuuYiRGDb8tvscQ==;3Wd9wAVSKSJLAHO3jc7IEg=="

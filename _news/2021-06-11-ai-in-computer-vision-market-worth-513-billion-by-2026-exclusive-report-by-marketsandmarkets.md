@@ -35,22 +35,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Why Amazon’s indefinite ban on facial recognition isn’t a real win for privacy rights"
-    excerpt: "In the absence of a comprehensive federal policy on the use of facial recognition, Amazon recently indefinitely extended its year-long sales moratorium on its Rekognition software to law enforcement agencies."
-    publishedDateTime: 2021-06-10T15:13:00Z
-    webUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/"
-    ampWebUrl: "https://www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-facial-recognition-ban-indefinite/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 54
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/amazon-police-facial-recognition-ban.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
     excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
     publishedDateTime: 2021-06-11T22:58:00Z
@@ -66,6 +50,6 @@ related:
         height: 630
         isCached: true
 
-secured: "f5qx/WN9SUcnWEcUdUKZiWUBp/SUL6CaRxdiunwi9TdbFK+Vi/L2SQCWYcl603PDVfNz2uUrEEb8Y6WipDAKJHFaAP28Rb8eIhd/AYSMBvJLJjvqYych2gRjMG671c87fDsRdgqi1/l0MAuYDfSUWIkLXptjUqa9w6N0aaLF41EokoKZ2zegsF4arhoXkqWxtpPzSKVtAB4jMb2IjYTYQSNGpiLRz0WiW3Tg8qd0i/YL/5z5yD1zz71tIWVlZPkclXw+G9SFGbp21eX7hfscyMe/UaD2YwUIZ2INGRdfy6ZgV8FCqFMXzD0IV7Sy9CQCNOZU+QHVMml26U/3SaAQyAK9vL/brGs3TdN9SR1B3Kw=;NpikfkwC3sqLbHAy0cWltA=="
+secured: "7RtX/W8kg6pQ3fNFvA+yF9+RdyybeZvknntJzK6zQod5EM8lsmgrkLhqvNfu7tX2ZURLAS72P3ynyVQq3GU49MR02/GI28Th1dxfuAKT7EqsvMy4kZmNRlvCmi5de3ZH2WVBdYjUS8dzA1pq+OB1U0iLnQpbFZS8v6HDJu9e4K5k+sTIBMbO7CO8V5J2GI8MpOF2FJYuLFKOeGdi0iu2pqmzyjO2YqerLBhOT3omJ9j14hd1QTIJikH1SluReBovC+SjOEQjxa8yCy1zC7xGSdt6UYnKFh3gr+9wAkVTrBoDi7JPMMmhn4KuwkvFw1FhrcZuz5K/jPlTo4l2xX30ZajyasZKDIFBHVjBVjcjtjE=;xnBEUee0tp18JR7qNdN0NQ=="
 ---
 

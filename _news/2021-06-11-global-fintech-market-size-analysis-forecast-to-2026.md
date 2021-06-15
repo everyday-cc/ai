@@ -112,6 +112,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 10
+  - title: "United Fintech has six experts to its Advisory Board"
+    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
+    publishedDateTime: 2021-06-15T09:44:00Z
+    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-to-its-advisory-board/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 4
 
 secured: "bOB7Jbio8deGqOay/LZpVrXCVOafEF/748moMGOgUa/NVq+AzBv5toIIZJJfc14qBeG5WQa5MQ6U7XWtMzr3do1ES01lFArRxs5kZe9J+X/GOaCR+f5fPnuUih3mKKMQPw2fprv7nJvxOylV68YBk2BiO4yblyFN+7/nfPAoc5xBfkJACTn9IVB+QBAQien+tLXNQeFKyvoEc4aRwDVn5I1iB/IOVdN0k5J7r7URwl2OCBp9RSl3gzbMam2yiNuaKSHxh+IqYN+Y+KxmV95DQasu7ldYBbGYR44GNrvLMHueoe9q57Bxmz/wPwl4+pn0WjuMBd3NiQfrWgoHVsnv//RKRniuxRWL+4hzQELEX2YYQpDfbisuiOMVk9o3G2mYJRQZXLBCTo7iNbC5Av5ctGHuvMysdFoqgjXxe9SsSe5oTWVX8zm4zWSVs/iDHU0VbUDzx+dm9gnPi/Q63ETjycTm0oALpxXzOVlPp94xIBBEcONf2MFGmHVfWhhmiiNnGAouTYnUMQwV84ZPBl9n8Q==;3MTysjk5sSSfaa0NH+3rEA=="
 ---

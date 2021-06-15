@@ -41,15 +41,6 @@ related:
         width: 600
         height: 330
         isCached: true
-  - title: "Startup’s AI Intersects With U.S. Traffic Lights for Better Flow, Safety"
-    excerpt: "Thousands of U.S. traffic lights may soon be getting the green light on AI for safer streets. That's because startup CVEDIA has designed better and faster vehicle and pedestrian detections to improve traffic flow and pedestrian safety for Cubic Transportation Systems."
-    publishedDateTime: 2021-06-10T16:31:00Z
-    webUrl: "https://www.publicnow.com/view/B67B1E9FB56EF90AA5EFAA34ACBDA12297BC041D"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 16
 
 secured: "Y5B9RnxkXrIg1POsw9AtGTOzGqm/XY9pzrmzwbiCdWcB4jNZtuXp7A7oAJ4cK2GlDhx6dpapYEXMJJQDBPSAqhc8KCbWaL3oayAhiStdUZ+TJrUNTOaZELA9YhNbxxnRUGhrAg/Rxn7owBw+Tj1CblKq/nWvvnPmBTVCFySiMf6807xb/MWXTHerdAIuI9nmRKowYZucrIgll76zGDqPW86Cck8uK9fKoAIA8ym8xGa/x7ZdYGRg0L1zbBoc7T+KDxrYnBAdqWSCUOdIzHCZjCNgNNcZN1JSt4hueFyI2k4fgwnjIaK8scFju/zWxbi95MT1N15yt5kZ5/aqUaKNWsQijJixEh7Av8TeUDhmHsXwihcXLXBsk8ySvUc94o8fFcSWCgAX5KsQ/fw63IpKWMGYWUXRfGQgtethkFMorH8y+zRmpk1fSbMlycmfcgj2Z8aOx5emV9C9PdzxL1WryHs7SQHC+bpniuI874gkbPKbnz3sgMhHv02XCXUMTcr74psIThXm6L6Ov2LGLaCUaA==;qL6lcnk1CnVs4vG8UHGzoA=="
 ---

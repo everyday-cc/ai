@@ -7,7 +7,7 @@ originalUrl: "https://www.cyberdefensemagazine.com/crypto-mining-campaign/"
 webUrl: "https://www.cyberdefensemagazine.com/crypto-mining-campaign/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft: Big Cryptomining Attacks Hit Kubeflow"
-    excerpt: "Misconfigured dashboards are yet again at the heart of a widespread, ongoing cryptocurrency campaign squeezing Monero and Ethereum from Kubernetes clusters."
-    publishedDateTime: 2021-06-10T16:26:00Z
-    webUrl: "https://threatpost.com/microsoft-cryptomining-kubeflow/166777/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 41
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2021/06/10115933/Cryptojacking--e1623340788494.png"
-        width: 800
-        height: 311
-        isCached: true
   - title: "Crypto-mining hackers hit Kubernetes clusters"
     excerpt: "Security researchers have warned of hackers’ continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,"
     publishedDateTime: 2021-06-11T10:44:00Z

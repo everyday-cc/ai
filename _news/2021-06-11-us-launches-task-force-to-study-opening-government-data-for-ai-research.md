@@ -46,22 +46,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "U.S. Launches Task Force to Open Government Data for AI Research"
-    excerpt: "The task force will draft a strategy for potentially giving researchers access to stores of data about Americans, from demographics to health and driving habits."
-    publishedDateTime: 2021-06-10T16:00:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-launches-task-force-to-open-government-data-for-ai-research-11623344400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-352014/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google team creates next-gen chips using AI"
     excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
     publishedDateTime: 2021-06-12T14:44:00Z

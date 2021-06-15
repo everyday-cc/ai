@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/contact-center-intellige
 webUrl: "https://www.marketwatch.com/press-release/contact-center-intelligence-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Supply Chain Market Evolving Technology and Growth Outlook 2021 to 2027"
-    excerpt: "New Analysis Of Artificial Intelligence in Supply Chain Market overview, spend analysis, imports, segmentation,"
-    publishedDateTime: 2021-06-10T17:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Sector Market to Observe Significant Growth Opportunities till 2027"
-    excerpt: "New Analysis Of Artificial Intelligence In Healthcare Sector Market overview, spend analysis, imports, segmentation, key players and opportunity analysis 2021-2028. It also provides a snapshot of the country's economy and Industry outlook."
-    publishedDateTime: 2021-06-10T16:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-to-observe-significant-growth-opportunities-till-2027-2021-06-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech-to-text API Market 2021 : Top 20 Countries Data with SWOT Analysis, Market Size, Definition, Share, Growth, Technology and Forecasts to 2026"
     excerpt: "According to this latest study, in 2021 the growth of Speech-to-text API Market will have significant change from previous year. Over the next five years the Speech-to-text API Market will register a magnificent spike in CAGR in terms of revenue,"
     publishedDateTime: 2021-06-11T00:57:00Z
