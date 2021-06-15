@@ -61,38 +61,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla Is Hiring Test Drivers To Test Self Driving Around The World"
-    excerpt: "Tesla is expected to launch its Full Self-Driving program in Europe later this summer and it’s reportedly already looking to hire drivers to be in the cars as they drive themselves along. The ..."
-    publishedDateTime: 2021-06-10T17:22:00Z
-    webUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/"
-    ampWebUrl: "https://insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/513281/tesla-hiring-adas-test-drivers/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 74
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/QMR9Z/s1/tesla-fsd-beta-180-left-turn.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Alibaba Drives Into Autonomous Trucks Market With Cainiao By Its Side"
-    excerpt: "Alibaba's logistical unit Cainiao plans to launch 1,000 autonomous delivery robots in China over the next year."
-    publishedDateTime: 2021-06-10T18:29:00Z
-    webUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761"
-    ampWebUrl: "https://www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alibaba-drives-autonomous-trucks-market-cainiao-its-side-3222761?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/14/chinese-regulators-fined-tech-giant-alibaba-2-78.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Alibaba to develop self-driving trucks; aims to disrupt transportation sector"
     excerpt: "Alibaba has said it intends to develop self-driving trucks. The Chinese e-commerce giant will work with its logistics subsidiary Cainiao, which expects to roll out 1,000 delivery robots next year, the firm's Chief Technology Officer Cheng Li said,"
     publishedDateTime: 2021-06-11T07:47:00Z

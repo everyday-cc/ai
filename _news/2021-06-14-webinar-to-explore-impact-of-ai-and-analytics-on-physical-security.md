@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-an
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
+    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
+    publishedDateTime: 2021-06-15T08:27:00Z
+    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
+    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 55
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "The Global Video Analytics Market Assessed to Develop at $11121.01 Million by 2028"
     excerpt: "The Global Video Analytics Market” As per Triton’s research report, the global video analytics market attained $4235.82 million in 2020, and is evaluated to surge at a CAGR of 16.05% by 2028. A recent study by Triton Market Research titled ‘Global Video Analytics Market’ entails the Global Analysis and Forecasts by Deployment (On-premises,"
     publishedDateTime: 2021-06-14T22:02:00Z

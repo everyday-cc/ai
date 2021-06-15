@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/canadian-regulators-seek-policy-amend
 webUrl: "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canada police broke law with facial recognition software, regulator finds"
-    excerpt: "A Royal Canadian Mounted Police (RCMP) crest is seen on a member's uniform, at the RCMP \"D\" Division Headquarters in Winnipeg, Manitoba Canada, July 24, 2019. REUTERS/Shannon VanRaes"
-    publishedDateTime: 2021-06-10T17:06:00Z
-    webUrl: "https://www.reuters.com/news/picture/canada-police-broke-law-with-facial-reco-idUSKCN2DM208"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565225291&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH590UX"
-        width: 810
-        height: 566
-        isCached: true
   - title: "Canada Privacy Watchdog Slams Police Use of Facial Recognition Tool"
     excerpt: "Federal police broke Canada's privacy laws by using a US company's controversial facial recognition software in hundreds of searches, an independent parliamentary watchdog ruled Thursday. In a report to lawmakers,"
     publishedDateTime: 2021-06-11T13:43:00Z

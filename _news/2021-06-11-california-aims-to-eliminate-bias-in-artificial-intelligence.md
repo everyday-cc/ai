@@ -9,8 +9,8 @@ ampWebUrl: "https://www.governing.com/security/california-aims-to-eliminate-bias
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/california-aims-to-eliminate-bias-in-artificial-intelligence?_amp=true"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Governing
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Programmers, Lawmakers Want AI to Eliminate Bias, Not Promote It"
-    excerpt: "Artificial intelligence is used in a host of algorithms in medicine, banking and other major industries. But as it has proliferated, studies have shown that AI can be biased against people of color."
-    publishedDateTime: 2021-06-10T17:32:00Z
-    webUrl: "https://www.govtech.com/computing/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 37
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/e5d29ef/2147483647/strip/true/crop/3000x1458+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F87%2F8d%2F014e3121415dad0716434aef74ac%2Fus-news-ai-bias-sh.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "Farmers Insurance® Adopts Innovative Technology by Zesty.ai to Increase Homes Eligible for Insurance in High Wildfire-Risk Areas in California"
     excerpt: "With recent approval from the California Department of Insurance (CDI), Farmers Insurance ® today announced it has integrated Zesty.ai's wildfire risk scoring model (Z-FIRE™) into its homeowners insurance underwriting processes --- selectively expanding opportunities for coverage for residences located in certain wildfire-risk areas."
     publishedDateTime: 2021-06-14T09:11:00Z

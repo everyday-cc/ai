@@ -1,24 +1,22 @@
 ---
 category: news
 title: "CloudCommerce to Benefit from $5.9 Trillion Artificial Intelligence Market Opportunity"
-excerpt: "CloudCommerce, Inc. (CLWD), a technology driven provider of digital advertising solutions, today announced that SWARM,"
-publishedDateTime: 2021-06-15T07:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21561676/cloudcommerce-to-benefit-from-5-9-trillion-artificial-intelligence-market-opportunity"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/g21561676/cloudcommerce-to-benefit-from-5-9-trillion-artificial-intelligence-market-opportunity"
-ampWebUrl: "https://www.benzinga.com/amp/content/21561676"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21561676"
+excerpt: "(CLWD), a technology driven provider of digital advertising solutions, today announced that SWARM, the Company’s AI-driven advertising solution, is well-positioned to benefit from the total global industry sales and marketing opportunity forecast to exceed annual revenue of $5."
+publishedDateTime: 2021-06-15T07:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9390034.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9390034.htm"
 type: article
-quality: 29
-heat: 29
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "YggNq6cy6isCMt7EyKCn73fUnnbhw2w3Q3oOA9w1zN/MOYe/GpZRqw8PwkuYAcT398G7/hYWuLrzC9ReB8wjOdSylHmxWCuBZfLSbyfXnqF10HNiKFAmQuIj2JU7yDzbZHX6nbmVOSTMPJUTqslgSpqAjUzcotFh27+d19JexwRDZ5yo3XsoCWq7czyoAekalAE0yuJsnVKK/9O76e9f3EXohqqAXlahtqzPYCpaBG0X4jaGE97OOc/kBc353C5/h4e8gXgTORgRqG+DzEq/2ueNDGAiJbU4CzaA0rqx7MB7u6tjWSCfNGTFWS+c+BDnFyq1wUBGOqKvNbb9KicFJI3y0jyTpu/2bHUqSoqtGJU=;2FV20cvvL7GKTJdetRn6Sw=="
+secured: "//pd1sWDGMSfBQ3sHwcfpqpnHy73ie34sTSAIgNc39e3CDzXFHZ2n8vrHL9rcI3Plh+cMOZTFLsVfnl0ZrK+vqvX8H2cjXwjK4kc3nQvG1+WT6Iac/tEBOHo9u167NM5sjrpPwGBzP3Kfq/6VAPigKRN1eF9ti0GcTMJS4Tk706QnFxZlOr3yMTfbGeqlntSQ9QOsIOiFHPNophu0I9zmMzWAAxVJVzcyWcEswkM9STo5+tBXefMP9tL2WY/NsLfL7abo9qnn60EX4MFD8bTTxtsbiVOCAqb1S9pe0hhw59yN5sIxsSVe2+SgROdXiy3lB6rMgWSLwR7hcbHbheTmBAemP8GUB/d50jzNPIDA2E=;Ohr0zfhsBfDWjC2TJcfUtA=="
 ---
 

@@ -104,15 +104,20 @@ related:
         width: 960
         height: 593
         isCached: true
-  - title: "The Biden administration launches the National Artificial Intelligence Research Resource Task Force"
-    excerpt: "The U.S. National Science Foundation and the Office of Science and Technology Policy announce the government, academic and private sector representatives who will serve on the task force"
-    publishedDateTime: 2021-06-10T17:39:00Z
-    webUrl: "https://www.nsf.gov/news/news_summ.jsp?cntn_id=302882&org=NSF"
+  - title: "White House partners with NSF to stand up National AI Research Resource Task Force"
+    excerpt: "The task force will look at how to expand access to AI education and other critical resources, and it includes members from NIST, Energy and top universities."
+    publishedDateTime: 2021-06-15T10:26:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2021/06/white-house-partners-with-nsf-to-stand-up-national-ai-research-resource-task-force/"
     type: article
     provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 3
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 33
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/05/digital-government-featured-1.png"
+        width: 435
+        height: 290
+        isCached: true
 
 secured: "tv9uxSTR+e3XXINJQ7e0EdMzajcN0bX6B+4IxnLfwcTMqtlHEl5pKBBO1Bpz6j/3eZ5uAD0SAP+CFeo7wkTtiUGVrBx+UTkwyRQmxr9GpB8oQalJoj840z2ps3NWGkAxlmNaqJnBxHaZWgWnblmbUbJ+mSbFS54krcnfSjUVUM6BqNVzoEN+SiBKyFuv7dAQSH/TKxeQavxxXOBotqYZGHHYJumiR+zfA/Bw4ZFVHldnK+3SSQalHMaFXZGIe/VSqmNmymgI55nmBrrnOJ2JIj7bi2VRRwGHczI3hFWCGa+2AYkTsB50yqzxfjpm2cX/DdmxZ3k81nF8ZFHhFaTLWwDAeZaf3EvKV8g4YLJW/IQr1EZB5G01jZqaR1F2gI8xMKvjUFV+tKlUw2EbkgsU9JHCmxGzdo5CW7WcNgQOF9MIfYE3InhOYfgbvbdEXUipx/UQMo/JfaYdS/85T2x77s/e24juahdYLV679BYDTRE0zoVJpQL+M0sc9tYy7E5oZ38iydEF4jL6KhSf6BDGpg==;z1WdR6bJlCyLvUMRg368VA=="
 ---

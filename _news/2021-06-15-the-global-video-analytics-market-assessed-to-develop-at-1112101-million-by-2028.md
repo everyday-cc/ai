@@ -41,7 +41,23 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
+    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
+    publishedDateTime: 2021-06-15T08:27:00Z
+    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
+    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 55
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
+        width: 850
+        height: 400
+        isCached: true
 
-secured: "1wbrXEnjyORCmUyAS2P9qJLyQ5qHZDu90HaTaYz7JSVXN080KWbQQNQlxf2z1kZy7DtcraWmRmjZGijnprBVoqc6I52gEGz24qQolLq0rDZC1ZF/6vPO4oVma/5huTfY8Ve1ceiQphHR1bQMOyK8McZpiTezFfhFbqcz32Ru4eHZU4qRjtS9N2OLBhX14j+xIVb1hqXfcuF+zITr2Laf61AqXuhi+KykaVzEoYTgplrDcZbi0/R09jhuPMmVPigzKbBlzrCQ88iT9dBNq1w6OX5E+Ojsrf1z8aUHfP47xv1adp5hkRKI/ZTzDS56BVcGOdjyq6Yz1apvgTwq6gVXnLpte0oZthDBt0hDSx1rR+4=;Nwha7+pXQK/VTzrWlWu7gA=="
+secured: "4xsbjlwSYjxDg515mv1g3F9jiP7vHkjBrfJprjbZot9F1gupu6En0RijYjVSda9P7qBdyND6RXm4esEoBe7JNSSE7wG1fzGYWS+NH7YHi6SYc7t6UhHvyqiqO9TR3WaiKHhnddF23vSJY9ISWEKSEVElXjE+64X9mTyiwOstNXWwIoKjUSe4kuNEfxwxuTqYX18nuTcDQ3jmHNDK3+vVyjSXQrujt54t5L+LSCjy0nNO/0GWaJ5M0Xic48ZPYoop1j5BRQbMIFQSHMCfe7eRcAgr8W/pGR3+6tcqVRR6+HesdrEeiTaigQw7UNjuDeaxmFogRIscHVbLFI+4rvVCRWKcB9O60uMwrCMWax7zVslkQMOuPgTsy11Jvv61a31ycBXFwguwnINlsIM9G1iUYsjn8vfuXCIDsJ4kQpFdZFNBuZjONk4nBvg8El9/Pph3MbVR/nvFLfjrkFDoHhDUbtb/keJynNNFCFLa/KqDm89yCmWsNPF5M1hVR3Dqjo4zoPcjgBCfTeesTB3gHWDR8w==;NqIorD4+O6qiiokPPjhgOg=="
 ---
 

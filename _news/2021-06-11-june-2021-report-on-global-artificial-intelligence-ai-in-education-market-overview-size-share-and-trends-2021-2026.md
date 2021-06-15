@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-glob
 webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11"
 type: article
 quality: 75
-heat: 175
+heat: 205
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "June 2021 Report on Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2020"
+    excerpt: "Due to the high popularity of this product/service in North America and Asia, the growth trend of Deep Learning in"
+    publishedDateTime: 2021-06-15T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-deep-learning-market-size-share-value-and-competitive-landscape-2020-2021-06-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -107,10 +121,28 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 5
+  - title: "AI in Drug Discovery Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020–2026"
+    excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” AI in Drug Discovery Market Report Analysis 2020 by Size with Future Prospects, Key Player SWOT Analysis and Forecast To 2026 “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
+    publishedDateTime: 2021-06-15T09:47:00Z
+    webUrl: "https://ksusentinel.com/2021/06/15/ai-in-drug-discovery-market-value-projected-to-surge-remarkably-at-double-digit-cagr-during-2020-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 2
   - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
     publishedDateTime: 2021-06-15T00:05:00Z
     webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:06:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548772-cellular-artificial-intelligence-ai-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
     type: article
     provider:
       name: ReportsnReports

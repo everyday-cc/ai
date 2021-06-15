@@ -2,6 +2,206 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-12-transform-2021-puts-the-spotlight-on-women-in-ai.md",
+      "title": "Transform 2021 puts the spotlight on women in AI",
+      "excerpt": "VB Event Elevate your enterprise data technology and strategy at Transform 2021. VentureBeat is proud to bring back the Women in AI Breakfast and Awards online for Transform 2021. In the male-dominated tech industry,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/VB-Women-in-AI-Awards.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/",
+      "publishedDateTime": "2021-06-11T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-billionaire-larry-pages-kitty-hawk-is-making-an-all-in-bet-on-robot-air-taxis-its-program-head-is-out-in-disagreement-over-it.md",
+      "title": "Billionaire Larry Page’s Kitty Hawk Is Making An All-In Bet On Robot Air Taxis. Its Program Head Is Out In Disagreement Over It.",
+      "excerpt": "Kitty Hawk has an ambitious plan to leapfrog rivals by convincing regulators to let it fly passengers in electric air taxis without pilots -- within the next 3 years. The head of its aircraft program,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
+      "originalUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3a37d601a34eec048fbed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D630%26cropY1%3D47%26cropY2%3D402",
+          "width": 630,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
+      "publishedDateTime": "2021-06-11T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word.md",
+      "title": "Facebook’s AI can copy the style of text in photos from a single word",
+      "excerpt": "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
+      "publishedDateTime": "2021-06-11T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-facial-recognition-market-predicted-to-gain-85-billion-by-2025.md",
+      "title": "Facial Recognition Market predicted to gain $8.5 billion by 2025",
+      "excerpt": "According to a new market research report Facial Recognition Market by Component Tools 3D Facial Recognition and Services Application Law Enforcement Access Control Emotion Recognition Vertical BFSI Government and Defense Automotive and Region Global Forecast to 2025 published by",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025",
+      "originalUrl": "https://www.openpr.com/news/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U611215829_g.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025",
+      "publishedDateTime": "2021-06-11T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-us-creates-ai-data-sharing-task-force.md",
       "title": "US creates AI data-sharing task force",
       "excerpt": "The Biden administration has created a task force to promote access to data and other resources to boost artificial intelligence (AI) research. The National Artificial Intelligence Research Resource Task Force involves the White House and the National Science Foundation.",
@@ -148,7 +348,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth-2021-06-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -399,7 +599,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -554,7 +754,7 @@
       "originalUrl": "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -651,7 +851,7 @@
       "originalUrl": "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -745,7 +945,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -893,26 +1093,35 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-california-aims-to-eliminate-bias-in-artificial-intelligence.md",
-      "title": "California Aims to Eliminate Bias in Artificial Intelligence",
-      "excerpt": "A new bill would require AI developers to evaluate privacy risks, assess the potential for discriminatory decisions and the state’s Department of Technology would need to approve the software before its use in the public sector.",
+      "path": "_news/2021-06-11-fix-the-use-of-dna-data-and-facial-recognition-software-dont-ban-it-commentary.md",
+      "title": "Fix the use of DNA data and facial recognition software, don’t ban it | COMMENTARY",
+      "excerpt": "The use of facial recognition technology needs fixing. There’s no doubt about. Let’s fix it rather than throw it out the door.",
       "sourceUrl": null,
-      "webUrl": "https://www.governing.com/security/california-aims-to-eliminate-bias-in-artificial-intelligence",
-      "originalUrl": "https://www.governing.com/security/california-aims-to-eliminate-bias-in-artificial-intelligence",
+      "webUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html",
+      "originalUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.governing.com/security/california-aims-to-eliminate-bias-in-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/california-aims-to-eliminate-bias-in-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2021-06-10T14:13:00-07:00",
+      "ampWebUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-10T14:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -922,6 +1131,7 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1027,205 +1237,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-lack-of-ai-implementation-may-have-cost-enterprises-426t-signal-ai-finds.md",
-      "title": "Lack of AI implementation may have cost enterprises $4.26T, Signal AI finds",
-      "excerpt": "Survey of business executives suggests AI-driven decisions could have a massive $4.6 trillion impact on the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/",
-      "originalUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Decision-making-Infographics-05-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/amp/",
-      "publishedDateTime": "2021-06-10T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-build-multi-class-classification-models-with-amazon-redshift-ml.md",
-      "title": "Build multi-class classification models with Amazon Redshift ML",
-      "excerpt": "Amazon Redshift ML simplifies the use of machine learning (ML) by using simple SQL statements to create and train ML models from data in Amazon Redshift. You can use Amazon Redshift ML to solve binary classification, multi-class classification, and regression problems and can use either AutoML or XGBoost",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T13:05:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-q2-competitive-update-the-ai-cambrian-explosion-rolls-on.md",
-      "title": "Q2 Competitive Update: The AI Cambrian Explosion Rolls On",
-      "excerpt": "A lot of new AI Silicon and Software has been announced since March and it can be tough to keep track of it all. To help users, vendors, and investors keep track, our June Competitive Landscape Report is now available,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c143da33a35cf456b1fed5%2F0x0.jpg",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/amp/",
-      "publishedDateTime": "2021-06-10T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources.md",
-      "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
-      "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
-      "originalUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2NR1QC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NR1QC",
-      "publishedDateTime": "2021-06-10T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

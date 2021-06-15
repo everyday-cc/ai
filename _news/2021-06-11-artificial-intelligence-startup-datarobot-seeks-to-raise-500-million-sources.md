@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources"
-    excerpt: "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter."
-    publishedDateTime: 2021-06-10T18:44:00Z
-    webUrl: "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NR1QC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NR1QC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
   - title: "DataRobot exec talks ‘humble’ AI, regulation"
     excerpt: "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant."
     publishedDateTime: 2021-06-14T14:50:00Z
@@ -49,20 +38,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "DataRobot, West Virginia University Bring AI to Government"
-    excerpt: "Having recently opened an office in Morgantown, West Virginia, the San Francisco-based artificial intelligence company will recruit new employees from the university and focus on education, health care and prosperity."
-    publishedDateTime: 2021-06-10T17:20:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/datarobot-west-virginia-university-bring-ai-to-government"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 54
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/892b2dd/2147483647/strip/true/crop/950x462+0+84/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe2%2F3d%2F834edc3a810426eb0559d2e2c41d%2Fshutterstock-524344900.jpg"
-        width: 1440
-        height: 700
         isCached: true
   - title: "Artificial intelligence startup DataRobot seeks to raise US$500 million: Report"
     excerpt: "LONDON: DataRobot is in advanced discussions to raise fresh capital of about US$500 million in a funding round that could value the machine"

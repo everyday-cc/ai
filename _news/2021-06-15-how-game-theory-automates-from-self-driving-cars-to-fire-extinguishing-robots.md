@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-14T18:17:00Z
 originalUrl: "https://www.chron.com/business/article/How-Game-Theory-Automates-From-Self-Driving-Cars-16246731.php"
 webUrl: "https://www.chron.com/business/article/How-Game-Theory-Automates-From-Self-Driving-Cars-16246731.php"
 type: article
-quality: 20
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.hdnux.com/photos/01/20/44/67/21122535/3/rawImage.jpg"

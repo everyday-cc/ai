@@ -153,22 +153,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Google Claims Its AI Tech Can Design Computer Chips Much Quicker Than Puny Humans"
-    excerpt: "Google has decided to use AI to design microchips for its next generation of Google Tensor Processing Unit, and it can be done in 6 hours, whereas humans take several months."
-    publishedDateTime: 2021-06-10T18:32:00Z
-    webUrl: "https://hothardware.com/news/google-using-artificial-intelligence-to-design-computer-chips-faster-than-humans"
-    ampWebUrl: "https://amp.hothardware.com/news/google-using-artificial-intelligence-to-design-computer-chips-faster-than-humans"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-using-artificial-intelligence-to-design-computer-chips-faster-than-humans"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55362/content/datacenter-google-using-artificial-intelligence-to-design-computer-chips-faster-than-humans.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Google’s AI Designs AI Chips Better Than Human Engineers"
     excerpt: "Google has proven that it uses AI algorithms to design AI chips. It takes 6 hours instead of a few months if people do."
     publishedDateTime: 2021-06-11T16:46:00Z
@@ -212,34 +196,6 @@ related:
       - url: "https://ummid.com/news/2021/june/12.06.2021/google-ai-chip.jpg"
         width: 790
         height: 530
-        isCached: true
-  - title: "Google Claims To Be Using A.I. To Design Computer Chips In Under 6 Hours"
-    excerpt: "Google claims to have created a deep reinforcement learning software that can produce AI chips much faster than humans can, according to a paper in the Nature journal on Wednesday. “Our method has been used in production to design the next generation of Google TPU,"
-    publishedDateTime: 2021-06-10T17:52:00Z
-    webUrl: "https://hypebeast.com/2021/6/google-using-ai-design-chips-faster-than-humans"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 53
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2FGoogle-Claims-To-Be-Using-A.I.-To-Design-Computer-Chips-Faster-Than-Humans-TW.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Google Has Developed AI Software That Designs Chips Faster Than Humans Can"
-    excerpt: "In effect, Google is using machine-learning software to optimize future chips that speed up machine-learning software."
-    publishedDateTime: 2021-06-10T17:37:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/google-ai-chips/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 52
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/07/google.jpg"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "N4uZTDfvQXVorfc4GA6BpBNgSnPTMzVhkvSJsgQcDgCTq66asiK6YzR8jEraYeOtrMjIU61sCe1DyNsntlJFILQg8BJSgS/+I3e7kL7fKVsj8s/DRzc4y8PSiv6qevOxaQb820iJaSvMQMhMKW7wB7ozhTVVMCKXioHbuIz/U872Snb5XJtXnPrD2VtvYf/HycOReGdDLm7AJp0CFhuXw0MKcHL+1LUK7BbDjRjqiGK2SpZ1IFmNUF+Dt8IeFiTpPqUJzLiLj5xNg0XV4hsK/tnQGNcMRjskjC6DDqT+2xEbpwRJJi+XeaCQ3MWRYHh+LuP/mwbIP2TM43CLMGpwcYeiJBpvMpnTusV4IZPX2J6tdOvpYpM8xHiHTxw8c2/ERn+xXP4EUfeFYF5sI9qfIcF11ocVmyOQL8Fy6eKhZvqCszldzpwHgb8pUClicwpqd/pTPAbmYpEktFVMod3/0R2kH6FweB1NRL9mhkJX2SbQmYGWMfdC2VPt6/jHonkLtjfmZJ7qw4uH1QaV8allQQ==;ri8oayeqSZ718jXFVsDjPw=="

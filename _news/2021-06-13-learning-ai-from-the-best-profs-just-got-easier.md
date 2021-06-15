@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/learning-ai-from-the-best-profs-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/learning-ai-from-the-best-profs-just-got-easier/amp-11623571864691.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Breaking Down the World’s First Proposal for Regulating Artificial Intelligence"
-    excerpt: "Today, artificial intelligence and machine learning tools are ubiquitous across sectors—used for everything from determining an individual’s credit worthiness to enabling law enforcement surveillance—and rapidly evolving."
-    publishedDateTime: 2021-06-11T04:55:00Z
-    webUrl: "https://www.newamerica.org/oti/blog/breaking-down-the-worlds-first-proposal-for-regulating-artificial-intelligence/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
-    quality: 33
-    images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_637827229.width-800.png"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "/9s5obb5n1Q0PEdsx7Avx4MIGbYbgbG/iAK7m0XjGiJogx9GxVhUiqnkkKHctri8WaTjBqErXmb0Cm8H+rhkHvp/qGGTOqTzHMptNvSzaMns9TyDEu/1gsBcWzvV0LFxyLKcphitNvk85c+oZZeiV3ZMyf6D2tmskMvRjX5VK87IqH6UBEXD9glqMXODInj8iKs8xZNZJb3CsbfFpT9CJCCySC48t7FVBezr/yp00ApYr7JOOZm02K71p04xqkn7xVw+DgH1k5i5416IVN3/gVhuUqgPmmT9Wm2bhcZw79t5TNjxBnuoRhoZ28qJ6N/ZH2j4CaCj9DGb+gfKM04qiHnM5Nr2gTI0L/LCk1A+8ng=;v7naR82bleWK6LXJW1DRsw=="
 ---

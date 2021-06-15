@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Canada police broke law with facial recognition software, regulator finds"
-    excerpt: "A Royal Canadian Mounted Police (RCMP) crest is seen on a member's uniform, at the RCMP \"D\" Division Headquarters in Winnipeg, Manitoba Canada, July 24, 2019. REUTERS/Shannon VanRaes"
-    publishedDateTime: 2021-06-10T17:06:00Z
-    webUrl: "https://www.reuters.com/news/picture/canada-police-broke-law-with-facial-reco-idUSKCN2DM208"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565225291&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH590UX"
-        width: 810
-        height: 566
-        isCached: true
 
 secured: "acQ+L1iSSvzsODFZeWkHZCZKLpAAT7HW58k5YxXM0a+fJ2h75gVhDRIsif64C/mChkaI0ytLmkn4kTeeyZRXHhySxnPRbaK4DqAM0U7Pi7vYwdOtQ2bS+GZAA5a1mifPMrdZOlYMkYbauDCXfBEOse7Vn69RELTxafAdWdAEYM6BGbuvS/r1iPOeNZjh2lV++DdKtSF0jOloZd8S4oahKQZfeAssm1NeQn2FgTRMTQI/duAn6HIP1cJ/6KEkFS7dpNxXHHr74nnY6ZTfKZIqWOcayWX/TYRK6mol40GA8QJqMY29tkllRptdz5Vy9hX8B52MHwM7MMQwkqkO8jyQNjfv4MTXsEINXbIGKRpgprc=;V3BguA8umCx3rs2QvI5Pcg=="
 ---

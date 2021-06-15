@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech-to-text API Market 2021 : Top 20 Countries Data with SWOT Analysis, Market Size, Definition, Share, Growth, Technology and Forecasts to 2026"
+    excerpt: "According to this latest study, in 2021 the growth of Speech-to-text API Market will have significant change from previous year. Over the next five years the Speech-to-text API Market will register a magnificent spike in CAGR in terms of revenue,"
+    publishedDateTime: 2021-06-11T00:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-2021-top-20-countries-data-with-swot-analysis-market-size-definition-share-growth-technology-and-forecasts-to-2026-2021-06-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZAWd8sZq3eg9qqCf5FlkIG5eHgJilFCCjYz7fD0zOEKHlb1SAG1V0ouJpMd0TvCWaPs1pkZ/0XbTflLck6Zb97BCCyxiT7PRuDin4YH26SaPg89Y9RI03nGNdtchDQBU3ueZxlJNe6/PlvemMikN+yzrMvFXx2YML0qmMsgyLjcX928gdFOYdWrq5RQP5jpQJDUSvYMRL/LpQ/5hYvMaSz9u2ZoTsUY7T6yQzO0KqKljGnAgcouu63T1riyzy1arEao9oKyzuWZY1qZ4s/iEhVlN+E4xU+HQ5JSsyYYqgBWThbMmVjKbItUR3/ZAXZMre66tCcTJFGJ/GiZ5QAsgZoZhNgdNbLq4wKeevdi996s=;ammhV8n4aK1WIKxTnwuCPg=="
 ---

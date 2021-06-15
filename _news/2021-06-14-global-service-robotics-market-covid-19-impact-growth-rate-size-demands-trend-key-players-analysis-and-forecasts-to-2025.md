@@ -20,6 +20,22 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Global Self-driving Submarine Market Precise Scenario Covering Trends, Opportunities and Growth Forecast during 2021 to 2027"
+    excerpt: "Market Research Place has released a new report entitled Global Self-driving Submarine Market Research Report 2021-2027 that focuses on the market insights into the current and forecast market situation."
+    publishedDateTime: 2021-06-11T10:18:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/global-self-driving-submarine-market-precise-scenario-covering-trends-opportunities-and-growth-forecast-during-2021-to-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/28/10/submarine-designs.jpg?width=982&height=726&auto=webp&quality=75"
+        width: 982
+        height: 726
+        isCached: true
+
 secured: "Ti7s6tqnLUwZu9w0FQqn0NACNIX85c6KlSyaHfcdm7NxJTw/e8tacTKxIzHmiCcLwevwcmXRBJdRR9ao/8mAUHUbizQWvOlnWefKa1zWC0NIJbwW1NU/Q/evGkZQ1N+yms0ldRd9/Lwdhfmb6FU12Vx0vBqQnrevFzeluD3khi8DJHOytOqZYY6NLp9zy6XUvlpB8APAQuXbYuxnPf1ZQcXpNXQNK1upf0dCXxjFq8Zv3AwL86JI4iSXfr6fYoG/ZRS7ZTkKtv/kDdZurDCvN60gfZmT9IDIeErOpoZuzKH6RRRI+i8iT3msnq9VbX1ykd8P9bYKAuUde9Csw2tghAHVkHv/eIAFqNSLGksGZUQ=;m2hlQvruwAHzUvbBlwqjTA=="
 ---
 

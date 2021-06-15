@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630357%2Fartificial-intelligence-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2021-06-15T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-machine-learning-blockchain-emerge-as-top-online-courses-in-india-report.md",
+      "title": "Machine learning, blockchain emerge as top online courses in India: report",
+      "excerpt": "Digital skills have become important today especially to stay redundant at a time when technology is powering most industries. The pandemic also displaced millions of workers worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/internet/9ep4ul/article34821936.ece/ALTERNATES/LANDSCAPE_615/digital-skills-india-reutersjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece/amp/",
+      "publishedDateTime": "2021-06-15T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-understanding-the-potential-of-unsupervised-ai.md",
+      "title": "Understanding The Potential Of Unsupervised AI",
+      "excerpt": "It may have taken a pandemic, changing the very fabric of the workplace, but at last, we’re realizing the promise of unsupervised AI. For the first time, companies are leapfrogging to success by adopting “pure-play” unsupervised AI across the enterprise and leaving behind yesterday’s point solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43bf19d4c2c56c1a96f810%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/amp/",
+      "publishedDateTime": "2021-06-15T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-artificial-intelligence-in-supply-chain-market-forecast-2026.md",
       "title": "Artificial Intelligence in Supply Chain Market Forecast 2026",
       "excerpt": "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a",
@@ -209,7 +355,7 @@
       "originalUrl": "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -499,6 +645,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-datarobot-exec-talks-humble-ai-regulation.md",
+      "title": "DataRobot exec talks ‘humble’ AI, regulation",
+      "excerpt": "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
+      "originalUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
+      "publishedDateTime": "2021-06-14T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1001,7 +1199,7 @@
       "originalUrl": "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1033,177 +1231,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-koreai-enables-mashreq-bank-to-enhance-customer-experience-through-ai.md",
-      "title": "Kore.ai enables Mashreq Bank to enhance customer experience through AI",
-      "excerpt": "Kore.ai, a conversational AI software company, announced its partnership with Mashreq Bank, one of the financial institutions in the UAE.",
-      "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/kore-ai-enables-mashreq-bank-to-enhance-customer-experience-through-ai/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/kore-ai-enables-mashreq-bank-to-enhance-customer-experience-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ibsintelligence.com/wp-content/uploads/2017/10/Mashreq-Bank-Square.png",
-          "width": 589,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students.md",
-      "title": "Amazon India launches 'ML Summer School' to impart core machine learning skills to students",
-      "excerpt": "The curriculum will cover the fundamental concepts in ML, while linking them to practical industry applications through an immersive three-day course, it added. Participants of the ML Summer School wi",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
-      "originalUrl": "https://www.indiatvnews.com/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/amazon-1200-1623653585.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
-      "publishedDateTime": "2021-06-13T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-palantir-vs-c3ai-which-is-the-better-artificial-intelligence-stock.md",
-      "title": "Palantir vs. C3.ai: Which Is the Better Artificial Intelligence Stock?",
-      "excerpt": "Palantir and C3.ai both help organizations and companies crunch data with AI-powered tools. Palantir, which generates more than half its revenue from government contracts, wants i",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/palantir-vs.-c3.ai%3a-which-is-the-better-artificial-intelligence-stock-2021-06-13",
-      "originalUrl": "https://www.nasdaq.com/articles/palantir-vs.-c3.ai%3a-which-is-the-better-artificial-intelligence-stock-2021-06-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/palantir-vs.-c3.ai%3A-which-is-the-better-artificial-intelligence-stock-2021-06-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/palantir-vs.-c3.ai%3A-which-is-the-better-artificial-intelligence-stock-2021-06-13?amp",
-      "publishedDateTime": "2021-06-13T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-ai-can-now-convincingly-mimic-cybersecurity-experts-and-medical-researchers.md",
-      "title": "AI can now convincingly mimic cybersecurity experts and medical researchers",
-      "excerpt": "Misinformation within communities of expertise has the potential for scary outcomes such as delivering incorrect medical advice to doctors and patients. This could put lives at risk. To test this threat,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-doctor.jpg&signature=0256260c9c534e5cd6e4a501569ac440",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

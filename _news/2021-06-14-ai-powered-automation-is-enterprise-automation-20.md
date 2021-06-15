@@ -59,7 +59,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 20
+    quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/20/44/67/21122535/3/rawImage.jpg"
         width: 2000
