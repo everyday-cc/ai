@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
+    excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
+    publishedDateTime: 2021-06-16T10:15:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 28
   - title: "AI in Drug Discovery Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020–2026"
     excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” AI in Drug Discovery Market Report Analysis 2020 by Size with Future Prospects, Key Player SWOT Analysis and Forecast To 2026 “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
     publishedDateTime: 2021-06-15T09:47:00Z

@@ -59,22 +59,6 @@ related:
         width: 3065
         height: 2043
         isCached: true
-  - title: "Facial Recognition Market predicted to gain $8.5 billion by 2025"
-    excerpt: "According to a new market research report Facial Recognition Market by Component Tools 3D Facial Recognition and Services Application Law Enforcement Access Control Emotion Recognition Vertical BFSI Government and Defense Automotive and Region Global Forecast to 2025 published by"
-    publishedDateTime: 2021-06-11T17:13:00Z
-    webUrl: "https://www.openpr.com/news/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/6/U611215829_g.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
     excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"
     publishedDateTime: 2021-06-14T18:13:00Z
@@ -210,6 +194,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Yau4oYyOFLhOzi0enHj44OKOy6Qg51WVPFSFltITh2hpoeDVv7MvVUNBk1Kqe89rkVlUo0P9byCUlQmDvazoW4CLGHgB0UXQ/Mmc7ZJdQon7cVxHYPO7s0BQwisIfEZvTSaUY7OkK3swnPDg+alDqID/jHaXuO2Kmm3sEhYpKBzbPNNEjQOhn3XzAlMPWUEBsjMHjDvnyVh37iBC5bOlLW78eiW6szHkPyaKP8A+2759ILg/WUatLE05iIJ01oosd9U8GCSjHx1Mb/wnHNtkcbpCguvcit7I1PXysd7ksjvFfJ4nirnPelWy0fletq22AeWUqsdJE4dng8Z/K8GOiXuRA93NU1TdIVFAFCJWXTs=;9eZK0tQRgk4Tn2XnySC+wg=="
+secured: "xB3qpizFHVI0OyAvZ9AgDWiNsMbGLbkI/af7jmd7uFIGLGE3ViVNWl2tRgx0EWrBZiwZDK2Z0mzZ556wUWzStlMVOdItxtN5f9GiejFiEtdD87MQytt8DfkN15TrEiGxMo4Uy3vNySKaXil8QEefSlSlOu9ja0qpOhYZT+SbXzGWkvQfwpywlDB5L/92RKF8sJ9MatMfVvAQY1MqlY3iFQyUWlbOr3A8oRONpMU3/Qbt7desIE8BJHoQb0n8n0GrDJYtEynAEeg7vw/kgEUPtb5Vb13lQg+r+0CtzeC8IuE+Cssk5yoM1IYoGff9+yPld7a5iIyHT54BDd/8oueJ8xsld3T6tl6uViHDxUT71Afr6jXgUYdc4e+rieH/lZ0TM7uG+VCwzOYaNLbH0RBAWtKGDdSqfBskt0huwjedX3MA2NzM8Iz9y1uVM/pIeNwMO4PoxDUF/LwnoW8k9N4D8yVGxm7/iTrRdceMvdP63e/0VWfsQmdGMck6plV7GUsS1ZsCc59bIenxc/qnzs+Xow==;8iZQ/GieG9ogwoWD3lTW8w=="
 ---
 

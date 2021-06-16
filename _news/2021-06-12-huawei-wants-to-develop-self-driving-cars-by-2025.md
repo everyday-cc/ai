@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Huawei Plans On Making Self-Driving Cars By 2025"
-    excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
-    publishedDateTime: 2021-06-11T18:06:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/01/Huawei-logo-2018-AM-AH-2.jpg"
-        width: 1366
-        height: 913
-        isCached: true
   - title: "How AI Is Transforming Venture Capital"
     excerpt: "AI is uniquely suited to solve the aforementioned challenges and create value for investors. The hype is real — from automating screening to save time and human resources, to augmenting investment decisions for higher returns,"
     publishedDateTime: 2021-06-14T22:00:00Z

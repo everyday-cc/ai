@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Service Robotics Market Covid-19 Impact, Growth Rate, Size, Demands, Trend, Key Players Analysis and Forecasts to 2025"
-    excerpt: "The global service robotics market was valued US 20 4 Billion in 2020 and is expected to show significant growth during the forecast period Service robots have witnessed widespread acceptance among various professional and personal applications owing to benefits such"
-    publishedDateTime: 2021-06-14T16:51:00Z
-    webUrl: "https://www.openpr.com/news/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    ampWebUrl: "https://www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
   - title: "Deep Learning System Market Set for Rapid Growth and Trend by 2021-2027 Covid-19 Analysis"
     excerpt: "This market analysis report Deep Learning System covers detailed details about the overall market to assist key players in making informed decisions. The detailed research in this Deep Learning System market report provides a close look at key competitors as well as pricing analysis to assist potential entrants in the industry."
     publishedDateTime: 2021-06-16T01:44:00Z

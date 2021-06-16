@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -500,27 +500,36 @@
     {
       "path": "_news/2021-06-10-deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai.md",
       "title": "DeepMind says reinforcement learning is ‘enough’ to reach general AI",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from ...",
+      "excerpt": "Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from sticking to the principle of reward maximization.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799",
+      "webUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T22:58:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
+      "publishedDateTime": "2021-06-09T23:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -536,8 +545,9 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
       ]
     },
     {

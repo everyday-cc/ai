@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Azure launches new Nvidia A100-powered supercomputing instances"
 excerpt: "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads."
 publishedDateTime: 2021-06-02T13:29:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-webUrl: "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+originalUrl: "https://www.techradar.com/sg/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+webUrl: "https://www.techradar.com/sg/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 270
     isCached: true
 
-secured: "Bz4rAnpFxtZlIjrhhpzgd/wLSeDnFhxoiIodUK9LtZ5Ep/UO8f0xJ2rp9VNL/AmeURx4c5lYMNOZgj693iK6Pea+qP80cGGsnFcFvQMe/Fq4bbvMgPTw4nXkt8RwHLVLzxebRRdNYGKRFfXziVMrHC63J0eFPNNCwjwMHZa+K9ASOjCTcLIqO7cEdN05XnR2x5oKKy+wXa4MIOiIhhJdynr9qf/zDvWqJ5/G18X/fHhSFFXTDNoAVn+j1frSIIUvy0Nc3uEW+IDhv38u7FgsSWqR0Yi2LhXMp8b6M/XThttXwuLk6fdEcpbREEprtsZ05seZ9W6x/rqhQW04reAft5UVMIwuHtb9I4qU1IV6Mz8=;DeEhJowv+JfSZIek8URg3Q=="
+secured: "TjGnve0mEZEY8JkbWy5u92mxM9qQk8aXWayaGHBTlBxozqsU3UwE2Wz5e3x53fEF+amFd9aGlK3MV3THXjTqmhwbbeozb9MJ68EQKEFgOXvZhNMIZLw0f+JiWSAQPn6S1SE07lISmwsr/qaTOK1ZTdiRjTbsea6BQykuk+Us/bU+GN/OpPoei3Icj+D9M0xLsml0fL4Z3RPI183ow/Q8JYq5P1xAw0IaQn/HUKJ9loMxGV3EMjXAarusT1ljVO6CA1TjXOLq3nMIN5xTdR6dF4PYqe4dJKdbVLErm+FMcR2Yk6bNh1v/MFsn9B+ZM9kiYMZ6Ko7josPIYHD3ooFOhwD+Pvk0mPBRs/8p0huYPB4=;v7vmaP4xfZMitJd1FmTjyQ=="
 ---
 

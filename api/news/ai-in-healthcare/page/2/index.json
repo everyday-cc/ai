@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-31-whitelab-genomics-and-the-accelerator-for-technological-research-in-genomic-therapies-announce-their-collaboration-on-artificial-intelligence.md",
+      "title": "WhiteLab Genomics and the Accelerator for Technological Research in Genomic Therapies Announce Their Collaboration on Artificial Intelligence for the Bioproduction of Gene ...",
+      "excerpt": "WhiteLab Gx and the Accelerator for Technological Research in Genomic Therapies announce their collaboration on AI for gene therapy Bioproduction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210531005131/en/WhiteLab-Genomics-and-the-Accelerator-for-Technological-Research-in-Genomic-Therapies-Announce-Their-Collaboration-on-Artificial-Intelligence-for-the-Bioproduction-of-Gene-Therapies",
+      "originalUrl": "https://www.businesswire.com/news/home/20210531005131/en/WhiteLab-Genomics-and-the-Accelerator-for-Technological-Research-in-Genomic-Therapies-Announce-Their-Collaboration-on-Artificial-Intelligence-for-the-Bioproduction-of-Gene-Therapies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-145.md",
       "title": "Healthcare Chatbots Market Expected to Grow at a CAGR of 14.5%",
       "excerpt": "Global healthcare chatbots market was valued at 116 9 million in 2018 and is expected to reach 345 3 million by 2026 registering a CAGR of 14 5 from 2019 to 2026 Healthcare chatbots are user interface which are employed",
@@ -1251,59 +1285,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence.md",
-      "title": "A Sustainable Future Is Not Possible Without Sustainable Artificial Intelligence",
-      "excerpt": "Although AI is the future of the world, training AI algorithms still depend on powerful computers, which consume significant energy and emit considerable carbon emissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a57fce790819a3e5723c48%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/20/a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-05-20T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

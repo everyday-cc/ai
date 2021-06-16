@@ -1,45 +1,39 @@
 ---
 category: news
 title: "Facetech Holdings Limited Receives Further Funding for Its Facial Recognition Technology"
-excerpt: "Facetech Holdings Limited has received funding to continue its research and development on its next-generation facial recognition technology.HONG"
-publishedDateTime: 2021-06-16T05:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/facetech-holdings-limited-receives-further-funding-for-its-facial-recognition-technology-1030526501"
-webUrl: "https://markets.businessinsider.com/news/stocks/facetech-holdings-limited-receives-further-funding-for-its-facial-recognition-technology-1030526501"
+excerpt: "Facetech Holdings Limited has received funding to continue its research and development on its next-generation facial recognition technology. HONG KONG, June 16, 2021 /PRNewswire/ -- Chinese technology startup Facetech Holdings Limited has today said it has raised an undisclosed amount of further funding from venture capitalist firms and a startup conglomerate located in Hong Kong."
+publishedDateTime: 2021-06-16T05:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391262.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391262.htm"
 type: article
-quality: 40
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 related:
-  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
-    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
-    publishedDateTime: 2021-06-12T15:12:00Z
-    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
-    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+  - title: "Comparitech facial recognition report highlights growing, variable global market"
+    excerpt: "Comparitech analyzed 100 countries’ facial recognition technology use within government, police, airports, schools, banking, workplaces, and public transport."
+    publishedDateTime: 2021-06-14T21:11:00Z
+    webUrl: "https://www.biometricupdate.com/202106/comparitech-facial-recognition-report-highlights-growing-variable-global-market"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 58
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
-        width: 620
-        height: 370
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
-secured: "tKBNSTBYdZ16CL+iER5cMUaij4ly9pPywSYZk0EzrozO0ZR9PkSL0QbswyIeir15og9kXRtWQzq4uUG5EPbkjyOfwdoOyG5OpriQNr4ucg4eMd/Bp2OlNKXRujuIuAaFt8Ukh0bDPsIZFUox4xB6Kix783c0tCcX4KlnArNg8TeTO0bizGJX94BEgIMw9PlB39UrtUmtTfxzYgmSsIuEVyAzAR5liVIczkHQUoy9U40ZJ+b7mjYVqC1dq3rQd9sB6+T0dLnLmljLfSLUXZDZVASsLJIpo6ns6UuDmR5Bw2Q0qlkIuPeiW12Fi3KcYAe6TLTqX05VyqPB6ivHG6gK18Yq+nVhdmtbZDUnaeM2Spo=;blvmVOVbgM0/Qka7sjWlpw=="
+secured: "czQZDN3iWghLpIQMc9kE9hSE6BlJ/4jczlr3ZsBPlsdwlr5cqVf1RpmOYLm64cr6grQWEbbaX3j77AJ8ps7HFZU0mfAAo2P+wPeb1/fFD82Xlf0i3HjR6s6A6FI4+YQPy0g+GXq/UaA6WzxKw4+egHfDjlsNHtgrybRKyzMd04LqvfI8/hCaX9QoDolzl/lscCIcvGnRB6cW9SLV5fnX0uYybWEHHp+KuxyhaPviXFmD1dfyN1OiC39c8hdq0yLWoZQRTLNjloqps9wIlCJKSYGRT0Ga1qrL75iMZtLFnDM5GxszVnkO0d7hLK8WOq6OL1ebrLwdZ4RBmkXSF2tTP/8mgksDEBDBsYJaBHFwa7U=;D9oGLPsv6oWQJFJySttTNQ=="
 ---
 

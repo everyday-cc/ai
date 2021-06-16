@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-call
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
         width: 3065
         height: 2043
-        isCached: true
-  - title: "Facial Recognition Market predicted to gain $8.5 billion by 2025"
-    excerpt: "According to a new market research report Facial Recognition Market by Component Tools 3D Facial Recognition and Services Application Law Enforcement Access Control Emotion Recognition Vertical BFSI Government and Defense Automotive and Region Global Forecast to 2025 published by"
-    publishedDateTime: 2021-06-11T17:13:00Z
-    webUrl: "https://www.openpr.com/news/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303777/facial-recognition-market-predicted-to-gain-8-5-billion-by-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/6/U611215829_g.jpg"
-        width: 650
-        height: 450
         isCached: true
   - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
     excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"

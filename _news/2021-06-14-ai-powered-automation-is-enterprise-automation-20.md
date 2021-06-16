@@ -51,6 +51,20 @@ related:
       name: securityboulevard.com
       domain: securityboulevard.com
     quality: 58
+  - title: "Training next generation of leaders in responsible use of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is transforming our world in powerful ways, from improving medical care and changing the retail landscape to"
+    publishedDateTime: 2021-06-16T10:20:00Z
+    webUrl: "https://www.miragenews.com/training-next-generation-of-leaders-in-578812/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 47
+    images:
+      - url: "https://www.mcgill.ca/newsroom/files/newsroom/styles/wysiwyg_large/public/channels/image/hackathon-mustgivephotocredit-645x430.jpg?itok=E3MftT3U"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Unlocking Value with AI-Powered Automation."
     excerpt: "Adding AI to the automation toolkit helps organizations decide where to best apply automation to digital transformation."
     publishedDateTime: 2021-06-15T15:29:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cieonline.co.uk/mipsologys-new-zebra-fpga-ip-accelerat
 webUrl: "https://www.cieonline.co.uk/mipsologys-new-zebra-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Edging AI with an AI FPGA"
-    excerpt: "The Versal AI Edge series uses the architecture like the rest of the Versal family. A programmable-network-on-chip connects major components such as the adaptable hardware, which is Xilinx’s flagship FPGA fabric (Fig."
-    publishedDateTime: 2021-06-11T17:12:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/iot/article/21166800/electronic-design-edging-ai-with-an-ai-fpga"
+  - title: "IHP offers access to memristive technology for edge AI computing or hardware artificial neural networks applications"
+    excerpt: "Progress in work on memristive circuits and systems is growing rapidly. They find applications in non-volatile memories, advanced computing technologies, e. g. edge AI computing applications, or in hardware artificial neural networks (ANNs) with memristive elements as synaptic elements."
+    publishedDateTime: 2021-06-16T07:28:00Z
+    webUrl: "https://idw-online.de/en/news770813"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
+      name: idw
+      domain: idw-online.de
+    quality: 31
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/06/Xilinx_Versal_Promo.60c3952b666db.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "http://www.idw-online.de/en/institutionlogo27391"
+        width: 902
+        height: 1771
         isCached: true
 
 secured: "0TnEKYghU+j+nK+Wh6N7DBnn0leDPg5PnPXHejjAHYqk7DAZweTgmPdVRe2QgzRk6iKC536AmKW77odlIgufyGQg55XxNEOdwjR8r9Q42BIn2/gVaZ7yd841ySAJVyf8V2rtPdHPRgxXKd1pXj3gFGywMfeI5gYVQ752b8SWSEnE+cn5z/EVbCcUJA3aKiD94BYhUQzvE8QN/lh7VRWAiG0cmDjUntZp0q8xftCggxmMqgY12eRvjxIxNgn2ayb1jlEp+A9oQ+LUabXWWmKegk9m/Ei2aQp9vrDJqGmBtUiR6wzG/d1v81Vx/OnkV91RLmxPozXO467ebIsYDPc6EC6z2mvl98lbq4CP1lXfHKE=;Gopg0TtXez6MpyY/vGQUgA=="

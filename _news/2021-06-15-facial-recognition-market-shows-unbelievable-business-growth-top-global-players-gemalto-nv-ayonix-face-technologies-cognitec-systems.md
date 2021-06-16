@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Clinical Natural Language Processing Market Research & Clinical Advancements by 2028 | Artificial Solutions, Verint Systems Inc., NEC Corporation"
-    excerpt: "In addition, production and supply chain delays were also witnessed during the second quarter which poised a challenge to the Clinical Natural Language Processing market, since end-user industries were still not operating at their full capacity."
-    publishedDateTime: 2021-06-11T17:44:00Z
-    webUrl: "https://manometcurrent.com/clinical-natural-language-processing-market-research-clinical-advancements-by-2028-artificial-solutions-verint-systems-inc-nec-corporation/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 2
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Global-Clinical-Natural-Language-Processing-Market-2-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
 
 secured: "uMzzGWH1aX7+sgzUpuVzQHRUtx+Jt/j6rBCrPJ+DTHL+ELHx4xrbpwpOAdvbTh6OoQaEljWuouOBFeelxTnu1WDdKkC92ZUeoSPYh2dFxYDlcAM55U72UbpfdoPGokpkVljkpKVrv3J9IM9jtTYqatJUtruJE0m5Mnc7CptRT89p5MhxN3tjf/Fai/t0HSGYwdM7UBZ7frD3sRg/6hZlMjCkgwlf57AMA9jDGdAjW9PgD8UoEQ9d4djcMpwOLEvtL+UYIMH7G51kqpQ9X6uXXvnVQ/dxSwuLG3+5aW1fR2QkxYjcwi/geRW3LEr15ITeoAmXOzJI7uPr+D3x7X8guOVKR4J35X0Uo5sDi8NYTYM=;Abvyk9ri6/qG0lD+9ma32w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/06/16/deep-learning-system-market-set
 webUrl: "https://ksusentinel.com/2021/06/16/deep-learning-system-market-set-for-rapid-growth-and-trend-by-2021-2027-covid-19-analysis/"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Service Robotics Market Covid-19 Impact, Growth Rate, Size, Demands, Trend, Key Players Analysis and Forecasts to 2025"
-    excerpt: "The global service robotics market was valued US 20 4 Billion in 2020 and is expected to show significant growth during the forecast period Service robots have witnessed widespread acceptance among various professional and personal applications owing to benefits such"
-    publishedDateTime: 2021-06-14T16:51:00Z
-    webUrl: "https://www.openpr.com/news/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    ampWebUrl: "https://www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
   - title: "Booming Growth in Deep Learning System Software Market Analysis Report 2021 and Forecast to 2028 with different segments, Key players"
     excerpt: "A new informative report of Deep Learning System Software market has recently been published by Market Research Inc. The report comprises of various verticals of the businesses. It is aggregated on the basis of different dynamic aspects of industry study."
     publishedDateTime: 2021-06-12T06:24:00Z

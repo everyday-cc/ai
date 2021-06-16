@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

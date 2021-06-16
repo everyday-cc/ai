@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s AI can copy the style of text in photos from a single word"
-    excerpt: "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images."
-    publishedDateTime: 2021-06-11T17:59:00Z
-    webUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/"
-    ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Facebook's new AI project: Copy text style from image using a single word"
     excerpt: "Facebook is working on a new Artificial Intelligence model through which users can rewrite any text the way it is written in any picture. All that will be needed to copy the writing style is just one word."
     publishedDateTime: 2021-06-15T13:10:00Z

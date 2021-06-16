@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
+    excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
+    publishedDateTime: 2021-06-16T10:15:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 28
   - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
     excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
     publishedDateTime: 2021-06-14T15:12:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
 type: article
 quality: 90
-heat: -1
-published: false
+heat: 140
+published: true
 
 provider:
   name: TechRadar
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s AI can copy the style of text in photos from a single word"
-    excerpt: "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images."
-    publishedDateTime: 2021-06-11T17:59:00Z
-    webUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/"
-    ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Facebook's new AI text tool is incredible (and slightly creepy)"
     excerpt: "Facebook's new TextStyleBrush tool is an AI research project that can copy the style of text in a photo, based on just a single word. It means everything from handwriting to unusual fonts can be recreated with eerily impressive accuracy."
     publishedDateTime: 2021-06-15T16:31:00Z

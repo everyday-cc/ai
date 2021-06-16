@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cooking Robotics Market: Global Size, Share, Growth, Overview, Opportunities, Top Leading Company Analysis and Forecast till 2028"
-    excerpt: "Research Nester has released a report titled \"Cooking Robotics Market - Global Demand Analysis & Opportunity Outlook 2028\" which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
-    publishedDateTime: 2021-06-14T15:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cooking-robotics-market-global-size-share-growth-overview-opportunities-top-leading-company-analysis-and-forecast-till-2028-2021-06-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
-    publishedDateTime: 2021-06-16T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-06-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Pages Report] Check for Discount on Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Service Robotics market overview  Service Robotics market illustrates an"
     publishedDateTime: 2021-06-15T00:03:00Z

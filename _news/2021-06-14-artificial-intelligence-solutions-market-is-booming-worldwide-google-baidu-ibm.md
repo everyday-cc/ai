@@ -23,6 +23,19 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Artificial Intelligence for Marketing Market May Set New Growth Story | IBM Corporation, Google"
+    excerpt: "The artificial intelligence technology is helping the transformation of the marketing departments this allows marketing professionals to quick access to the insights According to IBM near about nearly 40 of CMOs are planning to reinvent customer experiences with AI The"
+    publishedDateTime: 2021-06-15T19:58:00Z
+    webUrl: "https://www.openpr.com/news/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+
 secured: "vtbAtREGfIKPMclgKleFWnK1IsU1gcXdfNSzgV/JE/QpV1atcQJ7CMyQl8+3DAQDbi3VIuXD1wDUUm0yQmtBF6+IkCa/JrnRP2xrS+5RSh6r2PxxckDJgZXLAFzf98FrBuEToZARCgfAYQPVXzGdhskoRF4JuxwQsfBjOqfiOaBswxCAsHfpmDYT5/5zNrZA862zKzQldV50bA2bJcbGKj6kK5wpC0lRE+9ebx3SDQn0rGo9MOY5iPT7XQc8cu5hB7S5ysJP1Arkezpptg3ZcJ3OfLKlSf+vtN25ZWp7fzL8+BlTaPiK+HVjYxLJi65YWx4V9UeeA5YyEfzdrEyCVRw5z4m+pmS8mDhcDYWmPVu7RbkdDSKX+DKbcBj7MFNjfBT+N2QtD2Zzr6FJD4sU8lLKPtDZB9hVA29mDeoEzf6J01mbB1WOFpOjcwfmsNDljgWMBzonLceS54A8OmQkp0jTt5DMYuaFtecnOpfZXQYUZbNm704i5he4HaeDltabqAAbhlgwfiHoVUGx8cKaSw==;Oqu4A7GMtWurJNriKMEAYQ=="
 ---
 

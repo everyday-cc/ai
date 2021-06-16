@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2304918/global-service-robotics-market-co
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -21,29 +21,133 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning System Market Set for Rapid Growth and Trend by 2021-2027 Covid-19 Analysis"
-    excerpt: "This market analysis report Deep Learning System covers detailed details about the overall market to assist key players in making informed decisions. The detailed research in this Deep Learning System market report provides a close look at key competitors as well as pricing analysis to assist potential entrants in the industry."
-    publishedDateTime: 2021-06-16T01:44:00Z
-    webUrl: "https://ksusentinel.com/2021/06/16/deep-learning-system-market-set-for-rapid-growth-and-trend-by-2021-2027-covid-19-analysis/"
+  - title: "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc"
+    excerpt: "The global cognitive services market is forecast to reach USD 36.85 Billion by 2026, according to a new report by Reports"
+    publishedDateTime: 2021-06-16T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 10
-  - title: "Booming Growth in Deep Learning System Software Market Analysis Report 2021 and Forecast to 2028 with different segments, Key players"
-    excerpt: "A new informative report of Deep Learning System Software market has recently been published by Market Research Inc. The report comprises of various verticals of the businesses. It is aggregated on the basis of different dynamic aspects of industry study."
-    publishedDateTime: 2021-06-12T06:24:00Z
-    webUrl: "https://ksusentinel.com/2021/06/12/booming-growth-in-deep-learning-system-software-market-analysis-report-2021-and-forecast-to-2028-with-different-segments-key-players/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 8
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/T819706200_g-780x470.jpg"
-        width: 780
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cooking Robotics Market: Global Size, Share, Growth, Overview, Opportunities, Top Leading Company Analysis and Forecast till 2028"
+    excerpt: "Research Nester has released a report titled \"Cooking Robotics Market - Global Demand Analysis & Opportunity Outlook 2028\" which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
+    publishedDateTime: 2021-06-14T15:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cooking-robotics-market-global-size-share-growth-overview-opportunities-top-leading-company-analysis-and-forecast-till-2028-2021-06-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2021-06-16T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Call Center AI Market May See a Big Move | Major Giants| IBM ,Google ,Microsoft Oracle ,SAP,AWS ,Nuance Communications"
+    excerpt: "The increasing service sector and e commerce technological developments in cloud computing and a growing emphasis on customer centric services are the key factors expected to grow the call center AI market utmost for the forecasted period According to Canam"
+    publishedDateTime: 2021-06-15T19:58:00Z
+    webUrl: "https://www.openpr.com/news/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    ampWebUrl: "https://www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+  - title: "Artificial Intelligence as a Service Market In-Depth Analysis including key players IBM, Google, Amazon Web Services"
+    excerpt: "A new business intelligence report released by JCMR with Global Artificial Intelligence as a Service Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
+    publishedDateTime: 2021-06-15T17:41:00Z
+    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-as-a-service-market-in-depth-analysis-including-key-players-ibm-google-amazon-web-services/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 35
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-as-a-Service-719x470.jpg"
+        width: 719
         height: 470
         isCached: true
+  - title: "Artificial Intelligence Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
+    excerpt: "VANCOUVER, B.C, September 14, 2020 – The global Artificial Intelligence Market is expected to reach USD 348.99 Billion"
+    publishedDateTime: 2021-06-15T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027-2021-06-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
+    excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-06-15T11:13:00Z
+    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-robots-market-unbelievable-growth-google-inc-ibm-microsoft-corporation-general-vision/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
+  - title: "Worldwide Voice and Speech Recognition Industry to 2026 - Featuring Nuance Communication, Microsoft and Google Among Others"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global voice and speech recognition market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-06-15T18:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-voice-and-speech-recognition-industry-to-2026---featuring-nuance-communication-microsoft-and-google-among-others-301312688.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Healthcare Business Intelligence set to grow according to forecast 2026 | Key Players – Microsoft ,IBM ,SAP SE ,Oracle ,Cloudera ,Enigma"
+    excerpt: "Healthcare organizations are implementing healthcare business intelligence solutions to improve efficiency and patient care. Business intelligence software industry allowing unique recommendation, personalization,"
+    publishedDateTime: 2021-06-14T21:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-business-intelligence-set-to-grow-according-to-forecast-2026-key-players-microsoft-ibm-sap-se-oracle-cloudera-enigma"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021-2027 Business Growth Updates | Top Players – Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-14T16:40:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/artificial-intelligence-ai-in-drug-discovery-market-2021-2027-business-growth-updates-top-players-microsoft-nvidia-corporation-ibm-atomwise/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 12
 
 secured: "Ti7s6tqnLUwZu9w0FQqn0NACNIX85c6KlSyaHfcdm7NxJTw/e8tacTKxIzHmiCcLwevwcmXRBJdRR9ao/8mAUHUbizQWvOlnWefKa1zWC0NIJbwW1NU/Q/evGkZQ1N+yms0ldRd9/Lwdhfmb6FU12Vx0vBqQnrevFzeluD3khi8DJHOytOqZYY6NLp9zy6XUvlpB8APAQuXbYuxnPf1ZQcXpNXQNK1upf0dCXxjFq8Zv3AwL86JI4iSXfr6fYoG/ZRS7ZTkKtv/kDdZurDCvN60gfZmT9IDIeErOpoZuzKH6RRRI+i8iT3msnq9VbX1ykd8P9bYKAuUde9Csw2tghAHVkHv/eIAFqNSLGksGZUQ=;m2hlQvruwAHzUvbBlwqjTA=="
 ---

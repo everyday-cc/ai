@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clinical Natural Language Processing Market Research & Clinical Advancements by 2028 | Artificial Solutions, Verint Systems Inc., NEC Corporation"
-    excerpt: "In addition, production and supply chain delays were also witnessed during the second quarter which poised a challenge to the Clinical Natural Language Processing market, since end-user industries were still not operating at their full capacity."
-    publishedDateTime: 2021-06-11T17:44:00Z
-    webUrl: "https://manometcurrent.com/clinical-natural-language-processing-market-research-clinical-advancements-by-2028-artificial-solutions-verint-systems-inc-nec-corporation/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 2
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Global-Clinical-Natural-Language-Processing-Market-2-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Facial Recognition Market Shows Unbelievable Business Growth | Top Global Players – Gemalto NV, Ayonix Face Technologies, Cognitec Systems"
     excerpt: "Latest added Facial Recognition Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-14T18:30:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-16-datas-double-edges-how-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management.md",
+      "title": "Data’s Double Edges: How To Use Machine Learning To Solve The Problem Of Unused Data In Risk Management",
+      "excerpt": "The world is awash in data, and data is there to be used — or not used — like at no other time. As a result, risk measurement systems today perform far better than the systems of even just three years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff75e7bb3a15a212c6d4736%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
+      "publishedDateTime": "2021-06-16T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector.md",
       "title": "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector",
       "excerpt": "Because currency is used every day, and impacts literally every market and industry, the impact of financial innovation through AI cannot be underestimated.",
@@ -1329,40 +1382,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-temenos-transforms-banking-with-the-temenos-banking-cloud-to-accelerate-saas-and-ai-adoption-with-instant-access-to-sandbox-banking-services.md",
-      "title": "Temenos transforms banking with The Temenos Banking Cloud to accelerate SaaS and AI adoption with instant access to Sandbox, Banking Services, and MarketPlace",
-      "excerpt": "Temenos (SIX: TEMN), the banking software company, is accelerating its leadership in the cloud by introducing the next-generation in SaaS, The Temenos",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210525005869/en/Temenos-transforms-banking-with-The-Temenos-Banking-Cloud-to-accelerate-SaaS-and-AI-adoption-with-instant-access-to-Sandbox-Banking-Services-and-MarketPlace",
-      "originalUrl": "https://www.businesswire.com/news/home/20210525005869/en/Temenos-transforms-banking-with-The-Temenos-Banking-Cloud-to-accelerate-SaaS-and-AI-adoption-with-instant-access-to-Sandbox-Banking-Services-and-MarketPlace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

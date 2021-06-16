@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Market by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2025"
-    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
-    publishedDateTime: 2021-06-11T19:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
+  - title: "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc"
+    excerpt: "The global cognitive services market is forecast to reach USD 36.85 Billion by 2026, according to a new report by Reports"
+    publishedDateTime: 2021-06-16T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -56,74 +56,102 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How New Artificial Intelligence (AI) in Retail Can Adapt to an Evolving Market | Amazon Web Series LLC,Google LLC,IBM Corp.,Intel Corp."
-    excerpt: "Artificial Intelligence (AI) in Retail Market” Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
-    publishedDateTime: 2021-06-14T22:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-new-artificial-intelligence-ai-in-retail-can-adapt-to-an-evolving-market-amazon-web-series-llcgoogle-llcibm-corp-intel-corp"
+  - title: "Call Center AI Market May See a Big Move | Major Giants| IBM ,Google ,Microsoft Oracle ,SAP,AWS ,Nuance Communications"
+    excerpt: "The increasing service sector and e commerce technological developments in cloud computing and a growing emphasis on customer centric services are the key factors expected to grow the call center AI market utmost for the forecasted period According to Canam"
+    publishedDateTime: 2021-06-15T19:58:00Z
+    webUrl: "https://www.openpr.com/news/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    ampWebUrl: "https://www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/9ebfba01b75f30bca0eaf59e0c5b01df4e1b9ed6-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Service Robotics market overview  Service Robotics market illustrates an"
-    publishedDateTime: 2021-06-15T00:03:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548505-service-robotics-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
-  - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
-    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-06-14T13:51:00Z
-    webUrl: "https://ksusentinel.com/2021/06/14/graphics-processing-units-gpu-database-market-with-report-in-depth-industry-analysis-on-trends-opportunities-and-forecast-2027/"
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+  - title: "Artificial Intelligence as a Service Market In-Depth Analysis including key players IBM, Google, Amazon Web Services"
+    excerpt: "A new business intelligence report released by JCMR with Global Artificial Intelligence as a Service Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
+    publishedDateTime: 2021-06-15T17:41:00Z
+    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-as-a-service-market-in-depth-analysis-including-key-players-ibm-google-amazon-web-services/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 0
-  - title: "Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
-    publishedDateTime: 2021-06-15T00:06:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548772-cellular-artificial-intelligence-ai-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    quality: 35
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-as-a-Service-719x470.jpg"
+        width: 719
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
+    excerpt: "VANCOUVER, B.C, September 14, 2020 – The global Artificial Intelligence Market is expected to reach USD 348.99 Billion"
+    publishedDateTime: 2021-06-15T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027-2021-06-15"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548667-deep-learning-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
+    excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-06-15T11:13:00Z
+    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-robots-market-unbelievable-growth-google-inc-ibm-microsoft-corporation-general-vision/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
-    publishedDateTime: 2021-06-15T00:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
+  - title: "Worldwide Voice and Speech Recognition Industry to 2026 - Featuring Nuance Communication, Microsoft and Google Among Others"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global voice and speech recognition market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-06-15T18:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-voice-and-speech-recognition-industry-to-2026---featuring-nuance-communication-microsoft-and-google-among-others-301312688.html"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Global Service Robotics Market Covid-19 Impact, Growth Rate, Size, Demands, Trend, Key Players Analysis and Forecasts to 2025"
+    excerpt: "The global service robotics market was valued US 20 4 Billion in 2020 and is expected to show significant growth during the forecast period Service robots have witnessed widespread acceptance among various professional and personal applications owing to benefits such"
+    publishedDateTime: 2021-06-14T16:51:00Z
+    webUrl: "https://www.openpr.com/news/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
+    ampWebUrl: "https://www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+  - title: "Healthcare Business Intelligence set to grow according to forecast 2026 | Key Players – Microsoft ,IBM ,SAP SE ,Oracle ,Cloudera ,Enigma"
+    excerpt: "Healthcare organizations are implementing healthcare business intelligence solutions to improve efficiency and patient care. Business intelligence software industry allowing unique recommendation, personalization,"
+    publishedDateTime: 2021-06-14T21:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-business-intelligence-set-to-grow-according-to-forecast-2026-key-players-microsoft-ibm-sap-se-oracle-cloudera-enigma"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021-2027 Business Growth Updates | Top Players – Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-14T16:40:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/artificial-intelligence-ai-in-drug-discovery-market-2021-2027-business-growth-updates-top-players-microsoft-nvidia-corporation-ibm-atomwise/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 12
 
 secured: "dw5lQDtycRYtXd/I3/l10K+67yNUlImvqd3PSV07LacXNvsdrhnPWWEs6pxKGbgLloTqH1WsHojt8hWTjHyIKejeYc/TnSgnsiEBMfY9kGc3LQXhgYWU424QfeuPPluUe+wWNj4b7NMhQUgf9apgpLbPyQ6ntIHeGW076zoeng/QxCe37gtTTW8+yhtxa0ES7LSMZThN4dtf0BCSafvj43H/QlaGjuiG0O0ppsxJ7gyg+0jMv6XrkWM/xLWXs+M7zxTNw5VxenyV2AhUFQpFqYfvFHL+GivLRmvnftDB6MJaDYAY26yUpRXMMjkfoVnatVKZRdM3gRBt/WqmMIJ/0xDoR9r+az9rYu4zCD8H1k0=;v8UcoLt/ACcfmwFQQC34NA=="
 ---

@@ -59,22 +59,6 @@ related:
         width: 772
         height: 435
         isCached: true
-  - title: "Huawei Plans On Making Self-Driving Cars By 2025"
-    excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
-    publishedDateTime: 2021-06-11T18:06:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/01/Huawei-logo-2018-AM-AH-2.jpg"
-        width: 1366
-        height: 913
-        isCached: true
   - title: "Huawei Wants to Develop Self-driving Cars by 2025"
     excerpt: "This includes Baidu, Xiaomi, and others that are attempting ... Now, the company has been working on developing its own self-driving car technology. During this period, it has also launched ..."
     publishedDateTime: 2021-06-12T00:00:00Z
