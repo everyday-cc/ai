@@ -8,9 +8,9 @@ webUrl: "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expandin
 ampWebUrl: "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 184
+heat: 214
+published: true
 
 provider:
   name: Wall Street Journal
@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Zero trust networking startup Elisity raises $26M"
-    excerpt: "Elisity, an AI-powered zero trust networking startup, has raised $26 million in a venture capital equity round."
-    publishedDateTime: 2021-06-15T12:30:00Z
-    webUrl: "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/"
-    ampWebUrl: "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI can now convincingly mimic cybersecurity experts and medical researchers"
     excerpt: "Misinformation within communities of expertise has the potential for scary outcomes such as delivering incorrect medical advice to doctors and patients. This could put lives at risk. To test this threat,"
     publishedDateTime: 2021-06-13T11:05:00Z
@@ -75,20 +59,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-doctor.jpg&signature=0256260c9c534e5cd6e4a501569ac440"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Iterable raises $200M at $2B valuation for its AI-powered marketing platform"
-    excerpt: "Iterable Inc., a startup that uses artificial intelligence to improve the effectiveness of enterprises’ marketing campaigns, has raised a $200 million funding round at a $2 billion valuation from a group of prominent investors."
-    publishedDateTime: 2021-06-15T19:29:00Z
-    webUrl: "https://siliconangle.com/2021/06/15/iterable-raises-200m-2b-valuation-ai-powered-marketing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/iterable.png"
-        width: 932
-        height: 521
         isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"
@@ -105,6 +75,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+UsDnxSMKJe1FuZgBOJTVcDEGyJ4EgldVeemtWOIEmuUT9/PXXq7GdDNSe/+ceez/GOYFuHdSHdcn5b674L2NxDKsa4kPZU/23wM9XWs3lMSBPE1FwYTVpinjxDgsed6PxWEYs4KOg6HTNdtMI3lemIh6NdmKJqfCtaXqVPxuU2EZOQ1RR6vkM34MGm8SWZl8UsLQsWG/udPAQ0nUfQwp6t9RhrndwhEjsG3NNM5arVIRYCug6ymbOScFhPg+Ssuuh0MbpdA1H8I3uUi68XyIYBasdNb//Kkr93ehljL2sNsqmpwHbZhFKhd7tJVrC2DqWxgDfAhYeq280VRWBwiQx166c8VzTpzgI6aZZrrNyDPihORUS9umNdZBuL8ShsUdqIsP85qVSjLh6tPxKODH76jKHx3MhISx15UAgwsGFmn1l2Y25eu+Wf17e/hQWCvnX19tXHpdWpcHE7VR1cWy82XPiqBl4SshDO4/dBskEl321xLIuHxUJXJJh4pgzbdiYw2OFqHvtZtdaGxJCIPRw==;3NpSZMkY6bUR+o6Gny683w=="
+secured: "c1qfiqMC1nPSgnxHB9OEZhsFIVlofzQx5R3Pxur8JH2yljz7yTCn01AhmJEjRJO03yx97FshOZEnOu3Gq5Dv4vw8RIjJMITAOBbb5uaaM2FR/HpeY/ngL6Z0h6ewePX/zpCTZw3OaW/jAUaEhRtF2gKQqdQDiQCXNoXmRnn6nfrYa+SyjApnFf1A+MBlXuG0cQDwVb6HhWjz+Nv6d3ssUE+XCj0WDFsMNS2v0sysyVN1fd7jLNk2rOLzHeUJL74jIvLF4qvcsq+MUjPn0A1I4WFHKc83/72tP/khxdpMWP65eYyd+JOaZdfXzctfbUgV2gDip76LL1l/tCgZ0ttgHKh3f2GHJH1fB4Kmjkp7q5dzBQFamBz6Cvn3yFIVMmRGSILRqGaG1Zwtx4uXRxue0z4RBPJZ27+PIE8LKygzDRtjt5SdUCZjZchrs5PUN8K9vY+FZ7SLLNJ5dB2WpBcL8FgbWp3MQcGgrxq51z9BTKzzfb6HxcuGfSkpdaoPQdCk1Jc2oDt5+DJ6Ub4z6Rh/j94m68ohtc9gCNeSAis/EaA=;myT+RhpENcBcWl/awgrlgA=="
 ---
 

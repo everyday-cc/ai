@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -43,28 +43,14 @@ related:
         width: 439
         height: 310
         isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Outlook, Competitive Strategies And Forecast up to 2025"
-    excerpt: "Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10."
-    publishedDateTime: 2021-06-11T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-outlook-competitive-strategies-and-forecast-up-to-2025-2021-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
     excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
     publishedDateTime: 2021-06-16T10:15:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
+    webUrl: "https://www.arnnet.com.au/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 28
   - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
     excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"

@@ -26,6 +26,22 @@ images:
     height: 470
     isCached: true
 
+related:
+  - title: "TuSimple's self-driving truck network expanding eastward via Texas"
+    excerpt: "Self-driving truck technology company TuSimple Holdings Inc. said on Wednesday it will open a new Texas facility that will enable it to put trucks to work hauling freight on the roads of southeastern U."
+    publishedDateTime: 2021-06-16T13:17:00Z
+    webUrl: "https://www.autonews.com/mobility-report/tusimples-self-driving-truck-network-expanding-eastward-texas"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-02_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "xF8SuPheB74GUzwRUi6Y6fqjHn9jJO+JAzQLs0I9w5rL3lkV7G4LRlAIncNK+J1D6eVMC4LlHF65gwfCjbB+7rsA+8NURCf0xhyo+twCfJOUjONkOqPNiRo6SqQlwUoIQjLtOFLePvEKYJF9nXQl1QMbHxhQFm1SrNGdAsrapEwpUd9jkQfto1XatKMlp9WoqYX8iRNt4BmC5jQl8YYSaFsSjQCclFcQFUK7UAVW2atpCeEGLQ5GBjbSJ7Cbm1fvCOhUzQwmVpLOWgZ6m+omTXoaoW8lb0CdqJo/eTY+bQYpUDK0b+4vY4NUnDynJr/jKqCaWYXOlz/uVEZaZsElldtrgQ6Yxep8UaLlRPqn/k0VeGgcMton1TH9u08krkOsylrlDKEs9apC8dnepqsn4XLllrFebUFhH/xOktbQHS6O6B3lHHxxpGvCbd6hCBegXNhdE8esFgZvhT3ihNgMnxwnnvDOI0rkI6MCFq1ZcxtBjkYA0oXd8m/ZJoLAzzHEayuNkf2anVaNUJI2q6q3Jw==;eFHnG7gQbGyr1iI+7b9E2w=="
 ---
 

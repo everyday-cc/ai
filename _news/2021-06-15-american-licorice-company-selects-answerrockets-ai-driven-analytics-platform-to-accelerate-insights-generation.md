@@ -70,6 +70,17 @@ related:
         width: 800
         height: 395
         isCached: true
+  - title: "Axtria Leads Discussion on Pharma's Advanced Uses of Data Analytics and Artificial Intelligence With 6 Sessions at PMSA 2021 Annual Conference"
+    excerpt: "Berkeley Heights, NJ, June 16, 2021 (GLOBE NEWSWIRE) -- With the elevated importance of data analytics and artificial intelligence (AI)-driven ... CSL Behring, and ViiV Healthcare will include how to leverage advanced analytics to adjust health care ..."
+    publishedDateTime: 2021-06-16T12:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21584862/axtria-leads-discussion-on-pharmas-advanced-uses-of-data-analytics-and-artificial-intelligence-wit"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21584862"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21584862"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
 
 secured: "D2jbCFPVs0fEB15OuJ/2Mwdmpq/VJ5CSkM7Edg+mWeAPahpsaZKQey1Nq9sI+HjWsIqUfPPxHGqJbAlhz6N+KK53Z1rCHqJI4XOOh5eUi5TEkRBtsrcBY9jiEqk6U8aw/ZJvN3uq9YV/C6thQHYB+xwnujJKqJQn2BhBlvNeXjuZ1NLImF3vskm3sooCsw7/VLRxz7rWB3X2a0foCkcdY0RvYpkAB/WlFo2w568iG6vlYvvz15I2hcYscxdqyBSnHTd6Zv8nQm77HzzIjwhXbykS0b6CpvZs5TmhmmX5DC32tFLhWbi6s7oI7NSnesMFE5NGPHUxhVI3rtGi6OaJWSbFv/oxzvD1WsWypQHg+Co=;wGXZ6KxxqQWIoV+XBSkatA=="
 ---

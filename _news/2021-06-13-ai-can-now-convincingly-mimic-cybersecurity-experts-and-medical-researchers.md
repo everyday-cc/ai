@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity"
+    excerpt: "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology."
+    publishedDateTime: 2021-06-15T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 184
+    images:
+      - url: "https://images.wsj.net/im-353929/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Elisity raises $26M Series A to scale its AI cybersecurity platform"
     excerpt: "Elisity, a self-styled innovator that provides behavior-based enterprise cybersecurity, has raised $26 million in Series A funding. The funding round was co-led by Two Bear Capital and AllegisCyber Capital,"
     publishedDateTime: 2021-06-15T16:55:00Z
@@ -44,52 +60,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-847829192.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Zero trust networking startup Elisity raises $26M"
-    excerpt: "Elisity, an AI-powered zero trust networking startup, has raised $26 million in a venture capital equity round."
-    publishedDateTime: 2021-06-15T12:30:00Z
-    webUrl: "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/"
-    ampWebUrl: "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity"
-    excerpt: "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology."
-    publishedDateTime: 2021-06-15T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-353929/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Iterable raises $200M at $2B valuation for its AI-powered marketing platform"
-    excerpt: "Iterable Inc., a startup that uses artificial intelligence to improve the effectiveness of enterprises’ marketing campaigns, has raised a $200 million funding round at a $2 billion valuation from a group of prominent investors."
-    publishedDateTime: 2021-06-15T19:29:00Z
-    webUrl: "https://siliconangle.com/2021/06/15/iterable-raises-200m-2b-valuation-ai-powered-marketing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/iterable.png"
-        width: 932
-        height: 521
         isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"

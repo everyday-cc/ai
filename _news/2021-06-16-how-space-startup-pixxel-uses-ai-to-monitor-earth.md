@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-16T10:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-space-startup-pixxel-uses-ai-to-monitor-earth/"
 webUrl: "https://analyticsindiamag.com/how-space-startup-pixxel-uses-ai-to-monitor-earth/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/pIXXEL.jpg"
@@ -23,6 +24,6 @@ images:
     height: 900
     isCached: true
 
-secured: "zkY5ED74Gw/M2FpyxkgB2ycASi4ApMaYnKbq9lQxrBRepnk5jQG0mXID/B1DvNZr5CyOLZE5I19qgeLpE8S9nxnOllciIfeY3SWhYqrmgJM5EOmVsZ6gcwP1sr58guHowaprLPCyrU5ty3daZgcww1weTzWa+/7dX3pgt9qYRAfSRddp4DQJjmNrmsGK50duOmdZA3UFOJAo1eZg1PdghBqVVX/GN+Efg/k4UslNeq/iAcq7nNV+ssKFNMUnXzhpuEpRcpwyEZ/K/l4omRGpbN5kkFpZbsE72ZG2ldF7tyX4Th0NGZIk5di14SzOnB/Fz4Re7A5waWICDCIT2XeuSQpt38W8qxLoPZVrbYdC5Xg=;PM/jdneBQGOJcW3W+tUsFQ=="
+secured: "KcynJxV1bFvKr+yVFSPYekrnbjWM6SUN3ODfDZArr4w3hz03h5TgkcnYbZOKKBXbOGu64gzI8o/4KLMgUDewlTEP6Zdq6vcBy5SAO4jGJ64owsnT//5Kg5OIKEnQu1CtUOTWx53fw8yPprlImr8DlvHeYJvMkr8vKLNILCcyEIacrIx19FymfXtqE1K/mURoRxVMjCRzJlSCsboEwHJuIbIzoQ7xgLMYHVauTeL1vnyPGJh4/5KaUNwMcbeHEefSMGKNnb9VNTGlAdePTKyNgQlACUv4G1nyrRlpOp6BXR5Ur6VVZiXRHB0DxACA/ePZSzrlTOJigSBb+GOpNKXN5F5LJVwrxvk0iGKmBnbUEZaC2YCreYZ0J76TmEAFzKrVpUG0Gv+xwm3JpkyYKwYDbsJzWl+I9fBZ2FPJlF72uFB8vt5bUCbsNmLY/5nVQgKqTvhAOHf2YQXlBRiT+30OhN2fpMjrICptwtC5MbtAp/gKN75lVjO+UwI7EnuFRBHxbFKbo8hm83zT5ycrZS5Ycg==;3wIlTG3noMjEGMPST2ALrw=="
 ---
 

@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Stripe delves into identity verification—a major foray beyond financial services"
+    excerpt: "Stripe launched Stripe Identity, a standalone fraud prevention service that meets a core customer need and heeds off competition."
+    publishedDateTime: 2021-06-16T12:55:00Z
+    webUrl: "https://www.businessinsider.com/stripe-hints-growth-strategy-with-identity-verification-rollout-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/stripe-hints-growth-strategy-with-identity-verification-rollout-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stripe-hints-growth-strategy-with-identity-verification-rollout-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/5fce379f037cbd0018614299?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Stripe goes beyond payments with Stripe Identity to provide AI-based ID verification for transactions and much more"
     excerpt: "A number of startups (eg, here, here, here and here) have fashioned themselves as the “Stripe for identity verification”, providing an easy way for developers to integrate ID authentication into a platform."
     publishedDateTime: 2021-06-14T14:30:00Z
@@ -36,22 +52,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
         width: 1024
         height: 563
-        isCached: true
-  - title: "Micro Key Solutions and the New DICE Corporation partner on delivering integrated Matrix Interactive platform to Millennium Monitoring stations"
-    excerpt: "Micro Key Solutions and the New DICE Corporation have partnered to provide central stations, those who are using Millennium Monitoring automation software, with the ability to add interactive"
-    publishedDateTime: 2021-06-14T10:16:00Z
-    webUrl: "https://www.sourcesecurity.com/news/micro-key-solutions-dice-corporation-integrated-matrix-interactive-platform-millennium-monitoring-stations-co-2662-ga-co-9763-ga-npr.1623660331.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/micro-key-solutions-dice-corporation-integrated-matrix-interactive-platform-millennium-monitoring-stations-co-2662-ga-co-9763-ga-npr.1623660331.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/micro-key-solutions-dice-corporation-integrated-matrix-interactive-platform-millennium-monitoring-stations-co-2662-ga-co-9763-ga-npr.1623660331.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 8
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/dice-corporation-empowers-security-integration-companies-with-matrix-integrator-920x533.jpg"
-        width: 612
-        height: 355
         isCached: true
 
 secured: "JIOmT8OYGcJn96bmwsUV1tW3fKoOkhewOODX4ZawI8SwGQcbvjBkTG9UiR360n8cHoG4XPWhb/3oUo95m7JtUNMWLkTMynFOAOhCaomNrlMR2F3AmuAOer+MdS9vetwfAkfNyZF3PZK0DKnoSxhHvBVfBD1ceut0DB2OAhS/V9wdKuPP4LPEG1KhYvqlaqdJk6ckUQAo0kiVJiel/GjHNhMFkXgEEMtaD2TpaKKZmnj9JKVQWau6VhEfnpPdlWR7XBW+qqrISv68mIHiR/Di9b0/af7ZgNma5+sMPvn/Yei54H4BSEpJQdpjHep7pneD9av7jlhDHPl+N5m+M/xTiXKwNI/CTZ/9vBMkUjCChoEDSrEQzYJ8Rc9KLjQRVzt/N8GBrXal7gxGbFbjzsS5hRXF+26IQS7hJ9ELdlluImK0soja2GGaXdax75vc7BJ9UYkUE5cwX5/IncEfLlaBgLblsI6YS4sb5LmU3S7QhSV7Ru//RjH2SfW7GygmHVLpUtyn3SNNcBJb/8GbtXIWug==;krn2+WFdeiJAk/fbHCfnEA=="

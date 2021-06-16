@@ -94,6 +94,20 @@ related:
         width: 965
         height: 543
         isCached: true
+  - title: "Tech Behind Facebook’s TextStyleBrush"
+    excerpt: "We do not assume any form of supervision available on how styles are represented or the availability of segmented text labels."
+    publishedDateTime: 2021-06-16T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/tech-behind-facebooks-textstylebrush/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/TextStyleBrush.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "vw+aEj1A8gnxgFEK+lY5QnwkZ841ZzqVJm3QawzkLr8YjfdgabIND2Apy7qGqTRZUM+CK7SZ0BrP9djSGxM18QCXXYhF43EP4SagTzo5Y3+HhdCtuXhWjw022hbqzF9ks1DmYWrPlMTKXih0lfBPNilgzT8e1qBGFRwVN2qsdMFf5zRy/mwSH47LNBuyHhWtjATYMmCtGBiD52IbxA0on5JPyh1qxyi7XqBaKjXqLdQLp3/wIOc23l1bCAl2bbmfdZ7tQp8/MuHzV22ld0H80rPJx+/0gtYi2DTdq1oSTJQNrzVZuP1/4+F4Q1MorLuqLSX3NwulObrhl7r+RCAiDIufImp/8/oJNCXDU1KitDw=;tDA9VK7207+khXnfd3YSbQ=="
 ---

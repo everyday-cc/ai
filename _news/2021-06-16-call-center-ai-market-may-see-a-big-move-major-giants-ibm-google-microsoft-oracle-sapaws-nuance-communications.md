@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
+    excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
+    publishedDateTime: 2021-06-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-in-healthcare-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027-2021-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence as a Service Market In-Depth Analysis including key players IBM, Google, Amazon Web Services"
     excerpt: "A new business intelligence report released by JCMR with Global Artificial Intelligence as a Service Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
     publishedDateTime: 2021-06-15T17:41:00Z

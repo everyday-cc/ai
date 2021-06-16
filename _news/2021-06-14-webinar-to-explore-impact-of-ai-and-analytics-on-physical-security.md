@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-an
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -71,6 +71,17 @@ related:
         width: 699
         height: 392
         isCached: true
+  - title: "Axtria Leads Discussion on Pharma's Advanced Uses of Data Analytics and Artificial Intelligence With 6 Sessions at PMSA 2021 Annual Conference"
+    excerpt: "Berkeley Heights, NJ, June 16, 2021 (GLOBE NEWSWIRE) -- With the elevated importance of data analytics and artificial intelligence (AI)-driven ... CSL Behring, and ViiV Healthcare will include how to leverage advanced analytics to adjust health care ..."
+    publishedDateTime: 2021-06-16T12:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21584862/axtria-leads-discussion-on-pharmas-advanced-uses-of-data-analytics-and-artificial-intelligence-wit"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21584862"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21584862"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
 
 secured: "uuQxt4O+pM7JjiZF2EH5Lzszl01krWgjGU2oYmDKxGkkJbyDBKsTL2VZK5qXyzvySNFXpiXPjXn1wn1+h2JLnV6pMuDQBXoKCj+zFIhLIl0yvtcXOxq50OBNrewhejW0lui+P+PMDcQbrb9+L04trdg9RYZUAn/sVaTsvM4wMVxLSwq2VGoB2plSDg3GKitnSi1ulvCT2adFMvFBe3arr+0f1uW3VvP3oHeBcvBGxen8tKp4fUcfHR9AWRsY5tz+Eygiv+uZ/5KHZQ/oZQKDmWkpM6z+xlD6tcKCVX/sxmJjaDwmJhid7aZQsfdvWV80vaGsyIVnEz4SfPsWpiH73aShxdlaHn1zIBgD/Z8ByoY=;uLIx8xtAOoWjbKam8vk2XA=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 660
         height: 330
         isCached: true
+  - title: "Micro Key Solutions and the New DICE Corporation partner on delivering integrated Matrix Interactive platform to Millennium Monitoring stations"
+    excerpt: "Micro Key Solutions and the New DICE Corporation have partnered to provide central stations, those who are using Millennium Monitoring automation software, with the ability to add interactive"
+    publishedDateTime: 2021-06-14T10:16:00Z
+    webUrl: "https://www.sourcesecurity.com/news/micro-key-solutions-dice-corporation-integrated-matrix-interactive-platform-millennium-monitoring-stations-co-2662-ga-co-9763-ga-npr.1623660331.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/micro-key-solutions-dice-corporation-integrated-matrix-interactive-platform-millennium-monitoring-stations-co-2662-ga-co-9763-ga-npr.1623660331.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/micro-key-solutions-dice-corporation-integrated-matrix-interactive-platform-millennium-monitoring-stations-co-2662-ga-co-9763-ga-npr.1623660331.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 8
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/dice-corporation-empowers-security-integration-companies-with-matrix-integrator-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
 
 secured: "BE2+0cQC+QzzC5R6U1QI9SxLBEVk3CFW+SEzr2327qUymFoEDU2HFw2AnwbOp3aR/HArvKAkQhFtgZ14SYtqTN5lF8rN9oENBFP/PHnc5ZuU0dOMLWall0KG+MnllIAkhAe1dKoi79dJI2CPDmlhInMfHsAyRFMz9o/XRBEOeKo/RQYM+80Tg0L6k3isjf88yHKXZF2yH/iRgMhNL/9Fl/h9xmCLgLZK29swhiOB6B77I0oJhBy4hqGSrQ5gcPM96xxFT5AqoKdDAlXoQveymsgavnQoK8nQflpVP0BIAiz6iXG9o8JJVNeLNT34G4BnlgtpstjZ/8kmDK9KY5qvZC8GTleOKiFuYykWfP6LkXs=;eiAXflXFng3wV+IYUpaMbw=="
 ---

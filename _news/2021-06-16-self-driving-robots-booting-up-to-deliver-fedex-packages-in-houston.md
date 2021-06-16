@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "FedEx to test package deliveries with self-driving startup Nuro"
+    excerpt: "FedEx Corp and robotics company Nuro on Tuesday announced a multi-year agreement to test self-driving vehicles in the package delivery company's network, starting with a pilot program in Houston."
+    publishedDateTime: 2021-06-15T17:56:00Z
+    webUrl: "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DR1F9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DR1F9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210615&t=2&i=1565798969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5E136"
+        width: 818
+        height: 545
+        isCached: true
   - title: "FedEx and Nuro launch pilot program to test self-driving delivery vehicle"
     excerpt: "FedEx has announced a new multi-year deal with self-driving technology company Nuro to test its autonomous delivery vehicle under a pilot program. According to FedEx, the arrangement includes a"
     publishedDateTime: 2021-06-15T20:34:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/06/2021-06-15-image-15.jpg"
         width: 2560
         height: 1706
-        isCached: true
-  - title: "FedEx/Nuro Tie-Up Shows The Last Mile Belongs To Robots And Autonomous Vehicles"
-    excerpt: "Nuro’s linkup with FedEx and separate long-haul driverless trucking initiatives show the efficiencies that can be wrought from logistics."
-    publishedDateTime: 2021-06-15T21:23:00Z
-    webUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/"
-    ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 55
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/FedEx-Nuro-Image-Approved-600x400-1-457x274.jpeg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Your next FedEx package may arrive courtesy self-driving vehicles"
     excerpt: "FedEx Corp has partnered with robotics company Nuro. Fedex and Nuro will test self-drive vehicles for package delivery..Self-drive vehicles could be cost-effective and allow for late-night pickups from far flunk places."

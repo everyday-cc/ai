@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-glob
 webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-deep-learning-market-size-share-value-and-competitive-landscape-2020-2021-06-15"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
+    publishedDateTime: 2021-06-15T00:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548667-deep-learning-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "JzAr1YPruWtIIPzKVBgt1Vk01TFBQMw+hiA2oNyyw4sECyBj0+PfdF6DASC1cMJGCrDq6G+mmMJs1pnzz/FcE+TH4f9WfMIOQJHMCwI/oeqjZc43hUjdsBcP59cooDlnhjeOE4OdvR5d5neloq/HMBXL37PICpHVyD5R4kE7jOgPtYD1R6+edGpXvIvniZK/Qvpe+U2X9Yrt/xu0UfTcqErclvsO4VTt75PwxWUiWHL6ws5pQRThD73Ke3k3uwzoY4YOejnfIIgwEMlS+PqFTjCCUJ48Lt7jMoK1RYDaGws5ZrlziPMr6kM0bf1CQ6rmuudEkgtndsyy9VPYhDw8ObHiuYkgxKxmB4sCYZSk0W4=;8q4XUfympt2aOVTPYV6SGg=="
 ---

@@ -27,33 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Stripe goes beyond payments with Stripe Identity to provide AI-based ID verification for transactions and much more"
-    excerpt: "A number of startups (eg, here, here, here and here) have fashioned themselves as the “Stripe for identity verification”, providing an easy way for developers to integrate ID authentication into a platform."
-    publishedDateTime: 2021-06-14T14:30:00Z
-    webUrl: "https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/"
-    ampWebUrl: "https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/amp/"
+  - title: "Mipsology’s New Zebra FPGA IP Accelerates Neural Network Computing for Edge and Embedded AI Applications"
+    excerpt: "AI software innovator Mipsology today announced the availability of Zebra FPGA IP, a solution that accelerates the development and deployment of FPGA and adaptive SoC-based machine learning systems. Zebra FPGA IP is optimised to power edge applications spanning industrial automation,"
+    publishedDateTime: 2021-06-14T09:32:00Z
+    webUrl: "https://www.cieonline.co.uk/mipsologys-new-zebra-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 65
+      name: Components In Electronics  Online
+      domain: cieonline.co.uk
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
-        width: 1024
-        height: 563
+      - url: "https://www.cieonline.co.uk/wp-content/uploads/Mipsology-960x540-1-660x330.jpeg"
+        width: 660
+        height: 330
         isCached: true
-  - title: "Digital Identity: Payments Giant Mastercard Finalizes Acquisition of ID Verification Service Ekata"
-    excerpt: "Mastercard revealed on Friday (June 11, 2021) that it has finalized its acquisition of Ekata, a provider of identity verification services that assist companies or businesses with"
-    publishedDateTime: 2021-06-12T23:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/amp/"
+  - title: "IHP offers access to memristive technology for edge AI computing or hardware artificial neural networks applications"
+    excerpt: "Progress in work on memristive circuits and systems is growing rapidly. They find applications in non-volatile memories, advanced computing technologies, e. g. edge AI computing applications, or in hardware artificial neural networks (ANNs) with memristive elements as synaptic elements."
+    publishedDateTime: 2021-06-16T07:28:00Z
+    webUrl: "https://idw-online.de/en/news770813"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 10
+      name: idw
+      domain: idw-online.de
+    quality: 31
+    images:
+      - url: "http://www.idw-online.de/en/institutionlogo27391"
+        width: 902
+        height: 1771
+        isCached: true
 
 secured: "mky00Kr/WtUvVHddPsFxO1nosGPLV9KSIDfpLDjsbK5Uz120icuq4GR/Z7vYqavarmSEi3NXtKKImSRlqoIgXGD8aZQ0JubW4gGc1mmUK8i3G6K/3jID3ZKKLfEs+piTdtAklwdoXNTYHWGQJnx1EIbVRb/HYbBHImoOd1Wzl/oc+RQPzOmDhNvJLLD6tvBrefFpApxeutSpWVTeLiF2IH+UW/9mRHcgQPxVliTsgHGdpq/YQ/kMk9+JhB8W6QUrj8IN+kDA1tQVNvc+SaQ3pfkndsd+72xsY02a3iii/mY72ZDeJh6nTbOSfc0C2THELTWaEanvwLrX8cGn4DiqwlTp4J3rDRR0Q2UruBmsG6k=;wbCJZT71uDUzw73ryEAYRA=="
 ---

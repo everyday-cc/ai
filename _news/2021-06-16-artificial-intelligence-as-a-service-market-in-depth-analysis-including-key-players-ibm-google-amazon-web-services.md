@@ -80,6 +80,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 47
+  - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
+    excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
+    publishedDateTime: 2021-06-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-in-healthcare-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027-2021-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
     excerpt: "VANCOUVER, B.C, September 14, 2020 – The global Artificial Intelligence Market is expected to reach USD 348.99 Billion"
     publishedDateTime: 2021-06-15T12:33:00Z

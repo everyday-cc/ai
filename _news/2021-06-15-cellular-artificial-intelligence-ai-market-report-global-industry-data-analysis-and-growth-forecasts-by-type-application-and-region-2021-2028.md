@@ -18,79 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Market by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2025"
-    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
-    publishedDateTime: 2021-06-11T19:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
+  - title: "Rural and regional industries told artificial intelligence (AI) vital to their future"
+    excerpt: "Export-orientated Industries in rural and regional Australia are keen to adopt artificial intelligence (AI) to lift their productivity and efficiency."
+    publishedDateTime: 2021-06-13T22:30:00Z
+    webUrl: "https://www.farmonline.com.au/story/7293170/big-push-for-rural-and-regional-industries-to-adopt-digital-technologies/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: FarmOnline
+      domain: farmonline.com.au
+    quality: 47
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.farmonline.com.au/images/transform/v1/crop/frm/NuWQvHHmyRTHb34TK5vjRm/051ff63b-f005-47cb-a6bf-d53b537eef49.JPG/r0_218_4240_2614_w1200_h678_fmax.jpg"
         width: 1200
-        height: 630
+        height: 678
         isCached: true
-  - title: "How New Artificial Intelligence (AI) in Retail Can Adapt to an Evolving Market | Amazon Web Series LLC,Google LLC,IBM Corp.,Intel Corp."
-    excerpt: "Artificial Intelligence (AI) in Retail Market” Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
-    publishedDateTime: 2021-06-14T22:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-new-artificial-intelligence-ai-in-retail-can-adapt-to-an-evolving-market-amazon-web-series-llcgoogle-llcibm-corp-intel-corp"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/9ebfba01b75f30bca0eaf59e0c5b01df4e1b9ed6-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Service Robotics market overview  Service Robotics market illustrates an"
-    publishedDateTime: 2021-06-15T00:03:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548505-service-robotics-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
-  - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
-    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-06-14T13:51:00Z
-    webUrl: "https://ksusentinel.com/2021/06/14/graphics-processing-units-gpu-database-market-with-report-in-depth-industry-analysis-on-trends-opportunities-and-forecast-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
-  - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548667-deep-learning-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
-    publishedDateTime: 2021-06-15T00:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "d4wzzhJewWzB29pBiq+8kurB9GPy6d1B7mDS2RO/fyhe0HYlkpntn1+Q5As5CcaID5qESjAu3LHVkoCiNRRBiZaJHRRTtiRAgk3VEg7mh/SV6adDHjc3MHOwvaE7U9c0eIoTzp68J+rUCx7wmFyvNDdG3Ln4qBLwTRwMn5g1Ps4wmEVe9z8REIs1t98+YgzyX40LMepDmbm4cug4dz+oP4QaRl17QHA1yBN+OFtis/WlN16TPmVScqSoux8dj6Oi6MhtVa7h308T7mU9So6dm/Gtrx/uhxaB2f2AzkufRCTzYm8gVvN7P6U2jizqqwDQ/OODtFrJ4+Vx64jPU2CTXfYIXTcNtjiCiFM4s+S0zuw=;oHR6W3en5RY3TQ2H5fcsWg=="
 ---

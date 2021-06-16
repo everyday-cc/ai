@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Intento Named a 2021 Cool Vendor by Gartner"
-excerpt: "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,"
-publishedDateTime: 2021-06-07T18:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm"
+excerpt: "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ..."
+publishedDateTime: 2021-06-07T20:46:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53084026-intento-named-a-2021-cool-vendor-by-gartner-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53084026-intento-named-a-2021-cool-vendor-by-gartner-008.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "McBGyvcy0DxOqL7P2tROaf4KaXmCCAImXCzHfJn7Wn/08zp5uLDoUK3q37R0RUNhyBmHC31DdkUbqMmh9JuaWvtXkHUmijHlat0wc/6zyXIlfWSacx+wvdj39vaRV1koQFFkcMDiW2Yx1sNJ4WDhZQe1GZfyt1r05xqPBAaE7lwsfAFZu9XooIet6ro58n77phkDnJOylf0WhIEQRtF/xo6yrTaGxkYK5gaEhLN9fStZlKEAvNfgBAssxHrFUNrQ0hBuvg+pQfxAOfGxAuyczYT/XorKrHZQa0Ae9dAGxyccehOkhT9v4NEX7qs8iQNo4BOTAwuNTnNANl4KcjTMKk7Y8/KpC4qjK24f9eYbH+I=;d4RufJQlSpJ9d19WJpp+qg=="
+secured: "Lpi02Az5RnVLJumMlq7p7hxOxZPhd+jOoVdIywP91uJHAcEFOEoxfiDg5eqIlne0fPSBGhLzGe0+NbMpupfkK0ZM01Wr6H396gVIIwDnhXiguVgLIYKVps+IjxU612dCpzP54Q/S5PiW6AivCOl+xVmCf+DcsyxG8W837Io+x17TE4SCs7fpOA4RY2U4aJ5wFoqUXPgAel+QoQvdPPoMKlU2z0dnT6ygQFqVsTpvAzKp6Y0H6rOc/uWZacYHjMxMRsTACsRZ1ZeUy1puWGzXG33dWNp787iYLhQs/uuh55QfPmc7d3uZVjMlisi56TdL3F5zJwVWnsYmf+vtApxY0u4hI/mAkKBKSBZG3lyUW0E=;4wLiYYIi5kTvVCyesTxJvg=="
 ---
 

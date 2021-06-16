@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
 type: article
 quality: 90
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/06/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
         width: 965
         height: 543
+        isCached: true
+  - title: "Tech Behind Facebook’s TextStyleBrush"
+    excerpt: "We do not assume any form of supervision available on how styles are represented or the availability of segmented text labels."
+    publishedDateTime: 2021-06-16T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/tech-behind-facebooks-textstylebrush/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/TextStyleBrush.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "XYUHemVIThGzu8YxcddsBLSs1rOtvLgLO3zD5O0NnopSIbdF9jsQeAwDn/g9F2TutoPHR1cmxuariDYO/z5rUZ4nalnBURvetYZX9xEJQ0ql//od4MgRVBLTOljxfDjKzD3WJizlQNMMPhvg7ZSAwN3euGwX6WHiuh6aj5I0QU/7vYcmhe93hiT4kLkJnwP+g18+cJj1wkOJGn0v2W1lfhtAA0DGybjT5dNCNdUlWw2IinYVFdbyjeqRYjMvg5agMmcE/cfLlJB6djXHNsm3qmIVpzR+mPq/jm6AKr9j5IH7CLwIkxU9Z9t1aSczDAjHlWZc0cKC4YxxVRBhKeeeHIqAXMmUVun7wMtzJpcfQlyU1UCysA7bJgAWEVqsXrYdGuWUDmGmThYS3i24CqmszLqdTA+fYAmiXpTUFMBFegqenuul6JXBWXgTfeZNpn2vkQKVgqoWXrOGUJ3nWC2M+mSTtnPF/4xhkKl2eSLNvCVZZuMLCSlJWqfDdm4ETzcRgbYz2+QQ4eZfpbtbZ/yypQ==;+QdiY5sc6pOCCv9Ly/FJyg=="
