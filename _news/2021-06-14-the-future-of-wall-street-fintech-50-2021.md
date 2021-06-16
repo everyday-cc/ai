@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "B2B FinTech Investors Target SMB Banking, Business Payments To Talent"
-    excerpt: "Nubank's digital banking service for both consumers and small businesses took the lead in this week's B2B venture capital roundup."
-    publishedDateTime: 2021-06-11T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Nubank-investment-Berkshire-Hathaway-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "June 2021 Report on Global AI in Fintech Market Overview, Size, Share and Trends 2021-2026"
     excerpt: "Due to the high popularity of this product/service in North America and Asia, the growth trend of AI in Fintech in"
     publishedDateTime: 2021-06-14T10:47:00Z
@@ -84,22 +68,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "As FinTech Business Models Shift, Asset-Based Funding Evolves, Too"
-    excerpt: "James Sagan, founder and CEO of Architect Capital, discusses how asset-based finance can evolve as the business models of the FinTechs it services evolve, too."
-    publishedDateTime: 2021-06-11T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/ledgermatic-digital-asset-treasurer-457x305.jpg"
-        width: 457
-        height: 305
         isCached: true
   - title: "10 European FinTech Companies in the Real Estate Space to Watch Out For"
     excerpt: "FinTech (financial technology) is a swiftly growing global field that has naturally entered into a significant crossover with the property industry as it continues to revolutionize the way we invest and save."

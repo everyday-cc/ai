@@ -1,23 +1,39 @@
 ---
 category: news
 title: "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader"
-excerpt: "VANCOUVER, BC, June 14, 2021 /PRNewswire/ - TechX Technologies Inc. (\"TechX'' or \"the Company'') (CSE: TECX) (OTC: TECXF) (FRA: C0B1), a company focused on emerging technologies across growth sectors including: crypto, blockchain, AI and cloud ..."
-publishedDateTime: 2021-06-14T11:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen/article_cfecc466-12a1-516f-8e2c-c3bf29fc697d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen/article_cfecc466-12a1-516f-8e2c-c3bf29fc697d.html"
+excerpt: "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation."
+publishedDateTime: 2021-06-14T11:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/14/9389406.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/14/9389406.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "zSAnMHM2vVB7nl0reFPsb+68+EBrDk9gn4T1B1vhp6mRNpHP4/RE9hTGeHwI3Ay0H06DihrfU3AkKYxKo5EhtArexaqnRHGdxxfGOm9AYsSac/TschRIPDWDWHqOruvmUTUBM79YmoWJ3B6EHtwhT1TdkzyS17tWnPeeoKP52dvHu3wnj3VrqxCZBMdKkwULtw0oy/Pq2s5jMvRoMuRMIz8qQd5RW2N34xYmlFhSOxZLDs0YtnUXXxiKKAl8d+uFIJK0n2DX1jAofFBK/5e2QrpgQA/ER9JsMgXt6uS9M8C8c+SQLuMod2tfo/vi9iqwQfHOHTTmSMHLSaofpWl9HNfHBjYe23I0yiB0w8vz+SE=;mo+OUrdtKrZrwU6Kx0myHQ=="
+related:
+  - title: "Cross River Launches Venture Capital Arm to Propel the Next Generation of Fintech Startups"
+    excerpt: "Cross River Bank (\"Cross River\"), a technology-driven financial services organization that provides core infrastructure and embedded financial solutions, today announced Cross River Digital Ventures,"
+    publishedDateTime: 2021-06-15T11:46:00Z
+    webUrl: "https://www.lelezard.com/en/news-19855942.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
+secured: "2ZVDBw3vyGYs9aDHJl7wtxO1UhrmTiYyL0OBI4EKql2d6dmaFxSbItEr4m3uGmhQHJVOF0nXpuQ9eFS8R839JxYGmBgUv+9cDBISr3PI7bw4as94Dhp0EG9IrQJ0JXhsCSmzPBUPQkdDAe0g3p7p2RZZtk1wJ+JteS1qgk6VP2bTe3C8EJ5zsS3GCvFdqVkqqE1Hh17pgyi2tSsxz54s9pMV4zd9xb1P787LYell74ygGifq0W6yAUFx2XXFNDy4Te90EZE4hQ9MWZw2D08+5/ikKpUKVJ/5xUYzMNpWF+XMJvChvQPYwNangQr0oqCJ+G+7ZUGvyrNNyn7bw6jBZpJqWlF4v3HWHD6XdZ9asco=;eBrq//0x+YlQkR6LP/dT2w=="
 ---
 

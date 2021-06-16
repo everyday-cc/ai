@@ -26,21 +26,41 @@ images:
     isCached: true
 
 related:
-  - title: "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft"
-    excerpt: "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
-    publishedDateTime: 2021-06-11T12:55:00Z
-    webUrl: "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    ampWebUrl: "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving"
+  - title: "Call Center AI Market May See a Big Move | Major Giants| IBM ,Google ,Microsoft Oracle ,SAP,AWS ,Nuance Communications"
+    excerpt: "The increasing service sector and e commerce technological developments in cloud computing and a growing emphasis on customer centric services are the key factors expected to grow the call center AI market utmost for the forecasted period According to Canam"
+    publishedDateTime: 2021-06-15T19:58:00Z
+    webUrl: "https://www.openpr.com/news/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    ampWebUrl: "https://www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 61
+    quality: 47
+  - title: "Artificial Intelligence for Marketing Market May Set New Growth Story | IBM Corporation, Google"
+    excerpt: "The artificial intelligence technology is helping the transformation of the marketing departments this allows marketing professionals to quick access to the insights According to IBM near about nearly 40 of CMOs are planning to reinvent customer experiences with AI The"
+    publishedDateTime: 2021-06-15T19:58:00Z
+    webUrl: "https://www.openpr.com/news/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306011/artificial-intelligence-for-marketing-market-may-set-new-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+  - title: "Artificial Intelligence as a Service Market In-Depth Analysis including key players IBM, Google, Amazon Web Services"
+    excerpt: "A new business intelligence report released by JCMR with Global Artificial Intelligence as a Service Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
+    publishedDateTime: 2021-06-15T17:41:00Z
+    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-as-a-service-market-in-depth-analysis-including-key-players-ibm-google-amazon-web-services/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 35
     images:
-      - url: "https://cdn.openpr.com/U/6/U611505535_g.jpg"
-        width: 600
-        height: 315
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-as-a-Service-719x470.jpg"
+        width: 719
+        height: 470
         isCached: true
   - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
     excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
@@ -51,6 +71,38 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 30
+  - title: "Healthcare Business Intelligence set to grow according to forecast 2026 | Key Players – Microsoft ,IBM ,SAP SE ,Oracle ,Cloudera ,Enigma"
+    excerpt: "Healthcare organizations are implementing healthcare business intelligence solutions to improve efficiency and patient care. Business intelligence software industry allowing unique recommendation, personalization,"
+    publishedDateTime: 2021-06-14T21:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-business-intelligence-set-to-grow-according-to-forecast-2026-key-players-microsoft-ibm-sap-se-oracle-cloudera-enigma"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021-2027 Business Growth Updates | Top Players – Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-14T16:40:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/artificial-intelligence-ai-in-drug-discovery-market-2021-2027-business-growth-updates-top-players-microsoft-nvidia-corporation-ibm-atomwise/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 12
+  - title: "Artificial Intelligence Chipsets Market : Strong Quarterly and Yearly Performance | Google, Samsung Electronics, Microsoft, Micron Technology"
+    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD XX Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. Latest added Artificial Intelligence Chipsets Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-06-11T17:03:00Z
+    webUrl: "https://ksusentinel.com/2021/06/11/artificial-intelligence-chipsets-market-strong-quarterly-and-yearly-performance-google-samsung-electronics-microsoft-micron-technology/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
 secured: "MmoLzkogNNlWcB69X9dH+QT2JAPjSKga/k4C2O7nR25NIwwnxvPvgwrRX06OZ1SczqoJjRDA0GWky4kkx3EwOuteFCgrb6jWCgS0uxNlKB4M0uR8g/mSmnsQ+Ax5BVZ6BUSk0DAIcrLXJfdla0Bn4eFT2i3RpWpTrZQem9Ql3ZSlyqwoqF90wBcK2iAwPXbBg+sz/lcvXckZNAiRldzAMtNJ0MBY+2ZgEJ0h+ASdt1QJktPfxwz9zzwQ8p9UnEGMIUQIBIUJwoWaWr8UcH/5+uQvaPSuJxnH0WoRIGKd15v6wpGr+CXL/MGQf4Xd/pTmpcfDJn/fkSfMvXaeTAKvTL2bXsTAxcDg6z7L4xwtSgE=;7KpJ+H8+PlZc/VcX82h6iw=="
 ---

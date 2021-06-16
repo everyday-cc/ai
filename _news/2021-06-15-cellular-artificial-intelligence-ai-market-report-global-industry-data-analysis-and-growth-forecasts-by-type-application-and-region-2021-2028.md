@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cooking Robotics Market: Global Size, Share, Growth, Overview, Opportunities, Top Leading Company Analysis and Forecast till 2028"
+    excerpt: "Research Nester has released a report titled \"Cooking Robotics Market - Global Demand Analysis & Opportunity Outlook 2028\" which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
+    publishedDateTime: 2021-06-14T15:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cooking-robotics-market-global-size-share-growth-overview-opportunities-top-leading-company-analysis-and-forecast-till-2028-2021-06-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How New Artificial Intelligence (AI) in Retail Can Adapt to an Evolving Market | Amazon Web Series LLC,Google LLC,IBM Corp.,Intel Corp."
     excerpt: "Artificial Intelligence (AI) in Retail Market” Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
     publishedDateTime: 2021-06-14T22:02:00Z
@@ -46,17 +60,24 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "COVID-19 Impact on Mobile Artificial Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Mobile Artificial Intelligence Market size is expected to grow at an annual average of 26 3 during 2021 2027 Virtual assistants and bots will become more prevalent and smarter in the near future freeing employees from monotonous tasks"
-    publishedDateTime: 2021-06-11T12:37:00Z
-    webUrl: "https://www.openpr.com/news/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
-    ampWebUrl: "https://www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+  - title: "Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Service Robotics market overview  Service Robotics market illustrates an"
+    publishedDateTime: 2021-06-15T00:03:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548505-service-robotics-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 6
+  - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
+    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-06-14T13:51:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/graphics-processing-units-gpu-database-market-with-report-in-depth-industry-analysis-on-trends-opportunities-and-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
   - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
     publishedDateTime: 2021-06-15T00:02:00Z

@@ -41,6 +41,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Europe AI in Computer Vision Market"
+    excerpt: "The AI in computer vision market in Europe is expected to grow from US 1 212 90 million in 2019 to US 27 107 46 million by 2027 it is estimated to grow at a CAGR of 48 5 from"
+    publishedDateTime: 2021-06-16T04:54:00Z
+    webUrl: "https://www.openpr.com/news/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/6/U616144349_g.jpg"
+        width: 439
+        height: 310
+        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Outlook, Competitive Strategies And Forecast up to 2025"
     excerpt: "Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10."
     publishedDateTime: 2021-06-11T19:52:00Z
@@ -76,6 +92,6 @@ related:
       domain: ksusentinel.com
     quality: 2
 
-secured: "vQZGsyylf6IQXGSJY/fnBXmwist+g1FWFkz9sYYZ4gcJb3tZtG/AwpuZCVHxHMiHUkQTbkqwF3ZGpsHprOFaDruzCUz2y3mHWegBKdG2tnxmtitXsK7sggF2HpVfGWsmUiQdZxNn8UQl3VEJC0INEu0iMgyw6JZ7UCxrZm7eg81hHet8ohAV3CyPQiKMMskPc1QiqQ40WhgmUxXz+fpoXAnZabiH7hR8slKVe8TnSLMb0oC1JD/m3ksLjCE7R4KJ0e76ViN+gTBIw7rMoA732FOprvz17cimzXOIeNAhdNKL5/piLKkoivCbDfSQjxtdi88a0qJuNxz8v9ZQq+dfVRew/yTnELQfqrpNFzRZndY=;9nbvUJ0Qmi4a+7yJI/XPIg=="
+secured: "E+Qntcl2YUgzGIn472WORxtp+13HbBiZh8LD36HjsxjQP8EEuv8/bn73vSYbyVKs+jKUXLaf7Wj5NKyT8NMtloEtfY1yt6BONpHorgIf/NqE8ALzHRCi+rGIzXOmomujpGXR1yLdmroeNE0LyLX4AiMOYkF7ZJvx9RaKunIYohwO4LzeY/jjYjJfdAED7SUvW+Om4X70YUjSFNJ/Efq3XuByu2rtJ9Afq2zJI2vtR3e4m3tPuJ0KhxdKvh9vZpzKTD+tjD6UuUlpRoQIeILp/xtZnJwm0vOlO8BPuVEcBSYMQ8dcowiYjJkqHYpwpMQHoqxHdlsFSjLMcDhUwk0Bnute54uXjRKkV6L4uKTdXCpnewLt5me4njUieovoIsOV6L3JvVdNIHP2cyBrhr4M2cgr+qSTsg12COvhJdM+YCk6LkYkJd1oVSzIXKcrfpaEEfA8YtteaDWHcLylpNBVmWBovaTXart1hhwTgKhflJL381FQyIMynSLRQKiFsHgGy2CVYuwh7IPoRwBBbw5H7g==;9jqgrsn47bQtPXiPjrB0gA=="
 ---
 

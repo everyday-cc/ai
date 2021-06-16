@@ -25,52 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis"
-    excerpt: "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10."
-    publishedDateTime: 2021-06-11T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
+  - title: "Global Service Robotics Market Covid-19 Impact, Growth Rate, Size, Demands, Trend, Key Players Analysis and Forecasts to 2025"
+    excerpt: "The global service robotics market was valued US 20 4 Billion in 2020 and is expected to show significant growth during the forecast period Service robots have witnessed widespread acceptance among various professional and personal applications owing to benefits such"
+    publishedDateTime: 2021-06-14T16:51:00Z
+    webUrl: "https://www.openpr.com/news/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
+    ampWebUrl: "https://www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cooking Robotics Market: Global Size, Share, Growth, Overview, Opportunities, Top Leading Company Analysis and Forecast till 2028"
-    excerpt: "Research Nester has released a report titled \"Cooking Robotics Market - Global Demand Analysis & Opportunity Outlook 2028\" which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
-    publishedDateTime: 2021-06-14T15:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cooking-robotics-market-global-size-share-growth-overview-opportunities-top-leading-company-analysis-and-forecast-till-2028-2021-06-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Service Robotics market overview  Service Robotics market illustrates an"
-    publishedDateTime: 2021-06-15T00:03:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548505-service-robotics-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
-  - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
-    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-06-14T13:51:00Z
-    webUrl: "https://ksusentinel.com/2021/06/14/graphics-processing-units-gpu-database-market-with-report-in-depth-industry-analysis-on-trends-opportunities-and-forecast-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
 
 secured: "6gohJxAg0/RHLtZtsxKcBhTv/Yl7TGKFNPizdKc7ecLrOimRXa0RD+Bv4bIHGB+lPeVohcQvzjB3jL+Bw09VMYKWjukxIJCo4MojXzO8i6rP++nKXhuu/dbOT/wxegFaVpQ0RXqYNiQHWejF3j4lUTq3uGeU5k8AXf5tjJxRvgHiyGa4ly/KsqjgU0IhmPNtcjMVpZOkFRXGUiMmcLY5Gt/Zv2fCYCsazlrPNA45+fX1lGTao6kI5w0dvXP/qTsSYvP553YmON6VroHMn81CnBIY94ZEboyMys2wHdfgHgqf97Q+oohq0j17k/J00jJrrwunbMD/vxHPyIvJUIkB1ix1xkuBgYl/z9ifu64ssmluHcmryOGCMaxh+1YDNvp3wdsrSg9jKCCw0g1Bwm4JDxE1hnMJQ2NW7i/c7PqXYDP0zRJJh9QB16gGelmL7XUxHanAREX9OGgZdVoeUcDAD/yFxyS13CtM03ZKCW8N3XqOX5DhNRtZBSndI+DC+ZML7LawEzODBl/MHyc/Ozmrww==;PPcJchAZ3qu7dtx4aqXhpw=="
 ---

@@ -36,6 +36,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Europe AI in Computer Vision Market"
+    excerpt: "The AI in computer vision market in Europe is expected to grow from US 1 212 90 million in 2019 to US 27 107 46 million by 2027 it is estimated to grow at a CAGR of 48 5 from"
+    publishedDateTime: 2021-06-16T04:54:00Z
+    webUrl: "https://www.openpr.com/news/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/6/U616144349_g.jpg"
+        width: 439
+        height: 310
+        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Outlook, Competitive Strategies And Forecast up to 2025"
     excerpt: "Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10."
     publishedDateTime: 2021-06-11T19:52:00Z

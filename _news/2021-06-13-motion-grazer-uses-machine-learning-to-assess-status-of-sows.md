@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Invention uses machine-learned human emotions to 'drive' autonomous vehicles"
+    excerpt: "A new technology for autonomous systems that is responsive to human emotions based on machine-learned human moods has earned a very competitive utility patent from the U.S.P.T.O. for FAU. This unique invention uses non-intrusive sensors to perceive the mood of drivers and passengers in semi or fully autonomous vehicles,"
+    publishedDateTime: 2021-06-16T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/fau-ium061521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 21
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/267958_web.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+
 secured: "uhpSy0vXZY6oYLnCV5J5lKM5fwOrN16nShwEJyGX4e8muPRoT0OHagMUga9Dp78R82t5rQM1gTOVKoSI10EcNCiEMaIyAXP9QZ4qoKTWslHl8JYlSpklQz1ntdmalJXlw9g/itJG0elcMe1kX+L9tQS6AdddcrDqzhVXacQxgqkBEuIBuUBUMNnG7NAL52ayWHy1p2L2L7kcugZEY62cvTrnZILUd3v0RaJhC4mgZ/XyFL80yUf3cV7onO/uyKRGxQykRrWhdHUjKHt08zl0rNMatWvygPKJDT4kQa4E+9Ze7zf7DboGTksNvyvN7poSJVWn4wvWx+6iNeVxAtiuD1fBKJTaDoqkJ/JwssywZlJ2Yo8m+QubIuyKo3UInLC0s6sCBw9hzBLLDK3arnj6hPgdAJUX2hZP/13smmBr6WaJTDuIlY2NQYlX+eajv26yuKUwL7eypnUemZVQLG/fqfwaLegOmiMLNoZqZZ5DIu0F2lxmX2Uq4xNbhf+HCFFgnjHuxrXBJPJ7YVSZS6Owiw==;JC3imw4aRR3tdLkVv/BEGA=="
 ---
 

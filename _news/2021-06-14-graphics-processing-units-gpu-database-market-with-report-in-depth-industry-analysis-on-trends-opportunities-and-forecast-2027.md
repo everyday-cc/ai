@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis"
-    excerpt: "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10."
-    publishedDateTime: 2021-06-11T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11"
+  - title: "Artificial Intelligence (AI) Market by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2025"
+    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
+    publishedDateTime: 2021-06-11T19:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -47,19 +47,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Booming Growth in Deep Learning System Software Market Analysis Report 2021 and Forecast to 2028 with different segments, Key players"
-    excerpt: "A new informative report of Deep Learning System Software market has recently been published by Market Research Inc. The report comprises of various verticals of the businesses. It is aggregated on the basis of different dynamic aspects of industry study."
-    publishedDateTime: 2021-06-12T06:24:00Z
-    webUrl: "https://ksusentinel.com/2021/06/12/booming-growth-in-deep-learning-system-software-market-analysis-report-2021-and-forecast-to-2028-with-different-segments-key-players/"
+  - title: "How New Artificial Intelligence (AI) in Retail Can Adapt to an Evolving Market | Amazon Web Series LLC,Google LLC,IBM Corp.,Intel Corp."
+    excerpt: "Artificial Intelligence (AI) in Retail Market” Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
+    publishedDateTime: 2021-06-14T22:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/how-new-artificial-intelligence-ai-in-retail-can-adapt-to-an-evolving-market-amazon-web-series-llcgoogle-llcibm-corp-intel-corp"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 8
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/T819706200_g-780x470.jpg"
-        width: 780
-        height: 470
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/9ebfba01b75f30bca0eaf59e0c5b01df4e1b9ed6-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Pages Report] Check for Discount on Service Robotics Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Service Robotics market overview  Service Robotics market illustrates an"
@@ -70,6 +70,42 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 6
+  - title: "Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:06:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548772-cellular-artificial-intelligence-ai-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
+    publishedDateTime: 2021-06-15T00:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548667-deep-learning-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
+    publishedDateTime: 2021-06-15T00:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
+    publishedDateTime: 2021-06-15T00:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "sRKRY9J+dC8Dg0NR6sHPS6AhCOHqffV8CAy6zS3VIhRpmrg3qTAN4apb1tDuCM+OmmTbkF/ACcRzW7fJSAnYx86/o9A/wSeDR2eveMWlGvZJeyEPARByJiG+l+jCxAZOuJk9PeDLBAnhsr2YKTMK11AlQLaFHrBbv0A9Y+VOmfyNMFXTuPirCmOaV+Sl1b9ukFGYWS2PflqGjUsnx1Vw1ckWszQ47e0yn8u4vXPRoNDsygzb1abP6wnFs+79/pRs5O27kX5xh0w8mVQyxbc429Z6XSD7/4nym36nlj7EJ+CLXzFFWUdlnSjrx9MQQEHcIzD5WXkjr5IXcNaiz2Zu7Xa9RhKlsQi9qTifiybRkGs=;zCngGldRwKex+theDqoozw=="
 ---

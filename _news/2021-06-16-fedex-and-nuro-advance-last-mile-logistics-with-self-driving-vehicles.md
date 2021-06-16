@@ -105,15 +105,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
-    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
-    publishedDateTime: 2021-06-11T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Nuro to partner with FedEx on self-driving deliveries"
     excerpt: "Nuro Inc. signed a multi-year agreement with FedEx Corp. to test its self-driving vehicles in the package delivery company’s network. #siliconvalley"
     publishedDateTime: 2021-06-15T14:33:00Z

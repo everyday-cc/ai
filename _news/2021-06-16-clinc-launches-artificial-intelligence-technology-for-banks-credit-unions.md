@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Clinc launches Artificial Intelligence technology for Banks & Credit Unions"
-excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI platform is"
-publishedDateTime: 2021-06-15T21:23:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clinc-launches-artificial-intelligence-technology-for-banks-credit-unions/article_eaf5540c-739a-55a1-8191-bef53088547b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clinc-launches-artificial-intelligence-technology-for-banks-credit-unions/article_eaf5540c-739a-55a1-8191-bef53088547b.html"
+excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI platform is the foundation of the new products, with the vision to enable banks and credit unions to deliver a high-tech,"
+publishedDateTime: 2021-06-15T21:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/clinc-launches-artificial-intelligence-technology-for-banks-credit-unions-1030525889"
+webUrl: "https://markets.businessinsider.com/news/stocks/clinc-launches-artificial-intelligence-technology-for-banks-credit-unions-1030525889"
 type: article
-quality: 15
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -32,21 +36,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cross River Launches Venture Capital Arm to Propel the Next Generation of Fintech Startups"
-    excerpt: "Cross River Bank (\"Cross River\"), a technology-driven financial services organization that provides core infrastructure and embedded financial solutions, today announced Cross River Digital Ventures,"
-    publishedDateTime: 2021-06-15T11:46:00Z
-    webUrl: "https://www.lelezard.com/en/news-19855942.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "CDjgLlALW3RU+X4l0ZZkNn1YI6nzJNOKkhiWNP0k7Z50y4R6aPGJKO8EUkGOfWNflmFLzCtB1PFDIH4KCxT610y7K9XfoA1NBXcwcvmrtTBOPxlmHA5AKV1kilgEdswHBN02X9ULnolTGgeyo00nyUzMMl1H3lAm0GBSDHfU5xFe34bu5rm7owDzx6ON8y73pVWoet9a8Czyhdpol9Ab5t+SnozPzEdWmSzz2VaDAPzCCGiCMRVifnYU5gBE/AlUCloh2ncoHLip1O94aXKMulHFt4XzjhFE2h/c8infxIc3axOxR47hULfV+xMNJVJ14ELp5lh0rE92Zg3pvPQjF1cV3lRxb07Wzw7F4TBgan+ljYaIubnpGRW93mTI12QXSnNg+E0I8GdBbc1l0LlhhlKkwHYxlK8I+ZYCrfFz30ivWxIDFxkOS0DGD751YmSygwxpyExr/pbDXmOnxaNJkx/mteFcUf+9yStRcTtDIia4OFa/08n61DiCIrYuMYR9h94yX6q04+EL2ti7cFxVMw==;d1eIwgQKPdqhgCk02s7pcQ=="
+secured: "wjN8cuw7+41m6TpoLYrwlAoEFVayKEKiQDzBKlVEVWBU3Reab5HbGsjpfVbipEELCaAoEq+4POR4Q6BzNp9nXS9crty3bdkQI00lvErhZEkJTK9HrdnFVGiZiAVWBmr+lsgDM1cjuFU5/w79Z52mTZnwh0gB7HfsL8UWGeLJd7BmufLeE3qS4xlij+MgJGd/uoIecpeCd742u8EnVhBvDxpURncT779v3X5zZbjmT6WSpOi28g+bgfxGzjnlVzP38crGheh1UrpX1JvfU08hvWdTFNbtMhMnRIql8xaTJFuWRjBf1ulq3xuVcJcE+f/ehrsuA6sYpa3EAcGnQT3yznCO/rwNfXX6qHg4NKrcFHfqa97+3L1FpnXzy+cipxgXPgJ32QXhSO6EktpWBZfG+eIocaHxYM+qUOEkQxgWaJhTnL88mnLINRqY7WcrpZV8Por2xNUqqR+uUtg+P7mAqwNSUyYNdzdRuyk0VhmqUMja4UMSmSxOt6VvG4Jld8T9L9eZTIfvinfEdyRY3PWuhg==;T05GyKlIeW+MfokR9CK59A=="
 ---
 

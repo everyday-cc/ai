@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Protecting Data Privacy: UnionBank supports regulation of Facial Recognition Technology"
+    excerpt: "Facial Recognition The use of facial recognition technology (FRT) has recently gained popularity among banks, airports, and event venues. As more and more users opt to take advantage of the convenience this technology brings,"
+    publishedDateTime: 2021-06-16T04:54:00Z
+    webUrl: "https://mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/"
+    ampWebUrl: "https://mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Manila Bulletin
+      domain: mb.com.ph
+    quality: 51
+    images:
+      - url: "https://mb.com.ph/wp-content/uploads/2021/06/11855.jpeg"
+        width: 768
+        height: 1024
+        isCached: true
   - title: "Federal, state lawmakers push for stricter rules on controversial facial recognition technology"
     excerpt: "Facial recognition is a largely unregulated technology that has been lambasted for its potential civil liberty violations and inaccuracies."
     publishedDateTime: 2021-06-15T18:52:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V5FOWDM2M5E5HOZMLC5N4YGSSE.jpg"
         width: 2811
         height: 1582
+        isCached: true
+  - title: "Automotive Voice Recognition System Market Sales and Revenue by Companies, Regions, Type and Application till 2027 | ARC"
+    excerpt: "Automotive voice recognition system market is expected to reach the market value of around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 - 2027."
+    publishedDateTime: 2021-06-16T04:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-arc-2021-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Canada Privacy Watchdog Slams Police Use of Facial Recognition Tool"
     excerpt: "Federal police broke Canada's privacy laws by using a US company's controversial facial recognition software in hundreds of searches, an independent parliamentary watchdog ruled Thursday. In a report to lawmakers,"

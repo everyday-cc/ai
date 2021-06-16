@@ -56,6 +56,29 @@ related:
         width: 719
         height: 470
         isCached: true
+  - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
+    excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-06-15T11:13:00Z
+    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-robots-market-unbelievable-growth-google-inc-ibm-microsoft-corporation-general-vision/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
+  - title: "Worldwide Voice and Speech Recognition Industry to 2026 - Featuring Nuance Communication, Microsoft and Google Among Others"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global voice and speech recognition market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-06-15T18:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-voice-and-speech-recognition-industry-to-2026---featuring-nuance-communication-microsoft-and-google-among-others-301312688.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Healthcare Business Intelligence set to grow according to forecast 2026 | Key Players – Microsoft ,IBM ,SAP SE ,Oracle ,Cloudera ,Enigma"
     excerpt: "Healthcare organizations are implementing healthcare business intelligence solutions to improve efficiency and patient care. Business intelligence software industry allowing unique recommendation, personalization,"
     publishedDateTime: 2021-06-14T21:37:00Z
