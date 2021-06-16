@@ -2,7 +2,7 @@
 name: "Metabiota"
 overview: "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health."
 type: "profile"
-heat: 57
+heat: 65
 
 website: https://www.metabiota.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "metabiota"
   url: "https://twitter.com/metabiota"
-  followers: 1377
+  followers: 1378
 
 locations:
   - San Francisco, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Metabiota"
 
-secured: "BTL7jND11vPqiNdMhjn+5cIe7DiaitlO7Fd0r+l7IBELhunAw40hKZYo8C6Ya2AzWQjy0w59pJh6rwa+pxvzJohttVqQnwC41/fXXz1ytwmWb2XfBh2lxAdOUKc2nEAkY8cDcND5jXK/Z/RqZJVkewRfqWok71XFTzJvzrWcKjBDYA542VnaiiI4cbMDmrbWUJsbEKiWjQ8QYWsYv+QWQuWl+bUSeZyGNaROKnE6G1UNp3NCb8y+ztfNHmHLW+dvOI/NvDTIuLOmIfJ0pI9Griql6NPHh/J+vcAc0/QLTFWIN8CKhmY3eD6SwXv9X7buaXXdsNN3jsOFoPREXS0EYRW5dJLaaG/3ZTn3W28qNWKmZT81j8h42C/bQ084mC3z4cVq0qQVMnVedxoYHXytrkbIiEpI+8FXmZhLY602DzQ=;C2Cz3+REyLW/doOUIsCjhg=="
+secured: "Ne2kCeOrlbb7LaLjbtJcoj+7+t23XwYaOP0ynyvV8kASTcuYnDtiOW0eIgjIvqk51+RriTRw4/UiNrkezxTFWIOIFxu/+xn+iRLqnZgccigEPbFkvTcMHmsvBfqQNAR6IkZTsLvdHNXoO1rCldEIIWd5xc12AQHIxiYcLfuRDHxU2NbSSjONDhM6VIHTMRUgw1TMUq9xR7Up2QbovaU1z6szt3s6d+DhFFG9hEvR3g/kedZP6ebVIykYrBeGS/7S3wamkSVO4H0alZmcaET5YWUWSZ+1jf2zh9MUtym0RB8wlO8X1RAt866TqSW0vWwrFt+cB1I3FkMejgq4Zo1jMDDTLtIqOWKp1fVW0xYDL7jQhJ8wjelOswAYrm9r6PGT93pjxkLsM28/yq6r4vhFOq92a50rtSPYgT9InCHKIgQ=;Fsp6yAYGYxuCdgvuKuTTsw=="
 ---
 

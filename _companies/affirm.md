@@ -2,7 +2,7 @@
 name: "Affirm"
 overview: "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products."
 type: "profile"
-heat: 130
+heat: 135
 
 website: https://www.affirm.com
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ex1KJSLIoKU"
 
-secured: "qOKhQbgL2DpMLD1hFoBpwPTTuegJBmAndMiN0Cq1UWQEhkdKMkWwQrQr8JtzkXoNdVuuIl9Di5ld13abkJy6F6+nA4Cde5HgPg5K28aiLW421IB4tUM1CExNQmp6I7b3n5Q2YSDc/8fHgTLqwPcz2wsAJ0cJohetbJxFPc4ZqIN0wLebpMNgUEwG3bTPDjEdh+O5kpfcL2wKPt7+44Mqz2SRytD0bdN8Q1//J6RZ+yAoddP2rAfOjCeOI0EyffJJ9OEFzHzin+e46nD3U+fF45wG4zhYpIOTvinkdpDnhqKNuNAByYYGpm29EPb1+GR7XDc6oU7KCVBSZwI8hKRBmAf58gDTzsz6LtS1X77+xWLRwTWGQQGhYn1NsGiwxzGxeUvNFPYl9MZ4+/m8cOSQ4PoNnw1wKbP9lBgwFvGwlss=;Yb2dbXvaejrWOp0+/gAAPg=="
+secured: "2PiOcbh+IBp5J67OCMlu4ZkAvyra0kDL/6U1GmOL72jF1Ackt1WxOnzGdvUnnc/jEAd0/jpydBz/E7Yb2hbP1iPUIuwzTamAYNz/BX/PjTV+Qw7fM3TJqd1+KTNtP5A29hbRu8wT7spaG6FQY+UboTUMFGtuxxXlNDL0CujMXsCD1JHLlvBS1r8d2F/FAGfsSaMeU808W3XHlMtmS+VDQFulKVXaKwyb/B3fMtu9YW/WUJ5FMT5jkpGMe/nlJqESFPUnzzwAY/9kUsMz4L/YIMZqllgq5i8RMK5xlIBB5vcyYMkWbaVFj4ymVQw5hXRI7/B9URnuPX95IE7U6DnIB9NwOiFODjmtIqDX8CJasIizYZ5M+rMYtE3p508FxmZi7bk3bIEhHyYeOKO8JEY4etP71rnMaxevS8Hj+I4AErw=;By/mUNdkZLUlCckfAzPqEg=="
 ---
 

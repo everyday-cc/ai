@@ -2,7 +2,7 @@
 name: "AI FinTech Startups"
 overview: "AI has become a critical aspect in financial services. Financial institutions around the world are making efforts to adopt AI for task automation, customer services, behavior analysis, as well as fraud finding, and are making large-scale investments in related technologies. Here is a list of AI FinTech startups to watch very closely."
 type: "collection"
-heat: 60
+heat: 148
 
 
 query: item.tags contains 'FinTech'
