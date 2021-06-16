@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-rais
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -75,12 +75,21 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Alphabet's Self-driving Car Company Waymo Raises $2.5 Bln In New Funding Round"
+    excerpt: "Waymo, the autonomous driving technology development company owned by Google's parent Alphabet Inc. (GOOGL), Wednesday announced a"
+    publishedDateTime: 2021-06-16T19:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alphabet-s-self-driving-car-company-waymo-raises-2-5-bln-in-new-funding-round-1030529805"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
     publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
     type: article
     provider:
       name: ABC
@@ -147,6 +156,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "sxQZe7nfMFy12C6P9rBO/Twam9XsUoUu8obMm9Bf0/8wfuR+5JfPbb035d3Tb9gXxZoni4pHxp32yeAbxhdiJaROeG7mIJIMm4SvZUagQ9gbSPMceVm3xzNbq6wrL03izhJzFxgnRNrPKC/bWPgvzsaRdZZi/HN15LxTP/XfzFIMbM8IBPMY606v6wpk+nIBE989tG96EZe5rIhjymxwjd5sZ3I3bl294Btc1e+QmAcFcGC3AS1+TPOJKWr8SiK1G+7fv0eWZ3fCrDeMVJ2Z2kSqSAi/KOAI6GHx0rFO5IDFmUkuRLqQ66WurweqMI4zcTwhTR4mIB778kn8vGzyTx2wzTnAmmEFLyGPYD+fXYY=;ErT+fi98V8uHEvisS1Pecg=="
+secured: "qap6+hgZ1iz4ni3O6lNJOdYlUIZaZNDs0ZC0dsU5C53aIXkfqP3xSC9OiWpn/oLGEpJDBuof8Q/uD9L6kiGdEasdGVJHuP6BGOUwIZxFABATXiK+i1hbBiTInFiQSEyaInczmMHgarHBFo13Ek5hI2ifLaS9+5/xb459ZKrOxJhq7igUzLj0bnmiwcfVTTa6UWNvUkBZr2kig6lPw1xbi6Tt92zY859pTK10yYJgNxEQoix6tBbnPjdlXE5UH4k5rT8F3hA4pjQo2FL0422x99dGDG0B97EY05KoTJ5i17FswyJk86RFVGgyEvDQUTF8bIxf8+i92rvcg76MXiwT4/RY4aCJPQ94GVSMcfJTgybLBrJaDGBdGnClfiDCs2h23EDDxsT3DOFmimcC5FlhkRCAdPFIBQYaW8gfcQ8U9fCAWH8vxRj/H5tkEGGNo55npryr38A2Zo9nZ+n2zWAKBwSm3lf4N02pjmiZrFP2TPRwdQ5xAVlU+oS91pU4dE5oIF4acClofvuS9xloVfba6A==;Dw3kM1OHudMOs6KzfbTQoA=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Europe Artificial Intelligence Market 2021-26, Size, Analysis, Trends, Growth, Forecast and Research Report"
+    excerpt: "Size, Analysis, Forecast and Research Report” According to the latest report by IMARC Group, titled “Europe Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,"
+    publishedDateTime: 2021-06-14T21:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/europe-artificial-intelligence-market-2021-26-size-analysis-trends-growth-forecast-and-research-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.abnewswire.com/uploads/1623416872.jpeg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
     publishedDateTime: 2021-06-15T00:02:00Z

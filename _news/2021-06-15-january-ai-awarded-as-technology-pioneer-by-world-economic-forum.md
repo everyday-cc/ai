@@ -42,6 +42,22 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Crowdfunding Campaign for AI Technology Company Receives Major Boost From World Economic Forum Status, as a Global Innovator"
+    excerpt: "Digital Twin market leader Cityzenith has been chosen to be part of the World Economic Forum’s (WEF) Global Innovators community to support Cityzenith’s mission to decarbonize US cities.  Cityzenith h"
+    publishedDateTime: 2021-06-16T19:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/sponsored/crowdfunding-campaign-for-ai-technology-company-receives-major-boost-from-world-economic-forum-status-as-a-global-innovator/"
+    ampWebUrl: "https://www.crowdfundinsider.com/sponsored/crowdfunding-campaign-for-ai-technology-company-receives-major-boost-from-world-economic-forum-status-as-a-global-innovator/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/sponsored/crowdfunding-campaign-for-ai-technology-company-receives-major-boost-from-world-economic-forum-status-as-a-global-innovator/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Invest-in-Cityzenith-offering-600x292.png"
+        width: 600
+        height: 292
+        isCached: true
 
 secured: "ASOkPtizXx1mjZZQn9ihWWeR6FhnTn1zStRTJ/H89BkuQa0jacgeJXT4uqRjYkId3W4WZUfw+mZHNspOH12k9bKEB9ZRUR08Xk2LNGm1Ju9edqhOGBNk/5itPmoh+8tERokjbdiTC7qX+egr+3TJpu8P+lcU+ESgCei5jItrAD8DK9mGqtt0a09tBxoIQJAHinuPHnBpDQND3xr2kOfuX/M/rrmXqAOBmDjLRHNUivAwidcGOPzxHZagdUCvY4JHWLjEd+AIs6yufiNiu95uDJ36be8pvFSLRohQOuo1dfTEyEZvZHj01kU/fWYBvr1P+eM8bZyErUm2DrMXezX/zKcUokKW+TWgyw0DCM/q1lk=;EoTjvwZX736k0JmDAqlaBA=="
 ---

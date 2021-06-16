@@ -3,10 +3,10 @@ category: news
 title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
 excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
 publishedDateTime: 2021-06-16T17:35:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-webUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
 type: article
 quality: 59
 heat: -1
@@ -91,6 +91,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Alphabet's Self-driving Car Company Waymo Raises $2.5 Bln In New Funding Round"
+    excerpt: "Waymo, the autonomous driving technology development company owned by Google's parent Alphabet Inc. (GOOGL), Wednesday announced a"
+    publishedDateTime: 2021-06-16T19:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alphabet-s-self-driving-car-company-waymo-raises-2-5-bln-in-new-funding-round-1030529805"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
     excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
     publishedDateTime: 2021-06-16T14:14:00Z
@@ -147,6 +156,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "YE89v8Rw+vwTO+p1h4AiYdXQ3bnQ+WFPi9zKWrbNrsOc+nYkH/guysmJOq/sq8ZbAIvzXP+WDO/3DxaZzIq1B5btLqT7yK5R6nRF1dmd6zSNaOKu1kUiios7UVMXBghs8WGY37mKtw++gybrXc43X7HXOF1COJSb28RPkRTbDGA8X+m9Mh92NhT+u7uHv1EPW/hNKDGTK8jO/M4A8QOLpk600GATMkI5tFWa5BW47BXwC+5Wr+0NAhqfew07Rk8UkdP9rdtRy7IR5gIi02Uh1rO70vfwZQNFjQiHk8yxfRTAo2UvPNchIOB4nLcFSRP6D80+dYi/K0EIei9HjaEEOvcT16tS6SHt1bK8+PvwIGc=;Vm4zrA+NrKk7EaExwkp/WQ=="
+secured: "NEaLk/j1erKQ2+uycbmPsFIwfjxybvl/DxzajSf/nnG7JEcmyhXhS4Yzp668F51xxXqR2PPbG5U9/1V/g+jJRx0S0Jxc6792O1QkGzp5nPUdMwO3nmw1PtE8qOaUomve+uJtnW5Qbhk3NNsT8ZZZL1+HybINMj0LZQXzhnylMQyVR3q4TEn5l3Clee117Dz0N13n7Aw0XsV/7jP+KiPCnYa9U45h3+YUnhUqz1G2DPPMYAEx6X37ZXQkPrlUzk/LMImOrPkiJRQvQcMNi2Ne0lNxEEB8bDO6MnSYHmYEAkCrbDTHUjdNI4jWHzctzWn4JeN7+z+x76cl77Ur8FBaHT1Yt3yWQvY1el9d4crtIY0=;ll9lc50ipQdxxq97nhDjrA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-call
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
 quality: 104
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -189,6 +189,29 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
+    excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
+    publishedDateTime: 2021-06-16T19:04:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21227086/federal-lawmakers-reintroduce-legislation-to-ban-government-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 29
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
+    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
+    publishedDateTime: 2021-06-16T18:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 9
 
 secured: "wkOfbhH2xYgYhdqPs0nsx/K0LChmYvndw3oT+osLoeD2mA69TauJhhzrHdbxr6iXZBGACVHLvjIUNyEeMFHIjbnJTgfg+Cq6Mzm/pKJQqlTU2JOoQNM9kHFEhfQuaoawVV6ax6q0nhyrbJ45ieZKZfkG61zZwn9gHm86zbw/NUUovLCgTW4g7U2oH8zF3fZu6sNckLTSgb2K2TsgZaBp1BNCz/YfyOuOL9+H4CnpD5NyrmiaX3UbrMuR8MxHKFpd8ls1XgMAJ9eXjlIO5g7+gbb7NshcOaopkrhJl3qxqia7eFqeP+fGtvwTB/SppLCunnnmH7s0XBQ0LMkZ1Vl9QpNx6N5/ferZBX7SwK3M8+w4W1hqsLT/KTzhw+DZ+udxMvh0czC0nqjrgNcBxtYsON5hrba794DTlu20QqE+pdQe8yRT00J/Zr/4BjqV0uM4VO17JQflISWG8V7makAHIXnIGfhCmGJ5aplrTBOGlfeHkat0TrBF6wKDyrDopKd5Uo2Erq5M+KDCO1uPlNzCEQ==;UxKgQpDOVp9BfJ6KTv5CmQ=="
 ---

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
-excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
-publishedDateTime: 2021-06-16T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
+excerpt: "Astra announced today that Stratos Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple."
+publishedDateTime: 2021-06-16T13:02:00Z
+originalUrl: "https://www.register-herald.com/region/astra-hires-ibm-watson-and-apple-veteran-stratos-davlos-to-lead-software/article_f3bffca7-801d-5b95-a207-2a08ae7e064a.html"
+webUrl: "https://www.register-herald.com/region/astra-hires-ibm-watson-and-apple-veteran-stratos-davlos-to-lead-software/article_f3bffca7-801d-5b95-a207-2a08ae7e064a.html"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "PuTuj/vjHe7OO2SXB+J2exzThTjQtLzHxSOhlj0sT897ac75ovovZDbme14w6SPenJHxMnzuPJYhUFkRWOdc8YXYAcI77G82Hh2ATRwoBMjXBUmgFpgMzLOA1OHmBriKPzN/MOL5s/SLxW+44GMrIe2ImJWyoX7dFYBl/2927F2brgkBvnmjOfMU45kZvgrPN4WhUImDesw4kb7Rt8aGwCHt28MjtDzkyGA+7V0demIv06Ls0Sny77h4cHWOLpj2iRyXxKif5WquXhgoI/c9QaFdW4HeN91vps7nIYpMErWlxFuSDbZrboNmbCKP1n1RjDgR/9O4hXH1TTBjrAcvP6rcRxtEksxBk9rRLzkivRo=;sYveRReVVbdj8/pc3fRU0Q=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
+
+secured: "puUqHiiBhBrCKvn3jCTdb0/LQ1T8oVbIjUwaAJ+/fxuF91lQ+t8KljLSryKoh5JzsLqMd3T3cOqMCKThDAO135igLpfgqFFNyh6nL5FbYlEx2Lxpha6RNayGmLkLtDed/eWLLeZMwiEo1UgUvcIWQugwTo4+1gWPECEGYxpqO+40UR2zOBmQ6HtuA10uKut8WOh76e8ra2rmrNYBQjhI+GSdanXvQUvMaBFRywqLWXkqjMnCVGjmCoyX53Mboj/9kUv9TJ/Qh3/vUkxlSwB+u+KMoOEk/bxhcmxmET/7MvZmorERzvm2RTDre8rC4k3XRFRMffStL6nNGexmA1r3JXQBHPbOJmyI4Ai3H118RS8=;BzEdHA9q+Gs2RIubLGgbiQ=="
 ---
 

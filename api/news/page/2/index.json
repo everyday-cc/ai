@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-16-mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs.md",
+      "title": "Mexican FinTech Credijusto Buys Bank To Serve X-Border SMBs",
+      "excerpt": "Credijusto says it’s the first Mexican FinTech to buy a regulated bank, transforming itself into Latin America’s only neobank concentrated on working with small to medium-sized businesses (SMBs). “Our acquisition of Banco Finterra creates the first truly digital banking platform for Mexican [SMBs],",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/fintech-acquisitions-digital-banking-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/",
+      "publishedDateTime": "2021-06-15T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division.md",
       "title": "Ron Ramaiya joins The Lab and reveals artificial intelligence division",
       "excerpt": "Ron Ramaiya has joined The Lab as head of data science, and the agency has launched an artificial intelligence and machine learning division, Lab AI.The announcement:The leading insight and strategy company The Lab today announced the appointment of Ron Ramaiya as Head of Data Science,",
@@ -156,7 +199,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -197,6 +240,41 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-6-ai-stocks-to-watch-for-rapid-growth.md",
+      "title": "6 AI Stocks to Watch for Rapid Growth",
+      "excerpt": "AI is transformative not just for the investment landscape, but it will change how we live and work. As demand for this technology grows, it seems likely that so too will interest in AI stocks. There will be winners and losers to be sure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
+      "originalUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
+      "publishedDateTime": "2021-06-15T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -815,58 +893,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630357%2Fartificial-intelligence-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2021-06-15T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-06-15-machine-learning-blockchain-emerge-as-top-online-courses-in-india-report.md",
       "title": "Machine learning, blockchain emerge as top online courses in India: report",
       "excerpt": "Digital skills have become important today especially to stay redundant at a time when technology is powering most industries. The pandemic also displaced millions of workers worldwide.",
@@ -1063,7 +1089,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-deep-learning-market-size-share-value-and-competitive-landscape-2020-2021-06-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1198,58 +1224,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm.md",
-      "title": "AI Ethics Q&A Series: Minimize And Mitigate Algorithmic Harm",
-      "excerpt": "Cornell's Manish Raghavan talks about ways to minimize and mitigate the negative impacts of AI and the most significant barriers to organizational change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/amp/",
-      "publishedDateTime": "2021-06-14T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

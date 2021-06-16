@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 509
         isCached: true
+  - title: "AV startup Refraction AI's driverless robots to deliver pizza in Texas"
+    excerpt: "Pizza lovers in certain areas of Austin, Texas, can now have their pies delivered via robot. The REV-1 robot is the product of Refraction AI, an Ann Arbor, Mich., autonomous vehicle startup. The company is expanding its reach,"
+    publishedDateTime: 2021-06-16T18:40:00Z
+    webUrl: "https://www.autonews.com/mobility-report/av-startup-refraction-ais-driverless-robots-deliver-pizza-texas"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/REV-1%20Photo_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Huawei targets driverless car by 2025"
     excerpt: "Huawei is developing a self-driving system and will likely license the technology to established automakers in China and potentially elsewhere."
     publishedDateTime: 2021-06-15T18:00:00Z

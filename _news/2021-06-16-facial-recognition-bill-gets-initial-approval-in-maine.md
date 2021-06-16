@@ -188,6 +188,29 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
+    excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
+    publishedDateTime: 2021-06-16T19:04:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21227086/federal-lawmakers-reintroduce-legislation-to-ban-government-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 29
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
+    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
+    publishedDateTime: 2021-06-16T18:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 9
 
 secured: "JiveLXxquCWaAj792AuJJI8jnH5yZdOMJJnnUtwTvW3mNRTcd1evoChSZXJffc5n4LIBRx26LvHxowV4sHmhf9GP015bOJiANK33iez3wB+spxFFK40D9/R+TxeuQbpF1nsSz2N76+ejKDQgXyhAAhdgz6fp3986IA/aCiq5qHBNdw8gG5LihlvR5Mam5eivgOHJaiV6ogljcRJ510Drl+RxwMgIlAuvmXdtFGwZZH4RpKCm4jqM1703Zw9v++3HFWCqNlyEGH2OU+4w5y2QoTXeJ4wHTFteyEvaaiH9mouv/l7JBdteK4FV87z30X6ZFdx9oulm/kOR8Y/s+Km+ocxQ1vu3RlGV6/VEaaXkNlM=;epRJsoguk66poHTmSp30hg=="
 ---

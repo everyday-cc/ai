@@ -185,6 +185,29 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
+    excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
+    publishedDateTime: 2021-06-16T19:04:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21227086/federal-lawmakers-reintroduce-legislation-to-ban-government-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 29
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
+    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
+    publishedDateTime: 2021-06-16T18:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 9
 
 secured: "wbXSdK1EOLpzCxO23ZRSXqDJolVqrHOG1TX0k+FHqzHWUCaCENXUqboqWzuHAqsgSBriWy6R7MnytcALQFCJ4uN9OUJL1sUE/7PhRMF4lqjvG3LcrjRZul+Mzrs/myFEhHmyN7vTDA5dSihtkuDDdu2I5kAfZPf7MqD9Ll5ArMuPf8qP4+F/4MqKI7zrurHBFGKFUsoxt7jbUdu/gEyBejIYHjuVLGplTS/hG7j4Wi0IVN3dQ9bqmIdr8gkVE0xb3DNoWxk08pIMaU7rgQPI/93aDQdbRSKxgBpDoFJMe/CKQJtQea7vhzNPq2QBT/vHX1pECuUaCxoQE1LkMzyKe6TKP+2lY8CvIjit3waDQZjXg6FAm8z0VvLDHfi3xJ7/VK2rBizmpqeC5PqVU1OpIX/mQTcxFC+ND/Ts4fdf9aaQiT2xRMVQMLw2ZaYWrNdMpKOTJ+QsT/Q3EZxSk+zfQmPz2Q5ZTLikaMUR+qoVVmu+VZ3s//smMkEh+r2YmtoMHq8DJa3KZivrvQHIkCAdSA==;9G4ts88lVBf6OKDDpezxjQ=="
 ---

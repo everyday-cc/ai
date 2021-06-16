@@ -1,23 +1,29 @@
 ---
 category: news
 title: "CogStack wins an Artificial Intelligence in Health and Care Award"
-excerpt: "Cogstack is an information retrieval, extraction and natural language processing platform developed by researchers at the NIHR Maudsley BRC and"
-publishedDateTime: 2021-06-16T11:32:00Z
-originalUrl: "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/"
-webUrl: "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/"
+excerpt: "CogStack wins an Artificial Intelligence in Health and Care Award. Cogstack is an information retrieval, extraction and natural language processing platform develope"
+publishedDateTime: 2021-06-16T12:29:00Z
+originalUrl: "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award"
+webUrl: "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: kcl.ac.uk
+  domain: kcl.ac.uk
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "iKgY93E1HdPl6ybYKzB5adPzQnpH2j5+Gfsko6eY78k+pmKday9OsHzH5r3YrStwvoAVWFssfwl3jGDXxxlD9RwmfVE21h6LEuV+gGeAqpRAzGseYGGH2A3mpDxZCiHw+M1XHxgVIdEu27bKCOtTeNLaCS/lsMxxMPmpGKlppZM4mJ+rGrlx3RLczmPMCcT16wwHLAxYIlfZ2VYNQGSop1w4+ak67b3D8cegH0SvkWZQlCpSloZDaORGrtjsekMHWxELc1R8yhlWsdzEB88OYUbPm+D8cG0b4t7K9hLDlKGuN/BTUuB0YfkdUTvlaTjFRxROyH+rqaZ20dGOMPxcSsu+bbwqtgziNSgKZMwdrqxTtOMmzZ26Cg0Id8lDZgV9fC5ENaku9aR1z7bG8HPUrR8EbWZKlcUinCwX6rH1VPwPmsX4IzB3HncbDQCUbsgdA+YBUoHfjIAz3LL0w19KFSRAAN7yIU2RFePmdfwIx7kG9+OiGZx+Ilqjlh5DtcPH3alNfHy7qanAvlNcNFdkMw==;kiudiv6bYrEdwE8njEKOhw=="
+images:
+  - url: "https://www.kcl.ac.uk/image-library/ioppn-news/scientist-with-laptop-clipboard-and-display-of-human-anatomy.x2b64218b.jpg?w=808&h=440&crop=780,440,14,0&f=webp"
+    width: 780
+    height: 440
+    isCached: true
+
+secured: "JPyaBP0XAw4YRhSCB5xQQHvG9qUrX/VUxRu1ul/LweV4i2U3+WHDQ+CZOQEsg7Z5MCX4ymwfRpcBOTzKThrhe5GZ/SngdUB1FiJlfcSQu9+YRpqZwtOrdOEStdMjNLZl4+s2fqdjzZHKjb6cSVQP41Ihie5eXFv81FgcjrK9yBgmkAWvareQKNv41X/wEso8g+4DOWFarvgXH52Nbo/Y1gApe5uG12jcUkvgMgqjndh3cuh2lU0RxYqsoFRwPdqZ0S7zX6xVudifidHKBFtWK58BUo0urPEn3+mj2v+E1mkTKcjEJsP+KMj5eLMFFWFrjjm9L7pQ9y0Pq8ragF4kMeVr7CNdgxCqH4/FtCP1N5g=;+Uyug3oenpxJ3RE6IEvdXg=="
 ---
 

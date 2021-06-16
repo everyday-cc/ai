@@ -256,6 +256,41 @@
       ]
     },
     {
+      "path": "_news/2021-06-16-6-ai-stocks-to-watch-for-rapid-growth.md",
+      "title": "6 AI Stocks to Watch for Rapid Growth",
+      "excerpt": "AI is transformative not just for the investment landscape, but it will change how we live and work. As demand for this technology grows, it seems likely that so too will interest in AI stocks. There will be winners and losers to be sure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
+      "originalUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
+      "publishedDateTime": "2021-06-15T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Ardenna ( a leader in image processing and machine learning software that automatically extracts objective and quantitative data from industrial inspection imagery, today",
@@ -1141,8 +1176,8 @@
       "title": "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure",
       "excerpt": "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1152,12 +1187,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T02:06:00-07:00",
+      "publishedDateTime": "2021-06-04T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1312,58 +1356,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances.md",
-      "title": "Microsoft Azure launches new Nvidia A100-powered supercomputing instances",
-      "excerpt": "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "originalUrl": "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "publishedDateTime": "2021-06-02T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

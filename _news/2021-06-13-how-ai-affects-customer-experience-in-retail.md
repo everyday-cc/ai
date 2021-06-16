@@ -24,36 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Kore.ai enables Mashreq Bank to enhance customer experience through AI"
-    excerpt: "Kore.ai, a conversational AI software company, announced its partnership with Mashreq Bank, one of the financial institutions in the UAE."
-    publishedDateTime: 2021-06-14T06:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/kore-ai-enables-mashreq-bank-to-enhance-customer-experience-through-ai/"
+  - title: "Amex bets on AI and NLP for customer service"
+    excerpt: "With an eye toward customer service, American Express taps AI, specifically NLP, for a new predictive search capability in its app."
+    publishedDateTime: 2021-06-16T19:15:00Z
+    webUrl: "https://venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/"
+    ampWebUrl: "https://venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2017/10/Mashreq-Bank-Square.png"
-        width: 589
-        height: 589
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/AI-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 708
         isCached: true
-  - title: "Digital Onboarding: BNY Mellon and Saphyre to Leverage AI to Enhance Customer Experience"
-    excerpt: "BNY Mellon ( NYSE: BK ), an American investment banking services holding company headquartered in New York City with over $380 billion in assets, and Saphyre recently revealed that they’ll utilize AI tech to enhance the customer experience while also automating and expediting client onboarding."
-    publishedDateTime: 2021-06-15T03:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/176551-digital-onboarding-bny-mellon-and-saphyre-to-leverage-ai-to-enhance-customer-experience/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176551-digital-onboarding-bny-mellon-and-saphyre-to-leverage-ai-to-enhance-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176551-digital-onboarding-bny-mellon-and-saphyre-to-leverage-ai-to-enhance-customer-experience/amp/"
+  - title: "Talkdesk Retail Smart Service Brings the Power of Artificial Intelligence to Customer Self-Service and Agent Interactions"
+    excerpt: "Talkdesk Retail Smart Service brings the power of artificial intelligence to customer self-service and agent interactions."
+    publishedDateTime: 2021-06-15T15:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210615005245/en/Talkdesk-Retail-Smart-Service-Brings-the-Power-of-Artificial-Intelligence-to-Customer-Self-Service-and-Agent-Interactions"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Pittsburgh-BNY-Mellon-City-Skyscraper-vidar-nordli-mathisen-unsplash-300x245.jpg"
-        width: 300
-        height: 245
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "ifHInylzP+wna+DcTei/0nLBrfgCMMW4zsU+nLCQURHRrQsVk3uYTEVSpjLFIABxv7nDenTEFk4xAENE+zPIT77/0BCJqxXEJ5snXR6RI5K3Bo5Lqysh52gxUQQw9C/QXFYF1N9DybM1hfP968UTLitQLM7UG0jINbVAsV4Taa4oaSmnNlAn/+cUniMAjNTWv72ZIkKyF8Kd9szusawaxRwQiWw0Xlmf3ysOqW6YOFTHkoduNJRFO+hORvivmQB3ENRfoMIgdhQvV1eXita5NTnPibqsR4EOm3S/ir0eITq89afx27VVNJWWxa3QKiRGrPOEjWkFfN1i65qw3xeV/5zr5rFDO70UbbEaWSu973E=;iWIDs6HQPJjk4NCtV4abzw=="
 ---

@@ -83,12 +83,21 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Alphabet's Self-driving Car Company Waymo Raises $2.5 Bln In New Funding Round"
+    excerpt: "Waymo, the autonomous driving technology development company owned by Google's parent Alphabet Inc. (GOOGL), Wednesday announced a"
+    publishedDateTime: 2021-06-16T19:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alphabet-s-self-driving-car-company-waymo-raises-2-5-bln-in-new-funding-round-1030529805"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
     publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
     type: article
     provider:
       name: ABC

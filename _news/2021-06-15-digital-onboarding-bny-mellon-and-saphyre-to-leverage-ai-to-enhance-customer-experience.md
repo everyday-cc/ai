@@ -40,20 +40,6 @@ related:
         width: 589
         height: 589
         isCached: true
-  - title: "How AI Affects Customer Experience in Retail"
-    excerpt: "This holds for the whole spectrum of industries, but its applications are rather intriguing in the context of the retail sector. This intrigue is rooted in more than just the sector’s expected annual spending of over $7."
-    publishedDateTime: 2021-06-12T19:12:00Z
-    webUrl: "https://customerthink.com/how-ai-affects-customer-experience-in-retail/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "49PdaUwkFTj5HWyGDgIgZ5K3fHCmpgK4JMngw6Ip2XTnJcf154tcGN9/HxtIpJS0GV+R/lzn3qdthakig0WX0HUtRnPIESgILLPEAXCPvPqY0gHAJ6mtYkf/HgLA2ZHk+6EsoQwvaV56rnEoz8hiG7VZW8H6TPY05otPvYEBVcIFOBvdXSJEpTrnWieXwCiFTMU8JQM9fgrAXaALrYpYoAfg400/QS5I2TNhOu2us5N5TIwvq9HCtBSPXfoc+DNvcZB5qsLUsydodUtAqLP813uSs6B8wTOdf3N+LSX+TT4LUVwmkr2IuAqGVkXzAJ5HHiB2lzuykvvLDVvYN1UQHVpkxpKh9tsN8wdOxE0h8UY=;U5lC9r6YhERgyjoBkUGbKw=="
 ---

@@ -75,12 +75,21 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Alphabet's Self-driving Car Company Waymo Raises $2.5 Bln In New Funding Round"
+    excerpt: "Waymo, the autonomous driving technology development company owned by Google's parent Alphabet Inc. (GOOGL), Wednesday announced a"
+    publishedDateTime: 2021-06-16T19:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alphabet-s-self-driving-car-company-waymo-raises-2-5-bln-in-new-funding-round-1030529805"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
     publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
     type: article
     provider:
       name: ABC
@@ -147,6 +156,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "i+mwRBe6nnnrSP5vuYIKcznVQJVnVbfZp+z57NtQkwnNl0029v5Siogji42W+hyqTAylDOTwphBjBG5snZr1tZD0JR169kbMM5CcIJr+ErVzgfmVrSHJhGldCgU0k1QV9ppHNZclB8yJYlpvJtNPB1B5nEMmQAgJ0Yyf2PjK1qG6kszYuKygDIJq6c6ZZQ0ZQ24BatKmHwRtdJeAfopk8Nf51tt6xgkyUycU3yTkcXP0Qc+cF0nUz3sOiKwbZCCa0fd5iNaDzgR4IUA9rqBm5sSLIPzLwn7G2NqjLQ2Ia/ZCV1OeWwqWIArjsD1gDGssM+4uGE0DuyDbVIpuaTJtVp8HGVg1TSEsFSVb1fSJ7Vc=;e3vUJTXFojPu4VS1lnpusQ=="
+secured: "INBfzAseT0DJJMst/eVoSAMxouZ4qK+0y+EsxH5aOr5fAuCl3ZyLb0DqeYJYlwXOITWd+pazBsHR5hziE1eBXEpOZZVMmhC6UTYbudavNJFWFOmHixX0JFExosiP9dArsaQ83QkXmrY1p75xkE7KSR/wDkGQn5XnRlIBESz3Ls6k8TlaR7DbaxKy8p25MRkuLq3oYfEbNGMlUtPTDBZONMQoSdakrVUqe/yLRziKWIV9kRtHEttFqI4UgMjx5nCevAH6dKNdPpUT1A3O7ldmPOgidqNFvD+hN0Rps5IhlCSGKPk1NCG1pkWTcI6KTY7pwRaXsWBfv+q1xpWSwVa4A779eX4M64gLHptI9hiy7dUJcyJt+GgZAc+4r2xJvQtd+IbtEKv6blfRUnC+oNUVNtIpEkVF6uZF46KEmE91FbQsHP8wKr9GHsZU2fUUsaSYLj7xVj0epqKDEknX3cJCIieh0SIl5j1ggyrquRlIf98caL3FyZc0BiI976K2WaRoIokWxSJBB5GgIgrRhNSErA==;FUPdRfU6plJq87GpRFZ9pw=="
 ---
 

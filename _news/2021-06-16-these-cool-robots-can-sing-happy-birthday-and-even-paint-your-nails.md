@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "/afg2Leg+rd7ymkmkhN2ToU0RCOYksRDF6kNL7orj2kKz15u21iYJm7kWj/QiKE9TMxtreLap8I9oaXxTe/0LAVrTIRlOkiie15a8a4LncSohw6/pGckuPZxx+jM/0cVx/CJKwmO2IANuoLwoM0tD6YUaa85OR8YHhfDM6nZku2PI+/NoW5my75OZczkf/a9AQr4yB1WpL51Pv0eNrhH+ZQiy2QKxE5iN2pXFw5Zc0U7xgkvoGqoUDR8/CISjx9cjaDLZRhlYeC4MxVhElq3X6Y91MdvXX3Ulfo5vquPy/gX94iMeaSnPuwKISwWKWCu8FnZSmUwsvbDhOjBXuFUIfKHvE2hGVBiXfXZgxXFk7o=;mF/RP31B0f8afEWgbduxpA=="
+secured: "KeQehtnlW/WfMRyn7/PTIDVUFpk8HVG3gS6qYX8kDzb2uvck81Sglj9jXg/c+b5g+hA4jRNelQEIX7TrJOlrQuqo8sULPsZmLj6G1WmQgLJ5FESeyLmn7I1NMDrw1HCsV5WVCzMREx8hKHnWfkQohfmb43jzvSQgDax3Q59tsik8Ch+9VLLWEkLcZRlTzTVH2GLxStBxh/ccRMQkwRiaN3Il+KqmuLM+5jWShGfwKhkcx2fKiRgPbhPLuRMOFf+et9KqZhvvb/JP5/aHVckVXDcG48A6saYOnJ5ovoxAvZh1LJcy6TRqvSF+qV/06b1CGq7mCuyNqXd3SGtcx4rPcaI9JURO4VN+WI0XH3Fc6vcgaUR2ctuVlHnN7xrN0lp7+WyTnYWqJ3QaHZ5WJVnTEUND4mye/nggVLMozhGjlQeH7/clqYF8ligLe/WNcUEmhDPRkktaETpeds5RMK3QPi0uBQLYGiCAetAiTH4uVxJli62E3QeTFz5Z1uUydrBaTmYe6jDfo8JuL7MP0rKs0w==;BO3zp0DejwZYgeMEB/Pd+A=="
 ---
 

@@ -1,18 +1,22 @@
 ---
 category: news
-title: "TuSimple's self-driving truck network expanding eastward via Texas"
+title: "TuSimple's Self-Driving Truck Network Expanding Eastward Via Texas"
 excerpt: "Self-driving truck technology company TuSimple Holdings Inc said on Wednesday it will open a new Texas facility that will enable it to put trucks to work hauling freight on the roads of the southeastern U."
-publishedDateTime: 2021-06-16T12:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/tusimples-self-driving-truck-network-expanding-eastward-via-texas-2021-06-16"
-webUrl: "https://www.nasdaq.com/articles/tusimples-self-driving-truck-network-expanding-eastward-via-texas-2021-06-16"
+publishedDateTime: 2021-06-16T12:03:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-16/tusimples-self-driving-truck-network-expanding-eastward-via-texas"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-06-16/tusimples-self-driving-truck-network-expanding-eastward-via-texas"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -36,6 +40,6 @@ related:
         height: 470
         isCached: true
 
-secured: "w3WSVcDw2pFtWh5l3J2HK20OdPEwS72DYEtgs03bFaWMigi8WvdiMt4By27FSMMzDlt469sKJZ6+Z9F2FAS3LAXe9pv3UpnfRJO4fNAshIux5JVEQWgd3IRgv9+wuoDXDW9PWxx0rUWjeUTp2eW1CEb0XnsIfXa/K2N2qrcpN8t/z2OyE6rcsGO8yCDczY3iCUyUub4j7j/GbyMhUgKhktHgORaRy932iMRUKSGRqxlpItYe268Rf5t6baYCHGdKo24phEZ/fQemKci6F2x3d0QyUXRhoHSTZfGk4QJK+w/fDRVUSYyooyhRqgWLmini1HWcCflF0+IJDjH6GNzYbsFaLCge2sJbpocd64euYvc=;U1kjfdGzI7wy0z2IJXfV9w=="
+secured: "uLFb6S6F5MqCgQLtlK9PlxbrZjR7HxnlQQGvqK3zMo2IugAtZdJaOPYwwcd8mnnaTJObxn9NlhtabvNKX4QxNsu7UJid5l/bWY5GWWijmWuID3mwMy1XLkkmEmoe9LoF7HGI/deZD5fxuYFeFBkM7q3OswRvVT3KlRnhmGT0vHgddDHlKQpHV9RSCb9itArAZXWMUZxPxLDF8VNdpuit5nk+wflHECbNQWEYSuQlZaU0/sP2XgWJ6q508iNZ19QqODC97MZIeh8fXNEVgwv+rlpjE5MTZVgD1x04ZFQ4BwVR0Ixxvp8WpPR0U2/E1Yc4ltFhz2VoqgjsAMLYKtbb1+xSadlpaWvwyYJU1L7pVyY=;Uj2DXm302Jyx6D4ZyrmsnA=="
 ---
 

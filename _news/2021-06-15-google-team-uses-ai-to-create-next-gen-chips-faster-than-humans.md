@@ -151,20 +151,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Next-level chips coming from AI, says Google"
-    excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
-    publishedDateTime: 2021-06-12T01:29:00Z
-    webUrl: "https://menafn.com/1102255042/Next-level-chips-coming-from-AI-says-Google"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2021-06/11/AT_1f49dimage_story.png"
-        width: 1020
-        height: 647
-        isCached: true
   - title: "Artists use artificial intelligence to bring their creations to life"
     excerpt: "Albert Einstein has been credited with saying \"creativity is intelligence having fun.\" Einstein would likely be impressed with the artificial intelligence now being used to help create modern works of art,"
     publishedDateTime: 2021-06-12T13:13:00Z
