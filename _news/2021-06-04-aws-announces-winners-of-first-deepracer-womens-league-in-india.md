@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "aPKXMD/qjzfvJ/ycH0n6y0pUNg8vAI4MGd8CvKzl/THTY4jco4paGA6JL6H2WPRQcZF1a9NwOJaakRYKsAvgZ3aFxCrDkpewvshqhenxogwkrWdDO/zacvctJuTncesI1Jf6iILwRww4xo85qjnIlVOLLbfnthQOe94th9NujbJKQ8OZzDfGqBJnynZEs0GtqnZIufChPjhCK/AnH4jCz320FK69N9/woMGUjr5Ins0kkd6ZY5ZVDVJX8CHv3iY3TooBj+lTfRyRPUMQnldoNkF2VP/Ic36M34Q06Y6t2+Gv7hWLa+QdrWue7eX6J62kD+EL/1v1RcFIneDDBqIqPfrTaF8vU25pdMOg2EcLj8E=;kV5E7HpTKKJL0elSxoCiTQ=="
+secured: "aP7yTjpTOTP9stqaG14oxCqSBuG7Iw56ww70nTYhaU6X5EW+bWA8ANGNc7WAWtSd/iq4aijQLWGakuDQndyKwwucf37Liq4JinNIK/wfacGXtXOVpyfxNrBuQBFFBcvanq3j4OslqEEBNFHQQeGJTxyYv58bWcYDutvINrDWQillww9vIHt8/okAfhJHx7jKX9qLJARImu8bHu+Hlyxbyluqwj0ukgHVerRUMUMaGk/6lsv4swXqccbNzMJvgM9n30No4ZMAToT/wMFh0j5/rXLnUE7wUIcNUnRscaUk6tiCD/AgtNQ6M6i8ENxl5JOTSBavUaMcMu7Tiz8D7Q7DUUH8jpg8vlZzeQWDp4Y5QeQ=;jbHRIoLatmFApRYvJ33ibA=="
 ---
 

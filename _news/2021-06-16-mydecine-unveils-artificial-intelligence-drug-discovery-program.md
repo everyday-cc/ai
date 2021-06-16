@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Mydecine Innovations kicks off machine learning-based drug discovery program with the University of Alberta"

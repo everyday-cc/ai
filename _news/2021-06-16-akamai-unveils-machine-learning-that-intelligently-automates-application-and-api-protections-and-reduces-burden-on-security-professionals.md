@@ -1,30 +1,25 @@
 ---
 category: news
 title: "Akamai Unveils Machine Learning That Intelligently Automates Application and API Protections and Reduces Burden on Security Professionals"
-excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today"
-publishedDateTime: 2021-06-16T10:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-301313433.html"
-webUrl: "https://www.prnewswire.com/news-releases/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-301313433.html"
+excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen protection for web applications,"
+publishedDateTime: 2021-06-16T10:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-1030527210"
+webUrl: "https://markets.businessinsider.com/news/stocks/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-1030527210"
 type: article
-quality: 38
-heat: 38
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
   - AI in Security
 
-images:
-  - url: "https://mma.prnewswire.com/media/384815/akamai_logo__002_.jpg?p=facebook"
-    width: 1498
-    height: 785
-    isCached: true
-
-secured: "/dPLR+qUMon6pWIb6M5dPKZpuvdlFP81oiWP2aqeSj/yrcycJ09Fxu+xZGR+ld7l2/Rds/Qif633hoJNNHEhOqJAYANwBCzhz4J9A6LCMMFgNDawXRH39Roi26IOI+aIfNtQzfU4sTxEel3eEtVatxsx8Pt9mT0IPko187pqdcAoe+9MubhjXPBthtSGaE7CzUcgOpLKkWAwPqyUKpbCAR/sqXwos1s3+SeLcNIbP4j9hltwl2sF6G/n91t+tYNykDejOvmA2SIemk81ekdTCKxpDt2p/JFdf/6lWrsG1jry0QRdzXlsLVJqAxkSCQer9BFyHD2tskoMRkvvb8OhMUvg7+HwCMsD2Bf0lZbViT132Eu9BhxS9dBChrbL5cFBhF7w/bWI8j9cRXpAisl2ViMzAN93R7NxqxMSFkEQD/c1YvHL39pWAmTf6EXua4diwV+dh5Mp2oYCfYNWtnzge4sz64iTe0/woMTs+2Nx/KQK+yW7Yh+X2suueyE+sJ+CvD+ZLwhbFt4j8RMB6/rr0Q==;SHsKjApyTjLDbVTyQ/H+7Q=="
+secured: "OvXQhbT5cAJPJoV51hXNTBPnwW3C0o6UpofggxDqyv2+ffZpkoUcp1idXCgnaWlNIitYtxpzl+0V/5FQb1d7uXUvb3mEJPJFJRDtIlvu+Y7Hke91O1lVr+1ED+MSsYYfV//SlJRXqD1Kpw7GEiXWNTsldn27H192CWNVRMbj5MKqBzw5B8SQ40J62zELv3Vd4UJnqyzKUHWmKsC7Vmt8PyWjXc6+6LJ2Fi+O6J8eGVHttdAZyRdQtHb8ERhTi+GUtw7Ua/11GS1guE9Ltc1o3Qe6ZZBMK35ESeVpyraqZhov75uUkpQ7naxIkYmZrE7uwbMQG3aW0CGk6FSiuY4teh3/B3Dh3vOGU+yN6lrsUNC84bW9VIhix3U7EXJEND3+L9HQTKpOxuZwE0JHwGAnQ/tCScwuMYtUX3fp1UnDd9iHQfYma9yf/3mQTcP6wvmr0Pz3ppwr8PjHND0War5PfDOAHQNjt0shonX/AyjB2YLKq65EFOuOCRrnaKyh8CmKKREjDCfCkn7NVWn3aV1dBg==;KR+E9qq9/EHQJdaw4De7Rw=="
 ---
 

@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook"
-    width: 2700
-    height: 1413
-    isCached: true
-
-secured: "T2xGrH4OmOcamNWTG3S/0r4Uaw0fqd8ZU8QttrhrNzB3ewHWJyzsZwOGr1W3U8cLiFE2ggC/qAtvhOzTZl/70/g++CTSa2JKN8H1/uliF0/skyJgQKMGc9OcuBbBhM4HIJPrtg4V5aaf0iO693XoxvSGnMT6RkZtt2lUHfXd3pI311FP04gIInCNuCGFj4jOQLLfV7D7cWNPcS5r4IXnmQOBtYAwM/CD+2KwbRQDEl7ZX7POx4zPlWHv0aWx7eW42aIzdCT+r55DijsnSqbMZ7g+EfgV/wWRCqS7FX/bMtY5A536G94J/Zr31HAZsfkl/q6/3tFEp14driC7gP8WBDca0S74XOvKTtiiQhLiDZs=;+en/BSwh0yUyVTqKXZHV6w=="
+secured: "BdTVMaRYwJbm1MKQM4qT4bBf1ktB4xzK54vXG8f18mqvIUG92zEEVt0gqtq9Ovh8MceRjaCK86oH9G8NTPzWN4qsOxdVNDoQG/MrJjTfdrr6C5qNFgW56CWNiU4eMKHMVyU+ijlnEBSjpcSMSC9haiN53VKuqhkOuCpxtzMWDWrcQ/RMsS2o/dof22n3VF/QpMtv0KVALJSRFG70eeB0eE18n+7EWicbBjd6jRc4Khpl3zFOFrhDd2H0TDXoBTlFMTYst3VfwvLDRT/On54Urx58cEIYhppYevxKgpFRQqY+09Qng1t/EahLIenTIURxOF52IotoTelbCW0+GlUCCcgAPFPvEqHP8H8hmyYwwfk=;17FunWrYC9bR7Mjo1vQ7IQ=="
 ---
 

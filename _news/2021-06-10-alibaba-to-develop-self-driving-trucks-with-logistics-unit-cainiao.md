@@ -5,8 +5,6 @@ excerpt: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HAN
 publishedDateTime: 2021-06-10T04:27:00Z
 originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
 webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
 type: article
 
 provider:
@@ -21,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "phNGCryzDX7bQo3/KmFRdo3DJGJUOmuN5a8GuKG7uE4YGxkXEhMxn093qX2o8C1uDOKyFrR4B/lHXCUReIGmjAz01DOP+FCtI22XW8zQFO0POnqhm4j29Djz80Lpe6KlSg3l7feOVm8aAMtLTVZZm2h8H7sV32NFzOmaIGOlCU6Mn1z740WbacQSGt72l3yPKaWqWPzKTohb0QJxg7Cak+f4vdCgwH45LSzc8g21j61b0BNlQheHUomoH4VrhbcIKputPdo+4d86v0zD6KJBXbqGokdEKitOT1i9/RSHOf3TZJvFFnNf9lCZmNs60xvfUc9oBEsAG9k8LG4+M1LeG7QmHXfY4hjYQxZozaQAk/Y=;SX79FWVV1a/lSwOfYB+vPw=="
+secured: "npGbyQumNtnwUmnHa2EVYulz6le67VHYERrO2T2qoZ89isuY6waZP1mJI/jO1Dt7QQorV7A8zpNu37rrkcgRYvlSaf7f1RqxuVLBH04R6pNknIITSvh1dquWooD9WpdfBVRXcP9qV14U1+iQHyvhTNKg3ZxiMFeFfGSWl8hfn8BE5D5ygmC+mAB92xb6QIPrOYkEfyGCE3hiyskVmFIMUSZshuUWDa3XLrX8oTZuMwnjcNnGlVCYA3R5ODZrJknLPwpE2B4VMixz5iXMwsWRbAGb6MYZt4yAp0AMzZSCzynGV0r3LyiujxsftjiRvgAeSMcifAeSfNPYU0HGSsCB3fIGmdV7aIu5mSir/XpSNuo=;CJRYwAt1bI++eoGAeKg6/w=="
 ---
 

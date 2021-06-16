@@ -1,30 +1,24 @@
 ---
 category: news
 title: "ManpowerGroup Returns to Viva Technology as HR Partner, Showcasing New AI, Machine-Learning and Data-Driven Predictive Performance Tools"
-excerpt: "PRNewswire/ -- (NYSE: MAN) joins the biggest names in tech as HR partner of the world-famous Viva Technology (VivaTech) conference held in Paris and online"
-publishedDateTime: 2021-06-15T13:23:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data/article_dc6cc4e1-4fc9-53da-a662-088418d8f936.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data/article_dc6cc4e1-4fc9-53da-a662-088418d8f936.html"
+excerpt: "ManpowerGroup (NYSE: MAN) joins the biggest names in tech as HR partner of the world-famous Viva Technology (VivaTech) conference held in Paris and online this week. ManpowerGroup will share innovation that improves people's lives and solves one of the world's most pressing social issues - how to provide meaningful,"
+publishedDateTime: 2021-06-15T15:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
+webUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 type: article
-quality: 8
-heat: 8
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/83/483c9309-6d7c-50bb-b666-954d8e6a9ea1/604ef6669f076.image.jpg?resize=1159%2C630"
-    width: 1159
-    height: 630
-    isCached: true
-
-secured: "RWHi0IP4iTBy+sWbR39SKr3ULNmJUbqcB4hiPa4IMqJ2ArUL7pESgceJtchJDQfWzQi2aUDI3hrXaKPrOK6sPPqhV6SGcbsYhcmmWur+BFTbLFLMUjJkt+NhQ4/ubi82eSNTpU9cV/01r6Ju7SnBt4HmN/mJ0GHX1vjzHWZq91KZVlxHavA8mgdj9x+idVv0Kn/1M4s1DerRCYpOEy0svcbTApU1+0Ubc69HZP634nisWXrFFtck1kjFb6BJve6cXDmm+IQFeh1yIRaqLYp8XpwTnGHB2MnKrzDuEP2q2kgt1RLnpXYAohSiFiktG8WJslvMmowbSS3lwiIlm6b3UXK826SupITeTf9n5N6IWHtU4cDo6iaphS/dJhanyOSmOBBwYrfC83HhiHJ67e+nh/sKvtPt2vvieXjIC9aeBvGtwmOrwG/UYGMdq7/Bc2TO4z6PNxjbhrEY5+hHD+zdD0muC+yelCRHuW2o/+3CaXSUWhJLe9hVI2htpGze2jR4gQibFQgISiixhaOiXg9yfw==;5pXsjRsnwrTNiuRVQBOJkA=="
+secured: "ud9NXXpKBo20Mt8MszvXNDOS3KcSYbHn5+YgSZqMMeo9X8cDfxXr/C6QZopMOAdUogu6P9TurfLpCh18wKgZTHQE1vg0aES76e36tVP9hfy7+A3Z7EtI4Yn1HzqHDIbb/Kxx/eljFCeI6t7Nmj9RMoXh8ECbrNs7KQzoVZifmBDZB0+wTjhpu6GnJZVrRHknFBiGC4QAYxOJykZdCkDqAlBvN0AwZzxPam0RbYWXt9nU/1I0Ym69wZBiRxphBy3y0Q2pbTytt3UA5LU6xUWKce/kvxGzfJvjOv5gOr08noYJdOWr9wz7DdoLhkVATPY++iwAELFtJugM0r1SjYI/f3Uz2w5t1i9o5wJIvXgB0CWOQpLwi0qsqas4B6/70UPGmKr5ssaupXbbKJ/hKRWB2iJI2BnNI/xqgyR0N1YfPeD7JmJuMVV5cQv7QnZxYiR9t3iiU95XgBC0PHTXDgplc8Mjzw7kVvsKdJIWjz434nRIaTB1iJL6T8WB9Hk5XM5pQVGEbwAyc9rD5k2orGfa/Q==;DatPVGbxNFBx9FBFB0UHCQ=="
 ---
 

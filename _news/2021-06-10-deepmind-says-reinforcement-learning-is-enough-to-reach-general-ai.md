@@ -5,8 +5,6 @@ excerpt: "Scientists at U.K.-based AI lab DeepMind argue true artificial intel
 publishedDateTime: 2021-06-10T06:40:00Z
 originalUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/"
 webUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/"
-ampWebUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/"
 type: article
 
 provider:
@@ -22,12 +20,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all"
-    width: 800
-    height: 400
-    isCached: true
-
-secured: "yUz+1Sy5jExLOPwwc+eEqcUauUZl/WrWPRhsenWGoz38jqgY7Xk34KGsJSeSuOt3Y6DCOQSToEJE65rqb04BOSUjUbNb/BXsVbpxb8WUDRAfuqflYEZgZW7R1uG0shItYIUcnO9urSEUAng+PXNBgVcjui8qfhp65Ch5anLstcEp5Vu8OpnpKndgnatQGi/aMIVShF+e+pDGZs3ro+ebIGyVESCSw+sz65bSDmgoQTnnkYqelGdnuLT2mzCdcwjY/dXRz6X3WMeqwYnGhLKEJq0LnOBf7J22iIjUM/bs9ocFLVv/EzqgDqFSCOv6/73LDuoaoI1iJMJuRMVfX9nuaW4mj63X14GYIBbspij8uec=;GESKQqYqwJEWtxIemqdoVw=="
+secured: "6OPzZ6750QFYZMSrpj0endK7LnuYCcUFTK0Sa1dX0Ti5N2StSh1NI3gW9bbf3F2Q0NMuqUw1OHdYBwNw0sXBzyKwJBlxCXwn0dqT94Px/nJf+rDZcZm0jaWzguLcu2sXOzj2fvYOvb3sqdomYtF4I+sBSRMuWES0i8Pb8LoC+f5+rcLjJDxIEshTKjFTGKvElx6dLEF2nEGrZHCo+xlJooQWMWZfEI3cBJLzPZMsYqygXD9/Z02RXA6OqDwgWHRYwOatTEHr+FJob36IOLRzp8ml9PsKqGJEo6DPYAdtBpeOEcWDNXKfRc8FT9sWAmra3LShhIT6PYoxV+qf5kHCwXQ54ZL9ACxNUqLu1O7Jhe4lnxqi7smh+FR8aEsV8eufMrThX1zTmcQbfyz/6V74n0DrZmleBF4TVop/gEMu9rTgWuLOoXRaMfObbBH4aTADHDEsjxPUkqUARJGOI4UHmOMPkxqEkdmcjCzdugXKtrQOdHkE0fHoZNmJ/KlCq/kJb7kfsitJtU7MC/tTK7eMsg==;dFFJ7BNCsxM/rqNzA/y5sw=="
 ---
 
