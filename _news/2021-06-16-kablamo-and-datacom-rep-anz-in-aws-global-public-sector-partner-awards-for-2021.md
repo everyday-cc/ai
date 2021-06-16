@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kablamo and Datacom rep A/NZ in AWS Global Public Sector Partner Awards for 2021"
-excerpt: "Kablamo and Datacom have represented Australia and New Zealand as award recipients in Amazon Web Services’ (AWS) Global Public Sector Partners ... taking home the award for the most innovative artificial intelligence (AI) and machine learning (ML ..."
-publishedDateTime: 2021-06-16T05:39:00Z
-originalUrl: "https://www.arnnet.com.au/article/689123/kablamo-and-datacom-rep-anz-in-aws-global-public-sector-partner-awards-for-2021/"
-webUrl: "https://www.arnnet.com.au/article/689123/kablamo-and-datacom-rep-anz-in-aws-global-public-sector-partner-awards-for-2021/"
+excerpt: "Kablamo and Datacom have represented Australia and New Zealand as award recipients in AWS' Global Public Sector Partners Awards for 2021."
+publishedDateTime: 2021-06-16T05:59:00Z
+originalUrl: "https://www.arnnet.com.au/article/689123/kablamo-datacom-rep-nz-aws-global-public-sector-partner-awards-2021/"
+webUrl: "https://www.arnnet.com.au/article/689123/kablamo-datacom-rep-nz-aws-global-public-sector-partner-awards-2021/"
 type: article
 quality: 34
 heat: 34
@@ -24,6 +24,6 @@ images:
     height: 462
     isCached: true
 
-secured: "rHy0KYwUEGgGQA17ajEhE0m+uZNl1cUkldH3kpQqrlGRP0krXub7I/iLEnLO+cXyXgjWfhJ9N9tMGJSVPe9zpL3ZqBUlMEmCyYOIEfMMCBDNRM12DuW+il4IOwYAkvt/hgHzTWpcr1/bcdHfXCaXFoD7BqcT6vVbXLS+ylx0So91eDbkKQ/32ERkMoMYpUfuK75j4HjLGR4QUj5ODmKCxDrR8VTgGuTQISL7mXFC1WDA1leF5JE54RwE+cIbPwjtmHODgVkt8l8qb5h4leY+pskgYIj1CjWDnwO1tCszucu7i6YuUWj81Iq+4IUDlCeYunA5jccb9IUULblCTlnRIc+9CmA25ALBeetoq6VqAho=;d9MU6evoAKgo2JxfYNHPCA=="
+secured: "GrGCS+hVOWHIwsoN+qQJXMDceLVP7ATwU5wqeD85N7CaTy5NKSHBCVTDKLGe6twIBfq0cC4LvGfDNKngPah6vrpxO5XOIM7taSPa/NfFXjSXsfaOZQZdMgJI6ez9LiF64db+1EIi7YHj1OV4Q8aTFmOjy+v5f8Mcf8FEcTIpa3ZDijZ2QzTV+RXaVnao71+EMBntTO5SWa9YX/1MZng+lR1k4LBNSBzp4SnwlsqWwmbQ4Tzj9Vnoxox7Tj96JT/PHoe599iMa7U4qs6JSso8BGU1JhkWmySN1rTk0mqmAqFDjTj/92wAugtQo1tx8AZ/ejshnHAGmS1iXL1oxtFtBoV1ojoI7xUbRK0DmWBfbP8=;j1SzYjJMmkPlpUADOqe20w=="
 ---
 

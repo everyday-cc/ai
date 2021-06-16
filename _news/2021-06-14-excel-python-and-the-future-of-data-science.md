@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3620913/excel-python-and-data-scie
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620913/excel-python-and-data-science.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Artificial intelligence and the McData-fueled future of capitalism"
-    excerpt: "McDonald's recently found itself in some hot water over data collection in Illinois, but there could be more to the burger company's AI ambitions."
-    publishedDateTime: 2021-06-14T18:56:00Z
-    webUrl: "https://thenextweb.com/news/ai-mcdata-future-of-capitalism-mcdonalds"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F07%2Fmcdonalds-porn-wifi-e1623696012602.jpg&signature=9a8d14dc890cddbcbc40e39eea606a2c"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "ofS+pm1hROSKL/BY3GDPLwD7btARO/qt1s59Xt3zW57tdD1xJnybFD8SmrXg3EdplJVM3UZ0Hsz7o94ylHdCc7a13ksPWCU+9aK9B3XGAE2ej9xNLrs8+03f94T17QHzwHNcx6V5r/oZN++bzs8EG6ECxuajsx7rrEEv2HvPxBDNyWF2G0Sc8g9qi6zCokS8DT6lkAoEF+vzFINr1SWVAwtnXz7PYFZmnwSC4PluG7o1JNuFJNZgogB7Jx7XNHDRFkLHlJghch0XVRjiaYU834XfsWoTNorUchr7w0S/Pl+YXcF/dqPuYWhLIK89lYGH6nmGSv5LBtJIqvSHSMomeDAeQSrmX7z2+OhaA6Rohnc=;6ueVtpcl/eADDyU8/0GIZg=="
 ---

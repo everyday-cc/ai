@@ -2,57 +2,6 @@
   "page": 51,
   "value": [
     {
-      "path": "_news/2021-05-07-five-ways-to-protect-sensitive-data-in-your-organization.md",
-      "title": "Five ways to protect sensitive data in your organization",
-      "excerpt": "Organizations collect a tremendous amount of data from a variety of sources, and any of these data sources could potentially contain sensitive data. Data is often relocated for warehousing, reporting, analytics, storage, testing, and application use. Data or AI models could potentially be copied multiple",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/protect-sensitive-data-ai/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/protect-sensitive-data-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/Five_considerations_V1_2000x1006.jpg",
-          "width": 2000,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-07-the-autonomous-vehicle-world-is-shrinking-its-overdue.md",
       "title": "The autonomous vehicle world is shrinking — it’s overdue",
       "excerpt": "After years of positive vibes about the future of autonomous vehicles and nearly unrestricted access to cash from Kool-Aid-drunk venture capitalists, the AV industry is confronting some hard truths. The first is that autonomous vehicles are going to take a lot longer to reach mass scale than previously thought.",
@@ -1163,6 +1112,57 @@
         "name": "FedScoop",
         "domain": "fedscoop.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month.md",
+      "title": "Artificial Intelligence Identifies Netflix And Facebook Among Top Stocks For The Month",
+      "excerpt": "Q.ai's AI systems have picked Top Tech Stocks, Top Consumer Stocks, Top Quality Value Stocks, Top Growth Stocks, and Top Dividend Stocks to help investors make the most of this month's markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60942fe187880209a11c4392%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/",
+      "publishedDateTime": "2021-05-06T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

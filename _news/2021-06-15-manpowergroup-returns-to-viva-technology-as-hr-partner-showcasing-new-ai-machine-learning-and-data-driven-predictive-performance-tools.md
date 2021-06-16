@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-retu
 webUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,38 @@ images:
     height: 217
     isCached: true
 
-secured: "yFjVEQltU5ffk0BSBczFoYkgoRg0GCix+26QDFVDcUj3VC2I2A42gHHi/sG9qw/MdRRGSwVScibEh0+8Et7hmJ82DyUX0vZW/0FUpGQSaRO6WtVhLAF/DIbpN5XhTCD693Gl8aqpaJHPTpc7uy6OGlfFpsQz/mRE9JvMBdpYw2tfKklCemeWrfj/WPiuQQo9ExSojrb/jBno931cpkANHVbxTM3I+9pJ9inSia13eWs7ZovTLnZkBMw/Uy3xXDL2ETefbrOg8RolfqVQFo3pO8vnhP16Kw8Rs19TLIx69t7tC4zq1RhWXzCq7VNDp29zK1EYTZD4YHmYdxOu6kekAkm0nvzpyWAcubOx9vIAkrE=;FmDKE4cQuky+vjwKq4eCtg=="
+related:
+  - title: "Invention uses machine-learned human emotions to 'drive' autonomous vehicles"
+    excerpt: "Americans have one of the highest levels of fear in the world when it comes to technology related to robotic systems and self-driving cars. Addressing these concerns is paramount if the technology hopes to move forward."
+    publishedDateTime: 2021-06-16T06:08:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 41
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/invention-uses-machine.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
+  - title: "Motion Grazer uses machine learning to assess status of sows"
+    excerpt: "It's not quite up there with \"what's good for the goose is good for the gander,\" but Madonna Benjamin, a former pig farmer in Ontario turned agtech professor at Michigan State University, hopes there will be a lot of revenue for her startup,"
+    publishedDateTime: 2021-06-13T04:12:00Z
+    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/motion-grazer-uses-machine-learning-assess-status-sows"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 39
+    images:
+      - url: "https://www.crainsdetroit.com/s3/files/styles/800x600/public/MGAI%20Madonna%20Benjamin%20with%20pigs-main_i.png"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "VWrtFCoN+GDmpTpcIO/ncJ9MwTFB1jQwhSrD8BYfzDJGVC9sFoNvJH1V2b2jKaf2B7YGGgOTX2jNV3jaW4j9xG1NjB2UU/tTJdVOq1uHQ0Y7OTa68WquEga6eAQ1iCr9KzXdnTI8ozu9eG1oyOTq1mOU1qtj+NmpGfgkU4UaIIpiD972wdKcH2OiMiUePr0Wnu7FWHr3nLbaGAqjprCtZsCmc3/XZmAqrfSbb3cIqn7mL/AKck2YxviqX6MTogjuP98lUWz2U+0dp7phywGzokMRArrklGIJsz14g347BaZZrZ2QNZ9gQSOaXLLXyGmp7EsSwlonS1lJJD3DB4zEXhk8gpUKvDyTlHCmhc6MSQA=;JxmV9EMGLyCGV9Aq8vUOpg=="
 ---
 

@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models,"
-    publishedDateTime: 2021-06-11T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
-        isCached: true
   - title: "AI in Drug Discovery Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020–2026"
     excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” AI in Drug Discovery Market Report Analysis 2020 by Size with Future Prospects, Key Player SWOT Analysis and Forecast To 2026 “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
     publishedDateTime: 2021-06-15T09:47:00Z

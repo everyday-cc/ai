@@ -29,21 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Excel, Python, and the future of data science"
-    excerpt: "PyTorch, TensorFlow, Python, R, and much more. But the most widely used tool in data science isn’t open source, and it’s usually not even considered a data science tool at all. It’s Excel, and it’s running on your laptop."
-    publishedDateTime: 2021-06-14T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3620913/excel-python-and-data-science.html"
-    ampWebUrl: "https://www.infoworld.com/article/3620913/excel-python-and-data-science.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620913/excel-python-and-data-science.amp.html"
+  - title: "NVIDIA and the battle for the future of AI chips"
+    excerpt: "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field"
+    publishedDateTime: 2021-06-16T05:00:00Z
+    webUrl: "https://www.wired.co.uk/article/nvidia-ai-chips"
+    ampWebUrl: "https://www.wired.co.uk/article/nvidia-ai-chips/amp"
+    cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 74
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 80
     images:
-      - url: "https://images.idgesg.net/images/article/2021/02/conceptual_trend_lines_data_tracking_monitoring_analytics_forecasting_future_whats_next_by_solarseven_gettyimages-1213574690_2400x1600-100877726-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "NVIDIA’s Manuvir Das: The Future of Artificial Intelligence in the Enterprise"
+    excerpt: "Manuvir Das, Head of Enterprise Computing at NVIDIA, discusses the current state and future trends in enterprise artificial intelligence."
+    publishedDateTime: 2021-06-11T17:42:00Z
+    webUrl: "https://www.eweek.com/news/nvidias-manuvir-das-the-future-of-artificial-intelligence-in-the-enterprise/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 64
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/06/manuvir-das-thumbnail.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "VyhbYcy0LUyc4iNCNN0OMhXGyX8z2/1q5RYizbIK6A7/oI6Swae8jOdnaNSUn7Lpw+MSAulqUVsoId5ehEx6OZbI4pZYY575o1YQ0ZN3mHFkE7vBAoGL2uNFNGbmBHh/9pgJxX3cN7k0Jw8bws29qoz1XsoFFMnqgYrDHnVdjCdXVWGRSxROowa7VbSJevtnUgdwdQxHMT7wJZ8PnV6bTRO8HWKs+5FtuyP1NRn8K5oPJeKG0FxoXW7kdVJR17yZylsJnWLIMXQK5XmssoqhRmm67k422/WABjWrBQg8mgPaDZb50yeZWpBvBMJ6F3ZPfIkfQWIHY13Cx4y5eDOAQsKW5JMvmDhhkn9yPL8vEXz7q+MUFV72snp9orsGsttJqKcSS1LOw53xOL2Ix/f9/Q5Tknsdpp5N/kGS/3pT70CCKLUwUnv3p/hfPYKAooXWn8Sz+BR2dXfXplOEvLcnB8LP7L4b/c67PB0WKdTEyUPRokuSA3nJM+sUGrpAtadxhhFBFvaj2Xs3+EN/Ragb1A==;V37fkFMuPc8TbMk4OYwCcA=="

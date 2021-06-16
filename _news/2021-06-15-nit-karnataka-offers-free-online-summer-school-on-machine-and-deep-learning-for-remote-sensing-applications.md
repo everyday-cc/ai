@@ -59,6 +59,22 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "IIIT Hyderabad Offers Online Course on Machine Learning for Engineering Students in India"
+    excerpt: "IIIT Hyderabad has invited applications for an online course called Foundations of Modern Machine Learning for engineering students across the country"
+    publishedDateTime: 2021-06-16T06:38:00Z
+    webUrl: "https://www.dqindia.com/iiit-hyderabad-offers-online-course-machine-learning-engineering-students-india/"
+    ampWebUrl: "https://www.dqindia.com/iiit-hyderabad-offers-online-course-machine-learning-engineering-students-india/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iiit-hyderabad-offers-online-course-machine-learning-engineering-students-india/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 50
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Technology-Futuristic-3262753.jpg"
+        width: 736
+        height: 400
+        isCached: true
   - title: "IIT Kharagpur Offers Free Online Course on Machine Learning That Can Be Completed in 8 Weeks"
     excerpt: "IIT Kharagpur has offered a free online course on introduction to machine learning on the NPTEL platform that can be completed in 8 weeks"
     publishedDateTime: 2021-06-13T08:52:00Z

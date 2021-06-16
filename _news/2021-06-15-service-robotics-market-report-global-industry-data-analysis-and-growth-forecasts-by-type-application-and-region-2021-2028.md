@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2021-06-16T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How New Artificial Intelligence (AI) in Retail Can Adapt to an Evolving Market | Amazon Web Series LLC,Google LLC,IBM Corp.,Intel Corp."
     excerpt: "Artificial Intelligence (AI) in Retail Market” Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
     publishedDateTime: 2021-06-14T22:02:00Z

@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-06-08-newtown-fitness-center-offer-ai-robotics-technology-based-workout.md",
-      "title": "Newtown fitness center offer AI, robotics technology-based workout",
-      "excerpt": "Using robotic exercise technology, a new Newtown fitness center, The Exercise Coach, aims to speed up workouts and boost efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buckscountycouriertimes.com/story/news/2021/06/08/artificial-intelligence-robotic-exercise-technology-fitness-center-newtown/5094535001/",
-      "originalUrl": "https://www.buckscountycouriertimes.com/story/news/2021/06/08/artificial-intelligence-robotic-exercise-technology-fitness-center-newtown/5094535001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/01/NBCC/247017d9-b282-4dd2-bf88-bda1e8ebae19-exercisecoach.jpg?auto=webp&crop=4175,2349,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.buckscountycouriertimes.com/amp/5094535001",
-      "cdnAmpWebUrl": "https://amp-buckscountycouriertimes-com.cdn.ampproject.org/c/s/amp.buckscountycouriertimes.com/amp/5094535001",
-      "publishedDateTime": "2021-06-07T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bucks County Courier Times",
-        "domain": "buckscountycouriertimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-08-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
       "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
       "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
@@ -1146,6 +1103,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-deepmind-ai-taught-digital-people-to-play-football-from-scratch.md",
+      "title": "DeepMind AI taught digital people to play football from scratch",
+      "excerpt": "AI taught digital players who start out able to only make random movements how to run, dribble a football, kick it into the goal and work as a team",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/",
+      "originalUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/06/04224524/04-june_football-ai.jpg?width=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/",
+      "publishedDateTime": "2021-06-07T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models,"
-    publishedDateTime: 2021-06-11T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
-        isCached: true
   - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
     excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
     publishedDateTime: 2021-06-14T15:12:00Z
@@ -92,6 +78,6 @@ related:
       domain: ksusentinel.com
     quality: 2
 
-secured: "5h0yAdYY1T5DsznQKae+YLUW+MoBbutSS8Lr9a3Mfrd0Y1lOd/yCotkj5UMaTWT9ywUC9Yj0RNwdRR3bqgFK/ipW/BNC1DRf32TipiemY/2ErotiS5qHeqe1baSrId2v5VfWJswHHefGxrnn2YIhQbyzJstQw4Rs5QUsNViRVV9AOGhWTBYzw6i+lbm/SWpw/+aVJcQgn9XOAp7NTRhNm77gOQcSCy/cS6gHH37sJrMo3wY44uPzzjffHBmfngrHkAylSisJ+oooeJB7gBxuw81Ut48Z2drN4F5Ey7hDzB2KAgoO1JsAQKRWeCcfn2QNkeIwYWE/lqcR+8phCC0aL8LkPgoXkyt2Uy2KqGcxNU0=;ecveK6ScNuOxsX1vvyYegw=="
+secured: "fstNm/lZK7Yq3jcpopw/xlPlb7/cHE/vWQDGBvoa1ji305Ii6K4Na+lCWWOubEVocf5DwAh8RCsI9LIuwTCaE+BKzVyEr3QP9ZqwqdBL3R2IZi5NicyehIizO8108QZl7tRJGy41FyVhTybTtxFiO1JSqofxu6Ej/pYyc75ebKOzN9r3Pa85evKMr8P/yLkZGKWPDXc2PpfWeu3JzpA6BNiRyeCc7EINjtV0wlxwProABzxqyjGdI8GQgPMkmSRYc2ywxRlUC031AhD+fb+rRNjHD9Xoq2Z7SU/Xe44blW+xs09lh1aV12N+0/fhszKotq+xzrAc9G0P+MIG/ObXN3NTZR5KGl08fJAY1WF5jZTlEKr7IpsWTRoXBRxmnZTvaC00QSTViyDMMiD7uiHAhyI4SoeqAsuSR7aK8+5EGm4iOrVQiqz9JDD5s4WnpzC7XqzV1zAOXoRAUNdJXitPb+ghrnT9IhfQ/nOI3z0SkzxLDAGkPvxWwqY9iDiqe5sOuR+3HnEMIDhfpT7paGvo+A==;ysRzT0pfalA3D+We5rbLwA=="
 ---
 

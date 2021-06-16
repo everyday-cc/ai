@@ -37,6 +37,15 @@ related:
         width: 620
         height: 370
         isCached: true
+  - title: "Facetech Holdings Limited Receives Further Funding for Its Facial Recognition Technology"
+    excerpt: "Facetech Holdings Limited has received funding to continue its research and development on its next-generation facial recognition technology.HONG"
+    publishedDateTime: 2021-06-16T05:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/facetech-holdings-limited-receives-further-funding-for-its-facial-recognition-technology-1030526501"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
   - title: "Baltimore City Council passes facial recognition ban"
     excerpt: "The Baltimore City Council voted overwhelmingly earlier this week to pass one of the nation’s strictest facial recognition bans, which not only prohibits law enforcement and municipal agencies from procuring and using the technology but also bars private citizens in the city from leveraging it."
     publishedDateTime: 2021-06-11T15:26:00Z

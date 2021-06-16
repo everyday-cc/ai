@@ -52,20 +52,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "This Facebook AI can deepfake text style in an image even from a single example"
-    excerpt: "Facebook today has announced its TextStyleBrush AI research project. The new TextStyleBrush AI can copy text styles from images and effectively reproduce new images with the same replicated style."
-    publishedDateTime: 2021-06-11T14:16:00Z
-    webUrl: "https://www.neowin.net/news/this-facebook-ai-can-deepfake-text-style-in-an-image-even-from-a-single-example/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 65
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/06/1623430856_facebook_textstylebrush_examples_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Facebook's new AI text tool is incredible (and slightly creepy)"
     excerpt: "Facebook's new TextStyleBrush tool is an AI research project that can copy the style of text in a photo, based on just a single word. It means everything from handwriting to unusual fonts can be recreated with eerily impressive accuracy."
     publishedDateTime: 2021-06-15T16:31:00Z

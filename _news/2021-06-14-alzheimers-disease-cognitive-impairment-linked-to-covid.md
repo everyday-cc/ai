@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Study identifies how COVID-19 linked to Alzheimer's disease-like cognitive impairment"
-    excerpt: "A new study has identified mechanisms by which COVID-19 can lead to Alzheimer's disease-like dementia. The findings indicate an overlap between COVID-19 and brain changes common in Alzheimer's, and may help inform risk management and therapeutic strategies for COVID-19-associated cognitive impairment."
-    publishedDateTime: 2021-06-11T14:12:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/06/210610162405.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
 
 secured: "ZbUMalquCD1HJ2WXcXJV0zmuBextj307RzjGe9qkzrmwt/f5A6geVmRgZt9Bh6gOH6B773YTloOKcxqvXcawGxvb/dZH+FWLAgMZivBDUK1mUsCv9Mww2mOe7EJ9dvJQL1DzjAFv/ILdWyTmm4Ui43jFgLtobknI3mm/JS437y+5D3oXJFkvE1dpK5KeziRhSLLZlKUHGwTO1a1IxCeqzG+QfVoZv5Da/8gMxsrWBbuPiXZufqS1/iAiZv4tOXYZx70tFCt7yW4L/9pJJa2pE7paWJNyNl/qtyBGMFjOqYLQTSa3nZ8yzxwgtdgF7X9MDRTrh7msZWox5pgOfU1jf5LWZEkRBfm/Jsxo/8qKLIA=;osdk39p3UT1+g4YFSytEWQ=="
 ---

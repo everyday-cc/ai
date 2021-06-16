@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
 type: article
 quality: 60
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2021-06-16T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

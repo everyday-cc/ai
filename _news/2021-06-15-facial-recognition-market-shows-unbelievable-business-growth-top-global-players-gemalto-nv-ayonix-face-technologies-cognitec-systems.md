@@ -34,15 +34,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Facetech Holdings Limited Receives Further Funding for Its Facial Recognition Technology"
-    excerpt: "Facetech Holdings Limited has received funding to continue its research and development on its next-generation facial recognition technology. HONG KONG, June 16, 2021 /PRNewswire/ -- Chinese technology startup Facetech Holdings Limited has today said it has raised an undisclosed amount of further funding from venture capitalist firms and a startup conglomerate located in Hong Kong."
-    publishedDateTime: 2021-06-16T05:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-facetech-holdings-limited-receives-further-funding-its-facial-/2021/06/16/9391262.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "uMzzGWH1aX7+sgzUpuVzQHRUtx+Jt/j6rBCrPJ+DTHL+ELHx4xrbpwpOAdvbTh6OoQaEljWuouOBFeelxTnu1WDdKkC92ZUeoSPYh2dFxYDlcAM55U72UbpfdoPGokpkVljkpKVrv3J9IM9jtTYqatJUtruJE0m5Mnc7CptRT89p5MhxN3tjf/Fai/t0HSGYwdM7UBZ7frD3sRg/6hZlMjCkgwlf57AMA9jDGdAjW9PgD8UoEQ9d4djcMpwOLEvtL+UYIMH7G51kqpQ9X6uXXvnVQ/dxSwuLG3+5aW1fR2QkxYjcwi/geRW3LEr15ITeoAmXOzJI7uPr+D3x7X8guOVKR4J35X0Uo5sDi8NYTYM=;Abvyk9ri6/qG0lD+9ma32w=="
 ---

@@ -56,20 +56,6 @@ related:
         width: 400
         height: 248
         isCached: true
-  - title: "White House launches artificial intelligence task force"
-    excerpt: "The White House Office of Science and Technology Policy (OSTP) and the National Science Foundation (NSF) on Thursday announced the launch of the National Artificial Intelligence Research Resource Task Force."
-    publishedDateTime: 2021-06-11T13:07:00Z
-    webUrl: "https://www.fedscoop.com/white-house-launches-artificial-intelligence-task-force/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
-        width: 264
-        height: 264
-        isCached: true
   - title: "A new trajectory for life sciences tech as AI accelerates data sharing"
     excerpt: "Technological advances in big data, artificial intelligence and cloud computing have altered the trajectory of research and development, energizing and influential industry. The COVID-19 pandemic bolstered telemedicine and eHealth solutions,"
     publishedDateTime: 2021-06-15T22:53:00Z

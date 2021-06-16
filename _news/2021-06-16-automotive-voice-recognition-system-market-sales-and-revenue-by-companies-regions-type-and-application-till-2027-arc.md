@@ -140,19 +140,21 @@ related:
         width: 2811
         height: 1582
         isCached: true
-  - title: "Canada Privacy Watchdog Slams Police Use of Facial Recognition Tool"
-    excerpt: "Federal police broke Canada's privacy laws by using a US company's controversial facial recognition software in hundreds of searches, an independent parliamentary watchdog ruled Thursday. In a report to lawmakers,"
-    publishedDateTime: 2021-06-11T13:43:00Z
-    webUrl: "https://www.securityweek.com/canada-privacy-watchdog-slams-police-use-facial-recognition-tool"
+  - title: "US Lawmakers Introduce Bicameral Legislation To Ban Use Of Facial Recognition Tech By Govt"
+    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools,"
+    publishedDateTime: 2021-06-16T06:47:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
     type: article
     provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 39
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 49
     images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg"
+        width: 768
+        height: 439
         isCached: true
   - title: "Opinion: Regulate DNA Data, Facial Recognition, but No Bans"
     excerpt: "When police overuse DNA databases and facial recognition, they violate rights, often disproportionately. Policy should limit use of DNA databases and facial recognition to cases involving significant danger to society."

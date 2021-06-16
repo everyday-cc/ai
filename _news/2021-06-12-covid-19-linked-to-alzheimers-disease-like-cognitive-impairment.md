@@ -9,8 +9,8 @@ ampWebUrl: "https://neurosciencenews.com/covid-19-alzheimers-18610/amp/"
 cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/covid-19-alzheimers-18610/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Neuroscience News
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study identifies how COVID-19 linked to Alzheimer's disease-like cognitive impairment"
-    excerpt: "A new study has identified mechanisms by which COVID-19 can lead to Alzheimer's disease-like dementia. The findings indicate an overlap between COVID-19 and brain changes common in Alzheimer's, and may help inform risk management and therapeutic strategies for COVID-19-associated cognitive impairment."
-    publishedDateTime: 2021-06-11T14:12:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/06/210610162405.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
   - title: "Alzheimer's disease cognitive impairment linked to COVID"
     excerpt: "The findings of a recent Cleveland clinic-led study identified mechanisms by which COVID-19 can be associated with Alzheimer disease-like dementia"
     publishedDateTime: 2021-06-13T17:35:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facetech Holdings Limited Receives Further Funding for Its Facial Recognition Technology"
-    excerpt: "Facetech Holdings Limited has received funding to continue its research and development on its next-generation facial recognition technology. HONG KONG, June 16, 2021 /PRNewswire/ -- Chinese technology startup Facetech Holdings Limited has today said it has raised an undisclosed amount of further funding from venture capitalist firms and a startup conglomerate located in Hong Kong."
-    publishedDateTime: 2021-06-16T05:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-facetech-holdings-limited-receives-further-funding-its-facial-/2021/06/16/9391262.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
   - title: "Facial Recognition Market Shows Unbelievable Business Growth | Top Global Players – Gemalto NV, Ayonix Face Technologies, Cognitec Systems"
     excerpt: "Latest added Facial Recognition Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-06-14T18:30:00Z

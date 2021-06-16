@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-06-10-deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.md",
-      "title": "Deep neural network model can accurately predict the brain age of healthy patients",
-      "excerpt": "A study shows that a deep neural network model can accurately predict the brain age of healthy patients based on electroencephalogram data recorded during an overnight sleep study, and EEG-predicted brain age indices display unique characteristics within populations with different diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
-      "publishedDateTime": "2021-06-09T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
       "title": "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao",
       "excerpt": "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ...",
@@ -1251,6 +1208,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-artificial-intelligence-ai-in-oil-and-gas-market-thematic-research.md",
+      "title": "Artificial Intelligence (AI) in Oil and Gas Market - Thematic Research",
+      "excerpt": "The oil and gas O G industry faces many severe challenges The shortage of easily accessible hydrocarbon reserves forces companies to use remote reserves that are hard to discover costly and risky Moreover sustainability concerns are shifting demand away from",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "originalUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U609148836_g.jpg",
+          "width": 800,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "publishedDateTime": "2021-06-09T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

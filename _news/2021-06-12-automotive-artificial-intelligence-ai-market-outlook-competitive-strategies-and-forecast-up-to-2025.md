@@ -60,20 +60,6 @@ related:
         width: 439
         height: 310
         isCached: true
-  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models,"
-    publishedDateTime: 2021-06-11T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
-        isCached: true
   - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
     excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
     publishedDateTime: 2021-06-14T15:12:00Z

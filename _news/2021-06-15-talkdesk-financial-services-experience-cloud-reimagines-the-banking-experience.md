@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in Fintech Market Size & Business Planning, Innovation to See Modest Growth"
-    excerpt: "AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast \"A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
-    publishedDateTime: 2021-06-11T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth-2021-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "June 2021 Report on Global AI in Fintech Market Overview, Size, Share and Trends 2021-2026"
     excerpt: "Due to the high popularity of this product/service in North America and Asia, the growth trend of AI in Fintech in"
     publishedDateTime: 2021-06-14T10:47:00Z
